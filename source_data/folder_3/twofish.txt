@@ -1,0 +1,78 @@
+{{Redlinks}} 
+ 
+ In [[cryptography]], '''Twofish''' is a [[Symmetric-key algorithm|symmetric key]] [[block cipher]] with a [[block size (cryptography)|block size]] of 128 [[bit]]s and [[Key size|key lengths]] up to 256 bits.  
+ 
+ In 1997, the [[National Institute of Standards and Technology|NIST]] announced for [[competition]] to choose a successor to [[Data Encryption Standard|DES]] to be known as [[Advanced Encryption Standard|AES]], Twofish was one of the ''five finalists'' of the [[Advanced Encryption Standard]] [[competition]], but was not selected as a [[standard]].  
+ 
+ Twofish is related to the earlier block cipher [[Blowfish (cipher)|Blowfish]]. Twofish's main [[feature]]s are the use of pre-computed key-dependent [[Substitution box|S-boxes]], and a relatively complex [[key schedule]]. One half of an n-bit key is used as the actual encryption key and the other half of the n-bit key is used to modify the encryption algorithm (key-dependent S-boxes). Twofish uses some elements from other [[design]]s; for example, the [[pseudo-Hadamard transform]] (PHT) from the [[SAFER]] family of ciphers. Twofish uses the same [[Feistel network|Feistel structure]] as the [[Data Encryption Standard|DES]]. 
+ 
+ On most [[software]] platforms Twofish is slightly slower than [[Rijndael key schedule|Rijndael]] (the chosen algorithm for [[Advanced Encryption Standard]]) for 128-bit [[key (cryptography)|keys]], but somewhat faster for 256-bit keys. < ref name= " paper-aes-comparison " > 
+ {{cite document 
+ | author=Bruce Schneier, Doug Whiting 
+ | title=A Performance Comparison of the Five AES Finalists 
+ | date=2000-04-07 
+ | url=http://www.schneier.com/paper-aes-comparison.html 
+ | format=[[PDF]]/[[PostScript]] 
+ | accessdate=2006-08-13 
+ }} < /ref > 
+ 
+ == Creators == 
+ Twofish was [[design]]ed by [[Bruce Schneier]], [[John Kelsey (cryptanalyst)|John Kelsey]], [[Doug Whiting]], [[David Wagner]], [[Chris Hall (cryptographer)|Chris Hall]], and  [[Niels Ferguson]]; the  " extended Twofish team "  who met to made further [[cryptanalysis]] of Twofish and other AES [[Competition|competitors]] included [[Stefan Lucks]], [[Tadayoshi Kohno]], and [[Mike Stay]]. 
+ 
+ Twofish algorithm is [[Free software|free]] for anyone to use without any restrictions whatsoever. The Twofish cipher has not been [[patent]]ed and the software example of its specification has been placed in the [[public domain]]. However, Twofish is not widely used like the [[Blowfish (cipher)|Blowfish]], which has been available for a longer period of time. 
+ 
+ == Cryptanalysis == 
+ As of 2008, the best published [[cryptanalysis]] on the Twofish block cipher is a [[truncated differential cryptanalysis]] of the full 16-round version. The paper claims that the [[probability]] of truncated differentials attacks is 2 < sup > -57.3 < /sup >  per block and that it will take about 2 < sup > 51 < /sup >  chosen [[plaintexts]] (32 [[PiB]] worth of data) to find a good pair of truncated differentials. < ref name= " twofish-analysis-shiho " > 
+     {{cite document 
+     | author=Shiho Moriai, Yiqun Lisa Yin 
+     | title=Cryptanalysis of Twofish (II) 
+     | publisher= 
+     | date=2000 
+     | url=http://www.schneier.com/twofish-analysis-shiho.pdf 
+     | accessdate=2006-08-13 
+     }} < /ref > 
+ 
+ Bruce Schneier responds in a 2005 blog entry that this paper does not present a full [[cryptanalytic attack]], but only some [[Hypothesis|hypothesized]] [[Differential cryptanalysis|differential]] characteristics:  " But even from a [[Theoretical computer science|theoretical perspective]], Twofish is not even remotely broken. There have been no extensions to these results since they were published "  in 2000. < ref name=schneier-twofish-cryptan > 
+ {{cite web 
+ | last = Schneier 
+ | first = Bruce 
+ | authorlink = Bruce Schneier 
+ | title = Twofish Cryptanalysis Rumors 
+ | publisher = Schneier on Security blog 
+ | date = 2005-11-23 
+ | url = http://www.schneier.com/blog/archives/2005/11/twofish_cryptan.html 
+ | accessdate = 2006-11-28 
+ }} < /ref > 
+ 
+ ==Related pages== 
+ * [[Blowfish (cipher)]] 
+ * [[Advanced Encryption Standard]] 
+ * [[Data Encryption Standard]] 
+ 
+ == References == 
+ < references/ > 
+ 
+ == Additional reading == 
+ * {{ cite document 
+      | author=Bruce Schneier, John Kelsey, Doug Whiting, David Wagner, Chris Hall, Niels Ferguson 
+      | title=The Twofish Encryption Algorithm 
+      | date=1998-06-15 
+      | url=http://www.schneier.com/paper-twofish-paper.html 
+      | format=[[PDF]]/[[PostScript]] 
+      | accessdate=2007-03-04  }} 
+ * {{ cite book 
+      | author = Bruce Schneier, John Kelsey, Doug Whiting, David Wagner, Chris Hall, Niels Ferguson 
+      | title = The Twofish Encryption Algorithm: A 128-Bit Block Cipher 
+      | url = https://archive.org/details/isbn_9780471353812 
+      | publisher = [[John Wiley  &  Sons]] 
+      | date = 1999-03-22 
+      | location = [[New York City]] 
+      | isbn = 0-471-35381-7 }} 
+ 
+ == Other websites == 
+ * [http://www.schneier.com/twofish.html Twofish web page] with full specifications, free source code, and other Twofish resources. 
+ * [http://groups.google.com/group/sci.crypt/browse_thread/thread/7834ad13db22e207/6f6e157149330057 David Wagner's sci.crypt post recommending AES over Twofish ] — Wagner was one of the designers of Twofish. 
+ * [http://www.users.zetnet.co.uk/hopwood/crypto/scan/cs.html#Twofish SCAN's entry for Twofish] 
+ * [http://www.schneier.com/twofish-products.html] List of products using TwoFish 
+ 
+ [[Category:Cryptography]]

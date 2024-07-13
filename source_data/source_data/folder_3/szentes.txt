@@ -1,0 +1,47 @@
+{{coord|46.6519444544|N|20.2572222322|E|source:ruwiki_region:HU_type:city(33080)|format=dms|display=title}} 
+ {{Infobox settlement  < !--more fields are available for this Infobox--See Template:Infobox Settlement-- > 
+ |settlement_type        = [[List of cities and towns of Hungary|City]] 
+ |subdivision_type = [[Countries of the world|Country]] 
+ |subdivision_name       = {{HUN}} 
+ |image_skyline = Evangélikus templom. - Szentes, Kossuth Lajos utca.jpg 
+ |image_caption = Near the center of the town with Lutheran Church 
+ |image_shield = HUN_Szentes_Címer.svg 
+ |image_flag = Flag of Szentes.svg 
+ |coordinates            = {{coord|46.3907|20.1526|region:HU|display=inline}} 
+ 
+ < !--If coordinates are filled in above remove ed notes from  " Hungary "  in pushpin_map field to display map-- > 
+ |pushpin_map            = Hungary#Europe 
+ |pushpin_relief         = 1 
+ |pushpin_label_position =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ |pushpin_map_caption    = 
+ |pushpin_mapsize        = 
+ |timezone=[[Central European Time|CET]] 
+ |utc_offset=+1 
+ |timezone_DST=[[Central European Summer Time|CEST]] 
+ |utc_offset_DST=+2 
+ |official_name=Szentes 
+ |subdivision_type1=[[Counties of Hungary|County]] 
+ |subdivision_name1=[[Csongrád County|Csongrád]] 
+ |subdivision_type2=[[Districts of Hungary|District]] 
+ |subdivision_name2=[[Szentes District|Szentes]] 
+ |area_total_km2=353.25 
+ |population_as_of=2015 
+ |population_total=27898 
+ |population_footnotes= 
+ |population_density_km2=auto 
+ |postal_code_type=[[Postal codes in Hungary|Postal code]] 
+ |postal_code=6600 
+ |area_code_type=[[Telephone numbers in Hungary|Area code]] 
+ |area_code=(+36) 63 
+ |website={{URL|http://www.szentes.hu/}} 
+ }} 
+ '''Szentes''' is a city in south-eastern [[Hungary]], [[Csongrád (county)|Csongrád]] county. 
+ 
+ ==Other websites== 
+ * {{Official website|http://www.szentes.hu/}} in Hungarian, English, German and Serb 
+ * [http://www.varosivisszhang.hu Városi Visszhang - Szentes] 
+ * [http://www.radio451.hu/ Local Radio Station - Radio 451] {{Webarchive|url=https://web.archive.org/web/20191223001248/http://radio451.hu/ |date=2019-12-23 }} 
+ 
+ [[Category:Cities in Hungary]] 
+ 
+ {{Europe-stub}}

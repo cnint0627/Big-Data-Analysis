@@ -1,0 +1,37 @@
+'''Glycolysis''' is a [[metabolism|metabolic]] process in most organisms. It is the first stage in [[cellular respiration]]. It allows both [[Aerobics|aerobic]]  and [[anaerobic]] respiration. Glycolysis releases only a small amount of energy. The word  " glycolysis "  comes from the [[Greek language|Greek]] words γλυκύς (meaning  " sweet " ) and λύσις (meaning  " rupture " ). 
+ 
+ Glycolysis is thought to be the [[archetype]] of a universal [[metabolism|metabolic]] pathway. It occurs, with variations, in almost all organisms, both aerobic and anaerobic. The wide occurrence of glycolysis shows that it is one of the oldest known metabolic pathways. < ref > Romano A.H.  &  Conway T. 1996. Evolution of carbohydrate metabolic pathways. ''Res Microbiol.'' '''147'''(6-7):448-55 PMID 9084754 < /ref > 
+ 
+ Glycolysis has ten intermediate compounds, [[catalysis|catalysed]] by ten different [[enzyme]]s. Only the broad outline is described here. 
+ 
+ == Process == 
+ === Preparatory phase === 
+ The first half of glycolysis is the preparatory phase. It starts off by adding a [[phosphate]] group to glucose (Glucose 6-phosphate). Next, the Glucose 6-phosphate is converted into Fructose 6-phosphate. Another phosphate group is added turning it into fructose -1,6- biphosphate. The fructose -1,6-biphosphate is then split in two, one part turning into G3P (Glyceraldehyde-3-phosphate) and dihydroxyacetone phosphate. The dihydroxyacetone phosphate is converted into G3P, leaving us with the two G3P triose sugar molecules used in the Pay-off phase. 
+ 
+ === Pay-off phase === 
+ The second half of glycolysis is known as the 'pay-off phase', by the net gain of the energy-rich molecules ATP and [[NADH]]. Since glucose leads to two triose ([[:en:Glyceraldehyde_3-phosphate|G3P]]) sugars in the preparatory phase, each reaction in the pay-off phase occurs twice per glucose molecule. This yields 2 NADH molecules and 4 ATP molecules, leading to a net gain of 2 NADH molecules and 2 ATP molecules from the glycolytic pathway per glucose molecule. 
+ 
+ '''Summary''': 2ATP → 4ATP + 2(NADH + H+) + 2 pyruvate (net production of 2ATP) 
+ 
+ === Aerobic respiration === 
+ Cells performing [[aerobic respiration]] (respiration using oxygen) synthesize much more ATP, but not as part of glycolysis. These further reactions use the pyruvate from glycolysis.  
+ 
+ [[Eukaryote]] aerobic respiration produces about 30 additional molecules of ATP for each glucose molecule. 
+ Glycolysis, through anaerobic respiration, is the main energy source in many cells. 
+ 
+ == Related pages == 
+ *[[Cellular respiration]] (overview) 
+ *[[Link reaction]] 
+ *[[Krebs cycle]] (Citric acid cycle) 
+ *[[Electron transport chain]] (ETC) 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://nist.rcsb.org/pdb/molecules/pdb50_1.html The Glycolytic enzymes in Glycolysis] {{Webarchive|url=https://web.archive.org/web/20051221131713/http://nist.rcsb.org/pdb/molecules/pdb50_1.html |date=2005-12-21 }} 
+ * [http://www.biochemweb.org/metabolism.shtml Metabolism, Cellular Respiration and Photosynthesis - The Virtual Library of Biochemistry and Cell Biology] {{Webarchive|url=https://web.archive.org/web/20050316052050/http://www.biochemweb.org/metabolism.shtml |date=2005-03-16 }} 
+ * [http://www.rahulgladwin.com/blog/2007/01/notes-on-glycolysis.html Notes on glycolysis] {{Webarchive|url=https://web.archive.org/web/20080611071456/http://www.rahulgladwin.com/blog/2007/01/notes-on-glycolysis.html |date=2008-06-11 }} 
+ 
+ [[Category:Cellular respiration]] 
+ [[Category:Metabolism]]

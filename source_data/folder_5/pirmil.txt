@@ -1,0 +1,64 @@
+{{Infobox French commune 
+ |name                   = Pirmil 
+ |image                  = 
+ |caption                = 
+ |arrondissement         = [[Arrondissement of La Flèche|La Flèche]] 
+ |canton                 = [[Canton of Brûlon|Brûlon]] 
+ |INSEE                  = 72237 
+ |postal code            = 72430 
+ |mayor                  = Christine Toulet 
+ |term                   = 2008–2014 
+ |intercommunality       = [[Communauté de communes de Vègre et Champagne]] 
+ |coordinates = {{coord|47.9125|-0.0978|format=dms|display=inline,title}} 
+ |elevation min m        = 34 
+ |elevation max m        = 94 
+ |area km2               = 17.40 
+ |population             = 440 
+ |population date        = 2006  < ref > http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/departement.asp?dep=72#dep_B Populations légales 2006 publiées par l’INSEE le 1er janvier 2009 < /ref > 
+ | population demonym =  Pirmilien, Pirmilienne 
+ |website                = 
+ }} 
+ '''Pirmil''' is a [[Communes of France|commune]]. It is found in the [[Regions of France|region]] [[Pays de la Loire]] in the [[Sarthe]] [[Departments of France|department]] in the west of [[France]]. 
+ 
+ Here is a graph showing how this commune's population went up or down: 
+ < timeline >                                                  
+ ImageSize  = width:250 height:200                           
+ PlotArea   = left:40 right:10 top:10 bottom:20             
+ TimeAxis   = orientation:horizontal                        
+ AlignBars  = justify                                        
+ Colors =                                                 
+   id:gray1 value:gray(0.9)                            
+                                                    
+ DateFormat = yyyy                                  
+ Period     = from:1960 till:2010                  
+ ScaleMajor = unit:year increment:10 start:1960 
+                                      
+ PlotData =                           
+   bar:900 color:gray1 width:1        
+   from:start till:end              
+   bar:600 color:gray1               
+   from:start till:end             
+   bar:300 color:gray1            
+   from:start till:end          
+   bar:0 color:gray1        
+                         
+                      
+ LineData =        
+   layer:front     
+   points:(48,144)(84,124) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 658 1968: 551 
+   points:(84,124)(100,110)    color:blue    width:2 #1975: 474 
+   points:(100,110)(128,96)   color:blue    width:2 #1982: 401 
+   points:(128,96)(160,89)   color:blue    width:2 #1990: 367 
+   points:(160,89)(196,92)   color:blue    width:2 #1999: 382 
+    
+ < /timeline > 
+ 
+ ==References== 
+ 
+ {{Reflist}} 
+ 
+ {{Sarthe communes}} 
+ 
+ {{France-geo-stub}} 
+ 
+ [[Category:Communes in Sarthe]]

@@ -1,0 +1,20 @@
+{{Infobox company 
+ | logo = MikroTik_Logo_(2022).svg 
+ | industry = Information Technology 
+ | founded = 1996 
+ | hq_location = [[Riga]], [[Latvia]] 
+ | key_people = John Tully  < small > (CEO) < /small > < br > Arnis Riekstiņš  < small > (CTO) < /small > 
+ | products = [[Router (computing)|routers]], Firewall (computing), software (RouterOS) 
+ | revenue = 374.6 million Euro (2021) < ref name= " revenue2021delfi " > {{citation |url = https://www.delfi.lv/bizness/tehnologijas/mikrotikls-apgrozijums-sasniedzis-374-6-milj-eiro-sogad-prognoze-kritumu.d?id=54897068|title='Mikrotīkls' apgrozījums sasniedzis 374,6 milj. eiro}} < /ref > 
+ | profit = 90.6 million Euro (2021) < ref name= " revenue2021delfi "  / > 
+ | num_employees = 343 (2020) < ref > {{citation |url = https://www.dnb.com/business-directory/company-profiles.mikrotikls_sia.9361593c51f660c4fd6abcaddab5c37f.html |publisher=Dun  &  Bradstreet|title=Mikrotikls SIA Company Profile Riga, Latvia Competitors, Financials  & amp; Contacts - Dun  & amp; Bradstreet }} < /ref > 
+ | website = [https://mikrotik.com/ mikrotik.com] 
+ }} 
+ 
+ '''MikroTik''' is a Latvian network equipment manufacturer founded in 1996. They develop and sell network routers, switches, access points, and software. They gained recognition for their product, RouterOS, initially developed for x86 [[Personal computer|PC]] hardware. In 2002, they started producing their own low-power single-board computers called RouterBoard. < ref > {{Cite web|title=MikroTik - About us|url=https://mikrotik.com/aboutus|publisher=MikroTik}} < /ref >  MikroTik's product line expanded over time, including the Cloud Core Router (CCR) series in 2012. They faced vulnerabilities in the past, such as the VPNFilter malware and security flaws in RouterOS. < ref > {{Cite news|date=2018-05-23|title=New VPNFilter malware targets at least 500K networking devices worldwide|publisher=Talos Threat Source Newsletter|url=https://blog.talosintelligence.com/2018/05/VPNFilter.html}} < /ref > < ref > {{Cite news|last=Lucero II|first=Louis|date=2018-05-27|title=F.B.I.'s Urgent Request: Reboot Your Router to Stop Russia-Linked Malware|work=The New York Times|url=https://www.nytimes.com/2018/05/27/technology/router-fbi-reboot-malware.html}} < /ref > < ref > {{cite news|last1=Godin|first1=Dan|date=2018-05-23|title=Hackers infect 500,000 consumer routers all over the world with malware|publisher=Ars Technica|url=https://arstechnica.com/information-technology/2018/05/hackers-infect-500000-consumer-routers-all-over-the-world-with-malware/|accessdate=2019-04-21}} < /ref >  In 2021, they encountered the Mēris botnet, causing DDoS attacks. < ref > {{Cite web|title= " Mikrotīkls "  kā pirmais privātuzņēmums Latvijā pārsniedzis miljarda eiro vērtību|url=https://www.lsm.lv/raksts/zinas/ekonomika/mikrotikls-ka-pirmais-privatuznemums-latvija-parsniedzis-miljarda-eiro-vertibu.a431479/|website=LSM.lv}} < /ref >   
+ 
+ == References == 
+ < references / > 
+ {{stub}} 
+ [[Category:Telephone companies of Europe]] 
+ [[Category:Organizations based in Latvia]]

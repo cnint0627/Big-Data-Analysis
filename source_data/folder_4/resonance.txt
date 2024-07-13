@@ -1,0 +1,26 @@
+{{complex|date=May 2023}} 
+ [[File:Resonance.PNG|thumb|Resonance effect for various input [[frequency|frequencies]] and [[damping]] coefficients]] 
+ 
+ In [[physics]], '''resonance''' is the tendency of a [[system]] to [[vibration|vibrate]] with increasing [[amplitude]]s at some [[frequency|frequencies]] of excitation. These are known as the system's ''resonant frequencies'' (or ''resonance frequencies''). < ref > Tongue, Benson, ''Principles of Vibration'', Oxford University Pres, 2001, {{ISBN|0-195-142462}} < /ref >  The resonator may have a ''fundamental frequency,'' and any number of ''[[harmonic]]s''. 
+ 
+ An example of useful effect of resonant frequency is a [[guitar]] string which makes a characteristic [[noise]] when it is touched. The noise depends on how thick or slack the string is. 
+ 
+ Another example can be seen in a [[Swing (seat)|playground swing]]. There is one specific rate at which you must push away a person on a swing to cause the swing to go high. This rate is the resonant frequency. 
+ 
+ In [[earthquake engineering]], on contrary, any possibility of a resonance is detrimental for the [[building|building structure]]. 
+ 
+ The [[Kirkwood gap]] and other connections among [[orbit]]s are caused by [[orbital resonance]]. 
+ 
+ ==Related pages== 
+ * [[Resonator]] 
+ * [[Seismic damper]] 
+ * [[Vibration control]] 
+ * [[Vibration isolation]] 
+ 
+ ==References== 
+ {{commons category|Resonance}} 
+ {{reflist}} 
+ 
+ [[Category:Physics]] 
+ [[Category:Mechanical vibrations]] 
+ [[Category:Earthquake engineering]]

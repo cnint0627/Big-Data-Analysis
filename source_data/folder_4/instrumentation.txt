@@ -1,0 +1,32 @@
+{{complex|date=June 2012}} 
+ [[File:Pneumatische regelaar.jpg|thumb|Pneumatic PID controller.]] 
+ '''Instrumentation''' is the [[science]] of [[measurement|measuring]] and controlling [[variable]]s.  Variables are anything that can affect or change other things.  Instrumentation can be used to make processes faster or more efficient, meaning they use less effort, energy or money to produce the same results. 
+ 
+ The word instrumentation may also mean the [[Machine|machines]] made to measure and control things. 
+ 
+ The science of instrumentation involves figuring out the best way to measure or control something, building the machine or tools, and checking if the results are good and true. It may also include setting up and using the machine or tools. 
+ 
+ ==Variables== 
+ An '''instrument''' is a tool used to measure and control the variables that affect a process. Here are some variables that people use instrumentation to measure and control: 
+ * [[pressure]], which is the weight that air or water surrounding something has 
+ * [[temperature]], which is how hot or cold things are 
+ * [[electric current]], which is how many electrons are moving through something 
+ * [[voltage]], which is the steepness of the moving electrons 
+ * [[Inductor|inductance]] 
+ * [[capacitance]] 
+ * [[frequency]], which is how fast or how often something happens 
+ * [[electrical resistance]], which is how hard it is for electrons to move through something 
+ * [[Conduction|conductivity]], which is how easily an object allows electrons to pass through it 
+ * [[flow]] 
+ * [[level]] 
+ * [[density]], which is how much mass something has for its volume, or how heavy it is for its size 
+ * [[viscosity]], which is how thick a liquid or other fluid is 
+ 
+ ==Instruments== 
+ Two examples of instruments are [[Valve|valves]] and flame detectors. A valve is a controlling instrument that controls the flow of fluids, which can be [[gas]]es, [[liquid]]s, or other [[Fluid|fluids]]. A flame detector is a measurement instrument that detects a flame by analyzing the light.  
+ 
+ ==Instrumentation engineering== 
+ The [[engineering]] behind instrumentation deals with mechanics and use of measuring instruments. Instrumentation engineers usually work in industries with automated processes.  For example, chemical and manufacturing plants often have robots and other machines doing a lot of the work.  Instrumentation engineers try to make things more safe, productive and stable. They sometimes use computers. 
+ 
+ [[Category:Science]] 
+ [[Category:Measuring tools]]

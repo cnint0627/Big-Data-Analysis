@@ -1,0 +1,63 @@
+{{Automatic taxobox 
+ | image = Sarcohyla hapsa.png 
+ | image_caption = ''[[Sarcohyla hapsa]]'' 
+ | taxon = Sarcohyla 
+ | authority = {{interlanguage link multi|William Edward Duellman|fr|lt=Duellman}}, Marion, and [[Stephen Blair Hedges|Hedges]], 2016 < ref name= " Duellman et al. 2016 " / > 
+ | type_species = ''[[Sarcohyla crassa|Cauphias crassus]]'' 
+ | type_species_authority = Brocchi, 1877 
+ | subdivision_ranks = Species 
+ | subdivision = 26 species (see [[#Species|text]]) 
+ }} 
+ 
+ '''''Sarcohyla''''' is a genus of [[frog]]s in the family [[Hylidae]]. < ref name=Frost/ > < ref name=AmphibiaWeb/ >  These frogs live in [[Mexico]] and the hills and mountains between Durango in the north and Guerrero in the south. These frogs live in habitats that humans have not changed too much, near streams in pine-oak forests between {{convert|1500|and|3100|m|abbr=on}} [[above sea level]]. < ref name=Frost/ >  The name comes from the [[Greek language|Greek]] ''sarkodes'' meaning  " fleshy "  and from ''[[Hylas]]''. It is for the thick, glandular skin of most of the frogs in the genus. < ref name= " Duellman et al. 2016 " / > 
+ 
+ ==Description== 
+ ''Sarcohyla'' are medium sized or large frogs. They have thick skin with glands. They have large [[thumb]]s and no projecting spine. The alary process of the [[premaxilla]] does not split into two pieces like it does in some other frogs. < ref name= " Duellman et al. 2016 " / > 
+ 
+ ==Taxonomy== 
+ Scientists first invented ''Sarcohyla'' in 2016 using molecular data. The species in ''Sarcohyla'' had been in the ''[[Sarcohyla bistincta|Hyla bistincta]]'', ''[[Sarcohyla arborescandens|Hyla arborescandens]]'' < ref name= " Duellman et al. 2016 " / >  and ''Plectrohyla bistincta'' groups. < ref name= " Campbell et al. 2018 " / >  ''Sarcohyla'''s [[sister group]] is ''[[Plectrohyla]]''. < ref name= " Duellman et al. 2016 " / >  Not all species in ''Sarcohyla'' were included in the molecular analysis, so not all scientists are sure the genus is monophyletic. < ref name=Frost/ > 
+ 
+ ==Species== 
+ The genus has 26 species in it: < ref name=Frost/ > < ref name=AmphibiaWeb/ > 
+ {{linked species list 
+  | Sarcohyla ameibothalame | (Canseco-Márquez, Mendelson, and Gutiérrez-Mayén, 2002)  
+  | Sarcohyla arborescandens | (Taylor, 1939)  
+  | Sarcohyla bistincta | (Cope, 1877)  
+  | Sarcohyla calvicollina | (Toal, 1994)  
+  | Sarcohyla celata | (Toal and Mendelson, 1995)  
+  | Sarcohyla cembra | (Caldwell, 1974)  
+  | Sarcohyla charadricola | (Duellman, 1964)  
+  | Sarcohyla chryses | (Adler, 1965)  
+  | Sarcohyla crassa | (Brocchi, 1877)  
+  | Sarcohyla cyanomma | (Caldwell, 1974)  
+  | Sarcohyla cyclada | (Campbell and Duellman, 2000)  
+  | Sarcohyla floresi | (Kaplan, Heimes, and Aguilar, 2020) 
+  | Sarcohyla hapsa | (Campbell, Brodie, Caviedes-Solis, Nieto-Montes de Oca, Luja, Flores-Villela, García-Vázquez, Sarker, and Wostl, 2018) 
+  | Sarcohyla hazelae | (Taylor, 1940)  
+  | Sarcohyla labeculata | (Shannon, 1951)  
+  | Sarcohyla labedactyla | (Mendelson and Toal, 1996)  
+  | Sarcohyla miahuatlanensis | (Meik, Smith, Canseco-Márquez, and Campbell, 2006)  
+  | Sarcohyla mykter | (Adler and Dennis, 1972)  
+  | Sarcohyla pachyderma | (Taylor, 1942)  
+  | Sarcohyla pentheter | (Adler, 1965)  
+  | Sarcohyla psarosema | (Campbell and Duellman, 2000)  
+  | Sarcohyla robertsorum | (Taylor, 1940)  
+  | Sarcohyla sabrina | (Caldwell, 1974)  
+  | Sarcohyla siopela | (Duellman, 1968)  
+  | Sarcohyla thorectes | (Adler, 1965)  
+  | Sarcohyla toyota | (Grünwald, Franz-Chávez, Morales-Flores, Ahumada-Carrillo, and Jones, 2019) 
+ }} 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=https://amphibiaweb.org/lists/Hylidae.shtml |title=Hylidae |year=2020 |work=AmphibiaWeb |publisher=University of California, Berkeley |access-date=19 December 2020}} < /ref > 
+ 
+ < ref name= " Campbell et al. 2018 " > {{cite journal |last1=Campbell |first1=Jonathan A. |last2=Brodie |first2=Edmund D. Jr. |last3=Caviedes-Solis |first3=Itzue W. |last4=De Oca |first4=Adrián Nieto-Montes |last5=Luja |first5=Víctor H. |last6=Flores-Villela |first6=Oscar |last7=García-Vázquez |first7=Uri Omar |last8=Sarker |first8=Goutam Chandra |last9=Wostl |first9=Elijah |last10=Smith |first10=Eric N. |name-list-style=amp |title=Systematics of the frogs allocated to ''Sarcohyla bistincta'' sensu lato (Cope, 1877), with description of a new species from Western Mexico |journal=Zootaxa |date=2018 |volume=4422 |issue=3 |pages=366–384 |doi=10.11646/zootaxa.4422.3.3|pmid=30313491 }} < /ref > 
+ 
+ < ref name= " Duellman et al. 2016 " > {{cite journal|last1=Duellman |first1=William E. |last2=Marion |first2=Angela B. |last3=Hedges |first3=S. Blair |name-list-style=amp |title=Phylogenetics, classification, and biogeography of the treefrogs (Amphibia: Anura: Arboranae) |journal=Zootaxa |date=2016 |volume=4104 |issue=1 |pages=1–109 |doi=10.11646/zootaxa.4104.1.1|pmid=27394762 }} < /ref > 
+ 
+ < ref name=Frost > {{cite web |url=https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Hylinae/Sarcohyla |title=''Sarcohyla'' Duellman, Marion, and Hedges, 2016 |author=Frost, Darrel R. |year=2020 |work=Amphibian Species of the World: an Online Reference. Version 6.1 |publisher=American Museum of Natural History |doi=10.5531/db.vz.0001 |access-date=19 December 2020}} < /ref > 
+ }} 
+ 
+ {{Taxonbar|from=Q28042939}} 
+ [[Category:Frogs of North America]]

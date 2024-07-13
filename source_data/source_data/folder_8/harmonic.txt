@@ -1,0 +1,17 @@
+{{complex|date=February 2012}} 
+ [[File:Moodswingerscale.svg|thumb|Several levels of harmonic from its fundamental frequency]] 
+ 
+ A '''harmonic''' of a [[wave]] is the part of a [[signal]]'s [[frequency]] that is a whole multiple (an [[integer]]) of the fundamental frequency. The fundamental frequency is the lowest frequency of a [[Periodic function|periodic]] [[waveform]]. If ''f'' is the fundamental frequency (that is, 1''f''), then the ''harmonics'' have frequencies 2''f'', 3''f'', 4''f''..., and so on. The second harmonic (2''f'') has a frequency twice that of the fundamental frequency, the third harmonic three times, and so on. This concept applies to wave motions of any form of [[energy]], but is perhaps most often related to [[acoustics]]. 
+ 
+ Frequencies that lie between one harmonic and another harmonic are called ''interharmonics''. For example, 1{{frac|1|3}}''f'' is an interharmonic between the fundamental frequency (or first harmonic) and the second harmonic. Interharmonics is a term invented, or at least standardised, by the international electronics industry about 1999, particularly for use in [[electrical energy]]. However, interharmonic frequencies also occur naturally in other radiant energies, for example music or any type of sound. 
+ 
+ ==Related pages== 
+ * [[Harmonics (music)]] 
+ * [[Harmonic series (mathematics)]] 
+ * [[Harmonics (electrical power)]] 
+ * [[Sine wave]] 
+ 
+ [[Category:Wave physics]] 
+ 
+ 
+ {{physics-stub}}

@@ -1,0 +1,7 @@
+[[File:QOwnNotes 16.11.10 Screenshot.png|thumb|QOwnNotes]] 
+ '''WYSIWYM''' is an [[acronym]] that stands for '''What you see is what you mean'''.  This was positioned to not be confused with [[WYSIWYG]] (what you see is what you get). The idea behind WYSIWYG is to display text on screen in much the same way as they will appear when printed on paper. WYSIWYM is different from this: The content is structured. When the content is entered, this meaning is added to the text. This will mean that [[Separation of presentation and content|presentation]] is separated from the content. The content is translated before it is rendered. This also means that it can be translated differently, the same content can lead to different output formats. More importantly though, the person editing the document can focus on the content, and is not easily distracted by what the content looks like. One of the drawbacks of the method is that the user is forced to think ahead. [[LaTeX]] is an example of a document processing system that uses WYSIWYM. 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Web design]] 
+ [[Category:Acronyms]]

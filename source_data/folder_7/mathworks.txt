@@ -1,0 +1,45 @@
+{{Infobox company 
+ | name = The MathWorks, Inc. 
+ | logo = Matlab Logo.png 
+ | logo_size = 150px 
+ | type = [[Private company|Private]] 
+ | foundation = 1984 
+ | location_city = [[Massachusetts]] 
+ | location_country = [[United States]] 
+ | area_served = Worldwide 
+ | key_people = [[CEO]]  &  [[President]]: Jack Little, Chief Mathematician: Cleve Moler 
+ | industry = Mathematical computing software 
+ | products = [[MATLAB]], Simulink 
+ | website = {{URL|https://www.mathworks.com/}} 
+ }} 
+ '''MathWorks''' is an American technological [[company]] that '''works''' for '''mathematical''' [[software]]. < ref > {{cite news |last1=Higham |first1=Nicholas |title=Tracing the Early History of MATLAB Through SIAM News |url=https://sinews.siam.org/Details-Page/tracing-the-early-history-of-matlab-through-siam-news |work=[[SIAM]] News |date=March 16, 2017}} 
+ < /ref > 
+ ==Company logo== 
+ The logo represents a L-shaped object which is related to the [[wave equation]]. < ref > This is a [[partial differential equation]] about [[wave (physics)|physical waves]]. < /ref >  This was the subject of Moler's thesis. < ref >  Haigh, Thomas (January 2008).  " Cleve Moler: Mathematical Software Pioneer and Creator of MATLAB " . [[IEEE]] Annals of the History of Computing. 30 (1): 87–91. < /ref > 
+ ==Who is Cleve Moler?== 
+ Cleve Moler is a famous [[mathematician]]. He is known for his scientific textbooks < ref > Moler, C. B. (2011). Experiments with MATLAB. Society for Industrial and Applied Mathematics. < /ref > < ref > Moler, C. B. (2004). Numerical computing with MATLAB. Society for Industrial and Applied Mathematics. < /ref >  and technical reviews. < ref > Gupta, M. M. (1991). Numerical methods and software (David Kahaner, Cleve Moler, and Stephen Nash). SIAM Review, 33(1), 144-147. < /ref > < ref > Moler, C.,  &  Van Loan, C. (1978). Nineteen dubious ways to compute the exponential of a matrix. SIAM review, 20(4), 801-836. < /ref > < ref > Moler, C.,  &  Van Loan, C. (2003). Nineteen dubious ways to compute the exponential of a matrix, twenty-five years later. SIAM review, 45(1), 3-49. < /ref > 
+ ==Notable products== 
+ MathWorks is known for making powerful software used in many scientific and technical fields. < ref name= " WBJO " > {{cite news|last1=Welker|first1=Grant|title=MathWorks now in more than 180 countries|url=http://www.wbjournal.com/article/20170529/PRINTEDITION/305269996/mathworks-now-in-more-than-180-countries|work=Worcester Business Journal Online|date=29 May 2017}} < /ref > 
+ ===MATLAB=== 
+ {{main|MATLAB}} 
+ MATLAB is a programming language made for [[numerical analysis]] (especially [[numerical linear algebra]]). < ref > Gilat, Amos (2004). MATLAB: An Introduction with Applications 2nd Edition. John Wiley  &  Sons. < /ref > < ref > Quarteroni, Alfio; Saleri, Fausto (2006). Scientific Computing with MATLAB and [[GNU Octave|Octave]]. Springer. < /ref > < ref > Gander, W.,  &  Hrebicek, J. (Eds.). (2011). Solving problems in scientific computing using Maple and Matlab®. Springer Science  &  Business Media. < /ref >  It is named after '''[[Matrix (mathematics)|Matrix]] Laboratory'''. 
+ ===Simulation software=== 
+ MathWorks is also known for their [[simulation]]-related products. The most famous one is '''Simulink'''. < ref > Binh, L. N. (2014). Optical fiber communication systems with Matlab and Simulink models. CRC Press. < /ref > < ref > Stewart, R. W., Barlee, K. W.,  &  Atkinson, D. S. (2015). Software defined radio using MATLAB  &  Simulink and the RTL-SDR. Strathclyde Academic Media. < /ref > < ref > Chaturvedi, D. K. (2017). Modeling and simulation of systems using MATLAB and Simulink. CRC press. < /ref > < ref > Bishop, R. H. (1996). Modern control systems analysis and design using MATLAB and SIMULINK. Addison-Wesley Longman Publishing Co., Inc.. < /ref > < ref > Xue, D.,  &  Chen, Y. (2015). Modeling, analysis and design of control systems in MATLAB and Simulink. World Scientific Publishing. < /ref > < ref > Yakimenko, O. A. (2019). Engineering Computations and Modeling in MATLAB®/Simulink®. American Institute of Aeronautics and Astronautics, Inc.. < /ref > < ref > Klee, H.,  &  Allen, R. (2016). Simulation of dynamic systems with MATLAB and Simulink. CRC Press. < /ref >  It is very popular as same as MATLAB. There is also SimEvents and Stateflow. SimEvents was made to '''simulate''' physical or dynamical '''[[Phenomenon|events]]'''. < ref > Gray, M. A. (2007). Discrete event simulation: A review of SimEvents. Computing in Science  &  Engineering, 9(6), 62-66. < /ref > < ref > Harahap, E., Sukarsih, I., Gunawan, G., Fajar, M. Y., Darmawan, D.,  &  Nishi, H. (2016). A Model-Based Simulator for Content Delivery Network using SimEvents MATLAB-Simulink. INSIST, 1(1), 30-33. < /ref > < ref > Rahatulain, A., Qureshi, T. N.,  &  Onori, M. (2014). Modeling and simulation of evolvable production systems using Simulink/SimEvents. In IECON 2014-40th Annual Conference of the IEEE Industrial Electronics Society (pp. 2591-2596). IEEE. < /ref >  On the other hand, Stateflow aims to understand the '''state''' ([[status]]) of fluid/atmospheric or any other kind of '''[[flow]]s'''. < ref > Zuliani, P., Platzer, A.,  &  Clarke, E. M. (2013). Bayesian statistical model checking with application to Stateflow/Simulink verification. Formal Methods in System Design, 43(2), 338-367. < /ref > < ref > Agrawal, A., Simon, G.,  &  Karsai, G. (2004). Semantic translation of simulink/stateflow models to hybrid automata using graph transformations. Electronic Notes in Theoretical Computer Science, 109, 43-56. < /ref > < ref > Scaife, N., Sofronis, C., Caspi, P., Tripakis, S.,  &  Maraninchi, F. (2004, September). Defining and translating a "  safe "  subset of simulink/stateflow into lustre. In Proceedings of the 4th ACM international conference on Embedded software (pp. 259-268). < /ref > < ref > Hamon, G.,  &  Rushby, J. (2004, March). An operational semantics for Stateflow. In International Conference on Fundamental Approaches to Software Engineering (pp. 229-243). Springer, Berlin, Heidelberg. < /ref > < ref > Hamon, G. (2005, September). A denotational semantics for stateflow. In Proceedings of the 5th ACM international conference on Embedded software (pp. 164-172). < /ref > 
+ 
+ ==Notes== 
+ {{reflist|2}} 
+ 
+ ==Other websites== 
+ {{commons category}} 
+ * {{official website|https://www.mathworks.com/}} 
+ 
+ {{coord|42.30025|N|71.35039|W|region:US_type:landmark|display=title}} 
+ {{Authority control}} 
+ 
+ [[Category:1984 establishments in the United States]] 
+ [[Category:American software companies]] 
+ [[category:Multinational technology companies]] 
+ [[category:Computing]] 
+ [[category:Computer science]] 
+ [[Category:Scientific organizations based in the United States]] 
+ [[Category:Companies based in Massachusetts]]

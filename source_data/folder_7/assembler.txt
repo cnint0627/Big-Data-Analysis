@@ -1,0 +1,20 @@
+In [[computer science]] an '''assembler''' is a [[Computer program|program]] that turns [[assembly language]] into [[machine code]]. < ref > Peter Calingaert, ''Assemblers, Compilers, and Program Translation'' (London: Pitman, 1979), p. 9 < /ref >  An assembler is a program that takes basic [[Instruction (computer science)|computer instructions]] and converts them into a pattern of bits that the computer's processor can use to perform its basic operations.  The written [[instruction]] < nowiki/ > s are called assembler language or assembly language, and the converted version is called machine language or [[machine code]]. 
+ 
+ Most computers come with a specified set of very basic instructions that correspond to the basic machine operations that the [[computer]] can perform. For example, a  " Load "  instruction causes the processor to move a string of bits from a location in the processor's memory to a special holding place called a register. Assuming the processor has at least eight registers, each numbered, the following instruction would move the [[value]] (string of bits of a certain length) at memory location 3000 into the holding place called register 8: 
+       L        8,3000 
+ The programmer can write a program using a sequence of these assembler instructions. 
+ This sequence of assembler instructions, known as the source code or source program, is then specified to the assembler program when that program is started. 
+ The assembler program takes each program statement in the source program and generates a corresponding bit stream or pattern (a series of 0's and 1's of a given length). 
+ The output of the assembler program is called the object code or object program relative to the input source program. The sequence of 0's and 1's that constitute the object [[program]] is sometimes called machine code. 
+ The object program can then be run (or executed) whenever desired. 
+ 
+ In the earliest computers, programmers actually wrote [[programs]] in machine code, but assembler languages or instruction sets were soon developed to speed up programming. Today, assembler programming is used only where very efficient control over processor operations is needed. It requires [[knowledge]] of a particular computer's [[instruction set]], however. Historically, most programs have been written in  " higher-level "  languages such as [[COBOL]], FORTRAN, PL/I, and C. These languages are easier to learn and faster to write programs with than assembler language. The program that processes the source code written in these languages is called a compiler. Like the assembler, a compiler takes higher-level language statements and reduces them to machine code. 
+ 
+ A newer idea in program preparation and portability is the concept of a [[virtual machine]]. For example, using the Java [[programming language]], language statements are compiled into a generic form of machine language known as bytecode that can be run by a virtual machine, a kind of theoretical machine that approximates most computer operations. The bytecode can then be sent to any computer platform that has previously downloaded or built in the Java virtual machine. The virtual machine is aware of the specific instruction lengths and other particularities of the platform and ensures that the Java bytecode can run. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Computer science]] 
+ 
+ {{tech-stub}}

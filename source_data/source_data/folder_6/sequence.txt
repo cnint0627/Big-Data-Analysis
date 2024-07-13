@@ -1,0 +1,58 @@
+A '''sequence''' is a word meaning  " a set of related events, movements or items that follow each other in a particular order " . < ref > {{Cite web|title=Sequence {{!}} Definition of Sequence by Oxford Dictionary on Lexico.com also meaning of Sequence|url=https://www.lexico.com/definition/sequence|access-date=2020-10-14|website=Lexico Dictionaries {{!}} English|language=en|archive-date=2020-10-16|archive-url=https://web.archive.org/web/20201016031352/https://www.lexico.com/definition/sequence|url-status=dead}} < /ref > 
+ 
+ It is used in [[mathematics]] and other [[Discipline (study)|disciplines]]. In ordinary use, it means a series of events, one following another. In maths, a sequence is made up of several things put together, one after the other. The order that the things are in matters. For example, both (Blue, Red, Yellow) and (Yellow, Blue, Red) are sequences, but they are not the same. Sequences made up of numbers are also called '''progressions'''. 
+ 
+ There are two kinds of sequences. One kind is [[finite]] sequences, which have an end. For example, (1, 2, 3, 4, 5) is a finite sequence. The other kind is [[infinite]] sequences, which means that they keep going and never end. An example of a sequence that is infinite is the sequence of all [[even]] numbers, bigger than 0. This sequence never ends: it starts with 2, 4, 6, and so on, and one can always keep on naming even numbers. 
+ 
+ If a sequence is finite, it is easy to say what it is: one can simply write down all the things in the sequence. This does not work for an infinite sequence. So another way to write down a sequence is to write a [[rule]] for finding the thing in any place one wants. The rule should tell us how to get the thing in the ''n''-th place, where ''n'' can be any [[natural number]]. This means that a sequence is really a special kind of function with natural numbers as its domain. We sometimes write a sequence as  < math > (a_n) < /math > , where  < math > a_n < /math >  stands for the ''n''-th term of the sequence. < ref > {{Cite web|date=2020-05-11|title=List of Calculus and Analysis Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/|access-date=2020-10-14|website=Math Vault|language=en-US}} < /ref > 
+ 
+ For example, the rule could be that the thing in the ''n''-th place is the number 2×''n'' (2 [[multiplication|times]] n). This tells us what the whole sequence is, even though it never ends. The first number is 2×1, which is 2. The second number is 2×2, or 4. If we want to know what the 100-th number is, we can simply calculate 2×100 and get 200. No matter which thing in the sequence we want, the rule can tell us what it is. 
+ 
+ == Types of sequences == 
+ 
+ === Arithmetic progressions (AP) === 
+ In an arithmetic progression, the difference between a term and the term before it is always a constant. 
+ 
+ Example:  < math > 4, 9, 14, 19, 24, 29, 34, \ldots < /math > 
+ 
+ 9 - 4 = 5, 14 - 9 = 5, 19 - 14 = 5, 24 - 19 = 5, and so on.   
+ 
+ So if one takes the first term as ''a'' and the constant difference as ''D'', then the general formula for arithmetic sequence is  < math > a_n = a + (n-1)D < /math > , where ''n'' is the number of term. 
+ 
+ === Geometric progressions (GP) === 
+ In a geometric progression, the ratio between a term and the term before it is always constant.  
+ 
+ Example:  < math > 3, 6, 12, 24, 48, 96, 192, \ldots    < /math > 
+ 
+ 6/3 = 2, 12/6 = 2, 24/12 = 2, 48/24 = 2, and so on.  
+ 
+ So if one takes ''a'' to be the first term and ''r'' to be the ratio, then the general formula for geometric progression is  < math > a_n=ar^{n-1} < /math > , where ''n'' is the number of term. 
+ 
+ === Harmonic Progressions (HP) === 
+ In a harmonic progression, the difference between the [[reciprocal]] of a term and the reciprocal of the term before it is a constant. 
+ 
+ Example:   < math > 3, 1.5, 1, \tfrac34, \tfrac35, \tfrac36, \tfrac37, \ldots  < /math >   
+ 
+ < math > (1/1.5) - (1/3) = \tfrac13,  \,  \, \, (1/1) - (1/1.5) = \tfrac13, \, \, \,  (1/ \tfrac34) - (1/1) = \tfrac13  < /math > , and so on. 
+ 
+ == Series == 
+ A series is the sum of all the terms of a sequence. 
+ 
+ The general formula for calculating the sum of arithmetic sequence is < ref > {{Cite web|title=Mathwords: Arithmetic Series|url=https://www.mathwords.com/a/arithmetic_series.htm#:~:text=The%20sum%20of%20an%20arithmetic,the%20first%20and%20last%20terms. & text=Example:,formula%20for%20an%20arithmetic%20sequence.|access-date=2020-10-14|website=www.mathwords.com}} < /ref >   
+ 
+ < math > S=\frac{n}{2}[2a+(n-1)d] < /math > 
+ 
+ That of a geometric sequence is  < math > S=\tfrac{a}{1-r} < /math > , if the sequence is infinite, and < math > S=\tfrac{a(1-r^n)}{1-r} < /math > , if it is finite.  
+ 
+ Here, ''a'' is the first term, ''d'' is the common difference in arithmetic sequence, ''r'' is the ratio in geometric sequence and ''n'' is the number of term. 
+ 
+ == Related pages == 
+ 
+ * [[Cauchy sequence]] 
+ * [[Limit of a sequence]] 
+ * [[Series]] 
+ 
+ == Notes and References == 
+ {{reflist}} 
+ 
+ [[Category:Sequences and series]]

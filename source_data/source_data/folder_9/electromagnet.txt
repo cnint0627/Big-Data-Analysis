@@ -1,0 +1,29 @@
+[[File:Electromagnet.gif|thumb|Electromagnet attracts paper clips when current is applied creating a magnetic field, loses them when current and magnetic field are removed]] 
+ [[File:Electromagnetism.svg|thumb|upright|When current flows through a wire it makes a [[magnetic field]] around the wire. Usually this field is very weak, so a single wire won't make a magnetic field strong enough to pick up metal objects. In this picture  " I "  is the current and  " B "  is the magnetic field.]] 
+ 
+ '''Electromagnets''' are temporary and artificial magnets. They are [[magnet]]s that are only [[magnetism|magnetic]] when there is a coil of [[wire]] with [[electricity]] running through it. The coil of wire is called a [[solenoid]]. The strength of the magnet is [[proportion|proportional]] to the [[Electric current|current]] flowing in the [[Electrical circuit|circuit]].  The electricity running through the wire is called a current. The current is the flow of [[electron]]s, which are negatively charged particles. Electromagnets are used for a variety of purposes. In a simple example, an electromagnet can pick up pieces of [[iron]], [[nickel]], and [[cobalt]]. 
+ 
+ Electromagnets can be made stronger by adding more coils to the [[copper]] wire, or adding an iron core through the coils (for example a nail). The current can also be increased to make the magnetism stronger. British electrician William Sturgeon invented the electromagnet in 1825. 
+ 
+ An electromagnet is useful because it can be turned on and off easily (using an electric current), whereas a permanent magnet cannot be turned off and will continue to affect its immediate environment.  
+ 
+ Different [[alloy]]s act differently. Iron stops being an electromagnet very quickly, but steel takes time to wear off. To make an electromagnet, [[copper]] wire is wound around an iron rod. The two ends of the wire are connected to the + (positive) and - (negative) side of the [[battery]]. 
+ 
+ ==Usage== 
+ Electromagnets are used in everyday items such as burglar alarms, electric [[relay]]s and fire bells. [[Electric motor]]s are basically electromagnets. Their ability to change from the state of non-magnetic to magnetic just by passing an electric current through it allows it to be used in many different items. This ability is used in [[relay]]s. 
+ 
+ Electromagnets can also be used to make electricity. Movement of a magnet back and forth in front of the electromagnet will make an [[electric current]]. 
+ 
+ == Why electromagnets work == 
+ [[Electromagnetism|Electromagnets]] work because when electricity flows through a wire it makes a [[magnetic field]] around the wire. The direction of the magnetic field can be found by using the ''right-hand rule''. This means that if a person points the thumb of their right hand in the direction of the current, the magnetic field would go around the wire the same way their fingers would wrap around the wire. 
+ 
+ The magnetic field made by a single wire is not usually very strong. To make an electromagnet normally the wire is wrapped in many loops to make the fields of each piece of wire add together into one stronger magnetic field. 
+ 
+ ==More reading== 
+ * {{cite book |last1=Iggulden |first1=Hal |last2=Iggulden |first2=Conn |title=The Dangerous Book for Boys |date=2007 |publisher=HarperCollins |location=New York |isbn=978-0061243585 |page=148 |chapter=A Simple Electromagnet}} 
+ 
+ ==Other websites== 
+ {{Commons category-inline|Electromagnets}} 
+ {{authority control}} 
+ [[Category:Tools]] 
+ [[Category:Electromagnetism]]

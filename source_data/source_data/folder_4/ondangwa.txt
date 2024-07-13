@@ -1,0 +1,98 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info ---------------- > | name                     = Ondangwa 
+ | native_name              =  < !-- for cities whose native name is not in English -- > 
+ | other_name               =  
+ | settlement_type          = Town 
+ | image_skyline            = C41 Oshikati Ondangwa.jpg 
+ | imagesize                =  
+ | image_caption            =  
+ | image_flag               =  
+ | flag_size                =  
+ | image_seal               =  
+ | seal_size                =  
+ | image_shield             =  
+ | shield_size              =  
+ | image_blank_emblem       =  
+ | blank_emblem_type        =  
+ | blank_emblem_size        =  
+ | nickname                 =  
+ | motto                    =  < !-- images and maps ----------- > 
+ | image_map                =  
+ | mapsize                  =  
+ | map_caption              =  
+ | pushpin_map              = Namibia  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | pushpin_label_position   =  
+ | pushpin_mapsize          =  
+ | pushpin_map_caption      = Location in Namibia 
+ < !-- Location ------------------ > | coordinates              = {{coord|17|54|49.49|S|15|58|41.53|E|region:NA|display=inline}} 
+ | subdivision_type         = Country 
+ | subdivision_name         = {{flag|Namibia}} 
+ | subdivision_type1        = [[Regions of Namibia|Region]] 
+ | subdivision_type2        =  
+ | subdivision_type3        =  
+ | subdivision_name1        = [[Oshana Region]] 
+ | subdivision_name2        =  
+ | subdivision_name3        =  < !-- Politics ----------------- > 
+ | established_title        =  < !-- Settled -- > 
+ | established_date         =  < !-- Area --------------------- > 
+ | government_footnotes     =  
+ | government_type          = Local Authority 
+ | leader_title             = Mayor 
+ | leader_name              = Cllr. Paavo Amwele 
+ | leader_title1            =  < !-- for places with, say, both a mayor and a city manager -- > 
+ | leader_name1             =  
+ | unit_pref                = Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_footnotes           =  
+ | area_magnitude           =  
+ | area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_total_sq_mi         =  < !-- Population ----------------------- > 
+ | area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ | area_water_km2           =  
+ | elevation_footnotes      =  < !--for references: use  < ref >   < /ref >  tags-- > 
+ | elevation_m              = 1080 
+ | elevation_ft             =  < !-- Area/postal codes  &  others -------- > 
+ | population_total         = 22822 
+ | population_as_of         = 2011 
+ | population_footnotes     =  < ref name=nsa > {{cite web | title=Table 4.2.2 Urban population by Census years (2001 and 2011) | url=http://cms.my.na/assets/documents/p19dmn58guram30ttun89rdrp1.pdf | work=Namibia 2011 - Population and Housing Census Main Report | publisher=Namibia Statistics Agency | access-date=24 August 2016 | page=39}} < /ref > 
+ | population_density_km2   =  
+ | population_density_sq_mi =  
+ | population_urban         =  
+ | population_density_urban_km2 =  
+ | population_density_urban_sq_mi =  
+ | population_metro         =  
+ | population_density_metro_km2 =  
+ | population_density_metro_sq_mi =  
+ | population_blank1_title  = Ethnicities 
+ | population_blank1        =  
+ | population_density_blank1_km2 =  
+ | population_density_blank1_sq_mi =  < !-- General information --------------- > 
+ | population_note          =  
+ | postal_code_type         =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | postal_code              =  
+ | area_code                =  
+ | website                  = http://www.ondangwatown.com/ 
+ | footnotes                =  
+ | timezone                 = [[South African Standard Time|SAST]] 
+ | utc_offset               = +2 
+ | blank_name               = [[Köppen climate classification|Climate]] 
+ | blank_info               = [[Semi-arid climate#Hot semi-arid climates|BSh]] 
+ | blank1_name              =  
+ | blank1_info              =  
+ }} 
+ 
+ '''Ondangwa,''' formerly Ondangua is a town in the [[Oshana Region]] of northern [[Namibia]], bordering the [[Oshikoto Region]]. Ondangwa was first settled by the Finnish Missionary Society in 1890, which is [[Lutheran]]. < ref name= " split " > {{cite news|last=Nakale|first=Albertina|date=9 August 2013|title=President divides Kavango into two|newspaper=[[New Era (Namibia)|New Era]]|url=http://www.newera.com.na/articles/53580/President-divides-Kavango-into-two|url-status=dead|access-date=28 January 2022|archive-url=https://archive.today/20130809090822/http://www.newera.com.na/articles/53580/President-divides-Kavango-into-two|archive-date=9 August 2013}} < /ref > < ref name= " election2020 " > {{Cite web|title=Regional Council 2020 Election Results|publisher=[[Electoral Commission of Namibia]]|date=18 January 2021|series=''Interactive map''|url=http://elections.na/|accessdate=7 November 2021|archive-date=12 June 2021|archive-url=https://web.archive.org/web/20210612210020/https://elections.na/|url-status=dead}} < /ref > 
+ 
+ Ondangwa is located about {{convert|60|km|0|abbr=on}} from the [[Angola]]n border, with 23,000 people currently living there. Most of the residents of the town speak the language of Oshindonga. < ref > {{Cite news|year=2015|title=Know Your Local Authority|page=4|newspaper=Election Watch|publisher=Institute for Public Policy Research|issue=3}} < /ref > 
+ 
+ Ondangwa is the district capital of the [[Ondangwa Urban|Ondangwa Urban electoral constituency]]. < ref > {{Cite web|title=Ondangwa Constituency|publisher=Oshana Regional Council|url=http://www.oshanarc.com/ondangwa/|accessdate=15 January 2019}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{Coord|17|55|S| 15|57|E|region:NA_type:city|display=title}} 
+ 
+ [[Category:Oshana Region]] 
+ [[Category:Towns in Africa]] 
+ [[Category:1890 establishments]] 
+ [[Category:Settlements in Namibia]]

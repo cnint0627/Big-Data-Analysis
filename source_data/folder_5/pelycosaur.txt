@@ -1,0 +1,56 @@
+{{Taxobox 
+ | name = Pelycosaurs 
+ | fossil_range = [[Pennsylvanian|Upper Carboniferous]] – Upper [[Permian]] 
+ | image = Dimetrodon.jpg 
+ | image_width = 250px 
+ | image_caption = ''[[Dimetrodon]] grandis'' skeleton at the  < br >  National Museum of Natural History 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | superclassis = [[Tetrapod]]a 
+ | classis = [[Synapsid]]a 
+ | ordo = '''Pelycosauria''' [[Paraphyletic|*]] 
+ | ordo_authority = [[Edward Drinker Cope|Cope]], 1878 
+ | subdivision_ranks = [[Order (biology)|Suborders]] 
+ | subdivision = [[Sphenacodontia]] 
+ 
+ {{extinct}}[[Caseasauria]] 
+ }} 
+ 
+ '''Pelycosaurs''' (meaning  " basin lizards " ) were the earliest [[synapsid]]s. They were not [[dinosaurs]] or [[reptile]]s. They are an informal group which were once called the  " mammal-like reptiles " .  
+ The term is only used informally, if at all, in the modern scientific literature. 
+ 
+ These [[tetrapod]]s appeared during the [[Pennsylvanian]] and went extinct at the end of the [[Permian]] period. They were the dominant land animals for some 40 million years, and were almost wiped out by the [[P/Tr extinction event]]. A few survived until the lower [[Triassic]] to form the [[therapsid]]s. The therapsids led to the [[mammal]]s.  
+ 
+ Because the term  " Pelycosaur "  does not include their descendants, it is not used much now. < ref >  Botha-Brink J. and Modesto S.P. 2007. A mixed-age classed 'pelycosaur' aggregation from South Africa: earliest evidence of parental care in amniotes? ''Proceedings of the Royal Society B'', '''274'''(1627): 2829–2834. [http://rspb.royalsocietypublishing.org/content/274/1627/2829] < /ref > 
+ 
+ The most notable of these land animals was ''[[Dimetrodon]]'', the top predator of its time. 
+ 
+ == Characteristics == 
+ Pelycosaur fossils have been found mainly in [[Europe]] and [[North America]], although some small, late-surviving forms are known from [[Russia]] and [[South Africa]]. 
+ 
+ At least two pelycosaur [[clade]]s independently evolved a tall sail of elongated vertebral spines. In life, this would have been covered by skin, and possibly was a [[thermoregulation|thermoregulatory]] device and/or a mating display.  
+ Unlike [[lepidosauria]]n reptiles, pelycosaurs lacked epidermal [[Scale (zoology)|scale]]s.  
+ 
+ In 1940 the group was reviewed in detail and every species known at the time described (and many illustrated) in an important monograph. Well-known pelycosaurs include the [[Genus|genera]] ''[[Dimetrodon]]'', ''[[Sphenacodon]]'', ''[[Edaphosaurus]]'', and ''[[Ophiacodon]]''. 
+ 
+ == Classification == 
+ 
+ {{clade 
+ |label1='''Pelycosauria''' 
+ |1={{clade 
+  |label1=[[Sphenacodontia]] 
+  |1={{clade 
+   |1=''[[Sphenacodontoidea]]''              
+    |2=''[[Ophiacodontidae]]'' 
+    |3=''[[Varanopidae]]'' }} 
+     
+  |label2=[[Caseasauria]] 
+  |2={{clade 
+    |1=''[[Caseidae]]'' 
+    |2=''[[Eothyrididae]]'' 
+    |3=[[Paleohatteriidae]]}}}} }} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Synapsids]]

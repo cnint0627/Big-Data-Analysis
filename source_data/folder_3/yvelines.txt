@@ -1,0 +1,94 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox department for additional fields and descriptions -- > 
+ | name                    = Yvelines 
+ | | native_name_lang        = fr < !-- ISO 639-2 code e.g.  " fr "  for French. If more than one, use {{lang}} instead -- > 
+ | type                    = [[Departments of France|Department of France]] 
+ | image_skyline           = {{Photomontage|position=center 
+    | photo1a = Versailles prefecture yvelines (cropped).jpg 
+    | photo1b = Maisons du quartier des Gressets (cropped).jpg 
+    | photo2a = Etangs de la Minière (2934325093).jpg 
+    | photo3b = Versailles view from the Parterre d'eau.jpg 
+    | photo3a = Château de Versailles (19387602929).jpg 
+    | size = 270 
+    | spacing = 2 
+    | color = #FFFFFF 
+    | border = 0 
+    | foot_montage = }} 
+ | image_alt               =  
+ | image_caption           = From top down, left to right: [[Prefectures in France|prefecture]] building in [[Versailles, Yvelines|Versailles]], view of [[La Celle-Saint-Cloud]], forest and lake in [[Guyancourt]], marble courtyard and [[Gardens of Versailles|gardens]] of the [[Palace of Versailles]] 
+ | image_flag              = Drapeau fr département Yvelines.svg 
+ | flag_alt                = 
+ | image_shield            = Blason département fr Yvelines.svg 
+ | shield_alt              = 
+ | nickname                = 
+ | motto                   = 
+ | image_map               = Yvelines-Position.svg 
+ | map_alt                 = 
+ | map_caption             = Location of Yvelines in France 
+ | pushpin_map             = 
+ | pushpin_label_position  = 
+ | pushpin_map_alt         = 
+ | pushpin_map_caption     = 
+ | coordinates             = {{coord|48|50|N|1|55|E|region:FR_type:adm2nd_scale:1000000|display=inline,title}} 
+ | coor_pinpoint           = 
+ | coordinates_footnotes   = 
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = [[France]] 
+ | subdivision_type1       = [[Regions of France|Region]] 
+ | subdivision_name1       = [[Île-de-France]] 
+ | established_title       = 
+ | established_date        = 
+ | founder                 = 
+ | seat_type               = [[Prefectures in France|Prefecture]] 
+ | seat                    = [[Versailles, Yvelines|Versailles]] 
+ | parts_type              = [[Subprefectures in France|Subprefectures]] 
+ | parts_style             = para 
+ | p1                      = [[Mantes-la-Jolie]] < br > [[Rambouillet]] < br > [[Saint-Germain-en-Laye|Saint-Germain- < br > en-Laye]] 
+ | government_footnotes    = 
+ | leader_party            = 
+ | leader_title            = [[List of presidents of departmental councils (France)|President of the Departmental Council]] 
+ | leader_name             = [[Pierre Bédier]] ([[The Republicans (France)|LR]]) 
+ | unit_pref               = Metric < !-- or US or UK -- > 
+ | area_magnitude          = 
+ | area_footnotes          = {{ref|area|1}} 
+ | area_total_km2          = 2284 
+ | area_note               = 
+ | elevation_footnotes     = 
+ | elevation_m             = 
+ | elevation_min_m         = 
+ | elevation_max_m         = 
+ | population_footnotes    = 
+ | population_total        = 1431808 
+ | population_as_of        = 2016 
+ | population_rank         = [[List of French departments by population|9th]] 
+ | population_density_km2  = auto 
+ | population_demonym      = 
+ | population_note         = 
+ | blank_name_sec1         = [[Departments of France|Department number]] 
+ | blank_info_sec1         = 78 
+ | blank_name_sec2         = [[Arrondissements of France|Arrondissements]] 
+ | blank_info_sec2         = [[arrondissements of the Yvelines department|4]] 
+ | blank1_name_sec2        = [[Cantons in France|Cantons]] 
+ | blank1_info_sec2        = [[cantons of the Yvelines department|21]] 
+ | blank2_name_sec2        = [[Communes in France|Communes]] 
+ | blank2_info_sec2        = [[communes of the Yvelines department|259]] 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | postal_code_type        = 
+ | postal_code             = 
+ | area_code_type          = 
+ | area_code               = 
+ | iso_code                = 
+ | website                 = 
+ | footnotes               = {{note|area|1}} French Land Register data, which exclude estuaries and lakes, ponds and glaciers larger than 1 km². 
+ }} 
+ '''Yvelines''' is a [[departments of France|department]] in the [[Île-de-France]] region. Its [[prefecture]] is [[Versailles, Yvelines|Versailles]]. About 1,395,000 people live there (2006 estimation).  
+ 
+ {{Departments of France}} 
+ 
+ [[Category:Yvelines]] 
+ 
+ 
+ {{France-geo-stub}}

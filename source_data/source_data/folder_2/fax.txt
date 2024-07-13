@@ -1,0 +1,25 @@
+[[Image:Samfax.jpg|thumb|300px|A [[Samsung]] fax machine]] 
+ 
+ '''Fax''' (short for '''[[wikt:facsimile|facsimile]]'''),  or '''telecopying''', is the transmission of scanned printed material (both text and images), to a [[telephone]] number connected to a printer or other output device.  
+ 
+ The original document is scanned with a '''fax machine''' (or a '''telecopier'''), which turns the contents (text or images) into a [[bitmap]], then the bitmap is sent through the telephone system. The receiving fax [[machine]] reconverts the coded image, printing a [[paper]] copy. < ref > {{cite web|url=https://searchnetworking.techtarget.com/definition/fax|title=What is fax? - Definition from WhatIs.com|website=SearchNetworking}} < /ref >   
+ 
+ Businesses usually have some kind of fax system, but the technology has faced increasing competition from [[Internet]]-based methods. Fax machines still retain some advantages, particularly in the transmission of sensitive material which, if sent over the [[internet]], may be intercepted. However, [[encryption]] (a secret coding system) can make internet messages secure. 
+ 
+ In some countries, because [[electronic signature]]s on contracts are not recognized by law while faxed contracts with copies of signatures are, fax machines enjoy continuing support in business. 
+ 
+ In many businesses, standalone fax machines have been replaced by [[fax server]]s which receive and store incoming faxes electronically. The servers route them to users on paper or via a secure [[email]]. Such systems reduce costs by eliminating unnecessary printouts and reducing the number of inbound phone lines needed by an office. 
+ 
+ == History == 
+ === Wire transmission === 
+ Scottish inventor [[Alexander Bain]] worked on chemical mechanical fax type devices and in 1846 was able to reproduce graphic signs in laboratory experiments. He received the first fax [[patent]] in 1843.  [[Frederick Bakewell]] made several improvements on Bain's design and demonstrated a telefax machine. The [[Pantelegraph]] was invented by the Italian physicist [[Giovanni Caselli]]  He introduced the first commercial telefax service between [[Paris]] and [[Lyons]] in 1865, some 11 years before the invention of [[telephone]]s. < ref name = " italianunivbio " > {{cite web|url=http://www.itisgalileiroma.it/shed/shed0/shed0/caselli.htm|title=CASELLI|website=www.itisgalileiroma.it|access-date=2012-07-23|archive-date=2020-08-17|archive-url=https://web.archive.org/web/20200817223601/http://www.itisgalileiroma.it/shed/shed0/shed0/caselli.htm|url-status=dead}} < /ref > < ref name = " hebrewuniversity " > {{cite web|url=http://chem.ch.huji.ac.il/history/caselli.html|title=The Hebrew University of Jerusalem - Giovanni Caselli biography|publisher=|access-date=2012-07-23|archive-date=2008-05-06|archive-url=https://web.archive.org/web/20080506061432/http://chem.ch.huji.ac.il/history/caselli.html|url-status=dead}} < /ref >   
+ 
+ In 1881, English inventor [[Shelford Bidwell]] constructed the ''scanning phototelegraph'' that was the first telefax machine to scan any two-dimensional original, not requiring manual plotting or drawing. Around 1900, German physicist [[Arthur Korn]] invented the ''[[:de:Bildtelegrafie|Bildtelegraph]]''. It became widely used in continental Europe after a wanted-person photograph was transmitted from Paris to London in 1908. Its main competitors were the ''Bélinograf'' by [[Édouard Belin]] first, then since the 1930s the ''[[Hellschreiber]]'', invented in 1929 by German inventor [[Rudolf Hell]], a pioneer in mechanical image scanning and transmission. 
+ 
+ Transmission by landline was replaced by radiotransmission, and from  1960 by [[satellite]] transmission. Digital systems are now universal. Faster, more efficient and cheaper fax machines have allowed even small companies to own a fax machine. The technology is now world-wide. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ [[Category:Telecommunications]]

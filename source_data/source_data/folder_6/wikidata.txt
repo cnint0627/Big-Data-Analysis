@@ -1,0 +1,31 @@
+{{Infobox website 
+ | logo = Wikidata-logo-en.svg 
+ | screenshot = Wikidata.png 
+ | caption = Main page of Wikidata 
+ | url = {{Official URL}} < !-- {{Wd|properties|P856}} -- >  {{Wd|references|linked|P407}} 
+ | commercial = No 
+ | type = {{hlist|class=nowrap |[[Knowledge base]] |[[Wiki]]}} 
+ | registration = Optional 
+ | language = {{Wd|properties|linked|references|linked|P407}} 
+ | owner = {{Wd|properties|linked|references|linked|P137}} 
+ | author = {{Wd|properties|linked|references|linked|P50}} 
+ | name = Wikidata 
+ | location =  
+ | launch_date = {{start date and age|2012|10|29|df=y}} < !-- {{Wd|properties|P571}} -- > {{Wd|references|P571}} 
+ }} 
+ '''Wikidata''' is a [[wiki]] that is a [[database]], a collection of [[wikt:data|data]] on the [[internet]]. The information stored on Wikidata can be used by other websites including [[Wikipedia]]. Wikidata is designed so that humans and machines can read it. As of March 2019, it contains more than 55 million items and has 21 thousand active users. For example, it links all the different pages here to other wikis by languages. < ref > {{Cite web|url = https://www.wikidata.org/wiki/Special:Statistics|title = Statistics|first =|last =|date = September 5, 2016|website = Wikidata|publisher = Wikimedia Foundation|accessdate = September 5, 2016}} < /ref > 
+ 
+ Wikidata provides support for [[Wikipedia]], [[Wikimedia Commons]], and other wikis of the [[Wikimedia movement]]. Anyone can use it. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Wikimedia Foundation}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Wikimedia Foundation]] 
+ [[Category:Wikis]] 
+ 
+ 
+ {{tech-stub}}

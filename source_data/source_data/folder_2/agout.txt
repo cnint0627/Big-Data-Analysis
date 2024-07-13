@@ -1,0 +1,134 @@
+{{Infobox river 
+ | name              = Agout  
+ | image             = France - Giroussens - vallée de l'Agout.jpg  
+ | image_caption     =  
+ | source1_location  = [[Massif Central]]  
+ | mouth_location    = [[Tarn River]]  
+ | mouth_coordinates = {{coord|43|47|4|N|1|41|1|E|name=Tarn-Agout|display=inline,title}} 
+ | progression       = {{RTarn}} 
+ | subdivision_type1 = Country 
+ | subdivision_name1 = [[France]]  
+ | length            = {{convert|195|km|mi|abbr=on}}  
+ | source1_elevation =  
+ | discharge1_avg    = {{convert|55|m3/s|cuft/s|abbr=on}}  
+ | basin_size        = {{convert|3500|km2|mi2|abbr=on}} 
+ }} 
+ The '''Agout''' or '''Agoût''' ({{lang-oc|Agot}}) is a river in southwestern [[France]], left [[tributary]] of the [[Tarn (river)|Tarn]] [[river]]. It flows through the [[Occitanie]] [[Regions of France|region]]. 
+ 
+ Three [[Communes of France|''communes'']] have the name of the river in their names: [[La Salvetat-sur-Agout]], [[Fraisse-sur-Agout]] and [[Vielmur-sur-Agout]]. 
+ 
+ ==Geography== 
+ The Agout river has a length of {{Convert|194.4|km|mi|1|abbr=on}} and a [[drainage basin]] with an area of {{Convert|3497|km2|sqmi|0|abbr=on }}. < ref name= " sandre " > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=O4--0250 |title=L'Agout (O4--0250) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=29 September 2014 }} < /ref > 
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|41|m3/s|cuft/s|abbr=on }} at [[Lavaur, Tarn|Lavaur]] in the [[Tarn]] department. < ref name= " hydro " > {{cite web |url=http://www.hydro.eaufrance.fr/stations/O4692550%26procedure%3Dsynthese |title=L'Agout à Lavaur [Pont de Lavaur] |publisher=Banque Hydro |language=fr |access-date=2 February 2017 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303191315/http://www.hydro.eaufrance.fr/stations/O4692550%26procedure%3Dsynthese |url-status=dead }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:80 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 70.10 
+  bar:Feb from:0 till: 74.60 
+  bar:Mar from:0 till: 58.20 
+  bar:Apr from:0 till: 55.90 
+  bar:May from:0 till: 45.50 
+  bar:Jun from:0 till: 27.70 
+  bar:Jul from:0 till: 14.60 
+  bar:Aug from:0 till: 9.78 
+  bar:Sep from:0 till: 14.00 
+  bar:Oct from:0 till: 23.70 
+  bar:Nov from:0 till: 36.60 
+  bar:Dec from:0 till: 64.20 
+ 
+ PlotData= 
+  bar:Jan at: 70.10 fontsize:S text: 70.10 shift:(-8,5) 
+  bar:Feb at: 74.60 fontsize:S text: 74.60 shift:(-10,5) 
+  bar:Mar at: 58.20 fontsize:S text: 58.20 shift:(-10,5) 
+  bar:Apr at: 55.90 fontsize:S text: 55.90 shift:(-10,5) 
+  bar:May at: 45.50 fontsize:S text: 45.50 shift:(-10,5) 
+  bar:Jun at: 27.70 fontsize:S text: 27.70 shift:(-10,5) 
+  bar:Jul at: 14.60 fontsize:S text: 14.60 shift:(-10,5) 
+  bar:Aug at: 9.78 fontsize:S text: 9.78 shift:(-10,5) 
+  bar:Sep at: 14.00 fontsize:S text: 14.00 shift:(-10,5) 
+  bar:Oct at: 23.70 fontsize:S text: 23.70 shift:(-10,5) 
+  bar:Nov at: 36.60 fontsize:S text: 36.60 shift:(-10,5) 
+  bar:Dec at: 64.20 fontsize:S text: 64.20 shift:(-10,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Lavaur (56 years)''' < ref name= " hydro "  / > 
+ < /center > 
+ 
+ ===Course=== 
+ The [[River source|source]] of the Agout is on the ''Monts d'Espinouse'', in the southern [[Massif Central]] in the [[Parc Naturel Régional du Haut-Languedoc]] ( " Regional Natural Park of High Languedoc " ), in the [[Communes of France|''commune'']] of [[Cambon-et-Salvergues]], [[Hérault]] department, at an [[altitude]] of about {{Convert|1060|m|ft|0|abbr=on }}. < ref > {{cite web |url=http://www.geoportail.gouv.fr/accueil?c=2.934167,43.654444 & z=0.000224579 & l=GEOGRAPHICALGRIDSYSTEMS.MAPS.3D$GEOPORTAIL:OGC:WMTS@aggregate(1) & permalink=yes |title=Source de l'Agout |publisher=Géoportail |language=fr |access-date=29 September 2014 }} < /ref > 
+ 
+ The Agout flows, in general, to the northwest and passes through the following regions, departments and ''communes'': 
+ 
+ * [[Occitanie]] region 
+ ** [[Hérault]]: [[La Salvetat-sur-Agout]], [[Fraisse-sur-Agout]] 
+ ** [[Tarn]]: [[Brassac, Tarn|Brassac]], [[Castelnau-de-Brassac]], [[Coufouleux]], [[Giroussens]], [[Burlats]], [[Lavaur, Tarn|Lavaur]], [[Castres, Tarn|Castres]], [[Rabastens]], [[Saint-Sulpice-la-Pointe|Saint-Sulpice]] 
+ 
+ The Agout river flows through a total of 36 ''communes''. < ref name= " sandre "  / > 
+ 
+ Finally, it flows, as a left [[tributary]] into the [[Tarn (river)|Tarn]] river at [[Saint-Sulpice-la-Pointe|Saint-Sulpice]], in the [[Tarn]] department, at {{Convert|98|m|ft|0|abbr=on }} of altitude. < ref > {{cite web |url=http://www.geoportail.gouv.fr/accueil?c=1.683056,43.785 & z=0.000224579 & l=GEOGRAPHICALGRIDSYSTEMS.MAPS.3D$GEOPORTAIL:OGC:WMTS@aggregate(1) & permalink=yes |title=Confluence de l'Agout |publisher=Géoportail |language=fr |access-date=29 September 2014 }} < /ref > 
+ 
+ ==Main tributaries== 
+ The main [[Tributary|tributaries]], with a length greater than 30 & nbsp;km, of the Agout are: 
+ * Left tributaries 
+ ** Durenque - 31.5 & nbsp;km; < ref > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=O42-0400 |title=La Durenque (O42-0400) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=29 September 2014 }} < /ref >  it joins the Agout in [[Castres, Tarn|Castres]]. 
+ ** Thoré - 61.6 & nbsp;km; < ref > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=O43-0400 |title=Le Thoré (O43-0400)) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=29 September 2014 }} < /ref > 
+ ** Sor - 60.8 & nbsp;km; < ref > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=O45-0400 |title=Le Sor (O45-0400) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=29 September 2014 }} < /ref > 
+ * Right tributaries 
+ ** Gijou - 50.1 & nbsp;km; < ref > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=O41-0430 |title=Le Gijou (O41-0430) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=29 September 2014 }} < /ref > 
+ ** [[Dadou]] - 115.8 & nbsp;km; < ref > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=O47-0400 |title=Le Dadou (O47-0400) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=29 September 2014 }} < /ref > 
+ {{-}} 
+ ==Gallery== 
+ < gallery widths=160px > 
+ File:Agout source.JPG|[[Cambon-et-Salvergues]]: Source of the river Agout 
+ File:Castres (81), Maisons sur l'Agoût.JPG|Houses in [[Castres, Tarn|Castres]] by the Agout river 
+ File:France - Giroussens - Agout.jpg|The Agout at [[Giroussens]] 
+ File:Evêché, Cathédrale et berges sur l'Agout.JPG|The Agout at [[Castres, Tarn|Castres]] 
+ File:Brassac pont.JPG|Bridge over the Agout at [[Brassac, Tarn|Brassac]] 
+ Saint-Sulpice-la-Pointe (Tarn) - La chaussée du moulin sur l'Agout.jpg|[[Saint-Sulpice-la-Pointe]] 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ == References == 
+ {{Reflist|2}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Agout}} 
+ * [http://www.hydro.eaufrance.fr/selection.php Banque Hydro - Station O4692550 - L'Agout à Lavaur (Synthèse)] {{Webarchive|url=https://web.archive.org/web/20150219053605/http://www.hydro.eaufrance.fr/selection.php |date=2015-02-19 }} {{in lang|fr}} 
+ * [http://www.bassin-agout.fr/ Syndicat Mixte du Bassin de l'Agout] {{in lang|fr}} 
+ 
+ [[Category:Rivers of Occitanie]]

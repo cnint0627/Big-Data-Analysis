@@ -1,0 +1,64 @@
+{{Infobox French commune 
+ |name                   = Colombelles 
+ |image coat of arms     = CoA fr Colombelles.svg 
+ |image coat of arms size= 100px 
+ |image                  = FranceNormandieColombellesTour.jpg 
+ |caption                = Norman tower 
+ |arrondissement         = Caen 
+ |canton                 = Cabourg 
+ |INSEE                  = 14167 
+ |postal code            = 14460 
+ |mayor                  = Colin Sueur 
+ |term                   = 
+ |intercommunality       = Caen la Mer 
+ |coordinates = {{coord|49.205|-0.2961|format=dms|display=inline,title}} 
+ |elevation m            = 40 
+ |elevation min m        = 2 
+ |elevation max m        = 49 
+ |area km2               = 7.14 
+ |population             = 6242 
+ |population date        = 1999 
+ }} 
+ '''Colombelles''' is a [[Communes of France|commune]]. It is found in the [[Regions of France|region]] [[Basse-Normandie]] in the [[Calvados (department)|Calvados]] [[Departments of France|department]] in the northwest of [[France]]. 
+ 
+ Here is a graph showing how the people there got more: 
+ 
+ < timeline >                                                  
+ ImageSize  = width:250 height:200                           
+ PlotArea   = left:40 right:10 top:10 bottom:20             
+ TimeAxis   = orientation:horizontal                        
+ AlignBars  = justify                                        
+ Colors =                                                 
+   id:gray1 value:gray(0.9)                            
+                                                    
+ DateFormat = yyyy                                  
+ Period     = from:1960 till:2010                  
+ ScaleMajor = unit:year increment:10 start:1960 
+                                      
+ PlotData =                           
+   bar:8700 color:gray1 width:1        
+   from:start till:end              
+   bar:5800 color:gray1               
+   from:start till:end             
+   bar:2900 color:gray1            
+   from:start till:end          
+   bar:0 color:gray1        
+                         
+                      
+ LineData =        
+   layer:front     
+   points:(48,120)(84,131) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 5122 1968: 5668 
+   points:(84,131)(100,129)    color:blue    width:2 #1975: 5566 
+   points:(100,129)(128,124)   color:blue    width:2 #1982: 5306 
+   points:(128,124)(160,131)   color:blue    width:2 #1990: 5695 
+   points:(160,131)(196,142)   color:blue    width:2 #1999: 6242 
+    
+ < /timeline > 
+ 
+ {{Calvados communes}} 
+ {{Commonscat}} 
+ 
+ 
+ {{France-geo-stub}} 
+ 
+ [[Category:Communes in Calvados]]

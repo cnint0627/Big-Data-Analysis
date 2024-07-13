@@ -1,0 +1,94 @@
+{{infobox settlement 
+ < !--See the table at Infobox settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  -- > 
+ |name                   = Dhankuta 
+ |other_name             = 
+ |native_name            = {{lang|ne|धनकुटा}} 
+ |nickname               = Eastern Hillstation 
+ |settlement_type    =  City 
+ |motto                  = Hamro Dhankuta, Ramro Dhankuta 
+ < !-- images and maps  -- > 
+ |image_map              = 
+ |imagesize              = 250px 
+ |flag_size              = 300px 
+ |image_skyline          = Dhankuta.jpg 
+ |image_caption          = A view of Dhankuta hill town 
+ |image_flag             = 
+ |image_seal             = 
+ |mapsize                = 300px 
+ |map_caption            = Map of Dhankuta District. Dhankuta is shaded in light blue second from top. 
+ |pushpin_map            = Nepal  
+ |pushpin_label_position = bottom 
+ |pushpin_mapsize        = 300 
+ |pushpin_map_caption    = Location in Nepal 
+ < !-- Location -- > 
+ |subdivision_type       = Country 
+ |subdivision_name       = {{flag|Nepal}} 
+ |subdivision_type1      = [[Zones of Nepal|Zone]] 
+ |subdivision_name1      = [[Koshi Zone]] 
+ |subdivision_type2      = [[Districts of Nepal|District]] 
+ |subdivision_name2     = [[Dhankuta District]] 
+ |government_footnotes   = 
+ < !-- 
+ -- > 
+ |government_type        = [[Mayor–council government|Mayor–council]] 
+ |leader_title           = [[Mayor]] 
+ |leader_name            = Mr. Chintan Tamang 
+ |leader_title1          = [[Deputy Mayor]] 
+ |leader_name1           = Ms. Shakuntala Basnet 
+ |established_title      =  < !-- Settled -- > 
+ |established_date       = 
+ < !-- Area    -- > 
+ |unit_pref                =   < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = 
+ |area_total_km2            =   < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ 
+ < !-- Population   -- > 
+ |population_as_of               = 2011  < ref name= " National Population and Housing Census 2011(National Report) " > {{cite news|title=National Population and Housing Census 2011(National Report) |url=http://cbs.gov.np/wp-content/uploads/2012/11/National%20Report.pdf |access-date=1 November 2012 |agency=Government of Nepal |publisher=[[Central Bureau of Statistics (Nepal)|Central Bureau of Statistics]] |date=November 2012 |ref=Central Bureau of Statistics |url-status=dead |archive-url=https://web.archive.org/web/20130418000000/http://cbs.gov.np/wp-content/uploads/2012/11/National%20Report.pdf |archive-date=2013-04-18 }} < /ref > 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               = 26440 
+ |population_density_km2         = 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_urban               = 
+ |population_density_urban_km2   = 
+ |population_density_urban_sq_mi = 
+ |population_blank1_title        = Ethnicities 
+ |population_blank1              =[[Limbu]], [[Yakha]], [[Brahmin]], [[Chhetri]],  [[Rai people|Rai]], [[Gurung]]         
+ |population_blank2_title        = Religions 
+ |population_blank2              =[[Hinduism]], [[Buddhist]] and [[Kirat]] 
+ < !-- General information  -- > 
+ |timezone               = [[Nepal Standard Time|NST]] 
+ |utc_offset             = +5:45 
+ |timezone_DST           = 
+ |utc_offset_DST         = 
+ |coordinates            = {{coord|26|59|0|N|87|20|0|E|type:city(41210)_region:NP|display=inline,title}} 
+ |elevation_footnotes    =  < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            = 
+ < !-- Area/postal codes  &  others -- > 
+ |postal_code_type       = [[Postal Code]] 
+ |postal_code            = 56800 
+ |area_code              = 026 
+ |blank_name             = [[Köppen climate classification|Climate]] 
+ |blank_info             = [[Humid subtropical climate|Cwa]] 
+ |website                = [http://dhankutamun.gov.np Dhankuta Municipality],[http://ddcdhankuta.gov.np District Coordination Committee] 
+ |footnotes              =  
+ |numbers of wards           =  
+ }} 
+ '''Dhankuta''' ({{lang-ne|धनकुटा}} {{audio|Dhankuta.ogg|listen}}) < ref > http://www.ddcdhankuta.gov.np < /ref >  is a town in the hills of eastern [[Nepal]]. It is the headquarters of [[Koshi Zone]]. It is located in [[Dhankuta district]]. [[Nepali language|Nepali]] is spoken there, and [[English language|English]] is also spoken in some offices. 
+ 
+ ==Related pages== 
+ *[[Zones of Nepal]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ 
+ 
+ {{asia-stub}} 
+ 
+ [[Category:Municipalities of Nepal]]

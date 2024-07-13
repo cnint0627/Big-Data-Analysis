@@ -1,0 +1,47 @@
+{{Infobox Software 
+ | name                   = Fluxbox 
+ | logo                   =  
+ | screenshot             = Fluxbox.png 
+ | caption                = Fluxbox with a customized theme. 
+ | author                 =  
+ | developer              = Fluxbox developers 
+ | released               =  
+ | latest release version = 1.1 [http://sourceforge.net/project/showfiles.php?group_id=35398] 
+ | latest release date    = September 2, 2008 
+ | latest preview version =  
+ | latest preview date    =  
+ | programming language   =  
+ | operating system       = [[Unix-like]] 
+ | platform               =  
+ | language               =  
+ | status                 =  
+ | genre                  = [[X window manager]] 
+ | license                = [[MIT License|MIT]] 
+ | website                = [http://fluxbox.org fluxbox.org] 
+ }} 
+ 
+ In [[Unix]] [[computer science|computing]], '''Fluxbox''' is an [[X window manager]] [[fork (software)|based]] on [[Blackbox]] 0.61.1. It tries to be [[lightweight]] and customizable, and has very little support for graphical [[icon (computing)|icons]]. Its [[user interface]] has only a [[taskbar]] and a menu that can be used by right-clicking on the desktop. All basic settings are controlled by [[text file]]s. < ref name= " linux.org " > {{cite web|url=http://www.linux.org/lessons/short/fluxbox/index.html|title=Using the Fluxbox Window Manager|publisher=Linux Online Inc.|first=Michael J.|last=Jordan|access-date=2008-09-08|archive-date=2007-10-01|archive-url=https://web.archive.org/web/20071001061557/http://www.linux.org/lessons/short/fluxbox/index.html|url-status=dead}} < /ref > 
+ 
+ Fluxbox can show some [[eye candy]] such as: colors, gradients, borders, and several other basic appearance settings can be changed. Effects managers such as [[Xcompmgr]] and [[transset-df]] can add true transparency to desktop elements and windows. Enhancements can also be provided by using [[iDesk]] or [http://fluxbox.sourceforge.net/fbdesk/ fbdesk] {{Webarchive|url=https://web.archive.org/web/20081029070510/http://fluxbox.sourceforge.net/fbdesk/ |date=2008-10-29 }}, or the [[ROX Desktop]]. 
+ Fluxbox also has several features Blackbox does not have, including [[Tabbed document interface|tabbed windows]] and a configurable titlebar. < ref name= " wiki-eyecandy " > {{Cite web |url=http://fluxbox-wiki.org/index.php/Eye_candy |title=Eye candy - Fluxbox-wiki < !-- Bot generated title -- >  |access-date=2008-09-08 |archive-date=2007-10-13 |archive-url=https://web.archive.org/web/20071013212916/http://fluxbox-wiki.org/index.php/Eye_candy |url-status=dead }} < /ref > 
+ 
+ Because of its small memory use and quick loading time, Fluxbox is popular in many [[Live CD]]s such as [[Knoppix STD]] and [[GParted]]. It was the default window manager of [[Damn Small Linux]], but was replaced with [[JWM]] after the release of Damn Small Linux 4.0.  It is currently the default window manager of [http://antix.mepis.com/index.php/Main_Page antiX] {{Webarchive|url=https://web.archive.org/web/20090430165804/http://antix.mepis.com/index.php/Main_Page |date=2009-04-30 }}, a [[linux distribution]] based on [[MEPIS]] and designed for old computers, [[PCFluxboxOS]], a remaster of [[PCLinuxOS]], and [[LinguasOS]], a [[Live CD]] distribution for professional [[translator]]s.  [[Fluxbuntu]], [[Ubuntu]] with Fluxbox and lightweight [[software|applications]], was released in [[October 2007]]. < ref name= " fluxubuntu " > {{Cite web |url=http://fluxbuntu.org/ |title=Fluxbuntu Home < !-- Bot generated title -- >  |access-date=2008-09-08 |archive-date=2007-09-26 |archive-url=https://web.archive.org/web/20070926212901/http://fluxbuntu.org/ |url-status=dead }} < /ref > 
+ 
+ ==Related pages== 
+ * [[Blackbox]] 
+ * [[Openbox]] 
+ * [[Fluxbuntu]] 
+ * [[LinguasOS]] 
+ * [[PCFluxboxOS]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://fluxbox.org/ Official website] 
+ * [http://fluxbox-wiki.org/index.php/Fluxbox-wiki Fluxbox official wiki] {{Webarchive|url=https://web.archive.org/web/20100515031837/http://fluxbox-wiki.org/index.php/Fluxbox-wiki |date=2010-05-15 }} 
+ * [irc://irc.freenode.net/fluxbox #fluxbox] on freenode 
+ * [http://www.linguasos.org/about.html LinguasOS] {{Webarchive|url=https://web.archive.org/web/20080725114731/http://www.linguasos.org/about.html |date=2008-07-25 }} 
+ * [http://pcfluxboxos.wikidot.com/ PCFluxboxOS] 
+ 
+ [[Category:Desktop Environments]]

@@ -1,0 +1,142 @@
+
+ {{Infobox settlement 
+ | name                            = Bangsamoro 
+ | official_name                   = Bangsamoro Autonomous Region in Muslim Mindanao < br/ > {{lang-fil|Rehiyong Awtonomo ng Bangsamoro sa Muslim Mindanao}} < br/ > {{lang-ar|منطقة بانجسامورو ذاتية الحكم فى مسلمى مينداناو}} 
+ | native_name                     = {{native name|ar|بانجسامورو}} < br/ > {{native name|tsg|باڠسامورو}} 
+ | settlement_type                 = [[Autonomous regions of the Philippines|Autonomous region]] 
+ | anthem                          = [[Bangsamoro Hymn]] 
+ < !-- Skyline  -- > | image_skyline                   = {{Photomontage 
+  | photo1a  = OCM_BGC.jpg{{!}}Bangsamoro Government Center  
+  | photo1b  = Bulingan Falls Lamitan.jpg{{!}}Bulingan Falls, Lamitan city, Basilan 
+  | photo2a  = Panampangan Island.jpg{{!}}Panampangan Island, Sapa-sapa, Tawi-Tawi 
+  | photo2b  = Polloc Port.jpg{{!}}Polloc Port, Parang, Maguindanao 
+  | photo3a  = Lake Lanao Marawi City.jpg{{!}}Lanao Lake at Marawi City 
+  | photo3b  = PC Hill Cotabato City.jpg{{!}}PC Hill Cotabato City 
+  | size     = 250 
+  | position = center 
+  | spacing  = 2 
+  | color    = transparent 
+  | border   = 0 
+  | foot_montage = Left to right, top to bottom: [[Bangsamoro Government Center]]; Bulingan Falls, [[Lamitan, Basilan]]; Panampangan Island, [[Sapa-sapa, Tawi-Tawi]]; Polloc Port, [[Parang, Maguindanao]]; [[Lanao Lake]] at Marawi City; and PC Hill, [[Cotabato City]]  
+ }} 
+ | image_alt                       =  
+ | image_caption                   =  
+ | image_flag                      = Flag of Bangsamoro.svg 
+ | flag_alt                        =  
+ | image_seal                      = Seal of Bangsamoro.svg 
+ | seal_alt                        =  
+ | image_shield                    =  
+ | shield_alt                      =  
+ | nickname                        =  
+ | motto                           =  
+ | image_map                       = {{PH wikidata|image_map}} 
+ | map_alt                         =  
+ | map_caption                     = Location in the Philippines 
+ | coordinates                     = {{coord|region:PH|format=dms|display=inline,title}} 
+ | coor_pinpoint                   =  
+ | coordinates_footnotes           =  
+ | subdivision_type                = Country 
+ | subdivision_name                = [[Philippines]] 
+ | established_title               = [[2019 Bangsamoro autonomy plebiscite|Creation plebiscite]]{{ref|a|a}} 
+ | established_date                = January 21, 2019 
+ | established_title2              = [[Bangsamoro transition period|Turnover]]{{ref|b|b}} 
+ | established_date2               = February 26, 2019 
+ | established_title3              = Inauguration of government 
+ | established_date3               = March 29, 2019 
+ | government_type                 = [[Devolution|Devolved]] [[Autonomous regions of the Philippines|regional]] [[Parliamentary system|parliamentary government]] within a [[Unitary state|unitary]] [[Presidential system|presidential]] [[Republic|constitutional republic]] 
+ | seat_type                       = Regional center 
+ | seat                            = [[Cotabato City]] < ref name=barmmBAC > {{cite web|title=Bangsamoro Autonomy Act No. 13|url=https://parliament.bangsamoro.gov.ph/mis-content/uploads/2021/02/BAA-13-Admin-Code.pdf|publisher=Bangsamoro Parliament|access-date=February 24, 2021|quote=The seat of the Bangsamoro Government shall be in Cotabato City, unless otherwise provided by the Bangsamoro Parliament in a subsequent law.}}{{Dead link|date=December 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ | government_footnotes            =  
+ | governing_body                  = [[Bangsamoro Transition Authority]] 
+ | leader_party                    =  
+ | leader_title1                   = [[Wa'lī of Bangsamoro|Wa'lī]] 
+ | leader_name1                    = [[Khalifa Nando]] 
+ | leader_title2                   = [[Chief Minister of Bangsamoro|Chief Minister]] 
+ | leader_name2                    = [[Murad Ebrahim]] 
+ | leader_title3                   = [[Deputy Chief Ministers of Bangsamoro|Deputy Chief Ministers]] < ref name=muradvows > {{cite news |last1=Arguilas |first1=Carolyn |title=Murad vows a government  " free of all the ills of governance; "  names 10 ministers |url=https://www.mindanews.com/peace-process/2019/02/murad-vows-a-government-free-of-all-the-ills-of-governance-names-10-ministers/ |access-date=February 27, 2019 |work=MindaNews |date=February 27, 2019}} < /ref > 
+ | leader_name3                    = [[Ali Solaiman]] < br/ > {{small|(Deputy for the Mainland)}} < br/ > ''Vacant'' < br/ > {{small|(Deputy for the Islands)}} 
+ | leader_title4                   = [[Speaker of the Bangsamoro Parliament|Speaker of the Parliament]] 
+ | leader_name4                    = [[Pangalian Balindong]] 
+ | unit_pref                       = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > | area_footnotes                  =  
+ | area_urban_footnotes            =  
+ | area_rural_footnotes            =  
+ | area_metro_footnotes            =  
+ | area_magnitude                  =  
+ | area_note                       =  
+ | area_water_percent              =  
+ | area_rank                       =  
+ | area_blank1_title               =  
+ | area_blank2_title               =  < !-- square kilometers -- > 
+ | area_total_km2                  =  
+ | area_land_km2                   =  
+ | area_water_km2                  =  
+ | area_urban_km2                  =  
+ | area_rural_km2                  =  
+ | area_metro_km2                  =  
+ | area_blank1_km2                 =  
+ | area_blank2_km2                 =  
+ | length_km                       =  
+ | width_km                        =  
+ | dimensions_footnotes            =  
+ | elevation_footnotes             =  
+ | elevation_m                     =  
+ | population_footnotes            = {{ref|c|c}} 
+ | population_total                = {{PH wikidata|population_total}} 
+ | population_as_of                = {{PH wikidata|population_as_of}} 
+ | population_density_km2          = auto 
+ | population_blank1_title         = [[Household]]s 
+ | population_blank1               = {{PH wikidata|household}} 
+ | population_demonym              = [[Moro people|Bangsamoro]] < !--- 
+ {{Moro}} 
+ As per Bangsamoro Organic Law--- > 
+ | blank_name_sec1                 = [[Provinces of the Philippines|Provinces]] 
+ | blank_info_sec1                 = {{Collapsible list 
+  | titlestyle             = font-weight:normal;text-align:left;background-color:WhiteSmoke; 
+  | title                  = 5 
+  | [[Basilan]] (except [[Isabela, Basilan|Isabela City]]) 
+  | [[Lanao del Sur]] 
+  | [[Maguindanao]] 
+  | [[Sulu]] 
+  | [[Tawi-Tawi]] 
+  }} 
+ | blank1_name_sec1                = [[Cities of the Philippines|Cities]] 
+ | blank1_info_sec1                = {{Collapsible list 
+  | titlestyle            = font-weight:normal;text-align:left;background-color:WhiteSmoke; 
+  | title                 = 3 
+  | [[Cotabato City]] 
+  | [[Lamitan]] 
+  | [[Marawi]] 
+  }} 
+ | blank2_name_sec1                = [[Municipalities of the Philippines|Municipalities]] 
+ | blank2_info_sec1                = 116 
+ | blank3_name_sec1                = [[Barangay]]s 
+ | blank3_info_sec1                = 2,590 (including 63 in the [[Bangsamoro Special Geographic Area|special geographic area]] in [[Cotabato]]) 
+ | blank4_name_sec1                = [[House of Representatives of the Philippines|Legislative districts]] 
+ | blank4_info_sec1                = 8 
+ | blank_name_sec2                 = [[Languages of the Philippines|Languages]] 
+ | blank_info_sec2                 = {{hlist|[[Filipino language|Filipino]]|[[Arabic]]|[[English language|English]]|[[Maranao language|Maranao]]|[[Cebuano language|Cebuano]]|[[Yakan language|Yakan]]|[[Tausug language|Tausug]]|[[Sama language|Sama]]|[[Iranun language|Iranun]]|[[Chavacano]]|[[Tiruray language|Tiruray]]|[[Maguindanaon language|Maguindanaon]]|[[Sabah Malay language|Sabah Malay]]}} 
+ | timezone                        = [[Philippine Standard Time|PST]] 
+ | utc_offset                      = +08:00 
+ | postal_code_type                = [[List of ZIP codes in the Philippines|ZIP code]] 
+ | postal_code                     =  
+ | area_code_type                  = [[Telephone numbers in the Philippines|Dialing code]] 
+ | area_code                       = {{PH wikidata|area_code}} 
+ | iso_code                        =  
+ | website                         = {{URL|bangsamoro.gov.ph}} 
+ | footnotes                       = 
+ }} 
+ The '''Bangsamoro''' is an autonomous region in the southern [[Philippines]]. It is officially named the '''Bangsamoro Autonomous Region in Muslim Mindanao''' or '''BARMM'''. 
+ 
+ It replaced the [[Autonomous Region in Muslim Mindanao]] in 2019. 
+ 
+ The region includes [[Lake Lanao]], one of the 17 most ancient lakes in the world. The Sulu archipelago region includes the [[Turtle Islands Wildlife Sanctuary]] (a [[UNESCO]] tentative site), [[Bongao Peak]], and the Basilan Rainforest. Majority of the population in this region follow [[Islam]]. The capital city is [[Marawi]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{multistub|geo|asia}} 
+ 
+ [[Category:Bangsamoro| ]] 
+ [[Category:2010s establishments in the Philippines]] 
+ [[Category:2019 establishments in Asia]]

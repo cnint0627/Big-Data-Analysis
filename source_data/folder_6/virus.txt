@@ -1,0 +1,234 @@
+{{for|computers|Computer virus}} 
+ {{Virusbox 
+ | image = File:Coronavirus. SARS-CoV-2.png 
+ | image_alt =  " Severe acute respiratory syndrome coronavirus 2 " 
+ | image_caption = [[Severe acute respiratory syndrome coronavirus 2|SARS-CoV-2]], a member of the subfamily ''[[Coronavirinae]]'' 
+ | taxon = Virus 
+ | synonyms =  
+ | synonyms_ref =  
+ | subdivision_ranks = [[Realm (virology)|Realms]] 
+ | subdivision =   
+ * ''[[Adnaviria]]'' 
+ * ''[[Duplodnaviria]]'' 
+ * ''[[Monodnaviria]]'' 
+ * ''[[Riboviria]]'' 
+ * ''[[Ribozyviria]]'' 
+ * ''[[Varidnaviria]]'' 
+ }} 
+ [[File:TMV structure simple.png|thumb|230px|Structure of [[tobacco mosaic virus]]: [[RNA]] coiled in a helix of repeating protein sub-units]] 
+ 
+ A '''virus''' is a tiny [[parasitism|parasite]]. < ref name=Britt > Glaunsinger, Britt 2020 Viruses reveal the secrets of biology. [https://www.youtube.com/watch?v=fQHL9QabwLQ] This source makes the astonishing claim that there are !0 < sup > 24 < /sup >  viral infections/second. < /ref >  [[Virology]] is the study of viruses. 
+ 
+ Viruses can only be seen under an [[Electron microscope|electron microscope]]. Viruses are not free-living: they can only be parasites. They always reproduce inside other living things. All viruses infect living [[organism]]s, and may cause disease. The virus make [[Self-replication|copies of itself]] inside another organism's cells. Viruses are a strand of [[nucleic acid]] with a [[protein]] coat. Usually the nucleic acid is [[RNA]]; sometimes it is [[DNA]]. Viruses cause many types of [[disease]]s, such as [[polio]], [[ebola]] and [[hepatitis]].   
+ 
+ Viruses reproduce by getting their nucleic acid strand into a [[prokaryote]] or [[eukaryote]] [[cell]]. The [[RNA]] or [[DNA]] strand then takes over the cell machinery to reproduce copies of itself and the protein coat. The cell then bursts open, spreading the newly created viruses. All viruses reproduce this way, and there are no free-living viruses. < ref name= " Dimmock " > Dimmock N.J; Easton, Andrew J; Leppard, Keith 2007. ''Introduction to modern virology''. 6th ed, Blackwell. {{ISBN|1-4051-3645-6}} < /ref > < ref name= " Shors " > Shors Teri 2017. ''Understanding viruses''. Jones and Bartlett. ISBN 978-1-284-02592-7 < /ref >  Viruses are everywhere in the environment, and all organisms can be infected by them. < ref name= " Breitbart M, Rohwer F 2005 278–84 " > {{cite journal|author=Breitbart M, Rohwer F|title=Here a virus, there a virus, everywhere the same virus?|url=https://archive.org/details/sim_trends-in-microbiology_2005-06_13_6/page/278|journal=Trends Microbiol |volume=13|issue=6|pages=278–84|year=2005|pmid=15936660|doi=10.1016/j.tim.2005.04.003}} < /ref > < ref name= " Lawrence " > {{cite journal|author=Lawrence CM, Menon S, Eilers BJ |display-authors = etal |title=Structural and functional studies of archaeal viruses|journal=J. Biol. Chem.|volume=284|issue=19|pages=12599–603|year=2009|pmid=19158076|doi=10.1074/jbc.R800078200|pmc=2675988|doi-access = free }} < /ref > < ref > {{cite journal|author=Edwards RA, Rohwer F|title=Viral metagenomics|journal=Nat. Rev. Microbiol. |volume=3|issue=6|pages=504–10|year=2005|pmid=15886693|doi=10.1038/nrmicro1163|s2cid=8059643}} < /ref > 
+ 
+ Most viruses are much smaller than [[bacteria]]. They were not visible until the invention of the [[electron microscope]]. A virus has a simple structure. It has just a [[protein]] coat which covers a string of nucleic acid. Viruses live and reproduce inside the cells of other living organisms. 
+ 
+ With [[eukaryote|eukaryotic]] cells, the virus protein coat is able to enter the target cells by certain [[cell membrane]] receptors. With prokaryote [[bacteria]] cells, the [[bacteriophage]] physically injects the nucleic acid strand into the host cell. 
+ 
+ Viruses have the following characteristics: 
+ * They outnumber all other forms of life on the planet by a long way. < ref name=Britt/ > 
+ * They are [[infection|infectious]] particles, causing many types of [[disease]]; 
+ * They contain a nucleic acid core of [[RNA]] or [[DNA]]; 
+ * They are surrounded by a protective protein coat; 
+ 
+ When the host cell has finished making more viruses, it undergoes [[lysis]], or breaks apart. The viruses are released and are then able to infect other cells. Viruses can remain  " silent "  (inactive) for a long time, and will infect cells when the time and conditions are right. 
+ 
+ Some special viruses are worth noting. [[Bacteriophage]]s have evolved to enter [[bacterial]] cells, which have a different type of cell wall from eukaryote cell membranes. ''Envelope viruses'', when they reproduce, cover themselves with a modified form of the host cell membrane, thus gaining an outer [[lipid]] layer that helps entry. Some of our most difficult-to-combat viruses, like [[influenza]] and [[HIV]], use this method. 
+ 
+ Viral infections in animals trigger an [[immune response]] which usually kills the infecting virus. [[Vaccine]]s can also produce immune responses. They give an artificially [[Adaptive immune system|acquired immunity]] to the specific viral infection. However, some viruses (including those causing [[AIDS virus|AIDS]] and viral [[hepatitis]]) escape from these immune responses and cause chronic infections. [[Antibiotics]] have no effect on viruses, but there are some other drugs which can be used against viruses. 
+ 
+ == Genome == 
+ {|class= " wikitable "  style= " float:right; clear:right; width:250px; margin:5px 0 0 10px; " 
+ |+ Genomic diversity among viruses 
+ ! Property || Parameters 
+ |- 
+ |Nucleic acid|| 
+ * RNA 
+ * DNA 
+ * Both RNA and DNA (at different stages in the life cycle) 
+ |- 
+ |Shape|| 
+ * Linear 
+ * Circular 
+ * Segmented 
+ |- 
+ |Strandedness|| 
+ *Single-stranded 
+ *Double-stranded 
+ *Double-stranded with regions of single-strandedness 
+ |- 
+ |[[Sense (molecular biology)|Sense]]|| 
+ * Positive sense (+) 
+ * Negative sense (−) 
+ * Ambisense (+/−) 
+ |} 
+ 
+ [[File:Virus Replication Cycle.svg|thumb|220px|Virus replication cycle: 1-Attachment, 2-Penetration, 3-Uncoating, 
+  4-Synthesis (4a-Transcription, 4b-Translation, 4c-Genome replication), 
+  5-Assembly, 6-Release]] 
+ 
+ There are many [[Genome|genomic]] structures in viruses. As a group they are more diverse than plants, animals, archaea, or bacteria. There are millions of different types of viruses, < ref name= " Breitbart M, Rohwer F 2005 278–84 " / >  but only about 7,000 of them have been described in detail. < ref name=Dimmock/ > < sup > 49 < /sup > 
+ 
+ A virus has either RNA or DNA genes and so is called an RNA virus or a DNA virus. ''The vast majority of viruses have RNA genomes''. Plant viruses usually have single-stranded RNA genomes and bacteriophages usually have double-stranded DNA genomes. < ref name=Collier > Collier, Leslie; Balows, Albert; Sussman, Max 1998. ''Topley and Wilson's Microbiology and microbial infections''. 9th ed, vol 1, ''Virology''. volume editors: Mahy, Brian and Collier, Leslie. Arnold. {{ISBN|0-340-66316-2}} < /ref > < sup > 96/99 < /sup > 
+ 
+ Fewer than 7,000 types have been described in detail. but there are doubtlessly many more to be discovered. < ref > {{cite journal | vauthors = Pennisi E | title = Microbiology. Going viral: exploring the role of viruses in our bodies | journal = Science | volume = 331 | issue = 6024 | pages = 1513 | date = March 2011 | pmid = 21436418 | doi = 10.1126/science.331.6024.1513 | bibcode = 2011Sci...331.1513P }} < /ref > < ref > {{cite journal | vauthors = Shi M, Lin XD, Tian JH, Chen LJ, Chen X, Li CX, Qin XC, Li J, Cao JP, Eden JS, Buchmann J, Wang W, Xu J, Holmes EC, Zhang YZ | display-authors = 6 | title = Redefining the invertebrate RNA virosphere | journal = Nature | volume = 540 | issue = 7634 | pages = 539–43 | date = December 2016 | pmid = 27880757 | doi = 10.1038/nature20167 | bibcode = 2016Natur.540..539S | s2cid = 1198891 }} < /ref > 
+ 
+ == Replication cycle == 
+ Viral populations do not grow through cell division, because they do not have cells. Instead, they use the machinery and metabolism of a host cell to produce many copies of themselves, and they ''assemble'' (put together) in the cell. 
+ 
+ The [[viral life cycle|life cycle of viruses]] differs greatly between species but there are six ''basic'' stages in the life cycle of viruses: < ref name=Collier/ > < sup > 75/91 < /sup > 
+ 
+ * ''Attachment'' is a binding between viral [[capsid]] proteins and specific [[receptor]]s on the host cellular surface.  
+ * ''Penetration'' follows attachment: Virions (single virus particles) enter the host cell by receptor-mediated [[endocytosis]] or fusion with the lipid bilayer. This is called viral entry.  < br/ > The infection of plant and fungal cells is different from that of animal cells. Plants have a rigid cell wall made of [[cellulose]], and fungi one of [[chitin]]. This means most viruses can only get inside these cells by force. < ref name=Dimmock/ > < sup > 70 < /sup >  An example would be: a virus travels on an [[insect]] [[Vector (biology)|vector]] which feeds on plant sap. The damage done to cell walls would let the virus get in.  < br/ > Bacteria, like plants, have strong cell walls that a virus must get through to infect the cell. However, bacterial cell walls are much thinner than plant cell walls, and some viruses have mechanisms that inject their genome into the bacterial cell, while the viral capsid remains outside. < ref name=Dimmock/ > < sup > 71 < /sup > 
+ * ''Uncoating'' is how the viral capsid is removed: This may be by viral [[enzymes]] or host enzymes or by simple dissociation; the end-result is the releasing of the viral [[nucleic acid]]. 
+ * ''Replication'' of viruses is multiplying the genome. This usually means production of viral [[messenger RNA]] (mRNA) from  " early "  genes. This may be followed, for complex viruses, by one or more further rounds of mRNA synthesis:  " late "  gene expression is of structural or virion proteins. 
+ * After the self-''assembly'' of the virus particles, some modification of the proteins often occurs. In viruses such as [[HIV]], this modification (sometimes called maturation) occurs ''after'' the virus has been released from the host cell. < ref name= " pmid11451488 " > {{cite journal|author=Barman S, Ali A, Hui EK, Adhikary L, Nayak DP|title=Transport of viral proteins to the apical membranes and interaction of matrix protein with glycoproteins in the assembly of influenza viruses|journal=Virus Res.|volume=77|issue=1|pages=61–9|year=2001|pmid=11451488|doi=10.1016/S0168-1702(01)00266-0}} < /ref > 
+ * Viruses can be ''released'' from the host cell by [[lysis]], a process that kills the cell by bursting its membrane and cell wall. This is a feature of many bacterial and some animal viruses.  < br/ > In some viruses  the viral genome is put by [[genetic]] [[recombination]] into a specific place in the host's chromosome. The viral genome is then known as a  " [[provirus]] "  or, in the case of bacteriophages a  " [[prophage]] " . < ref name=Shors/ > < sup > 60 < /sup >   < br/ > Whenever the host divides, the viral genome is also replicated. The viral genome is mostly silent within the host; however, at some point, the provirus or prophage may give rise to active virus, which may lyse the host cells. < ref name=Dimmock/ > < sup > chapter 15 < /sup >   < br/ > Enveloped viruses (e.g. HIV) typically are released from the host cell after the virus acquires its envelope. The envelope is a modified piece of the host's plasma membrane. < ref name=Dimmock/ > < sup > 185/7 < /sup > 
+ 
+ === Genetic material and replication === 
+ The genetic material within virus particles, and the method by which the material is replicated, varies considerably between different types of viruses. 
+ 
+ [[File:Influenza virus particle color.jpg|thumb|220px|This false-coloured transmission electron micrograph depicts the ultrastructural details of an influenza virus particle, or “virion”. The influenza virus is a single-stranded RNA organism]] 
+ ;RNA viruses: Replication usually takes place in the [[cytoplasm]]. RNA viruses can be placed into four different groups depending on their modes of replication. All RNA viruses use their own [[RNA replicase]] enzymes to create copies of their genomes. < ref name=Collier/ > < sup > 79 < /sup > 
+ 
+ ;DNA viruses: The genome replication of most DNA viruses takes place in the cell's [[Cell nucleus|nucleus]]. Most DNA viruses are entirely dependent on the host cell's DNA and RNA synthesising machinery, and RNA processing machinery. Viruses with larger genomes may encode much of this machinery themselves. In eukaryotes the viral genome must cross the cell's nuclear membrane to access this machinery, while in bacteria it need only enter the cell. < ref name=Shors/ > < sup > 54 < /sup > < ref name=Collier/ > < sup > 78 < /sup > 
+ 
+ ;Reverse transcribing viruses: Reverse transcribing viruses with RNA genomes ([[retrovirus]]es) use a DNA intermediate to replicate. Those with DNA genomes (pararetroviruses) use an RNA intermediate during genome replication. < ref name= " pmid16949329 " > {{cite journal |author=Staginnus C, Richert-Pöggeler KR |title=Endogenous pararetroviruses: two-faced travelers in the plant genome |journal=Trends in Plant Science |volume=11 |issue=10 |pages=485–91 |year=2006 |pmid=16949329 |doi=10.1016/j.tplants.2006.08.008}} < /ref >  They are susceptible to [[antiviral drug]]s that inhibit the [[reverse transcriptase]] [[enzyme]]. An example of the first type is HIV, which is a retrovirus. Examples of the second type are the [[Hepadnaviridae]], which includes [[Hepatitis B]] virus. < ref name=Collier/ > < sup > 88/9 < /sup > 
+ 
+ == Host defence mechanisms == 
+ === Innate immune system === 
+ The body's first line of defence against viruses is the [[innate immune system]]. This has cells and other mechanisms which defend the host from any infection. The cells of the innate system recognise, and respond to, pathogens in a general way. < ref name= " Alberts " > {{cite book|last=Alberts |display-authors = etal |first=Bruce|title=Molecular biology of the cell; 4th ed|publisher=Garland Science|year=2002|location=New York and London|url=https://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC & rid=mboc4.TOC & depth=2|isbn=0-8153-3218-1|accessdate=15 September 2008}} < /ref > 
+ 
+ [[RNA interference]] is an important innate defence against viruses. < ref name= " pmid17693253 " > {{cite journal 
+ |author=Ding SW, Voinnet O 
+ |title=Antiviral immunity directed by small RNAs 
+ |journal=Cell 
+ |volume=130 
+ |issue=3 
+ |pages=413–26 
+ |year=2007 
+ |pmid=17693253 
+ |doi=10.1016/j.cell.2007.07.039 
+ |pmc=2703654}} < /ref >  Many viruses have a replication strategy that involves double-stranded RNA (dsRNA). When such a virus infects a cell, it releases its RNA molecule. A protein complex called [[dicer]] sticks to it and chops the RNA into pieces. Then a biochemical pathway, called the RISC complex, starts up. This attacks the viral mRNA, and the cell survives the infection. 
+ 
+ [[File:Rotavirus with antibody.jpg|thumb|Two [[rotavirus]]es: the one on the right is coated with antibodies which stop it attaching to cells and infecting them|alt=Two spherical rotavirus particles, one is coated with antibody which looks like many small birds, regularly spaced on the surface of the virus]] 
+ Rotaviruses avoid this by not uncoating fully inside the cell and by releasing newly produced mRNA through pores in the particle's inner capsid. The genomic dsRNA remains protected inside the core of the virion. < ref name= " pmid15579070 " > {{cite journal 
+ |author=Patton JT, Vasquez-Del Carpio R, Spencer E 
+ |title=Replication and transcription of the rotavirus genome 
+ |journal=Curr. Pharm. Des. 
+ |volume=10 
+ |issue=30 
+ |pages=3769–77 
+ |year=2004 
+ |pmid=15579070|doi=10.2174/1381612043382620}} < /ref > < ref name= " pmid15010218 " > {{cite journal 
+ |author=Jayaram H, Estes MK, Prasad BV 
+ |title=Emerging themes in rotavirus cell entry, genome organization, transcription and replication 
+ |journal=Virus Res. 
+ |volume=101 
+ |issue=1 
+ |pages=67–81 
+ |year=2004 
+ |pmid=15010218 
+ |doi=10.1016/j.virusres.2003.12.007}} < /ref > 
+ 
+ The production of [[interferon]] is an important host defence mechanism. This is a hormone produced by the body when viruses are present. Its role in immunity is complex; it eventually stops the viruses from reproducing by killing the infected cell and its close neighbours. < ref name= " pmid11256746 " > {{cite journal 
+ |author=Le Page C, Génin P, Baines MG, Hiscott J 
+ |title=Interferon activation and innate immunity 
+ |journal=Rev Immunogenet 
+ |volume=2 
+ |issue=3 
+ |pages=374–86 
+ |year=2000 
+ |pmid=11256746}} < /ref > 
+ 
+ === Adaptive immune system === 
+ Vertebrates have a second, more specific, immune system. It is called the [[adaptive immune system]]. When it meets a virus, it produces specific [[antibodies]] that bind to the virus and render it non-infectious. Two types of antibodies are important. 
+ 
+ The first, called IgM, is highly effective at neutralizing viruses but is produced by the cells of the immune system only for a few weeks. The second, called IgG, is produced indefinitely. The presence of IgM in the blood of the host is used to test for acute infection, whereas IgG indicates an infection sometime in the past. < ref name= " pmid8903801 " > {{cite journal 
+ |author=Greer S, Alexander GJ 
+ |title=Viral serology and detection 
+ |journal=Baillieres Clin. Gastroenterol. 
+ |volume=9 
+ |issue=4 
+ |pages=689–721 
+ |year=1995 
+ |pmid=8903801 
+ |doi=10.1016/0950-3528(95)90057-8}} < /ref >  IgG antibody is measured when tests for [[immunity]] are carried out. < ref name= " pmid9086126 " > {{cite journal 
+ |author=Matter L, Kogelschatz K, Germann D 
+ |title=Serum levels of rubella virus antibodies indicating immunity: response to vaccination of subjects with low or undetectable antibody concentrations 
+ |url=https://archive.org/details/sim_journal-of-infectious-diseases_1997-04_175_4/page/749 
+ |journal=J. Infect. Dis. 
+ |volume=175 
+ |issue=4 
+ |pages=749–55 
+ |year=1997 
+ |pmid=9086126 
+ |doi=10.1086/513967|s2cid=27281805 
+ }} < /ref > 
+ 
+ Another vertebrate defence against viruses involves immune cells known as [[T cell]]s. The body's cells constantly display short fragments of their proteins on the cell's surface, and, if a T cell recognises a suspicious viral fragment there, the host cell is destroyed by ''killer T'' cells and the virus-specific T-cells proliferate. Cells such as [[macrophage]]s are specialists at this antigen presentation. < ref name= " pmid17725500 " > {{cite journal 
+ |author=Cascalho M,  &  Platt J.L 
+ |title=Novel functions of B cells 
+ |journal=Crit. Rev. Immunol. 
+ |volume=27 
+ |issue=2 
+ |pages=141–51 
+ |year=2007 
+ |doi=10.1615/critrevimmunol.v27.i2.20 
+ |pmid=17725500}} < /ref > 
+ 
+ === Evading the immune system === 
+ Not all virus infections produce a protective immune response. These persistent viruses evade immune control by sequestration (hiding away); [[cytokine]] resistance; evading [[natural killer cell]] activity; escape from [[apoptosis]] (cell death), and antigenic shift (changing surface proteins). < ref name= " pmid15297608 " > {{cite journal 
+ |author=Hilleman M.R. 
+ |title=Strategies and mechanisms for host and pathogen survival in acute and persistent viral infections 
+ |journal=Proc. Natl. Acad. Sci. U.S.A. 
+ |volume=101 
+ |pages=14560–6 
+ |year=2004 
+ |issue=Suppl 2 
+ |pmid=15297608 
+ |pmc=521982 
+ |doi=10.1073/pnas.0404758101|bibcode=2004PNAS..10114560H 
+ |doi-access=free 
+ }} < /ref >  [[HIV]] evades the immune system by constantly changing the [[amino acid]] sequence of the proteins on the surface of the virion. Other viruses move along [[nerve]]s to places the immune system cannot reach. 
+ 
+ == Evolution == 
+ Viruses do not belong to any of the [[scientific classification|six kingdoms]]. They do not meet all the requirements for being classified as a living organism because they are not active until the point of infection. However, that is just a verbal point. 
+ 
+ Obviously, their structure and mode of operation means they have evolved from other living things, and the loss of normal structure occurs in many endo[[parasite]]s. The origins of viruses in the [[evolution]]ary history of life are unclear: some may have [[evolution|evolved]] from [[plasmid]]s – pieces of DNA that can move between cells – while others may have evolved from bacteria. In evolution, viruses are an important means of [[horizontal gene transfer]], which increases [[genetic]] diversity. < ref > Canchaya C, Fournous G, Chibani-Chennoufi S, Dillmann ML, Brüssow H. 2003. Phage as agents of lateral gene transfer. ''Curr. Opin. Microbiol''. '''6'''(4):417–24. doi:10.1016/S1369-5274(03)00086-9. PMID 12941415. < /ref > 
+ 
+ == Recent discoveries == 
+ A recent project discovered nearly 1500 new [[RNA virus]]es by sampling over 200 [[invertebrate]] species.  " The research team... extracted their RNA and, using next-generation [[sequence analysis|sequencing]], deciphered the sequence of a staggering six [[trillion]] letters present in the invertebrate RNA libraries " . < ref > Ball, Jonathan 2016. Bumper load of new viruses identified. ''BBC News'' Science  &  Environment. [https://www.bbc.co.uk/news/science-environment-38095585] < /ref >  The research showed that viruses changed bits and pieces of their RNA by a variety of genetic mechanisms.  " The invertebrate virome [shows] remarkable genomic flexibility that includes frequent [[recombination]], [[lateral gene transfer]] among viruses and hosts, gene gain and loss, and complex genomic rearrangements " . < ref > Mang Shi ''et al'' 2016. Redefining the invertebrate RNA virosphere. ''Nature'' preview [http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20167.html] < /ref > 
+ 
+ === How bacteria and archaea deal with viruses === 
+ Viruses have been on this planet a long time. We now know that bacteria and [[archaea]] had to deal with them first, before our type of cellular life evolved. Details of the defence mechanisms used by archaea and bacteria are discussed on the page [[CRISPR]], which briefly introduces the topic of early defences against viruses. 
+ 
+ === Largest virus === 
+ A group of large viruses infect [[amoebae]]. The largest is ''Pithovirus''. Others in order of size are ''[[Pandoravirus]]'', then ''[[Megavirus]]'', then ''[[Mimivirus]]''. They are bigger than some [[bacteria]], and visible under a [[light microscope]]. 
+ 
+ === Viruses in the sea === 
+ Viruses are everywhere in the sea. They may outnumber all other forms of [[Marine biology|marine]] life by at least an [[order of magnitude]]. Through selective [[infection]], viruses influence [[nutrient]] cycling and evolution in the ocean. < ref > Lang A.S; Rise L.R. Culley A.I.  &  Steward G.F. 2009. RNA viruses in the sea. [https://pubmed.ncbi.nlm.nih.gov/19243445/] < /ref > 
+ 
+ == Uses == 
+ Viruses are used widely in [[cell biology]]. < ref > Lodish, Harvey; et al. 2008. Viruses: structure, function, and uses. [https://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=Viruses & rid=mcb.section.1408#1422] Retrieved 16 September 2008 < /ref >  [[Genetics|Geneticists]] often use viruses as [[vector (molecular biology)|vectors]] to introduce genes into cells that they are studying. This is useful for making the cell produce a foreign substance, or to study the effect of introducing a new gene into the genome. Eastern European scientists have used [[phage therapy]] as an alternative to antibiotics for some time, and interest in this approach is increasing, because of the high level of [[antibiotic resistance]] now found in some pathogenic bacteria. < ref name= " pmid16258815 " > {{cite journal 
+ |author=Matsuzaki S. 
+ |display-authors = etal 
+ |title=Bacteriophage therapy: a revitalized therapy against bacterial infectious diseases 
+ |journal=J. Infect. Chemother. 
+ |volume=11 
+ |issue=5 
+ |pages=211–9 
+ |year=2005 
+ |pmid=16258815 
+ |doi=10.1007/s10156-005-0408-9|s2cid = 8107934 
+ }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ [[Category:Viruses| ]] 
+ [[Category:Parasites]] 
+ [[Category:Infectious diseases]]

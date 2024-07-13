@@ -1,0 +1,13 @@
+{{distinguish|Fuze}} 
+ [[File:Small_fuses.jpg|thumb|right|Several small fuses]] 
+ A '''fuse''' is a device that shuts off the power to an [[electrical circuit]] when too much [[electric current]] flows through it.  This usually happens when too many [[appliance]]s are plugged in or when there is a [[short circuit]]. A fuse is made as an intentional weak spot in a circuit that will melt (or  " blow " ) when too much current is flowing through it, shutting off the power to the rest of the circuit. This protects the rest of the circuit. After the fuse blows, the problem that caused it to blow must be corrected and the fuse must be replaced to restore power to the circuit. A [[circuit breaker]] does the same job as a fuse, but it can be reset without replacing anything. 
+ 
+ Fuses in plugs are made in standard ratings. The most common are 3 A, 5 A and 13 A. The fuse should be rated at a slightly higher current than the device needs. e.g. if the device works a 3 A use 5 A fuse. Fast and slow fuses are made. Fast acting fuses blow immediately once the current rating is exceeded. Slow blow fuses will let the current exceed the rating for a fraction of a second, to allow devices like motors to start up. 
+ 
+ == Other websites == 
+ * [http://en.citizendium.org/wiki/Fuse_(electrical) Fuse (electrical)] -Citizendium  
+ 
+ {{sci-stub}} 
+ 
+ [[Category:Electrical wiring]] 
+ [[Category:Electronic components]]

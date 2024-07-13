@@ -1,0 +1,7 @@
+In [[computer programming]], a '''subroutine''' is a [[code]] that is comprised of more codes — just like everything in programming — its purpose is the same: execute an instruction/command. Because subroutines are shorter, they can be typed faster and therefore be used more by programmers, hence saving time by being able to code faster. 
+ 
+ Subroutines are commonly paired with [[Parameter (computer science)|parameter]], a type of [[variable]]. 
+ 
+ [[Category:Computer programming]] 
+ 
+ {{tech-stub}}

@@ -1,0 +1,17 @@
+{{Infobox software 
+ | title = Godot 
+ | logo = Godot logo.svg 
+ | author = Juan Linietsky, Ariel Manzur 
+ | operating system = [[Microsoft Windows|Windows]], [[macOS]], [[Linux]], [[Berkeley Software Distribution|*BSD]] < ref > {{Cite web|last=Engine|first=Godot|title=Godot Engine - Features|url=https://godotengine.org/features|access-date=2022-03-13|website=Godot Engine|language=en}} < /ref > 
+ | genre = [[Game engine]] 
+ | license = [[MIT License]] 
+ | website = {{URL|http://godotengine.org}} 
+ }}'''Godot''' is a [[Freeware|free]] and [[open source]] [[game engine]]. < ref > {{Citation|title=godotengine/godot|url=https://github.com/godotengine/godot|publisher=Godot Engine|date=2021-05-06|access-date=2021-05-06}} < /ref >  It can be used to make 2D games. It can also be used to make 3D games, but not very efficiently compared to other game engines. < ref > {{Cite web|title=Making the most of Godot's speed · GDQuest|url=https://www.gdquest.com/tutorial/godot/gdscript/optimization-engine/|access-date=2021-05-06|website=GDQuest|date=18 August 2020 |language=en}} < /ref >  It is released under the [[MIT License|MIT license]]. < ref > {{Cite web|last=Engine|first=Godot|title=Godot Engine - License|url=https://godotengine.org/license|access-date=2021-05-06|website=Godot Engine|language=en}} < /ref >  It currently uses [[OpenGL]] as its only renderer, but [[Vulkan (API)|Vulkan]] support is planned to be added soon. < ref > {{Cite web|title=The Godot Game Engine's Vulkan Support Is Getting In Increasingly Great Shape - Phoronix|url=https://www.phoronix.com/scan.php?page=news_item & px=Godot-Vulkan-Report-|access-date=2021-05-06|website=www.phoronix.com}} < /ref > 
+ 
+ == Scripting == 
+ The default [[programming language]] in Godot is GDScript (which is Godot's own [[scripting language]]), but there is also a Mono edition with which [[C Sharp (programming language)|C#]] can be used. [[C (programming language)|C]] and [[C++]] can also be used with official GDNative bindings, but there are also third-party bindings available. < ref > {{Cite web|title=What is GDNative?|url=https://docs.godotengine.org/en/stable/tutorials/scripting/gdnative/what_is_gdnative.html|access-date=2022-03-13|website=Godot Engine documentation|language=en|archive-date=2022-03-24|archive-url=https://web.archive.org/web/20220324204429/https://docs.godotengine.org/en/stable/tutorials/scripting/gdnative/what_is_gdnative.html|url-status=dead}} < /ref >  There are third-party bindings for [[Python (programming language)|Python]], [[Rust (programming language)|Rust]], and [[Kotlin (programming language)|Kotlin]], and some other programming languages. 
+ 
+ ==References== 
+ {{Reflist}} 
+ {{Tech-stub}} 
+ [[Category:Video game engines]]

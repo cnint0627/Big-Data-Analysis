@@ -1,0 +1,9 @@
+[[File:Centos-logo-light.svg|thumb|CentOS logo]] 
+ '''CentOS''' is a distribution (or ''distro'') of [[Linux]] that is made to be similar to [[Red Hat]]. It was first made because the company that made Red Hat stopped making it [[free software|free]]. Now, many people work on CentOS, and many more people use it on their computers. Often, CentOS is used on [[servers]] (computers which provide services to people or other computers) because it is stable (does not break often) and can be installed (put on a computer) in not much time, compared to other distributions such as [[Gentoo Linux|Gentoo]]. On December 8th 2020, The CentOS Project announced the end of CentOS as it was previously known and announced CentOS Stream. [[AlmaLinux]] and [[Rocky Linux]] among others now provide 1:1 binary compatible releases with RHEL and the original CentOS. The original CentOS will reach end of life December 2021. 
+ 
+ == Other websites == 
+ * [http://www.centos.org Official website] 
+ 
+ {{tech-stub}} 
+ {{authority control}} 
+ [[Category:Linux distributions]]

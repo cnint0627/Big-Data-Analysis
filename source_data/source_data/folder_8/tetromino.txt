@@ -1,0 +1,13 @@
+[[File:All 5 free tetrominoes.svg|thumb|The five free tetrominoes]] 
+ A '''tetromino''' is a shape made up of four squares directly connected to each other by their edges. < ref name=GolombPolyominoes > {{cite book |last=Golomb |first=Solomon W. |author-link=Solomon W. Golomb |title=Polyominoes |title-link= Polyominoes: Puzzles, Patterns, Problems, and Packings |year=1994 |publisher=Princeton University Press |location=Princeton, New Jersey |isbn=0-691-02444-8 |edition=2nd}} < /ref > < ref > {{cite journal |last=Redelmeier |first=D. Hugh |year=1981 |title=Counting polyominoes: yet another attack |journal=Discrete Mathematics |volume=36 |issue=2 |pages=191–203 |doi=10.1016/0012-365X(81)90237-5|doi-access=free }} < /ref > 
+ 
+ If one considers a tetromino that has been moved (translated), turned (rotated) or flipped (reflected) to be the same shape, there are five distinct tetrominoes. These are known as '''free tetrominoes'''. 
+ 
+ Tetrominoes are well known for being the game pieces used in the video game ''[[Tetris]]'', which was created by [[Alexey Pajitnov]]. < ref > [http://tetris.com/about-tetris/  " About Tetris " ], Tetris.com. Retrieved 2014-04-19. < /ref >  ''Tetris'' uses '''one-sided tetrominoes''', which can be translated and rotated but not reflected. This makes for a total of seven tetrominoes. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Shapes]]

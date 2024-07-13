@@ -1,0 +1,56 @@
+{{No sources}} 
+ [[Image:GMAW.welding.af.ncs.jpg|thumb|right|200px|Gas metal arc welding]] 
+ '''Welding''' is a way of heating pieces of [[metal]] using [[electricity]] or a [[flame]] so that they [[melt]] and stick together. There are many kinds of welding, including [[arc welding]], [[resistance welding]], and [[gas welding]]. The most common type is arc welding. Anyone who is near arc welding needs to wear a special [[helmet]] or [[goggles]] because the arc is so bright. Looking at the arc without visual protection may cause permanent eye damage. It is also important to cover all your skin because it can give you something like a sunburn. Hot sparks from the weld can burn any skin that is showing. One kind of welding that does not use an arc is Oxy-fuel welding (OFW), sometimes called gas welding. OFW uses a flame to heat up the metal. There are other kinds of welding that do not use an arc. 
+ 
+ ==Arc Welding== 
+ Any welding process that utilizes an [[electric arc]] is known as arc welding. The common forms of arc welding include:  
+ 
+ * [[Shielded metal arc welding]] (SMAW): SMAW is also known as  " stick "  welding. 
+ * [[Gas metal arc welding]] (GMAW): GMAW is also known as MIG (metal/inert gas welding). 
+ * [[Gas tungsten arc welding]] (GTAW): GTAW is also known as TIG ([[tungsten]] [[inert gas]] welding). 
+ 
+ Arc welding heats metals by making a high-current electric arc between pieces of metal to be joined and an electrode. 
+ 
+ Use of the electrode varies based on the type of welding process. In SMAW, GMAW, and related welding processes, the electrode is consumed and becomes part of the weld. The electrode is usually made of the same kind of metal to be welded. Because the electrode is consumed by the welding process, the electrode must constantly be fed into the weld. The SMAW welding process features a  " stick "  electrode impregnated with a weld promoter known as flux, clamped to the end. 
+ 
+ The GMAW welding process uses a thin wire on a rotating spool, as a continuous electrode.  The size of this electrode varies from around 0.635 millimeters to about 4 millimeters.  The welding machine has a [[motor]]-driven spool inside that feeds the wire electrode into the weld. 
+ 
+ The TIG welding (GTAW) process features an electrode that is not consumed by the welding process as the metal that makes up the weld does not have any electricity flowing through it. The electrode is made of [[Tungsten]], so used as it will not melt while immersed in the electrical arc. A filler metal, in the form of a rod, can be used to add metal to the weld area. 
+ 
+ Almost all welding uses filler metal to fill in the small gap between the metal pieces. The extra metal helps to make the weld strong. Sometimes welds need to be made without any filler metal. Welding with no filler metal is called autogenous welding. 
+ 
+ === Shielding in arc welding === 
+ All types of welding require that the hot metal have protection. Dirt, rust, grease, and even the oxidation of the metal under the weld process can prevent a proper weld joint. As such welding processes use one of two protection methods: flux, and shielding gas. 
+ 
+ Welding flux may be used in a solid, liquid, or paste form. During welding, the flux will melt and some of it will [[evaporate]]. This creates a small pocket of gas around the weld. This pocket of gas prevents oxidation of the metal under weld. Melted flux, through a corrosive reaction, cleans contaminants that prevent a proper weld. After welding, the flux solidifies. This layer of solid flux is called slag, and must be removed from the weld. The SMAW weld process most commonly uses flux, and is most commonly used on steel. 
+ 
+ Shielding gas protects the weld by being a pocket of gas around the weld. The purpose of this gas is to keep normal air out, especially oxygen. It is different from flux because there is no liquid on the weld. There is only a gas around the weld. Because there is no liquid, it will not clean up dirt and other things on the metal. This means that the metal has to be clean before it is welded. If it is not, the dirt and other things could cause problems. The gases that are usually used are [[argon]], [[helium]], and a mixture that is 3 parts argon and one part [[carbon dioxide]]. Other mixtures of gases can have [[nitrogen]], [[hydrogen]], or even a little bit of [[oxygen]] in them. One kind of welding that uses shielding gas is gas metal arc welding. It is usually used in factories to make things. 
+ 
+ Welding that uses flux is easier to do outside when it is windy. This is because the liquid flux is protecting the hot metal and it will not blow away. Also, the flux is always making the pocket of gas which keeps the electric arc from going out. Welding that uses shielding gas usually cannot be used outside because the gas would blow away if there were any wind. 
+ 
+ ==Other kinds of welding== 
+ Some kinds of welding do not use an electric arc. They might use a flame, electricity without an arc, an energy beam, or physical [[Force (physics)|force]]. The most common type of welding that does not use an arc is called gas welding. In gas welding, a [[flammable]](meaning it will burn) gas and oxygen are combined and burn at the end of a torch. Gas welding does not need any special shielding because a flame which is adjusted right has no extra oxygen in it. It is still important to make sure the metal is clean. The flame heats up the metal so much that it melts. When both the pieces of metal are melted at the edge, the liquid metal becomes one piece. 
+ 
+ The other kind of welding that does not use an arc still uses electricity. It is called resistance welding. With this kind, two pieces of thin metal are pinched together and then electricity is made to go through them. This makes the metal get really hot and melt where it is pinched together. The two pieces melt together at that place. Sometimes this is called spot welding because the welding can only happen at one small place(or spot) at a time. 
+ 
+ Forge welding is the first kind of welding that ever was used. Forge welding needs the two pieces of metal to so hot that they almost melt. Then they are beat together with hammers until they are one piece. 
+ 
+ The other kinds of welding that do not use an arc are hard to do, and usually new. They are expensive too. Most of these kinds of welding are only done where specially needed. They might use an [[electron]] beam, [[laser]], or [[ultrasonic]] sound waves. 
+ 
+ ==[[Energy]] for welding== 
+ Every kind of welding needs to use energy. This energy is usually heat, but sometimes force is used to make a weld. When heat is used, it can be from electricity or from fire. 
+ 
+ ===Power supplies for arc welding=== 
+ A lot of electricity is used in arc welding. Some kinds of welding use [[alternating current]] like the electricity that buildings use. Other kinds use [[direct current]] like the electricity in a car or most things with a battery. Almost all kinds of welding use a lower [[voltage]] than the electricity that comes from a power plant. Arc welding requires using a special power supply that makes the electricity from the power plant usable for welding. A power supply lowers the voltage and controls the amount of [[Electric current|current]]. The power supply usually has controls on it that allow these things to be changed. For kinds of arc welding that use [[alternating current]], sometimes the power supply can do special things to make the electricity alternate differently. Some power supplies do not plug into a power plug, but instead [[wikt:generate|generate]] their own electricity. These kind of power supplies have an [[engine]] that turns a [[generator]] head to make the electricity. The engine might run on [[gasoline]], [[diesel]] fuel, or [[propane]]. 
+ 
+ ===Energy for other kinds of welding=== 
+ OFW uses a flame from burning fuel gas and oxygen to heat up the metal. This fuel gas is almost always acetylene. Acetylene is a flammable gas that burns very hot, hotter than any other gas. That is why it is used most of the time. Other gases like [[propane]], [[natural gas]], or other industrial gases can be used too. 
+ 
+ Some kinds of welding do not use heat to make the weld. These kinds of welding can get hot, but they do not make the metal melt. Forge welding is an example of this. Friction stir welding is a special kind of welding that does not use heat. It uses a very powerful motor and a special spinning bit to mix the metals together at the edge. This seems odd because metals are a [[solid]]. this is why it takes a lot of force to do and is very hard. The energy for this kind of welding is [[mechanical]] energy from the spinning bit. 
+ 
+ == Other websites == 
+ {{Commons|Welding}} 
+ * [http://www.aws.org/ The American Welding Society] 
+ 
+ [[Category:Construction]] 
+ [[Category:Metalworking]]

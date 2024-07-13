@@ -1,0 +1,74 @@
+{{split-apart|date=August 2013}} 
+ '''Resilience''' generally means the ability to recover from some shock or disturbance.   
+ {{enWiktionary}} 
+ 
+ There are different meanings for, 
+ *resilience in [[psychology]]: the mental ability to recover quickly from depression, illness or misfortune 
+ *resilience of a [[material]]: the physical property of material that can resume its shape after being stretched or deformed ([[Elasticity (physics)|elasticity]]) 
+ *resilience of a [[system]]: the ability of a system to recover from difficulties;toughness 
+ 
+ ==Psychology== 
+ '''Resilience''' is a term used in [[psychology]] to describe the capacity of people to cope with [[wikt:stress|stress]] and catastrophe. It is also used to indicate a characteristic of resistance to future negative events. This psychological meaning of resilience is often contrasted with  " risk factors " . 
+ 
+ ==Materials== 
+ In [[physics]] and [[engineering]], '''resilience''' is defined as the capacity of a material to absorb [[energy]] when it is [[Deformation|deformed]] [[Elasticity (physics)|elastically]] and then, upon unloading to have this energy recovered. In other words, it is the maximum energy per volume that can be elastically stored. It is represented by the area under the curve in the elastic region in the Stress-Strain diagram. 
+ 
+ Modulus of Resilience,  < math > U_r < /math > , can be calculated using the following formula:  < math > U_r=\frac{\sigma^2}{2E}=0.5\sigma\epsilon=0.5 \sigma\left(\frac{\sigma}{E}\right) < /math > , where  < math >  \sigma  < /math >  is [[yield stress]], E is [[Young's modulus]], and  < math >  \epsilon  < /math >  is [[strain (materials science)|strain]]. 
+ 
+ An example of a [[biomaterial]] which has a high resilience is articular [[cartilage]], the substance lining the ends of [[bone]]s in articulating [[joints]] such as the [[knee]] and [[hip]]. 
+ 
+ ==Systems== 
+ ===Ecology=== 
+ In [[ecology]], '''resilience''' has been defined in two competing fashions that emphasize two different aspects of stability. 
+ 
+ '''One definition''' is the rate at which a system returns to a single steady or cyclic state following a [[perturbation]]. This definition of resilience assumes that behavior of a system remains within the stable domain that contains this steady state. 
+ 
+ When a system can reorganize, that is shift from one stability domain to another, a more relevant measure of ecosystem dynamics is ecological resilience. It is a measure of the amount of change or disruption that is required to transform a system from being maintained by one set of mutually reinforcing processes and structures to a different set of processes and structures. 
+ 
+ '''The second definition''' emphasizes conditions far from any steady-states, where instabilities can flip a system into another regime of behavior - i.e. to another stability domain. In this case resilience is measured by the magnitude of disturbance that can be absorbed before the system changes its structure by changing the variables and processes that control behavior. This type of resilience has been defined as ecological resilience. 
+ 
+ ===Economic and business=== 
+ Economic resilence is the ability of a local economy to retain function, employment and prosperity in the face of the [[perturbation]] caused by the [[Acute stress reaction|shock]] of the loss of a particular type of local [[industry]] or employer. 
+ 
+ ===Industrial and organisational safety=== 
+ Within the broad domain of industrial safety, the term '''resilience''' has come into use to emphasise that safety must be proactive as well as reactive. Whereas conventional [[risk management]] approaches emphasise calculation of failure probabilities, '''resilience engineering''' looks for ways to strengthen the ability of organisations to create processes that are robust yet flexible. 
+    
+ ===Network=== 
+ Resilience is the ability of the network to provide and maintain an acceptable level of '''[[service]]''' in the face of various '''[[fault]]s''' and '''[[wikt:challenge|challenge]]s''' to '''[[normal operation]]'''. 
+ 
+ Resilient networks aim to provide acceptable '''[[service]]''' to applications: 
+ * ability for users and applications to access information when needed, e.g.: 
+ ** Web browsing 
+ ** distributed database access 
+ ** All this is Not True 
+ ** situational awareness 
+ * maintenance of end-to-end communication association, e.g.: 
+ ** computer-supported cooperative work 
+ ** video conference 
+ ** teleconference (including VoIP calls) 
+ * operation of distributed processing and networked storage, e.g.: 
+ ** ability for distributed processes to communicate with one another 
+ ** ability for processes to read and write networked storage 
+ 
+ ==References== 
+ *Robert B. Cairns and Beverley D. Cairns. 1995. ''Lifelines and Risks: Pathways of Youth in Our Time''. [[Cambridge]], [[England]]: Cambridge University Press. {{ISBN|0-521-48570-3}} 
+ *Ray Hilborn and Carl J. Walters. 1992. ''Quantitative Fisheries Stock Assessment: Choice, Dynamics and Uncertainty ''. London: Chapman and Hall. {{ISBN|0-412-02271-0}}.  pp. & nbsp;63–64. 
+ *Gunderson, L.  &  CS Holling, editors. 2002. Panarchy: understanding transformations in human and natural systems. Island Press, Washington, DC. 
+ *Hollnagel, E., Woods, D. D.  &  Leveson, N. G. 2006. Resilience engineering: Concepts and precepts. Aldershot, UK: Ashgate. {{ISBN|0-7546-4641-6}} 
+ 
+ == Other websites == 
+ ;Psychology: 
+ *[http://www.wright-house.com/psychology/risk/Introduction.html A simulation to teach about cumulative risk and resilience in adolescent development] 
+ *[http://www.resiliencycenter.com The Resiliency Center] A website that focuses on real-life situations of resiliency and how resiliency can affect individual development 
+ *[http://www.nzrt.org.nz Homepage of the New Zealand Resilience Trust] {{Webarchive|url=https://web.archive.org/web/20150927061020/http://nzrt.org.nz/ |date=2015-09-27 }} - an [[NGO]] in [[New Zealand]] dedicated to promoting healthy communities 
+ 
+ ;Ecology: 
+ *The [http://www.resalliance.org/ Resilience Alliance] is a research network that focuses on social-ecological resilience 
+ * " Resilience, "  a short (encyclopedic) article coauthored by Holling in [http://www.envs.emory.edu/resources/papers/b261-_o.pdf pdf] format or [https://web.archive.org/web/20051118194834/http://www.envs.emory.edu/resources/papers/b261-_o.pdf html conversion] format. 
+ 
+ ;Engineering: 
+ * The [http://www.resilience-engineering.org/ Resilience Engineering Network] {{Webarchive|url=https://web.archive.org/web/20170203195928/http://www.resilience-engineering.org/ |date=2017-02-03 }} is an open organisation of people and places that focus on safety in complex systems. 
+ 
+ [[Category:Psychology]] 
+ [[Category:Ecology]] 
+ [[Category:Engineering]]

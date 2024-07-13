@@ -1,0 +1,56 @@
+{{Infobox settlement 
+ | name                   = Martorell 
+ | native_name            =  
+ | settlement_type        = [[Municipalities of Spain|Municipality]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline          =  
+ | imagesize              = 265px 
+ | image_caption          =  
+ | image_flag             = Bandera de Martorell.svg 
+ | image_seal             = Escut de Martorell.svg 
+ < !-- maps and coordinates -- > 
+ | pushpin_map            = Spain 
+ | pushpin_mapsize        = 265px 
+ | map_caption            =  
+ | pushpin_label_position = left 
+ | pushpin_relief         = yes 
+ | coordinates            = {{coord|41|28|26.5|N|1|55|52.3|E}} 
+ < !-- location -- > 
+ | subdivision_type       = [[List of sovereign states|Country]] 
+ | subdivision_name       = {{SPA}} 
+ | subdivision_type1      = [[Autonomous communities of Spain|Community]] 
+ | subdivision_name1      = {{flag|Catalonia|name=Catalunya}} 
+ | subdivision_type2      = [[Provinces of Spain|Province]] 
+ | subdivision_name2      = [[Province of Barcelona|Barcelona]] 
+ < !-- government type, leaders -- > 
+ | leader_title           = Mayor 
+ | leader_name            = Xavier Fonollosa 
+ < !-- area -- > 
+ | area_total_km2         = 12.84 
+ < !-- population -- > 
+ | population_total       = 28,590 
+ | population_as_of       = January 1, 2021 
+ | population_density_km2 = 2,227 
+ < !-- time zone(s) -- > 
+ | timezone               = [[Central European Time|CET]] 
+ | utc_offset             = +01:00 
+ < !-- postal codes, area code -- > 
+ | postal_code_type       = Postal code 
+ | postal_code            = 08760 
+ | area_code_type         = Area code 
+ | area_code              = 08114 
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec2        = [[ISO 3166-2:ES|ISO 3166 code]] 
+ | blank_info_sec2        =  
+ | blank1_name_sec2       = Address 
+ | blank1_info_sec2       =  
+ < !-- website, footnotes -- > 
+ | website                = {{Official|1=http://www.martorell.cat/}} 
+ }} 
+ 
+ '''Martorell''' is a [[Municipalities of Spain|municipality]] of 28,772 people (2020). It is in the [[Provinces of Spain|province]] of [[Province of Barcelona|Barcelona]] in the [[Autonomous communities of Spain|autonomous community]] of [[Catalonia]] in [[Spain]]. 
+ 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Municipalities in Barcelona]]

@@ -1,0 +1,95 @@
+{{Infobox programming language 
+ | name                   = Tcl 
+ | logo                   = Tcl-powered.svg 
+ | paradigm               = [[multi-paradigm programming language|multi-paradigm]]: [[Object-oriented programming|object-oriented]], [[functional programming|functional]], [[procedural programming|procedural]], [[event-driven programming]], [[imperative programming|imperative]] 
+ | released               = {{Start date and age|1988}} 
+ | designer               = [[John Ousterhout]] 
+ | developer              = Tcl Core Team 
+ | latest_release_version = [https://sourceforge.net/projects/tcl/files/Tcl/8.6.8/tcltk-release-notes-8.6.8.txt/view 8.6.8 (Dec, 22 2017)] 
+ | latest_release_date    = {{Start date and age|2017|12|22}} 
+ | typing                 = [[dynamic typing]], everything can be treated as a [[string (programming)|string]] 
+ | implementations        = [https://www.activestate.com/activetcl ActiveTcl] [https://www.androwish.org Androwish] 
+ | dialects               = [http://jim.tcl.tk Jim] 
+ | influenced_by          = [[AWK]], [[Lisp (programming language)|Lisp]] 
+ | influenced             = [[PHP]], < ref name= " mysqlconference " > {{cite web |last=Lerdorf |first=Rasmus |title=PHP on Hormones & nbsp;– history of PHP presentation by Rasmus Lerdorf given at the MySQL Conference in Santa Clara, California |date=2007-04-26 |access-date=2009-12-11 |publisher=The Conversations Network |url=http://itc.conversationsnetwork.org/shows/detail3298.html |archive-date=2019-01-06 |archive-url=https://web.archive.org/web/20190106230504/http://web.archive.org/web/20130729204354id_/http://itc.conversationsnetwork.org/shows/detail3298.html |url-status=dead }} < /ref >  [[Tea (programming language)|Tea]], [[Windows PowerShell|PowerShell]] < ref > {{Cite web |title=Windows PowerShell : PowerShell and WPF: WTF |url=http://blogs.msdn.com/powershell/archive/2008/05/25/powershell-and-wpf-wtf.aspx |access-date=2018-09-25 |archive-date=2008-12-25 |archive-url=https://web.archive.org/web/20081225093003/http://blogs.msdn.com/powershell/archive/2008/05/25/powershell-and-wpf-wtf.aspx |url-status=dead }} < /ref > 
+ | license                = [[BSD licenses|BSD]]-style < ref > {{cite web |url=http://www.tcl.tk/software/tcltk/license.html |title= Tcl/Tk License Terms |website=Tcl Developer Xchange |access-date=2016-11-02}} < /ref > 
+ | website                = {{URL|www.tcl.tk}} 
+ | file_ext               = .tcl, .tbc < ref > {{cite web |url=http://docs.activestate.com/tdk/4.1/Compiler.html |title=Tcl Dev Kit - Compiler |website=ActiveState Docs |access-date=2016-11-02 |archive-date=2016-10-20 |archive-url=https://web.archive.org/web/20161020160335/http://docs.activestate.com/tdk/4.1/Compiler.html |url-status=dead }} < /ref > 
+ }} 
+ 
+ '''Tcl''' ([[English alphabet#Letter names|pronounced]]  " tickle "  or ''tee cee ell'' {{IPAc-en|'|t|iː|_|s|iː|_|ɛ|l}}) or '''Tool Command Language''' is a [[High-level programming language]] which can be used for many things. Tcl was made to be easy to use, but able to do many things. < ref > {{cite web |url=http://www.tcl.tk/about/language.html |title=Language |website=Tcl Developer Xchange |access-date=2016-11-02}} < /ref >  Tcl's language is based on commands which tell the [[computer]] what to do or how to save a [[variable]]. Tcl is able to do [[Object-oriented programming|object-oriented]], [[Programming_language#Declarative_vs._Imperative_programming|imperative]], [[Programming_language#Functional_vs._Procedural|functional]], or [[Programming_language#Functional_vs._Procedural|procedural]] styles. 
+ 
+ Tcl is used a lot to in [[C (programming language)|C]] to create [[prototype]]s quickly. < ref > {{cite web |url=http://www.tcl.tk/about/uses.html |title=Uses for Tcl/Tk |website=Tcl Developer Xchange |access-date=2016-11-02}} < /ref >  There are [[Interpreter (computing)|interpreters]] available for many [[operating systems]]. This means many different kinds of computers are able to run Tcl [[Computer programming|code]]. Tcl is a very small language which means it is good to use as [[embedded system]]s. 
+ 
+ Tcl is sometimes combined with [[TK (software|Tk]]. When it is, it is called '''Tcl/Tk'''. Tcl/Tk is a part of the normal [[Python (programming language)|Python]] [[Installation (computer programs)|installation]]. 
+ 
+ == History == 
+ Tcl was created by [[John Ousterhout]] at [[University of California, Berkeley]]. < ref > {{cite web |url=http://www.stanford.edu/~ouster/cgi-bin/tclHistory.php |title=History of Tcl |author=John Ousterhout |work=Personal pages |publisher=Stanford University |access-date=2011-08-09}} < /ref > < ref > {{cite web |url=http://www.tcl.tk/about/history.html |title=History of Tcl |website=Tcl Developer Xchange |access-date=2016-11-02}} < /ref >  Ousterhout won a [[ACM Software System Award]] in 1997 for making Tcl/Tk. < ref > {{cite web | url=http://awards.acm.org/award_winners/ousterhout_1957745.cfm | title=John K Ousterhout - Award Winner | website=ACM Awards | access-date=2016-11-04}} < /ref > 
+ 
+ Safe-Tcl is a form of Tcl that has certain parts turned off so it can't hurt the computer which is running it. [[Nathaniel Borenstein]] and [[Marshall Rose]] created Safe-Tcl. Safe-Tcl can only work on some [[Computer file|files]] including email messages. 
+ 
+ == Examples == 
+ 
+ In Tcl programming, empty whitespace separates words. Commands are ended by going to a new line or a [[Punctuation#Semicolon|semicolon]]: 
+ 
+  word0 word1 word2 ... wordN 
+ 
+ The first word is always a command which comes from Tcl's library: 
+ 
+  commandName arg1 arg2 ... argN 
+ 
+ For example, the commmand ''puts'' makes the computer display something: 
+ 
+ < syntaxhighlight lang= " Tcl " > 
+ puts  " Hello, World! " 
+ < /syntaxhighlight > 
+ 
+ In that example,  " Hello, World! "  is called a [[string (computer science)|string]]. Tcl adds a special character which can't be seen at the end of a line. This character tells the computer to go a new line after the command is complete. 
+ 
+ Tcl is able to do math and many other things using variables. In order to use a variable, the programmer must set their value: 
+ 
+ < syntaxhighlight lang= " Tcl " > 
+ set variableA 1 
+ set variableB 2 
+ < /syntaxhighlight > 
+ 
+ After a variable is set, it can be used in other parts of the program or set to something different. Variables can be used to perform math: 
+ 
+ < syntaxhighlight lang= " Tcl " > 
+ set x 2 
+ set y 4 
+ set ans [expr $x+$y] 
+ puts  " The answer is $ans. "  # The computer would show:  " The answer is 6. " 
+ < /syntaxhighlight > 
+ 
+ The command ''expr'' tells the computer to solve the  " expression "  or, in this case, an [[equation]]. 
+ 
+ == Easy commands == 
+ * < code > set < /code >  saves numbers, words, or letters, to a variable. It can also be used to change what is in a variable. 
+ * < code > proc < /code >  tells the computer what a new command will do (procedure). 
+ * < code > if < /code >  tells the computer to do what is written only if something is true. 
+ * < code > while < /code >  tells the computer to do what is written as long as something is true. 
+ * < code > foreach < /code >  tells the computer to something for each item in a list of variables. 
+ * < code > break < /code >  stops the command from running. This is good to use to get out of a loop. 
+ * < code > continue < /code >  stops the active command, but allows the loop to continue. If the loop is a  < code > while < /code >  loop, it will start over. It will let  < code > foreach < /code >  and  < code > for < /code >  go to the next step in the program. 
+ * < code > return < /code >  stops the active command and loop, then goes back to the procedure with a value. 
+ 
+ == Related pages == 
+ 
+ *[[Eggdrop]] 
+ *[[TclX]] 
+ *[[List of programming languages]] 
+ 
+ {{Authority control}} 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{wikibooks|Tcl Programming}} 
+ {{commons category|Tcl programming language family}} 
+ *{{Official website|url=http://www.tcl.tk}} 
+ *[http://wiki.tcl.tk Tcler's Wiki] 
+ *[http://core.tcl.tk Tcl and Tk source downloads] 
+ *[http://www.tkdocs.com TkDocs] 
+ 
+ [[Category:Programming languages]]

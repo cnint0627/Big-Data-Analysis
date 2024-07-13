@@ -1,0 +1,54 @@
+{{Chembox 
+ | Name = Bryostatin 1 
+ | ImageFile = Bryostatin 1 ACS.svg 
+ | ImageSize = 250px 
+ | IUPACName = (1''S'',3''S'',5''Z'',7''R'',8''E'',11''S'',12''S'',13''E'',15''S'',17''R'',20''R'',23''R'',25''S'')-25-Acetoxy-1,11,20-trihydroxy-17-[(1''R'')-1-hydroxyethyl]-5,13-bis(2-methoxy-2-oxoethylidene)-10,10,26,26-tetramethyl-19-oxo-18,27,28,29-tetraoxatetracyclo[21.3.1.1 < sup > 3,7 < /sup > .1 < sup > 11,15 < /sup > ]nonacos-8-en-12-yl (2''E'',4''E'')-2,4-octadienoate 
+ | OtherNames =  
+ |Section1={{Chembox Identifiers 
+ | index_label = 1 
+ | CASNo = 83314-01-6 
+ | PubChem = 5280757 
+ | UNII = 37O2X55Y9E 
+ | ChEMBL = 449158 
+ | ChEBI = 88353 
+ | ChemSpiderID = 27022418 
+ | DrugBank = DB11752 
+ | KEGG = C05149 
+ | SMILES = CCC/C=C/C=C/C(=O)O[C@H]1/C(=C/C(=O)OC)/C[C@H]2C[C@@H](OC(=O)[C@@H](CC[C@@H]3C[C@@H](C([C@@](O3)(C[C@@H]4C/C(=C/C(=O)OC)/C[C@@H](O4)/C=C/C([C@@]1(O2)O)(C)C)O)(C)C)OC(=O)C)O)[C@@H](C)O 
+ | InChI = 1/C47H68O17/c1-10-11-12-13-14-15-39(51)62-42-31(24-41(53)58-9)23-34-25-37(28(2)48)61-43(54)36(50)17-16-33-26-38(59-29(3)49)45(6,7)46(55,63-33)27-35-21-30(22-40(52)57-8)20-32(60-35)18-19-44(4,5)47(42,56)64-34/h12-15,18-19,22,24,28,32-38,42,48,50,55-56H,10-11,16-17,20-21,23,25-27H2,1-9H3/b13-12+,15-14+,19-18+,30-22+,31-24+/t28-,32+,33-,34+,35+,36-,37-,38+,42+,46+,47-/m1/s1 
+ | InChIKey = XYXASLYZTKBYQJ-OAUMSBLFBY 
+ | StdInChI = 1S/C47H68O17/c1-10-11-12-13-14-15-39(51)62-42-31(24-41(53)58-9)23-34-25-37(28(2)48)61-43(54)36(50)17-16-33-26-38(59-29(3)49)45(6,7)46(55,63-33)27-35-21-30(22-40(52)57-8)20-32(60-35)18-19-44(4,5)47(42,56)64-34/h12-15,18-19,22,24,28,32-38,42,48,50,55-56H,10-11,16-17,20-21,23,25-27H2,1-9H3/b13-12+,15-14+,19-18+,30-22+,31-24+/t28-,32+,33-,34+,35+,36-,37-,38+,42+,46+,47-/m1/s1 
+ | StdInChIKey = XYXASLYZTKBYQJ-OAUMSBLFSA-N 
+   }} 
+ |Section2={{Chembox Properties 
+ | C=47 | H=68 | O=17 
+ | Appearance =  
+ | Density =  
+ | MeltingPt =  
+ | BoilingPt =  
+ | Solubility = 
+   }} 
+ |Section3={{Chembox Hazards 
+ | MainHazards =  
+ | FlashPt =  
+ | AutoignitionPt = 
+   }} 
+ }} 
+ '''Bryostatins''' were first collected by JL Hartwell’s anticancer drug discovery group at the National Cancer Institute (NCI) by Jack Rudloe. 
+ 
+ 
+ == Further reading == 
+ {{refbegin}} 
+ * {{cite journal | vauthors = Proksch P, Edrada RA, Ebel R | title = Drugs from the seas - current status and microbiological implications | journal = Applied Microbiology and Biotechnology | volume = 59 | issue = 2–3 | pages = 125–34 | date = July 2002 | pmid = 12111137 | doi = 10.1007/s00253-002-1006-8 | s2cid = 29833324 }} 
+ {{refend}} 
+ 
+ == Other websites == 
+ * {{cite web | first = Chris | last = Kilham | name-list-style = vanc | url = http://health.foxnews.mobi/quickPage.html?page=31737 & content=60866907 & pageNum=-1 | archive-url = https://web.archive.org/web/20120425233934/http://health.foxnews.mobi/quickPage.html?page=31737 & content=60866907 & pageNum=-1 | archive-date = 25 April 2012 | url-status = dead | title = The Importance of Drugs From the Sea | work = Fox News Health }} 
+ * {{cite web | title = Bryostatin 1 | url = http://aphios.com/products/research-chemicals/bryostatin-1.html | publisher = Aphios Corporation | access-date = 2013-12-19 | archive-url = https://web.archive.org/web/20131220000812/http://aphios.com/products/research-chemicals/bryostatin-1.html | archive-date = 2013-12-20 | url-status = dead }} 
+ * {{cite web | title = Bryostatin 2 | url = http://aphios.com/products/research-chemicals/bryostatin-2.html | publisher = Aphios Corporation | access-date = 2022-07-16 | archive-date = 2012-11-12 | archive-url = https://web.archive.org/web/20121112034845/http://www.aphios.com/products/research-chemicals/bryostatin-2.html | url-status = dead }} 
+ * {{cite web | title = Bryostatin 3 | url = http://aphios.com/products/research-chemicals/bryostatin-3.html | publisher = Aphios Corporation | access-date = 2022-07-16 | archive-date = 2013-12-20 | archive-url = https://web.archive.org/web/20131220000226/http://aphios.com/products/research-chemicals/bryostatin-3.html | url-status = dead }} 
+ 
+ [[Category:drugs]] 
+ [[Category:Organic compounds]] 
+ 
+ {{med-stub}}

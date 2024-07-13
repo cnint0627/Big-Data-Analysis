@@ -1,0 +1,15 @@
+'''Nim''' is a simple game used for examples in [[combinatorial game theory]]. The rules of nim are simple: 
+ # The game begins with some piles of [[counter]]s. 
+ # Players alternate turns. 
+ # On a turn, a player takes counters from a pile. At least one counter must be taken, but up to 3. All counters must be in the same pile. 
+ # If a player cannot take a counter, that player loses. 
+ 
+ There is a simple [[mathematical]] [[strategy]] to play the game perfectly. If both players play perfectly, the winner is determined by the initial setup. 
+ 
+ == Other websites == 
+ * [http://www.draftydraft.com/nim/ Nim Game] {{Webarchive|url=https://web.archive.org/web/20080908052403/http://www.draftydraft.com/nim/ |date=2008-09-08 }} 
+ 
+ 
+ {{science-stub}} 
+ 
+ [[Category:Game theory]]

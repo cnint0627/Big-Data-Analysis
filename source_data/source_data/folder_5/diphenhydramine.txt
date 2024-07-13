@@ -1,0 +1,90 @@
+{{distinguish|dimenhydrinate}} 
+ {{Drugbox 
+ | Verifiedfields     = changed 
+ | Watchedfields      = changed 
+ | verifiedrevid      = 460791686 
+ | drug_name          =  
+ | type               =  
+ | image              = Diphenhydramine 2D skeletal.svg 
+ | alt                =  
+ | caption            =  
+ | image2             = Diphenhydramine 3D 2aot.png 
+ 
+ < !-- Clinical data -- > 
+ | pronounce          = {{IPAc-en|ˌ|d|aɪ|f|ɛ|n|ˈ|h|aɪ|d|r|ə|m|iː|n}} 
+ | tradename          = [[Benadryl]], Unisom, [[Nytol]], others 
+ | Drugs.com          = {{drugs.com|monograph|diphenhydramine-hydrochloride}} 
+ | MedlinePlus        = a682539 
+ | licence_EU         =  
+ | DailyMedID         = Diphenhydramine 
+ | licence_US         =  
+ | pregnancy_AU       = A 
+ | pregnancy_AU_comment =  
+ | pregnancy_category =  
+ | dependency_liability = Very low < ref > {{cite book |last1=Hubbard |first1=John R. |last2=Martin |first2=Peter R. |title=Substance Abuse in the Mentally and Physically Disabled |date=2001 |publisher=CRC Press |isbn=9780824744977 |page=26 |url=https://books.google.com/books?id=MY1kFYk98mQC & pg=PA26 |language=en}} < /ref > 
+ | routes_of_administration = [[Oral administration|By mouth]], [[intramuscular injection|intramuscular]], [[intravenous therapy|intravenous]], [[topical medication|topical]], [[rectal administration|rectal]] 
+ | class              =  
+ | ATC_prefix         = D04 
+ | ATC_suffix         = AA32 
+ | ATC_supplemental   = {{ATC|D04|AA33}}, {{ATC|R06|AA02}} 
+ 
+ < !-- Legal status -- > 
+ | legal_AU           = S2 
+ | legal_UK           = GSL 
+ | legal_US           = OTC 
+ | legal_status       =  
+ 
+ < !-- Pharmacokinetic data -- > 
+ | bioavailability    = 40–60% < ref name= " pmid2866055 " / > 
+ | protein_bound      = 98–99% 
+ | metabolism         = [[Liver]] ([[CYP2D6]], others) < ref name= " pmid19153052 " > {{cite journal | vauthors = Krystal AD | title = A compendium of placebo-controlled trials of the risks/benefits of pharmacological treatments for insomnia: the empirical basis for U.S. clinical practice | journal = Sleep Med Rev | volume = 13 | issue = 4 | pages = 265–74 | date = August 2009 | pmid = 19153052 | doi = 10.1016/j.smrv.2008.08.001 | url = }} < /ref > < ref name= " DrugBank " > {{cite web | title = Showing Diphenhydramine (DB01075) | url = http://www.drugbank.ca/drugs/DB01075 | publisher = DrugBank | access-date = 5 September 2009 | url-status = live | archive-url = https://web.archive.org/web/20090831145953/http://drugbank.ca/drugs/DB01075 | archive-date = 31 August 2009 | df = dmy-all }} < /ref > 
+ | elimination_half-life = Range: 2.4–13.5 & nbsp;[[hour|h]] < ref name= " AHFS " > {{cite book|title=AHFS Drug Information|url=https://books.google.com/books?id=WR0NAQAAMAAJ|year=1990|publisher=Published by authority of the Board of Directors of the American Society of Hospital Pharmacists}} < /ref > < ref name= " pmid2866055 " > {{cite journal | vauthors = Paton DM, Webster DR | title = Clinical pharmacokinetics of H1-receptor antagonists (the antihistamines) | journal = Clinical Pharmacokinetics | volume = 10 | issue = 6 | pages = 477–97 | year = 1985 | pmid = 2866055 | doi = 10.2165/00003088-198510060-00002 | s2cid = 33541001 }} < /ref > < ref name= " pmid2391399 " > {{cite journal | vauthors = Simons KJ, Watson WT, Martin TJ, Chen XY, Simons FE | title = Diphenhydramine: pharmacokinetics and pharmacodynamics in elderly adults, young adults, and children | url = https://archive.org/details/sim_journal-of-clinical-pharmacology_1990-07_30_7/page/665 | journal = Journal of Clinical Pharmacology | volume = 30 | issue = 7 | pages = 665–71 | date = July 1990 | pmid = 2391399 | doi = 10.1002/j.1552-4604.1990.tb01871.x | s2cid = 25452263 }} < /ref > 
+ | excretion          = [[Urine]]: 94% < ref name= " pmid3962845 " > {{cite journal | vauthors = Garnett WR | title = Diphenhydramine | journal = American Pharmacy | volume = NS26 | issue = 2 | pages = 35–40 | date = February 1986 | pmid = 3962845 | doi = 10.1016/s0095-9561(16)38634-0 }} < /ref > < br / > [[Feces]]: 6% < ref name= " pmid3962845 "  / > 
+ 
+ < !-- Identifiers -- > 
+ | CAS_number_Ref     = {{cascite|correct|??}} 
+ | CAS_number         = 58-73-1 
+ | PubChem            = 3100 
+ | IUPHAR_ligand      = 1224 
+ | DrugBank_Ref       = {{drugbankcite|correct|drugbank}} 
+ | DrugBank           = DB01075 
+ | ChemSpiderID_Ref   = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID       = 2989 
+ | UNII_Ref           = {{fdacite|correct|FDA}} 
+ | UNII               = 8GTS82S83M 
+ | KEGG_Ref           = {{keggcite|changed|kegg}} 
+ | KEGG               = D00669 
+ | ChEBI_Ref          = {{ebicite|correct|EBI}} 
+ | ChEBI              = 4636 
+ | ChEMBL_Ref         = {{ebicite|correct|EBI}} 
+ | ChEMBL             = 657 
+ 
+ < !-- Chemical data -- > 
+ | IUPAC_name         = 2-(diphenylmethoxy)-''N'',''N''-dimethylethanamine 
+ | C                  = 17 
+ | H                  = 21 
+ | N                  = 1 
+ | O                  = 1 
+ | SMILES             = O(CCN(C)C)C(c1ccccc1)c2ccccc2 
+ | StdInChI_Ref       = {{stdinchicite|correct|chemspider}} 
+ | StdInChI           = 1S/C17H21NO/c1-18(2)13-14-19-17(15-9-5-3-6-10-15)16-11-7-4-8-12-16/h3-12,17H,13-14H2,1-2H3 
+ | StdInChIKey_Ref    = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey        = ZZVUWRFHKOJYTH-UHFFFAOYSA-N 
+ }} 
+ '''Diphenhydramine''' ('''DPH''') is an [[antihistamine]] medication. It is mainly used to treat [[allergy|allergies]]. < ref name=AHSP2016/ >  It can also be used to treat [[insomnia]], the [[common cold]], [[tremor]] in [[parkinsonism]], and [[nausea]]. < ref name=AHSP2016/ >  It is taken [[Oral administration|by mouth]], [[injection into a vein|injected into a vein]], [[injection into a muscle|injected into a muscle]], or [[topical medication|put on the skin]]. < ref name=AHSP2016/ >  It works best two hours after taking, and works for up to seven hours. < ref name=AHSP2016 > {{cite web|title=Diphenhydramine Hydrochloride|url=https://www.drugs.com/monograph/diphenhydramine-hydrochloride.html|website=Drugs.com|publisher=American Society of Health-System Pharmacists|access-date=28 September 2016|date=6 September 2016|url-status=live|archive-url=https://web.archive.org/web/20160915002404/https://www.drugs.com/monograph/diphenhydramine-hydrochloride.html|archive-date=15 September 2016}} < /ref > 
+ 
+ Common side effects include [[sleep|sleepiness]], bad [[balance]] and a bad [[stomach]]. < ref name=AHSP2016/ >  It should not be used in young children or the [[elderly]]. < ref name=AHSP2016/ > < ref name=schroeck2016 > {{cite journal | vauthors = Schroeck JL, Ford J, Conway EL, Kurtzhalts KE, Gee ME, Vollmer KA, Mergenhagen KA | title = Review of Safety and Efficacy of Sleep Medicines in Older Adults | journal = Clinical Therapeutics | volume = 38 | issue = 11 | pages = 2340–2372 | date = November 2016 | pmid = 27751669 | doi = 10.1016/j.clinthera.2016.09.010 | doi-access = free }} < /ref >  It can be used while [[pregnant]], but not when [[breastfeeding]]. < ref > {{cite web|title=Diphenhydramine Pregnancy and Breastfeeding Warnings|url=https://www.drugs.com/pregnancy/diphenhydramine.html|website=Drugs.com|access-date=28 September 2016|url-status=live|archive-url=https://web.archive.org/web/20161002114958/https://www.drugs.com/pregnancy/diphenhydramine.html|archive-date=2 October 2016}} < /ref >  It works by blocking some effects of [[histamine]] from working at the [[histamine H1 receptor|H1 receptor]]. < ref name=AHSP2016/ >  Diphenhydramine is also an [[anticholinergic]], and is a [[deliriant]] at high doses. < ref > {{cite book|last1=Ayd|first1=Frank J.|title=Lexicon of Psychiatry, Neurology, and the Neurosciences|date=2000|publisher=Lippincott Williams  &  Wilkins|isbn=978-0-7817-2468-5 | page = 332 | url = https://books.google.com/books?id=ea_QVG2BFy8C & pg=PA332 }} < /ref > 
+ 
+ Diphenhydramine was first made by [[George Rieveschl]] and was first used in 1946. < ref > {{cite book|last1=Dörwald|first1=Florencio Zaragoza|title=Lead Optimization for Medicinal Chemists: Pharmacokinetic Properties of Functional Groups and Organic Compounds |date = 2013 | publisher = John Wiley  &  Sons | isbn = 978-3-527-64565-7 | page = 225 | url = https://books.google.com/books?id=YTeY9ZEfNccC & pg=PA225 }} < /ref > < ref > {{cite web|title=Benadryl|url=http://ohiohistorycentral.org/w/Benadryl?rec=2591|website=Ohio History Central|access-date=28 September 2016|url-status=live|archive-url=https://web.archive.org/web/20161017192649/http://ohiohistorycentral.org/w/Benadryl?rec=2591|archive-date=17 October 2016}} < /ref >  It is available as a [[generic medication]]. < ref name=AHSP2016/ >  It is also sold under the brand name [[Benadryl]], as well as others. < ref name=AHSP2016/ >  It was the 241st most commoly [[prescription|prescribed]] medication in the United States in 2017. < ref > {{cite web | title = The Top 300 of 2020 | url = https://clincalc.com/DrugStats/Top300Drugs.aspx | website = ClinCalc | access-date = 11 April 2020}} < /ref > < ref > {{cite web | title = Diphenhydramine Hydrochloride - Drug Usage Statistics | website = ClinCalc | url = https://clincalc.com/DrugStats/Drugs/DiphenhydramineHydrochloride | access-date = 11 April 2020 | archive-date = 29 April 2017 | archive-url = https://web.archive.org/web/20170429131405/https://clincalc.com/DrugStats/Drugs/DiphenhydramineHydrochloride | url-status = dead }} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Cough and cold preparations}} 
+ {{Drug use}} 
+ {{Hypnotics and sedatives}} 
+ {{Antiemetics}} 
+ 
+ [[Category:Antihistamines]] 
+ [[Category:Organic compounds]] 
+ [[Category:Organonitrogen compounds]]

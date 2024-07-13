@@ -1,0 +1,48 @@
+{{Infobox medical condition (new) 
+ | name            = Histoplasmosis 
+ | synonyms        = '''Cave disease''', < ref name= " Bolognia "  / >  '''Darling's disease''', < ref name= " Bolognia "  / >  '''Ohio valley disease''', < ref name= " Bolognia "  / >  '''Reticuloendotheliosis''', < ref name= " Bolognia " > {{cite book | last1 = Rapini | first1 = Ronald P. | last2 = Bolognia | first2 = Jean L. | last3 = Jorizzo | first3 = Joseph L. | name-list-style = vanc |title=Dermatology: 2-Volume Set |publisher=Mosby |location=St. Louis |year=2007 |isbn=978-1-4160-2999-1 }} < /ref >  '''[[Spelunk]]er's lung''' and '''Caver's disease''' 
+ | image           = Histoplasmosis capsulatum.jpg 
+ | caption         = ''[[Histoplasma capsulatum]]''. Methenamine [[silver stain]] showing histopathologic changes in histoplasmosis 
+ | pronounce       = 
+ | field           = [[Infectious disease (medical specialty)|Infectious disease]] 
+ | symptoms        = 
+ | complications   = 
+ | onset           = 
+ | duration        = 
+ | types           = 
+ | causes          = 
+ | risks           = 
+ | diagnosis       = 
+ | differential    = 
+ | prevention      = 
+ | treatment       = 
+ | medication      = 
+ | prognosis       = 
+ | frequency       = 
+ | deaths          = 
+ }} 
+ '''Histoplasmosis''' is a [[fungal infection]] caused by ''[[Histoplasma capsulatum]]''. < ref name= " John2017Hist " > {{cite book|last=Johnstone |first=Ronald B.|title=Weedon's Skin Pathology Essentials |url=https://books.google.com/books?id=NTE_DAAAQBAJ|year=2017|publisher=Elsevier |edition=2nd|isbn=978-0-7020-6830-0|page=452|chapter=25. Mycoses and Algal infections}} < /ref > < ref > {{cite journal | vauthors = Stenn F | title = Cave disease or speleonosis | journal = Archives of Internal Medicine | volume = 105 | issue = 2 | pages = 181–3 | date = February 1960 | pmid = 13834312 | doi = 10.1001/archinte.1960.00270140003001 }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ {{Medical resources 
+ |  DiseasesDB      = 5925  
+ |  ICD10           = {{ICD10|B|39||b|35}}  
+ |  ICD9            = {{ICD9|115}}  
+ |  ICDO            =  
+ |  OMIM            =  
+ |  MedlinePlus     = 001082  
+ |  eMedicineSubj   = med  
+ |  eMedicineTopic  = 1021  
+ |  eMedicine_mult  = {{eMedicine2|ped|1017}}  
+ |  MeshID          = D006660  
+ |  Orphanet        = 390 
+ }} 
+ 
+ [[Category:infectious diseases]] 
+ [[Category:Zoonoses]] 
+ [[Category:Fungal diseases]] 
+ 
+ {{med-stub}}

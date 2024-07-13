@@ -1,0 +1,33 @@
+[[Image:Fysik vridmoment.png|frame|Torque applied via an [[adjustable spanner|adjustable end wrench]]]] 
+ [[Image:Torque animation.gif|frame|Relationship between force, torque, and [[angular momentuum|momentum]] vectors in a rotating system]] 
+ 
+ In [[physics]], '''torque''' is the tendency of a [[Force (physics)|force]] to turn or twist. If a force is used to begin to [[spin (physics)|spin]] an [[object]], or to stop an object from spinning, a torque is made. 
+ 
+ The force applied to a [[lever]], multiplied by the [[distance]] from the lever's [[:en:Fulcrum|fulcrum]], multiplied again by the [[sine]] of the angle created, is described as torque. This is also known as  " r [[cross product|cross]] f, "  or  " force times fulcrum distance times sine theta. " 
+ 
+ == Fulcrum == 
+ Fulcrum is the [[Axis (mathematics)|axis]] of [[rotation]] or point of support on which a lever turns in raising or moving something. 
+ 
+ == Equation == 
+ The [[equation]] for torque is: 
+ : < math > \boldsymbol \tau = \mathbf{r}\times \mathbf{F}\,\! < /math > 
+ where '''F''' is the net force [[vector]] and '''r''' is the vector from the axis of rotation to the point where the force is acting. The [[Greek alphabet|Greek letter]] [[Tau]] is used to represent torque.  
+ 
+ The units of torque are force multiplied by distance. < ref > {{cite book|first=Steven|last=Holzner|title=Physics Essentials For Dummies|url=https://archive.org/details/physicsessential0000holz|publisher=Wiley Publishing|date=2010|page=[https://archive.org/details/physicsessential0000holz/page/122 122]|isbn=978-0-470-61841-7}} < /ref >  The SI unit of torque is the [[newton-metre]].  The most common English unit is the [[foot-pound]]. 
+ 
+ == References == 
+ < references / > 
+ 
+ == Other websites == 
+ *[http://craig.backfire.ca/pages/autos/horsepower  " Horsepower and Torque " ] {{Webarchive|url=https://web.archive.org/web/20070328195944/http://craig.backfire.ca/pages/autos/horsepower |date=2007-03-28 }} An article showing how power, torque, and gearing affect a vehicle's performance. 
+ *[http://www.lightandmatter.com/html_books/2cl/ch05/ch05.html a discussion of torque and angular momentum in an online textbook] {{Webarchive|url=https://web.archive.org/web/20101214161609/http://lightandmatter.com/html_books/2cl/ch05/ch05.html |date=2010-12-14 }} 
+ *[http://physnet.org/home/modules/pdf_modules/m34.pdf ''Torque and Angular Momentum in Circular Motion '']{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} on [http://www.physnet.org Project PHYSNET]. 
+ *[http://www.phy.hk/wiki/englishhtm/Torque.htm An interactive simulation of torque] 
+ 
+ 
+ {{physics-stub}} 
+ 
+ [[Category:Basic physics ideas]] 
+ [[Category:Physical quantity]] 
+ [[Category:Mechanics]] 
+ [[Category:Engineering]]

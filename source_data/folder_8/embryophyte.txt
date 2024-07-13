@@ -1,0 +1,93 @@
+{{Taxobox 
+ | name = Embryophyta 
+ | domain = [[Eukaryota]] 
+ | unranked_superregnum = [[Archaeplastida]] 
+ | regnum = [[Plant]]ae 
+ | subregnum = '''Embryophyta''' 
+ }} 
+ [[File:Garden Primeval - US Botanic Gardens 37.jpg|thumb|250px|[[Moss]], [[clubmoss]], [[Fern|ferns]] and [[Cycad|cycads]] growing in a [[greenhouse]]]] 
+ 
+ '''Embryophytes''' are '''land plants'''. They are the most familiar kinds of plants, the [[bryophytes]], [[ferns]], [[gymnosperms]] and [[flowering plants]]. Only a few embryophytes are water plants.  
+ 
+ They don't include the [[algae]]. They include the [[Bryophyte]] < nowiki/ > s and the [[vascular plant]] < nowiki/ > s. 
+ 
+ Embryophytes started sometime between the mid-[[Cambrian]] and the [[Ordovician]] period. Their ancestors were [[green algae]].  
+ 
+ 
+ {{Clade 
+ |label1=[[Viridiplantae]] 
+ |1={{Clade 
+ |1=[[Chlorophyta]][[File:Pediastrum.jpg|60 px]] 
+ |label2=[[Streptophyta]]/[[Charophyta]] 
+ |2={{Clade 
+ |1={{Clade 
+ |1=[[Charophyceae]][[File:Chara_lupa.JPG|60 px]] 
+ |label2=[[Zygnemaphyceae]] 
+ |2={{Clade 
+ |1=[[Zygnemales]][[File:Micrasterias_radiata.jpg|60 px]] 
+ |2=[[Desmidiales]][[File:The_desmid,_Clostarium.jpg|60 px]] 
+ }} 
+ }} 
+ |label2='''Embryophyta''' 
+ |2={{Clade 
+ |label1=[[Bryophyta]]  
+ |1={{Clade 
+ |1=[[Hornwort]]s[[File:Ceratophyllum_demersum_145110387.jpg|60 px]] 
+ |2={{Clade 
+ |1=[[Liverwort]]s[[File:Targionia_habit.jpg|60 px]] 
+ |2=[[Moss]]es[[File:Moss_18.jpg|60 px]] 
+ }} 
+ }} 
+ |label2=[[Polysporangiophyta]] 
+ |2={{Clade 
+ |1=[[Horneophytopsida]]/Horneophyta{{extinct}}[[File:Horneophyton_lignieri_reconstrucción.jpg|60 px]] 
+ |label2=[[Tracheophyta]] 
+ |2={{Clade 
+ |1=''[[Cooksonia]]''{{extinct}}[[File:Cooksonia.png|60 px]] 
+ |2={{Clade 
+ |1=[[Rhyniophyta]]{{extinct}}[[File:Rhynia_reconstruction.jpg|60 px]] 
+ |label2=[[Eutracheophyta]]/[[Pteridophyta]][[Paraphyly|*]] 
+ |2={{Clade 
+ |1={{Clade 
+ |1=[[Nothia]]{{extinct}}[[File:Nothia.png|60 px]] 
+ |2=[[Lycophyta]][[File:Lycophyte_strobili.jpg|60 px]] 
+ }} 
+ |label2=[[Euphyllophyta]] 
+ |2={{Clade 
+ |label1=[[Monilophyta]]/Ferns 
+ |1={{Clade 
+ |1=''[[Botrychium]]''[[File:Botrychium_paradoxum.jpg|60 px]] 
+ |2={{Clade 
+ |1=[[Horsetail]]s[[File:Equisetum_arvense_126536963.jpg|60 px]] 
+ |2=[[Fern|True ferns]][[File:Fern.jpg|60 px]] 
+ }} 
+ }} 
+ |label2=Spermatophyte_lineage 
+ |2={{Clade 
+ |1=''[[Eophyllophyton]]''{{extinct}} 
+ |label2=[[Lignophyta]] 
+ |2={{Clade 
+ |1=[[Progymnosperma]]{{extinct}}[[Paraphyly|*]][[File:Archaeopteris_sp._-_MUSE.jpg|60 px]] 
+ |label2=[[Spermatophyta]] 
+ |2={{Clade 
+ |1=[[Gymnosperma]][[File:Pinus_densiflora_Kumgangsan.jpg|60 px]] 
+ |2=[[Angiosperma]][[File:Magnolia.jpg|60 px]] 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ 
+ {{-}} 
+ {{biology-stub}} 
+ 
+ 
+ [[Category:Plant taxonomy]]

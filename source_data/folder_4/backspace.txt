@@ -1,0 +1,29 @@
+[[Image:Backspace.jpg|thumb|A backspace key in the wild.]] 
+ {{Wiktionary}} 
+ '''Backspace''' is the keyboard key (sometimes labeled as:  ← ) that originally pushed the [[typewriter]] carriage one position backwards, and for modern computer screens, moves the cursor one position backwards, deletes the preceding character, and shifts back the text after it by one position. 
+ 
+ In typewriters, a typist would, for example, type a lowercase letter  " a "  with acute accent (á) by typing a lowercase letter  " a "  then backspace, and then the acute accent key (also known as [[overstrike]]). This is the basis for such spacing modifiers in computer character sets such as the [[ASCII]] caret (^, for the circumflex accent). Backspace composition no longer works with digital displays or typesetting systems. It has to some degree been replaced with the [[combining diacritical mark]]s mechanism of [[Unicode]], though such characters do not work well with many fonts, and precomposed characters continue to be used. Some software like [[TeX]] or [[Microsoft Windows]] use the opposite method for diacritical marks, namely positioning the accent first, and then placing the base letter at that position. 
+ 
+ Pressing the backspace key on a computer terminal would generate the [[ASCII]] code 08, BS or Backspace, a [[control code]] which would delete the preceding character. That control code could also be accessed by pressing Control-H, as [[H]] is the eighth letter of the [[Latin alphabet]]. Terminals which did not have the backspace code mapped to the function of moving the cursor backwards and deleting the preceding character would display the symbols '''^H''' (caret, H – see [[Caret notation]]) when the backspace key was pressed. This sequence is still used humorously for [[epanorthosis]] by computer literates, denoting the deletion of a pretended blunder, much like a [[strikethrough]]. 
+ 
+ Example: 
+ 
+  My slave-dri^H^H^H^H^H^H^H^H^Hboss decided to stall the project. 
+ 
+ A more concise alternative sometimes seen is '''^W''', which is the shortcut to delete the previous word in the Berkeley Unix terminal line discipline. One ^W can replace a whole string of ^H's. This shortcut has also made it into the [[Vi]] text editor. For really embarrassing blunders, '''^U''' (kill line) can outdo a series of ^W. 
+ 
+ The backspace is distinct from the [[delete key]], which in paper media for computers would punch out all the holes to strike out a character, and in modern computers deletes text ''following'' it. Also, the delete key often works as a generic command to remove an object (such as an image inside a document, or a file in a [[file manager]]), while backspace usually has no effect. 
+ 
+ In modern systems, the backspace key is often mapped to the delete character (0x7f in ASCII or Unicode), although the backspace key's function of deleting the character before the cursor remains. < ref name= " debian " > {{cite web | title=9.8 Keyboard configuration | work=Debian Policy Manual | url=http://www.debian.org/doc/debian-policy/ch-opersys.html#s9.8}} < /ref > 
+ 
+ In a [[Mainframe computer|mainframe]] environment, ''to backspace'' means to move a [[magnetic tape]] backwards, typically to the previous block. 
+ 
+ The backspace key is commonly used to go back a page when exploring folders in graphical environments, or when browsing the [[World Wide Web|Web]] in [[web browser]]s. 
+ 
+ Although the term  " backspace "  is the standard name of the key which deletes the character to the left of the cursor, the actual key may be labelled in a variety of ways, for example ''delete'', < ref > {{cite web | url=http://lowendmac.com/mail/07/0502.html | title=User Mistakes or Mac Mistakes?, Backspace vs. Delete, and It's Too Easy to Zap an Icon in the Dock | year=2007}} < /ref >  ''Erase'' (for example in XO-1, One Laptop Per Child), < ref > {{cite web | url=http://wiki.laptop.org/go/OLPC_Human_Interface_Guidelines/The_Sugar_Interface/Input_Systems | title=OLPC Human Interface Guidelines/The Sugar Interface/Input Systems | access-date=2008-01-15 | last=OLPC Wiki}} < /ref >  or with a left pointing arrow. < ref name= " debian " / > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Computer keyboard]] 
+ [[Category:Control characters]]

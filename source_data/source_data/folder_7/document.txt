@@ -1,0 +1,88 @@
+A '''document''' < ref > '''Definition:''' a bounded physical representation of body of [[information]] designed with the capacity (and usually intent) to [[communicate]] < /ref >  (''noun'') is a piece of [[information]] that is used to [[Communication|communicate]] something. Mostly it is a [[paper]] that contains information in the form of [[ink]] marks, but nowadays documents can be [[digital]] as well.  
+ 
+ To '''document''' (''verb'') means to produce an [[:wikt:object|object]] by collecting and [[:wikt:represent|representing]] information. 
+ 
+ == Different sorts of documents == 
+ * ''Prototypical Documents:'' [[Letter]]s, memos, legal [[Form|forms]], [[Instruction manual]] 
+ * ''Documents of Record:'' [[Newspapers]] and [[magazines]] 
+ * ''Books:'' [[Textbook|Text book]], [[Novels]], [[Recipe]] books, [[Encyclopedia]], Comic books 
+ * ''Canonical Documents:'' The [[Bible]],[[Iliad]] and [[Odyssey]],[[Vedas]], [[Ramayana]], [[Mahabharata]], [[Quran]], [[Code of Hammurabi]],[[Tao Te Ching]] 
+ * ''Transactional Documents:'' [[Cheque]], [[Contracts]], [[Prescription]], [[Receipt]], [[Form (document)]], [[Postage stamp|Postage Stamp]] 
+ * ''Functional Documents:'' [[PDF]] files, [[Postscript|PostScript]] files, [[XML]] files, [[Email]] 
+ * ''Non-Prototypical Documents:'' [[Post-it Note|Post-it notes]], [[Fortune cookie]] strips, [[Maps]], [[Paintings]], milk cartons, cereal boxes 
+ * ''Non-Classical Digital Documents:'' [[Webpage|Web Page]], [[Weblog]], [[Wiki]] 
+ * ''Boundary Examples:'' The plaque on the [[Pioneer 11]] spacecraft, designed by astronomer [[Carl Sagan]], and using information assumed to be universal is an extreme example of a document that is intended to communicate with [[Alien|aliens]]. On the other hand, the recorded and printed signals of the [[Search for Extra-Terrestrial Intelligence|SETI project]] would constitute documents if they were discovered to contain alien communication. 
+ 
+ == Everyday use == 
+ When one views a document, they can see the [[connotation]]s and [[denotation]]s that appear in a [http://www.google.com/search?hl=en & rls=GFRD,GFRD:2007-13,GFRD:en & defl=en & q=define:document & sa=X & oi=glossary_definition & ct=title|Web search for document]. From these usages, readers can infer one or more of the following typical contexts: 
+ 
+ * Writing that provides information (especially information of an official nature) 
+ * Anything serving as a representation of a person's thinking by means of symbolic marks 
+ * A written [[certificate]] of [[ownership]] or obligation 
+ * To record in detail;  " The parents documented every step of their child's development " 
+ * A [[digital file]] in a particular format 
+ * To support or supply with references;  " Can you document your claims? " 
+ ** [[Authentication]] 
+ * An artifact that meets a legal notion of document for purposes of discovery in [[litigation]] 
+ 
+ == Document life cycle management == 
+ Technology to manage documents has developed with documents themselves.  They include practices for [[Preservation|preserving]], [[Archive|archiving]], destroying, and managing documents. These together are called the  " document life cycle " 
+ 
+ * '''Physical preservation:''' Documents in traditional physical forms and in digital physical forms such as [[Magnet|magnetic media]] must be physically preserved.  This aspect of document management deals with such issues as the aging of paper (acid-free paper helps with preservation) and the obsolescence of media such as [[floppy disk]] or [[videotape]]. 
+ 
+ * '''Storage:''' This aspect includes management of limited resources such as shelf space and disk space, and optimal space utilization.  Modern libraries often use complex space-saving technologies such as [[Robotics|robotic]] retrieval systems for stacks and moving bookshelves.  The whole field of [[data compression]] can be viewed as made for the storage of digital documents. 
+ 
+ * '''Cultural Preservation:''' This function, traditionally done by [[Librarian|librarians]] involves the selection, arrangement and storage of documents in safe places.  The importance of this part of document management can be seen in the impact of historical events like the burning of the [[Library of Alexandria]].  Today, library and information science has developed into an important academic job. 
+ 
+ * '''Bibliometrics:''' This aspect of document management involves functions of [[Index (publishing)|indexing]], creating [[statistics]] and [[Taxonomy|taxonomies]], and improving the usability of large collections of documents. The modern history of this management technology dates back to Melvil Dewey and the [[Dewey Decimal System]]. Today, the science of bibliometrics is largely concerned with managing the impact of electronic technologies. This aspect must also deal with [[International Standard Book Number|ISBN numbers]], [[Library of Congress]] data and other standards. 
+ 
+ * '''Digital Content Management:''' The explosion of digital content has resulted in technologies being created to manage large collections of digital information generated by [[Organization|organizations]]. Such systems must manage access control and privileges, multiple electronic formats, interface with printing systems and enable collaborative workflows around documents. 
+ 
+ * '''Digital-Physical Interaction Management:''' As long as both paper and digital documents continue to be made and used, the modern management technologies to manage their interaction will continue. Key to this  is the management of large scale and systematic scanning of physical documents (such as the [[Google]] book scanning project). 
+ 
+ * '''Destruction:''' With the increased cost of [[identity theft]], corporate scandals and privacy concerns, the destruction of both paper and electronic documents  has become increasingly important to manage. Technologies such as shredders play a role, as do verifiable ways to destroy electronic documents to ensure compliance with privacy laws. 
+ 
+ * '''Security:''' [[Shannon's information theory]] has led to an entire discipline that deals with the security of documents, and associated technologies such as encryption, as well as more physical security features such as [[Watermark|watermarks]] and making currency documents that are safe from [[Counterfeit|counterfeiting]]. 
+ 
+ * '''Transportation:''' The entire [[mail]] system, as well as modern courier systems, is largely built on the need to physically move documents from one location to another. 
+ 
+ ==Related pages== 
+ * [[Archive]] 
+ * [[Book]] 
+ * [[Illuminated manuscript]] 
+ * [[Seal (device)]] 
+ * [[Typewriter]] 
+ 
+ ==Software for document creation== 
+ * [[LaTeX]] ([[Open source]]) 
+ * [[LibreOffice]] (Open source) 
+ * [[Microsoft Office]] (made by [[Microsoft]]) 
+ ** [[Visual Studio Tools for Office]] 
+ * [[OpenOffice]] (Open source) 
+ * [[SATySFi]] (Open source) 
+ ===Text editors=== 
+ {{main|Text editor}} 
+ * [[GNU Emacs]] 
+ * [[Notepad++]] 
+ * [[Vim]] 
+ == References == 
+ < references/ > 
+ {{div col|rules=yes}} 
+ * Sellen, A. J. and Harper, R. H. R., 2001, ''The Myth of the Paperless Office'' 
+ * McLuhan, M., 1969, ''The Gutenberg Galaxy'' 
+ * McLuhan, M., 1964, ''Understanding Media: The Extensions of Man'' 
+ * Landow, G. P., 2006, ''Hypertext 3.0: Critical Theory and New Media in an Era of Globalization'' 
+ * Bush, V., 1945, ''[[As We May Think]]'', [[Atlantic Monthly]], https://www.theatlantic.com/doc/194507/bush 
+ * Kelly, K. 2006, ''Scan This Book!'', [[New York Times Magazine]], http://www.kk.org/writings/scan_this_book.php 
+ * Owen, D., 2004, ''Copies in Seconds: How a Lone Inventor and an Unknown Company Created the Biggest Communication Breakthrough Since Gutenberg—Chester Carlson and the Birth of the Xerox Machine'' 
+ * Searle, J. R., 1997, ''The Construction of Social Reality'' 
+ * Anderson, B., 2006, ''Imagined Communities: Reflections on the Origin and Spread of Nationalism'', New Edition 
+ * Levy, D., 2003, ''Scrolling Forward: Making Sense of Documents in the Digital Age'' 
+ * Gladwell, M., 2002, ''The Social Life of Paper'', [[New Yorker Magazine]], http://www.gladwell.com/2002/2002_03_25_a_paper.htm 
+ * Lewis, D. K., 2002 ''Convention: A Philosophical Study'' (Revised edition) 
+ * Pedauque, R. T., ''Document: Form, Sign and Medium, as Reformulated for Electronic Documents'' [http://archivesic.ccsd.cnrs.fr/docs/00/06/22/28/PDF/sic_00000594.pdf] 
+ * Romano, F., 1989, ''Pocket Guide to Digital Prepress'' 
+ * Sweet, J., 2003, ''Document Boundaries'' Master's Thesis, [[Rochester Institute of Technology]] 
+ {{div col end}} 
+ {{authority control}} 
+ [[Category:Documents| ]]

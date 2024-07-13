@@ -1,0 +1,160 @@
+The '''middlegame''' is the part of a game of [[chess]] after the [[List of chess openings|opening]]. 
+ 
+ The middlegame begins when most of the pieces have been developed. It is where most games are won and lost. Many games will end in resignation even before an endgame takes place. < ref name= " H/W " > Hooper D. and Whyld K. 1992. ''The Oxford companion to chess''. 2nd ed, Oxford University Press. < /ref > 
+ 
+ The simplest way to learn the middlegame is to select an opening and learn it well (see examples in [[English opening]] and [[French defence]]). 
+ 
+ == Elements of structure == 
+ A middlegame position has a structure, caused by the opening. < ref > [[Max Euwe|Euwe, Max]] and Kramer H. 1994. ''The middlegame'', books I and II. Hays. {{ISBN|978-1-880673-95-9}} and {{ISBN|978-1-880673-96-6}} < /ref >  These are some things to look for when looking at a middlegame position: 
+ 
+ '''•''' '''Material''': changes in the balance of material are critical. To lose a piece for nothing is enough to lose a game. If the players are evenly matched, then a rough material balance of pieces is normal. Material balance is often quite static: it doesn't change for many moves. On the other hand, material may be [[List of chess terms#Sacrifice|sacrificed]], usually for a direct attack on the opposing king. 
+ 
+ '''•''' '''Development''': the opening may have left one player with a lead in development. That player has the initiative, and may attack before the opponent can get his pieces out. It is a temporary asset: if a lead in development is not used effectively, it will disappear. 
+ 
+ '''•''' '''The centre''': in the centre pieces have their greatest effect, and some (such as the knight) attack more squares in the centre than at the sides. The player who controls the centre will almost always have the advantage. 
+ 
+ '''•''' '''Mobility''': a position is mobile if the pieces can get where they need to. Almost all middle game positions have some limitations to mobility. Look for open files for the rooks, and open diagonals for the bishops. Outposts are what knights need, places where they can't easily be dislodged. 
+ 
+ '''•''' '''King safety''': where is the king? Ideally, a king should be castled, and kept behind a screen of pawns. Many other things may happen in practice. If a king is weak, it may be put under direct attack. If the kings castle on opposite wings, and queens are on the board, both players may try to assault the enemy king. 
+ 
+ '''•''' '''Pawns''' provide the skeleton of a position. They move slowly, and may become blocked for many moves. Everything takes place round the pawns. Different openings produce different pawn structures. In this way openings influence the whole game. Notice these things when they occur: 
+ :• isolated pawns: they have weak squares in front of them. A weak square is one which cannot be attacked by a pawn. 
+ :• doubled pawns, that is two pawns on the same file (that is, on the same vertical line): another weakness. 
+ :• pawns side by side: flexible, mobile, a positive feature. 
+ :• chains of pawns: notice the base is weaker than the apex. 
+ :• passed pawns, which cannot be stopped by any other pawn. They have the potential to burst through and disrupt the opponent's position. 
+ :• blocked pawn chains: pieces are forced to go one side or the other. 
+ 
+ What the player does is note the features on the board, and formulate a plan which takes the features into account. Then the player works out a sequence of moves. Of course, in practice, the opponent is interfering with the plan at every step! 
+ 
+ == Middlegame types == 
+ === Central struggles === 
+ ==== Isolated Queen's pawn ==== 
+ {{Chess diagram small 
+ | tright 
+ | French Defence, Tarrasch variation 
+ |rd|__|__|qd|__|rd|kd|__ 
+ |pd|pd|__|__|nd|pd|pd|pd 
+ |__|__|nd|bd|__|__|__|__ 
+ |__|bl|__|pd|__|__|bl|__ 
+ |__|__|__|__|__|__|bd|__ 
+ |__|__|nl|__|__|nl|__|__ 
+ |pl|pl|pl|__|__|pl|pl|pl 
+ |rl|__|__|ql|rl|__|kl|__ 
+ }} 
+ The Tarrasch variation of the [[French defence]] gives us: 1.e4 e6 2.d4 d5 3.Nd2 c5 (3...Nf6 is popular) 4.exd5 exd5 5.Nf3 Nc6 6.Bb5 Bd6 7.dxc5 Bxc5 8.0-0 Ne7 9.Nb3 Bd6 10.Re1 0-0 11.Bg5 Bg4 and so on. Now the opening is over, and all the pieces are developed. This line is quiet, and mostly about the centre. 
+ 
+ The isolated black QP is what gives the middlegame its character. The pawn itself is both a weakness and a potential source of strength. It controls the very important square e4, but leaves the equally important d4 much weaker. The position is fairly equal, but the database shows that White has an advantage of about 7%. 
+ 
+ ==== Rapid development ==== 
+ {{Chess diagram small 
+ | tleft 
+ | English opening 
+ |rd|__|bd|qd|kd|__|__|rd 
+ |__|pd|__|pd|__|__|pd|pd 
+ |pd|bl|__|ql|pd|pd|__|__ 
+ |__|__|__|__|nd|nd|__|__ 
+ |__|__|pl|__|__|__|__|__ 
+ |__|__|nl|__|__|__|__|__ 
+ |pl|pl|pl|__|__|pl|pl|pl 
+ |rl|__|__|__|kl|bl|__|rl 
+ | 
+ }} 
+ In the [[English opening]] this line became popular: 1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.Nf3 Nc6 6.d4 (this is the critical move: White tries to take advantage of his development at the expense of a pawn) 6...cxd4 7.Nxd4 Nxe5 8.Ndb5 a6 9.Nd6+ Bxd6 10.Qxd6 f6 11.Be3 Ne7 12. Bb6 (looks like it wins the Q) Nf5 and now both 11.Qc5 and 11.Bxd8 give White an advantage of only 2.4%. 
+ 
+ The variation involved a number of middlegame themes: rapid development, material sacrifice, exploiting weak squares. In total, it is a frantic struggle for the centre. 
+ 
+ Rapid development is the benefit of the old-style gambits. An opening such as 1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 (known as the Danish Gambit) is virtually never played nowadays, but White does get good value for his pawn(s). Some trainers recommend young players try this out to learn how to get the best out of rapid development. 
+ 
+ === Central pawn chains === 
+ Many middlegames are played around blocked or semi-blocked pawn chains. The pawn chains are decisive in deciding the players' plans. These plans often involve a K-side v Q-side struggle, with each player attacking his opponent's pawn base. 
+ 
+ ==== French defence structures ==== 
+ {{Chess diagram small 
+ | tleft 
+ | French defence, Winawer variation 
+ 
+ |rd|nd|bd|__|kd|__|rd|__ 
+ |pd|pd|qd|__|nd|pd|__|ql 
+ |__|__|__|__|pd|__|__|__ 
+ |__|__|__|pd|pl|__|__|__ 
+ |__|__|__|pd|__|__|__|__ 
+ |pl|__|pl|__|__|__|__|__ 
+ |__|__|pl|__|nl|pl|pl|pl 
+ |rl|__|bl|__|kl|bl|__|rl 
+ }} 
+ 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 Qc7 (7...0-0 is possible) 8.Qxg7 Rg8 9.Qxh7 cxd4 10.Ne2 and so on. The play in lines like this is strongly asymmetric: White owns the kingside, and Black owns the queenside. 
+ 
+ This example, from the Winawer variation, is an extreme case. Each side plays a maximum of moves attacking the opponent's weak side, and as few moves as possible defending his own weak side. This is a general principle for these unbalanced K-side v Q-side positions. 
+ {{clear}} 
+ 
+ ==== King's Indian structures ==== 
+ {{Chess diagram small 
+ | tleft 
+ | King's Indian, main line 
+ 
+ |rd|nd|bd|qd|__|rd|kd|__ 
+ |pd|pd|pd|__|nd|pd|bd|pd 
+ |__|__|__|pd|__|__|pd|__ 
+ |__|__|__|pl|pd|__|__|nd 
+ |__|pl|pl|__|pl|__|__|__ 
+ |__|__|nl|__|__|nl|__|__ 
+ |pl|__|__|__|bl|pl|pl|pl 
+ |rl|__|bl|ql|__|rl|kl|__ 
+ }} 
+ Here is an example from the borderline between opening and middlegame. In the diagram to the left, White will operate mainly on the Q-side, and Black on the K-side. The reason for this is that the black d6 pawn and the white e4 pawn are the bases of their pawn chains. It was [[Nimzovich]] who pointed out that such pawns are usually the most vulnerable to attack. 
+ 
+ White, to play, may wish to cope with Black playing 10...Nf4. He can do this by playing 10.g3, or by playing 10.Re1 so that if 10...Nf4 11.Bf1 will preserve the bishop (in this position an important defensive piece). Or maybe White will plough ahead with 10.c5, the key move on the Q-side.  
+ {{clear}} 
+ [[ChessBase]] shows that the number of tournament games with these choices were: 
+ :10.Re1 2198 
+ :10.g3  419 
+ :10.c5  416 
+ 
+ The data base also shows that the overall results were significantly better for 10.Re1. What the player does is note the features on the board, and formulate a plan which takes the features into account. Then the player works out a sequence of moves. Of course, in practice, the opponent is interfering with the plan at every step! 
+ 
+ == Safety of the king == 
+ {{Chess diagram small 
+ | tleft 
+ | White to play 
+ 
+ |__|__|__|__|__|__|__|__ 
+ |pd|ql|__|qd|__|__|pd|kd 
+ |__|__|__|__|pd|__|__|pd 
+ |__|__|__|rd|__|pd|__|__ 
+ |__|__|__|pl|__|__|__|__ 
+ |__|__|__|__|pl|__|__|__ 
+ |pl|pl|__|__|__|pl|pl|pl 
+ |__|__|rl|__|__|__|kl|__ 
+ 
+ }} 
+ Safety of the king is probably the most common theme in the later middlegame. This example is a classic. Two pawns up, White could win the endgame by exchanging queens. However, he thought he saw something better. 
+ :1.Rc7 
+ This is a [[List of chess terms#S|skewer]], because if the black queen moves aside, then Rxg7+ gives mate. 
+ :1... Rc5!! 
+ This brilliant reply puts its finger on White's weak point: the back rank. 
+ 
+ :if 2.Rxd7, then 2... Rc1[[:en:Chess_annotation_symbols|#]] 
+ :if 2.dxc5 then 2... Qd1# 
+ :if 2.Rxc5, then 2...Qxb7!, winning 
+ 
+ == Value of the pieces == 
+ Traditionally the value of the Pieces has been as follows: 
+ *Pawn = 1 Pawn 
+ *Knight = 3 Pawns 
+ *Bishop = 3 Pawns 
+ *Rook = 5 Pawns 
+ *Queen = 9 or 10 Pawns 
+ 
+ Kasparov's version: 
+ *Pawn = 1 Pawn 
+ *Knight = 3 Pawns 
+ *Bishop not in pair = 3 Pawns 
+ *Bishop as part of Pair = 3.25 Pawns 
+ *Rook = 5 Pawns  
+ *Queen = 9 Pawns 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Chess]]

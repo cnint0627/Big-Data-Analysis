@@ -1,0 +1,37 @@
+{{italic title}} 
+ {{Taxobox 
+ | name = ''Nimbaphrynoides'' 
+ | regnum = [[Animalia]] 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Amphibia]] 
+ | ordo = [[Anura]] 
+ | familia = [[Bufonidae]] 
+ | genus = '''''Nimbaphrynoides''''' 
+ | genus_authority = Dubois, 1987 
+ }} 
+ 
+ '''''Nimbaphrynoides''''' is a [[genus]] of [[Bufonidae|true toads]].  They live in the highlands in the [[Mount Nimba]] region of the [[West Africa]]n countries of [[Guinea]], [[Liberia]] and [[Côte d'Ivoire]]. They are [[Critically Endangered]] due to [[habitat loss]], and [[Iron ore|iron]] and [[bauxite]] mining in their small ranges. 
+ 
+ The two species are [[Vivipary|viviparous]].  This means they have [[internal fertilisation]]. The female gives birth to fully developed, tiny toadlets. < ref name=Sandberger > Sandberger, Hillers, Doumbia, Loua, Brede and Rödel (2010). ''[http://www.mapress.com/zootaxa/2010/f/z02355p068f.pdf Rediscovery of the Liberian Nimba toad, Nimbaphrynoides liberiensis (Xavier, 1978) (Amphibia: Anura: Bufonidae), and reassessment of its taxonomic status.]'' Zootaxa 2355: 56–68 < /ref >  ''Nectophrynoides'' and ''Nimbaphrynoides'' are the only frogs/toads that do not lay eggs. < ref name=Wells > Wells (2007). ''The Ecology and Behavior of Amphibians.'' Pp. 486-487. {{ISBN|978-0-226-89334-1}} < /ref > 
+ 
+ ==Species== 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !Binomial Name and Author!! Common Name 
+ |- 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nimbaphrynoides liberiensis]]'' {{small|(Xavier, 1979)}} || Liberia Nimba Toad 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Nimbaphrynoides occidentalis]]'' {{small|(Angel, 1943)}} || Western Nimba Toad 
+ |- 
+ |} 
+ 
+ ==References== 
+ {{reflist}} 
+ * {{aut|Frost, Darrel R}}. 2007. Amphibian Species of the World: an Online Reference. Version 5.1 (10 October 2007). Electronic Database accessible at http://research.amnh.org/herpetology/amphibia/index.php. American Museum of Natural History, New York, USA. [http://research.amnh.org/herpetology/amphibia/names.php?taxon= & family= & subfamily= & genus=Nimbaphrynoides & commname= & authority= & year= & geo=0 & dist= & comment= ''Nimbaphrynoides''] access date: 2008-04-17 
+ * eol - Encyclopedia of Life at [http://www.eol.org] Taxon  [http://www.eol.org/taxa/16148693 ''Nimbaphrynoides''] 
+ * {{ITIS |id=585625 |taxon=''Nimbaphrynoides'' |accessdate=16 April 2008}} 
+ * GBIF - Global Biodiversity Information Facility at [http://data.gbif.org/welcome.htm] {{Webarchive|url=https://web.archive.org/web/20080501142231/http://data.gbif.org/welcome.htm |date=2008-05-01 }} Taxon [http://data.gbif.org/species/13191220/ ''Nimbaphrynoides''] 
+ 
+ [[Category:Toads]] 
+ [[Category:Frogs of Africa]]

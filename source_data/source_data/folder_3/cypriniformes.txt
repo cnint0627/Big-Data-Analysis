@@ -1,0 +1,49 @@
+{{Automatic taxobox 
+ | fossil_range = {{Fossil range|Paleocene|recent}} 
+ | image = Karper 59326.jpg 
+ | image_upright = 1.2 
+ | image_caption = A wild-type [[common carp]] (''Cyprinus carpio'', [[Cyprinidae]]: [[Cyprininae]]) 
+ | display_parents = 2 
+ | taxon = Cypriniformes 
+ | authority = [[Pieter Bleeker|Bleeker]], 1859 
+ | subdivision_ranks = Families 
+ | subdivision_ref =  < ref name=FBO > {{FishBase order | order = Cypriniformes| month = December | year = 2012}} < /ref > 
+ | subdivision = 
+ [[Acheilognathidae]] < ref name=TanArmbruster2018 > Tan  &  Armbruster (2018) < /ref > < br/ > 
+ [[Balitoridae]] < br/ > 
+ [[Barbucca|Barbuccidae]] < br/ > 
+ [[Botiidae]] < br/ > 
+ [[Catostomidae]] < br/ > 
+ [[Cobitidae]] < br/ > 
+ [[Cyprinidae]] < br/ > 
+ [[Danionidae]] < ref name=TanArmbruster2018 / > < br/ > 
+ [[Ellopostomatidae]] 
+ [[Gastromyzontidae]] 
+ [[Gobionidae]] < ref name=TanArmbruster2018 / > < br/ > 
+ [[Gyrinocheilidae]] < br/ > 
+ [[Leptobarbidae]] < ref name=TanArmbruster2018 / > < br/ > 
+ [[Leuciscidae]] < ref name=TanArmbruster2018 / > < br/ > 
+ [[Nemacheilidae]] < br/ > 
+ [[Paedocyprididae]] < ref name=TanArmbruster2018 / > < br/ > 
+ [[Psilorhynchidae]] < br/ > 
+ [[Serpenticobitidae]] 
+ [[Sundadanionidae]] < ref name=TanArmbruster2018 / > < br/ > 
+ [[Tanichthyidae]] < ref name=TanArmbruster2018 / > < br/ > 
+ [[Tincidae]] < ref name=TanArmbruster2018 / > < br/ > 
+ [[Vaillantellidae]] 
+ [[Xenocyprididae]] < ref name=TanArmbruster2018 / > < br/ > 
+ and see [[#Systematics|text]] 
+ | type_species = ''[[Cyprinus carpio]]'' 
+ | type_species_authority = ([[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]) 
+ | diversity = Around 4,205 species 
+ }} 
+ '''Cypriniformes''' is a group of [[ray-finned fish]], which includes [[carp]]s and [[minnow]]s. The group contains 320 [[genus (biology)|genera]], with over 3200 [[species]].  
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Taxonbar|from=Q177879}} 
+ {{Authority control}} 
+ 
+ [[Category:Cypriniformes| ]] 
+ {{biology-stub}}

@@ -1,0 +1,17 @@
+{{Regular polygon db|Regular polygon stat table|p30}} 
+ A '''triacontagon''' or '''30-gon''' is a [[Polygon|shape]] with 30 sides and 30 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular triacontagon == 
+ All sides of a '''regular triacontagon''' are the same length. Each corner is 168°. All corners added together equal 5040°. 
+ 
+ === Area === 
+ The amount of space a regular triacontagon takes up is 
+ 
+ : < math > \text{Area} = \frac{15}{4} a^2 (\sqrt{15} + 3\sqrt{3} + \sqrt{2}\sqrt{25+11\sqrt{5}}) < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ [[Category:Polygons|30]]

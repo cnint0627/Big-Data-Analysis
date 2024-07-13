@@ -1,0 +1,52 @@
+{{italictitle}} 
+ {{automatic taxobox 
+ | image = Phyllomedusa azurea01.jpg 
+ | image_caption = ''[[Pithecopus azureus]]'', the [[type species]] 
+ | taxon = Pithecopus 
+ | authority = [[Edward Drinker Cope|Cope]], 1866 
+ | type_species = ''[[Pithecopus azureus|Phyllomedusa azurea]]'' 
+ | type_species_authority =  Cope, 1862 
+ | synonyms = ''Bradymedusa''  < small > [[Alípio de Miranda-Ribeiro|Miranda-Ribeiro]], 1926 < /small > 
+ | synonyms_ref =  < ref name=Frost/ > 
+ | subdivision_ranks = Species 
+ | subdivision = 12 species (see [[#Species|text]]) 
+ }} 
+ '''''Pithecopus''''' is a genus of [[frog]]s in the family [[Phyllomedusidae]], < ref name=Frost/ > < ref name= " Duellman et al. 2016 " / > < ref name= " Andrade et al. 2020 " / >  but some scientists say it is in the [[subfamily]] Phyllomedusinae in the family [[Hylidae]]. < ref name=AmphibiaWeb/ >  These frogs live in tropical South America east of the [[Andes]], from southern Venezuela to northern Argentina. < ref name=Frost/ > < ref name= " Duellman et al. 2016 " / > < ref name= " Andrade et al. 2020 " / >  For a while, scientists said this was another name for ''[[Phyllomedusa]]'', but, in 2016, they changed it to ''[[Pithecopus hypochondrialis|Phyllomedusa hypochondrialis]]'' group. < ref name=Frost/ > < ref name= " Duellman et al. 2016 " / >  Its [[sister group]] is ''[[Callimedusa]]''. < ref name= " Duellman et al. 2016 " / > 
+ 
+ ==Name== 
+ The name of this genus comes from the Greek ''pithekodes'', which means  " ape-like. " < ref name= " Duellman et al. 2016 " / > 
+ 
+ ==Description== 
+ ''Pithecopus'' frogs are medium-sized frogs measuring about {{convert|4.5|cm|in|1|abbr=on}} in [[snout–vent length]], which means from nose to rear end. On their feet, Toe I is much longer than toe II, and is opposable to it like a thumb. These frogs do not have [[vomerine teeth]]. The [[tadpole]]s have a moderately small oral disc on the bottoms of their bodies, near the front. < ref name= " Duellman et al. 2016 " / > 
+ 
+ ==Species== 
+ There are 12 species in this genus: < ref name=Frost/ > {{linked species list 
+  | Pithecopus araguaius | (Haga, Andrade, Bruschi, Recco-Pimentel, and Giaretta, 2017) 
+  | Pithecopus ayeaye | (Lutz, 1966) 
+  | Pithecopus azureus | (Cope, 1862)  
+  | Pithecopus centralis | (Bokermann, 1965)  
+  | Pithecopus gonzagai | (Andrade, Haga, Ferreira, Recco-Pimentel, Toledo, and Bruschi, 2020) 
+  | Pithecopus hypochondrialis | (Daudin, 1800)  
+  | Pithecopus megacephalus | (Miranda-Ribeiro, 1926)  
+  | Pithecopus nordestinus | (Caramaschi, 2006)  
+  | Pithecopus oreades | (Brandão, 2002)  
+  | Pithecopus palliatus | (Peters, 1873)  
+  | Pithecopus rohdei | (Mertens, 1926)  
+  | Pithecopus rusticus | (Bruschi, Lucas, Garcia, and Recco-Pimentel, 2014)  
+ }} 
+ 
+ However, [[AmphibiaWeb]] lists only some of these species (''Pithecopus araguaius'', ''Pithecopus rusticus'', and ''Pithecopus gonzagai''). It puts the others in ''Phyllomedusa''. < ref name=AmphibiaWeb/ > 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=https://amphibiaweb.org/lists/Hylidae.shtml |title=Hylidae |year=2020 |work=AmphibiaWeb |publisher=University of California, Berkeley |access-date=16 December 2020}} < /ref > 
+ 
+ < ref name= " Andrade et al. 2020 " > {{cite journal |last1=Andrade |first1=Felipe Silva de |last2=Haga |first2=Isabelle Aquemi |last3=Ferreira |first3=Johnny Sousa |last4=Recco-Pimentel |first4=Shirlei Maria |last5=Toledo |first5=Luís Felipe |last6=Bruschi |first6=Daniel Pacheco |name-list-style=amp |title=A new cryptic species of ''Pithecopus'' (Anura, Phyllomedusidae) in north-eastern Brazil |journal=European Journal of Taxonomy |date=2020 |issue=723 |pages=108–134 |doi=10.5852/ejt.2020.723.1147|doi-access=free }} < /ref > 
+ 
+ < ref name= " Duellman et al. 2016 " > {{cite journal|last1=Duellman |first1=William E. |last2=Marion |first2=Angela B. |last3=Hedges |first3=S. Blair |name-list-style=amp |title=Phylogenetics, classification, and biogeography of the treefrogs (Amphibia: Anura: Arboranae) |journal=Zootaxa |date=2016 |volume=4104 |issue=1 |pages=1–109 |doi=10.11646/zootaxa.4104.1.1|pmid=27394762 }} < /ref > 
+ 
+ < ref name=Frost > {{cite web |url=https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Phyllomedusidae/Pithecopus |title=''Pithecopus'' Cope, 1866 |author=Frost, Darrel R. |year=2020 |work=Amphibian Species of the World: an Online Reference. Version 6.1 |publisher=American Museum of Natural History |doi=10.5531/db.vz.0001 |access-date=16 December 2020}} < /ref > 
+ }} 
+ 
+ {{taxonbar|from=Q25377057}} 
+ [[Category:Frogs of South America]]

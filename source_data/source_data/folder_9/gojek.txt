@@ -1,0 +1,76 @@
+{{infobox company 
+ | name = Gojek 
+ | logo = gojek logo 2019.svg 
+ | logo_size = 300px 
+ | logo_alt =  
+ | logo_caption = gojek logo in 2019 
+ | image =  
+ | image_size =  
+ | image_alt =  
+ | image_caption =  
+ | trade_name =  
+ | native_name =  
+ | native_name_lang =  < !-- Use ISO 639-1 code, e.g.  " fr "  for French. For multiple names in different languages, use {{Lang|[code]|[name]}}. -- > 
+ | romanized_name =  
+ | former_name =  
+ | type =  
+ | traded_as =  
+ | ISIN =  
+ | ISIN2 =  
+ | industry =  
+ | genre = Ride hailing app 
+ | fate =  
+ | predecessor =  < !-- or: | predecessors = -- > 
+ | successor =  < !-- or: | successors = -- > 
+ | founded = 2009 
+ | founder = Nadiem Makarim 
+ | defunct =  < !-- {{End date|YYYY|MM|DD}} -- > 
+ | hq_location =  
+ | hq_location_city = Jakarta 
+ | hq_location_country = Indonesia 
+ | num_locations =  
+ | num_locations_year =  < !-- Year of num_locations data (if known) -- > 
+ | area_served =  < !-- or: | areas_served = -- > 
+ | key_people =  
+ | products = Goride, Gofood, Gocar,Gopay,and many more.. 
+ | brands =  
+ | production =  
+ | production_year =  < !-- Year of production data (if known) -- > 
+ | services =  
+ | revenue =  
+ | revenue_year =  < !-- Year of revenue data (if known) -- > 
+ | operating_income =  
+ | income_year =  < !-- Year of operating_income data (if known) -- > 
+ | net_income =  < !-- or: | profit = -- > 
+ | net_income_year =  < !-- or: | profit_year = -- > < !-- Year of net_income/profit data (if known) -- > 
+ | aum =  < !-- Only for financial-service companies -- > 
+ | assets =  
+ | assets_year =  < !-- Year of assets data (if known) -- > 
+ | equity =  
+ | equity_year =  < !-- Year of equity data (if known) -- > 
+ | owner =  < !-- or: | owners = -- > 
+ | members =  
+ | members_year =  < !-- Year of members data (if known) -- > 
+ | num_employees =  
+ | num_employees_year =  < !-- Year of num_employees data (if known) -- > 
+ | parent =  
+ | divisions =  
+ | subsid =  
+ | module =  < !-- Used to embed other templates -- > 
+ | ratio =  < !-- Basel III ratio; used for banks only -- > 
+ | rating =  < !-- Credit rating; used for banks only -- > 
+ | website =  < !-- {{URL|example.com}} -- > 
+ | footnotes =  
+ }} 
+ 
+ '''PT Aplikasi Karya Anak Bangsa''' (most commonly known as Gojek) is a [[Jakarta]] based [[On-demand|on-demand service]] platform.  < ref > {{Cite web|last=Yudhianto|title=Go-Jek Buka Kantor di India, Karya Anak Bangsa atau Bangalore?|url=https://inet.detik.com/business/d-3347971/go-jek-buka-kantor-di-india-karya-anak-bangsa-atau-bangalore|access-date=2020-08-14|website=detikinet|language=id}} < /ref >  It also does digital payments. Gojek was started in [[Indonesia]] in 2009 as a [[call center]]. It connects consumers to [[courier delivery]] and two-wheeled ride-hailing services. Gojek launched its application in 2015 with only four services: GoRide, GoSend, GoShop, and GoFood. It [[Fundraising|raised]] over $1 billion 2019  and is now valued at US$10 billion. < ref > {{Cite web|date=2019-02-02|title=Gojek raises over US$1 billion as ride-hailing giants beef up their portfolios|url=https://www.businesstimes.com.sg/garage/gojek-raises-over-us1-billion-as-ride-hailing-giants-beef-up-their-portfolios|access-date=2020-08-14|website=The Business Times|language=en}} < /ref > < ref > {{Cite web|last=Salna|first=Karlis|date=|title=Go-Jek Joins 'Decacorn' Ranks With $10 Billion Valuation|url=https://www.bloomberg.com/news/articles/2019-04-06/indonesia-s-go-jek-joins-decacorn-ranks-with-10b-valuation|url-status=live|archive-url=https://web.archive.org/web/20190429144049/https://www.bloomberg.com/news/articles/2019-04-06/indonesia-s-go-jek-joins-decacorn-ranks-with-10b-valuation|archive-date=2019-04-29|access-date=2020-08-14|website=www.bloomberg.com}} < /ref >  Gojek has turned into a Super App. It now provides more than 20 services. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ 
+ [[Category:Indonesia]] 
+ [[Category:Technology companies of Asia]]

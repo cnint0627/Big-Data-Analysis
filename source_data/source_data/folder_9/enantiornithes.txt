@@ -1,0 +1,30 @@
+{{Automatic taxobox 
+ | name = Enantiornitheans 
+ | fossil_range =  < br/ > [[Early Cretaceous]] & ndash;[[Late Cretaceous]], {{Fossil range|145.5|66.0|earliest=145.5}} 
+ | image = Zhouornis hani.png 
+ | image_caption = Fossil specimen of a [[Bohaiornithidae|bohaiornithid]] (''[[Zhouornis hani]]'') 
+ | taxon = Enantiornithes 
+ | authority = [[Cyril Walker (palaeontologist)|Walker]], 1981 
+ | subdivision_ranks = Subgroups 
+ | subdivision = *[[Avisauridae]] 
+ *[[Bohaiornithidae]] 
+ *[[Gobipterygidae]] 
+ *[[Longipterygidae]] 
+ *[[Pengornithidae]] < ref name=eopengornis / > 
+ }} 
+ '''Enantiornithes''' is a group of extinct [[Avialae|avialans]] ( " birds "  in the broad sense). They are the most abundant and diverse group known from the [[Mesozoic]] [[era]]. < ref name= " chiappe & walker2002 " > {{Cite book|url=https://www.worldcat.org/oclc/47805081|title=Mesozoic birds : above the heads of dinosaurs|date=2002|publisher=University of California Press|isbn=0-520-20094-2|location=Berkeley, Calif.|oclc=47805081}} < /ref > < ref > {{cite book |last=Chiappe, Luis M. 2007 |title=Glorified dinosaurs: the origin and early evolution of birds |date=2 February 2007 |publisher= Wiley |location=Hoboken, New Jersey |isbn=978-0-471-24723-4}} < /ref > < ref > {{cite journal |last1=O'Connor, Jingmai K. et al. 2011 |doi=10.4202/app.2010.0047 |title=Anatomy of the early Cretaceous enantiornithine bird ''Rapaxavis pani'' |journal=Acta Palaeontologica Polonica |year=2011 |volume=56 |issue=3 |pages=463–75|s2cid=55311115 }} < /ref >   
+ 
+ Most had teeth and clawed fingers on each wing, but otherwise looked much like modern birds. < ref name=eopengornis > {{Cite journal | doi = 10.1111/bij.12313| title = Insights into the evolution of rachis dominated tail feathers from a new basal enantiornithine (Aves: Ornithothoraces)| journal = Biological Journal of the Linnean Society| volume = 113| issue = 3| pages = 805–819|  last = Wang X. et al. 2014 | year = 2014| s2cid = 49564213}} < /ref >  Over 80 species of enantiornitheans have been named, but some names represent only single bones, so probably not all are valid [[species]].  
+ 
+ Enantiornitheans became extinct at the [[Cretaceous]]–[[Paleogene]] boundary, as did the [[Hesperornis|hesperornithids]] and all other non-[[avian]] dinosaurs. The Enantiornithes are thought to have left no living descendants. 
+ 
+ The name  " Enantiornithes "  means  " opposite birds " , from [[Ancient Greek]] ''enantios'' (''ἐνάντιος'')  " opposite "  + ''ornithes'' (''όρνιθες'')  " birds "  . The name was coined by Cyril Alexander Walker in a landmark paper which established the group. < ref name= " walker1981 " > {{cite journal |last=Walker C.A. 1981 |doi=10.1038/292051a0 |title=New subclass of birds from the Cretaceous of South America |journal=Nature |year=1981 |volume=292 |issue=5818 |pages=51–3|bibcode=1981Natur.292...51W |s2cid=4340858 }} < /ref >  In his paper, Walker explained what he meant by  " opposite " : 
+ 
+ {{bquote|Perhaps the most fundamental and characteristic difference between the Enantiornithes and all other birds is in the nature of the articulation between the [[scapula]] [...] and the [[coracoid]], where the 'normal' condition is completely reversed. < ref name= " walker1981 " / > }} 
+ 
+ This refers to an anatomical feature. The articulation of the [[shoulder]] bones has a concave-convex socket joint which is the reverse of the joint in modern birds. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Cretaceous birds]]

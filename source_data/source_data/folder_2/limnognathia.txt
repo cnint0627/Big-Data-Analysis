@@ -1,0 +1,45 @@
+{{italictitle}} 
+ {{Speciesbox 
+ | image = Limnognathia wikipedia.jpg 
+ | image_caption = Schematic drawing of ''Limnognathia maerski'' 
+ | display_parents = 5 
+ | genus = Limnognathia 
+ | species = maerski 
+ | authority = [[Reinhardt Kristensen|Kristensen]]  &  [[Peter Funch|Funch]], 2000 
+ }} 
+ '''''Limnognathia maerski''''' is a microscopic animal. It is a newly discovered type, found in [[spring (hydrosphere)|homothermic spring]]s on Disko Island, [[Greenland]] in 1994. Its place in [[taxonomy]] is uncertain. 
+ 
+ It is described as a [[Class (biology)|class]] or [[subphylum]] in the [[phylum]] [[Gnathifera (phylum)|Gnathifera]] or as a phylum in a Gnathifera [[superphylum]], called '''Micrognathozoa'''. It is related to the [[rotifer]]s and [[gnathostomulida]], grouped together as the Gnathifera. < ref name=Kristensen > {{cite journal |author=Kristensen RM |title=An Introduction to Loricifera, Cycliophora, and Micrognathozoa |url=https://archive.org/details/sim_integrative-and-comparative-biology_2002-06_42_3/page/641 |journal=Integr Comp Biol. |volume=42 |issue=3 |pages=641–51 |year=2002 |doi=10.1093/icb/42.3.641 |pmid=21708760}} < /ref > < ref > {{Cite web |url=http://www.catalogueoflife.org/info_hierarchy.php |title=Gordon, Dennis P. 2009. Towards a management hierarchy (classification) for the catalogue of life: draft discussion document. In ''Species 2000  &  ITIS Catalogue of Life: 2009 Annual Checklist''. Bisby F.A. ''et al'' eds. CD-ROM; Species 2000: Reading, UK. |access-date=2013-07-17 |archive-date=2009-08-08 |archive-url=https://web.archive.org/web/20090808201530/http://www.catalogueoflife.org/info_hierarchy.php |url-status=dead }} < /ref >   
+ 
+ With an average length of one-tenth of a millimetre, it is one of the smallest animals known. 
+ 
+ ''L. maerski'' has very complicated jaws, with fifteen separate parts. The parts of the jaw structure are connected by ligaments and muscles. The jaw parts are very small, ranging from 4 [[Micrometre|μm]] to 14 μm. The animal can extend part of its jaw structure outside of its mouth while eating. It also extends much of its jaw structure outside of its mouth when it is regurgitating (pushing out) items that are indigestible. 
+ 
+ ''L. maerski'' has a large [[ganglion]], or 'brain', in its head. Paired nerve cords go along the lower side of the body) to the tail. Stiff sensory [[bristle]]s made up of one to three [[cilium|cilia]] are scattered about the body. These bristles are similar to those on gnathostomulids. 
+ 
+ Flexible cilia are arranged in a horseshoe-shaped area on the forehead, and in spots on the sides of the head and in two rows on the underside of the body. The cilia on the forehead create a current that moves food particles towards the mouth. The other cilia move the animal. 
+ 
+ All specimens of ''L. maerski'' that have been collected have had female organs. They lay two kinds of eggs: thin-walled eggs that hatch quickly, and thick-walled eggs that are believed to be resistant to freezing, and thus capable of over-wintering and hatching in the spring. The same pattern is known from rotifers, where thick-walled eggs only form after fertilization by males. The youngest ''L. maerski'' specimens collected may also have male organs: it is now thought that the animals hatch as males and then become females. 
+ 
+ == Phylogeny == 
+ Cladogram (adapted from [http://www.zmuc.dk/InverWeb/Dyr/Limnognathia/phylogeny/gnathifera_UK.htm] {{Webarchive|url=https://web.archive.org/web/20120402022558/http://www.zmuc.dk/InverWeb/Dyr/Limnognathia/phylogeny/gnathifera_UK.htm |date=2012-04-02 }}) showing the relationships of ''Limnognathia'': 
+ 
+ {{Clade  
+ | style= font-size:100%; line-height:100% 
+ |label1=[[Gnathifera (phylum)|Gnathifera]] 
+ | 1= {{clade 
+      |1=[[Gnathostomulida]] 
+      |2={{Clade 
+       |1='''Micrognathozoa''' 
+       |2={{Clade 
+        |1=[[Acanthocephala]] 
+        |2=[[Rotifera]] 
+ }}}}}}}} 
+ 
+ ==References== 
+ {{reflist}} 
+ *[http://www.zmuc.dk/InverWeb/Dyr/Limnognathia/Limno_intro_UK.htm Comprehensive information on L. maerski] {{Webarchive|url=https://web.archive.org/web/20191202022722/http://www.zmuc.dk/InverWeb/Dyr/Limnognathia/Limno_intro_UK.htm |date=2019-12-02 }} 
+ *[http://www.calacademy.org/science_now/archive/headline_science/new_critter_120700.php Science Now article on L. maerski] {{Webarchive|url=https://web.archive.org/web/20070323043528/http://www.calacademy.org/science_now/archive/headline_science/new_critter_120700.php |date=2007-03-23 }} 
+ 
+ [[Category:Invertebrates]] 
+ [[Category:Minor phyla]]

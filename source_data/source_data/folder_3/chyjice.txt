@@ -1,0 +1,71 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ | name                   = Chyjice 
+ | native_name            =  < !-- for cities whose native name is not in English -- > 
+ | other_name             = 
+ | settlement_type        = Municipality and village 
+ < !-- images and maps  ----------- > 
+ | image_skyline          = Chyjice - kostel Svatého Šimona a Judy.jpg 
+ | image_caption          = Church of Saints Simon and Jude 
+ | image_flag             = Flag of Chyjice.svg 
+ | image_seal             = 
+ | image_shield           = Coat of arms of Chyjice.svg 
+ | nickname               = 
+ | motto                  = 
+ | image_map              = 
+ | map_caption            = 
+ | pushpin_map            = Czech Republic 
+ | pushpin_label_position = bottom 
+ | pushpin_mapsize        =  
+ | pushpin_map_caption    = Location in the Czech Republic 
+ < !-- Location ------------------ > 
+ | coordinates            = {{coord|50|23|N|15|18|E|region:CZ_type:city|display=inline,title}} 
+ | subdivision_type       = Country 
+ | subdivision_name       = {{flag|Czech Republic}} 
+ | subdivision_type1      = [[Regions of the Czech Republic|Region]] 
+ | subdivision_name1      = [[Hradec Králové Region]] 
+ | subdivision_type2      = [[Districts of the Czech Republic|District]] 
+ | subdivision_name2      = [[Jičín District]] 
+ | established_title      =  < !-- Settled -- > 
+ | established_date       = 
+ | government_type        = 
+ < !-- Politics ----------------- > 
+ | government_footnotes   = 
+ | leader_title           = 
+ | leader_name            = 
+ < !-- Area    --------------------- > 
+ | unit_pref              = Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_footnotes         = 
+ | area_total_km2         =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_land_km2          =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ | area_metro_km2         = 
+ | elevation_footnotes    =  < !--for references: use < ref >   < /ref >   tags-- > 
+ | elevation_m            = 
+ | elevation_ft           = 
+ < !-- Population   ----------------------- > 
+ | population_footnotes   = 
+ | population_total       = 
+ | population_as_of       = 2006 
+ | population_density_km2 = 
+ | population_note        = 
+ < !-- General information  --------------- > 
+ | timezone               = [[Central European Time|CET]] 
+ | utc_offset             = +1 
+ | timezone_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST         = +2 
+ < !-- Area/postal codes  &  others -------- > 
+ | postal_code_type       =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | postal_code            = 
+ | area_code              = 
+ | website                = 
+ | footnotes              = 
+ }} 
+ '''Chyjice''' Village is in the district  
+ [[Jičín District|Jičín]], [[Hradec Králové Region]] of the [[Czech Republic]]. In 2006, 145 people lived there. It was first documented in [[1323]]. 
+ 
+ 
+ {{multistub|geo|Europe}} 
+ 
+ [[Category:Villages in the Czech Republic]] 
+ [[Category:Hradec Králové Region]]

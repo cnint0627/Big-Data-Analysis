@@ -1,0 +1,22 @@
+{{wiktionary}} 
+ 
+ In [[mathematics]] and [[science]], a '''formula''' is a [[rule]] or [[statement]] written in algebraic symbols. The [[plural]] of formula can be written in two ways: formulae or formulas - the choice is based on personal preference.  
+ 
+ Formulas use letters instead of words. A simple example of a formula is y = x. If x=1, the formula y=x would make the statement that x is the same thing as y, therefore, y=1.  
+ 
+ In [[mathematics]], a formula can also be an [[Identity (mathematics)|identity]] which equates two mathematical expressions together. Some key formulas under this category include the [[Pythagorean theorem]], binomial theorem, [[Euler's formula]] and [[De Moivre's formula]]. < ref > {{Cite web|date=2019-08-01|title=The Definitive Glossary of Higher Mathematical Jargon|url=https://mathvault.ca/math-glossary/|access-date=2020-10-09|website=Math Vault|language=en-US}} < /ref >  The expression  " ''V''=''lwh'' " , which relates the volume ''V'' to the length ''l'', width ''w'' and height ''h'' of a rectangular box, is another example of a formula in [[geometry]]. < ref > {{Cite web|title=Equations and Formulas|url=https://www.mathsisfun.com/algebra/equation-formula.html|access-date=2020-10-09|website=www.mathsisfun.com}} < /ref > 
+ 
+ In [[science]], one of the most well known formulas is the formula for [[energy]], ''e'' = ''mc'' < sup > 2 < /sup > , created by [[Albert Einstein]]. Here, ''e'' represents [[energy]], ''m'' represents [[mass]] and ''c'' is the speed of [[light]]. Thus, energy = mass × speed of light  < sup > 2 < /sup > . 
+ 
+ The ''formula'' '''e = mc < sup > 2 < /sup > ''' is also an [[equation]]. Every equation is a formula, but not every formula is an equation. For instance, the formula x≡y (x  " is defined as "  y) is not an equation, because no  " = "  sign is used. 
+ 
+ == Related pages == 
+ 
+ * [[Inequality]] 
+ * [[Scientific law]] 
+ 
+ == References == 
+ < references / > 
+ {{Math-stub}} 
+ 
+ [[Category:Algebra]]

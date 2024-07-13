@@ -1,0 +1,89 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > |  =  < !-- Politics ----------------- > 
+ | population_total                = 78,908 
+ | population_blank1_title         = Ethnicities 
+ | population_density_metro_sq_mi  =  
+ | population_density_metro_km2    =  
+ | population_metro                =  
+ | population_density_sq_mi        =  
+ | population_density_km2          = 24212 
+ | population_note                 = figures from 2 January 2018 (UNHCR) 
+ | population_density_blank1_km2   =  
+ | population_footnotes            =  
+ | population_as_of                = 2015 
+ | area_land_km2                   =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ < !-- Population   ----------------------- > | area_total_km2                  = 5.2  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_footnotes                  =  
+ | unit_pref                       = Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_magnitude                  =  
+ | population_blank1               =  
+ | population_density_blank1_sq_mi =  < !-- General information  --------------- > 
+ | established_title2              =  < !-- Settled -- > 
+ | postal_code                     =  
+ | website                         =  
+ | blank1_info                     =  
+ | blank1_name                     =  
+ | blank_info                      =  
+ | blank_name                      =  
+ | area_code                       = +(962)2 
+ | postal_code_type                =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | timezone                        = [[UTC]]+2 
+ | elevation_ft                    =  < !-- Area/postal codes  &  others -------- > 
+ | elevation_m                     =  
+ | elevation_footnotes             =  < !--for references: use  < ref >   < /ref >  tags-- > 
+ | coordinates                     = {{coord|32|17|44.4|N|36|19|25.5|E|region:JO_type:city|display=inline,title}} 
+ | utc_offset_DST                  = +3 
+ | timezone_DST                    = [[UTC]]+3 
+ | utc_offset                      = +2 
+ | established_date2               =  < !-- Area    --------------------- > 
+ | established_date                = July 2012 
+ | name                            = Zaatari 
+ | image_flag                      =  
+ | image_map                       =  
+ | shield_size                     =  
+ | image_shield                    =  
+ | seal_size                       =  
+ | image_seal                      =  
+ | flag_size                       = 180px 
+ | image_caption                   =  
+ | map_caption                     =  
+ | imagesize                       = 300px 
+ | image_skyline                   = File:An_Aerial_View_of_the_Za%27atri_Refugee_Camp.jpg 
+ | motto                           =  < !-- images and maps  ----------- > 
+ | settlement_type                 = Refugee camp 
+ | nickname                        =  
+ | native_name                     = مخيم الزعتري  < !-- for cities whose native name is not in English -- > 
+ | other_name                      =  
+ | mapsize                         =  
+ | pushpin_map                     = Jordan < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | established_title               = Settled  < !-- Settled -- > 
+ | subdivision_type3               =  
+ | leader_name1                    =  
+ | leader_title1                   =  < !-- for places with, say, both a mayor and a city manager -- > 
+ | leader_name                     = Hovig Etyemezian 
+ | leader_title                    = Camp Manager 
+ | government_type                 =  
+ | government_footnotes            =  
+ | subdivision_name3               =  
+ | subdivision_name2               =  
+ | pushpin_label_position          = bottom 
+ | subdivision_type2               =  
+ | subdivision_name1               = [[Mafraq Governorate]] 
+ | subdivision_type1               = [[Governorates of Jordan|Governorate]] 
+ | subdivision_name                = {{flag|Jordan}} 
+ | subdivision_type                = Country 
+ | pushpin_map_caption             = Location in Jordan 
+ 
+ < !-- Location ------------------ > | pushpin_mapsize                 = 300 
+ | footnotes                       =  
+ }} 
+ [[File:Zaatari refugee camp, Jordan (9660903303).jpg|thumb|Main street]] 
+ '''Zaatari refugee camp''' is a [[refugee camp]]. It is located in [[Jordan]], about {{Convert|6|km||abbr=}} from the [[Syria|Syrian]] border.  It is one of the world's largest refugee camps. < ref name= " NYT7514 " > [https://www.nytimes.com/2014/07/05/world/middleeast/zaatari-refugee-camp-in-jordan-evolves-as-a-do-it-yourself-city.html  " Refugee Camp for Syrians in Jordan Evolves as a Do-It-Yourself City " ]  " Refugee Camp for Syrians in Jordan Evolves as a Do-It-Yourself City " ]. by Michael Kimmelman in ''[[The New York Times]]'' 4 July 2014 < /ref >  it is the world's largest camp for Syrian refugees. < ref > {{cite web|url=https://www.irishtimes.com/news/world/middle-east/inside-the-world-s-largest-camp-for-syrian-refugees-1.3018821|title=Inside the world's largest camp for Syrian refugees|last=Hayden|first=Sally|date=22 March 2017|website=Irish Times|access-date=16 December 2018}} < /ref >  It developed into a permanent setltement, with a main street, and a [[market]] along the main street. In August 2015, UNHCR estimated a population of 79.900 people. < ref name= " UNHCR data Portal " > {{cite web|url=http://data.unhcr.org/syrianrefugees/settlement.php?id=176 & country=107 & region=77|title=UNHCR data Portal|author=United Nations High Commissioner for Refugees (UNHCR)|work=UNHCR Syria Regional Refugee Response|access-date=20 November 2014|archive-date=8 October 2015|archive-url=https://web.archive.org/web/20151008062605/http://data.unhcr.org/syrianrefugees/settlement.php?id=176 & country=107 & region=77|url-status=dead}} < /ref >  The camp covers an  area of about {{Convert|15|km2||abbr=}}.  Over time, Zaatari  has grown to be Jordan's fourth-largest settlement. 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{geo-stub}} 
+ {{authority control}} 
+ [[Category:Settlements in Jordan]]

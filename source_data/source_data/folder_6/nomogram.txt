@@ -1,0 +1,24 @@
+[[Image:Parallel Scale Nomogram.svg|right|400px|thumb|A typical parallel-scale nomogram. This example calculates the value of T when S = 7.30 and R = 1.17 are substituted into the equation. The isopleth crosses the scale for T at just under 4.65.]] 
+ [[Image:Components of a Nomogram.png|right|300px|thumb|Components of a parallel-scale nomogram]] 
+ [[Image:chisquarenomo3.png|right|200px|thumb|[[Chi-squared distribution]] nomogram]] 
+ 
+ A '''nomogram''', < ref > from [[Greek language|Greek]] νόμος ''nomos'',  " law "  and γραμμή ''grammē'',  " line " < /ref >  '''alignment chart''' or '''abaque''' is a graph for calculation. It is a two-dimensional diagram which gives a computation of a [[Function (mathematics)|mathematical function]].  
+ 
+ The field of nomography was invented in 1884 by the French engineer [[Philbert Maurice d'Ocagne|Philbert Maurice d’Ocagne]] (1862{{ndash}}1938). < ref > M. d'Ocagne. 1899. ''Traité de Nomographie'', Gauthier-Villars, Paris. < /ref >  It was used for many years to provide engineers with fast graphical calculations of complicated formulas. Nomograms use a parallel [[coordinate system]] invented by d'Ocagne rather than standard [[Cartesian coordinates]]. 
+ 
+ A nomogram consists of a set of n scales, one for each variable in an equation. Knowing the values of n-1 variables, the value of the unknown variable can be found, or by fixing the values of some variables, the relationship between the unfixed ones can be studied. < ref > L.H. Johnson 1952 ''Nomography and empirical equations'', New York: John Wiley. < /ref >   
+ 
+ The result is got by laying a straightedge across the known values on the scales and reading the unknown value from where it crosses the scale for that variable. The virtual or drawn line created by the straightedge is called an ''index line'' or ''isopleth''. 
+ 
+ == Use == 
+ Nomograms were widely used for about 75 years. They allowed quick and accurate computations before the age of pocket calculators. Results from a nomogram are got quickly and reliably by drawing one or more lines. The user does not have to know how to solve algebraic equations, look up data in tables, use a [[slide rule]], or substitute numbers into equations to obtain results. The user does not even need to know the underlying equation the nomogram represents.  
+ 
+ Nomograms have [[domain knowledge]] into their design. For example, to create larger nomograms for greater accuracy the nomographer usually includes only scale ranges that are reasonable and of interest to the problem. Many nomograms include other useful markings such as reference labels and colored regions. All of these provide useful guideposts to the user.  
+ 
+ Like a [[slide rule]], a nomogram is a graphical [[analog computer|analog computation]] device. Like the slide rule, its accuracy is limited by the precision with which physical markings can be drawn, reproduced, viewed, and aligned.A slide rule is a general-purpose calculator, but a nomogram is designed to perform a specific calculation. Nomograms can still be used to check an answer from another, more exact but possibly error-prone calculation. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Engineering]] 
+ [[Category:Mathematical tools]]

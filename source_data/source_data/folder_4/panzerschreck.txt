@@ -1,0 +1,57 @@
+{{Infobox Weapon 
+  |name= Panzerschreck 
+  |image=Bundesarchiv Bild 101I-671-7483-29, Reichsgebiet, Soldat mit Panzerabwehrwaffe.jpg 
+  |caption=The improved ''Raketenpanzerbüchse 54'' with blast shield. 
+  |origin={{flag|Nazi Germany}} 
+  |type= Anti-[[tank]] [[Shoulder-launched missile weapon|rocket launcher]] 
+   < !-- Type selection -- > 
+  |is_ranged=yes 
+  |is_bladed= 
+  |is_explosive= 
+  |is_artillery= 
+  |is_vehicle= 
+  |is_missile= 
+  |is_UK= 
+   < !-- Service history -- > 
+  |service=1943–1945 
+  |used_by={{flag|Nazi Germany}} < br > {{flag|Finland}} < br > {{flag|Hungary}} < ref > {{cite book |title= A Magyar Királyi Honvéd Ludovika Akadémia és a Testvérintézetek Összefoglalt Története (1830-1945) |volume= II |last= Rada |first= Tibor |year= 2001 |publisher= Gálos Nyomdász Kft |location= Budapest |language= Hungarian |isbn= 963-85764-3-X |page= 1114}} < /ref > 
+  |wars=  
+   < !-- Production history -- > 
+  |designer=  
+  |design_date= 
+  |manufacturer= 
+  |unit_cost= 
+  |production_date= 
+  |number= 289,151 
+  |variants= RPzB 43, RPzB 54, RPzB 54/1 
+   < !-- General specifications -- > 
+  |weight= 11 kg empty (RPzB 54) 
+  |length= 164 cm 
+  |part_length=  
+  |width= 
+  |height= 
+  |diameter= 
+  |crew= 
+   < !-- Ranged weapon specifications -- >   
+  |cartridge=  
+  |caliber= 88 mm 
+  |action=  
+  |rate=  
+  |velocity= 110m/s (360 ft/s) 
+  |range= 150 m (RPzB 54) 
+  |max_range=  
+  |feed=  
+  |sights=  
+  }} 
+ 
+ 
+ A '''Panzerschreck''' (also known as a ''Raketenpanzerbüchse'', abbreviated to RPzB) is an [[infantry]] [[weapon]] made by [[Nazi Germany]]. They fired an 88 & nbsp;mm [[calibre]] anti-[[tank]] rocket. Unlike the [[Panzerfaust]], they were reusuable. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{history-stub}} 
+ 
+ [[Category:Weapons]] 
+ [[Category:Nazi Germany]]

@@ -1,0 +1,76 @@
+{{Drugbox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 443735539 
+ | IUPAC_name =  (''S'')-1-[3-(Dimethylamino)propyl]-1-(4-fluorophenyl)-1,3-dihydroisobenzofuran-5-carbonitrile 
+ | image = Escitalopram.svg 
+ | width = 225 
+ | image2 = Escitalopram-from-xtal-3D-balls.png 
+ 
+ < !--Clinical data-- > 
+ | pronounce = {{Audio|escitalopram_pronunciation.ogg|pronunciation}} 
+ | tradename = Cipralex, Lexapro, others 
+ | Drugs.com = {{drugs.com|monograph|escitalopram-oxalate}} 
+ | MedlinePlus = a603005 
+ | pregnancy_AU = C 
+ | pregnancy_US = C 
+ | pregnancy_category =  
+ | legal_AU = S4 
+ | legal_CA = Rx-only 
+ | legal_UK = POM 
+ | legal_US = Rx-only 
+ | legal_status = Rx-only 
+ | routes_of_administration = By mouth 
+ | licence_US = Lexapro 
+ | class = [[Selective serotonin reuptake inhibitor]] 
+ 
+ < !--Pharmacokinetic data -- > 
+ | bioavailability= 80% 
+ | protein_bound = ~56% 
+ | metabolism = [[Liver]], specifically the enzymes [[CYP3A4]] and [[CYP2C19]] 
+ | elimination_half-life = 27–32 hours 
+ 
+ < !--Identifiers -- > 
+ | CAS_number_Ref = {{cascite|correct|??}} 
+ | CAS_number = 128196-01-0 
+ | ATC_prefix = N06 
+ | ATC_suffix = AB10 
+ | PubChem = 146570 
+ | DrugBank_Ref = {{drugbankcite|changed|drugbank}} 
+ | DrugBank = DB01175 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 129277 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 4O4S742ANY 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 36791 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 1508 
+ 
+ < !--Chemical data -- > 
+ | C=20 | H=21 | F=1 | N=2 | O=1 
+ | molecular_weight = 324.392 g/mol < br > (414.43 as oxalate) 
+ | SMILES = Fc1ccc(cc1)[C@@]3(OCc2cc(C#N)ccc23)CCCN(C)C 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C20H21FN2O/c1-23(2)11-3-10-20(17-5-7-18(21)8-6-17)19-9-4-15(13-22)12-16(19)14-24-20/h4-9,12H,3,10-11,14H2,1-2H3/t20-/m0/s1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = WSEQXVZVJXJVFP-FQEVSTJZSA-N 
+ }} 
+ [[Image:Cipralex.jpg|thumb|right|Escitalopram pills]] 
+ '''Escitalopram''' is an [[antidepressant]] [[medication]]. It is used as a [[drug]] to help treat [[Depression (mental illness)|depression]], [[obsessive-compulsive disorder]], [[social anxiety disorder]] and other [[mental illness]]es. It is commonly known and sold as ''Lexapro'' or ''Cipralex''. < ref > [https://www.washingtonpost.com/wp-dyn/content/article/2009/01/29/AR2009012901774.html Lexapro article] < /ref > 
+ 
+ == Side Effects == 
+ Escitalopram can cause sleeping problems, dry mouth and [[diarrhea]]. It can also cause sexual problems. < ref > [http://www.frx.com/pi/lexapro_pi.pdf Lexapro prescribing information] < /ref >  These sexual problems usually disappear after a person stops using the drug. However, in some cases these problems can last for months or years. 
+ 
+ ==Related pages== 
+ * [[Fluoxetine]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{med-stub}} 
+ 
+ [[Category:Drugs used in psychiatry]] 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:Organofluorides]]

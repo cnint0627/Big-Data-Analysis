@@ -1,0 +1,177 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Amsterdam 
+ | settlement_type         = [[List of cities in the Netherlands by province|City]] and [[List of municipalities of the Netherlands|municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = {{Photomontage|position=center 
+ | photo1a = KeizersgrachtReguliersgrachtAmsterdam.jpg 
+ | photo2a = Amsterdam - Boat - 0635.jpg 
+ | photo2b = Concertgebouw 04.jpg 
+ | photo3a = Amsterdam - Rijksmuseum - panoramio - Nikolai Karaneschev.jpg 
+    | size = 270 
+    | spacing = 2 
+    | color = #FFFFFF 
+    | border = 0 
+    | foot_montage = Images, from top down, left to right: [[Grachtengordel (Amsterdam)|Grachtengordel]], one of [[Canals of Amsterdam|Amsterdam's canals]], [[Concertgebouw|Royal Concertgebouw]], [[Rijksmuseum]]}} 
+ | image_alt               = 
+ | image_caption           =  
+ | image_flag              = Flag of Amsterdam.svg 
+ | flag_size               = 100x110px 
+ | flag_alt                = 
+ | image_shield            = Wapen van Amsterdam.svg 
+ | shield_size             = 100x170px 
+ | shield_alt              = 
+ | nickname                = [[Mokum]], Damsko 
+ | motto                   = [[Coat of arms of Amsterdam#Motto|Heldhaftig, Vastberaden, Barmhartig]] ''(Valiant, Steadfast, Compassionate)'' 
+ < !-- Maps, coordinates -- > 
+ | pushpin_map            = Netherlands 
+ | pushpin_mapsize        = 265px 
+ | pushpin_label_position =  
+ | pushpin_relief         = yes 
+ | coordinates            = {{coord|52|22|N|4|53|E}} 
+ | coordinates_footnotes   = 
+ | subdivision_type       = [[List of sovereign states|Country]] 
+ | subdivision_name       = {{NED}} 
+ | subdivision_type1      = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1      = {{flag|North Holland|name=Noord-Holland}} 
+ | parts_type              =  < !-- defaults to: Boroughs -- > 
+ | parts_style             = coll 
+ | parts                   = Eight districts 
+ |p1=[[Amsterdam-Centrum|Centrum]] 
+ | government_footnotes    = < ref name= " mayor_now " > {{cite web 
+  |url         = http://www.iamsterdam.com/en-GB/living/about-amsterdam/city-of-amsterdam/city-government/portfolios-mayor-alderpersons 
+  |title       = Portfolios: Mayor  &  Alderpersons 
+  |publisher   = Gemeente Amsterdam 
+  |accessdate  = 18 February 2014 
+  |url-status     = dead 
+  |archiveurl  = https://web.archive.org/web/20140228111659/http://www.iamsterdam.com/en-GB/living/about-amsterdam/city-of-amsterdam/city-government/portfolios-mayor-alderpersons 
+  |archivedate = 28 February 2014 
+  |df          = dmy-all 
+ }} < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = [[GreenLeft]] 
+ | leader_title            = [[List of mayors of Amsterdam|Mayor]] 
+ | leader_name             = [[Femke Halsema]] 
+ < !-- Geographic information -- > 
+ | total_type              = Municipality < !-- to set a non-standard label for total area and population rows -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          = < ref > {{Dutch municipality total area|dataref}} < /ref > < ref name= " tno_randstad " > {{cite techreport 
+  |author1=Anita Bouman–Eijs 
+  |author2=Thijmen van Bree 
+  |author3=Wouter Jonkhoff 
+  |author4=Olaf Koops 
+  |author5=Walter Manshanden 
+  |author6=Elmer Rietveld 
+  |url=http://www.zuidvleugel.nl/sites/www.zuidvleugel.nl/files/article/downloads/top_20_europese_grootstedelijke_regios_1995_2011_tno_2012_r11155.pdf 
+  |title=De Top 20 van Europese grootstedelijke regio's 1995–2011; Randstad Holland in internationaal perspectief 
+  |language=Dutch 
+  |trans-title=Top 20 of European metropolitan regions 1995–2011; Randstad Holland compared internationally 
+  |date=17 December 2012 
+  |publisher=[[Netherlands Organisation for Applied Scientific Research|TNO]] 
+  |place=Delft 
+  |accessdate=25 July 2013 
+  |archive-date=3 March 2014 
+  |archive-url=https://web.archive.org/web/20140303212054/http://www.zuidvleugel.nl/sites/www.zuidvleugel.nl/files/article/downloads/top_20_europese_grootstedelijke_regios_1995_2011_tno_2012_r11155.pdf 
+  |url-status=dead 
+  }} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = 243.65 
+ | area_land_km2           = 188.29 
+ | area_water_km2          = 55.36 
+ | area_blank1_title       = [[Randstad]] 
+ | area_blank1_km2         = 3043 
+ | elevation_footnotes     = < ref name= " AHN " > {{cite web 
+  |url=http://www.ahn.nl/postcodetool  
+  |title=Postcodetool for 1012JS (Dam Square)  
+  |language=Dutch  
+  |author= < !--Staff writer(s); no by-line.-- >   
+  |work=Actueel Hoogtebestand Nederland  
+  |publisher=Het Waterschapshuis  
+  |accessdate=18 February 2014  
+  |url-status=dead  
+  |archiveurl=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool  
+  |archivedate=21 September 2013  
+ }} < /ref > 
+ | elevation_m             = −2 
+ | elevation_min_m         = 
+ < !-- Population, dcs -- > 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | population_total        = 904,704 
+ | population_as_of        = municipality 2022 (CBS); urban, Feb  2017 (CBS); metro 2014 (OIS Amsterdam); Randstad, 2011 
+ | population_footnotes    = < ref name= " tno_randstad " / > < ref name= " CBS_muni " > {{Dutch municipality population|dataref}} < /ref > < ref name= " CBS_urbanmetro " > {{Dutch municipality population urbanmetro|dataref}} < /ref > < ref name=cbs2013 > {{cite web|url=http://statline.cbs.nl/StatWeb/publication/?DM=SLNL & PA=37230ned & D1=0,17 & D2=39,66,88,121 & D3=(l-4)-l & VW=T | title = CBS Amsterdam Bevolkingsontwikkeling; regio per maand}} < /ref > < ref name=osamsterdam2015 > {{cite web |url=http://www.os.amsterdam.nl/pdf/2015_evmra.pdf |title=Economische Verkenningen Metropool Regio Amsterdam |access-date=2018-04-05 |archive-date=2018-12-25 |archive-url=https://web.archive.org/web/20181225015331/https://www.ois.amsterdam.nl/ |url-status=dead }} < /ref > 
+ | population_density_km2  = 4805  < !-- {{Dutch municipality population density|Amsterdam}} -- >   < !-- For automatic calculation: auto-- > 
+ | population_urban        = 1,351,587 
+ | population_blank1_title = {{nowrap|[[Amsterdam Metropolitan Area| < abbr style= " border-bottom: none; "  title= " Amsterdam metropolitan region " > Metro region < /abbr > ]]}} 
+ | population_blank1       =  2,431,000 
+ | population_blank2_title = [[Randstad]] 
+ | population_blank2       = 7,100,000 
+ | population_demonym      = Amsterdammer, A'dammer 
+ < !-- Other information -- > 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 1011–1109, 1381–1384 
+ | area_code               = 020, 0294 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | blank_name_sec2     = [[GeoTLD]] 
+ | blank_info_sec2     = [[.amsterdam]] 
+ | website                 = {{Official|1=https://www.amsterdam.nl/}} 
+ | footnotes               = 
+ |p2=[[Amsterdam-Noord|Noord]] 
+ |p3=[[Amsterdam-West|West]] 
+ |p4=[[Amsterdam Nieuw-West|Nieuw-West]] 
+ |p5=[[Amsterdam-Zuid|Zuid]] 
+ |p6=[[Amsterdam-Oost|Oost]] 
+ |p7=[[Amsterdam-Zuidoost|Zuidoost]] 
+ |p8=[[Westpoort]] 
+ | elevation_max_m         = 
+ | timezone               = [[Central European Time|CET]] 
+ | utc_offset             = +1 
+ | timezone_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST         = +2 
+ }} 
+ '''Amsterdam''' is the [[capital (city)|capital]] and largest [[city]] in the [[Europe]]an [[country]] of the [[Netherlands]]. Amsterdam is famous for its [[canal]]s and [[levee|dikes]]. Unlike in capitals of most other countries, the national [[government]], [[parliament]], [[Ministry (government department)|government ministries]], [[supreme court]], [[royal family]] and [[embassy|embassies]] are not in Amsterdam, but in [[The Hague]]. The only diplomatic offices present in Amsterdam are [[consulate]]s. 
+ 
+ The city hosts two universities (the [[University of Amsterdam]] and the [[Free University Amsterdam]]) and an [[international]] [[airport]]  " [[Amsterdam Airport Schiphol|Schiphol Airport]] " . About 2.2 million people live in the [[metropolitan area]]. The city of Amsterdam is the world's most multi-cultural city. It has people living there from 175 different countries. Like other big cities in the Netherlands and elsewhere in the world, Amsterdam is unfortunately subjected to many criminal activities. 
+ 
+ The former city of [[Weesp]] has been part of Amsterdam since 24 March 2022. Because of this Amsterdam has about 905,000 people. 
+ 
+ == History == 
+ A [[dam]] was built in [[13th century]] in the river [[Amstel]] (that's why the city is called Amsterdam). The old [[harbor]] of the city, ''Damrak'', is now one of the busiest streets in the city. The city was for the first time mentioned in [[1275]] by count [[Floris V]], count of [[Holland]] and [[Zeeland (province)|Zeeland]] who gave the people of Amsterdam some more freedom. The city got its city rights probably in [[1306]]; at least soon after the year [[1300]]. The city became a major trading port pretty soon, with a successful trading route to the [[Baltic Sea]]. The city grew fast in the [[15th century]]. Because the city basically lies in [[swamp]], the builders of the city had to dig [[canal]]s to use the digging-ground for getting the living-ground higher. Homes were built on wooden poles, and the canals served as a pretty effective primitive [[sewer]]. 
+ 
+ The city was one of the first cities in Western Europe to be fairly [[democracy|democratic]]: Wealthy citizens chose the leaders of the city. Amsterdam declared war on the Spanish in [[1578]], during the [[Eighty Years' War]]. When the city of [[Antwerp]] fell to the Spanish in [[1585]], many people of Antwerp fled to Amsterdam. Antwerp was also a major trading city, and when its people moved to Amsterdam, they took their trading-networks with them. That's why Amsterdam became an even more important trading city after that. This launched the [[Dutch Golden Age]]. The number of people living in Amsterdam during the War rose from less than 30,000 in [[1570]] to over 100,000 in [[1622]]. That number would even rise to 200,000 near the end of the [[17th century]], making the city a very large city for its time (only [[London]] and [[Paris]] also had that many people). In the [[18th century]], the number of people living in Amsterdam fell back to 140,000, ending the Golden Age. 
+ 
+ The [[19th century]] was the time for the first trains and trams in Amsterdam. The first [[Railway|train]] ran from Amsterdam to [[Haarlem]] in [[1839]]. The number of people was rising, with about 250,000 living in Amsterdam in [[1850]], and more than 500,000 in [[1900]]. Amsterdam was a heavy [[Industrial Revolution|industrialised]] city by then. Before the [[Second World War]], there were about 140,000 Jews living in Amsterdam. Most of those people did not survive the war. After the war, Amsterdam became a centre of tolerance and culture; to be different is not abnormal in Amsterdam. It is expected that Amsterdam will grow 12.6% until [[2025]]. It will then hold almost 900,000 people, and the metropolitan area will hold almost 2.5 million people by then. < ref > [http://www.nrc.nl/binnenland/article1934803.ece/Randstad_groeit%2C_platteland_krimpt Randstad groeit, platteland krimpt] {{in lang|nl}} < /ref > 
+ 
+ == Districts == 
+ [[File:Amsterdamse stadsdelen 2010.png|thumb|Districts of Amsterdam|alt=|none]] 
+ Amsterdam consists of eight districts: 
+ 
+ # Centrum 
+ # Noord 
+ # West 
+ # Nieuw-West 
+ # Zuid 
+ # Oost 
+ # Zuidoost 
+ # Westpoort 
+ 
+ And one urban area:  
+ 
+ # Weesp 
+ 
+ == References == 
+ {{reflist}} 
+ == Other websites == 
+ {{Commonscat}} 
+ * [https://www.amsterdam.nl/ Official website] 
+ 
+ 
+ {{North Holland Province}} 
+ {{European capitals}} 
+ {{Authority control}} 
+ 
+ [[Category:Amsterdam| ]] 
+ [[Category:Olympic cities]]

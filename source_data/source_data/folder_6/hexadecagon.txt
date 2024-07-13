@@ -1,0 +1,62 @@
+{{Regular polygon db|Regular polygon stat table|p16}} 
+ An '''hexadecagon''' or '''hexakaidecagon''' is a [[Polygon|shape]] with 16 sides and 16 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular hexadecagon == 
+ A ''[[regular polygon|regular]] hexadecagon'' is a hexadecagon in which all angles are equal and all sides are congruent. Its Schläfli symbol is {16} and can be constructed as a truncated [[octagon]], t{8}, and a twice-truncated [[square]] tt{4}. A truncated hexadecagon, t{16}, is a [[triacontadigon]], {32}. 
+ 
+ === Area === 
+ The [[area]] of a regular hexadecagon with edge length ''t'' is 
+ : < math > \begin{align} 
+ A = 4t^2 \cot \frac{\pi}{16} = &  4t^2 \left(1+\sqrt{2}+\sqrt{ 4+2\sqrt{2} }\right)\\ 
+ = &  4t^2 (\sqrt{2}+1)(\sqrt{4-2\sqrt{2}}+1) 
+ .\end{align} < /math > 
+ 
+ Because the hexadecagon has a number of sides that is a [[power of two]], its area can be computed in terms of the [[circumradius]] ''R'' by truncating [[Viète's formula]]: 
+ : < math > A=R^2\cdot\frac{2}{1}\cdot\frac{2}{\sqrt{2}}\cdot\frac{2}{\sqrt{2+\sqrt{2}}}=4R^2\sqrt{2-\sqrt{2}}. < /math > 
+ 
+ Since the area of the circumcircle is  < math > \pi R^2, < /math >  the regular hexadecagon fills approximately 97.45% of its circumcircle. 
+ 
+ == Dissection== 
+ [[Coxeter]] states that every parallel-sided 2''m''-gon can be divided into m(m-1)/2 rhombs. For the ''regular hexadecagon'', ''m''=8, and it can be divided into 28: 4 squares and 3 sets of 8 rhombs. This decomposition is based on a [[Petrie polygon]] projection of a [[8-cube]], with 28 of 1792 faces.  < ref > [[Coxeter]], Mathematical recreations and Essays, Thirteenth edition, p.141 < /ref >  The list [http://oeis.org/A006245 A006245] enumerates the number of solutions as 1232944, including up to 16-fold rotations and chiral forms in reflection. 
+ {| class=wikitable 
+ |+ Dissection into 28 rhombs 
+ |- align=center valign=top 
+ |[[File:8-cube.svg|160px]] 
+ |[[File:16-gon-dissection.svg|160px]] 
+ |} 
+ 
+ == Skew hexadecagon == 
+ {| class=wikitable align=right width=300 
+ |+ 3 regular skew zig-zag hexadecagon 
+ !{8}#{ } 
+ ! { {{frac|8|3}} }#{ } 
+ ! { {{frac|8|5}} }#{ } 
+ |- 
+ |[[File:8 antiprism_skew_16-gon.png|120px]] 
+ |[[File:8-3_antiprism_skew_16-gon.png|80px]] 
+ |[[File:8-5_antiprism_skew_16-gon.png|120px]] 
+ |- 
+ |colspan=3|A regular skew hexadecagon is seen as zig-zagging edges of a [[octagonal antiprism]], a [[octagrammic antiprism]], and a [[octagrammic crossed-antiprism]]. 
+ |} 
+ A '''skew hexadecagon''' is a [[skew polygon]] with 24 vertices and edges but not existing on the same plane. The interior of such an hexadecagon is not generally defined. A ''skew zig-zag hexadecagon'' has vertices alternating between two parallel planes. 
+ 
+ A '''regular skew hexadecagon''' is [[vertex-transitive]] with equal edge lengths. In 3-dimensions it will be a zig-zag skew hexadecagon and can be seen in the vertices and side edges of a [[octagonal antiprism]] with the same D < sub > 8d < /sub > , [2 < sup > + < /sup > ,16] symmetry, order 32. The [[octagrammic antiprism]], s{2,16/3} and [[octagrammic crossed-antiprism]], s{2,16/5} also have regular skew octagons. 
+ 
+ ==In art== 
+ [[File:Raffaello Sanzio - Spozalizio (detail) - WGA18625.jpg|thumb|240px|The hexadecagonal tower from Raphael's [[The Marriage of the Virgin (Raphael)|''The Marriage of the Virgin'']]]] 
+ In the early 16th century, [[Raphael]] was the first to construct a [[Perspective (graphical)|perspective]] image of a regular hexadecagon: the tower in his painting [[The Marriage of the Virgin (Raphael)|''The Marriage of the Virgin'']] has 16 sides, elaborating on an eight-sided tower in a previous painting by [[Pietro Perugino]]. < ref > {{citation|title=Crossroads: History of Science, History of Art. Essays by David Speiser, vol. II|year=2011|pages=29–39|contribution=Architecture, mathematics and theology in Raphael’s paintings|editor-first=Kim|editor-last=Williams|first=David|last=Speiser|publisher=Springer|doi=10.1007/978-3-0348-0139-3_3}}. Originally published in ''Nexus III: Architecture and Mathematics'', Kim Williams, ed. (Ospedaletto, Pisa: Pacini Editore, 2000), pp. 147–156. < /ref > 
+ 
+ [[File:ReconquistaAlhambra.JPG|thumb|A hexadecagrammic pattern from the [[Alhambra]]]] 
+ Hexadecagrams (16-sided [[star polygon]]s) are included in the [[Girih]] patterns in the [[Alhambra]]. < ref > {{citation|title=Examples of methods of drawing geometrical arabesque patterns|first=E. Hanbury|last=Hankin|journal=The Mathematical Gazette|volume=12|issue=176|date=May 1925|pages=370–373|doi=10.2307/3604213|jstor=3604213 |s2cid=250431566 }}. < /ref > 
+ 
+ 
+ == Irregular hexadecagons == 
+ An [[octagonal star]] can be seen as a concave hexadecagon: 
+ :[[File:Octagonal star.png|120px]][[File:Squared_octagonal star.png|120px]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ [[Category:Polygons|16]]

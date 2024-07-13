@@ -1,0 +1,48 @@
+{{Italic title}} 
+ {{Taxobox 
+ | name = ''Clostridium'' 
+ | image = Clostridium difficile 01.jpg 
+ | image_width = 240px 
+ | image_caption = [[Scanning electron microscope|SEM]] micrograph of ''[[Clostridium difficile]]'' colonies from a stool sample. 
+ | domain = [[Bacteria]] 
+ | phylum = [[Firmicutes]] 
+ | classis = [[Clostridia]] 
+ | ordo = [[Clostridia]]les 
+ | familia = [[Clostridiaceae]] 
+ | genus = '''''Clostridium''''' 
+ | genus_authority = [[Adam Prażmowski (biologist)|Prazmowski]] < !--1853-1920, not the astronomer-- >  1880}} 
+ 
+ '''''Clostridium''''' is a [[genus]] of [[bacteria]].  ''Clostridium'' bacteria are [[Anaerobic organism|obligate anaerobes]], which means they do not need [[oxygen]] to grow. < ref > They cannot tolerate oxygen. < /ref > 
+ 
+ ''Clostridium'' bacteria are shaped like rods.  The name  " ''Clostridium'' "  comes from the [[Greek (language)|Greek]] word ''kloster'' (κλωστήρ), which means  " spindle. " 
+ 
+ ''Clostridium'' bacteria are [[gram-positive]] and can produce [[endospore]]s. < ref name= " Sherris " > {{cite book| last1 = Ryan| first1 = Kenneth James| last2 = Ray| first2 = C. George| last3 = Sherris| first3 = John C.| title = Sherris medical microbiology| url = https://archive.org/details/sherrismedicalmi0000unse_q1i3| edition = 4th| year = 2004| publisher = McGraw Hill| isbn = 978-0-8385-8529-0 }} < /ref > < ref name= " BruggemannGottschalk " > {{cite book| last1 = Bruggemann| first1 = Holger| last2 = Gottschalk| first2 = Gerhard| title = Clostridia: molecular biology in the post-genomic era| url = https://archive.org/details/clostridiamolecu0000unse| year = 2009| publisher = Caister Academic Press| isbn = 978-1-904455-38-7 }} < /ref > 
+ 
+ == Important species == 
+ There are many different [[species]] of ''Clostridium'' bacteria.  Some of these species can cause serious [[Disease|illness]]. 
+ 
+ === ''Clostridium botulinum'' === 
+ ''Clostridium botulinum'' bacteria make a [[toxin]] called botulinum. When botulinum toxins get into food or wounds, they cause [[botulism]], a dangerous disease. < ref name= " Baron_b " > {{cite book | author = Wells C.L.  &  Wilkins T.D. 1996 | title = ''Botulism'' ''and'' Clostridium botulinum. ''In:'' Baron's Medical Microbiology (Baron S. ''et al'' eds)| year = 1996| edition = 4th | publisher = Univ of Texas Medical Branch | url = https://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mmed.section.1108 | isbn = 978-0-9631172-1-2 }} < /ref >   Botulism can [[paralysis|paralyze]] the [[muscles]] (stop the muscles from moving or working).  People can die from botulism if their [[breathing]] muscles get paralyzed.  This makes them unable to breathe. 
+ 
+ Most cases of botulism happen because people eat meat that was not cooked well enough, or eat canned food that was not canned properly. < ref name= " Montecucco C, Molgó J 2005 274–279 " > {{cite journal| author = Montecucco C, Molgó J| title = Botulinal neurotoxins: revival of an old killer| journal = Current Opinion in Pharmacology| volume = 5| issue = 3| pages = 274–279| year = 2005| pmid = 15907915| doi = 10.1016/j.coph.2004.12.006}} < /ref > < ref name= " KukrejaR " > {{cite book| last = Proft| first = Thomas| title = Microbial Toxins: Current Research and Future Trends| year = 2009| publisher = Caister Academic Press| isbn = 978-1-904455-44-8| chapter = Botulinum Neurotoxins: Structure and Mechanism of Action }} < /ref > 
+ 
+ If babies under age one eat natural [[honey]], they can get infant botulism.  Most adults and older children can eat natural honey without getting sick.  In healthy people, the [[intestine]]s are filled with [[gut flora|good, healthy bacteria]]. Usually, these regular bacteria keep ''Clostridium botulinum'' under control. Infants do not have enough of these good bacteria to be able to eat honey safely. < ref > {{cite journal |author=Tanzi M.G.  &  Gabay M.P. 2002. |title=Association between honey consumption and infant botulism |url=https://archive.org/details/sim_pharmacotherapy_2002-11_22_11/page/1479 |journal=Pharmacotherapy |year=2002 |volume=22 |issue=11 |pages=1479–83  |pmid=12432974 |doi=10.1592/phco.22.16.1479.33696|s2cid=42891891 }} < /ref > 
+ 
+ Sometimes doctors use botulinum toxins to treat medical problems.  There are [[medication|medicines]], like Botox, which contain botulinum toxin. Some people get Botox treatments when they have wrinkles in the face.  When it is [[Injection|injected]] into the [[forehead]], Botox paralyzes the muscles in the face, and makes the face look smoother. < ref name= " Montecucco C, Molgó J 2005 274–279 " / > < ref name= " KukrejaR2 " > {{cite book| last = Proft| first = Thomas| title = Microbial Toxins: Current Research and Future Trends| year = 2009| publisher = Caister Academic Press| isbn = 978-1-904455-44-8| chapter = Botulinum Neurotoxins: Structure and Mechanism of Action }} < /ref > 
+ 
+ === ''Clostridium difficile'' === 
+ ''[[Clostridium difficile]]'' bacteria can cause bad [[diarrhea]] and serious illness. Usually, people get ''Clostridium difficile'' infection after they have taken [[Antibiotics|antibiotic medicines]].  These medicines can kill the healthy bacteria that normally live in the intestines and keep ''Clostridium difficile'' bacteria under control. ''Clostridium difficile'' infection can be spread from person to person, and is getting more common in [[hospital]]s, nursing homes, and other health care facilities. Just in the United States, 14,000 people die every year from ''Clostridium difficile'' [[infection]]. < ref name= " Eco " > {{cite news| url=https://www.economist.com/news/science-and-technology/21565586-bacterial-medicine-starting-emerge-bugs-system | newspaper=The Economist | title=Bugs in the system | date=3 November 2012}} < /ref > < ref name= " Clabots_1992 " > {{cite journal | author = Clabots C.R. |display-authors = etal | title = Acquisition of ''Clostridium difficile'' by hospitalized patients: evidence for colonized new admissions as a source of infection | url = https://archive.org/details/sim_journal-of-infectious-diseases_1992-09_166_3/page/561 | journal = The Journal of Infectious Diseases | volume = 166 | issue = 3 | pages = 561–7 | date = 1992 | pmid = 1323621 | doi = 10.1093/infdis/166.3.561 }} < /ref > 
+ 
+ ''Clostridium difficile'' is an [[Antibiotic resistance|antibiotic-resistant]] bacteria. This means that many antibiotic medicines cannot kill the bacteria. This makes ''Clostridium difficile'' infection difficult to treat. < ref name= " microbiology " > {{cite book| last1 = Ryan| first1 = Kenneth James| last2 = Ray| first2 = C. George| last3 = Sherris| first3 = John C.| title = Sherris Medical Microbiology| url = https://archive.org/details/sherrismedicalmi00kjry| edition = 4th| year = 2004| publisher = McGraw Hill| isbn = 978-0-8385-8529-0| pages = [https://archive.org/details/sherrismedicalmi00kjry/page/n339 322]–4 }} < /ref > 
+ 
+ === ''Clostridium tetani'' === 
+ ''Clostridium tetani'' causes [[tetanus]]. < ref name= " Baron_e " > {{cite book | author = Wells C.L.  &  Wilkins T.D. 1996 | title =  " Tetanus and Clostribium tetani " . In: ''Baron's Medical Microbiology'' (Baron S. ''et al'' eds)| year = 1996| edition = 4th | publisher = Univ of Texas Medical Branch| url = https://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mmed.section.1099 | isbn = 978-0-9631172-1-2 }} < /ref >   Usually, people get tetanus when they get a cut or [[wound]], and ''Clostridium tetani'' bacteria get into the wound. < ref > {{cite web |url=http://unispal.un.org/unispal.nsf/0080ef30efce525585256c38006eacae/181c72112f4d0e0685257ac500515c6c?OpenDocument |title=A/67/L.28-A/RES/67/19 of 26 November 2012 |access-date=2012-12-01 |archive-date=2012-12-06 |archive-url=https://www.webcitation.org/6ChdM5B42?url=http://unispal.un.org/unispal.nsf/0080ef30efce525585256c38006eacae/181c72112f4d0e0685257ac500515c6c?OpenDocument |url-status=dead }} < /ref >  At first, tetanus causes the muscles in the [[jaw]] to spasm (tighten). (Tetanus is often called  " lockjaw "  because the [[jaw]] muscles spasm so badly that the jaw seems  " locked. " ) This can make it difficult to swallow. As tetanus gets worse, other muscles in the body get stiff and spasm. < ref name= " Baron " > {{cite book | author = Wells CL, Wilkins TD | title = ''Clostridia: sporeforming anaerobic bacilli. In'' Baron's Medical Microbiology. ''Baron S'' et al, eds| url = https://archive.org/details/medicalmicrobiol0000unse_d4e1 | edition = 4th | publisher = Univ of Texas Medical Branch | year = 1996 | isbn = 978-0-9631172-1-2| id = [https://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mmed.section.1099 (via NCBI Bookshelf)] }} < /ref > < ref name= " CDC " > {{cite web | title=Tetanus | work=CDC Pink Book | url=https://www.cdc.gov/vaccines/pubs/pinkbook/downloads/tetanus.pdf | access-date=2007-01-26}} < /ref > 
+ 
+ Tetanus [[immunization]] can keep people from getting tetanus. < ref name= " CDC "  / > 
+ == References == 
+ {{reflist}} 
+ 
+ {{Taxonbar|from=Q327663}} 
+ {{authority control}} 
+ [[Category:Clostridium| ]] 
+ [[Category:Gram-negative bacteria]]

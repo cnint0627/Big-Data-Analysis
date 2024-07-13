@@ -1,0 +1,66 @@
+{| class= " wikitable floatright " 
+ !Other ways to < br >  to say  < u > hertz < /u > 
+ |- 
+ |inverse-seconds 
+ |- 
+ |cycles per second 
+ |- 
+ |cps 
+ |} 
+ [[File:Wave frequency.gif|thumb|325px|A [[sine wave]] with varying frequency]] 
+ 
+ The '''hertz''' (symbol: '''Hz''', definition: 1/'''s''') is a unit derived from time which measures [[frequency]] in the [[International System of Units]] (SI). Frequency is how often something happens. A frequency of 1 hertz means that something happens once a [[second]]. While '''hertz''' or '''Hz''' are the standard ways to express this unit, other expressions are sometimes used, as shown in the table. 
+ 
+ The note [[Middle C]] (the C in the middle of the [[piano]]) is 261.65 (262) & nbsp;Hz. This means there are 262 [[vibration]]s every second, which is heard as the note Middle C, when that piano key is played. 
+ 
+ Humans are able to hear sounds between 20 and 20 000 & nbsp;Hz. < ref name= " :0 " > {{cite web|url=http://hyperphysics.phy-astr.gsu.edu/hbase/sound/earsens.html|title=Sensitivity of Human Ear|publisher=|accessdate=9 February 2016}} < /ref >  Owls are able to hear sounds between 200 and 12000 & nbsp;Hz. < ref name= " :1 " > {{cite web|url=http://www.lsu.edu/deafness/HearingRange.html|title=Frequency Hearing Ranges in Dogs and Other Species|publisher=|accessdate=9 February 2016}} < /ref > 
+ 
+ The basic unit is 1/second. The unit is named after a German physicist [[Heinrich Rudolf Hertz]]. 
+ 
+ == Multiple units == 
+ 1000 hertz is 1 kilohertz. 1000 kilohertz is 1 megahertz, 1000 megahertz is 1 gigahertz: (see table) 
+ {| align= " left "  class= " wikitable " 
+ |- 
+ ! Unit 
+ ! Equal to: 
+ |- 
+ | Kilohertz (kHz) 
+ | 1000 & nbsp;Hz 
+ |- 
+ | Megahertz (MHz) 
+ | 1000 & nbsp;kHz 
+ |- 
+ | Gigahertz (GHz) 
+ | 1000 & nbsp;MHz 
+ |- 
+ | Terahertz (THz) 
+ | 1000 & nbsp;GHz 
+ |- 
+ | Petahertz (PHz) 
+ | 1000 THz 
+ |- 
+ | Exahertz (EHz) 
+ | 1000 PHz 
+ |- 
+ | Zettahertz (ZHz) 
+ | 1000 EHz 
+ |- 
+ | Yottahertz (YHz) 
+ | 1000 ZHz 
+ |} 
+ {{clr}} 
+ 
+ == Examples == 
+ * The frequency of the Earth's spinning (once per ~24 [[hour]]s) is about 12 microhertz (much smaller than 1 & nbsp;Hz). 
+ * The hertz is sometimes used to measure the power of a [[processor]] in [[computing]] and [[electronics]]. 
+ * [[Amateur radio]] in the [[United States of America]] is at different frequencies between 1.8 and 1300 & nbsp;MHz < ref > {{cite web|url=http://www.arrl.org/frequency-allocations|title=Frequency Allocations|publisher=|accessdate=9 February 2016}} < /ref > 
+ * [[Air traffic control]] uses frequencies between 3 and 25 & nbsp;MHz as well as frequencies between 108 and 136 & nbsp;MHz < ref name= " spectrum " > {{cite web|title=Aviation Radio Bands and Frequencies|url=http://www.smeter.net/spectrum/aviation.php|publisher=Smeter|accessdate=9 February 2016|archive-date=12 February 2004|archive-url=https://web.archive.org/web/20040212142911/http://www.smeter.net/spectrum/aviation.php|url-status=dead}} < /ref > 
+ * Musical note middle G (G4) has a frequency of 392 & nbsp;Hz. 
+ 
+ == Sources == 
+ {{reflist}} 
+ 
+ {{SI units}} 
+ 
+ [[Category:Units of frequency]] 
+ [[Category:SI derived units]]

@@ -1,0 +1,22 @@
+In [[set theory]], a '''subset''' is a [[set]] which has some (or all) of the elements of another set, called superset, but does not have any elements that the superset does not have. A subset which does not have all the elements of its superset is called a '''proper subset'''. We use the symbol ⊆ to say a set is a subset of another set. We can also use ⊂ if it is a proper subset. The symbols ⊃ ⊇ are opposite - they tell us the second element is a (proper) subset of the first. < ref > {{Cite web|date=2020-04-11|title=Comprehensive List of Set Theory Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/set-theory-symbols/|access-date=2020-08-23|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Subset|url=https://mathworld.wolfram.com/Subset.html|access-date=2020-08-23|website=mathworld.wolfram.com|language=en}} < /ref > < ref > {{Cite web|title=Introduction to Sets|url=https://www.mathsisfun.com/sets/sets-introduction.html|access-date=2020-08-23|website=www.mathsisfun.com}} < /ref > 
+ 
+ For example: 
+ *{1, 2, 3} is a proper subset of {-563, 1, 2, 3, 68}. 
+ 
+ *The [[interval]] [0, 1] is a proper subset of the set of [[real number]]s (also the set of [[positive number]]s). 
+ : < math > [0, 1] \subset R < /math > 
+ : < math > [0, 1] \subset R_+ < /math > 
+ *{46,189,1264} is its own subset, and is a proper subset of the set of [[natural number]]s. 
+ : < math > \{ 46,189,1264\} \subseteq \{ 46,189,1264\} < /math > 
+ : < math > \{ 46,189,1264\} \subset N  < /math > 
+ 
+ == Related pages == 
+ 
+ * [[Subset sum problem]] 
+ * [[Vector subspace]] 
+ 
+ == References == 
+ < references / > 
+ {{math-stub}} 
+ 
+ [[Category:Set theory]]

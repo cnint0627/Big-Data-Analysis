@@ -1,0 +1,80 @@
+{{Infobox drug 
+ | Watchedfields = changed 
+ | verifiedrevid = 477164519 
+ | IUPAC_name = 8-Chloro-1-methyl-6-phenyl-4''H''-[1,2,4]triazolo[4,3-a] [1,4]benzodiazepine 
+ | image = Alprazolam structure.svg 
+ | width = 140 
+ | image2 = Alprazolam ball-and-stick model.png 
+ 
+ < !--Clinical data-- > 
+ | tradename = Xanax, Xanor, Niravam, others 
+ | Drugs.com = {{drugs.com|monograph|alprazolam}} 
+ | pronounce = Alprazolam {{IPAc-en|æ|l|'|p|r|æ|z|ə|l|æ|m}} or {{IPAc-en|æ|l|'|p|r|eɪ|z|ə|l|æ|m}}, Xanax {{IPAc-en|'|z|æ|n|æ|k|s}} 
+ | MedlinePlus = a684001 
+ | pregnancy_US = D 
+ | legal_AU = S8 
+ | legal_CA = Schedule IV 
+ | legal_UK = Class C 
+ | legal_US = Schedule IV 
+ | legal_UN = Psychotropic Schedule IV 
+ | legal_DE = Rx-only/Anlage III 
+ | legal_status = Rx-only 
+ | dependency_liability = High 
+ 
+ < !--Pharmacokinetic data-- > 
+ | routes_of_administration = [[Oral administration|By mouth]] 
+ | protein_bound = 80% 
+ | bioavailability      = 80–90% 
+ | metabolism           = [[Liver]], via [[cytochrome P450 3A4]] 
+ | metabolites = alpha-hydroxyalprazolam, 4-hydroxyalprazolam, beta-hydroxyalprazolam 
+ | onset = less than an hour < ref name=Lill2016 > {{cite book |last1=Lilley |first1=Linda Lane |last2=Snyder |first2=Julie S. |last3=Collins |first3=Shelly Rainforth |title=Pharmacology for Canadian Health Care Practice |date=2016 |publisher=Elsevier Health Sciences |isbn=9781771720663 |page=329 |url=https://books.google.com/books?id=dNgoDwAAQBAJ & pg=PA329 }} < /ref > 
+ |duration_of_action = 6 hours < ref name=Lill2016/ > 
+ | elimination_half-life = Immediate release: 4–6 hours < br / > Extended release: 11–16 hours 
+ | excretion       = [[Kidney]] 
+ 
+ < !--Identifiers-- > 
+ | IUPHAR_ligand = 7111 
+ | CAS_number_Ref = {{cascite|correct|??}} 
+ | CAS_number = 28981-97-7 
+ | ATC_prefix = N05 
+ | ATC_suffix = BA12 
+ | PubChem = 2118 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB00404 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 2034 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = YU55MQ3IZY 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = D00225 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 2611 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 661 
+ 
+ < !--Chemical data-- > 
+ | C = 17| H = 13| Cl = 1| N = 4 
+ | smiles = ClC1=CC2=C(C=C1)N3C(C)=NN=C3CN=C2C4=CC=CC=C4 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C17H13ClN4/c1-11-20-21-16-10-19-17(12-5-3-2-4-6-12)14-9-13(18)7-8-15(14)22(11)16/h2-9H,10H2,1H3 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = VREFGVBLTWBCJP-UHFFFAOYSA-N 
+ | drug_name =  
+ | alt =  
+ | caption =  
+ | type =  
+ | licence_EU =  
+ | pregnancy_AU =  
+ | pregnancy_category =  
+ | licence_US =  
+ }} 
+ '''Alprazolam''', probably better known by its trade name '''Xanax''', is a short-acting drug. The drug is used to treat people with [[anxiety]] disorders and [[panic attack]]s. Alprazolam is the most commonly misused [[benzodiazepine]] (the drug's class) in the [[United States]]; but the majority of prescribed users do not develop a substance-use disorder. Alprazolam is a prescription drug in the United States. 
+ 
+ ==Sources== 
+ {{reflist}} 
+ 
+ {{med-stub}} 
+ 
+ [[Category:Psychoactive drugs]] 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:Organochlorides]]

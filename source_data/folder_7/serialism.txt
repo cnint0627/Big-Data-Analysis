@@ -1,0 +1,25 @@
+'''Serialism''' is a way of composing music using a series of notes in a particular order and using this to build up a whole piece of music. These series and patterns can also be applied to other parts of music (like how loud or soft it is). 
+ 
+ 
+ ==A simple example== 
+ 
+ To show how serialism works we can take a very simple example.  Let us use just five notes from the white notes of a keyboard.  We can use the notes A, B, C, D and E.  We are going to make a “tune” using all these five notes, but not repeating any until all five have been used (although we are allowed to repeat the note we have just had). 
+ For example: we might have D, C, A, A, A, A, B, E.  This is what we call our “row” or “series”, although usually one would expect a row of twelve different notes.  It is the one we start off with, so we can call it our tone row. 
+ 
+ We can change the tone row by playing it backwards.  This is called retrograde.  So we now get E, B, A, A, A, A, C, D. 
+ 
+ We can also change it by playing it upside down.  This means that instead of going up one step we go down one step, or instead of going up two steps we go down two steps etc.  If we start on the same note D we now get: D, E, G, G, G, G, F, C.  This is called inversion. 
+ We can make it go backwards and upside down.  So we get: C, F, G, G, G, G, E, D.  This is called retrograde inversion. 
+ 
+ We now have four ways of playing our row: tone row, retrograde, inversion, retrograde inversion. 
+ 
+ These can now be transposed to create many more options. 
+ 
+ ==Schoenberg’s twelve-tone series== 
+ 
+ In 1923 the composer [[Arnold Schoenberg]] (1874-1951) developed what he called the “twelve-tone system”.  Instead of using just five notes as in our example, he used [[chromatic|all 12 notes]] in the octave (5 black and 7 white notes on the piano keyboard).  Most music we listen to is in a particular key ([[tonality]]).  This is called “tonal” music.  For example: if we start “Twinkle, twinkle little star” on a C we finish on a C at the end and the piece sounds finished. It is “tonal” (in a particular key).  In twelve-tone music all 12 notes are equal, there is no “key note” (it is “atonal”).  This makes the music very hard to understand and it took people a long time to get used to the sound of Schoenberg’s new music. 
+ 
+ Schoenberg was not the only composer to use this way of composing.  His pupils [[Alban Berg]] (1885-1935) and [[Anton Webern]] (1883-1945) also wrote twelve-tone music. Schoenberg, Webern  &  Berg are sometimes called the  " Second Viennese School " -The first was Haydn, Mozart and Beethoven a hundred years before. The composers [[Igor Stravinsky]] (1882-1971) and [[Aaron Copland]] (1900-1990) started to write twelve-tone music when they were quite old.  Composers such as [[Benjamin Britten]] (1913-1976) used it occasionally, often putting it together with music which was tonal (listen to Britten’s opera “Midsummer Night’s Dream”).  When contrasted with tonal music in this way it can be very beautiful. 
+ 
+ In the 1950s and 1960s some composers like [[Pierre Boulez]] (b.1925) and [[Karlheinz Stockhausen]] (b.1928) wrote music which was not only twelve-tone, but serial in other ways as well.  For example: they organized levels of dynamics (from very quiet to very loud) in a series, and the lengths of notes (from very short to very long), and even timbre (the sound quality).  By combining all these things their music became very complicated indeed.  When all these things were used for the whole piece of music it was called “total serialism”.  Boulez’s ''Structures I'' is an example of a piece which uses “total serialism”.  A lot of people criticized this music, saying that it was too mathematical instead of being expressive.  Such music can be hard to understand.  
+ [[Category:Musical movements]]

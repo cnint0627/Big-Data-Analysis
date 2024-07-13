@@ -1,0 +1,3 @@
+'''Concatenation''' is a simple concept from linguistics, mathematics and [[computer science]]. It is a way of making a new word (or string), by joining two (or more) other strings. For example, the concatenation of  " snow "  and  " ball "  is  " snowball " . In most languages if we write  x =  " snow "  +  " ball " , then the value of x will be  " snowball " . But to do the same in [[SQL]] we would write  " snow " || " ball " . 
+ {{Tech-stub}} 
+ [[Category:Computer science]]

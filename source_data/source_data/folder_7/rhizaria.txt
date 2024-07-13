@@ -1,0 +1,29 @@
+{{Automatic taxobox 
+ | fossil_range = {{long fossil range|Neoproterozoic|recent|[[Neoproterozoic]] - [[Holocene|Recent]]}} 
+ | image = Ammonia tepida.jpg 
+ | image_caption = ''[[Ammonia tepida]]'' ([[Foraminifera]]) 
+ | taxon = Rhizaria 
+ | authority = [[Cavalier-Smith]], 2002 
+ | subdivision_ranks = Phyla 
+ | subdivision = 
+ [[Cercozoa]] < br > 
+ [[Retaria]] < br > 
+ :[[Foraminifera]] 
+ :[[Radiolaria]] 
+ | display_parents = 6 
+ }} 
+ The '''Rhizaria''' are a supergroup of mostly [[unicellular]] [[eukaryote]]s. < ref > {{cite web | url = http://www.palaeos.com/Eukarya/Units/Rhizaria/Rhizaria.html | year = 2004 | author = Christopher Taylor | title = Rhizaria | access-date = 2014-07-04 | archive-date = 2009-04-20 | archive-url = https://web.archive.org/web/20090420034036/http://www.palaeos.com/Eukarya/Units/Rhizaria/Rhizaria.html | url-status = dead }} < /ref > < ref name= " pmid15148395 " > {{cite journal |author=Nikolaev S.I. | display-authors = etal |title=The twilight of Heliozoa and rise of Rhizaria, an emerging supergroup of amoeboid eukaryotes |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=101 |issue=21 |pages=8066–71 |date=2004 |pmid=15148395 |pmc=419558 |doi=10.1073/pnas.0308602101 | doi-access = free }} < /ref >  A multicellular form has recently been described. < ref > {{cite journal | url=http://www.cell.com/current-biology/abstract/S0960-9822(12)00413-7   | year = 2012 | author = Brown | display-authors = etal | title = Aggregative multicellularity evolved independently in the Eukaryotic Supergroup Rhizaria | journal = Current Biology : Cb | volume = 22 | issue = 12 | pages = 1123–1127 | doi = 10.1016/j.cub.2012.04.021 | pmid = 22608512 | s2cid = 17510471 }} < /ref > 
+ 
+ This supergroup was proposed by [[Thomas Cavalier-Smith|Cavalier-Smith]] in 2002. < ref > {{cite journal | first = Thomas| last = Cavalier-Smith| title = The phagotrophic origin of eukaryotes and phylogenetic classification of Protozoa| journal = International Journal of Systematic and Evolutionary Microbiology| year = 2002 | volume = 52 | issue = 2 | pages = 297–354| doi = 10.1099/00207713-52-2-297| issn = 1466-5026| url = http://ijs.sgmjournals.org/cgi/content/abstract/52/2/297| accessdate = 2007-06-08| pmid = 11931142}} < /ref >  It has many species. They vary considerably in form, but for the most part they are [[amoeba]]-like with  [[pseudopod]]s. Many produce shells or skeletons, which may be quite complex in structure. They make up the vast majority of protozoan fossils. Nearly all have [[mitochondrion|mitochondria]] with folds. 
+ 
+ == Groups == 
+ There are three main groups of Rhizaria: < ref name= " pmid17174576 " > {{cite journal |author=Moreira D. | display-authors = etal |title=Global eukaryote phylogeny: combined small- and large-subunit ribosomal DNA trees support monophyly of Rhizaria, Retaria and Excavata |journal=Mol. Phylogenet. Evol. |volume=44 |issue=1 |pages=255–66 |date=2007 |pmid=17174576 |doi=10.1016/j.ympev.2006.11.001 |url=http://linkinghub.elsevier.com/retrieve/pii/S1055-7903(06)00433-7}} < /ref > 
+ 
+ * [[Cercozoa]] – Various amoebae and flagellates, usually with [[pseudopod]]s and common in soil 
+ * [[Foraminifera]] – Amoeboids with reticulose pseudopods, common as marine [[benthos]] 
+ * [[Radiolaria]] – Amoeboids with skeletons, common as marine [[plankton]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Eukaryotes]]

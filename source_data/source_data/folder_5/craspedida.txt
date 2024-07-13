@@ -1,0 +1,22 @@
+Craspedida is a group of [[Choanoflagellate]]s, it is the sister clade to [[Acanthoecida]] 
+ 
+ {{Clade 
+ |label1=[[Choanoflagellata]] 
+ |1={{Clade 
+    |label1='''[[Craspedida]]''' 
+    |1={{Clade 
+       |1={{Clade 
+          |1=[[Codonosigidae]][[File:Codonosiga_botrytis.jpg|60 px]] 
+          |2=[[Salpingoecidae]][[File:Dayel_Protero_Thecate.jpg|60 px]] 
+       }} 
+       |2=[[Monosigidae]][[File:Monosiga_Brevicollis_Phase.jpg|60 px]] 
+    }} 
+    |label2=[[Acanthoecida]] 
+    |2={{Clade 
+       |1=[[Stephanoecidae]][[File:Stephanocea_x100.jpg|60 px]] 
+       |2=[[Acanthoecidae]] 
+    }} 
+ }} 
+ }} 
+ 
+ [[Category:Eukaryotes]]

@@ -1,0 +1,163 @@
+{{Distinguish|corn}} 
+ {{Infobox musical artist < !-- See Wikipedia:WikiProject Musicians -- > 
+ | name            = Korn 
+ | image           = Korn MTV Asia Awards 2006.jpg 
+ | landscape       = yes 
+ | caption         = Korn in 2006 
+ | alt             =  
+ | background      = group_or_band 
+ | origin          = [[Bakersfield, California]], U.S. 
+ | genre           = {{flatlist| 
+ * [[Nu metal]] 
+ * [[alternative metal]] 
+ }} 
+ | years_active    = 1993–present 
+ | label           = {{flatlist| 
+ * [[Prospect Park (production company)|Prospect Park]] 
+ * [[Caroline Records|Caroline]] < ref name= " BK-Entertainment-Don-Gilmore " > {{cite web|url=http://www.bkentertainmentgroup.com/clients-2/don-gilmore|title=Don Gilmore|publisher=The BK Entertainment Group|access-date=March 27, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130221073153/http://www.bkentertainmentgroup.com/clients-2/don-gilmore|archive-date=February 21, 2013}} < /ref > < ref name= " Audiokorner-2012-10-08 " > {{cite web|url=http://audiokorner.com/?p=8694|title=Jeff Kwatinetz Making Changes at the Prospect Park Record Label|website=audiokorner.com|access-date=May 5, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130528071321/http://audiokorner.com/?p=8694|archive-date=May 28, 2013}} < /ref > 
+ * [[Roadrunner Records|Roadrunner]] 
+ * [[Elektra Records|Elektra]] 
+ * [[Virgin Records|Virgin]] 
+ * [[Epic Records|Epic]] 
+ * [[Immortal Records|Immortal]] 
+ }} 
+ | associated_acts = {{flatlist| 
+ * [[L.A.P.D. (band)|L.A.P.D.]] 
+ * [[Jonathan Davis and the SFA]] 
+ }} 
+ | website         = {{URL|kornofficial.com}} 
+ | current_members =  
+ * [[Jonathan Davis]] 
+ * [[James Shaffer]] 
+ * [[Reginald Arvizu]] (on hiatus) 
+ * [[Brian Welch]] 
+ * [[Ray Luzier]] 
+ | past_members    = [[David Silveria]] 
+ < !-- 
+ * [[Terry Bozzio]] 
+ * [[Brooks Wackerman]] 
+  were not official members, merely session musicians 
+  -- > 
+ }} 
+ '''Korn''' (sometimes written as '''KoЯn''' to fit their logo) is an American [[Grammy Award]]-winning [[nu metal]] and [[alternative metal]] band from Bakersfield, [[California]]. 
+ 
+ The band was first called 'Creep' and had another singer. 
+ 
+ People often say they created the [[nu metal]] genre. < ref name= " Rock Star Magazine " > {{cite web | title=Rock Star Magazine | url=http://korn.simpol.net/i/rockstarjonathandavis.jpg}} < /ref >  Along with other bands of the time, they were influences for a wave of [[nu metal]], [[alternative metal]] and [[rap metal]] bands through the mid 1990s and early 2000s, helping [[Limp Bizkit]] (who were discovered by Korn themselves) and [[Slipknot]] more than other bands. Despite this, Korn have been quoted for disliking the term and even being called 'metal'. Jonathan Davis has said that Korn's music can not be classified and that it contains many other influences besides simply 'metal'. The official review on the [[iTunes Store]] for their first album goes as far as saying that Korn  " hate the term " . 
+ 
+ Their first album was first sold in [[1994]] and also called KoRn. Since then, Korn has sold over 35 millions records worldwide - including 16,5 millions in the U.S., making them one of the best-selling metal acts of the last twelve years. < ref name= " www.showtimetickets.com " > {{cite web | title=www.showtimetickets.com | work= Mention of sales | url=http://www.showtimetickets.com/concerts/rock-pop/korn.jsp}} < /ref >  The band's catalogue consists of seven platinum studio albums in a row, one platinum compilation album, and seven consecutive debuts (including ''[[Greatest Hits, Volume 1 (Korn album)|Greatest Hits, Volume 1]]'' compilation album) in top 10 of [[Billboard Top 200]] best selling albums. Korn has been selected for 6 [[Grammy]]s, and won 2 such awards. 8 of their albums has been awarded as multi-platinum, despite only part of them being on [[Billboard (magazine)|Billboard]]. 
+ 
+ == Band members == 
+ ;Current lineup 
+ * Jonathan Davis – lead vocals, bagpipes  < small > (1993–present) < /small > 
+ * James  " Munky "  Shaffer – guitars  < small > (1993–present) < /small > ; backing vocals  < small > (2005–present) < /small > 
+ * Brian  " Head "  Welch – guitars, backing vocals  < small > (1993–2005, 2013–present) < /small > 
+ * Reginald  " Fieldy "  Arvizu – bass  < small > (1993–present) < /small > 
+ * Ray Luzier – drums  < small > (2009–present) < /small > 
+ 
+ ;Former 
+ * David Silveria – drums, percussion  < small > (1993–2006) < /small > 
+ 
+ '''Timeline''' 
+ {{#tag:timeline| 
+ ImageSize = width:800 height:auto barincrement:20 
+ PlotArea = left:110 bottom:80 top:auto right:10 
+ Alignbars = justify 
+ DateFormat = dd/mm/yyyy 
+ Period = from:01/06/1993 till:01/04/2021 #it's best not to use auto-updating timelines as it can cause problems when the graphic updates on a daily basis 
+ TimeAxis = orientation:horizontal format:yyyy 
+ Legend = orientation:Vertical position:bottom columns:4 
+ ScaleMajor = increment:2 start:1994 
+ ScaleMinor = increment:1 start:1994 
+ 
+ Colors = 
+  id:lvocals  value:red        legend:Lead_vocals,_bagpipes 
+  id:bvocals  value:pink       legend:Backing_vocals 
+  id:guitar   value:green      legend:Guitars 
+  id:bass     value:blue       legend:Bass 
+  id:drums    value:orange     legend:Drums 
+  id:studio   value:black      legend:Studio_album 
+  id:ep       value:gray(0.6)  legend:Studio_EP 
+  id:bars     value:gray(0.93) 
+ 
+ BackgroundColors = bars:bars 
+ 
+ LineData = 
+  layer:back 
+  color:studio 
+  at:11/10/1994 
+  at:15/10/1996 
+  at:18/08/1998 
+  at:16/11/1999 
+  at:11/06/2002 
+  at:21/11/2003 
+  at:06/12/2005 
+  at:31/07/2007 
+  at:13/07/2010 
+  at:06/12/2011 
+  at:08/10/2013 
+  at:21/10/2016 
+  at:13/09/2019 
+ 
+  color:ep 
+  at:01/01/1995 
+  at:27/04/1999 
+  at:09/02/2001 
+  at:25/10/2005 
+   < !--at:15/11/2005 [removed for better aesthetics, double EP with above release]-- > 
+  at:07/11/2006 
+  at:17/02/2012 
+ 
+ BarData = 
+  bar:Jonathan  text: " Jonathan Davis " 
+  bar:Munky     text: " James Shaffer " 
+  bar:Head      text: " Brian Welch " 
+  bar:Fieldy    text: " Reginald Arvizu " 
+  bar:David     text: " David Silveria " 
+  bar:Ray       text: " Ray Luzier " 
+ 
+ PlotData= 
+  width:11 
+  bar:Jonathan  from:start      till:end        color:lvocals 
+  bar:Head      from:start      till:22/02/2005 color:guitar 
+  bar:Head      from:start      till:22/02/2005 color:guitar  width:3 
+  bar:Head      from:02/05/2013 till:end        color:guitar 
+  bar:Head      from:start      till:22/02/2005 color:bvocals width:3 
+  bar:Head      from:start      till:22/02/2005 color:bvocals width:3 
+  bar:Head      from:02/05/2013 till:end        color:bvocals width:3 
+  bar:Munky     from:start      till:end        color:guitar 
+  bar:Munky     from:start      till:end        color:guitar  width:3 
+  bar:Munky     from:22/02/2005 till:end        color:bvocals width:3 
+  bar:Fieldy    from:start      till:end        color:Bass 
+  bar:David     from:start      till:20/10/2006 color:Drums 
+  bar:Ray       from:13/01/2008 till:end        color:Drums 
+ }} 
+ 
+ ==Studio albums== 
+ * [[Korn (album)|''Korn'']] (1994) 
+ * [[Life Is Peachy|''Life Is Peachy'']] (1996) 
+ * [[Follow the Leader (Korn album)|''Follow the Leader'']] (1998) 
+ * [[Issues (album)|''Issues'']] (1999) 
+ * [[Untouchables (album)|''Untouchables'']] (2002) 
+ * [[Take a Look in the Mirror|''Take a Look in the Mirror'']] (2003) 
+ * [[See You on the Other Side|''See You on the Other Side'']] (2005) 
+ * [[Untitled Korn album|Untitled album]] (2007) 
+ * [[Korn III: Remember Who You Are|''Korn III: Remember Who You Are'']] (2010) 
+ * [[The Path of Totality|''The Path of Totality'']] (2011) 
+ * [[The Paradigm Shift|''The Paradigm Shift'']] (2013) 
+ * ''The Serenity of Suffering'' (2016) 
+ * [[The Nothing (Korn album)|''The Nothing'']] (2019) 
+ *''Requiem'' (2022) 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{Commons|Korn}} 
+ 
+ [[Category:American heavy metal bands]] 
+ [[Category:Grammy Award winners]] 
+ [[Category:Nu metal bands]] 
+ [[Category:American hard rock bands]] 
+ [[Category:Alternative metal bands]] 
+ [[Category:People from Bakersfield, California]]

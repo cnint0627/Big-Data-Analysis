@@ -1,0 +1,151 @@
+{{Infobox French commune 
+ |name                   = Molsheim  
+ |commune status         = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image coat of arms     = Blason Molsheim France Bas-Rhin.svg 
+ |image                  = Eglise des jésuites.jpg 
+ |caption                = ''Église des Jésuites'' [[church]]. 
+ |arrondissement         = Molsheim 
+ |canton                 = Molsheim 
+ |INSEE                  = 67300 
+ |postal code            = 67120 
+ |population demonym     = Molsheimois 
+ |mayor                  = Laurent Furst 
+ |term                   = 2014-2020 
+ |intercommunality       = Région de Molsheim-Mutzig 
+ |coordinates            = {{coord|48.54|7.49|format=dms|display=inline,title}} 
+ |elevation m            = 268 
+ |elevation min m        = 165 
+ |elevation max m        = 371 
+ |area km2               = 10.85 
+ |population             = 9263 
+ |population date        = 2014 
+ }} 
+ '''Molsheim''' is a [[Communes of France|commune]] in north-eastern [[France]], in the [[Bas-Rhin]] [[Departments of France|department]], of which it is a [[Subprefectures in France|subprefecture]]. It is in the [[Grand Est]] [[Regions of France|region]]. 
+ 
+ The ''commmune'' is in the [[History|historical]] and [[Culture|cultural]] region of [[Alsace]]. 
+ 
+ ==Geography== 
+ Molsheim is in the central part of the Bas-Rhin department, {{Convert|29|km|mi|abbr=on }} to the west of [[Strasbourg]]. The [[Bruche (river)|Bruche]] [[river]], a left [[tributary]] of the [[Ill (France)|Ill]] river, flows through the ''commune''. 
+ 
+ The ''commune'' has an area of {{Convert|10.9|km2|sqmi|abbr=on }}. < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-67300 |title=Commune de Molsheim (67300) |work=Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=26 December 2017 }} < /ref >  Its average [[altitude]] is {{Convert|268|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|175|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Molsheim-67120/ |title=City of Molsheim |publisher=Map-France.com |access-date=26 December 2017 }} < /ref > 
+ 
+ The distances from Molsheim to other cities are: < ref name= " mairie " > {{cite web |work=Annuaire-Mairie.fr |title=Ville de Molsheim |url=https://www.annuaire-mairie.fr/ville-molsheim.html |language=fr |access-date=26 December 2017}} < /ref > 
+ * [[Paris]], the national capital - {{Convert|477|km|mi|abbr=on }}; 
+ * [[Strasbourg]], the regional capital - {{Convert|29|km|mi|abbr=on }}; 
+ * [[Marseille]] - {{Convert|788|km|mi|abbr=on }}; 
+ * [[Lyon]] - {{Convert|477|km|mi|abbr=on }}; 
+ * [[Reims]] - {{Convert|335|km|mi|abbr=on }}; 
+ * [[Bordeaux]] - {{Convert|954|km|mi|abbr=on }}; 
+ * [[Toulouse]] - {{Convert|1012|km|mi|abbr=on }}; 
+ * [[Montpellier]] - {{Convert|774|km|mi|abbr=on }}; 
+ * [[Nice]] - {{Convert|770|km|mi|abbr=on }}. 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Molsheim and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 67300.png|350px|Map of the ''commune'' of Molsheimu]] 
+ |} 
+ < /center > 
+ 
+ The ''commune'' of Molsheim is surrounded by the following ''communes'': 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Molsheim 
+ |North     = [[Avolsheim]] 
+ |Northeast = [[Avolsheim]] 
+ |East      = [[Avolsheim]] 
+ |Southeast = [[Altorf]] 
+ |South     = [[Dorlisheim]] 
+ |Southwest = [[Dorlisheim]] 
+ |West      = [[Dorlisheim]] 
+ |Northwest = [[Soultz-les-Bains]] 
+ }} 
+ 
+ ===Climate=== 
+ The climate of Molsheim, in the [[Köppen climate classification]], is '''Cfb''' - [[Oceanic climate]] with template summers. < ref name= " mairie "  / > 
+ 
+ ==Population== 
+ The inhabitants of Molsheim are known, in [[French language|French]], as ''Molsheimois'' or ''Molshémiens'' (women: ''Molsheimoises''). < ref > {{cite web|url=https://www.habitants.fr/bas-rhin-67 |title=Habitants du départment: Bas-Rhin|publisher=habitants.fr |language=fr |access-date=26 December 2017 }} < /ref > 
+ 
+ With a population of 9,263, < ref name=insee2 > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep67.pdf |title=Régions, départements, arrondissements, cantons et communes |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=fr |access-date=22 December 2017}} < /ref >  Molsheim has a [[population density]] of {{Pop density|9263|10.85|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Molsheim''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:11000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:1000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:500 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:a text:1968 
+  bar:b text:1975 
+  bar:c text:1982 
+  bar:d text:1990 
+  bar:e text:1999 
+  bar:f text:2005 
+  bar:g text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:a from:0 till: 5739 
+  bar:b from:0 till: 6649 
+  bar:c from:0 till: 6928 
+  bar:d from:0 till: 7973 
+  bar:e from:0 till: 9335 
+  bar:f from:0 till: 9452 
+  bar:g from:0 till: 9263 
+ 
+ PlotData= 
+  bar:a at: 5739 fontsize:S text: 5,739 shift:(-12,12) 
+  bar:b at: 6649 fontsize:S text: 6,649 shift:(-15,5) 
+  bar:c at: 6928 fontsize:S text: 6,928 shift:(-15,5) 
+  bar:d at: 7973 fontsize:S text: 7,973 shift:(-15,5) 
+  bar:e at: 9335 fontsize:S text: 9,335 shift:(-15,5) 
+  bar:f at: 9452 fontsize:S text: 9,452 shift:(-15,5) 
+  bar:g at: 9263 fontsize:S text: 9,263 shift:(-15,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Administration== 
+ Molsheim is a [[Subprefectures in France|subprefecture]] in the [[Bas-Rhin]] department since 1919. It is the capital of the [[Arrondissement of Molsheim|Molsheim]] ''arrondissement'' and is also the [[administrative centre]] ({{lang-fr|chef-lieu}}) of the ''canton'' of [[Canton of Molsheim|Molsheim]] formed by 31 ''communes'', with 54,596 inhabitants (2014). < ref name=insee1 > {{cite web|url=https://www.insee.fr/fr/metadonnees/cog/communes/COM67300-molsheim |title=Commune de Molsheim (67300) |work= Géographie administrative et d’étude |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=26 December 2017 }} < /ref > 
+ 
+ === Twin towns === 
+ Molsheim is [[Twin town|twinned]] with [[Gerbrunn]] (Germany). 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Molsheim - Hôtel de ville -1.JPG|[[City and town halls|Town hall]] of Molsheim. 
+ File:2010.04.11.112432 Rue du Maréchal Foch Molsheim FR.jpg|''Maréchal Foch'' [[street]]. 
+ File:2010.04.11.112229 Place de l'Hôtel de Ville Molsheim FR.jpg|[[Town square|Square]] of the town hall. 
+ File:Avolsheim Dompeter05.JPG|''Saint-Pierre dite Dompeter'' [[church]], Avolsheim, Molsheim. 
+ File:Hotel de la Monnaie Molsheim.JPG|''Hôtel de la monnaie'' (old money manufacture) 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Molsheim]] 
+ * [[Communes of the Bas-Rhin department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Molsheim}} 
+ * [http://www.mairie-molsheim.fr/ Ville de Molsheim - Official site] {{in lang|fr}} 
+ * [https://www.ot-molsheim-mutzig.com/ Office de Tourisme de Molsheim-Mutzig] {{in lang|fr}} 
+ 
+ [[Category:Communes in Bas-Rhin]] 
+ [[Category:Subprefectures in France]]

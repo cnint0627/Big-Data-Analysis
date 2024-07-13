@@ -1,0 +1,21 @@
+< !-- XOWA is an acronym and is in ALL CAPS per [[Wikipedia:Manual_of_Style/Trademarks#General_rules]] -- > {{Infobox software 
+ | name = XOWA 
+ | logo = XOWA app icon.png 
+ | screenshot = XOWA screenshot.png 
+ | caption = Screenshot of XOWA 
+ | programming language = [[Java (programming language)|Java]] 
+ | language =  
+ | license = [[AGPLv3]] 
+ | website = {{URL|xowa.org}} 
+ | status = Active 
+ }} 
+ '''XOWA''' is a [[Free and open-source software|free and open-source]] application written primarily in [[Java (programming language)|Java]] by anomous developers and is intended for users whish to run their own copy of [[Wikipedia]], or any other compatible [[Wiki]] [[offline]] or without an internet connection. XOWA is compatible with [[Microsoft Windows]], [[MacOS]], [[Linux]] and [[Android (operating system)|Android]]. Licensed under the [[GNU Affero General Public License|GNU AGPLv3]], XOWA is [[free software]]. 
+ 
+ == Related pages == 
+ * [[Kiwix]] 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Microsoft Windows software]] 
+ [[Category:Linux software]]

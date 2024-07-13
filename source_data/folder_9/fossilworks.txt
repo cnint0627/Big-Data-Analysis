@@ -1,0 +1,46 @@
+{{Infobox website 
+ | name                 = Fossilworks 
+ | logo                 = PBDB-FossilWorksLogoWhite.jpg 
+ | logocaption          =  
+ | screenshot           =  
+ | collapsible          =  
+ | collapsetext         =  
+ | caption              =  
+ | url                  = {{URL|http://www.fossilworks.org/}} 
+ | commercial           =  
+ | type                 =  
+ | registration         =  
+ | language             = English 
+ | num_users            =  
+ | content_license      =  
+ | programming language =  
+ | owner                =  
+ | author               = [[John Alroy]] 
+ | editor               =  
+ | launch_date          = {{Start date and age|1998|df=yes/no}} 
+ | revenue              =  
+ | alexa                =  < !-- {{increase}} {{steady]} {{decrease}} [http://www.alexa.com/siteinfo/example.com ##] (US/Global, MM/YYYY) -- > 
+ | current_status       =  
+ | footnotes            =  
+ }} 
+ 
+ '''Fossilworks''' is a database for fossils (palaeontology). Its website which allows users to search and download information from its database. The content has been put together by [[paleontologists]] around the world. 
+ 
+ The website was created in 1998 by John Alroy and is housed at [[Macquarie University]], in [[New South Wales]], [[Australia]]. 
+ 
+ As of September 2021 the database houses: < ref name=“Fossil” > {{cite web |title=Fossilworks: Gateway to the Paleobiology Database |url=http://fossilworks.org/ |website=fossilworks.org |access-date=7 September 2021 |date=7 September 2021 |archive-date=31 July 2014 |archive-url=https://web.archive.org/web/20140731140924/http://fossilworks.org/ |url-status=dead }} < /ref > 
+ 
+ *72,851 references 
+ *423,885 taxa 
+ *211,094 fossil collections 
+ *1,477,100 taxonomic occurrences 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{Wikidata property|P842}} 
+ *{{Official website}} 
+ 
+ [[Category:Biological databases]] 
+ [[Category:Wikipedia identifier articles]]

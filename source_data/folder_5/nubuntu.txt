@@ -1,0 +1,61 @@
+{{update}} 
+ {{Infobox_OS 
+ |name = nUbuntu Linux 
+ |logo =  
+ |screenshot =  
+ |caption = nUbuntu - Formula One 
+ |developer = Brendan Almonte 
+ |family = [[Linux]] 
+ |source_model = [[Open source]] 
+ |latest_release_version = 8.12 
+ |latest_release_date = {{release date|2008|12|16}} 
+ |kernel_type = [[Monolithic kernel]] 
+ |ui = [[Fluxbox]] 
+ |license = [[Free software]] licenses < br > (mainly [[GNU GPL]]) 
+ |working_state = abandoned 
+ |website = none 
+ }}{{lowercase|title=nUbuntu}} 
+ 
+ '''nUbuntu''' or '''Network Ubuntu''' is a project to take the existing [[Ubuntu]] [[operating system]] and remaster it as a [[Live CD]] and Full [[wiktionary:install|install]] with tools needed for [[penetration testing]] servers and [[Computer network|networks]]. The main idea is to keep Ubuntu's ease of use and mix it with popular penetration testing tools. Besides usage for network and server testing, nUbuntu will be made to be a desktop distribution for advanced [[Linux]] users.  
+ 
+ == Contents == 
+ nUbuntu uses the light [[window manager]] [[Fluxbox]].  
+ 
+ It includes some of the most used security programs for Linux, such as [[Wireshark]], [[nmap]], [[dSniff]], and [[Ettercap (computing)|Ettercap]]. 
+ 
+ == History == 
+ * 2005-12-18 - nUbuntu Project is born, developers release Testing 1 
+ * 2006-01-16 - nUbuntu Live developers release Stable 1 
+ * 2006-06-26 - nUbuntu Live developers release version 6.06 
+ * 2006-10-16 - nUbuntu featured in [http://www.byakuya-shobo.co.jp/hj/ Hacker Japan] {{Webarchive|url=https://web.archive.org/web/20061017022303/http://www.byakuya-shobo.co.jp/hj/ |date=2006-10-17 }}, a Japanese hacker magazine 
+ * 2007-12-31 - nUbuntu developer TomB retires from project, Brendan Almonte takes over 
+ * 2008-07-16 - nUbuntu Live developers release version 8.04 Alpha 
+ 
+ === Releases === 
+ Below is a list of previous and current releases. 
+ 
+ {| class= " wikitable " 
+ !Version !! Release date !! Release name 
+ |----------------------------------- 
+ |Stable 1 || [[2006-01-16]] || nUbuntu Live 
+ |---- 
+ |Stable || [[2006-06-26]] || 6.06 
+ |---- 
+ |Stable || [[2006-11-21]] || 6.10 
+ |---- 
+ |Alpha || [[2008-07-16]] || 8.04 
+ |} 
+ 
+ == Other websites == 
+ *[http://www.darknet.org.uk/2006/03/10-best-security-live-cd-distros-pen-test-forensics-recovery/ Darknet 10 Best Security Live CD Distros for pen-test, forensics, and recovery] 
+ *[http://securitydistro.com/gallery/49/nUbuntu-610-Screenshots.php/ SecurityDistro screenshots of nUbuntu] {{Webarchive|url=https://web.archive.org/web/20080724181517/http://securitydistro.com/gallery/49/nUbuntu-610-Screenshots.php |date=2008-07-24 }} 
+ *[http://securitydistro.com/security-distros/10/nUbuntu.php/ SecurityDistro's nUbuntu section] {{Webarchive|url=https://web.archive.org/web/20081208123550/http://securitydistro.com/security-distros/10/nUbuntu.php |date=2008-12-08 }} 
+ *[http://securitydistro.com/forum/viewforum.php?f=32/ SecurityDistro's nUbuntu forum page]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} 
+ 
+ [[Category:Live CD]] 
+ [[Category:Linux distributions]] 
+ [[Category:Ubuntu (operating system) derivatives]] 
+ 
+ [[de:Liste von Linux-Distributionen#Ubuntu-Derivate]] 
+ 
+ {{tech-stub}}

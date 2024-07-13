@@ -1,0 +1,122 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Basic info  ---------------- > 
+ |name                   = Riobamba 
+ |official_name          = San Pedro de Riobamba 
+ |other_name             = 
+ |native_name            =   
+ |nickname               =  
+ |settlement_type        = City 
+ |total_type             =  < !-- to set a non-standard label for total area and population rows -- > 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = Banner Riobamba Ciudad Bonita.jpg 
+ |imagesize              = 300px 
+ |image_caption          =  
+ |image_flag             = Bandera de Riobamba.svg 
+ |flag_size              = 
+ |image_seal             = Escudo de Riobamba.jpg 
+ |seal_size              = 
+ |image_shield           =  
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              =  
+ |mapsize                =  
+ |map_caption            = Location in Ecuador 
+ |image_map1             =  
+ |mapsize1               =  
+ |map_caption1           =  
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            = Ecuador 
+ |pushpin_label_position = bottom 
+ |pushpin_map_caption    = 
+ |pushpin_mapsize        =300 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = {{flag|Ecuador}} 
+ |subdivision_type1      = [[Provinces of Ecuador|Province]] 
+ |subdivision_name1      = {{flag|Chimborazo Province}} 
+ |subdivision_type2      = [[Cantons of Ecuador|Canton]] 
+ |subdivision_name2      = [[Riobamba Canton]] 
+ < !-- Smaller parts (e.g. boroughs of a city) and seat of government -- > 
+ |seat_type              = 
+ |seat                   = 
+ |parts_type             = Parishes 
+ |parts_style            = coll 
+ |parts                  = Urban Parishes 
+ |p1                     = Lizarzaburu 
+ |p2                     = Maldonado 
+ |p3                     = Velasco 
+ |p4                     = Veloz 
+ |p5                     = Yaruquíes 
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = Mayor 
+ |leader_name            =  Napoleon Cadena 
+ |leader_title1          =   
+ |leader_name1           = 
+ |established_title      =  Founded 
+ |established_date       = August 15, 1534 
+ |established_title1      =  Relocation 
+ |established_date1       = 1799 
+ |founder = [[Diego de Almagro]] 
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref                =  < !--Enter: Imperial, to display imperial  before metric-- > 
+ |area_footnotes           = 
+ |area_total_km2           = 59.05 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on unit conversion-- > 
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ |area_metro_km2           = 982.69 
+ < !-- Elevation -------------------------- > 
+ |elevation_footnotes    =   
+ |elevation_m            = 2754 
+ |elevation_ft           = 
+ |elevation_max_m            =  
+ |elevation_max_ft           = 
+ |elevation_min_m            =  
+ |elevation_min_ft           = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               = 2010 census 
+ |population_footnotes           = 
+ |population_note                =  
+ |population_total               = 156723 
+ |population_density_km2         = auto 
+ |population_density_sq_mi       = 
+ |population_metro               = 225741 
+ < !-- General information  --------------- > 
+ |timezone               = [[Ecuador Time|ECT]] 
+ |utc_offset             = -5 
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ |coor_pinpoint         = < !-- can be used to specify exactly where/what the coordinates refer to -- > 
+ |coordinates            = {{coord|1|40|27.65|S|78|38|53.86|W|display=inline,title}} 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |website                = {{URL|http://www.gadmriobamba.gob.ec/}} {{in lang|es}} 
+ |footnotes              =  
+ }} 
+ 
+ '''Riobamba''' ({{IPA-es|rjoˈβamba}}, full name '''San Pedro de Riobamba'''; [[Quechuan languages|Quechua]]: Rispampa) is the capital of the [[Chimborazo Province]] in central [[Ecuador]], which is located at the Chambo River Valley of the [[Andes]]. < ref > {{cite web|url=http://www.galenfrysinger.com/riobamba_ecuador.htm|title=Riobamba, Ecuador – Travel Photos by Galen R Frysinger, Sheboygan, Wisconsin|website=www.galenfrysinger.com}} < /ref >  It is {{convert|200|km|mi|abbr=on}} south of Ecuador's capital [[Quito]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Cities in Ecuador]] 
+ [[Category:Capitals of Ecuadorian provinces]] 
+ [[Category:Chimborazo Province]] 
+ 
+ 
+ {{geo-stub}}

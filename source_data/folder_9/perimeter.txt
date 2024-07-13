@@ -1,0 +1,19 @@
+In [[geometry]], '''perimeter''' is the distance around a flat object. For example, all four sides of a square [[rhombus]] have the same length, so a rhombus with side length 2 inches would have a perimeter of 8 inches (2+2+2+2=8). 
+ 
+ For a [[polygon]], the perimeter is simply the sum of the length of all of its sides. < ref > {{Cite web|title=Perimeter and Area|url=https://www.montereyinstitute.org/courses/DevelopmentalMath/COURSE_TEXT2_RESOURCE/U07_L2_T2_text_final.html|access-date=2020-09-25|website=www.montereyinstitute.org}} < /ref >  For a rectangle, the perimeter is twice the sum of its length and width ( < math > P=2 \ell + 2w < /math > ). < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-25|website=Math Vault|language=en-US}} < /ref >  Perimeter can also be calculated for other planar figures, such as [[circle]], sector and [[ellipse]]. < ref name= " :0 " > {{Cite web|title=Perimeter|url=https://www.mathsisfun.com/geometry/perimeter.html|access-date=2020-09-25|website=www.mathsisfun.com}} < /ref > 
+ 
+ Real-life objects have perimeters as well.  A [[football]] field, including the end zones, is 360 feet long and 160 feet wide. This means that the perimeter of the field is 360+160+360+160=1040 feet. 
+ 
+ The perimeter of a circle is usually called the [[circumference]]. < ref name= " :0 "  / >  It may be calculated by multiplying the diameter times  " [[Pi]] " . Pi is a constant which is approximately equal to 3.14159; however, the places to the right of the decimal are endless. The number of places used depends on the accuracy required for the result. 
+ 
+ == Related pages == 
+ 
+ * [[Area]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Geometry]]

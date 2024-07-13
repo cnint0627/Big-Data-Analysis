@@ -1,0 +1,40 @@
+{{Regular polygon db|Regular polygon stat table|p20}} 
+ An '''icosagon''' is a [[Polygon|shape]] with 20 sides and 20 [[Vertex (geometry)|corner]]s. It has interior angles of 162 and exterior angles of 18. 
+ 
+ == Regular icosagon == 
+ The ''[[regular polygon|regular]] icosagon'' has Schläfli symbol {20}, and can also be constructed as a truncated [[decagon]], t{10}, or a twice-truncated [[pentagon]], tt{5}.  
+ 
+ === Area === 
+ The amount of space a regular icosagon takes up is 
+ 
+ : < math > \text{Area} = {5}a^2(1+\sqrt{5}+\sqrt{5+2\sqrt{5}}). < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ ==Uses== 
+ The Big Wheel on the popular US game show ''[[The Price Is Right (U.S. game show)|The Price Is Right]]'' has an icosagonal cross-section. 
+ 
+ The Globe, the outdoor theater used by William Shakespeare's acting company, was discovered to have been built on an icosagonal foundation when a partial excavation was done in 1989. < ref > Muriel Pritchett, University of Georgia [http://researchmagazine.uga.edu/92f/globe.html  " To Span the Globe " ], see also Editor's Note, retrieved on 10th January 2016 < /ref > 
+ 
+ As a [[golygon]]al path, the [[swastika]] is considered to be an irregular icosagon. < ref > {{MathWorld |title=Icosagon |urlname=Icosagon}} < /ref > 
+ 
+ [[File:4.5.20 vertex.png|160px]] 
+ A regular square, pentagon, and icosagon can completely [[Euclidean tilings of convex regular polygons|fill a plane vertex]]. 
+ 
+ == Dissection== 
+ [[Coxeter]] states that every parallel-sided 2''m''-gon can be divided into m(m-1)/2 rhombs. For the icosagon, ''m''=10, and it can be divided into 45: 5 squares and 4 sets of 10 rhombs. This decomposition is based on a [[Petrie polygon]] projection of a [[10-cube]], with 45 of 11520 faces.  < ref > [[Coxeter]], Mathematical recreations and Essays, Thirteenth edition, p.141 < /ref >  The list [http://oeis.org/A006245 A006245] enumerates the number of solutions as 18,410,581,880, including up to 20-fold rotations and chiral forms in reflection. 
+ {| class=wikitable 
+ |+ Dissection into 45 rhombs 
+ |- align=center valign=top 
+ |[[File:10-cube.svg|160px]] 
+ |[[File:20-gon-dissection.svg|160px]] 
+ |} 
+ 
+ ==References== 
+ {{Reflist}} 
+ *[http://mathforum.org/dr.math/faq/faq.polygon.names.html Naming Polygons and Polyhedra] 
+ *[https://books.google.com/books?id=ugBDAAAAIAAJ & dq=icosagon & pg=PA194 icosagon] 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ [[Category:Polygons|20]]

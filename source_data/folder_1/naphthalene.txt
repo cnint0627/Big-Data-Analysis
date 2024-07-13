@@ -1,0 +1,136 @@
+{{distinguish|naphtha| naphthene}} 
+ {{Chembox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 477170210 
+ | Name = Naphthalene 
+ | ImageFileL1 = Naphthalene numbering.svg 
+ | ImageSizeL1 = 100px 
+ | ImageNameL1 = Skeletal formula and numbering system of naphthalene 
+ | ImageFileR1 = Naphthalene-from-xtal-3D-balls.png 
+ | ImageSizeR1 = 100px 
+ | ImageNameR1 = Ball-and-stick model of naphthalene 
+ | ImageFile2 = Naphthalene-from-xtal-3D-vdW.png 
+ | ImageSize2 = 150px 
+ | ImageName2 = Spacefill model of naphthalene 
+ | ImageFile3 = Naphthalene-xtal-3D-vdW-B.png 
+ | ImageSize3 = 150px 
+ | ImageName3 = Unit cells of naphthalene 
+ | PIN = Naphthalene < ref name=iupac2013 > {{cite book | title =  Nomenclature of Organic Chemistry : IUPAC Recommendations and Preferred Names 2013 (Blue Book) | publisher = [[Royal Society of Chemistry|The Royal Society of Chemistry]] | date = 2014 | location = Cambridge | pages = 13, 35, 204, 207, 221–222, 302, 457, 461, 469, 601, 650 | doi = 10.1039/9781849733069-FP001 | isbn = 978-0-85404-182-4}} < /ref > 
+ | SystematicName =  < !-- Von Baeyer nomenclature -- > Bicyclo[4.4.0]deca-1,3,5,7,9-pentaene 
+ | OtherNames = white tar, camphor tar, tar camphor, naphthalin, naphthaline, antimite, albocarbon, hexalene, mothballs, moth flakes 
+ |Section1={{Chembox Identifiers 
+ | CASNo = 91-20-3 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 931 
+ | ChemSpiderID = 906 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = 2166IN72UN| ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | UNII_Ref = {{fdacite|changed|FDA}} 
+ | EINECS = 214-552-7 
+ | KEGG = C00829 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | ChEBI = 16482 
+ | ChEMBL = 16293 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS = QJ0525000 
+ | SMILES = c1ccc2ccccc2c1 
+ | Beilstein = 1421310 
+ | Gmelin = 3347 
+ | InChI = 1/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H 
+ | InChIKey = UFWIBTONFRDIAS-UHFFFAOYAC 
+ | StdInChI = 1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = UFWIBTONFRDIAS-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+   }} 
+ |Section2={{Chembox Properties 
+ | C=10 | H=8 
+ | Appearance = White solid crystals/ flakes 
+ | Odor = Strong odor of coal tar 
+ | Density = 1.145 g/cm < sup > 3 < /sup >  (15.5 °C) < ref name=water.epa > {{cite web 
+ |url = http://water.epa.gov/scitech/swguidance/standards/upload/2001_10_12_criteria_ambientwqc_napthalene80.pdf|title = Ambient Water Quality Criteria for Naphthalene| date=23 April 2014 |publisher = United States Environmental Protection Agency|accessdate = 2014-06-21}} < /ref > < br >  1.0253 g/cm < sup > 3 < /sup >  (20 °C) < br >  0.9625 g/cm < sup > 3 < /sup >  (100 °C) < ref name=water.epa / > 
+ | Solubility = 19 mg/L (10 °C) < br >  31.6 mg/L (25 °C) < br >  43.9 mg/L (34.5 °C) < br >  80.9 mg/L (50 °C) > < br >  238.1 mg/L (73.4 °C) < ref name=chemister > {{cite web|last = Anatolievich|first = Kiper Ruslan|website = chemister.ru|url = http://chemister.ru/Database/properties-en.php?dbid=1 & id=1005|title = naphthalene|accessdate = 2014-06-21}} < /ref > 
+ | Solubility1 = 5 g/100 g (0 °C) < br >  11.3 g/100 g (25 °C) < br >  19.5 g/100 g (40 °C) < br >  179 g/100 g (70 °C) < ref name=sioc > {{cite book|last1 = Seidell|first1 = Atherton|last2 = Linke|first2 = William F.|year = 1919|title = Solubility of Inorganic and Organic Compounds|url = https://archive.org/details/solubilitiesino04seidgoog|publisher = D. Van Nostrand Company|place = New York|edition = 2nd|pages = [https://archive.org/details/solubilitiesino04seidgoog/page/n468 443]–446}} < /ref > 
+ | Solvent1 = ethanol 
+ | Solubility2 = 6.8 g/100 g (6.75 °C) < br >  13.1 g/100 g (21.5 °C) < br >  31.1 g/100 g (42.5 °C) < br >  111 g/100 g (60 °C) < ref name=sioc / > 
+ | Solvent2 = acetic acid 
+ | Solubility3 = 19.5 g/100 g (0 °C) < br >  35.5 g/100 g (25 °C) < br >  49.5 g/100 g (40 °C) < br >  87.2 g/100 g (70 °C) < ref name=sioc / > 
+ | Solvent3 = chloroform 
+ | Solubility4 = 5.5 g/100 g (0 °C) < br >  17.5 g/100 g (25 °C) < br >  30.8 g/100 g (40 °C) < br >  78.8 g/100 g (70 °C) < ref name=sioc / > 
+ | Solvent4 = hexane 
+ | Solubility5 = 13.6 g/100 g (6.75 °C) < br >  22.1 g/100 g (21.5 °C) < br >  131.6 g/100 g (60 °C) < ref name=sioc / > 
+ | Solvent5 = butyric acid 
+ | SolubleOther = Soluble in [[alcohol]]s, liquid [[ammonia]], [[carboxylic acid]]s, [[benzene|C < sub > 6 < /sub > H < sub > 6 < /sub > ]], [[sulfur dioxide|SO < sub > 2 < /sub > ]], < ref name=chemister / >  [[carbon tetrachloride|CCl < sub > 4 < /sub > ]], [[carbon disulfide|CS < sub > 2 < /sub > ]], [[toluene]], [[aniline]] < ref name=sioc / > 
+ | MeltingPtC = 78.2 
+ | MeltingPt_notes =  < br >  {{convert|80.26|C|F K}} < br >  at 760 mmHg 
+ | BoilingPtC = 217.97 
+ | BoilingPt_notes =  < br >  at 760 mmHg < ref name=water.epa / > 
+ | VaporPressure = 8.64 Pa (20 °C) < br >  23.6 Pa (30 °C) < br >  0.93 kPa (80 °C) < ref name=chemister / > < br >  2.5 kPa (100 °C) < ref name=nist > {{nist|name=Naphthalene|id=C91203|accessdate=2014-05-24|mask=FFFF|units=SI}} < /ref > 
+ | LogP = 3.34 
+ | RefractIndex = 1.5898 
+ | HenryConstant = 0.42438 L·atm/mol 
+ | ThermalConductivity = 98 kPa: < br >  0.1219 W/m·K (372.22 K) < br >  0.1174 W/m·K (400.22 K) < br >  0.1152 W/m·K (418.37 K) < br >  0.1052 W/m·K (479.72 K) < ref > {{cite web |title = Thermal Conductivity of Naphthalene |url = http://www.ddbst.com/en/EED/PCP/TCN_C123.php |website = DDBST GmbH |publisher = DDBST GmbH |accessdate = 2014-06-21 |archive-date = 2016-03-04 |archive-url = https://web.archive.org/web/20160304070707/http://www.ddbst.com/en/EED/PCP/TCN_C123.php |url-status = dead }} < /ref > 
+ | Viscosity = 0.964 cP (80 °C) < br >  0.761 cP (100 °C) < br >  0.217 cP (150 °C) < ref > {{cite web|title = Dynamic Viscosity of Naphthalene|url = http://www.ddbst.com/en/EED/PCP/VIS_C123.php|website = DDBST GmbH|publisher = DDBST GmbH|accessdate = 2014-06-21|archive-date = 2016-03-04|archive-url = https://web.archive.org/web/20160304104728/http://www.ddbst.com/en/EED/PCP/VIS_C123.php|url-status = dead}} < /ref > 
+ | MagSus = -91.9·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+   }} 
+ |Section3={{Chembox Structure 
+ | CrystalStruct = [[monoclinic crystal system|Monoclinic]] < ref name=sccs > {{cite book|url = https://books.google.com/books?id=hYRCAAAAQBAJ & pg=PA288|title = Structure and Chemistry of Crystalline Solids|last1 = Douglas|first1 = Bodie E.|last2 = Ho|first2 = Shih-Ming|publisher = Springer Science+Business Media, Inc.|year = 2007|isbn = 978-0-387-26147-8|place = New York|page = 288}} < /ref > 
+ | SpaceGroup = P2 < sub > 1 < /sub > /b < ref name=sccs / > 
+ | PointGroup = C{{sup sub|5|2h}} < ref name=sccs / > 
+ | LattConst_a = 8.235 & nbsp;Å 
+ | LattConst_b = 6.003 & nbsp;Å 
+ | LattConst_c = 8.658 & nbsp;Å < ref name=sccs / > 
+ | LattConst_alpha = 
+ | LattConst_beta = 122.92 
+ | LattConst_gamma = 
+   }} 
+ |Section4={{Chembox Thermochemistry 
+ | HeatCapacity = 165.72 J/mol·K 
+ | Entropy = 167.39 J/mol·K < ref name=nist / > 
+ | DeltaHf = 78.53 kJ/mol 
+ | DeltaGf = 201.585 kJ/mol 
+ | DeltaHc = -5156.3 kJ/mol 
+   }} 
+ |Section7={{Chembox Hazards 
+ | MainHazards = [[Flammable]], [[wikt:sensitizer|sensitizer]], possible [[carcinogen]]. Dust can form [[explosive]] mixtures with [[air]] 
+ | GHSPictograms = {{GHS02}}{{GHS07}}{{GHS08}}{{GHS09}} < ref name= " sigma " > {{Sigma-Aldrich|id=147141|name=Naphthalene|accessdate=2014-06-21}} < /ref > 
+ | GHSSignalWord = Danger 
+ | HPhrases = {{H-phrases|228|302|351|410}} 
+ | PPhrases = {{P-phrases|210|273|281|501}} 
+ | NFPA-H = 2 
+ | NFPA-F = 2 
+ | NFPA-R = 0 
+ | FlashPtC = 80 
+ | FlashPt_ref =  
+ | AutoignitionPtC = 525 
+ | AutoignitionPt_ref =  
+ | ExploLimits = 5.9% 
+ | TLV-TWA = 10 ppm < ref name=crc > {{CRC90}} < /ref > 
+ | TLV-STEL = 15 ppm < ref name=crc / > 
+ | LD50 = 1800 mg/kg (rat, oral) < br/ > 490 mg/kg (rat, oral) < br/ > 1200 mg/kg (guinea pig, oral) < br/ > 533 mg/kg (mouse, oral) < ref > {{IDLH|91203|Naphthalene}} < /ref > 
+ | IDLH = 250 ppm < ref name=PGCH > {{PGCH|0439}} < /ref > 
+ | REL = TWA 10 ppm (50 mg/m < sup > 3 < /sup > ) ST 15 ppm (75 mg/m < sup > 3 < /sup > ) 
+ | PEL = TWA 10 ppm (50 mg/m < sup > 3 < /sup > ) 
+   }} 
+ }} 
+ '''Naphthalene''' is a [[crystal]]line, white [[hydrocarbon]], with a strong smell. It is best known as the main ingredient in [[mothball]]s, [[urinal deodorizer block]]s, and can be used as an [[antiseptic]]. In mothballs, it is used as an [[insecticide]] or [[pesticide]]. 
+ 
+ Naphthalene is [[toxic]]. In humans, being exposed to naphthalene can destroy [[red blood cell]]s. Naphthalene may also cause [[cancer]]. 
+ 
+ == History == 
+ In the early 1820s, two different papers were published on something that matched the description of Naphthalene. Both groups made it by distilling coal tar. In 1821 [[John Kidd]] cited both reports, and condensed their results to accurately describe the properties of naphthalene, and how to make it. Kidd named it naphthalene because  " naphtha "   means any explosive hydrocarbon mixture. By 1826, [[Michael Faraday]] discovered the formula for it. [[Emil Erlenmeyer]] proposes that it is two fused benzene rings in 1866, and [[Carl Gräbe]] confirms this three years later. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Molecules detected in outer space}} 
+ {{Simple aromatic rings}} 
+ 
+ == Other websites == 
+ *[http://www.inchem.org/documents/pims/chemical/pim363.htm Naphthalene (PIM 363)] - mostly on toxicity of naphthalene 
+ 
+ 
+ {{chem-stub}} 
+ 
+ [[Category:Hydrocarbons]]

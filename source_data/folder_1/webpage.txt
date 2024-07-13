@@ -1,0 +1,16 @@
+{{About|pages that are in a specific [[URL]]|websites that are what webpages are [[Host (network)|host]]ed in|website}} 
+ [https://youtube.com/watch?v=4FXKb5eV72k & feature=share] '''webpage''' (or '''web page''') is a document from the [[internet]] which can be seen with a [[web browser]].  Web pages each have a [[URL]] or address, which is how a page is found, and is different for every page.  When a webpage is part of a larger group of pages managed by a company, person, or organization, it is part of a [[website]]. 
+ 
+ Pages can have words, pictures, videos, and [[link]]s. Links are ways to get to other web pages. 
+ 
+ For example, this article is a webpage. It has the URL '''https://simple.wikipedia.org/wiki/Webpage''', and is part of the Wikipedia website.  It has words and links.  The links in this page are shown in blue and can be clicked to go to other webpages. 
+ 
+ == Technology == 
+ Web pages are usually stored in [[HTML]] code which describes what to show on the page like words or pictures. Web pages also use two other types of code to tell the page how to work:  
+ # [[Cascading Style Sheets]] (or CSS) is a code used to tell the page how to look.  
+ # [[JavaScript]] (or JS) is used to change the words, style, or [[pictures]] on the page. 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Internet]]

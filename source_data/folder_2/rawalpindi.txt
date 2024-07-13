@@ -1,0 +1,22 @@
+< mapframe frameless align= " center "  text= " Location of Rawalpindi city. "  width=280 height=150 zoom=10 latitude=33.626057 longitude=73.071442  > 
+ { 
+    " type " :  " Feature " , 
+    " geometry " : {  " type " :  " Point " ,  " coordinates " : [33.626057, 73.071442] }, 
+    " properties " : { 
+      " title " :  " Location of Rawalpindi city. " , 
+      " description " :  " " , 
+      " marker-symbol " :  " " , 
+      " marker-size " :  " large " , 
+      " marker-color " :  " 0050d0 " 
+   } 
+ } 
+ < /mapframe > 
+ [[File:Rawalpindi montage.PNG|thumb|237x237px|right|Rawalpindi City]] 
+ '''Rawalpindi''' ({{lang-ur|راولپنڈی}}, Rāwalpindī) is a city in the [[Pothohar Plateau]] near Pakistan's capital city of [[Islamabad]], in the province of [[Punjab (Pakistan)|Punjab]]. It is home to the headquarters of the '''Pakistan Army''' and also served as the nation's capital while Islamabad was being constructed during the [[1960]]s. The city is home to many industries and factories. [[Benazir Bhutto International Airport]] is actually in Rawalpindi, formerly known as the  " Chaklala Airport " , serving the city along with the capital. Rawalpindi is in the Punjab province, 275 & nbsp;km (171 miles) to the north-west of [[Lahore]]. It is the administrative seat of the [[Rawalpindi District]]. About 3,363,911 people lived in Rawalpindi in the year 1998. The local language spoken is [[Pahari-Pothwari|Pothwari]]. 
+ 
+ 
+ {{Asia-stub}} 
+ 
+ [[Category:Rawalpindi| ]] 
+ [[Category:Former national capitals|R]] 
+ [[Category:Capital of Pakistan]]

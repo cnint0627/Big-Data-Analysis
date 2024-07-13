@@ -1,0 +1,33 @@
+{{Infobox Software  
+ | name                   = ClamWin  Free Antivirus  
+ | logo                   = ClamWin Logo.png  
+ | screenshot             = ClamWin on Ubuntu.png 
+ | caption                = ClamWin 0.93 
+ | collapsible            = yes 
+ | developer              = ClamWin Pty Ltd 
+ | platform               = [[ClamAV]]  
+ | latest_release_version = 0.99.1  
+ | latest_release_date    = {{release_date|2016|04|16}} 
+ | operating_system       = [[Microsoft Windows]] 
+ | programming language   = [[C++]] and [[Python (programming language)|Python]] 
+ | genre                  = [[Antivirus software|Anti-virus]]  
+ | license                = [[GNU General Public License]] 
+ | website                = {{URL|http://www.clamwin.com/}} 
+ }} 
+ 
+ '''ClamWin Free Antivirus''' is a [[free software|free]], [[open source software|open source]] [[antivirus software]] for [[Microsoft Windows]]. It provides a graphical user interface to the [[ClamAV]] engine. 
+ 
+ ClamWin is licensed under the terms of the [[GNU General Public License]] and can be downloaded from the official website for free. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * {{Official website|http://www.clamwin.com/}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Free software]] 
+ 
+ [[de:ClamAV#ClamWin für Windows]]

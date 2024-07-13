@@ -1,0 +1,22 @@
+[[File:Seamonkey 2.53.17.1 screenshot.png|thumb|Windows 10 22H2 running Seamonkey 2.53.17.1]] 
+ '''SeaMonkey''' is a [[free software|free]] and [[open source]] [[Internet]] [[application suite]], which uses the [[Gecko (rendering engine)|Gecko]] [[rendering engine]].  It works on many [[operating system]]s.  It is very useful, and includes an [[e-mail]] client, a [[calendar]], a [[HTML]] [[editor]], an [[Internet Relay Chat|IRC]] client, and a [[web browser]]. It is made by the SeaMonkey Council, formerly by Mozilla Foundation. 
+ 
+ == History == 
+ On March 10, 2005 the Mozilla Foundation said that they will not develop the '''Mozilla Application suite''', including the Netscape [[web browser]], because [[Firefox]] and [[Thunderbird]] were more popular. The SeaMonkey Council renamed the project '''SeaMonkey''' and continued its development. The newest version of its main release version is 2.53.17.1. 
+ 
+ == Features == 
+ The web browser of SeaMonkey contains a lot of features used in new web browsers like tabbed browsing, pop-up blocking, e-mail, newsgroups, web editing software, spell checking, and an address book. 
+ 
+ Optionally included in the SeaMonkey suite is an [[IRC]] chat application. 
+ 
+ ==Related pages== 
+ *[[List of IRC clients]] 
+ 
+ == Other websites == 
+ * [https://www.seamonkey-project.org/ Seamokey project site] 
+ * [https://wiki.mozilla.org/SeaMonkey:Home_Page SeaMonkey Wiki] 
+ * [https://ftp.mozilla.org/pub/mozilla.org/seamonkey/ SeaMonkey Download] 
+ 
+ [[Category:IRC clients]] 
+ [[Category:Web browsers]] 
+ [[Category:Mozilla]]

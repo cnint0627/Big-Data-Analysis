@@ -1,0 +1,131 @@
+{{Infobox Settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |official_name          =  < !--State of-- > State of Coahuila 
+ |other_name             = 
+ |native_name            = 
+ |nickname               =  
+ |settlement_type        = 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          =  
+ |imagesize              =  
+ |image_caption          =  
+ |image_flag             = Flag of Coahuila.svg 
+ |flag_size              = 140px 
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           = Coat of arms of Coahuila.svg 
+ |shield_size            = 80px 
+ |city_logo              = 
+ |citylogo_size          = 
+ |image_map              = Mexico map, MX-COA.svg 
+ |mapsize                =  
+ |map_caption            = Location within Mexico 
+ |image_map1             =  
+ |mapsize1               =  
+ |map_caption1           =  
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            =  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ |pushpin_map_caption    = 
+ |pushpin_mapsize        = 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = [[Mexico]] 
+ |subdivision_type1      = Capital 
+ |subdivision_name1      = [[Saltillo]] 
+ |subdivision_type2      = [[Municipalities of Mexico|Municipalities]] 
+ |subdivision_name2      = [[#Municipalities|38]] 
+ |subdivision_type3      = [[List of cities in Mexico|Largest & nbsp;City]] 
+ |subdivision_name3      = [[Saltillo]] 
+ |subdivision_type4      =  
+ |subdivision_name4      = 
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           =[[List of Mexican state governors|Governor]] 
+ |leader_name            =[[Humberto Moreira Valdés]] (PRI) 
+ |leader_title1          =  [[Chamber of Deputies of Mexico|Federal & nbsp;Deputies]] 
+ |leader_name1           =[[National Action Party (Mexico)|PAN]]: 5 < br > [[Institutional Revolutionary Party|PRI]]: 2 
+ |leader_title2          =[[Senate of Mexico|Federal & nbsp;Senators]] 
+ |leader_name2           = [[National Action Party (Mexico)|PAN]]: 2 < br > [[Institutional Revolutionary Party|PRI]]: 1 
+ |leader_title3          = 
+ |leader_name3           = 
+ |leader_title4          = 
+ |leader_name4           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       =  
+ |established_title2     =   
+ |established_date2      =  
+ |established_title3     =   
+ |established_date3      = 
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref                =  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = < br >  [[List of Mexican states by area|Ranked 3rd]] 
+ |area_total_km2           = 149982 < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ |area_urban_km2           = 
+ |area_urban_sq_mi         = 
+ |area_metro_km2           = 
+ |area_metro_sq_mi         = 
+ |area_blank1_title        = 
+ |area_blank1_km2          = 
+ |area_blank1_sq_mi        = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               =2005 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               = 2,495,200 ([[List of Mexican states by population|Ranked 17th]]) 
+ |population_density_km2         = 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_urban               = 
+ |population_density_urban_km2   = 
+ |population_density_urban_sq_mi = 
+ |population_blank1_title        = 
+ |population_blank1              = 
+ |population_density_blank1_km2 =    
+ |population_density_blank1_sq_mi = 
+ < !-- General information  --------------- > 
+ | timezone = [[Central Standard Time|CST]] 
+ | utc_offset = -6 
+ | timezone_DST = [[Central Daylight Time|CDT]] 
+ | utc_offset_DST = -5 
+ |coordinates = {{coord|27.3022|-102.0447|display=inline,title}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            =  
+ |elevation_ft           = 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             =[[Human Development Index|HDI]] (2004) 
+ |blank_info             =0.8284 -  < span style= " color:#090 " > high < /span > < br > [[List of Mexican states by HDI|Ranked 3rd]] 
+ |blank1_name            =[[ISO 3166-2]] 
+ |blank1_info            =MX-COA 
+ |blank2_name            =Postal abbr. 
+ |blank2_info            = Coah. 
+ |blank3_name            = 
+ |blank3_info            = 
+ |website                = [http://www.coahuila.gob.mx Coahuila State Government] 
+ |footnotes              =  
+ }} 
+ '''Coahuila''' is a [[state]] in north [[Mexico]]. About 2,500,000 people live there. Its [[capital (city)|capital]] is called  [[Saltillo]]. 
+ 
+ 
+ {{North-America-stub}} 
+ {{mexico}} 
+ 
+ [[Category:Coahuila| ]]

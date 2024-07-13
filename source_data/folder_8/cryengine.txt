@@ -1,0 +1,26 @@
+{{Infobox video game engine 
+ | name = CryEngine 
+ | screenshot =  
+ | logo = CryEngine Nex-Gen(4th Generation).png 
+ | logo caption =  
+ | caption = CryEngine 5.5 screenshot 
+ | developer = [[Crytek]] 
+ | released = {{Start date and age|2002|05|02}} < ref > {{cite web|url=http://www.crytek.com/news/news/?tx_ttnews%5Bpointer%5D=17 & tx_ttnews%5Btt_news%5D=76 & tx_ttnews%5BbackPid%5D=9 & cHash=e4dea47a80 |title=Crytek GmbH: Crytek announces its Game Engine CryENGINE |work=[[Wayback Machine]] |date=2008-11-15 |access-date=2016-10-30 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20081115062536/http://www.crytek.com/news/news/?tx_ttnews%5Bpointer%5D=17 & tx_ttnews%5Btt_news%5D=76 & tx_ttnews%5BbackPid%5D=9 & cHash=e4dea47a80 |archive-date=2008-11-15 }} < /ref > 
+ | latest release version = 5.6.7 < ref > {{cite web |url=https://www.cryengine.com/news/view/cryengine-5-6-7-hotfix-available-now  |title=CRYENGINE 5.6.7 hotfix available now |access-date=2020-07-30 |publisher=[[Crytek]]}} < /ref > 
+ | latest release date = {{Start date and age|2020|07|30}} 
+ | programming language = [[C++]] ([[Qt (software)|Qt]]), [[Lua (programming language)|Lua]], [[C Sharp (programming language)|C#]] 
+ | operating system =  
+ | platform = {{unbulleted list|[[Linux]]|[[Microsoft Windows]]|[[Nintendo Switch]] < ref > {{cite web|url=https://www.eurogamer.net/articles/2020-02-17-free-to-play-first-person-shooter-warface-is-now-available-on-switch|title=Free-to-play first-person shooter Warface is now available on Switch|publisher=[[Eurogamer]]|first=Matt|last=Wales|date=February 17, 2020|access-date=February 17, 2020}} < /ref > |[[PlayStation 3]]|[[PlayStation 4]] < ref > {{cite web|url=http://www.crytek.com/news/cryengine--3-equipped-for-development-on-sony-computer-entertainment--s-playstation-4 |title=CryENGINE® 3 Equipped for Development on Sony Computer Entertainment's PlayStation®4 |date=2013-07-06 |access-date=2013-07-24 |publisher=[[Crytek]] |url-status=dead |archive-url=https://web.archive.org/web/20130609043421/http://www.crytek.com/news/cryengine--3-equipped-for-development-on-sony-computer-entertainment--s-playstation-4 |archive-date=2013-06-09 }} < /ref > |[[PlayStation 5]]|[[Wii U]] < ref > {{cite web|url=http://www.computerandvideogames.com/307061/wii-u-gets-crytek-support-with-cryengine/|title=Wii U gets Crytek support with CryENGINE|date=2011-06-14|publisher=ComputersAndVideoGames.com|access-date=2012-09-08}} < /ref > |[[Xbox 360]]|[[Xbox One]] < ref > {{cite web |url=http://www.crytek.com/news/crytek--s-cryengine--3-already-primed-for-xbox-one-development|title=Crytek's CryENGINE® 3 Already Primed for Xbox One Development|date=2013-05-21|access-date=2013-07-24|publisher=[[Crytek]]}} < /ref > |[[Xbox Series X and Series S]]}} 
+ | license = [[Source-available]] [[commercial software]] with [[Royalty payment|royalty]] model for commercial use 
+ | website = {{URL|https://www.cryengine.com/}} 
+ | games list = List of CryEngine games 
+ }} 
+ 
+ '''CryEngine''' is a [[game engine]] designed by the [[Germany|German]] game developer [[Crytek]]. It has been used in games made by Crytek and other third-party games.  [[Ubisoft]], the current owner of the [[Far Cry|Far Cry franchise]], uses a modified version of CryEngine called the [[Dunia Engine]]. 
+ 
+ ==References== 
+ < references / > 
+ 
+ {{video-game-stub}} 
+ 
+ [[Category:Video game engines]]

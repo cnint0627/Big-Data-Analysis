@@ -1,0 +1,27 @@
+{{mergefrom|Aphelion}} 
+ {{mergefrom|Perihelion}} 
+ [[Image:Orbit.svg|thumb|250px|A diagram of Keplerian orbital elements.]] 
+ In [[astronomy]], an '''apsis''', plural ''apsides'' ([[International Phonetic Alphabet|IPA]]: /{{IPA|apsɪdɪːz}}/) is the point of greatest or least distance of the [[Ellipse|elliptical]] [[orbit]] of an [[astronomy|astronomical]] object from its center of attraction, which is generally the [[center of mass]] of the system. < ref name= " :0 " > {{cite web|url=http://dictionary.reference.com/browse/apsis|title=the definition of apsis|publisher=Dictionary.com}} < /ref > 
+ 
+ 
+ The point of closest approach is called the '''periapsis''' or '''pericentre''' and the point of farthest excursion is called the '''apoapsis''' ([[Greek language|Greek]] από, ''from'', which becomes απ before a vowel, and αφ before rough breathing), '''apocentre''' or '''apapsis''' (the latter term, although etymologically more correct, is much less used). A straight line drawn through the periapsis and apoapsis is the ''line of apsides''. This is the major axis of the [[ellipse]], the line through the longest part of the ellipse. 
+ 
+ Similar words are used to identify the body being orbited. The most common are '''perigee''' and '''apogee''', referring to orbits around the [[Earth]], and '''perihelion''' and '''aphelion''', referring to orbits around the [[Sun]] (Greek ‘ήλιος ''hēlios'' sun). During the [[Apollo program]], the terms '''pericynthion''' and '''apocynthion''' were used when referring to the [[moon]]. 
+ 
+ == Perihelion and aphelion == 
+ {{Main|Perihelion|Aphelion}} 
+ [[File:Aphelion (PSF).svg|thumb|300px|1. Planet at aphelion 2. Planet at perihelion 3. Sun]] 
+ The perihelion is the point in the [[orbit]] of an object that is nearest to the [[Sun]]. The aphelion is the point in the orbit of an object where it is farthest from the Sun. 
+ 
+ All planets, comets and asteroids in our solar system have approximately [[Ellipse|elliptical]] (a kind of non-circular) orbits. Thus, they all have a closest and a farthest point from the sun: a perihelion and an aphelion. [[Orbital eccentricity]] measures the flatness of the [[orbit]]. Any single revolution of a body around the sun is only approximately elliptical, because the [[precession]] of the perihelion prevents the orbit from being a simple closed curve such as an ellipse. This causes [[Milankovich cycle]]s.   
+ 
+ Earth comes closest to the sun every year around January 3. It is farthest from the sun every year around July 4. The difference in distance between Earth's nearest point to the sun in January and farthest point from the sun in July is {{convert|3.1|e6mi|abbr=unit}}. Earth is about {{convert|91.4|e6mi|abbr=unit}} from the Sun in early January, in contrast to about {{convert|94.5|e6mi|abbr=unit}} in early July. 
+ 
+ When Earth is closest to the Sun, it is [[winter]] in the [[northern hemisphere]] and [[summer]] in the [[southern hemisphere]]. Thus it is possible to see that Earth's distance from the Sun does not noticeably cause the [[season|seasons]] to change; the relatively minor effects of differences in distance is somewhat masked by the mainly oceanic southern hemisphere vs the half-continental northern hemisphere. Therefore, the Earth's seasons come and go mainly because Earth does not rotate with its axis exactly upright with respect to the plane of the Earth’s orbit around the sun. Earth's [[axial tilt]] is 23.5 degrees. This puts the Sun farther south in December and January, so the north has winter and the south has summer. Thus [[winter]] falls on that part of the globe where sunlight strikes least directly. [[Summer]] falls on that part of the globe where sunlight strikes most directly. 
+ 
+ ==References== 
+ {{reflist}} 
+ == Related pages == 
+ * [[Orbital inclination]] 
+ 
+ [[Category:Orbits]]

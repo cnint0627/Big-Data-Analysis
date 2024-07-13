@@ -1,0 +1,76 @@
+{{Drugbox 
+ | Watchedfields = changed 
+ < !--[[airbag]]-- > 
+ | verifiedrevid = 460026203 
+ | IUPAC_name = (±)-[2-[4-[(4-Chlorophenyl)phenylmethyl]-1-piperazinyl]ethoxy]acetic acid 
+ | image = Cetirizine structure.svg 
+ | width = 250px 
+ | image2 = Cetirizine-ball-and-stick.png 
+ | width2 = 250px 
+ < !-- Clinical data -- > 
+ | pronounce = {{IPAc-en|s|ɛ|ˈ|t|ɪr|ᵻ|z|iː|n}} 
+ | tradename = Zyrtec, Incidal, others 
+ | Drugs.com = {{drugs.com|monograph|cetirizine-hydrochloride}} 
+ | MedlinePlus = a698026 
+ | DailyMedID = Cetirizine 
+ | licence_EU = 
+ | licence_US = Cetirizine 
+ | pregnancy_AU = B2 
+ | legal_UK = GSL 
+ | legal_UK_comment = / & nbsp;P 
+ | legal_US = OTC 
+ | legal_US_comment = / & nbsp;Rx-only 
+ | legal_AU = Unscheduled 
+ | legal_CA = OTC 
+ |legal_status=OTC 
+ | routes_of_administration = [[Oral administration|By mouth]] 
+ < !-- Pharmacokinetic data -- > 
+ | bioavailability = Well-absorbed ( > 70%) < ref name= " pmid18781943 " > {{cite journal | vauthors = Chen C | title = Physicochemical, pharmacological and pharmacokinetic properties of the zwitterionic antihistamines cetirizine and levocetirizine | journal = Curr. Med. Chem. | volume = 15 | issue = 21 | pages = 2173–91 | year = 2008 | pmid = 18781943 | doi = 10.2174/092986708785747625}} < /ref > 
+ | protein_bound = 88–96% < ref name= " pmid18781943 "  / > 
+ | metabolism = Minimal (non-[[cytochrome P450]]-mediated) < ref name= " pmid14680442 " > {{cite journal | vauthors = Portnoy JM, Dinakar C | title = Review of cetirizine hydrochloride for the treatment of allergic disorders | journal = Expert Opin Pharmacother | volume = 5 | issue = 1 | pages = 125–35 | year = 2004 | pmid = 14680442 | doi = 10.1517/14656566.5.1.125 | s2cid = 28946859 }} < /ref > < ref name= " pmid10384858 " > {{cite journal | vauthors = Simons FE, Simons KJ | title = Clinical pharmacology of new histamine H1 receptor antagonists | journal = Clin Pharmacokinet | volume = 36 | issue = 5 | pages = 329–52 | year = 1999 | pmid = 10384858 | doi = 10.2165/00003088-199936050-00003| s2cid = 21360079 }} < /ref > 
+ | onset = 20–42 minutes < ref name= " pmid10384858 "  / > 
+ | elimination_half-life = Mean: 8.3 hours < ref name= " pmid14680442 "  / > < ref name= " pmid10384858 "  / > < br / > Range: 6.5–10 hours < ref name= " pmid12517581 " > {{cite journal | vauthors = Simons FE | title = Comparative pharmacology of H1 antihistamines: clinical relevance | journal = Am. J. Med. | volume = 113 Suppl 9A | issue = 9| pages = 38S–46S | year = 2002 | pmid = 12517581 | doi = 10.1016/s0002-9343(02)01436-5}} < /ref > 
+ | duration_of_action = ≥24 hours < ref name= " pmid12517581 "  / > 
+ | excretion = [[Urine]]: 70–85% < ref name= " pmid14680442 "  / > < br / > [[Feces]]: 10–13% < ref name= " pmid14680442 "  / > 
+ < !-- Identifiers -- > 
+ | CAS_number_Ref = {{cascite|correct|??}} 
+ | CAS_number = 83881-51-0 
+ | ATC_prefix = R06 
+ | ATC_suffix = AE07 
+ | ATC_supplemental = {{ATC|S01|GX12}} 
+ | PubChem = 2678 
+ | IUPHAR_ligand = 1222 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB00341 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 2577 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = YO7261ME24 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = D07662 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 3561 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 1000 
+ < !-- Chemical data -- > 
+ | C=21 | H=25 | Cl=1 | N=2 | O=3 
+ | SMILES = Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)CCOCC(=O)O 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C21H25ClN2O3/c22-19-8-6-18(7-9-19)21(17-4-2-1-3-5-17)24-12-10-23(11-13-24)14-15-27-16-20(25)26/h1-9,21H,10-16H2,(H,25,26) 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = ZKLPARSLTMPFCP-UHFFFAOYSA-N 
+ | synonyms = 
+ }} 
+ '''Cetirizine''', sold under the [[trademark|brand]] name '''Zyrtec''' and others, is an [[antihistamine]] medication used to treat [[allergy|allergies]]. It is taken by mouth. It starts working within an hour and it lasts for about a day. < ref name=BNF76/ >  It works as well as other antihistamines like [[diphenhydramine]]. < ref name=AHFS2019/ > 
+ 
+ Common [[side effect]]s are [[sleep|sleepiness]], [[dry mouth]], [[headache]], and a [[abdominal pain]]. < ref name=AHFS2019/ >  There is less sleepiness than in [[first generation antihistamine]]s. < ref name=BNF76/ >  [[Pregnant]] women can use it, but not women who are [[breastfeeding]]. < ref name=Preg2019 > {{cite web |title=Cetirizine Pregnancy and Breastfeeding Warnings|url=https://www.drugs.com/pregnancy/cetirizine.html |website=Drugs.com |access-date=3 March 2019 |language=en}} < /ref >  It works by blocking [[histamine]] at [[H1 receptor|H < sub > 1 < /sub >  receptors]], mostly outside of the [[brain]]. < ref name=AHFS2019 > {{cite web |title=Cetirizine Hydrochloride Monograph for Professionals |url=https://www.drugs.com/monograph/cetirizine-hydrochloride.html |website=Drugs.com |publisher=American Society of Health-System Pharmacists |access-date=3 March 2019 |language=en}} < /ref > 
+ 
+ It was [[patent]]ed in 1981, and was first used in 1987. < ref name=Fis2006 > {{cite book |last1=Fischer |first1=Jnos |last2=Ganellin |first2=C. Robin |title=Analogue-based Drug Discovery |date=2006 |publisher=John Wiley  &  Sons |isbn=9783527607495 |page=549 |url=https://books.google.com/books?id=FjKfqkaKkAAC & pg=PA549 |language=en}} < /ref > < ref name= " :0 " > {{cite patent | country = US | number = 4525358 | status = patent | title = 2-[4-(Diphenylmethyl)-1-piperazinyl]-acetic acids and their amides | gdate = 25 June 1985 | fdate = 17 May 1983 | pridate = YYYY-MM-DD | inventor = Baltes E, De Lannoy J, Rodriguez L | assign1 = UCB Pharmaceuticals, Inc. }} < /ref >  It is on the [[WHO Model List of Essential Medicines|World Health Organization's List of Essential Medicines]]. < ref name= " WHO22nd " > {{cite book | vauthors = ((World Health Organization)) | title = World Health Organization model list of essential medicines: 22nd list (2021) | year = 2021 | hdl = 10665/345533 | author-link = World Health Organization | publisher = World Health Organization | location = Geneva | id = WHO/MHP/HPS/EML/2021.02 | hdl-access=free }} < /ref >  It is available as a [[generic medication]]. < ref name=BNF76 > {{cite book|title=British national formulary : BNF 76|date=2018|publisher=Pharmaceutical Press|isbn=9780857113382|pages=279|edition=76}} < /ref >  It was the 67th most commonly [[prescription|prescribed]] medication in the United States in 2019, with over 11{{nbsp}}million prescriptions. < ref > {{cite web |title=The Top 300 of 2019 |url=https://clincalc.com/DrugStats/Top300Drugs.aspx |website=ClinCalc |access-date=16 October 2021}} < /ref > < ref > {{cite web | title=Cetirizine - Drug Usage Statistics | website=ClinCalc | url=https://clincalc.com/DrugStats/Drugs/Cetirizine | access-date=16 October 2021}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Antihistamines‎]] 
+ [[Category:Carboxylic acids]] 
+ [[Category:Organochlorides]] 
+ [[Category:Organonitrogen compounds]]

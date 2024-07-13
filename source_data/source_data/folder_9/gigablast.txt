@@ -1,0 +1,41 @@
+{{Infobox website 
+ | name         = Gigablast 
+ | logo         =  
+ | logocaption  =  
+ | screenshot   =  
+ | collapsible  =  
+ | collapsetext =  
+ | caption      =  
+ | url          = {{URL|https://www.gigablast.com}} 
+ | commercial   =  
+ | type         = [[Web search engine]] 
+ | registration = Optional 
+ | language     = English 
+ | num_users    =  
+ | content_license =  
+ | content_licence =  
+ | programming_language = [[C (programming language)|C]]/[[C++]] 
+ | owner           =  
+ | author          = Matt Wells 
+ | editor          =  
+ | launch_date     = {{Start date and age|2000}} 
+ | revenue         =  
+ | current_status  = Online 
+ | footnotes       =  
+ }} 
+ 
+ '''Gigablast''' is a small web search engine based in [[New Mexico]]. It was started by Matt Wells in 2000 and was part of [[Infoseek]]. 
+ 
+ In July 2013, the website's source code was released under the [[Apache License]]. < ref > {{cite web|title=Gigablast Now an Open Source Search Engine|url=http://www.prnewswire.com/news-releases/gigablast-now-an-open-source-search-engine-217624911.html|work=PR Newswire|accessdate=May 17, 2015|date=July 30, 2013}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * {{Official website|https://www.gigablast.com}} 
+ * [https://github.com/gigablast/open-source-search-engine Source code] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Search engines]]

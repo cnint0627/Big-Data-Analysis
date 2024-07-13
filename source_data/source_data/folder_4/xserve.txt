@@ -1,0 +1,10 @@
+[[Image:Xserve cluster NASA.jpg|thumb|A small Xserve cluster with an [[Xserve RAID]].]] 
+ The '''Xserve''' is a [[server (computing)|server]] made by [[Apple Inc.]] which started in [[2002]]. It was Apple's first server since the [[Apple Network Server]]s that they made in 1996. It first came with one or two [[PowerPC G4]] [[CPU|processors]]. Later, new [[PowerPC G5]] were added. Now, the server runs on two [[quad-core]] [[Intel]] [[Intel Nehalem (microarchitecture)|Nehalem]] CPUs. < ref > {{cite web|url=https://www.apple.com/|title=Apple|website=Apple}} < /ref > 
+ 
+ The Xserve can be used for many things, such as a [[file server]] and [[web server]]. It can even be used for [[high-performance computing]] [[computer program|application]]s using [[cluster (computing)|clustering]]—a dedicated cluster Xserve, the '''Xserve Cluster Node'''. This means there are many Xserves linked together so they can combine their power. For this, it was available without a [[video card]] or [[optical drive]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Apple hardware]] 
+ {{tech-stub}}

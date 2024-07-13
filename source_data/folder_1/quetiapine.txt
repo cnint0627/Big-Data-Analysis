@@ -1,0 +1,75 @@
+{{Infobox drug 
+ | Watchedfields = changed 
+ | verifiedrevid = 443404910 
+ | drug_name =  
+ | type =  
+ | IUPAC_name = 2-(2-(4-Dibenzo[''b'',''f''][1,4]thiazepine-11-yl-1-piperazinyl)ethoxy)ethanol 
+ | image = Quetiapine.svg 
+ | width = 250px 
+ | alt =  
+ | caption =  
+ | image2 = Quetiapine-from-xtal-3D-balls.png 
+ | width2 = 225px 
+ < !--Clinical data-- > 
+ | pronounce = {{IPAc-en|k|w|ᵻ|ˈ|t|aɪ|.|ə|p|iː|n}} {{respell|kwi|TY|ə-peen}} 
+ | tradename = Seroquel, Temprolide, others 
+ | Drugs.com = {{drugs.com|monograph|quetiapine-fumarate}} 
+ | MedlinePlus = a698019 
+ | licence_EU =  
+ | licence_US = Quetiapine 
+ | pregnancy_AU = B3 
+ | pregnancy_US = C 
+ | pregnancy_category =  
+ | legal_AU = S4 
+ | legal_CA = Rx-only 
+ | legal_US = Rx-only 
+ | legal_UK = POM 
+ | legal_status =  
+ | routes_of_administration = [[Oral administration|By mouth]] 
+ < !--Pharmacokinetic data-- > 
+ | bioavailability = 100% < ref name = Medscape / > 
+ | metabolism = [[Liver]] via CYP3A4-catalysed sulfoxidation to its active metabolite norquetiapine (N-desalkylquetiapine) < ref name = GG > {{cite book|last1=Brunton|first1=L|last2=Chabner|first2=B|last3=Knollman|first3=B|title=Goodman and Gilman's The Pharmacological Basis of Therapeutics|edition=12th|publisher=McGraw Hill Professional|year=2010|isbn=978-0071624428|url=https://books.google.com/books?id=bVUfAQAAQBAJ}} < /ref > 
+ | protein_bound = 83% < ref name=EMC > {{cite web|title=Quetiapine 25 mg film-coated tablets - Summary of Product Characteristics|date=January 2013|accessdate=20 October 2013|website=electronic Medicines Compendium|publisher=Sandoz|url=http://www.medicines.org.uk/emc/medicine/26575/SPC/Quetiapine+25+mg+film-coated+tablets/|url-status=dead|archiveurl=https://web.archive.org/web/20131020062812/http://www.medicines.org.uk/emc/medicine/26575/SPC/Quetiapine+25+mg+film-coated+tablets/|archivedate=20 October 2013|df=dmy-all}} < /ref > 
+ | elimination_half-life = 7 hours (parent compound); 9–12 hours (active metabolite, norquetiapine) < ref name = EMC/ > < ref name = DD > Truven Health Analytics, Inc. DrugPoint System (Internet) [cited 2013 Sep 18]. Greenwood Village, CO: Thomsen Healthcare; 2013. < /ref > 
+ | excretion = [[Kidney]] (73%), faeces (20%) < ref name=Medscape > {{cite web|title=quetiapine (Rx) - Seroquel, Seroquel XR|url=http://reference.medscape.com/drug/seroquel-xr-quetiapine-342984#10|website=Medscape Reference|publisher=WebMD|accessdate=11 October 2013|url-status=live|archiveurl=https://web.archive.org/web/20131020163700/http://reference.medscape.com/drug/seroquel-xr-quetiapine-342984#10|archivedate=20 October 2013}} < /ref > < ref name = EMC/ > < ref name = DD / > < ref name=DM > {{cite web|title=QUETIAPINE FUMARATE tablet QUETIAPINE FUMARATE (quetiapine fumarate ) tablet [Ascend Laboratories, LLC]|website=DailyMed|publisher=Ascend Laboratories, LLC|date=October 2013|accessdate=26 November 2013|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3112a006-1c61-47f2-84f5-9a7670d09c9b|url-status=live|archiveurl=https://web.archive.org/web/20131202224630/http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3112a006-1c61-47f2-84f5-9a7670d09c9b|archivedate=2 December 2013}} < /ref > 
+ < !--Identifiers-- > 
+ | CAS_number_Ref = {{cascite|correct|??}} 
+ | CAS_number = 111974-69-7 
+ | ATC_prefix = N05 
+ | ATC_suffix = AH04 
+ | PubChem = 5002 
+ | IUPHAR_ligand = 50 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB01224 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 4827 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = BGL0JSY5SI 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = D08456 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 8707 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 716 
+ < !--Chemical data-- > 
+ | C = 21| H = 25| N = 3| O = 2| S = 1 
+ | molecular_weight = 383.5099 g/mol 
+ | SMILES = N\1=C(\c3c(Sc2c/1cccc2)cccc3)N4CCN(CCOCCO)CC4 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C21H25N3O2S/c25-14-16-26-15-13-23-9-11-24(12-10-23)21-17-5-1-3-7-19(17)27-20-8-4-2-6-18(20)22-21/h1-8,25H,9-16H2 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = URKOMYMAXPYINW-UHFFFAOYSA-N 
+ | solubility = 3.29 
+ }} 
+ '''Quetiapine''' (better known as '''Seroquel''') is an antipsychotic drug used to treat [[bipolar disorder]] and unipolar major [[depression (mental illness)|depression]], though it is used off-label for [[anxiety]] problems, [[Tourette syndrome]] and [[autism]] issues. The side effects of Quetiapine include [[fatigue]], dry mouth and being sleepy. The medication is sometimes used for [[PTSD]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ {{Hypnotics and sedatives}} 
+ 
+ 
+ {{med-stub}} 
+ 
+ [[Category:Drugs used in psychiatry]] 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:Organosulfur compounds]]

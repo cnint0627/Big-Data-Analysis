@@ -1,0 +1,111 @@
+{{Use American English|date=January 2019}} 
+ {{Use mdy dates|date=January 2019}} 
+ {{Infobox company 
+ | name = Thatgamecompany, Inc. 
+ | former_name = Thatgamecompany, LLC (2006–2012) 
+ | type = [[Privately held company|Private]] 
+ | foundation = {{Start date and age|2006|05|15}} 
+ | founders = {{Unbulleted list|[[Jenova Chen]]|[[Kellee Santiago]]}} 
+ | hq_location_city = [[Santa Monica]], [[California]] 
+ | hq_location_country = U.S. 
+ | key_people = Jenova Chen ([[President (corporate title)|president]], [[creative director]]) 
+ | area_served =  
+ | industry = [[Video game industry|Video games]] 
+ | products =  
+ | num_employees =  < 50 
+ | parent =  
+ | homepage = {{URL|http://thatgamecompany.com/}} 
+ }} 
+ 
+ '''Thatgamecompany, Inc.''' is an American independent [[video game]] development [[company]] founded by students [[Jenova Chen]] and [[Kelle Santiago]] in 2006. 
+ 
+ == History == 
+ In late 2005, Jenova Chen and Kellee Santiago, students of  the Interactive Media Program at the [[University of Southern California]]'s School of Cinematic Arts, began thinking about creating their own video game company. The two  had just released a video game—''Cloud''—that they had developed with several other students. < ref name= " :0 " > {{Cite web|title=thatgamecompany's Kellee Santiago|url=https://www.gamesindustry.biz/articles/thatgamecompanys-kellee-santiago-interview|access-date=2021-06-02|website=GamesIndustry.biz|language=en}} < /ref >  The game was a success. This circumstance allowed students to think about creating their own company. The games should evoke emotions in players.  < ref name= " :0 "  / >     
+ 
+ [[Digital distribution]] was popularity at the time. The two saw it as opportunity to create games without financial risk of [[retail]] distribution.  < ref name= " :0 "  / >  Thatgamecompany was founded on May 15, 2006, as Chen and Santiago finished their master's degrees. < ref > Santiago, Kellee (May 15, 2010).  " [https://web.archive.org/web/20110503210007/http://thatgamecompany.com/general/happy-4th-birthday-tgc/ Happy 4th Birthday, TGC] " . ''Thatgamecompany''. Archived from the original on May 3, 2011. < /ref >  The company soon signed a deal with Sony Computer Entertainment, which had been impressed by Chen's Flash game ''Flow''.     
+   
+ {{Multiple images 
+ | align = left 
+ | footer = Jenova Chen and Kellee Santiago, the founders of Thatgamecompany 
+ | footer_align = left 
+ | image1 = Jenova Chen - 2007.jpg 
+ | width1 = 125 
+ | image2 = Kellee Santiago - Game Developers Conference 2010 - Day 1.jpg 
+ | width2 = 140 
+ }} 
+ 
+ == Games == 
+ {| class= " wikitable sortable " 
+ |+ 
+ |- 
+ ! rowspan= " 2 "  scope= " col " | Title 
+ ! rowspan= " 2 "  scope= " col " | Year 
+ ! rowspan= " 2 "  scope= " col " | Publisher(s) 
+ ! colspan= " 8 "  scope= " col " | Platform(s) 
+ |- 
+ ! style= " width:3em; font-size:90% "  class= " unsortable "  | [[PlayStation 3|PS3]] 
+ ! style= " width:3em; font-size:90% "  class= " unsortable "  | [[PlayStation 4|PS4]] 
+ ! style= " width:3em; font-size:90% "  class= " unsortable "  | [[PlayStation Portable|PSP]] 
+ ! style= " width:3em; font-size:90% "  class= " unsortable "  | [[PlayStation Vita|PS Vita]] 
+ ! style= " width:3em; font-size:90% "  class= " unsortable "  | [[iOS]] 
+ ! style= " width:3em; font-size:90% "  class= " unsortable "  | [[Android (operating system)|Android]] 
+ ! style= " width:3em; font-size:90% "  class= " unsortable "  | [[Microsoft Windows|Windows]] 
+ ! style= " width:3em; font-size:90% "  class= " unsortable "  | [[Nintendo Switch|Switch]] 
+ |- 
+ !scope= " row "  | ''[[Flow (video game)|Flow]]'' 
+ | 2006 
+ | [[Sony Interactive Entertainment]] 
+ | {{Yes}} 
+ | {{Yes}} 
+ | {{Yes}} 
+ | {{Yes}} 
+ | {{No}} 
+ | {{No}} 
+ | {{Yes}} 
+ | {{No}} 
+ |- 
+ !scope= " row "  | ''[[Flower (video game)|Flower]]'' 
+ | 2009 
+ | Sony Interactive Entertainment < br / > [[Annapurna Interactive]] (iOS and PC) 
+ | {{Yes}} 
+ | {{Yes}} 
+ | {{No}} 
+ | {{Yes}} 
+ | {{Yes}} 
+ | {{No}} 
+ | {{Yes}} 
+ | {{No}} 
+ |- 
+ !scope= " row "  | ''[[Journey (2012 video game)|Journey]]'' 
+ | 2012 
+ | Sony Interactive Entertainment < br / > Annapurna Interactive (iOS and PC) 
+ | {{Yes}} 
+ | {{Yes}} 
+ | {{No}} 
+ | {{No}} 
+ | {{Yes}} 
+ | {{No}} 
+ | {{Yes}} 
+ | {{No}} 
+ |- 
+ !scope= " row "  | ''[[Sky: Children of the Light]]'' 
+ | 2019 
+ | Thatgamecompany 
+ | {{No}} 
+ | {{No}} 
+ | {{No}} 
+ | {{No}} 
+ | {{Yes}} 
+ | {{Yes}} 
+ | {{No}} 
+ | {{maybe|TBA 2021}} 
+ |} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Companies based in California]] 
+ [[Category:2006 establishments in the United States]] 
+ [[Category:American video game companies]]

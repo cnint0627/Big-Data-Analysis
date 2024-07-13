@@ -1,0 +1,119 @@
+[[File:Assorted polygons.svg|thumb|Polygons: open (excluding its boundary), boundary only (excluding interior), closed (including both boundary and interior), and self-intersecting]] 
+ A '''polygon''' is a closed [[two-dimensional]] [[shape]]. It is a [[Plane (mathematics)|plane]] figure that is made up of a number of sides. These are also called edges or [[Line segment|line segments]]. Each side is connected to another one by a corner, or [[vertex]]. Each pair of connected sides makes an [[angle]]. 
+ 
+ These sides and angles can be different from one another, or they can all be the same. Polygons made of only sides of the same length (equilateral) and angles the same width (equiangular) are called [[Regular polygon|regular polygons]]. 
+ 
+ A [[square (geometry)|square]] is a polygon because it has four sides. The smallest polygon in [[Euclidean geometry]] or  " flat geometry "  is the [[triangle]], which has three sides and three corners. On a [[sphere]], there can also be a [[digon]] and a [[henagon]]. 
+ 
+ If the edge lines of the polygon do not cross each other, the polygon is called ''simple''; otherwise it is ''complex''. 
+ 
+ In [[computer graphics]], polygons (especially triangles) are often used to make graphics. 
+ 
+ == Gallery == 
+ < gallery > 
+ Complex polygon.svg|A complex pentagon 
+ Simple polygon.png|A simple [[concave]] hexagon 
+ Heptagon2 (PSF).svg|A non-regular heptagon 
+ Irregular octagon.svg|A non-regular octagon 
+ Decagon (PSF).png|A non-regular decagon 
+ Regular polygon 99.svg|A enneacontakaienneagon (a polygon with 99 sides) 
+ < /gallery > 
+ 
+ == List of polygons == 
+ {|class= " wikitable " 
+ |- 
+ |+ '''Polygon names and miscellaneous properties''' 
+ |- 
+ !style= " width:20em; "  | Name 
+ !style= " width:2em; "  | Sides 
+ !style= " width:auto; "  | Properties 
+ |- 
+ |[[monogon]] || 1 || Not generally recognised as a polygon, < ref > Grunbaum, B.;  " Are your polyhedra the same as my polyhedra " , ''Discrete and computational geometry: the Goodman-Pollack Festschrift'', Ed. Aronov et al., Springer (2003), p. 464. < /ref >  although some disciplines such as graph theory sometimes use the term. < ref name= " hm96 " > {{citation 
+ | last1 = Hass | first1 = Joel 
+ | last2 = Morgan | first2 = Frank 
+ | doi = 10.1090/S0002-9939-96-03492-2 
+ | issue = 12 
+ | journal = Proceedings of the American Mathematical Society 
+ | jstor = 2161556 
+ | mr = 1343696 
+ | pages = 3843–3850 
+ | title = Geodesic nets on the 2-sphere 
+ | volume = 124 
+ | year = 1996| doi-access = free 
+ }} < /ref > 
+ |- 
+ |[[digon]] || 2 || Not generally recognised as a polygon in the Euclidean plane, although it can exist as a [[spherical polygon]]. < ref > Coxeter, H.S.M.; ''Regular polytopes'', Dover Edition (1973), p. 4. < /ref > 
+ |- 
+ |[[triangle]] (or trigon) || 3 || The simplest polygon which can exist in the Euclidean plane. Can [[triangular tiling|tile]] the plane. 
+ |- 
+ |[[quadrilateral]] (or tetragon) || 4 || The simplest polygon which can cross itself; the simplest polygon which can be concave; the simplest polygon which can be non-cyclic. Can [[square tiling|tile]] the plane. 
+ |- 
+ |[[pentagon]] || 5 ||  < ref name=namingpolygons/ >  The simplest polygon which can exist as a regular star. A star pentagon is known as a [[pentagram]] or pentacle. 
+ |- 
+ |[[hexagon]] || 6 ||  < ref name=namingpolygons/ >  Can [[hexagonal tiling|tile]] the plane. 
+ |- 
+ |[[heptagon]] (or septagon) || 7 ||  < ref name=namingpolygons/ >  The simplest polygon such that the regular form is not [[constructible polygon|constructible]] with [[compass and straightedge]]. However, it can be constructed using a [[Neusis construction]]. 
+ |- 
+ |[[octagon]] || 8 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[enneagon]] (or nonagon) || 9 ||  < ref name=namingpolygons/ >   " Nonagon "  mixes Latin [''novem'' = 9] with Greek;  " enneagon "  is pure Greek. 
+ |- 
+ |[[decagon]] || 10 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[hendecagon]] (or undecagon) || 11 ||  < ref name=namingpolygons/ >  The simplest polygon such that the regular form cannot be constructed with compass, straightedge, and [[angle trisector]]. 
+ |- 
+ |[[dodecagon]] (or duodecagon) || 12 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[tridecagon]] (or trisdecagon)|| 13 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[tetradecagon]] || 14 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[pentadecagon]] (or quindecagon) || 15 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[hexadecagon]] (or hexakaidecagon) || 16 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[heptadecagon]] (or septadecagon)|| 17 || [[Constructible polygon]] 
+ |- 
+ |[[octadecagon]] || 18 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[enneadecagon]] (or nonadecagon)|| 19 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[icosagon]] || 20 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[icositetragon]] (or icosikaitetragon) || 24 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[triacontagon]] || 30 ||  < ref name=namingpolygons/ > 
+ |- 
+ |[[tetracontagon]] (or tessaracontagon) || 40 ||  < ref name=namingpolygons/ > < ref name=Peirce/ > 
+ |- 
+ |[[pentacontagon]] (or pentecontagon) || 50 ||  < ref name=namingpolygons/ > < ref name =  " Peirce " > {{cite book| last = Peirce| first = Charles Sanders| title = The New Elements of Mathematics: Algebra and geometry| url = https://books.google.com/books?id=wALvAAAAMAAJ| year = 1976| publisher = Mouton Publishers| isbn = 978-0-391-00612-6| page = 298 }} < /ref > 
+ |- 
+ |[[hexacontagon]] (or hexecontagon) || 60 ||  < ref name=namingpolygons/ > < ref name=Peirce/ > 
+ |- 
+ |[[heptacontagon]] (or hebdomecontagon) || 70 ||  < ref name=namingpolygons/ > < ref name=Peirce/ > 
+ |- 
+ |[[octacontagon]] (or ogdoëcontagon) || 80 ||  < ref name=namingpolygons/ > < ref name=Peirce/ > 
+ |- 
+ |[[enneacontagon]] (or enenecontagon) || 90 ||  < ref name=namingpolygons/ > < ref name=Peirce/ > 
+ |- 
+ |[[hectogon]] (or hecatontagon) || 100 ||  < ref name= " namingpolygons " > {{cite book| last = Salomon| first = David| title = The Computer Graphics Manual| url = https://books.google.com/books?id=DX4YstV76c4C & pg=PA90| date = 2011| publisher = Springer Science  &  Business Media| isbn = 978-0-85729-886-7| pages = 88–90 }} < /ref > 
+ |- 
+ | [[257-gon]]  < !--please don't add a rarely used English name such as  " diacosipentecontaheptagon " : it is too long-- >  || 257 || [[Constructible polygon]] 
+ |- 
+ |[[chiliagon]] || 1,000 || Philosophers including [[René Descartes]], < ref name= " sepkoski " > {{cite journal|last=Sepkoski|first=David|title=Nominalism and constructivism in seventeenth-century mathematical philosophy|journal=Historia Mathematica|year=2005|volume=32|pages=33–59|url=http://people.uncw.edu/sepkoskid/docs/nomcon.pdf|access-date=18 April 2012|doi=10.1016/j.hm.2003.09.002|s2cid=120467581 |url-status=dead|archive-url=https://www.webcitation.org/67bBWvB5A?url=http://people.uncw.edu/sepkoskid/docs/nomcon.pdf|archive-date=12 May 2012}} < /ref >  [[Immanuel Kant]], < ref > {{cite book| last = Martin| first = Gottfried| title = Kant's Metaphysics and Theory of Science| url = https://books.google.com/books?id=MDe9AAAAIAAJ & pg=PA22| year = 1955| publisher = Manchester University Press| isbn = | page = 22 }} < /ref >  [[David Hume]], < ref > {{cite book| last = Hume| first = David| title = The Philosophical Works: Including All the Essays, and Exhibiting the More Important Alterations and Corrections in the Successive Ed. Publ| url = https://books.google.com/books?id=4uQBAAAAcAAJ & pg=PA101| year = 1826| publisher = Black and Tait| isbn = | page = 101 }} < /ref >  have used the chiliagon as an example in discussions. 
+ |- 
+ |[[myriagon]] || 10,000 || Used as an example in some philosophical discussions, for example in Descartes's ''[[Meditations on First Philosophy]]'' 
+ |- 
+ | [[65,537-gon]] < !--please don't add a rarely used English name such as  " hexacismyripentacischilipentacosiatriacontaheptagon " : it is too long-- >  || 65,537 || [[Constructible polygon]] 
+ |- 
+ |[[megagon]] < ref > {{cite book| last = Gibilisco| first = Stan| title = Geometry demystified| url = https://archive.org/details/geometrydemystif00stan| edition = Online-Ausg.| year = 2003| publisher = McGraw-Hill| location = New York| isbn = 978-0-07-141650-4| url-access = registration }} < /ref > < ref name =  " Darling " > {{cite book| last = Darling| first = David| title = The Universal Book of Mathematics: From Abracadabra to Zeno's Paradoxes| url = https://books.google.com/books?id=0YiXM-x--4wC & pg=PA249| year = 2004| publisher = Wiley| isbn = 978-0-471-66700-1| page = 249 }} < /ref > < ref > {{cite book| last = Dugopolski| first = Mark| title = College Algebra and Trigonometry| url = https://books.google.com/books?id=l8tWAAAAYAAJ| year = 1999| publisher = Addison-Wesley| isbn = 978-0-201-34712-8| page = 505 }} < /ref >  || 1,000,000 || As with René Descartes's example of the chiliagon, the million-sided polygon has been used as an illustration of a well-defined concept that cannot be visualised. < ref > {{cite book| last = McCormick| first = John Francis| title = Being, its division and causes| url = https://books.google.com/books?id=KyFHAAAAIAAJ| year = 1928| publisher = Loyola University Press| isbn = | page = 18 }} < /ref > < ref > {{cite book| last1 = Merrill| first1 = John Calhoun| last2 = Odell| first2 = S. Jack| title = Philosophy and Journalism| url = https://books.google.com/books?id=_aNZAAAAMAAJ| year = 1983| publisher = Longman| isbn = 978-0-582-28157-8| page = 47 }} < /ref > < ref > {{cite book| last = Hospers| first = John| title = An Introduction to Philosophical Analysis| url = https://books.google.com/books?id=OVu0CORmhL4C & pg=PA56| year = 1997| publisher = Psychology Press| isbn = 978-0-415-15792-6| page = 56 }} < /ref > < ref > {{cite book| last = Mandik| first = Pete| title = Key Terms in Philosophy of Mind| url = https://books.google.com/books?id=5yHtsM-NToYC & pg=PA26| year = 2010| publisher = A & C Black| isbn = 978-1-84706-349-6| page = 2010 }} < /ref > < ref > {{cite book| last = Kenny| first = Anthony| title = The Rise of Modern Philosophy: A New History of Western Philosophy| url = https://books.google.com/books?id=ehZGIy_ZYTgC & pg=PA124| year = 2006| publisher = Oxford University Press| isbn = 978-0-19-875277-6| page = 124 }} < /ref > < ref > {{cite book| last = BALMES| first = REV JAMES| title = FUNDAMENTAL PHILOSOPHY| url = https://books.google.com/books?id=MrwKHqw06hMC & pg=PA27| year = 1856| publisher = | isbn = | page = 27 }} < /ref > < ref > {{cite book| last = Potter| first = Vincent G.| title = On Understanding Understanding: A Philosophy of Knowledge| url = https://books.google.com/books?id=SnO1FKnJui4C & pg=PA86| year = 1993| publisher = Fordham University Press| isbn = 978-0-8232-1486-0| page = 86 }} < /ref >  The megagon is also used as an illustration of the convergence of [[regular polygon]]s to a circle. < ref > {{cite book| last = Russell| first = Bertrand| title = History of Western Philosophy| url = https://books.google.com/books?id=Ey94E3sOMA0C & pg=PA202| year = 2004| publisher = Psychology Press| isbn = 978-0-415-32505-9| page = 202 }} < /ref > 
+ |- 
+ |[[apeirogon]] || ∞|| A degenerate polygon of infinitely many sides. 
+ |} 
+ 
+ ==References== 
+ {{reflist}} 
+ {{shapes}} 
+ {{polygons}} 
+ [[Category:Polygons]] 
+ {{math-stub}}

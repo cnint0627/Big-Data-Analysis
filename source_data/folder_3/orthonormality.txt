@@ -1,0 +1,7 @@
+Two [[vector]]s in an [[inner product space]] are '''orthonormal''' if and only if they are [[orthogonal]] (perpendicular) and [[unit vector]]s. 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Linear algebra]] 
+ [[Category:Functions and mappings]]

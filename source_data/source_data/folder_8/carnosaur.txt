@@ -1,0 +1,69 @@
+{{Automatic taxobox 
+ | name = Carnosaurs 
+ | fossil_range = [[Jurassic]] – [[Cretaceous]] 
+ | image = Allosaurus SDNHM.jpg 
+ | image_width = 250px 
+ | image_caption = ''[[Allosaurus]]'': notice the arms, and the skull bones 
+ | taxon = Carnosauria}} 
+ 
+ '''Carnosaur'''s are a subgroup of the [[theropod]] [[dinosaurs]]. They are the [[clade]] '''[[Carnosaurus|Carnosauria]]'''. The term was once used very widely, but is now defined more narrowly. It is called by some authorities the '''Allosauroidea'''. < ref > Sereno P.C. 1999. The evolution of dinosaurs. ''Science'' '''284''' (5423): 2137–2147. < /ref > 
+ 
+ The group includes some of the main [[carnivores]] of the [[Jurassic]] and [[Cretaceous]] [[Period (geology)|periods]], such as ''[[Allosaurus]]'', ''[[Carcharodontosaurus]]'' and ''[[Neovenator]]''. Modern [[cladistics|cladistic analysis]] defines Carnosauria (or Allosauroidea) as those [[tetanuran]]s which share a more recent [[common ancestor]] with ''Allosaurus'' than with modern birds. < ref > Sereno P.C. 1998. A rationale for phylogenetic definitions, with application to the higher-level taxonomy of Dinosauria. ''Neues Jahrbuch für Geologie und Paläontologie Abhandlungen'' '''210''': 41–83 < /ref > 
+ 
+ Carnosaurs are characterized by several features. Some features must have been [[adaptations]] to their large size, such as their open [[skull]], made of struts rather than solid bone. They had  
+ large eyes and a long, narrow skull. The [[femur]] ( " thigh bone " ) is usually larger than the [[tibia]] ( " shin bone " ). This suggests close-to action was controlled by [[sight]].  
+ 
+ The legs are adapted for running, but not extremely so. They had strong arms, probably used to wrestle prey as the teeth bit in. The structure of an ''Allosaurus'' suggests a strongly-built general all-round predator. This is a different from a [[tyrannosaur]] like ''[[Albertosaurus]]'', which was better adapted for running on open ground. Tyrannosaurs, with their small two-fingered hands, would use their heads for killing prey, and for head-butting rivals. 
+ 
+ The idea that the group became extinct at the end of the Jurassic is refuted. < ref name=Benson/ >  It is now known that the Neovenatorid clade survived until the end of the [[Mesozoic]]. This group (see cladogram below) included  ''[[Aerosteon]]'', ''[[Australovenator]]'', ''[[Fukuiraptor]]'' and ''[[Neovenator]]''. 
+ 
+ == Classification == 
+ *'''Infraorder Carnosauria''' 
+ **''[[Erectopus]]'' 
+ **''[[Fukuiraptor]]'' 
+ **''[[Gasosaurus]]''? 
+ **''[[Monolophosaurus]]'' 
+ **''[[Siamotyrannus]]'' 
+ **'''Superfamily [[Allosauroidea]]''' 
+ ***''[[Becklespinax]]''? 
+ ***''[[Megaraptor]]''? 
+ ***'''Family [[Allosauridae]]''' 
+ ****''[[Allosaurus]]'' 
+ ****''[[Antrodemus]]'' 
+ ****''[[Epanterias]]'' 
+ ****''[[Saurophaganax]]'' 
+ ***'''Family [[Carcharodontosauridae]]''' 
+ ****''[[Acrocanthosaurus]]''? 
+ ****''[[Carcharodontosaurus]]'' 
+ ****''[[Neovenator]]'' 
+ ****Subfamily [[Giganotosaurinae]] 
+ *****''[[Giganotosaurus]]'' 
+ *****''[[Mapusaurus]]'' 
+ *****''[[Tyrannotitan]]'' 
+ ***'''Family [[Sinraptoridae]]''' 
+ ****''[[Metriacanthosaurus]]'' 
+ ****''[[Sinraptor]]'' 
+ ****''[[Yangchuanosaurus]]'' 
+ 
+ == Cladogram == 
+ The [[cladogram]] presented here follows the 2010 analysis by Benson, Carrano and Brusatte. < ref name=Benson > {{cite journal | last1 = Benson | first1 = R.B.J | last2 = Carrano | first2 = M.T | last3 = Brusatte | first3 = S.L. | year = 2010 | title = A new clade of archaic large-bodied predatory dinosaurs (Theropoda: Allosauroidea) that survived to the latest Mesozoic | url = | journal = Naturwissenschaften | volume = 97 | issue = 1| pages = 71–78 | doi = 10.1007/s00114-009-0614-x | pmid=19826771 | bibcode=2010NW.....97...71B| s2cid = 22646156 }} < /ref > 
+ 
+ {{clade| style=font-size:100%;line-height:80% 
+ |label1='''Allosauroidea''' 
+ |1={{clade 
+    |1=[[Sinraptoridae]] 
+    |label2= 
+    |2={{clade 
+       |1=''[[Allosaurus]]'' 
+       |label2='''Carcharodontosauria''' 
+       |2={{clade 
+          |1=[[Carcharodontosauridae]] 
+          |2=[[Neovenatoridae]] 
+          }} 
+       }} 
+    }} 
+ }} 
+ == References == 
+ {{Reflist}} 
+ 
+ [[category:Carnosaurs| ]]

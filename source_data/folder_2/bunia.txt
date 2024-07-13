@@ -1,0 +1,137 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |name                   = Bunia 
+ |official_name          = ''Ville de Bunia'' 
+ |other_name             = 
+ |native_name            =   < !-- for cities whose native name is not in English -- > 
+ |nickname               =  
+ |settlement_type        = Provincial capital and city 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = Bunia.JPG  
+ |imagesize              = 250px 
+ |image_caption          = Bunia from the air, looking north toward the Nyakasanza district 
+ |image_flag             =  
+ |flag_size              = 
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           =  
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              =  
+ |mapsize                =  
+ |map_caption            =  
+ |image_map1             =  
+ |mapsize1               =  
+ |map_caption1           =  
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            = Democratic Republic of the Congo < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =left 
+ |pushpin_map_caption    =Location in Democratic Republic of the Congo 
+ |pushpin_mapsize       =250 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = [[Image:Flag of the Democratic Republic of the Congo.svg|25px]] [[Democratic Republic of the Congo]] 
+ |subdivision_type1      = [[Provinces of the Democratic Republic of the Congo|Province]] 
+ |subdivision_name1      = [[Ituri Province|Ituri]] 
+ |subdivision_type2      =  
+ |subdivision_name2      =  
+ |subdivision_type3      =  
+ |subdivision_name3      =  
+ |subdivision_type4      =  
+ |subdivision_name4      = 
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = Mayor 
+ |leader_name            = Ferdinand Fimbo Lebilye < ref > {{cite news |title=Ituri : les chefs de quartiers et des avenues achèvent un atelier de formation sur la gouvernance participative |url=https://acpcongo.com/ituri-les-chefs-de-quartiers-et-des-avenues-achevent-un-atelier-de-formation-sur-la-gouvernance-participative/ |access-date=7 August 2019 |work=ACP Média Puplic |agency=ACP |date=6 August 2019 |language=fr }}{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ |leader_title1          =   < !-- for places with, say, both a mayor and a city manager -- > 
+ |leader_name1           = 
+ |leader_title2          = 
+ |leader_name2           = 
+ |leader_title3          = 
+ |leader_name3           = 
+ |leader_title4          = 
+ |leader_name4           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       =  
+ |established_title2     =   < !-- Incorporated (town) -- > 
+ |established_date2      =  
+ |established_title3     =   < !-- Incorporated (city) -- > 
+ |established_date3      = 
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |area_footnotes           = 
+ |area_total_km2           = 57.6 < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ |area_urban_km2           = 
+ |area_urban_sq_mi         = 
+ |area_metro_km2           = 
+ |area_metro_sq_mi         = 
+ |area_blank1_title        = 
+ |area_blank1_km2          = 
+ |area_blank1_sq_mi        = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               =2012 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               =366126 
+ |population_density_km2         =auto 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_urban               = 
+ |population_density_urban_km2   = 
+ |population_density_urban_sq_mi = 
+ |population_blank1_title        = 
+ |population_blank1              = 
+ |population_blank2_title        = 
+ |population_blank2              = 
+ |population_density_blank1_km2 =    
+ |population_density_blank1_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               = [[Central Africa Time]] 
+ |utc_offset             = +2 
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ |coordinates            = {{coord|1|34|N|30|15|E|region:CD|display=inline}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            = 1277 
+ |elevation_ft           = 
+ |blank_name_sec1        = [[Köppen climate classification|Climate]] 
+ |blank_info_sec1        = [[Tropical savanna climate|Aw]] 
+ |blank_name_sec2        = [[Languages of the Democratic Republic of the Congo|National language]] 
+ |blank_info_sec2        = [[Swahili language|Swahili]] 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             = 
+ |blank_info             = 
+ |blank1_name            = 
+ |blank1_info            = 
+ |website                =  
+ |footnotes              =  
+ }} 
+ '''Bunia''' is a city in the [[Ituri Province]] of the [[Democratic Republic of the Congo]] (DRC) and the capital of [[Ituri Province|Ituri]] province. It was part of the [[Orientale Province]] until that province was split up into smaller provinces in 2015. As of 2012 it had an estimated population of 366,126. < ref > {{cite web|url=http://world-gazetteer.com/wg.php?x= & men=gcis & lng=en & des=wg & srt=npan & col=abcdefghinoq & msz=1500 & geo=-46 |title=Congo (Dem. Rep.): largest cities and towns and statistics of their population |publisher=World Gazetteer |access-date=January 21, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110522124252/http://world-gazetteer.com/wg.php?x= & men=gcis & lng=en & des=wg & srt=npan & col=abcdefghinoq & msz=1500 & geo=-46 |archive-date=May 22, 2011 }} < /ref > 
+ 
+ It lies at an elevation of 1275 & nbsp;m on a plateau about 30 & nbsp;km west of [[Lake Albert (Africa)|Lake Albert]] in the [[Albertine Rift]], and about 25 & nbsp;km east of the [[Ituri Forest]]. 
+ 
+ The city is at the center of the [[Ituri conflict]] between the [[Lendu]] and [[Hema people|Hema]]. In the [[Second Congo War]] the city and district were the scene of much fighting and many civilian deaths from this conflict, and related clashes between [[militia]]s and [[Uganda]]-based forces. Consequently, the city is the base of one of the largest [[MONUC|United Nations peace-keeping forces]] in Africa, and its headquarters in northeastern DRC. The area's natural resources include [[gold mine]]s over which militias and foreign forces have been fighting. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Cities in the Democratic Republic of the Congo]]

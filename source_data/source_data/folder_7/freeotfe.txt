@@ -1,0 +1,41 @@
+{{ infobox software 
+ | name                   = FreeOTFE 
+ | logo                   = FreeOTFE_logo.png 
+ | screenshot             = FreeOTFE.png 
+ | caption                = FreeOTFE on [[Microsoft Windows]] 
+ | developer              = Sarah Dean 
+ | released               = 2004 
+ | latest_release_version = 5.30 
+ | latest_release_date    = {{release date|2010|1|3}} 
+ | operating_system       = [[Microsoft Windows]] and [[Windows Mobile]] 
+ | programming_language   = [[C (programming language)|C]] and [[Delphi programming language|Delphi]] 
+ | language               = [[English language|English]], [[German language|German]], [[Spanish language|Spanish]], [[Italian language|Italian]], [[French language|French]], [[Czech language|Czech]], [[Greek language|Greek]], [[Croation language|Croation]] and [[Japanese language|Japanese]] 
+ | genre                  = [[Encryption]] 
+ | license                = [[Open source]] 
+ | website                = [http://www.FreeOTFE.org www.FreeOTFE.org] 
+ }} 
+ 
+ '''FreeOTFE''' is a [[free software|free]], [[open source]], [[computer program]] used to automatically [[encryption|encrypt]] and decrypt information stored on a [[hard disk]]. 
+ 
+ FreeOTFE was originally written for [[Microsoft Windows]] and was later copied to [[Windows Mobile]] (FreeOTFE4PDA). 
+ 
+ It can encrypt information using a large number [[algorithm]]s including [[Advanced Encryption Standard|AES]] (aka Rijndael), [[Blowfish (cipher)|Blowfish]], [[CAST6]], [[MARS]], [[RC6]], [[Serpent]] and [[Twofish]]. 
+ 
+ Sarah Dean is the developer of FreeOTFE. 
+ 
+ ==Related pages== 
+ * [[Encryption]] 
+ * [[Pretty Good Privacy]] (PGP) - Email encryption 
+ * [[PuTTY]] - SSH encryption 
+ 
+ == Other websites == 
+ * [http://www.FreeOTFE.org/ Official WWW site] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Cryptography]] 
+ [[Category:Microsoft Windows software]] 
+ [[Category:Free software]] 
+ [[Category:Secrecy]] 
+ [[Category:Computer security]]

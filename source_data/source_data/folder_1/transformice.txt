@@ -1,0 +1,71 @@
+{{Infobox VG 
+ | title     = Transformice 
+ | image     = 
+ | caption   =  
+ | developer = Atelier 801 
+ | publisher = Atelier 801 
+ | designer   = Tigrounette < br > Melibellule 
+ | engine    = [[Adobe Flash]] 
+ | released  = May 1, 2010 
+ | genre     = [[Massively multiplayer online game]] < br > [[Platform game]] 
+ | modes     = [[Multiplayer]] 
+ | platforms = [[Online]] < br > [[Microsoft Windows]] < br > [[macOS]] < br > [[Linux]] 
+ }} 
+ '''''Transformice''''' is a [[massively multiplayer online game]] that is available to play [[Online game|online]]. It is also a [[platform game]] and is [[free-to-play]]. It was created by Tigrounette and Melibellule on May 1, 2010. < ref name=Atelier801 > {{cite web|title=Atelier 801 company|url=http://www.moddb.com/company/atelier-801|work=Mod DB|publisher=DesuraNET Pty Ltd.|access-date=2 September 2012}} < /ref >  ''Transformice'' needs either a [[web browser]] running Adobe Flash Player 9.0+, Adobe AIR to use the official standalone or [[Steam (service)|Steam]] to play the game. In 2012, the game had 10 million accounts, < ref > {{Cite web |last=Forsans |first=Emmanuel |date=2012-02-08 |title=Transformice (Atelier 801) fête ses 10 millions de comptes (Transformice celebrates its 10 million accounts) |url=https://www.afjv.com/news/682_transformice.htm |access-date=2022-01-05 |website=AFJV |language=fr}} < /ref > < ref > {{Cite web |date=2012-02-20 |title=Transformice fête ses 10 millions de comptes (Transformice celebrates its 10 million accounts) |url=https://www.jeuxonline.info/actualite/34497/transformice-fete-10-millions-comptes |access-date=2022-01-05 |website=JeuxOnLine |language=fr}} < /ref >  60 million in 2015, < ref > {{Cite web |last1=Christin |first1=Melanie |last2=2015 |date=2015-05-27 |title=The Story of Transformice: the 60 million players indie game |url=https://www.gamedeveloper.com/business/the-story-of-transformice-the-60-million-players-indie-game |access-date=2022-01-05 |website=Game Developer |language=en}} < /ref >  70 million in 2017, < ref > {{Cite web |date=2017 |title=Story of an Indie Game with 70 Million Players: A 'Transformice' Postmortem |url=https://www.gdcvault.com/play/1024078/Story-of-an-Indie-Game |access-date=2022-01-05 |website=GDC Vault }} < /ref >  and 100 million in 2019. < ref > {{Cite web |title=Transformice Adventures |url=https://www.icomedia.eu/transformice-adventures/ |access-date=2022-01-05 |website=www.icomedia.eu}} < /ref > 
+ 
+ ==Gameplay== 
+ The aim of the game is to collect the cheese as a mouse and take it back to the mouse hole. Players control the mouse with the arrow keys. 
+ 
+ When a player gets the highest score on the scoreboard, they will become a shaman on the next map. The shaman helps other players get the cheese and bring it back to the hole. The shaman can make objects such as planks, boxes, anvils and balloons to create structures. 
+ 
+ Cheese can be used to buy clothes for the mouse. 
+ 
+ Players can win rewards such as titles, badges and clothes by completing tasks. 
+ 
+ ==Game modes== 
+ ''Transformice'' has different game modes. 
+ 
+ ===Transformice=== 
+ This is the normal mode of ''Transformice''. It has maps mostly made by players. 
+ 
+ ===Vanilla=== 
+ Vanilla is very similar to ''Transformice''. It only has official maps. 
+ 
+ ===Survivor=== 
+ In this mode, the shaman tries to kill the mice using cannonballs. 
+ 
+ ===Racing=== 
+ In this mode, players compete to finish maps as fast as possible. Shortcuts help finish the map quickly. 
+ 
+ ===Bootcamp=== 
+ Bootcamp levels are very hard. 
+ 
+ ===Defilante=== 
+ The map moves horizontally and players must keep up with it. There are points around the map and mice must collect as many as possible before getting the cheese and entering the hole. 
+ 
+ ===Module=== 
+ This mode has minigames made by other players using a [[programming language]] called [[Lua]]. There are over 40 official modules and over 70 semi-official modules. 
+ 
+ ===Village=== 
+ There is no objective in this game mode. The map looks like a village, with several [[non-player character]]s. Players use the village to chat, roleplay or trade. 
+ 
+ ==Development== 
+ The game was created by Melibellule (real name Mélanie Christin) < ref > {{cite web|url=http://www.melibellule.com/contact.php|title=Contact information for Melibellule|access-date=2011-04-14|url-status=dead|archive-url=https://web.archive.org/web/20101115080559/http://www.melibellule.com/contact.php|archive-date=2010-11-15}} (French) < /ref >  and Tigrounette (real name Jean-Baptiste Le Marchand). < ref > {{cite web|url=http://www.nordeclair.fr/Locales/Tourcoing/2011/10/12/success-souris-pour-transformice.shtml|title=Success souris pour Transformice ?|access-date=2012-06-03}} (French) < /ref > < ref > {{cite web|url=http://flash.mediabox.fr/index.php?%2Fuser%2F27704-tigrounette-labelette%2F|title=Adobe Flash / Flex  &  Actionscript: Training  &  Forums  >  Viewing profile: Tigrounette laBelette|access-date=2011-04-14|archive-date=2019-02-18|archive-url=https://web.archive.org/web/20190218052123/http://flash.mediabox.fr/index.php?%2Fuser%2F27704-tigrounette-labelette%2F|url-status=dead}} < /ref >  They met at work and became friends. Tigrounette had experience making games in the past and wanted Melibellule to make the artwork. Melibellule came up with the idea of a little mouse who had to get cheese and bring it back to the mouse hole as quickly as possible. 
+ 
+ After quitting their jobs, Melibellule and Tigrounette created the gaming company '''Atelier 801'''. They later made the games ''Run for Cheese!'', ''Bouboum'', ''Nekodancer'', ''Fortoresse'', ''Dead Maze'' and ''Tomb Rumble''. < ref name= " Atelier801 " / >  A sequel called ''Transformice Adventures'' is being made. < ref > {{Cite web |title='Transformice Adventures' Launches Kickstarter Campaign, Playable Demo - Trailer |url=http://worthplaying.com/article/2019/5/8/news/114188-transformice-adventures-launches-kickstarter-campaign-playable-demo-trailer/ |access-date=2022-01-05 |website=WorthPlaying |language=en}} < /ref > < ref > {{Cite web |date=2019-05-07 |title=Action RPG Transformice Adventures launches Kickstarter |url=https://www.inside-indie.org/action-rpg-transformice-adventures-launches-kickstarter/ |access-date=2022-01-05 |website=Inside Indie |language=en-US |archive-date=2022-01-05 |archive-url=https://web.archive.org/web/20220105152138/https://www.inside-indie.org/action-rpg-transformice-adventures-launches-kickstarter/ |url-status=dead }} < /ref > < ref > {{Cite web |last=Dawe |first=Liam |date=2019-04-26 |title=Multiplayer action-RPG 'Transformice Adventures' coming to Linux later this year |url=https://www.gamingonlinux.com/2019/04/multiplayer-action-rpg-transformice-adventures-coming-to-linux-later-this-year/ |access-date=2022-01-05 |website=GamingOnLinux |language=en}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ *[http://www.transformice.com Transformice website] 
+ *[https://store.steampowered.com/app/335240/Transformice/ Transformice on Steam] 
+ *[https://transformice.fandom.com/wiki/Transformice_Wiki Transformice Wiki] 
+ 
+ [[Category:2010 video games]] 
+ [[Category:Indie video games]] 
+ [[Category:Platform games]] 
+ [[Category:Windows games]] 
+ [[Category:Linux games]] 
+ [[Category:Online games]] 
+ [[Category:Massively multiplayer online role-playing games]]

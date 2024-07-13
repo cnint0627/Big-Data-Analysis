@@ -1,0 +1,25 @@
+{{sources|date=September 2013}} 
+ '''Microcode''' is the name for a number of [[instruction (computer science)|instruction]]s or [[data structure]]s which are involved in implementing higher-level [[machine language]] in many [[processor]]s, especially microprogrammed ones. Microcode is on memory that is very fast to access. When a machine level instruction needs to be executed, microcode tells the processor what electronic circuits should be used. When a new processor is designed, an [[engineer]] also writes the microcode for the instructions of machine language. This is called '''[[Microprogramming]]''', the resulting code is called a '''microprogram'''.  
+ 
+ In early processors, each instruction was hard-wired. This has several drawbacks, the most obvious is that correcting an error in processor design means that the processor needs to be replaced. < ref > {{Cite book|url=https://books.google.com/books?id=EjWV8J8CQEYC|title=Encyclopedia of Computer Science and Technology: Volume 28 - Supplement 13: AerosPate Applications of Artificial Intelligence to Tree Structures|last1=Kent|first1=Allen|last2=Williams|first2=James G.|date=1993-04-05|publisher=CRC Press|isbn=978-0-8247-2281-4|language=en}} < /ref >   < ref name=FogMicro > {{cite web |last1=Fog |first1=Agner |title=The microarchitecture of Intel, AMD and VIA CPUs |publisher=Technical University of Denmark |date=2017-05-02 |url=http://www.agner.org/optimize/microarchitecture.pdf |access-date=2018-04-08 |archive-date=2017-03-28 |archive-url=https://web.archive.org/web/20170328065929/http://agner.org/optimize/microarchitecture.pdf |url-status=live }} < /ref > 
+ 
+ 
+ ==Example== 
+ A processor should add two values, which are in [[register]]s A and B. 
+ 
+ # Configure the [[ALU]] for addition 
+ # Put the value of register A on one input of the ALU 
+ # Put the value of register B on one input of the ALU 
+ # After waiting a short time, to allow for the addition, the result needs to be copied into a register, which has not been used yet 
+ # The value of that register needs to be copied to register A 
+ # The next instruction needs to be fetched from memory 
+ 
+ Items 1-3, as well as  5-6, can be coded as one instruction. It is also possible to hard-wire the logic needed for this operation. This has the benefit of being faster, but the drawback that it no longer allows changes that might be needed later on.   
+ 
+ The concept of microprogramming was developed by Maurice Wilkes in 1951, using diode matrices for the memory element. 
+ 
+ ==References== 
+ {{reflist}} 
+ {{Tech-stub}} 
+ 
+ [[Category:Microprocessor design]]

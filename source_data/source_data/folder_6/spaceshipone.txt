@@ -1,0 +1,47 @@
+{|{{Infobox aircraft begin 
+   |name = SpaceShipOne 
+   |image = SpaceShipOne Flight 15P photo Don Ramey Logan.jpg 
+   |caption = SpaceShipOne after its flight into space, June 21, 2004. 
+ }}{{Infobox aircraft type 
+   |type = [[Spaceplane]] 
+   |manufacturer =[[Scaled Composites]] 
+   |designer = [[Burt Rutan]] 
+   |first flight = {{Start date|2003|05|20|df=y}} 
+   |retired = {{End date|2004|10|04|df=y}} 
+   |status = 
+   |primary user = [[Mojave Aerospace Ventures]] 
+   |produced = 
+   |number built = 1 
+   |unit cost = 
+   |developed from= 
+   |variants with their own articles = 
+   |developed into= [[SpaceShipTwo]] 
+ }} 
+ {{Infobox aircraft career 
+ |sole example of type?= Yes  < !-- REQUIRED only Y or N -- > 
+ |aircraft name        = REQUIRED IF STANDING ALONE < !-- Name given this aircraft (not its type). If no name given, use registration number, or however this individual aircraft is most usually identified -- > 
+ |other names          =  < !--Other names (nicknames, nose art names) this aircraft is known by-- > 
+ |construction number  =  < !-- manufacturer's construction number -- > 
+ |construction date    =  < !-- either roll-out date or span of time for lengthy projects, whichever seems more appropriate -- > 
+ |civil registration   =  < !-- any civil registrations carried by this aircraft -- > 
+ |military serial      =  < !-- any military serial numbers carried by this aircraft -- > 
+ |radio code           =  < !-- military radio codes where this is a commonly-used way of identifying this aircraft (eg. US, British, and German military aircraft of WWII -- > 
+ |first flight         =  < !-- date of first flight -- > 
+ |owners               =  < !-- owners or operators, whether private individuals, companies, or military services -- > 
+ |in service           =  < !-- time in military or revenue service, as a range of dates -- > 
+ |flights              =  < !-- number of flights made by this aircraft, usually only relevant for an aircraft no longer flying -- > 
+ |total hours          =  < !-- total number of hours flown by this aircraft, usually only relevant for an aircraft no longer flying -- > 
+ |total distance       =  < !-- total distance flown by this aircraft, usually only relevant for an aircraft no longer flying -- > 
+ |fate                 =  < !-- fate/disposition of this aircraft -- > 
+ |preservation         = [[National Air and Space Museum]]  < !-- where this aircraft is currently preserved (if it is) -- > 
+ }} 
+ |} 
+ '''SpaceShipOne'''  is a [[vehicle]] built to travel to the lower limits of [[outer space]]. It completed the first manned private [[spaceflight]] in 2004. That same year, it won the US$10 million [[Ansari X Prize]] and has not flown since winning. It was carried high into the air by a specially designed plane named [[Scaled Composites White Knight| " White Knight " ]]. Both vehicles were built and flown by [[Mojave Aerospace Ventures]]. This was a joint project between [[Paul Allen]] and [[Scaled Composites]], [[Burt Rutan]]'s flying machine company. Allen provided the money to build and fly SpaceShipOne, about US$25 million. 
+ 
+ Rutan has said that ideas about the project began as early as 1994. The full-time work towards the 2004 accomplishments took about three years. The vehicle first flew faster than the [[speed of sound]] on December 17, 2003. This date was also the one-hundredth [[anniversary]] of the [[Wright Brothers]]' historic first powered flight. SpaceShipOne's first official spaceflight, was piloted by [[Mike Melvill]]. A few days before that flight, the Mojave Air and Space Port was the first commercial spaceport licensed in the United States. A few hours after that flight, Melvill became the first licensed U.S. commercial [[astronaut]]. The overall project name was  " Tier One " . It has evolved into Tier 1b with a goal of taking a new, but similar ship's first paying passengers into space within the next few years. 
+ 
+ [[Category:Individual aircraft]] 
+ [[Category:Spacecraft]] 
+ 
+ 
+ {{tech-stub}}

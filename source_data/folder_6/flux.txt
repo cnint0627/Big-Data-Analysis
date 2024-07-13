@@ -1,0 +1,35 @@
+{{complex|date=April 2012}} 
+ {{about|''flux'' in science and mathematics}} 
+ 
+ '''Flux''' is a term in [[physics]] and [[mathematics]]. It is broadly defined as  " How much stuff goes through a thing "  (or into an area). The word  " flux "  is similar to  " flow " . 
+ 
+ For instance, imagine a [[butterfly net]]. The amount of air passing through the net is the flux. 
+ 
+ == Movement of substances == 
+ In the study of transport phenomena ([[heat]] transfer, [[mass]] transfer and [[fluid dynamics]]), '''flux''' is defined as flow per unit area, where flow is the movement of some quantity per time. < ref > {{cite book |first=R. Byron |last=Bird |author2=Stewart, Warren E. and Lightfoot, Edwin N. |year=1960 |title= Transport Phenomena |url=https://archive.org/details/transportphenome0000bird |publisher= Wiley |isbn=0-471-07392-X }} < /ref >  Flux, in this definition, is a [[vector (geometry)|vector]]. 
+   
+ There are many fluxes used in the study of transport phenomena. Each type of flux has its own distinct [[unit of measurement]] along with distinct physical constants. Six of the most common forms of flux from the transport literature are defined as: 
+ #''Momentum flux'', the rate of transfer of [[momentum]] across a unit area (N·s·m < sup > −2 < /sup > ·s < sup > −1 < /sup > ). (Newtonian fluid, [[viscosity|viscous flow]]) 
+ #''Heat flux'', the rate of [[heat]] flow across a unit area (J·m < sup > −2 < /sup > ·s < sup > −1 < /sup > ). ([[Fourier's Law]]) < ref > {{cite book |last= Carslaw |first=H.S. |author2=and Jaeger, J.C. |title= Conduction of Heat in Solids |url= https://archive.org/details/conductionofheat0000hsca |edition=2nd |year=1959 |publisher= Oxford University Press |isbn=0-19-853303-9 }} < /ref >  (This definition of heat flux fits Maxwell's original definition. < ref name=Maxwell > {{cite book |last=Maxwell |first= James Clerk |authorlink= James Clerk Maxwell |year=1892 |title= Treatise on Electricity and Magnetism|publisher= Oxford Clarendon Press |url=https://archive.org/details/treatiseonelectr02maxw }} < /ref > ) 
+ #''Chemical flux'', the rate of movement of molecules across a unit area (mol·m < sup > −2 < /sup > ·s < sup > −1 < /sup > ). ([[Fick's law of diffusion]]) 
+ #''Volumetric flux'', the rate of [[volume]] flow across a unit area (m < sup > 3 < /sup > ·m < sup > −2 < /sup > ·s < sup > −1 < /sup > ). ([[Darcy's law]]) 
+ #''Mass flux'', the rate of [[mass]] flow across a unit area (kg·m < sup > −2 < /sup > ·s < sup > −1 < /sup > ). (Either an alternate form of Fick's law that includes the molecular mass, or an alternate form of Darcy's law that includes the [[density]]). 
+ #''Radiative flux'', the amount of energy moving in the form of [[photons]] at a certain distance from the source per [[steradian]] per second (J·m < sup > −2 < /sup > ·s < sup > −1 < /sup > ). Used in [[astronomy]] to study and classify stars.  Also acts as a generalization of heat flux, which is equal to the radiative flux when restricted to the [[infrared]] spectrum. 
+ #''[[Magnetic flux]]'', the density of a magnetic field. 
+ 
+ == Electromagnetism == 
+ [[File:Flux diagram.png|right|280px|The flux visualized. The rings show the surface boundaries. The red arrows stand for the flow of charges, fluid particles, subatomic particles, photons, etc. The number of arrows that pass through each ring is the flux.]] 
+ 
+ In the field of [[electromagnetism]], flux is usually the [[integral]] of a [[Vector (spatial)|vector]] quantity over a finite surface. The result of this integration is a [[scalar (physics)|scalar]] quantity. < ref > {{cite book |first=Paul |last=Lorrain |author2= and Corson, Dale |year=1962 |title= Electromagnetic Fields and Waves |publisher=San Francisco, W. H. Freeman |url=https://archive.org/details/introductiontoel00cors }} < /ref >  The [[magnetic flux]] is thus the [[surface integral |integral]] of the magnetic [[vector field]] over a surface, and the [[electric flux]] is defined similarly. Using this definition, the flux of the [[Poynting vector]] over a specified surface is the rate at which electromagnetic energy flows through that surface. Confusingly, the Poynting vector is sometimes called the ''power flux'',  which is an example of the first usage of flux, above. < ref > {{cite book |first=Roald K. |last= Wangsness |year=1986 |title= Electromagnetic Fields |url=https://archive.org/details/electromagneticf0000wang |edition=2nd |publisher=Wiley |isbn=0-471-81186-6 }} p.357 < /ref >  It has units of [[watts]] per [[square metre]] (W/m < sup > 2 < /sup > ). 
+ 
+ == Related pages == 
+ *[[Fluid dynamics]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ ==Further reading== 
+ *{{cite journal |author=Stauffer P.H. |title= Flux flummoxed: a proposal for consistent usage |journal= Ground Water |year=2006 |volume= 44 |issue=2 |pages=125–128|doi= 10.1111/j.1745-6584.2006.00197.x |pmid= 16556188 |s2cid= 21812226 }} 
+ 
+ [[Category:Physical quantity]] 
+ [[Category:Mathematics]]

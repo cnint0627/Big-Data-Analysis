@@ -1,0 +1,45 @@
+{{complex|date=June 2012}} 
+ A '''triode''' (“valve” in [[British English]]) is a type of empty tube with wires in it ([[vacuum tube]]). It is not a vacuum tube [[diode]], which has only two wires [[electrode|(electrodes)]], but has a third electrode, called the [[grid]] between the 2 wires ([[cathode]] (electric thrower) and [[anode]] (electric eater)).  
+ 
+ == How the word is created == 
+ The word “triode” comes from the word parts “tri” (three) + “ode” (way, road).  
+ 
+ == How it works == 
+ When the cathode becomes hot, it gives out electricity particles ([[electron]]s). These electrons are then taken by the anode. This makes an electric movement (current), which is controlled by the grid. The grid “checks” how many electrons can pass through, and “eats” the extra ones. The grid lets the triode to be used as an electric amount changer ([[amplifier|amplifier)]]. 
+ 
+ The grid can also quickly change the amount of electrons it lets through, so it can also be part of an [[oscillator]] (wave thrower) and wave taker (detector).  
+ 
+ == History == 
+ Philipp Lenard created the “grid” idea in 1902 to make an electron taker. 
+ 
+ Then, the diode (Fleming valve) was created by John Ambrose Fleming in 1904. 
+ 
+ [[Lee De Forest]] and Robert von Lieben created the triode in 1908 from his original [[Audion]] diode of 1906. The triode is used as an [[amplifier]] (electric amount changer).  The name triode was created because people needed to know which kind of vacuum tube it is, rather than a [[diode]], [[tetrode]], or [[pentode]]. 
+ 
+ People wanted to talk to people far away. They used triodes to talk, by triode radio [[receiver]] < nowiki/ > s (wave takers) and triode radio [[transmitter]] < nowiki/ > s (wave throwers ). At first they only sent [[Morse code]] but better triodes later allowed talking by radio. 
+ 
+ The triode transmitters were so good that they replaced the crystal transmitters to make the new listening devices (earphones) 
+ 
+ This made the first way of talking far away, creating the beginning of radio [[broadcasting]] (sending [[radio wave]] < nowiki/ > s to many people) around 1920. This made far away telephones better. 
+ 
+ Then people at the “Bell Telephone” group made even better telephones that can catch waves that traveled about 800 miles. When they put the first long triode wave throwers in the (Atlantic) ocean (transcontinental telephone line) people were very happy 3 years after on January 25, 1915. 
+ 
+ Other people put the wave throwers in their creations, making very good things (television, public address systems, electric phonographs, and talking motion pictures) 
+ 
+ Then people started putting more wires inside, to 4 wires (tetrode, by Walter Schottky in 1916) to 5 wires (pentode, by Gilles Holst and Bernandus Dominicus Hubertus Tellegen in 1926).  
+ 
+ The triode was used in other devices (radios, televisions, and audio systems) until it was beaten by the super wave thrower (transistor), made in 1947, ending the time of the triode. 
+ 
+ Today triodes are used in wave throwing and hot making. Triodes are also starting to be used in good electric audio machines and music machines. They are also used in glow makers (vacuum florescent displays, (VFDs), and there are different types of glow makers, but all use triodes. 
+ 
+ == What it can be used for == 
+ Radios and telephones are also wave takers, so it is used in them. But it is too big, so from 1960 to 1969, the [[transistor]] has mostly replaced it. It is an ancestor of the [[transistor]]. It is still used in vacuum tube amplifiers. 
+ 
+ Today, the triode is still used in iPods and radios and heaters to heat and to take waves. 
+ 
+ == Other websites == 
+ * [http://www.cjseymour.plus.com/elec/valves/valves.htm  " Introduction to Thermionic Valves " ] {{Webarchive|url=https://web.archive.org/web/20070528141924/http://www.cjseymour.plus.com/elec/valves/valves.htm |date=2007-05-28 }} 
+ 
+ < !--  < ref name= > Seymour, Colin J. (September 1st, 2005) [http://www.cjseymour.plus.com/elec/valves/valves.htm  " Introduction to Thermionic Valves " ], Retrieved on October 6, 2010 < /ref >  For future use as a reference-- > 
+ 
+ [[Category:Electronic components]]

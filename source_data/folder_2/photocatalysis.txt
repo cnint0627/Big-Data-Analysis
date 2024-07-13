@@ -1,0 +1,39 @@
+'''Photocatalysis''' is using light as a [[catalyst]] to increase the rate of a photoreaction.  Most known photoreactions begin when light creates a [[free radical]] in the reaction system.  Light can have a lot of energy and is able to break chemical bonds.  For example some things fade or lose their color when left in sunlight. When light breaks the chemical bonds, free radicals are produced. A free radical is a [[molecule]], [[atom]] or an [[ion]] that needs an [[electron]]. The free radical will take electrons from other molecules or atoms and this starts [[chemical reaction]]s. < ref > [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/photocatalysis#:~:text=Photocatalysis%20is%20a%20photo-activated,have%20sufficiently%20high%20energy%20levels. https://www.sciencedirect.com/topics/earth-and-planetary-sciences/photocatalysis#:~:text=Photocatalysis%20is%20a%20photo-activated,have%20sufficiently%20high%20energy%20levels.] < /ref > 
+ 
+ == Terms and background == 
+ 
+ '''Photo'''- is a prefix showing that light is involved. 
+ '''Photolysis''' is when light cuts (breaks bonds) of a molecule. 
+ In a chemical reaction there are reactants also called [[reagent]]s that you begin with.  Once the reaction takes place you have products. In the example below [[methane]]  
+ (CH < sub > 4 < /sub > ) and [[oxygen]] (O < sub > 2 < /sub > ) are the reactants and [[carbon dioxide]] (CO < sub > 2 < /sub > ) and water (H < sub > 2 < /sub > O) are the products. 
+ 
+ ''CH < sub > 4 < /sub >  + 2O < sub > 2 < /sub >  → CO < sub > 2 < /sub >  + 2H < sub > 2 < /sub > O'' 
+ 
+ ==Catalysis== 
+ Catalysis is using a catalyst to change the rate of a chemical reaction.  For the reactants to become the products the reaction must overcome an energy barrier. This energy barrier is known as the activation energy (E < sub > a < /sub > ). For example, when you lit the methane gas you are providing the activation energy to burn(react).  
+ 
+ ==Rate== 
+ Rate is how fast or slow a chemical reaction happens. 
+ 
+ ==Catalyst== 
+ Catalyst is a substance present but not consumed in a reaction like the other reagents while increasing the rate of the reaction. The graph below shows the catalyst’s effect on the activation energy. The Y (vertical) axis shows the activation energy while the x (horizontal) axis shows the reaction over time.  With no catalyst present (black line) the reaction has a higher energy to overcome. In the presence of a catalyst (red line) the activation energy is reduced. 
+ < gallery > 
+ File:CatalysisScheme-en.svg|Activation Energy vs. Time 
+ < /gallery > 
+ 
+ ==Light== 
+ In a [[vacuum]] light travels at c, c= 2.99792458X108 m/s that’s 186,000 miles in one second. 
+ 
+ The up and down pattern is how we show light. The high points are called crests and the low are called troughs.  Light has three characteristics that we use to describe it.  [[Wavelength]] (λ) is the distance between two peaks that are next to each other. [[Frequency]] (ν) is the number of times a unit of light can pass by a point over time. [[Amplitude]] is the vertical distance between a peak and the next trough.   
+ < gallery > 
+ File:EM Spectrum Properties edit.svg|Electromagnetic Spectrum 
+ < /gallery > 
+ 
+ ==Research and uses== 
+ 
+ Photocatalysis is getting more attention from the scientific community due to the “green movement”   
+ An example of organometallic research is mimicking [[photosynthesis]]. Photosynthesis is the process that plants use to make sugar for food. Plants use only carbon dioxide gas from the air, water and sunlight. Plants actually have an organometallic molecule containing Mn that helps them perform this reaction.  Scientists hope to make an organometallic molecule that can make organic products like fuels using only carbon dioxide, water and light. If this process could be harnessed it could dramatically reduce pollution, because the carbon you make your fuel with is the carbon dioxide from the air.  
+ 
+ ==References== 
+ {{reflist}} 
+ [[Category:Chemical reactions]]

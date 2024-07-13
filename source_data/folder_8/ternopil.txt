@@ -1,0 +1,123 @@
+{{Infobox settlement 
+ < !--See Template:Infobox Settlement for additional fields that may be available-- > 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |name                   =Ternopil  < !-- at least one of the first two fields must be filled in -- > 
+ |official_name          =Тернопіль 
+ |other_name             = 
+ |native_name            =   < !-- For the Ukrainian name if different from the English name -- > 
+ |nickname               =  
+ |settlement_type        = City 
+ |total_type             =  < !-- to set a non-standard label for total area and population rows -- > 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = File:Тернопіль - Архікатедральний собор Непорочного Зачаття Пресвятої Богородиці - 07080278.jpg 
+ |imagesize              =  
+ |image_caption          =The Cathedral of the Immaculate Conception of The Blessed Virgin Mary (former Dominican Church) 
+ |image_flag             = Ternopil prapor.png 
+ |flag_size              = 
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           = Coat of arms of Ternopil.svg 
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              =  
+ |mapsize                =  
+ |map_caption            =  
+ |image_map1             =  
+ |mapsize1               =  
+ |map_caption1           =  
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            =Ukraine  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ |pushpin_map_caption    =Location within Ukraine 
+ |pushpin_mapsize        = 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = [[Ukraine]] 
+ |subdivision_type1      = [[Administrative divisions of Ukraine|Oblast]] 
+ |subdivision_name1      = [[Ternopil Oblast]] 
+ |subdivision_type2      = Municipality 
+ |subdivision_name2      = Ternopil City 
+ |subdivision_type3      =  
+ |subdivision_name3      =  
+ < !-- Smaller parts (e.g. boroughs of a city) and seat of government -- > 
+ |seat_type              = 
+ |seat                   = 
+ |parts_type             = 
+ |parts_style            =  < !-- =list (for list), coll (for collapsed list), para (for paragraph format) 
+                                Default is list if up to 5 items, coll if more than 5-- > 
+ |parts                  =  < !-- parts text, or header for parts list -- > 
+ |p1                     = 
+ |p2                     =  < !-- etc. up to p50: for separate parts to be listed-- >   
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           =Mayor 
+ |leader_name            =Serhiy Nadal ([[All-Ukrainian Union  " Svoboda " ]]) < ref > {{in lang|uk}} [http://www.pravda.com.ua/news/2011/12/28/6872678/ Мер Тернополя продає побачення з собою], [[Ukrayinska Pravda]] (28 December  2011) < /ref > 
+ |leader_title1          =   < !-- for places with, say, both a mayor and a city manager -- > 
+ |leader_name1           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       =  
+ < !-- Area    --------------------- > 
+ |unit_pref                =  < !--Enter: Imperial, to display imperial  before metric-- > 
+ |area_footnotes           = 
+ |area_total_km2           =72  < !-- ALL fields with measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on unit conversion-- > 
+ |area_water_km2           = 
+ |area_total_sq_mi         =27.8 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ < !-- Elevation -------------------------- > 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            =  
+ |elevation_ft           = 
+ |elevation_max_m            =  
+ |elevation_max_ft           = 
+ |elevation_min_m            =  
+ |elevation_min_ft           = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               =2010 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               =218641 
+ |population_density_km2         =3831  < !--For automatic calculation, any density field may contain: auto -- > 
+ |population_density_sq_mi       = 
+ < !-- General information  --------------- > 
+ |timezone               = [[Eastern European Time|CET]] 
+ |utc_offset             = +2 
+ |timezone_DST           = [[Eastern European Summer Time|CEST]] 
+ |utc_offset_DST         = +3 
+ |coor_type              =  < !-- can be used to specify what the coordinates refer to -- > 
+ |coordinates={{coord|49|34||N|25|36||E|region:UA|display=inline,title}} 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =  < !--  Postal code -- > 
+ |postal_code            = 
+ |area_code              =+380 352 
+ |website                =  
+ |blank_name             = < !-- [[License plate|License plate]] -- > 
+ |blank_info             = 
+ |blank1_name            = 
+ |blank1_info            = 
+ |footnotes              =  
+ }} 
+ 
+ '''Ternopil''' ({{lang-uk|Тернопіль}}) is a city in western [[Ukraine]]. It is also the administrative centre of the Ternopil region. The city has about 245,000 inhabitants (2004) and lies on the [[Siret River]]. 
+ 
+ ==History== 
+ The city was part of the [[Austrian Habsburg Empire]] from 1772 until 1918, and it belonged to [[Poland]] before 1772. When the Austrain empire fell in 1918, Turnopil beccame part of the short-lived ZUNR (Western Ukrainian National Republic). After heavy battles between Polish troops and Ukrainian Galician Army troops, the city was occupied by Poland in 1920. However, it was only part of Poland for less than 20 years, and in September 1939, it was taken by Soviet troops and annexed to the USSR. Ternopil became part of the Ukrainian Soviet Socialist Republic. When the Soviet Union collapsed in 1991, it became a part of Independent Ukraine. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ {{multistub|geo|Europe}} 
+ 
+ [[Category:Cities in Ukraine]] 
+ [[Category:Ternopil Oblast]]

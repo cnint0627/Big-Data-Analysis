@@ -1,0 +1,99 @@
+{{Taxobox 
+ | name = Caniforms 
+ | fossil_range = [[Palaeocene]]{{fact|date=June 2013}}- Recent 
+ | image = Caniformia 2021 Montage.jpg 
+ | image_width = 200px 
+ | image_caption = 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Mammal]]ia 
+ | ordo = [[Carnivora]] 
+ | subordo = '''Caniformia'''  
+ | subordo_authority = Kretzoi, 1943 
+ | subdivision_ranks = [[Family (biology)|Families]] 
+ | subdivision = 
+ * [[Ailuridae]] (red pandas) 
+ * [[Amphicyonidae]] (bear-dogs, extinct) 
+ * [[Canidae]] (dogs and foxes) 
+ * [[Mephitidae]] (skunks and stink badgers) 
+ * [[Mustelidae]] (weasels, otters, badgers) 
+ * [[Odobenidae]] (walrus) 
+ * [[Otariidae]] (eared seals) 
+ * [[Phocidae]] (earless seals) 
+ * [[Procyonidae]] (raccoons, coatis, olingos) 
+ * [[Ursidae]] (bears) 
+ }} 
+ 
+ '''Caniformia''' is a suborder of the order [[Carnivora]]. It contains all the [[Canidae|dog]]-like mammals: Unlike the cat-like [[Feliformia]], these animals have claws that are unable to contract. This group contains bears, seals, and true dogs, and more.  
+ 
+ The other suborder of Carnivora is the cat-like [[Feliformia]]. 
+ 
+ == Classification == 
+ * Suborder '''Caniformia''' ( " dog-like " ) 
+ ** Family [[Canidae]]: Foxes, Wolves, and Dogs 
+ ** Family [[Ursidae]]: Bears 
+ ** Family [[Ailuridae]]: Red Panda 
+ ** Family [[Skunk|Mephitidae]]: Skunks 
+ ** Family [[Mustelidae]]: Weasels, Otters, and Badgers 
+ ** Family [[Procyonidae]]: Raccoons 
+ ** Superfamily [[Pinniped]]ia 
+ *** Family [[Walrus|Odobenidae]]: Walruses 
+ *** Family [[Eared seal|Otariidae]]: Eared seals 
+ *** Family [[Earless seal|Phocidae]]: Earless seals 
+ 
+ === Cladogram === 
+ {{clade | style=font-size:85%;line-height:85% 
+ | label1 =  & nbsp; & nbsp; & nbsp;Caniformia & nbsp; & nbsp; & nbsp; 
+ | 1 = {{clade 
+   | 1 = [[Amphicyonidae]]† 
+   | 2 = [[Canidae]] 
+   | label3 =  & nbsp; & nbsp; & nbsp;[[Arctoidea]] & nbsp; & nbsp; & nbsp; 
+   | 3 = {{clade 
+     | label1 =  & nbsp; & nbsp; & nbsp;[[Ursoidea]] & nbsp; & nbsp; & nbsp; 
+     | 1 = {{clade 
+       | 1 = [[Hemicyonidae]]† 
+       | 2 = [[Ursidae]] 
+       }} 
+      | 2 = {{clade 
+       | label1 = [[Pinnipedia]] 
+        | 1 = {{clade 
+         | 1 = [[Enaliarctidae]]† 
+         | 2 = {{clade 
+           | label1 =  & nbsp; & nbsp; & nbsp; 
+           | 1 = [[Phocidae]] 
+           | 2 = {{clade 
+             | label1 =  & nbsp; & nbsp; & nbsp; 
+             | 1 = [[Otariidae]] 
+             | 2 = [[Odobenidae]] 
+             }} 
+           }} 
+         }} 
+       | label2 =  & nbsp; & nbsp; & nbsp;[[Musteloidea]] & nbsp; & nbsp; & nbsp; 
+       | 2 = {{clade 
+         | label1 =  & nbsp; & nbsp; & nbsp; 
+         | 1 = [[Ailuridae]] 
+         | 2 = {{clade 
+           | label1 =  & nbsp; & nbsp; & nbsp; 
+           | 1 = [[Mephitidae]] 
+           | 2 = {{clade 
+             | label1 =  & nbsp; & nbsp; & nbsp; 
+             | 1 = [[Procyonidae]] 
+             | 2 = [[Mustelidae]] 
+             }} 
+           }} 
+         }} 
+       }} 
+     }} 
+   }} 
+ }} 
+ 
+ == Other websites == 
+ {{commonscat|Caniformia}} 
+ {{wikispecies}} 
+ * [http://taxonomicon.taxonomy.nl/TaxonTree.aspx?id=103313 Taxonomicon] 
+ 
+ 
+ {{biology-stub}} 
+ 
+ 
+ [[Category:Caniformia| ]]

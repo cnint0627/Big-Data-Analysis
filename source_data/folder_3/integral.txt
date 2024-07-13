@@ -1,0 +1,94 @@
+[[File:Integral as region under curve.svg|thumb|''Integration'' is about finding the surface ''s'', given ''a'', ''b'' and ''y = f(x)''. The formula for the integral from ''a'' & nbsp; to ''b'', graphed above, is: < br / > & nbsp;  & nbsp; Formula:  & nbsp;  < math > \int\limits_{a}^{b} f(x)\,dx < /math > ]] 
+ {{Wiktionary|integral}} 
+ 
+ [[File:Что такое интеграл Анимация.gif|thumb|What is the integral (animation)]] 
+ 
+ In [[calculus]], an '''integral''' is the [[Space (physics)|space]] under a [[graph]] of an [[equation]] (sometimes said as  " the [[area]] under a curve " ). An integral is the reverse of a [[derivative (mathematics)|derivative]], and integral calculus is the opposite of [[differential calculus]]. A '''derivative''' is the steepness (or  " slope " ), as the [[rate]] of change, of a curve. The word  " integral "  can also be used as an [[adjective]] meaning  " related to [[integer]]s " . 
+ 
+ The [[symbol]] for integration, in calculus, is:  < math > \textstyle \int_{\,}^{\,} < /math >  as a tall letter  " S " . < ref name= " :0 " > {{Cite web|date=2020-05-11|title=List of Calculus and Analysis Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/|access-date=2020-09-18|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Integral|url=https://mathworld.wolfram.com/Integral.html|access-date=2020-09-18|website=mathworld.wolfram.com|language=en}} < /ref > < ref name= " :1 " > {{Cite web|title=Integral calculus - Encyclopedia of Mathematics|url=https://encyclopediaofmath.org/wiki/Integral_calculus|access-date=2020-09-18|website=encyclopediaofmath.org}} < /ref > 
+ 
+ Integrals and derivatives are part of a branch of [[mathematics]] called [[calculus]]. The link between these two is very important, and is called the [[fundamental theorem of calculus]]. < ref name= " delta " > {{cite book |last=Barton |first= David |title=Delta Mathematics |year=2003 |publisher= Pearson Education |isbn=0-582-54539-0 |author2=Stuart Laird |chapter=16}} < /ref >  The theorem says that an integral can be reversed by a derivative, similar to how an addition can be reversed by a [[subtraction]]. 
+ 
+ Integration helps when trying to [[multiply]] units into a problem. For example, if a problem with [[wikt:rate|rate]],  < math > \left(\tfrac{\text{distance}}{\text{time}}\right) < /math > , needs an answer with just distance, one solution is to integrate with respect to time. This means multiplying in time to cancel the time in  < math > \left(\tfrac{\text{distance}}{\text{time}}\right)\times\text{time} < /math > . This is done by adding small slices of the rate graph together. The slices are close to zero in width, but adding them together indefinitely makes them add up to a whole. This is called a [[Riemann Sum|Riemann sum]]. 
+ 
+ Adding these slices together gives the [[equation]] that the first equation is the derivative of. Integrals are like a way to add many tiny things together by hand. It is like [[addition|summation]], which is adding  < math > 1+2+3+4....+n < /math > . The difference with integration is that we also have to add all the [[decimal]]s and [[fraction (mathematics)|fractions]] in between. < ref name= " delta " / > 
+ 
+ Another time integration is helpful is when finding the [[volume]] of a [[solid]]. It can add [[2D|two-dimensional]] (without width) slices of the solid together indefinitely—until there is a width. This means the object now has three dimensions: the original two and a width. This gives the volume of the [[three-dimensional]] object described. 
+ 
+ ==Methods of Integration== 
+ 
+ ===Antiderivative=== 
+ By the [[fundamental theorem of calculus]], the integral is the [[antiderivative]]. 
+ 
+ If we take the function  < math > 2x < /math > , for example, and anti-differentiate it, we can say that an integral of  < math > 2x < /math >  is  < math > x^2 < /math > . We say ''an'' integral, not ''the'' integral, because the antiderivative of a function is not unique. For example,  < math > x^2+17 < /math >  also differentiates to  < math > 2x < /math > .  
+ Because of this, when taking the antiderivative a constant C must be added. This is called an indefinite integral. This is because when finding the [[derivative]] of a function, constants equal 0, as in the function 
+ : < math > f(x) = 5x^2 + 9x + 15\, < /math > . 
+ : < math > f'(x) = 10x + 9 + 0\, < /math > . Note the 0: we cannot find it if we only have the derivative, so the integral is 
+ : < math > \int (10x + 9)\, dx = 5x^2 + 9x + C < /math > . 
+ 
+ ===Simple Equations=== 
+ 
+ A simple equation, such as  < math > y = x^2 < /math > , can be integrated with respect to x using the following technique. To integrate, you add 1 to the power ''x'' is raised to, and then divide ''x'' by the value of this new power. Therefore, integration of a normal equation follows this rule: 
+ < ref name= " :1 "  / > < math > \int_{\,}^{\,} x^n dx = \frac{x^{n+1}}{n+1} + C < /math > 
+ 
+ The  < math > dx < /math >  at the end is what shows that we are integrating ''with respect to x'', that is, as ''x'' changes. This can be seen to be the [[inverse]] of [[differentiation]]. However, there is a constant, C, added when integrating. This is called the constant of integration. < ref name= " :0 "  / >  This is required because differentiating an integer results in [[zero]], therefore integrating zero (which can be put onto the end of any integrand) produces an integer, C. The value of this integer would be found by using given conditions. 
+ 
+ Equations with more than one terms are simply integrated by integrating each individual term: 
+ 
+ < math > \int_{\,}^{\,} x^2 + 3x - 2 dx = \int_{\,}^{\,} x^2 dx + \int_{\,}^{\,} 3x dx - \int_{\,}^{\,} 2 dx = \frac{x^3}{3} + \frac{3x^2}{2} - 2x + C < /math > 
+ 
+ ===Integration involving e and ln=== 
+ 
+ There are certain rules for integrating using [[e (mathematical constant)|e]] and the [[Logarithm|natural logarithm]]. Most importantly,  < math > e^x < /math >  is the integral of itself (with the addition of a constant of integration): 
+ < ref name= " :1 "  / > < math > \int_{\,}^{\,}e^{x} dx = e^{x} + C < /math > 
+ 
+ The natural logarithm, ln, is useful when integrating equations with  < math > 1/x < /math > . These cannot be integrated using the formula above (add one to the power, divide by the power), because adding one to the power produces 0, and a division by 0 is not possible. Instead, the integral of  < math > 1/x < /math >  is  < math > \ln x < /math > : 
+ < math > \textstyle \int_{\,}^{\,}\frac{1}{x} dx = \ln x + C  < /math > < ref name= " :1 "  / > 
+ 
+ In a more general form: 
+ < math > \int_{\,}^{\,}\frac{f'(x)}{f(x)} dx = \ln {|f(x)|} + C  < /math > 
+ 
+ The two vertical bars indicated a [[absolute value]]; the sign (positive or negative) of  < math > f(x) < /math >  is ignored. This is because there is no value for the natural logarithm of negative numbers. 
+ 
+ == Properties == 
+ ===Sum of functions=== 
+ The integral of a sum of functions is the sum of each function's integral. that is, 
+ : < math > \int\limits_{a}^{b} [f(x) + g(x)]\, dx = \int\limits_{a}^{b} f(x)\, dx + \int\limits_{a}^{b} g(x)\, dx < /math > . 
+ The proof of this is straightforward: The definition of an integral is a limit of sums. Thus 
+ : < math > \int\limits_{a}^{b} [f(x) + g(x)]\, dx = \lim_{n \to \infty} \sum_{i=1}^n \left(f(x_i^*) + g(x_i^*)\right) < /math > 
+ : < math > = \lim_{n \to \infty} \sum_{i=1}^n f(x_i^*) + \sum_{i=1}^n g(x_i^*) < /math > 
+ : < math > = \lim_{n \to \infty} \sum_{i=1}^n f(x_i^*) + \lim_{n \to \infty} \sum_{i=1}^n g(x_i^*) < /math > 
+ : < math > = \int\limits_{a}^{b} f(x)\, dx + \int\limits_{a}^{b} g(x)\, dx < /math > 
+ Note that both integrals have the same limits. 
+ 
+ ===Constants in integration=== 
+ When a constant is in an integral with a function, the constant can be taken out. Further, when a constant ''c'' is not accompanied by a function, its value is ''c'' * ''x''. That is, 
+ : < math > \int\limits_{a}^{b} cf(x)\, dx = c \int\limits_{a}^{b} f(x)\, dx < /math >  and 
+ This can only be done with a constant. 
+ : < math > \int\limits_{a}^{b} c\, dx = c(b-a) < /math > 
+ Proof is again by the definition of an integral. 
+ 
+ ===Other=== 
+ If a, b and c are in order (i.e. after each other on the x-axis), the integral of f(x) from point a to point b plus the integral of f(x) from point b to c equals the integral from point a to c. That is, < ref name= " :1 "  / > 
+ : < math > \int\limits_{a}^{b} f(x)\, dx + \int\limits_{b}^{c} f(x)\, dx = \int\limits_{a}^{c} f(x)\, dx < /math >   
+ :if they are in order. (This also holds when a, b, c are not in order if we define 
+ : < math > \textstyle \int\limits_{a}^{b} f(x) \,dx= -\int\limits_{b}^{a} f(x)\, dx < /math > .) 
+ : < math > \int\limits_{a}^{a} f(x)\, dx = 0 < /math > 
+ :This follows the [[fundamental theorem of calculus]] (FTC):  < math > F(a)-F(a) = 0 < /math > . 
+ : < math > \int\limits_{a}^{b} f(x)\, dx = -\int\limits_{b}^{a} f(x)\, dx < /math >   
+ :Again, following the FTC:  < math > F(b)-F(a) = -[F(a)-F(b)] < /math > . 
+ 
+ == Related pages == 
+ 
+ * [[Contour integral]] 
+ * [[Multiple integral]] 
+ * [[Numerical integration]] 
+ * [[Riemann sum]] 
+ * [[Surface integral]] 
+ 
+ ==References== 
+ {{reflist}} 
+ {{Calculus topics}} 
+ 
+ [[Category:Mathematical analysis]] 
+ [[Category:Calculus]]

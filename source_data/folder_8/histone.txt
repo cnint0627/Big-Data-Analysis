@@ -1,0 +1,83 @@
+[[File:Nucleosome structure.png|thumb|right|250px|Assembly of histones into a nucleosome]] 
+ '''Histones''' are [[protein]]s found in [[eukaryote|eukaryotic]] cell nuclei, which package the [[DNA]] into structural units called [[nucleosome]]s. < ref name= " Youngson " > {{cite book| last= Youngson| first= Robert M.| title= Collins dictionary of human biology| url= https://archive.org/details/collinsdictionar0000youn_t7n0| year= 2006| publisher= HarperCollins| location= Glasgow| isbn = 0-00-722134-7}} < /ref > < ref name= " Nelson & Cox " > {{cite book | author = Cox, Michael; Nelson, David R.; Lehninger, Albert L | authorlink = | title = Lehninger principles of biochemistry | edition = | language = | publisher = W.H. Freeman | location = San Francisco | year = 2005 | origyear = | pages = | quote = | isbn = 0-7167-4339-6 | oclc = | doi = | url = | accessdate = }} < /ref >  They are the chief protein components of [[chromatin]], the active component of [[chromosome]]s.  
+ 
+ Histones act as spools around which DNA winds, and play a role in [[gene regulation]]. Without histones, the unwound DNA in chromosomes would be very long. For example, each human cell has about 1.8 meters of DNA, but wound on the histones it has about 90 millimeters of chromatin, which, when duplicated and condensed during [[mitosis]], result in about 120 micrometers of chromosomes. < ref name= " pmid11893489 " > {{cite journal | author = Redon C, Pilch D, Rogakou E, Sedelnikova O, Newrock K, Bonner W | title = Histone H2A variants H2AX and H2AZ | journal = Curr. Opin. Genet. Dev. | volume = 12 | issue = 2 | pages = 162–9 |date=April 2002  | pmid = 11893489 | doi = 10.1016/S0959-437X(02)00282-4 | url = | issn = }} < /ref > 
+ 
+ == Functions == 
+ === Compacting DNA strands === 
+ Histones act as [[spool]]s around which DNA winds. This packs in the large [[genome]]s of [[eukaryote]]s to fit inside [[cell nuclei]]. The compacted molecule is 40,000 times shorter than an unpacked molecule. 
+ 
+ === Chromatin regulation === 
+ [[File:PDB 1kx3 EBI.jpg|thumb|right|250px|DNA on outside winding round histone on inside. View from top through helical axis]] 
+ Histones undergo changes which alter their interaction with DNA and nuclear proteins. Long-term changes in histone/DNA interaction cause [[epigenetic]] effects. Combinations of modifications are thought to constitute a code, the so-called ''histone code''. < ref name=pmid10638745 > {{cite journal |author=Strahl BD, Allis CD |title=The language of covalent histone modifications |journal=Nature |volume=403 |issue=6765 |pages=41–5 |date=Jan 2000 |pmid=10638745 |doi=10.1038/47412|bibcode=2000Natur.403...41S |s2cid=4418993 }} < /ref > < ref name=pmid11498575 > {{cite journal |author=Jenuwein T, Allis CD |title=Translating the histone code |journal=Science |volume=293 |issue=5532 |pages=1074–80 |date=Aug 2001 |pmid=11498575 |doi=10.1126/science.1063127|s2cid=1883924 }} < /ref >  Histone modifications act in diverse biological processes such as [[gene regulation]], [[DNA repair]] and chromosome condensation ([[mitosis]]). 
+ 
+ ==== Examples ==== 
+ Examples of histone modifications in [[Transcription (genetics)|transcription]] regulation include: 
+ 
+ {| class= " wikitable "  style= " text-align:center " 
+ |- 
+ !  rowspan= " 2 "  | Type of < br/ > modification 
+ ! colspan= " 7 "  | Histone 
+ |- 
+ ! H3K4 
+ ! H3K9 
+ ! H3K14 
+ ! H3K27 
+ ! H3K79 
+ ! H4K20 
+ ! H2BK5 
+ |- 
+ | mono-[[methylation]] 
+ | [[gene activation|activation]] < ref name= " Benevolenskaya_2007 " > {{cite journal | author = Benevolenskaya EV | title = Histone H3K4 demethylases are essential in development and differentiation | journal = Biochem. Cell Biol. | volume = 85 | issue = 4 | pages = 435–43 |date=August 2007  | pmid = 17713579 | doi = 10.1139/o07-057 | url =https://archive.org/details/sim_biochemistry-and-cell-biology_2007-08_85_4/page/435| issn = }} < /ref > 
+ | activation < ref name= " Barski_2007 " > {{cite journal | author = Barski A, Cuddapah S, Cui K, Roh TY, Schones DE, Wang Z, Wei G, Chepelev I, Zhao K | title = High-resolution profiling of histone methylations in the human genome | journal = Cell | volume = 129 | issue = 4 | pages = 823–37 |date=May 2007  | pmid = 17512414 | doi = 10.1016/j.cell.2007.05.009 | s2cid = 6326093 | url = | issn = }} < /ref > 
+ | 
+ | activation < ref name= " Barski_2007 " / > 
+ | activation < ref name= " Barski_2007 " / > < ref name= " Steger_2008 " > {{cite journal | author = Steger DJ, Lefterova MI, Ying L, Stonestrom AJ, Schupp M, Zhuo D, Vakoc AL, Kim JE, Chen J, Lazar MA, Blobel GA, Vakoc CR | title = DOT1L/KMT4 recruitment and H3K79 methylation are ubiquitously coupled with gene transcription in mammalian cells | journal = Mol. Cell. Biol. | volume = 28 | issue = 8 | pages = 2825–39 |date=April 2008  | pmid = 18285465 | pmc = 2293113 | doi = 10.1128/MCB.02076-07 | url = | issn = }} < /ref > 
+ | activation < ref name= " Barski_2007 " / > 
+ | activation < ref name= " Barski_2007 " / > 
+ |- 
+ | di-methylation 
+ |  
+ |[[gene repression|repression]] < ref name= " Rosenfeld_2009 " > {{cite journal | author = Rosenfeld JA, Wang Z, Schones DE, Zhao K, DeSalle R, Zhang MQ | title = Determination of enriched histone modifications in non-genic portions of the human genome | journal = BMC Genomics | volume = 10 | issue = | pages = 143 | year = 2009 | pmid = 19335899 | pmc = 2667539 | doi = 10.1186/1471-2164-10-143 | doi-access = free }} < /ref > 
+ |  
+ | repression < ref name =  " Rosenfeld_2009 " / > 
+ | activation < ref name= " Steger_2008 " / > 
+ | 
+ |  
+ |- 
+ | tri-methylation 
+ | activation < ref name= " Koch_2007 " > {{cite journal | author = Koch CM, Andrews RM, Flicek P, Dillon SC, Karaöz U, Clelland GK, Wilcox S, Beare DM, Fowler JC, Couttet P, James KD, Lefebvre GC, Bruce AW, Dovey OM, Ellis PD, Dhami P, Langford CF, Weng Z, Birney E, Carter NP, Vetrie D, Dunham I | title = The landscape of histone modifications across 1% of the human genome in five human cell lines | journal = Genome Res. | volume = 17 | issue = 6 | pages = 691–707 |date=June 2007  | pmid = 17567990 | pmc = 1891331 | doi = 10.1101/gr.5704207 | url = | issn = }} < /ref > 
+ | repression < ref name= " Barski_2007 " / > 
+ | 
+ | repression < ref name= " Barski_2007 " / > 
+ | activation, < ref name= " Steger_2008 " / > < br/ > repression < ref name= " Barski_2007 " / > 
+ |  
+ | repression < ref name= " Rosenfeld_2009 " / > 
+ |- 
+ | [[acetylation]] 
+ | 
+ | activation < ref name= " Koch_2007 " / > 
+ | activation < ref name= " Koch_2007 " / > 
+ |  
+ |  
+ |  
+ |  
+ |} 
+ 
+ ==History== 
+ Histones were discovered in 1884 by [[Albrecht Kossel]].  The word  " histone "  dates from the late 19th century and is from the German  " Histon " , of uncertain origin: perhaps from Greek ''histanai'' or from ''histos''. Until the early 1990s, histones were dismissed as merely packing material for nuclear DNA. During the early 1990s, the regulatory functions of histones were discovered. < ref name=pmid2171779 > {{cite journal |author=Hulton CS, Seirafi A, Hinton JC, Sidebotham JM, Waddell L, Pavitt GD, Owen-Hughes T, Spassky A, Buc H, Higgins CF |title=Histone-like protein H1 (H-NS), DNA supercoiling, and gene expression in bacteria |journal=Cell |volume=63 |issue=3 |pages=631–42 |date=Nov 1990  |pmid=2171779 |doi=10.1016/0092-8674(90)90458-Q |s2cid=44501388 }} < /ref > 
+ 
+ The discovery of the  H5 histone appears to date back to 1970's. < ref name= " pmid964248 " > {{cite journal | author = Crane-Robinson C, Dancy SE, Bradbury EM, Garel A, Kovacs AM, Champagne M, Daune M | title = Structural studies of chicken erythrocyte histone H5 | journal = Eur. J. Biochem. | volume = 67 | issue = 2 | pages = 379–88 |date=August 1976  | pmid = 964248 | doi = 10.1111/j.1432-1033.1976.tb10702.x| url = | issn = }} < /ref > < ref name= " pmid689022 " > {{cite journal | author = Aviles FJ, Chapman GE, Kneale GG, Crane-Robinson C, Bradbury EM | title = The conformation of histone H5. Isolation and characterisation of the globular segment | journal = Eur. J. Biochem. | volume = 88 | issue = 2 | pages = 363–71 |date=August 1978  | pmid = 689022 | doi = 10.1111/j.1432-1033.1978.tb12457.x| url = | issn = }} < /ref > 
+ 
+ == Conservation across species == 
+ Histones are found in the [[Cell nucleus|nuclei]] of [[eukaryote|eukaryotic]] [[cell (biology)|cells]], and in certain [[Archaea]], namely [[Euryarchaeota|Euryarchaea]], but not in [[bacteria]]. Histone proteins are among the most [[Conserved sequence|highly conserved proteins]] in eukaryotes, < ref > Means: few or no changes between species < /ref >  which suggests they are vital to the biology of the nucleus. < ref name= " Nelson & Cox " / > {{rp|939}} In contrast, mature sperm cells largely use [[protamines]] to package their genomic DNA, most likely to achieve an even higher packaging ratio. < ref name= " pmid1297351 " > {{cite journal | author = Clarke HJ | title = Nuclear and chromatin composition of mammalian gametes and early embryos | journal = Biochem. Cell Biol. | volume = 70 | issue = 10–11 | pages = 856–66 | year = 1992 | pmid = 1297351 | doi = 10.1139/o92-134| url = | issn = }} < /ref > 
+ 
+ Core histones are highly conserved proteins, that is, there are very few differences among the amino acid sequences of the histone proteins of different species. Linker histone usually has more than one form within a species and is also less conserved than the core histones. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ 
+ [[Category:Molecular biology]] 
+ [[Category:Cell biology]]

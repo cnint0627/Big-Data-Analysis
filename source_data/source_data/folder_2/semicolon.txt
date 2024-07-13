@@ -1,0 +1,32 @@
+[[Image:Semicolon.png|thumb|50px|A semicolon]] 
+ A '''semicolon''' is a [[punctuation]] mark. It looks like this: ''';''' 
+ 
+ ==Use in English== 
+ In the standard English language, a semicolon has only two uses.  First, to connect two [[independent clause]]s into a single sentence.  For example: 
+ " I could tell that it was getting late; it was growing darker by the second. " 
+ The second use of a semicolon is to separate items in a series when the items contain parenthetical elements within themselves.  For example: 
+ " The following crewmembers were on the bridge: James T. Kirk, captain of the 
+ Enterprise; Mr. Spock, first science officer; Mr. Sulu, helmsman; Mr. Scott, 
+ engineer; and Dr. McCoy, chief medical officer. " 
+ 
+ A semicolon is also used with a conjunctive adverb when joining two clauses.  In reality, this is the same as the first rule, but it looks different enough to sometimes cause concern. 
+ 
+ For example: 
+ " huzaifa, context in which all life exists; consequently, it is more than a political issue. " 
+ 
+ ==Use in Computer Programming== 
+ A semicolon is sometimes used in programming. In programming languages such as [[C (programming language)|C]], semicolons are used to separate logical statements. 
+ 
+ < syntaxhighlight lang= " C " > 
+ int main() { 
+   int x, y; 
+   x = 1; y = 2; 
+   printf( " X + Y = %d " , x + y); 
+   return 0; 
+ } 
+ < /syntaxhighlight > 
+ 
+ 
+ {{stub}} 
+ 
+ [[Category:Punctuation]]

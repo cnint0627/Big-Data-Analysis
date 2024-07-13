@@ -1,0 +1,163 @@
+{{Infobox French commune 
+ |name                    = Nontron 
+ |commune status          = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image flag              =  
+ |image flag size         =  
+ |image coat of arms      = Blason ville fr Nontron (Dordogne).svg 
+ |image coat of arms size =  
+ |city motto              =  
+ |image                   = Ville de Nontron.jpeg 
+ |caption                 = View of Nontron 
+ |map                     =  
+ |adjustable map          =  
+ |time zone               =  
+ |coordinates             = {{coord|45.5294|0.6619|format=dms|display=inline,title}} 
+ |arrondissement          = Nontron 
+ |canton                  = Périgord Vert Nontronnais 
+ |subdivisions entry      =  
+ |subdivisions            =  
+ |intercommunality        = Périgord Vert Nontronnais 
+ |mayor                   = Pascal Bourdeau < ref > {{cite web|url=https://www.nontron.fr/la-mairie/conseil-municipal/les-elus |title=Les élus |publisher=Nontron en Périgord Vert |language=French |accessdate=11 March 2015 |date= }} < /ref > 
+ |party                   =  
+ |term                    = 2014 & ndash;2020 
+ |elevation m             = 230 
+ |elevation min m         = 152 
+ |elevation max m         = 308 
+ |area km2                = 24.67 
+ |population demonym      = Nontronnais 
+ |population              = 3151 
+ |population ranking      =  
+ |population date         = 2014 
+ |urban area km2          =  
+ |urban area date         =  
+ |urban pop               =  
+ |urban pop date          =  
+ |metro area km2          =  
+ |metro area date         =  
+ |metro area pop          =  
+ |metro area pop date     =  
+ |INSEE                   = 24311 
+ |postal code             = 24300 
+ |website                 = [http://www.nontron.fr/ www.nontron.fr] 
+ }} 
+ '''Nontron''' ({{Lang-oc|Nontronh}}) < ref > {{cite web |url=http://communes-oc.cg24.fr/cantons/nontron/NONTRON.htm |title=Bergerac |publisher=Le nom occitan des communes du Périgord |language=French |accessdate=1 April 2015 |date= |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303171432/http://communes-oc.cg24.fr/cantons/nontron/NONTRON.htm |url-status=dead }} < /ref >  is a [[Communes of France|commune]] and a [[Prefectures in France|sub-prefecture]] of the [[Dordogne]] [[Departments of France|department]] in the [[Nouvelle-Aquitaine]] [[Regions of France|region]], southwestern [[France]]. It is the [[Capital (city)|capital]] of the northernmost ''arrondissement'' of the Dordogne department. 
+ 
+ The ''Nontronite'' is a [[mineral]] (a [[silicate mineral]]) rich in [[iron]] named after Nontron. 
+ 
+ ==Geography== 
+ Nontron has an area of {{Convert|24.67|km2|sqmi|abbr=on }} and its average [[altitude]] is {{Convert|230|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|200|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Nontron-24300/ |title=City of Nontron |publisher=Map-France.com |language= |accessdate=1 April 2015 |date= }} < /ref > 
+ 
+ The ''commune'' is in the centre of the '''Regional Natural Park Périgord Limousin''' ({{lang-fr|Parc naturel régional Périgord Limousin}}). 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Nontron and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 24311.png|350px|Map of the ''commune'' of Nontron]] 
+ |} 
+ < /center > 
+ 
+ Nontron is surrounded by the ''communes'' [[Le Bourdeix]], [[Augignac]], [[Savignac-de-Nontron]], [[Saint-Pardoux-la-Rivière]], [[Sceau-Saint-Angel]], [[Saint-Martial-de-Valette]] and [[Saint-Martin-le-Pin]]. 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Nontron 
+ |North     =  
+ |Northeast = [[Augignac]], < br / > [[Savignac-de-Nontron]] 
+ |East      =  
+ |Southeast = [[Saint-Pardoux-la-Rivière]] 
+ |South     = [[Sceau-Saint-Angel]] 
+ |Southwest = [[Saint-Martial-de-Valette]] 
+ |West      =  
+ |Northwest = [[Le Bourdeix]], < br / > [[Saint-Martin-le-Pin]] 
+ }} 
+ 
+ ==Population== 
+ The inhabitants of Nontron are known, in [[French language|French]], as ''Nontronnais'' (women: ''Nontronnaises''). < ref > {{cite web|url=http://www.habitants.fr/habitants_nontron_24311.html |title=Nontron (24300) |publisher=habitants.fr |language=French |accessdate=1 April 2015 |date= }} < /ref > 
+ 
+ With a population of 3,151 (2014), < ref name=insee > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep24.pdf |title=Régions, départements, arrondissements, cantons et communes |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=French |accessdate=11 March 2017|date= }} < /ref >  Nontron has a [[population density]] of {{Pop density|3151|24.67|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Nontron''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:4500 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:500 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:250 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2007 text:2007 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 3792 
+  bar:1975 from:0 till: 3954 
+  bar:1982 from:0 till: 3850 
+  bar:1990 from:0 till: 3558 
+  bar:1999 from:0 till: 3500 
+  bar:2007 from:0 till: 3458 
+  bar:2014 from:0 till: 3151 
+ 
+ PlotData= 
+  bar:1968 at: 3792 fontsize:S text: 3,792 shift:(-12,5) 
+  bar:1975 at: 3954 fontsize:S text: 3,954 shift:(-18,5) 
+  bar:1982 at: 3850 fontsize:S text: 3,850 shift:(-18,5) 
+  bar:1990 at: 3558 fontsize:S text: 3,558 shift:(-18,5) 
+  bar:1999 at: 3500 fontsize:S text: 3,500 shift:(-18,5) 
+  bar:2007 at: 3458 fontsize:S text: 3,458 shift:(-18,5) 
+  bar:2014 at: 3151 fontsize:S text: 3,151 shift:(-18,5) 
+ < /timeline > 
+ < /center > 
+ 
+ Nontron forms, together with [[Saint-Martial-de-Valette]], the [[urban area]] of Nontron with a population of 4,017 inhabitants (2013) and an area of {{Convert|40.4|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=UU2010-24109 |title=Unité urbaine de Nontron (24109) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=11 March 2017|date= }} < /ref >  This urban area is the centre of the [[metropolitan area]] of Nontron, formed by 5 ''communes'' with a population of 4,653 inhabitants (2013) and an area of {{Convert|78.7|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=AU2010-610|title=Aire urbaine de Nontron (610) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=11 March 2017|date= }} < /ref > 
+ 
+ ==Administration== 
+ Nontron is a [[Prefectures in France|subprefecture]] of the [[Dordogne]] and the capital of the ''arrondissement'' of [[Arrondissement of Nontron|Nontron]]. 
+ 
+ The ''commune'' is the [[administrative centre]] ({{lang-fr|chef-lieu}}) of the ''Périgord Vert Nontronnais'' [[Cantons of France|canton]] formed by 28 ''communes''. < ref > {{cite web|url=https://www.insee.fr/fr/metadonnees/cog/canton/CANTON2413-perigord-vert-nontronnais |title=Canton de Périgord Vert Nontronnais (2413) |publisher=Institut national de la statistique et des études économiques - INSEE |language=French |accessdate=11 March 2017 |date= }} < /ref > 
+ 
+ It is part of the [[Communes of France|intercommunality]] ''Périgord Vert Nontronnais'' ({{lang-fr|Communauté de communes du Périgord Nontronnais}}). 
+ 
+ ==Gallery== 
+ < center > 
+ < gallery widths=180px > 
+ File:Nontron château (7).jpg|Nontron [[castle]]. 
+ File:Nontron château (5).jpg|The ''Jardin des Arts'' next to the palace. 
+ File:Nontron, Place du Canton.JPG|''Place du Canton''. 
+ File:Nontron tour ronde.JPG|The round tower. 
+ < /gallery > 
+ < /center > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Nontron]] 
+ * [[Communes of the Dordogne department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat}} 
+ * [http://www.nontron.fr/ Ville de Nontron - Official site] {{in lang|fr}} 
+ * [http://www.dordogne.fr/ Departamental Council of Dordogne] {{in lang|fr}} 
+ * [http://www.dordogne.pref.gouv.fr/ Prefecture official website] {{in lang|fr}} 
+ * [https://www.nouvelle-aquitaine.fr/ Région Nouvelle-Aquitaine] {{in lang|fr}} 
+ 
+ [[Category:Subprefectures in France]] 
+ [[Category:Communes in Dordogne]]

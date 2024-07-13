@@ -1,0 +1,126 @@
+{{Infobox Italian comune  
+ | image_shield =  Scarlino-Stemma.gif 
+ | official_name = Comune di Scarlino  
+ | name = Scarlino  
+ | region = [[Tuscany]]  
+ |image_skyline=Scarlino.JPG 
+ | province = [[Province of Grosseto|Grosseto]] (GR)  
+ | elevation_m = 229  
+ | area_total_km2   = 88.38  
+ | population_as_of  = Dec. 2004 < ref name= " istat " > All demographics and other statistics: Italian statistical institute [[Istat]]. < /ref > 
+ | population_total = 3409  
+ | coordinates = {{coord|42|54||N|10|51||E|display=inline,title}} 
+ | frazioni          =  Scarlino Scalo, Il Puntone  
+ | area_code         = 0566  
+ | postal_code        = 58020  
+ | population_demonym          = Scarlinesi  
+ | saint             = St. Martin 
+ | day               = November 11 
+ | mayor             = Maurizio Bizzarri 
+ | website           = [http://www.comune.scarlino.gr.it/ www.comune.scarlino.gr.it]  
+ }} 
+ '''Scarlino''' is a ''comune'' (municipality) in the [[Province of Grosseto]] in the [[Italy|Italian]] region [[Tuscany]]. It is about {{convert|100|km|abbr=on}} southwest of [[Florence]] and about {{convert|25|km|abbr=on}} northwest of [[Grosseto]]. 
+ 
+ Scarlino borders the following municipalities: [[Castiglione della Pescaia]], [[Follonica]], [[Gavorrano]], [[Massa Marittima]]. 
+ 
+ == History == 
+ Scarlino was at first under the control of the [[Aldobrandeschi]] family, later under the bishops of [[Roselle]] and then the Alberti family. In the 13th century it was bought again by the Aldobrandeschi, but later it passed to [[Republic of Pisa|Pisa]] and then the [[Appiani]] of [[Piombino]]. 
+ 
+ Until the early 19th century, Scarlino was still a part of the [[Principality of Piombino]].  Later it became part of the [[Grand Duchy of Tuscany]]. 
+ 
+ == Important monuments and places in Scarlino == 
+ * Walls, built from the 11th century and fixed in the 13th century. 
+ * Rocca Aldobrandesca ( " Aldobrandeschi Castle " ), 
+ * Church and [[convent]] of San Donato. 
+ * Oratory of Santa Croce. 
+ * Church of San Martino (14th century). 
+ * Convent of Monte Muro. 
+ 
+ == Inhabitans == 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.8) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize  = width:455 height:303 
+ PlotArea   = left:50 bottom:50 top:30 right:30 
+ DateFormat = x.y 
+ Period     = from:0 till:4000 
+ TimeAxis   = orientation:vertical 
+ AlignBars  = justify 
+ ScaleMajor = gridcolor:darkgrey increment:1000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:200 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+   bar:1861 text:1861 
+   bar:1871 text:1871 
+   bar:1881 text:1881 
+   bar:1901 text:1901 
+   bar:1911 text:1911 
+   bar:1921 text:1921 
+   bar:1931 text:1931 
+   bar:1936 text:1936 
+   bar:1951 text:1951 
+   bar:1961 text:1961 
+   bar:1971 text:1971 
+   bar:1981 text:1981 
+   bar:1991 text:1991 
+   bar:2001 text:2001 
+ 
+ PlotData= 
+   color:barra width:20 align:left 
+ 
+   bar:1861 from: 0 till:1167 
+   bar:1871 from: 0 till:1367 
+   bar:1881 from: 0 till:1569 
+   bar:1901 from: 0 till:2091 
+   bar:1911 from: 0 till:2345 
+   bar:1921 from: 0 till:2707 
+   bar:1931 from: 0 till:2764 
+   bar:1936 from: 0 till:2928 
+   bar:1951 from: 0 till:3237 
+   bar:1961 from: 0 till:3157 
+   bar:1971 from: 0 till:2498 
+   bar:1981 from: 0 till:2507 
+   bar:1991 from: 0 till:2782 
+   bar:2001 from: 0 till:3136 
+ 
+ PlotData= 
+ 
+   bar:1861 at:1167 fontsize:XS text: 1167 shift:(-8,5) 
+   bar:1871 at:1367 fontsize:XS text: 1367 shift:(-8,5) 
+   bar:1881 at:1569 fontsize:XS text: 1569 shift:(-8,5) 
+   bar:1901 at:2091 fontsize:XS text: 2091 shift:(-8,5) 
+   bar:1911 at:2345 fontsize:XS text: 2345 shift:(-8,5) 
+   bar:1921 at:2707 fontsize:XS text: 2707 shift:(-8,5) 
+   bar:1931 at:2764 fontsize:XS text: 2764 shift:(-8,5) 
+   bar:1936 at:2928 fontsize:XS text: 2928 shift:(-8,5) 
+   bar:1951 at:3237 fontsize:XS text: 3237 shift:(-8,5) 
+   bar:1961 at:3157 fontsize:XS text: 3157 shift:(-8,5) 
+   bar:1971 at:2498 fontsize:XS text: 2498 shift:(-8,5) 
+   bar:1981 at:2507 fontsize:XS text: 2507 shift:(-8,5) 
+   bar:1991 at:2782 fontsize:XS text: 2782 shift:(-8,5) 
+   bar:2001 at:3136 fontsize:XS text: 3136 shift:(-8,5) 
+ 
+ TextData= 
+   fontsize:S pos:(20,20) 
+   text:Data from ISTAT 
+ 
+ < /timeline > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{Commonscat}} 
+ * [http://www.comune.scarlino.gr.it/ Official website] 
+ 
+ {{Province of Grosseto}} 
+ 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Towns in Grosseto]]

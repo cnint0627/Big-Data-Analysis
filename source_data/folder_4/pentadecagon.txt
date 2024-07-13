@@ -1,0 +1,27 @@
+{{Regular polygon db|Regular polygon stat table|p15}} 
+ A '''pentadecagon''' or '''quindecagon''' or '''15-gon''' is a [[Polygon|shape]] with 15 sides and 15 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular pentadecagon == 
+ All sides of a '''regular pentadecagon''' are the same length. Each corner is 156°. All corners added together equal 2340°. 
+ 
+ === Area === 
+ The amount of space a regular pentadecagon takes up is 
+ 
+ : < math > 
+  \begin{align} A = \frac{15}{4}a^2 \cot \frac{\pi}{15}  &  = \frac{15}{4}\sqrt{7+2\sqrt{5}+2\sqrt{15+6\sqrt{5}}}a^2 \\ 
+                   &  = \frac{15a^2}{8} \left( \sqrt{3}+\sqrt{15}+ 
+                                             \sqrt{2}\sqrt{5+\sqrt{5}}  
+                                      \right) \\ 
+                   &  \simeq 17.6424\,a^2. 
+  \end{align} < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ == Uses == 
+ [[File:3.10.15 vertex.png|160px]] < br > A regular triangle, decagon, and pentadecagon can completely [[Euclidean tilings of convex regular polygons#Other types of vertices in Euclidean plane tilings|fill a plane vertex]]. 
+ 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ 
+ [[Category:Polygons|15]]

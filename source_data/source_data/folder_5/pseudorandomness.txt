@@ -1,0 +1,33 @@
+'''Pseudorandomness''' is a process which has a result that seems to be random. Even if the result seems to be random, the process can be predicted. < ref name= " RandomArticle_Phys.NYT2001 " > {{Cite news|last=George Johnson|date=June 12, 2001|title=Connoisseurs of Chaos Offer A Valuable Product: Randomness|work=[[The New York Times]]|url=https://www.nytimes.com/2001/06/12/science/connoisseurs-of-chaos-offer-a-valuable-product-randomness.html}} < /ref > 
+ 
+ This near random process is important to [[online security]]. < ref name= " RandomARticle_ProofStake.ICap " > {{Cite web|title=The inherent flaws of Proof-of-Stake|url=https://iterative.capital/the-inherent-flaws-of-proof-of-stake/|url-status=dead|archive-url=https://web.archive.org/web/20220401065839/https://iterative.capital/the-inherent-flaws-of-proof-of-stake/|archive-date=2022-04-01|access-date=2023-02-21}} < /ref >  Because the result can be predicted, it is important that the  " ''[[Random seed|seed]],'' " (or first input) and the process are kept hidden. < ref > {{Cite news|last=Mark Ward|date=August 9, 2015|title=Web's random numbers are too weak, researchers warn|work=BBC|url=https://www.bbc.com/news/technology-33839925}} < /ref > 
+ 
+ == History == 
+ The creation of random numbers has many uses, mostly in [[statistics]], and [[Simulation|simulations]]. Before computers, researchers that needed random numbers would get them from [[dice]], [[Playing card|cards]], [[Roulette|roulette wheels]], < ref name= " :0 " > {{Cite web|last=|first=|first2=|date=January 2001|title=A Million Random Digits|url=http://www.rand.org/pubs/monograph_reports/MR1418/index2.html|archive-url=|archive-date=|access-date=2017-03-30|website=|publisher=RAND Corporation}} < /ref >   etc, or by [[random number tables]]. 
+ 
+ The first attempt to crate a large amount of random numbers was in 1927. This was when [[Cambridge University Press]] put out a list of 41,600 numbers made by [[L.H.C. Tippett]]. In 1947, the [[RAND Corporation]] created random numbers by simulating a roulette wheel using a computer. < ref name= " :0 " / >  The results were published in 1955 with the title of, '' " [[A Million Random Digits with 100,000 Normal Deviates]] " .'' 
+ 
+ == Unpredictability as  " near random "  == 
+ By using radioactive substances with [[radioactive decay]],  or by tuning a [[radio]] between stations, near random numbers can be created for short amounts of time. < ref name= " RandomArticle_Phys.NYT2001 " / >  The time needed to get these numbers led to a change. This was using these generated numbers as a  " seed "  instead of a result.  The less numbers created by this process, the more random the result would seem. Another compromise is to combine the timings between keystrokes of multiple people. < ref name= " RandomArticle.SS1998 " > {{Cite magazine|last=Jonathan Knudson|date=January 1998|title=Javatalk: Horseshoes, hand grenades and random numbers|magazine=Sun Server|pages=16–17}} < /ref > 
+ 
+ People's actions have been proven to be useful for [[Multi-factor Authentication|Multi-factor authentication]]. < ref > {{Cite web|last=Eze Vidra|date=November 6, 2007|title=Science Fiction? ClassifEye's Biometric Authentication for Cell Phones|url=https://www.vccafe.com/2007/11/06/science-fiction-classifeyes-biometric-authentication-for-cell-phones}} < /ref >  Also, studies have shown that pseudo random numbers can sometimes be predicted. This becomes more difficult when in small amounts. 
+ 
+ == In computational complexity == 
+ In [[theoretical computer science]], a [[distribution]] (set of numbers) is considered to be '''pseudorandom''' if it is similar enough to other sets. This idea of pseudorandomness is studied and has importance in [[cryptography]]. 
+ 
+ == Related pages == 
+ 
+ * [[Pseudorandom number generator]] 
+ * [[Random]] 
+ 
+ == References == 
+ < references / > 
+ 
+ == Further reading == 
+ 
+ * Donald E. Knuth (1997) ''The Art of Computer Programming, Volume 2: Seminumerical Algorithms (3rd edition)''. Addison-Wesley Professional, {{ISBN|0-201-89684-2}} 
+ * Oded Goldreich. (2008) ''[https://books.google.com/books?id=EuguvA-w5OEC Computational Complexity: a conceptual perspective]''. Cambridge University Press. {{ISBN|978-0-521-88473-0}}.   {{Font color|gray|'''(Limited preview at Google Books)'''}} 
+ * {{Cite journal|last=Vadhan|first=S. P.|year=2012|title=Pseudorandomness|journal=Foundations and Trends in Theoretical Computer Science|volume=7|issue=1–3|pages=1–336|doi=10.1561/0400000010|pmc=|pmid=}} 
+ 
+ * 
+ [[Category:Theoretical computer science]]

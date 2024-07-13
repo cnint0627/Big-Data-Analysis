@@ -1,0 +1,42 @@
+{{Infobox software 
+ | name                   =  
+ | title                  = Bugzilla 
+ | logo                   = Buggie new.png 
+ | logo caption           = '''Buggie''', Mascot of ''Bugzilla''. 
+ | screenshot             = BugzillaScreenshot.png 
+ | caption                =  
+ | collapsible            =  
+ | author                 = Terry Weissman 
+ | developer              = [[Gervase Markham]] < br > [[Mozilla Foundation]] 
+ | released               = {{Start date and age|1998|08|26}} < ref > {{cite web | url = http://groups.google.com/group/netscape.public.mozilla.announce/browse_thread/thread/b52aa841db9f7e9b/f10c0f781841f10d#f10c0f781841f10d | title = New version of  " Bugzilla "  (the mozilla.org bugsystem) – with source! | publisher = netscape.public.mozilla.announce | access-date = 2011-01-28 }} < /ref > 
+ | discontinued           =  
+ | latest release version = {{Latest stable software release/Bugzilla}} < !-- Release version update? Don't edit this page, just click on the version number! -- > 
+ | latest release date    =  < !-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -- > 
+ | latest preview version =  
+ | latest preview date    =  < !-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -- > 
+ | frequently updated     =  < !-- DO NOT include this parameter unless you know what it does -- > 
+ | programming language   = [[Perl]] 
+ | operating system       = [[Cross-platform]] 
+ | platform               =  
+ | size                   =  
+ | language               = [http://www.bugzilla.org/download/#localizations Multiple languages] 
+ | status                 =  
+ | genre                  = [[Bug tracking system]] 
+ | license                = [[Mozilla Public License]] 
+ | alexa                  =  
+ | website                = {{URL|http://www.bugzilla.org/}} 
+ }} 
+ '''Bugzilla''' is an internet software for recording bug reports. It is coded in CGI and is used by many programmers. It is [[open source|free]] for everyone to use without having to pay any [[money]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://bugzilla.org Official website] 
+ * [https://bugzilla.wikimedia.org Bugzilla on Wikimedia] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Internet]] 
+ [[Category:Mozilla]]

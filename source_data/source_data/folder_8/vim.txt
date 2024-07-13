@@ -1,0 +1,47 @@
+{{Infobox software 
+ | name = Vim 
+ | logo = Vimlogo.svg 
+ | screenshot = Vim-(logiciel)-console.png 
+ | author = Bram Moolenaar 
+ | developer = 
+ | released = {{Start date and age|1991|11|02|df=yes|paren=yes|br=yes}} 
+ | latest release version = {{wikidata|property|edit|reference|P348}} 
+ | latest release date    = {{start date and age|{{wikidata|qualifier|P348|P577}}}} 
+ | programming language = [[C (programming language)|C]], [[#Vim script|Vim script]] 
+ | operating system = [[Unix]], [[Linux]], [[Windows NT]], [[MS-DOS]], [[macOS]], [[iOS]], [[Android (operating system)|Android]] etc. 
+ | genre = [[Text editor]] 
+ | license = [[Free software]] ([https://vimhelp.org/uganda.txt.html#license Vim License]) 
+ }} 
+ '''Vim''' is a [[text editor]] made by Bram Moolenaar. < ref name= " learn " > Robbins, A., Hannah, E.,  &  Lamb, L. (2008). Learning the vi and vim editors.  "  O'Reilly Media, Inc. " . < /ref > < ref name= " pocket " > Robbins, A. (2011). vi and Vim Editors Pocket Reference: Support for every text editing task.  "  O'Reilly Media, Inc. " . < /ref > < ref > Neil, D. (2015). Practical Vim: Edit Text at the Speed of Thought. Pragmatic Bookshelf. < /ref > < ref > Schulz, K. (2007). Hacking Vim: a cookbook to get the most out of the latest Vim editor. Packt Publishing Ltd. < /ref > < ref name= " Neil, D. 2018 " > Neil, D. (2018). Modern Vim: Craft Your Development Environment with Vim 8 and Neovim. Pragmatic Bookshelf. < /ref >  Moolenaar publicly released Vim on November 2, 1991. 
+ 
+ Vim stands for Vi IMproved. Vim is an improved version of the vi text editor, < ref name= " learn " / > < ref name= " pocket " / >  an editor created by Bill Joy in 1976. Vim is free, and the [[source code]] is publicly available on [[GitHub]]. It is available in multiple languages, and it works on multiple [[operating system]]s, including [[Microsoft Windows|Windows]], [[Linux]], and [[macOS]]. Vim can be used from either a [[command-line interface]] or a [[Graphical user interfaces and consoles|graphical user interface]]. 
+ 
+ While Vim can be hard to use, there are built-in commands new users can learn from reading the Vim user manual, running the :help command in Vim, or using the vimtutor command in a terminal. 
+ 
+ Vim is widely popular because it allows users to perform many functions on a document (save, search, scroll, etc.) by pressing as few keys as possible. However, many critics argue that these keystrokes are confusing. 
+ 
+ One can customize Vim using a .vimrc file. To add new features like keyboard shortcuts, one can use Vim script, < ref > Rosset, C. (2013). Exploring Vimscript as a Functional Domain Specific Language (Doctoral dissertation, [[University of Oxford]]). < /ref >  Vim’s built-in [[programming language]]. Many Vim plugins and extensions are also available online for free. 
+ 
+ There is an [[Internet]] turf war between [[programmer]]s that prefer Vim and programmers that prefer [[GNU Emacs|Emacs]], < ref > Cameron, D., Elliott, J., Loy, M., Raymond, E. S.,  &  Rosenblatt, B. (2005). Learning GNU Emacs.  "  O'Reilly Media, Inc. " . < /ref >  another common text editor. 
+ ==Gallery== 
+ < gallery > 
+ File:Vim-javascript-with-plugin-gitgutter.png|Vim editing [[JavaScript]] 
+ File:Vim-netrw.png|File manager inside Vim 
+ File:Vim-search-copen-quickfix.png|Searching inside Vim 
+ File:Neovim-logo.svg|Neovim, a famous Vim variant < ref name= " Neil, D. 2018 " / > 
+ File:Neovim 0.5.0 screenshot.png|Neovim screenshot 
+ < /gallery > 
+ 
+ ==References== 
+ {{reflist|2}} 
+ 
+ == Other websites == 
+ {{Wikibooks|Learning the vi Editor|Vim}} 
+ {{Commons category|Vim}} 
+ * {{YouTube|ayc_qpB-93o|TechTalk by Bram Moolenaar held on 25th Anniversary of first vim release}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Computer programming]] 
+ [[Category:Linux software]]

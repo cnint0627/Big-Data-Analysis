@@ -1,0 +1,82 @@
+[[Image:Lymphocyte2.jpg|thumb|230px|Lymphocyte (stained)]] 
+ [[Image:SEM Lymphocyte.jpg|thumb|right|230px|A [[scanning electron microscope]] (SEM) image of a single human lymphocyte.]] 
+ 
+ '''Lymphocytes''' are a type of [[white blood cell]] (or ''leukocyte''). They help an organism to fight [[infection]]s. They occur in the [[immune system]] of all [[vertebrate]]s. < ref name= " urlDorlands Medical Dictionary:lymphocyte " > {{cite web |url=http://www.mercksource.com/pp/us/cns/cns_hl_dorlands_split.jspzQzpgzEzzSzppdocszSzuszSzcommonzSzdorlandszSzdorlandzSzfivezSz000061991zPzhtm |title=Dorlands Medical Dictionary:lymphocyte |format= |accessdate=2009-01-27}} < /ref >  All lymphoctes have a large, blob-like [[nucleus]]. 
+ 
+ Lymphocytes can be divided into three main types: 
+ *'''large granular lymphocytes''': these are part of the [[innate immune system]], and are [[natural killer cell]]s. 
+ *'''small lymphocytes''': these lymphocytes are the main agents of the acquired immune system. The two main types are: 
+ **[[T cell]]s and  
+ **[[B cell]]s. 
+ 
+ == Types ==  
+ === Natural killer cells === 
+ Natural killer (NK) cells are a part of the [[immune system]] a person is born with. They protect the organism from [[tumour]]s and from cells [[infection|infected]] by [[virus]]es. Natural killer cells are made active by chemicals released by damaged cells called [[interferon]]s. 
+ 
+ Natural killer cells can tell the difference between infected cells, tumours, and normal cells. They recognise changes in the level of a surface molecule called MHC (major histocompatibility complex) class I. 
+ 
+ The NK cells then release [[cytotoxic]] (cell-killing) [[Granule (cell biology)|granules]] which then destroy the altered cells. < ref name=Janeway > {{cite book |last=Janeway |first= Charles |author2= Paul Travers, Mark Walport, and Mark Shlomchik |title= Immunobiology; 5th ed. |publisher= Garland Science |date=  2001 |location= New York and London |page= |url= https://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC & rid=imm.TOC & depth=10 |isbn= 0-8153-4101-6}}. < /ref > 
+ 
+ === T and B cells === 
+ T cells (thymus cells) and B cells (bone cells) are the main cells of the [[adaptive immune response]]. They tackle [[infection]]s, and they cause the [[immune system]] to 'remember' the event. 
+ 
+ The function of T cells and B cells is to recognize foreign [[antigens]]. Antigens are surface molecules on a [[cell]]. Once they have identified an invader, the cells respond to remove [[pathogen]]s or pathogen-infected cells. 
+ 
+ B cells respond to pathogens by producing large numbers of [[antibody|antibodies]] which then destroy foreign objects like [[bacteria]] and viruses. 
+ 
+ Some T cells, called T helper cells, produce [[cytokine]]s that direct the immune response. Cytokines signal to other immune cells that there is a foreign antigen present. Other T cells, called cytotoxic T cells, produce toxic [[Granule (cell biology)|granules]] which cause the death of infected cells. 
+ 
+ Once they are made active, B cells and T cells produce ''memory cells''. Throughout the lifetime of an animal, these cells will 'remember' each specific pathogen encountered, and are able to make a strong response if the pathogen is detected again. Memory cells live a long time in the body, and are how [[vaccination]]s work. 
+ 
+ == Development == 
+ Mammalian [[stem cell]]s change or [[cellular differentiation|differentiate]] into several kinds of blood cell within the [[bone marrow]]. < ref name= Abbas > {{cite book | author = Abbas AK and Lichtman AH | title = Cellular and molecular immunology | edition = 5th | publisher = Saunders, Philadelphia |year = 2003 | isbn = 0-7216-0008-5}} < /ref >  This process is called [[haematopoiesis]] (= blood growth) < !--(''hematopoiesis = U.S. spelling'')-- > . All lymphocytes come from a common basic lymphocyte cell before differentiating into their distinct lymphocyte types. 
+ 
+ B cells mature into B lymphocytes in the bone marrow, < ref name= Robbins > {{cite book | author = Kumar, Abbas, Fausto | title = Pathologic basis of disease | edition = 7th}} < /ref >  while T cells migrate to and mature in a distinct organ, called the [[thymus]]. After they mature, the lymphocytes enter the circulation and [[Lymphatic system|lymphoid organs]] (e.g. the [[spleen]] and [[lymph node]]s) where they are able to sense invading [[pathogen]]s and tumour cells. 
+ 
+ == Characteristics == 
+ {| ! border= " 1 "  cellpadding= " 2 "  style= " border-collapse: collapse; " 
+ |+'''Function and proportion of lymphocytes'''  < ref > {{cite journal|url=http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1809375 & rendertype=table & id=tbl3|title=Lymphocyte subsets in term and significantly preterm UK infants in the first year of life analysed by single platform flow cytometry|journal=Clin Exp Immunol|date=May 2005|volume=140|issue=2|pages=289–292|doi=10.1111/j.1365-2249.2005.02767.x|pmid=15807853|author=Berrington, J. E.|last2=Barge|first2=D|last3=Fenton|first3=AC|last4=Cant|first4=AJ|last5=Spickett|first5=GP|pmc=1809375}} < /ref > 
+ | width= " 15% "  | '''Class''' 
+ | width= " 40% "  | '''Function''' 
+ | width= " 10% "  | '''Proportion''' 
+ |- 
+ |'''Natural killer cells''' 
+ |Lysis of virally infected cells and tumour cells 
+ |7% (2-13%) 
+ |- 
+ |'''Helper T cells''' 
+ |Release cytokines and growth factors that regulate other immune cells 
+ |46% (28-59%) 
+ |- 
+ |'''Cytotoxic T cells''' 
+ |Lysis of virally infected cells, tumour cells and allografts 
+ |19% (13-32%) 
+ |- 
+ |'''gamma/delta T cells''' 
+ |Immunoregulation and cytotoxicity 
+ | 
+ |- 
+ |[[B cell|'''B cells''']] 
+ |Secretion of antibodies 
+ |23% (18-47%) 
+ |} 
+ 
+ In the [[circulatory system]] they move from [[lymph node]] to lymph node. This contrasts with [[macrophage]]s, which are rather stationary in the nodes. 
+ 
+ == Lymphocytes and disease == 
+ When white blood cells are counted, the lymphocyte count is the percentage of lymphocytes present. 
+ 
+ An increase in lymphocyte concentration is usually a sign of a viral infection (in some rare case, [[leukemia]]s are found through an abnormally high lymphocyte count in an otherwise normal person). 
+ 
+ A low normal to low absolute lymphocyte count is found with infections after surgery or trauma. 
+ 
+ [[Human immunodeficiency virus]] (HIV) infects and destroys T cells. < ref > Specifically, the CD4 < sup > + < /sup >  subgroup of T lymphocytes < /ref >  Without the key defence that these T cells provide, the body becomes prone to infections that otherwise would not affect healthy people. 
+ 
+ The extent of HIV progression is found by measuring the percentage of CD4 < sup > + < /sup >  T cells in the patient's blood. The effects of other virus or lymphocyte disorders can also often be estimated by counting the numbers of lymphocytes present in the [[blood]]. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Cell biology]] 
+ [[Category:Immunology]] 
+ [[Category:Blood cells]]

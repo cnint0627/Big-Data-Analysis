@@ -1,0 +1,35 @@
+{{automatic taxobox 
+ | name = Bikonts 
+ | image = Aulacanthas 01.jpg 
+ | image_caption = A [[radiolaria]]n 
+ | taxon = Bikonta 
+ | authority = [[Thomas Cavalier-Smith|Cavalier-Smith]], 1993 
+ | subdivision_ranks = Subgroups 
+ | subdivision = 
+ [[Apusozoa]] < br / > 
+ [[Rhizaria]] < br / > 
+ [[Excavata]] < br / > 
+ [[Archaeplastida]] < br / > 
+ [[Chromalveolata]] 
+ | synonyms =  
+ * Biciliata  < small > Cavalier-Smith, 1993 < /small >   
+ * Diaphoretickes  < small > Adl ''et al.'', 2012 < /small >   
+ * Diphoda  < small > Derelle ''et al.'', 2015 < /small >   
+ }} 
+ 
+ A '''bikont''' ( " two flagellae " ) is any [[eukaryote|eukaryotic]] organism in the group '''Bikonta'''. Many single-celled members of the group, and the presumed ancestor, have two [[flagella]]. < ref name= " pmid16829542 " > {{cite journal |author=Burki F.  &  Pawlowski J. |title=Monophyly of Rhizaria and multigene phylogeny of unicellular bikonts |journal=Mol. Biol. Evol. |volume=23 |issue=10 |pages=1922–30 |date=2006 |pmid=16829542 |doi=10.1093/molbev/msl055 |url=http://mbe.oxfordjournals.org/cgi/pmidlookup?view=long & pmid=16829542}} < /ref > 
+ 
+ The TSAR supergroup is a group of Bikonts containing telonemia (T), stramenopiles (S), alveolata (A), and rhizaria (R). 
+ 
+ The SAR supergroup is a group of [[Bikont|Bikonts]] containing [[stramenopiles]] (S), [[alveolata]] (A), and [[rhizaria]] (R). 
+ 
+ == Enzymes == 
+ Another shared [[trait]] of bikonts is the fusion of two [[gene]]s into a single unit. The genes for thymidylate synthase (TS) and dihydrofolate reductase (DHFR) code for a single  
+ [[protein]] with two functions. < ref > {{cite journal| author= Cavalier-Smith, Thomas| title=Protist phylogeny and the high-level classification of Protozoa| journal=European Journal of Protistology | year=2006 | volume=39 | issue=4 |pages=338–348| doi=10.1078/0932-4739-00002}} < /ref >   
+ 
+ The genes are separately [[translation (genetics)|translated]] in [[unikont]]s. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Eukaryotes]]

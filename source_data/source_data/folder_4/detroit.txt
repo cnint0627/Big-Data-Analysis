@@ -1,0 +1,163 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > | name                            = Detroit 
+ | official_name                   = City of Detroit 
+ | native_name                     =  
+ ''Détroit'' ([[French language|French]]) < ref > {{cite web|url=http://www.merriam-webster.com/dictionary/detroit |title=Detroit – Definition and More from the Free Merriam-Webster Dictionary |publisher=Merriam-webster.com |date=April 25, 2007 |access-date=July 1, 2010}} < /ref >   
+ | native_name_lang                = fr 
+ | settlement_type                 = [[City]] 
+ | image_skyline                   = {{multiple image 
+ | border                 = infobox 
+ | total_width            = 300 
+ | image_style            = border:1; 
+ | perrow                 = 1/3/2 
+ | image1 = Downtown Detroit, Michigan from Windsor, Ontario (21760963102).jpg  
+ | image2 = Book Tower 2010.jpg 
+ | image3 = Headquarters of GM in Detroit.jpg  
+ | image4 = Fisherb1.jpg 
+ | image5 = Tigers opening day2 2007.jpg  
+ | image6 = Ambassador Bridge (6274949369).jpg 
+ }} 
+ | image_caption                   = Left to right from top: Skyline of Detroit, [[Book Tower]], [[Renaissance Center]], [[Fisher Building]], [[Comerica Park]] and the [[Ambassador Bridge]]. 
+ | image_flag                      = Flag of Detroit.svg 
+ | image_seal                      = Seal of Detroit (B & W).svg 
+ | image_blank_emblem              =  
+ | blank_emblem_type               = Logo 
+ | blank_emblem_size               =  
+ | blank_emblem_alt                =  
+ | blank_emblem_link               = List of United States county and city insignia 
+ | etymology                       = {{lang-fr|détroit}} ([[strait]]) 
+ | nicknames                       = The Motor City, Motown, Renaissance City, City of the Straits, The D, D-Town, Hockeytown, The Automotive Capital of the World, Rock City, The 313, The Arsenal of Democracy, The Town That Put The World on Wheels, Tigertown, Détroit, Paris of the West 
+ | motto                           = ''{{lang|la|[[Gabriel Richard#Work in Detroit|Speramus Meliora; Resurget Cineribus]]}}'' < br/ > < small > ([[Latin]]: We Hope For Better Things; It Shall Rise From the Ashes) < /small > 
+ | image_map                       = {{Maplink|frame=yes|plain=y|frame-width=300|frame-height=200|frame-align=center|zoom=4|type=point|title=Detroit|marker=city|type2=shape|stroke-width2=2|stroke-color2=#808080}} 
+ | mapsize                         = 250 
+ | map_caption                     = Interactive map of Detroit 
+ | coordinates                     = {{coord|42|19|53|N|83|02|45|W|region:US-MI|display=inline,title}} 
+ | coordinates_footnotes           =  < ref name= " GNIS " > {{cite gnis|1617959|Detroit|2009-07-27}}. < /ref > 
+ | subdivision_type                = Country 
+ | subdivision_name                = United States 
+ | subdivision_type1               = [[U.S. state|State]] 
+ | subdivision_name1               = [[Michigan]] 
+ | subdivision_type2               = [[List of counties in Michigan|County]] 
+ | subdivision_name2               = [[Wayne County, Michigan|Wayne]] 
+ | established_title               = Founded 
+ | established_date                = {{Start date and age|1701|7|24}} 
+ | established_title2              = Incorporated 
+ | established_date2               = {{Start date and age|1806|9|13}} 
+ | government_footnotes            =  < !-- for references: use < ref >  tags -- > 
+ | government_type                 = [[Mayor–council government|Mayor–council]] 
+ | governing_body                  = [[Detroit City Council]] 
+ | leader_title                    = [[Mayor of Detroit|Mayor]] 
+ | leader_name                     = [[Mike Duggan]] ([[Democratic Party (United States)|D]]) 
+ | leader_title1                   = [[Municipal clerk|Clerk]] 
+ | leader_name1                    = Janice Winfrey 
+ | leader_title2                   = City council 
+ | leader_name2                    =  < !--{{collapsible list|bullets=yes 
+  | title = Members 
+  | 1 = [[Janeé Ayers]] – At Large 
+  | 2 = [[Brenda Jones (politician)|Brenda Jones]] – At Large 
+  | 3 = [[James Tate (Detroit politician)|James Tate]] – District 1 Northwest 
+  | 4 = [[Roy McCalister, Jr.]] – District 2 Near Northwest 
+  | 5 = Scott Benson – District 3 Northeast 
+  | 6 = [[Andre Spivey]] – District 4 Far East Side 
+  | 7 = [[Mary Sheffield]] – District 5 Central-Near East Side 
+  | 8 = [[Raquel Castaneda-Lopez]] – District 6 Southwest 
+  | 9 = [[Gabe Leland]] – District 7 West Side 
+  }} -- > 
+ < !-- Area -- > | unit_pref                       = Imperial 
+ | area_footnotes                  =  < ref name= " CenPopGazetteer2019 " > {{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_26.txt|publisher=United States Census Bureau|access-date=July 25, 2020}} < /ref > 
+ | area_magnitude                  =  
+ | area_total_km2                  = 370.08 
+ | area_land_km2                   = 359.27 
+ | area_water_km2                  = 10.81 
+ | area_total_sq_mi                = 142.89 
+ | area_land_sq_mi                 = 138.72 
+ | area_water_sq_mi                = 4.17 
+ | area_urban_sq_mi                = 1295 
+ | area_metro_sq_mi                = 3913 
+ | elevation_footnotes             =  < ref name= " GNIS " / > 
+ | elevation_ft                    = 656 
+ | population_footnotes            =  < ref name= " QuickFacts " > {{cite web |title=QuickFacts: Detroit city, Michigan |url=https://www.census.gov/quickfacts/fact/table/detroitcitymichigan/POP010220 |publisher=United States Census Bureau |access-date=22 August 2021}} < /ref > 
+ | population_as_of                = [[2020 United States Census|2020]] 
+ | population_total                = 639111 
+ | population_rank                 = [[List of United States cities by population|27th]] in the United States < br > [[List of municipalities in Michigan|1st]] in Michigan 
+ | population_metro_footnotes      =  < ref name= " 2020Pop " > {{cite web |title=2020 Population and Housing State Data |url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |publisher=United States Census Bureau |access-date=22 August 2021}} < /ref > 
+ | population_metro                = 4392041 ([[List of metropolitan statistical areas|14th]]) 
+ | population_density_sq_mi        = 4607.20 
+ | population_density_km2          = 1778.92 
+ | population_demonym              = Detroiter 
+ | population_note                 =  
+ | timezone                        = [[Eastern Time Zone|EST]] 
+ | utc_offset                      = −5 
+ | timezone_DST                    = [[Eastern Daylight Time|EDT]] 
+ | utc_offset_DST                  = −4 
+ | postal_code_type                = [[ZIP Code]](s) 
+ | postal_code                     = 48127, 48201, 48202, 48204–48206, 48208–48210, 48212–48217, 48219, 48221–48228, 48231–48236, 48238–48240, 48243, 48244, 48255, 48260, 48264, 48266–48269, 48272, 48275, 48277–48279, 48288 
+ | area_code                       = [[Area code 313|313]] 
+ | blank_name                      = [[Federal Information Processing Standards|FIPS code]] 
+ | blank_info                      = 26-22000 
+ | blank1_name                     = [[Geographic Names Information System|GNIS]] feature ID 
+ | blank1_info                     = 1617959 < ref name= " GNIS " / > 
+ | website                         = {{URL|www.detroitmi.gov/|Official website}} 
+ | footnotes                       =  
+ | pop_est_as_of                   =  
+ | pop_est_footnotes               =  
+ | population_est                  =  
+ | blank_name_sec2          = Major airports 
+ | blank_info_sec2          = [[Detroit Metropolitan Airport]], [[Coleman A. Young International Airport]] 
+ | blank2_name_sec2         = [[Interstate Highway System|Interstates]] 
+ | blank2_info_sec2         = [[File:I-75.svg|25px|link=Interstate 75 in Michigan]] [[File:I-94.svg|25px|link=Interstate 94 in Michigan]] [[File:I-96.svg|25px|link=Interstate 96]] [[File:I-375.svg|30px|link=Interstate 375 (Michigan)]] 
+ | blank3_name_sec2         = [[United States Numbered Highways|U.S. routes]] 
+ | blank3_info_sec2         = [[File:US 12.svg|25px|link=U.S. Route 12 in Michigan]] [[File:US 24.svg|25px|link=U.S. Route 24 in Michigan]] 
+ | blank4_name_sec2         = [[List of state trunkline highways in Michigan|State trunklines]] 
+ | blank4_info_sec2         = [[File:M-1.svg|25px|link=M-1 (Michigan highway)]] [[File:M-3.svg|25px|link=M-3 (Michigan highway)]] [[File:M-5.svg|25px|link=M-5 (Michigan highway)]] [[File:M-8.svg|25px|link=M-8 (Michigan highway)]] [[File:M-10.svg|25px|link=M-10 (Michigan highway)]] [[File:M-39.svg|25px|link=M-39 (Michigan highway)]] [[File:M-53.svg|25px|link=M-53 (Michigan highway)]] [[File:M-85.svg|25px|link=M-85 (Michigan highway)]] [[File:M-97.svg|25px|link=M-97 (Michigan highway)]] [[File:M-102.svg|25px|link=M-102 (Michigan highway)]] [[File:M-153.svg|25px|link=M-153 (Michigan highway)]] 
+ | blank5_name_sec2         = [[Mass transit]] 
+ | blank5_info_sec2         = [[File:Ddot-logo.svg|30px|link=Detroit Department of Transportation]] [[File:DPM icon.png|32px|link=Detroit People Mover]] [[File:QLINE Logo.svg|32px|link=QLine]]  
+ }} 
+ [[File:DetroitSkyline.jpg|thumb|180px|The Detroit skyline]] 
+ 
+ '''Detroit''' ({{IPAc-en|d|ᵻ|ˈ|t|r|ɔɪ|t}} {{respell|dih|TROYT}}, {{small|locally also}} {{IPAc-en|ˈ|d|iː|t|r|ɔɪ|t}} {{respell|DEE|troyt}}; {{Lang-fr|Détroit}}, {{Literal translation|strait}}) is the most populous [[city]] in the state of [[Michigan]] in the [[United States]]. In 1950, Detroit was the fifth most populous city in the United States, with 1.8 million people. It was the 10th most populous city in the United States at the time of the [[2000 United States Census|2000 census]], with 950,000 people. By the [[2020 United States Census|2020 census]], Detroit fell to the 27th largest, because people moved away, and it had 640,000 people. Over four million people live in Detroit and its [[Metro Detroit|surrounding counties]]. The city borders [[Windsor, Ontario]] in [[Canada]]. The [[international]] [[border]] between Detroit and Windsor is one of the most crossed in the world. 
+ 
+ The person who started the city was [[Antoine de la Mothe Cadillac]]. He was from [[France]]. Detroit was made a city in 1701. From 1805 to 1847, Detroit was the capital of Michigan. 
+ 
+ Detroit ran out of money in March 2013. On July 18, 2013, Detroit filed for [[bankruptcy]]. This was the largest bankruptcy case of any city in U.S. history. < ref > {{cite web|url=http://www.economist.com/blogs/democracyinamerica/2013/11/detroit|title=Detroit: Bankruptcy or bust|date=2013-11-15|publisher=The Economist|accessdate=2013-11-20}} < /ref > < ref > {{cite web|title=Creditors to fight Detroit insolvency claim |website=The Detroit News |date=2013-07-18 |url=http://www.detroitnews.com/article/20130718/METRO01/307180103/#ixzz2ZQqjpHYO |archive-url=https://web.archive.org/web/20130810023805/http://www.detroitnews.com/article/20130718/METRO01/307180103/#ixzz2ZQqjpHYO| archive-date=2013-08-10}} < /ref > 
+ 
+ == Sports == 
+ Detroit is a city where many [[automobile]]s are made and this is why it is sometimes called the  " Motor City " , or  " Motown " . Many people call it the car capital of the world.  [[General Motors]], [[Ford Motor Company|Ford]] and [[Chrysler]] have their offices and many of their plants in and around Detroit. 
+ 
+ Detroit is the home of many sport teams including the [[Detroit Lions]] ([[National Football League|NFL]]), [[Detroit Red Wings]] ([[National Hockey League|NHL]]), [[Detroit Tigers]] ([[Major League Baseball|MLB]]) and the [[Detroit City FC|Detroit City Soccer Club]]. 
+ 
+ In 2006, the [[Super Bowl XL|Super Bowl]] was played at [[Ford Field]] in Detroit. 
+ 
+ == Media == 
+ 
+ [[WXYZ]] [[American Broadcasting Company]] 
+ 
+ == People == 
+ Detroit is home to one of the largest black [[Community|communities]] in the United States, with 77% being [[African-American]]. Detroit also has a large Arab population. Many Arabs live in metro Detroit. The [[Arab Americans|Arab-American]] community in Detroit began with a small group of Syrian and Lebanese merchants who immigrated to Detroit in the late 1800s. < ref > [https://wdet.org/posts/2017/08/08/85592-curiosid-how-did-detroit-become-a-center-for-arabs-in-the-united-states/ CuriosiD: How Did Detroit Become a Center for Arabs in the United States?] < /ref >  Mexicans have recently replaced the shrinking population. < ref > [https://www.bloomberg.com/news/articles/2012-09-24/the-paradox-of-mexicantown-detroit-s-uncomfortable-relationship-with-the-immigrants-it-desperately-needs The Paradox of Mexicantown: Detroit's Uncomfortable Relationship With the Immigrants it Desperately Needs] < /ref > 
+ 
+ Violent crime rate is one of the highest in the USA. < ref > {{cite web|url=http://www.neighborhoodscout.com/mi/detroit/crime/ |title=Detroit crime rates and statistics |publisher=Neighborhood Scout |access-date=July 1, 2010}} < /ref > 
+ 
+ == Climate == 
+ Detroit has a [[humid continental climate]] (''Dfa'' in the [[Köppen climate classification]]), and is influenced by the nearby [[Great Lakes]]. Detroit usually has around 38 days of snow every year. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{commonscat-inline|Detroit}} 
+ 
+ {{Metro Detroit}} 
+ {{Wayne County, Michigan}} 
+ {{Michigan}} 
+ {{USLargestCities}} 
+ {{authority control}} 
+ 
+ [[Category:Detroit| ]] 
+ [[Category:County seats in Michigan]] 
+ [[Category:Former United States state capitals|Michigan]] 
+ [[Category:1700s establishments in North America]] 
+ [[Category:1701 establishments]] 
+ [[Category:18th-century establishments in New France]] 
+ 
+ 
+ {{US-geo-stub}}

@@ -1,0 +1,31 @@
+[[File:Pressure force area.svg|thumb]] 
+ [[File:Pressure-tension.svg|thumb|264x264px|Comparison of pressure (left) and tension (right)]] 
+ '''Pressure''' means how much force something is pushing on something else with. 
+ It is expressed as [[Force (physics)|force]] acting per unit [[area]]: 
+ 
+ '''''P = F / A''''' 
+ 
+ (Pressure = Force divided by Area that force is acting on) 
+ 
+ It can also be defined as thrust (compressive force acting perpendicularly to the surface of a body) acting per unit area. 
+ 
+ Pressure is directly proportional to force and inversely proportional to area., so the same amount of force applied by a hand will produce less pressure than when applied by something smaller, like a finger. 
+ 
+ It is important to understand the distinction between pressure and force. Body A may exert a much larger force on a surface than body B, but if that force is spread out over an area larger than that of body B, the pressure exerted will be less than that of body B. More force is not always equal to more pressure, and vice versa 
+ 
+ Pressure is also related to [[density]]. If a solid or a [[fluid]] is more dense, it has a larger weight, and therefore exerts a larger [[force]], over the same area. 
+ 
+ The SI unit of pressure is the Pascal (Pa) named after French physicist [[Blaise Pascal]], who did much work on pressure. 1 pascal = a force of 1 [[newton (unit)|newton]] per square [[meter]]. To measure much larger and much smaller pressures, sub-multiples of the unit, such as kilopascal and megapascal exist. 
+ 
+ [[Atmospheric pressure]] is the pressure exerted by oxygen and other molecules (the atmosphere basically) on a body/point/area at sea level, and is equal to approximately 100000 Newtons or 100Kn. Atmospheric pressures is measured using instruments such as the [[barometer]] which uses the principles of pressure and [[vacuum]] to measure the atmospheric pressure. 
+ 
+ == Other websites == 
+ 
+ * [http://en.citizendium.org/wiki/Pressure Pressure] -Citizendium 
+ 
+ [[Category:Physical quantity]] 
+ [[Category:Force]] 
+ [[Category:Basic physics ideas]] 
+ 
+ 
+ {{sci-stub}}

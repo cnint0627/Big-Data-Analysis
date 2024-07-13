@@ -1,0 +1,27 @@
+{{italictitle}} 
+ {{Infobox video game 
+ | title = Bosconian 
+ | image = 
+ | caption =  
+ | developer = [[Namco]] 
+ | publisher = {{vgrelease|JP|[[Namco]]}}{{vgrelease|NA|[[Midway Games]]}} 
+ | composer = Nobuyuki Ohnagi (Arcade ver.) < br > [[Yuzo Koshiro]] (X68000 ver.) 
+ | release = {{collapsible list|title=November 1981|'''Arcade'''{{vgrelease|JP|November 1981|NA|1981}}'''MSX'''{{vgrelease|JP|July 14, 1984}}'''Sharp X1''' {{vgrelease|JP|1987}}'''Sharp X68000'''{{vgrelease|JP|December 1988}}}} 
+ | genre = [[Multi-directional shooter]] 
+ | modes = 1-2 players alternating 
+ | cabinet = Upright, cabaret, and cocktail 
+ | arcade system = [[Namco Galaga]] 
+ | cpu = {{Z80|3|3.072}} 
+ | display = Horizontal orientation, [[Raster graphics|Raster]], 288 x 224 resolution 
+ | sound = 1x Namco WSG @ 3.072 MHz, 1x Namco 54XX @ 1.536 MHz, Discrete 
+ | platforms = Arcade (original) < br > [[MSX]], [[Sharp X68000|X68000]], [[Sharp X1]] 
+ }} 
+ '''''Bosconian''''' is a [[video arcade]] [[video game|game]] made by [[Namco]] in [[1981]]. The player moves a [[spacecraft|spaceship]] and tries to destroy  " [[outer space|space stations]] " . There are also other things in [[outer space|space]] that the player has to destroy to get to the space stations. The game was later used on many of the early [[personal computer]]s. 
+ ==Reception== 
+ ''Bosconian'' won the 1982 [[Electronic Games|Arcade Award]] for Best Science Fiction/Fantasy Coin-Op Game. The award was given out in January 1983. It beats both [[Atari]]'s ''[[Gravitar]]'' and [[Sega]]'s ''[[Zaxxon]]''. < ref name= " eg_archive " > {{cite web|title=Electronic Games Magazine|url=https://archive.org/search.php?query=%28collection%3Aelectronic-games-magazine%20OR%20mediatype%3Aelectronic-games-magazine%29%20AND%20-mediatype%3Acollection|publisher=[[Internet Archive]]|accessdate=1 February 2012}} < /ref > 
+ ==References== 
+ {{reflist}} 
+ {{video-game-stub}} 
+ [[Category:1981 video games]] 
+ [[Category:Arcade games]] 
+ [[Category:Namco video games]]

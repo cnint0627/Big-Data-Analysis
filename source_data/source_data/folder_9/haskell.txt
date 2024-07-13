@@ -1,0 +1,50 @@
+{{Infobox programming language 
+ | name                   = Haskell 
+ | logo                   = Haskell-Logo.svg 
+ | paradigm               = [[functional programming|functional]], lazy/[[non-strict programming language|non-strict]], [[modular programming|modular]] 
+ | year                   = {{start date and age|1990}} 
+ | designer = [[Simon Peyton Jones]], [[Lennart Augustsson]], Dave Barton, Brian Boutel, [[Warren Burton (computer scientist)|Warren Burton]], Joseph Fasel, [[Kevin Hammond (computer scientist)|Kevin Hammond]], Ralf Hinze, [[Paul Hudak]], [[John Hughes (computer scientist)|John Hughes]], Thomas Johnsson, [[Mark Jones (computer scientist)|Mark Jones]], John Launchbury, [[Erik Meijer (computer scientist)|Erik Meijer]], [[John Peterson (computer scientist)|John Peterson]], [[Alastair Reid (computer scientist)|Alastair Reid]], Colin Runciman, [[Philip Wadler]] 
+ | developer              = 
+ | latest release version =  < !-- Of the language specification, not the [[Haskell Platform]]! -- > Haskell 2010 < ref name= " 2010ann " > {{cite mailing list |url=http://www.haskell.org/pipermail/haskell/2009-November/021750.html |title=Announcing Haskell 2010 |date=24 November 2009 |accessdate=12 March 2011 |mailinglist=Haskell |last=Marlow |first=Simon}} < /ref > 
+ | latest release date    = {{start date and age|df=yes|2010|07}} 
+ | latest test version    = Announced as Haskell 2014 < ref > {{cite mailing list|url=http://www.haskell.org/pipermail/haskell-prime/2013-May/003825.html |title=Haskell 2014 |date=1 May 2013 |accessdate=9 October 2013 |mailinglist=Haskell-prime |last=Lynagh |first=Ian}} < /ref > 
+ | latest test date       = 
+ | typing                 = [[static typing|static]], [[strong typing|strong]], [[type inference|inferred]] 
+ | implementations        = [[Glasgow Haskell Compiler|GHC]], [[Hugs]], NHC, JHC, [[Yhc]], UHC 
+ | dialects               = [[Helium (Haskell)|Helium]], [[Gofer (software)|Gofer]] 
+ | operating system       = [[Cross-platform]] 
+ | license                = 
+ | website                = {{url|http://haskell.org}} 
+ | file ext               =  < code > .hs < /code > ,  < code > .lhs < /code > 
+ }} 
+ '''Haskell''' {{IPAc-en|ˈ|h|æ|s|k|əl}} < ref > {{cite mailing list |url=http://www.haskell.org/pipermail/haskell-cafe/2008-January/038756.html |title=anybody can tell me the pronuncation of  " haskell " ? |date=28 January 2008 |accessdate=12 March 2011 |mailinglist=Haskell-cafe |last=Chevalier |first=Tim}} < /ref >  is a purely [[functional programming language|functional]] [[programming language]]. It is named after [[Haskell Brooks Curry]], a U.S. mathematician who contributed a lot to [[logic]]. Haskell is based on [[lambda calculus]] and uses the [[Greek letter]] [[lambda]] as its logo. The main implementations are the Glasgow Haskell Compiler (GHC), and Hugs, a Haskell interpreter. 
+ 
+ ==Examples== 
+ The following is an example [[Hello World]] program in Haskell: 
+ < syntaxhighlight lang= " haskell " > 
+ module Main where 
+ 
+ main :: IO () 
+ main = putStrLn  " Hello, World! " 
+ < /syntaxhighlight > 
+ 
+ One way to create an [[infinite]] list of [[Fibonacci number]]s is this: < ref name= " fib " > {{Cite web |url=http://www.haskell.org/haskellwiki/index.php?title=The_Fibonacci_sequence & oldid=47800 |title=The Fibonacci sequence |author= |date=2 August 2012 |work=HaskellWiki |publisher= |accessdate=27 March 2013}} < /ref > 
+ < syntaxhighlight lang= " haskell " > 
+ fib n = fibs !! n 
+         where fibs = 0 : 1 : zipWith (+) fibs (tail fibs) 
+ < /syntaxhighlight > 
+ 
+ == Influence == 
+ 
+ Haskell was influenced by many earlier programming languages. These were [[Clean (programming language)|Clean]], [[FP (programming language)|FP]], [[Gofer (programming language)|Gofer]], [[Hope (programming language)|Hope]] and Hope < sup > + < /sup > , [[Id (programming language)|Id]], [[ISWIM]], [[Kent Recursive Calculator|KRC]], [[Lisp (programming language)|Lisp]], [[Miranda (programming language)|Miranda]], [[ML (programming language)|ML]] and [[Standard ML]], [[Orwell (programming language)|Orwell]], [[SASL (programming language)|SASL]], [[SISAL]], and [[Scheme (programming language)|Scheme]]. < ref name= " haskell-report-influences " > {{cite book| editor-first = Simon| editor-last = Peyton Jones| editor-link = Simon Peyton Jones| title = Haskell 98 Language and Libraries: The Revised Report| url = http://haskell.org/onlinereport/| year = 2003| publisher = Cambridge University Press| isbn = 0521826144| page=xi}} < /ref > 
+ 
+ Haskell itself has influenced many later programming languages, such as [[Agda (theorem prover)|Agda]], < ref > {{cite web|url=http://www.cse.chalmers.se/~ulfn/papers/afp08/tutorial.pdf|title=Dependently Typed Programming in Agda|last=Norell|first=Ulf|year=2008|publisher=Chalmers University|accessdate=9 February 2012|location=Gothenburg}} < /ref >  [[Bluespec, Inc.|Bluespec]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|p=12-38,43}} [[C++11]]/[[Concepts (C++)|Concepts]], < ref > {{cite journal|title=Design of Concept Libraries for C++|first1=Bjarne|last1=Stroustrup|authorlink1=Bjarne Stroustrup|first2=Andrew|last2=Sutton|url=http://www2.research.att.com/~bs/sle2011-concepts.pdf|year=2011|journal=|access-date=2013-11-01|archive-date=2012-02-10|archive-url=https://web.archive.org/web/20120210041742/http://www2.research.att.com/~bs/sle2011-concepts.pdf|url-status=dead}} < /ref >  [[C Sharp (programming language)|C#]]/[[Language Integrated Query|LINQ]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} < ref name= " meijer2012 " / > < ref > {{cite web|url=http://channel9.msdn.com/shows/Going+Deep/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1/|title=C9 Lectures: Dr. Erik Meijer – Functional Programming Fundamentals, Chapter 1 of 13|last=Meijer|first=Erik|date=1 October 2009|work=[[Channel 9 (discussion forum)|Channel 9]]|publisher=Microsoft|accessdate=9 February 2012|archive-date=16 June 2012|archive-url=https://web.archive.org/web/20120616051226/http://channel9.msdn.com/shows/Going+Deep/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1/|url-status=dead}} < /ref > < ref > {{cite news|last=Drobi|first=Sadek|date=4 March 2009|title=Erik Meijer on LINQ|work=InfoQ|publisher=C4Media Inc.|location=San Francisco|url=http://www.infoq.com/interviews/LINQ-Erik-Meijer|accessdate=9 February 2012}} < /ref >  [[Cayenne (programming language)|Cayenne]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} [[Clean (programming language)|Clean]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} [[Clojure]], < ref > {{cite web|url=https://www.amazon.com/gp/richpub/listmania/fullview/R3LG3ZBZS4GCTH|title=Clojure Bookshelf|last=Hickey|first=Rich|work=Listmania!|publisher=Amazon.com|accessdate=9 February 2012}} < /ref >  [[CoffeeScript]], < ref > {{cite news|url=http://www.javaworld.com/javaworld/jw-10-2011/111018-coffeescript-vs-dart.html|title=Turn up your nose at Dart and smell the CoffeeScript|last=Heller|first=Martin|date=18 October 2011|work=JavaWorld|publisher=InfoWorld|accessdate=9 February 2012|archive-date=10 February 2012|archive-url=https://web.archive.org/web/20120210141629/http://www.javaworld.com/javaworld/jw-10-2011/111018-coffeescript-vs-dart.html|url-status=dead}} < /ref >  [[Curry (programming language)|Curry]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} [[F Sharp (programming language)|F#]], < ref > {{cite book|last1=Syme|first1=Don|authorlink1=Don Syme|last2=Granicz|first2=Adam|last3=Cisternino|first3=Antonio|title=Expert F#|year=2007|publisher=[[Apress]]|page=2 |quote=F# also draws from Haskell particularly with regard to two advanced language features called ''sequence expressions'' and ''workflows''.}} < /ref >  [[Isabelle theorem prover|Isabelle]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} [[Java (programming language)|Java]]/[[Generics in Java|Generics]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} [[Mercury (programming language)|Mercury]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} [[Perl 6]], < ref > {{cite web|title=Glossary of Terms and Jargon|url=http://www.perlfoundation.org/perl6/index.cgi?glossary_of_terms_and_jargon|url-status=dead|archive-url=https://web.archive.org/web/20120121145808/http://www.perlfoundation.org/perl6/index.cgi?glossary_of_terms_and_jargon|archive-date=21 January 2012|work=Perl Foundation Perl 6 Wiki|publisher=[[The Perl Foundation]]|accessdate=9 February 2012}} < /ref >  [[Python (programming language)|Python]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} < ref > {{cite web|url=http://docs.python.org/howto/functional.html|title=Functional Programming HOWTO|last=Kuchling|first=A. M.|work=Python v2.7.2 documentation|publisher=Python Software Foundation|accessdate=9 February 2012}} < /ref >  [[Scala (programming language)|Scala]],{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} < ref > {{cite web|url=http://blog.fogus.me/2010/08/06/martinodersky-take5-tolist/|title=MartinOdersky take(5) toList|last=Fogus|first=Michael|date=6 August 2010|work=Send More Paramedics|accessdate=9 February 2012}} < /ref >  [[Visual Basic .NET|Visual Basic 9.0]].{{sfn|Hudak|Hughes|Peyton Jones|Wadler|2007|pp=12-45–46}} < ref name= " meijer2012 " > {{cite journal|authorlink=Erik Meijer (computer scientist)|first=Erik|last=Meijer|title=Confessions of a Used Programming Language Salesman: Getting the Masses Hooked on Haskell|url=http://research.microsoft.com/en-us/um/people/emeijer/papers/es012-meijer.pdf|journal=Oopsla 2007}} < /ref > 
+ 
+ ==References== 
+ {{reflist|2}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Functional languages]] 
+ [[Category:Cross-platform software]]

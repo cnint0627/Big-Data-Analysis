@@ -1,0 +1,23 @@
+In [[mathematics]], '''odds''' are the chance that an event will happen compared to the chance that it will not happen. For example, if there is an equal chance that it will rain or that it will not rain, the odds of it raining are 1:1 (which is read as  " 1 to 1 " ). If it is twice as likely that it will not rain, then the odds of it raining are 1:2 (read as  " 1 to 2 " ). 
+ 
+ ==Uses for odds== 
+ Odds are often used in [[gambling]], especially in [[horse racing]].  
+ 
+ In [[statistics]], when the odds are written as [[Fraction (mathematics)|fractions]], the [[ratio]] of the odds of two related experimental events is called the [[odds ratio]]. This is often written as  < math > OR < /math >  for short. < ref > {{Cite web|date=2020-04-26|title=List of Probability and Statistics Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/|access-date=2020-10-13|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite journal|last=Szumilas|first=Magdalena|date=2010-08-01|title=Explaining Odds Ratios|journal=Journal of the Canadian Academy of Child and Adolescent Psychiatry|volume=19|issue=3|pages=227–229|issn=1719-8429|pmc=2938757|pmid=20842279}} < /ref >   
+ 
+ == Related pages == 
+ 
+ * [[Probability]] 
+ 
+ == References == 
+ < references / > 
+ 
+ ==Other websites== 
+ 
+ * [http://mathforum.org/library/drmath/view/56495.html Ask Dr. Math: Odds Slang for Probability?] 
+ 
+ [[Category:Probability theory]] 
+ [[Category:Statistics]] 
+ [[Category:Gambling]] 
+ 
+ {{math-stub}}

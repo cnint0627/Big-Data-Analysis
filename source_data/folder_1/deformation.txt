@@ -1,0 +1,37 @@
+{{No sources|date=May 2020}} 
+ 
+ In [[Applied mechanics|engineering mechanics]], '''deformation''' is a change in shape that is result of a [[force (physics)|force]] that influences the object.   
+ 
+ It can be a result of [[tensile strength|tensile]] (pulling) forces, [[compressive strength|compressive]] (pushing) forces, [[shear]], [[bending]] or [[torsion]] (twisting). 
+ 
+ == Types of deformation == 
+ 
+ Depending on the type of material, size and [[shape]] of the object, and the forces used, various types of deformation may result. 
+ 
+ ===Elastic deformation=== 
+ 
+ This type of deformation is reversible. Once the forces are no longer applied, the object returns to its original shape. As the name implies, elastic ([[rubber]]) has a rather large elastic deformation range. The [[thermoplastic]]s and [[metal]]s have moderate elastic deformation ranges while [[ceramic]]s, [[crystal]]s, and hard [[thermosetting polymer]]s undergo almost no elastic deformation. Malleable materials do not undergo elastic deformation. 
+ 
+ ====Metal fatigue==== 
+ 
+ A phenomenon only discovered in modern times is [[metal fatigue]], which occurs primarily in [[wikt:ductile|ductile]] metals. It was originally thought that a material deformed only within the elastic range returned completely to its original state once the forces were removed. However, faults are introduced at the molecular level with each deformation. After many deformations, [[fracture|crack]]s will begin to appear, followed soon after by a [[Fracture (mineralogy)|fracture]], with no apparent plastic deformation in between. Depending on the material, shape, and how close to the elastic limit it is deformed, failure may require thousands, millions, billions, or trillions of deformations.  
+ 
+ Metal fatigue has been a major cause of aircraft failure, especially before the process was well understood. 
+ 
+ ===Plastic deformation=== 
+ 
+ This type of deformation is not reversible.  But an object in the plastic deformation range will first have undergone elastic deformation, which is reversible, so the object will return part way to its original shape.  Soft [[thermoplastics]] have a rather large plastic deformation range as do [[ductility|ductile]] metals such as [[copper]], [[silver]], and [[gold]].  [[Steel]] does, too, but not [[iron]].  Hard thermosetting plastics, [[rubber]], [[crystal]]s, and [[ceramics]] have minimal plastic deformation ranges.  Perhaps the material with the largest plastic deformation range is wet [[chewing gum]], which can be stretched dozens of times its original length. 
+ 
+ ===Fracture=== 
+ 
+ This type of deformation is also not reversible.  A break occurs after the material has reached the end of the elastic, and then plastic, deformation ranges.  At this point forces accumulate until they are sufficient to cause a fracture.  All materials will eventually fracture, if sufficient forces are applied. 
+ 
+ ==Misconceptions== 
+ 
+ A popular misconception is that all materials that bend are  " weak "  and all those which do not are  " strong " .  In reality, many materials which undergo large elastic and plastic deformations, such as steel, are able to absorb [[Stress (physics)|stresses]] which would cause brittle materials, such as glass, with minimal elastic and plastic deformation ranges, to break.  There is even a story to describe this observation (paraphrased below): 
+ 
+ : " The mighty oak stands strong and firm before the wind, while the willow yields to the slightest breeze.  However, in the strongest storm, the oak will break while the willow will bend, and thus survive.  So, in the end, which is the stronger of the two ? " 
+ 
+ 
+ [[Category:Solid mechanics]] 
+ [[Category:Materials science]]

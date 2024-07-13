@@ -1,0 +1,19 @@
+[[File:Digital Multimeter Aka.jpg|thumb|right|A digital multimeter]] 
+ 
+ A '''multimeter''' or a '''multitester''' is an [[Electronics|electronic]] [[measuring tool]] that is a combination of several tools in one unit. It usually includes an [[ammeter]], [[voltmeter]], and [[ohmmeter]]. Digital multimeters are sometimes called '''DMM''' too. 
+ 
+ Modern multimeters can be used to measure electrical quantities other than [[electrical current|current]], [[electrical resistance|resistance]] and [[voltage]]. For example, they can be used to measure [[frequency]], [[capacitance]], [[transistor]]s [[Hfe]] and [[temperature]]. 
+ 
+ The multimeter can make many tests, so it is often called  " multitester " .  When measuring resistance it acts as an ohmmeter, showing [[ohm]]s.  For [[volt]]s it would be a [[Voltmeter]].  Sometimes it is called a mixture of things like  Volt/ohm meter or VOM. Most meters can measure volts, amps, and resistance. < ref > {{cite web |url=http://www.ehow.com/about_5038113_types-multimeters.html |title=multimeter |accessdate=29 May 2012 |archive-date=3 May 2013 |archive-url=https://web.archive.org/web/20130503184948/http://www.ehow.com/about_5038113_types-multimeters.html |url-status=dead }} < /ref > 
+ 
+ ==How it can be measured== 
+ The multimeter can be used to measure the voltage of a battery. It can also be used for measuring the voltage across two points in a circuit. The Voltmeter is placed in parallel between the positive and negative terminals of the battery. It can also be used to measure resistance and amps hence the name of some meters  " Voltmeter, Ohmmeter, and Amperage " . < ref > {{cite web|url=http://www.saddleback.edu/ap/mse/phys/4b_labs/physics%204b%20labs%20pdf/multimeterlab.pdf|title=multimeters|accessdate=29 May 2012|archive-date=2010-06-05|archive-url=https://web.archive.org/web/20100605220458/http://www.saddleback.edu/ap/mse/phys/4B_labs/Physics%204B%20labs%20PDF/multimeterlab.pdf|url-status=dead}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites ==  
+ * [http://www.robotplatform.com/tools/multimeter/multimeter.html Multimeter Tutorial] - Lots of useful information on Digital multimeter usage. 
+ 
+ 
+ [[Category:Measuring tools]]

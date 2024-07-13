@@ -1,0 +1,106 @@
+{{Infobox German location 
+ |type = Stadt 
+ |image_coa = DEU Goslar COA.svg 
+ |image_flag = Flagge Goslar.svg 
+ |image_photo = Гослар9.jpg 
+ |coordinates = {{coord|51|54|26|N|10|25|48|E|format=dms|display=inline,title}} 
+ |image_plan = Goslar in GS.svg 
+ |state = Lower Saxony 
+ |district = Goslar 
+ |elevation = 255 
+ |area = 163.71 
+ |Stand = 2012-12-31 
+ |pop_ref =  
+ |postal_code = 38640, 38642, 38644 
+ |area_code = 05321, 05325 
+ |licence = GS 
+ |Gemeindeschlüssel = 03153017 
+ |divisions = 18 districts 
+ |website = {{url|http://www.goslar.de/}} 
+ |mayor = Dr Oliver Junk < ref > Bayreuther is OB in Goslar - Frankenpost - 13.11.2011 p2 < /ref > < ref > [http://wahl.goslar.de/ob/00_tabelle.html Electionresult 2011 in Goslar] {{webarchive|url=https://web.archive.org/web/20120402113512/http://wahl.goslar.de/ob/00_tabelle.html |date=2012-04-02 }} < /ref > 
+ |Bürgermeistertitel = Oberbürgermeister 
+ |party = CDU 
+ |ruling_party1 =  < !-- Leading political party currently in power - give abbreviations -- > 
+ |ruling_party2 =  < !-- 2nd ruling political party - give abbreviations -- > 
+ |ruling_party3 =  < !-- 3rd ruling political party - give abbreviations -- > 
+ |year =  < !-- Year founded (not  " year of first recorded mention " ), no wikilinking. 
+ Give a year, a decade or a century. Places article in  " Category: XXXX establishments "  -- > 
+ }} 
+ {{Infobox UNESCO World Heritage Site 
+ |Part_of     = [[Mines of Rammelsberg]], Historic Town of Goslar and [[Upper Harz Water Regale|Upper Harz Water Management System]] 
+ |Image       = GoslarMaltermeister.jpg 
+ |Caption     = View to the North with the Hildesheim downs in the background. Photograph taken from the Maltermeister Tower 
+ |Criteria    = Cultural: i, iv 
+ |ID          = 623-001 
+ |Year        = 1992 
+ |Extension   = 2010 
+ |Area        = 363.3 ha 
+ |Buffer_zone = 376.1 ha  
+ }} 
+ '''Goslar''' is a historic city in [[Germany]]. About 43,000 people live there. 
+ 
+ == History == 
+ [[File:goslar.jpg|left|thumb|]] 
+ The German Emperor Henry I founded Goslar in 922. In the 11th century Goslar became seat of a [[Pfalz]], a temporary seat of the Emperor. In 1253 Goslar became a Free City (that means without being ruled a Duke) in the [[Holy Roman Empire]] and joined the [[Hanseatic League]]. 
+ 
+ [[Henry IV, Holy Roman Emperor|Henry 4th]] a Holy Roman Emperor came from Goslar. 
+ 
+ In the [[Thirty-year War]] Goslar belonged to the loyalists of the Emperor, although its territory belonged to a [[Protestant]] region. The Swedish King Gustav II Adolph punished Goslar for supporting the imperial forces. After 1642 Goslar came under the rule of the [[Welfs]]. 
+ 
+ In 1803 Goslar lost its status as a Free City and belonged to [[Prussia]]. [[Napoleon]] made Goslar a part of the Kingdom of [[Westphalia]]. After the [[Napoleonic Wars]] it became part of the Kingdom of [[Hanover]]. 
+ 
+ In the 19th century Goslar lost its economic base. Now it lives mainly on [[tourism]]. 
+ 
+ ===Climate=== 
+ {{Weather box      < !-- Infobox begins -- > 
+ | collapsed    =   < !-- Any entry in this line will make the template initially collapsed. Leave blank or remove this line for uncollapsed. -- > 
+ | open         =   < !-- Any entry in this line will make the template permanently open, and remove the hide button. Remove this line for a collapsible table. -- > 
+ | metric first = yes 
+ | single line  =  yes 
+ | location     =  Goslar, Niedersachsen  < !-- Mandatory field, location the climate data was taken, usually an airport. -- > 
+ 
+ | temperature colour =   < !-- Enter  " pastel "  for pastel temperature colours,  " none "  for no colours, remove this line for the standard colouring. -- > 
+ < !-- Average high temperatures -- > 
+ | Jan high C  = 2 
+ | Feb high C  = 2 
+ | Mar high C  = 7 
+ | Apr high C  = 10 
+ | May high C  = 16 
+ | Jun high C  = 18 
+ | Jul high C  = 21 
+ | Aug high C  = 21 
+ | Sep high C  = 17 
+ | Oct high C  = 13 
+ | Nov high C  = 7 
+ | Dec high C  = 4 
+ | year high C = 11.5 
+ < !-- Average low temperatures -- > 
+ | Jan low C  = -2 
+ | Feb low C  = -3 
+ | Mar low C  = 1 
+ | Apr low C  = 3 
+ | May low C  = 7 
+ | Jun low C  = 11 
+ | Jul low C  = 12 
+ | Aug low C  = 12 
+ | Sep low C  = 10 
+ | Oct low C  = 6 
+ | Nov low C  = 2 
+ | Dec low C  = 0 
+ | year low C = 4.9 
+ 
+ < !-- Mandatory fields, source -- > 
+ | source = World Weather Online < ref name= " World Weather Online " > {{cite web |url=https://www.worldweatheronline.com/goslar-weather-averages/niedersachsen/de.aspx |title=Goslar, Niedersachsen Monthly Climate Average, Germany |publisher= |access-date=December 18, 2016 }} < /ref > 
+ }} < !-- Infobox ends -- > 
+ 
+ == References == 
+ {{Commonscat}} 
+ {{reflist}} 
+ 
+ {{Hanseatic League}} 
+ {{World Heritage Sites in Germany}} 
+ {{WHSite}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Imperial free cities]]

@@ -1,0 +1,19 @@
+[[File:UPC EANUCC-12 barcode.svg|thumb|A modern [[EAN]] [[barcode]]: The parts in green are called spacers: They separate the groups of numbers. Each number is coded by 7 bits, as shown. The first 11 digits carry the product number. The final digit, in this case the number  " 2 " , is the checksum. The checksum is added so that the sum of the even positions, and that of the odd ones multiplied by three, modulo 10 is 0.]] 
+ A '''checksum''' is a [[number]]. It is a kind of [[redundancy]] check. There are different ways to calculate it. It serves as a check, that no errors have been made when writing down the number. In its simplest form, the [[numerical digit|digits]] are simply added up. This can however not detect errors of swapping digits around. One of the uses of checksums is to check that [[account]] numbers have been entered correctly.  
+ 
+ Portuguese bank account identifiers are a good example of how checksums work. They have 21 [[digit]]s. The first 19 digits identify the bank, branch and account number.  The last two digits are  " mod 97 "  checksum digits based on [[modular arithmetic]]. A typical Portuguese bank account number is 0002.0123.12345678901.54. The digits have the following meanings: < ref name=IBANRegistry > {{cite web | url = http://www.swift.com/dsp/resources/documents/IBAN_Registry.pdf | title = IBAN registry – This registry provides detailed information about all ISO 13616-compliant national IBAN formats – Release 46 |date= November 2013 | publisher = SWIFT | accessdate = 23 November 2013}} < /ref > 
+ 
+ :*The digits  " 0002 "  represent the bank. 
+ :*The digits  " 0123 "  represent the branch of the bank. 
+ :*The digits  " 12345678901 "  represent the account number 
+ :*The digits  " 54 "  represent the checksum. 
+ 
+ If 000201231234567890154 (the bank account number without the dots) is [[divide]]d by 97, the answer is 207458809978249 [[remainder]] 1. Since the remainder is  " 1 " , the bank account identifier is probably correct. If the person writing down the number missed a digit, swapped two digits around or wrote a digit down incorrectly the remainder would not have been  " 1 " . If this is the case then the computer should detect an error and give an [[error|error message]]. < ref name=ValidationFeatures > {{cite web | url = http://www.iso.org/iso/catalogue_detail.htm?csnumber=31531 | title = ISO/IEC 7064:2003 – Information technology – Security techniques – Check character systems | publisher = International Organization for Standardization | accessdate = 31 January 2010 }} < /ref >     
+ 
+ Another place where checksums are used are [[serial number]]s for [[Software|computer software]].  
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ [[Category:Computer science]]

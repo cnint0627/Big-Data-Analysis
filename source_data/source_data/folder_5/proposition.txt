@@ -1,0 +1,24 @@
+A '''proposition''' is a term in [[philosophy]] and [[logic]]. It is a statement which has a [[truth value]], meaning it can be proved to be [[true]] or [[false]]. For a proposition to be valid, it must be possible to prove the proposition is either true or false. Many teachers and students of logic use the term ''statement'' and ''proposition'' to mean the same thing. Propositions are also often represented by capital letters such as  < math > P < /math > ,  < math > Q < /math >  and  < math > R < /math > . < ref > {{Cite web|date=2020-04-06|title=Comprehensive List of Logic Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/logic-symbols/|access-date=2020-08-20|website=Math Vault|language=en-US}} < /ref > < ref name= " Ayer " > Ayer A.J. 1936, 2nd ed 1946. ''Language, truth and logic''. < /ref > < ref > Lemmon E.J. Sentences, statements and propositions. In Williams  &  Montefiore (eds) ''British analytical philosophy''. 1966. < /ref > < ref > Stroll A. 1967. Statements. In Stroll A. ''Epistemology''. < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Proposition|url=https://mathworld.wolfram.com/Proposition.html#:~:text=A%20proposition%20is%20a%20mathematical,or%20%227%20is%20prime.%22 & text=With%20sufficient%20information,%20mathematical%20logic,This%20statement%20is%20false%22).|access-date=2020-08-20|website=mathworld.wolfram.com|language=en}} < /ref >    
+ 
+ It is possible to express the same proposition in many way. Proposition are only concerned with actual [[wikt:meaning|meaning]], not the way the proposition is expressed. Propositions can look different, yet still mean the same thing. When two different propositions mean the same thing, they are said to be [[Synonym|synonymous]], meaning each statement has the same meaning.  
+ 
+ For example,  " Snow is white "  (in English) and  " Schnee ist weiß "  (in German) are different sentences, because they are written in different languages. However, they mean exactly the same thing: snow is white. No matter what language the statement is written in, it will mean the same thing. As a result, these statements are synonymous.  
+ 
+ In [[Aristotle|Aristotelian logic]], a proposition is a specific kind of sentence that confirms or denies an [[Predicate (grammar)|action]] or predicate took place through a [[Subject (grammar)|subject]]. Aristotelian propositions take forms like  " All men are mortal "  and  " Socrates is a man " . In each sentence, the subject (men, Socrates) has a status (are mortal, is a man) which can be regarded as true or false. 
+ 
+ In [[logical positivism]], a proposition whose [[truth value]] cannot possibly be decided is [[wikt:meaning|meaningless]] (Quine, for instance, believes that propositions generally have no clear criterion of identity). < ref > {{Cite book|url=https://plato.stanford.edu/archives/spr2018/entries/propositions/|title=The Stanford Encyclopedia of Philosophy|last1=McGrath|first1=Matthew|last2=Frank|first2=Devin|date=2018|publisher=Metaphysics Research Lab, Stanford University|editor-last=Zalta|editor-first=Edward N.|edition=Spring 2018}} < /ref >  For example, statements about the existence of [[Deity|deities]] cannot be proved under logical positivism. Because the statements have no truth value, a logical positivist would consider propositions about deities (such as  " God exists "  or  " God does not exist " ) to have no logical meaning. < ref name=Ayer/ > 
+ 
+ == Related pages == 
+ *[[Axiom]] 
+ *[[Propositional logic]] 
+ *[[Predicate logic]] 
+ 
+ == References == 
+ {{wiktionary}} 
+ {{Reflist}} 
+ 
+ 
+ 
+ 
+ [[Category:Philosophy]] 
+ [[Category:Logic]]

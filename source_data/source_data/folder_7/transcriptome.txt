@@ -1,0 +1,12 @@
+The '''transcriptome''' is the set of all [[RNA]] [[molecules]] in one [[cell]] or a population of cells. RNA transcribes the base sequence from [[DNA]] by the process called [[transcription (genetics)|transcription]]. The term 'transcriptome' is sometimes used to refer to all RNAs, or just [[mRNA]], depending on the particular experiment. 
+ 
+ It includes only those RNA molecules found in a particular cell population. It usually includes the amount or concentration of each RNA molecule, and the molecular identities. It differs from the [[exome]]: that refers only to the bits of RNA which do code for [[proteins]]. < ref > Wang Z, Gerstein M, Snyder M. 2009. RNA-Seq: a revolutionary tool for transcriptomics. ''Nature Rev. Genetics'' '''10'''(1): 57-63. < /ref > 
+ 
+ In the human genome, about 5% of all genes get transcribed into RNA. < ref name= " Frith " > {{cite journal|url=https://www.nature.com/scitable/content/Genomics-The-amazing-complexity-of-the-human-17029/|title=Genomics: The amazing complexity of the human transcriptome|first1=Martin|last1=C Frith|first2=Michael|last2=Pheasant |first3=John|last3=S Mattick|journal=European Journal of Human Genetics|year=2005|volume=13|issue=8|pages=894–897|doi=10.1038/sj.ejhg.5201459|pmid=15970949|s2cid=2836126}} < /ref > 
+ 
+ The transcriptome is coding mRNA (about 1-4% of its entirety) and non-coding RNAs (the rest). Non-coding RNAs do not give rise to proteins. < ref > Berg JMTJ, Stryer L. 2002. Biochemistry. New York: W H Freeman < /ref >  The number of non-protein-coding sequences increases in more complex organisms. < ref name= " scitable " > {{cite journal|url=https://www.nature.com/scitable/topicpage/transcriptome-connecting-the-genome-to-gene-function-605/#|title=Transcriptome: Connecting the genome to gene function |first=Jill|last=U. Adams|journal=Nature Education|volume=1|issue=1|page=195|year=2008}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:RNA]]

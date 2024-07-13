@@ -1,0 +1,105 @@
+{{automatic taxobox 
+ | image = File:Sperm-egg.jpg 
+ | image_caption = An animal [[sperm cell]] with a posterior flagellum attempts to penetrate an [[ovum]] 
+ | display_parents = 2 
+ | taxon = Opisthokonta 
+ | authority = [[Herbert Copeland|Copeland]] 1956, < ref > Copeland, H. F. (1956). ''[https://archive.org/details/classificationof00cope The Classification of Lower Organisms]''. Palo Alto: Pacific Books. < /ref >  ''emend''. [[Thomas Cavalier-Smith|Cavalier-Smith]] 1987, ''emend''. Adl ''et al''., 2005 < ref > {{cite journal | last1 = Adl | first1 = S.M. | display-authors = etal   | date = September–October 2005 | title = The new higher level classification of eukaryotes with emphasis on the taxonomy of protists | url = http://doc.rero.ch/record/14409/files/PAL_E1847.pdf| journal = Journal of Eukaryotic Microbiology | volume = 52 | issue = 5| pages = 399–451 | pmid = 16248873 | doi=10.1111/j.1550-7408.2005.00053.x| s2cid = 8060916 }} < /ref > 
+ | name = Opisthokonta 
+ | fossil_range = {{long fossil range|632|0|earliest=1481|ref= < ref name= " Parfrey2011 " > {{cite journal|last1=Parfrey|first1=Laura Wegener|last2=Lahr|first2=Daniel J. G.|last3=Knoll|first3=Andrew H.|last4=Katz|first4=Laura A.|title=Estimating the timing of early eukaryotic diversification with multigene molecular clocks|journal=Proceedings of the National Academy of Sciences of the United States of America|date=August 16, 2011|volume=108|issue=33|pages=13624 & ndash;13629|doi=10.1073/pnas.1110633108|pmid=21810989|pmc=3158185|bibcode=2011PNAS..10813624P|doi-access=free}} < /ref > }} 
+ | subdivision_ranks = Subgroups 
+ | subdivision = *[[Holomycota]] 
+ **[[Nucleariae]] 
+ **[[Zoosporia]] 
+ *[[Holozoa]] 
+ **[[Ichthyosporea]] 
+ **[[Pluriformea]] 
+ **[[Filozoa]] 
+ ***[[Filasteria]] 
+ ***[[Choanozoa]] 
+ ****[[Choanoflagellata]] 
+ ****[[Animalia]] 
+ | synonyms =Choanozoa ''sensu'' Cavallier-Smith 
+ }} 
+ '''Opisthokonts''' are a [[kingdom (biology)|superkingdom]] of the [[Eukaryota]], including the [[animal]]s and [[Fungus|fungi]]. It is a group of [[unikont]]s. 
+ 
+ There are several classifications of the eukaryotes which are being discussed. Each of them divides the [[domain (biology)|domain]] Eukaryota into five groups, but there is disagreement on the details. < ref > Adl S.M. ''et al'' 2005. The new higher level classification of eukaryotes with emphasis on the taxonomy of protists. ''J. Eukaryot. Microbiol''. '''52''' (5): 399–451. [http://onlinelibrary.wiley.com/doi/10.1111/j.1550-7408.2005.00053.x/abstract;jsessionid=CA65FC38622C5A8459FDEE5BCA571F64.f03t01] PMID 16248873 < /ref >   
+ 
+ The Opisthokonta is thought to be a [[monophyletic]] [[clade]], and therefore superior to the [[Unikonta]] as a taxonomic term. < ref > Huang, Jinling, Ying Xu, and Johann Peter Gogarten. The presence of a haloarchaeal type tyrosyl-tRNA synthetase marks the opisthokonts as monophyletic. ''Molecular biology and evolution'' '''22'''.11 (2005): 2142-2146. < /ref > < ref > Steenkamp, Emma T; Jane Wright, and Sandra L. Baldauf. The protistan origins of animals and fungi. ''Molecular biology and Evolution'' '''23'''.1 (2006): 93-106. < /ref > < ref > Torruella, Guifré, et al. Phylogenetic relationships within the Opisthokonta based on phylogenomic analyses of conserved single-copy protein domains. ''Molecular Biology and Evolution'' '''29'''.2 (2012): 531-544. < /ref > 
+ 
+ {{Clade 
+ |label1=[[Amorphea]] 
+ |1={{Clade 
+    |1=[[Amoebozoa]][[File:Amoeba.png|60 px]] 
+    |label2=[[Obazoa]] 
+    |2={{Clade 
+       |1=[[Breviatea]][[File:Hyalosphenia_papilio_from_Hawley_Bog_Massachusetts.jpg|60 px]] 
+       |2={{Clade 
+          |1=[[Apusomonadida]][[File:Podomonas_kaiyoae_C.jpg|60 px]] 
+          |label2='''Opisthokonta''' 
+          |2={{Clade 
+             |label1=[[Holomycota]] 
+             |1={{Clade 
+                |label1=[[Nucleariae]] 
+                |1={{Clade 
+                   |1=[[Fonticulida]][[File:Macro_photograph_of_an_F._alba_colony_radius_growing_on_a_plate.jpg|60 px]] 
+                   |2=[[Nucleariida]][[File:Nuclearia_sp_Nikko.jpg|60 px]] 
+                 }} 
+                 |2={{Clade 
+                    |1=BCG 1 
+                    |label2=[[Zoosporia]] 
+                    |2={{Clade 
+                       |2={{Clade 
+                          |1=BCG 2 
+                          |label2=[[Ophistophagea]]  
+                          |2={{Clade 
+                             |1=[[Rozellomycota]][[File:Rozella_allomycis2.jpg|60 px]] 
+                             |2={{Clade 
+                                |1=Namako-37 
+                                |2=[[Microsporidiomycota]][[File:Fibrillanosema_spore.jpg|60 px]] 
+                             }} 
+                          }} 
+                       }} 
+                       |label1=[[Phytophagea]] 
+                       |1={{Clade 
+                          |1=[[Fungi|Eumycota]][[File:Spizellomycete.jpg|60 px]]   
+                          |2=[[Aphelida]][[File:Amoeboaphelidium.jpg|60 px]] 
+                      }} 
+                   }} 
+                }} 
+             }} 
+             |label2=[[Holozoa]] 
+             |2={{Clade 
+                |1=[[Ichthyosporea]][[File:Abeoforma_whisleri-2.jpg|60 px]] 
+                |2={{Clade 
+                    |label1=[[Pluriformea]] 
+                    |1={{Clade 
+                       |1=''[[Corallochytrium]]''[[File:Corallochytrium_limacisporum.png|60 px]] 
+                       |2=''[[Syssomonas]]''[[File:Syssomonas_2X_2020.webp|60 px]] 
+                   }} 
+                   |2={{Clade 
+                      |1=''[[Tunicaraptor]]'' 
+                      |label2=[[Filozoa]] 
+                      |2={{Clade 
+                         |1=[[Filasteria]][[File:Ministeria_vibrans.jpeg|60 px]] 
+                         |label2=[[Choanozoa]] 
+                         |2={{Clade 
+                            |1=[[Choanoflagellata]][[File:Desmarella_moniliformis.jpg|60 px]] 
+                            |2=[[Metazoa]][[File:Jelly_Monterey.jpg|60 px]] 
+                         }} 
+                      }} 
+                   }} 
+                }} 
+             }} 
+          }} 
+       }} 
+    }} 
+ }} 
+ }} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+   
+ {{biology-stub}} 
+ 
+ [[Category:Eukaryotes]]

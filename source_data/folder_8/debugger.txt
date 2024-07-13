@@ -1,0 +1,13 @@
+A '''debugger''' is a [[computer program]] that is used to test and  " debug "  other programs, mainly to solve [[software bug|programming bugs]].  
+ 
+ Debuggers offer advanced functions such as: 
+ #Running a program step by step ('''single-stepping'''), 
+ #Stopping ('''breaking''') (pausing the program to examine the current state) at some kind of event by means of breakpoint (a place for stopping or pausing in a [[computer program|program]]), 
+ #Tracking; which means following the values of some [[variable]]s,  
+ #Some debuggers can change a program while it is running; some only watch it. 
+ 
+ The same things that make a debugger useful for solving [[software bug]]s allow it to be used as a [[software cracking]] tool to defeat [[copy protection]] and other software protection features. 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Computer science]]

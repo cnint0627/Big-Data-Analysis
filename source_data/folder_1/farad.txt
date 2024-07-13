@@ -1,0 +1,11 @@
+A '''farad''' is a [[unit of measurement]] used in [[electronics]]. It is used for [[capacitor|capacitance]], which is the ability to store [[electric charge]].  The unit is named after the English [[physicist]] [[Michael Faraday]]. The different sizes of farad are: farads (F), millifarads (mF), microfarads (μF), nanofarads (nF) or picofarads (pF). The farad is a large unit of capacitance. < ref name=serway > {{cite book|first1=Raymond A.|last1=Serway|first2=Jerry S.|last2=Faughn|title=College Physics|url=https://archive.org/details/collegephysics00serw|edition=Second|date=1989|publisher=Saunders College Publishing|isbn=0030229529|page=[https://archive.org/details/collegephysics00serw/page/447 447]}} < /ref >  Typical devices in electronics have capacitances ranging from microfarads to picofarads. < ref name=serway / >  Some [[supercapacitor]] < nowiki/ > s have more than one farad. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{SI units}} 
+ 
+ {{physics-stub}} 
+ 
+ [[Category:Electricity]] 
+ [[Category:SI derived units]]

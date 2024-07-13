@@ -1,0 +1,121 @@
+{{Chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 464365466 
+ | ImageFileL1 = Butane simple.svg 
+ | ImageFileL1_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeL1 = 110 
+ | ImageAltL1 = Skeletal formula of butane with all implicit hydrogens shown 
+ | ImageFileR1 = Butan Lewis.svg 
+ | ImageFileR1_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeR1 = 120 
+ | ImageAltR1 = Skeletal formula of butane with all carbon and hydrogen atoms shown 
+ | ImageFileL2 = Butane-3D-balls.png 
+ | ImageFileL2_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeL2 = 120 
+ | ImageAltL2 = Ball-and-stick model of the butane molecule 
+ | ImageFileR2 = Butane-3D-space-filling.png 
+ | ImageFileR2_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeR2 = 120 
+ | ImageAltR2 = Space-filling model of the butane molecule 
+ | PIN = Butane < ref name=iupac2013 > {{cite book | title =  Nomenclature of Organic Chemistry : IUPAC Recommendations and Preferred Names 2013 (Blue Book) | publisher = [[Royal Society of Chemistry|The Royal Society of Chemistry]] | date = 2014 | location = Cambridge | page = 4 | doi = 10.1039/9781849733069-FP001 | isbn = 978-0-85404-182-4 | quote = Similarly, the retained names ‘ethane’, ‘propane’, and ‘butane’ were never replaced by systematic names ‘dicarbane’, ‘tricarbane’, and ‘tetracarbane’ as recommended for analogues of silane, ‘disilane’; phosphane, ‘triphosphane’; and sulfane, ‘tetrasulfane’.| chapter = Front Matter }} < /ref > 
+ | SystematicName = Tetracarbane (never recommended < ref name=iupac2013 / > ) 
+ | OtherNames = Butyl hydride < ref name=PGCH/ > < br > Quartane < ref > {{cite journal|url=http://rspl.royalsocietypublishing.org/content/15/54|title=I. On the action of trichloride of phosphorus on the salts of the aromatic monamines|first=August Wilhelm Von|last=Hofmann|date=1 January 1867|journal=Proceedings of the Royal Society of London|volume=15|pages=54–62|accessdate=20 September 2018|via=rspl.royalsocietypublishing.org|doi=10.1098/rspl.1866.0018|s2cid=98496840}} < /ref > 
+ |Section1={{Chembox Identifiers 
+ | CASNo = 106-97-8 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 7843 
+ | ChemSpiderID = 7555 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = 6LV4FOR43R 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | EINECS = 203-448-7 
+ | UNNumber = 1011 
+ | KEGG = D03186 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | MeSHName = butane 
+ | ChEBI = 37808 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 134702 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS = EJ4200000 
+ | Beilstein = 969129 
+ | Gmelin = 1148 
+ | SMILES = CCCC 
+ | StdInChI = 1S/C4H10/c1-3-4-2/h3-4H2,1-2H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = IJDNQMDRQITEOD-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ }} 
+ |Section2={{Chembox Properties 
+ | C=4 | H=10 
+ | Appearance = Colorless gas 
+ | Odor = Gasoline-like or natural gas-like < ref name=PGCH/ > 
+ | Density = 2.48 kg/m < sup > 3 < /sup >  (at {{convert|15|C}}) 
+ | MeltingPtK = 133 to 139 
+ | BoilingPtK = 272 to 274 
+ | Solubility = 61 mg L < sup > −1 < /sup >  (at {{convert|20|C}}) 
+ | LogP = 2.745 
+ | MagSus = -57.4·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+ | VaporPressure = ~170 kPa at 283 K  < ref > {{Cite journal|title=Pressure-Volume-Temperature Relations for n-Butane|journal=Industrial  &  Engineering Chemistry|volume=32|issue=3|pages=358–360|author=W. B. Kay|doi=10.1021/ie50363a016|year=1940}} < /ref > 
+ | HenryConstant = 11 nmol Pa < sup > −1 < /sup >  kg < sup > −1 < /sup > 
+ | ConjugateAcid = [[Butanium]] 
+ }} 
+ |Section3={{Chembox Thermochemistry 
+ | DeltaHf = −126.3–−124.9 kJ mol < sup > −1 < /sup > 
+ | DeltaHc = −2.8781–−2.8769 MJ mol < sup > −1 < /sup > 
+ | HeatCapacity = 98.49 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ }} 
+ |Section4={{Chembox Hazards 
+ | Hazards_ref =  < ref > {{cite web|title=Safety Data Sheet, Material Name: N-Butane|url=http://www.chemadvisor.com/Matheson/database/msds/MAT15370000800003.PDF|publisher=Matheson Tri-Gas Incorporated|accessdate=11 December 2011|location=USA|date=5 February 2011|url-status=dead|archiveurl=https://web.archive.org/web/20111001074639/http://www.chemadvisor.com/Matheson/database/msds/MAT15370000800003.PDF|archivedate=1 October 2011}} < /ref > 
+ | GHSPictograms = {{GHS flame}} 
+ | GHSSignalWord = '''DANGER''' 
+ | HPhrases = {{H-phrases|220}} 
+ | PPhrases = {{P-phrases|210}} 
+ | NFPA-H = 1 
+ | NFPA-F = 4 
+ | NFPA-R = 0 
+ | NFPA-S = SA 
+ | FlashPtC = −60 
+ | AutoignitionPtC = 405 
+ | ExploLimits = 1.8–8.4% 
+ | PEL = none < ref name=PGCH > {{PGCH|0068}} < /ref > 
+ | IDLH = N.D. < ref name=PGCH/ > 
+ | REL = TWA 800 ppm (1900 mg/m < sup > 3 < /sup > ) < ref name=PGCH/ > 
+ }} 
+ |Section5={{Chembox Related 
+ | OtherFunction_label = alkanes 
+ | OtherFunction = {{Unbulleted list|[[Propane]]|[[Isobutane]]|[[Pentane]]}} 
+ | OtherCompounds = [[Perfluorobutane]] 
+ }} 
+ }} 
+ [[File:Aerosol.png|thumb|right|Aerosol spray cans often contain Butane]] 
+ '''Butane''' is an [[organic compound]] with the [[chemical formula]] {{chem|[[Carbon|C]]|4|[[Hydrogen|H]]|10}}. It is an [[alkane]] with four carbon [[atom]]s. It is used as a [[fuel]] (sometimes with [[propane]]) and in [[aerosol]] cans. 
+ 
+ == Uses of Butane == 
+ Butane is sold in canisters, for cooking and camping. It is also used as [[fuel]] in [[cigarette]] [[lighter]]s, and as [[propellant]] in [[aerosol spray]]s or [[deodorant]]s. Some kinds of Butane are used in [[refrigerator]]s. 
+ 
+ Mixtures with [[Propane]] are known as [[Liquefied petroleum gas|LPG]]. 
+ 
+ == Dangers == 
+ Butane can be hazardous. Inhalation can lead to death by [[asphyxiation]] due to displacement of oxygen in the lungs. Contact with the skin can lead to [[frostbite]]. If the gas is mixed with air and ignighted it is prone to [[explosion|explode]] like many other fuels that are [[volatile]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc02/icsc0232.htm International Chemical Safety Card 0232] 
+ * [https://www.cdc.gov/niosh/npg/npgd0068.html NIOSH Pocket Guide to Chemical Hazards] 
+ * [http://www.it.swin.edu.au/personal/fwang/Mom/Mom_butane.html ''n''-Butane] {{Webarchive|url=https://web.archive.org/web/20080925152401/http://www.it.swin.edu.au/personal/fwang/Mom/Mom_butane.html |date=2008-09-25 }} Molecule of the Month 
+ * [http://www.bluerhinos.co.uk/molview/indv.php?id=11 Molview from bluerhinos.co.uk] {{Webarchive|url=https://web.archive.org/web/20080508002124/http://www.bluerhinos.co.uk/molview/indv.php?id=11 |date=2008-05-08 }} See Butane in 3D 
+ * [http://www.compchemwiki.org/index.php?title=Butane Computational Chemistry Wiki] {{Webarchive|url=https://web.archive.org/web/20090430092851/http://www.compchemwiki.org/index.php?title=Butane |date=2009-04-30 }} 
+ * [http://www.worldlpgas.com World LP Gas Association (WLPGA)] 
+ * [http://www.lpga.co.uk/LPGA.htm LP Gas Association: Propane and Butane in the UK] {{Webarchive|url=https://web.archive.org/web/20080413140037/http://www.lpga.co.uk/LPGA.htm |date=2008-04-13 }} 
+ * [http://www.biobutane.com Global BioSciences] In-Situ Bioremediation utilizing Butane 
+ * [http://twt.mpei.ac.ru/MAS/Worksheets/HEDH/5-5-14-03-16/Tab-5-5-14-06-BUTANE-viscosity.mcd Butane Viscosity as function of ] temperature and pressure 
+ 
+ 
+ {{chem-stub}} 
+ {{Fuel gas}} 
+ 
+ [[Category:Alkanes|4]] 
+ [[Category:Fuel]]

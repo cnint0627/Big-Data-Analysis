@@ -1,0 +1,132 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = {{raise|0.2em|Shibuya}} 
+ | native_name             = {{lower|0.1em|{{nobold|{{lang|ja|渋谷区}}}}}} 
+ | official_name           = Shibuya City 
+ | settlement_type         = [[Special wards of Tokyo|Special ward]] 
+ < !-- images, nickname, motto --- > 
+ | image_skyline           = 2018 Shibuya Crossing.jpg 
+ | imagesize               = 
+ | image_alt               = 
+ | image_caption           = [[Shibuya Crossing]] 
+ | image_flag              = Flag of Shibuya, Tokyo.svg 
+ | flag_alt                = 
+ | image_seal              = Emblem of Shibuya, Tokyo.svg 
+ | seal_alt                = 
+ | image_shield            = 
+ | shield_alt              = 
+ | image_blank_emblem      = 
+ | nickname                = 
+ | motto                   = 
+ < !-- maps and coordinates ------ > 
+ | image_map               = Shibuya-ku in Tokyo Prefecture Ja.svg 
+ | map_alt                 = 
+ | map_caption             = Location of Shibuya in Tokyo 
+ | image_dot_map           = 
+ | dot_mapsize             = 
+ | dot_map_base_alt        = 
+ | dot_map_alt             = 
+ | dot_map_caption         = 
+ | dot_x = |dot_y = 
+ | pushpin_map             =  < !--Japan Tokyo city#Japan Tokyo#Japan Kanto#Japan-- > 
+ | pushpin_label_position  =  < !-- position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_map_alt         = 
+ | pushpin_map_caption     =  & nbsp; 
+ | coordinates             = {{coord|35|39|34|N|139|42|02|E|region:JP-13|display=it}} 
+ | coor_pinpoint           =  < !-- to specify exact location of coordinates (was coor_type) -- > 
+ | coordinates_footnotes   =  < !-- for references: use  < ref >  tags -- > 
+ < !-- location ------------------ > 
+ | subdivision_type = Country 
+ | subdivision_name        = [[Japan]] 
+ | subdivision_type1       = [[List of regions of Japan|Region]] 
+ | subdivision_name1       = [[Kantō region|Kantō]] 
+ | subdivision_type2       = [[Prefectures of Japan|Prefecture]] 
+ | subdivision_name2       = [[Tokyo]] 
+ | subdivision_type3       = 
+ | subdivision_name3       = 
+ < !-- established --------------- > 
+ | established_title       =  < !-- Settled -- > 
+ | established_date        = 
+ | founder                 = 
+ | named_for               = 
+ < !-- seat, smaller parts ------- > 
+ | seat_type               =  < !-- defaults to: Seat -- > 
+ | seat                    = 
+ < !-- government type, leaders -- > 
+ | government_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | leader_party            = 
+ | leader_title            = Mayor 
+ | leader_name             = Ken Hasebe (since April 2015)  
+ | leader_title1           = 
+ | leader_name1            =  < !-- etc., up to leader_title4 / leader_name4 -- > 
+ < !-- display settings  --------- > 
+ | total_type              =  < !-- to set a non-standard label for total area and population rows -- > 
+ | unit_pref               =  < !-- enter: Imperial, to display imperial before metric -- > 
+ < !-- area ---------------------- > 
+ | area_magnitude          =  < !-- use only to set a special wikilink -- > 
+ | area_footnotes          =  < !-- for references: use  < ref >  tags -- > 
+ | area_total_km2          = 15.11 
+ | area_total_sq_mi        =  < !-- see table @ Template:Infobox settlement for details -- > 
+ | area_land_km2           = 
+ | area_land_sq_mi         = 
+ | area_water_km2          = 
+ | area_water_sq_mi        = 
+ | area_water_percent      = 
+ | area_note               = 
+ < !-- elevation ----------------- > 
+ | elevation_footnotes     =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_m             = 
+ | elevation_ft            = 
+ < !-- population ---------------- > 
+ | population_footnotes    =  
+ | population_total        = 231043 
+ | population_as_of        = 10 April 2020 
+ | population_density_km2  = 15290.7 
+ | population_density_sq_mi= 
+ | population_est          = 
+ | pop_est_as_of           = 
+ | population_demonym      =  < !-- demonym, ie. Liverpudlian for someone from Liverpool -- > 
+ | population_note         = 
+ < !-- time zone(s) -------------- > 
+ | timezone1               = [[Japan Standard Time]] 
+ | utc_offset1             = +9 
+ < !-- postal codes, area code --- > 
+ | postal_code_type        = 
+ | postal_code             = 
+ | area_code_type          =  < !-- defaults to: Area code(s) -- > 
+ | area_code               = 
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec1        = 
+ | blank_info_sec1        = 
+ | blank1_name_sec1        = 
+ | blank1_info_sec1        =  
+ < !-- blank fields (section 2) -- > 
+ | blank_name_sec2         = City office 
+ | blank_info_sec2         = Shibuya 1-18-21, Shibuya-ku, Tokyo 150-8010 
+ | blank1_name_sec2        = 
+ | blank1_info_sec2        = 
+ < !-- website, footnotes -------- > 
+ | website                 = {{URL|http://www.city.shibuya.tokyo.jp/}} 
+ | footnotes               = 
+ }} 
+ {{nihongo|'''Shibuya'''|渋谷|Shibuya-ku}} is a [[special wards of Tokyo|special ward]] of [[Tokyo]], [[Japan]]. It is a very important area for [[commerce]] and [[business]]. It also has the two busiest [[railway station]]s in the world, [[Shinjuku Station]] and [[Shibuya Station]]. As of 2020, it has an [[population]] of about 231,043, and a [[population density]] of 15,290.7 people per km < sup > 2 < /sup >  (39,603/sq mi). The total area is 15.11 & nbsp;km < sup > 2 < /sup >  (5.83 sq mi). < ref > {{cite web|url=http://www.city.shibuya.tokyo.jp.e.mu.hp.transer.com/kusei/tokei/jinko/jumin.html|title=Resident registration population|date=10 April 2020|website=Shibuya City|access-date=12 April 2020|archive-date=15 August 2020|archive-url=https://web.archive.org/web/20200815170653/http://www.city.shibuya.tokyo.jp.e.mu.hp.transer.com/kusei/tokei/jinko/jumin.html|url-status=dead}} < /ref > 
+ 
+ Shibuya is famous for its [[pedestrian scramble|scramble crossing]], which is called [[Shibuya Crossing]]. 
+ 
+ ==Related pages== 
+ * [[Shinjuku]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{commonscat}} 
+ {{wikivoyage}} 
+ * {{official website|https://www.city.shibuya.tokyo.jp/}} {{in lang|ja}} 
+ 
+ {{Tokyo}} 
+ 
+ [[Category:Wards of Tokyo]] 
+ 
+ 
+ {{japan-stub}}

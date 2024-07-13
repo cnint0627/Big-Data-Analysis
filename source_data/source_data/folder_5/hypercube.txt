@@ -1,0 +1,50 @@
+{| align=right class=wikitable 
+ |+ [[Perspective projection]]s 
+ |- 
+ |[[File:Hexahedron.svg|190px]] 
+ |[[File:Hypercube.svg|190px]] 
+ |- 
+ ![[Cube]] (3-cube) 
+ ![[Tesseract]] (4-cube) 
+ |} 
+ 
+ In [[geometry]], a '''hypercube''' is an [[N-dimensional space|''n''-dimensional]] analogue of a [[Square (geometry)|square]] ({{nowrap|1=''n'' = 2}}) and a [[cube]] ({{nowrap|1=''n'' = 3}}). It is a [[Closed set|closed]], [[Compact space|compact]], [[Convex polytope|convex]] figure whose 1-[[N-skeleton|skeleton]] consists of groups of opposite [[parallel (geometry)|parallel]] [[line segment]]s aligned in each of the space's [[dimension]]s, [[perpendicular]] to each other and of the same length.  A unit hypercube's longest diagonal in ''n'' dimension is equal to  < math > \sqrt{n} < /math > . 
+ 
+ An ''n''-dimensional hypercube is also called an '''''n''-cube''' or an '''''n''-dimensional cube'''.  The term  " measure polytope "  is also used, notably in the work of [[Harold Scott MacDonald Coxeter|H. S. M. Coxeter]] (originally from Elte, 1912), < ref > {{cite book| last=Elte | first=E. L. | title=The Semiregular Polytopes of the Hyperspaces | publisher=[[University of Groningen]] | location=Netherlands | year = 1912  | chapter=IV, Five dimensional semiregular polytope | isbn=141817968X }} < /ref >  but it has now been superseded. 
+ 
+ The hypercube is the special case of a [[hyperrectangle]] (also called an ''n-orthotope''). 
+ 
+ A '''unit hypercube''' is a hypercube whose side has length one unit.  Often, the hypercube whose corners (or ''vertices'') are the 2 < sup > ''n'' < /sup >  points in '''R''' < sup > ''n'' < /sup >  with each coordinate equal to 0 or 1 is called ''' " the "  unit hypercube'''. 
+ 
+ ==Construction== 
+ [[File:Dimension levels.svg|thumb|350px|A diagram showing how to create a tesseract from a point.]] 
+ [[File:From Point to Tesseract (Looped Version).gif|thumb|An animation showing how to create a tesseract from a point.]] 
+ 
+ A hypercube can be defined by increasing the numbers of dimensions of a shape: 
+ 
+ :'''0''' – A point is a hypercube of dimension zero. 
+ :'''1''' – If one moves this point one unit length, it will sweep out a line segment, which is a unit hypercube of dimension one. 
+ :'''2''' – If one moves this line segment its length in a [[perpendicular]] direction from itself; it sweeps out a 2-dimensional square. 
+ :'''3''' – If one moves the square one unit length in the direction perpendicular to the plane it lies on, it will generate a 3-dimensional cube. 
+ :'''4''' – If one moves the cube one unit length into the fourth dimension, it generates a 4-dimensional unit hypercube (a unit [[tesseract]]). 
+ 
+ This can be generalized to any number of dimensions. This process of sweeping out volumes can be formalized mathematically as a [[Minkowski sum]]: the ''d''-dimensional hypercube is the Minkowski sum of ''d'' mutually perpendicular unit-length line segments, and is therefore an example of a [[zonotope]]. 
+ 
+ The 1-[[Skeleton (topology)|skeleton]] of a hypercube is a [[hypercube graph]]. 
+ 
+ ==Related pages== 
+ * [[Simplex]] - the n-dimensional analogue of the [[triangle]] 
+ * [[Hyperrectangle]] - the general case of the hypercube, where the base is a [[rectangle]]. 
+ 
+ ==Notes== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * {{MathWorld|title=Hypercube|urlname=Hypercube}} 
+ * {{MathWorld|title=Hypercube graphs|urlname=HypercubeGraph}} 
+ * [[George Olshevsky|Olshevsky, George]], ''[https://web.archive.org/web/20070204075028/http://members.aol.com/Polycell/glossary.html#Measure Measure polytope]'' at ''Glossary for Hyperspace''. 
+ * [http://www.4d-screen.de/related-space/ www.4d-screen.de] (Rotation of 4D – 7D-Cube) 
+ * ''[http://demonstrations.wolfram.com/RotatingAHypercube/  Rotating a Hypercube]'' by Enrique Zeleny, [[Wolfram Demonstrations Project]]. 
+ * [http://dogfeathers.com/java/hyprcube.html Stereoscopic Animated Hypercube] 
+ 
+ [[Category:Shapes]]

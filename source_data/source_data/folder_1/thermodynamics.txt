@@ -1,0 +1,36 @@
+'''Thermodynamics''' is a [[branch]] of [[physics]] that studies the relations between, heat, temperature, and energy. A branch of [[Mathematics|math]] called [[statistics]] is often used in thermodynamics to look at the motion of [[particle]]s. 
+ 
+ Thermodynamics is useful because it helps us understand how the world of the very small [[atoms]] connects to the large scale world we see everyday. 
+ 
+ Thermodynamics also has two main branches called [[classical thermodynamics]] < ref > Pippard, A. B. (1964). Elements of classical thermodynamics: for advanced students of physics. Cambridge University Press. < /ref > < ref > Emanuel, G. (1988). Advanced classical thermodynamics. AIAA. < /ref >  and [[Statistical mechanics|statistical]] thermodynamics. < ref > Hill, T. L. (1986). An introduction to statistical thermodynamics. Courier Corporation. < /ref > < ref > Fowler, R. H. (1939). Statistical thermodynamics. CUP Archive. < /ref > < ref > Schrödinger, E. (1989). Statistical thermodynamics. Courier Corporation. < /ref >  An important idea in thermodynamics is that of a [[thermodynamic system]]. 
+ 
+ An example of a thermodynamic system is a brick. A brick is made up of many atoms which all have their own properties. All thermodynamic systems have two kinds of properties, ''extensive'' and ''intensive''. For the brick, the extensive properties are the ones you get by adding up all the atoms. Things like the [[volume]], [[energy]], [[mass]], and [[Electric charge|charge]] are extensive because two of the same brick put together have twice as much mass as one brick. The intensive properties of the brick are the ones you get by looking at the average over all atoms. Things like [[temperature]], [[pressure]], and [[density]] are intensive because two of the same brick still has the same temperature as one brick alone. 
+ 
+ == Laws of thermodynamics == 
+ There are four laws of thermodynamics that say how [[energy]] can be moved between two objects in the form of [[heat]]. The laws of Thermodynamics point out how the energy in a system changes and if the system can work well with its surroundings. 
+ * [[Zeroth law of thermodynamics]] 
+ ::If two systems have equal heat flow back and forth and one of the two systems has equal heat flow back and forth with another system, all three systems have equal heat flow with each other. 
+ 
+ * [[First law of thermodynamics]] 
+ 
+ ::An increase in [[energy]] in a system is the same as the energy given to a system in the form of [[heat]] or work. Energy cannot be created or destroyed, only changed. The amount of energy given to a system is the same amount of energy taken from the surroundings. 
+ 
+ * [[Second law of thermodynamics]] 
+ ::Given a pair of systems touching with different temperatures, heat will flow from hot to cold until the [[temperature]] of the systems becomes equal. 
+ 
+ * [[Third law of thermodynamics]] 
+ ::When a system has a [[temperature]] of 0 kelvin, [[absolute zero]] (the lowest temperature), the [[entropy]] (energy that cannot be used to do [[work]]) is at 0. 
+ 
+ == Uses of thermodynamics == 
+ 
+ Earlier, thermodynamics was studied to make [[steam engine]]s work better. Now, ideas from thermodynamics are used in everything from making [[engine]]s to studying [[black hole]]s. < ref > Wald, R. M. (2001). The thermodynamics of black holes. Living reviews in relativity, 4(1), 6. < /ref > < ref > Davies, P. C. (1978). Thermodynamics of black holes. Reports on Progress in Physics, 41(8), 1313. < /ref > 
+ 
+ Scientists use thermodynamics for many reasons. One is to make better [[engine]]s and [[refrigerator]]s. Another is to understand the properties of everyday materials so that they can make them stronger in the future. Thermodynamics is also used in [[chemistry]] to explain which reactions will work and which will not (this study is known as chemical kinetics < ref > Steinfeld, J. I., Francisco, J. S.,  &  Hase, W. L. (1989). Chemical kinetics and dynamics (Vol. 3). Englewood Cliffs (New Jersey): Prentice Hall. < /ref > < ref > Espenson, J. H. (1995). Chemical kinetics and reaction mechanisms (Vol. 102). New York: McGraw-Hill. < /ref > < ref > Frank-Kamenetskii, D. A. (2015). Diffusion and heat exchange in chemical kinetics. Princeton University Press. < /ref > < ref > Connors, K. A. (1990). Chemical kinetics: the study of reaction rates in solution. Wiley-VCH Verlag GmbH. < /ref > ). Thermodynamics is powerful because simple models for atoms work well in explaining the properties of large systems like bricks. 
+ ==References== 
+ {{reflist|2}} 
+ ==Related pages== 
+ {{commonscat}} 
+ * [[Physics]] 
+ {{authority control}} 
+ 
+ [[Category:Thermodynamics| ]]

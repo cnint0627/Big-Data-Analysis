@@ -1,0 +1,247 @@
+{{lowercase title}} 
+ {{Infobox software 
+ | name                   = jQuery 
+ | logo                   =  
+ | author                 = [[John Resig]] 
+ | developer              = jQuery Team 
+ | released               = {{start date|2006|08|26}} 
+ | latest release version = 3.2.1 
+ | latest release date    = {{start date and age|2017|03|20}} 
+ | programming language   = [[JavaScript]] 
+ | platform               = See [[#Browser support|Browser support]] 
+ | status                 = Active 
+ | genre                  = [[JavaScript library]] 
+ | license                = [[MIT License|MIT]] < ref > {{cite web 
+  | url = http://jquery.org/license/ 
+  | title = License - jQuery Project 
+  | accessdate = 5 January 2013 
+  | publisher = jQuery Foundation 
+ }} < /ref > 
+ | website                = {{URL|jquery.com}} 
+ | size                   = {{!}} class= " wikitable "  style= " margin:0; " 
+ {{!}}- 
+ {{!}}  < abbr title= " version " > ver < /abbr >  {{!}}{{!}}  < abbr title= " compressed and gzipped " > gzip < /abbr >  {{!}}{{!}}  < abbr title= " compressed, production mode " > prod < /abbr >  {{!}}{{!}}  < abbr title= " uncompressed, development mode " > dev < /abbr > 
+ {{!}}- 
+ {{!}} 1.x {{!}}{{!}} 31 {{!}}{{!}} 90.9 {{!}}{{!}} 266 
+ {{!}}- 
+ {{!}} 2.x {{!}}{{!}} 27.7 {{!}}{{!}} 81.6 {{!}}{{!}} 236 
+ {{!}}- 
+ {{!}} 3.x {{!}}{{!}} 29.9 {{!}}{{!}} 86.3 {{!}}{{!}} 263 
+ {{!}}} 
+ ([[Kilobyte#Base 2 definition|KB]]) 
+ }} 
+ 
+ '''jQuery''' is a [[JavaScript|JavaScript library]] created to make it easier and simpler to write [[JavaScript]] and [[HTML]]. It works on most [[web browsers]] < ref name= " jquery.com " > {{cite web|url=http://jquery.com/|title=jQuery: The write less, do more, JavaScript library|publisher=The jQuery Project|accessdate=29 April 2010}} < /ref >  and was invented by [[John Resig]]. The first [[software release|release]] was in January 2006 at [[BarCamp]] NYC. Today there is a [[team]] of [[Programmer|programmers]] working on jQuery, which is led by Dave Methvin. 
+ 
+ Today, more than 55% of the 10,000 most-visited websites use jQuery, hence it is the most popular JavaScript library being used today. < ref > {{cite web|url=http://trends.builtwith.com/javascript/JQuery|title=jQuery Usage Statistics|accessdate=2012-04-02|archive-date=2018-12-25|archive-url=https://web.archive.org/web/20181225092702/https://trends.builtwith.com/javascript/JQuery|url-status=dead}} < /ref > < ref > {{cite web |url=http://w3techs.com/technologies/overview/javascript_library/all|title=Usage of JavaScript libraries for websites|publisher=W3Techs|accessdate=2010-07-08}} < /ref >  It is [[free and open source software]] and licensed under the [[MIT License]]. < ref > {{cite web |url=http://docs.jquery.com/License |title=License – JQuery JavaScript Library |accessdate=2009-11-26}} < /ref > 
+ 
+ jQuery's [[syntax]] is designed to make it easier to write complicated JavaScript. Some things that are easier to do using jQuery are: 
+ * navigate (move around) a web page 
+ * select (choose) elements on a web page using the [[Document Object Model]] 
+ * create [[animation]]s 
+ * handle [[Event (computing)|events]] like user actions 
+ * create [[Ajax (programming)|Ajax applications]]. 
+ It also allows [[Programmer|programmers]] to make their own jQuery [[Plug-in (computing)|plug-in]]s.  
+ 
+ Companies like [[Microsoft]] and [[Nokia]] have said that they are going to include jQuery on their [[mobile]] [[platform]]s. < ref name= " 2008-09-28 " > {{cite web |url=http://jquery.com/blog/2008/09/28/jquery-microsoft-nokia/ |title=jQuery, Microsoft, and Nokia |date=2008-09-28 |last=Resig |first=John |publisher=jQuery |work=jQuery Blog |accessdate=2009-01-29 }} < /ref >  In addition, Microsoft is including jQuery in its [[Visual Studio]] software to use with the [[ASP.NET AJAX]] [[framework]] and [[ASP.NET MVC Framework]]. < ref > {{cite web |url=http://weblogs.asp.net/scottgu/archive/2008/09/28/jquery-and-microsoft.aspx |title=jQuery and Microsoft |last=Guthrie |first=Scott |work=ScottGu's Blog |date=2008-09-28 |accessdate=2009-01-29 }} < /ref >  Nokia has included it in their Web Run-Time widget development platform. < ref > {{cite web |url=http://wiki.forum.nokia.com/index.php/Guarana_UI:_a_jQuery-Based_UI_Library_for_Nokia_WRT |title=Guarana UI: A jQuery Based UI Library for Nokia WRT |accessdate=2010-03-30 |work=Forum Nokia |archive-date=2009-11-23 |archive-url=https://web.archive.org/web/20091123130408/http://wiki.forum.nokia.com/index.php/Guarana_UI%3A_a_jQuery-Based_UI_Library_for_Nokia_WRT |url-status=dead }} < /ref >  jQuery has also been used in [[MediaWiki]] since version 1.16. < ref > {{cite web|url=http://www.mediawiki.org/wiki/JQuery |title=jQuery |publisher=MediaWiki |date=January 19, 2012 |accessdate=March 11, 2012}} < /ref > 
+ 
+ ==Release history== 
+ {| class= " wikitable sortable "  style= " width:600px; " 
+ |- 
+ ! Version number 
+ ! Release date 
+ ! Additional notes 
+ |- 
+ | style= " width:50px; " | 1.0 
+ | style= " width:150px; " | [http://jquery.com/blog/2006/08/26/jquery-10/ August 26, 2006] 
+ | First stable release 
+ |- 
+ | 1.0.1 
+ | [http://jquery.com/blog/2006/08/31/jquery-101/ August 31, 2006] 
+ | 
+ |- 
+ | 1.0.2 
+ | [http://jquery.com/blog/2006/10/09/jquery-102/ October 9, 2006] 
+ | 
+ |- 
+ | 1.0.3 
+ | [http://jquery.com/blog/2006/10/27/jquery-103/ October 27, 2006] 
+ | 
+ |- 
+ | 1.0.4 
+ | [http://jquery.com/blog/2006/12/12/jquery-104/ December 12, 2006] 
+ | Last 1.0 bug fix 
+ |- 
+ | 1.1 
+ | [http://jquery.com/blog/2007/01/14/jquery-birthday-11-new-site-new-docs/ January 14, 2007] 
+ | 
+ |- 
+ | 1.1.1 
+ | [http://jquery.com/blog/2007/01/22/jquery-111/ January 22, 2007] 
+ | 
+ |- 
+ | 1.1.2 
+ | [http://jquery.com/blog/2007/02/27/jquery-112/ February 27, 2007] 
+ | 
+ |- 
+ | 1.1.3 
+ | [http://jquery.com/blog/2007/07/01/jquery-113-800-faster-still-20kb/ July 1, 2007] 
+ | 
+ |- 
+ | 1.1.3.1 
+ | [http://jquery.com/blog/2007/07/05/jquery-1131/ July 5, 2007] 
+ | 
+ |- 
+ | 1.1.4 
+ | [http://jquery.com/blog/2007/08/24/jquery-114-faster-more-tests-ready-for-12/ August 24, 2007] 
+ | 
+ |- 
+ | 1.2 
+ | [http://jquery.com/blog/2007/09/10/jquery-12-jqueryextendawesome/ September 10, 2007] 
+ | 
+ |- 
+ | 1.2.1 
+ | [http://jquery.com/blog/2007/09/16/jquery-121-quick-fixes-for-12/ September 16, 2007] 
+ | 
+ |- 
+ | 1.2.2 
+ | [http://jquery.com/blog/2008/01/15/jquery-122-2nd-birthday-present/ January 15, 2008] 
+ | 
+ |- 
+ | 1.2.3 
+ | [http://jquery.com/blog/2008/02/08/jquery-123-air-namespacing-and-ui-alpha/ February 8, 2008] 
+ | 
+ |- 
+ | 1.2.4 
+ | [http://docs.jquery.com/Release:jQuery_1.2.4 May 19, 2008] 
+ | 
+ |- 
+ | 1.2.5 
+ | [http://docs.jquery.com/Release:jQuery_1.2.5 May 21, 2008] 
+ | Fix for bad build of 1.2.4 
+ |- 
+ | 1.2.6 
+ | [http://docs.jquery.com/Release:jQuery_1.2.6 May 24, 2008] 
+ | 
+ |- 
+ | 1.3 
+ | [http://blog.jquery.com/2009/01/14/jquery-13-and-the-jquery-foundation/ January 14, 2009] 
+ | Sizzle Selector Engine introduced into core 
+ |- 
+ | 1.3.1 
+ | [http://blog.jquery.com/2009/01/21/jquery-131-released/ January 21, 2009] 
+ | 
+ |- 
+ | 1.3.2 
+ | [http://blog.jquery.com/2009/02/20/jquery-132-released/ February 20, 2009] {{Webarchive|url=https://web.archive.org/web/20090827103446/http://blog.jquery.com/2009/02/20/jquery-132-released/ |date=August 27, 2009 }} 
+ | 
+ |- 
+ | 1.4 
+ | [http://blog.jquery.com/2010/01/14/jquery-14-released/ January 14, 2010] 
+ | 
+ |- 
+ | 1.4.1 
+ | [http://jquery14.com/day-12/jquery-141-released January 25, 2010] 
+ | 
+ |- 
+ | 1.4.2 
+ | [http://blog.jquery.com/2010/02/19/jquery-142-released/ February 19, 2010] 
+ | 
+ |- 
+ | 1.4.3 
+ | [http://blog.jquery.com/2010/10/16/jquery-143-released/ October 16, 2010] 
+ | 
+ |- 
+ | 1.4.4 
+ | [http://blog.jquery.com/2010/11/11/jquery-1-4-4-release-notes/ November 11, 2010] 
+ | 
+ |- 
+ | 1.5 
+ | [http://blog.jquery.com/2011/01/31/jquery-15-released/ January 31, 2011] 
+ | Deferred callback management, ajax module rewrite 
+ |- 
+ | 1.5.1 
+ | [http://blog.jquery.com/2011/02/24/jquery-151-released/ February 24, 2011] 
+ | 
+ |- 
+ | 1.5.2 
+ | [http://blog.jquery.com/2011/03/31/jquery-152-released/ March 31, 2011] 
+ | 
+ |- 
+ | 1.6 
+ | [http://blog.jquery.com/2011/05/03/jquery-16-released/ May 3, 2011] 
+ | Significant performance improvements to the attr() and val() functions 
+ |- 
+ | 1.6.1 
+ | [http://blog.jquery.com/2011/05/12/jquery-1-6-1-released/ May 12, 2011] 
+ | 
+ |- 
+ | 1.6.2 
+ | [http://blog.jquery.com/2011/06/30/jquery-162-released/ June 30, 2011] 
+ | 
+ |- 
+ | 1.6.3 
+ | [http://blog.jquery.com/2011/09/01/jquery-1-6-3-released/ September 1, 2011] 
+ | 
+ |- 
+ | 1.6.4 
+ | [http://blog.jquery.com/2011/09/12/jquery-1-6-4-released/ September 12, 2011] 
+ | 
+ |- 
+ | 1.7 
+ | [http://blog.jquery.com/2011/11/03/jquery-1-7-released/ November 3, 2011] 
+ | New Event APIs: .on() and .off(), while the old APIs are still supported. 
+ |- 
+ | 1.7.1 
+ | [http://blog.jquery.com/2011/11/21/jquery-1-7-1-released/ November 21, 2011] 
+ |  
+ |- 
+ | 1.7.2 
+ | [http://blog.jquery.com/2012/03/21/jquery-1-7-2-released/ March 21, 2012] 
+ |  
+ |- 
+ | 1.8.0 
+ | [http://blog.jquery.com/2012/08/09/jquery-1-8-released/ August 9, 2012] 
+ | Sizzle Selector Engine rewritten, improved animations and $(html, props) flexibility. 
+ |- 
+ | 1.8.1 
+ | [http://blog.jquery.com/2012/08/30/jquery-1-8-1-released/ August 30, 2012] 
+ |  
+ |- 
+ | 1.8.2 
+ | [http://blog.jquery.com/2012/09/20/jquery-1-8-2-released/ September 20, 2012] 
+ |  
+ |- 
+ | 1.8.3 
+ | [http://blog.jquery.com/2012/11/13/jquery-1-8-3-released/ November 13, 2012] 
+ |  
+ |- 
+ | 1.9.0 
+ | [http://blog.jquery.com/2012/06/28/jquery-core-version-1-9-and-beyond/ early 2013] 
+ | Removal of deprecated interfaces and code cleanup 
+ |- 
+ | 2.0.0 
+ | [http://blog.jquery.com/2012/06/28/jquery-core-version-1-9-and-beyond/ early 2013] 
+ | Dropping IE6-8 support for performance improvements and reduction in filesize 
+ |} 
+ 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * {{Official website|http://jquery.com/}} 
+ * [http://oscarotero.com/jquery/ Quick API Reference] 
+ * [http://jqueryui.com/ jQuery UI] 
+ * {{cite video 
+  | people = Dmitri Gaskin (speaker) 
+  | title = jQuery 
+  | url = https://www.youtube.com/watch?v=8mwKq7_JlS8 
+  | format = YouTube 
+  | publisher = Google Tech Talks 
+  | date = 2008-04-03 
+  | accessdate = 2009-05-04 
+ }} 
+ 
+ [[Category:JavaScript]] 
+ [[Category:Free software]]

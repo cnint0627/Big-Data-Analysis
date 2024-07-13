@@ -1,0 +1,40 @@
+{{Infobox Website 
+ | name           = Wikibooks 
+ | logo           = Wikibooks-logo-en.svg 
+ | screenshot     = Wikibooks screenshot 2009 - visible.png 
+ | caption        = Screenshot of wikibooks.org home page 
+ | url            = {{URL|https://www.wikibooks.org/}} 
+ | commercial     = No 
+ | type           = Textbooks wiki 
+ | language       = multilingual 
+ | registration   = Optional 
+ | owner          = [[Wikimedia Foundation]] 
+ | author         = [[b:User:Karl Wick|Karl Wick]] and the Wikimedia Community 
+ | launch_date    = {{start date and age|2003|07|10}} 
+ | current_status = Active 
+ }} 
+ '''Wikibooks''' (previously called '''Wikimedia Free Textbook Project''' and '''Wikimedia-Textbooks''') is a collection of free [[book]]s. It is one of many projects that are run by the [[Wikimedia Foundation]]. It is a [[wiki]], which makes it possible for anyone to edit. 
+ 
+ Some books are original, but others have started as text copied from other sources of free-content textbooks found on the Internet. 
+ 
+ The [[CC-BY-SA]] license covers all the content that is in Wikibooks. 
+ 
+ In February 2010, the [[Basic English|Simple English]] Wikibooks was closed and locked. 
+ 
+ == Wikijunior == 
+ Wikijunior is a subproject of Wikibooks that has books for children. The project consists of both a magazine and a website and is currently being developed in English, Danish, Finnish, French, German, Italian, Japanese, and Spanish. It is funded by a grant from the [[Beck Foundation]]. 
+ 
+ Pages in Wikijunior will have the  < tt > Wikijunior: < /tt >  prefix in front of the page's name. 
+ 
+ == Other websites == 
+ *[http://wikibooks.org Wikibooks Main page] 
+ *[[wikibooks:|Wikibooks in English]] 
+ {{commons}} 
+ {{Wikimedia Foundation}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Wikimedia]] 
+ [[Category:Wikis]] 
+ [[Category:Websites established in 2004]]

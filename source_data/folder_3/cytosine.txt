@@ -1,0 +1,45 @@
+{{Chembox new 
+ |ImageFile=Cytosine_chemical_structure.png 
+ |ImageSize=120px 
+ |IUPACName=4-amino-3H-pyrimidin-2-one 
+ |OtherNames= 
+ |Section1= {{Chembox Identifiers 
+ |  CASNo=71-30-7 
+ |  PubChem=597 
+ |  SMILES=C1=C(NC(=O)N=C1)N 
+ |  MeSHName=Cytosine 
+   }} 
+ |Section2= {{Chembox Properties 
+ |  Formula=C < sub > 4 < /sub > H < sub > 5 < /sub > N < sub > 3 < /sub > O 
+ |  MolarMass=111.102 
+ |  Appearance= 
+ |  Density= 
+ |  MeltingPt=320 - 325°C (decomp) 
+ |  BoilingPt= 
+ |  Solubility= 
+   }} 
+ |Section3= {{Chembox Hazards 
+ |  MainHazards= 
+ |  FlashPt= 
+ |  Autoignition= 
+   }} 
+ }} 
+ '''Cytosine''' is one of the 5 main [[nucleobase]]s used in storing and transporting [[genetics|genetic]] information within a [[cell]] in the [[nucleic acid]]s [[DNA]] and [[RNA]].  
+ 
+ In DNA and RNA, cytosine is paired with [[guanine]]. However, it is unstable, and can change into [[uracil]]. This can lead to a [[point mutation]] if not repaired. The [[DNA repair]] [[enzymes]], such as uracil glycosylase, cuts uracil in DNA. 
+ 
+ Cytosine is the centre of modern genetic research into [[epigenetics]]. [[Methyl]] groups added to cytosine change the action of genes during lifetime. These changes are not inherited. < ref > Carey, Nessa 2011. ''The epigenetics revolution: how modern biology is rewriting our understanding of genetics, disease and inheritance''. London: Icon Books. ISBN 978-184831347-7 < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *[http://www.compchemwiki.org/index.php?title=Cytosine Computational Chemistry Wiki] {{Webarchive|url=https://web.archive.org/web/20051202071659/http://www.compchemwiki.org/index.php?title=Cytosine |date=2005-12-02 }} 
+ * {{cite journal |author=Shapiro R |title=Prebiotic cytosine synthesis: a critical analysis and implications for the origin of life |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=96 |issue=8 |pages=4396–401 |year=1999 |pmid=10200273 |doi= 10.1073/pnas.96.8.4396|pmc=16343 |doi-access=free }} 
+ 
+ 
+ 
+ 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:DNA]] 
+ [[Category:Epigenetics]]

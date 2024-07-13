@@ -1,0 +1,123 @@
+{{Infobox country 
+ | conventional_long_name = Republic of Malta 
+ | common_name            = Malta 
+ | native_name            = {{native name|mt|Repubblika ta' Malta}} 
+ | image_flag             = Flag of Malta.svg 
+ | image_coat             = Coat of arms of Malta.svg 
+ | national_anthem        = [[L-Innu Malti]] < br/ > {{small|''The Maltese Hymn''}} [[File:Malta National Anthem.ogg|center]] 
+ | image_map              = EU-Malta.svg 
+ | map_caption            = {{map caption |location_color=Green circle |region=Europe |region_color=dark grey |subregion=the [[European Union]] |subregion_color=light green |legend=EU-Malta.svg}} 
+ | capital                = [[Valletta]] 
+ | coordinates            = {{Coord|35|54|N|14|31|E|type:city}} 
+ | largest_city           = [[Birkirkara]] 
+ | official_languages     = 
+ *[[Maltese language|Maltese]] {{small|(also in [[national language]])}} 
+ *[[English language|English]] 
+ | common_languages       = [[Italian language|Italian]] {{small|(66% conversational)}} 
+ | languages_type         = Sign language 
+ | languages              = Maltese Sign Language 
+ | demonym                = [[Maltese people|Maltese]] 
+ | government_type        = {{nowrap|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]]}} [[republic]] 
+ | leader_title1          = [[President of Malta|President]] 
+ | leader_name1           = [[George Vella]] 
+ | leader_title2          = [[Prime Minister of Malta|Prime Minister]] 
+ | leader_name2           = [[Robert Abela]] 
+ | leader_title3          = [[Speaker of the House of Representatives of Malta|Speaker]] 
+ | leader_name3           = [[Angelo Farrugia]] 
+ | leader_title4          = [[Chief Justice of Malta|Chief Justice]] 
+ | leader_name4           = [[Joseph Azzopardi]] 
+ | legislature            = {{nowrap|[[Parliament of Malta|House of Representatives]]}} 
+ | sovereignty_type       = Independence 
+ | sovereignty_note       = from the [[United Kingdom]] 
+ | established_event1     = [[State of Malta|Commonwealth realm]] 
+ | established_date1      = 21 September 1964 
+ | established_event2     = Republic 
+ | established_date2      = 13 December 1974 
+ | area_km2               = 316 < ref name= " Zammit " > {{cite journal|journal=Ekistics|last=Zammit|first=Andre|title=Valletta and the system of human settlements in the Maltese Islands|volume=53|issue=316/317|publisher=Athens Center of Ekistics|date=1986|pages=89–95|jstor=43620704}} < /ref > 
+ | area_rank              = 186th  < !-- Should match [[List of countries and dependencies by area]] -- > 
+ | area_sq_mi             = 122  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | percent_water          = 0.001 
+ | population_estimate    = {{nowrap|445,426 < ref name= " Estimated " > {{cite web|title=Estimated Population by Locality 31st March, 2014 |url=https://secure2.gov.mt/localgovernment/file.aspx?f=7810 |publisher=[[Government of Malta]] |archiveurl=https://web.archive.org/web/20150621211549/https://secure2.gov.mt/localgovernment/file.aspx?f=7810 |archivedate=21 June 2015 |date=16 May 2014 |url-status=dead }} < /ref > }} 
+ | population_census      = 416,055 < ref name= " nso.gov.mt " > [https://web.archive.org/web/20131203033602/http://www.nso.gov.mt/site/page.aspx?pageid=588 Census 2011]. National Statistics Office, Malta < /ref > 
+ | population_estimate_year = 2014 
+ | population_estimate_rank = 171st  < !--rank based on sovereign states only-- > 
+ | population_census_year = 2011 
+ | population_density_km2 = 1410 < ref name= " nso.gov.mt " / > 
+ | population_density_sq_mi = 4,077  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | population_density_rank = 7th  < !--rank based on sovereign states only-- > 
+ | GDP_PPP                = $18.404 & nbsp;billion < ref name=imf2 > {{cite web |url=http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=71 & pr.y=7 & sy=2017 & ey=2022 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & c=181 & s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC & grp=0 & a= |title=Malta |publisher=International Monetary Fund }} < /ref > 
+ | GDP_PPP_year           = 2017 
+ | GDP_PPP_rank           =  
+ | GDP_PPP_per_capita     = $42,239 < ref name=imf2/ > 
+ | GDP_PPP_per_capita_rank =  
+ | GDP_nominal            = $11.164 & nbsp;billion < ref name=imf2/ > 
+ | GDP_nominal_year       = 2017 
+ | GDP_nominal_rank       =  
+ | GDP_nominal_per_capita = $25,623 < ref name=imf2/ > 
+ | GDP_nominal_per_capita_rank =  
+ | Gini                   = 27.7  < !--number only-- > 
+ | Gini_year              = 2014 
+ | Gini_change            =  < !--increase/decrease/steady-- > decrease 
+ | Gini_ref               =  < ref name=eurogini > {{cite web|title=Gini coefficient of equivalised disposable income (source: SILC)|url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di12|publisher=Eurostat Data Explorer|accessdate=4 December 2015}} < /ref > 
+ | Gini_rank              = 15th 
+ | HDI                    = 0.856  < !--number only, between 0 and 1-- > 
+ | HDI_year               = 2015 < !-- Please use the year to which the data refers, not the publication year-- > 
+ | HDI_change             = increase < !--increase/decrease/steady-- > 
+ | HDI_ref                =  < ref name= " HDI " > {{cite web |url=http://hdr.undp.org/en/composite/HDI |title=2016 Human Development Report |year=2016 |accessdate=25 March 2017 |publisher=United Nations Development Programme }} < /ref > 
+ | HDI_rank               = 33rd 
+ | currency               = Euro ([[Euro sign|€10000ll]]){{ref label|b|b}} 
+ | currency_code          = EUR 
+ | time_zone              = [[Central European Time|CET]] 
+ | utc_offset             = +1 
+ | utc_offset_DST         = +2 
+ | time_zone_DST          = [[Central European Summer Time|CEST]] 
+ | date_format            = dd/mm/yyyy ([[Anno Domini|AD]]) 
+ | drives_on              = [[Right- and left-hand traffic|left]] 
+ | calling_code           = [[Telephone numbers in Malta|+356]] 
+ | patron_saints          = [[Paul the Apostle]], [[Saint Publius]] and [[Agatha of Sicily]] < ref name=Frommer > {{cite book|last=Lesley|first=Anne Rose|title=Frommer's Malta and Gozo Day by Day|date=15 April 2009|publisher=John Wiley  &  Sons|isbn=978-0470746103|page=139|url=https://books.google.com/books?id=Gr3g2SMGPZgC}} < /ref > 
+ | cctld                  = [[.mt]]{{ref label|c|c}} 
+ | official_website       = [http://www.gov.mt www.gov.mt] 
+ | footnote_a             = {{note|a|}} Maltese nationals as referred to in the 2011 census. < ref name= " nso.gov.mt " / > 
+ | footnote_b             = {{note|b|}} [[Maltese lira]] before 2008. 
+ | footnote_c             = {{note|c|}} Also [[.eu]], shared with other [[European Union]] member states. 
+ }} 
+ '''Malta''' is a country in [[Southern Europe]], and a member of the [[European Union]]. It is an island near the center of the [[Mediterranean Sea]], south of [[Sicily]]. The [[capital (city)|capital]] of Malta is [[Valletta]]. Around 500,000 people live in Malta and it is one of the most [[dense]]ly [[population|populated]] countries in the world. Malta is 316 sq km, which makes it one of the [[List of countries by area|smallest]] countries. < ref > {{Cite web|date=4 March 2022|title=Malta|url=https://www.cia.gov/the-world-factbook/countries/malta/|website=CIA Factbook}} < /ref >  Its many [[city|cities]] and [[town]]s grew close to each other over time. 
+ 
+ == Language == 
+ [[Maltese language|Maltese]] is the national [[language]] of Malta and is influenced by Greek due to [[Magna Grecia]] settlements in [[Sicily]].  Maltese and [[English language|English]] are the official languages in line with the constitution of the country. A majority of the people of Malta can speak three languages; Maltese, English and [[Italian language|Italian]]. 
+ 
+ == Money == 
+ Malta had its own [[currency]], called the [[Maltese Lira]] until 2008. The Maltese ''Lira'' was better known as the Maltese ''Pound'' because of the strong links to the [[United Kingdom]]. One Maltese Lira consisted of 100 ''cents''. In 2008 Malta joined the [[Euro]] countries in adopting the Euro as the National Currency. 
+ 
+ == History == 
+ People have lived in Malta since at least [[5200 BC]]. The island has some key [[archeology|archaeological]] sites dating from early times. 
+ 
+ Malta became well known as the base of the [[Knights Hospitaller]]. They moved to Malta after being forced to leave [[Palestine]] and then [[Rhodes]], in Greece. In 1565 they survived a great attack by the [[Ottoman Empire]]. The history of the knights at Malta continued the strong [[Roman Catholicism|Roman Catholic]] beliefs in the country that were started by the Norman and Spanish rulers. 
+ 
+ In 1798, [[Napoleon]] took control of Malta. The [[France|French]] rule was not popular and in [[1800]] Maltese rebels invited the British [[Royal Navy]] to come to the island. This led to 200 years as a [[United Kingdom|British]] [[colony]] and [[independent]] [[Commonwealth of Nations|Commonwealth]] member. 
+ 
+ During [[World War II]], Malta was attacked this time by the Axis forces. The entire island was [[symbol]]ically given the [[George Cross]] for [[hero]]ism. 
+ 
+ Malta became independent in [[1964]] and a republic in [[1974]]. In [[2004]] Malta joined the [[EU|European Union]] and in [[2008]] Malta joined the [[Euro]]. 
+ 
+ ==Notes== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [https://www.welcome-center-malta.com/ Maltese Relocation and Travel Guide] 
+ * [http://www.holidaysmalta.info/ Malta travel guide and information] {{Webarchive|url=https://web.archive.org/web/20100305070312/http://holidaysmalta.info/ |date=2010-03-05 }} 
+ * [http://www.maltawiki.com Malta Wiki - Malta Popular Encyclopedia] {{Webarchive|url=https://web.archive.org/web/20201124112445/http://maltawiki.com/ |date=2020-11-24 }} 
+ * [http://www.destinationmalta.com/ Malta holidays and hotels] 
+ * [http://www.guidetomalta.net/ Malta travel guide] 
+ * [http://www.malta.cc/ Malta] {{Webarchive|url=https://web.archive.org/web/20070909215419/http://www.malta.cc/ |date=2007-09-09 }} 
+ * [http://malta.world-travel.com.mt/ Malta Travel Guide] {{Webarchive|url=https://web.archive.org/web/20090909013026/http://malta.world-travel.com.mt/ |date=2009-09-09 }} 
+ {{Commons|Malta}}{{Europe}} 
+ {{European Union}} 
+ {{Commonwealth nations}} 
+ {{authority control}} 
+ [[Category:Malta| ]] 
+ [[Category:Italian-speaking countries]] 
+ [[Category:European Union member states]] 
+ [[Category:Phoenician colonies]] 
+ [[Category:1974 establishments in Europe]] 
+ [[Category:Commonwealth member states]]

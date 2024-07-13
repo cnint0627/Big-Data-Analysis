@@ -1,0 +1,31 @@
+{{italictitle}} 
+ {{Taxobox 
+ | name = ''Francisella'' 
+ | image = Francisella_tularensis_01.jpg 
+ | image_width = 240px 
+ | regnum = [[Bacterium|Bacteria]] 
+ | phylum = [[Proteobacteria]] 
+ | classis = [[Gammaproteobacteria]] 
+ | ordo = [[Thiotrichales]] 
+ | familia = '''Francisellaceae''' 
+ | genus = '''''Francisella''''' 
+ | genus_authority = Dorofe'ev 1947 
+ | subdivision_ranks = Species 
+ | subdivision = 
+ ''[[Francisella hispaniensis|F. hispaniensis]]'' < br > 
+ ''[[Francisella novicida|F. novicida]]'' < br > 
+ ''[[Francisella noatunensis|F. noatunensis]]'' < br > 
+ ''[[Francisella philomiragia|F. philomiragia]]'' < br > 
+ ''[[Francisella piscicida|F. piscicida]]'' < br > 
+ ''[[Francisella tularensis|F. tularensis]]'' 
+ }} 
+ 
+ '''''Francisella''''' is a [[genus]] of [[bacteria]] in its own family, the ''Francisellaceae'', which is placed in the ''Gammaproteobacteria'' order ''Thiotrichales''. ''F. tularensis'' is the cause of the serious [[infectious disease]] [[tularemia]]. < ref > {{cite web |url=http://www.francisella.org/fran/ |title=Francisella tularensis Genome Research |first= |last= |work=francisella.org |year=2011 |accessdate=5 July 2011 |archive-date=8 July 2011 |archive-url=https://web.archive.org/web/20110708040110/http://francisella.org/fran/ |url-status=dead }} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Gram-negative bacteria]]

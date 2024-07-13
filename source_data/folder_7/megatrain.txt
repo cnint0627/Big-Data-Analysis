@@ -1,0 +1,59 @@
+{{Infobox Rail companies | 
+ |name = Megatrain 
+ | bgcolor= 
+ | franchise=Integrated into [[Stagecoach Group]] franchises < br > < small > ([[East Midlands Trains]]) < br > < /small > Integrated into [[Virgin CrossCountry]] < br > < small >  March 2006 - November 2007 < /small > 
+ | logo_filename= 
+ | image_filename=222017 EMT livery.jpg 
+ | widthpx=250 
+ | nameforarea=Town 
+ | abbr= 
+ | regions=[[Sheffield]], [[Nottingham]] 
+ | secregions=[[London]], [[Chesterfield]], [[Leicester]], [[Loughborough]] 
+ | parent_company=[[Stagecoach Group]] 
+ | website=www.megatrain.com 
+ }} 
+ 
+ '''Megatrain''' is a virtual [[no-frills]] intercity [[Railway|train]] service run by [[Scotland|Scottish]]-based [[Stagecoach Group]]. The service began in the [[United Kingdom]] on 1 November 2005 with a pilot on [[South West Trains]]. 
+ 
+ {{s-start}} 
+ {{s-bef|before='''[[Central Trains]]''' < br > < small > Central franchise < /small > }} 
+ {{s-ttl 
+ | rows = 2 
+ | title = Integrated into East Midlands franchise < br > < small > As Part of [[East Midlands Trains]] < /small > 
+ | years = 2007–2019 
+ }} 
+ {{s-inc 
+ | rows = 2 
+ }} 
+ |- 
+ {{s-bef|before='''[[Midland Mainline]]''' < br > < small > Midland Main Line franchise < /small > }} 
+ {{s-bef|rows=2|before='''[[InterCity (British Rail)|InterCity]]''' < br > < small > As part of [[British Rail]] < /small > }} 
+ {{s-ttl 
+ | title = Integrated into Cross-Country franchise < br > < small > As Part of [[Virgin Trains]] < /small > 
+ | years = 2005–2007 
+ }} 
+ {{s-aft|after=[[CrossCountry]]}} 
+ |- 
+ {{s-ttl 
+ | title = Integrated into InterCity West Coast franchise  < br > < small > As Part of [[Virgin Trains]] < /small > 
+ | years = 2005–2019 
+ }} 
+ {{s-inc}} 
+ |- 
+ {{s-bef|before='''[[Network SouthEast]]''' < br > < small > As part of [[British Rail]] < /small > }} 
+ {{s-ttl 
+ | rows = 2 
+ | title = Integrated into South Western franchise < br > < small > As Part of [[South West Trains]] < /small > 
+ | years = 2005–2017 
+ }} 
+ {{s-inc}} 
+ |- 
+ {{end}} 
+ 
+ {{StagecoachGroup}} 
+ {{Current UK TOCs}} 
+ 
+ [[Category:Rail transport in the United Kingdom]] 
+ 
+ 
+ {{transport-stub}}

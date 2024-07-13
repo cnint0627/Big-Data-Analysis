@@ -1,0 +1,69 @@
+{{Taxobox 
+ | name = Apicomplexa 
+ | image = Malaria.jpg|Plasmodium 
+ | domain = [[Eukaryota]] 
+ | regnum = [[Chromalveolata]] 
+ | superphylum = [[Alveolata]] 
+ | phylum = '''Apicomplexa''' 
+ | subdivision_ranks = Classes  &  Subclasses 
+ | subdivision = 
+ '''[[Aconoidasida]]''' < br / > 
+ * [[Haemosporasina]] 
+ * [[Piroplasmasina]] 
+ '''[[Conoidasida]]''' < br / > 
+ * [[Coccidia]]sina 
+ * [[Gregarinasina]]}} 
+ 
+ The '''Apicomplexa''' are a large group of [[protist]]s ([[protozoa]]) which are [[parasitic]]. They have developed some extraordinary [[adaptations]] which fit them in their parasitic life. They are all single-celled, they are all parasites of animals, < ref > {{cite book |author=Jadwiga Grabda |title=Marine fish parasitology: an outline |page=8 |year=1991 |publisher=VCH |isbn=0895738236 }} < /ref >  and they all form [[spores]]. 
+ 
+ They have a unique [[organelle]], a [[plastid]] called an '''apicoplast''', < ref name=intro/ >  and an '''apical complex''' structure which gets them into a host's cell. They do not have structures such as [[flagella]] or [[pseudopods]] except in certain [[gamete]] stages. Body movement is by flexing or gliding. 
+ 
+ The group were once called the '''Sporozoa''', but this name is now discouraged. < ref name=intro > [http://www.ucmp.berkeley.edu/protista/apicomplexa.html Introduction to the Apicomplexa] < /ref > 
+ 
+ Apicomplexans have complex life cycles, and there is much variation among different apicomplexan groups. Both [[Asexual reproduction|asexual]] and [[sexual reproduction]] occur. [[Cell nucleus|Cell nuclei]] are [[haploid]]. 
+ 
+ This is a diverse group including organisms such as [[coccidia]], [[gregarine]]s, [[piroplasm]]s, [[haemogregarine]]s, and [[malaria]]s. Diseases caused by apicomplexan organisms include: 
+ 
+ * [[Babesiosis]] (''[[Babesia]]'') 
+ * [[Malaria]] (''[[Plasmodium]]'') 
+ * Coccidian diseases including: 
+ ** [[Cryptosporidiosis]] (''[[Cryptosporidium parvum]]'') 
+ ** [[Cyclosporiasis]] (''[[Cyclospora cayetanensis]]'') 
+ ** [[Isosporiasis]] (''[[Isospora belli]]'') 
+ ** [[Toxoplasmosis]] (''[[Toxoplasma gondii]]'') 
+ 
+ == Life cycle == 
+ {{multiple image 
+ | direction = vertical 
+ | width = 260 
+ | image1 =Apicomplexa life cycle v2.svg 
+ | alt1 = 
+ | caption1 =Generic life cycle of an apicomplexa: 1-[[zygote]] ([[Microbial cyst|cyst]]), 2-sporozoites, 3-merozoites, 4-[[gametocyte]]s. 
+ | image2 =Apicomplexa structure.svg 
+ | alt2 = 
+ | caption2 =Apicomplexan structure: 1-polar ring, 2-conoid, 3-micronemes, 4-rhoptries, 5-nucleus, 6-nucleolus, 7-mitochondria, 8-posterior ring, 9-alveoli, 10-golgi apparatus, 11-micropore. 
+ }} 
+ 
+ Most members have a complex [[life-cycle]], with both [[Asexual reproduction|asexual]] and [[sexual reproduction]]. A host is infected by an active invasion by the parasites. The parasites divide to produce ''sporozoites'' which enter its cells.  Eventually, the cells burst, releasing ''merozoites'', which infect new cells.  Eventually, gametes are produced, and they fuse to create new cysts.  There are many variations on this basic pattern, however, and many Apicomplexa have more than one host. 
+ 
+ The apical complex includes [[vesicle]]s which open at the front of the cell. They secrete [[enzymes]] that allow the parasite to enter other cells. The tip is surrounded by a band of [[microtubule]]s, called the ''polar ring'', and among the Conoidasida there is also a funnel of tubulin proteins called the ''conoid''. < ref name=coccidiaworld > {{cite web 
+ | url = http://biology.unm.edu/biology/coccidia/home.html 
+ | title = The Coccidia of the World 
+ | last = Duszynski, Donald W; Upton, Steve J. and Couch, Lee 
+ | publisher = Department of Biology, University of New Mexico, and Division of Biology, Kansas State University 
+ | date = 2004 
+ | format = Online database 
+ | access-date = 2014-02-21 
+ | archive-date = 2010-12-30 
+ | archive-url = https://web.archive.org/web/20101230215149/http://biology.unm.edu/biology/coccidia/home.html 
+ | url-status = dead 
+ }} < /ref > 
+ 
+ The presence of alveoli and other traits place the Apicomplexa among a group called the [[alveolate]]s.  Several related flagellates, such as ''[[Perkinsus marinus|Perkinsus]]'' and ''[[Colpodella]]'', have structures similar to the polar ring and were formerly included here, but most appear to be closer relatives of the [[dinoflagellate]]s.  They are probably similar to the common ancestor of the two groups. 
+ 
+ Another similarity is that many apicomplexan cells contain a single [[plastid]], called the '''apicoplast''', surrounded by either 3 or four membranes. Its functions are thought to include tasks such as [[lipid]] and [[haem]] biosynthesis. It appears to be necessary for survival. The plastids are thought to have a common origin with the chloroplasts of [[dinoflagellate]]s, and evidence points to an origin from [[red algae]] rather than [[green alga|green]]. < ref > {{cite journal | url = http://www.amjbot.org/cgi/content/full/91/10/1481 | journal = American Journal of Botany | year = 2004 | volume = 91 | pages = 1481–1493 | title = Diversity and evolutionary history of plastids and their hosts | author = Patrick J. Keeling | doi = 10.3732/ajb.91.10.1481 | issue = 10 | pmid = 21652304 | s2cid = 17522125 | access-date = 2014-02-21 | archive-date = 2008-02-27 | archive-url = https://web.archive.org/web/20080227023326/http://www.amjbot.org/cgi/content/full/91/10/1481 | url-status = dead }} < /ref > < ref > {{cite journal | doi = 10.1093/nar/gkn483 |date=2008 | author = Ram, Ev | display-authors = etal | title = DNA organization by the apicoplast-targeted bacterial histone-like protein of Plasmodium falciparum | volume =  36| issue =  15| pages =  5061–73| pmid = 18663012 | journal = Nucleic Acids Research | pmc = 2528193 }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Apicomplexa| ]]

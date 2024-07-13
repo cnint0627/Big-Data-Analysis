@@ -1,0 +1,18 @@
+[[File:PhishingTrustedBank.png|right|thumbnail|300px|An example of a phishing email, disguised as an official email from a (fictional) bank. The sender is attempting to trick the recipient into revealing secure information by  " confirming "  it at the ''phisher'''s website.]] 
+ '''Phishing''' is a way that people get sensitive information such as [[Username|usernames]] or [[password]]s. It is a method of [[social engineering]]. Very often, phishing is done by [[electronic mail]]. This mail looks as if it comes from a [[bank]] or other trusted company. It usually says that because of some change in the system, the users need to re-enter their usernames/passwords to confirm their [[identity]]. The emails usually have a link to a page that looks like that of the real bank.  
+ 
+ Phishing allows [[criminal]]s to get access to bank accounts or other accounts. Types of accounts that are often accessed include [[shopping]], [[auction]] or [[Game|gaming]] accounts. It can also be used for [[identity theft]]. 
+ 
+ Most forms of phishing have not had much change over the lifetime of the [[Internet]]. During this time, some phishing tactics have gotten much more [[sophisticated]]. For example, many phishing techniques via [[e-mail]] involve [[spoofing]] the email address and creating emails that look just like emails sent from the real company. Not all phishing attempts do this, however.  
+ 
+ Phishing can also be done over [[Text message|text]] using [[instant messaging]] [[App|apps]] such as [[Facebook Messenger]] or [[WhatsApp]]. It can even be done using [[Mail|snail mail]]. If someone gets a text from an unknown number that tells them to visit a specific [[website]] for any reason, it might be a phishing link. 
+ == Filter evasion ==  
+ Some people who do this started using [[Picture|images]] of text to make it harder for anti-phishing [[Filter (internet)|filters]] to see it. This can work because the filters look for words often used in phishing [[E-mail|emails]]/messages. However, better filters have been invented that can still read the text using OCR ([[optical character recognition]]). 
+ 
+ Some anti-phishing filters can even read [[cursive]], hand-written, upside-down, distorted (for example, wavy or stretched) text, as well as writing on colored backgrounds. 
+ 
+ == Other websites == 
+ * [http://www.fbi.gov/cyberinvest/escams.htm E-scams and Warnings Update] {{Webarchive|url=https://web.archive.org/web/20081103134852/http://www.fbi.gov/cyberinvest/escams.htm |date=2008-11-03 }} – [[Federal Bureau of Investigation]] 
+ * [http://www.banksafeonline.org.uk/ Bank Safe Online] – Advice to UK consumers 
+ 
+ [[Category:Internet security]]

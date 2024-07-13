@@ -1,0 +1,58 @@
+{{Infobox settlement 
+ | name                   = Adrar 
+ | native_name            = {{Nobold|{{Lang|ar|أدرار}}}} 
+ | settlement_type        = [[List of settlements in Algeria|City]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline          = Place des martyrs galleryfull.jpg 
+ | imagesize              = 265px 
+ | image_caption          =  
+ | image_flag             =  
+ | image_seal             =  
+ < !-- maps and coordinates -- > 
+ | pushpin_map            = Algeria 
+ | pushpin_mapsize        = 265px 
+ | pushpin_map_caption    =  
+ | pushpin_label_position =  
+ | pushpin_relief         = yes 
+ | coordinates            = {{coord|27|52|27|N|0|17|38|W}} 
+ < !-- location -- > 
+ | subdivision_type       = [[List of sovereign states|Country]] 
+ | subdivision_name       = {{ALG}} 
+ | subdivision_type1      = Province 
+ | subdivision_name1      = Adrar 
+ < !-- government type, leaders -- > 
+ | leader_title           = Mayor 
+ | leader_name            =  
+ < !-- area -- > 
+ | area_total_km2         = 691.0 
+ < !-- population -- > 
+ | population_total       = 64,781 
+ | population_as_of       = April 14, 2008 
+ | population_density_km2 = 93.75 
+ < !-- time zone(s) -- > 
+ | timezone               = [[Central European Time|CET]] 
+ | utc_offset             = +01:00 
+ < !-- postal codes, area code -- > 
+ | postal_code_type       = Postal code 
+ | postal_code            = 01000 
+ | area_code_type         = Area code 
+ | area_code              = 2508813 
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec2        = [[ISO 3166-2:DZ|ISO 3166 code]] 
+ | blank_info_sec2        =  
+ | blank1_name_sec2       = Address 
+ | blank1_info_sec2       =  
+ < !-- website, footnotes -- > 
+ | website                = {{Official|1=https://www.communeadrar.dz/ar/}} 
+ }} 
+ 
+ '''Adrar''' ({{lang-ar|أدرار}}) is the administrative capital of [[Adrar Province]], the second largest province in [[Algeria]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{authority control}} 
+ {{geo-stub}} 
+ 
+ [[Category:Cities in Algeria]] 
+ [[Category:Establishments in Algeria]]

@@ -1,0 +1,75 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  -- > 
+ |name          = Kamalamai 
+ |other_name             = 
+ |native_name            =  कमलामाई नगरपालिका 
+ |nickname               =  
+ |settlement_type        = [[Municipality]] 
+ |motto                  = 
+ < !-- images and maps  -- > 
+ |image_skyline          =  
+ |image_caption          =  
+ |image_flag             =  
+ |image_seal             =  
+ |image_map              =  
+ |mapsize                =  
+ |map_caption            =  
+ |pushpin_map            = Nepal < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =right 
+ |pushpin_mapsize        = 300 
+ |pushpin_map_caption    =Location in Nepal 
+ < !-- Location -- > 
+ |subdivision_type       = Country 
+ |subdivision_name       = {{flag|Nepal}} 
+ |subdivision_type1      = [[Zones of Nepal|Zone]] 
+ |subdivision_name1      = [[Janakpur Zone]] 
+ |subdivision_type2      = [[Districts of Nepal|District]] 
+ |subdivision_name2      = [[Sindhuli District]] 
+ | < !-- Politics -- > 
+ |government_footnotes   = 
+ |government_type        =  
+ |leader_title           = [[Mayor]] 
+ |leader_name            =  Khadga Khatri ([[Nepal Communist Party|NCP]]) 
+ |leader_title1          =  [[Deputy Mayor]] 
+ |leader_name1           = Manju Devkota ([[Nepal Communist Party|NCP]]) 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       =  
+ < !-- Area    -- > 
+ |unit_pref                =   < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = 
+ |area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ < !-- Population   -- > 
+ |population_as_of               =2011 < ref name= " gb stats " > General Bureau of Statistics, Kathmandu, Nepal, Nov. 2012 < /ref > 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               =39,413  
+ |population_density_km2         = auto 
+ |population_blank1_title        =Ethnicities 
+ < !-- General information  -- > 
+ |timezone               = [[Nepal Standard Time|NST]]  
+ |utc_offset             = +5:45 
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ |coordinates            = {{coord|27|9|0|N|85|54|0|E|region:NP_type:city_source:GNS-enwiki|display=inline,title}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            =  
+ < !-- Area/postal codes  &  others -- > 
+ |postal_code_type       =  [[Postal code]]   
+ |postal_code            = 45900 
+ |area_code              = 047 
+ |blank_name             = 
+ |blank_info             = 
+ |website                = {{URL|www.kamalamaimun.gov.np}} 
+ |footnotes              =  
+ }} 
+ 
+ '''Kamalamai''' is a [[municipality]] in [[Sindhuli District]], in the [[Janakpur zone]] of central south [[Nepal]]. At the time of the [[2011 Nepal census]] it had a population of 39,413 people in 9,304 households. < ref name= " gb stats " / >  The city is located in the Sindhuli Valley of central south Nepal. The historic symbol of the valley, [[Sindhuli Gadhi]] fort, is at the peak of a hill of the Mahabharata range. The city is in the plain valley made by the Kamla River. Kamalamai Municipality is the largest municipality of Nepal according to area. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{-}} 
+ {{asia-stub}} 
+ 
+ [[Category:Municipalities of Nepal]]

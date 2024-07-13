@@ -1,0 +1,95 @@
+{{chembox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 477316311 
+ | Name = Alanine 
+ | ImageFile = L-Alanin - L-Alanine.svg 
+ | ImageSize = 170px 
+ | ImageName = Alanine in non-ionic form 
+ | ImageCaption =  < small > L < /small > -Alanine 
+ | IUPACName = Alanine 
+ | OtherNames = 2-Aminopropanoic acid 
+ | SystematicName =  
+ | Section1 = {{Chembox Identifiers 
+ | UNII_Ref = {{fdacite|changed|FDA}} 
+ | UNII = 1FU7983T0U 
+ | InChI = 1/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6) 
+ | InChIKey = QNAYBMKLOCPYGJ-UHFFFAOYAA 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C2H4NH2COOH/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m1/s1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = QNAYBMKLOCPYGJ-UWTATZPHSA-N 
+ | CASNo = 338-69-2 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo_Comment = ( < small > D < /small > -isomer) 
+ | CASNo2_Ref = {{cascite|correct|??}} 
+ | CASNo2 = 302-72-7 
+ | CASNo2_Comment = (racemic) 
+ | CASNo1_Ref = {{cascite|correct|??}} 
+ | CASNo1 = 56-41-7 
+ | CASNo1_Comment = ( < small > L < /small > -isomer) 
+ | EC_number = 206-126-4 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 64234 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 66693 
+ | ChemSpiderID_Comment = ( < small > D < /small > -isomer) 
+ | ChemSpiderID2_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID2 = 582 
+ | ChemSpiderID2_Comment = (Racemic) 
+ | ChemSpiderID1_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID1 = 5735 
+ | ChemSpiderID1_Comment = ( < small > L < /small > -isomer) 
+ | PubChem = 5950 
+ | IUPHAR_ligand = 720 
+ | KEGG_Ref = {{keggcite|changed|kegg}} 
+ | KEGG = C01401 
+ | ChEBI_Ref = {{ebicite|changed|EBI}} 
+ | ChEBI = 16977 
+ | SMILES = O=C(O)C(N)C 
+ | SMILES1 = O=C([O-])C([NH3+])C 
+ | SMILES1_Comment = [[Zwitterion]] 
+ | SMILES2 = O=C(O)[C@@H](N)C 
+ | SMILES3 = O=C([O-])[C@@H]([NH3+])C 
+ | SMILES3_Comment = [[Zwitterion]] 
+ }} 
+ | Section2 = {{Chembox Properties 
+ | C=3 | H=7 | N=1 | O=2 
+ | Appearance = white powder 
+ | Density = 1.424 g/cm < sup > 3 < /sup > 
+ | MeltingPtC = 258 
+ | MeltingPt_notes = (sublimes) 
+ | BoilingPt = 
+ | pKa = {{ubl 
+  | 2.34 (carboxyl; H < sub > 2 < /sub > O) 
+  | 9.87 (amino; H < sub > 2 < /sub > O) < ref name= " CRC97 " > {{cite book | editor= Haynes, William M. | year = 2016 | title = CRC Handbook of Chemistry and Physics | edition = 97th | publisher = [[CRC Press]] | isbn = 978-1498754286 | page=[https://archive.org/details/crchandbookofche0000unse_k6n5/page/n435 5]–88 | title-link = CRC Handbook of Chemistry and Physics }} < /ref > 
+ }} 
+ | Solubility = 167.2 g/L (25 °C) 
+ | MagSus = -50.5·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+ | LogP = -0.68 < ref name= " chemsrc " > {{Cite web|url=https://www.chemsrc.com/en/cas/56-41-7_414822.html|title=L-alanine_msds }} < /ref > 
+  }} 
+ | Section3 =  
+ | Section4 =  
+ | Section5 =  
+ | Section6 =  
+ | Section7 = {{Chembox Hazards 
+ | MainHazards =  
+ | FlashPt =  
+ | AutoignitionPt =  
+   }} 
+ }} 
+ '''Alanine''' (abbreviated as '''Ala''' or '''A''') < ref > Nomenclature and symbolism for amino acids and peptides. IUPAC-IUB Recommendations 1983. ''Pure Appl. Chem''. '''56''' (5), 1984: 595–624. < /ref >  is an α-[[amino acid]]. It has the [[chemical formula]] CH < sub > 3 < /sub > CH(NH < sub > 2 < /sub > )COOH.  
+ 
+ The  < small > L < /small > -[[isomer]] is one of the 20 [[amino acid]]s encoded by the [[genetic code]]. Its codons are GCU, GCC, GCA, and GCG. It is classified as a [[non-polar]] amino acid. < ref > Non-polar: electrons shared so that there is no difference in electric charge between different parts of the molecule.  < /ref >   
+ 
+ < small > L < /small > -Alanine accounts for 7.8% of the [[primary structure]] in a sample of 1,150 [[proteins]]. < ref > {{citation | last1 = Doolittle | first1 = R. F. | editor-last = Fasman | editor-first = G. D. | year = 1989 | contribution = Redundancies in protein sequences | title = Prediction of protein structures and the principles of protein conformation | location = New York | publisher = Plenum | pages = 599–623 | isbn = 0-306-43131-9}} < /ref > < ref > Primary structure:  the exact specification of its atomic structure and its chemical bonds. < /ref >  [[Leucine]] is the only amino acid which is more common.  
+ 
+ < small > D < /small > -Alanine occurs in [[bacterial]] [[cell wall]]s and in some [[peptide]] [[antibiotics]]. 
+ 
+ == References == 
+ {{reflist}} 
+ {{Proteinogenic amino acids}} 
+ {{Neurotransmitters}} 
+ {{Amino acid metabolism intermediates}} 
+ 
+ [[Category:Amino acids]]

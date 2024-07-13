@@ -1,0 +1,27 @@
+{{Taxobox 
+ | name = Lokiarchaeota 
+ | image =  
+ | domain = [[Archaea]] 
+ | image_caption =  
+ | regnum =  " [[Proteoarchaeota]] " 
+ | superphylum = [[Asgard (archaea)|Asgard]] 
+ | phylum =  " '''Lokiarchaeota''' " 
+ | phylum_authority = Spang et al. 2015 
+ | type_species = ''Candidatus Prometheoarchaeum'' syntrophicum 
+ | subdivision_ranks = [[Genus]] 
+ | subdivision = * " Candidatus ''Lokiarchaeum'' "   < small > Spang et al. 2015 < /small > 
+ * " Candidatus ''Prometheoarchaeum'' "   < small > Imachi et al. 2020 < /small > 
+ }} 
+ The '''Lokiarchaeota''' are a proposed [[phylum]] of the [[Archaea]]. It was proposed in 2015 after the composite [[genome]] of '''''Lokiarchaeum''''' was sequenced. < ref name= " SpangSaw2015 " > {{cite journal|last=Spang, Anja ''et al'' 2015.|title=Complex archaea that bridge the gap between prokaryotes and eukaryotes|journal=Nature|year=2015|volume=521|issue=7551|pages=173–179|issn=0028-0836|doi=10.1038/nature14447|pmid=25945739|pmc=4444528|bibcode=2015Natur.521..173S}} < /ref > 
+ 
+ == The genome == 
+ The ''Lokiarchaeum'' genome has 5,381 protein coding [[genes]]. Of these, about 32% do not correspond to any known protein. 26% closely resemble archeal proteins, and 29% correspond to bacterial proteins. This is consistent with previous research which suggests significant gene transfer between [[bacteria]] and Archaea.  
+ 
+ A small, but significant portion of the proteins (175, 3.3%) were most similar to [[eukaryotic]] proteins. Analysis suggested the genes in question had their origin at the base of the eukaryotic [[clade]]s. < ref name= " SpangSaw2015 " / >  In eukaryotes, the function of these proteins include [[cell membrane]] and cell shape formation, and a dynamic protein [[cytoskeleton]]. < ref name= " SpangSaw2015 " / > < ref name=LAT > {{Cite news|title=Meet Loki, your closest-known prokaryote relative|author=Khan, Amina|date=May 6, 2015|url=http://www.latimes.com/science/sciencenow/la-sci-sn-eukaryote-prokaryote-archaea-bacteria-evolution-20150506-story.html|accessdate=May 9, 2015|newspaper=LA Times}} < /ref >   
+ 
+ Another shared protein, [[actin]], is used in [[phagocytosis]] by eukaryotes. < ref name=BBC / >  Phagocytosis is the ability to engulf and consume another particle. This ability is required for the [[endosymbiosis|endosymbiotic origin]] of [[mitochondria]]. Cells with mitochondria is one of the key differences between prokaryotes and eukaryotes. In a widely accepted theory, mitochondria began as bacteria and were gradually incorporated into eukaryotic cells. [[Chloroplast]]s had a similar origin. < ref name=LAT / > < ref name=BBC  > Rincon, Paul 2015. Newly found microbe is close relative of complex life. ''BBC News'' Science  &  Environment. [https://www.bbc.co.uk/news/science-environment-32610177] < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Archaeans]]

@@ -1,0 +1,62 @@
+{{Infobox settlement 
+ | name                    = Talamanca 
+ | native_name             =  
+ | settlement_type         = [[Municipalities of Spain|Municipality]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           =  
+ | imagesize               = 265px 
+ | image_caption           =  
+ | image_flag              = Bandera de Talamanca.svg 
+ | image_seal              = Escut de Talamanca.svg 
+ < !-- maps and coordinates -- > 
+ | pushpin_map             = Spain 
+ | pushpin_mapsize         = 265px 
+ | map_caption             =  
+ | pushpin_label_position  =  
+ | pushpin_relief          = yes 
+ | coordinates             = {{coord|41|44|13.2|N|1|58|41.0|E}} 
+ < !-- location -- > 
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{SPA}} 
+ | subdivision_type1       = [[Autonomous communities of Spain|Community]] 
+ | subdivision_name1       = {{flag|Catalonia}} 
+ | subdivision_type2       = [[Provinces of Spain|Province]] 
+ | subdivision_name2       = [[Province of Barcelona|Barcelona]] 
+ | subdivision_type3       = [[Comarques of Catalonia|Comarca]] 
+ | subdivision_name3       = [[Bages]] 
+ < !-- government type, leaders -- > 
+ | leader_title            = Mayor 
+ | leader_name             = Josep Tarín 
+ < !-- area -- > 
+ | area_total_km2          = 29.30 
+ < !-- population -- > 
+ | population_total        = 222 
+ | population_as_of        = January 1, 2021 
+ | population_density_km2  = 7.577 
+ < !-- time zone(s) -- > 
+ | timezone                = [[Central European Time|CET]] 
+ | utc_offset              = +01:00 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        = Postal code 
+ | postal_code             = 08278 
+ | area_code_type          = Area code 
+ | area_code               = 082779 
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec2         = [[ISO 3166-2:ES|ISO 3166 code]] 
+ | blank_info_sec2         =  
+ | blank1_name_sec2        = Address 
+ | blank1_info_sec2        =  
+ < !-- website, footnotes -- > 
+ | website                 = {{Official|1=https://www.talamanca.cat/}} 
+ }} 
+ 
+ '''Talamanca''' is a [[Municipalities of Spain|municipality]] in the [[Comarques of Catalonia|comarca]] of [[Bages]], [[Province of Barcelona]], in [[Catalonia]], [[Spain]]. 
+ 
+ It has an area of 29.30 km² and a population of 222 people. 
+ 
+ {{Bages}} 
+ {{Municipalities in Barcelona}} 
+ {{Authority control}} 
+ {{Geo-stub}} 
+ 
+ [[Category:Municipalities in Barcelona]]

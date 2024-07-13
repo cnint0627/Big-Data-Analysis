@@ -1,0 +1,119 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Westervoort 
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]], town 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Westervoort, straatzicht foto1 2010-04-12 10.13.JPG 
+ | image_alt               =  
+ | image_caption           = Street through Westervoort 
+ | image_flag              = Flag of Westervoort.svg 
+ | flag_size               =  
+ | flag_alt                =  
+ | image_shield            = Coat of arms of Westervoort.svg 
+ | shield_size             =  
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 0293 (2009).svg 
+ | map_alt                 =  
+ | map_caption             = Location 
+ | image_map1              = Gem-Westervoort-OpenTopo.jpg 
+ | map_alt1                =  
+ | map_caption1            = Map 
+ | coordinates             = {{coord|51|58|N|5|58|E|region:NL|display=inline}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|Gelderland}} 
+ | subdivision_type2       = Region 
+ | subdivision_name2       = [[IJsselvallei]], [[Liemers]] 
+ | government_footnotes    =  
+ < ref > 
+ {{cite web 
+  |url= https://www.westervoort.nl/samenstelling-college-van-bw 
+  |title= Samenstelling college van B & W 
+  |language= nl  
+  |work= Gemeente Westervoort 
+  |publisher= 
+  |access-date= 14 February 2022 
+ }} 
+ < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = [[People's Party for Freedom and Democracy|VVD]] 
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[Arend van Hout]] 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|{{PAGENAME}}}} 
+ | area_land_km2           = {{Dutch municipality land area|{{PAGENAME}}}} 
+ | area_water_km2          = {{Dutch municipality water area|{{PAGENAME}}}} 
+ | elevation_footnotes     =  
+ < ref > 
+ {{cite web 
+  |url= https://www.ahn.nl/postcodetool 
+  |title= Postcodetool 
+  |language= nl  
+  |work= Actueel Hoogtebestand Nederland  
+  |publisher= 
+  |access-date= 14 February 2022 
+ }} 
+ < /ref > 
+ | elevation_m             = 11 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|{{PAGENAME}}}} 
+ | population_as_of        = {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|{{PAGENAME}}}}  < !-- For automatic calculation: auto-- > 
+ | population_demonym      =  
+ < !-- Other information -- > 
+ | timezone                = [[Central European Time|CET]] 
+ | utc_offset              = +1 
+ | timezone_DST            = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST          = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 6931–6932 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 026 
+ | website                 = {{URL|1=https://www.westervoort.nl}} 
+ | footnotes               = 
+ }} 
+ '''Westervoort''' is a municipality and town in the province of [[Gelderland]], the Netherlands. About 15,000 people were living there in 2021. 
+ 
+ It lies both in the [[IJsselvallei]] and [[Liemers]] regions, at the meeting point of the [[Rhine]] and [[IJssel]] rivers. 
+ 
+ == References == 
+ * [https://www.plaatsengids.nl/westervoort Plaatsengids.nl] 
+ {{Reflist}} 
+ 
+ 
+ [[File:IJsselkop.jpg|left|thumb|The IJsselkop: meeting point of the [[IJssel]] and [[Rhine]] rivers]] 
+ 
+ {{Geographic location 
+ |Centre    =  
+ |North     =  
+ |Northeast = [[Rheden]], [[Zevenaar]] 
+ |East      =  
+ |Southeast = [[Duiven]] 
+ |South     =  
+ |Southwest = [[Lingewaard]] 
+ |West      =  
+ |Northwest = [[Arnhem]] 
+ }} 
+ 
+ {{Gelderland Province}} 
+ {{Liemers municipalities}} 
+ {{Europe-stub}} 
+ 
+ [[Category:Settlements in Gelderland]] 
+ [[Category:Municipalities of Gelderland]] 
+ [[Category:IJsselvallei]] 
+ [[Category:Liemers]]

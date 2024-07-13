@@ -1,0 +1,110 @@
+{{Infobox VG| title = OGame 
+ |image =  
+ |developer = [[Gameforge AG]] 
+ |engine = [[PHP]], [[AJAX]] 
+ |released = 2002 
+ |genre = [[Real-time strategy|Real-time]] [[browser-based game|browser-based]] [[Massively multiplayer online game|MMO]] 
+ |platforms = [[Web browser]] 
+ }} 
+ '''OGame''' is a [[browser]]-based [[strategy]] [[game]]. The game was created in 2002 by Gameforge. OGame is able to go in different languages. It also has up to 39 uni (for short) or [[universe]]s. 
+ 
+ == Game play == 
+ 
+ Each player starts with one randomly given [[planet]], with the starting name of  " Homeworld "  (which can be changed). Building from that one planet, he/she later has the option to keep on developing that planet or to expand his/her colony to include up to as many planets they can afford to build, originally 9 planets. All [[construction]], [[research]], and [[mission]]s are performed and launched from a planet or [[Satellite (natural)|moon]]. While playing the player has a chance of building fleets and defenses for their planet. 
+ 
+ === Alliances === 
+ 
+ An alliance is a group of people who have banded together and is mostly used for solidarity purposes. Alliances are created for players to protect each other from attacks, join together to raid other planets, or to promote free trade amongst members. Members of an alliance can use the ACS (Alliance Combat System), available in all universes. 
+ 
+ === Buildings === 
+ 
+ '''Metal Mine''' is what is used to gather the resource metal. 
+ 
+ '''Crystal Mine''' is what is used to gather the resource crystal. 
+ 
+ '''Deuterium Synthesizer''' is what is used to gather the resource deuterium. 
+ 
+ '''Solar Plant''' is a plant that produces energy from the sun to run mines or to do research. 
+ 
+ '''Fusion Reactor''' is like a solar plant but instead of gathering energy from the sun it uses deterium to produce it's energy. 
+ 
+ '''Robotic Factory''' is a building that decreases the building time of buildings. 
+ 
+ '''Nanite Factory''' is an upgraded version of the robotics factory. 
+ 
+ === Resources === 
+ 
+ There are four resources used in OGame: metal, crystal, deuterium,and dark matter. 
+ 
+ '''Metal''' is mainly used for buildings, Ships, Defenses. To get this resources he/she has to upgrade or build a metal mine. 
+ 
+ '''Crystal''' is the second resource. Crystal is mostly used in research. Crystal is one of the hardest resource to obtain. It is obtained by building or upgrading a crystal mine. 
+ 
+ '''Deuterium''' is the third resource and can be obtained only from deuterium synthesizers. Deuterium is mainly used as fuel for a player's fleet to perform a mission, and for research. 
+ 
+ '''Dark Matter''' is a resource that can be bought with real money. If a user doesn't want to pay this resource will become the most rarest resource in the game. Dark Matter can be found on expeditions with the players fleet after researching Expedition. 
+ 
+ '''Energy''' is not actual energy you get from a mine but from solar planets and fusion reactors. Energy is needed to be able to run the mines to gather metal, crystal, deuterium, and to do research. 
+ 
+ A list of how these resources are obtained: 
+ 
+ * Mining: Metal mines, crystal mines and deuterium synthesizers obtain metal, crystal and deuterium from one's own planet. The larger the mine, the faster the rate of getting the resources. Planetary resources never run out and can be continuously mined. 
+ * Raiding other planets: A player can decide to send an attacking fleet to an enemy's planet. If the player's fleet destroys all of the enemy's fleet and defensive buildings, up to 50% (depending on the cargo capacity of the attacking ships) of the enemy's stored resources can be taken. 
+ * Harvesting debris fields: destroyed fleets form a debris field around the planet it was destroyed. Debris fields consist of metal and crystal. 
+ * Fleet Crashing: Stronger players can  " fleet crash "  weaker opponents, which is the act of destroying another player's fleet for the purpose of collecting the debris that remain after the battle and recycling the resulting debris (only metal and crystal can be obtained this way) and 30% of all ship's metal and crystal can be obtained in such a manner. 
+ * Trading: Players can negotiate a trade sequence where they swap different resources at an official rate. < ref > {{cite web|url=http://board.ogame.org/thread.php?threadid=269802|publisher=board.ogame.org|title=Trading|accessdate=2008-06-17|archive-date=2008-06-16|archive-url=https://web.archive.org/web/20080616003529/http://board.ogame.org/thread.php?threadid=269802|url-status=dead}} < /ref > 
+ * Expeditions: Players can send their fleets out and get random things in return. These are risky, as there is a chance of losing your fleet or getting attacked by aliens. 
+ 
+ === Combat === 
+ 
+ Unlike other [[games]], OGame doesn't allow the player to control his ships. While playing the game a player can send units to a specific [[moon]] or [[planet]]. Once the ship(s) arrive at the planet the player can only recall the ships, he/she cannot fly them. 
+ 
+ == Research == 
+ 
+ Researching various fields of science allows for better buildings, ships and defensive structures to be built. Research must be done for the production of Solar Satellites, which supplies power, to the fearsome Death Star, which is considered the strongest ship in the game. 
+ 
+ The costs of research usually doubles each level, with the exception of Graviton Technology, which costs 300,000 energy and is not useful over level 1. 
+ 
+ Research time is reduced with each upgrade of the Research Lab, or reduced dramatically with the Intergalactic Research Network researched. 
+ 
+ == Purchased effects == 
+ 
+ All purchased effects are paid with dark matter. In order to get dark matter he/she has to buy it on OGame. 
+ 
+ === Commander === 
+ 
+ The Commander gives the player improved functions. Features include a building order which gives the player the ability to order several buildings to be built without requiring the player to login and start a new build. The player also gets an “Empire View” that shows the player all details on every planet including ships, defenses, resources, and energy. Other bonus given by OGame Commander are message filters, shortcuts, an improved galaxy view and commands, and a gaming experience free of ads. 
+ 
+ === Officers === 
+ 
+ On February 16, 2007, Officers were introduced to the game. It is worth noting that Gameforge had earlier promised it's users it would never introduce pay-to-play options that provided direct benefits, and the change the caused a large scale of conflict in the community. 
+ 
+ The officer feature gives players a real advantage in the game, for a price, while those who cannot afford it go without. The 4 officers types are: 
+ 
+ * Fleet Admiral: Increases maximum fleet slot by 2. 
+ * Engineer: Reduces the losses of defensive structure during an attack by half and gives 10% more energy. 
+ * Geologist: Increases metal mine, crystal mine and deuterium synthesizer production by 10% 
+ * Technocrat: Increases the espionage level for espionage probes by 2 and decreases research time by 25%. 
+ 
+ === Merchants === 
+ 
+ As of version 0.78 people can hire a merchant to trade one resource type for another. This is almost the same as trading except that there are no other players involved. The only limitation you have is the amount of free space in your storage silos and the amount of dark matter you have. You cannot trade when your silos are full, or when standing on a moon. It is wise to move away all the resources you want to keep, so that you can trade the maximum amount that your storage holds. 
+ 
+ == Rules == 
+ 
+ OGame is monitored by Game Operators, Super Game Operators and Game Administrators each of whom have the rights to ban any player suspected of misconduct and violation of the rules. The rules can be different for each OGame universe. < ref > {{Cite web |url=http://board.ogame.org/thread.php?threadid=269802 |title=Game rules |access-date=2008-05-20 |archive-date=2008-05-14 |archive-url=https://web.archive.org/web/20080514045946/http://board.ogame.org/thread.php?threadid=269802 |url-status=dead }} < /ref >  Players who have been banned are put into the pillory < ref > {{Cite web |url=http://board.ogame.org/thread.php?threadid=282236 |title=Pillory |access-date=2008-05-20 |archive-date=2008-05-16 |archive-url=https://web.archive.org/web/20080516103907/http://board.ogame.org/thread.php?threadid=282236 |url-status=dead }} < /ref >  of their universe. The pillory shows the reason of banning and the administrator who made the decision. It also shows the unbanning of a player when they have clarified the fault. The planets and colonies of players that have received lifelong bans are subject to the one month account deletion due to inactivity. 
+ 
+ == Awards == 
+ 
+ OGame won the bronze Superbrowsergame Award in 2006. 
+ 
+ == References == 
+ 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [http://www.gameforge.de/ Gameforge] 
+ * [http://www.ogame.org/ OGame] 
+ * [http://ogame.wikia.com/wiki/Main_Page OGame Wiki] 
+ 
+ [[Category:Online games]]

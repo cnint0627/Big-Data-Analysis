@@ -1,0 +1,42 @@
+{{Ionbox 
+ | ImageFile1 = Permanganate-anion-2D.png 
+ |  ImageSize1 =150px 
+ |  ImageAlt1 =  Lewis structure of the manganate(VII) anion 
+ | ImageFile2 = Permanganate-anion-3D-balls.png 
+ |  ImageSize2 = 150px 
+ |  ImageAltL2 =  [[Ball-and-stick model]] of the nitrate ion  
+ | SystematicName = Permanganate 
+ | IUPACName = 
+ | OtherNames = 
+ | Section1 = {{Chembox Identifiers 
+ |  CASNo = 
+ |  PubChem = 
+ |  SMILES = }} 
+ | Section2 = {{Chembox Properties 
+ |  Formula = {{chem|Mn|O|4|-}} 
+ |  MolarMass = 118.934 g mol < sup > -1 < /sup > 
+ |  Appearance = 
+ |  Solubility = }} 
+ | Section3 = {{Chembox Hazards 
+ |  MainHazards = 
+ |  FlashPt = 
+ |  Autoignition = }} 
+ }} 
+ '''Permanganate''' is an ion that contains one [[manganese]] [[ion]] in an [[oxidation state]] of +7 and 4 oxide atoms. It is a strong [[oxidizing agent]]. Permanganates are purple-black. Permanganates stain because they are easily [[reduction (chemistry)|reduced]] to brown-black [[manganese dioxide]]. 
+ 
+ ==Examples== 
+ *[[Potassium permanganate]] 
+ 
+ ==Related pages== 
+ *[[Chromate]], a similar ion 
+ *[[Manganese]] 
+ *[[Manganese dioxide]] 
+ 
+ ==Sources== 
+ {{reflist}} 
+ 
+ 
+ {{chem-stub}} 
+ 
+ [[Category:Manganese compounds]] 
+ [[Category:Ions]]

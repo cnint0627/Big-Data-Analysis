@@ -1,0 +1,54 @@
+{{otheruses|||Square (disambiguation)}} 
+ [[File:Geometrie_carre.png|right|thumb|A square and its diagonals]] 
+ [[File:01-Quadrat-Diagonale-gegeben.gif|thumb|Drawing a square]] 
+ 
+ A '''square''' is a [[shape]] with four equal sides and four corners that are all [[right angle]]s (90 degrees). The [[diagonal]]s of a square also cross at right angles. The angle between any diagonal and a side of a square is 45 degrees. A square has rotational [[symmetry]] of four. It has four lines of regular symmetry. A square with vertices ''A'', ''B'', ''C'' and ''D'' can be written as  < math > \square ABCD < /math > . < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-02|website=Math Vault|language=en-US}} < /ref > < ref name= " :0 " > {{Cite web|last=Weisstein|first=Eric W.|title=Square|url=https://mathworld.wolfram.com/Square.html|access-date=2020-09-02|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ A square is a type of [[rectangle]] with all sides of equal [[length]]. However, while a square is a type of rectangle and rhombus, < ref > {{Cite web|title=Quadrilaterals - Square, Rectangle, Rhombus, Trapezoid, Parallelogram|url=https://www.mathsisfun.com/quadrilaterals.html|access-date=2020-09-02|website=www.mathsisfun.com}} < /ref >  the opposite does not need to be true. 
+ 
+ A square is also the 2-dimensional analogue of a [[cube]]. 
+ 
+ == Formulas == 
+ If the length of side ''a'' is known, then we have that: < ref name= " :0 "  / > 
+ 
+ {| class= " wikitable " 
+ |+ 
+ |[[Perimeter]] 
+ | < math > 4a < /math > 
+ |- 
+ |[[Area]] 
+ | < math > a^2 < /math > 
+ |- 
+ |Length of [[diagonal]] 
+ | < math > \sqrt{2}a < /math > 
+ |} 
+ 
+ If the length of [[diagonal]] ''d'' is known, then we have that: 
+ 
+ {| class= " wikitable " 
+ |+ 
+ |Length of side 
+ | < math > \frac{d}{\sqrt{2}} < /math > 
+ |- 
+ |Perimeter < ref name=ms/ > 
+ | < math > 2d\sqrt{2} < /math > 
+ |- 
+ |Area < ref name=ms > {{cite web|url=http://onlinemschool.com/math/formula/square/|title=Square. Formulas and Properties of a Square|website=onlinemschool.com|access-date=February 17, 2018}} < /ref > 
+ | < math > \frac{d^2}{2} < /math > 
+ |} 
+ 
+ == Related pages == 
+ 
+ * [[Square (algebra)]] 
+ * [[Square number]] 
+ * [[Square root]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Math-stub}} 
+ 
+ {{shapes}} 
+ 
+ [[Category:Polygons]] 
+ [[Category:Basic English 850 words]]

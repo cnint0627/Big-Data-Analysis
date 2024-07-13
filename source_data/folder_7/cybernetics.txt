@@ -1,0 +1,42 @@
+[[File:Cycl.png|thumb|Pask's Conversation Theory illustration.]] 
+ 
+ '''Cybernetics''' < ref > The term ''cybernetics'' (the [[Ancient Greek|Greek]] [[w:el:Κυβερνήτης|κυβερνήτης]]) means a ''governor'' or ''pilot''. < /ref >  is the study of [[control]] and [[communication]] in the [[animal]] and the [[machine]]. < ref name=Weiner > Wiener N. 1948: ''Cybernetics, or control and communication in the animal and the machine''. Wiley, New York 1948. 2nd revised ed. 1961. {{ISBN|9780262730099}} < /ref >  [[Norbert Wiener]] added:  " Information is information, not [[matter]] or energy " . < ref name=Weiner/ > < sup > 155 < /sup > 
+ 
+ Ross Ashby defined it as:  " the art of steermanship... co-ordination, regulation and control will be its 
+ themes, for these are of the greatest biological and practical interest... it treats, not things but ways of 
+ behaving. It does not ask “what is this thing?” but “what does it 
+ do?” < ref name=Ashby > W. Ross Ashby 1956. ''Introduction to Cybernetics''. Methuen, London, UK.  [http://pespmc1.vub.ac.be/books/IntroCyb.pdf PDF text]. < /ref >  Ashby continued:  
+ : " Cybernetics stands to the real machine—electronic, mechanical, neural, or economic—much as [[geometry]] stands to a real object in our terrestrial space " . < ref name=Ashby/ > 
+ 
+ Louis Couffignal said cybernetics was  " the art of ensuring the efficacy of action " . < ref name= " Couffignal " > Couffignal, Louis,  " Essai d’une définition générale de la cybernétique " , ''The First International Congress on Cybernetics'', Namur, Belgium, June 26–29, 1956, Gauthier-Villars, Paris, 1958, pp. 46-54 < /ref > 
+ 
+ Cybernetics was from the first an [[interdisciplinarity|inter-disciplinary]] field of study. It included people from at least a dozen academic disciplines. There were two events which sparked it off after [[World War II]]. The first was that scientists from different backgrounds had, during the war, worked together on various [[military]] projects. They learned a good deal about how to cooperate with their various partners. The second event was the invention of [[computer]]s during the war. 
+ 
+ The countries which started cybernetics were [[Britain]] and the [[United States]], but the idea spread quickly to [[France]], [[Russia]] and other countries. Another, more famous, example of 'interdisciplinary studies' was [[molecular biology|molecular]] and [[cell biology]]. 
+ 
+ == The building block == 
+ Imagine a simple system such as a [[central heating]] system. 
+ 
+ A goal-directed or [[control system]] has these four parts:  
+ # Sensor (S): test the system's environment. 
+ # Goal (G): the specification of the desired state of the system.  
+ # Error Detection (E): a method for finding the difference between the present state and the goal state.  
+ # Effector (E'): operations the system can make to get the environment closer to the goal. < ref > Pask, Gordon 1972. [http://www.cybsoc.org/gcyb.htm Cybernetics] {{Webarchive|url=https://web.archive.org/web/20110928071309/http://www.cybsoc.org/gcyb.htm |date=2011-09-28 }}, entry in ''Encyclopædia Britannica''. < /ref > 
+ 
+ The device which does this is called a [[thermostat]]. 
+ 
+ == Later years == 
+ Cybernetics started rapidly, and some of the greatest thinkers of the post-war era were interested in it. When this generation died, and some of the hopes for [[artificial intelligence]] and [[robot]]ics were slow to produce results, cybernetics fell somewhat out of favour. < ref > Cariani, Peter 2010. On the importance of being emergent. ''Constructivist Foundations'' '''5''' (2): 89.  " Artificial intelligence was born at a conference at Dartmouth in 1956 that was organized by McCarthy, Minsky, Rochester, and Shannon, three years after the Macy conferences on cybernetics had ended (Boden 2006; McCorduck 1972). The two movements coexisted for roughly a decade, but by the mid-1960s, the proponents of symbolic AI gained control of national funding conduits and ruthlessly defunded cybernetics research. This effectively liquidated the subfields of self-organizing systems, neural networks and adaptive machines, evolutionary programming, biological computation, and bionics for several decades, leaving the workers in management, therapy and the social sciences to carry the torch " < /ref > 
+ 
+ == Related pages == 
+ *[[Homeostasis]] 
+ *[[Self-organisation]] 
+ *[[General systems theory]] 
+ *[[Technological singularity]] 
+ 
+ == References == 
+ {{reflist}} 
+ {{Systems science}} 
+ 
+ [[Category:Systems]] 
+ [[Category:Systems theory]]

@@ -1,0 +1,28 @@
+'''Minimax''' is a traditional machine learning algorithm that is used by computers to play strategic games. This simple logical algorithm is extremely powerful and since it uses the power of the recursive function of the computer, this algorithm is absolutely unbeatable. It is primarily used in games like [[chess]], tic-tac-toe, Go, etc. However, in comparison to modern Neural Networks, and Deep Neural Networks, Minimax shows poor performance in big games like chess. However, in small games like tic-tac-toe, Minimax eventually outperforms the best AI. 
+ 
+ == Origin == 
+ The word  " Minimax "  comes from the abbreviated form of Minimizer-Maximizer. It is because, the algorithm uses 2 agents- Minimizer and Maximizer- to predict a game move. 
+ 
+ == Working == 
+ The working of Minimax is divided into 2 parts- Minimizer and the Maximizer.  
+ 
+ In abstract, this algorithm calculates all possible combination of moves a player can play in a certain state of the game, and chooses the best possible move by simply calculating the winning potential of the each move which is based on no. of moves, no. of wins and no. of loses. 
+ 
+ The algorithm has a recursive approach, which means it creates a tree of combination of moves based on the rules of the game. 
+ 
+ Now, to calculate the best move in a given game state, the algorithm puts 2 agents- Minimizer and Maximizer to play against each other. Both these agents play based on calculating the best possible move. The Minimizer tries to make Maximizer lose and vice versa. In this way, the Minimizer and Maximizer simulates an entire game, which is then repeated for all sets of possible moves in the given game state. After the algorithm does all the simulation, it then chooses the move which created highest probability of win with lowest no. of moves. Hence it returns the next best move. And then the computer plays the move. 
+ 
+ == Advantages == 
+ This algorithm is completely unbeatable because it calculates all possible combinations of moves in a game. As a result, when playing against a minimax algorithm, the Computer either wins or draws. 
+ # Minimax Algorithms are more accurate than neural networks. 
+ # It is very simple to engineer by coding. 
+ # This algorithm uses the computer's processing speed and memory efficiently, so it is potentially better than humans at playing. 
+ 
+ == Disadvantages == 
+ 
+ # It is extremely slow for big games like chess, as the possible number of combinations increases. 
+ # Cannot play every type of games. For ex, Minimax algorithm cannot play Rock, Paper, Scissors. 
+ 
+ [[Category:Algorithms]] 
+ [[Category:Artificial intelligence]] 
+ [[Category:Video games]]

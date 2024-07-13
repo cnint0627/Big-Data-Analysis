@@ -1,0 +1,31 @@
+[[Image:Ethernet LAN.svg|thumb|200px|right|How a local area network using Ethernet might be connected]] 
+ [[File:Ethernet RJ45 connector p1160054.jpg|thumb|RJ45 Ethernet connector]]{{IPstack}} 
+ '''Ethernet''' is a way of connecting computers together in a [[local area network]] or LAN. It has been the most widely used method of linking computers together in LANs since the [[1990s]]. The basic idea of its design is that multiple computers have access to it and can send data at any time. This is comparatively easy to engineer.  
+ 
+ If two computers send data at the same time, a collision will occur. When this happens, the data sent is not usable. In general, both computers will stop sending, and wait a random amount of time, before they try again. A special protocol was developed to deal with such problems. It is called [[Carrier sense multiple access with collision detection]] or CSMA/CD. 
+ 
+ ==Different cable types== 
+ There are different Ethernet standards.  Today, Ethernet cables look like thick telephone cables.  They connect to boxes called [[Ethernet hub|hub]]s or [[Ethernet switch|switch]]es. Each cable runs from a [[computer]]'s [[network interface card]] (NIC) to such a box. This cable is called 10BaseT or 100BaseT, or 1000BaseT Cable. 
+ 
+ All cable types: 
+ * [[10Base2]] and [[10Base5]]: These [[coaxial cable]]s are like those used in [[television]], but thinner.  They are also called  " thinnet "  or  " coax " . Each computer has a  " T "  plugged into it, and cables plug into each side of the  " T " . Sometimes, instead of a  " T " , a ''[[vampire tap]]'' is used. It supports 10MBits per second transfer speed. It was the first to be adopted, and became rare during the 21st century. 
+ * [[10BaseT]]: Cables look like thick phone cables, but with 8 copper wires instead of 2 or 4, and they go from each computer' to a Hub or a Switch. Supported speed is 10 MBit/second. 
+ * [[10BaseF]]: Same as 10BaseT, but cables transmit light pulses, instead of electrical signals. 
+ * [[100BaseT]]:  Cables look the same as 10BaseT, but can run at up to  100 MBits per second 
+ * [[1000BaseT]]: Cables look the same as 10BaseT, but can run at up to 1GBit (1000MBit) per second. 
+ 
+ Today, the cables for 10BaseT, 100BaseT, and 1000BaseT are the same. Their [[transmission medium]] is unshielded twisted pair for Category 5 (UTP-Cat5) or 5e. Shielded cable (STP-Cat5 or Cat5e) can be used when there is a lot of electrical noise, and Category 6 (UTP-Cat6 or STP-Cat6) works better with faster signals such as 1GBit or 10GBit. 
+ 
+ ==Different devices== 
+ Other devices, such as [[video game console]] < nowiki/ > s, can also be connected using the same kind of cabling. Certain [[computer peripheral]]s, for example [[Computer printer|printers]] and certain [[hard disk]]s can be directly connected to the network with such cables. 
+ 
+ ==Different speeds== 
+ Ethernet can go at different speeds. In the beginning, Ethernet was at 10 MBits per second. The Ethernet most often used today is at 100 MBits per second.  Most new computers now have the NIC built in, and can go at 1GBit per second. There are also standards for 1GBit per second and 10 GBit per second.  100 MBit can usually talk to 10 MBit, and 1 GBit can talk to 100 MBit and usually to 10 MBit (both full and half duplex). 
+ 
+ {{Commonscat|Ethernet}} 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Computer hardware]] 
+ [[Category:Computer networking]]

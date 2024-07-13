@@ -1,0 +1,110 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > | name                            = {{raise|0.2em|Funabashi}} 
+ | population_footnotes            =  < !-- for references: use  < ref >  tags -- > 
+ | timezone1                       = [[Japan Standard Time]] 
+ | population_note                 =  < !-- time zone(s) -------------- > 
+ | population_demonym              =  < !-- demonym, ie. Liverpudlian for someone from Liverpool -- > 
+ | pop_est_as_of                   =  
+ | population_est                  =  
+ | population_density_sq_mi        =  
+ | population_density_km2          = auto 
+ | population_as_of                = December 1, 2020 
+ | population_total                = 644668 
+ | elevation_ft                    =  < !-- population ---------------- > 
+ | postal_code_type                = [[Postal codes in Japan|Postal code(s)]] 
+ | elevation_m                     =  
+ | elevation_footnotes             =  < !-- for references: use  < ref >  tags -- > 
+ | area_note                       =  < !-- elevation ----------------- > 
+ | area_water_percent              =  
+ | area_water_sq_mi                =  
+ | area_water_km2                  =  
+ | area_land_sq_mi                 =  
+ | area_land_km2                   =  
+ | area_total_sq_mi                =  < !-- see table @ Template:Infobox settlement for details -- > 
+ | area_total_km2                  = 85.62 
+ | utc_offset1                     = +9 
+ < !-- postal codes, area code --- > | postal_code                     = 273 or 274 
+ | area_magnitude                  =  < !-- use only to set a special wikilink -- > 
+ | blank5_info_sec1                =  
+ | website                         = {{Official|1=http://www.city.funabashi.lg.jp}} 
+ | blank1_info_sec2                = 2-10-25 Minato-cho, Funabashi-shi, 273-8501 
+ < !-- website, footnotes -------- > | blank1_name_sec2                = Address 
+ | blank_info_sec2                 = 047-436-2111 
+ | blank_name_sec2                 = Phone & nbsp;number 
+ | blank7_info_sec1                =  < !-- blank fields (section 2) -- > 
+ | blank7_name_sec1                =  
+ | blank6_info_sec1                =  
+ | blank6_name_sec1                =  
+ | blank5_name_sec1                =  
+ | area_code_type                  =  < !-- defaults to: Area code(s) -- > 
+ | blank4_info_sec1                =  
+ | blank4_name_sec1                =  
+ | blank3_info_sec1                =  
+ | blank3_name_sec1                =  
+ | blank2_info_sec1                = [[Camellia sasanqua]] 
+ | blank2_name_sec1                = - Flower 
+ | blank1_info_sec1                = [[Camellia sasanqua]] 
+ | blank1_name_sec1                = - Tree 
+ | blank_name_sec1                 = City Symbols 
+ | area_code                       = 047-4 
+ < !-- blank fields (section 1) -- > | area_footnotes                  =  < !-- for references: use  < ref >  tags -- > 
+ | unit_pref                       =  < !-- enter: Imperial, to display imperial before metric -- > 
+ < !-- area ---------------------- > | native_name                     = {{lower|0.1em|{{nobold|{{lang|ja|船橋市}}}}}} 
+ | shield_alt                      =  
+ | pushpin_label_position          =  < !-- position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_map                     = Japan 
+ | map_caption                     = Location of Funabashi in Chiba Prefecture] 
+ | map_alt                         =  
+ | image_map1                      = Funabashi in Chiba Prefecture Ja.svg 
+ | image_map                       = 
+ | motto                           =  < !-- maps and coordinates ------ > 
+ | nickname                        =  
+ | image_blank_emblem              =  
+ | image_shield                    =  
+ | pushpin_map_caption             =  & nbsp; 
+ | seal_alt                        =  
+ | image_seal                      = Emblem of Funabashi, Chiba.svg 
+ | flag_alt                        =  
+ | image_flag                      = Flag of Funabashi, Chiba.svg 
+ | image_caption                   =  
+ | image_alt                       =  
+ | imagesize                       =  
+ | image_skyline                   = Funabashi montage.jpg 
+ | settlement_type                 = [[Core cities of Japan|Core city]] 
+ < !-- images, nickname, motto --- > | official_name                   =  
+ | pushpin_map_alt                 =  
+ | coordinates                     = {{coord|35|41|40.4|N|139|58|57.2|E|region:JP-12|display=it}} 
+ | total_type                      =  < !-- to set a non-standard label for total area and population rows -- > 
+ | founder                         =  
+ | leader_name1                    =  < !-- etc., up to leader_title4 / leader_name4 -- > 
+ < !-- display settings  --------- > | leader_title1                   =  
+ | leader_name                     = Toru Matsudo 
+ | leader_title                    = Mayor 
+ | leader_party                    =  
+ | government_footnotes            =  < !-- for references: use  < ref >  tags -- > 
+ | seat                            =  < !-- government type, leaders -- > 
+ | seat_type                       =  < !-- defaults to: Seat -- > 
+ | named_for                       =  < !-- seat, smaller parts ------- > 
+ | established_date                =  
+ | coor_pinpoint                   =  < !-- to specify exact location of coordinates (was coor_type) -- > 
+ | established_title               =  < !-- Settled -- > 
+ | subdivision_name3               =  < !-- established --------------- > 
+ | subdivision_type3               =  
+ | subdivision_name2               = [[Chiba Prefecture|Chiba]] 
+ | subdivision_type2               = [[Prefectures of Japan|Prefecture]] 
+ | subdivision_name1               = [[Kantō region|Kantō]] 
+ | subdivision_type1               = [[List of regions of Japan|Region]] 
+ | subdivision_name                = Japan 
+ | subdivision_type                = Country 
+ | coordinates_footnotes           =  < !-- for references: use  < ref >  tags -- > 
+ < !-- location ------------------ > | footnotes                       =  
+ }} 
+ [[File:Funabashishiyakusho.jpg|thumb|Funabashi City Hall]] 
+ {{Nihongo|'''Funabashi'''|船橋市|Funabashi-shi}} is a [[Cities of Japan|city]] that is in [[Chiba Prefecture]], [[Japan]]. 
+ 
+ {{Authority control}} 
+ 
+ {{Japan-stub}} 
+ 
+ [[Category:Cities in Chiba Prefecture]] 
+ [[Category:States and territories established in 1937]]

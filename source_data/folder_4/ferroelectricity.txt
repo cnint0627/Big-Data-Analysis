@@ -1,0 +1,9 @@
+'''Ferroelectricity''' is a something some materials, usually [[crystal]]s, do.  Ferroelectricity is when a thing has a positive electric charge on one end and a negative charge on the other end, and these charges can switch places if the thing is placed in an [[electric field]]. < ref > {{Cite book|url=https://books.google.com/books?id=7yFWuc_YL3UC & q=ferroelectricity & pg=PA5|title=Solid State Physics|date=1957-01-01|publisher=Academic Press|isbn=978-0-08-086468-6|language=en}} < /ref > < ref name=SD > {{cite web|url=https://www.sciencedirect.com/topics/materials-science/ferroelectricity|publisher=Science Direct|access-date=May 8, 2021|title=Ferroelectricity}} < /ref > 
+ 
+ == Uses == 
+ People make [[capacitors|things that store energy]] out of ferroelectric materials.  
+ 
+ == References == 
+ {{reflist}} 
+ {{science-stub}} 
+ [[Category:Electromagnetism]]

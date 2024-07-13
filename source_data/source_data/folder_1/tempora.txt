@@ -1,0 +1,15 @@
+[[File:GCHQ-aerial.jpg|right|thumb|The [[GCHQ|Government Communications Headquarters (GCHQ)]] operates  " Tempora " . < ref name=bump > Philip Bump (21 June 2013). The UK Tempora program captures vast amounts of data – and shares with NSA. The Atlantic Wire. [http://www.thewire.com/national/2013/06/uk-tempora-program/66490/]{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > ]] 
+ 
+ '''Tempora''' is the codeword for a [[computer system]]  used by the British [[Government Communications Headquarters]] (GCHQ). It collects most [[internet]] communications from [[optical fibre|fibre-optic cable]]s. The data base of messages can be searched later as required. < ref name= " spiegeljune14 " > [http://www.spiegel.de/media/media-34103.pdf GCHQ report on the technical abilities of the powerful spying program TEMPORA, which allows for a  " full take " ] {{Webarchive|url=https://web.archive.org/web/20190605231946/https://www.spiegel.de/media/media-34103.pdf |date=2019-06-05 }}, released by Der Spiegel on 18 June 2014 < /ref >  The system went into action in autumn 2011. < ref > {{cite web | url=https://www.wired.co.uk/news/archive/2013-06/24/gchq-tempora-101 | title=A simple guide to GCHQ's internet surveillance program Tempora | work= Wired | access-date=25 June 2013 | author=Shubber, Kadhim}} < /ref > 
+ 
+ Tempora uses intercepts on the fibre-optic cables that make up most of the [[internet]]. It gets large amounts of internet users' personal data, without any individual suspicion or targeting. < ref name= " Tempora20131025 " > {{cite news|last=Ball|first=James|title=Leaked memos reveal GCHQ efforts to keep mass surveillance secret|url=https://www.theguardian.com/uk-news/2013/oct/25/leaked-memos-gchq-mass-surveillance-secret-snowden|access-date=25 October 2013|newspaper=The Guardian|date=25 October 2013}} < /ref > 
+ 
+ The existence of Tempora was revealed by [[Edward Snowden]]. He is a former American intelligence contractor who leaked information to former ''[[The Guardian|Guardian]]'' journalist [[Glenn Greenwald]] in May 2013. This was part of Snowdon's revelations of government-sponsored [[Mass surveillance in the United States|mass surveillance]] programs. Data collected by the Tempora program is shared with the [[National Security Agency]] of the United States. < ref name= " Guardian " > {{cite news| author =Ewen MacAskill; Julian Borger; Nick Hopkins; Nick Davies; James Ball | url = http://www.guardian.co.uk/uk/2013/jun/21/gchq-cables-secret-world-communications-nsa  | title = GCHQ taps fibre-optic cables for secret access to world's communications | work = [[The Guardian]] | date = 21 June 2013 | access-date = 21 June 2013 | location=London}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Telecommunications]] 
+ [[Category:Secrecy]] 
+ [[Category:British intelligence agencies]] 
+ [[Category:National Security Agency]]

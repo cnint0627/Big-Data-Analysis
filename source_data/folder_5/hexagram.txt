@@ -1,0 +1,23 @@
+[[File:Regular star figure 2(3,1).svg|thumb|200px|a hexagram]] 
+ 
+ A '''hexagram''' is a six-pointed star, with all lines the same length and all [[angle]]s the same.  A 'hexangle', 'star hexagon', or 'hexalpha' means the same thing. < ref > Graham, Dr. O.J. 2001. ''The Six-Pointed Star: its origin and usage''. 4th ed, Toronto: The Free Press, . {{ISBN|0-9689383-0-2}} < /ref > 
+ It is used in historical, religious and cultural contexts, for example in [[Hanafism]], < ref > Miller, Sam  
+  2010. ''Delhi: Adventures in a Megacity'', page 91. < /ref >  [[Judaism]], [[#Usage_by_Hinduism_and_Eastern_Religions|Hinduism]] and [[occultism]]. It is possible that this simple geometric shape, like the triangle, circle, or square, has been created by various peoples with no connection to one another. 
+ 
+ ==Group theory== 
+ In [[mathematics]], the [[root system]] for the simple [[Lie group]] [[G2 (mathematics)|G < sub > 2 < /sub > ]] is in the form of a hexagram, with six long roots and six short roots. < br/ > 
+ [[File:Root system G2.svg|250px]] 
+ 
+ == Construction by compass and a straight edge == 
+ A six-pointed star, like a [[regular hexagon]], can be created using a compass and a straight edge: 
+ *Make a circle of any size with the compass. 
+ *Without changing the radius of the compass, set its pivot on the circle's circumference, and find one of the two points where a new circle would intersect the first circle. 
+ *With the pivot on the last point found, similarly find a third point on the circumference, and repeat until six such points have been marked. 
+ *With a straight edge, join alternate points on the circumference to form two overlapping equilateral triangles. 
+ 
+ ==References== 
+ {{reflist}} 
+ {{Polygons}} 
+ 
+ [[Category:Symbols]] 
+ [[Category:Religious symbols]]

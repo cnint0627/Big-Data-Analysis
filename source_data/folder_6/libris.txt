@@ -1,0 +1,12 @@
+'''LIBRIS''' is the online [[Wikt:catalog|catalog]] of the [[Sweden|Swedish]] national [[library]] [[system]]. It combines the catalogs of 175 libraries in Sweden. The catalog is run by the [[Swedish National Library]] in [[Stockholm]]. LIBRIS has [[Help:Authority control|authority controls]]. It also has [[bibliography|bibliographical]] information about the books held in Sweden's libraries and which libraries hold the books. The LIBRIS [[database]] is linked to the [[Semantic Web]]. The LIBRIS project was begun in 1970. In 2011 the bibliography and authority files were released into the [[public domain]].  As of 2014, LIBRIS contained approximately seven million separate book titles. < ref > Olssen, Lena (2006). [https://books.google.com/books?id=iM6VoYcTs9UC & pg=PA65  " Great Expectations " ] in ''History of Computing and Education 2'', pp. 59-65. Springer. {{ISBN|0387346376}} < /ref > < ref > Berggren, Anna (2015). [http://www.kb.se/libris/teknisk-information/Oppen-data/Open-Data/  " Open Data " ] LIBRIS. Retrieved 21 February 2018. < /ref > < ref > [[Lund University]] Libraries (2016). [https://www.lub.lu.se/en/search-systems-and-tools/libris  " LIBRIS " ]. Retrieved 21 February 2018 < /ref > < ref > Malmsten, Martin (2008). [https://books.google.com/books?id=kUEGX-tiGYUC & pg=PA146  " Making a Library Catalogue Part of the Semantic Web " ] in ''Metadata for Semantic and Social Applications''. Universitätsverlag Göttingen. {{ISBN|3940344494}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ *{{Official|http://www.kb.se/libris}} 
+ 
+ {{Authority control}} 
+ 
+ [[Category:Libraries in Europe]] 
+ [[Category:Databases]]

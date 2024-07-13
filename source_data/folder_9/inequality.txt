@@ -1,0 +1,51 @@
+'''Inequality''' is when one object is: < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-09-20|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Inequality Definition (Illustrated Mathematics Dictionary)|url=https://www.mathsisfun.com/definitions/inequality.html|access-date=2020-09-20|website=www.mathsisfun.com}} < /ref > 
+ * Smaller than the other ( < math > a < b < /math >  means that ''a'' is smaller than ''b'') 
+ * Bigger than the other ( < math > a > b < /math >  means that ''a'' is bigger than ''b'') 
+ * Not smaller than the other ( < math > a\geq b < /math >  means that ''a'' is not smaller than ''b'', that is, it is either bigger, or [[Equality (mathematics)|equal]] to ''b'') 
+ * Not bigger than the other ( < math > a\leq b < /math >  means that ''a'' is not bigger than ''b'', or it is smaller or equal to ''b'') 
+ 
+ Inequality is sometimes used to name a statement that one [[expression]] is smaller, greater, not smaller or not greater than the other. 
+ 
+ ==Working with inequalities== 
+ [[File:Inequality (1).jpg|thumb|'''Inequality 1''' This is the solution for the equation x+4 > 12]] 
+ Inequality in [[Mathematics|math]] is when two solutions or answers are compared by greater than or less than. It is when the two or yet many solutions are being compared is not of equal amount. Solving an inequality means finding its solutions. When you substitute a number to a [[variable]] and the statement is true, then it is a solution. When you substitute a number to a variable and the statement is not true then, the number is not a solution to the statement. 
+ 
+ Solving inequality is finding a solution to a given variable. It is finding a relative order of a [[set]]. Inequality might have many solutions, but usually only solutions as real numbers are the ones we are looking for. The proper way to read inequality is from left to right, just like the other equations, but the only difference is that they have different rules for every equation. 
+ 
+ For example, consider the inequality x+4 > 12, where x is a real number. First, one needs to find the x and verify that it is actually a solution. The answer will be x > 8 and it is a true statement. This expression is about the location of x within the set of real numbers.  A number line is one way to show the location relative to all other real numbers. < ref > {{Cite web|url=http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE & inPS=true & prodId=GVRL & userGroupName=down54663 & tabID=T003 & searchId=R1 & resultListType=RESULT_LIST & contentSegment= & searchType=BasicSearchForm & currentPosition=1 & contentSet=GALE%7CCX2830101239 & & docId=GALE & #124;CX2830101239 & docType=GALE|title=Inequality|first=|last=|website=|publisher=Maddocks, J.R.  " Inequality. "  The Gale Encyclopedia of Science. Ed. K. Lee Lerner and Brenda  Wilmoth Lerner. 4th ed. Vol. 3. Detroit: Gale, 2008. 2279-2281. Gale Virtual Reference Library. Web. 22 May 2016.|accessdate=}} < /ref > (See figure Inequality 1) 
+ 
+ == Different kinds of inequalities == 
+ [[File:Graph of inequality.png|thumb|'''Linear Inequality''' Example of linear inequality|213x213px]] 
+ There are five different kinds of inequalities: 
+ # The first kind is linear inequalities, which are inequalities that differentiate the expressions by either less than or equal to, less than or greater than or equal to, greater than. It is one that if we replace the inequality for the equals relation, then the outcome will be a [[linear equation]]. 
+ # The second kind is the combinations of inequalities which are to satisfy the inequalities. Here, one must first have a number in the solution sets, so that the numbers satisfying the inequalities are going to be the values in the crossing of the two solution sets. < ref > {{Cite web|url=http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/izs/inequalities/inequalities.html#Content|title=Solving ineqaulities|first=|last=|website=|publisher=|accessdate=}} < /ref > 
+ # The third kind is inequalities involving [[Absolute value|absolute values]], which means that the values can be rephrased as combinations of inequalities that will involve absolute values. 
+ # The fourth kind is called polynomial inequalities, which means that it is continuous and that their graphs do not have any jumps or breaks. 
+ # Last but not the least, is the rational inequalities, which means that it is the form of one of the polynomial  divided by another polynomial. In other words, the rational function graphs do not have any breaks nor represent at the zeros of the denominator. 
+ [[File:Khoang cach tren duong thang thuc.png|thumb|'''absolute value''' Example that shows absolute value|left]]{{-}} 
+ 
+ == Four ways to solve Inequalities == 
+ [[File:Addition of inequality.jpg|thumb|An example of adding inequalities.|184x184px]] 
+ There are four ways to solve quadratic equations: 
+ # Add or subtract the same number on both sides. 
+ # Shift the sides and change the positioning of the sign of the inequality. 
+ # Multiply the same number on both sides. 
+ # Divide the same positive or negative number into the both sides.[[File:Inversion of less-than-relation by multiplication with negative number.svg|thumb|example of multiplication of Inequality|175x175px]] 
+ Furthermore, it will take two steps to solve an inequality. The first one is to simplify using the reciprocal of addition or subtraction. The second one is to simplify more by using the reciprocal of multiplication or division. Note that when multiplying or dividing an inequality by a negative number, the inequality symbol must be reversed. < ref > {{Cite web|title=Solving Inequalities|url=https://www.mathsisfun.com/algebra/inequality-solving.html|access-date=2020-09-20|website=www.mathsisfun.com}} < /ref > < ref > {{Cite web|url=http://www.math.com/school/subject2/lessons/S2U3L6GL.html|title=Equations and Inequalities|first=|last=|website=|publisher= " Equations And Inequalities - Two-Step Equations And Inequalities - First Glance " .Math.com. N. p., 2016. Web. 26 May 2016.|accessdate=}} < /ref > 
+ 
+ ==Examples of how to solve Inequalities== 
+ [[File:Inequality 2.jpg|left|thumb|'''Inequality 2''' Solution for the equation -6y < -12|150x150px]] 
+ Inequality is a mathematical statement that explains that the two values are not equal and are different. The equation a'''≠'''b means that ''a'' is not equal to ''b''. Inequality is the same with any equation, with the (only) difference that inequality does not use an equal sign but inequality symbols. The inequality b > a means that b is greater than a. Speed limits, mark, and others use inequality to express them. 
+ 
+ When solving an inequality, a person need to have a true statement. When you divide or multiply an inequality with a negative number on both sides, the statement is false. In order to make the statement correct with a negative number, one must reverse the direction of the inequality symbol. When a number is a positive number, one does not need to reverse the symbol. Inequality is about making a true statement. 
+ 
+ For example, start with a true statement -6''y'' < -12. When both sides are divided by -6, the result will become y < 2. In this statement, the symbol need to be reversed in order to have a true statement, which produces y > 2 as the correct answer. In the number line (see figure Inequality 2), a closed shaded circle points out that it is included in the solution set. An open circle points out that it is not included in the solution set. < ref > {{Cite web|url=http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE & inPS=true & prodId=GVRL & userGroupName=down54663 & tabID=T003 & searchId=R2 & resultListType=RESULT_LIST & contentSegment= & searchType=BasicSearchForm & currentPosition=1 & contentSet=GALE%7CCX3407500148 & & docId=GALE & #124;CX3407500148 & docType=GALE|title=Inequalities|first=|last=|website=|publisher=Michael, Michelle R.  " Inequalities. "  Mathematics. Ed. Barry Max Brandenberger, Jr. Vol. 2. New  York: Macmillan Reference USA, 2002. 131-133. Gale Virtual Reference Library. Web. 22 May 2016.|accessdate=}} < /ref > 
+ 
+ ==Related pages== 
+ *[[Equality (mathematics)]] 
+ *[[Equation]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ {{authority control}} 
+ [[Category:Mathematics]]

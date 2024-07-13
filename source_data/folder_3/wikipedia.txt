@@ -1,0 +1,99 @@
+{{about|Wikipedia in general|Simple English Wikipedia's home page|Main Page|a formal introduction to Wikipedia|Wikipedia:About|the specific language Wikipedia this page is on|Simple English Wikipedia}} 
+ 
+ {{Infobox website 
+ | name = Wikipedia 
+ | logo = Wikipedia-v2-logo.svg 
+ | logocaption = The [[Wikipedia logo]], a globe showing puzzle pieces with [[glyph]]s from several [[writing system]]s 
+ | screenshot = Www.wikipedia screenshot (2021).png{{!}}border 
+ | screenshot_alt = [[Main page]] of the Wikipedia's multilingual screenshot 
+ | caption = Wikipedia portal showing the different languages sorted by article count 
+ | collapsible = yes 
+ |url={{URL|https://www.wikipedia.org/|wikipedia.org}} 
+ | commercial = No 
+ | type = [[Online encyclopedia]] 
+ | registration = Optional < ref group=notes > Registration is required for certain tasks such as editing [[Wikipedia:Protection policy|protected page]]s, creating pages in the English Wikipedia, and uploading files. < /ref > 
+ | language = 334 languages 
+ | num_users = [[List of Wikipedias#Grand total| > {{formatnum:{{#expr:{{NUMBEROF|ACTIVEUSERS|total}}-{{NUMBEROF|ACTIVEUSERS|mo}}-{{NUMBEROF|ACTIVEUSERS|ng}}-{{NUMBEROF|ACTIVEUSERS|cho}}-{{NUMBEROF|ACTIVEUSERS|kj}}-{{NUMBEROF|ACTIVEUSERS|mh}}-{{NUMBEROF|ACTIVEUSERS|ho}}-{{NUMBEROF|ACTIVEUSERS|ii}}-{{NUMBEROF|ACTIVEUSERS|aa}}-{{NUMBEROF|ACTIVEUSERS|mus}}-{{NUMBEROF|ACTIVEUSERS|hz}}-{{NUMBEROF|ACTIVEUSERS|kr}}}}}}]] active users < ref group=notes > To be considered [[Special:ActiveUsers|active]], a user must make at least one edit or other action in a given month. < /ref >  and [[List of Wikipedias#Grand total| > {{formatnum:{{#expr:{{NUMBEROF|USERS|total}}-{{NUMBEROF|USERS|mo}}-{{NUMBEROF|USERS|ng}}-{{NUMBEROF|USERS|cho}}-{{NUMBEROF|USERS|kj}}-{{NUMBEROF|USERS|mh}}-{{NUMBEROF|USERS|ho}}-{{NUMBEROF|USERS|ii}}-{{NUMBEROF|USERS|aa}}-{{NUMBEROF|USERS|mus}}-{{NUMBEROF|USERS|hz}}-{{NUMBEROF|USERS|kr}}}}}}]] registered users 
+ 1,067 administrators (English) 
+ | owner = [[Wikimedia Foundation]] 
+ | author = [[Jimmy Wales]] < br/ > [[Larry Sanger]] < ref name= " Sidener " > > {{Cite news |url=http://www.signonsandiego.com/uniontrib/20041206/news_mz1b6encyclo.html |title = Everyone's Encyclopedia |last = Sidener |first = Jonathan |work = [[U-T San Diego]] |publication-date = December 6, 2004 |archive-url=https://web.archive.org/web/20160114101809/http://www.sandiegouniontribune.com/uniontrib/20041206/news_mz1b6encyclo.html |archive-date = January 14, 2016 |url-status = dead |access-date = October 15, 2006 }} < /ref > 
+ | launch_date = {{Start date and age|mf=yes|2001|1|15}} 
+ | oclc = 52075003 
+ | current_status = Active 
+ | programming_language = [[LAMP (software bundle)|LAMP]] platform < ref name= " roadchap " > {{cite web |url=http://rogchap.com/2011/09/06/top-40-website-programming-languages/ |title= Top 40 Website Programming Languages |website= roadchap.com |author= Chapman, Roger |date= September 6, 2011 |access-date= September 6, 2011 |url-status= dead |archive-url=https://web.archive.org/web/20130922015103/http://rogchap.com/2011/09/06/top-40-website-programming-languages/ |archive-date= September 22, 2013 }} < /ref > 
+ | content_license = {{Nowrap|[[Creative Commons licenses|CC Attribution / Share-Alike]] 3.0}} < br / > Most text is also dual-licensed under [[GFDL]]; media licensing varies 
+ }} 
+ 
+ '''Wikipedia''' ({{audio|en-us-Wikipedia.ogg|pronunciation}}) is a [[Free content|free]] [[online encyclopedia]] [[website]] in 336 [[language]]s of the world. 324 languages are currently active and 12 are closed.  
+ 
+ People can freely use it, share it, and change it, without having to pay. It is also one of the biggest [[wiki]] [[organization]]s. People can choose to donate to the [[Wikimedia Foundation]] to fund Wikipedia and its sister projects. It is an [[open content]] website. This means anyone can copy or edit it and make changes to it if they follow the [[Wikipedia:Guidelines|rules]] for copying or editing.  
+ 
+ Wikipedia is owned by an [[United States|American]] [[organization]], the [[Wikimedia Foundation]], which is in [[San Francisco, California|San Francisco]], [[California]]. 
+ 
+ Wikipedia's name is a [[portmanteau word|portmanteau]] of two words, ''[[wiki]]'' and ''[[encyclopedia]].'' < ref > Andreas Kaplan, Haenlein Michael (2014) Collaborative projects (social media application): About Wikipedia, the free encyclopedia. Business Horizons, Volume 57 Issue 5, pp.617-626 < /ref > 
+ 
+ Wikipedia was started on January 9, 2001, by [[Jimmy Wales]] and [[Larry Sanger]] as part of an earlier [[online encyclopedia]] named [[Nupedia]]. On January 15, 2001, Wikipedia became a separate [[website]] of its own. It is a wiki that uses the [[computer software|software]] [[MediaWiki]] (like all other [[Wikimedia Foundation]] projects). 
+ 
+ Anyone who wishes to can change the pages on Wikipedia, or even make new ones. Wikipedia has a [[standard]] [[page layout]] for all pages in the encyclopedia. 
+ 
+ As of September 2011, Wikipedia had about 18 million pages in about 300 [[language]]s and more than 3.50 billion words across all Wikipedias. The regular [[English Wikipedia]] is the largest [[List of Wikipedias|Wikipedia edition]]. It helps people all across the world to access definitions, examples and more. 
+ [[File:Wikipedia Main Page.png|thumb|[[Main Page]] of the [[English Wikipedia]] on February 3, 2023]] 
+ 
+ == History == 
+ Wikipedia began as a related project for [[Nupedia]]. Nupedia was a free [[English language|English-language]] [[online encyclopedia]] project. Nupedia's articles were written and owned by [[Bomis|Bomis, Inc]] which was a [[web portal]] company. The important people of the company were [[Jimmy Wales]], [[CEO|the person in charge]] of Bomis, and [[Larry Sanger]], the [[:wikt:editing|editor-in-chief]] of Nupedia. Nupedia was first licensed under the Nupedia Open Content License which was changed to the [[GNU Free Documentation License]] before Wikipedia was founded and made their first article when [[Richard Stallman]] requested them. < ref name= " stallman1999 " > {{cite web 
+ |url=http://www.gnu.org/encyclopedia/encyclopedia.html|title=The Free Encyclopedia Project|author=Richard M. Stallman|author-link=Richard Stallman|date=2007-06-20|publisher=Free Software Foundation |access-date=2008-01-04}} < /ref > 
+ 
+ Larry Sanger and Jimmy Wales are the ones who started Wikipedia. < ref name= " autogenerated1 " > {{cite news|url=http://www.signonsandiego.com/uniontrib/20041206/news_mz1b6encyclo.html|title=Everyone's Encyclopedia|author=Jonathan Sidener|date=2004-12-06|work=[[The San Diego Union-Tribune]]|access-date=2006-10-15|archive-url=https://web.archive.org/web/20041215094756/http://www.signonsandiego.com/uniontrib/20041206/news_mz1b6encyclo.html|archive-date=2004-12-15|url-status=live}} < /ref > < ref name=Meyers > {{cite news|first=Peter |last=Meyers|title=Fact-Driven? Collegial? This Site Wants You |url=https://query.nytimes.com/gst/fullpage.html?res=9800E5D6123BF933A1575AC0A9679C8B63 & n=Top%2fReference%2fTimes%20Topics%2fSubjects%2fC%2fComputer%20Software |work=New York Times |date=2001-09-20|access-date=2007-11-22|quote= & nbsp;'I can start an article that will consist of one paragraph, and then a real expert will come along and add three paragraphs and clean up my one paragraph,' said Larry Sanger of Las Vegas, who founded Wikipedia with Mr. Wales.}} < /ref >  Wales is credited with defining the goals of the project. < ref name=SangerMemoir > {{cite news |first=Larry |last=Sanger |title=The Early History of Nupedia and Wikipedia: A Memoir |date=April 18, 2005 |work=Slashdot |url=http://features.slashdot.org/features/05/04/18/164213.shtml|access-date=2008-12-26}} < /ref > < ref name=Sanger > {{cite news|first=Larry|last=Sanger|title=Wikipedia Is Up!|date=January 17, 2001|publisher=Internet Archive|url=http://www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html|access-date=2008-12-26|archive-date=2001-05-06|archive-url=https://web.archive.org/web/20010506042824/http://www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html|url-status=bot: unknown}} < /ref >  Sanger created the [[wikt:strategy|strategy]] of using a [[wiki]] to reach Wales' goal. < ref > {{cite web|url=http://lists.wikimedia.org/pipermail/wikipedia-l/2001-October/000671.html|title=Wikipedia-l: LinkBacks?|access-date=2007-02-20}} < /ref >  On January 10, 2001, [[Larry Sanger]] proposed on the Nupedia [[mailing list]] to create a wiki as a  " feeder "  project for Nupedia. < ref > {{cite news |first=Larry |last=Sanger|title=Let's Make a Wiki|date=2001-01-10|publisher=Internet Archive|url=http://www.nupedia.com/pipermail/nupedia-l/2001-January/000676.html|archive-url=https://web.archive.org/web/20030414014355/http://www.nupedia.com/pipermail/nupedia-l/2001-January/000676.html|archive-date=2003-04-14 |access-date=2008-12-26}} < /ref >  Wikipedia was launched on January 15, 2001. It was launched as an English-language edition at www.wikipedia.com, < ref name=WikipediaHome > {{cite web |url=http://www.wikipedia.com/|archive-url=https://web.archive.org/web/20010331173908/http://www.wikipedia.com/|archive-date=2001-03-31|title=Wikipedia: HomePage|access-date=2001-03-31}} < /ref >  and announced by Sanger on the Nupedia mailing list. < ref name=SangerMemoir/ >  Wikipedia's policy of  " neutral point-of-view " < ref name= " NPOV " > " [http://en.wikipedia.org/w/index.php?title=Wikipedia:Neutral_point_of_view & oldid=102236018 Wikipedia:Neutral point of view], Wikipedia (January 21, 2007) < /ref >  was enforced in its initial months and was similar to Nupedia's earlier  " nonbiased "  policy. Otherwise, there weren't very many rules initially, and Wikipedia operated independently of Nupedia. < ref name=SangerMemoir/ > 
+ 
+ Wikipedia gained early contributors from Nupedia, [[Slashdot]], and from [[search engine|people who looked it up]]. It grew to about 20,000 articles, and 18 languages by the end of 2001. By late 2002 it had 26 languages, 46 by the end of 2003, and 161 by the end of 2004. < ref > " {{cite web|url=http://en.wikipedia.org/wiki/Wikipedia:Multilingual_statistics |title=Multilingual statistics |work=Wikipedia |date=March 30, 2005 |access-date=2008-12-25}} < /ref >  Nupedia and Wikipedia both existed until Nupedia's servers were stopped in 2003. After this, its text was incorporated into Wikipedia. The [[English Wikipedia]] passed the 2 million-article mark on September 9, 2007, making it the largest encyclopedia ever assembled, even larger than the [[Yongle Encyclopedia]] (1407), which had held the record for exactly 600 & nbsp;years. < ref name= " EB_encyclopedia " > {{cite encyclopedia|title=Encyclopedias and Dictionaries|encyclopedia=Encyclopædia Britannica, 15th ed.|publisher=Encyclopædia Britannica|year=2007|volume=18|pages=257–286}} Encyclopedia Britannica  < /ref > 
+ 
+ The [[English Wikipedia]] reached 3 million articles in August 2009. The number of articles and contributors appeared to be growing less quickly around the spring of 2007. < ref > {{cite news |url=http://www.guardian.co.uk/technology/2009/aug/12/wikipedia-deletionist-inclusionist |title=Wikipedia approaches its limits |author=Bobbie Johnson}} < /ref > 
+ 
+ In October 2014, the [[Wikipedia Monument]] was unveiled to the public in [[Poland]] to honor all the contributors of Wikipedia.  < ref > {{cite web |title=Poland to honor Wikipedia with monument |url=https://www.apnews.com/60148fe4e1864baaa24396c1b7ccc59e |website=AP News |accessdate=15 August 2023 |language=en |date=9 October 2014}} < /ref > 
+ 
+ According to the TechCrunch website, on 23 January 2020, Wikipedia had surpassed more than 6 million articles on the [[English Wikipedia]]. < ref > {{Cite web|url=https://techcrunch.com/2020/01/23/wikipedia-english-six-million-articles|title=Wikipedia now has more than 6 million articles in English}} < /ref > 
+ 
+ On 13 January 2021, the English Wikipedia reached one billion edits, where the billionth edit was made by [[Steven Pruitt]]. < ref name= " vice.com " > {{cite web |title=The English Language Wikipedia Just Had Its Billionth Edit |url=https://www.vice.com/en/article/k7appn/the-english-language-wikipedia-just-had-its-billionth-edit |website=[[Vice (magazine)|Vice]] |access-date=26 February 2021 |language=en |date=15 January 2021 |archive-date=15 January 2021 |archive-url=https://web.archive.org/web/20210115145145/https://www.vice.com/en/article/k7appn/the-english-language-wikipedia-just-had-its-billionth-edit |url-status=live }} < /ref > 
+ 
+ [[MIT Press]] published an [[open access]] book of essays ''[[Wikipedia @ 20]]: Stories of an Unfinished Revolution'', edited by Joseph Reagle and Jackie Koerner with contributions from prominent Wikipedians, Wikimedians, researchers, journalists, librarians and other experts reflecting on particular histories and themes. < ref > {{Cite book|url=https://mitpress.mit.edu/books/wikipedia-20|title=Wikipedia @ 20: Stories of an Incomplete Revolution|date=2020-10-13|publisher=MIT Press|isbn=978-0-262-53817-6|editor-last=Reagle|editor-first=Joseph|location=Cambridge, MA, USA|language=en|editor2-last=Koerner|editor2-first=Jackie}} < /ref > 
+ 
+ By November 2021, Wikipedia had fallen to the thirteenth-placed website in the world for global internet engagement. < ref > {{cite web |url=https://www.alexa.com/topsites |title=The top 500 sites on the web |website=Alexa |access-date=June 13, 2020 |archive-date=February 3, 2021 |archive-url=https://web.archive.org/web/20210203120227/https://www.alexa.com/topsites |url-status=dead }} < /ref > 
+ 
+ === 20th anniversary === 
+ In January 2021, [[Wikipedia:20th anniversary|Wikipedia's 20th anniversary]] was noted in the media. < ref name= " Kelly " > {{cite news |url=https://www.washingtonpost.com/technology/2021/01/15/wikipedia-20-year-anniversary/ |first1=Heather |last1=Kelly |newspaper=[[Washington Post]] |title=Technology: On its 20th birthday, Wikipedia might be the safest place online |quote=The world's largest online encyclopedia has learned lessons from fighting misinformation for two decades |date=January 15, 2021}} < /ref > < ref name= " Kent " > {{cite web |url=https://www.cnet.com/news/in-a-post-truth-world-we-need-wikipedia-more-than-ever/ |first1=German |last1=Kent |work=[[CNET]] |title=In a post-truth world, we need Wikipedia more than ever |quote=Commentary: Wikipedia celebrated its 20th anniversary today. The free encyclopedia may not be exciting, but its neutral, volunteer-driven content is incredibly valuable.|date=January 15, 2021}} < /ref > < ref > {{cite web |url=https://www.dw.com/en/world-in-progress-20-years-of-wikipedia/av-56212410 |title=World in Progress: 20 years of Wikipedia |website=[[Deutsche Welle]] |quote=The year marks the 20th anniversary of Wikipedia. Every month, more than 1.7 billion people visit the open-source website in search of information about, well, just about anything! We speak with Dr. Bernie Hogan from the [[Oxford Internet Institute]] about Wikipedia's successes, where it fits into the discrimination crisis and the website's future.|format=Audio}} < /ref > < ref name= " Wales " > {{cite web |url=https://news.yahoo.com/wikipedia-turns-20-aims-reach-035212015.html?guccounter=1 & guce_referrer=aHR0cHM6Ly9zZWFyY2gueWFob28uY29tLw & guce_referrer_sig=AQAAAHKHaTI72xUEUz_BdVPt8DFvi-uLdmApcbSckrJrAbM_GpTwHsHtNHRdxX-KYAS6xk81e_p_w46bfh10PJVV7cmUzE-pWR5gsID2T8Kd1k0u-2r78p4Y4V16CKTPFcWRJzV0LwQMJyuEeeR7Vv-_lfVBiCT30KvF47aGzyE3QP-a |title=As Wikipedia turns 20 it aims to reach more readers |quote=Wikipedia is the web's seventh-most visited site |date=January 14, 2021 |first1=Jimmy |last1=Wales |authorlink1=Jimmy Wales |via=[[Yahoo!]]}} < /ref > 
+ 
+ == Gallery == 
+ < gallery mode= " packed " > 
+ 10piece-english-M.png|The logo used on the [[English Wikipedia]] on January 15, 2011 
+ Old wikipedia logo.png|The first view of the [[Wikipedia logo]] 
+ Wikipedia Monument 4.JPG|[[Wikipedia Monument]] 
+ Nupedia logo and wordmark.png|Wikipedia originally developed from another [[online encyclopedia]] project, [[Nupedia]]. 
+ < /gallery > 
+ 
+ == Related pages == 
+ * [[Simple English Wikipedia]] 
+ * [[Epistemic community]] 
+ 
+ ==Notes== 
+ {{reflist|group=notes}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{commonscat}} 
+ * [http://www.wikipedia.org Wikipedia] - multilingual portal (contains links to all language editions of the project) 
+ * [http://dmoz.org/Computers/Open_Source/Open_Content/Encyclopedias/Wikipedia/ Wikipedia] {{Webarchive|url=https://web.archive.org/web/20070831024848/http://www.dmoz.org/Computers/Open_Source/Open_Content/Encyclopedias/Wikipedia/ |date=2007-08-31 }} at the [[Open Directory Project]] 
+ * [http://www.cbc.ca/news2/background/tech/wikipedia.html CBC News: I, editor] 
+ * [http://en.citizendium.org/wiki/Wikipedia Wikipedia] - [[Citizendium]] 
+ 
+ {{Spoken Wikipedia|Wikipedia.ogg|July 19, 2006}} 
+ {{Wikimedia Foundation}} 
+ {{Wikipedias}} 
+ {{authority control}} 
+ 
+ [[Category:2001 establishments in the United States]] 
+ [[Category:Wikimedia]] 
+ [[Category:Wikis]] 
+ [[Category:Websites established in 2001]] 
+ [[Category:Encyclopedia websites]]

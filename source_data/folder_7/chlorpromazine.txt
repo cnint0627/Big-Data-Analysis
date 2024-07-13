@@ -1,0 +1,68 @@
+{{Drugbox 
+ | Watchedfields = changed 
+ | verifiedrevid = 443519547 
+ | IUPAC_name = 3-(2-chloro-10''H''-phenothiazin-10-yl)-''N'',''N''-dimethyl-propan-1-amine 
+ | image = Chlorpromazine.svg 
+ | alt = Skeletal formula of chlorpromazine 
+ | width = 222 
+ | image2 = Chlorpromazine-3D-balls.png 
+ | alt2 = Ball-and-stick model of the chlorpromazine molecule 
+ < !--Clinical data-- > 
+ | tradename = Largactil, Thorazine, many others 
+ | Drugs.com = {{drugs.com|monograph|chlorpromazine-hydrochloride}} 
+ | licence_US = Chlorpromazine 
+ | MedlinePlus = a682040 
+ | pregnancy_AU = C 
+ | pregnancy_US = C 
+ | legal_status = Rx-only  
+ | routes_of_administration = Oral (tablets and syrup available), [[suppository|rectal]], [[intramuscular injection|IM]], [[intravenous therapy|IV infusion]] 
+ < !--Pharmacokinetic data-- > 
+ | bioavailability = 10–80% (Oral; large interindividual variation) < ref name=TGA > {{cite web|title=PRODUCT INFORMATION LARGACTIL|work=TGA eBusiness Services|publisher=Sanofi Aventis Pty Ltd|date=28 August 2012|access-date=8 December 2013|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent & id=CP-2010-PI-05882-3|format=PDF|url-status=live|archive-url=https://web.archive.org/web/20170330162812/https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent & id=CP-2010-PI-05882-3|archive-date=30 March 2017|df=dmy-all}} < /ref > 
+ | protein_bound = 90–99% < ref name = TGA/ > 
+ | metabolism = [[Liver]], mostly [[CYP2D6]]-mediated < ref name = TGA/ > 
+ | elimination_half-life = 30 hours 
+ | excretion = Urine (43–65% in 24 hrs) < ref name = TGA/ > 
+ < !--Identifiers-- > 
+ | CAS_number_Ref = {{cascite|correct|??}} 
+ | CAS_number = 50-53-3 
+ | CAS_supplemental = (free base) < br/ > {{CAS|69-09-0}} (hydrochloride) 
+ | ATC_prefix = N05 
+ | ATC_suffix = AA01 
+ | PubChem = 2726 
+ | IUPHAR_ligand = 83 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB00477 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 2625 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = U42B7VYA4P 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = D00270 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 3647 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 71 
+ < !--Chemical data-- > 
+ | C=17 | H=19 | Cl=1 | N=2 | S=1 
+ | molecular_weight = 318.86 g/mol (free base) < br/ > 355.33 g/mol (hydrochloride) 
+ | smiles = CN(C)CCCN1c2ccccc2Sc3c1cc(cc3)Cl 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C17H19ClN2S/c1-19(2)10-5-11-20-14-6-3-4-7-16(14)21-17-9-8-13(18)12-15(17)20/h3-4,6-9,12H,5,10-11H2,1-2H3 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = ZPEIMTDSQAKGNT-UHFFFAOYSA-N 
+ }} 
+ [[File:Thorazine advert.jpg|thumb|An advert for Thorazine (which contains Chlorpromazine) from the 1960s. ]] 
+ '''Chlorpromazine,''' also known by its trade name '''Thorazine''', is an [[antipsychotic]] [[drug]]. It is typically used to treat [[Schizophrenia]]. It has also been used to treat [[bipolar disorder]]. It has been shown to help uncontrollable [[hiccups]] disappear. It is also used to help with [[nausea]] and [[vomit]]ing. < ref > {{Cite web|title=ChlorproMAZINE Monograph for Professionals|url=https://www.drugs.com/monograph/chlorpromazine.html|access-date=2022-09-22|website=Drugs.com|language=en}} < /ref >  Chlorpromazine was developed in 1950, making it the oldest antipsychotic drug. < ref > {{Cite journal|last1=López-Muñoz|first1=Francisco|last2=Alamo|first2=Cecilio|last3=cuenca|first3=Eduardo|last4=Shen|first4=Winston|last5=Clervoy|first5=Patrick|last6=Rubio|first6=Gabriel|date=2005-07-01|title=History of the Discovery and Clinical Introduction of Chlorpromazine|url=http://www.informaworld.com/openurl?genre=article & doi=10.1080/10401230591002002 & magic=crossref%7C%7CD404A21C5BB053405B1A640AFFD44AE3|journal=Annals of Clinical Psychiatry|volume=17|issue=3|pages=113–135|doi=10.1080/10401230591002002|pmid=16433053 |issn=1040-1237}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{med-stub}} 
+ {{Chemical agents}} 
+ {{Hypnotics and sedatives}} 
+ 
+ [[Category:Drugs used in psychiatry]] 
+ [[Category:Organochlorides]] 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:Organosulfur compounds]]

@@ -1,0 +1,17 @@
+{{nosources|date=July 2010}} 
+ 
+ An '''opcode''' identifies which basic computer operation in the [[instruction set]] is to be performed. It is used when writing [[machine code]]. It tells the computer to do something. Each machine language instruction typically has both an opcode and operands.  The opcode is like a verb in a sentence, and the operands are like the subject in a sentence. 
+ Operands are typically memory or registry addresses. 
+ 
+ Opcodes are used in machine code for a number of functions, including Float Addition of registers, Two's compliment addition of registers, Shifting register values to memory, or to a [[Hard disk|hard drive]], stopping a program, etc. There are quite literally hundreds of common opcodes employed in modern computers. 
+ 
+ Due to the nature of a computer's architecture, opcodes take the form of binary numbers. Alternatively, opcodes can be represented by [[hexadecimal]] digits, (for example, 10100101 = A5) for ease of reading and coding when designing or emulating a machine-code program. These values are then transformed into their binary equivalents to be saved. Modern opcodes are at least two hex characters in length which take up 1 byte of storage space. < ref group= " note " > This is not always true, older computers represented information in memory as octal numbers or in binary-coded-decimal (BCD) format.  In such machines, opcodes were octal numbers or even letters.  For example, in the [[IBM 1401]] and [[IBM 1800]], the opcode for add was A, branch was B, compare was C, and so on. < /ref > 
+ 
+ Opcodes will vary in capability and 'value' depending on the computer to which they belong, as they are hardware dependent. For instance, the opcode for STORE as expressed in Hex could be FA for one machine and 02 for another. Some opcodes will not be available on some computers. In general, there are two approaches toward building instruction sets. A [[reduced instruction set computer]] (RISC) offers less possible opcodes in favor of increasing speed for simple processes. < ref group= " note " > The most popular example of a RISC instruction set was the [[PowerPC]] chip developed by Motorola and [[IBM]] that powered [[Apple Macintosh|Macintosh]] computers for many years. < /ref >  Complex instruction set Computing (CISC) offers more opcodes in favor of increasing speed for complex processes. < ref group= " note " > An example of a CISC instruction set is the Intel microprocessor used in most personal computers. < /ref > 
+ 
+ Opcodes are seldom used by programmers directly. Whenever they are directly programmed into memory, they are only ever guaranteed to work on the computer they were designed for. When programmers write in [[assembly language]], a translator program converts program statements, one-for-one, into machine language commands.  The programmer must only remember a [[mnemonic]] for each opcode instead of its binary value.  Alternatively, a high level-programming language can be used, say 4th generation, which gets converted to 3rd generation and so on until it reaches 1st generation. From here, an individual computer will convert the program to machine code whenever the program file is read. This way, a program can work on a much larger variety of computers. 
+ 
+ ==Notes== 
+ < references group= " note " / > 
+ 
+ [[Category:Computer science]]

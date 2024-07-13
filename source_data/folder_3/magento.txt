@@ -1,0 +1,12 @@
+'''Magento''' is an open-source e-commerce platform. The software developed by Varien Inc. Magento launched in 2007. 
+ 
+ In 2011, Magento acquired by eBay Inc. < ref > [http://www.magentocommerce.com/blog/comments/ebay-agrees-to-acquire-magento/ eBay Agrees to Acquire Magento] < /ref >  In 2015, Magento 2.0 was released. < ref > {{cite web|url=http://www.zend.com/topics/Magento-CS.pdf|title=Varien and the Magento eCommerce Platform|publisher=Zend|access-date=17 January 2015|archive-url=https://web.archive.org/web/20150112072406/http://www.zend.com/topics/Magento-CS.pdf|archive-date=12 January 2015|url-status=dead}} < /ref >  In 2018 Magento acquired by [[Adobe Inc.|Adobe]]. < ref > {{Cite web|url=https://magento.com/blog/magento-news/magento-is-now-part-of-adobe|title=Magento is Now Part of Adobe|website=Magento|language=en|access-date=2018-06-19}} < /ref > 
+ 
+ Magento employs the [[MySQL]] or [[MariaDB]] relational database management system, the [[PHP]] programming language. < ref > {{cite web|url=http://www.zend.com/topics/Magento-CS.pdf|title=Varien and the Magento eCommerce Platform|publisher=Zend|access-date=17 January 2015|archive-url=https://web.archive.org/web/20150112072406/http://www.zend.com/topics/Magento-CS.pdf|archive-date=12 January 2015|url-status=dead}} < /ref > 
+ 
+ The platform has been the winner of the “''Best of Open Source Software Awards”'' and ''“SourceForge Community Choice Awards”'' several times. < ref > {{Cite web|url=https://www.infoworld.com/article/2637817/sourceforge-community-choice-awards-winners.html|title=SourceForge Community Choice Awards winners|last=Rodrigues|first=Savio|date=2008-07-25|website=InfoWorld|language=en|access-date=2019-09-27}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:American software companies]]

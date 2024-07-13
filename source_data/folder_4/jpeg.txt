@@ -1,0 +1,36 @@
+[[File:Felis silvestris silvestris small gradual decrease of quality.png|thumbnail|A [[photograph]] of a [[wildcat]] with amount of compression decreasing from left to right]] 
+ In [[computing]], the '''JPEG''' [[file format]] is a file format which is used to [[lossy compression|compress]] [[digital photography|digital images]]. The amount of compression can be changed depending on the wanted quality. If an image is high quality, it will take up a large amount of [[Storage medium|storage]]. If it is low quality, it will take up a small amount of storage. The JPEG file format is commonly found on the [[World Wide Web]]. The word ''JPEG'' is short for the [[Joint Photographic Experts Group]] which created the format. JPEG [[file extension]]s include  < code > .jpg < /code > ,  < code > .jpeg < /code > ,  < code > .jpe < /code >  and others. 
+ 
+ == How it works == 
+ === YP < sub > b < /sub > P < sub > r < /sub >  === 
+ The first notable thing about JPEG compression is the way in which the colour of each pixel is stored. Each pixel of the image is assigned 3 [[Byte|bytes]] to define its colour. All three bytes can have any value from 0 to 255 and every possible combination of the three bytes stands for another colour. In most file formats, the RGB format is used for defining the colour. RGB stands for Red Green Blue. It's named this way because the first of the three bytes tells you how much red there is in the pixel's colour. The second byte tells you how much green there is in the colour and the third byte how much blue. The higher value the first byte has, the more red the pixel looks. 
+ 
+ JPEG also uses three bytes for every pixel each, but it's using the YP < sub > b < /sub > P < sub > r < /sub >  (also known as YC < sub > b < /sub > C < sub > r < /sub > ) format. Here, the first byte tells us how bright the pixel is. The second byte tells us how blue the pixel is. The third byte tells us how red the pixel is. Using this colour format, the brightness is stored apart from the colour. This is useful, because we are going to compress an image. Because the human eye is better at seeing brightness than seeing colour, we can apply a greater compression to the colour bytes (the P < sub > b < /sub > -byte and the P < sub > r < /sub > -byte). Since we see brightness better, we use less compression on the Y-byte, to have the image look better after compression. 
+ 
+ Because images are most often stored in RGB format, the first step of JPEG compression is usually to correctly change the RGB format into the YP < sub > b < /sub > P < sub > r < /sub >  format. 
+ 
+ === Discrete Cosine Transform === 
+ JPEG uses [[cosine]] [[Function (mathematics)|functions]] to represent an image. Therefore, we are going to talk a little bit about cosine functions. This is what a cosine function could look like:  
+ [[File:Cos(x).PNG|none|thumb|cos(x)]] 
+ To have the cosine function represent the colour of a pixel, we say that the higher the value of the cosine function, the brighter the pixel. If we had a set of pixels that went bright-dark-bright, we could use the function above to define them.  
+ 
+ The function could also have a higher [[frequency]]. Like this: 
+ [[File:Cos(2x).PNG|none|thumb|cos(2x)]] 
+ But here's where it gets interesting. We can also create different functions by taking the [[average]] of different cosine functions. Here is what it would look like if we took the average of the above two functions: 
+ [[File:(cos(x) + cos(2x)).PNG|none|thumb|(cos(x) + cos(2x)) / 2]] 
+ 
+ In JPEG, DCT is applied to blocks of 8 × 8 pixels. 
+ 
+ === Quantisation === 
+ So far, no information has been lost in the process of compressing the image. In this step, we're filtering out information. For that reason, this is the step that lowers the quality of the image. For every block of 8 & nbsp;× & nbsp;8 pixels, the cosine functions with high frequencies are set to 0. This means that these can no longer have any impact on how the image looks when you decompress it.  
+ 
+ A lot of values will now be 0, which means that this can be very easily compressed. This is done using [[Huffman coding]]. Huffman coding is the last step of JPEG compression. It is also the only step in which the data is actually compressed. 
+ 
+ == Structure == 
+ Being a computer file, a JPEG file is made of multiple bytes. One byte in [[hexadecimal]] could look like 0x01. The very first bytes of a JPEG are 0xFF, 0xD8 ( " FF D8 " ); these bytes are named Start Of Image (SOI). The first section of bytes in a JPEG is the header; this is from FF D8 to right before the last 0xFF, 0xDA ( " FF DA " ) bytes. The header contains data about the data and other helpful data. The next section of bytes in a JPEG is the image data; this is from FF DA to 0xFF, 0xD9 ( " FF D9 " ). The FF DA bytes are named Start Of Scan (SOS), and the FF D9 bytes are named End Of Image (EOI). 
+ 
+ == Other websites == 
+ * [https://www.youtube.com/watch?v=n_uNPbdenRs Video]on the  " Computerphile "  YouTube channel  
+ 
+ [[Category:Computer file formats]] 
+ [[Category:Data compression]]

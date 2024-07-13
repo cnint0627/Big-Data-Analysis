@@ -1,0 +1,58 @@
+A '''database''' is a [[Computer|computer system]] for storing and taking care of data (any kind of [[information]]). 
+ 
+ When the software that runs a database is separate from the programs that use the database, it is called a '''database engine'''. 
+ 
+ Information stored inside a database is usually stored in an organized way. Data about a person that would have been written on a piece of paper before databases would be stored in a '''record''' in a database. A collection of person records that would have been an address book before databases would be stored in a '''file''' or '''table'''. 
+ 
+ == Uses for database systems == 
+ Uses for database systems include: 
+ * Storing data. 
+ * Searching for specific information within the data. 
+ * Allowing multiple people to look at and change the data at the same time. 
+ * Managing who is allowed to see the data and who can change it. 
+ * Managing rules about the data. A rule might say ''November has 30 days''. This means if someone enters ''November 31'' as a date, this date will be rejected. 
+ 
+ == Changing data == 
+ In most databases, data can change. This also means, that in many cases, changing the data needs to be done in several steps. This is because the data is often stored in more than one tables or files that need to work together to make sense. In many cases all the steps that are needed for a given change are grouped in what is called a [[Database transaction|transaction]]. If something goes wrong, all the steps are undone. Being undone is another way of saying the transaction was ''rolled back''. If all the steps are successful, they can be made a permanent part of the database. People talk about a transaction being ''committed''. Both rollback and commit affect all the steps in a transaction. 
+ 
+ The reason why a transaction is rolled back could be that the user or program did not want to finish the change. It could also mean that there is a problem. The database system itself might have a problem during the change. The change might break the rules of the data. 
+ 
+ == Guarantees about the data == 
+ In order to be able to do this, many databases follow the [[ACID]] principle: < ref > {{Cite web|date=2022-07-02|title=What are the ACID properties? {{!}} Data Basecamp|url=https://databasecamp.de/en/data/acids|access-date=2022-07-07|language=en-US}} < /ref > 
+ * '''All'''. Either '''all''' tasks of a given set (called a transaction) are done, or none of them is. This is known as ''Atomicity''. 
+ * '''Complete'''. The data in the database always makes sense. There is no half-done (invalid) data. This is known as ''Consistency''. 
+ * '''Independent'''. If many people work on the same data, they will not see (or impact) each other. Each of them has their own view of the database, which is independent of the others. This is known as ''Isolation''. 
+ * '''Done'''. Transactions must be ''committed'', when they are done. Once the committed, they can not be undone. This is known as ''Durability''. 
+ Most relational databases follow the ACID principle. ACID is [[Computational complexity theory|expensive]], which means that it takes the system enough time and other things to do it that it that some systems might not be able to. Because it is expensive, many database systems that are not relational databases don't use the ACID principle. 
+ 
+ [[File:CAP_Theorem_Venn_Diagram.png|thumb|CAP Theorem Venn Diagram]] 
+ Around the year 2000, Eric Brewer presented what he called the [[CAP theorem]]. It is not as strong as the ACID principle, but many larger, distributed databases use it. Eric Brewer states that any distributed data store can provide only [[Trilemma|two of the following three]] guarantees: < ref name= " Gilbert Lynch " > Seth Gilbert and Nancy Lynch, [http://dl.acm.org/citation.cfm?id=564601 & CFID=609557487 & CFTOKEN=15997970  " Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services " ], ''ACM SIGACT News'', Volume 33 Issue 2 (2002), pg. 51–59. {{doi|10.1145/564585.564601}}. < /ref > < ref > [http://www.julianbrowne.com/article/viewer/brewers-cap-theorem  " Brewer's CAP Theorem " ], julianbrowne.com, Retrieved 02-Mar-2010 < /ref > < ref > [https://www.royans.net/2010/02/brewers-cap-theorem-on-distributed.html  " Brewers CAP theorem on distributed systems " ], royans.net < /ref > 
+ * '''Consistency''': Every read gets the result of the most recent write. 
+ * '''Availability''': Every read gets a non-error response, but there is no guarantee that it is the most recent write. 
+ * '''Partition tolerance''': Even if messages are lost, the system continues to work. 
+ When they talked about the CAP theorem, people also often mentioned the term [[eventual consistency]]. It means that sooner or later, the data will be consistent, if there's enough time without writes, or errors. 
+ 
+ == Database model == 
+ There are different ways how to represent the data. 
+ * Simple files (called flat files): This is the most simple form of database system. All the data is stored in a simple file. 
+ * [[Hierarchical model]]: The data is organized like a tree. Every piece of data relates to another piece of data that is closer to the root of the tree. 
+ * [[Network model (database)|Network model]]: This is similar to the hierarchical model, but has much more complex structure. Every piece of data relates to another piece of data, but there is no single root that everything relates to. 
+ * [[Relational model]]: This is the most widely used kind of database in business. Data is organized in tables. The tables can be joined together as needed for queries. This model uses [[set theory]] and [[predicate logic]]. 
+ * Object-oriented model: The data is represented in the form of objects. Software created using [[object-oriented programming]] can work easily with the data. 
+ * Object–relational model: This uses parts of both the relational model and the object-oriented model. 
+ * [[NoSQL]] model: < ref > {{Cite web|date=2021-12-10|title=What are NoSQL Databases? {{!}} Data Basecamp|url=https://databasecamp.de/en/data/nosql-databases|access-date=2022-07-01|language=en-US}} < /ref >  This is a new kind of database model and is increasing being used in the industry in [[big data]] and [[real-time web]] applications. < ref > {{cite web|url= http://db-engines.com/en/blog_post/23 |title= RDBMS dominate the database market, but NoSQL systems are catching up |publisher= DB-Engines.com |date= 21 Nov 2013 |accessdate= 24 Nov 2013 }} < /ref >  The data in this model is stored as key-value pairs without any strict hierarchy as in other models. NoSQL systems are also referred to as  " Not only SQL "  because they are often used without using [[SQL]], but sometimes they can be used with SQL. < ref > {{Cite web|date=2021-12-26|title=Structured Query Language (SQL) {{!}} Data Basecamp|url=https://databasecamp.de/en/data/sql-definition|access-date=2022-07-01|language=en-US}} < /ref > 
+ 
+ == Ways to organize the data == 
+ Data can be looked at from different perspectives, and it can be organized in different ways. 
+ 
+ [[Database Normalisation]] was developed to organize data. Currently there are six [[Database Normal Form|Normal forms]]. These are ways to make some databases faster and make the data take less space. 
+ 
+ An example of database normalization is storing a person's address in one place, and linking that address to all the other records about that person. When the address is updated in the one place it is stored, all the other records will be linked to the new address automatically. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Related pages == 
+ * [[Archive]] 
+ 
+ [[Category:Databases| ]]

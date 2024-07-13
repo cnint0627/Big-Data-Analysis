@@ -1,0 +1,54 @@
+{{Chembox 
+ | verifiedrevid = 443514183 
+ | ImageFile = Trans-chlordane.svg 
+ | ImageSize = 
+ | ImageName = Chlordane 
+ | ImageFile1 = Trans-chlordane-3D-balls.png 
+ | ImageSize1 = 
+ | ImageName1 = Chlordane 
+ | IUPACName = Octachloro-4,7-methanohydroindane 
+ | OtherNames = Chlordan, Ortho 
+ | Section1 = {{Chembox Identifiers 
+ | CASNo = 57-74-9 
+ | PubChem = 5993 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = C14176 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = A9RLM212CY 
+ | SMILES = ClC1CC2C(C1Cl)[C@@]3(Cl)C(=C(Cl)[C@@]2(Cl)C3(Cl)Cl)Cl}} 
+ | Section2 = {{Chembox Properties 
+ | Formula = C < sub > 10 < /sub > H < sub > 6 < /sub > Cl < sub > 8 < /sub > 
+ | MolarMass = 409.779 & nbsp;g/mol 
+ | Appearance = 
+ | Density = 1.60 & nbsp;g/cm < sup > 3 < /sup > 
+ | MeltingPt = 106 & nbsp;°C 
+ | BoilingPt = 175 & nbsp;°C at 1 [[mmHg]] < ref name= " hand " > 
+ {{Citation 
+ | last = Lide 
+ | first = David R. 
+ | year = 1998 
+ | title = Handbook of Chemistry and Physics 
+ | edition = 87 
+ | publication-place = Boca Raton, FL 
+ | publisher = CRC Press 
+ | isbn = 978-0-8493-0594-8 
+ | pages = 3–100 
+ }} < /ref > 
+ | Solubility = }} 
+ | Section3 = {{Chembox Hazards 
+ | MainHazards = 
+ | FlashPt = 
+ | Autoignition = }} 
+ }} 
+ '''Chlordane''' is an [[insecticide]], introduced in 1947. It is an [[organochloride]] that acts like a contact [[poison]]. It can be produced using the [[Diels–Alder reaction]], and has at least 147 constituents. Its main use was in treating [[seed]]s, e.g. of [[potato]]es, [[wheat]], or [[vegetable]]s. It was also used for [[wood preservation]], and against [[ant]]s and [[termite]]s. Chlordane only degrades slowly, which means that it is relatively easy to spread it over long distances. It accumulates in the body of animals, in [[mammal]]s mostly in the [[nervous system]] and the [[liver]]. Chlordane has been shown to cause [[cancer]] in [[mouse|mice]]; it may cause cancer in humans. Chlordane is [[toxin|toxic]]. It is listed in the [[Stockholm Convention on Persistent Organic Pollutants]]. 
+ 
+ ==References== 
+ < references/ > 
+ 
+ 
+ [[Category:Organochlorides]] 
+ [[Category:Carcinogens]] 
+ [[Category:Insecticides]] 
+ 
+ 
+ {{chem-stub}}

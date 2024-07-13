@@ -1,0 +1,34 @@
+An '''interface''' or '''shell''' is what the user uses < ref > Interfaces are not only for the end user (average computer user), everybody uses interfaces! < /ref >  on an [[operating system]] to make the computer do tasks, like writing a document, or loading a [[web page]]. There are two types of interfaces, a [[command line interface]] (CLI for short) - where people write commands to make the computer perform tasks, or a [[graphical user interface]] (GUI for short), where people use their [[Computer mouse]] to click on buttons to perform tasks. 
+ 
+ == Command line interface == 
+ [[File:Bash screenshot.png|thumbnail|right|A command line interface. This one is called [[Bash]], and is used in [[Linux]].]] 
+ ''See [[Command line interface]].'' 
+ 
+ Command line interfaces ask the user to type in commands in a [[text-based]] environment, not allowing images, like the screen image to the right. < ref > Computers still could do good graphics at the time. Take old computer games as an example. If the user saw a car, instead of [[ASCII art]], the user would most likely get a car  " drawn "  on the screen. < /ref > 
+ 
+ For example, if the user wanted the computer to say  " Hello World " , he or she would: 
+ # have to type in what tells the computer that this is a command (we will use  " say " ) 
+ # then have to tell the computer what to  " say "  ( " Hello World "  in [[wikt:quotation marks|quotation marks]]) 
+ # then press Enter or Return, giving the command to the computer, which is ''say ''' " '''Hello World''' " ''''', so the computer prints ''Hello World''. 
+ 
+ This is hard to use for most people, mostly because when the user has to do a long command, he or she can miss a letter or two, so the computer shows an error, and he or she has to do it all over again, which can waste hours. 
+ == Graphical user interface == 
+ ''See [[Graphical user interface]].'' 
+ 
+ Graphical user interfaces are instead made of not only text, but also images. The first computer to do this was the [[Apple Lisa]] (1983). 
+ 
+ The following [[operating system]]s can use graphical user interfaces: 
+ * [[Microsoft Windows]] 
+ * [[Mac OS X]] 
+ * [[Linux]] < ref > Linux is not an [[operating system]], but a [[kernel]] (the core of an operating system). < /ref >  distributions, such as [[Ubuntu Linux|Ubuntu]] 
+ Since the top operating systems (listed above) use graphical user interfaces, they are seen on every computer. Anyone can still use a command line interface on any computer very easily. 
+ 
+ ==Related pages== 
+ * [[Apple Macintosh]] is the original Macintosh was the first economic computer with a GUI 
+ * [[Xerox Alto]] is a very first computer with a GUI—but it wasn't easy to use 
+ * [[Microsoft Windows]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Computer terminology]]

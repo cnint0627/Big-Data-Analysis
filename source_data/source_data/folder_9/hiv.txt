@@ -1,0 +1,226 @@
+{{Paraphyletic group 
+ | name = Human immunodeficiency viruses 
+ | image = HIV-budding-Color.jpg 
+ | image_alt = Scanning electron micrograph of HIV-1 (in green) budding from cultured lymphocyte. Multiple round bumps on cell surface represent sites of assembly and budding of virions. 
+ | image_caption = [[Scanning electron micrograph]] of HIV-1 (in green) budding from cultured [[lymphocyte]]. Multiple round bumps on cell surface represent sites of assembly and budding of virions. 
+ | auto = virus 
+ | parent = Lentivirus 
+ | includes =  
+ *''[[Subtypes of HIV#HIV-1|Human immunodeficiency virus 1]]'' 
+ *''[[Subtypes of HIV#HIV-2|Human immunodeficiency virus 2]]'' 
+ | excludes_text = Other lentiviruses 
+ | excludes =  
+ *''[[Bovine immunodeficiency virus]]'' 
+ *''[[Caprine arthritis encephalitis virus]]'' 
+ *''[[Equine infectious anemia virus]]'' 
+ *''[[Feline immunodeficiency virus]]'' 
+ *''[[Jembrana disease virus]]'' 
+ *''[[Puma lentivirus]]'' 
+ *''[[Simian immunodeficiency virus]]'' 
+ *''[[Visna-maedi virus]]'' 
+ }} 
+ [[File:HIV and AIDS explained in a simple way.webm|thumb|HIV and AIDS explained in a simple way]] 
+ [[File:HIV Epidem blank.png|250px|thumb|right|Percentage of adults that are infected with HIV per country at the end of 2005 
+ {{legend|#800000|15–50% (15-50 people out of 100)}} 
+ {{legend|#FF0000|5–15% (5-15 people out of 100)}} 
+ {{legend|#E08040|1–5% (1-5 people out of 100)}} 
+ {{legend|#e0c000|0.5–1.0% (1-2 people out of 200)}} 
+ {{legend|#e0e080|0.1–0.5% (1-5 people out of 1000)}} 
+ {{legend|#00e080| < 0.1% (less than 1 person out of 1000)}} 
+ {{legend|#c0c0c0|[[Greenland]] no data}}]] 
+ [[File:HIV Mature and Immature.PNG|thumb|right|250px|Diagram of the immature and mature forms of HIV]] 
+ 
+ '''Human immunodeficiency virus''' ('''HIV''') is a type of [[virus]] called a [[Lentivirus]]. This is a kind of [[retrovirus]]. It infects the human [[immune system]], which is the system in the body which fights off [[infection]]s.  
+ 
+ HIV may cause [[AIDS]]. This kills the [[white blood cell]]s which a healthy body uses to fight diseases. 
+ 
+ == How people get infected == 
+ A person can get infected with HIV if any body liquid with the virus gets into their body. The body liquids that carry HIV are [[blood]], [[semen]], liquid from the [[vagina]], and [[breastfeeding|breast milk]].  
+ 
+ The virus may get into the body through [[injury|injured]] skin. More usually it gets in  through the [[mouth]], [[eyes]], [[nose]], [[vagina]], [[anus]], or [[penis]].  
+ 
+ However, when people get HIV by having sex, the virus may enter the body through the [[vagina]] or [[anus]]. 
+ 
+ There are some common ways to get HIV: 
+ * A person with HIV can give a sexual partner the virus if they have unprotected sex. That means having [[sexual intercourse]] without a [[condom]]. 
+ * A person can get HIV if he or she uses the same [[needle]] as a person with HIV to [[injection|inject]] [[illegal drugs|drugs]] or get a [[tattoo]]. 
+ * A person may get HIV if he or she is stuck by a needle that was used on a patient with HIV. 
+ * Babies can get the virus [[Vertical transmission|from their mothers when they are born]] or when they are [[breastfeeding]]. A baby may be protected from getting HIV this way if their mother takes certain medications while she is pregnant. 
+ * [[Blood transfusion]]s using infected blood products was a common cause of HIV. The blood had been taken from people with HIV infections. Now, in the [[Developed country|developed world]] screening of blood products for HIV has mostly stopped this happening. However, people may still get HIV from blood transfusions in less-developed countries if the blood is not screened. 
+ 
+ A person cannot get infected with HIV from non-sexual touching, like a [[hug]] or [[handshake]], or touching someone else's [[saliva]]. A person cannot get HIV from an insect [[bite]], a [[cough]], or a [[sneeze]]. < ref > {{cite web |url=http://www.avert.org/howcan.htm |title=Can I get AIDS from...? |accessdate=2010-06-26 }} < /ref >  People also cannot get HIV from touching light switches, using toilets, or drinking from the same glass as a person with HIV. 
+ 
+ === Data === 
+ {| class= " wikitable "  style= " margin: 1em auto 1em auto; " 
+ |+Comparison of HIV [[species]] 
+ |- 
+ ! Species !! [[Virulence]] !! [[Infectivity]] !! Prevalence !! Inferred origin 
+ |- 
+ ! HIV-1 
+ | High || High || Global || [[Common Chimpanzee]] 
+ |- 
+ ! HIV-2 
+ | Lower || Low || West Africa || [[Sooty Mangabey]] 
+ |} 
+ < br > 
+ {| class= " wikitable "  style= " float:center; margin-left:15px; " 
+ |- style= " background:#efefef; " 
+ |+ Estimated per-act risk for acquisition of HIV by exposure route  < ref > Means the risk of getting HIV for a '''single sexual act'''. < /ref > < ref name= " MMWR3 " > {{cite journal |author=Smith DK, Grohskopf LA, Black RJ| display-authors = etal|title=Antiretroviral postexposure prophylaxis after sexual, injection-drug use, or other nonoccupational exposure to HIV in the United States: recommendations from the U.S. Department of Health and Human Services |journal=MMWR Recomm Rep |volume=54 |issue=RR–2 |pages=1–20 |date=January 2005  |pmid=15660015 |doi= |url=https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5402a1.htm#tab1 | accessdate=2009-03-31 
+ 
+ }} < /ref > < ref name= " Jin_et_al " > {{ 
+ cite journal |author=Jin F | display-authors = etal |title=Per-contact probability of HIV transmission in homosexual men in Sydney in the era of HAART|journal=AIDS |volume=24 |issue=6 |pages=907–913 |date=March 2010  |pmid=20139750 |doi= 10.1097/QAD.0b013e3283372d90 |pmc=2852627 
+ 
+ }} < /ref > 
+ |- style= " background:#efefef; " 
+ ! abbr= " Route "  | Exposure Route  < ref > Which sexual act was caused the infection < /ref > 
+ ! abbr= " Infections "  | Estimated infections per 10,000 exposures to an infected source  < ref > This means, in effect, the chance of getting the virus from one sex act of each kind. Data from various samples are adjusted to 10,000 cases so they can be compared. < /ref > 
+ |- 
+ | style= " text-align:left " | Blood transfusion  < br > ''[Being given blood in a transfusion]'' 
+ | 9,000 (90%) < ref name= " Donegan " > {{ 
+ 
+ cite journal | author=Donegan E, Stuart M, Niland JC | display-authors = etal | title=Infection with human immunodeficiency virus type 1 (HIV-1) among recipients of antibody-positive blood donations | journal=Ann. Intern. Med. | year=1990 | pages=733–739 | volume=113 | issue=10 
+ | doi = 10.7326/0003-4819-113-10-733 | pmid=2240875 
+ 
+ }} < /ref > 
+ |- 
+ | style= " text-align:left " | [[Vertical transmission|Mother-to-child]], including [[pregnancy]], [[childbirth]] and [[breastfeeding]] (without treatment)  < br > ''[Mother giving her child or unborn child HIV, if she does not take medications to prevent giving the child HIV]'' 
+ | 2,500 (25%) < ref name= " Coovadia " > {{ 
+ 
+ cite journal | author=Coovadia H | title=Antiretroviral agents—how best to protect infants from HIV and save their mothers from AIDS | journal=N. Engl. J. Med. | year=2004 | pages=289–292 | volume=351 | issue=3 | pmid=15247337 | doi=10.1056/NEJMe048128 
+ 
+ }} < /ref > 
+ |- 
+ | style= " text-align:left " | Mother-to-child, including pregnancy, childbirth and breastfeeding (with optimal treatment)  < br > ''[Mother giving her child or unborn child HIV, if she takes the best possible medications to prevent giving the child HIV]'' 
+ | 100–200 (1%–2%) < ref name=Coovadia/ > 
+ |- 
+ | style= " text-align:left " | Needle-sharing injection drug use  < br > ''[People sharing the same needle to inject illegal drugs]'' 
+ | 67 (0.67%) < ref name= " Kaplan " > {{ 
+ 
+ cite journal | author=Kaplan EH, Heimer R | title=HIV incidence among New Haven needle exchange participants: updated estimates from syringe tracking and testing data | journal=J. Acquir. Immune Defic. Syndr. Hum. Retrovirol. | year=1995 | pages=175–176 | volume=10 | issue=2 
+ | doi=10.1097/00042560-199510020-00010 | pmid=7552482 
+ 
+ }} < /ref > 
+ |- 
+ | style= " text-align:left " | Percutaneous needle stick  < br > ''[Getting stuck by a needle used on a person with HIV - for example, in healthcare]'' 
+ | 30 (0.30%) < ref name= " Bell " > {{ 
+ 
+ cite journal | author=Bell DM | title=Occupational risk of human immunodeficiency virus infection in healthcare workers: an overview | journal=Am. J. Med. | year=1997 | pages=9–15 | volume=102 | issue=5B | pmid=9845490 | doi=10.1016/S0002-9343(97)89441-7 
+ 
+ }} < /ref > 
+ |- 
+ | style= " text-align:left " | Receptive [[Anal sex|anal intercourse]] (2009 and 2010 studies) < br > ''[Receiving anal sex]'' 
+ | 170 (1.7%) < sup > ‡ < /sup >  [30–890] < ref name=Boily_et_al/ >  / 143 [48–285] < ref name=Jin_et_al/ > 
+ |- 
+ | style= " text-align:left " | Receptive anal intercourse (based on data of a 1992 study)  < br > ''[Receiving anal sex]'' 
+ | 50 (0.5%) < ref name= " ESG " > {{ 
+ 
+ cite journal | author=European Study Group on Heterosexual Transmission of HIV | title=Comparison of female to male and male to female transmission of HIV in 563 stable couples. European Study Group on Heterosexual Transmission of HIV | journal=BMJ. | year=1992 | pages=809–813 | volume=304 | issue=6830 | pmid=1392708 | pmc=1881672 | doi=10.1136/bmj.304.6830.809 
+ 
+ }} < /ref > < ref name= " Varghese " > {{ 
+ 
+ cite journal | author=Varghese B, Maher JE, Peterman TA, Branson BM,Steketee RW | title=Reducing the risk of sexual HIV transmission: quantifying the per-act risk for HIV on the basis of choice of partner, sex act, and condom use | url=https://archive.org/details/sim_sexually-transmitted-diseases_2002-01_29_1/page/38 | journal=Sex. Transm. Dis. | year=2002 | pages=38–43 | volume=29 | issue=1 | pmid=11773877 | doi=10.1097/00007435-200201000-00007 
+ 
+ | s2cid=45262002 }} < /ref > 
+ |- 
+ | style= " text-align:left " | Insertive anal intercourse for [[Circumcision|uncircumcised]] men (2010 study)  < br > ''[An uncircumsized man giving anal sex]'' 
+ | 62 (0.62%) < sup > a < /sup >  [7–168] < ref name=Jin_et_al/ > 
+ |- 
+ | style= " text-align:left " | Insertive anal intercourse for circumcised men (2010 study)  < br > ''[A circumsized man giving anal sex]'' 
+ | 11 (0.11%) < sup > a < /sup >  [2–24] < ref name=Jin_et_al/ > 
+ |- 
+ | style= " text-align:left " | Insertive anal intercourse (based on data of a 1992 study) < br > ''[Giving anal sex]'' 
+ | 6.5 (0.065%) < ref name=ESG / > < ref name=Varghese / > 
+ |- 
+ | style= " text-align:left " | Low-income country female-to-male  < br > ''[A woman giving a man HIV through sexual activity; rate is for low-income countries]'' 
+ | 38 (0.38%) < sup > ‡ < /sup >  [13–110] < ref name= " Boily_et_al " > {{ 
+ cite journal |author=Boily MC, Baggaley RF, Wang L, Masse B, White RG, Hayes RJ, Alary M |title=Heterosexual risk of HIV-1 infection per sexual act: systematic review and meta-analysis of observational studies|journal=The Lancet Infectious Diseases |volume=9 |issue=2 |pages=118–129 |date=February 2009  |pmid=19179227 |doi=10.1016/S1473-3099(09)70021-0|pmc=4467783}} < /ref > 
+ |- 
+ | style= " text-align:left " | Low-income country male-to-female  < br > ''[A man giving a woman HIV through sexual activity; rate is for low-income countries]'' 
+ | 30 (0.3%) < sup > ‡ < /sup >  [14–63] < ref name=Boily_et_al/ > 
+ |- 
+ | style= " text-align:left " | Receptive (female) penile-vaginal intercourse  < br > ''[A woman receiving sexual intercourse from a man]'' 
+ | 10 (0.1%) < ref name=ESG / > < ref name=Varghese / > < ref name= " Leynaert " > {{ 
+ 
+ cite journal | author=Leynaert B, Downs AM, de Vincenzi I | title=Heterosexual transmission of human immunodeficiency virus: variability of infectivity throughout the course of infection. European Study Group on Heterosexual Transmission of HIV | journal=Am. J. Epidemiol. | year=1998 | pages=88–96 | volume=148 | issue=1 | doi=10.1093/oxfordjournals.aje.a009564 | pmid=9663408 
+ 
+ }} < /ref > 
+ |- 
+ | style= " text-align:left " | Insertive (male) penile-vaginal intercourse  < br > ''[A man giving sexual intercourse to a woman]'' 
+ | 5 (0.05%) < ref name=ESG / > < ref name=Varghese / > 
+ |- 
+ | style= " text-align:left " | [[Fellatio|Fellating]] a man  < br > ''[Performing oral sex on a man]'' 
+ | 1 (0.01%) < sup > † < /sup > < sup > b < /sup > < ref name=Varghese / > 
+ |- 
+ | style= " text-align:left " | Man being fellated  < br > ''[A man receiving oral sex]'' 
+ | 0.5 (0.005%) < sup > † < /sup > < sup > b < /sup > < ref name=Varghese / > 
+ |} 
+ : < sup > a < /sup >  Other studies found insufficient evidence that male circumcision protects against HIV infection among men who have sex with men < ref name= " Millett_et_al " > {{cite journal |author=Millett GA, Flores SA, Marks G, Reed JB, Herbst JH |title=Circumcision status and risk of HIV and sexually transmitted infections among men who have sex with men: a meta-analysis |journal=The Journal of American Medical Association |volume=300 |issue=14 |pages=1674–1684 |date=October 2009  |pmid=18840841 |doi= 10.1001/jama.300.14.1674|url=http://jama.ama-assn.org/cgi/content/short/300/14/1674 | accessdate=2010-04-11}} < /ref > < ref name= " Millett_et_al2 " > Correction about the values although  " the pattern of nonsignificant findings remains consistent with the originally published article " [http://jama.ama-assn.org/cgi/content/full/jama;301/11/1126] {{Webarchive|url=https://web.archive.org/web/20070515011914/http://jama.ama-assn.org/cgi/content/full/jama|date=2007-05-15}} < /ref > 
+ : < sup > b < /sup >  Oral trauma, sores, inflammation, concomitant [[Sexually transmitted disease|sexually transmitted infections]], [[ejaculation]] in the mouth, and systemic immune suppression may increase HIV transmission rate. < ref > {{cite web |url=http://www.phac-aspc.gc.ca/publicat/epiu-aepi/epi_update_may_04/13-eng.php |title=Public Health Agency of Canada |publisher=Phac-aspc.gc.ca |date=2004-12-01 |accessdate=2010-07-28 |archive-date=2012-06-23 |archive-url=https://web.archive.org/web/20120623172006/http://www.phac-aspc.gc.ca/publicat/epiu-aepi/epi_update_may_04/13-eng.php |url-status=dead }} < /ref > 
+ : < sup > † < /sup >   " best-guess [[Estimation|estimate]] " 
+ : < sup > ‡ < /sup >  Pooled transmission probability estimate. 
+ :Bracketed values represent 95% confidence interval. 
+ 
+ == Treatment == 
+ === Drug treatment === 
+ HIV causes a person to become more prone to illness, so infected people need treatment options. However, there is no cure for HIV. To help ease negative [[symptoms]], [[drugs]] called anti-retroviral therapy (ART) are available. This treatment is also called high active anti-retroviral therapy (HAART). HAART treatment begins with one non-nucleoside reverse transcriptase inhibitor (NNRTI) and two nucleoside analogue reverse transcriptase inhibitors (NRTIs). < ref name= " WHO " > {{cite journal | title=Antiretroviral therapy for HIV infection in adults and adolescents: recommendations for a public health approach. | journal=World Health Organization | pages= 1–145 | year= 2010 |url=http://whqlibdoc.who.int/publications/2010/9789241599764_eng.pdf }} < /ref >  The NRTI drug could be named zidovudine (AZT), tenofovir (TDF), andlamivudine (3TC), or emtricitabine (FTC). < ref name= " who1 " > {{cite journal | title=Antiretroviral therapy for HIV infection in adults and adolescents: recommendations for a public health approach. | journal =World Health Organization | pages= 1–145 | year= 2010 |url=http://whqlibdoc.who.int/publications/2010/9789241599764_eng.pdf }} < /ref > 
+ 
+ These drugs slow the progression of the HIV virus in the body. < ref name=who1 / >  Usually, these treatments consist of a combination of three or more drugs, and each drug performs a different job in fighting the virus. In general, HAART prevents the HIV from multiplying and destroying CD4 cells. CD4 cells are necessary to help protect the body from infections and [[cancer]]. < ref name= " US " > {{cite journal | title= HIV and Its Treatment. | journal= U.S. Department of Health and Human Services | year= 2012 | url= http://aidsinfo.nih.gov/ContentFiles/HIVandItsTreatment_cbrochure_en.pdf | access-date= 2013-04-02 | archive-date= 2011-10-21 | archive-url= https://web.archive.org/web/20111021060104/http://www.aidsinfo.nih.gov/ContentFiles/HIVandItsTreatment_cbrochure_en.pdf | url-status= dead }} < /ref >  Since the HIV virus destroys CD4 cells, it causes people with HIV to be more prone to illness. 
+ 
+ It is recommended to start HAART if a person has HIV and has a CD4 cell count of less than or equal to 350 cells/mm3. This number can be determined by a doctor. < ref name=who1 / >  A person’s age, sex, and other infections determine which treatment he or she should take. < ref name=who1 / >  These medication regimens can help HIV-infected people live longer, healthier lives, and can also help prevent the HIV from advancing to AIDS. < ref name= " nih2012 " > {{cite journal | title= HIV and its treatment. | journal= U.S. Department of Health and Human Services | year= 2012 | url= http://aidsinfo.nih.gov/ContentFiles/HIVandItsTreatment_cbrochure_en.pdf | access-date= 2013-04-02 | archive-date= 2011-10-21 | archive-url= https://web.archive.org/web/20111021060104/http://www.aidsinfo.nih.gov/ContentFiles/HIVandItsTreatment_cbrochure_en.pdf | url-status= dead }} < /ref > 
+ 
+ [[File:Symptoms of acute HIV infection.svg|thumb|Symptoms of acute HIV infection]] 
+ 
+ === General treatment === 
+ There has been [[controversy]] surrounding when the correct time to start therapy should be after a person discovers that he or she has HIV. Recently, the answer has been that earlier treatment is recommended. < ref name= " Jain " > {{cite journal | author= Jain V, Deeks SG. | title= When to start antiretroviral therapy | journal= Curr HIV/AIDS Rep | year= 2010 | volume= 7 | issue= 2 | pages= 60–68 | doi= 10.1007/s11904-010-0044-6 | pmid= 20425559 | pmc= 2856854 }} < /ref >  This is because, first, effective therapy can prevent non-AIDS-related deaths. Second, therapy can prevent harm to a person’s [[immune system]]. Third, therapy can help prevent transmission of HIV to others, and can therefore reduce HIV [[prevalence]] overall. < ref name=Jain / >  Although there are some negative [[Adverse effect (medicine)|side effects]] of antiretroviral medications, the benefits of therapy usually outweigh the negative effects. 
+ 
+ === Effects of therapy === 
+ Patients on HAART have reported significant improvements in physical health, emotional health, [[mental health]], and daily function compared to HIV-positive patients not yet on treatment. < ref name= " Beard " > {{cite journal | author= Beard J, Feeley F, and Rosen S | title= Economic and quality of life outcomes of antiretroviral therapy for HIV/AIDS in developing countries: a systematic literature review | journal= AIDS Care | year= 2009 | volume= 21 | issue= 11 | pages= 1343–1356 | doi= 10.1080/09540120902889926 | pmid= 20024710 | s2cid= 21883819 }} < /ref >  Most research has occurred in [[developing countries]], and little research has been done on the impacts of ART on household wellbeing. < ref name=Beard / > 
+ 
+ Although HAART can be an effective means to treating HIV, there can be many negative side effects. Negative side effects can vary by drug, by [[Ethnic group|ethnicity]], and by drug interactions in the body. The following list contains the most common and serious negative side effects associated with HAART medications to treat HIV. < ref name= " McNicholl " > {{cite journal | author= McNicholl I. | title= Adverse Events of Antiretroviral Drugs. | journal= University of California San Francisco | year= 2012 | url= http://hivinsite.ucsf.edu/InSite?page=ar-05-01 | access-date= 2013-04-02 | archive-date= 2020-10-31 | archive-url= https://web.archive.org/web/20201031122409/http://hivinsite.ucsf.edu/insite?page=ar-05-01 | url-status= dead }} < /ref > 
+ 
+ Nucleoside Reverse Transcriptase Inhibitors (NRTIs) 
+ * [[Lactic acidosis]], [[hepatic steatosis]], and [[Adipose tissue|body fat]] redistribution (lipodystrophy) 
+ * [[Fever]], [[headache]], [[rash]], [[nausea]], [[vomiting]], [[diarrhea]], [[fatigue]] 
+ 
+ Nonnucleoside Reverse Transcriptase Inhibitors (NNRTIs) 
+ * Rash, [[Stevens–Johnson syndrome|Stevens-Johnson syndrome]], and [[toxic]] [[Epidermis|epidermal]] necrolysis 
+ * Fatigue, [[mood]] changes, [[liver]] function, [[insomnia]] 
+ * May have significant interactions with other drugs; dosage adjustments would be required 
+ 
+ [[Protease]] Inhibitors (PIs) 
+ * [[Metabolism|Metabolic]] abnormalities including [[dyslipidemia]], [[hyperglycemia]], [[insulin resistance]], and lipodystrophy 
+ * May increase risk of [[bleeding]] in [[Haemophilia|hemophiliacs]] 
+ * Rash, diarrhea, vomiting, taste perversion, fatigue 
+ * May have significant interactions with other drugs; dosage adjustment would be required 
+ 
+ Fusion Inhibitors 
+ * Injection site reactions, [[neutropenia]], increased frequency of [[pneumonia]] 
+ Chemokine Coreceptor Antagonists 
+ * Diarrhea, nausea, fatigue, [[dizziness]], headache, liver function, [[joint]] [[pain]] 
+ 
+ Integrase Inhibitors 
+ * Nausea, diarrhea, headache, rash 
+ 
+ Pharmacokinetic Enhancers 
+ * Increased [[Serum (blood)|serum]] [[creatinine]], [[proteinuria]], nausea, diarrhea  < ref name=McNicholl / > 
+ 
+ === Alternative therapy === 
+ Many people living with HIV have tried using alternative treatment methods, known as complementary and [[alternative medicine]] (CAM). Some types of CAM include [[stress]] management, natural health products, [[massage]]/therapeutic touch, [[acupuncture]], and [[homeopathy]]. < ref name= " Mills " > {{cite journal | author= Mills P, Wu P, Ernst E. | title= Complementary therapies for the treatment of HIV: in search of the evidence | journal= Int. J of STD and AIDS. | year= 2005 | volume= 16 | issue= 6 | pages= 395–403 | doi= 10.1258/0956462054093962 | pmid= 15969772 | s2cid= 7411052 }} < /ref >  Stress management can increase quality of life for a person with HIV. < ref name=Mills / >  Even with little evidence of its effectiveness, many people chose to try CAM because of the many negative side effects associated with HAART and the few negative side effects associated with CAM. Some HIV-infected people also try [[herbal]] medicines to treat HIV, but there has been no evidence showing any positive outcomes with the use of herbal remedies. < ref name= " Liu " > {{cite journal | author= Liu JP, Manheimer E, Yang M. | title= Herbal medicines for treating HIV infection and AIDS | journal= Cochrane Database Syst. Rev. | year= 2005 | volume= 3 | issue= 3 | pages= CD003937 | doi= 10.1002/14651858.CD003937.pub2 | pmid= 16034917 | pmc= 8759069 }} < /ref > 
+ 
+ Another type of alternative therapy for treating HIV is micronutrient supplementation. Micronutrients are [[vitamins]] and [[minerals]], so these supplements would be in the form of a general daily [[multivitamin]]. These supplements have been proven to help treat HIV because HIV can cause micronutrient deficiencies, so the supplements can help replenish these needed vitamins and minerals. Although the supplements may not help ease all negative symptoms, they offer some benefits and are safe for HIV-infected patients. < ref name=Liu / >  Supplements are also safe for HIV-infected pregnant women and their children. Specifically, [[vitamin A]] and [[zinc]] have shown positive health effects. < ref name=Liu / >  There are no major negative side effects of vitamin and mineral supplements. < ref name= " Irlam " > {{cite journal | author= Irlam JH, Visser MM, Rollins NN, Siegfried N. | editor1-first= James H | editor1-last= Irlam | title= Micronutrient supplementation in children and adults with HIV infection | journal= Cochrane Database Syst. Rev. | year= 2010 | volume= 12 | issue= 12 | pages= CD003650 | doi= 10.1002/14651858.CD003650.pub3 | pmid= 21154354 }} < /ref > 
+ 
+ Alternative therapies can help to reduce symptoms of diseases like HIV, but do not cure the disease, or stop the disease from spreading to other people. 
+ 
+ == PREP == 
+ " PREP "  or  " PrEP "  is ''pre-exposure [[prophylaxis]]''. This means a person takes a drug before having risky sex. The drug '[[Truvada]]' is a combination of two different anti-viral treatments: ''[[tenofovir]]'' and ''[[emtricitabine]]''. < ref > PrEP: PK modeling of daily TDF/FTC (Truvada) provides close to 100% protection against HIV nfection. TheBodyPRO.com. [http://www.thebodypro.com/content/66547/prep-pk-modeling-of-daily-tdfftc-truvada-provides.html PrEP: PK Modeling of Daily TDF/FTC (Truvada) Provides Close to 100% Protection Against HIV Infection - TheBodyPRO.com] {{Webarchive|url=https://web.archive.org/web/20150115052019/http://www.thebodypro.com/content/66547/prep-pk-modeling-of-daily-tdfftc-truvada-provides.html |date=2015-01-15 }} < /ref >  Truvada is very expensive, and was not available on the UK's [[National Health Service]] before 2016. A study, published in ''[[The Lancet]]'' in 2023 found that PrEP reduced the chances of getting HIV by almost 87% and recommended that it should be more easily available. < ref > {{Cite web|last=Clews|first=Graham|date=2023-11-30|title=PrEP highly effective in cutting HIV transmission but better access needed, study finds|url=https://pharmaceutical-journal.com/article/news/prep-highly-effective-in-cutting-hiv-transmission-but-better-access-needed-study-finds|access-date=2023-11-30|website=The Pharmaceutical Journal|language=en-US}} < /ref > 
+ 
+ References{{reflist|2}} 
+ 
+ == Other websites == 
+ * [http://www.doihaveaids.info AIDS-HIV Resources and guidelines for prevention] {{Webarchive|url=https://web.archive.org/web/20100128223247/http://www.doihaveaids.info/ |date=2010-01-28 }} 
+ * [http://www.soc.ucsb.edu/sexinfo/?article=stds & refid=007 University of California, Santa Barbara's ''SexInfo'']{{Dead link|date=February 2021 |bot=InternetArchiveBot |fix-attempted=yes }} This article provides basic information about HIV/AIDS in a way that is easy to understand.  This site also has an article that provides [http://www.soc.ucsb.edu/sexinfo/?article=5M8P A Personal Guide for Preventing AIDS Transmission]{{Dead link|date=February 2021 |bot=InternetArchiveBot |fix-attempted=yes }}. 
+ * [http://www.aegis.org/ AIDS Education Global Information System (AEGiS)] 
+ 
+ [[Category:Sexually transmitted diseases]] 
+ [[Category:Viruses]] 
+ [[Category:HIV/AIDS| ]]

@@ -1,0 +1,12 @@
+'''Cyberattack''' is a term in [[computer science]]. It is any attempt to alter, disable, destroy, steal or get into or make unauthorized use of a computer system. < ref > {{cite web|url=http://standards.iso.org/ittf/PubliclyAvailableStandards/c041933_ISO_IEC_27000_2009.zip|title=Publicly Available Standards }} < /ref >   
+ 
+ An attacker is a person or process that attempts to access data, functions, or other restricted areas of the system without authorization. Malicious intent is assumed. < ref > {{Cite web|url=http://glossar.german-testing-board.info/|title=ISTQB Standard glossary of terms used in software testing|access-date=2021-05-10|archive-date=2018-11-05|archive-url=https://web.archive.org/web/20181105182224/http://glossar.german-testing-board.info/|url-status=dead}} < /ref > < ref name= " ssrn.com " > {{cite journal|url=https://ssrn.com/abstract=2765010|title=Financial weapons of war |first=Lin, Tom C.|last=W.|date=14 April 2016|website=ssrn.com}} < /ref > < ref > {{cite news|last1=Satter |first1=Raphael|title=What makes a cyberattack? Experts lobby to restrict the term|url=https://apnews.com/2c25d7da76f4409bae7daf063c071420/what-makes-cyberattack-experts-lobby-restrict-term|access-date=7 July 2017|date=28 March 2017}} < /ref > < ref > S. Karnouskos: ''[http://papers.duckdns.org/files/2011_IECON_stuxnet.pdf Stuxnet worm impact on industrial cyber-physical system security]{{Dead link|date=October 2022 |bot=InternetArchiveBot |fix-attempted=yes }}.'' In:''37th Annual Conference of the IEEE Industrial Electronics Society (IECON 2011), Melbourne, Australia'', 7-10 Nov 2011. Retrieved 20 April 2014. < /ref > 
+   
+ Cyberattacks can be part of [[cyberwarfare]] or [[cyberterrorism]]. A cyberattack can be done by [[sovereign state]]s, individuals, groups, society, or organizations. It may start from an anonymous source. A product that helps a cyberattack is sometimes called a [[cyberweapon]]. 
+ 
+ A cyberattack may steal, alter, or destroy a specified target by [[hacking]] into a susceptible system. Cyberattacks can range from installing [[spyware]] on a personal computer to attempting to destroy the infrastructure of entire nations.  
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Computer security]]

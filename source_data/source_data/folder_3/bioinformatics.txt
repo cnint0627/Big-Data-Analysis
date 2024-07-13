@@ -1,0 +1,22 @@
+[[File:Hemagglutinin molecule.png|thumb|Simplified model of a [[protein]] found on the surface of the [[influenza]] [[virus]]]] 
+ '''Bioinformatics''' or '''computational biology''' is the study of large amounts of [[Biology|biological]] information or [[genome]]. It focuses on [[molecule]]s like [[DNA]]. It is done often with the help of [[computer]]s. 
+ 
+ ==Foundation== 
+ As [[species]] of living things change over time, the DNA contained in their cells change, because of [[evolution]]. If we can extract the information from living things today, and compare them to each other, we can see which living things are most closely related, the most similar can be thought to be the most closely related in time. Biologists can then construct family trees, or [[Phylogenetics|phylogenies]]. By combining each tree, a grand tree connecting all living things can be made, this is called the  " Tree of Life " . Bioinformatics uses integration of mathematical, statistical and computational method to analyze biological, biochemical and biophysical data. 
+ 
+ ==The process== 
+ All of the information needed by a cell is provided in its [[DNA]]. When a cell wants to build a [[protein]], it finds the appropriate piece of DNA, makes a copy of it (called [[RNA]]), and uses the instructions in the copy to make the protein.  
+ 
+ Proteins can perform many functions like [[transport]]ation, [[structural support]], [[movement]] and [[metabolism]]. Proteins are made from ''[[amino acid]]s''. There are twenty different amino acids that are used to build millions of different protein [[molecules]].  
+ 
+ These molecules can be studied using [[computer]]s to analyze the DNA, RNA, and amino acid [[sequence]]s from which they are created. Because there are so many different molecules, the best way we have of understanding how the entire system works is to use bioinformatics. 
+ 
+ ==Computers in bioinformatics== 
+ [[Chemistry|Chemists]] have developed ways to understand the shape and behavior of small molecules, using [[mathematics|mathematical analysis]]. They might use computers to study these molecules. The DNA contained in just one cell of an organism is far too large to be read by any person, and to compare the DNA between two (or more) organisms, be they in the brother and sister, or of a completely different species, requires comparing large amounts of information to find differences. Computers are better suited to such comparisons, and computer programmers have worked with biologists to create very very large [[database]]s to store all the DNA information that has ever been learned. 
+ 
+ ==Related pages== 
+ *[[Biotechnology]] 
+ *[[Sequence analysis]] 
+ {{Statistics}} 
+ [[Category:Branches of biology]] 
+ [[Category:Computer science]]

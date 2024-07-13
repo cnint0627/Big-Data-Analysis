@@ -1,0 +1,37 @@
+In [[mathematics]], the [[word]]  " '''proportions''' "  means two [[ratio]]s put into an [[equation]]. < ref > {{Cite web|title=Proportion|url=http://www.learnalberta.ca/content/memg/Division03/Proportion/index.html|access-date=2020-10-07|website=www.learnalberta.ca}} < /ref >  Some examples of proportions are: 
+ :* {{convert/numdisp|50/100}} = {{convert/numdisp|1/2}} 
+ :* {{convert/numdisp|75/100}} = {{convert/numdisp|3/4}} 
+ :* {{convert/numdisp/frac1|||x|100}} = {{convert/numdisp|3/4}}, where x = 75. 
+ In [[algebra]], proportions can be used to solve many common problems about changing [[number]]s. As an example, for the increase in a $40 purchase of [[gasoline]] ([[petrol]]), if the price rose 35 cents, from $3.50 to $3.85, then the proportion would be: 
+ :* {{convert/numdisp/frac1|||x|3.85}} = {{convert/numdisp/frac1|||$40|3.50}} 
+ The solution is simply: 
+ :* x = $40/3.50 x 3.85  & nbsp; =  & nbsp; $44.00, or $4 more when $0.35 higher. 
+ Many other common calculations can be solved by using proportions to show the relationships between the numbers. 
+ 
+ In [[statistics]], a proportion is a number which measures the extent to which a specific characteristic is in a [[sample]] or a [[Population (statistics)|population]]. It can be thought of as a [[percentage]]. To represent a sample proportion, the letters  < math > p < /math >  can be used. To represent a population proportion, the letter  < math > \pi < /math >  can be used. < ref > {{Cite web|date=2020-03-20|title=Greek/Hebrew/Latin-based Symbols in Mathematics|url=https://mathvault.ca/hub/higher-math/math-symbols/greek-hebrew-latin-symbols/|access-date=2020-10-07|website=Math Vault|language=en-US}} < /ref > 
+ 
+ ==Proportionality constant== 
+ A '''proportionality constant''' is a number that is used to convert a measurement in one system to the equivalent measurement in another system. For instance, people who are familiar with the traditional system of units used in the United States ([[Pound (mass)|pounds]], [[Foot (unit)|feet]], [[Inch|inches]], etc.) may need to find out the [[Metric system|metric]] equivalent for these measures in [[Gram|grams]] and [[Metre|meters]]. To make these calculations, they would need some proportionality constants. 
+ 
+ One way to write a formula showing how to use a proportionality constant K is: 
+ 
+ KX = Y 
+ 
+ For example, people may know that they have 100 eggs and want to know how many dozen eggs they have. The proportionality constant K is then 1 dozen/ 12 eggs. 
+ 
+ 100 eggs × (1 dozen / 12 eggs) = 8 dozen eggs + 4 eggs 
+ 
+ In general, given two functions  < math > f(x) < /math >  and  < math > g(x) < /math > , if there is a constant  < math > K < /math >  such that  < math > f(x) = K g(x) < /math > , then we say that  " < math > f < /math >  is directly proportional to  < math > g < /math > " . In symbols, this can be written as  < math > f(x) \propto g(x) < /math > . < ref > {{Cite web|date=2020-03-25|title=Comprehensive List of Algebra Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/|access-date=2020-10-07|website=Math Vault|language=en-US}} < /ref > 
+ 
+ ===Examples of proportionality constants=== 
+ 
+ :* The [[Planck constant]] puts the energy of a photon of a given frequency into a commonly used unit of energy, the [[joule]]. 
+ 
+ == Related pages == 
+ 
+ * [[Proportionality]] 
+ 
+ == References == 
+ < references / > 
+ [[Category:Mathematics]] 
+ [[Category:Algebra]]

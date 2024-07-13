@@ -1,0 +1,26 @@
+{{Infobox software 
+ | name = Denuvo 
+ | logo = Denuvo Logo 2021.svg 
+ | genre = [[Digital rights management]] 
+ | developer = Denuvo Software Solutions GmbH 
+ | released = {{Start date and age|2014|df=yes}} 
+ | platform = [[Microsoft Windows]] 
+ | license = [[Proprietary software|Proprietary]] 
+ | website = {{URL|https://irdeto.com/denuvo/}} 
+ }} 
+ 
+ '''Denuvo Anti-Tamper''' is an [[Anti-tamper software|anti-tamper technology]]  < ref > Anti-[[:wikt:tamper|tamper]] software is software which makes it harder for an attacker to modify it. < /ref >  and [[digital rights management]] software. It was developed by [[Austrian]] [[software]] company called Denuvo Software Solutions GmbH. Denuvo Software Solutions GmbH is a [[:wikt:en:subsidary|subsidary]] of [[Irdeto]]. The common name of '''Denuvo Anti-Tamper''' is '''Denuvo'''. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * {{Official website|https://irdeto.com/denuvo/}} 
+ * [https://crackwatch.com/drm/denuvo/games List of Denuvo-protected games and their cracked status] {{Webarchive|url=https://web.archive.org/web/20200923185156/https://crackwatch.com/drm/denuvo/games |date=2020-09-23 }} at CrackWatch 
+ 
+ [[Category:Software]] 
+ [[Category:2014 establishments in Europe]] 
+ 
+ {{europe-stub}} 
+ 
+ {{tech-stub}}

@@ -1,0 +1,230 @@
+{{Infobox settlement 
+ | name                    = Anchalumoodu 
+ | official_name           = Anchalumoodu 
+ | native_name             = അഞ്ചാലുംമൂട് 
+ | native_name_lang        = ml 
+ | other_name              = കടവൂര്‍ 
+ | settlement_type         = Neighbourhood 
+ | image_skyline           = Anchalumoodu, Jul 2017.jpg 
+ | imagesize               = 
+ | image_alt               = 
+ | image_caption           = Anchalumoodu Town 
+ | image                   = 
+ | image_flag              = 
+ | flag_size               = 
+ | flag_alt                = 
+ | flag_border             = 
+ | flag_link               = 
+ | image_seal              = 
+ | seal_size               = 
+ | seal_alt                = 
+ | seal_link               = 
+ | image_shield            = 
+ | shield_size             = 
+ | shield_alt              = 
+ | shield_link             = 
+ | image_blank_emblem      = 
+ | blank_emblem_type       =  < !-- defaults to Logo -- > 
+ | blank_emblem_size       = 
+ | blank_emblem_alt        = 
+ | blank_emblem_link       = 
+ | nickname                = 
+ | motto                   = 
+ | anthem                  = 
+ 
+ 
+ | image_map               = 
+ | mapsize                 = 
+ | map_alt                 = 
+ | map_caption             = 
+ 
+ | image_map1 = 
+ | mapsize1 = 
+ | map_alt1 = 
+ | map_caption1 = 
+ 
+ | image_dot_map           = 
+ | dot_mapsize             = 
+ | dot_map_base_alt        = 
+ | dot_map_alt             = 
+ | dot_map_caption         = 
+ | dot_x                   = 
+ | dot_y                   = 
+ | pushpin_map             = Kerala 
+ | pushpin_label_position  = right 
+ | pushpin_map_alt         = 
+ | pushpin_map_caption     = Location in Kollam, India 
+ 
+ | pushpin_map1 = 
+ | pushpin_label_position1 = 
+ | pushpin_label1 =  < !-- only necessary if  " name "  or  " official_name "  are too long -- > 
+ | pushpin_map_alt1 = 
+ | pushpin_mapsize1 = 
+ | pushpin_map_caption1 = 
+ 
+ | coordinates             = {{coord|8|55|56.2008|N|76|36|13.9818|E|format=dms|display=inline,title}} 
+ | coor_pinpoint           =  < !-- to specify exact location of coordinates (was coor_type) -- > 
+ | coordinates_footnotes   = 
+ 
+ | subdivision_type        = Country 
+ | subdivision_name        = [[India]] 
+ | subdivision_type1       = [[Federated state|State]] 
+ | subdivision_name1       = [[Kerala]] 
+ | subdivision_type2       = [[District]] 
+ | subdivision_name2       = [[Kollam district]] 
+ | subdivision_type3       = [[City]] 
+ | subdivision_name3       = [[Kollam]] 
+ 
+ | established_title       =  < !-- Settled -- > 
+ | established_date        = 
+ | demographics_type1 = Languages 
+ | demographics1_footnotes = 
+ | demographics1_title1 = Official 
+ | demographics1_info1 = [[Malayalam]] 
+ < !-- government type, leaders -- > 
+ | government_footnotes    = 
+ | government_type         = Councillor 
+ | governing_body          = 
+ | leader_party            = 
+ | leader_title            = 
+ | leader_name             = 
+ | leader_title1           = 
+ | leader_name1            = 
+ | leader_title2           = 
+ | leader_name2            = 
+ | leader_title3           = 
+ | leader_name3            = 
+ 
+ | area_footnotes          = 
+ | area_magnitude          =  < !-- use only to set a special wikilink -- > 
+ | dunam_link              =  < !-- If dunams are used, this specifies which dunam to link. -- > 
+ | area_total_km2          = 
+ | area_total_sq_mi        = 
+ | area_total_ha           = 
+ | area_total_acre         = 
+ | area_total_dunam        =  < !-- used in Middle East articles only -- > 
+ | area_land_km2           = 
+ | area_land_sq_mi         = 
+ | area_land_ha            = 
+ | area_land_acre          = 
+ | area_land_dunam         =  < !-- used in Middle East articles only -- > 
+ | area_water_km2          = 
+ | area_water_sq_mi        = 
+ | area_water_ha           = 
+ | area_water_acre         = 
+ | area_water_dunam        =  < !-- used in Middle East articles only -- > 
+ | area_water_percent      = 
+ | area_urban_footnotes    = 
+ | area_urban_km2          = 
+ | area_urban_sq_mi        = 
+ | area_urban_ha           = 
+ | area_urban_acre         = 
+ | area_urban_dunam        =  < !-- used in Middle East articles only -- > 
+ | area_rural_footnotes    = 
+ | area_rural_km2          = 
+ | area_rural_sq_mi        = 
+ | area_rural_ha           = 
+ | area_rural_acre         = 
+ | area_rural_dunam        =  < !-- used in Middle East articles only -- > 
+ | area_metro_footnotes    = 
+ | area_metro_km2          = 
+ | area_metro_sq_mi        = 
+ | area_metro_ha           = 
+ | area_metro_acre         = 
+ | area_metro_dunam        =  < !-- used in Middle East articles only -- > 
+ | area_rank               = 
+ | area_blank1_title       = 
+ | area_blank1_km2         = 
+ | area_blank1_sq_mi       = 
+ | area_blank1_ha          = 
+ | area_blank1_acre        = 
+ | area_blank1_dunam       =  < !-- used in Middle East articles only -- > 
+ | area_blank2_title       = 
+ | area_blank2_km2         = 
+ | area_blank2_sq_mi       = 
+ | area_blank2_ha          = 
+ | area_blank2_acre        = 
+ | area_blank2_dunam       =  < !-- used in Middle East articles only -- > 
+ | area_note               = 
+ < !-- demographics (section 2) -- > 
+ | demographics_type2 = 
+ | demographics2_footnotes = 
+ | demographics2_info1 =  < !-- etc., up to demographics2_title5 / demographics2_info5 -- > 
+ 
+ | population_footnotes    = 
+ | population_total        = 
+ | population_as_of        = 
+ | population_rank         = 
+ | population_density_km2  =  < !-- for automatic calculation of any density field, use: auto -- > 
+ | population_density_sq_mi= 
+ | population_est          = 
+ | pop_est_as_of           = 
+ | population_urban_footnotes     = 
+ | population_urban               = 
+ | population_density_urban_km2   = 
+ | population_density_urban_sq_mi = 
+ | population_rural_footnotes     = 
+ | population_rural               = 
+ | population_density_rural_km2   = 
+ | population_density_rural_sq_mi = 
+ | population_metro_footnotes     = 
+ | population_metro               = 
+ | population_density_metro_km2   = 
+ | population_density_metro_sq_mi = 
+ | population_density             = 
+ | population_density_rank        = 
+ | population_blank1_title        = 
+ | population_blank1              = 
+ | population_density_blank1_km2  = 
+ | population_density_blank1_sq_mi= 
+ | population_blank2_title        = 
+ | population_blank2              = 
+ | population_density_blank2_km2  = 
+ | population_density_blank2_sq_mi= 
+ | population_demonym      =  < !-- demonym, e.g. Liverpudlian for someone from Liverpool -- > 
+ | population_note         = 
+ 
+ | timezone1 = [[Indian Standard Time|IST]] 
+ | utc_offset1 = +5:30 
+ < !-- postal codes, area code --- > 
+ | postal_code_type        = [[Postal Index Number|PIN]] 
+ | postal_code             = 691601 
+ | postal2_code_type       =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | postal2_code            = 
+ | area_code_type          = Telephone code 
+ | area_code               = [[Telephone numbers in India#Fixed (landline) numbers|0474]] 
+ | geocode                 = 
+ | iso_code                = 
+ | registration_plate      = '''KL-02''' 
+ | twin2_country           =  < !-- etc., up to twin9 / twin9_country -- > 
+ | website                 = {{URL|http://www.kollam.nic.in|Kollam Municipal Corporation}} 
+ | footnotes               = 
+ }} 
+ '''Anchalumoodu''' is a town and neighbourhood of the city of [[Kollam]], [[India]].  < ref > {{cite web|url=http://www.thehindu.com/news/national/kerala/thrikadavur-becomes-part-of-kollam-city/article7300668.ece |title=Thrikadavur becomes part of Kollam city |publisher=The Hindu |access-date=11 June 2015}} < /ref > < ref > {{cite web |url=http://lsgkerala.in/thrikkadavoorpanchayat/general-information/ |title=Thrikadavur Panchayath |publisher=Thrikadavur Panchayath |access-date=11 June 2015 |archive-date=12 June 2015 |archive-url=https://web.archive.org/web/20150612055856/http://lsgkerala.in/thrikkadavoorpanchayat/general-information/ |url-status=dead }} < /ref > 
+ 
+ Speciality of Anchalumoodu is that, 75% of it is surrounded by Ashtamudi lake, which is famous for its scenic beauty and attracts hundreds of tourists around the globe to Kollam. 
+ 
+ ==Transport== 
+ 
+ ===Rail=== 
+ 
+ The nearest railway station to Anchalummodu is Perinad railway station which is about 2.5 & nbsp;km from the town.  All passenger trains stop at this railway station. Kollam Junction Railway Station, one of the biggest junction and busiest railway stations in Kerala is 9 & nbsp;km away from Anchalumoodu. Kundara railway station is 9 & nbsp;km away from Anchalumoodu town. 
+ 
+ ===Roads=== 
+ 
+ Anchalumoodu is connected well with roads.  The town is 8 & nbsp;km away from [[Kollam]] city centre [[Chinnakada]] and 8 & nbsp;km from [[Kundara]] town. Regular city services and transport buses are there to Kollam city from Anchalumoodu. 
+ Bus services are available to important places in Kerala which include Trivandrum, Ernakulam, etc. 
+ 
+ ==Education== 
+ Anchalummodu has its fair share of privately owned and state owned educational institutions. Institutions of education are affiliated to either the Indian Certificate of Secondary Education (ICSE), the Central Board for Secondary Education (CBSE), or the Kerala State Education Board. Most private schools use English as the medium of instruction whereas government run schools offer both English and [[Malayalam]] as a medium of instruction. The '''Government  Higher Secondary School''' at Anchalumoodu is one of the biggest and reputed government schools in Kollam district. The main higher education centre near to Anchalumoodu is the College of Engineering, Perumon. 
+ 
+ ==Places of worship== 
+ Anchalumoodu has a mix of different religious community. Main temples in and around Anchalumoodu town include Kadavoor Siva temple, Ashtamudi Virabhadra Swamy temple, Panayam Durga Temple, Sastholi Temple, Kuppana Velayudha Mangalam Temple, kolleril Siva Temple,Karuva Temple, Perumon devi temple 
+ Mosques include Kureepuzha Mosque, Karuva Mosque and Chiraiyil Mosque. 
+ Important churches are St.Thomas Orthodox Church, Inchavila and the Church at Kureepuzha. 
+ 
+ ==References== 
+ 
+ {{reflist}} 
+ 
+ [[Category:Villages in Kollam district]]

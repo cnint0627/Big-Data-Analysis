@@ -1,0 +1,28 @@
+{{complex|2=In its current state it might just be better putting it @ [[:en:Symsyn|enwiki]].|date=April 2017}} 
+ '''Symsyn''' is a simple [[syntax]] [[programming language]] and real time [[multitasking]] [[runtime]] environment. < ref name=home > {{cite web|url=http://symsyn.qsys.us|title=symsyn |access-date=2017-04-02|author=Symsyn Group}} < /ref > < ref name=rc > {{cite web|url=http://www.rosettacode.org/mw/index.php?title=Category:Symsyn & oldid=226881|title=Category:Symsyn - Rosetta Code|access-date=2017-04-02|date=2016-04-08|author=raslbg|archive-date=2018-09-12|archive-url=https://web.archive.org/web/20180912085538/http://www.rosettacode.org/mw/index.php?title=Category:Symsyn & oldid=226881|url-status=dead}} Includes 13 examples of SymSyn code, licensed [[GFDL]] 1.2. < /ref > < ref > {{cite journal | last1=Peymandoust | first1=A. | last2=Micheli | first2=G. De Micheli | title=Application of symbolic computer algebra in high-level data-flow synthesis | journal=IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems | publisher=[[IEEE]] | volume=22 | issue=9 | year=2003 | pages=1154–1165 | url=https://dx.doi.org/10.1109/TCAD.2003.816213 | doi=10.1109/tcad.2003.816213 | access-date=2016-01-17}} < /ref > 
+ 
+ ==History== 
+ Named for its SIMple SYNtax, Symsyn is based on Free Pascal, which is based on Pascal, developed by [[Niklaus Wirth]] and named in honor of the French mathematician, philosopher and physicist [[Blaise Pascal]]. 
+ 
+ ==Language== 
+ Symsyn has a simple syntax and short learning curve.  It provides access to functionality found in more sophisticated languages, such as the free version of the [[Pascal]] programming language, [[Free Pascal]]. < ref name=fp > {{cite web|url=http://www.freepascal.org/|title=Free Pascal - Advanced open source Pascal compiler for Pascal and Object Pascal - Home Page|access-date=2017-04-02|website=Free Pascal|archive-date=1999-01-25|archive-url=https://web.archive.org/web/19990125095436/http://www.freepascal.org/|url-status=dead}} < /ref >   The language's primitives, or basics, are Pascal procedures which, in some cases, access the Free Pascal Run Time Library. < ref name= " Free Pascal run time " > {{cite web | title=Reference for package 'rtl' | website=Free Pascal | url=http://www.freepascal.org/docs-html/current/rtl/index.html | access-date=2017-04-02 | archive-date=2016-12-12 | archive-url=https://web.archive.org/web/20161212064043/http://www.freepascal.org/docs-html/current/rtl/index.html | url-status=dead }} Free Pascal Run Time Library < /ref > 
+ 
+ These primitives provide the normal testing, arithmetic, move, and string handling capabilities as well as the following additions: 
+ * Inter program [[synchronization]] and data passing. 
+ * Bit [[manipulation]], or changing. 
+ * DES [[encryption]] instructions. < ref name=des > {{cite web|url=https://sites.google.com/a/qsys.us/www/des-listing|title=DES listing - www|access-date=2017-04-02|author=Symsyn Group|archive-date=2016-01-18|archive-url=https://web.archive.org/web/20160118195819/https://sites.google.com/a/qsys.us/www/des-listing|url-status=dead}} < /ref > 
+ * Re assignable instruction opcodes, or lower level codes to inhibit reverse engineering, or determination of source code from compiled code. 
+ 
+ It is extensible, in that it can be extended.  [[Algorithm]]s can be added to the collection of primitives. Many programs can be written in SymSyn. < ref name=rc / >  Like most programming languages, SymSyn can say hello to the world. < ref name=hello > {{cite web|url=https://helloworldcollection.github.io/#Symsyn|title=Symsyn in the Hello World Collection|access-date=2017-04-02}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites ==                                                                                                                                 
+ *[http://symsyn.qsys.us Home Page] 
+ 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Programming languages]]

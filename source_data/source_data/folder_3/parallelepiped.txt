@@ -1,0 +1,116 @@
+In [[geometry]], a '''parallelepiped''' is a three-dimensional figure formed by six [[parallelogram]]s (the term [[rhomboid]] is also sometimes used with this meaning). By analogy, it relates to a [[parallelogram]] just as a [[cube]] relates to a [[square]] or as a [[cuboid]] to a [[rectangle]]. In [[Euclidean geometry]], its definition encompasses all four concepts (i.e., ''parallelepiped'', ''parallelogram'', ''cube'', and  ''square''). In this context of [[affine geometry]], in which angles are not differentiated, its definition admits only ''parallelograms'' and ''parallelepipeds''.  Three equivalent definitions of ''parallelepiped'' are 
+ *a [[polyhedron]] with six faces ([[hexahedron]]), each of which is a parallelogram, 
+ *a hexahedron with three pairs of parallel faces, and 
+ *a [[prism (geometry)|prism]] of which the base is a [[parallelogram]]. 
+ The rectangular [[cuboid]] (six [[rectangular]] faces), [[cube]] (six [[square]] faces), and the [[rhombohedron]] (six [[rhombus]] faces) are all specific cases of parallelepiped. 
+ 
+ ==Properties== 
+ Any of the three pairs of parallel faces can be viewed as the base planes of the prism. A parallelepiped has three sets of four parallel edges; the edges within each set are of equal length. 
+ 
+ Parallelepipeds result from [[linear transformation]]s of a [[cube]] (for the non-degenerate cases: the bijective linear transformations). 
+ 
+ Since each face has [[point symmetry]], a parallelepiped is a [[zonohedron]]. Also the whole parallelepiped has point symmetry ''C < sub > i < /sub > '' (see also [[triclinic]]). Each face is, seen from the outside, the mirror image of the opposite face. The faces are in general [[Chirality (mathematics)|chiral]], but the parallelepiped is not. 
+ 
+ A [[Honeycomb (geometry)|space-filling tessellation]] is possible with [[Congruence (geometry)|congruent]] copies of any parallelepiped. 
+ 
+ ==Volume== 
+ [[Image:Parallelepiped volume.svg|right|thumb|240px|Vectors defining a parallelepiped.]] 
+ The [[volume]] of a parallelepiped is the product of the [[area]] of its base ''A'' and its height ''h''. The base is any of the six faces of the parallelepiped. The height is the perpendicular distance between the base and the opposite face. 
+ 
+ An alternative method defines the vectors '''a''' = (''a'' < sub > 1 < /sub > , ''a'' < sub > 2 < /sub > , ''a'' < sub > 3 < /sub > ), '''b''' = (''b'' < sub > 1 < /sub > , ''b'' < sub > 2 < /sub > , ''b'' < sub > 3 < /sub > ) and '''c''' = (''c'' < sub > 1 < /sub > , ''c'' < sub > 2 < /sub > , ''c'' < sub > 3 < /sub > ) to represent three edges that meet at one vertex. The volume of the parallelepiped then equals the absolute value of the [[scalar triple product]] '''a''' & nbsp;· & nbsp;('''b''' & nbsp;× & nbsp;'''c'''): 
+ 
+ :  < math >  V = \left| \mathbf{a} \cdot (\mathbf{b} \times \mathbf{c}) \right| 
+            = \left| \mathbf{b} \cdot (\mathbf{c} \times \mathbf{a}) \right| 
+            = \left| \mathbf{c} \cdot (\mathbf{a} \times \mathbf{b}) \right|  < /math > 
+ 
+ This is true because, if we choose '''b''' and '''c''' to represent the edges of the base, the area of the base is, by definition of the cross product (see [[Cross product#Geometric meaning|geometric meaning of cross product]]), 
+ :  < math >  A = \left| \mathbf{b} \right| \left| \mathbf{c} \right| \sin \theta  
+            = \left| \mathbf{b} \times \mathbf{c} \right|,  < /math > 
+ where ''θ'' is the angle between '''b''' and '''c''', and the height is  
+ :  < math >  h = \left| \mathbf{a} \right| \cos \alpha,  < /math > 
+ where ''α'' is the [[internal angle]] between '''a''' and ''h''. 
+ 
+ From the figure, we can deduce that the magnitude of α is limited to 0° & nbsp;≤ & nbsp;''α'' & nbsp; < & nbsp;90°. On the contrary, the vector '''b''' & nbsp;× & nbsp;'''c''' may form with '''a''' an internal angle ''β'' larger than 90° (0° & nbsp;≤ & nbsp;''β'' & nbsp;≤ & nbsp;180°). Namely, since  '''b''' & nbsp;× & nbsp;'''c''' is parallel to ''h'', the value of ''β'' is either ''β'' & nbsp;= & nbsp;''α'' or ''β'' & nbsp;= 180° & nbsp;− & nbsp;''α''. So  
+ :  < math >  \cos \alpha = \pm \cos \beta = \left| \cos \beta \right|, < /math > 
+ and  
+ :  < math >  h = \left| \mathbf{a} \right| \left| \cos \beta \right|.  < /math > 
+ We conclude that  
+ :  < math >  V = Ah 
+            = \left| \mathbf{a} \right| \left| \mathbf{b} \times \mathbf{c} \right| \left| \cos \beta \right|,  < /math > 
+ which is, by definition of the [[scalar (or dot) product]], equivalent to the absolute value of '''a''' · ('''b''' & nbsp;× & nbsp;'''c'''), [[Q.E.D.]] 
+ 
+ The latter expression is also equivalent to the absolute value of the [[determinant]] of a three dimensional matrix built using '''a''', '''b''' and '''c''' as rows (or columns): 
+ : < math >  V = \left| \det \begin{bmatrix} 
+         a_1  &  a_2  &  a_3 \\ 
+         b_1  &  b_2  &  b_3 \\ 
+         c_1  &  c_2  &  c_3 \end{bmatrix} \right|. < /math > 
+ This is found using [[Cramer's Rule]] on three reduced two dimensional matrices found from the original. 
+ 
+ If ''a'', ''b'', and ''c'' are the parallelepiped edge lengths, and α, β, and γ are the internal angles between the edges, the volume is 
+ : < math >  V = a b c \sqrt{ 1 + 2 \cos(\alpha) \cos(\beta) \cos(\gamma) - \cos^2(\alpha) - \cos^2(\beta) - \cos^2(\gamma) \, }.  < /math > 
+ 
+ ===Corresponding tetrahedron=== 
+ 
+ The volume of any [[tetrahedron]] that shares three converging edges of a parallelepiped has a volume equal to one sixth of the volume of that parallelepiped (see [[Tetrahedron#Volume|proof]]). 
+ 
+ ==Special cases== 
+ [[File:Rectangular parallelepiped.png|thumb|150px|Rectangular parallelepiped]] 
+ For parallelepipeds with a symmetry plane there are two cases: 
+ *it has four rectangular faces 
+ *it has two rhombic faces, while of the other faces, two adjacent ones are equal and the other two also (the two pairs are each other's mirror image). 
+ See also [[monoclinic]]. 
+ 
+ A [[cuboid|rectangular cuboid]], also called a ''rectangular parallelepiped'' or sometimes simply a ''cuboid'', is a parallelepiped of which all faces are rectangular; a [[cube]] is a cuboid with square faces. 
+ 
+ A [[rhombohedron]] is a parallelepiped with all [[rhombus|rhombic]] faces; a [[trigonal trapezohedron]] is a rhombohedron with congruent [[rhombus|rhombic]] faces. 
+ 
+ ==Perfect parallelepiped== 
+ 
+ A ''perfect parallelepiped'' is a parallelepiped with integer-length edges, face diagonals, and [[space diagonal]]s.  In 2009, dozens of perfect parallelepipeds were shown to exist, < ref > {{Cite journal|first1=Jorge F.|last1=Sawyer|first2=Clifford A.|last2=Reiter|year=2011|title=Perfect Parallelepipeds Exist|journal=[[Mathematics of Computation]]|volume=80|issue=274|pages=1037–1040|arxiv=0907.0220|doi=10.1090/s0025-5718-2010-02400-7|s2cid=206288198}}. < /ref >   answering an open question of [[Richard K. Guy|Richard Guy]]. One example has edges 271, 106, and 103, minor face diagonals 101, 266, and 255, major face diagonals 183, 312, and 323, and space diagonals 374, 300, 278, and 272.  
+ 
+ Some perfect parallelopipeds having two rectangular faces are known. But it is not known whether there exist any with all faces rectangular; such a case would be called a perfect [[cuboid]]. 
+ 
+ == Parallelotope == 
+ 
+ [[Coxeter]] called the generalization of a parallelepiped in higher dimensions a '''parallelotope''' < !--boldface per WP:R#PLA-- > . 
+ 
+ Specifically in ''n''-dimensional space it is called ''n''-dimensional parallelotope, or simply ''n''-parallelotope. Thus a [[parallelogram]] is a 2-parallelotope and a parallelepiped is a 3-parallelotope. 
+ 
+ More generally a parallelotope, < ref > [https://arxiv.org/pdf/math/0307170.pdf Properties of parallelotopes equivalent to Voronoi's conjecture] {{webarchive|url=https://web.archive.org/web/20180209164354/https://arxiv.org/pdf/math/0307170.pdf |date=2018-02-09 }} < /ref >  or ''voronoi parallelotope'', has parallel and congruent opposite facets. So a 2-parallelotope is a [[parallelogon]] which can also include certain hexagons, and a 3-parallelotope is a [[parallelohedron]], including 5 types of polyhedra. 
+ 
+ The [[diagonals]] of an ''n''-parallelotope intersect at one point and are bisected by this point. [[Inversion in a point|Inversion]] in this point leaves the ''n''-parallelotope unchanged. See also [[fixed points of isometry groups in Euclidean space]]. 
+ 
+ The edges radiating from one vertex of a ''k''-parallelotope form a [[k-frame|''k''-frame]]  < math > (v_1,\ldots, v_n) < /math >  of the vector space, and the parallelotope can be recovered from these vectors, by taking linear combinations of the vectors, with weights between 0 and 1. 
+ 
+ The ''n''-volume of an ''n''-parallelotope embedded in  < math > \mathbb{R}^m < /math >  where  < math > m \ge n < /math >  can be computed by means of the [[Gram determinant]]. Alternatively, the volume is the norm of the [[exterior product]] of the vectors: 
+ : < math >  V = \left\| v_1 \wedge \cdots \wedge v_n \right\| . < /math > 
+ 
+ If ''m'' = ''n'', this amounts to the absolute value of the determinant of the ''n'' vectors. 
+ 
+ Another formula to compute the volume of an ''n''-parallelotope ''P'' in  < math > \mathbb{R}^n < /math > , whose {{nowrap|''n'' + 1}} vertices are  < math > V_0,V_1, \ldots, V_n < /math > , is  
+ : < math >  {\rm Vol}(P) = |{\rm det}\ ([V_0\ 1]^{\rm T}, [V_1\ 1]^{\rm T}, \ldots, [V_n\ 1]^{\rm T})|, < /math >   
+ 
+ where  < math > [V_i\ 1] < /math >  is the row vector formed by the concatenation of  < math > V_i < /math >  and 1. Indeed, the determinant is unchanged if  < math > [V_0\ 1] < /math >  is subtracted from  < math > [V_i\ 1] < /math >  ({{nowrap|''i''  >  0}}), and placing  < math > [V_0\ 1] < /math >  in the last position only changes its sign.        
+ 
+ Similarly, the volume of any ''n''-[[simplex]] that shares ''n'' converging edges of a parallelotope has a volume equal to one 1/[[factorial|''n''!]] of the volume of that parallelotope. 
+ 
+ == Lexicography == 
+ The word appears as ''parallelipipedon'' in [[Henry Billingsley|Sir Henry Billingsley's]] translation of [[Euclid's Elements]], dated 1570.  In the 1644 edition of his ''Cursus mathematicus'', [[Pierre Hérigone]] used the spelling ''parallelepipedum''.  The ''[[Oxford English Dictionary]]'' cites the present-day ''parallelepiped'' as first appearing in [[Walter Charleton|Walter Charleton's]] ''Chorea gigantum'' (1663). 
+ 
+ [[Charles Hutton|Charles Hutton's]] Dictionary (1795) shows ''parallelopiped'' and ''parallelopipedon'', showing the influence of the combining form ''parallelo-'', as if the second element were ''pipedon'' rather than ''epipedon''. [[Noah Webster]] (1806) includes the spelling ''parallelopiped''.  The 1989 edition of the ''Oxford English Dictionary'' describes ''parallelopiped'' (and ''parallelipiped'') explicitly as incorrect forms, but these are listed without comment in the 2004 edition, and only pronunciations with the emphasis on the fifth syllable ''pi'' ({{IPA|/paɪ/}}) are given. 
+ 
+ A change away from the traditional pronunciation has hidden the different partition suggested by the Greek roots, with ''epi-'' ( " on " ) and ''pedon'' ( " ground " ) combining to give ''epiped'', a flat  " plane " . Thus the faces of a parallelepiped are planar, with opposite faces being parallel. 
+ 
+ ==Notes== 
+ {{reflist}} 
+ 
+ ==References== 
+ * Coxeter, H. S. M. ''[[Regular Polytopes (book)|Regular Polytopes]]'', 3rd ed. New York: Dover, p. & nbsp;122, 1973. (He defines ''parallelotope'' as a generalization of a parallelogram and parallelepiped in n-dimensions.) 
+ 
+ ==Other websites== 
+ {{commons category}} 
+ * {{mathworld | urlname = Parallelepiped | title = Parallelepiped}} 
+ * {{mathworld | urlname = Parallelotope | title = Parallelotope}} 
+ * [http://www.korthalsaltes.com/model.php?name_en=oblique%20rhombic%20prism Paper model parallelepiped (net)] 
+ {{shapes}} 
+ [[Category:Polyhedra]]

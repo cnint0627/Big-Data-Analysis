@@ -1,0 +1,21 @@
+'''Trinomials''' are [[Polynomial|polynomials]] that contain three parts called [[Term (mathematics)|terms]], which are separated by plus and minus symbols. Here is a visual example of a trinomial: 
+ 
+ < math > ax+by+c < /math > 
+ 
+ This is a linear expression, a component that makes up [[Linear equation|linear equations]]. 
+ 
+ == Examples == 
+ 
+ *  < math > ax^2+bx+c < /math > , a [[Quadratic equation|quadratic expression]] in its standard (normal) form, which happens to be a trinomial. 
+ * Perfect square trinomials,  < math > a^2 \pm 2ab + b^2 < /math > . 
+ 
+ == Related pages == 
+ * [[Monomial]] 
+ 
+ {{Polynomials}} 
+ 
+ [[Category:Mathematics]] 
+ [[Category:Algebra]] 
+ 
+ 
+ {{math-stub}}

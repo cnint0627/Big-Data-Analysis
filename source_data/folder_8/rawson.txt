@@ -1,0 +1,73 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Rawson 
+ | native_name             =  
+ | native_name_lang        = es < !-- ISO 639-2 code e.g.  " fr "  for French. If more than one, use {{lang}} instead -- > 
+ | named_for               = [[Guillermo Rawson]] 
+ | settlement_type         = [[List of cities in Argentina|City]] 
+ | image_skyline           = Aerea Rawson.jpg 
+ | image_alt               =  
+ | image_caption           =  
+ | image_flag              = 
+ | image_shield            = Rawson Argentina COA.svg 
+ | shield_alt              =  
+ | nickname                =  
+ | motto                   =  
+ | image_map               =  
+ | map_alt                 =  
+ | map_caption             =  
+ | pushpin_map             = Argentina 
+ | pushpin_map_alt         =  
+ | pushpin_map_caption     = Location of Rawson in Argentina 
+ | coordinates             = {{coord|43|18|S|65|6|W|region:AR_type:city|display=inline,title}} 
+ | coor_pinpoint           =  
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Argentina}} 
+ | subdivision_type1       = [[Provinces of Argentina|Province]] 
+ | subdivision_name1       = {{flag|Chubut}} 
+ | subdivision_type2       = [[Departments of Argentina|Department]] 
+ | subdivision_name2       = [[Rawson Department, Chubut|Rawson]] 
+ | established_title       =  
+ | established_date        =  
+ | founder                 =  
+ | government_footnotes    =  
+ | leader_party            =  
+ | leader_title            = [[Mayor]] 
+ | leader_name             = Rossana Artero 
+ | unit_pref               = Metric < !-- or US or UK -- > 
+ | area_footnotes          =  
+ | area_total_km2          =  
+ | area_note               =  
+ | elevation_footnotes     =  
+ | elevation_m             = 4 
+ | population_footnotes    =  
+ | population_total        = 24,616 
+ | population_as_of        = 2010 census 
+ | population_density_km2  = auto 
+ | population_demonym      = Rawsense 
+ | population_note         =  
+ | timezone1               = [[Time in Argentina|ART]] 
+ | utc_offset1             = −3 
+ | timezone1_DST           =  < !--NO-- > 
+ | utc_offset1_DST         =  < !--NO-- > 
+ | postal_code_type        = [[Argentine postal code|CPA base]] 
+ | postal_code             = [[ISO 3166-2:AR|U]]9103 
+ | area_code_type          = [[+54]] 
+ | area_code               = 0280 
+ | blank_name_sec1         = [[Köppen climate classification|Climate]] 
+ | blank_info_sec1         = [[Desert climate#Cold desert climates|BWk]] 
+ | website                 = [http://www.rawson.gov.ar Official website]  
+ | footnotes               =  
+ }} 
+ '''Rawson''' is the [[capital city]] of the [[Chubut Province]] in [[Argentina]]. In 2010, 24,616 people lived there. 
+ 
+ == Other websites == 
+ * {{Commonscat-inline}} 
+ 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:Cities in Argentina]] 
+ [[Category:Capitals of Argentine provinces]] 
+ [[Category:Chubut Province]]

@@ -1,0 +1,33 @@
+[[File:Virgil 1501 Aldus Manutius.jpg|thumb|right|350px|The Aldine Press [[Vergil]] of 1501, in italic]] 
+ [[File:Arrighi italic.png|right|thumb|300px|Arrighi's original italic typeface, c. 1527. At that time italic capitals had not yet been designed]] 
+ 
+ '''Italic''' [[writing system|script]] and  [[type]] has a long history. It was based on [[handwriting]]. 
+ 
+ Ludovico Vicentino degli Arrighi (1475–1527) was a papal scribe and type designer in Renaissance Italy. Present day cursive writing style known as  " italic "  is based upon the style he developed. It has been said that the style of cursive known as  " italic "  got its name from this ''Italian'' designer. Modern day scribes, also known as  " calligraphers " ,  study the work of Arrighi to learn the structure of the [https://www.beautifulcalligraphy.com/calligraphy-styles-calligraphy-fonts/ style of writing known as  " italic " ] {{Webarchive|url=https://web.archive.org/web/20150909010855/http://www.beautifulcalligraphy.com/calligraphy-styles-calligraphy-fonts/ |date=2015-09-09 }}, a modernized version of the Chancery hand which was first perfected by Roman scribes in the early part of the sixteenth century. < ref > {{Cite web|url = http://www.italic-handwriting.org/magazine/articles/history/evolution-chancery-hand|title = The Society for Italic Handwriting - Articles|website = www.italic-handwriting.org|language = en|accessdate = 2017-04-07}} < /ref > 
+ 
+ In [[typography]], '''italic type''' is a [[cursive]] [[font]] based on a kind of [[calligraphy|calligraphic]] handwriting. Such letters normally slant slightly to the right.   
+ 
+ In modern texts, Italics can emphasise key points in a printed text. One manual of English usage described italics as  " the print equivalent of underlining " . < ref > {{Citation |title= Eats, shoots  &  leaves: the zero tolerance approach to punctuation |last= Truss|first= Lynne|year= 2004|publisher= Gotham Books|location= New York|isbn= 1-59240-087-6|page=146}} < /ref > 
+ 
+ Calligraphy-inspired typefaces were first designed in [[Italy]], to replace documents written in a handwriting style called [[chancery hand]]. < ref >  Updike D.B. 1927. ''Printing types: their history, form and use'': volume 1, chapter 10. The Aldine italic, p124. Harvard University Press. < /ref >  As the illustration shows, there were flourishes copied from calligraphy. An alternative is oblique type: the type is slanted but the letterforms do not change shape: this less elaborate approach is used by many [[sans-serif]] typefaces. 
+ 
+ == Usage on the web == 
+ Using italic is usually used as a place holder for a blank piece of information. < ref > [[Wikipedia:Requests for permissions]] - A blank section would have  " ''None at the moment'' "  as a place holder for no recent requests < /ref > 
+ There are different ways in making a text ''italic''. 
+ 
+ === HTML === 
+ In [[HTML]], the editor can add the  < code > < nowiki > < i > < /nowiki > < /code >  and the  < code > < nowiki > < /i > < /nowiki > < /code >  tags to make text surrounded by these tags italic. < ref > {{Cite web |url=http://www.w3schools.com/tags/tag_font_style.asp |title=W3Schools tutorial on using  < code > < nowiki > < i > < /nowiki > < /code >  tags |access-date=2010-11-17 |archive-date=2010-11-14 |archive-url=https://web.archive.org/web/20101114191712/http://w3schools.com/tags/tag_font_style.asp |url-status=dead }} < /ref > 
+ 
+ === Wikitext === 
+ In [[Wikitext]], the editor can just add two apostrophes ( < code > < nowiki > '' < /nowiki > < /code > ) around the text to become italic. < ref > [http://www.mediawiki.org/wiki/Help:Formatting#Text_formatting_markup MediaWiki's help on making italic text] < /ref > 
+ 
+ == Related pages == 
+ * [[Bold (formatting)|Bold]] 
+ * [[Underlined]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ [[Category:Typography]] 
+ [[Category:Writing]]

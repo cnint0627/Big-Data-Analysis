@@ -1,0 +1,50 @@
+{{Taxobox 
+ | name = Arthroleptidae 
+ | image = Vermiweibchenlateral2.jpg 
+ | image_caption = ''[[Leptopelis vermiculatus]]'' 
+ | regnum = [[Animalia]] 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Amphibia]] 
+ | ordo = [[Anura]] 
+ | subordo = [[Neobatrachia]] 
+ | familia = '''Arthroleptidae''' 
+ | familia_authority = [[George Jackson Mivart|Mivart]], 1869}} 
+ 
+ The '''Arthroleptidae''' is a [[family (biology)|family]] of [[frog]]s found in [[sub-Saharan Africa]]. They are known as '''squeakers''' because of their high-pitched call. They are small, less than {{convert|4|cm|in}} in length.  They live on land mostly in leaf litter on the forest floor. They do not have [[tadpole]]s. They lay their eggs on the ground.  
+ 
+ Some species hatch already completely [[metamorphosis|metamorphosed]] into the adult form, others still have [[tails]] when they hatch. < ref name=EoR > {{cite book |editor=Cogger H.G.  &  Zweifel R.G.|author= Zweifel, Robert G.|year=1998|title=Encyclopedia of Reptiles and Amphibians|url=https://archive.org/details/encyclopediaofre0000unse_h2i0|publisher= Academic Press|location=San Diego|isbn= 0-12-178560-2|page= [https://archive.org/details/encyclopediaofre0000unse_h2i0/page/101 101]}} < /ref > 
+ 
+ == Taxonomy == 
+ Arthroleptidae is separated into two sub-families: Arthroleptinae and Leptopelinae. Some think these are separate families.  
+ 
+ The two sub-families have these [[genus|genera]]: 
+ 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ ! Subfamilies!!Species!!Common name!!Scientific name 
+ |- 
+ |-style= " background:#EEEEEE; " 
+ |rowspan=8 style= " background:#CCCCCC; " | '''Arthroleptinae''' < br / >  {{small|Mivart, 1869}} 
+ |-style= " background:#FFFDFF; " 
+ |37|| Screeching frogs || ''[[Arthroleptis]]'' {{small|Smith, 1849}} 
+ |-style= " background:#EEEEEE; " 
+ |11|| Night frogs || ''[[Astylosternus]]'' {{small|Werner, 1898}}  
+ |-style= " background:#FFFDFF; " 
+ |15|| Long-fingered frogs || ''[[Cardioglossa]]'' {{small|Boulenger, 1900}} 
+ |-style= " background:#EEEEEE; " 
+ |15|| Egg frogs || ''[[Leptodactylodon]]'' {{small|Andersson, 1903}} 
+ |-style= " background:#FFFDFF; " 
+ |1|| Southern night frog || ''[[Nyctibates]]'' {{small|Boulenger, 1904}} 
+ |-style= " background:#EEEEEE; " 
+ |1|| Gaboon forest frog || ''[[Scotobleps]]'' {{small|Boulenger, 1900}} 
+ |-style= " background:#FFFDFF; " 
+ |1|| Hairy frog || ''[[Trichobatrachus]]'' {{small|Boulenger, 1900}} 
+ |-style= " background:#EEEEEE; " 
+ |style= " background:#CCCCCC; " | '''Leptopelinae''' < br / > {{small|Laurent, 1972}}||51|| Forest tree frogs || ''[[Leptopelis]]'' {{small|Günther, 1859}}  
+ |- 
+ |} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Frogs of Africa]]

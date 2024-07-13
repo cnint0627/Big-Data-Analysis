@@ -1,0 +1,30 @@
+'''Ribosomes''' are important [[cell]] [[organelle|organelles]]. They are machines: tiny molecular robots which make proteins. They do [[RNA translation]], building proteins from [[amino acids]] using [[messenger RNA]] as a [[template]]. Ribosomes are found in all living cells, [[prokaryotes]] as well as [[eukaryotes]]. 
+ 
+ A ribosome is a mixture of [[protein]] and [[RNA]] that starts being made in the [[nucleolus]] of a cell. The nucleolus is in the  nucleus. The nucleus is protected by the nuclear envelope, and lets things out through the nuclear pores. Ribosomes move from the nucleolus into the cytoplasm. Most ribosomes sit on the [[endoplasmic reticulum]], but are also found throughout the [[cytoplasm]]. 
+ 
+ ''The job of the ribosome is to make new proteins''. It does this by moving along a strand of [[messenger RNA]] and building a protein based on the code it reads. Making a protein this way is called [[Translation (genetics)|translation]].  
+ 
+ We need up to 10 million robots (ribosomes) in every cell. To get this number, cells have many copies of rRNA genes. We inherit about 400 rRNA genes across five different chromosomes. < ref name=Nessa > Carey, Nessa 2015. ''Junk DNA: A journey through the dark matter of the genome'', p149. Icon Books ISBN 978-1-84831-826-7 < /ref > < ref > Zentner G.E. et al July 2011. ''Nucleic Acid Research'' '''39'''(12) 4949{{ndash}}4960. < /ref > 
+ 
+ [[File:Peptide syn.png|thumb|center|400px|Ribosomes read the sequence of [[messenger RNA]]s and assemble [[protein]]s out of [[amino acid]]s bound to [[transfer RNA]]s.]] 
+ 
+ [[File:Ribosomer i arbete.png|frame|none|Translation of mRNA (1) by a ribosome (2)(shown as  < span style= " color:#0000AA; " > small < /span >  and  < span style= " color:#AA0000; " > large < /span >  subunits) into a  < span style= " color:#AA00AA; " > polypeptide chain < /span >  (3). The ribosome begins at the start codon of mRNA ( < span style= " color:#00AA00; " > AUG < /span > ) and ends at the stop codon ( < span style= " color:#00AA00; " > UAG < /span > ).]] 
+ 
+ == Structure == 
+ [[File:ribosome shape.png|thumb|'''Figure 2 :''' Large (red) and small (blue) subunit fit together]] 
+ 
+ Ribosomes are made out of two things: a small ribosomal subunit that reads the mRNA, while the large subunit joins amino acids to form a [[polypeptide]] chain. Each subunit is composed of one or more ribosomal RNA (rRNA) molecules and a variety of proteins. 
+ 
+ Eukaryotes have 80S ribosomes, each consisting of a small (40S) and large (60S) subunit. < ref > The unit of measurement is the Svedberg unit, a measure of the rate of sedimentation in [[centrifugal force|centrifugation]] rather than size. This accounts for why fragment numbers do not add up (80S is made of 40S and 60S). < /ref > < ref name=Ben-Shem > {{cite journal |author= Ben-Shem A. ''et al'' 2011 |title= The structure of the eukaryotic ribosome at 3.0 Å resolution. |journal=Science |year= 2011 |volume=334|issue=6062|pages= 1524–1529 |doi= 10.1126/science.1212642|url= http://www.sciencemag.org/content/334/6062/1524 |pmid= 22096102|bibcode= 2011Sci...334.1524B |s2cid= 9099683 }} < /ref > < ref name=Rabl > {{cite journal |author=Rabl ''et al'' 2010  |title=Crystal structure of the eukaryotic 40S ribosomal subunit in complex with initiation factor 1 |journal=Science |year=2011 |volume=331 |issue=6018 |pages=730–736 |doi=10.1126/science.1198308 |url=http://www.sciencemag.org/content/331/6018/730 |pmid=21205638|bibcode=2011Sci...331..730R |hdl=20.500.11850/153130 |s2cid=24771575 }} < /ref >  Their small subunit has a 16S RNA sub-unit (consisting of 1540 nucleotides) bound to 21 proteins. The large subunit has a 5S RNA (120 nucleotides), a 28S RNA (4700 nucleotides), a 5.8S RNA (160 nucleotides) subunits and 46 proteins. < ref name=Ben-Shem/ > < ref name = alberts > Alberts, Bruce ''et al'' 2002. ''The molecular biology of the cell''. 4th ed, Garland Science, 342. {{ISBN|0-8153-3218-1}} < /ref > < ref name=Klinge > {{cite journal |author=Klinge ''et al'' 2011 |title=Crystal structure of the eukaryotic 60S ribosomal subunit in complex with initiation factor 6 |journal=Science |year=2011 |volume=334 |issue=6058 |pages=941–948 |doi=10.1126/science.1211204 |pmid=22052974|bibcode=2011Sci...334..941K |s2cid=206536444 }} < /ref > 
+ 
+ == Types of ribosome == 
+ Ribosomes evolved as cells evolved. Prokaryote (bacterial) ribosomes have just a single RNA chain. Archaeal ribosomes are similar. 
+ 
+ Only Eukaryotic ribosomes have the full gear, which is a total 80S ribosome with a small 40S unit plus a large 60S subunit.  
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{-}} 
+ [[Category:Organelles]]

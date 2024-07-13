@@ -1,0 +1,28 @@
+{{italictitle}} 
+ {{Taxobox 
+ | name = ''Mycoplasma'' 
+ | image = M. haemofelis IP2011.jpg  
+ | image_caption =  ''[[Mycoplasma haemofelis]]'' 
+ | regnum = [[Bacteria]] 
+ | phylum = [[Firmicutes]] 
+ | classis = [[Mollicutes]] 
+ | ordo = [[Mycoplasmataceae|Mycoplasmatales]] 
+ | familia = [[Mycoplasmataceae]] 
+ | genus = '''''Mycoplasma''''' 
+ | genus_authority = [[Julian Nowak|Nowak]] 1929 
+ | subdivision_ranks = Species 
+ | subdivision = over 100 species}} 
+ 
+ '''''Mycoplasma''''' is a [[genus]] of [[bacteria]]. They do not have a [[cell wall]] around their [[cell membrane]]. < ref name= " Sherris " > {{cite book|title=Sherris Medical Microbiology|url=https://archive.org/details/sherrismedicalmi00kjry|publisher=McGraw Hill|year=2004|isbn=0-8385-8529-9|edition=4th|pages=[https://archive.org/details/sherrismedicalmi00kjry/page/n426 409]–12}} < /ref >   
+ They are [[gram-negative]], and need [[sterol]]s such as [[cholesterol]] for growth. Many common [[antibiotics]] such as [[penicillin]] that target cell walls do not affect mycoplasma. ''Mycoplasma'' are the smallest bacterial cells yet discovered. < ref > {{Cite journal|last=Cu‐Uvin|first=Susan|date=April 2010|editor-last=Sweet|editor-first=Richard L.|editor2-last=Gibbs|editor2-first=Ronald S.|title=Book Review Infectious Diseases of the Female Genital Tract, Fifth Edition Edited by Richard L. Sweet and Ronald S. Gibbs Philadelphia, PA: Wolters Kluwer/Lippincott Williams  &  Williams, 2009 . 469 pp $139.00 (hardcover).|url=https://academic.oup.com/cid/article-lookup/doi/10.1086/651111|journal=Clinical Infectious Diseases|language=en|volume=50|issue=7|pages=1076|doi=10.1086/651111|issn=1058-4838}} < /ref >  They are typically about 0.1 & nbsp; [[µm]] in diameter. 
+ 
+ Many species are [[parasitic]], [[pathogen]]ic or [[saprophyte|saprophytic]], and can survive without [[oxygen]]. In humans, ''[[Mycoplasma genitalium|M. genitalium]]'' causes [[urethra|urethritis]], and ''[[Mycoplasma pneumoniae|M. pneumoniae]]'' is a common cause of [[pneumonia]]. Some live as saprophytes but the majority are parasites of plants and animals. The parasitic nature is due to the inability of mycoplasmal bacteria to synthesise the required growth factor.  
+ 
+ == References == 
+ {{reflist}} 
+ {{-}} 
+ 
+ {{Taxonbar|from=Q210975}} 
+ {{Authority control}} 
+ [[category:Gram-negative bacteria]] 
+ {{biology-stub}}

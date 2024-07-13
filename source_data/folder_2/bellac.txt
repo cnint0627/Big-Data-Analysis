@@ -1,0 +1,143 @@
+{{Infobox French commune 
+ |name               = Bellac 
+ |commune status     = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image              = Bellac-hotel-de-ville.jpg 
+ |caption            = [[City and town halls|Town hall]] of Bellac 
+ |image coat of arms = Blason ville fr Bellac (Haute-Vienne).svg 
+ |arrondissement     = Bellac 
+ |canton             = Bellac 
+ |INSEE              = 87011 
+ |postal code        = 87300 
+ |mayor              = Corine Hourcade-Hatte < ref > {{cite web |publisher=Ville de Bellac |title=La Mairie - Présentation |url=http://www.bellac.fr/Conseil-municipal,848.html |language=fr |access-date=29 March 2017 |archive-date=1 July 2017 |archive-url=https://web.archive.org/web/20170701144748/http://www.bellac.fr/Conseil-municipal,848.html |url-status=dead }} < /ref > 
+ |term               = 2008 & ndash;2014 
+ |intercommunality   = Haut Limousin 
+ |coordinates        = {{coord|46.1231|1.0503|format=dms|display=inline,title}} 
+ |elevation m        = 245 
+ |elevation min m    = 175 
+ |elevation max m    = 301 
+ |area km2           = 24.42 
+ |population         = 4117 
+ |population date    = 2014 
+ |population demonym = Bellachons or Bellacquais 
+ |website            = [http://www.bellac.fr/ www.bellac.fr] 
+ }} 
+ '''Bellac''' ({{Lang-oc|Belac}}) is a [[Communes of France|''commune'']] in the [[Haute-Vienne]] [[Departments of France|department]] in the [[Nouvelle-Aquitaine]] [[Regions of France|region]] in western [[France]]. It is a [[Prefectures in France|subprefecture]] of the [[Haute-Vienne]] [[Departments of France|department]]. It is also the [[Capital city|capital]] of the ''[[Arrondissements of France|arrondissement]]'' of the same name. 
+ 
+ ==Geography== 
+ The city of Bellac is near the ''Monts de Blond'' (some [[hill]]s that are part of the [[Massif Central]]), in the northwest of the department. The [[Vincou]] [[river]] (a [[tributary]] of the [[Gartempe]]) flows through the city. 
+ 
+ Bellac is at about {{Convert|45|km|mi|abbr=on }} from [[Limoges]], {{Convert|80|km|mi|abbr=on }} from [[Poitiers]], {{Convert|100|km|mi|abbr=on }} from [[Angoulême]], {{Convert|230|km|mi|abbr=on }} from [[Bordeaux]] and {{Convert|380|km|mi|abbr=on }} from [[Paris]]. 
+ 
+ The ''commune'' has an area of {{Convert|24.4|km2|sqmi|abbr=on }}. < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-87011 |title=Commune de Bellac (87011) |work=Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=29 March 2017 }} < /ref >  Its average [[altitude]] is {{Convert|238|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|250|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Bellac-87300/ |title=Bellac |publisher=Map-France.com |access-date=29 March 2017 }} < /ref > 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 87011.png|350px|Map of the ''commune'' de Bellac]] 
+ |} 
+ < /center > 
+ 
+ The ''commune'' of Bellac is surrounded by the ''communes'': 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Bellac 
+ |North     = [[Peyrat-de-Bellac]]  
+ |Northeast =  
+ |East      = [[Blanzac, Haute-Vienne|Blanzac]] 
+ |Southeast = [[Saint-Junien-les-Combes]] 
+ |South     = [[Berneuil, Haute-Vienne|Berneuil]] 
+ |Southwest = [[Blond, Haute-Vienne|Blond]] 
+ |West      = [[Mézières-sur-Issoire]]  
+ |Northwest =  
+ }} 
+ 
+ ===Climate=== 
+ The climate of Bellac, in the [[Köppen climate classification]], is '''Cfb''' - [[Oceanic climate]] with template summers. < ref > {{cite web |work=Annuaire-Mairie.fr |title=Ville de Bellac |url=http://www.annuaire-mairie.fr/ville-bellac.html |language=fr  |access-date=29 March 2017}} < /ref > 
+ 
+ ==Population== 
+ The inhabitants of Bellac are known, in [[French language|French]], as '' Bellachons'' (women: ''Bellachonnes''), or as ''Bellacquais'' (women: ''Bellacquaises''). < ref > {{cite web|url=http://www.habitants.fr/haute-vienne-87 |title=Haute-Vienne |publisher=habitants.fr |language=fr |access-date=29 March 2017 }} < /ref > 
+ 
+ With a population of 4,117, < ref name=insee2 > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep09.pdf |title=Régions, départements, arrondissements, cantons et communes  |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=fr |access-date=25 March 2017}} < /ref >  Bellac has a [[population density]] of {{Pop density|4117|24.42|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Bellac''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:6000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:2000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:1000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2008 text:2008 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 5240 
+  bar:1975 from:0 till: 5360 
+  bar:1982 from:0 till: 5079 
+  bar:1990 from:0 till: 4924 
+  bar:1999 from:0 till: 4576 
+  bar:2008 from:0 till: 4372 
+  bar:2014 from:0 till: 4117 
+ 
+ PlotData= 
+  bar:1968 at: 5240 fontsize:S text: 5,240 shift:(-12,5) 
+  bar:1975 at: 5360 fontsize:S text: 5,360 shift:(-13,5) 
+  bar:1982 at: 5079 fontsize:S text: 5,079 shift:(-13,5) 
+  bar:1990 at: 4924 fontsize:S text: 4,924 shift:(-13,5) 
+  bar:1999 at: 4576 fontsize:S text: 4,576 shift:(-13,5) 
+  bar:2008 at: 4372 fontsize:S text: 4,372 shift:(-13,5) 
+  bar:2014 at: 4117 fontsize:S text: 4,117 shift:(-13,5) 
+ < /timeline > 
+ < /center > 
+ 
+ Bellac forms, with [[Peyrat-de-Bellac]], the [[urban area]] of Bellac with a population of 5,281 inhabitants (2013) and an area of {{Convert|55.6|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=UU2010-87202 |title=Unité urbaine de Bellac (87202) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=29 March 2017}} < /ref >  This urban area is the centre of the [[metropolitan area]] of Bellac, formed by Bellac and [[Peyrat-de-Bellac]], with a population of 5,281 inhabitants (2013) and an area of {{Convert|55.6|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=AU2010-571 |title=Aire urbaine de Bellac (571) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=29 March 2017}} < /ref > 
+ 
+ == Administration == 
+ Bellac is a [[Prefectures in France|subprefecture]] of the Haute-Vienne department, the capital of the ''arrondissement'' of [[Arrondissement of Bellac|Bellac]] and the [[administrative centre]] ({{lang-fr|chef-lieu}}) of the [[Cantons of France|canton]] of [[Canton of Bellac|Bellac]], with 18,178  inhabitants  < small > (2014) < /small > . 
+ 
+ It is part of the [[Communes of France|intercommunality]] ''Le Haut-Limousin en Marche'' ({{lang-fr|Communauté de communes Haut-Limousin en Marche}}). 
+ 
+ === Twinned and partner towns === 
+ Bellac is [[Twin town|twinned]] with: < ref > {{cite web |publisher=Ville de Bellac |title=Jumelage |url=http://www.bellac.fr/ |language=fr |access-date=29 March 2017}} < /ref > 
+ * {{Flagicon|Germany}} [[Wassertrüdingen]], [[Germany]] 
+ * {{Flagicon|Gambia}} [[Sifoe]], [[Gambia]] 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Pont de la Pierre, Bellac.JPG|The Vincou river in Bellac. 
+ File:Bellac Vincou.jpg|The ''Notre-Dame'' [[church]] and the old [[bridge]]. 
+ File:Sous-préfecture face.jpg|The subprefecture in Bellac. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Bellac]] 
+ * [[Communes of the Haute-Vienne department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat}} 
+ * [http://www.bellac.fr/ City Council website] {{in lang|fr}} 
+ 
+ [[Category:Subprefectures in France]] 
+ [[Category:Communes in Haute-Vienne]]

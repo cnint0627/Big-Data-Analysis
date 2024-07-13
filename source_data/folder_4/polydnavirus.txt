@@ -1,0 +1,24 @@
+{{Virusbox 
+ | name = Polydnavirus 
+ | image = GiBV-em.jpg 
+ | image_caption = Electron micrograph of a bracovirus 
+ | taxon = Polydnaviridae 
+ | subdivision_ranks = Genera 
+ | subdivision = ''[[Ichnovirus]]'' < br > 
+ ''[[Bracovirus]]'' 
+ }} 
+ The '''polydnaviruses''' (PDV) are a family of insect [[virus]]es. There are two [[genera]]: ichnoviruses (IV) and bracoviruses (BV). The ichnoviruses occur in [[Ichneumon|ichneumonid wasps]] and bracoviruses in [[Braconidae|braconid wasps]].   
+ 
+ The [[genome]] of the virus is composed of multiple segments of double-stranded DNA packed in [[capsid]] proteins and a double or single layer envelope. The sequences are quite different between BV and IV, suggesting that the two types evolved independently. 
+ 
+ == Biology == 
+ [[Image:Pdv-host.svg|thumb|288px|right|Diagram of a PDV host association]] 
+ 
+ These viruses are part of a unique biological system with three parts: a [[parasitoid]] wasp, an insect (usually [[lepidoptera]]n) larva, and the virus. The full [[genome]] of the virus is integrated into the genome of the wasp and the virus only replicates in a particular part of the ovary of pupal and adult female wasps.  
+ 
+ The virus is injected with the wasp egg into the body cavity of a host caterpillar and infects cells of the caterpillar.  The infection does not lead to replication of new viruses, rather it affects the caterpillar's [[immune system]]. Without the virus infection, [[Phagocyte|phagocytic]] [[haemocyte]]s (blood cells) will kill the wasp egg. The [[immune]] suppression caused by the virus allows the wasp egg to survive. It hatches and develops in the caterpillar.  Also, genes from the polydnavirus in the host alter host development and metabolism to be good for the growth and survival of the parasitoid larva. Thus the virus and wasp have a symbiotic ([[Mutualism|mutualistic]]) relationship. < ref name=Federici2009 > Federici B.A. ''et al'' 2009. Ascoviruses: superb manipulators of apoptosis for viral replication and transmission. ''Curr Top Microbiol Immunol'' '''328''':171-196 < /ref > < ref name=Herniou2013 > {{cite journal | author = Herniou E.A. ''et al'' 2013 | title = When parasitic wasps hijacked viruses: genomic and functional evolution of polydnaviruses | url = | journal = Philos Trans R Soc Lond B Biol Sci | year = 2013 | volume = 368 | issue = 1626| page = 20130051 | doi = 10.1098/rstb.2013.0051 | pmid = 23938758 | pmc = 3758193 }} < /ref > < ref name=Dupuy2006 > {{cite journal | author = Dupuy C; Huguet E.  &  Drezen J.M. 2006 | title = Unfolding the evolutionary story of polydnaviruses | url = | journal = Virus Res | year = 2006 | volume = 117 | issue = 1| pages = 81–89 | doi = 10.1016/j.virusres.2006.01.001 | pmid = 16460826 }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Viruses]]

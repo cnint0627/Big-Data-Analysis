@@ -1,0 +1,37 @@
+'''Kinematics''' is the branch of [[classical mechanics]] which describes the [[motion (physics)|motion]] of points, bodies (objects) and systems of bodies (groups of objects) without looking at the cause of this motion. < ref name= " Whittaker " > 
+ {{cite book |title=A Treatise on the Analytical Dynamics of Particles and Rigid Bodies |author=Edmund Taylor Whittaker |url=https://books.google.com/books?id=epH1hCB7N2MC 
+ |at=Chapter 1 |year=1904 |publisher=Cambridge University Press |isbn=0-521-35883-3}} < /ref > < ref name=Beggs > {{cite book |title=Kinematics |author=Joseph Stiles Beggs |page=1 |url=https://books.google.com/books?id=y6iJ1NIYSmgC & q=kinematics |isbn=0-89116-355-7 |year=1983 |publisher=Taylor  &  Francis}} < /ref > < ref name=Wright > {{cite book |title=Elements of Mechanics Including Kinematics, Kinetics and Statics|author=Thomas Wallace Wright |url=https://books.google.com/books?id=-LwLAAAAYAAJ & q=mechanics+kinetics |at=Chapter 1 |year=1896 |publisher=E and FN Spon}} < /ref >   The term was translated from French; [[André-Marie Ampère|A.M. Ampère]] used the term ''cinématique''. < ref > {{cite book 
+   | last = Ampère 
+   | first = André-Marie 
+   | authorlink = André-Marie Ampère 
+   | title = Essai sur la Pilosophie des Sciences 
+   | year = 1834 
+  | publisher = Chez Bachelier 
+   | url = https://books.google.com/books?id=j4QPAAAAQAAJ 
+ }} < /ref >  He constructed the term form the [[Ancient Greek language|Greek]] {{lang|grc|κίνημα}}, '''kinema''' (movement, motion), derived from {{lang|grc|κινεῖν}}, '''kinein''' (to move). < ref > {{cite book 
+   | last = Merz 
+   | first = John 
+   | title = A History of European Thought in the Nineteenth Century 
+   | publisher = Blackwood, London 
+   | year = 1903 
+   | pages = 5 
+   | url = https://books.google.com/books?id=toZJAAAAYAAJ & pg=PA5}} < /ref > < ref name= Bottema > {{cite book |title=Theoretical Kinematics |at=preface, p. 5 |url=https://books.google.com/books?id=f8I4yGVi9ocC & q=kinematics  |author=O. Bottema  &  B. Roth |isbn=0-486-66346-9 |publisher=Dover Publications |year=1990}} < /ref >  The study of ''kinematics'' is often referred to as the ''geometry of motion.'' < ref name= " various " > See, for example: {{cite book 
+ |title=Engineering Mechanics: Dynamics |author=Russell C. Hibbeler |chapter=Kinematics and kinetics of a particle |chapter-url=https://books.google.com/books?id=tOFRjXB-XvMC & pg=PA298 |page=298 |isbn=978-0-13-607791-6 |year=2009 |edition=12th |publisher=Prentice Hall}}, 
+ {{cite book 
+ |title=Dynamics of Multibody Systems |author=Ahmed A. Shabana |chapter=Reference kinematics |chapter-url=https://books.google.com/books?id=zxuG-l7J5rgC & pg=PA28 |edition=2nd |publisher=Cambridge University Press |year=2003 |isbn=978-0-521-54411-5}}, 
+ {{cite book 
+ |title=Mechanical Systems, Classical Models: Particle Mechanics |chapter=Kinematics |page=287 |chapter-url=https://books.google.com/books?id=k4H2AjWh9qQC & pg=PA287 |author=P. P. Teodorescu |isbn=978-1-4020-5441-9 |year=2007 |publisher=Springer}} 
+ < /ref > 
+ 
+ To describe motion, kinematics studies the paths of points, [[line|lines]] and other [[geometry|geometric]] objects in [[Space (physics)|space]], and some of their properties such as [[velocity]] and [[acceleration]]. [[Astrophysics]] uses kinematics to describe the motion of [[celestial bodies]] and systems. [[Mechanical engineering]], [[robotics]] and [[biomechanics]] use it  to describe the motion of systems composed of joined parts  such as an [[engine]], a robotic arm or the [[Human skeleton|skeleton]] of the [[human]] [[body]]. < ref name= " Biewener " > {{cite book |title=Animal Locomotion |url=https://books.google.com/books?id=yMaN9pk8QJAC |author=A. Biewener |isbn=019850022X |publisher=Oxford University Press |year=2003}} < /ref > 
+ 
+ The study of kinematics can be abstracted into purely [[mathematical function]]s.  It is possible to represent [[rotation]] with elements of the [[unit circle]] in the [[complex plane]]. Other [[Non-Euclidean geometry#Planar algebras|planar algebras]] are used to represent the [[shear mapping]] of classical motion in [[absolute time and space]] and to represent the [[Lorentz transformation]]s of relativistic space and time.   Mathematicians have developed a science of [[Non-Euclidean geometry#Kinematic geometries|kinematic geometry]], which uses [[time]] as a parameter. 
+ 
+ Certain  geometric transformations which are called  [[rigid transformation]]s have been developed to  describe the movement of components of a [[mechanical system]]. These transformations simplify the derivation of its equations of motion, and is central to [[Lagrangian mechanics|dynamic analysis]]. 
+ 
+ [[robot kinematics|Kinematic analysis]] is the process of measuring the [[Physical quantity|kinematic quantities]] used to describe motion.  In engineering, kinematic analysis may be used to find the range of movement for a given [[Mechanism (engineering)|mechanism]], and, working in reverse, [[Burmester theory|kinematic synthesis]] designs a mechanism for a desired range of motion. < ref name=McCarthy2010 > J. M. McCarthy and G. S. Soh, 2010, [https://books.google.com/books?id=jv9mQyjRIw4C & dq=geometric+design+of+linkages & pg=PA231 ''Geometric Design of Linkages,''] Springer, New York. < /ref >   < !-- I am not sure that these are the best examples:  The movement of a crane and the oscillations of a piston in an engine are both simple kinematic systems. The crane is a type of open kinematic chain, while the piston is part of a closed [[four-bar linkage]].-- >  In addition, ''kinematics'' applies algebraic geometry to the study of the [[mechanical advantage]] of a [[mechanical system]], or [[mechanism (engineering)|mechanism]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Mechanics]]

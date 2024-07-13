@@ -1,0 +1,224 @@
+{{Infobox country 
+ | conventional_long_name = People's Democratic Republic of Algeria 
+ | common_name            = Algeria 
+ | native_name            = {{unbulleted list 
+ |  < hr/ > {{native name|ar|{{lower|0.2em|{{big|الجمهورية الجزائرية الديمقراطية الشعبية & nbsp;}}}}|italics=off}} < br/ > {{smaller|''al-Jumhūriyya al-Jazāʾiriyya ad-Dīmuqrāṭiyya aš‑Šaʿbiyya''}} 
+ |  < hr/ > {{lang|fr|République algérienne démocratique et populaire}}{{nbsp|2}}{{small|{{nobold|([[French language|French]])}}}} 
+ |  < hr/ > {{lang|ber|ⵜⴰⴳⴷⵓⴷⴰ ⵜⴰⵎⴳⴷⴰⵢⵜ ⵜⴰⵖⵔⴼⴰⵏⵜ ⵜⴰⴷⵣⴰⵢⵔⵉⵢⵜ}}{{nbsp|2}}{{small|{{nobold|([[Berber languages|Berber]])}}}} < br/ > {{smaller|''Tagduda tamegdayt taɣerfant tazzayrit''}} 
+ }} 
+ | image_flag             = Flag of Algeria.svg 
+ | image_coat             =  
+ | symbol_type            = Emblem 
+ | national_motto         = {{lang|ar|بالشّعب وللشّعب}} < br/ > ( " By the people and for the people " ) < ref name= " CONST-AR " > {{cite web|url=http://www.el-mouradia.dz/arabe/symbole/textes/constitution96.htm |title=Constitution of Algeria, Art. 11 |id= language: France and Arabic (government language); people of Algeria speak Arabic and Berber|publisher=El-mouradia.dz |access-date=17 January 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120718124116/http://www.el-mouradia.dz/arabe/symbole/textes/constitution96.htm |archive-date=18 July 2012 }} < /ref > < ref name= " CONST-EN " > {{cite web |url= http://www.apn-dz.org/apn/english/constitution96/titre_01.htm |title=Constitution of Algeria; Art. 11 |publisher=Apn-dz.org |date=28 November 1996 |access-date=17 January 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130725130249/http://www.apn-dz.org/apn/english/constitution96/titre_01.htm |archive-date=25 July 2013 }} < /ref > 
+ | national_anthem        = ''[[Kassaman]]'' < br / > ({{lang-en| " We Pledge " }}) < br / > [[File:National anthem of Algeria, by the U.S. Navy Band.oga|center]] 
+ | image_map              = Algeria (centered orthographic projection).svg 
+ | map_caption            = {{map caption |location_color=dark green || | |}} 
+ | image_map2             =  
+ | capital                = [[Algiers]] 
+ | coordinates            = {{Coord|36|42|N|3|13|E|type:city}} 
+ | largest_city           = capital 
+ | religion               = {{unbulleted list|99% [[Islam in Algeria|Islam]] ([[Official religion|official]]) |1% other (inc. [[Christianity in Algeria|Christians]] and [[History of the Jews in Algeria|Jews]]) < ref > {{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html|title=Central Intelligence Agency|author= < !--Staff writer(s); no by-line.-- > |date=8 February 2020|work=The World Factbook|publisher=Central Intelligence Agency|access-date=23 February 2020|archive-date=13 October 2012|archive-url=https://www.webcitation.org/6BNNjndve?url=https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html|url-status=dead}} < /ref > }} 
+ | official_languages     = [[Arabic language|Arabic]] • [[Standard Algerian Berber|Berber]] 
+ | languages_type         = Other languages 
+ | languages              = [[Algerian Arabic]] (Darja) {{small|(lingua franca)}} < br > [[French language|French]] {{small|(administration, business and education)}} < ref name= " AlgeriaFactbook " > {{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html |title=The World Factbook – Algeria |publisher=[[Central Intelligence Agency]] |date=4 December 2013 |access-date=24 December 2013 |url-status=dead |archive-url=https://web.archive.org/web/20070612211925/https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html |archive-date=12 June 2007 }} < /ref > 
+ , [[Kabyle language|Kabyle]] 
+ | ethnic_groups          = {{vunblist 
+  |{{nowrap|[[Arab-Berber]] 99% < ref name= " AlgeriaFactbook " / > {{efn|The ''[[The World Factbook|CIA World Factbook]]'' states that about 15% of Algerians, a minority, identify as Berber even though many Algerians have Berber origins. The Factbook explains that of the approximately 15% who identify as Berber, most live in the [[Kabylia]] region, more closely identify with Berber heritage instead of Arab heritage, and are Muslim.}} < !--end nowrap:-- > }} 
+  | 1% Others < ref name= " AlgeriaFactbook " / > }} 
+ | demonym                = [[Demographics of Algeria|Algerian]] 
+ | government_type        = [[Unitary state|Unitary]] [[Semi-presidential system|semi-presidential]] [[Republic|constitutional republic]] 
+ | leader_title1          = [[President of Algeria|President]] 
+ | leader_name1           = [[Abdelmadjid Tebboune]] 
+ | leader_title2          = [[Prime Minister of Algeria|Prime Minister]] 
+ | leader_name2           = [[Nadir Larbaoui]] 
+ | leader_title3          = [[List of presidents of the Council of the Nation (Algeria)|Council President]] 
+ | leader_name3           = [[Salah Goudjil]] 
+ | leader_title4          = [[List of presidents of the People's National Assembly (Algeria)|Assembly President]] 
+ | leader_name4           = [[Ibrahim Boughali]] 
+ | legislature            = [[Parliament of Algeria|Parliament]] 
+ | upper_house            = [[Council of the Nation]] 
+ | lower_house            = [[People's National Assembly]] 
+ | sovereignty_type       = [[History of Algeria|Formation]] 
+ | established_event1     = [[Zirid dynasty]] 
+ | established_date1      = 960 
+ | established_event2     = [[Hammadid dynasty]] 
+ | established_date2      = 1014 
+ | established_event3     = [[Kingdom of Tlemcen|Zayyanid dynasty]] 
+ | established_date3      = 1235 
+ | established_event4     = [[Ottoman Algeria|Al Jazâ'ir]] 
+ | established_date4      = 1515 
+ | established_event5     = [[French Algeria|French Occupation]] 
+ | established_date5      = [[Invasion of Algiers in 1830|5 July 1830]] 
+ | established_event6     = [[Algerian War|Independence]] from France 
+ | established_date6      = 5 July 1962 
+ | area_km2               = 2381741 
+ | area_rank              = 10th 
+ | area_sq_mi             = 919595 
+ | percent_water          = 1.1 
+ | population_estimate    = 44,700,000 < ref name= " ONS 2020 " > {{cite web | title=Démographie | website=Office National des Statistiques | date=18 May 2020 | url=http://www.ons.dz/IMG/pdf/demographie2019_bis.pdf | language=fr | trans-title=Demography | access-date=3 October 2020 | archive-url=https://web.archive.org/web/20200721155425/http://www.ons.dz/IMG/pdf/demographie2019_bis.pdf | archive-date=21 July 2020 | url-status=live }} < /ref > 
+ | population_estimate_year = 2021 
+ | population_estimate_rank = 32nd 
+ | population_census_year =  
+ | population_density_km2 = 17.7 
+ | population_density_sq_mi = 47 
+ | population_density_rank = 168 
+ | GDP_PPP                = {{increase}} $684.649 billion < ref name= " IMFWEOAG " > {{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=30 & pr.y=9 & sy=2019 & ey=2022 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & c=612 & s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC & grp=0 & a= |title=World Economic Outlook Database |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=24 February 2019}} < /ref > 
+ | GDP_PPP_year           = 2019 
+ | GDP_PPP_rank           = 35th 
+ | GDP_PPP_per_capita     = {{increase}} $15,765 < ref name= " IMFWEOAG " / > 
+ | GDP_PPP_per_capita_rank = 82nd 
+ | GDP_nominal            = {{increase}} $183.687 billion < ref name= " IMFWEOAG " / > 
+ | GDP_nominal_year       = 2019 
+ | GDP_nominal_rank       = 53rd 
+ | GDP_nominal_per_capita = {{increase}} $4,229 < ref name= " IMFWEOAG " / > 
+ | GDP_nominal_per_capita_rank = 109th 
+ | Gini                   = 27.6 
+ | Gini_year              = 2011 
+ | Gini_ref               =  < ref > {{cite web|author= < !--Staff writer(s); no by-line.-- >  |url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html |title=Distribution of Family Income & nbsp;– Gini Index |work=[[The World Factbook]] |publisher=[[Central Intelligence Agency]] |access-date=1 September 2009 |archive-url=https://web.archive.org/web/20070613005439/https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html |archive-date=13 June 2007 |url-status=live }} < /ref > < ref > {{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=DZ |title=GINI index (World Bank estimate) |publisher=[[World Bank]] |website=data.worldbank.org |access-date=24 February 2019 |archive-url=https://web.archive.org/web/20181118143415/https://data.worldbank.org/indicator/SI.POV.GINI?locations=DZ |archive-date=18 November 2018 |url-status=live  }} < /ref > 
+ | HDI                    = 0.748 < !-- number only -- > 
+ | HDI_year               = 2019  < !-- Please use the year to which the data refers, not the publication year -- > 
+ | HDI_change             = decrease < !-- increase/decrease/steady -- > 
+ | HDI_ref                =  < ref name= " UNHDR " > {{cite book|title=Human Development Report 2020 The Next Frontier: Human Development and the Anthropocene|date=15 December 2020|publisher=United Nations Development Programme|isbn=978-92-1-126442-5|pages=343–346|url=http://hdr.undp.org/sites/default/files/hdr2020.pdf|access-date=16 December 2020}} < /ref > 
+ | HDI_rank               = 91st 
+ | currency               = [[Algerian dinar|Dinar]] 
+ | currency_code          = DZD 
+ | time_zone              = [[Central European Time|CET]] 
+ | utc_offset             = +1 
+ | date_format            = dd/mm/yyyy 
+ | drives_on              = right 
+ | calling_code           = [[Telephone numbers in Algeria|+213]] 
+ | cctld                  = [[.dz]] < br/ > الجزائر. 
+ | today                  =  
+ }} 
+ [[File:locationAlgeria.png|thumb|right|Algeria on a world map]] 
+ {{wiktionary|Algeria}} 
+ '''Algeria''' ({{IPAc-en|audio=en-us-Algeria.ogg|æ|l|ˈ|dʒ|ɪər|i|ə}} or {{IPAc-en|ɔː|l|-}}), officially the '''People's Democratic Republic of Algeria''', is a country in [[North Africa]], the tenth largest country in the world, and the largest country in [[Africa]]. < ref > {{Cite web|url=https://www.statista.com/statistics/1207844/largest-countries-in-africa-by-area/|title = Africa: Largest countries by area 2020}} < /ref >  It is part of the [[Maghreb]] region of Northwest Africa.  
+ 
+ [[Algiers]] is the capital of the country. It has borders with many nations. Algeria borders [[Tunisia]] to the northeast, [[Libya]] to the east, [[Niger]] to the southeast, [[Mauritania]] and [[Mali]] to the southwest, [[Western Sahara]] to the west, and [[Morocco]] to the northwest. 
+ 
+ ==History== 
+ People have lived in Algeria for thousands of years, which can be seen in the cave paintings at [[Tassili]] National Park that date to around 7000 BC. By 600 BC, [[Phoenician]]s were in [[Hippo Regius]] (now called [[Annaba]]), [[Rusicade]] (now [[Skikda]]), and [[Tipasa]] in the [[central]] [[coastal]] part of the country. The Romans would annex (take over) the region by the conclusion of the [[Punic Wars]] in 146BC, with what is now modern-day Algeria staying in Roman hands till the [[fall of the Roman Empire]] in the 5th century and the region being taken over by the Germanic [[Vandals]].  
+ 
+ Algeria would become part of the [[Islam]]ic world when the first [[Muslim]] [[Arabs]] came to Algeria in the mid-[[7th century]], resulting in many people converting to the new religion of [[Islam]]. In the [[11th century]], the Arab tribes of [[Banu Hilal]] and Banu Sulaym were living between [[Tunisia]] and eastern Algeria ([[Constantine|Constantois]]). The famous [[mathematician]], [[Fibonacci]] (1170—1250) lived in Algeria as a teenager. < ref > {{Cite web|url=https://mathshistory.st-andrews.ac.uk/Biographies/Fibonacci/|title=Fibonacci - Biography}} < /ref >  This is where he learned the [[Hindu–Arabic numeral system]]. Algeria was made part of the [[Ottoman Empire]] in 1517. [[Slavery|Enslavement]] of [[black people]] was practiced there as it was throughout the empire. < ref > {{Cite journal|last=Loualich|first=Fatiha|date=2013-01-01|title=The Emancipated Slaves Faced with the Jurisdiction of Algiers in the Seventeenth and Eighteenth Centuries|url=https://brill.com/view/journals/ormo/93/2/article-p547_10.xml|journal=Oriente Moderno|language=en|volume=93|issue=2|pages=547–560|doi=10.1163/22138617-12340032|issn=2213-8617}} < /ref > 
+ 
+ In the 1500s and 1700s, the [[Spanish Empire]] ruled a lot of Algeria. [[Spain]] was expelled from Algeria by the [[Ottomans]]. [[France]] colonized Algeria starting in 1830. In 1954, the [[National Liberation Front]] (Front de Libération Nationale or FLN) wanted freedom from [[France]]. They fought a war against [[France]] to free Algeria. It became independent from [[France]] on July 5, 1962. 
+ 
+ In 1963, [[Ahmed Ben Bella]] became the first [[President of Algeria]]. 
+ 
+ The Algerian Civil War began in 1991 and ended in 2002. The government decided to end the state of emergency on February 24, 2011. 
+ 
+ ==Geography== 
+ A large part of southern Algeria is the [[Sahara Desert]]. The Aures and Nememcha mountain ranges are in the north. The highest point is Mount Tahat (3,003 m). 
+ 
+ ==Languages== 
+ The two official languages of Algeria are [[Arabic language|Arabic]] and [[Berber]].  
+ 
+ Berber was made an official language in 2002.  
+ 
+ Many Algerians speak [[French language|French]]. French is considered the ''lingua franca'' of Algeria. < ref > {{Cite journal|date=2022-02-11|title=Algeria|url=https://www.cia.gov/the-world-factbook/countries/algeria/|journal=The World Factbook|language=en|publisher=Central Intelligence Agency}} < /ref > < ref > {{Cite web|url=https://www.aboutalgeria.com/2017/09/language-variation-in-algeria.html|title=Language Variation in Algeria}} < /ref > 
+ 
+ == Economy == 
+ In Algeria, the government plays a big role in the economy. They have large stakes in many companies.  
+ 
+ Algeria has a lot of oil and gas reserves. 
+ 
+ ==Population== 
+ Algeria's population is about 45 million people. There are over 40 [[List of cities in Algeria|cities]] with more than 100,000 people. 
+ 
+ [[Islam]] is the country's main religion.  
+ 
+ Algeria used to have one of the oldest and largest Jewish communities in the world. Jews have been in the country since the first century. Now only 20 Jews live in the country because persecution and programs by Muslims in the 30’s and 40’s. < ref > https://www.jewishvirtuallibrary.org/jews-of-algeria < /ref > 
+ 
+ ==Politics== 
+ The Parliament of Algeria is made up of two chambers: < ref name= " alge_Emba " > {{Cite web| title = Embassy of Algeria in Iran - Political Institution - The National People's Assembly| work = algeriaemb.ir| accessdate = 2015-08-01| url = http://www.algeriaemb.ir/pages.php?p=19| archive-date = 2013-04-11| archive-url = https://web.archive.org/web/20130411035439/http://www.algeriaemb.ir/pages.php?p=19| url-status = dead}} < /ref > 
+ 
+ *The '''[[Council of the Nation]]''' ([[upper house|Upper Chamber]]) 
+ *The '''[[People's National Assembly]]''' ([[lower house|Lower Chamber]]) 
+ 
+ ==Provinces== 
+ There are 58 [[provinces]] in Algeria. In 2019, the number of provinces was changed from 48 to 58. The provinces are: 
+ 
+ {{col-begin|width=auto}} 
+ {{col-break}} 
+ :  < small > 1 < /small >  [[Adrar Province|Adrar]] 
+ :  < small > 2 < /small >  [[Chlef Province|Chlef]] 
+ :  < small > 3 < /small >  [[Laghouat Province|Laghouat]] 
+ :  < small > 4 < /small >  [[Oum el-Bouaghi Province|Oum el Bouaghi]] 
+ :  < small > 5 < /small >  [[Batna Province|Batna]] 
+ :  < small > 6 < /small >  [[Béjaïa Province|Bejaia]] 
+ :  < small > 7 < /small >  [[Biskra Province|Biskra]] 
+ :  < small > 8 < /small >  [[Béchar Province|Bechar]] 
+ :  < small > 9 < /small >  [[Blida Province|Blida]] 
+ :  < small > 10 < /small >  [[Bouira Province|Bouira]] 
+ :  < small > 11 < /small >  [[Tamanghasset Province|Tamanghasset]] 
+ :  < small > 12 < /small >  [[Tébessa Province|Tebessa]] 
+ :  < small > 13 < /small >  [[Tlemcen Province|Tlemcen]] 
+ :  < small > 14 < /small >  [[Tiaret Province|Tiaret]] 
+ :  < small > 15 < /small >  [[Tizi Ouzou Province|Tizi Ouzou]] 
+ {{col-break}} 
+ :  < small > 16 < /small >  [[Algiers Province|Algiers]] 
+ :  < small > 17 < /small >  [[Djelfa Province|Djelfa]] 
+ :  < small > 18 < /small >  [[Jijel Province|Jijel]] 
+ :  < small > 19 < /small >  [[Sétif Province|Setif]] 
+ :  < small > 20 < /small >  [[Saïda Province|Saïda]] 
+ :  < small > 21 < /small >  [[Skikda Province|Skikda]] 
+ :  < small > 22 < /small >  [[Sidi Bel Abbes Province|Sidi Bel Abbes]] 
+ :  < small > 23 < /small >  [[Annaba Province|Annaba]] 
+ :  < small > 24 < /small >  [[Guelma Province|Guelma]] 
+ :  < small > 25 < /small >  [[Constantine Province|Constantine]] 
+ :  < small > 26 < /small >  [[Médéa Province|Medea]] 
+ :  < small > 27 < /small >  [[Mostaganem Province|Mostaganem]] 
+ :  < small > 28 < /small >  [[M'Sila Province|M'Sila]] 
+ :  < small > 29 < /small >  [[Mascara Province|Mascara]] 
+ :  < small > 30 < /small >  [[Ouargla Province|Ouargla]] 
+ {{col-break}} 
+ :  < small > 31 < /small >  [[Oran Province|Oran]] 
+ :  < small > 32 < /small >  [[El Bayadh Province|El Bayadh]] 
+ :  < small > 33 < /small >  [[Illizi Province|Illizi]] 
+ :  < small > 34 < /small >  [[Bordj Bou Arréridj Province|Bordj Bou Arréridj]] 
+ :  < small > 35 < /small >  [[Boumerdès Province|Boumerdès]] 
+ :  < small > 36 < /small >  [[El Tarf Province|El Tarf]] 
+ :  < small > 37 < /small >  [[Tindouf Province|Tindouf]] 
+ :  < small > 38 < /small >  [[Tissemsilt Province|Tissemsilt]] 
+ :  < small > 39 < /small >  [[El Oued Province|El Oued]] 
+ :  < small > 40 < /small >  [[Khenchela Province|Khenchela]] 
+ :  < small > 41 < /small >  [[Souk Ahras Province|Souk Ahras]] 
+ :  < small > 42 < /small >  [[Tipasa Province|Tipasa]] 
+ :  < small > 43 < /small >  [[Mila Province|Mila]] 
+ :  < small > 44 < /small >  [[Aïn Defla Province|Ain Defla]] 
+ :  < small > 45 < /small >  [[Naama Province|Naama]] 
+ {{col-break}} 
+ :  < small > 46 < /small >  [[Aïn Témouchent Province|Ain Temouchent]] 
+ :  < small > 47 < /small >  [[Ghardaïa Province|Ghardaia]] 
+ :  < small > 48 < /small >  [[Relizane Province|Relizane]] 
+ :  < small > 49 < /small >  [[El M'Ghair Province|El M'Ghair]] 
+ :  < small > 50 < /small >  [[El Menia Province|El Menia]] 
+ :  < small > 51 < /small >  [[Ouled Djellal Province|Ouled Djellal]] 
+ :  < small > 52 < /small >  [[Bordj Baji Mokhtar Province|Bordj Baji Mokhtar]] 
+ :  < small > 53 < /small >  [[Béni Abbès Province|Béni Abbès]] 
+ :  < small > 54 < /small >  [[Timimoun Province|Timimoun]] 
+ :  < small > 55 < /small >  [[Touggourt Province|Touggourt]] 
+ :  < small > 56 < /small >  [[Djanet Province|Djanet]] 
+ :  < small > 57 < /small >  [[In Salah Province|In Salah]] 
+ :  < small > 58 < /small >  [[In Guezzam Province|In Guezzam]] 
+ {{col-end}} 
+ 
+ ==UNESCO World Heritage Sites== 
+ There are several [[UNESCO]] [[World Heritage Sites]] in Algeria < ref > {{cite web|last=UNESCO|title=UNESCO World Heritage Centre|url=http://whc.unesco.org/en/statesparties/dz|accessdate=25 September 2011}} < /ref >  including [[Al Qal'a of Beni Hammad]], the first capital of the [[Hammadid]] empire; [[Tipasa]], a Phoenician and later Roman town; and [[Djémila]] and [[Timgad]], both [[Ancient Rome|Roman]] ruins; [[M'Zab Valley]], a limestone valley containing a large urbanized [[oasis]]; also the [[Casbah]] of Algiers is an important citadel. The only natural [[World Heritage Sites]] is the [[Tassili n'Ajjer]], a mountain range. 
+ 
+ ==References== 
+ < references / > 
+ '''Notes''' 
+ {{Reflist|group=lower-alpha}} 
+ 
+ ==Other websites== 
+ *{{commonscat-inline}} 
+ *{{wikivoyage-inline}} 
+ 
+ {{Middle East}} 
+ {{africa}} 
+ 
+ [[Category:Algeria| ]] 
+ [[Category:Members of the Organisation of Islamic Cooperation]] 
+ [[Category:1962 establishments in Africa]] 
+ [[Category:North African countries]]

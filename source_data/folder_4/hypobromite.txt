@@ -1,0 +1,44 @@
+{{Chembox 
+ | verifiedrevid = 443864672 
+ | ImageFile = Hypobromite.svg 
+ | ImageSize = 150px 
+ | IUPACName = hypobromite 
+ | OtherNames =  
+ | Section1 = {{Chembox Identifiers 
+ |  CASNo =  
+ |  PubChem = 5460626 
+ |  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 4574121 
+ |  ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 29250 
+ | SMILES = [O-]Br 
+ |  StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI=1S/BrO/c1-2/q-1 
+ |  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = JGJLWPGRMCADHB-UHFFFAOYSA-N 
+   }} 
+ | Section2 = {{Chembox Properties 
+ |  Formula = BrO 
+ |  MolarMass = 95.904 
+ |  Appearance =  
+ |  Density =  
+ |  MeltingPt =  
+ |  BoilingPt =  
+ |  Solubility = 
+   }} 
+ | Section3 = {{Chembox Hazards 
+ |  MainHazards =  
+ |  FlashPt =  
+ |  Autoignition = 
+   }} 
+ }} 
+ '''Hypobromite''' is an [[ion]]. Its chemical formula is BrO < sup > - < /sup > . It contains [[bromine]] in its +1 [[oxidation state]]. It is an [[oxidizing agent]]. It is similar to [[hypochlorite]]. Hypobromites are the [[salt]]s of [[hypobromous acid]]. Hypobromite is a [[disinfectant]]. Some [[white blood cell]]s [[oxidation|oxidize]] [[bromide]] to hypobromite with [[peroxide]] and use the hypobromite to kill germs. Bromides can be added to pools along with chlorine to make hypobromite, which disinfects the pools. 
+ 
+ Hypobromites are made by dissolving bromine in a [[base (chemistry)|basic]] solution. Hypobromite [[disproportionation|disproportionates]] to [[bromate]] and bromide when heated. 
+ 
+ ==Related pages== 
+ *[[Bromite]] 
+ *[[Perbromate]] 
+ 
+ [[Category:Bromine compounds]] 
+ [[Category:Ions]]

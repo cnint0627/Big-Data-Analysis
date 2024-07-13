@@ -1,0 +1,25 @@
+[[File:AYool topography 15min.png|thumb|right|240px|Present day [[Earth]] bathymetry (and [[terrain|altimetry]]).  Data from the [[National Geophysical Data Center]]'s [http://www.ngdc.noaa.gov/seg/fliers/se-1104.shtml TerrainBase Digital Terrain Model].]] 
+ 
+ '''Bathymetry''' is the study of the [[underwater]] [[terrain]] of [[lake]]s or [[ocean floor]]s. It is the same as [[topography]], except that it looks at the underwater topography. It is a field of [[oceanography]]. The name comes from [[Greek language|Greek]] {{lang|el|βαθύς}} (''bathus''), meaning  " deep " , < ref > [http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dbaqu%2Fs βαθύς], Henry George Liddell, Robert Scott, ''A Greek-English Lexicon'', on Perseus < /ref >  and {{lang|el|μέτρον}} (''metron''), meaning  " measure " . < ref > [http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dme%2Ftron μέτρον], Henry George Liddell, Robert Scott, ''A Greek-English Lexicon'', on Perseus < /ref >  Bathymetric (or [[Hydrography|hydrographic]]) charts are often made to support the [[safety]] of underwater [[navigation]] and [[exploration]]. Most of these underwater [[topographic map]]s use [[contour line]]s (called ''depth contours'' or ''isobaths'') to show the terrain of the [[sea floor]], and how deep it is. They usually also give surface navigational information. 
+ 
+ Originally, bathymetry involved the measurement of ocean [[depth]] through [[depth sounding|sounding]]. Early techniques used heavy [[rope]] or cable lowered over a ship's side. This method measures the depth of the water at a single location each time. It was not a very accurate method. The data used to make bathymetric maps today usually comes from an echosounder ([[sonar]]). This device is attached to the bottom or the side of a boat. < ref name='Olsen' > {{citation 
+   | last = Olsen 
+   | first = R. C. 
+   | author-link = 
+   | title = Remote Sensing from Air and Space 
+   | publisher = SPIE 
+   | year = 2007 
+   | isbn = 978-0-8194-6235-0}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commons category|Bathymetry}} 
+ * [http://e-atlas.org.au/content/gbr_jcu_bathymetry-3dgbr High resolution bathymetry for the Great Barrier Reef and Coral Sea] {{Webarchive|url=https://web.archive.org/web/20101004075814/http://e-atlas.org.au/content/gbr_jcu_bathymetry-3dgbr |date=2010-10-04 }} 
+ 
+ [[Category:Cartography]] 
+ [[Category:Oceanography]] 
+ 
+ 
+ {{sci-stub}}

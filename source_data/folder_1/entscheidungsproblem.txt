@@ -1,0 +1,14 @@
+The '''Entscheidungsproblem''' (German,  " decision problem " ) is a famous [[problem]] of [[mathematics]]. [[David Hilbert]] formulated the problem in 1928: Is there an [[algorithm]] that will take a [[formal language]], and a logical statement in that language, and that will output  " True "  or  " False " , depending on the truth value of the statement? The algorithm does not tell how it reaches the answer, nor prove it, as long as the answer is always correct. 
+ 
+ In 1936 and 1937, [[Alonzo Church]] and [[Alan Turing]] showed independently, that there can be no answer to the Entscheidungsproblem. They showed that it is impossible for an algorithm to decide whether statements in [[arithmetic]] are true or false. For this reason, there can be no solution for the Entscheidungsproblem. This was proven by Alan Turings  " Turing Machine "  which was created in the 1930s. 
+ 
+ == Turing's Proof == 
+ Turing proposes a computer program that can determine for certain if any program fed into it will halt or not. He also proposes another program that halts if the input is loop, and loops if the input is halt. He says to make these two programs one new program. Then, he proposes to feed this new program's code into itself. This means the program thinks it will halt, so it will loop, but then it'll loop, so it'll halt, and so on and so forth. This is a paradox, which means for certain that you cannot write a program to determine if every program will halt or not. < ref > {{Citation|title=Are There Problems That Computers Can't Solve?|url=https://www.youtube.com/watch?v=eqvBaj8UYz4|language=en|access-date=2022-11-29}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Mathematical problems]]

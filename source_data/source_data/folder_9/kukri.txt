@@ -1,0 +1,116 @@
+{{Infobox weapon 
+ | name               = Khukuri 
+ | image              = Polished kukri.jpg 
+ | image_size         =  
+ | caption            = A polished kukri. 
+ | origin             = [[South Asia]]  
+ | type               = Machete 
+ < !-- Type selection -- > 
+ | is_ranged          = 
+ | is_bladed          = Yes 
+ | is_explosive       = 
+ | is_artillery       = 
+ | is_vehicle         = 
+ | is_missile         = 
+ | is_UK              = 
+ < !-- Service history -- > 
+ | service            = 
+ | used_by            =[[Gurkha]] 
+ | wars               ={{plainlist| 
+ *[[Anglo-Afghan War]] 
+ *[[Sino-Nepalese War]] 
+ *[[Nepalese–Tibetan War]] 
+ *[[Battle of Nalapani]] 
+ *[[First World War]] 
+ *[[Second World War]] 
+ *[[Falklands War]]}} 
+ < !-- Production history -- > 
+ | designer           = 
+ | design_date        = 
+ | manufacturer       =[[Gurkha]]s 
+ | unit_cost          =$50–100 
+ | production_date    =1810 
+ | number             = 
+ | variants           = 
+ < !-- General specifications -- > 
+ | spec_label         = 
+ | weight             =450–900 grams 
+ | length             = 40–45 cm 
+ | part_length        = 
+ | width              = 
+ | height             = 
+ | diameter           = 
+ | crew               = 
+ < !-- Ranged weapon specifications -- > 
+ | cartridge          = 
+ | cartridge_weight   = 
+ | caliber            = 
+ | barrels            = 
+ | action             = 
+ | rate               = 
+ | velocity           = 
+ | range              = 
+ | max_range          = 
+ | feed               = 
+ | sights             = 
+ < !-- Artillery specifications -- > 
+ | breech             = 
+ | recoil             = 
+ | carriage           = 
+ | elevation          = 
+ | traverse           = 
+ < !-- Bladed weapon specifications -- > 
+ | blade_type         = 
+ | hilt_type          = 
+ | sheath_type        = 
+ | head_type          = 
+ | haft_type          = 
+ < !-- Explosive specifications -- > 
+ | filling            = 
+ | filling_weight     = 
+ | detonation         = 
+ | yield              = 
+ < !-- Vehicle/missile specifications -- > 
+ | armour             = 
+ | primary_armament   = 
+ | secondary_armament = 
+ | engine             = 
+ | engine_power       = 
+ | pw_ratio           = 
+ | transmission       = 
+ | payload_capacity   = 
+ | suspension         = 
+ | clearance          = 
+ | fuel_capacity      = 
+ | vehicle_range      = 
+ | speed              = 
+ | guidance           = 
+ | steering           = 
+ < !-- Missiles only -- > 
+ | wingspan           = 
+ | propellant         = 
+ | ceiling            = 
+ | altitude           = 
+ | depth              = 
+ | boost              = 
+ | accuracy           = 
+ | launch_platform    = 
+ | transport          = 
+ }} 
+ 
+ The '''kukri''' or '''khukuri''' ({{lang-ne|खुकुरी}} ''khukuri'') is a knife which is mostly used by [[Nepali language|Nepali speaking]] [[Gurkha]]s of [[India]] and [[Nepal]]. The blade of the knife is curved inward, similar to a [[machete]]. It is used as both a tool and as a weapon in South Asia. 
+ 
+ The ''kukri'', ''khukri'', and ''kukkri'' spellings are of Indian origin. < ref > {{cite book |title=Illustrated Oxford Dictionary |publisher=Dorling Kindersley |year=1998 |location=Great Britain |isbn=140532029-X}} < /ref >  The original [[Nepali language|Nepali]] spelling is ''khukuri''. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * {{commons category-inline|Kukri}} 
+ 
+ [[Category:Nepali culture]] 
+ [[Category:Cutting tools]] 
+ [[Category:Blades]] 
+ 
+ 
+ {{asia-stub}}

@@ -1,0 +1,19 @@
+'''OpenDocument Format''' ('''ODF''') is a [[file format|computer file format]] for [[word processor]]s, [[presentation software]] and other computer programs. For example, [[OpenOffice.org]] and [[LibreOffice]] are programs that use ODF to save [[text]], [[slideshow]]s and [[spreadsheet]]s. The format was created by [[Sun Microsystems]] for their StarOffice [[office suite]]. < ref > {{citation |url=http://xml.coverpages.org/openoffice-xml_specification_draft200012.pdf |title=StarOffice XML File Format Working Draft, Technical Reference Manual, Draft 9, December 2000 |date=December 2000 |access-date=2023-08-16}} < /ref > 
+ 
+ The content of an ODF file are [[XML]] files that are inside a [[ZIP (file format)|ZIP]]. By using ZIP compression, the files are much smaller. 
+ 
+ The most common [[filename extension]]s used for OpenDocument documents are: 
+ *  < code > .odt < /code >  and  < code > .fodt < /code >  for [[word processor|word processing]] (text) documents 
+ *  < code > .ods < /code >  and  < code > .fods < /code >  for [[spreadsheet]]s 
+ *  < code > .odp < /code >  and  < code > .fodp < /code >  for [[presentation]]s 
+ *  < code > .odg < /code >  and  < code > .fodg < /code >  for [[graphics]] 
+ *  < code > .odf < /code >  for [[formula]], mathematical equations 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer file formats]] 
+ [[Category:OpenOffice.org]] 
+ [[Category:LibreOffice]]

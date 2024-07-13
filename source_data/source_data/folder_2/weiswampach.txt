@@ -1,0 +1,72 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Weiswampach 
+ | native_name             = Wäiswampech 
+ | native_name_lang        = lb < !-- ISO 639-2 code e.g.  " lb "  for Luxembourgish -- > 
+ | settlement_type         = [[List of communes of Luxembourg|Commune]] 
+ | image_skyline           = Weiswampach.jpg 
+ | image_alt               =  
+ | image_caption           =  
+ | image_shield            = Coat of arms weiswampach luxbrg.png 
+ | shield_alt              =  
+ | shield_size             = 100x80px 
+ | image_map               = Map Weiswampach.PNG 
+ | map_alt                 =  
+ | mapsize                 = 200px 
+ | map_caption             = Map of Luxembourg with Weiswampach highlighted in orange, and the canton in dark red 
+ | coordinates             = {{coord|3=region:LU_type:adm3rd|display=inline,title}} 
+ | coor_pinpoint           =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Luxembourg}} 
+ | subdivision_type1       = [[Cantons of Luxembourg|Canton]] 
+ | subdivision_name1       = [[Clervaux (canton)|Clervaux]] 
+ | established_title       =  
+ | established_date        =  
+ | leader_title            = Mayor 
+ | leader_name             = Henri Rinnen  
+ | leader_party            = [[Democratic Party (Luxembourg)|DP]] 
+ | government_footnotes    =  < ref > {{cite web |title=WEISWAMPACH - Syvicol |url=https://www.syvicol.lu/annuaires-des-communes-et-des-syndicats/annuaire-des-communes/fiche/clervaux/weiswampach |website=www.syvicol.lu |access-date=3 April 2019 |archive-date=16 May 2020 |archive-url=https://web.archive.org/web/20200516013318/https://www.syvicol.lu/annuaires-des-communes-et-des-syndicats/annuaire-des-communes/fiche/clervaux/weiswampach |url-status=dead }} < /ref > 
+ | unit_pref               = Metric < !-- or US or UK -- > 
+ | area_footnotes          =  
+ | area_total_km2          = {{Luxembourg commune area|LAU2=0505}} 
+ | area_rank               = {{Luxembourg commune area rank|LAU2=0505}} of 102 
+ | elevation_footnotes     =  
+ | elevation_max_m         = {{Luxembourg commune high|LAU2=0505}} 
+ | elevation_max_rank      = {{Luxembourg commune high rank|LAU2=0505}} of 102 
+ | elevation_min_m         = {{Luxembourg commune low|LAU2=0505}} 
+ | elevation_min_rank      = {{Luxembourg commune low rank|LAU2=0505}} of 102 
+ | population_footnotes    =  
+ | population_total        = {{Luxembourg commune population|LAU2=0505}} 
+ | population_as_of        = {{Luxembourg communes statistics year}} 
+ | population_rank         = {{Luxembourg commune population rank|LAU2=0505}} of 102 
+ | population_density_km2  = auto 
+ | population_density_rank = {{Luxembourg commune density rank|LAU2=0505}} of 102 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | blank_name_sec1         = [[Local administrative unit|LAU 2]] 
+ | blank_info_sec1         = LU0000505 
+ | website                 = [http://www.weiswampach.lu weiswampach.lu] 
+ | footnotes               =  
+ }} 
+ '''Weiswampach''' ({{lang-lb|Wäiswampech}}) is a [[Communes of Luxembourg|commune]] in [[Luxembourg]]. It is part of the [[Clervaux (canton)|canton of Clervaux]]. 
+ 
+ As of 2019, 1,912 people live here. 
+ 
+ == Localities == 
+ * Beiler 
+ * Binsfeld 
+ * Breidfeld 
+ * Holler 
+ * Leithum 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * {{Commonscat-inline}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Communes of Clervaux]]

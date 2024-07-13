@@ -1,0 +1,21 @@
+A '''lysozyme''' is a part of the [[innate immune system]]. < ref > Innate immune systems give immediate defence against infection, and are found in all [[plant]] and [[animal]] life.Janeway, Charles A. 2001. Evolution of the innate immune system. In Janeway, Charles; Paul Travers, Mark Walport, and Mark Shlomchik. ''Immunobiology'', p598. 5th ed, New York and London: Garland Science. {{ISBN|978-0-8153-4101-7}} < /ref >  They are [[enzymes]] which are in [[mucus]] secretions like [[saliva]]. They protect against [[infection]] by chopping up the [[bacteria]], [[viruses]] and [[fungi]] which infect animals. 
+ 
+ The name 'lysozyme' was coined in 1922 by [[Alexander Fleming]] (1881–1955), the discoverer of [[penicillin]]. < ref name= " Fleming_1922 " > {{cite journal | author = Fleming A | title = On a remarkable bacteriolytic element found in tissues and secretions  |  journal = Proceedings of the Royal Society B | volume = 93 | issue = 653 | pages = 306–317 | date= 1922| pmid =  | doi = 10.1098/rspb.1922.0023| jstor = 80959 | bibcode = 1922RSPSB..93..306F | url = https://www.jstor.org/pss/80959 }} < /ref >  Fleming first observed the antibacterial action of lysozyme when he treated bacterial cultures with nasal mucus from a patient suffering from a [[common cold]]. < ref name= " Fleming_1922 "  / > 
+ 
+ Lysozyme is in a number of secretions, such as [[tears]], saliva, [[milk]], and [[mucus]]. It is also present in [[cytoplasm]]ic [[Granule (cell biology)|granules]] of [[macrophage]]s and [[granulocyte]] [[neutrophil]]s. 
+ 
+ The enzyme works by attacking [[polymers]] in the cell walls of bacteria, especially [[Gram-positive]] bacteria like  ''[[Bacillus]]'' and ''[[Streptococcus]]''. 
+ 
+ Lysozyme was the second [[protein]] structure, and the first enzyme structure,  solved by [[X-ray diffraction]] methods. It was the first enzyme to be fully [[sequence analysis|sequenced]] that contains all twenty common [[amino acids]]. < ref name= " Canfield1963 " > {{cite journal | journal=J Biol Chem | volume=238 | issue=8 | pages=2698–2707 | year=1963 | author = Canfield R.E | title=The amino acid sequence of egg white lysozyme | doi=10.1016/S0021-9258(18)67888-3 | pmid=14063294 | url = http://www.jbc.org/content/238/8/2698.short | doi-access=free }} < /ref > 
+ It was also the first enzyme to have a detailed, specific mechanism suggested for its action. < ref > {{cite journal | author = Vernon C.A | title = The mechanisms of hydrolysis of glycosides and their relevance to enzyme-catalysed reactions | journal = Proceedings of the Royal Society B | volume = 167 | issue = 1009 | pages = 389–401 |date=1967 | pmid = 4382802 | doi = 10.1098/rspb.1967.0036 | jstor = 75680 | bibcode = 1967RSPSB.167..389V | url = https://www.jstor.org/stable/75680 }} < /ref > < ref > {{cite journal | author = Rupley J.A | title = The binding and cleavage by Lysozyme of N-acetylglucosamine oligosaccharides | journal = Proceedings of the Royal Society B | volume = 167 | issue = 1009 | pages = 416–428 |date=1967 | pmid = 4382804 | doi = 10.1098/rspb.1967.0038 | jstor = 75682 | bibcode = 1967RSPSB.167..416R | s2cid = 33906706 | url = https://www.jstor.org/stable/75682 }} < /ref > < ref > {{cite journal | author = Sharon N | title = The chemical structure of lysozyme substrates and their cleavage by the enzyme | journal = Proceedings of the Royal Society B | volume = 167 | issue = 1009 | pages = 402–415 |date=1967 | pmid = 4382803 | doi = 10.1098/rspb.1967.0037 | jstor = 75681 | bibcode = 1967RSPSB.167..402S | s2cid = 31794497 | url = https://www.jstor.org/stable/75681 }} < /ref >  This work led to an explanation of how [[enzymes]] speed up a chemical reaction by their physical structures. < ref > {{cite journal | journal=Nature | volume=412 | issue=6849 | pages=835–8 | year=2001  | author=Vocadlo D.J, Davies G.J, Laine R, Withers S.G. | title=Catalysis by hen egg-white lysozyme proceeds via a covalent intermediate | pmid=11518970 | doi = 10.1038/35090602 | bibcode=2001Natur.412..835V | s2cid=205020153 | url=https://eprints.whiterose.ac.uk/131/1/daviesgj1.pdf }} < /ref > 
+ 
+ == Related pages == 
+ *[[Host defence peptide]] 
+ *[[Defensin]] 
+ *[[innate immune system]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Enzymes]] 
+ [[Category:Immunology]]

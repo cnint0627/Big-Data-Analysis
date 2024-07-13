@@ -1,0 +1,130 @@
+{{Infobox river 
+ | name              = Gardon 
+ | image             = Pont Du Gard2.jpg 
+ | image_caption     = The Gardon near the [[Pont du Gard]] 
+ | map               = Gardon (rivière).png 
+ | map_size = 280px 
+ | source1_location  = [[Cévennes]]  
+ | mouth             = [[Rhône]] 
+ | mouth_coordinates = {{coord|43|51|6|N|4|36|54|E|format=dms|display=inline,title}} 
+ | progression       = {{RRhône}} 
+ | subdivision_type1 = Country 
+ | subdivision_name1 = [[France]] 
+ | length            = {{convert|133|km|mi|abbr=on}} 
+ | source1_elevation =  
+ | discharge1_avg    = {{convert|32|m3/s|cuft/s|abbr=on}} 
+ | basin_size        = {{convert|2200|km2|mi2|abbr=on}} 
+ | tributaries_left  = [[Gardon d'Alès]] 
+ }} 
+ The '''Gardon''' or '''Gard''' is a [[river]] in southeastern [[France]], in the [[Lozère]] and [[Gard]] [[Departments of France|departments]] in the [[Occitanie]] [[Regions of France|region]]. It is a right [[tributary]] of the [[Rhône]] river. 
+ 
+ The [[Gard]] [[Departments of France|department]] is named after this river. 
+ 
+ ==Geography== 
+ The Gardon river has a length of {{Convert|127.3|km|mi|1|abbr=on}} and a [[drainage basin]] with an area of {{Convert|1999|km2|sqmi|0|abbr=on }}. < ref name= " sandre " > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=V71-0400 |title=Le Gard (V71-0400) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=10 January 2017 }} < /ref > 
+ 
+ Its [[average]] yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|32.7|m3/s|cuft/s|abbr=on }} at [[Sanilhac-Sagriès]] in the [[Gard]] department. < ref > {{cite web |url=http://www.hydro.eaufrance.fr/stations/V7184010 & procedure=synthese |title=Le Gard à Sanilhac-Sagriès [La Baume] |publisher=Banque Hydro |language=fr |access-date=10 January 2017 }}{{Dead link|date=March 2022 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:75 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:20 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 71.2 
+  bar:Feb from:0 till: 61.9 
+  bar:Mar from:0 till: 38.2 
+  bar:Apr from:0 till: 34.3 
+  bar:May from:0 till: 28.0 
+  bar:Jun from:0 till: 14.6 
+  bar:Jul from:0 till: 4.53 
+  bar:Aug from:0 till: 4.65 
+  bar:Sep from:0 till: 11.1 
+  bar:Oct from:0 till: 50.0 
+  bar:Nov from:0 till: 35.7 
+  bar:Dec from:0 till: 39.4 
+ 
+ PlotData= 
+  bar:Jan at: 71.2 fontsize:S text: 71.2 shift:(-8,5) 
+  bar:Feb at: 61.9 fontsize:S text: 61.9 shift:(-10,5) 
+  bar:Mar at: 38.2 fontsize:S text: 38.2 shift:(-10,5) 
+  bar:Apr at: 34.3 fontsize:S text: 34.3 shift:(-10,5) 
+  bar:May at: 28.0 fontsize:S text: 28.0 shift:(-10,5) 
+  bar:Jun at: 14.6 fontsize:S text: 14.6 shift:(-10,5) 
+  bar:Jul at: 4.53 fontsize:S text: 4.53 shift:(-10,5) 
+  bar:Aug at: 4.65 fontsize:S text: 4.65 shift:(-10,5) 
+  bar:Sep at: 11.1 fontsize:S text: 11.1 shift:(-10,5) 
+  bar:Oct at: 50.0 fontsize:S text: 50.0 shift:(-10,5) 
+  bar:Nov at: 35.7 fontsize:S text: 35.7 shift:(-10,5) 
+  bar:Dec at: 39.4 fontsize:S text: 39.4 shift:(-10,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Sanilhac-Sagriès''' 
+ < /center > 
+ 
+ ===Course=== 
+ The Gardon (known here as ''Gardon d'Anduze'') starts in the [[Cévennes]], southeastern [[Massif Central]], in the [[Communes in France|''commune'']] of [[Saint-Martin-de-Lansuscle]], [[Lozère]] department near ''Prat Reboubalès'', at an [[altitude]] of about {{Convert|1050|m|ft|0|abbr=on }}. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=3.730833,44.246111 & z=16 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Source du Gard ou Gardon |publisher=Géoportail |language=fr |access-date=10 January 2017 }} < /ref > 
+ 
+ The ''Gardon d'Anduze'' joins the [[Gardon d'Alès]] between the ''communes'' [[Cassagnoles, Gard|Cassagnoles]] and [[Vézénobres]], at an altitude of about {{Convert|90|m|ft|0|abbr=on }}; < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=4.1325,44.03278 & z=0.000316906 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Confluence de Gardon Gardon d'Alès et Gardon d'Anduze |publisher=Géoportail |language=fr |access-date=10 January 2017 }} < /ref >  from here, the river is usually known simply as Gard. 
+ 
+ The Gardon flows to the southeast, in general, and passes through the [[Lozère]] and [[Gard]] departments, in the [[Occitanie]] region, and a total of 37 ''communes'', most of them in the Gard department. < ref name= " sandre "  / > 
+ 
+ Finally, it flows, as a right [[tributary]] into the [[Rhône]] river near [[Comps, Gard|Comps]] at {{Convert|5|m|ft|0|abbr=on }} of altitude. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=4.621111,43.842222 & z=15 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Confluence du Gardon |publisher=Géoportail |language=fr |access-date=10 January 2017 }} < /ref > 
+ 
+ ==Main tributaries== 
+ The main [[Tributary|tributaries]], with a length greater than 20 & nbsp;km, of the Gardon are: 
+ * Le Gardon de Sainte-Croix - 27.9 & nbsp;km 
+ * Le Gardon de Saint-Jean - 49.4 & nbsp;km 
+ * Le [[Gardon d'Alès]] - 60.6 & nbsp;km 
+ * La Droude - 22.6 & nbsp;km 
+ * Le Bourdic - 25 & nbsp;km 
+ * L'Alzon - 23.7 & nbsp;km 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Gardon 20110917 02.jpg|Le Gardon viewed from [[Saint-Jean-du-Gard]] 
+ File:Pont du Gard from river.jpg|''Pont du Gard'' over the Gardon 
+ File:Gorges du Gardon.JPG|The Gardon [[gorge]]s, near [[Sanilhac-Sagriès]] 
+ File:Gardon at Colias.JPG|The Gardon in [[Collias]] 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commons category|Gardon}} 
+ * [http://www.hydro.eaufrance.fr/selection.php Banque Hydro -  Banque Hydro - Station V7184010 - Le Gard à Sanilhac-Sagriès (Synthèse)] {{Webarchive|url=https://web.archive.org/web/20150219053605/http://www.hydro.eaufrance.fr/selection.php |date=2015-02-19 }} {{in lang|fr}} 
+ * [http://www.annuaire-mairie.fr/riviere-le-gard.html Annuaire Maire - Rivière Le Gard] {{in lang|fr}} 
+ 
+ [[Category:Rivers of Occitanie]]

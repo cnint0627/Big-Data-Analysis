@@ -1,0 +1,122 @@
+{{about|Earth's moon|moons in general|Natural satellite||}} 
+ {{Infobox planet 
+ | name = Moon 
+ | background = #dddddd 
+ | apsis = gee 
+ | alt_names = Luna 
+ | symbol = [[File:Moon decrescent symbol (bold).svg|24px|alt=☾|Moon symbol]] 
+ | image = Moon merged small.jpg 
+ | caption = The Moon as seen from Earth. This is a nearly full moon 
+ | periapsis = {{nowrap|363,104 km & nbsp;}} {{nowrap|(0.002 4 [[Astronomical unit|AU]])}} 
+ | apoapsis = {{nowrap|405,696 km & nbsp;}} {{nowrap|(0.002 7 AU)}} 
+ | semimajor = {{nowrap|384,399 km & nbsp;}} {{nowrap|(0.002 57 AU < ref name= " W06 " > {{cite journal | title = The constitution and structure of the lunar interior | journal = Reviews in Mineralogy and Geochemistry | volume = 60 | pages = 221–364 | year = 2006 | doi = 10.2138/rmg.2006.60.3| last1 = Wieczorek | first1 = M. A. | issue = 1 | bibcode = 2006RvMG...60..221W }} < /ref > )}} 
+ | eccentricity = 0.054 & nbsp;9 < ref name= " W06 " / > 
+ | period = {{nowrap|27.321 582 [[Day|d]] & nbsp;}} {{nowrap|(27 d 7 [[Hour|h]] 43.1 [[Minute|min]] < ref name= " W06 " / > )}} 
+ | synodic_period = {{nowrap|29.530 589 d & nbsp;}} {{nowrap|(29 d 12 h 44 & nbsp;min 2.9 s)}} 
+ | avg_speed = 1.022 k[[Metre per second|m/s]] 
+ | inclination = 5.145[[Degree (angle)|°]] to the [[ecliptic]] < ref name= " W06 " / > < !--Wieczorek et al. 2006; 18.29° when the longitude of the Moon's ascending node is 180°, 28.58° when it is 0°-- > < br / > (between 18.29° and 28.58° to Earth's [[equator]]) 
+ | asc_node = regressing by one [[Orbital revolution|revolution]] in 18.6 years 
+ | arg_peri = progressing by one revolution in 8.85 years 
+ | satellite_of = [[Earth]] 
+ | flattening = 0.001 & nbsp;25  < !--Calculated from data below-- > 
+ | mean_radius = {{nowrap|1,737.10 km & nbsp;}} {{nowrap|(0.273 Earths)}} < ref name= " W06 " / > < ref name= " NSSDC " > {{cite web 
+ |last=Williams |first=Dr. David R. 
+ |title=Moon Fact Sheet 
+ |publisher=NASA (National Space Science Data Center) 
+ |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html 
+ |date=February 2, 2006 
+ |accessdate =2008-12-31}} < /ref > 
+ | circumference = 10,921 & nbsp;km ([[equator]]ial) 
+ | surface_area = {{nowrap|3.793{{esp|7}} km² & nbsp;}} {{nowrap|(0.074 Earths)}} 
+ | volume = {{nowrap|2.195 8{{esp|10}} k[[Cubic metre|m³]] & nbsp;}} {{nowrap|(0.020 Earths)}} 
+ | mass = {{nowrap|7.347 7{{esp|22}} kg & nbsp;}} {{nowrap|(0.012 3 Earths < ref name= " W06 " / > )}} 
+ | density = 3,346.4 [[Kilogram per cubic metre|kg/m³]] < ref name= " W06 " / > 
+ | surface_grav = {{nowrap|1.622 [[Metre per second squared|m/s²]]}} {{nowrap|(0.165 4 [[G-force|g]])}} 
+ | escape_velocity = 2.38 k[[Metre per second|m/s]] 
+ | sidereal_day = 27.321 & nbsp;582 [[Day|d]] ([[Synchronous rotation|synchronous]]) 
+ < !--Wieczorek et al. 2006-- > 
+ | rot_velocity = 4.627 & nbsp;m/s 
+ | axial_tilt = 1.542 & nbsp;4° (to [[ecliptic]]) < br / > 6.687° (to [[Orbital plane (astronomy)|orbit plane]]) 
+ | albedo = 0.12 
+ | magnitude = −2.5 to −12.9 < ref name= " maxval " > The ''maximum value'' is given based on scaling of the brightness from the value of -12.74 given for an equator to Moon-centre distance of 378 & nbsp;000 & nbsp;km in the NASA factsheet reference to the minimum Earth-Moon distance given there, after the latter is corrected for the Earth's equatorial radius of 6 & nbsp;378 & nbsp;km, giving 350 & nbsp;600 & nbsp;km. The ''minimum value'' (for a distant [[new moon]]) is based on a similar scaling using the maximum Earth-Moon distance of 407 & nbsp;000 & nbsp;km (given in the factsheet) and by calculating the brightness of the [[earthshine]] onto such a new moon. The brightness of the earthshine is {{nowrap|[ Earth [[albedo]] ×}} {{nowrap|([[Earth radius]] /}} Radius of [[Orbit of the Moon|Moon's orbit]])² & nbsp;] relative to the direct solar illumination that occurs for a full moon. ({{nowrap|Earth albedo = 0.367}}; {{nowrap|Earth radius = (polar}} radius & nbsp;× equatorial {{nowrap|radius) < sup > ½ < /sup >  = 6 & nbsp;367 & nbsp;km}}). < /ref > < br / > −12.74 (mean [[full moon]]) < ref name= " NSSDC " / > 
+ | angular_size = 29.3 to 34.1 [[Minute of arc|arcminutes]] < ref name= " NSSDC " / > < ref name= " angular_size " > 
+ The range of angular size values given are based on simple scaling of the following values given in the fact sheet reference: at an Earth-equator to Moon-centre distance of 378 & nbsp;000 & nbsp;km, the [[Angular diameter|angular size]] is 1896 [[arcsecond]]s. The same fact sheet gives extreme Earth-Moon distances of 407 & nbsp;000 & nbsp;km and 357 & nbsp;000 & nbsp;km. For the maximum angular size, the minimum distance has to be corrected for the Earth's equatorial radius of 6 & nbsp;378 & nbsp;km, giving 350 & nbsp;600 & nbsp;km. < /ref > 
+ | temp_name1 = equator 
+ | min_temp_1 = 100 [[kelvin|K]] 
+ | mean_temp_1 = 220 & nbsp;K 
+ | temp_name2 = 85°N{{lower|0.3em| < ref name= " Vasavada1999 " > {{cite journal |author=A.R. Vasavada|author2= D.A. Paige|author3=S.E. Wood |journal=Icarus |title= Near-Surface Temperatures on Mercury and the Moon and the Stability of Polar Ice Deposits |volume=141 |page=179 |url=http://adsabs.harvard.edu/abs/1999Icar..141..179V |doi= 10.1006/icar.1999.6175 |year= 1999|issue=2 |bibcode=1999Icar..141..179V }} < /ref > }} 
+ | min_temp_2 = 70 & nbsp;K 
+ | mean_temp_2 = 130 & nbsp;K 
+ | max_temp_2 = 230 & nbsp;K 
+ | atmosphere_ref =  < ref name= " L06 " > {{cite journal | last1 = Lucey| first1 = Paul| last2 = Korotev| first2 = Randy L.| last3 = Gillis| first3 = Jeffrey J.| last4 = Taylor| first4 = Larry A.| last5 = Lawrence| first5 = David| last6 = Campbell| first6 = Bruce A.| last7 = Elphic| first7 = Rick| last8 = Feldman| first8 = Bill| last9 = Hood| first9 = Lon L.| last10 = Hunten| first10 = Donald| last11 = Mendillo| first11 = Michael| last12 = Noble| first12 = Sarah| last13 = Papike| first13 = James J.| last14 = Reedy| first14 = Robert C.| last15 = Lawson| first15 = Stefanie| last16 = Prettyman| first16 = Tom| last17 = Gasnault| first17 = Olivier| last18 = Maurice| first18 = Sylvestre|title=Understanding the lunar surface and space-Moon interactions |journal=[[Reviews in Mineralogy and Geochemistry]] |volume=60 |issue=1 |pages=83–219 |date=2006 |doi=10.2138/rmg.2006.60.2 |display-authors=2|bibcode = 2006RvMG...60...83L }} < /ref > < ref name= " pressure explanation "  group= " nb " > Lucey et al. (2006) give 10 < sup > 7 < /sup >  particles [[Cubic centimetre|cm < sup > −3 < /sup > ]] by day and 10 < sup > 5 < /sup >  particles cm < sup > −3 < /sup >  by night. Along with equatorial surface temperatures of 390 & nbsp;[[Kelvin|K]] by day and 100 & nbsp;K by night, the [[ideal gas law]] yields the pressures given in the infobox (rounded to the nearest [[order of magnitude]]); 10 < sup > -7 < /sup > & nbsp;[[Pascal (unit)|Pa]] by day and 10 < sup > -10 < /sup > & nbsp;Pa by night. < /ref > 
+ | surface_pressure = 2.25 {{esp|-12}} [[torr]]  < ref name= " Brittanica " > {{cite encyclopedia| title=Encyclopædia Britannica| encyclopedia=Encyclopædia Britannica Online| date=September 10, 2008| url=http://www.britannica.com/EBchecked/topic/391266/Moon| accessdate=July 14, 2009}} < /ref > 
+ | adjectives = lunar, selenic 
+ }} 
+ 
+ The '''Moon''' is [[Earth]]'s only [[natural satellite]]. We usually see it in the night sky and also during the day. Some other planets also have moons or natural satellites. 
+ 
+ Our moon is about one-fourth of the width of the Earth. < ref > {{Cite web|last=Dyches|first=Preston|date=28 July 2021|title=Five Things to Know about the Moon - NASA Science|url=https://science.nasa.gov/earth/moon/five-things-to-know-about-the-moon/|access-date=21 November 2023|website=[[NASA]]|language=en}} < /ref >  Because it is far away it looks small, about half a [[Degree (angle)|degree]] wide. The [[gravity]] on the moon is one-sixth of the Earth's gravity. < ref > The acceleration due to gravity on the Moon is 1.62 & nbsp;m/s < sup > 2 < /sup > . This is approximately 1/6 of the acceleration due to gravity on Earth, which is 9.81 & nbsp;m/s < sup > 2 < /sup > . < /ref >  It means that something will be one-sixth as heavy on the Moon than on Earth. The Moon is a rocky and dusty place. It moves slowly away from the Earth at a rate of 3.8 cm per year, due to the effect of [[tidal dissipation]]. 
+ 
+ For the origin of the Moon, see the [[giant impact hypothesis]]. 
+ 
+ == Phases == 
+ {{main|Phases of the Moon}} 
+ Because the Moon is round, half of it is lit up by the Sun. As it goes around (or [[orbit]]s) the Earth, sometimes the side that people on Earth can see is all lit brightly. Other times only a small part of the side we see is lit. This is because the Moon does not send out its own light. People only see the parts that are being lit by [[sunlight]]. These different stages are called [[Phases of the Moon]]. 
+ 
+ It takes the Moon about 29.53 days (29 days, 12 & nbsp;hours, 44 & nbsp;minutes) to complete the [[cycle]], from big and bright to small and dim and back to big and bright. The phase when the Moon passes between the Earth and Sun is called the ''new Moon''. The next phase of the Moon is called the  " waxing crescent " , followed by the  " first quarter " ,  " waxing gibbous " , then a full Moon. A full Moon occurs when the Moon and Sun are on opposite sides of the Earth. As the Moon continues its orbit it becomes a  " waning gibbous " ,  " third quarter " ,  " waning crescent " , and finally back to a new Moon. People used the Moon to measure time. A [[month]] is approximately equal in time to a lunar cycle. 
+ 
+ [[File:Mond Phasen Combined.jpg|thumb|The [[Lunar phase|phases]] of the Moon]] 
+ 
+ The Moon always shows the same side to Earth. [[Astronomer]]s call this phenomenon [[tidal locking]]. This means that half of it can never be seen from Earth. The side facing away from Earth is called the far side or '''dark side of the Moon''' even though the Sun does shine on it—we just never see it lit. 
+ 
+ == History of exploring the Moon == 
+ [[File:Aldrin Apollo 11.jpg|thumb|right|Buzz Aldrin standing on the moon in 1969]] 
+ 
+ Before people stood on the Moon, the [[United States]] and the [[USSR]] sent [[robot]]s to the Moon. These robots would [[orbit]] the Moon or land on its surface. The robots were the first man-made objects to touch the Moon. 
+ 
+ Humans finally landed on the Moon on July 21, 1969. < ref > {{cite news | url = http://news.bbc.co.uk/onthisday/hi/dates/stories/july/21/newsid_2635000/2635845.stm | publisher = BBC | title = 1969: Man takes first steps on the Moon| accessdate = 2009-09-05}} < /ref >  [[Astronaut]]s [[Neil Armstrong]] and [[Buzz Aldrin]] landed their lunar ship (the ''Eagle'') on the surface of the Moon. Then, as half the world watched him on [[television]], Armstrong climbed down the ladder of the ''Eagle'' and was the first human to touch the Moon as he said,  " That's one small step for a man, one giant leap for mankind. " 
+ 
+ Even though their footprints were left on the moon a long time ago, it is likely that they are still there, as there is no wind or rain, making [[erosion]] extremely slow. The footprints do not get filled in or smoothed out. 
+ 
+ More people landed on the moon between 1969 and 1972, when the last spaceship, [[Apollo 17]] visited. [[Eugene Cernan]] of Apollo 17 was the last person to touch the moon. 
+ 
+ == Characteristics == 
+ Because it is smaller, the Moon has less [[gravity]] than Earth (only 1/6 of the amount on Earth). So if a person weighs 60 & nbsp;kilograms on Earth, the person would only weigh 10 & nbsp;kilograms on the Moon. < ref group= " nb " > [[Kilogram]]s are technically a unit of [[mass]], but they are often used as a unit of [[weight]]. If a person goes to the Moon, their mass will not change, but their weight will change. < /ref >  But even though the Moon's gravity is weaker than the Earth's gravity, it is still there. If a person dropped a [[ball]] while standing on the Moon, it would still fall down. However, it would fall ''much'' more slowly. A person who jumped as high as possible on the Moon would jump higher than on Earth, but still fall back to the ground. Because the Moon has no [[atmosphere]], there is no [[air resistance]], so a [[feather]] will fall as fast as a [[hammer]]. < ref > {{cite web|url=https://simple.wikipedia.org/wiki/Galileo_Galilei|title=Galileo Galilei}} < /ref > 
+ 
+ Without an atmosphere, the environment is not protected from heat or cold. [[Astronaut]]s wore [[spacesuit]]s, and carried [[oxygen]] to breathe. The [[glove]]s of the spacesuit, were never taken off on the Moon. The suit weighed about as much as the astronaut. The Moon's gravity is weak, so it was not as heavy as on [[Earth]]. 
+ 
+ On the Earth, the sky is [[blue]] because the blue [[ray]]s of the [[Sun]] bounce off the [[gas]]es in the [[atmosphere]], making it look like [[blue]] [[light]] is coming from the sky. But on the Moon, because there is no [[atmosphere]], the sky looks black, even in the [[day]]time. There is no [[atmosphere]] to protect the Moon from rocks that come from space, and these [[meteorite]]s crash right into the Moon and make wide, shallow holes called [[crater]]s. The Moon has thousands of them. Newer craters overlie older ones. On Earth, meteorites burn in the atmosphere, and most burn up completely. 
+ 
+ == Origin of the Moon == 
+ The '''[[giant impact hypothesis]]''' is that the Moon was created out of the debris from a collision between the young [[Earth]] and a [[Mars]]-sized proto[[planet]]. This is the favored scientific [[hypothesis]] for the formation of the Moon. < ref name= " belbruno-2005 " > {{cite journal | year=2005 | title=Where did the Moon come from? | journal=The Astronomical Journal | volume=129 | issue=3 | pages=1724–1745 | doi=10.1086/427539 | s2cid=12983980 | last1=Belbruno | first1=Edward | last2=Gott Iii | first2=J. Richard | arxiv=astro-ph/0405372 | bibcode=2005AJ....129.1724B }} < /ref > 
+ 
+ == Water on the Moon == 
+ In 2009 [[Chandrayaan-1]] found a lot of water on the Moon. The water is not liquid but is in the form of [[hydrate]]s and [[hydroxide]]s. Liquid water cannot exist on the Moon because [[photodissociation]] quickly breaks down the [[molecule]]s. However, from the data received from Chandrayaan-1, liquid surface water may have once existed on the Moon. 
+ 
+ == Legal status == 
+ During the [[Cold War]], the [[United States Army]] thought about making a military post on the Moon, able to attack targets on Earth. They also considered testing a [[nuclear weapon]] on the Moon. < ref > {{cite news|last1=Brumfield|first1=Ben|title=U.S. reveals secret plans for '60s moon base|url=http://www.cnn.com/2014/07/24/us/1960s-moon-military-base/|website=CNN|accessdate=26 July 2014|date=25 July 2014}} < /ref >  The [[United States Air Force]] had similar plans. < ref > {{cite web|url=http://www.popsci.com/blog-network/vintage-space/lunex-another-way-moon|last=Teitel|first=Amy|title=LUNEX: Another way to the Moon|publisher=Popular Science|date=11 November 2013}} < /ref > < ref name= " JFK " > {{cite book|last=Logsdon|first=John|title=John F. Kennedy and the Race to the Moon|url=https://archive.org/details/johnfkennedyrace0000logs|publisher=Palgrave Macmillan|date=2010|isbn=978-0-230-11010-6}} < /ref >  However, both plans were brushed-off as [[NASA]] moved from a military to a civilian-based agency. 
+ 
+ Even though the Soviet Union left remains on the Moon, and the United States left a few flags, no country has control over the Moon. < ref name= " unoosa_q6 " > 
+ {{cite web |url=http://www.unoosa.org/oosa/en/FAQ/splawfaq.html#Q6 |title=Can any State claim a part of outer space as its own? |publisher=United Nations Office for Outer Space Affairs |accessdate=28 March 2010}} < /ref >  The U.S. and Soviet Union both signed the [[Outer Space Treaty]], < ref name= " unoosa_q4 " > 
+ {{cite web |url=http://www.unoosa.org/oosa/en/FAQ/splawfaq.html#Q4 |title=How many States have signed and ratified the five international treaties governing outer space? |date=1 January 2006 |publisher=United Nations Office for Outer Space Affairs |accessdate=28 March 2010}} 
+ < /ref >  which calls the Moon and all of [[outer space]] the  " province of all mankind " . This treaty also banned all use of the military of the Moon, including nuclear weapons tests and military bases. 
+ 
+ == Related pages == 
+ * [[Late Heavy Bombardment]] 
+ 
+ == References == 
+ {{reflist}} 
+ {{Reflist|group=nb}} 
+ 
+ ==More reading== 
+ * {{cite book |last1=Iggulden |first1=Hal |last2=Iggulden |first2=Conn |title=The Dangerous Book for Boys |date=2007 |publisher=HarperCollins |location=New York |isbn=978-0061243585 |pages=167–170 |chapter=The Moon}} 
+ 
+ == Other websites == 
+ {{Commons category-inline|Moon}} 
+ 
+ * [http://stevechallis.net/The-Dark-Side-of-the-Moon.php The Dark Side of the Moon] {{Webarchive|url=https://web.archive.org/web/20110520063343/http://stevechallis.net/The-Dark-Side-of-the-Moon.php |date=2011-05-20 }} 
+ 
+ {{Solar System}} 
+ 
+ [[Category:Moon| ]] 
+ [[Category:Basic English 850 words]]

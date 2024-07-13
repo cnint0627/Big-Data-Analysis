@@ -1,0 +1,47 @@
+{{Taxobox 
+ | name = ''Dendrobates'' 
+ | status =  
+ | trend = stable 
+ | image = yellow-banded.poison.dart.frog.arp.jpg 
+ | image_caption = ''Dendrobates leucomelas'' 
+ | image_width = 200px 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Amphibia]] 
+ | ordo = [[Anura]] 
+ | subordo = [[Neobatrachia]] 
+ | familia = [[Dendrobatidae]] 
+ | genus = ''Dendrobates'' 
+ }} 
+ 
+ '''''Dendrobates''''' is a [[genus]] of [[poison dart frog]]s which are protected by [[warning colouration]]. They are highly [[poison]]ous. 
+ 
+ The yellow-banded poison dart frog, ''Dendrobates leucomelas'', is one of the most common [[species]],  found in the northern part of [[South America]] in [[Venezuela]], [[Guyana]] and [[Brazil]]. 
+ 
+ {|style= " text-align:left; border:1px solid #999; " 
+ |-style= " background:#CC9; text-align:center; " 
+ !Common name!!Binomial name and authority < ref name=frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Dendrobatidae/Dendrobatinae/Dendrobates |title=''Dendrobates'' Wagler, 1830 |author=Frost, Darrel R. |year=2014 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=13 September 2014}} < /ref > 
+ |- 
+ |-style= " background:#EEEEEE; " 
+ | Green and black poison dart frog ||''[[Dendrobates auratus]]'' {{small|(Girard, 1855)}} 
+ |-style= " background:#FFFDFF; " 
+ | Yellow-banded poison dart frog ||''[[Dendrobates leucomelas]]'' {{small|(Steindachner, 1864)}} 
+ |-style= " background:#EEEEEE; " 
+ | Rockstone poison dart frog ||''[[Dendrobates nubeculosus]]'' {{small|(Jungfer and Böhme, 2004)}} 
+ |-style= " background:#FFFDFF; " 
+ | Dyeing poison dart frog ||''[[Dendrobates tinctorius]]'' {{small|(Cuvier, 1797)}} 
+ |-style= " background:#FFFDFF; " 
+ | Yellow-striped poison dart frog ||''[[Dendrobates truncatus]]'' {{small|(Cope, 1861)}} 
+ |} 
+ 
+ [[File:2009-04-05Dendrobates auratus155.jpg|thumb|left|200px|''Dendrobates auratus'']] 
+ {{clear}} 
+ 
+ == References == 
+ {{commonscat|Dendrobates}} 
+ {{reflist}} 
+ 
+ {{-}} 
+ {{biology-stub}} 
+ 
+ [[Category:Poison dart frogs]]

@@ -1,0 +1,70 @@
+{{chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 443833173 
+ | Name = Endrin 
+ | ImageFile1 = Endrin.svg 
+ | ImageName1 =  
+ | ImageFile2 = Endrin-3D-balls.png 
+ | IUPACName = (1''R'',2''S'',3''R'',6''S'',7''R'',8''S'',9''S'',11''R'')-3,4,5,6,13,13-Hexachloro-10-oxapentacyclo[6.3.1.1{{sup|3,6}}.0{{sup|2,7}}.0{{sup|9,11}}]tridec-4-ene 
+ | OtherNames = Mendrin, Compound 269, (1a''R'',2''S'',2a''S'',3''S'',6''R'',6a''R'',7''R'',7a''S'' < nowiki > )-3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphtho[2,3- < /nowiki > ''b'' < nowiki > ]oxirene < /nowiki > , 1,2,3,4,10,10-Hexachloro-6,7-epoxy-1,4,4a,5,6,7,8,8a-octahydro-1,4-endo,endo-5,8-dimethanonaphthalene 
+ |Section1={{Chembox Identifiers 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 21782117 
+ | InChI = 1/C12H8Cl6O/c13-8-9(14)11(16)5-3-1-2(6-7(3)19-6)4(5)10(8,15)12(11,17)18/h2-7H,1H2/t2-,3+,4+,5-,6-,7+,10-,11+ 
+ | InChIKey = DFBKLUNHFCTMDC-RVVFZPGKBH 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C12H8Cl6O/c13-8-9(14)11(16)5-3-1-2(6-7(3)19-6)4(5)10(8,15)12(11,17)18/h2-7H,1H2/t2-,3+,4+,5-,6-,7+,10-,11+ 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = DFBKLUNHFCTMDC-RVVFZPGKSA-N 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo = 72-20-8 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = C18124 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = OB9NVE7YCL 
+ | PubChem = 3048 
+ | ChEBI = 81526 
+ | ChEMBL = 44072 
+ | EC_number = 200-775-7 
+ | RTECS = IO1575000 
+ | UNNumber = 2761 
+ | SMILES = C1C2C3C(C1C4C2O4)C5(C(=C(C3(C5(Cl)Cl)Cl)Cl)Cl)Cl 
+ }} 
+ |Section2={{Chembox Properties 
+ | C=12 | H=8 | Cl=6 | O=1 
+ | MolarMass = 380.907 g/mol 
+ | Appearance = Colorless to tan crystalline solid 
+ | Density = 1.77 g/cm{{sup|3}}  < ref name = CES/ > 
+ | Solubility = 0.23 mg/L < ref name = PDS > {{cite web|title = Endrin (PDS)|publisher = IPCS|url = http://www.inchem.org/documents/pds/pds/pest1_e.htm|accessdate = 13 March 2015|archive-date = 2 July 2014|archive-url = https://web.archive.org/web/20140702023553/http://inchem.org/documents/pds/pds/pest1_e.htm|url-status = dead}} < /ref > 
+ | MeltingPtC = 200 
+ | MeltingPt_notes = (decomposes) 
+ | VaporPressure = 2.6 x 10{{sup|-5}} Pa < ref name = CES > {{cite web|title = Endrin|publisher = Deutsche Gesellschaft für Technische Zusammenarbeit|url = http://ces.iisc.ernet.in/energy/HC270799/HDL/ENV/enven/vol338.htm|accessdate = 13 March 2015}} < /ref > 
+   }} 
+ |Section3={{Chembox Hazards 
+ | NFPA-H = 2 
+ | NFPA-F = 0 
+ | NFPA-R = 0 
+ | PEL = TWA 0.1 mg/m < sup > 3 < /sup >  [skin] < ref name=niosh > {{PGCH|0252}} < /ref > 
+ | IDLH = 2 mg/m < sup > 3 < /sup > < ref name=niosh/ > 
+ | REL = TWA 0.1 mg/m < sup > 3 < /sup >  [skin] < ref name=niosh/ > 
+ | LD50 = 3 mg/kg (oral, monkey) < br/ > 16 mg/kg (oral, guinea pig) < br/ > 10 mg/kg (oral, hamster) < br/ > 3 mg/kg (oral, rat) < br/ > 7 mg/kg (oral, rabbit) < br/ > 1.4 mg/kg (oral, mouse) < ref name=IDLH > {{cite web |url = https://www.cdc.gov/niosh/idlh/72208.html |title = Endrin |work = Immediately Dangerous to Life or Health Concentrations (IDLH) |publisher = National Institute for Occupational Safety and Health (NIOSH) |date = 4 December 2014 |accessdate = 19 March 2015}} < /ref > 
+ | LDLo = 5 mg/kg (cat, oral) < ref name=IDLH/ > 
+ | FlashPt = noncombustible 
+ | FlashPt_notes = < ref name=niosh/ > 
+ | GHSPictograms = {{GHS06}}{{GHS08}}{{GHS09}} 
+ | GHSSignalWord = Danger 
+ | HPhrases = {{H-phrases|301|310|351|372|400|410}} 
+ | PPhrases = {{P-phrases|201|202|260|262|264|270|273|280|281|301+310|302+350|308+313|310|314|321|322|330|361|363|391|405|501}} 
+ }} 
+ }} 
+ '''Endrin''' is an [[insecticide]] that was commonplace among [[cotton]] growers and for the treament of [[cereal]]s. It was also used to kill [[rodent]]s. It is a [[neurotoxin]]. It is a [[stereoisomer]] of [[Dieldrin]]. In the soil, it can take up to twelve years to decay. It is one of the twelve substances listed in the [[Stockholm Convention on Persistent Organic Pollutants]], and its production, trade and use is banned since 2004. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Insecticides]] 
+ [[Category:Organochlorides]] 
+ [[Category:Pollution]] 
+ 
+ 
+ {{chem-stub}}

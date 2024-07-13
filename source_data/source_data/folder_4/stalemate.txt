@@ -1,0 +1,28 @@
+'''Stalemate''' is a situation in [[chess]] where the player whose turn it is to move is not in [[check and checkmate|check]] but has no legal move.  
+ 
+ {{Chess diagram small 
+ |tright 
+ |Example of stalemate 
+ |__|__|__|__|__|kd|__|__ 
+ |__|__|__|__|__|pl|__|__ 
+ |__|__|__|__|__|kl|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ | 
+ Black to move is in stalemate. Black has no legal move since every square to which his [[king (chess)|king]] might move is under attack by White. }} 
+ 
+ When stalemate occurs, the game is a draw. Actual stalemate is rare, but the threat of stalemate has a big effect on endgame play. Many K+R+P vs K+R endings are drawn when stalemate cannot be avoided. The existence of stalemate is a main reason why draws are common in chess, but rare in the chess derivative [[shogi]]. 
+ 
+ In the old Persian form of chess, [[shatranj]], stalemate was a win for the side with the most pieces. The idea of stalemate as a draw in modern chess took a long time to be agreed. It was finally decided by the early 19th century British master [[J.H. Sarratt]] in the London Chess Club rules of 1807. < ref > Hooper D.  &  Whyld K. 1992. ''The Oxford Companion to chess''. Oxford University Press, p387/8. < /ref > 
+ 
+ == Figurative uses in general == 
+ All uses of the term  " stalemate "  in other contexts come from its use in chess. Stalemates in bargaining, [[politics]] and general life are examples of [[figurative language]]. The term is used as a [[metaphor]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Chess]] 
+ [[Category:Metaphors]]

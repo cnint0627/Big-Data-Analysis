@@ -1,0 +1,65 @@
+{{Infobox settlement 
+ | name                   = Wevelgem 
+ | native_name            =  
+ | settlement_type        = [[Municipalities of Belgium|Municipality]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline          = Wevelgem gemeentehuis -1.JPG 
+ | imagesize              = 265px 
+ | image_caption          = Municipal Hall 
+ | image_flag             = Flag of Wevelgem.svg 
+ | image_seal             = Wevelgem wapen.svg 
+ < !-- maps and coordinates -- > 
+ | pushpin_map            = Belgium 
+ | pushpin_mapsize        = 265px 
+ | pushpin_label_position =  
+ | pushpin_relief         = yes 
+ | coordinates            = {{coord|50|49|47.4|N|3|09|45.5|E}} 
+ < !-- location -- > 
+ | subdivision_type       = [[List of sovereign states|Country]] 
+ | subdivision_name       = {{BEL}} 
+ | subdivision_type1      = Region 
+ | subdivision_name1      = {{flag|Flanders}} 
+ | subdivision_type2      = [[Provinces of Belgium|Province]] 
+ | subdivision_name2      = {{flag|West Flanders}} 
+ | subdivision_type3      = Arrondissement 
+ | subdivision_name3      = Kortrijk 
+ < !-- government type, leaders -- > 
+ | leader_title           = Mayor 
+ | leader_name            = Jan Seynhaeve 
+ < !-- area -- > 
+ | area_total_km2         = 402.9 
+ < !-- population -- > 
+ | population_total       = 295,981 
+ | population_as_of       = January 1, 2022 
+ | population_density_km2 = 734.6 
+ < !-- time zone(s) -- > 
+ | timezone               = [[Central European Time|CET]] 
+ | utc_offset             = +01:00 
+ < !-- postal codes, area code -- > 
+ | postal_code_type       = Postal code 
+ | postal_code            = 8560 
+ | area_code_type         = Area code 
+ | area_code              = 34041 
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec2        = [[ISO 3166-2:BE|ISO 3166 code]] 
+ | blank_info_sec2        =  
+ | blank1_name_sec2       = Address 
+ | blank1_info_sec2       =  
+ < !-- website, footnotes -- > 
+ | website                = {{Official|1=https://www.wevelgem.be/}} 
+ }} 
+ 
+ '''Wevelgem''' is a [[Municipalities of Belgium|municipality]] in the [[Belgium|Belgian]] province of [[West Flanders]]. 
+ 
+ In 2007, 30926 people lived there. < ref > {{Cite web |url=http://statbel.fgov.be/downloads/pop200701com.xls |title=Werkelijke bevolking per gemeente op 1 januari 2007 / Population de droit par commune au 1 janvier 2007 (.xls) |access-date=2008-07-15 |archive-date=2008-11-23 |archive-url=https://web.archive.org/web/20081123144002/http://www.statbel.fgov.be/downloads/pop200701com.xls |url-status=dead }} < /ref > 
+ 
+ It is at 50° 48 North, 03° 11 East. < ref > {{Cite web |url=http://statbel.fgov.be/pub/d1/p120_nl.xls |title=Geografische coördinaten van de gemeenten (.xls) |access-date=2008-07-15 |archive-date=2004-07-23 |archive-url=https://web.archive.org/web/20040723190930/http://statbel.fgov.be/pub/d1/p120_nl.xls |url-status=dead }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ {{commonscat}} 
+ {{West_Flanders}} 
+ 
+ {{Belgium-stub}} 
+ {{authority control}} 
+ [[Category:Municipalities of West Flanders]]

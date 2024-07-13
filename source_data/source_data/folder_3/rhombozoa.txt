@@ -1,0 +1,36 @@
+{{taxobox 
+ | name = Rhombozoa/Dicyemida 
+ | image = Dicyema macrocephalum.png 
+ | image_width = 200px 
+ | regnum = [[Animal]]ia 
+ | superphylum = [[Lophotrochozoa]] 
+ | phylum = '''Rhombozoa''' 
+ | phylum_authority = van Beneden, 1876 
+ | subdivision_ranks = Families 
+ | subdivision =  
+ * [[Conocyemidae]] 
+ * [[Dicyemidae]] 
+ * [[Kantharellidae]] 
+ }} 
+ 
+ The '''Rhombozoa''', or '''Dicyemida''', are a group of tiny [[parasite]]s that live in the [[renal]] appendages of [[cephalopod]]s. 
+ 
+ Classification is controversial. < ref name= " pmid17961212 " > {{cite journal |author=Aruga J, Odaka YS, Kamiya A, Furuya H |title=Dicyema Pax6 and Zic: tool-kit genes in a highly simplified bilaterian |journal=BMC Evol. Biol. |volume=7 |issue= |pages=201 |year=2007 |pmid=17961212 |pmc=2222250 |doi=10.1186/1471-2148-7-201 }} < /ref >  They are probably a new [[phylum]]. Traditionally, dicyemids have been grouped with the [[Orthonectida]] in the [[Mesozoa]]. However, [[Sequence analysis|molecular phylogeny]] indicates that dicyemids may be more closely related to the [[Nematoda|roundworms]]. < ref > {{cite journal |author=Pawlowski J, Montoya-Burgos JI, Fahrni JF, Wüest J, Zaninetti L |title=Origin of the Mesozoa inferred from 18S rRNA gene sequences |journal=Mol. Biol. Evol. |volume=13 |issue=8 |pages=1128–32 |date=October 1996  |pmid=8865666 |doi= 10.1093/oxfordjournals.molbev.a025675|url=http://mbe.oxfordjournals.org/cgi/pmidlookup?view=long & pmid=8865666}} < /ref >   
+ 
+ == Anatomy == 
+ Adult dicyemids range in length from {{convert|0.5|to|7|mm|in}}, and they can be seen through a light microscope. < ref name=IZ/ >  They have [[eutely]]: each adult individual of a given [[species]] has the same number of cells. Cell number is a useful identifying character.  
+ 
+ The organism's structure is simple: a single axial cell is surrounded by a jacket of twenty to thirty [[cilia]]ted cells. < ref name=IZ > {{cite book |author= Barnes, Robert D. |year=1982 |title= Invertebrate Zoology |publisher= Holt-Saunders International |location= Philadelphia, PA|pages= 248–249|isbn= 0-03-056747-5}} < /ref > 
+ 
+ ==Life cycle== 
+ Dicyemids exist in both [[asexual reproduction|asexual]] and [[sexual reproduction|sexual]] forms. The asexual forms are found in juvenile and immature hosts; and the sexual forms in mature hosts.  
+ 
+ The asexual stage is termed a ''nematogen''; it produces ''vermiform'' (worm-like) [[larva]]e in the axial cell. These mature through direct development to form more nematogens. < ref name=IZ/ >  Nematogens proliferate in young cephalopods, filling the [[kidney]]s. Later, as the hosts mature, sexual forms called ''rhombogens'' are formed. They are [[hermaphrodite]]s, with [[gonad]]s of both sexes. The rhombogens self-fertilise, and later release [[larva]]e. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ [[Category:Invertebrates]] 
+ [[Category:Parasites]] 
+ [[Category:Minor phyla]]

@@ -1,0 +1,18 @@
+The '''Sobig worm''' (also known as '''Sobig.F worm''' or '''W32.Sobig.F@mm''') is a [[computer worm]]. It was first found on August 18, 2003. At the worst part of the [[Computer virus|infection]], the Sobig worm made up one in every seventeen [[email]]s sent. < ref name =  " TWS " > {{cite book| last = Erbschloe| first = Michael| title = Trojans, Worms, and Spyware: A Computer Security Professional's Guide to Malicious Code| url = https://books.google.com/books?id=-BsTixXQp08C & pg=PA47| year = 2004| publisher = Elsevier| isbn = 978-0-08-051968-5| page = 47 }} < /ref > < ref name= " Symantec " > {{cite web | url=http://www.symantec.com/security_response/writeup.jsp?docid=2003-081909-2118-99 | title=Risk Detected }} < /ref > 
+ 
+ ==How it worked== 
+ The Sobig worm is a large emailing worm that sent itself to any [[email address]]es with [[file extension]]s like .dbx, .eml, .hlp, .htm, .html, .mht, .wab, and .txt. The worm often used an email that includes  " Re: "  to seem as if people were being replied to from someone. The user would then open the email and click on the [[attachment]], running the worm and [[download]]ing it on to their [[computer]]. < ref name= " Symantec " / > 
+ 
+ ==History== 
+ The worm was first found on August 18, 2003. After the infection had started, the worm tried to connect to the [[Internet]] to get to updates from 20 different [[internet server]]s on August 20. However, security officials were able to cut off and shut down the servers. The worm had a shut off date set for September 10, 2003. < ref name= " Symantec " / > 
+ 
+ ==Damage== 
+ At the height of the infection, the Sobig worm made up one in seventeen emails sent over the internet. The Sobig worm created over 1 million copies of itself for the rest of 2003. < ref name= " TWS " / > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Computer networking]] 
+ [[Category:Computer security]] 
+ [[Category:Computer science]] 
+ [[Category:Malware]]

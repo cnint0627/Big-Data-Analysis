@@ -1,0 +1,6 @@
+'''Framework''' is a [[term]] describing [[established]] [[practice]]s in a [[society]], [[science]], [[software development]], or [[Computer hardware|hardware]] [[design]] that can be repeatedly applied to [[solving]] [[problem]]s. The problems are solved [[uniformly]] (in the same or very similar way) in a framework. 
+ 
+ In [[computer]] technology, a '''framework''' is an [[API]] that defines what kind of [[computer program|program]]s can be built with it. For example, the [[.NET Framework]] allows writing programs in [[C Sharp programming language|C#]] but not in [[C programming language|C]]. 
+ {{stub}} 
+ 
+ [[Category:Logic]]

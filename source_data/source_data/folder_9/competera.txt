@@ -1,0 +1,54 @@
+{{Orphan|date=December 2023}} 
+ 
+ {{Infobox company 
+ | name = Competera 
+ | type = [[artificial intelligence]] platform 
+ | industry = [[pricing]], [[retail]] 
+ | founded = April 23, 2014 
+ | founder = Alexander Galkin, Andrey Mikhailov, and Alexander Sazonov 
+ | hq_location = [[Kyiv]], [[Ukraine]] 
+ | website = https://competera.net/ 
+ }} 
+ '''Competera''' is an [[artificial intelligence]] platform that helps [[online and offline]] [[retail]]ers with portfolio [[pricing]] using price recommendations on an SKU and full category level. < ref > {{Cite web|last=Galkin|first=Aleksandr|title=Council Post: From Strategy To Tactics: Why You Need Technology For Better Pricing Execution|url=https://www.forbes.com/sites/forbestechcouncil/2020/07/21/from-strategy-to-tactics-why-you-need-technology-for-better-pricing-execution/|access-date=2021-05-25|website=Forbes|language=en}} < /ref > < ref > {{Cite web|date=2018-09-11|title=How the Ukrainian company Competera grew into a million-dollar business without any outside investments|url=https://ain.ua/en/2018/09/11/how-the-ukrainian-company-competera-grew-into-a-million-dollar-business-without-any-outside-investments/|access-date=2021-05-25|website=AIN.UA|language=en-US}} < /ref > 
+ 
+ == Overview == 
+ Competera was launched on April 23, 2014. The founders are Alexander Galkin, Andrey Mikhailov, and Alexander Sazonov. < ref > {{Cite web|last=Team|first=Startup Info|title=Reinventing Retail Pricing for Global Brands in Times of Uncertainty|url=https://startup.info/aleksandr-galkin-competera/|access-date=2021-05-25|language=en-US}} < /ref > < ref > {{Cite web|last=Jane|title=Stanford Guest Lecturer in Pricing, Ph.D., and Venture Investor Maciej Kraus Joins Competera as Advisor|url=https://competera.net/resources/articles/press-release-maciej-kraus-joins-competera-as-advisor|url-status=live|access-date=July 6, 2020|language=en-US}}{{Dead link|date=August 2021|bot=InternetArchiveBot|fix-attempted=yes}} < /ref > 
+ 
+ The head office is in [[Kyiv]], [[Ukraine]] with more offices in [[California]], [[Singapore]], and [[London]]. < ref > {{Cite web|date=2020-07-17|title=Venture Investor and Stanford Lecturer, Ph.D. Maciej Kraus Joins Award-Winning AI Startup Competera as Advisor|url=https://aithority.com/hot-startups/venture-investor-and-stanford-lecturer-ph-d-maciej-kraus-joins-award-winning-ai-startup-competera-as-advisor/|access-date=2021-05-25|website=AiThority|language=en-US}} < /ref > 
+ 
+ == Funding == 
+ Competera received a first [[Venture capital|venture]] [[investment]] from the SMRK venture fund. < ref > {{Cite web|title=SMRK VC Fund - Crunchbase Investor Profile  &  Investments|url=https://www.crunchbase.com/organization/smrk-vc-fund|access-date=2021-05-25|website=Crunchbase|language=en}} < /ref > 
+ 
+ Later, the company raised a total of $3M in funding over 2 rounds. < ref > {{Cite web|title=Competera - Funding, Financials, Valuation  &  Investors|url=https://www.crunchbase.com/organization/competera/company_financials|access-date=2021-05-25|website=Crunchbase|language=en|archive-date=2021-05-18|archive-url=https://web.archive.org/web/20210518132840/https://www.crunchbase.com/organization/competera/company_financials|url-status=dead}} < /ref > 
+ 
+ The latest funding was raised on Feb 5, 2019, from a Seed round. < ref > {{Cite web|title=SMRK VC investor portfolio, rounds  &  team|url=https://startups.eithealth.eu/investors/smrk_vc|access-date=2021-05-25|website=startups.eithealth.eu|language=en}} < /ref > 
+ 
+ == Technology == 
+ Competera provides regular repricing, promo and markdown recommendations for omnichannel retailers. < ref > {{Cite web|title=The Future Of Retail Is Here: 5 Top-Notch Technologies For Retailers To Profit From|url=https://www.retailitinsights.com/doc/the-future-of-retail-is-here-top-notch-technologies-for-retailers-to-profit-from-0001|access-date=2021-05-25|website=www.retailitinsights.com}} < /ref > < ref > {{Cite web|title=Backcasting: Building an Accurate Forecasting Model for Your Business|url=https://www.kdnuggets.com/backcasting-building-an-accurate-forecasting-model-for-your-business.html/|access-date=2021-05-25|website=KDnuggets|language=en-US}}{{Dead link|date=November 2023 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > < ref > {{Cite web|last=Olufisayo|date=2020-12-08|title=Business Efficiency at Lower Costs: 5 Best-Working Steps for Digital Retailers|url=https://www.entrepreneurshipsecret.com/working-steps-for-digital-retailers/|access-date=2021-05-25|website=The Secrets of Entrepreneurship|language=en-US}} < /ref > < ref > {{Cite web|title=How to Stay Competitive During the Covid-19 Crisis – IoEBusiness.com|url=https://ioebusiness.com/business/how-to-stay-competitive-during-the-covid-19-crisis/|access-date=2021-05-25|language=en-US|archive-date=2021-05-21|archive-url=https://web.archive.org/web/20210521115024/https://ioebusiness.com/business/how-to-stay-competitive-during-the-covid-19-crisis/|url-status=dead}} < /ref > < ref > {{Cite web|last=Mulvenna|first=Andrew|title=How AI Can Improve Price Optimization Efforts|url=https://www.mytotalretail.com/article/how-ai-can-improve-the-shopping-experience-through-price-optimization/|access-date=2021-05-25|website=Total Retail|language=en}} < /ref > < ref > {{Cite web|date=2020-08-21|title=Market-Based Pricing Helps E-Tailers Reprice 50% Faster And Get Better Market Coverage|url=https://retailtouchpoints.com/topics/customer-experience/market-based-pricing-helps-e-tailers-reprice-50-faster-and-get-better-market-coverage|access-date=2021-05-25|website=Retail TouchPoints|language=en-US}} < /ref > 
+ 
+ They are based on 60 pricing and non-pricing factors, customer demand, and individual customer business rules. < ref > {{Cite web|last=Galkin|first=Aleksandr|title=Council Post: An Experience To Remember: Making Shoppers An Offer They Can’t Refuse|url=https://www.forbes.com/sites/forbestechcouncil/2020/08/13/an-experience-to-remember-making-shoppers-an-offer-they-cant-refuse/|access-date=2021-05-25|website=Forbes|language=en}} < /ref > < ref > {{Cite web|title=20+ Business Management Software  &  Tools Every Organization Should Use To Streamline Processes  &  Increase Efficiency|url=https://www.designrush.com/trends/business-management-software|access-date=2021-05-25|website=www.designrush.com|language=en}} < /ref > 
+ 
+ It uses [[machine learning]] technology and [[Econometrics|econometric]] practices to allow users to set the correct price for a product in any category or industry. < ref > {{Cite web|date=2019-04-24|title=How To Benefit From AI To Win The Market|url=https://retailtouchpoints.com/features/executive-viewpoints/how-to-benefit-from-ai-to-win-the-market|access-date=2021-05-25|website=Retail TouchPoints|language=en-US}} < /ref > < ref > {{Cite web|last=Mulvenna|first=Andrew|title=How to Improve E-Commerce Operational Efficiency|url=https://www.mytotalretail.com/article/how-to-improve-operational-efficiency-and-competitive-intelligence-in-e-commerce/|access-date=2021-05-25|website=Total Retail|language=en}} < /ref > < ref > {{Cite web|title=3 Ways To Harmonize the Customer Experience|url=https://risnews.com/3-ways-harmonize-customer-experience|access-date=2021-05-25|website=RIS News|language=en}} < /ref > 
+ 
+ == Awards == 
+ In January 2021 Competera was included in Gartner Market Guide. < ref > {{Cite web|title=Competera listed as a Representative Vendor in Gartner Market Guide|url=https://competera.net/resources/articles/competera-gartner-market-guide|access-date=2021-05-25|website=competera.net|language=en}} < /ref > < ref > {{Cite web|date=2021-01-27|title=Украинскую Competera включили в авторитетный справочник Gartner Market Guide|url=https://vctr.media/competera-vklyuchili-v-gartner-market-guide-58312/|access-date=2021-05-25|website=Vector|language=ru-RU}} < /ref > 
+ 
+ In winter 2020, Competera was featured in the Now Tech Retail Planning report from Forrester Research. < ref > {{Cite web|title=Now Tech: Retail Planning, Q4 2019|url=https://www.forrester.com/report/Now+Tech+Retail+Planning+Q4+2019/-/E-RES157325|access-date=2021-05-25|website=www.forrester.com}} < /ref > 
+ 
+ It was recognised as №1 Retail Software 2020 by Crozdesk webservice. 
+ 
+ In October 2020 the platform was a winner of Artificial Intelligence Project of the Year. < ref > {{Cite web|title=Retail Systems Awards|url=http://www.retail-systems.com/awards/|access-date=2021-05-25|website=www.retail-systems.com}} < /ref > 
+ 
+ Also in 2019, the company was listed among the 3 best [[Startup company|startups]] at the Startup Elevate (London). < ref > {{Cite web|title=Pitch and Win {{!}} Startup Elevate {{!}} Global Startup Events Series|url=https://tmt.knect365.com/startup-elevate/pitch-and-win/|access-date=2021-05-25|website=tmt.knect365.com|language=en}} < /ref > < ref > {{Cite web|date=2019-07-29|title=Dentons advises Competera, a pricing platform for retailers, on the establishment of its US headquarters|url=https://eba.com.ua/dentons-advises-competera-a-pricing-platform-for-retailers-on-the-establishment-of-its-us-headquarters/|access-date=2021-05-25|website=European Business Association|language=uk}} < /ref > 
+ 
+ The company received IDCEE award as the Best B2B Startup in 2014. < ref > {{Cite web|title=IDCEE 2014. Results|url=https://ddi-dev.com/blog/company-news/idcee-2014-results/|access-date=2021-05-25|website=DDI Development|language=en}} < /ref > < ref > {{Cite web|last=Ukraine|first=|date=2016-01-20|title=Ukraine’s top-10 startups of 2015|url=http://euromaidanpress.com/2016/01/20/the-top-10-ukrainian-startups-that-proved-themselves-in-2015/|access-date=2021-05-25|website=Euromaidan Press|language=en-US}} < /ref > 
+ 
+ == Other websites == 
+ *[https://competera.net/ Official website]  
+ *[https://www.linkedin.com/company/competera/?originalSubdomain=tw Competera]{{Dead link|date=September 2021 |bot=InternetArchiveBot |fix-attempted=yes }} on [[LinkedIn]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Artificial intelligence]] 
+ [[Category:2014 establishments in Europe]]

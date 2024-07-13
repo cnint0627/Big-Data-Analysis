@@ -1,0 +1,138 @@
+{{redlinks|date=April 2020}} 
+ {{Infobox TV channel 
+ | name           = StarPlus 
+ | logofile       = 
+ | logosize       = 
+ | launch_date       = {{Launch date|df=y|1992|2|21}} 
+ | closed_date = {{end date|df=y|2019|01|05}} (USA) 
+ | owner        = [[Star India]] < br / > < small >  ([[Fox Networks Group]], distributor outside of India) < /small > 
+ | picture_format = [[1080i]] [[HDTV]] < br / > {{small|(downscaled to [[letterbox]]ed [[480i]]/[[576i]] for the [[SDTV]] feed)}} 
+ | slogan         = ''Rishta wahi, baat nayi'' 
+ | country        = [[India]] 
+ | language       = [[Hindi]] 
+ | area = India 
+ | headquarters   = [[Mumbai]], [[Maharashtra]] 
+ | replaced = Star TV 
+ | sister_channels =[[Star Bharat]] < br/ > [[Star Utsav]] < br/ > [[Star Utsav Movies]] < br/ > [[Star Gold]] < br/ > [[Star Gold| Star Gold Select]] < br/ > [[Movies OK]] < br/ > [[Star Movies]] < br/ > [[Star Movies Select HD|Star Movies Select]] < br/ > [[Star World India| Star World]] < br/ > [[Star World Premiere]] < br/ > [[Star Jalsha]] < br/ > [[Jalsha Movies|Star Jalsha Movies]] < br/ > [[Star Pravah]] < br/ > [[Star Maa]] < br/ > [[Star maa Movies|Star Maa Movies]] < br/ > [[Star Maa|Star Maa Gold]] < br/ > [[Star Maa Music]] < br/ > [[Star Suvarna]] < br/ > [[Suvarna Plus| Star Suvarna Plus]] < br/ > [[Star Vijay]] < br/ > [[Vijay Super|Star Vijay Super]] < br/ > [[Asianet (TV channel)|Asianet]] < br/ > [[Asianet Plus]] < br/ > [[Asianet Movies]] < br/ > [[National Geographic India| Nat Geo]] < br/ > [[Nat Geo Wild]] < br/ > [[Nat Geo People]] < br/ > [[Nat Geo Music]] < br/ > [[Fox Life India| Fox Life]] < br/ > [[Baby TV]] < br/ > [[Star Sports]]  
+ | web            = [http://www.hotstar.com/channels/starplus StarPlus] on [[Hotstar]] 
+ | terr_serv_1    = [[Digital terrestrial television]] 
+ | terr_chan_1    = Add channels according to each state in India 
+ | sat_serv_1     = [[Videocon D2H]] 
+ | sat_chan_1     = Channel 101 (SD) < br / > Channel 902 (HD) 
+ | sat_serv_2     = [[DSTV]]  < small > (Africa) < /small > 
+ | sat_chan_2     = channel 453  
+ | sat_serv_3     = [[Dish TV]] 
+ | sat_chan_3     = Channel 113 (SD)  < br / >  Channel 112 (HD) 
+ | sat_serv_4     = [[Dish Home]]  < small > (Nepal) < /small > 
+ | sat_chan_4     = Channel 201 (SD) < br / >  Channel 903 (HD) 
+ | sat_serv_5     = [[StarSat TV]]  < small > (South Africa) < /small > 
+ | sat_chan_5     = Channel 552  
+ | sat_serv_6     = [[Bell TV|Bell Satellite TV]]  < small > (Canada) < /small > 
+ | sat_chan_6     = Channel 702 
+ | sat_serv_7     = [[Dialog TV]]  < small > ([[Sri Lanka]]) < /small > 
+ | sat_chan_7     = Channel 105 
+ | sat_serv_8     = [[DirecTV]]  < small > (USA) < /small > 
+ | sat_chan_8     = Channel 2001 
+ | sat_serv_9     = [[Dish Network]]  < small > (USA) < /small > 
+ | sat_chan_9     = Channel 696 (SD/HD)  
+ | sat_serv_10    = CanalSat Maurice  < small > ([[Mauritius]]) < /small > 
+ | sat_chan_10    = Channel 148 
+ | sat_serv_14    = [[OSN]]  < small > ([[Middle East]] and [[North Africa]]) < /small > 
+ | sat_chan_14    = Channel 275 
+ | sat_serv_15    = [[SKY TV (New Zealand)|SKY TV]]  < small > ([[New Zealand]]) < /small > 
+ | sat_chan_15    = Channel 150 
+ | sat_serv_16    = Vision Asia  < small > (Australia and [[New Zealand]]) < /small > 
+ | sat_chan_16    = Channel 5 
+ | sat_serv_17 = [[Astro (television)|Astro]] < br / > (Malaysia) 
+ | sat_chan_17 = Channel 108 (Selection Programs Only) 
+ | sat_serv_19 = [[BiG TV (Indonesia)|BiG TV]] < br / > (Indonesia) 
+ | sat_chan_19 = Channel 845 
+ | sat_serv_20 = [[Cable TV Hong Kong]] 
+ | sat_chan_20 = Channel 857 
+ | sat_serv_18 = [[Tata Sky]]  
+ | sat_chan_18 = Channel 117 (SD) < br / > Channel 115 (HD) < br / > Channel 116 (HD +1) 
+ | sat_serv_21 = [[Airtel Digital TV]]  
+ | sat_chan_21 = Channel 105 (SD) < br / > Channel 106 (HD) 
+ | sat_serv_22 = [[Reliance Digital TV]] 
+ | sat_chan_22 = Channel 206 (SD) < br / > Channel 230 (HD) 
+ | sat_serv_23 = [[Sun Direct]]  
+ | sat_chan_23 = Channel 306 (SD) < br / > Channel 872 (HD) 
+ | cable_serv_1   = CableAmerica  < small > (USA) < /small > 
+ | cable_chan_1   = Channel 471 
+ | cable_serv_2   = [[Cincinnati Bell]]  < small > (USA) < /small > 
+ | cable_chan_2   = Channel 722 
+ | cable_serv_3   = [[Cogeco|Cogeco Cable]]  < small > (Canada) < /small > 
+ | cable_chan_3   = Channel 531 (via [[ATN Channel|ATN]]) 
+ | cable_serv_4   = [[Cox Communications|Cox Cable]]  < small > (USA) < /small > 
+ | cable_chan_4   = Channel 275 
+ | cable_serv_5   = EnTouch  < small > (USA) < /small > 
+ | cable_chan_5   = Channel 520 
+ | cable_serv_6   = GVTC Cable  < small > (USA) < /small > 
+ | cable_chan_6   = Channel 799 
+ | cable_serv_7   = [[DEN Networks]] 
+ | cable_chan_7   = Channel 101 
+ | cable_serv_8   = [[Hathway]] 
+ | cable_chan_8   = Channel 1 
+ | cable_serv_9   =[[Asianet Digital TV]] 
+ | cable_chan_9   =Channel 501 (SD) < br / > Channel 848 (HD) 
+ | cable_serv_10  = OpenBand  < small > (USA) < /small > 
+ | cable_chan_10  = Channel 783 
+ | cable_serv_11  = [[RCN Corporation|RCN]]  < small > (USA) < /small > 
+ | cable_chan_11  = Channel 481 
+ | cable_serv_12  = [[Rogers Cable]]  < small > (Canada) < /small > 
+ | cable_chan_12  = Channel 831 
+ | cable_serv_13  = San Bruno Cable  < small > (USA) < /small > 
+ | cable_chan_13  = Channel 233 
+ | cable_serv_14  = [[Shaw Communications|Shaw Cable]]  < small > (Canada) < /small > 
+ | cable_chan_14  = Channel 530  
+ | cable_serv_15  = [[SkyCable]]/[[Destiny Cable]] < small > ([[Philippines]]) < /small > 
+ | cable_chan_15  = Channel 128 (Digital) 
+ | cable_serv_16  = [[StarHub TV]]  < small > ([[Singapore]]) < /small > 
+ | cable_chan_16  = Channel 126 
+ | cable_serv_17  = [[Spectrum (cable service)|Spectrum]]  < small > (USA) < /small > 
+ | cable_chan_17  = Channel 1553 
+ | cable_serv_18  = [[First Media]]  < small > (Indonesia) < /small > 
+ | cable_chan_18  = Channel 171 
+ | cable_serv_19  = [[Cablelink]]  < small > (Philippines) < /small > 
+ | cable_chan_19  = Channel 246 (Digital) 
+ | cable_serv_20  = [[Ziggo]]  < small > (Netherlands) < /small > 
+ | cable_chan_20  = Channel 760 
+ | cable_serv_21  = [[Cablevision|Optimum]]  < small > (USA) < /small > 
+ | cable_chan_21  = Channel 1174 
+ | cable_serv_22  = [[Sreedevi digital]] 
+ | cable_chan_22  = Channel 201 
+ | iptv_serv_1    = [[AT & T U-verse]]  < small > (USA) < /small > 
+ | iptv_chan_1    = Channel 3706 
+ | iptv_serv_2    = [[Bell Fibe TV]]  < small > (Canada) < /small > 
+ | iptv_chan_2    = Channel 811  
+ | iptv_serv_3    = [[Telus TV|Optik TV]]  < small > (Canada) < /small > 
+ | iptv_chan_3    = Channel 520  
+ | iptv_serv_4    = [[Verizon FiOS]]  < small > (USA) < /small > 
+ | iptv_chan_4    = Channel 1751 
+ | iptv_serv_5    = [[Singtel TV]]  ([[Singapore]]) 
+ | iptv_chan_5    = Channel 656 
+ | iptv_serv_6    = [[My.T]] ([[Mauritius]]) 
+ | iptv_chan_6    = Channel 34 
+ | iptv_serv_7    = [[PEO TV]]  < small > ([[Sri Lanka]]) < /small > 
+ | iptv_chan_7    = Channel 88 
+ | iptv_serv_8    = [[Now TV (Hong Kong TV channel)|Now TV]]  < small > ([[Hong Kong]]) < /small > 
+ | iptv_chan_8    = Channel 794 
+ | iptv_serv_9    = [[:zh:澳門有線電視|Macau Cable TV]] ([[Macau]]) 
+ | iptv_chan_9    = Channel 524 
+ }} 
+ 
+ '''StarPlus''' is an [[India|Indian]] [[pay television]] channel owned by [[Star India]]. The network's programming includes [[Soap opera|family dramas]], comedies, youth-oriented reality shows, shows on crime and [[television film]]s. It is also distributed internationally by [[Fox Networks Group]], subsidiary of [[21st Century Fox]]. 
+ 
+ ==History== 
+ It was first launched on 21 February 1992. It was an English-language television channel showing international [[Television program|TV shows]] from the U.S., the UK and Australia, with [[Zee TV]] being the Hindi-language counterpart. < ref name= " WSJ 2001 " > {{cite news|last=Flegg|first=Michael|title=India's Star TV Leaps to Top Spot Due to Game Shows, Soap Operas|url=https://www.wsj.com/articles/SB1000058525375899610|newspaper=The Wall Street Journal|archive-url=https://web.archive.org/web/20010919222951/http://public.wsj.com/sn/y/SB1000058525375899610.html|archive-date=19 September 2001|date=10 September 2001}} < /ref >  After Star ended its relationship with [[Zee TV]], Star Plus was turned into a Hindi-language channel. [[Star World India|Star World]] became the network's English-language [[counterpart]] channel. 
+ 
+ In 2000, the company's CEO [[Sameer Nair]] and programming chief Tarun Katial introduced a number of new shows. It helped to solidify the channel's position as the leader in the Hindi-language television broadcasting area. < ref > {{cite web|url=http://www.starplusglobal.com/history/|title=History Star Plus Global|publisher=Star Plus Global|access-date=6 July 2015}} < /ref > 
+ 
+ ==Programming== 
+ {{main|List of programs broadcast by StarPlus}} 
+ 
+ ==References== 
+ {{Reflist}}{{Tv-stub}} 
+ [[Category:Television channels in India]] 
+ [[Category:1990s establishments in India]] 
+ [[Category:1992 establishments in Asia]]

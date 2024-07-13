@@ -1,0 +1,83 @@
+{{Infobox Australian place 
+ | type                   = city 
+ | name                   = Canberra 
+ | native_name            = ''Ngambri'' < ref > {{cite web |url=https://www.sbs.com.au/nitv/article/2022/07/04/do-you-know-what-aboriginal-land-youre-today |title=Do you know what Aboriginal land you're on today? |date=4 July 2022}} < /ref > 
+ | state                  = ACT 
+ | image                  = Canberra montage 2.jpg 
+ | caption                = Canberra, from top left to bottom right & ndash;the city viewed from [[Mount Ainslie]], the Land Axis featuring [[Old Parliament House, Canberra|Old Parliament House]] and [[Parliament House, Canberra|New Parliament House]], the [[Australian War Memorial]], the [[National Carillon]], the [[National Gallery of Australia]] and the [[National Library of Australia]] on [[Lake Burley Griffin]] 
+ | image2                 = Free printable and editable vector map of Canberra Australia.svg 
+ | caption2               = City map plan of Canberra 
+ | image2_alt             = City map plan of Canberra 
+ | coordinates            = {{coord|35|17|35|S|149|07|37|E|display=inline,title}} 
+ | force_national_map     = yes 
+ | pushpin_label_position = left 
+ | pop                    = 456,692 
+ | pop_year               = June 2022 
+ | pop_footnotes          =  < ref name=ABSGCCSA > {{cite web |title=Regional population, 2021-22 |date=20 April 2023 |url=https://www.abs.gov.au/statistics/people/population/regional-population/2021-22 |publisher=Australian Bureau of Statistics |access-date=27 April 2023}} < /ref > 
+ | poprank                = 8th 
+ | density                = 503.932 
+ | density_footnotes      =  
+ | est                    = 12 March 1913 
+ | elevation              = 578 
+ | elevation_footnotes    =  < ref > {{cite web |title=GFS / BOM data for CANBERRA AIRPORT |url=http://www.bom.gov.au/climate/averages/tables/cw_070014_All.shtml |access-date=16 June 2018 |archive-date=9 July 2015 |archive-url=https://web.archive.org/web/20150709190756/http://www.bom.gov.au/climate/averages/tables/cw_070014_All.shtml |url-status=live}} < /ref > 
+ | area                   = 814.2 
+ | area_footnotes  =  < ref name=area > {{cite web |url=http://www.actpla.act.gov.au/tools_resources/planning_data |title=Planning Data Statistics |publisher=[[Australian Capital Territory Planning and Land Authority|ACT Planning  &  Land Authority]] |date=21 July 2009 |access-date=13 May 2010 |archive-url=https://web.archive.org/web/20080802163103/http://www.actpla.act.gov.au/tools_resources/planning_data |archive-date=2 August 2008}} < /ref > 
+ | timezone        = AEST 
+ | utc             = +10:00 
+ | timezone-dst    = AEDT 
+ | utc-dst         = +11:00 
+ | dist1     = 248 
+ | dir1      = SW 
+ | location1 = [[Sydney]] < ref > {{cite web |url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=87421 & placename=sydney & placetype=0 & state=0 & place1=CANBERRA & place1long=149.133331 & place1lat=-35.299999 |title=Great Circle Distance between CANBERRA and SYDNEY |publisher=Geoscience Australia |date=March 2004 |access-date=2 May 2016 |archive-date=7 January 2019 |archive-url=https://web.archive.org/web/20190107044625/http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=87421 & placename=sydney & placetype=0 & state=0 & place1=CANBERRA & place1long=149.133331 & place1lat=-35.299999 |url-status=live}} < /ref > 
+ | dist2     = 654 
+ | dir2      = NE 
+ | location2 = [[Melbourne]] < ref > {{cite web |url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=248650 & placename=melbourne & placetype=0 & state=0 & place1=CANBERRA & place1long=149.133331 & place1lat=-35.299999 |title=Great Circle Distance between CANBERRA and MELBOURNE |publisher=Geoscience Australia |date=March 2004 |access-date=2 May 2016 |archive-date=7 January 2019 |archive-url=https://web.archive.org/web/20190107044626/http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=248650 & placename=melbourne & placetype=0 & state=0 & place1=CANBERRA & place1long=149.133331 & place1lat=-35.299999 |url-status=live}} < /ref > 
+ | dist3     = 958 
+ | dir3      = E 
+ | location3 = [[Adelaide]] < ref > {{cite web |url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=163285 & placename=ADELAIDE & placetype=0 & state=0 & place1=CANBERRA & place1long=149.133331 & place1lat=-35.299999 |title=Great Circle Distance between CANBERRA and ADELAIDE |publisher=Geoscience Australia |date=March 2004 |access-date=2 May 2016 |archive-date=7 January 2019 |archive-url=https://web.archive.org/web/20190107044620/http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=163285 & placename=ADELAIDE & placetype=0 & state=0 & place1=CANBERRA & place1long=149.133331 & place1lat=-35.299999 |url-status=live}} < /ref > 
+ | dist4     = 945 
+ | dir4      = SSW 
+ | location4 = [[Brisbane]] < ref > {{cite web |url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=126867 & placename=BRISBANE & placetype=0 & state=0 & place1=CANBERRA & place1long=149.133331 & place1lat=-35.299999 |title=Great Circle Distance between CANBERRA and BRISBANE |publisher=Geoscience Australia |date=March 2004 |access-date=2 May 2016 |archive-date=7 January 2019 |archive-url=https://web.archive.org/web/20190107044623/http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=126867 & placename=BRISBANE & placetype=0 & state=0 & place1=CANBERRA & place1long=149.133331 & place1lat=-35.299999 |url-status=live}} < /ref > 
+ | dist5     = 3087 
+ | dir5      = ESE 
+ | location5 = [[Perth]] < ref > {{cite web |url=http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=304529 & placename=perth & placetype=0 & state=0 & place1=CANBERRA & place1long=149.133331 & place1lat=-35.299999 |title=Great Circle Distance between CANBERRA and PERTH |publisher=Geoscience Australia |date=March 2004 |access-date=2 May 2016 |archive-date=7 January 2019 |archive-url=https://web.archive.org/web/20190107044628/http://www.ga.gov.au/cocky/cgi/run/distancedraw2?rec1=304529 & placename=perth & placetype=0 & state=0 & place1=CANBERRA & place1long=149.133331 & place1lat=-35.299999 |url-status=live}} < /ref > 
+ | local_map = yes 
+ | region =  
+ | county =  
+ | stategov = [[Brindabella electorate|Brindabella]] 
+ | stategov2 = [[Ginninderra electorate|Ginninderra]] 
+ | stategov3 = [[Kurrajong electorate|Kurrajong]] 
+ | stategov4 = [[Murrumbidgee electorate|Murrumbidgee]] 
+ | stategov5 = [[Yerrabi electorate|Yerrabi]] 
+ | fedgov    = [[Division of Canberra|Canberra]] 
+ | fedgov2   = [[Division of Fenner|Fenner]] 
+ | fedgov3   = [[Division of Bean|Bean]] < ref > {{cite web |url=https://www.aec.gov.au/Electorates/Redistributions/2017/act/final-report/files/act-2018-final-report.pdf |title=Redistribution of the Australian Capital Territory into electoral divisions |author=Augmented Electoral Commission for the Australian Capital Territory |date=July 2018 |quote=The electoral divisions described in this report came into effect from Friday 13 July 2018 ... However, members of the House of Representatives will not represent or contest these electoral divisions until ... a general election. |access-date=16 September 2018 |archive-date=16 September 2018 |archive-url=https://web.archive.org/web/20180916130414/https://www.aec.gov.au/Electorates/Redistributions/2017/act/final-report/files/act-2018-final-report.pdf |url-status=live}} < /ref > 
+ | logo      =  
+ | url       =  
+ | maxtemp   = 20.4 
+ | mintemp   = 7.0 
+ | rainfall  = 579.5 
+ }} 
+ [[File:ACT in Australia map.png|thumb|Canberra is in the south-east of Australia]] 
+ [[Image:Flag of the Australian Capital Territory.svg|thumb|150px|Flag]] 
+ [[Image:Coat of Arms of the Australian Capital Territory.svg|thumb|90px|Coat of arms]] 
+ '''Canberra''' is the [[Capital (city)|capital city]] of [[Australia]]. There are 403,468 people who live there. < ref name= " ABSGCCSA " / >  It does not belong to a state but it is in the [[Australian Capital Territory]] (ACT). 
+ 
+ Canberra was started in 1913 and in the middle of the city is Lake Burley-Griffin. This lake was created especially for the city. There was a competition to design the new capital city of Australia. The competition was won by an [[architect]] from [[Chicago]] in the [[United States of America]]. His name was Walter Burley Griffin. Griffin designed his [[triangle|triangular]] town as a garden town, so its size expanded over a big area. But as Canberra grew larger and larger, the lake was no longer in the middle of the town, but the people who are in charge of planning the city make sure Canberra is as close to Griffin's original plan as possible. Canberra has a size in area nearly as big as [[Berlin]], but the number of people who live there is much smaller. 
+ 
+ Before Canberra was founded, Australia’s two most important cities, [[Sydney]] and [[Melbourne]], were arguing which city should be the capital of the [[continent]]. First, Melbourne was elected the capital, but in [[1908]] there was a vote. The result: an area of 2400 square [[kilometer]]s was given to the country by [[New South Wales]] to build Canberra in. This was the place, 300 kilometers away from Sydney and with a distance of 650 kilometers to Melbourne, where a few years later Canberra was built. 
+ 
+ The name Canberra is pronounced in various ways and most commonly now as  " CAN-brugh "  making it sound almost an English name - Canborough !  Some say  " CAN-buh-ruh "  ; a small number of people may pronounce it  " can-BEAR-ruh "  ; at an earlier time  " can-BERR-a "  was very common and that form is still heard although often looked down upon as ignorant and incorrect. But while now an uncommon pronunciation it may be closest to the original name and pronunciation. In the 19th century a farming property on the Limestone Plains was named  " Canberry "  (or  " Camberry " ) and some think this name is derived in turn from the name of the local tribe - the Ngambri or Kamberra or Camberri people.  (Others have suggested the name is derived from an Aboriginal word meaning  " meeting place " ). 
+ 
+ Canberra has an [[oceanic climate]] (''Cfb'' in the [[Köppen climate classification]]). Due to Canberra's inland location and fairly high [[altitude]], summers are warm to hot with frequent [[heat wave]]s and [[drought]]s and winters are fairly cold with frequent [[frost]]s during the nights. [[Snow]] is only common on the mountains. 
+ 
+ [[Tourist]]s who visit Canberra come to see the many national [[monument]]s and other famous sights. Some places to visit are the Government House, Parliament House, the [[High Court of Australia]], the [[Australian War Memorial]], the [[National Gallery of Australia]], the Royal Australian Mint, Telstra Tower, the [[National Library of Australia]], and the [[National Museum of Australia]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Commonscat}} 
+ 
+ [[Category:Canberra| ]] 
+ [[Category:1913 establishments]] 
+ [[Category:1910s establishments in Australia]]

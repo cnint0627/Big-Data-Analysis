@@ -1,0 +1,37 @@
+{{automatic taxobox 
+ | name = Kinetoplastida 
+ | image = Trypanosoma_cruzi_crithidia.jpeg 
+ | image_caption = ''[[Trypanosoma cruzi]]'' parasites 
+ | taxon = Kinetoplastea 
+ | authority =Honigberg, 1963 emend. Cavalier-Smith, 1981 < ref name=Honigberg > {{cite book|author=Honigberg, B. M.|year=1963|chapter=A contribution to systematics of the non-pigmented flagellates.|editor=Ludvík, J. |editor2=Lom, J. |editor3=Vávra J.|title=Progress in Protozoology: proceedings of the first International Congress on protozoology held at Prague|publisher=Academic Press}} < /ref > < ref > Cavalier-Smith, T. (1981). Eukaryote kingdoms: seven or nine? Biosystems 14, 461–481. < /ref > 
+ | subdivision_ranks = Subdivisions 
+ | subdivision = 
+ * ?[[Bordnamonadidae]] 
+ * ?[[Trypanophididae]] 
+ * [[Prokinetoplastina]] 
+ ** [[Prokinetoplastida]] 
+ * [[Metakinetoplastina]] 
+ ** [[Neobodonida]] 
+ ** [[Parabodonida]] 
+ ** [[Bodonida]] 
+ ** [[Trypanosomatida]] 
+ | synonyms = 
+ * Kinetoplastida  < small > Honigberg 1963 emend. Margulis 1974 < /small > 
+ }} 
+ 
+ The '''kinetoplastids''' are a group of single-cell [[flagellate]] [[eukaryotes]]. They include a number of [[parasite]]s responsible for serious diseases in humans and other animals. There are also forms found in soil and aquatic environments. They are members of the phylum [[Euglenozoa]].  
+ 
+ Their main distinguishing feature is the presence of a [[kinetoplast]], a [[DNA]]-containing granule inside the single [[mitochondrion]] at the base of the cell's flagella (the [[basal body]]). 
+ 
+ The kinetoplastids were first defined by Honigberg in 1961 as the flagellate order Kinetoplastida. < ref > {{cite book|title=Progress in Protozoology: proceedings of the first International Congress on protozoology held at Prague|author=Honigberg B.M|publisher=Academic Press|editor=Ludvík J|chapter=A contribution to systematics of the non-pigmented flagellates.|editor-last2=Lom J.|editor-last3=Vávra J.}} < /ref >   They are traditionally divided into the biflagellate [[Bodonidae]] and uniflagellate [[Trypanosomatidae]].  
+ 
+ The Trypanosomatidae includes several genera which are exclusively parasitic. ''[[Trypanosoma brucei]]'' causes [[Sleeping sickness]]; ''[[Trypanosoma cruzi]]'' causes [[Chagas disease]], ''[[Leishmania]]'' causes [[leishmaniasis]], ''[[Crithidia]]'' is parasitic on insects, and  ''[[Cryptobia]]'' is an [[ectoparasite]] on the [[gills]] of fish. 
+ 
+ ''[[Bodo (genus)|Bodo]]'' is typical of the free-living Bodonids, and includes various species which feed on [[bacteria]].   
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ 
+ [[Category:Protista]]

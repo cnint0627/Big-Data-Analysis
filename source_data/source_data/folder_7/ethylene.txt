@@ -1,0 +1,68 @@
+{| class= " toccolours "  border= " 1 "  style= " float: right; clear: right; margin: 0 0 1em 1em; border-collapse: collapse; " 
+ ! {{chembox header}} | ''Ethylene'' 
+ |- 
+ | align= " center "  colspan= " 2 "  bgcolor= " #ffffff "  | [[Image:Ethene structural.svg|100px|Ethylene]] [[Image:Ethylene-3D-vdW.png|100px|Ethylene]] 
+ |- 
+ ! {{chembox header}} | General 
+ |-  
+ | [[Chemical formula|Molecular formula]] || C < sub > 2 < /sub > H < sub > 4 < /sub > 
+ |- 
+ | [[Simplified molecular input line entry specification|SMILES]] || C==C 
+ |- 
+ | [[Molar mass]] || 28.05  g/mol 
+ |- 
+ | Appearance || colorless gas 
+ |- 
+ ! {{chembox header}} | Properties 
+ |- 
+ | [[Density]] and [[Phase (matter)|phase]] || 1.178 & nbsp;kg/m³ at 15 °C, gas  
+ |- 
+ | [[Soluble|Solubility]] in [[Water (molecule)|water]] || 3.5 & nbsp;mg/100 ml (17 °C) 
+ |- 
+ < !-- | Other solvents e.g. [[ethanol]], [[acetone]] -- > 
+ < !-- | solubility info on other solvents -- > 
+ < !-- |- -- > 
+ | [[Melting point]] ||  & minus;169.2 °C (104.0 K, -272.6 °F) 
+ |- 
+ | [[Boiling point]] ||  & minus;103.7 °C (169.5 K, -154.7 °F) 
+ |- 
+ ! {{chembox header}} | Structure 
+ |- 
+ | [[Symmetry group]] || D < sub > 2h < /sub > 
+ |- 
+ | [[Dipole#Molecular dipoles|Dipole moment]] 
+ | Zero 
+ |- 
+ |} 
+ 
+ '''Ethylene''' or '''ethene''' is a [[chemical compound]] with two [[carbon]] [[atom]]s and four [[hydrogen]] atoms in each [[molecule]].  These molecules are put together with a [[double bond]] that makes it a [[hydrocarbon]].  It is very important in [[industry]] and has even been used in [[biology]] as a [[hormone]]. < ref name=Wang_2002 > {{cite journal | author = Wang K, Li H, Ecker J | title = Ethylene biosynthesis and signaling networks. | journal = Plant Cell | year = 2002 | volume = 14 Suppl | issue = Suppl| pages = S131-51 | doi = 10.1105/tpc.001768 | pmid = 12045274 | pmc = 151252 }} < /ref >   It is also the most made [[chemical]]. About 75 million tons of it have been made each year since 2005. < ref > “Production: Growth is the Norm” Chemical and Engineering News, July 1 0, 2006, p. 59. < /ref >  Its biggest use is to make [[polyethylene]]. 
+ 
+ ==History== 
+ Since [[1795]], ethylene was called an ''olefiant gas'', or ''oil making gas''.  This was because it came together with [[chlorine]] to make the ''oil of the Dutch chemists''. 
+ 
+ In [[1866]], the [[Germany|German]] [[chemist]] [[August Wilhelm von Hofmann]] came up with a system for naming hydrocarbons. The [[suffix]]es -ane, -ene, -ine, -one, and -une were used to call the hydrocarbons with 0, 2, 4, 6, and 8 fewer hydrogen atoms than the [[alkane]] it came from. < ref > {{cite web|url=http://www.chem.yale.edu/~chem125/125/history99/5Valence/Nomenclature/Hofmannaeiou.html|title=Hofmann's Proposal for Systematic Nomenclature of the Hydrocarbons|author=A. W. Hofmann, LL.D., F.R.S.|accessdate=2007-01-06|publisher=www.chem.yale.edu|archive-date=2006-09-03|archive-url=https://web.archive.org/web/20060903081507/http://www.chem.yale.edu/~chem125/125/history99/5Valence/Nomenclature/Hofmannaeiou.html|url-status=dead}} < /ref >   Because of this system, ethylene became ethene. 
+ 
+ In [[1979]], the [[IUPAC]] decided that ethylene would stay ethylene. 
+ 
+ ==How it is made== 
+ Ethylene is made in the chemical industry by [[steam cracking]].  Some of the parts of an ethylene plant can be: 
+ 
+ # The steam cracking furnaces; 
+ # Heat recovery systems; 
+ # A steam recycling system; 
+ # A system to [[compress]] the cracked gas; 
+ # A system to remove [[acid]] gas; 
+ 
+ There are other systems in an ethylene plant.  The systems listed above were the most important systems in an ethylene plant. 
+ 
+ Since making ethylene uses a lot of energy, the people making the ethylene try very hard to keep the heat from the gasses from leaving the [[furnace]]s. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *[http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc04/icsc0475.htm International Chemical Safety Card 0475] 
+ 
+ {{Functional group}} 
+ 
+ [[Category:Alkenes|2]]

@@ -1,0 +1,18 @@
+[[File:Furuno sonar.jpg|thumb|A sonar machine]] 
+ '''Sonar''' is a [[machine]] that uses underwater [[sound]] waves to find other objects in the sea. A sonar can work by sending out sound and [[echolocation|listening for echoes]] (active sonar), like a [[radar]], or by listening for sound made by the object it is trying to find (passive sonar). < ref > {{cite book |title=A Dictionary of Aviation |url=https://archive.org/details/dictionaryofavia0000wrag |first=David W. |last=Wragg |isbn=9780850451634 |edition=first |publisher=Osprey |year=1973 |page=[https://archive.org/details/dictionaryofavia0000wrag/page/n254 245]}} < /ref >   
+ 
+ The basic parts of an active sonar are: 
+ * the [[transmitter]] creates the sound waves. 
+ * the [[hydrophone]] or hydrophone [[array]] converts the sound waves into electricity.  
+ 
+ The first use of passive sonar was in 1490 by [[Leonardo da Vinci]], < ref name= " DaVinci " > {{cite book|last=Fahy|first=Frank|others=John Gerard Walker|title=Fundamentals of noise and vibration|publisher=Taylor  &  Francis|year=1998|pages=375|isbn=978-0-419-24180-5}} < /ref >  when he put a tube onto water and listened. Active sonar was first used in 1917 by [[Paul Langevin]]. The word ''SONAR'' was created during the [[Second World War]] as an [[acronym]] for '''So'''und '''Na'''vigation and '''R'''anging. < ref > {{cite web |url= http://oceanservice.noaa.gov/facts/sonar.html |title=What is sonar? |first= |last=|work=oceanservice.noaa.gov |year=2013|accessdate=30 December 2013}} < /ref >  This acronym replaced the British acronym ASDIC. The word is now thought by many people as a regular word, no longer as an acronym. 
+ 
+ ==References== 
+ {{reflist}}  
+ 
+ {{commonscat}} 
+ 
+ {{Leonardo da Vinci|state=collapsed}} 
+ [[Category:Machines]] 
+ [[Category:Wave physics]] 
+ {{science-stub}}

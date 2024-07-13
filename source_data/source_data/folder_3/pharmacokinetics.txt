@@ -1,0 +1,135 @@
+[[File:Linear PK Example.png|thumb|The blue line shows the concentration of a drug in the blood, at a given moment in time. The drug is taken once a day. It takes the body four days to completely absorb one dose of  the drug.In 12 hours, concentration in the blood is halved. This is known as [[elimination half-life]]. ]] 
+ '''Pharmacokinetics''' is a branch of [[pharmacology]] which studies what the body does to a [[drug]]. Pharmacokinetics looks at how a [[substance]] enters, moves through and exits the body. It relates how the dose delivered affects the concentration within the body. It is closely related to another branch of pharmacology, pharmacodynamics, which describes how a drugs affects the body. 
+ 
+ == ADME == 
+ When developing new drugs, it is important to know exactly what happens to the chemical once administered. There are four important parameters of pharmacokinetics, usually known by the acronym '''ADME''': Absorption, Distribution, Metabolism and Excretion. This model was developed in order to simplify perception of the many processes that take place once a drug enters an [[organism]]. 
+ 
+ *''' Absorption''' - How is the medication absorbed (through the skin, the intestine, the mouth)? 
+ *''' Distribution''' - How does it spread through the organism? 
+ *''' Metabolism''' - Is the medication converted chemically inside the body, and into what. Are these new substances active? Could they be toxic? 
+ *''' Excretion''' - How does the organism get rid of the chemical (through the bile, urine, breath, skin)? 
+ === Absorption === 
+ 
+ Absorption describes the movement of a drug from the dosage form to the site of action, usually the [[blood]]. 
+ The bioavailability (F) of the drug is the fraction of the drug being administered that reaches the blood circulation. 
+ 
+ ==== Factors affecting the absorption ==== 
+ * Route of administration 
+ * Physicochemical properties of the drug, for example, how [[soluble]] or [[Acid|acidic]] it is. 
+ * Patient related factors: [[Gender|sex]], age, disease state, blood flow and supply to the site of adsorption 
+ 
+ ==== Route of administration ==== 
+ {| class= " wikitable " 
+ |- 
+ ! Enteral !!Parental!! Topical 
+ |- 
+ | Oral || Intradermal || Eyes 
+ |- 
+ | Sublingual || Intravenus || Ears 
+ |- 
+ | Buccal || Intramuscular || Nose 
+ |- 
+ | Rectal || Intra-arterial || Lungs 
+ |- 
+ |   || Intra-articular || Vagina 
+ |- 
+ |   || Intrathecal || Colon 
+ |} 
+ 
+ ==== How does the route of administration affect drug absorption? ==== 
+ {| class= " wikitable " 
+ |- 
+ ! Enteral !! Parental !! Topical 
+ |- 
+ | Inefficient - only part of the drug is absorbed || IV administration gives a 100% bioavailability  || Only lipid-soluble drugs can enter skin 
+ |- 
+ | Some route subject to first pass metabolism || First pass metabolism avoided ||   
+ |- 
+ | Destruction by gastric acid and bile || Bypass stomach ||   
+ |- 
+ | Slow || Fast ||   
+ |} 
+ ==== Effects of lipid solubility acidity ==== 
+ Once the drug is in the body, it enters many [[Cell|cells]]. Cells are surrounded by a protective membrane made of [[lipid bilayer]]. For this reason, only [[lipid]] soluble, (lipophillic) drugs can enter cells. 
+ Sometimes the substance gets trapped within the lipids of waste products that need excreted, and leave the body without ever being absorbed. 
+ For this reason, there must be a balance between lipophilicity and hydrophilicity of drug molecules. 
+ The acidity of a pharmaceutical compound can also affect absorption. It is important to know how acid or basic the substance is in order for the body to accept it, giving our bodies a biological effect.  
+ 
+ * If the drug is a weak acid, it absorbs better in the [[stomach]] (e.g. [[aspirin]] or penicillin). 
+ *If it is a weak base, it absorbs better in the [[intestine]] (e.g. atropine, codeine). If a weak base drug is given [[Oral|orally]], it will get destroyed by stomach acid and [[bile]], and not produce any beneficial effect. 
+ ==== Parental route of administration ==== 
+ One way to overcome the need to absorb the drug in the stomach (where it can be destroyed by bile), is to inject it  in the skin (intradermal), subcutaneously, in the muscle (intramuscular) or directly into the bloodstream (intravenously).  
+ 
+ * Intravenous (IV) delivers the drug directly into the blood stream, taking on its full affect. There is 100% absorption, which means all of the drug enters the circulation system. This method takes around 2 minutes to start taking effect. However, there is a downside; initial local concentration is high when injected quickly, meaning there is a lot of drug in one place. To avoid this, some drugs need to be injected slowly (e.g. chemotherapy). 
+ 
+ * Intramuscular injection is the second fastest method, taking around 30 minutes to enter the blood system. This works well because muscles have a rich blood supply. The rate of absorption can be increased when the blood flow to the muscle is increased, for example with exercise. 
+ 
+ * Subcutaneous injections are submitted between the muscle and [[dermis]] (skin). They're less painful and can be self-administered. The downside is that absorption tends to be much slower than the previous two routes. 
+ 
+ Other routes include the topical route, where the drug is applied directly to the skin or mucosal surface on which it is intended to act. These drugs are also known as ointments and include eye drops, thrush cream and eczema lotion. Though absorption is slow, there is a high concentration of the substance in this one area, meaning a pharmacological affect at only the site of application is produced. 
+ 
+ Nasal spray and [[Inhaler|inhalers]] are other routes of admission which bypass the stomach. 
+ 
+ === Distribution === 
+ Distribution describes how a drug moves about in the body once it has entered blood circulation, and how this movement may decrease the concentration.  
+ 
+ The apparent volume of distribution (Vd) is the apparent volume into which the drug is distributed, expressed in liters (L). 
+ 
+ Vd = Dose/Initial plasma concentration 
+ 
+ Vd is a hypothetical volume of fluid that will contain the total amount of drug administered to the body. One inside thebody, the drug can move around either by diffusion (soaking through a membrane due to a lower concentration), or by transport in the blood. The body should be considered as being multicompartmental, where drugs can be distributed into plasma (blood) - 8% , interstitial fluid (a liquid that surrounds tissues) - 24%,  intracelullar fluid (which surrounds cells) - 65% and also fat. 
+ 
+ A lower Vd value infers that the drug is retained within the plasma. 
+ 
+ A higher Vd value suggests that the drug is retained in volumes outside of the plasma (i.e. in peripheral tissues). 
+ 
+ ==== Factors affecting drug distribution ==== 
+ There are many factors which affect drug distribution, the most important ones are the following: 
+ * Physiochemical properties ([[Molar mass|molecular weight]], lipophilicity...): smaller compounds cross the [[capillary]] membrane more easily and therefore are quicker in producing a biological affect. Highly lipid soluble drugs are likely to accumulate in the [[brain]] and fat deposits.  
+ * Blood flow to the tissues: drugs accumulate faster in tissues with a good blood supply, like the heart, lungs and liver, as opposed to adipose tissue and bone. 
+ * Plasma protein binding: many drugs bind strongly to blood proteins, and because these stay inside the blood vessels, such drugs remain within without being redistributed. For this reason, only free (unbound) drug is pharmacologically active and available for metabolism and excretion. 
+ * Diseases: Some diseases reduce plasma protein binding, increasing the concentration of free drug. In meningitis and [[encephalitis]], the blood vessels become more permeable and [[Polarity|polar]] antibiotics like penicillin can cross through. In contrast, shock and heart failure can cause capillaries to become less permeable, decreasing drug distribution. 
+ * Special compartments and barriers: These prevent movement of the drug into areas where their effects may be dangerous, such as the brain, which has a highly selective barrier. 
+ === Metabolism === 
+ Metabolism describes how a drug is altered chemically in the body into its metabolite, which may be more or less active. This process usually occurs in the liver, but can also take place in the plasma, lungs, stomach, small intestine, kidney and skin. It contains two phases: phase 1 and phase 2. 
+ * '''Phase 1 reaction:''' oxidation, reduction and hydrolysis - mediated by the Cytochrome P450 enzyme. This process makes the drug chemical more reactive, often makes it more toxic, or even more pharmacologically active. 
+ * '''Phase 2 reaction:''' Glucuronidation, sulfation, glutathione conjugation, N-acetylation, methylation. The 'activated' drug molecule is combined with another molecule to produce an inactive compound which is usually more water soluble (polar) than the original chemical. It is also easier for excretion. 
+ 
+ Put simply, this process converts lipid soluble drugs to water soluble metabolites. 
+ 
+ ==== First pass metabolism ==== 
+ All drugs that are absorbed from the small intestine are first transported to the liver by the hepatic portal vein, in many cases a large proportion of the drug is then metabolized immediately before the drug enters the systemic circulation. This process is called first pass metabolism. 
+ Some drugs undergo extensive first pass metabolism such that only about 10% of the administered dose enters the circulation:  " 10% bioavailability " . 
+ In the case of some drugs, the metabolism occurs within the gut before even reaching the liver. 
+ ==== Kinetics of drug elimination ==== 
+ Can be zero order or first order: 
+ {| class= " wikitable " 
+ |- 
+ ! '''Zero order''' !! '''First order''' 
+ |- 
+ | Rate is constant || Rate is not constant 
+ |- 
+ | Independent of the plasma concentration of the drug || Proportional to the concentration of the drug 
+ |- 
+ | Linear || Curvilinear 
+ |- 
+ | Active transport || Passive diffusion 
+ |} 
+ 
+ === Excretion === 
+ This is how a drug or its metabolite is removed from the body. Usually this occurs in the kidneys (urine), but can also take place in the biliary system (faeces), gastrointestinal tract (GIT), skin ([[sweat]]) and lungs (expired air). 
+ ==== Factos effecting drug excretion ==== 
+ Many of the products of hepatic metabolism are water soluble metabolites of lipid soluble drugs, these enter the systemic circulation and are transported to the kidney where they are eventually excreted in the [[urine]]. 
+ 
+ Drugs and metabolites that are in free aqueous solution may also be excreted in sweat or expired air. Where the drug or metabolite is not freely water soluble, it is normally excreted into the gut via the bile duct from when it is excreted in the [[faeces]].  
+ 
+ One complication of this route of excretion is the enterohepatic shunt. In this process the drug is excreted into the guy from the bile duct, but is then reabsorbed and transported back to the liver. The consequence of this is that the presence of the drug or metabolite within the body is extended, which, if the metabolite is pharmacologically active, may extend the duration of action of the drug. 
+ 
+ Some chemicals, for example lead, accumulate within the tissues. 
+ 
+ == Factors effecting plasma drug concentration == 
+ The actual concentration of drug present within the plasma (bloodstream) following administration is dependent on absorption, distribution, metabolism and excretion. Plasma concentrations of a drug after administration of identical doses either by intravenous injection or orally. Only about half of the dose administered orally actually enters circulation, however the plasma [[Half-life (element)|half-life]] of the drug is approximately 3 hours both orally and via IV. 
+ 
+ In most therapeutic circumstances, drugs are not given as a single dose but as multiple doses. This has profound effects on the plasma concentrations achieved. The state of constant maxima and minima is called  " steady state " . This is the point where rate of drug availability equals rate of elimination, and the optimum therapeutic effect is reached. 
+ 
+ [[Category:Pharmacology]]

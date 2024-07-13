@@ -1,0 +1,27 @@
+[[File:Stuxnet.jpg|thumb|right|180px|{{Center|Image depicting the computer virus Stuxnet}}]] 
+ [[File:S7300.JPG|thumb|S7-300, the industrial system the worm targets]] 
+ 
+ '''Stuxnet''' is [[cyber weapon]] and [[computer worm]]. It was used to sabotage [[Iran’s nuclear program]] with what would seem like a long series of unfortunate accidents. < ref > {{cite web|url=https://www.washingtonpost.com/world/national-security/stuxnet-was-work-of-us-and-israeli-experts-officials-say/2012/06/01/gJQAlnEy6U_story.html|title=Stuxnet was work of U.S. and Israeli experts, officials say|author=Ellen Nakashima|date=2 June 2012|work=Washington Post}} < /ref >  It was first released in 2006. < ref > {{cite web |url=https://www.reuters.com/article/2011/12/02/us-cyberattack-iran-idUSTRE7B10AV20111202 |title=Factbox: Cyber warfare expert's timeline for Iran attack |date=2 December 2011 |publisher=Reuters |access-date=20 October 2015 |archive-date=26 November 2014 |archive-url=https://web.archive.org/web/20141126042900/http://www.reuters.com/article/2011/12/02/us-cyberattack-iran-idUSTRE7B10AV20111202 |url-status=dead }} < /ref >  It became known only after the release of the second version. < ref name=KelleyBTI > {{cite web |url=http://www.businessinsider.com/stuxnet-was-far-more-dangerous-than-previous-thought-2013-11 |title=The Stuxnet Attack On Iran's Nuclear Plant Was 'Far More Dangerous' Than Previously Thought |author=Michael B Kelley |date=20 November 2013 |publisher=Business Insider Inc. |access-date=20 October 2015}} < /ref >  In 2010, an error in the [[code]] led the [[virus]] to spread outside the test labs and infect computers [[worldwide|around the world]]. < ref name=SchwartzIWNC/ > 
+ 
+ Both the [[United States]] and [[Israel]] have been accused of developing and releasing Stuxnet. < ref > {{cite web |url=https://www.washingtonpost.com/world/national-security/stuxnet-was-work-of-us-and-israeli-experts-officials-say/2012/06/01/gJQAlnEy6U_story.html |title=Stuxnet was work of U.S. and Israeli experts, officials say |author=Ellen Nakashima; Joby Warrick |date=2 June 2012 |publisher=The Washington Post |access-date=20 October 2015}} < /ref >  In 2012 the US confirmed that it developed Stuxnet with Israel. < ref name=SchwartzIWNC > {{cite web |url=http://www.networkcomputing.com/networking/stuxnet-launched-by-united-states-and-israel/d/d-id/1104637? |title=Stuxnet Launched By United States And Israel |author=Mathew J. Schwartz |date=1 June 2012 |publisher=Information Week Network Computing |access-date=20 October 2015 }}{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ Stuxnet targets [[Programmable logic controller|PLCs]]. They control [[machinery]] on [[factory]] [[assembly line]]s, [[Theme park|amusement rides]], or [[centrifuge]]s for separating [[Nuclear fuel|nuclear material]]. Stuxnet works by targeting machines using the [[Microsoft Windows]] operating system and [[network]]s. It then looks for [[Siemens]] Step7 [[software]]. Stuxnet reportedly compromised [[Iran]]ian PLCs, collecting information on industrial systems and causing the fast-spinning centrifuges to tear themselves apart. < ref > {{cite web|last=Kushner|first=David|title=The Real Story of Stuxnet|url=http://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet/|work=ieee.org|publisher=IEEE Spectrum|access-date=25 March 2014}} < /ref >  Stuxnet reportedly ruined almost one-fifth of Iran's nuclear centrifuges. < ref name=KelleyBTI/ > 
+ 
+ Stuxnet is typically introduced to the target environment via an infected [[USB flash drive]]. The worm then spreads across the network, scanning for Siemens Step7 software on [[computer]]s controlling a PLC. If it doesn't find a target, Stuxnet becomes [[wikt:dormant|dormant]] inside the computer. 
+ 
+ Stuxnet is special for different reasons: 
+ # It used flaws of the operating system Microsoft Windows which were not known to many people at the time. 
+ # It used stolen [[digital signature]]s to install the rootkit. 
+ # The authors had in-depth knowledge of the process visualization system WinCC, which is used to monitor and control technical processes, using the [[SIMATIC|Simatic]] S7 industrial controller 
+ # It uses another rootkit to infect the computers which ruin the control and monitoring software for the industrial board 
+ 
+ Even though it targeted PLCs only very few were infected. The software is written to infect a specific set of PLC, with well-defined modules. In the case of a personal computer, it will infect any computer running the right software. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer networking]] 
+ [[Category:Malware]]

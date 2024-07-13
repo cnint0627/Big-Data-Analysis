@@ -1,0 +1,20 @@
+{{Infobox software 
+ | name                 = Trillian 
+ | logo                 =  
+ | screenshot           =  
+ | caption              =  
+ | developer            = [[Cerulean Studios]] 
+ | released             = {{Start date|2000|7|1|df=yes}} 
+ | frequently updated   = yes < !-- Release version update? Don't edit this page, just click on the version number! -- > 
+ | programming language = [[C++]] 
+ | operating system     = [[Microsoft Windows]] < br / > [[Mac OS X]] < br / > [[Android (operating system)|Android]] < br / > [[iOS (Apple)|iOS]] < br / > [[BlackBerry OS]] < br / > [[Internet]] 
+ | language             = English 
+ | genre                = [[Instant messaging]] [[client (computing)|client]] 
+ | license              = [[proprietary software|Proprietary]] [[EULA]] 
+ | website              = {{URL|www.trillian.im}} 
+ }} 
+ '''Trillian''' is an [[instant messaging]] [[software|program]] made by [[Cerulean Studios]]. It can be used with many different [[chat]] services.  The newest version works with [[AIM]], [[ICQ]], [[MSN]], [[Yahoo Messenger]], and [[IRC]]. 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Instant messaging software]]

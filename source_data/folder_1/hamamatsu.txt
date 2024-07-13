@@ -1,0 +1,129 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = {{raise|0.2em|Hamamatsu}} 
+ | native_name             = {{lower|0.1em|{{nobold|{{lang|ja|浜松市}}}}}} 
+ | official_name           =  
+ | settlement_type         = [[Cities designated by government ordinance of Japan|Designated city]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           = Hamamatsu Montage2.jpg 
+ | imagesize               =  
+ | image_alt               =  
+ | image_caption           = From top left: City center, Act city, Kazimachi, [[Hamamatsu Castle]], Bentenzima, Government district 
+ | image_flag              = Flag of Hamamatsu, Shizuoka.svg 
+ | flag_alt                =  
+ | image_seal              = Emblem of Hamamatsu, Shizuoka.svg 
+ | seal_alt                =  
+ | image_shield            =  
+ | shield_alt              =  
+ | image_blank_emblem      =  
+ | nickname                =  " City of Music " 
+ | motto                   =  
+ < !-- maps and coordinates -- > 
+ | image_map               = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}} 
+ | image_map1              = Hamamatsu in Shizuoka Prefecture Ja.svg 
+ | map_alt1                =  
+ | map_caption1            = Location of Hamamatsu in Shizuoka Prefecture 
+ | pushpin_map             = Japan 
+ | pushpin_label_position  =  < !-- position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_map_alt         =  
+ | pushpin_map_caption     =  & nbsp; 
+ | coordinates             = {{coord|34|42|39|N|137|43|39|E|region:JP-22|display=it}} 
+ | coor_pinpoint           =  < !-- to specify exact location of coordinates (was coor_type) -- > 
+ | coordinates_footnotes   =  < !-- for references: use  < ref >  tags -- > 
+ < !-- location -- > 
+ | subdivision_type = Country 
+ | subdivision_name        = {{JPN}} 
+ | subdivision_type1       = [[List of regions of Japan|Region]] 
+ | subdivision_name1       = [[Chūbu region|Chūbu]] ([[Tōkai region|Tōkai]]) 
+ | subdivision_type2       = [[Prefectures of Japan|Prefecture]] 
+ | subdivision_name2       = [[Shizuoka Prefecture|Shizuoka]] 
+ | subdivision_type3       =  
+ | subdivision_name3       =  
+ < !-- established -- > 
+ | established_title       =  < !-- Settled -- > 
+ | established_date        =  
+ | founder                 =  
+ | named_for               =  
+ < !-- seat, smaller parts -- > 
+ | seat_type               =  < !-- defaults to: Seat -- > 
+ | seat                    =  
+ < !-- government type, leaders -- > 
+ | government_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | leader_party            =  
+ | leader_title            = [[Mayor]] 
+ | leader_name             = [[Yasutomo Suzuki]] 
+ | leader_title1           =  
+ | leader_name1            =  
+ < !-- display settings  -- > 
+ | total_type              =  < !-- to set a non-standard label for total area and population rows -- > 
+ | unit_pref               =  < !-- enter: Imperial, to display imperial before metric -- > 
+ < !-- area -- > 
+ | area_magnitude          =  < !-- use only to set a special wikilink -- > 
+ | area_footnotes          =  < !-- for references: use  < ref >  tags -- > 
+ | area_total_km2          = 1558.06 
+ | area_land_km2           =  
+ | area_water_km2          =  
+ | area_water_percent      =  
+ | area_note               =  
+ < !-- elevation -- > 
+ | elevation_footnotes     =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_m             =  
+ < !-- population -- > 
+ | population_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | population_total        = 791707 
+ | population_as_of        = December 1, 2019 
+ | population_density_km2  = auto 
+ | population_est          =  
+ | pop_est_as_of           =  
+ | population_demonym      =  < !-- demonym, i.e. Liverpudlian for someone from Liverpool -- > 
+ | population_note         =  
+ | population_metro_footnotes =  < ref > {{Cite web |title=UEA Code Tables |url=http://www.csis.u-tokyo.ac.jp/UEA/uea_code_e.htm |publisher=Center for Spatial Information Science, University of Tokyo |access-date=January 26, 2019}} < /ref >  (2015) 
+ | population_metro = 1129296 ([[Urban Employment Area|13th]]) 
+ < !-- time zone(s) -- > 
+ | timezone1               = [[Japan Standard Time]] 
+ | utc_offset1             = +9 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        =  
+ | postal_code             =  
+ | area_code_type          =  < !-- defaults to: Area code(s) -- > 
+ | area_code               =  
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec1         = Symbols 
+ | blank_info_sec1         =  & nbsp; 
+ | blank1_name_sec1        = • Tree 
+ | blank1_info_sec1        = [[Pine]] 
+ | blank2_name_sec1        = • Flower 
+ | blank2_info_sec1        = [[Citrus unshiu|Mikan]] 
+ | blank3_name_sec1        = • Bird 
+ | blank3_info_sec1        = [[Japanese bush warbler]] 
+ | blank4_name_sec1        =  
+ | blank4_info_sec1        =  
+ | blank5_name_sec1        =  
+ | blank5_info_sec1        =  
+ | blank6_name_sec1        =  
+ | blank6_info_sec1        =  
+ | blank7_name_sec1        =  
+ | blank7_info_sec1        =  
+ < !-- blank fields (section 2) -- > 
+ | blank_name_sec2         = Phone & nbsp;number 
+ | blank_info_sec2         = 53-457-2111 
+ | blank1_name_sec2        = Address 
+ | blank1_info_sec2        = 103-2 Motoshiro-chō, Naka-ku, Hamamatsu-shi, Shizuoka-ken 430-8652 
+ < !-- website, footnotes -- > 
+ | website                 = {{URL|http://www.city.hamamatsu.shizuoka.jp}} 
+ | footnotes               =  
+ }} 
+ [[File:Hamamatsu near city hall.JPG|thumb|200px|right|Downtown of Hamamatsu city (near city hall)]] 
+ [[File:BentenjimaKaihinkoenHamamatsu3.jpg|thumb|200px|right|[[Lake Hamana]]]] 
+ [[File:Inasacho Tabatake, Kita Ward, Hamamatsu, Shizuoka Prefecture 431-2221, Japan - panoramio.jpg|thumb|200px|right|Ryugashido Cave]] 
+ [[File:LakeSanaru2.JPG|thumb|200px|right|Lake Sanaru]] 
+ '''Hamamatsu''' is a [[city]] in [[Shizuoka Prefecture]], [[Japan]]. < ref > Nussbaum, Louis-Frédéric. (2005). [https://books.google.com/books?id=p2QnPijAEmEC & pg=PA282 & dq=  " Hamamatsu " ] in ''Japan Encyclopedia'', p. 282. < /ref >  It is on the island of [[Honshū]]. Every May 3-5, the [[Hamamatsu festival|Hammamatsu Festival]] is held in the city. There are three wards ([[Chūō-ku, Hamamatsu|Chūō]], [[Hamana-ku|Hamana]], and [[Tenryū-ku|Tenryū]]) in this city on and after January 1, 2024. 
+ 
+ ==Related page== 
+ * [[Honda F.C.]] 
+ 
+ ==References== 
+ {{reflist}} 
+ {{Japan-stub}} 
+ [[Category:Cities in Shizuoka Prefecture]] 
+ [[Category:Hamamatsu| ]]

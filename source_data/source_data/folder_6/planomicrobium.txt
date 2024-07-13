@@ -1,0 +1,44 @@
+{{italictitle}} 
+ {{Taxobox 
+ | domain = [[Bacteria]] 
+ | divisio = [[Firmicutes]] 
+ | classis = [[Bacilli]] 
+ | ordo = [[Bacillales]] 
+ | familia = [[Planococcaceae]] 
+ | genus = '''''Planomicrobium''''' 
+ | subdivision_ranks = Species 
+ | subdivision = ''[[Planomicrobium alkanoclasticum]]''  < br > 
+ ''[[Planomicrobium chinense]]''  < br > 
+ ''[[Planomicrobium flavidum]]''  < br > 
+ ''[[Planomicrobium glaciei]]''  < br > 
+ ''[[Planomicrobium koreense]]''  < br > 
+ ''[[Planomicrobium mcmeekinii]]''  < br > 
+ ''[[Planomicrobium okeanokoites]]''  < br > 
+ ''[[Planomicrobium psychrophilum]]''  < br > 
+ ''[[Planomicrobium soli]]''  < br > 
+ ''[[Planomicrobium stackebrandtii]]'' 
+ }} 
+ 
+ '''''Planomicrobium''''' is a [[bacterium]]. < ref name= " Bergey " > {{cite book |series=Bergey's Manual of Systematic Bacteriology|volume= 3|title=The Firmicutes|author=George M. Garrity | display-authors = etal  |publisher=Springer|location= New York |edition= 2nd|isbn=978-0-387-95041-9 |pages=1450 |url=https://www.springer.com/life+sciences/book/978-0-387-95041-9 |date= 2009|id=British Library no. GBA561951}} < /ref >  The cells are [[Coccus|coccoid]] or [[rod shaped]]. They can move with  one or two [[flagella]]. They are [[aerobic]], they need [[oxygen]]. < ref name= " Bergey "  / > 
+ 
+ == Systematics == 
+ There are ten species: < ref name=LPSN > 
+ {{cite web | last=Euzéby| first=J. P. | url=http://www.bacterio.net/planomicrobium.html | title=List of Prokaryotic Names with Standing in Nomenclature | accessdate=2015-03-23}} < /ref > 
+ * ''[[Planomicrobium alkanoclasticum]]'' 
+ * ''[[Planomicrobium chinense]]'' 
+ * ''[[Planomicrobium flavidum]]''  
+ * ''[[Planomicrobium glaciei]]''  
+ * ''[[Planomicrobium koreense]]'' 
+ * ''[[Planomicrobium mcmeekinii]]'' 
+ * ''[[Planomicrobium okeanokoites]]'' 
+ * ''[[Planomicrobium psychrophilum]]'' 
+ * ''[[Planomicrobium soli]]'' 
+ * ''[[Planomicrobium stackebrandtii]]'' 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Gram-positive bacteria]]

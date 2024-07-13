@@ -1,0 +1,16 @@
+{{nosources|date=June 2009}} 
+ 
+ [[File:Mojibake_Japanese_CC_Licence.png|thumb|This is what a website can look like if the wrong font encoding is used.]] 
+ [[File:Mojibakevector.png|thumb|The Japanese Wikipedia article for Mojibake uses UTF-8 encoding. This screenshot shows what it looks like, when it is decoded using the standard Windows CP1252 encoding.]] 
+ {{nihongo|'''Mojibake'''|文字化け||{{pronEng|modʑibake}}}} is the name for incorrect, unreadable characters shown when computer [[software]] fails to show text correctly. < ref > R. S. King,  " Will unicode soon be the universal code? [The Data], "  in IEEE Spectrum, vol. 49, no. 7, pp. 60-60, July 2012, doi: 10.1109/MSPEC.2012.6221090. < /ref >  When using computers, text is encoded using a character encoding.  In transfer, each character is replaced by its position (or number) in the encoding. To display the character again, the position is again replaced by the character. When the original encoding is not specified, a different character may be used when the number is again replaced with the character for display. [[Unicode]] was introduced to solve this problem: UTF-8 is able to encode most common characters in 2 [[Byte|bytes]].   
+ 
+ Before Unicode was introduced, other character encodings were used. As an example, ISO-8859 contains 15 different encodings. These are the same for the characters commonly used in English. They have several  " blocks "  of  " special characters " , which are filed differently for each encoding.  
+ 
+ == Origin of the word == 
+ Mojibake is a [[Japanese language|Japanese]] word. The word 文字化け ({{IPA|[moʥibake]}}) is composed of two parts. 文字 (''moji'') means ''letter'', ''character''. 化け (''bake''), from the verb 化ける (''bakeru''), means ''to appear in disguise, to take the form of, to change for the worse''. Literally, it means  " character mutation " . 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Computer science]] 
+ [[Category:Encodings]]

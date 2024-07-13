@@ -1,0 +1,18 @@
+[[File:Telomerase illustration.jpg|thumb|right|300px|A [[concept]]ual diagram showing the protein component of telomerase (TERT) in grey and the RNA component (TR) in yellow]] 
+ 
+ '''Telomerase''' is an [[RNA]] [[protein]] which is an [[enzyme]]. It adds [[DNA]] sequence repeats ( " [[Thymine|T]][[Thymine|T]][[Adenine|A]][[Guanine|G]][[Guanine|G]][[Guanine|G]] "  in all vertebrates) to the end of DNA strands in the [[telomere]] regions.  
+ 
+ The telomeres are disposable [[wikt:buffer|buffers]] blocking the ends of [[eukaryote|eukaryotic]] [[chromosomes]]. They are a region of repeated [[nucleotide]]s containing noncoding DNA. Telomeres are destroyed during [[cell division]], and are remade by the enzyme telomerase. < ref > Elizabeth Blackburn: [https://www.youtube.com/watch?v=irUQEG4BSK4  AtGoogleTalks, August 20, 2008 Molecular biologist Elizabeth Blackburn] < /ref > 
+ 
+ The function of telomeres is to avoid the loss of important DNA from chromosome ends. Every time the [[DNA replication|chromosome is copied]] 100–200 meaningless nucleotides are lost, which causes no damage to the organism's DNA. So, the telomeres are shortened after each [[cell division|replication cycle]], and then are restored to their proper length by telomerase. Telomerases carry their own [[RNA]] molecule, which is used as a [[template]] to elongate the telomeres. 
+ 
+ The existence of a compensatory mechanism (a 'fix') for telomere shortening was first predicted by Soviet biologist [[Alexey Olovnikov]] in 1973. < ref name= " pmid4754905 " > {{cite journal | author = Olovnikov AM | title = A theory of marginotomy. The incomplete copying of template margin in enzymic synthesis of polynucleotides and biological significance of the phenomenon | journal = J. Theor. Biol. | volume = 41 | issue = 1 | pages = 181–90 |date=September 1973  | pmid = 4754905 | doi = 10.1016/0022-5193(73)90198-7| bibcode = 1973JThBi..41..181O | url =  }} < /ref >  He also suggested the telomere hypothesis of [[ageing]] and the telomere's connections to [[cancer]].  
+ 
+ Telomerase was discovered by [[Carol Greider]] and [[Elizabeth Blackburn]] in 1984 in the [[ciliate]] ''[[Tetrahymena]]''. < ref name= " pmid3907856 " > {{cite journal | author = Greider CW, Blackburn EH | title = Identification of a specific telomere terminal transferase activity in ''Tetrahymena'' extracts | journal = Cell | volume = 43 | issue = 2 Pt 1 | pages = 405–13 |date=December 1985  | pmid = 3907856 | doi = 10.1016/0092-8674(85)90170-9 | s2cid = 17747801 | url =  }} < /ref >  Together with [[Jack Szostak]], Greider and Blackburn were awarded the 2009 [[Nobel Prize in Physiology or Medicine]] for their discovery. < ref name= " Nobel_Prize_2003 " > {{cite web | url =  http://nobelprize.org/nobel_prizes/medicine/laureates/2009/press.html | title = The Nobel Prize in Physiology or Medicine 2009 | date = 2009-10-05 | accessdate = 2010-10-23 | publisher = The Nobel Foundation }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ [[Category:Enzymes]] 
+ [[Category:Chromosomes]]

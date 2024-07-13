@@ -1,0 +1,35 @@
+{{Orphan|date=July 2023}} 
+ 
+ '''''Daptomycin''''' is a natural [[Antibiotics|antibiotic]] used to treat [[gram-positive]] bacterial infections. < ref > {{Citation|last=Patel|first=Shivali|title=Daptomycin|date=2023|url=http://www.ncbi.nlm.nih.gov/books/NBK470407/|work=StatPearls|place=Treasure Island (FL)|publisher=StatPearls Publishing|pmid=29261926|access-date=2023-07-04|last2=Saw|first2=Stephen}} < /ref >  A unique mechanism of action has allowed low rates of bacterial cross-[[Antibiotic resistance|resistance]] to daptomycin, making it an effective treatment to severe infection such as Vancomycin-resistant Enterococci (VRE) and Methicillin-reistant Staphlococcus aureus (MRSA). < ref name= " :2 " > {{Cite journal|last=Heidary|first=Mohsen|last2=Khosravi|first2=Azar Dohkt|last3=Khoshnood|first3=Saeed|last4=Nasiri|first4=Mohammad Javad|last5=Soleimani|first5=Saleh|last6=Goudarzi|first6=Mehdi|date=2018-01-01|title=Daptomycin|url=http://academic.oup.com/jac/article/73/1/1/4558667|journal=Journal of Antimicrobial Chemotherapy|language=en|volume=73|issue=1|pages=1–11|doi=10.1093/jac/dkx349|issn=0305-7453}} < /ref > 
+ 
+ {{Infobox drug 
+ | drug_name = Daptomycin 
+ | type = cyclic lipopeptide antibiotic 
+ | image = Daptomycin.svg 
+ | alt = Chemical structure of Daptomycin 
+ | caption = Daptomycin. An antibiotic for gram-positive bacterial infection. 
+ | routes_of_administration = intravenous 
+ | DrugBank = DB00080 
+ | chemical_formula = C72H101N17O26 
+ }} 
+ 
+ == Nomenclature and structure == 
+ Daptomycin is also commonly referred to as Cubicin or abbreviated to DAP. < ref > {{Cite web|last=PubChem|title=Daptomycin|url=https://pubchem.ncbi.nlm.nih.gov/compound/16129629|access-date=2023-07-04|website=pubchem.ncbi.nlm.nih.gov|language=en}} < /ref > < ref name= " :0 " > {{Cite journal|last=Miller|first=William R.|last2=Bayer|first2=Arnold S.|last3=Arias|first3=Cesar A.|date=November 2016|title=Mechanism of Action and Resistance to Daptomycin in Staphylococcus aureus and Enterococci|url=http://perspectivesinmedicine.cshlp.org/lookup/doi/10.1101/cshperspect.a026997|journal=Cold Spring Harbor Perspectives in Medicine|language=en|volume=6|issue=11|pages=a026997|doi=10.1101/cshperspect.a026997|issn=2157-1422|pmc=5088507|pmid=27580748}} < /ref >   It is a lipopeptide, meaning that it is made of a combination of [[fatty acid]]s and [[protein]] complexes. < ref name= " :1 " > {{Cite journal|last=Micklefield|first=Jason|date=July 2004|title=Daptomycin Structure and Mechanism of Action Revealed|url=https://doi.org/10.1016/j.chembiol.2004.07.001|journal=Chemistry  & amp; Biology|volume=11|issue=7|pages=887–888|doi=10.1016/j.chembiol.2004.07.001|issn=1074-5521}} < /ref >  Daptomycin is biosynthetic, first extracted from ''Streptomyces roseosporus''. < ref name= " :1 "  / > 
+ 
+ == Medicine == 
+ Daptomycin is used to treat the following medical conditions: < ref name= " :2 "  / > 
+ 
+ * right-handed [[myocarditis]] infection 
+ * complicated skin and skin structure infections (cSSSIs) 
+ * [[meningitis]] 
+ * bacteraemia  
+ * [[sepsis]] 
+ * urinary tract infection 
+ 
+ == Mechanism of action == 
+ Daptomycin kills gram-positive bacteria by changing the structure of the [[cell membrane]]. < ref name= " :0 "  / >  Daptomycin enters the bacterial cell membrane by chemical exchange with calcium ions and phospholipid phosphatidylglycerol (PG). < ref name= " :2 "  / > < ref name= " :0 "  / > 
+ 
+ == References == 
+ < references / > 
+ 
+ [[Category:Antibiotics]]

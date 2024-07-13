@@ -1,0 +1,79 @@
+[[File:Electronic circuit.jpg|thumb|295x295px|A [[printed circuit board]].]] 
+ '''Electronics''' is the study of [[electricity]] (the flow of [[electron|electrons]]) and how to use that to build things like computers. It uses [[Electrical circuit|circuits]] that are made with parts called [[Electronic component|components]] and connecting wires to do useful things.  The science behind Electronics comes from the study of [[physics]] and gets applied in real-life ways through the field of [[electrical engineering]]. 
+ 
+ Many people can name several simple electronic components, such as transistors, fuses, circuit breakers, batteries, motors, transformers, LEDs and bulbs, but as the number of components starts to increase, it often helps to think in terms of smaller systems or blocks, which can be connected together to do something useful.  
+ 
+ One way of looking at an [[electronic system]] is to separate it into three parts: 
+ # Inputs - Electrical or mechanical [[sensor]]s, which take [[signal (electrical engineering)|signals]] from the physical world (in the form of temperature, pressure, etc.) and convert them into electric current and voltage signals. 
+ # Signal processing circuits - These consist of electronic components connected together to manipulate, interpret and transform the information contained in the signals. 
+ # Outputs - [[Actuator]]s or other devices that transform current and voltage signals back into human readable information. 
+ 
+ A [[television]] set, for example, has as its input a [[broadcast]] signal received from an [[antenna]], or for [[cable television]], a cable. 
+ 
+ Signal processing circuits inside the television set use the [[brightness]], [[colour]], and [[sound]] information contained in the received signal to control the television set's output devices. The display output device may be a [[cathode ray tube]] (CRT) or a [[Plasma (physics)|plasma]] or [[liquid crystal display]] screen. The audio output device might be a [[magnetic]]ally driven audio [[loudspeaker|speaker]]. The display output devices convert the signal processing circuits' brightness and colour information into the visible [[image]] displayed on a screen. The audio output device converts the processed sound information into sounds that can be heard by listeners. 
+ 
+ Analysis of a [[electrical circuit|circuit]]/[[network]] involves knowing the input and the signal processing circuit, and finding out the output. Knowing the input and output and finding out or [[Circuit design|designing]] the signal processing part is called ''[[synthesis]]''. 
+ 
+ == History == 
+ People started experimenting with electricity as early as 600 B.C.E, when [[Thales|Thales of Miletus]] discovered rubbing [[fur]] on [[amber]] would cause them to attract each other. < !-- to-do: all the rest of history -- > 
+ 
+ Starting in the 1900s, devices used glass or metal [[vacuum]] [[vacuum tube|tubes]] to control the flow of electricity. With these components a low power voltage can be used to change another. This revolutionized [[radio]], and allowed other inventions. 
+ 
+ In the 1960s and early 1970s [[transistor]] < nowiki/ > s and [[semiconductor]] began replacing vacuum tubes. Transistors can be made much smaller than vacuum tubes and they can work using less energy. 
+ 
+ At about the same time, [[integrated circuit]]s (circuits that are integrated inside other circuits) became commonly used. Integrated circuits made it possible to reduce the number of parts needed to make electronic products and made the products much cheaper in general. 
+ 
+ == Analog circuits == 
+ [[Analog signal|Analog]] circuits are used for signals that have a range of [[amplitude]]s. In general, analog circuits measure or control the amplitude of signals. In the early days of electronics, all electronic devices used analog circuits. The [[frequency]] of the analog circuit is often measured or controlled in analog signal processing. Even though more digital circuits are now made, analog circuits will always be necessary since the world and its people work in analog ways. 
+ 
+ == Radar == 
+ Pulse circuits are used for signals that require rapid pulses of energy.  For example, a [[radar]] works by using pulse circuits to create and send high powered bursts of radio energy from radar [[transmitter]]s.  Radar antennas are used to send ( " transmit " ) the high powered bursts in the direction the antenna is pointed. 
+ 
+ The radar transmitter's pulses or bursts of radio energy hit and bounce back (they are  " reflected " ) from hard or big metallic objects.  Hard objects are things like buildings, hills, and mountains.  Big things made of metal include aircraft, bridges, or even objects in space, like [[Satellite (artificial)|satellites]].  The reflected radar energy is detected by radar pulse [[receiver]]s which use both pulse and digital circuits together.  The pulse and digital circuits in radar pulse receivers are used to show the location, distance, and speed of objects which have reflected the radar transmitter's high powered pulses. 
+ {{Further|Radar}} 
+ 
+ == [[Digital]] circuits == 
+ [[File:Half adder.jpg|thumb|Diagram of a half adder, a digital circuit]] 
+ [[Digital Counters|Digital]] circuits are used for signals that only turn on and off instead of often working at levels somewhere between on and off. Active components in digital circuits typically have one signal level when turned on, and another signal level when turned off. In general, in digital circuits a component is only switched on and off. 
+ 
+ [[Computer]]s and electronic [[clock]]s are examples of electronic devices that are made up of mostly [[digital circuit]]s. 
+ 
+ Basic blocks: 
+ * [[Logic gate]]s 
+ * [[Flip-flop (electronics)|Flip-flops]] 
+ * [[Multiplexer]] 
+ * [[Binary adder]] 
+ * [[Counter circuit|Counters]] 
+ * [[Arithmetic logic unit]] 
+ * [[Floating point unit]] 
+ 
+ Complex devices: 
+ * [[Microprocessor]]s 
+ * [[Microcontroller]]s 
+ * [[Digital signal processor]]s 
+ 
+ == Related pages == 
+ * [[Institute of Electrical and Electronics Engineers]] 
+ * [[Electricity]] 
+ 
+ == Other websites == 
+ {{commonscat}} 
+ === Tutorials and projects === 
+ {{Div col}} 
+ * [http://wikibooks.org/wiki/Electronics Wikibooks Electronics] 
+ * [http://www.rohm.com/web/global/en_index ROHM's Electronics Basics] 
+ * [https://maker.pro/ Maker Pro] Electronics Projects 
+ * [https://www.allaboutcircuits.com/education/ All About Circuits] Lessons in Electric Circuits 
+ * [http://www.electronicsinfoline.com/ Electronics Infoline] Directory for electronics projects 
+ * [http://www.electronics-tutorials.com/ Electronics tutorials].com 
+ * Williamson Labs' [http://www.williamson-labs.com/ Electronics tutorial] {{Webarchive|url=https://web.archive.org/web/20041214101455/http://williamson-labs.com/ |date=2004-12-14 }} 
+ * Ian Purdie's [http://my.integritynet.com.au/purdic Electronics tutorial] {{Webarchive|url=https://web.archive.org/web/20030628155358/http://my.integritynet.com.au/purdic/ |date=2003-06-28 }} s 
+ * Iguana Labs' [http://www.iguanalabs.com/maintut.htm Electronics Tutorials and Kits] 
+ * [http://www.electronicdefinitions.com Electronic Meanings and Acronyms] 
+ * [http://www.ibiblio.org/obp/electricCircuits/ Lessons in Electric Circuits] - A free series of textbooks on the subjects of electricity and electronics. 
+ * [http://www.radio-electronics.com/ Radio-Electronics.Com] Free information and resources covering radio and electronics 
+ * [http://www.e-dsp.com Electronic tutorials] - Books and projects for self access learning 
+ * [https://electronicsmcqs.com/ Electronic MCQs] - Find Best Objective Questions and Answers 
+ {{Div col end}} 
+ {{authority control}} 
+ [[Category:Electronics| ]]

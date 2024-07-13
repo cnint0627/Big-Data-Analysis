@@ -1,0 +1,102 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Overbetuwe 
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Elst (Overbetuwe) gemeentehuis.JPG 
+ | image_alt               =  
+ | image_caption           = Elst town hall 
+ | image_flag              = Flag of Overbetuwe.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Coat of arms of Overbetuwe.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 1734 (2009).svg 
+ | map_alt                 = Highlighted position of Overbetuwe in a municipal map of Gelderland 
+ | map_caption             = Location in Gelderland 
+ | coordinates             = {{coord|51|55|N|5|51|E|region:NL|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|Gelderland}} 
+ | established_title       = Established 
+ | established_date        = 1 January 2001 < ref > {{cite web  
+  |url = http://www.cbs.nl/nl-NL/menu/methoden/classificaties/overzicht/gemeentelijke-indeling/2001/default.htm 
+  |title = Gemeentelijke indeling op 1 januari 2001 
+  |trans-title=Municipal divisions on 1 January 2001 
+  |language = nl 
+  |website = cbs.nl 
+  |publisher = [[Statistics Netherlands|CBS]] 
+  |access-date = 15 July 2014}} < /ref > 
+ | government_footnotes    =  < ref name= " mayor_now " > {{cite web 
+  |url = http://www.overbetuwe.nl/Gemeente/College_van_B_W/Samenstelling 
+  |archive-url = https://archive.today/20140711023100/http://www.overbetuwe.nl/Gemeente/College_van_B_W/Samenstelling 
+  |url-status = dead 
+  |archive-date = 11 July 2014 
+  |title = Samenstelling 
+  |trans-title = Members 
+  |language = nl 
+  |publisher = Gemeente Overbetuwe 
+  |access-date = 15 July 2014 
+  }} < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            =  
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[Toon van Asseldonk]] 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Overbetuwe}} 
+ | area_land_km2           = {{Dutch municipality land area|Overbetuwe}} 
+ | area_water_km2          = {{Dutch municipality water area|Overbetuwe}} 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web  
+  |url = http://www.ahn.nl/postcodetool 
+  |title = Postcodetool for 6661EH 
+  |language = nl 
+  |author =  < !--Staff writer(s); no by-line.-- >   
+  |work = Actueel Hoogtebestand Nederland 
+  |publisher = Het Waterschapshuis 
+  |access-date = 15 July 2014}} < /ref > 
+ | elevation_m             = 10 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Overbetuwe}} 
+ | population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|Overbetuwe}}  < !-- For automatic calculation: auto-- > 
+ | population_demonym      =  
+ < !-- Other information -- > 
+ | timezone                = [[Central European Time|CET]] 
+ | utc_offset              = +1 
+ | timezone_DST            = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST          = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 6660–6662, 6665–6668, 6670–6678 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 026, 0481, 0488 
+ | website                 = {{URL|1=http://www.overbetuwe.nl}} 
+ | footnotes               = 
+ }} 
+ '''Overbetuwe''' is a [[List of municipalities of the Netherlands|municipality]] found in the [[Netherlands|Dutch]] [[Provinces of the Netherlands|province]] of [[Gelderland]]. In 2019, 47,543 people lived there. 
+ 
+ It was created on 1 January 2001 from the former municipalities of Elst, Heteren and Valburg. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Gelderland Province}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:2001 establishments in the Netherlands]] 
+ [[Category:Municipalities of Gelderland]]

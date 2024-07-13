@@ -1,0 +1,37 @@
+{{Use dmy dates|date=May 2020}} 
+ {{Infobox website 
+ | name = Wikinews 
+ | logo = WikiNews-Logo-en.svg 
+ | screenshot = Wikinews screenshot 2017-08.png 
+ | caption = Screenshot of [https://www.wikinews.org/ wikinews.org] 
+ | url = {{URL|https://www.wikinews.org/}} 
+ | commercial = No 
+ | type = News wiki 
+ | registration = Optional 
+ | language = [[Multilingual]] 
+ | owner = [[Wikimedia Foundation]] 
+ | author = [[Wikimedia community]] 
+ | location = [[Miami, Florida|Miami]], [[Florida]] 
+ | launch_date = {{Start date and age|2004|11|8}} 
+ | content_licence = CC-BY 2.5 
+ | logocaption = The current Wikinews logo 
+ }} 
+ '''Wikinews''' is a [[free content|free-content]] [[news]] [[wiki]] and a project of the [[Wikimedia|Wikimedia Foundation]]. The news articles are written by users working together with each other. Old articles are archived, and protected so that people cannot change it anymore, except if an edit request is given. < ref > {{cite web|url=https://en.wikinews.org/wiki/Wikinews:Admin_action_alerts#Edits_to_protected_pages|title=Wikinews:Admin action alerts - Edits to protected pages|author=Wikinews|accessdate=9 July 2021|language=en-US}} < /ref >  Every article has a talk page where people can talk about the news in the article. The article is then peer-reviewed by an editor to see if it is ready to be published, and to publish it if it is. < ref > {{cite web|url=https://en.wikinews.org/wiki/Template:Peer_reviewed|title=Template:Peer reviewed - Wikinews, the free news source you can write|author=Wikinews}} < /ref > 
+ 
+ Wikinews is under the Creative Commons Attribution 2.5 License, which is different from the license that the other Wikimedia projects are under. 
+ 
+ ==Sources== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.wikinews.org/ Wikinews: Multilingual Portal] 
+ {{commons}} 
+ {{Wikimedia Foundation}} 
+ 
+ {{authority control}} 
+ 
+ 
+ {{tech-stub}} 
+ [[Category:Wikimedia]] 
+ [[Category:Wikis]] 
+ [[Category:Websites established in 2004]]

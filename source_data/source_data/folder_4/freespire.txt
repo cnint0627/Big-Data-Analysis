@@ -1,0 +1,28 @@
+{{Infobox OS 
+ |name = Freespire 
+ |screenshot = Freespire-2.0.8.png 
+ |caption = Freespire's desktop without any changes. 
+ |developer = [http://www.linspire.com/ Linspire, Inc.] and the Freespire community. 
+ |family = [[Linux]] 
+ |working state = Current < ref > {{cite web |title=Freespire |url=https://distrowatch.com/table.php?distribution=Freespire |website=DistroWatch.Com |accessdate=14 July 2022}} < /ref > 
+ |source_model = [[GPL]] 
+ |latest release version = {{wikidata|property|edit|reference|P348}} 
+ |latest release date    = {{start date and age|{{wikidata|qualifier|P348|P577}}}} 
+ |language = [[English language|English]] 
+ |kernel_type = Monolithic 
+ |ui = [[KDE]] 
+ |license = [[GPL]] with proprietary components 
+ }} 
+ 
+ '''Freespire''' is a [[Linux]] distribution made with parts from [[Ubuntu]]. It was made to make using free software easy, while giving the choice to use non-free (not [[open source]]) parts. These parts might be [[computer program|programs]], [[Driver (computer)|drivers]], or [[codecs]]. [[Linspire]], a [[Product (consumer goods)|commercial]] Linux distribution, is made from Freespire. 
+ 
+ ==Related pages== 
+ *[[List of Linux distributions]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux distributions]]

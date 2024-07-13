@@ -1,0 +1,5 @@
+'''Line feed''' is the name of a computer character that directs a printer or screen display to advance one line of text.  The word  " feed "  refers to its original use: causing paper to be fed through a [[teletype]], one line at a time.  On some systems, such as the Unix family, it also returns to the beginning of the line, like the [[carriage return]] character. 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Control characters]]

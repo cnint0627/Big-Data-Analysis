@@ -1,0 +1,38 @@
+In [[statistics]] and [[probability theory]], '''correlation''' is a way to indicate how closely related two [[set]]s of [[Information|data]] are. < ref > {{Cite web|date=2021-11-27|title=Correlation and Causation - easily explained! {{!}} Data Basecamp|url=https://databasecamp.de/en/statistics/correlation-and-causation|access-date=2022-07-01|language=en-US}} < /ref > 
+ 
+ Correlation does not always mean that one causes the other. In fact, it is very possible that there is a third factor involved. 
+ 
+ Correlation usually has one of two directions. These are positive or negative. If it is positive, then the two sets go up together. If it is negative, then one goes up while the other goes down. 
+ 
+ Lots of different measurements of correlation are used for different situations. For example, on a [[scatter graph]], people draw a [[line of best fit]] to show the direction of the correlation. [[File:Positive correltion lobf.JPG|thumb|This scatter graph has positive correlation. You can tell because the ''trend'' is up and right. The red line is a [[line of best fit]].]] 
+ 
+ == Explaining correlation == 
+ ''Strong'' and ''weak'' are words used to describe the strength of correlation. If there is strong correlation, then the points are all close together. If there is weak correlation, then the points are all spread apart. 
+ There are ways of making numbers show how strong the correlation is. These measurements are called '''correlation coefficients'''. The best known is the [[Pearson product-moment correlation coefficient]], sometimes denoted by  < math > r < /math >  or its [[Greek language|Greek]] equivalent  < math > \rho < /math > . < ref > {{Cite web|date=2020-04-26|title=List of Probability and Statistics Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/|access-date=2020-08-22|website=Math Vault|language=en-US}} < /ref > < ref > Even though it is called 'Pearson', it was first made by [[Francis Galton]]. < /ref >  You put in data into a formula, and it gives you a number between -1 and 1. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Statistical Correlation|url=https://mathworld.wolfram.com/StatisticalCorrelation.html|access-date=2020-08-22|website=mathworld.wolfram.com|language=en}} < /ref >  If the number is 1 or −1, then there is strong correlation. If the answer is 0, then there is no correlation. Another kind of correlation coefficient is [[Spearman's rank correlation coefficient]]. 
+ 
+ == Correlation vs causation == 
+ Correlation does not always mean that one thing causes the other (causation), because there might be something else that is at play. 
+ 
+ For example, on hot days people buy ice cream, and people also go to the beach where some are eaten by sharks. There is a correlation between ice cream sales and shark attacks (they both go up as the temperature goes up in this case). But just because ice cream sales go up does not mean ice cream sales cause (causation) more shark attacks or vice versa. < ref > {{Cite web|last=|first=|date=2019-02-21|title=Ice cream and shark attacks|url=https://bigthink.com/correlation-causation|url-status=dead|archive-url=https://web.archive.org/web/20200928132706/https://bigthink.com/correlation-causation|archive-date=2020-09-28|access-date=2020-08-22|website=Big Think|language=en}} < /ref > 
+ 
+ Because correlation does not imply causation, scientists, economists, etc. will test their theories by creating isolated environments where only one factor is changed (where this is possible). However, politicians, salesmen, news outlets and others often suggest that a particular correlation implies causation. This may be due to ignorance or a wish to persuade. Thus, a news report may attract attention by saying that people who consume a particular product more often have a particular health problem, implying a causation that could be actually due to something else. 
+ 
+ ==Related pages== 
+ * [[Rank correlation]] 
+ 
+ ==Notes and references== 
+ {{reflist}} 
+ 
+ == Further readings == 
+ 
+ * Cohen, J., Cohen P., West, S.G.,  &  Aiken, L.S. (2003). ''Applied multiple regression/correlation analysis for the behavioral sciences.'' (3rd ed.) Hillsdale, NJ: Lawrence Erlbaum Associates. 
+ 
+ ==Other websites== 
+ * [http://www.statisticalengineering.com/correlation.htm  Correlation Information] – At StatisticalEngineering.com  
+ * [http://www.statsoft.com/textbook/stathome.html Statsoft Electronic Textbook] {{Webarchive|url=https://web.archive.org/web/20090227054024/http://www.statsoft.com/textbook/stathome.html |date=2009-02-27 }} 
+ * [http://www.vias.org/tmdatanaleng/cc_corr_coeff.html Pearson's Correlation Coefficient] – How to work it out it quickly 
+ * [http://www.vias.org/simulations/simusoft_rdistri.html Learning by Simulations] – The spread of the correlation coefficient 
+ * [http://www.hlevkin.com/NumAlg/CorrMatr.c CorrMatr.c] {{Webarchive|url=https://web.archive.org/web/20071204071433/http://www.hlevkin.com/NumAlg/CorrMatr.c |date=2007-12-04 }} simple program for working out a ''correlation matrix'' 
+ * [http://www.mega.nu/ampp/rummel/uc.htm Understanding Correlation] {{Webarchive|url=https://web.archive.org/web/20071217024443/http://www.mega.nu/ampp/rummel/uc.htm |date=2007-12-17 }} – More beginner's information by a Hawaii professor 
+ 
+ [[Category:Statistics]]

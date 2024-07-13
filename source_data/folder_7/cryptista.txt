@@ -1,0 +1,30 @@
+'''Cryptista''' is a [[clade]] of [[eukaryotes]]. It is related to [[Archaeplastida]], and is in the group [[Diaphoretickes]]. < ref name= " AdlBass2019 " > {{cite journal | vauthors = Adl SM, Bass D, Lane CE, Lukeš J, Schoch CL, Smirnov A, Agatha S, Berney C, Brown MW, Burki F, Cárdenas P, Čepička I, Chistyakova L, Del Campo J, Dunthorn M, Edvardsen B, Eglit Y, Guillou L, Hampl V, Heiss AA, Hoppenrath M, James TY, Karnkowska A, Karpov S, Kim E, Kolisko M, Kudryavtsev A, Lahr DJ, Lara E, Le Gall L, Lynn DH, Mann DG, Massana R, Mitchell EA, Morrow C, Park JS, Pawlowski JW, Powell MJ, Richter DJ, Rueckert S, Shadwick L, Shimano S, Spiegel FW, Torruella G, Youssef N, Zlatogursky V, Zhang Q | display-authors = 6 | title = Revisions to the Classification, Nomenclature, and Diversity of Eukaryotes | journal = The Journal of Eukaryotic Microbiology | volume = 66 | issue = 1 | pages = 4–119 | date = January 2019 | pmid = 30257078 | pmc = 6492006 | doi = 10.1111/jeu.12691 }} < /ref > 
+ 
+ Although it has sometimes been put with [[Haptista]] in the group [[Hacrobia]], which is in the [[kingdom (biology)|kingdom]] [[Chromista]], < ref > 
+ {{Cite journal|last1=Ruggiero|first1=Michael A.|last2=Gordon|first2=Dennis P.|last3=Orrell|first3=Thomas M.|last4=Bailly|first4=Nicolas|last5=Bourgoin|first5=Thierry|last6=Brusca|first6=Richard C.|last7=Cavalier-Smith|first7=Thomas|last8=Guiry|first8=Michael D.|last9=Kirk|first9=Paul M.|date=2015-04-29|title=A Higher Level Classification of All Living Organisms|journal=PLOS ONE|volume=10|issue=4|pages=e0119248|doi=10.1371/journal.pone.0119248|issn=1932-6203|pmc=4418965|pmid=25923521|bibcode=2015PLoSO..1019248R|doi-access=free}} < /ref >  studies have said that Hacrobia is not a clade. < ref name= " BurkiRoger2020 " > {{cite journal | vauthors = Burki F, Roger AJ, Brown MW, Simpson AG | title = The New Tree of Eukaryotes | journal = Trends in Ecology  &  Evolution | volume = 35 | issue = 1 | pages = 43–55 | date = January 2020 | pmid = 31606140 | doi = 10.1016/j.tree.2019.08.008 | doi-access = free }} < /ref > 
+ 
+ ==Taxonomy== 
+ Based on studies done by Cavalier-Smith, Chao  &  Lewis 2015 < ref > {{Citation |last1=Cavalier-Smith |last2=Chao |last3=Lewis |year=2015 |title=Multiple origins of Heliozoa from flagellate ancestors: New cryptist subphylum Corbihelia, superclass Corbistoma, and monophyly of Haptista, Cryptista, Hacrobia and Chromista |journal=Molecular Phylogenetics and Evolution |volume=93 | pages=331–362 |pmid= 26234272|doi=10.1016/j.ympev.2015.07.004|doi-access=free }} < /ref > < ref > {{Citation |last=Tedersoo |first=Leho |year=2017 |title=Proposal for practical multi-kingdom classification of eukaryotes based on monophyly and comparable divergence time criteria |journal=bioRxiv |volume=2017 |doi=10.1101/240929|s2cid=90691603 }} < /ref > 
+ *''[[Corbihelia]]'' 
+ ** [[Phylum]] [[Microheliellida]]  < small > Tedersoo 2017 < /small >  [Endohelia  < small > Cavalier-Smith 2015 < /small > ] 
+ *** Class [[Endohelea]]  < small > Cavalier-Smith 2012 < /small > 
+ * Clade '''Cryptista''' s.s. 
+ ** [[Phylum]] [[Palpitophyta]]  < small > Tedersoo 2017 < /small > 
+ *** Class [[Palpitea]]  < small > Cavalier-Smith 2012 < /small > 
+ ** Clade [[Rollomonadia]]  < small > Cavalier-Smith 2013 stat. nov. < /small > 
+ *** [[Phylum]] [[Kathablepharidophyta]]  < small > Okamoto  &  Inouye 2005 < /small >  [Leucocrypta  < small > Cavalier-Smith 2015 < /small > ] 
+ **** Class [[Leucocryptea]]  < small > Cavalier-Smith 2004 < /small > < ref name= " tolweb.org " > {{Cite web | url=http://tolweb.org/Katablepharids/2413 | title=Katablepharids}} < /ref >  [Kathablepharidea  < small > (sic) Okamoto  &  Inouye 2005 < /small > ; Kathablepharidophyceae] 
+ *** [[Phylum]] [[Cryptomonada|Cryptophyta]]  < small > Pascher 1913 em. Adl et al. 2012 < /small >  ([[Cryptomonada]]  < small > Cavalier-Smith 2004 sta. n. < /small > ] 
+ **** Class [[Goniomonadea]]  < small > Cavalier-Smith 1993 < /small > 
+ **** Class [[Cryptophyceae]]  < small > Fritsch 1937 < /small > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{Wikispecies}} 
+ * [http://tolweb.org/Hacrobia/124797 Tree of Life: Hacrobia] 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Algae]]

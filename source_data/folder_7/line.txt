@@ -1,0 +1,39 @@
+{{otheruses| Line (disambiguation)}} 
+ A '''line''' is the path of one [[Point (geometry)|point]] that is moving. A line is a type of [[geometric]] [[wikt:figure|figure]]. A line has [[length]], but no [[width]]. A line is made up of an [[Infinity|endless]] number of points. 
+ 
+ == Straight and curved lines == 
+ [[File:CVsimp.svg|thumb|This is a line that curves]] 
+ A line can be [[wikt:straight|straight]] or curved. In [[geometry]], the word ''line'' means a ''straight line''. A straight line is the shortest [[distance]] between two points. A straight line is traced by a point moving in a [[direction]] that does not [[wikt:change|change]]. 
+ 
+ A ''curved line'' is sometimes called a [[curve]]. The edge of a [[circle]] is not straight. It is an example of a curve. 
+ 
+ == Line segments == 
+ A ''line segment'' is part of a line. Here are examples of straight line segments: 
+ 
+ 
+ ::: < hr width= " 10% "  height= " 5px "  / > 
+ ::: _____  & nbsp; __ 
+ ::: < hr width= " 30% "  height= " 5px "  / > 
+ 
+ == Naming lines == 
+ Lines can get their names from any two points on the line. For example, if a line contains two different points, named  < math > A < /math >  and  < math > B < /math > , then the line can be called either  < math > \overleftrightarrow{AB} < /math > , or  < math > \overleftrightarrow{BA} < /math > . 
+ 
+ Sometimes, lines are named with just one symbol. A [[letter]] such as  < math > \ell < /math >  might be used. < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-16|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Line|url=https://mathworld.wolfram.com/Line.html#:~:text=A%20line%20is%20a%20straight,wiggles%22%20anywhere%20along%20its%20length.|access-date=2020-08-16|website=mathworld.wolfram.com|language=en}} < /ref > < ref > {{Cite web|title=An introduction to geometry (Geometry, Points, Lines, Planes and Angles)|url=https://www.mathplanet.com/education/geometry/points,-lines,-planes-and-angles/an-introduction-to-geometry|access-date=2020-08-16|website=Mathplanet|language=en|archive-date=2020-09-29|archive-url=https://web.archive.org/web/20200929014507/https://www.mathplanet.com/education/geometry/points,-lines,-planes-and-angles/an-introduction-to-geometry|url-status=dead}} < /ref > 
+ 
+ == Two lines == 
+ Two lines can be: 
+ * [[parallel (geometry)|Parallel]]: Two lines are parallel if they are on the same [[Plane (mathematics)|plane]] and they never touch. 
+ * [[Concurrent]]: Two lines are concurrent if they touch on one point. 
+ * [[Coincident]]: Two lines are coincident if they are made of the same points. 
+ * [[Perpendicular]]: Two lines are perpendicular if they make four [[right angle]]s where they touch. 
+ * [[Skew lines|Skew]]: In [[Euclidean space]], two lines are skew if they are not parallel but they never touch. 
+ 
+ ==Related pages== 
+ * [[Linear function]] 
+ * [[Point (geometry)]] 
+ * [[Plane (mathematics)]] 
+ 
+ == References == 
+ < references / > 
+ [[Category:Basic English 850 words]] 
+ [[Category:Geometry]]

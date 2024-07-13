@@ -1,0 +1,39 @@
+{{Taxobox 
+ | color = lightgrey 
+ | name = Staphylococcaceae 
+ | image = Staphylococcus_aureus_VISA_2.jpg 
+ | image_caption=[[Staphylococcus aureus]] 
+ | domain = [[Bacteria]] 
+ | divisio = [[Firmicutes]] 
+ | classis = [[Bacilli]] 
+ | ordo = [[Bacillales]] 
+ | familia = '''Staphylococcaceae''' 
+ | familia_authority = Schleifer and Bell 2010 < ref > {{cite web|last1=Parte|first1=A.C.|title=''Staphylococcaceae''|website=LPSN|url=https://lpsn.dsmz.de/family/staphylococcaceae |accessdate=4 March 2018}} < /ref > 
+ | subdivision_ranks = Genera 
+ | subdivision = 
+ ''[[Abyssicoccus]]'' < br > 
+ ''[[Aliicoccus]]'' < br > 
+ ''[[Auricoccus]]'' < br > 
+ ''[[Corticicoccus]]'' < br > 
+ ''[[Jeotgalicoccus]]'' < br > 
+ ''[[Macrococcus]]'' < br > 
+ ''[[Nosocomiicoccus]]'' < br > 
+ ''[[Salinicoccus]]'' < br > 
+ ''[[Staphylococcus]]'' < ref > {{cite web|url=http://www.bacterio.net/-classifphyla.html#staphylococcaceae |accessdate=4 March 2018 |title=Classification of prokaryotes - Family Staphylococcaceae |website=LPSN}} < /ref > 
+ }} 
+ 
+ '''Staphylococcaceae''' is a [[family (taxonomy)|family]] of [[bacteria]]. The bacteria of this family are [[gram-positive]]. Some of the genus ''[[Staphylococcus]]'' are harmful: they are [[pathogen]]s. 
+ 
+ == Systematics == 
+ The Staphylococcaceae belong to [[Order (biology)|order]] [[Bacillales]] and consists of the following genera: < ref Name= " LPSN " > {{cite web | last=Euzéby| first=J. P. | url=http://www.bacterio.net/jeotgalicoccus.html | title=List of prokaryotic names with standing in nomenclature | accessdate=March 21, 2015}} < /ref > 
+ 
+ *''[[Jeotgalicoccus]]'' Yoon et al. 2003 emend. Liu et al. 2011 
+ *''[[Macrococcus]]'' Kloos et al. 1998 
+ *''[[Nosocomiicoccus]]'' Morais et al. 2008 
+ *''[[Salinicoccus]]'' Ventosa et al. 1990 
+ *''[[Staphylococcus]]'' Rosenbach 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Gram-positive bacteria]]

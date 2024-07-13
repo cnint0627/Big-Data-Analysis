@@ -1,0 +1,142 @@
+{{Infobox settlement 
+ < !--See Template:Infobox settlement for additional fields that may be available-- > 
+ < !--See the Table at Infobox settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |name                   = Ferrol 
+ |nickname               =  
+ |settlement_type        = Municipality 
+ |total_type             =  
+ |motto                  =  
+ < !-- images and maps  ----------- > 
+ |image_skyline          = RiaFerrolAsteleiros.jpg 
+ |imagesize              =  
+ |image_caption          = Ferrol Port 
+ |image_flag             = Bandera de Ferrol.svg 
+ |flag_size              =  
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           = Coat of Arms of Ferrol-Variant.svg 
+ |shield_size            =  
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map1             =  
+ |mapsize1               =  
+ |map_caption1           =  
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            = Spain Province of A Coruña#Spain 
+ |pushpin_label_position =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ |pushpin_map_caption    = Location of Ferrol within Galicia 
+ |pushpin_label_position1 =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ |pushpin_mapsize        =  
+ < !-- Location ------------------ > 
+ |subdivision_type       = [[Country]] 
+ |subdivision_name       = [[Spain]] 
+ |subdivision_type1      = [[Autonomous communities of Spain|Autonomous community]] 
+ |subdivision_name1      = [[Galicia (Spain)|Galicia]] 
+ |subdivision_type2      = [[Provinces of Spain|Province]] 
+ |subdivision_name2      = [[A Coruña (province)|A Coruña]] 
+ |subdivision_type3      = [[Comarcas of Spain|Comarca]] 
+ |subdivision_name3      = [[Ferrol (comarca)|Ferrol]] 
+ |parts_type             = [[Parroquia (Spain)|Parish]]es 
+ |parts_style            = para 
+ |p1 = Brión 
+ |p2 = A Cabana 
+ |p3 = Covas 
+ |p4 = Doniños 
+ |p5 = Esmelle  
+ |p6 = '''Ferrol'''  
+ |p7 = A Graña 
+ |p8 = Leixa 
+ |p9 = Mandiá 
+ |p10= Marmancón 
+ |p11= A Mariña 
+ |p12= Trasancos 
+ |p13= Serantes 
+ < !-- established --------------- > 
+ | established_title       = [[Castro culture|Fishing Village]] 
+ | established_date        = 1st century BC 
+ | established_title1      = [[Early Middle Ages|Christian Outpost]] 
+ | established_date1       = 8th century 
+ | established_title2      = [[Royal Arsenal]] 
+ | established_date2       = 16th century 
+ | established_title3      = [[Naval Structure of the Spanish Navy in the New Millennium|Royal Dockyard]] 
+ | established_date3       = 18th century 
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = [[Mayor-council government|Mayor-council]] 
+ |governing_body         = Concello de Ferrol 
+ |leader_party           = [[Ferrol en Común]] 
+ |leader_title           = [[Alcalde|Mayor]] 
+ |leader_name            = Jorge Suárez 
+ |leader_title1          =   
+ |leader_name1           = 
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref              =  < !--Enter: Imperial, to display imperial  before metric-- > 
+ |area_footnotes         = 
+ |area_total_km2         = 81.9 
+ |area_land_km2          =  < !--See table @ Template:Infobox settlement for details on unit conversion-- > 
+ |area_water_km2         = 
+ |area_total_sq_mi       = 
+ |area_land_sq_mi        = 
+ |area_water_sq_mi       = 
+ |area_water_percent     = 
+ < !-- Elevation -------------------------- > 
+ |elevation_footnotes    =   < !--for references: use  < ref >  tags-- > 
+ |elevation_m            =  
+ |elevation_ft           = 
+ < !-- Population   ----------------------- > 
+ | population_as_of        = {{Spain metadata Wikidata|population_as_of}} 
+ | population_footnotes    = {{Spain metadata Wikidata|population_footnotes}} 
+ | population_total        = {{Spain metadata Wikidata|population_total}} 
+ | population_rank         =  
+ | population_density_km2  = auto 
+ | population_density_sq_mi=  
+ | population_est          =  
+ | pop_est_as_of           =  
+ | population_urban        =  
+ | population_density_urban_km2   =  
+ | population_density_urban_sq_mi =  
+ | population_metro        =  
+ | population_density_metro_km2   =  
+ | population_density_metro_sq_mi =  
+ | population_density      =  
+ | population_density_rank =  
+ | population_blank1_title =  
+ | population_blank1       =  
+ | population_density_blank1_km2  =  
+ | population_density_blank1_sq_mi=  
+ | population_blank2_title =  
+ | population_blank2       =  
+ | population_density_blank2_km2  =  
+ | population_density_blank2_sq_mi=  
+ | population_demonym      = ferrolan (m), ferrolana (f) 
+ | population_note         =  
+ < !-- General information  --------------- > 
+ |timezone1              = CET (GMT +1) 
+ |utc_offset1            =  
+ |timezone1_DST          = CEST (GMT +2) 
+ |utc_offset1_DST        =  
+ |coordinates            = {{coord|43|28|N|8|15|W|type:city(244388)_region:ES-C|display=inline,title}} 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       = Postcode 
+ |postal_code            = 15401–15406 
+ |area_code              = +34 981 
+ |website                = http://www.ferrol.es/ 
+ |footnotes              =  
+ }} 
+ 
+ '''Ferrol''' (In the neighbourhood of [[Strabo]]'s ''[[Cabo Prior Lighthouse|Cape Nerium]]'', < ref > {{Cite book|url=https://archive.org/stream/in.ernet.dli.2015.42530/2015.42530.The-Geography-Of-Strabo--Vol2#page/n19/mode/2up|title=The Geography Of Strabo Vol.2|last=Jones|first=Horace Leonard|date=1949|pages=7–8}} < /ref >  modern day [[Cabo Prior Lighthouse|Cape Prior]] < ref > {{Cite book|url=https://archive.org/stream/in.ernet.dli.2015.42530/2015.42530.The-Geography-Of-Strabo--Vol2#page/n81/mode/2up|title=The Geography Of Strabo Vol.2|last=Jones|first=Horace Leonard|date=1949|pages=69}} < /ref > < ref > {{Cite web|last=Ptolemaeus|first=Claudius|title=Atlas - Claudius Ptolemaeus Geographia - Ancient Geography - EuropaeIiTab.hispania|url=https://archive.org/download/Atlas-ClaudiusPtolemaeusGeographia-AncientGeography/EuropaeIiTab.hispania.jpg|access-date=2018-03-20|website=archive.org}} < /ref > < ref > {{Cite book|url=https://books.google.com/books?id=1NInAAAAMAAJ|title=Encyclopaedia Britannica; Or A Dictionary of Arts, Sciences, and Miscellaneous Literature|date=1823|publisher=Archibald Constable|pages=484|language=en}} < /ref > < ref > {{Cite book|url=https://archive.org/stream/histoiregnralede01prvo_0#page/n35/mode/2up|title=Histoire générale des voyages, ou nouvelle collection de toutes les relations de voyages par mer et par terre, qui ont été publiées jusqu'à present dans les différentes langues de toutes les nations connues ... Tome premier [-vingtième]|last1=Prévost|first1=abbé|last2=Gmelin|first2=Johann Georg|date=1746|publisher=A Paris, : chez Didot ...|others=John Carter Brown Library|pages=36}} < /ref > ) ({{IPA-gl|feˈrɔl}}), is a city in the [[Province of A Coruña]] in [[Galicia (Spain)|Galicia]], on the [[Rías Altas|Atlantic coast in north-western Spain]]. According to the 2014 census, the city has a population of 70,389. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Province of A Coruña]] 
+ [[Category:Municipalities in Galicia]] 
+ 
+ 
+ {{europe-stub}}

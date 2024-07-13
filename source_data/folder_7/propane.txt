@@ -1,0 +1,101 @@
+{{Chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 464375285 
+ | ImageFileL1 = Propane-2D-Skeletal.svg 
+ | ImageFileL1_Ref = {{chemboximage|correct|??}} 
+ | ImageNameL1 = Skeletal formula of propane 
+ | ImageFileR1 = PropaneFull.png 
+ | ImageFileR1_Ref = {{chemboximage|correct|??}} 
+ | ImageNameR1 = Skeletal formula of propane with all implicit carbons shown, and all explicit hydrogens added 
+ | ImageFileL2 = Propane-3D-balls-B.png 
+ | ImageFileL2_Ref = {{chemboximage|correct|??}} 
+ | ImageNameL2 = Ball and stick model of propane 
+ | ImageFileR2 = Propane-3D-vdW-B.png 
+ | ImageFileR2_Ref = {{chemboximage|correct|??}} 
+ | ImageNameR2 = Spacefill model of propane 
+ | PIN = Propane < ref name=iupac2013 > {{cite book | title =  Nomenclature of Organic Chemistry : IUPAC Recommendations and Preferred Names 2013 (Blue Book) | publisher = [[Royal Society of Chemistry|The Royal Society of Chemistry]] | date = 2014 | location = Cambridge | page = 4 | doi = 10.1039/9781849733069-FP001 | isbn = 978-0-85404-182-4 | quote = Similarly, the retained names 'ethane', 'propane', and 'butane' were never replaced by systematic names 'dicarbane', 'tricarbane', and 'tetracarbane' as recommended for analogues of silane, 'disilane’; phosphane, 'triphosphane'; and sulfane, 'tetrasulfane'.| chapter = Front Matter }} < /ref > 
+ | SystematicName = Tricarbane (never recommended < ref name=iupac2013 / > ) 
+ |Section1={{Chembox Identifiers 
+ | CASNo = 74-98-6 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 6334 
+ | ChemSpiderID = 6094 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = T75W9911L6 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | EINECS = 200-827-9 
+ | UNNumber = 1978 
+ | KEGG = D05625 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | ChEBI = 32879 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 135416 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS = TX2275000 
+ | Beilstein = 1730718 
+ | Gmelin = 25044 
+ | SMILES = CCC 
+ | StdInChI = 1S/C3H8/c1-3-2/h3H2,1-2H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = ATUOYWHBWRKTHZ-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ }} 
+ |Section2={{Chembox Properties 
+ | Properties_ref =  < ref name= " GESTIS " > {{GESTIS|ZVG=10020|Name=Propane}} < /ref > 
+ | C=3 | H=8 
+ | Appearance = Colorless gas 
+ | Odor = Odorless 
+ | Density = 2.0098 & nbsp;kg/m < sup > 3 < /sup >  (at 0 & nbsp;°C, 101.3 & nbsp;kPa) 
+ | MeltingPtK = 85.5 
+ | BoilingPtK = 230.9 to 231.11 
+ | Solubility = 47 & nbsp;mg⋅L < sup > −1 < /sup >  (at 0 & nbsp;°C) 
+ | LogP = 2.236 
+ | VaporPressure = 853.16 & nbsp;kPa (at {{convert|21.1|C}}) 
+ | HenryConstant = 15 & nbsp;nmol⋅Pa < sup > −1 < /sup > ⋅kg < sup > −1 < /sup > 
+ | MagSus = −40.5 & nbsp;× & nbsp;10 < sup > −6 < /sup > & nbsp;cm < sup > 3 < /sup > /mol 
+ | ConjugateAcid = [[Propanium]] 
+ | Dipole = 0.083 & nbsp;D < ref > {{cite journal |title= Microwave Spectrum, Structure, and Dipole Moment of Propane |journal= J. Chem. Phys. |volume= 33 |issue= 5 |pages= 1514–1518 |year= 1960 |doi= 10.1063/1.1731434 |first= David R., Jr. |last= Lide |bibcode= 1960JChPh..33.1514L }} < /ref > 
+ }} 
+ |Section3={{Chembox Thermochemistry 
+ | DeltaHf = −105.2–104.2 & nbsp;kJ⋅mol < sup > −1 < /sup > 
+ | DeltaHc = −2.2197–2.2187 & nbsp;MJ⋅mol < sup > −1 < /sup > 
+ | HeatCapacity = 73.60 & nbsp;J⋅K < sup > −1 < /sup > ⋅mol < sup > −1 < /sup > 
+ }} 
+ |Section4={{Chembox Hazards 
+ | GHSPictograms = {{GHS flame}} 
+ | GHSSignalWord = '''DANGER''' 
+ | HPhrases = {{H-phrases|220}} 
+ | PPhrases = {{P-phrases|210}} 
+ | NFPA-H = 2 
+ | NFPA-F = 4 
+ | NFPA-R = 0 
+ | NFPA-S =  
+ | FlashPtC = −104 
+ | AutoignitionPtC = 470 
+ | ExploLimits = 2.37–9.5% 
+ | PEL = TWA 1000 & nbsp;ppm (1800 & nbsp;mg/m < sup > 3 < /sup > ) < ref name=PGCH > {{PGCH|0524}} < /ref > 
+ | IDLH = 2100 & nbsp;ppm < ref name=PGCH / > 
+ | REL = TWA 1000 & nbsp;ppm (1800 & nbsp;mg/m < sup > 3 < /sup > ) < ref name=PGCH / > 
+ }} < ref > {{cite web|url=http://cameochemicals.noaa.gov/chemical/9018|title=PROPANE – CAMEO Chemicals – NOAA|first=NOAA Office of Response and Restoration, US|last=GOV|website=cameochemicals.noaa.gov}} < /ref > 
+ |Section5={{Chembox Related 
+ | OtherFunction_label = alkanes 
+ | OtherFunction = {{unbulleted list|[[Ethane]]|[[Ethyl iodide]]|[[n-Propyl iodide|''n''-Propyl iodide]]|[[Isopropyl iodide]]|[[Butane]]|[[Butyl iodide]]}} 
+ | OtherCompounds = [[Diiodohydroxypropane]] 
+ }} 
+ }} 
+ 
+ '''Propane''' is an [[organic compound]] with the [[chemical formula]] {{chem|[[Carbon|C]]|3|[[Hydrogen|H]]|8}}. It is an [[alkane]] with three carbon [[atom]]s. It is used in fuels. 
+ 
+ It begins to [[combustion|burn]] very quickly.  
+ Its melting temperature is −187.7 °C; its boiling temperature is −42 °C; its density is 1.83 g/l. 
+ 
+ Propane is extracted from natural [[gasoline]] or from [[petroleum]]. 
+ 
+ ==Sources== 
+ {{Reflist}} 
+ 
+ 
+ {{chem-stub}} 
+ {{Fuel gas}} 
+ 
+ [[Category:Alkanes|3]]

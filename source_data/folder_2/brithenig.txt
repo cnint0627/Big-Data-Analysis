@@ -1,0 +1,111 @@
+{{Infobox language 
+ |name=Brithenig 
+ |creator=Andrew Smith 
+ |created=1996 
+ |setting=A [[thought experiment]] in [[alternate history (fiction)|alternate history]], Ill Bethisad, if [[Latin]] had replaced [[Celtic languages|Celtic]] 
+ |fam1=[[Indo-European]] 
+ |fam2=[[Italic languages|Italic]] 
+ |fam3=[[Romance languages|Romance]] 
+ |fam4=[[British Romance]] 
+ |posteriori=[[constructed language]]s < br > & nbsp;[[a posteriori language]]s < br > ([[Romance languages|Romance]] language based on [[Celtic languages|Celtic]]) 
+ |iso3=bzt 
+ |linglist=bzt 
+ }} 
+ '''Brithenig''' is [[constructed language]] that was made up by '''Andrew Smith''' from [[New Zealand]] in 1996. The idea behind it is the question what the [[Welsh language]] would have looked like if it had been a [[Romance languages|Romance]] instead of a [[Celtic language|Celtic]] language: a sister language to [[French language|French]], [[Spanish language|Spanish]] and [[Italian language|Italian]], but one that looks much like Welsh. It plays a key-role in the made-up world of [[Ill Bethisad]], where [[Latin language|Latin]] took the place of Old Celtic as the spoken language of the people in [[Great Britain]], thus giving way to the development of Brithenig. 
+ 
+ Brithenig is the best known example of the so-called group of  " alternative languages " , languages that could have existed if history had been different. Another well-known example is [[Wenedyk]], which does the same with [[Polish language|Polish]] as Brithenig does with Welsh. 
+ 
+ == Words == 
+ The following list of 30 words shows what Brithenig looks like compared to a few other Romance languages: 
+ 
+ {|class= " wikitable " 
+ |+'''Ten Romance languages compared''' 
+ ! [[English language|English]] !! [[Latin language|Latin]] !! [[Portuguese language|Portuguese]] !! [[Spanish language|Spanish]] !! [[French language|French]] !! [[Italian language|Italian]] !! [[Romansh language|Rhaeto-Romance]] !! [[Romanian language|Romanian]] !! '''Brithenig''' !! [[Wenedyk]] 
+ |-  
+ | '''arm''' || {{lang|la|brachium}} || {{lang|pt|braço}} || {{lang|es|brazo}} || {{lang|fr|bras}} || {{lang|it|braccio}} || {{lang|rm|bratsch}} || {{lang|ro|braţ}} || '''breich''' || brocz 
+ |- 
+ | '''black''' || nĭger || negro || negro || noir || nero || nair || negru || '''nîr''' || niegry 
+ |- 
+ | '''city, town''' || cīvĭtas || cidade || ciudad || cité || città || citad || ''oraş'' || '''ciwdad''' || czytać 
+ |-  
+ | '''death''' || mŏrs || morte || muerte || mort || morte || mort || moarte || '''morth''' || mroć 
+ |- 
+ | '''dog''' || canis || cão || ''perro'' || chien || cane || chaun || câine || '''can''' || kań 
+ |- 
+ | '''ear''' || auris || orelha || oreja || oreille || orecchio || ureglia || ureche || '''origl''' || urzykła 
+ |- 
+ | '''egg''' || ovum || ovo || huevo || œuf || uovo || ov || ou || '''ew''' || ów 
+ |- 
+ | '''eye''' || ŏcŭlus || olho || ojo || œil || occhio || egl || ochi || '''ogl''' || okieł 
+ |- 
+ | '''father''' || pater || pai || padre || père || padre || ''bab'' || ''tată'' || '''padr''' || poterz 
+ |- 
+ | '''fire''' || ''ignis'', fŏcus || fogo || fuego || feu || fuoco || fieu || foc || '''ffog''' || fok 
+ |- 
+ | '''fish''' || pĭscis || peixe || pez, pescado || poisson || pesce || pesch || peşte || '''pisc''' || pieszcz 
+ |- 
+ | '''foot''' || pĕs || pé || pie || pied || piede || pe || picior || '''pedd''' || piedź 
+ |- 
+ | '''friend''' || amīcus || amigo || amigo || ami || amico || ami || ''prieten'', amic || '''efig''' || omik 
+ |- 
+ | '''green''' || vĭrĭdis || verde || verde || vert || verde || verd || verde || '''gwirdd''' || wierdzi 
+ |- 
+ | '''horse''' || ''ĕquus'', cabăllus || cavalo || caballo || cheval || cavallo || chaval || cal || '''cafall''' || kawał 
+ |- 
+ | '''I''' || ĕgo || eu || yo || je || io || jau || eu || '''eo''' || jo 
+ |- 
+ | '''island''' || īnsŭla || ilha || isla || île || isola || insla || insulă || '''ysl''' || izła 
+ |- 
+ | '''language, tongue''' || lĭngua || língua || lengua || langue || lingua || linguatg, lieunga || limbă || '''llinghedig, llingw''' || lęgwa 
+ |- 
+ | '''life''' || vīta || vida || vida || vie || vita || vita || viaţă || '''gwid''' || wita 
+ |- 
+ | '''milk''' || lac || leite || leche || lait || latte || latg || lapte || '''llaeth''' || łoc 
+ |- 
+ | '''name''' || nōmen || nome || nombre || nom || nome || num || nume || '''nôn''' || numię 
+ |- 
+ | '''night''' || nŏx || noite || noche || nuit || notte || notg || noapte || '''noeth''' || noc 
+ |- 
+ | '''old''' || vĕtus || velho || viejo || vieux || vecchio || vegl || vechi || '''gwegl''' || wiekły 
+ |- 
+ | '''school''' || schŏla || escola || escuela || école || scuola || scola || şcoală || '''yscol''' || szkoła 
+ |- 
+ | '''sky''' || caelum || céu || cielo || ciel || cielo || tschiel || cer || '''cel''' || czał 
+ |- 
+ | '''star''' || stēlla || estrela || estrella || étoile || stella || staila || stea || '''ystuil''' || ścioła 
+ |- 
+ | '''tooth''' || dĕns || dente || diente || dent || dente || dent || dinte || '''dent''' || dzięć 
+ |- 
+ | '''voice''' || vōx || voz || voz || voix || voce || vusch || voce || '''gwg''' || wucz 
+ |- 
+ | '''water''' || aqua || água || agua || eau || acqua || aua || apă || '''ag''' || jekwa 
+ |- 
+ | '''wind''' || vĕntus || vento || viento || vent || vento || vent || vînt || '''gwent''' || więt 
+ |} 
+ 
+ == Sample == 
+ The Lord's Prayer: 
+ {{lang|bzt| 
+ :Nustr Padr, ke sia i llo gel: 
+ :sia senghid tew nôn:  
+ :gwein tew rheon:  
+ :sia ffaeth tew wolont,  
+ :syrs lla der sig i llo gel.  
+ :Dun nustr pan diwrnal a nu h-eidd;  
+ :e pharddun llo nustr phechad a nu,  
+ :si nu pharddunan llo nustr phechadur.  
+ :E ngheidd rhen di nu in ill temp di drial,  
+ :mai llifr nu di'll mal.  
+ :Per ill rheon, ill cofaeth e lla leir es ill tew,  
+ :per segl e segl. Amen.}} 
+ 
+ == References == 
+ * [http://journal.media-culture.org.au/0003/languages.php Higley, Sarah L., M/C Journal] {{Webarchive|url=https://web.archive.org/web/20050616085932/http://journal.media-culture.org.au/0003/languages.php |date=2005-06-16 }} Vol 3 Issue 1. 
+ 
+ == Other websites == 
+ * [http://hobbit.griffler.co.nz/introduction.html The page of Brithenig] {{Webarchive|url=https://web.archive.org/web/20090529072556/http://hobbit.griffler.co.nz/introduction.html |date=2009-05-29 }} 
+ * [http://www.bethisad.com/ The cultures of Ill Bethisad] 
+ * [http://www.geonames.de/wl-romance.html Romance glossary] (a list of common words in all Romance languages, also Brithenig and Wenedyk) 
+ 
+ {{Constructed languages}} 
+ [[Category:Constructed languages]]

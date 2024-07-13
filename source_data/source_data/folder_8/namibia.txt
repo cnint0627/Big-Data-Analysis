@@ -1,0 +1,189 @@
+{{for|the desert|Namib}} 
+ {{Infobox country 
+ | conventional_long_name = Republic of Namibia 
+ | native_name            =  < !--{{unbulleted list |{{native name|af|Republiek van Namibië}} |{{native name|de|Republik Namibia}}}}-- > 
+ | common_name            = Namibia 
+ | image_flag             = Flag of Namibia.svg 
+ | image_coat             = Coat of Arms of Namibia.svg 
+ | image_map              = Location Namibia AU Africa.svg 
+ | map_caption            = {{map caption|countryprefix=|location_color=dark blue|region=Africa|region_color=dark grey|subregion=the [[African Union]]|subregion_color=light blue}} 
+ | national_motto         =  " Unity, Liberty, Justice " 
+ | national_anthem        = ''[[Namibia, Land of the Brave]]'' 
+ | official_languages     = [[English language|English]] 
+ | regional_languages     = {{unbulleted list |[[Afrikaans]] |[[German language|German]] |[[Kwangali language|Rukwangali]] |[[Silozi]] |[[Setswana]] |[[Khoekhoe language|Damara/Nama]] |[[Herero language|Herero]] |[[Oshiwambo language|Oshiwambo]]}} 
+ | ethnic_groups          = {{unbulleted list 
+ | 49.5% [[Ovambo people|Ovambo]] 
+ | 9.2% [[Kavango people|Kavango]] 
+ | 8.0% [[Coloured people in Namibia|Coloured]] < br / >  – (including [[Basters]]) 
+ | 7.0% [[Herero people|Herero]] 
+ | 7.0% [[Damara (people)|Damara]] 
+ | 7.0% [[White Namibians|Whites]] 
+ | 4.7% [[Nama people|Nama]] 
+ | 3.5% [[Lozi people|Lozi]] (Caprivian) 
+ | 3.0% [[San people|San]] 
+ | 0.6% [[Tswana people|Tswana]] 
+ | 0.5% Others 
+ }} 
+ | ethnic_groups_year     = 2014 
+ | demonym                = Namibian 
+ | capital                = [[Windhoek]] 
+ | coordinates            = {{Coord|22|34|S|17|5|E|type:city_region:NA}} 
+ | largest_city           = capital 
+ | government_type        = [[Presidential republic]] 
+ | leader_title1          = [[List of Presidents of Namibia|President]] 
+ | leader_name1           = [[Hage Geingob]] 
+ | leader_title2          = [[Prime Minister of Namibia|Prime Minister]] 
+ | leader_name2           = [[Saara Kuugongelwa]] 
+ | area_rank              = 34th 
+ | area_km2               = 825,418 
+ | area_sq_mi             = 318,696  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | percent_water          = negligible 
+ | population_estimate    =  
+ | population_estimate_rank =  
+ | population_estimate_year =  
+ | population_census      = 2,113,077 < ref > {{Cite web |url=https://cms2.my.na/assets/documents/p19dmlj9sm1rs138h7vb5c2aa91.pdf |title=Archived copy |access-date=2020-04-19 |archive-date=2019-07-10 |archive-url=https://web.archive.org/web/20190710101819/https://cms2.my.na/assets/documents/p19dmlj9sm1rs138h7vb5c2aa91.pdf |url-status=dead }} < /ref > 
+ | population_census_year = 2011 
+ | population_density_km2 = 3.2 
+ | population_density_sq_mi = 6.6  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | population_density_rank = 235th 
+ | GDP_PPP                = $27.505 billion < ref name= " imfna " > {{cite web |url=https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=49 & pr.y=11 & sy=2017 & ey=2018 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & c=728 & s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC & grp=0 & a=|title=Report for Selected Countries and Subjects |publisher=[[International Monetary Fund]] |website=IMF.org |access-date=20 January 2019}} < /ref > 
+ | GDP_PPP_rank           =  
+ | GDP_PPP_year           = 2018 
+ | GDP_PPP_per_capita     = $11,516 < ref name=imfna/ > 
+ | GDP_PPP_per_capita_rank =  
+ | GDP_nominal            = $14.148 billion < ref name=imfna/ > 
+ | GDP_nominal_year       = 2018 
+ | GDP_nominal_per_capita = $5,923 < ref name=imfna/ > 
+ | legislature            = [[Parliament of Namibia|Parliament]] 
+ | upper_house            = [[National Council (Namibia)|National Council]] 
+ | lower_house            = [[National Assembly (Namibia)|National Assembly]] 
+ | sovereignty_type       = [[Independence]] 
+ | established_event1     = from [[South Africa]] 
+ | established_date1      = 21 March 1990 
+ | established_event2     = [[Constitution of Namibia]] 
+ | established_date2      = 12 March 1990 
+ | Gini_year              = 2015 
+ | Gini_change            =  < !--increase/decrease/steady-- > 
+ | Gini                   = 59.1  < !--number only-- > 
+ | Gini_ref               =  < ref > {{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=NA |title=GINI index (World Bank estimate) |publisher=[[World Bank]] |website=data.worldbank.org |access-date=20 January 2019}} < /ref > 
+ | Gini_rank              =  
+ | HDI_year               = 2018 
+ | HDI_change             = increase  < !--increase/decrease/steady-- > 
+ | HDI                    = 0.645  < !--number only-- > 
+ | HDI_ref                =  < ref name= " UNHDR " > {{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF|archive-date=23 May 2020|archive-url=https://web.archive.org/web/20200523103905/http://hdr.undp.org/en/content/2019-human-development-index-ranking|url-status=dead}} < /ref > 
+ | HDI_rank               = 130th 
+ | currency               = [[Namibian dollar]] 
+ | currency_code          = NAD 
+ | country_code           =  
+ | time_zone              = [[West Africa Time|WAT]] 
+ | utc_offset             = +1 
+ | time_zone_DST          = [[West Africa Summer Time|WAST]] 
+ | utc_offset_DST         = +2 
+ | drives_on              = left 
+ | calling_code           = [[+264]] 
+ | cctld                  = [[.na]] 
+ }} 
+ The '''Republic of Namibia''' is a [[country]] in southern [[Africa]] on the [[Atlantic Ocean|Atlantic]] coast. It is bordered by [[Angola]] and [[Zambia]] to the north, [[Botswana]] to the east, and [[South Africa]] to the south. It does not border [[Zimbabwe]], but it is very close to it. It gained [[independence]] from South Africa in [[1990]]. Before that it was called '''South West Africa'''. Its [[capital (city)|capital]] is [[Windhoek]]. 
+ 
+ Before [[World War I]] Namibia was a [[German Empire|German]] colony. [[German language|German]] is still widely spoken in the country, although [[English language|English]] is the official language. 
+ 
+ Namibia has a population of 2.1 million people. 
+ 
+ The name of the country is from the [[Namib Desert]].  This is said to be the oldest desert in the world. < ref > [http://www.worldwildlife.org/wildworld/profiles/terrestrial/at/at1315_full.html Namib desert (AT1315)] [[World Wide Fund for Nature]] site on the Namib Desert < /ref > 
+ 
+ == History == 
+ The dry lands of Namibia were lived in since early times by [[Bushmen]], [[Damara (people)|Damara]] and [[Nama people|Nama]]. About the 14th century AD, [[Bantu people|Bantu]] came to the area from central Africa. From the late 18th century onwards, [[Orlam]] clans from the [[Cape Colony]] crossed the [[Orange River]].  They moved into the area that today is southern Namibia. < ref name= " KDA " > {{cite web|url=http://www.klausdierks.com/Biographies/Biographies_A.htm|last=Dierks|first=Klaus|authorlink=Klaus Dierks|title=Biographies of Namibian Personalities, A|accessdate=24 June 2010}} < /ref >  The nomadic Nama tribes were largely peaceful. The missionaries with the Orlams were well received by them, < ref name= " Dierks " > {{cite web|last=Dierks|first=Klaus|authorlink=Klaus Dierks|title=Warmbad becomes two hundred years|url=http://www.klausdierks.com/Warm_Bath/index.htm|accessdate=22 June 2010|archive-date=21 August 2019|archive-url=https://web.archive.org/web/20190821172028/http://www.klausdierks.com/Warm_Bath/index.htm|url-status=dead}} < /ref >  the right to use waterholes and grazing was given. On their way further north, the Orlams met clans of the [[Herero people|Herero]] tribe.  They were not as friendly. The [[Nama-Herero War]] started in 1880.  They did not stop until [[German Empire|Imperial Germany]] sent troops. 
+ 
+ The first Europeans to explore the region were the Portuguese navigators [[Diogo Cão]] in 1485 and [[Bartolomeu Dias]] in 1486. Like most of [[Sub-Saharan Africa]], Namibia was not largely explored by Europeans until the 19th century.  At this time traders and settlers arrived, mostly from Germany and Sweden.  
+ 
+ ===German rule=== 
+ Namibia became a German colony in 1884.  This was to stop the British.  The country was called [[German South-West Africa]]. < ref > {{Cite encyclopedia|title=German South West Africa|encyclopedia=Encyclopædia Britannica|url=http://www.britannica.com/eb/article-9036573/German-South-West-Africa|accessdate=15 April 2008}} < /ref >    From 1904 to 1907, the [[Herero people|Herero]] and the [[Namaqua]] took up arms against the Germans.  In the following [[:en:Herero_and_Namaqua_Genocide|Herero and Namaqua genocide]], 10,000 Nama (half the population) and about 65,000 Hereros (about 80% of the population) were killed. 
+ 
+ ===South African rule=== 
+ [[South Africa]] began to rule the land in 1915.  They defeated the German force during [[World War I]].  It was a [[League of Nations]] [[mandate territory]] from 1919.  In 1946 the League was replaced by the United Nations.  South Africa would not give up their rule of the land.  Many people thought the land should be independent from South Africa.  In 1971 South Africa was told their hold on the country was illegal. < ref > {{Cite web  | publisher=Armed Conflict Events Database  | title = Namibian War of Independence 1966–1988  | url = http://www.onwar.com/aced/data/november/namibia1966.htm  | accessdate =30 November 2009}} < /ref >   They still did not leave. 
+ 
+ The country officially became independent on 21 March 1990. [[Sam Nujoma]] became the first [[List of Presidents of Namibia|President of Namibia]]. 
+ ==Administrative divisions== 
+ [[File:Namibia numbered colored regions English1.png|340px|thumb|left|upright=1.8|[[Regions of Namibia]]: 
+ {{Columns 
+ | col1 =  
+ 1. [[Kunene Region|Kunene]] < br / > 
+ 2. [[Omusati]] < br / > 
+ 3. [[Oshana]] < br / > 
+ 4. [[Ohangwena Region|Ohangwena]] < br / > 
+ 5. [[Oshikoto Region|Oshikoto]] 
+ | col2 =  
+ 6. [[Kavango West]] < br / > 
+ 7. [[Kavango East]] < br / > 
+ 8. [[Zambezi Region|Zambezi]] < br / > 
+ 9. [[Erongo Region|Erongo]] < br / > 
+ 10. [[Otjozondjupa]] 
+ | col3 = 
+ 11. [[Omaheke]] < br / > 
+ 12. [[Khomas Region|Khomas]] < br / > 
+ 13. [[Hardap Region|Hardap]] < br / > 
+ 14. [[ǁKaras Region|ǁKaras]]}} 
+ ]] 
+ 
+ Namibia is divided into 14 regions and subdivided into 121 constituencies. Regional councillors are directly elected through secret ballots. < ref > {{cite web |title=Namibia National Council |url=http://www.ipu.org/parline/reports/2226.htm |publisher=[[Inter-Parliamentary Union]] |accessdate=14 July 2010}} < /ref > 
+ 
+ ===Cities=== 
+ [[File:Walvis Bay aerial.jpg|thumb|left|330px|[[Walvis Bay]]]] 
+ [[File:Swakopmund (Namibia).jpg|thumb|left|330px|[[Swakopmund]]]] 
+ * [[Gobabis]] 
+ * [[Grootfontein]] 
+ * [[Henties Bay]] 
+ * [[Karasburg]] 
+ * [[Karibib]] 
+ * [[Keetmanshoop]] 
+ * [[Mariental, Namibia|Mariental]] 
+ * [[Okahandja]] 
+ * [[Omaruru, Namibia|Omaruru]] 
+ * [[Otjiwarongo]] 
+ * [[Outjo]] 
+ * [[Swakopmund]] 
+ * [[Tsumeb]] 
+ * [[Usakos]] 
+ * [[Walvis Bay]] < ref name= " CoW " > {{cite web|url=http://www.windhoekcc.org.na/repository/Cooperation/International%20Relations.pdf|title=City of Windhoek Cooperations and Partnerships|publisher=City of Windhoek|accessdate=9 August 2011|archive-date=16 February 2012|archive-url=https://web.archive.org/web/20120216095549/http://www.windhoekcc.org.na/repository/Cooperation/International%20Relations.pdf|url-status=dead}} < /ref > 
+ * [[Windhoek]] (capital) 
+ 
+ ==Tourism== 
+ [[File:Equus burchelli 4.jpg|thumb|An example of Namibian wildlife, the [[Plains Zebra]], one focus of tourism]] 
+ Tourism is a major contributor (14.5%) to Namibia's economy.  It creates tens of thousands of jobs (18.2% of all employment).  There are over a million tourists per year. < ref > {{cite web|title=A Framework/Model to Benchmark Tourism GDP in South Africa|publisher=Pan African Research  &  Investment Services|page=34|date=March 2010|url=http://www.southafrica.net/sat/action/media/downloadFile?media_fileid=29571|access-date=2012-09-03|archive-date=2010-07-18|archive-url=https://web.archive.org/web/20100718143151/http://www.southafrica.net/sat/action/media/downloadFile?media_fileid=29571|url-status=dead}} < /ref >  The country is among the main tourist places in Africa and is known for [[ecotourism]] which features Namibia's extensive and diverse wildlife. < ref name=goodshape > {{cite news 
+ |title=Tourism in good shape – Minister|last=Hartman|first=Adam|newspaper=[[The Namibian]]|date=30 September 2009|url=http://www.namibian.com.na/index.php?id=28 & tx_ttnews%5Btt_news%5D=51487 & no_cache=1}} < /ref > 
+ 
+ There are many lodges and reserves for tourists. Sport Hunting is also a large, and growing part of the Namibian economy.  It was 14% of total tourism in the year 2000. Namibia has numerous species wanted by international sport hunters. < ref > Humavindu, Michael N., Barnes, Jonothan I. Trophy Hunting in the Namibian Economy: An Assessment. Environmental Economics Unit, Directorate of Environmental Affairs, Ministry of Environment and Tourism, Namibia. South African Journal of Wildlife Research 33(2): 65–70 October 2003 < /ref >  In addition, extreme sports such as [[sandboarding]] and 4x4ing have become popular. Many cities have companies that provide tours. The most visited places include the [[Caprivi Strip]], [[Fish River Canyon]], [[Sossusvlei]], the [[Skeleton Coast]] Park, [[Sesriem]], [[Etosha Pan]] and the coastal towns of [[Swakopmund]], [[Walvis Bay]] and [[Lüderitz]]. 
+ 
+ ==Education== 
+ [[File:NamibiaMehrsprachigkeit.jpg|thumb|Signs in Namibia showing the languages still used by many people]] 
+ Namibia has required free education for 10 years between the ages of 6 and 16. Grades 1–7 are primary level, grades 8–12 secondary. 
+ 
+ Most schools in Namibia are state-run. There are a few private schools. There are four teacher training colleges, three colleges of agriculture, a police training college, a [[Polytechnic of Namibia|Polytechnic]] at university level, and a [[University of Namibia|National University]]. 
+ 
+ ==Sport== 
+ The most popular sport in Namibia is [[association football|football]]. The [[Namibia national football team]] qualified for the [[2008 Africa Cup of Nations]].  They have yet to qualify for any [[FIFA World Cup|World Cups]]. The [[Namibia national rugby union team|Namibian rugby team]] has been in four separate World Cups. Namibia were participants in the [[1999 Rugby World Cup|1999]], [[2003 Rugby World Cup|2003]], [[2007 Rugby World Cup|2007]] and [[2011 Rugby World Cup|2011]] [[Rugby World Cup]]s.  [[Cricket]] is also popular. The national team played in the [[2003  Cricket World Cup]]. 
+ 
+ [[Inline Hockey]] was first played in 1995.  It has become more and more popular in the last years. The Women's Inline Hockey National Team were in the 2008 [[FIRS]] World Championships. Namibia is the home for one of the toughest footraces in the world, the [[Namibian ultra marathon]]. 
+ 
+ The most famous athlete from Namibia is certainly [[Frankie Fredericks]], sprinter (100 and 200 m). He won four Olympic silver medals (1992, 1996). He also has medals from several World Athletics Championships. He is also known for [[humanitarian]] activities in Namibia and further. 
+ 
+ ==Related pages== 
+ *[[List of rivers of Namibia]] 
+ *[[Namibia at the Olympics]] 
+ *[[Namibia national football team]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{commons cat|Namibia|Namibia}} 
+ {{wikisource|Special:Search/Namibia|Namibia}} 
+ * [https://archive.today/20121203072358/http://www.grnnet.gov.na/ Republic of Namibia] - Namibian Governmental Portal 
+ 
+ {{africa}} 
+ {{Commonwealth nations}} 
+ 
+ [[Category:Namibia| ]] 
+ [[Category:English-speaking countries]] 
+ [[Category:German-speaking countries]] 
+ [[Category:Commonwealth member states]]

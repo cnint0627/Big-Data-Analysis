@@ -1,0 +1,35 @@
+{{Use dmy dates|date=March 2017}} 
+ {{Infobox website 
+ | name                 = SoundCloud 
+ | logo                 = Soundcloud logo.svg 
+ | founder              = {{ubl|Alexander Ljung|Eric Wahlforss}} 
+ | owner                = SoundCloud Limited 
+ | programming_language = [[Ruby (programming language)|Ruby]], < ref name=BuiltWith > {{Cite web|url=https://builtwith.com/soundcloud.com|title=SOUNDCLOUD.COM Technology Profile on BuiltWith|website=BuiltWith}} < /ref >  [[Scala (programming language)|Scala]] < ref name=BuiltWithScala > {{Cite web|url=https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith/|title=Building Products at SoundCloud —Part I: Dealing with the Monolith|website=developers.soundcloud.com}} < /ref > 
+ | registration         = Optional; 
+ Required to post and upload content. 
+ | company_type         = [[Private company|Private]] 
+ | industry             = Music, social/[[Internet community]] 
+ | foundation           = {{start date|df=yes|2007|8|27}} 
+ | location_city        = [[Berlin]] 
+ | location_country     = Germany < ref > {{Cite web|url=https://www.selectyourdeals.com/soundcloud-listening-history/|title = SoundCloud Listening History (Everything You Need to Know)  & #124; SelectYourDeals|date = 8 October 2021}} < /ref > 
+ | key_people           = Mike Weissman ([[Chief executive officer|CEO]]), < ref > [https://variety.com/2020/digital/news/soundcloud-michael-weissman-kerry-trainor-ceo-1234843127/ SoundCloud Names Michael Weissman to Succeed Kerry Trainor as CEO] at Variety;by Jem Aswad; published 1 December 2020; retrieved 5 May 2021 < /ref > < br / > Eliah Seton ([[President (corporate title)|President]]), < ref > [https://www.musicbusinessworldwide.com/official-eliah-seton-named-president-of-soundcloud/ OFFICIAL: ELIAH SETON NAMED PRESIDENT OF SOUNDCLOUD] at Music Business Worldwide; by Murray Stassen; published 8 April 2021; retrieved 5 May 2021 < /ref > < br / > Drew Wilson ([[Chief operating officer|COO]], [[Chief financial officer|CFO]]), < ref > [https://www.billboard.com/articles/business/executive-turntable/9544463/soundcloud-drew-wilson-coo-cfo SoundCloud Names Drew Wilson COO  &  CFO] at Billboard Magazine; by Chris Eggersten; published 22 March 2021; retrieved 5 May 2021 < /ref > < br / > Lauren Wirtzer-Seawood ([[Chief Content Officer|CCO]], [[Chief Marketing Officer|CMO]]), < ref > [https://www.musicbusinessworldwide.com/lauren-wirtzer-seawood-appointed-chief-content-and-marketing-officer-at-soundcloud/ LAUREN WIRTZER-SEAWOOD JOINS SOUNDCLOUD AS CHIEF CONTENT AND MARKETING OFFICER] at Music Business Worldwide; by Murray Stassen; published 10 May 2021; retrieved 26 May 2021 < /ref > < br / > Antonious Porch ([[Chief diversity officer|CDO]]), < ref > [https://www.legal500.com/gc-magazine/interview/antonious-porch-%E2%80%A9general-counsel-%E2%80%A9soundcloud/ Antonious Porch, General Counsel, SoundCloud] at Legal500; published 2019; retrieved 2021 < /ref > < br / >  Alexander Ljung ([[Chairman]] and Co-Founder) < br / > 
+ | url                  = {{url|https://soundcloud.com}} 
+ | num_employees        = approx. 425 (2021) < ref > [https://www.businessinsider.com/soundcloud-employees-shocked-by-job-cuts-2017-7 SoundCloud employees shocked by job cuts: 'Nobody saw it coming'] at Business Insider; by Sam Shead; published 7 July 2017; retrieved 26 May 2021 < /ref > 
+ | launch_date          = {{start date and age|df=yes|2008|10}} 
+ | num_users            = +76 million users monthly (November 2021) < ref > [https://expandedramblings.com/index.php/soundcloud-statistics/ SoundCloud Statistics, User Count and Facts] from By The Numbers; by Craig Smith; last revised 28 November 2021 < /ref > 
+ | website_type         = [[Streaming media|Music streaming]], [[Internet community]] 
+ }} 
+ 
+ '''SoundCloud''' is a Swedish-founded online audio distribution platform and [[music sharing]] website. It is based in [[Berlin]], Germany.  
+ ==Services== 
+ It enables its users to upload, promote, and share audio, as well as a DSP enabling listeners to stream audio. Started in 2007 by Alexander Ljung and [[Eric Wahlforss]], SoundCloud has grown to be one of the largest music streaming services. < ref > {{Cite web|url=https://expandedramblings.com/index.php/soundcloud-statistics/|title=16 Amazing SoundCloud Statistics|date=2016-06-24|publisher=DMR|language=en-US|access-date=2019-08-04}} < /ref >  SoundCloud offers both free and paid membership on the platform. It is available for desktop and mobile devices. 
+ ==Influence== 
+ SoundCloud has influenced the music industry through the success of many artists who have used the service to launch or advance their careers. < ref > {{Cite web|last=Battan|first=Carrie|title=The Messy Story of How SoundCloud Rap Took Over Everything|url=https://www.gq.com/story/soundcloud-rap-boom-times|access-date=2020-11-24|website=GQ|language=en-us}} < /ref >  SoundCloud got support from many investors and other media platforms such as [[Twitter]]. < ref > {{Cite web |url=https://www.vox.com/2017/3/10/14887806/soundcloud-sale-investment |title=SoundCloud needs more money, or it may sell at a fire-sale price |last=Kafka|first=Peter|date=2017-03-10|website=Vox|access-date=2019-08-04}} < /ref >  Although the streaming platform itself has unsolved funding issues and has dismissed many employees in order to remain profitable. < ref > {{Cite web|title=Music streaming pioneer SoundCloud raises $75M from Pandora owner SiriusXM|url=https://social.techcrunch.com/2020/02/11/music-streaming-pioneer-soundcloud-raises-75m-from-pandora-owner-siriusxm/|access-date=2020-11-24|website=TechCrunch|language=en-US}}{{Dead link|date=June 2023 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:2007 establishments in Germany]] 
+ [[Category:Organizations based in Berlin]] 
+ [[Category:Music companies]] 
+ [[Category:Companies of Germany]]

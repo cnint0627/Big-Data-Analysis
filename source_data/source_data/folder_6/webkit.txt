@@ -1,0 +1,14 @@
+'''WebKit''' is a [[layout engine]] made to let [[web browser]]s show [[web pages]]. The WebKit engine has a set of [[Class (programming)|classes]] to display web content in [[GUI|windows]], and implements browser features such as following links when clicked by the person using the web browser (the user), managing a back-forward list, and keeping a history of pages recently visited. 
+ WebKit was first made to be used as the layout engine for [[Safari (web browser)|Safari]], < ref > {{cite web |url=http://web.appstorm.net/general/opinion/the-history-of-webkit/ |title=The History of WebKit |publisher=Web.appstorm.net |date=2011-07-25 |accessdate=2011-11-01 |archive-date=2011-10-28 |archive-url=https://web.archive.org/web/20111028205659/http://web.appstorm.net/general/opinion/the-history-of-webkit/ |url-status=dead }} < /ref >  and is portable to many other computing platforms.  
+ WebKit's WebCore and JavaScriptCore parts are available under the [[GNU Lesser General Public License]], and the rest of WebKit is available under a [[BSD License|BSD-style license]]. < ref > {{cite web |url=http://www.webkit.org/projects/goals.html |title=The WebKit Open Source Project - WebKit Project Goals |publisher=Webkit.org |accessdate=2011-11-01 |archive-date=2011-11-10 |archive-url=https://web.archive.org/web/20111110180241/http://www.webkit.org/projects/goals.html |url-status=dead }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [https://www.webkit.org/ WebKit] 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Web browsers]] 
+ [[Category:Free software]]

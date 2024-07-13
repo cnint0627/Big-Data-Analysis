@@ -1,0 +1,22 @@
+[[File:Thermocouple0002.jpg|right|thumb|300px|thermocouple plugged to a multimeter displaying room temperature in °C]] 
+ 
+ A '''thermocouple''', TC for short, is a device that converts heat directly into [[electricity]]. A thermocouple can also work in reverse - using an electric current to transform into heat as well as cold. 
+ 
+ == How do thermocouples work? == 
+ Imagine that two wires made of different types of metal are connected at one end. If the junction of the two wires is heated, electricity will flow through the wire.  
+ 
+ [[Electron]]s, when heated, will begin to cross the junction on their own. Because of the different properties of the different metals, the electrons will lose [[potential energy]] and gain kinetic energy, just like a ball rolling over a hill to a lower area. Although the voltage created by a thermocouple is very small (in the millivolt range), many thermocouples can be hooked together to make a larger voltage. This is called a thermopile. 
+ 
+ Thermocouples can also generate heat from electricity, and even cold from electricity, acting as a [[refrigerator]]. If two different wires are connected at both ends, and some voltage source makes current flow through the loop, one junction will get hot and the other junction will become cold. The electrons at the hot junction are gaining kinetic energy as they cross the junction. This is why they make the metal hot. The electrons at the cold junction are losing kinetic energy as they cross the junction. This is why they make the junction cold. 
+ 
+ It is difficult to measure the precise voltage that a thermocouple is producing when heat is applied to its junction. This is because any voltmeter wires that are connected to the thermocouple will probably be made of a different material than the wires of a thermocouple. This means that the connection between the voltmeter and the thermocouple is itself another thermocouple. Engineers designing microchips face the problem that virtually every electrical connection on a microchip is a thermocouple whether they want it to be or not. 
+ 
+ == Use of thermocouple == 
+ Gas heaters with [[pilot flame]]s are one of the most famous examples for the use of thermocouples. Thermocouples are stacked to make a thermopile, which can generate enough voltage from the heat of the pilot flame to keep the gas valve open which in turn supplies the gas for the pilot flame. If the gas runs out, the flame extinguishes and the voltage across the thermopile decreases, which causes the electric gas valve to close. Many [[space probe]]s get their electric power from a thermocouple in a [[radioisotope thermoelectric generator]]. 
+ 
+ Thermocouples are also used in other ways. For instance, they monitor temperatures in air conditioning and refrigerators, and of CPUs in computers, which could be destroyed by overheating. 
+ 
+ == Some kinds of thermocouple == 
+ There are hundreds of thermocouples, but only eight of them are standardized internationally. < br / > Type E (chromel–constantan), type J (iron–constantan), type N (nicrosil–nisil), type T (copper–constantan) and type K (chromel–alumel) are base metals. < br / > Types B, R, and S thermocouples use platinum or a platinum–rhodium. 
+ 
+ [[Category:Thermometers]]

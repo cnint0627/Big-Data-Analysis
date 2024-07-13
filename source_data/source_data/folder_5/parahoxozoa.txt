@@ -1,0 +1,64 @@
+{{Automatic taxobox 
+ |fossil_range = {{Fossil range|605.2|0}}[[Ediacaran]]-[[Present]] 
+ |image = 
+ |taxon = ParaHoxozoa 
+ |authority = Ryan ''et al.'', 2010 
+ |subdivision_ranks = Clades 
+ |subdivision =  
+ *[[Placozoa]] 
+ *[[Cnidaria]] 
+ *[[Triploblasts]]/[[Bilateria]] 
+ }} 
+ 
+ '''ParaHoxozoa''' is a proposed group within [[taxonomy]].  It would be a [[clade]], above [[phylum]] but below a [[kingdom (biology)|kingdom]].   
+ 
+ It would include the [[Bilateria]], the [[Placozoa]] and the [[Cnidaria]]ns. < ref name=Feuda-2017 > {{Cite journal|last1=Feuda|first1=Roberto|last2=Dohrmann|first2=Martin|last3=Pett|first3=Walker|last4=Philippe|first4=Hervé|last5=Rota-Stabelli|first5=Omar|last6=Lartillot|first6=Nicolas|last7=Wörheide|first7=Gert|last8=Pisani|first8=Davide|title=Improved Modeling of Compositional Heterogeneity Supports Sponges as Sister to All Other Animals|journal=Current Biology|volume=6|issue=24|pages=3864–3870.e4|language=en|doi=10.1016/j.cub.2017.11.008|pmid=29199080|year=2017|doi-access=free}} < /ref > < ref name=Pisani-2015 > {{Cite journal|last1=Pisani|first1=Davide|last2=Pett|first2=Walker|last3=Dohrmann|first3=Martin|last4=Feuda|first4=Roberto|last5=Rota-Stabelli|first5=Omar|last6=Philippe|first6=Hervé|last7=Lartillot|first7=Nicolas|last8=Wörheide|first8=Gert|date=15 December 2015|title=Genomic data do not support comb jellies as the sister group to all other animals|journal=Proceedings of the National Academy of Sciences|language=en|volume=112|issue=50|pages=15402–15407|bibcode=2015PNAS..11215402P|doi=10.1073/pnas.1518127112|issn=0027-8424|pmc=4687580|pmid=26621703|doi-access=free}} < /ref > < ref name=Simio-2017n > {{Cite journal|last1=Simion|first1=Paul|last2=Philippe|first2=Hervé|last3=Baurain|first3=Denis|last4=Jager|first4=Muriel|last5=Richter|first5=Daniel J.|last6=Franco|first6=Arnaud Di|last7=Roure|first7=Béatrice|last8=Satoh|first8=Nori|last9=Quéinnec|first9=Éric|date=3 April 2017|title=A Large and Consistent Phylogenomic Dataset Supports Sponges as the Sister Group to All Other Animals|journal=Current Biology|language=English|volume=27|issue=7|pages=958–967|doi=10.1016/j.cub.2017.02.031|pmid=28318975|issn=0960-9822|bibcode=|s2cid=4560353|url=https://hal.archives-ouvertes.fr/hal-01681528/file/Simion_etal2017_CurrBiol_proofs.pdf|type=Submitted manuscript}} < /ref > < ref name=Giribet-2016 > {{Cite journal|last=Giribet|first=Gonzalo|date=1 October 2016|title=Genomics and the animal tree of life: conflicts and future prospects|journal=Zoologica Scripta|language=en|volume=45|pages=14–21|doi=10.1111/zsc.12215|issn=1463-6409|doi-access=free}} < /ref > < ref > {{Cite journal|last1=Laumer|first1=Christopher E|last2=Gruber-Vodicka|first2=Harald|last3=Hadfield|first3=Michael G|last4=Pearse|first4=Vicki B|last5=Riesgo|first5=Ana|last6=Marioni|first6=John C|last7=Giribet|first7=Gonzalo|date=2018-10-30|title=Support for a clade of Placozoa and Cnidaria in genes with minimal compositional bias|journal=eLife|language=en|volume=7|doi=10.7554/elife.36278|pmid=30373720|pmc=6277202|issn=2050-084X |doi-access=free }} < /ref > < ref name=Ryan-2010 > {{Cite journal|last1=Ryan|first1=Joseph F.|last2=Pang|first2=Kevin|last3=Mullikin|first3=James C.|last4=Martindale|first4=Mark Q.|last5=Baxevanis|first5=Andreas D.|date=2010-10-04|title=The homeodomain complement of the ctenophore Mnemiopsis leidyi suggests that Ctenophora and Porifera diverged prior to the ParaHoxozoa|journal=EvoDevo|volume=1|issue=1|pages=9|doi=10.1186/2041-9139-1-9|pmid=20920347|pmc=2959044|issn=2041-9139 |doi-access=free }} < /ref > < ref name=Eitel-2017 > {{Cite journal|last1=Eitel|first1=Michael|last2=Francis|first2=Warren|last3=Osigus|first3=Hans-Jürgen|last4=Krebs|first4=Stefan|last5=Vargas|first5=Sergio|last6=Blum|first6=Helmut|last7=Williams|first7=Gray Argust|last8=Schierwater|first8=Bernd|last9=Wörheide|first9=Gert|date=2017-10-13|title=A taxogenomics approach uncovers a new genus in the phylum Placozoa|url=https://www.biorxiv.org/content/early/2017/10/13/202119|journal=bioRxiv|language=en|pages=202119|doi=10.1101/202119|doi-access=free}} < /ref > 
+ 
+ == Characteristics == 
+ Parahoxozoa is named after the groups of [[gene]]s that scientists found in the organisms in it: (sub)classes (HNF, CUT, PROS, ZF, CERS, K50, S50-PRD) and [[Hox gene|Hox]]/[[ParaHox]]-ANTP. Some scientists said they thought a similar gene, ANTP, the NK gene, and the Cdx Parahox gene were also in sponges in the phylum [[Porifera]], but for now, Parahoxozoa does not have sponges in it. < ref > {{Cite journal|last1=Fortunato|first1=Sofia A. V.|last2=Adamski|first2=Marcin|last3=Ramos|first3=Olivia Mendivil|last4=Leininger|first4=Sven|last5=Liu|first5=Jing|last6=Ferrier|first6=David E. K.|last7=Adamska|first7=Maja|date=2014-10-30|title=Calcisponges have a ParaHox gene and dynamic expression of dispersed NK homeobox genes|journal=Nature|language=en|volume=514|issue=7524|pages=620–623|bibcode=2014Natur.514..620F|doi=10.1038/nature13881|issn=0028-0836|pmid=25355364|hdl=10023/6597|s2cid=205241127|hdl-access=free}} < /ref > < ref > {{Cite journal|last1=Larroux|first1=Claire|last2=Fahey|first2=Bryony|last3=Degnan|first3=Sandie M.|last4=Adamski|first4=Marcin|last5=Rokhsar|first5=Daniel S.|last6=Degnan|first6=Bernard M.|year=1996|title=The NK Homeobox Gene Cluster Predates the Origin of Hox Genes|journal=Current Biology|volume=17|issue=8|pages=706–710|bibcode=|doi=10.1016/j.cub.2007.03.008|pmid=17379523|s2cid=18994676}} < /ref > < ref > {{Cite journal|last1=Ryan|first1=Joseph F.|last2=DeBiasse|first2=Melissa B.|last3=Pastrana|first3=Claudia C.|title=Sponges lack ParaHox genes|journal=Genome Biology and Evolution|volume=11|issue=4|pages=1250–1257|language=en|doi=10.1093/gbe/evz052|pmid=30859199|pmc=6486804|year=2019}} < /ref > < ref name=Giribet-2016/ > 
+ 
+ {{Clade |style=font-size:80%; line-height:90% 
+ |label1=[[Choanozoa]] |sublabel1=(950 mya) 
+ |1={{Clade 
+    |1=[[Choanoflagellate|Choanoflagellata]][[File:Cronoflagelado2.svg|70 px]] 
+    |label2 =[[Animalia]] |sublabel2=(760 mya) 
+    |2={{Clade 
+       |1=[[Porifera]]  
+       |label2=[[Diploblast]]s/[[Eumetazoa]]/  |sublabel2=[[Epitheliozoa]]/[[Histozoa]] 
+       |2={{Clade 
+          |1=[[Ctenophora]][[File:Mertensia ovum.png|70 px]] 
+          |label2='''ParaHoxozoa''' |sublabel2=(680 mya) 
+          |2={{Clade 
+             |1={{clade 
+                |1=[[Placozoa]]  
+                |2=[[Cnidaria]][[File:Medusae of world-vol03 fig360 Atolla chuni.jpg|70 px]] 
+                }} 
+             |label2=[[Bilateria]]/ 
+             |sublabel2=[[Triploblasts]] 
+             |2={{Clade 
+                |1=[[Xenacoelomorpha]] 
+                |label2=[[Nephrozoa]] |sublabel2=(650 mya) 
+                |2={{clade 
+                   |1=[[Deuterostomes]][[File:Cyprinus carpio3.jpg|70 px]] 
+                   |label2 =[[Protostomes]] |sublabel2=(610 mya) 
+                   |2={{Clade 
+                      |1=[[Ecdysozoa]][[File:Acrodipsas brisbanensis.jpg|70 px]] 
+                      |2=[[Spiralia]][[File:Loligo forbesii.jpg|70 px]]  
+                      }} 
+                   }} 
+                }} 
+             }} 
+          }} 
+       }} 
+    }} 
+ }} 
+ Scientists are not sure where to put Placozoa.  They think it could be a sister clade to the other Parahoxozoa (the [[Planulozoa]] hypothesis) or sister of [[Cnidaria]]. 
+ 
+ == Planula-acoel, triploblasty, and bilaterian similarities == 
+ The first bilateral organisms (the first living things that were symmetrical from side to side) were worms which lived on the bottom of bodies of water. This type of worm probably had only one opening in its body instead of both a mouth and an anus, as bilateral organisms do today. < ref name= " Cannon2016 " > {{Cite journal|last1=Cannon|first1=Johanna Taylor|last2=Vellutini|first2=Bruno Cossermelli|last3=Smith|first3=Julian|last4=Ronquist|first4=Fredrik|last5=Jondelius|first5=Ulf|last6=Hejnol|first6=Andreas|year=2016|title=Xenacoelomorpha is the sister group to Nephrozoa|journal=Nature|volume=530|issue=7588|pages=89–93|bibcode=2016Natur.530...89C|doi=10.1038/nature16520|pmid=26842059|s2cid=205247296|url=http://urn.kb.se/resolve?urn=urn:nbn:se:nrm:diva-1844|type=Submitted manuscript}} < /ref >  A through-gut may already have developed with the ctenophora. < ref > {{Cite journal|last1=Browne|first1=William E.|last2=Amemiya|first2=Chris T.|last3=Swalla|first3=Billie J.|last4=Warren|first4=Kaitlyn J.|last5=Vandepas|first5=Lauren E.|last6=Presnell|first6=Jason S.|date=2016-10-24|title=The presence of a functionally tripartite through-gut in Ctenophora has implications for metazoan character trait evolution |journal=Current Biology|language=English|volume=26|issue=20|pages=2814–2820|doi=10.1016/j.cub.2016.08.019|issn=0960-9822|pmid=27568594|doi-access=free}} < /ref >  The through-gut, the tubelike digestive system with two ends, may have evolved when the organism's one hole closed in the middle. For example, [[Acoela]] look like the [[planula]] larvae of some cnidarians. < ref > {{Cite journal|last1=Jiménez-Guri|first1=Eva|last2=Philippe|first2=Hervé|last3=Okamura|first3=Beth|last4=Holland|first4=Peter W. H.|date=2007-07-06|title=Buddenbrockia Is a Cnidarian Worm|journal=Science|language=en|volume=317|issue=5834|pages=116–118|doi=10.1126/science.1142024|issn=0036-8075|pmid=17615357|bibcode=2007Sci...317..116J|s2cid=5170702}} < /ref > < ref > {{Cite journal|last1=Baguñà|first1=Jaume|last2=Martinez|first2=Pere|last3=Paps|first3=Jordi|last4=Riutort|first4=Marta|date=2008-04-27|title=Back in time: a new systematic proposal for the Bilateria|journal=Philosophical Transactions of the Royal Society B: Biological Sciences|language=en|volume=363|issue=1496|pages=1481–1491|doi=10.1098/rstb.2007.2238|issn=0962-8436|pmc=2615819|pmid=18192186}} < /ref > < ref > {{Cite journal|last1=Genikhovich|first1=Grigory|last2=Technau|first2=Ulrich|date=2017-10-01|title=On the evolution of bilaterality|journal=Development|language=en|volume=144|issue=19|pages=3392–3404|doi=10.1242/dev.141507|issn=0950-1991|pmid=28974637|doi-access=free}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ {{Taxonbar|from=Q16976127}} 
+ [[Category:Groups of phyla]]

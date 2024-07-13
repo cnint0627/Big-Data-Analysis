@@ -1,0 +1,68 @@
+'''Yabasic''' ('''Yet Another [[BASIC]]''') is an [[Interpreter (computing)|interpreter]] [[Computer program|program]] for a [[wikt:version|version]] of [[BASIC (programming language)|BASIC]]. BASIC is a [[programming language]]. BASIC was designed by [[John George Kemeny]] and [[Thomas Kurtz]], in 1964. < !-- Can't use Wikipedia as reference  < ref > {{cite web|url=https://en.wikipedia.org/w/index.php?title=BASIC & oldid=882127700|title=BASIC|date=7 February 2019|publisher=|via=Wikipedia}} < /ref > -- >  Yabasic was born in 1995, 32 years later. Pedro Sá and Thomas Larsen are now developing version 3 of Yabasic. Yasbic is very [[wikt:compact|compact]] at about 250 [[kilobyte]]s total length. 
+ 
+ ==How it works== 
+ To write something on the monitor, like Hello World, type '''print''' then  < nowiki > " YOUR TEXT HERE " . < /nowiki > 
+  Print  " Hello World " 
+ 
+ Study this bit of code: 
+  10 beep 
+  20 wait 1 
+  30 goto 10 
+ The result of this code is: < br / > 
+ An audible beep is generated < br / > 
+ The program waits for 1 second before going onto the next instruction < br / > 
+ It then goes back to the start of the program creating an infinite loop. 
+ 
+ This programming language can also be used to create rather complex programs such as one that calculates [[prime numbers]] 
+ 
+  print  " This program will calculate the prime numbers below the limit " 
+  input  " limit:  "  limit 
+  n=2 
+  do 
+    for i=2 to sqrt(n) 
+      if (frac(n/i)=0) then 
+        notprime=1 
+        break 
+      endif 
+    next i 
+    if notprime < > 1 then 
+      print n 
+    endif 
+    notprime=0 
+    n=n+1 
+    if n > limit break 
+  loop 
+ 
+ The  " input "  command asks the user to input a value which in this case is number that tells the program what number to stop finding prime numbers at. < br / > 
+ The  
+  do < br / > ... < br / > loop 
+ commands create a loop that can be repeated infinitely. < br / > 
+ The 
+  for < br / > ... < br / > next 
+ commands hold instructions as to what the program is to do while in the loop.  < br / > 
+ The 
+  if < br / > ... < br / > endif 
+ commands tell the program to look for something and if the thing it is looking for is there then it reports back that it is there. < ref > [http://www.basicprogramming.org/wiki/index.php?title=Yabasic::Dev_Tutorial_Create_a_Variable_Type Tutorial on how to create UDTs in Yabasic 3] {{Webarchive|url=https://web.archive.org/web/20110910024327/http://www.basicprogramming.org/wiki/index.php?title=Yabasic::Dev_Tutorial_Create_a_Variable_Type |date=2011-09-10 }} ''www.basicprogramming.org'' < /ref > 
+ < ref > [http://www.basicprogramming.org/wiki/index.php?title=Yabasic::Dev_Article_Future_of_Yabasic Yabasic::Dev Article Future of Yabasic] {{Webarchive|url=https://web.archive.org/web/20110910024152/http://www.basicprogramming.org/wiki/index.php?title=Yabasic::Dev_Article_Future_of_Yabasic |date=2011-09-10 }} ''www.basicprogramming.org'' < /ref > < ref > [http://forum.basicprogramming.org/index.php/topic,1076.msg6146.html#msg6146 Announcement: Yabasic 3 beta release (2.9.5)] {{Webarchive|url=https://web.archive.org/web/20111002183417/http://forum.basicprogramming.org/index.php/topic,1076.msg6146.html#msg6146 |date=2011-10-02 }} Thomas H. Larsen, via basicprogramming.org forum, 26 November 2009, ''forum.basicprogramming.org'' < /ref > 
+ < ref > [http://www.basicprogramming.org/wiki/index.php?title=YABasic Wiki of the developer team for Yabasic 3] {{Webarchive|url=https://web.archive.org/web/20110910024146/http://www.basicprogramming.org/wiki/index.php?title=YABasic |date=2011-09-10 }} ''www.basicprogramming.org'' < /ref > 
+ 
+ ==Related pages== 
+ * [[List of programming languages]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [http://www.yabasic.de/ Official Yabasic website] — downloads and documentation for Yabasic 2.763. 
+ * [http://yabasic.basicprogramming.org/ Yabasic 3 website] {{Webarchive|url=https://web.archive.org/web/20111002183357/http://yabasic.basicprogramming.org/ |date=2011-10-02 }} - downloads and documentation for the Version 3 interpreter. 
+ * [http://www.yabasic.de/yabasic.htm Yabasic manual] — documentation for the interpreter. 
+ * [http://yab-interpreter.sourceforge.net/about_en.htm YAB interpreter] — [[BeOS]]/Haiku version of Yabasic. 
+ * [http://members.chello.nl/~a.vanarum8/Yabasic/index.html Yabsic PS2] {{Webarchive|url=https://web.archive.org/web/20110806044614/http://members.chello.nl/~a.vanarum8/Yabasic/index.html |date=2011-08-06 }} — site about the PS2 version. 
+ * [http://web.ukonline.co.uk/mws.g/yabasic/index.html Small collection of Yabasic programs] {{Webarchive|url=https://web.archive.org/web/20100324175607/http://web.ukonline.co.uk/mws.g/yabasic/index.html |date=2010-03-24 }}. 
+ * [http://team-maui.org/ Official website of flyab]. 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer programming]] 
+ [[Category:Programming languages]]

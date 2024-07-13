@@ -1,0 +1,20 @@
+In [[electromagnetism]], a '''dielectric''' (or '''dielectric material''' or '''dielectric medium''') is an [[Insulator (electricity)|electrical insulator]] that can be [[Polarization|polarized]] when the insulator is in an [[electric field]]. 
+ 
+ Dielectric materials include types of glass, [[mica]], [[bakelite]], plexiglass, and kinds of paper,. Dielectric materials reduce the overall electric field, like when one of these materials is inserted in a capacitor. This happens because of [[polarization]] in dielectric material. Charges are induced in dielectric materials being used which creates an opposite electric field, resulting in the lowering of the '''ELECTRIC FIELD it is in.''' Generally, positive charges are induced in negative plates and vice versa, and so a dielectric material reduces the overall electric field,. How it does that is normally represented as the  " dielectric constant "  (generally represented as  " k " , in equations), as a result '''POTENTIAL DIFFERENCE''' is also reduced by  " dielectric constant "  times, specifically; if dielectric is inserted in capacitors then new capacitance becomes  " dielectric constant "  times the original capacitance. 
+ 
+ ==Examples (or practical dielectrics)== 
+ Dielectric materials can be solids, liquids, or gases. (A high [[vacuum]] can also be a useful, < ref > {{cite journal|last1=Lyon|first1=David|title=Gap size dependence of the dielectric strength in nano vacuum gaps|journal=IEEE Transactions on Dielectrics and Electrical Insulation|date=2013|volume=20|issue=4|pages=1467–1471|doi=10.1109/TDEI.2013.6571470|s2cid=709782}} < /ref >  nearly lossless dielectric; However its relative [[dielectric constant]] is only unity. 
+ 
+ Solid dielectrics are perhaps the most commonly used dielectrics in [[electrical engineering]]. Many solids are very good insulators. Some examples include [[porcelain]], [[glass]], and most [[plastic]]s. Air, [[nitrogen]] and [[sulfur hexafluoride]] are the three most commonly used [[gaseous dielectric]]s (or gases that are in use as dielectrics). 
+ 
+ == Related pages == 
+ * [[Capacitor]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Materials]] 
+ [[Category:Electromagnetism]] 
+ 
+ 
+ {{stub}}

@@ -1,0 +1,12 @@
+[[File:Photocell.gif|thumb|Photocell]] 
+ A '''photocell''', also known as a '''photoresistor''', is an [[electronic component]], device that changes its [[electrical conductivity]] when light shines on it. In the picture, the electricity flows through the reddish part. Normally, when light shines on it, then more electricity flows through. When it is dark, almost no electricity flows through. [[Selenium]] can be used to make photocells, although some other chemicals can be used.  
+ 
+ Semiconductors are used to make photocells. When the light shines into the photocell, it  " loosen " s the electrons, allowing them to flow and make an electrical current. 
+ 
+ ==Related pages== 
+ *[[Resistor]] 
+ *[[Capacitor]] 
+ 
+ [[Category:Electronic components]] 
+ 
+ {{tech-stub}}

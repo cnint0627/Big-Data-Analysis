@@ -1,0 +1,98 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Iquique 
+ | native_name             =  < !-- if different from the English name -- > 
+ | native_name_lang        = es  < !-- ISO 639-2 code e.g.  " fr "  for French. If more than one, use {{lang}} instead -- > 
+ | other_name              = 
+ | settlement_type         = [[List of cities in Chile|City]] and [[Communes of Chile|Commune]] 
+ | image_skyline           = Iquiquechile.jpg 
+ | image_alt               = Iquique 
+ | image_caption           = Top: View of downtown Iquique, 2nd left: Baquedano Square, 2nd right: Iquique Municipal Theater, Bottom: Cavancha Beach 
+ | image_flag              = Bandera de Iquique.svg 
+ | image_shield            = Escudo de Iquique.svg 
+ | image_map               = Comuna de Iquique.svg 
+ | map_alt                 = Map of Iquique in Tarapacá Region 
+ | map_caption             = Map of Iquique in Tarapacá Region 
+ | pushpin_map             = Chile 
+ | pushpin_map_narrow = yes 
+ | pushpin_label_position  = bottom 
+ | pushpin_map_alt         = Location in Chile 
+ | pushpin_map_caption     = Location in Chile 
+ | coordinates             = {{Coord|20|13|S|70|9|W|region:CL-TA|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = Country 
+ | subdivision_name        = [[Chile]] 
+ | subdivision_type1       = [[Regions of Chile|Region]] 
+ | subdivision_name1       = [[Tarapacá Region|Tarapacá]] 
+ | subdivision_type2       = [[Provinces of Chile|Province]] 
+ | subdivision_name2       = [[Iquique Province|Iquique]] 
+ | established_title       = Founded 
+ | established_date        = 16th Century 
+ | established_title1      =  
+ | established_date1       = 
+ | founder                 = 
+ | named_for               = 
+ | seat_type               = 
+ | seat                    = 
+ | government_footnotes    = < ref name= " Official " > {{cite web |url=http://www.municipioiquique.com/ |title=Municipality of Iquique |accessdate= < !-- @Day @Month @YYYY31 -- > |language=}} {{in lang|es}} < /ref > 
+ | government_type         = [[Municipal council]] 
+ | leader_party            = 
+ | leader_title            = [[Alcalde]] 
+ | leader_name             = Jorge Soria Quiroga 
+ | unit_pref               = Metric 
+ | area_footnotes          = < ref name= " INE " > {{cite web |url=http://www.ine.cl/canales/chile_estadistico/censos_poblacion_vivienda/censo_pobl_vivi.php |title=National Statistics Institute |accessdate= < !-- @Day @Month @YYYY9 -- > |language=}} {{in lang|es}} < /ref > 
+ | area_total_km2          = 2242.1 
+ | elevation_footnotes     =  
+ | elevation_m             = 1 
+ | elevation_max_footnotes =  
+ | elevation_max_m         = 
+ | population_footnotes    = < ref name= " INE " / > 
+ | population_total        = 180601 
+ | population_as_of        = 2012 Census 
+ | population_rank         = 
+ | population_density_km2  = auto 
+ | population_est          = 
+ | pop_est_as_of           = 
+ | population_urban        = 183997 
+ | population_density_rank = 
+ | demographics_type1      =  
+ | demographics1_footnotes = 
+ | timezone = [[Time in Chile|CLT]] < ref > {{cite web |url=http://www.world-time-zones.org/zones/chile-time.htm |accessdate= < !-- @Day @Month @YYYY9 -- >  |title=Chile Time |publisher=WorldTimeZones.org |archive-date=2007-09-11 |archive-url=https://web.archive.org/web/20070911130719/http://www.world-time-zones.org/zones/chile-time.htm |url-status=dead }} < /ref > 
+ | utc_offset = -4 
+ | timezone_DST = [[Time in Chile|CLST]] < ref > {{cite web |url=http://www.world-time-zones.org/zones/chile-summer-time.htm |accessdate= < !-- @Day @Month @YYYY9 -- >  |title=Chile Summer Time |publisher=WorldTimeZones.org |archive-date=2007-09-11 |archive-url=https://web.archive.org/web/20070911130451/http://www.world-time-zones.org/zones/chile-summer-time.htm |url-status=dead }} < /ref > 
+ | utc_offset_DST = -3 
+ | postal_code_type        = Postal code 
+ | postal_code             = 1100000 
+ | area_code_type          =  
+ | area_code               = 
+ | registration_plate      = 
+ | website                 = [http://www.municipioiquique.cl/ Official website] {{in lang|es}} 
+ | footnotes               = 
+ }} 
+ '''Iquique''' is a port town in northern [[Chile]]. It is the capital of [[Iquique Province]] and [[Tarapacá Region]]. In the 2012 census, the town had a [[population]] of 180,601. < ref name= " INE " / > 
+ 
+ ==Images== 
+ < gallery perrow=4 > 
+ File:Paseo Baquedano.JPG|''Baquedano Boulevard'' 
+ File:Plaza Prat Iquique.jpg|Downtown Iquique 
+ File:Iquique theater.jpg|Municipal Theater of Iquique 
+ File:Teatro Municipal Noche.jpg|Iquique Municipal Theatre at night 
+ File:Plaza Prat.jpg|Plaza Prat 
+ File:Zofrinight.jpg|Mall Zofri at Night 
+ File:21 may Square.jpg|21-May Square 
+ File:Esmeralda Ship's replica.jpg|A replica of Esmeralda Ship 
+ < /gallery > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.municipioiquique.cl/ Municipality of Iquique] {{in lang|es}} 
+ 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:Cities in Chile]] 
+ [[Category:Capitals of Chilean regions]] 
+ [[Category:Towns in South America]] 
+ [[Category:Iquique Province]]

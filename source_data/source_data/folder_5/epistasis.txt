@@ -1,0 +1,10 @@
+'''Epistasis''' is the interaction between [[genes]] at different [[Locus (genetics)|loci]]. < ref > More precisely, the nonreciprocal (one-way) interaction of [[allele|non-allelic]] genes: King R.C. Stansfield W.D.  &  Mulligan P.K. 2006. ''A dictionary of genetics'', 7th ed. Oxford. p146 < /ref >  It was a term invented by [[William Bateson]] in 1909. < ref > Bateson, W. 1909. ''Mendel's principles of heredity''. Cambridge. < /ref > 
+ 
+ When [[Gregor Mendel]] did his [[experiment]]s on the sweet [[pea]], he chose seven [[Trait (biology)|traits]], such as round vs wrinkled peas, and tall vs short plants. He found the plants had pairs of 'factors' ([[gene]]s) which controlled their appearance ([[phenotype]]). However, one pair of factors ''never affected the other pairs''. But with epistasis, the action of one gene does affect another gene, even one on a different [[chromosome]].  
+ 
+ Use of the term has varied somewhat. < ref > Cordell, Heather J. 2002. Epistasis: what it means, what it doesn't mean, and statistical methods to detect it in humans. ''Human Molecular Genetics'' '''11''', 2463-2468 < /ref >  Its original meaning was quite narrow: for instance, a gene for ''no wings'' in ''Drosophila'' will obviously mask genes for any other aspect of the wings. In general, however, epistasis denotes any departure from independence of the effects of different genetic loci. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Classical genetics]]

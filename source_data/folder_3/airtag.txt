@@ -1,0 +1,30 @@
+{{Infobox product 
+ | logo = Apple AirTag logo.svg 
+ | logo_size = 200px 
+ | logo_caption = 
+ | image =  
+ | image_size = 150 
+ | alt =  
+ | caption = An Apple AirTag 
+ | manufacturer = [[Apple Inc.]] 
+ | type = [[Key finder]] 
+ | inventor =  
+ | announced = {{Start date and age|2021|04|20}} 
+ | available = {{Start date and age|2021|04|23}} 
+ | last production =  < !-- only to be edited when release -- > 
+ | models =  < !-- if more types are released -- > 
+ | website = 
+ | notes = Precision location requires [[ultra-wideband|UWB]] support in finding device. 
+ }} 
+ '''AirTag''' is an accessory that helps you find objects. Preorders began on 23 Apr 2021. It was released on 30 Apr 2021, at the price of £29 each or £99 for 4 pack. < ref > {{Cite web|title=Apple introduces AirTag|url=https://www.apple.com/uk/newsroom/2021/04/apple-introduces-airtag/|access-date=2021-04-21|website=Apple Newsroom (United Kingdom)|language=en-GB}} < /ref >  It has an optional emoji in it. It is IP67 water- and dust-resistant, up to a depth of {{Convert|1|m|ft}} for up to 30 minutes. It comes with a CR2032 battery which last for 1 year. < ref name= " :0 " > {{Cite web|title=AirTag|url=https://www.apple.com/uk/airtag/|access-date=2021-04-21|website=Apple (United Kingdom)|language=en-GB}} < /ref >  It has a diameter of {{Convert|31.9|mm|in}} and thickness of {{Convert|8.0|mm|in}}, and it weighs {{Convert|11|g|oz}}. < ref name= " :0 "  / > 
+ 
+ == Requirements == 
+ 
+ Any iPhone, iPad and iPod Touch with iOS/iPadOS 14.5 or later. < ref name= " :0 "  / > 
+ 
+ == References == 
+ < references / > 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Apple hardware]]

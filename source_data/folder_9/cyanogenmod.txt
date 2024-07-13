@@ -1,0 +1,22 @@
+{{Infobox OS 
+ | name = CyanogenMod 
+ | title = CyanogenMod 
+ | logo = CyanogenMOD textlogo.svg 
+ | screenshot = CM 11 Homescreen on Trebuchet Launcher.png 
+ | caption = The home screen of a smartphone running CyanogenMod. 
+ | working state = Discontinued 
+ | latest release version = CyanogenMod version 13.0 
+ | latest release date = December 20, 2016 
+ | succeeded by = [[LineageOS]] 
+ }}CyanogenMod is an discontinued [[operating system]] for many [[Smartphone|smartphones]] and [[Tablet computer|tablet computers]]. It is based on the [[Android (operating system)|Android]] operating system. CyanogenMod is open source so that it can be forked and audited for possible threats. < ref > {{Citation|title=CyanogenMod|date=2023-10-28|url=https://github.com/CyanogenMod/android|publisher=CyanogenMod|access-date=2023-11-02}} < /ref >  As of the 23rd of December 2016, CyanogenMod has been discontinued and there are no new official updates to CyanogenMod. < ref > {{Cite web|date=24 December 2016|title=A fork in the road|url=https://www.cyanogenmod.org/blog/a-fork-in-the-road|url-status=dead|archive-url=https://web.archive.org/web/20161225144318/https://www.cyanogenmod.org/blog/a-fork-in-the-road|archive-date=25 December 2016|publisher=CyanogenMod}} < /ref >  Some phones such as the OnePlus One also used CyanogenOS which is based on CyanogenMod. < ref > {{Cite web|date=2019-07-19|title=Cyanogen will partner with OnePlus on its debut phone, the 'OnePlus One'|url=https://www.engadget.com/2014-01-07-cyanogen-partners-with-oneplus-one.html|access-date=2023-11-02|website=Engadget|language=en-US}} < /ref >   
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.cyanogenmod.org/ CyanogenMod's official website] {{Webarchive|url=https://web.archive.org/web/20130713151954/http://www.cyanogenmod.org/ |date=2013-07-13 }} 
+ * [http://www.oneplus.net/ OnePlus, maker of a CyanogenMod phone] {{Webarchive|url=https://web.archive.org/web/20030727102157/http://oneplus.net/ |date=2003-07-27 }} 
+ 
+ [[Category:Operating systems]] 
+ 
+ {{tech-stub}}

@@ -1,0 +1,54 @@
+
+ {{Automatic taxobox 
+ | fossil_range = {{fossil range|Middle Devonian|Recent}} 
+ | image = Platycephalichthys.jpg 
+ | image_caption = Skull of the tristichopterid ''[[Platycephalichthys]]'' in [[CosmoCaixa Barcelona]] 
+ | taxon = Eotetrapodiformes 
+ | authority = Coates  &  Friedman, [[2010 in paleontology|2010]] 
+ | subdivision_ranks = Subgroups 
+ | subdivision = *{{extinct}}''[[Tinirau (genus)|Tinirau]]'' 
+ *{{extinct}}[[Tristichopteridae]] 
+ *[[Elpistostegalia]] 
+ }} 
+ 
+ '''Eotetrapodiformes''' is a [[clade]] of [[sarcopterygian]] fish including [[Tetrapod|tetrapods]] and their [[ancestors]]. < ref > Two groups of [[Stem tetrapod|stem tetrapods]] called [[Tristichopterid|tristichopterids]] and [[Elpistostegalid|elpistostegalids]]. < /ref >  Eotetrapodiformes is part of the larger clade [[tetrapodomorpha]]. But it excludes the basalmost tetrapodomorphs, such as [[Megalichthyiform|megalichthyiforms]]. < ref name= " CF10 " > {{cite book|title=Morphology, Phylogeny and Paleobiogeography of Fossil Fishes|last=Coates|first=M.I.|author2=Friedman, M.|publisher=Pfeil|year=2010|isbn=978-3-89937-122-2|editor=Elliot, D.K.|pages=389–416|chapter=''Litoptychus bryanti'' and characteristics of stem tetrapod neurocrania|editor2=Maisey, J.G.|editor3=Yu, X.|editor4=Miao, D.}} < /ref > 
+ 
+ ==Cladogram== 
+ Cladogram from Swartz, 2012: < ref name= " SB12 " > {{cite journal|last=Swartz|first=B.|year=2012|title=A marine stem-tetrapod from the Devonian of Western North America|journal=PLOS ONE|volume=7|issue=3|pages=e33683|bibcode=2012PLoSO...733683S|doi=10.1371/journal.pone.0033683|pmc=3308997|pmid=22448265|doi-access=free}} < /ref > 
+ 
+ {{clade|{{clade 
+             |1=[[Megalichthyiformes]] [[File:Gogonasus BW.jpg|70 px]] 
+             |label2=Eotetrapodiformes 
+             |2={{clade 
+                |1=''[[Tinirau (genus)|Tinirau]]'' 
+                |2={{clade 
+                   |1=''[[Platycephalichthys]]''[[File:Platycephalichthys bischoffi.jpg|70 px]] 
+                   |label2=[[Elpistostegalia]] 
+                   |2={{clade 
+                      |1=''[[Panderichthys]]''[[File:Panderichthys BW.jpg|70 px]] 
+                      |label2=[[Stegocephalia]] 
+                      |2={{clade 
+                         |1={{clade 
+                            |1=''[[Tiktaalik]]''[[File:Tiktaalik BW.jpg|70 px]] 
+                            |2=''[[Elpistostege]]''}} 
+                         |2={{clade 
+                            |1=''[[Elginerpeton]]''[[File:Elginerpeton BW.jpg|70 px]] 
+                            |2={{clade 
+                               |1=''[[Ventastega]]''[[File:Ventastega life restoration white background.jpg|60 px]]  
+                               |2={{clade 
+                                  |1=''[[Acanthostega]]'' [[File:Acanthostega BW.jpg|70 px]] 
+                                  |2={{clade 
+                                   |1=''[[Ichthyostega]]'' [[File:Ichthyostega BW.jpg|70 px]] 
+                                     |2={{clade 
+                                        |1=[[Whatcheeriidae]] [[File:Pederpes22small.jpg|70 px]] 
+                                        |2={{clade 
+                                           |1=[[Colosteidae]] [[File:Greererpeton BW.jpg|70 px]] 
+                                           |2={{clade 
+                                                    |1=''[[Crassigyrinus]]'' [[File:Crassigyrinus BW.jpg|70 px]]   
+                                              |2={{clade 
+                                                 |1=[[Baphetidae]][[File:Loxomma1DB.jpg|70 px]] 
+                                                 |2=[[Tetrapoda]] [[File:Seymouria BW.jpg|70 px]] 
+ }} }} }} }} }} }} }} }} }} }} }} }} }}|style=font-size:85%;line-height:85%}} 
+ 
+ == References == 
+ {{Reflist}}

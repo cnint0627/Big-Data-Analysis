@@ -1,0 +1,32 @@
+{{lowercase}} 
+ {{Infobox software 
+ | name = iCloud 
+ | logo = Icloud.webp 
+ | screenshot =  
+ | caption =  
+ | author = Apple Inc. 
+ | developer = [[Apple Inc.]] 
+ | released = Developers release < br / > June 6, 2011 < br / > Public release < br / > October 12, 2011 < br / > < ref > {{cite web|url=https://www.apple.com/pr/library/2011/06/06icloud.html |title=Press Info – Apple Introduces iCloud |publisher=Apple |date=June 6, 2011 |accessdate=August 30, 2011}} < /ref > 
+ | latest_release_version = 6.2.1 
+ | latest_release_date = {{release date and age|2017|05|15}} 
+ | operating_system = [[OS X]]  < br / >  [[Microsoft Windows]]  < br / >  [[iOS]] 
+ | programming language =  
+ | language = Multilingual 
+ | status = Active 
+ | genre = [[Remote backup service|Online backup service]] 
+ | license = [[Freeware]] 
+ | alexa = {{IncreaseNegative}} 1,212 ({{as of|2013|07|29|alt=July 2013}}) < ref name= " alexa " > {{cite web |url= http://www.alexa.com/siteinfo/icloud.com |title= Icloud.com Site Info |publisher= [[Alexa Internet]] |accessdate= July 29, 2013 |archive-date= March 4, 2016 |archive-url= https://web.archive.org/web/20160304221820/http://www.alexa.com/siteinfo/icloud.com |url-status= dead }} < /ref > < !--Updated monthly by OKBot.-- > 
+ | website = {{URL|https://www.icloud.com}} 
+ }} 
+ 
+ '''iCloud''' is a [[cloud storage]] and [[cloud computing]] service from [[Apple Inc.]]. < ref name=cloudconundrum > {{cite web |title=Switched On: Apple's cloud conundrum |url=https://www.engadget.com/2011/06/12/switched-on-apples-cloud-conundrum |publisher=[[Engadget]] |date=June 13, 2011 |accessdate=June 13, 2011}} < /ref > < ref name=troublecloud > {{cite web |title=Fourth time's a charm? Why Apple has trouble with cloud computing |url=https://arstechnica.com/apple/news/2011/06/fourth-times-a-charm-why-icloud-faces-long-odds.ars |publisher=[[ArsTechnica]] |date=June 8, 2011 |accessdate=June 13, 2011}} < /ref > < ref name=fromto > {{cite web |title=4th Time a Charm for Apple? From iDisk to .Mac to MobileMe to iCloud |url=https://www.wired.com/epicenter/2011/05/icloud-apple |work=[[Wired (magazine)|Wired]] |date=May 31, 2011 |accessdate=June 13, 2011}} < /ref >  It was launched on October 12, 2011. As of July 2012, the service has more than 150 million users. < ref > {{cite web |url= https://techcrunch.com/2012/07/24/apple-q3-2012-icloud-users/ |title=Apple Now Has 150 Million iCloud Users |date=July 26, 2012}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Storage devices]] 
+ [[Category:Computer memory]] 
+ [[Category:Apple software]]

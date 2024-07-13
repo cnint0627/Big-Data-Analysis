@@ -1,0 +1,39 @@
+{{Automatic Taxobox 
+ | name = Euarchontans 
+ | fossil_range = [[Late Cretaceous]] - Recent 
+ | image = Euarchonta.jpg 
+ | image_width = 250px 
+ | image_caption =  < small > Euarchonts: upper & nbsp;left: & nbsp;[[Plesiadapis]], upper & nbsp;right: & nbsp;[[Northern Treeshrew]], lower & nbsp;left: & nbsp;[[Sunda Flying Lemur]] and lower & nbsp;right: & nbsp;[[Yellow Baboon]] < /small > 
+ | taxon = Euarchonta 
+ | subdivision_ranks = [[Order (biology)|Orders]] 
+ | subdivision =  & nbsp; 
+ *[[Scandentia]] < br > & nbsp; 
+ *[[Primatomorpha]] < br > & nbsp; 
+ **[[Dermoptera]] < br > & nbsp; 
+ **[[Primates]] 
+ }} 
+ 
+ The '''Euarchonta''' are a [[Order (biology)|grandorder]] of [[mammal]]s containing four orders: the Dermoptera or [[colugo]]s, the Scandentia or [[treeshrew]]s, the extinct [[Plesiadapiformes]], and the [[Primate]]s. 
+ 
+ Euarchonta and [[Glires]] together form the [[Euarchontoglires]], one of the four [[Eutheria]]n clades. 
+ 
+ {{Clade 
+ | label1=[[Euarchontoglires]] 
+ | 1={{Clade 
+   | label1=[[Glires]] 
+   | 1={{Clade 
+      | 1=[[Rodent]]ia (rodents) 
+      | 2=[[Lagomorpha]] (rabbits, hares, pikas)}} 
+   | label2=Euarchonta 
+   | 2={{Clade 
+      | 1=[[Treeshrew|Scandentia]] (treeshrews) 
+      | label2=[[Primatomorpha]] 
+      | 2={{Clade 
+         | 1=[[Colugo|Dermoptera]] (flying lemurs) 
+         | 2={{Clade 
+            | 1=[[Primate]]s (†[[Plesiadapiformes]], [[Strepsirrhini]], [[Haplorrhini]])}} }} }} }} 
+ }} 
+ 
+ {{biology-stub}} 
+ 
+ [[category:Mammals]]

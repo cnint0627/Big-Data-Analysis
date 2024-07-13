@@ -1,0 +1,29 @@
+[[File:Bluetooth headset.jpg|thumb|right|A typical Bluetooth headset to connect to a [[mobile phone]]]][[File:BluetoothUSB.jpg|thumb|right|[[Universal Serial Bus|USB]] adapters such as this one allow some [[Personal computer]]s to communicate via Bluetooth]] 
+ [[Image:Bluetooth-Logo.svg|thumb|right|The Bluetooth logo]] 
+ '''Bluetooth''' is a [[protocol]] for [[Wireless LAN|wireless communication]] over short distances. It was developed in the 1990s, to reduce the number of cables.  Devices such as [[mobile phone]]s, [[laptop]]s, [[Personal computer|PCs]], [[computer printer|printers]], [[digital camera]]s and [[video game console]]s can connect to each other, and exchange information. This is done using [[radio wave]]s. It can be done securely. Bluetooth is usually only used for relatively short distances, like a few metres. < ref name= " :0 " > {{Cite web|url=https://www.scienceabc.com/innovation/what-is-the-range-of-bluetooth-and-how-can-it-be-extended.html|title=What Is The Range Of Bluetooth And How Can It Be Extended?|last=Peshin|first=Akash|date=2018-01-09|website=Science ABC|language=en-us|access-date=2020-07-21}} < /ref >  Some signals can be up to 100 metres. < ref name= " :0 "  / > 
+ 
+ There are different standards. Data rates vary. Currently, they are at 1-3 MBit per second. Typical Bluetooth applications are to connect a [[headset]] to a mobile phone, or to connect a [[computer mouse]], [[Keyboard (computer)|keyboard]] or [[computer printer|printer]]. 
+ 
+ Bluetooth devices use the [[ISM Band]] around 2.4 GHz. This can be used worldwide, without the need to pay license fees, but many other devices, like [[DECT]] telephones (wireless phones), smart tags with [[RFID]], [[baby phone]]s use it too. Bluetooth uses the same bands as some [[WLAN]]s, but the modulation technique is different. Bluetooth uses [[Frequency-hopping spread spectrum]]. < ref > {{Cite book|url=https://books.google.com/books?id=NgYyBwAAQBAJ & dq=Bluetooth+uses+Frequency-hopping+spread+spectrum & pg=PA222|title=Modeling Mobility with Open Data: 2nd SUMO Conference 2014 Berlin, Germany, May 15-16, 2014|last1=Behrisch|first1=Michael|last2=Weber|first2=Melanie|date=2015-03-11|publisher=Springer|isbn=978-3-319-15024-6|location=|pages=223|language=en}} < /ref > 
+ 
+ == Comparing Bluetooth to Wireless LAN == 
+ 
+ There are many situations today where either Bluetooth or [[Wireless LAN]]s can be used. Examples include setting up networks, printing or transferring files and data from a [[PDA]] to a computer. Both are versions of unlicensed wireless technology. [[WLAN]]s can span bigger distances and offer higher throughput. Bluetooth does not require expensive hardware. It also needs less power to operate. < ref > {{Cite book|url=https://books.google.com/books?id=9VW-BAAAQBAJ & dq=Bluetooth+uses+less+power+than+WLAN & pg=PA20|title=Recent Advances in Information Technology: RAIT-2014 Proceedings|last1=Biswas|first1=G. P.|last2=Mukhopadhyay|first2=Sushanta|date=2014-03-11|publisher=Springer Science  &  Business Media|isbn=978-81-322-1856-2|location=|pages=20|language=en}} < /ref > 
+ 
+ Both use the same [[radio frequency]] range, but their [[modulation]] techniques are different. Both have been developed to replace [[cable|cabling]]. Bluetooth wanted to get rid of the [[peripheral equipment]] cables, WLANs wanted to get rid of the cables needed to set up a [[Local Area Network|LAN]]. < ref > {{Cite book|url=https://books.google.com/books?id=4B1wmHjLl9wC & dq=Bluetooth+wanted+to+get+rid+of+the+peripheral+equipment+cables & pg=PA464|title=Selected Readings on Electronic Commerce Technologies: Contemporary Applications: Contemporary Applications|last=Wen-Chen|first=Hu|date=2008-08-31|publisher=IGI Global|isbn=978-1-60566-097-4|location=|pages=464|language=en}} < /ref > < ref > {{Cite book|url=https://books.google.com/books?id=A3Q1JfbKRNQC & dq=Wireless+LAN+to+use+fewer+cables & pg=PT349|title=LAN Switching and Wireless, CCNA Exploration Companion Guide: CCNA Exploration Companion Guide|last=Lewis|first=Wayne|date=2008-04-28|publisher=Cisco Press|isbn=978-0-13-287747-3|language=en}} < /ref > 
+ 
+ === Bluetooth devices === 
+ [[File:Drone 4.jpg|thumb|250px|right|A Bluetooth [[USB]] dongle with a 100m range.]] 
+ Bluetooth exists in many products, such as telephones, the [[Wii]] or [[PlayStation 3]]. It has recently been built into some electronic watches, modems and headsets. The technology is useful when transferring information between two or more devices that are near each other in low-bandwidth situations. Bluetooth is commonly used to transfer sound data with telephones (i.e. with a Bluetooth headset) or byte data with hand-held computers (transferring files). 
+ 
+ Bluetooth uses [[protocol]]s that make it easy to discover devices that are nearby, and to set up a connection between these devices. Bluetooth devices can advertise all the services they offer. Using services becomes easier; a lot of the setup related to [[security]], networking or permissions is automatic. 
+ 
+ === Wireless LAN === 
+ [[WLAN]]s are more like traditional [[LAN]]s. More configuration is needed to set up the network, and to make resources accessible by other devices in the network. WLAN devices also consume more power than Bluetooth ones.  
+ Sometimes WLANs are called wireless [[Ethernet]]. WLAN needs more resources to be set up, but it also offers faster transfer speeds. The security is also better than that offered by Bluetooth. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Computer protocols]] 
+ [[Category:Computer networking]]

@@ -1,0 +1,214 @@
+{{Infobox country 
+ | conventional_long_name = Republic of Finland 
+ | common_name = Finland 
+ | native_name = {{unbulleted list|item_style=font-size:88%;|{{native name|fi|Suomen tasavalta}}|{{native name|sv|Republiken Finland}}}} 
+ | image_flag = Flag of Finland.svg 
+ | image_coat = Coat of arms of Finland.svg 
+ | national_anthem =  < br / > {{native name|fi|[[Maamme]]|nolink=yes}} < br / > {{native name|sv|[[Maamme#Vårt land|Vårt land]]|nolink=yes}} < br / > ({{Lang-en| " Our Land " }}) 
+ < center > [[File:United States Navy Band - Maamme.ogg]] < /center > 
+ | image_map = EU-Finland.svg 
+ | map_caption = {{map caption|location_color=dark green |region=Europe |region_color=dark grey |subregion=the [[European Union]] |subregion_color=green |legend=EU-Finland.svg}} 
+ | capital = [[Helsinki]] 
+ | coordinates = {{Coord|60|10|N|24|56|E|type:city}} 
+ | largest_city = capital 
+ | official_languages = {{unbulleted_list|[[Finnish language|Finnish]]|[[Swedish language|Swedish]]}} 
+ | regional_languages = Sami dialects 
+ | religion = {{unbulleted list|[[Evangelical Lutheran Church of Finland|Evangelical & nbsp;Lutheran Church]] |[[Finnish Orthodox Church|Orthodox Church]]}} 
+ | demonym = {{hlist|[[Finns|Finnish]]|[[Finns|Finn]]}} 
+ | government_type = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[republic]] < ref name= " Parliamentary " > Formerly a semi-presidential republic, it's now a parliamentary republic according to David Arter, First Chair of Politics at Aberdeen University, who in his  " Scandinavian Politics Today "  (Manchester University Press, revised 2008), quotes Jaakko Nousiainen in  " From semi-presidentialism to parliamentary government "  in Scandinavian Political Studies 24 (2) p95–109 as follows:  " There are hardly any grounds for the epithet 'semi-presidential'. "  Arter's own conclusions are only slightly more nuanced:  " The adoption of a new constitution on 1 March 2000 meant that Finland was no longer a case of semi-presidential government other than in the minimalist sense of a situation where a popularly elected fixed-term president exists alongside a prime minister and cabinet who are responsible to parliament (Elgie 2004: 317) " . According to the Finnish Constitution, the president has no possibility to rule the government without the ministerial approval, and does not have the power to dissolve the parliament under his or her own desire. Finland is actually represented by its prime minister, and not by its president, in the Council of the Heads of State and Government of the European Union. The 2012 constitution reduced the powers of the president even further. < /ref > 
+ | leader_title1 = [[President of Finland|President]] 
+ | leader_name1 = [[Sauli Niinistö]] 
+ | leader_title2 = [[Prime Minister of Finland|Prime Minister]] 
+ | leader_name2 = [[Petteri Orpo]] 
+ | legislature = ''[[Parliament of Finland|Eduskunta]]'' 
+ | sovereignty_type = [[History of Finland|Formation]] 
+ | established_event1 = [[Grand Duchy of Finland|Autonomy]] < br / > {{small|within [[Russian Empire|Russia]]}} 
+ | established_date1 = 29 March 1809 
+ | established_event2 = [[Finnish Declaration of Independence|Independence]] < br / > {{nowrap|{{small|from [[Russian Soviet Federative Socialist Republic|Russia]]}}}} 
+ | established_date2 = 6 December 1917 
+ | established_event3 = [[1995 enlargement of the European Union|Joined]] the [[European Union]] 
+ | established_date3 = 1 January 1995 
+ | area_km2 = 338,424 
+ | area_rank = 64th 
+ | area_sq_mi = 130,596  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | percent_water = 10 
+ | population_estimate = 5,509,717 {{increase}} < ref > {{cite web|title=Finland's preliminary population figure 5,509,717 at the end of August|url=http://www.stat.fi/til/vamuu/2017/08/vamuu_2017_08_2017-09-21_tie_001_en.html|website=Tilastokeskus.fi|publisher=Statistics Finland|accessdate=24 October 2017}} < /ref > 
+ | population_estimate_year = August 2017 
+ | population_estimate_rank = 114th 
+ | population_label2 = 2016 official 
+ | population_data2 = 5,503,297 < ref > {{cite web|title=Finland's population was 5,503,297 at the turn of the year|url=http://tilastokeskus.fi/til/vaerak/2016/vaerak_2016_2017-03-29_tie_001_en.html|website=Tilastokeskus.fi|publisher=Statistics Finland|accessdate=17 August 2017}} < /ref > 
+ | population_density_km2 = 16 
+ | population_density_sq_mi = 41  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | population_density_rank = 213rd 
+ | GDP_PPP = $255.976 billion < ref name=imf3 > {{cite web|url=http://www.imf.org/external/pubs/ft/weo/2018/01/weodata/weorept.aspx?sy=2018 & ey=2018 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & pr1.x=66 & pr1.y=12 & c=172 & s=NGDP_RPCH%2CNGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC & grp=0 & a=|accessdate=9 May 2018|date=17 April 2018|title=Report for Selected Countries and Subjects|publisher=IMF}} < /ref > 
+ | GDP_PPP_year = 2018 
+ | GDP_PPP_rank = 
+ | GDP_PPP_per_capita = $46,342 < ref name=imf3 / > 
+ | GDP_PPP_per_capita_rank = 
+ | GDP_nominal = $289.557 billion < ref name=imf3 / > 
+ | GDP_nominal_year = 2018 
+ | GDP_nominal_rank = 
+ | GDP_nominal_per_capita = $52,422 < ref name=imf3 / > 
+ | GDP_nominal_per_capita_rank = 
+ | Gini = 25.6  < !--number only-- > 
+ | Gini_year = 2014 
+ | Gini_change = increase  < !--increase/decrease/steady-- > increase 
+ | Gini_ref =  < ref name=eurogini > {{cite web|title=Gini coefficient of equivalised disposable income (source: SILC)|url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=ilc_di12|publisher=Eurostat Data Explorer|accessdate=5 January 2014}} < /ref > 
+ | Gini_rank = 6th 
+ | HDI = 0.895 < !--number only-- > 
+ | HDI_year = 2015 < !-- Please use the year to which the data refers, not the publication year-- > 
+ | HDI_change = increase  < !--increase/decrease/steady-- > 
+ | HDI_ref =  < ref name= " HDI " > {{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf |title=2015 Human Development Report |date=2015 |accessdate=14 December 2015 |publisher=United Nations Development Programme }} < /ref > 
+ | HDI_rank = 23rd 
+ | currency = [[Euro]] ([[Euro sign|€]]) 
+ | currency_code = EUR 
+ | time_zone = [[Eastern European Time|EET]] 
+ | utc_offset = +2 
+ | utc_offset_DST = +3 
+ | time_zone_DST = [[Eastern European Summer Time|EEST]] 
+ | date_format = dd.mm.yyyy 
+ | drives_on = right 
+ | calling_code = [[Telephone numbers in Finland|+358]] 
+ | patron_saint = [[Henry (bishop of Finland)|St Henry of Uppsala]] 
+ | cctld = [[.fi]] < sup > a < /sup > 
+ | footnote_a = The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states. 
+ 
+ }} 
+ [[File:Europe location FIN.png|thumb|240px|Finland on a map of Europe]] 
+ '''Finland''' ([[Finnish language|Finnish]]: ''Suomi'') is a [[country]] in Northern [[Europe]] and is a member state of the [[European Union]]. Finland is one of the [[Nordic countries]] and is also part of [[Fennoscandia]]. Finland is located between the 60th and 70th latitudes North. Its neighbours are [[Sweden]] to the west, [[Norway]] to the north, [[Russia]] to the east and [[Estonia]] to the south, beyond the sea called [[Gulf of Finland]]. Most of western and southern coast is on the shore of the [[Baltic Sea]]. 
+ 
+ The [[Capital (city)|capital]] of Finland is [[Helsinki]]; the second largest city is [[Tampere]]. The official [[currency]] of the country is the [[euro]] (EUR); before 2002 it was the [[markka]], the Finnish mark (FIM). The [[president]] of Finland is [[Sauli Niinistö]]. 5.5 million people live in Finland. [[Finnish language|Finnish]] and [[Swedish language|Swedish]] both are the official [[language]]s of Finland; the most spoken languages is Finnish, mother tongue of about 90% of the population. Swedish is spoken by the Swedish speaking minority of Finland, called the Finnish Swedes, who make up 5% of the total population. Finland became [[Independence|independent]] of [[Russian Empire|Russia]] on 6 December 1917. 
+ 
+ The most important cities and towns in Finland are [[Helsinki]], [[Espoo]], [[Tampere]], [[Vantaa]], [[Turku]], [[Oulu]], [[Lahti]], [[Kuopio]], [[Jyväskylä]] and [[Pori]]. 
+ 
+ Finland is a highly industrialised [[First World]] country. The most important Finnish industrial products are [[paper]], and [[steel]] products such as machines and electronics. [[Nokia]] (the mobile company) is originally a company of Finland, named after a small town called [[Nokia, Finland|Nokia]]. 
+ 
+ Finland has been top of the list of least corrupt countries on the [[Corruption Perceptions Index]] more times than any other country. 
+ 
+ == People and culture == 
+ The people of Finland are called Finns. Most Finns speak [[Finnish language|Finnish]] as their mother tongue. About six percent of Finns have the [[Swedish language]] as their mother tongue. They live mostly in the western part of Finland and on [[Åland]] (Finnish Ahvenanmaa) 
+ 
+ Finns also study mandatory English and Swedish in school. Most Finns work either in services (that is: shops, banks, offices or businesses) or in factories. Finns often like [[sauna]]s and [[nature]]. Many Finnish families have [[summer cottage]]s, small houses where they go to relax on their summer holidays. The most important [[festival]]s that Finnish people celebrate are [[Midsummer]] and [[Christmas]]. 
+ 
+ The most popular sports in Finland are [[ice hockey]], [[skiing]], [[track and field]] and [[association football]] (soccer). Finns have also won events in [[swimming]], [[motor sports]] and [[gymnastics]]. 
+ 
+ There is a group of a few thousand [[Sámi]]s (also called Lapps) in the most northern part of Finland, called [[Lapland]]. Most of the Samis live in [[Norway]] and [[Sweden]]. Many Sami people farm [[reindeer]]s. Originally, Samis were [[hunter-gatherers]]. In the past the Sami were [[nomad]]s, but nowadays they live in regular houses. 
+ 
+ Minority groups in Finland include Swedish–speakers (5.3 per cent), Russian-speakers (1.4 per cent), [[Estonians]] (0.9 per cent), [[Roma people|Roma]] (0.2 per cent, and Sámi (0.1 per cent). There is a also small number of [[Jews]]. < ref > {{cite web|url= https://minorityrights.org/country/finland/|title= Finland - World Directory of Minorities  &  Indigenous Peoples}} < /ref > 
+ 
+ Very few people in Finland are from other countries. In 2016 about 4% of residents were born in another country. < ref name= " gsi " > {{cite web|last=Bunikowski|first=Dawid|title=Finland's Immigration Crisis|url=https://www.gatestoneinstitute.org/7559/finland-migrant-crisis|publisher=Gatestone Institute|accessdate=27 December 2016|date=March 6, 2016}} < /ref > 
+ 
+ == Nature and weather == 
+ [[File:Koli hill view.jpg|thumb|250px|This picture is from [[Koli]], [[North Karelia]]]] 
+ Most of Finland is covered by pine [[forest]]. The [[swan]], which was considered holy long ago, is the national bird of Finland. Wood is the most important natural resource of Finland. It is estimated that up to one-third of all wood resources of the [[European Union]] are in Finland. 
+ 
+ The national animal of Finland is the [[brown bear]]. The largest animal is the [[elk]], a type of moose, which is a member of the deer family. 
+ 
+ There are hundreds of rivers and thousands of fresh water lakes. [[Fishing]] is a popular [[sport]]. It is estimated there are almost 180,000 lakes in Finland. 
+ 
+ Many islands in the [[Baltic Sea]] belong to Finland, too. Thousands of islands are part of the [[Åland]] [[archipelago]]. Tourists from all over the world come to see the fells and the [[northern lights]] in [[Lapland]]. 
+ 
+ The highest mountain of Finland is Halti, which is 1328 meters high. The largest lake is Saimaa, 4,400 square kilometres. The longest river of Finland is Tornionjoki. The largest river (by watershed) is Kemijoki, 552 kilometres long. 
+ 
+ The weather in Finland varies widely by season. Summer usually lasts from May to early September, and temperatures can reach up to +30 & nbsp;°C. Autumns are dark and rainy. Winter snow usually begins to fall in Helsinki in early December (in Lapland it can fall as early as October) and in the winter the temperature can drop to -40 & nbsp;°C. Highest temperature recorded in Finland is +37,2 & nbsp;°C and lowest temperature is -51,5 & nbsp;°C. Winter usually lasts to mid-March, when the snow melts in Helsinki (in Lapland the snow usually doesn't melt until early May), and Spring lasts till late May. Spring can be erratic, and the weather can change from frost to sunshine within a matter of days. The famed [[Northern Lights]] are common in Lapland. 
+ 
+ == History  == 
+ People first came to Finland 10,000 years ago. That was just after an [[ice age]], after a glacier that covered the ground had receded. 
+ 
+ Some think the first people in Finland already spoke a language similar to the [[Finnish language]] that is spoken today. It is known that an early form of the Finnish language was spoken in Finland in the [[Iron Age]]. (The Iron Age in Finland was 2,500–800 years ago). 
+ 
+ The first residents in Finland hunted animals, as  " [[hunter-gatherer]]s " . Some people started to [[agriculture|farm]] crops about 5,200 years ago. Farming slowly became more and more popular and became the major way of life until the modern age. 
+ 
+ [[File:Vasarakirves.jpg|thumb|left|200px|Stone [[axe]] from Finland.]] 
+ 
+ The ancient Finns were [[paganism|pagans]]. The most important god of the Finnish pantheon was [[Ukko]]. He was a god of [[sky]] and [[thunder]], much like [[Odin]], another Scandinavian god-king. These powers were common among the pagan god kings in pantheons ranging from the Finnish Ukko, to the Scandinavian/Germanic/Saxon [[Odin]], all the way east to [[Zeus]] of the Greeks and Jupiter of the Romans. 
+ 
+ Around a thousand years ago, when most of Europe was adopting Christianity, Finland also began following Christianity. During the [[Reformation]] of Christianity in the 16th century, most Finns became [[Protestant]]s. Some pagan practices still remain amongst the now Christian Finns, such as [[bear worship]]. 
+ 
+ From the [[Middle Ages]] Finland was a part of [[Sweden]]. Then, in the year [[1809]], [[Russia]] took Finland from Sweden. Finland was a part of Russia, but after a short period of time it became [[autonomy|autonomous]]. The Finns essentially controlled Finland, though the Tsar was in control officially. Finns could create their own laws and had their own currency, (called the ''[[markka]]''), their own [[stamp]]s and own [[custom]]s. However, Finland did not have its own [[army]]. 
+ 
+ During the [[1905 Russian Revolution]], in the [[Grand Duchy of Finland]]: 
+ the [[Social Democratic Party of Finland|Social Democrats]] organised the [[general strike]] of 1905 ({{OldStyleDate|12–19 November||30 October & nbsp;– 6 November}}). The [[Red Guards (Finland)|Red Guards]] were formed. On {{OldStyleDate|12 August|1906|30 July}}, Russian artillerymen and military engineers [[Sveaborg Rebellion|rose to rebellion]] in the fortress of [[Sveaborg]] (later called [[Suomenlinna]]), Helsinki. The Finnish Red Guards supported the [[Sveaborg Rebellion]] with a general strike, but the mutiny was quelled by loyal troops and ships of the [[Baltic Fleet]] within 60 hours. 
+ 
+ [[File:Demonstration Pietarsaari 1905.jpg|thumb|right|260px|A [[demonstration]] in 1905 - in [[Jakobstad]]]] 
+ 
+ ===After independence=== 
+ On 6 December 1917, Finland became independent, which meant that it no longer was a part of Russia. There was a [[October Revolution|communist revolution]] in Russia and after 1922 Russia was a part of the [[Soviet Union]]. There were [[Communism|communists]] in Finland too, who tried to create a revolution in Finland 
+ This attempt at revolution caused the [[Finnish civil war]]. The communists lost the civil war, and Finland did not change its old capitalist system 
+ 
+ [[Stalin]], who was the leader of the Soviet Union, did not like having a [[Capitalism|capitalist]] country as its neighbour. Stalin wanted Finland to become a [[communism|communist]] state and be a part of the Soviet Union. The leaders of Finland refused: they wanted to stay independent. The Soviet Union sent many troops across the eastern border of Finland to try to make Finland join them, which resulted in the [[Winter War]]. The Soviet Union eventually won, and took most of [[Karelia]] and other parts of Finland. 
+ 
+ [[File:Finnish soldiers during the Winter War.jpg|thumb|250px|Finnish soldiers at the time of war]] 
+ [[Adolf Hitler]] was the dictator of Germany, and he wanted to invade the Soviet Union. Finland wanted to retrieve the areas that it had lost, so they joined the German invasion, which started with [[Operation Barbarossa]] in 1941. The Finnish part of the [[Second World War]] is called the [[Continuation War]] in Finland. However, Finland was not a [[fascism|fascist]] or an [[antisemitism|antisemitic]] country. Finns were interested in freedom rather than dictatorship. 
+ 
+ While Germany was losing the war, Finland had already progressed into the Soviet Union in order to regain the areas lost in the previous peace. Finland wanted to end the war with the Soviet Union, which resulted in peace. Once again Finland had to give up the areas they had conquered. This time, the peace with the Soviet Union made Finland and Germany enemies. Finns fought the Germans, and Germans retreated to [[Norway]], burning down all of Lapland behind them. This is called the [[Lapland War]]. Finland remained independent. 
+ 
+ After the war, many factories were built in Finland. Many people moved from farms to cities. At that time, big factories manufactured products like [[paper]] and [[steel]]. More and more people worked in more advanced jobs, like [[high technology]]. Also, many people went to universities to get a good education. Finland was one of the first countries where most people had [[Internet]] connections and mobile phones. A well-known company that makes [[mobile phone]]s, [[Nokia]], is from Finland. 
+ 
+ Finland joined the [[European Union]] in 1995. The Finnish currency was changed to the [[euro]] in 2002. 
+ 
+ Finland joined [[NATO]] in 2023, after the [[2022 Russian invasion of Ukraine|Russian invasion of Ukraine]]. < ref > {{Cite news|last=Kauranen|first=Anne|last2=Gray|first2=Andrew|date=2023-04-04|title=Finland joins NATO in historic shift, Russia threatens 'counter-measures'|language=en|work=Reuters|url=https://www.reuters.com/world/europe/finland-set-join-nato-historic-shift-while-sweden-waits-2023-04-04/|access-date=2023-04-19}} < /ref > 
+ == Economy == 
+ Finland has a mixed economy. [[Free market]] controls most of production and sales of goods, but public sector is involved in services. In 2013, taxes were 44% of gross national product. This is 4th largest in Europe, after Denmark, France and Belgium. < ref > [http://www.stat.fi/tup/suoluk/suoluk_valtiontalous.html Valtion talous] {{Webarchive|url=https://web.archive.org/web/20210411035857/http://www.stat.fi/tup/suoluk/suoluk_valtiontalous.html |date=2021-04-11 }} National Statistics < /ref > 
+ 
+ In 2014 services were 70% of the gross national product. < ref > [http://www.stat.fi/tup/suoluk/suoluk_kansantalous.html Kansantalous] National Statistics < /ref > 
+ 
+ The largest company in 2014 was oil refinery [[Neste Oil]]. The second largest was [[Nokia]]. Two forest industries [[Stora Enso]] and [[UPM-Kymmene]], were numbers three and four. Number five was [[Kesko]] which sells everyday goods in K-supermarkets. < ref name= " TE500 " > [http://www.talouselama.fi/uutiset/suuryhtiot-puristivat-vahemmasta-liikevaihdosta-enemman-voittoa-3365520  Talouselämä 500, kymmenen suurinta] Talouselämä 27.2.2016 < /ref > 
+ 
+ == Elections == 
+ [[Election]]s are [[organize]]d to select 200 [[wikt:member|member]]s to the [[Parliament]] of Finland. Also selected are the [[president]] of Finland, members of [[Town council|town]] and [[city council]]s and Finnish members to the [[European Parliament]]. The [[election]]s are [[secret]] and direct. People [[vote]] directly for the person they want to be elected. In presidential elections votes are only cast for a person, not for a [[political party]]. All the other elections are [[Proportional representation|proportional]]. The system is a combination of voting for individuals and parties. < ref name= " CP " > {{cite web |url=http://www.vaalit.fi/en/index/generalinformation/centralprinciplesofholdingelections.html |title=Central Principles of Holding Elections |author= |website=Elections website |publisher=Ministry of Justice |accessdate=6 February 2016 |archive-date=24 April 2016 |archive-url=https://web.archive.org/web/20160424101024/http://vaalit.fi/en/index/generalinformation/centralprinciplesofholdingelections.html |url-status=dead }} < /ref >  The right to vote is universal and equal. In general elections everybody has one vote. 
+ 
+ == Famous Finnish people == 
+ {{Div col}} 
+ * [[Alvar Aalto]], architect 
+ * [[Markku Alen]], 1978 World Rally Champion 
+ * [[Valtteri Bottas]], current Formula One driver 
+ * [[The Dudesons]], also known as [[Duudsonit]], a four-man stunt group with several TV shows and a movie. Close friends with the [[Jackass]] crew 
+ * [[Akseli Gallen-Kallela]], artist 
+ * [[Marcus Gronholm]], 2000/02 World Rally Champion 
+ * [[Mika Häkkinen]], 1998 and 1999 Formula One World Champion 
+ * [[Tarja Halonen]], former President of Finland 
+ * [[Tuomas Holopainen]], founder of the internationally famous band [[Nightwish]] 
+ * [[Sami Hyypiä]], football coach; 2005 UEFA Champions League winner 
+ * [[Juha Kankkunen]], 1986/87/91/93 World Rally Champion 
+ * [[Urho Kekkonen]], former President of Finland during the cold war 
+ * [[Jari Kurri]], 5 time Stanley Cup Winner, NHL Hall Of Famer 
+ * [[Eino Leino]], poet 
+ * [[Elias Lönnrot]], compiler of National epic [[Kalevala]] 
+ * [[Jari Litmanen]], footballer; 1995 [[UEFA Champions League]] winner 
+ * [[Tommi Makinen]], 1996-99 World Rally Champion 
+ * [[Carl Gustaf Emil Mannerheim]], a president and military commander 
+ * [[Karita Mattila]], world famous opera singer, winner of the first Cardiff singer of the world competition 
+ * [[Hannu Mikkola]], 1983 World Rally Champion 
+ * [[Paavo Nurmi]], famous Olympic long-distance runner 
+ * [[Kimi Räikkönen]], 2007 Formula One World Champion 
+ * [[Keke Rosberg]], 1982 Formula One World Champion 
+ * [[Timo Salonen]], 1985 World Rally Champion 
+ * [[Timo Sarpaneva]], famous designer mainly in glass 
+ * [[Teemu Selanne]], 2007 Stanley Cup Winner 
+ * [[Jean Sibelius]], the most important Finnish composer 
+ * [[Lauri Törni]], later known as Larry Thorne, a winner of the [[Mannerheim Cross]] during the [[Continuation War]] 
+ * [[Linus Torvalds]], the creator of [[Linux]] 
+ * [[Tarja Turunen]], former member of the internationally famous band [[Nightwish]] 
+ * [[Ville Valo]], Lead Singer songwriter of [[HIM (Finnish band)|HIM]] 
+ * [[Ari Vatanen]], 1981 World Rally Champion 
+ * [[Tapio Wirkkala]], designer and artist 
+ * {{Div col end}} 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://virtual.finland.fi/History History] 
+ * [http://www.finlandlive.info Finland Travel Community - Discussion Forum (English)] {{Webarchive|url=https://web.archive.org/web/20200809104953/http://www.finlandlive.info/ |date=2020-08-09 }} 
+ * [http://en.citizendium.org/wiki/Finland Finland] -Citizendium 
+ 
+ {{Europe}} 
+ {{European Union}} 
+ {{commons|finland}} 
+ 
+ [[Category:Finland| ]] 
+ [[Category:European Union member states]] 
+ [[Category:Nordic countries]] 
+ [[Category:Members of NATO]] 
+ [[Category:1917 establishments in Europe]]

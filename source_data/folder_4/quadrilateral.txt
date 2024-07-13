@@ -1,0 +1,35 @@
+{{Infobox Polygon 
+ | name        = Quadrilateral 
+ | image       = Six Quadrilaterals.svg 
+ | caption     = Some types of quadrilaterals 
+ | edges       = 4 
+ | schläfli    = {4} (for square) 
+ | area        = various methods, usually base time height 
+ | angle       = 90° (for square and rectangle)}} 
+ [[File:Quadrilateral.png|260 px|thumb|A quadrilateral]] 
+ In [[Euclidean geometry|Euclidean plane geometry]], a '''quadrilateral''' is a [[polygon]] with four [[Edge (geometry)|edges]] (or sides) and four [[Vertex (geometry)|vertices]] (or corners). Sometimes, the term '''quadrangle''' is used (similar to the term  " [[triangle]] " ), while other times, the term '''tetragon''' is used (similar to [[pentagon]], 5-sided polygon, and [[hexagon]], 6-sided polygon). A quadrilateral with vertices  < math > A < /math > ,  < math > B < /math > ,  < math > C < /math > ,  < math > D < /math >  is sometimes written as  < math > \square ABCD < /math > . < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-01|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Quadrilateral|url=https://mathworld.wolfram.com/Quadrilateral.html|access-date=2020-09-01|website=mathworld.wolfram.com|language=en}} < /ref > < ref name= " :0 " > {{Cite web|title=Quadrilaterals - Square, Rectangle, Rhombus, Trapezoid, Parallelogram|url=https://www.mathsisfun.com/quadrilaterals.html|access-date=2020-09-01|website=www.mathsisfun.com}} < /ref > 
+ 
+ The origin of the word quadrilateral is the two Latin words ''quadri'', a variant of four, and ''latus'', meaning  " side " . 
+ 
+ Quadrilaterals can be either [[complex polygon|complex]], also called crossed (self-intersecting), or [[simple polygon|simple]] (not self-intersecting). Simple quadrilaterals are either [[convex polygon|convex]] or [[concave polygon|concave]]. 
+ 
+ All the sides of a quadrilateral are straight, and the [[Internal and external angle|interior angles]] of a quadrilateral add up to 360°. < ref name= " :0 "  / > 
+ 
+ : < math > \angle A+\angle B+\angle C+\angle D=360^{\circ}. < /math > 
+ 
+ This is a special case of the ''n''-gon interior angle sum formula: (''n'' − 2) × 180°. 
+ 
+ All non-self-crossing quadrilaterals [[tessellation|tile the plane]], by repeated rotation around the midpoints of their edges. 
+ 
+ There are 6 special kinds of quadrilaterals; [[square]], [[rectangle]], [[rhombus]], [[parallelogram]], [[kite (geometry)|kite]], and [[trapezoid]]. Technically, squares, rectangles, and rhombuses are types of parallelograms. < ref name= " :0 "  / > 
+ 
+ == Related pages == 
+ 
+ * [[Cube]] 
+ * [[Cuboid]] 
+ 
+ == References == 
+ < references / > 
+ {{Math-stub}} 
+ {{Polygons}} 
+ [[Category:Polygons|4]]

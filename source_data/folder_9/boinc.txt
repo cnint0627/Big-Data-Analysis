@@ -1,0 +1,28 @@
+{{infobox software 
+ | name                   = BOINC 
+ | logo                   = BOINC logo July 2007.svg 
+ | screenshot             =  
+ | caption                =  
+ | developer              = [[University of California, Berkeley]] 
+ | latest_release_version = [http://boinc.berkeley.edu/download_all.php 7.14.2] 
+ | latest_release_date    = {{release date and age|2018|10|11}} 
+ | latest_preview_version =  
+ | latest_preview_date    =  
+ | operating_system       = [[Linux]], [[Microsoft Windows|Windows]], [[Mac OS X]], [[Android_(operating_system)|Android]] 
+ | genre                  = [[Grid computing]] and [[Volunteer computing]] 
+ | license                = [[LGPL]] 
+ | website                = [http://boinc.berkeley.edu/ boinc.berkeley.edu] 
+ }} 
+ 
+ '''BOINC''', or The Berkeley Open Infrastructure for Network Computing, is a software that allows any group or individual who wishes to run calculations in a distributed setting to setup a BOINC project website and server. Volunteers attach to one or more chosen projects and allow their [[computer|computer']]s idle time to process the work. [[SETI]], or Search for Extra-Terrestrial Intelligence, is the most popular of the BOINC projects. SETI searches for radio signals from outer space that might be a sign of alien life and worlds. There are many BOINC projects that compete for volunteers. For example, it allows individuals to use their computer to find the structures of [[protein]]s, a cure for the disease [[malaria]] or the very structure of our galaxy, the [[Milky Way]]. 
+ 
+ ==BOINC projects== 
+ * [[World Community Grid]] — research on disease and its treatment. [http://www.worldcommunitygrid.org/ Web site] 
+ 
+ == Other websites == 
+ * [http://boinc.berkeley.edu/ Berkeley Open Infrastructure for Network Computing] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Internet]]

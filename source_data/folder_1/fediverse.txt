@@ -1,0 +1,75 @@
+[[Category:Free software]] 
+ [[Category:Social networking]] 
+ [[File:Fediverse logo proposal.svg|thumb|A logo that represents the fediverse]] 
+ The '''fediverse''' is many [[Social network service|social media]] and internet [[software]] that can talk with each other. Federated social media allow people on different social media to like, follow, and comment on each other’s profiles. < ref name= " :0 " > {{Cite web|last=Mir|first=Cindy Cohn and Rory|date=2022-11-16|title=The Fediverse Could Be Awesome (If We Don’t Screw It Up)|url=https://www.eff.org/deeplinks/2022/11/fediverse-could-be-awesome-if-we-dont-screw-it|access-date=2023-07-12|website=Electronic Frontier Foundation|language=en}} < /ref > 
+ 
+ Similar to [[e-mail]], the fediverse is not owned by one person or company. Any person or company can make social media instances on the fediverse. < ref name= " :0 "  / >  And similar to email, these instances can connect and talk with each other. < ref name= " :1 " > {{Cite news|date=2023-07-10|title=Meta plans feed for Threads after users complain|language=en-GB|work=BBC News|url=https://www.bbc.com/news/technology-66155433|access-date=2023-07-12}} < /ref > 
+ 
+ For example, Mastodon gGmbH has the fediverse instance “mastodon.social”, < ref name= " :2 " > {{Cite news|last=Knight|first=Will|title=The Man Behind Mastodon Built It for This Moment|language=en-US|work=Wired|url=https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/|access-date=2023-07-12|issn=1059-1028}} < /ref >  and Gmail has the email address “gmail.com”. < ref > {{Cite web|last=Cline|first=Susan|date=2022-05-26|title=The difference between Gmail, a Google Account and Google Workspace accounts|url=https://www.techrepublic.com/article/the-difference-between-gmail-a-google-account-an-apps-account-and-an-apps-for-business-account/|access-date=2023-07-12|website=TechRepublic|language=en-US}} < /ref >  A person on “mastodon.social” has the fediverse identity “@ username @mastodon.social”, < ref > {{Cite news|last=Taylor|first=Josh|date=2022-11-08|title=What is Mastodon, the social network users are leaving Twitter for? Everything you need to know|language=en-GB|work=The Guardian|url=https://www.theguardian.com/technology/2022/nov/08/mastodon-what-is-it-how-do-i-join-use-find-best-server-list-change-elon-musk-twitter-leaving-social-network-alternative|access-date=2023-07-12|issn=0261-3077}} < /ref >  and a person on “gmail.com” has the email address “ username @gmail.com”. But a “gmail.com” user can send an email to someone who uses a different email provider, like “hotmail.com”. < ref name= " :1 "  / >  Similarly, a “mastodon.social” user can comment on a post by someone who uses a different fediverse instance, < ref > {{Cite news|last=Farrell|first=Henry|date=2022-11-12|title=Analysis {{!}} Musk is wrecking speech moderation on Twitter. There’s an alternative.|language=en-US|work=Washington Post|url=https://www.washingtonpost.com/politics/2022/11/12/musk-is-wrecking-speech-moderation-twitter-theres-an-alternative/|access-date=2023-07-12|issn=0190-8286}} < /ref >  like “[[Mozilla Foundation|mozilla]].social”. < ref > {{Cite web|last=Perez|first=Sarah|date=2023-05-04|title=Mozilla expands its Mastodon investment with beta launch of its own highly moderated server|url=https://techcrunch.com/2023/05/04/mozilla-expands-its-mastodon-investment-with-private-beta-launch-of-its-own-highly-moderated-server/|access-date=2023-07-12|website=TechCrunch|language=en-US}} < /ref > 
+ 
+ == Federated networking services == 
+ [[File:Fediverse branches 1.2.png|thumb|Fediverse software, and other federated networks, visualized in a tree figure]] 
+ Different fediverse software have different kinds of content. Some are for images, while others are for videos. Fediverse software have multiple instances. Some fediverse software, like Mastodon, < ref name= " :3 " > {{Cite web|title=Servers|url=https://joinmastodon.org/servers|access-date=2023-07-12|website=joinmastodon.org|language=en}} < /ref >  have hundreds of instances that can connect with each other. Usually, people can use federated social media software by opening one of the software’s instances in their [[web browser]] ([[Google Chrome]], [[Mozilla Firefox|Firefox]], [[Microsoft Edge|Edge]]...), by using phone apps, or by using a web app. < ref > {{Cite web|last=Robertson|first=Adi|date=2019-07-12|title=How the biggest decentralized social network is dealing with its Nazi problem|url=https://www.theverge.com/2019/7/12/20691957/mastodon-decentralized-social-network-gab-migration-fediverse-app-blocking|access-date=2023-07-12|website=The Verge|language=en-US}} < /ref > 
+ {| class= " wikitable " 
+ |+Popular fediverse software 
+ !Networking service 
+ !Similar networking service 
+ !Popular instances 
+ !Instance operator 
+ !Open sign-up 
+ |- 
+ | rowspan= " 2 "  |Mastodon 
+ | rowspan= " 2 "  |[[Twitter]] < ref > {{Cite news|last=Huang|first=Kalley|date=2022-11-07|title=What Is Mastodon and Why Are People Leaving Twitter for It?|language=en-US|work=The New York Times|url=https://www.nytimes.com/2022/11/07/technology/mastodon-twitter-elon-musk.html|access-date=2023-07-12|issn=0362-4331}} < /ref > 
+ |mastodon.social < ref name= " :4 " > {{Cite web|title=What Is Mastodon, the Alternative Social Network Now Blocked by Twitter?|url=https://www.cnet.com/tech/services-and-software/what-is-mastodon-the-alternative-social-network-now-blocked-by-twitter/|access-date=2023-07-12|website=CNET|language=en}} < /ref > 
+ |Mastodon gGmbH, a German [[Nonprofit organization|nonprofit]] < ref name= " :2 "  / > 
+ |Yes < ref name= " :3 "  / > 
+ |- 
+ |mstdn.social < ref name= " :4 "  / > 
+ |“stux”, a man from the [[Netherlands]] < ref > {{Cite news|last=Chan|first=Wilfred|date=2022-11-02|title=Mastodon gained 70,000 users after Musk’s Twitter takeover. I joined them|language=en-GB|work=The Guardian|url=https://www.theguardian.com/media/2022/nov/01/mastodon-twitter-elon-musk-takeover|access-date=2023-07-12|issn=0261-3077}} < /ref > 
+ |Yes < ref name= " :3 "  / > 
+ |- 
+ | rowspan= " 2 "  |Lemmy 
+ | rowspan= " 2 "  |[[Reddit]] < ref > {{cite book|url=https://books.google.com/books?id=FuZcEAAAQBAJ & dq=%22pixelfed%22+-wikipedia & pg=PA152|title=Fundamental Challenges to Global Peace and Security|date=February 5, 2022|publisher=Springer|isbn=9783030790714|page=152|language=English|format=Hardcover|quote= " A single mod can handle most of the load, "  said Daniel Supernault, the developer for PixelFed and the sole moderator for the flagship instance for the ActivityPub equivalent of Instagram,  " We don't get many reports, the latest one on ...}} < /ref > 
+ |lemmy.world < ref name= " :5 " > {{Cite web|date=2023-07-07|title=These are the best Reddit alternatives|url=https://www.androidpolice.com/best-reddit-alternatives/|access-date=2023-07-12|website=Android Police|language=en}} < /ref > 
+ |Ruud Schilders, < ref > {{Cite web|title=@ruud - Lemmy.world|url=http://lemmy.world/u/ruud|access-date=2023-07-12|website=lemmy.world|language=en}} < /ref >  from the Netherlands < ref > {{Cite web|title=About Me {{!}} Ruud's Blog|url=https://ruudschilders.com/about|access-date=2023-07-12|website=ruudschilders.com}} < /ref > 
+ |Yes < ref name= " :6 " > {{Cite web|title=The Federation - a statistics hub|url=https://the-federation.info/|access-date=2023-07-12|website=the-federation.info|language=en}} < /ref > 
+ |- 
+ |lemmy.ml < ref name= " :5 "  / > 
+ |Lemmy’s developers < ref > {{Cite web|title=Lemmy - Browse servers|url=https://join-lemmy.org/instances|access-date=2023-07-12|website=join-lemmy.org}} < /ref > 
+ |No < ref name= " :6 "  / > 
+ |- 
+ | rowspan= " 2 "  |Kbin 
+ | rowspan= " 2 "  |Reddit < ref > {{Cite web|date=2023-06-16|title=Looking for a Reddit alternative? Lemmy tell you, they currently kinda suck|url=https://www.androidauthority.com/reddit-alternatives-lemmy-3335429/|access-date=2023-07-12|website=Android Authority|language=en}} < /ref > 
+ |kbin.social < ref name= " :7 " > {{Cite web|title=Fediverse Observer|url=https://kbin.fediverse.observer/list|access-date=2023-07-12|website=kbin.fediverse.observer}} < /ref > 
+ | 
+ |Yes < ref name= " :7 "  / > 
+ |- 
+ |fedia.io < ref name= " :7 "  / > 
+ | 
+ |Yes < ref name= " :7 "  / > 
+ |- 
+ | rowspan= " 2 "  |Misskey 
+ | rowspan= " 2 "  |Twitter < ref name= " :9 " > {{Cite web|date=2023-08-08|title=Japan's Twitter-like Misskey to form company in bid for survival|url=https://asia.nikkei.com/Business/Technology/Japan-s-Twitter-like-Misskey-to-form-company-in-bid-for-survival|access-date=2023-10-07|website=Nikkei Asia|language=en}} < /ref > 
+ |misskey.io < ref name= " :10 " > {{Cite web|title=Fediverse Observer|url=https://misskey.fediverse.observer/list|access-date=2023-10-07|website=misskey.fediverse.observer}} < /ref > 
+ |MisskeyHQ, a Japanese company < ref name= " :9 "  / > 
+ |Yes < ref name= " :10 "  / > 
+ |- 
+ |misskey.design < ref name= " :10 "  / > 
+ | 
+ |Yes < ref name= " :10 "  / > 
+ |- 
+ |PeerTube 
+ |[[YouTube]] < ref > {{Cite web|date=2018-03-30|title=PeerTube, une tentative d'alternative française et décentralisée à YouTube|url=https://www.lefigaro.fr/secteur/high-tech/2018/03/30/32001-20180330ARTFIG00001-peertube-une-tentative-d-alternative-francaise-et-decentralisee-a-youtube.php|access-date=2023-07-12|website=LEFIGARO|language=fr}} < /ref > 
+ |the.jokertv.eu < ref name= " :8 " > {{Cite web|title=PeerTube instances|url=https://instances.joinpeertube.org/instances?sort=-totalVideos|access-date=2023-07-12|website=instances.joinpeertube.org}} < /ref > 
+ | 
+ |Yes < ref name= " :8 "  / > 
+ |- 
+ |Pixelfed 
+ |[[Instagram]] < ref > {{Cite web|date=2022-12-20|title=Making ActivityPub Your Social Media Hub for Mastodon and Other Decentralized Services|url=https://www.macstories.net/stories/making-activitypub-your-social-media-hub-for-mastodon-and-other-decentralized-services/|access-date=2023-07-12|language=en-US}} < /ref > 
+ |pixelfed.social < ref > {{Cite web|title=Pixelfed Server Directory|url=https://pixelfed.org/|access-date=2023-07-12|website=Pixelfed|language=en}} < /ref > 
+ |Daniel Supernault, Pixelfed’s main developer < ref > {{Cite web|title=Pixelfed - Decentralized social media|url=https://pixelfed.org/|access-date=2023-07-12|website=Pixelfed|language=en}} < /ref > 
+ |Yes < ref > {{Cite web|last=Pépin|first=Guénaël|title=PixelFed, un embryon d'alternative libre à Instagram|url=https://www.nextinpact.com/article/28502/106741-pixelfed-embryon-dalternative-libre-a-instragram|access-date=|website=Next Impact|language=fr}} < /ref > 
+ |} 
+ 
+ == References == 
+ < references / >

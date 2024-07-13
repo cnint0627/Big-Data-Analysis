@@ -1,0 +1,72 @@
+{{Taxobox 
+ | name = Macropodiformes 
+ |fossil_range=[[Oligocene]] – Recent < ref name=paleo > [http://paleodb.org/cgi-bin/bridge.pl?action=checkTaxonInfo & taxon_no=40140 & is_real_user=1 The Paleobiology Database < !-- Bot generated title -- > ] < /ref > 
+ | image = smallwallaby.jpg 
+ | image_width = 200px 
+ | image_caption = [[Red-necked Wallaby]] 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Mammal]]ia 
+ | subclassis = [[Marsupialia]] 
+ | ordo = [[Diprotodontia]] 
+ | subordo = '''Macropodiformes''' 
+ | subordo_authority = [[Florentino Ameghino|Ameghino]], 1889 
+ | subdivision_ranks = [[Family (biology)|Families]] 
+ | subdivision =  
+ [[Hypsiprymnodontidae]] < br > 
+ [[Macropodidae]] < br > 
+ [[Potoroidae]] 
+ }} 
+ 
+ '''Macropodiformes''' is one of the three [[suborder]]s of the large [[marsupial]] order [[Diprotodontia]]. [[Kangaroo]]s, [[Wallaby|wallabies]] and allies, [[bettong]]s, [[Potoroo|potaroos]] and [[rat kangaroo]]s are all in this suborder. 
+ 
+ == References == 
+ 
+ {{reflist}} 
+ 
+ < !-- 
+ == Classification == 
+ 
+ * '''Family [[Hypsiprymnodontidae]]''' 
+ ** Genus [[Hypsiprymnodon]] 
+ ***[[Musky Rat-kangaroo]], ''Hypsiprymnodon moschatus''  
+ ** Genus †[[Ekaltadeta]] 
+ ** Genus †[[Jackmahoneyi]] 
+ ** Genus †[[Propleopus]] 
+ * '''Family [[Macropodidae]]''': kangaroos, wallabies, and allies 
+ * '''Family [[Potoroidae]]''' 
+ ** Genus †''[[Wakiewakie]]'' 
+ ** Genus †''[[Purtia]]'' 
+ ** Genus ?†''[[Palaeopotorous]]'' 
+ ** Subfamily †[[Bulungamayinae]]  
+ *** Genus †'[[Wabularoo]]'' 
+ **** †''[[Wabularoo hilarus]]'' 
+ **** †''[[Wabularoo naughtoni]]'' 
+ *** Genus †''[[Bulungamaya]]'' 
+ ** '''Subfamily [[Potoroinae]]''' 
+ *** Genus ''[[Aepyprymnus]]'' 
+ **** [[Rufous Rat-kangaroo]], ''Aepyprymnus rufescens'' 
+ *** Genus ''[[Bettongia]]'' 
+ **** [[Eastern Bettong]], ''Bettongia gaimardi'' 
+ **** [[Boodie]], ''Bettongia lesueur'' 
+ **** [[Woylie]], ''Bettongia penicillata'' 
+ **** [[Northern Bettong]], ''Bettongia tropica'' 
+ **** †''[[Bettongia moyesi]]'' 
+ *** Genus ''[[Caloprymnus]]'' 
+ **** [[Desert Rat-kangaroo]], ''Caloprymnus campestris'' 
+ *** Genus ''[[Potorous]]'' 
+ **** [[Long-footed Potoroo]], ''Potorous longipes'' 
+ **** †[[Broad-faced Potoroo]], ''Potorous platyops'' 
+ **** [[Long-nosed Potoroo]], ''Potorous tridactylus'' 
+ **** [[Gilbert's Potoroo]], ''Potorous gilbertii'' 
+ *** Genus †''[[Gumardee]]'' 
+ **** †''[[Gumardee pascuali]]'' 
+ *** Genus †''[[Milliyowi]]''  
+ **** †''[[Milliyowi bunganditj]]'' 
+ -- > 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Macropods| ]] 
+ [[Category:Marsupials of Australia]]

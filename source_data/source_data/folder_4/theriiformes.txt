@@ -1,0 +1,53 @@
+{{automatic taxobox 
+ | fossil_range = {{Geological range/linked|Middle Jurassic|Recent}} 
+ | image = Kangaroo and joey03.jpg 
+ | image_caption = [[Eastern gray kangaroo|Kangaroo]] with her [[Marsupial|joey]] 
+ | image2 =  
+ | image2_caption =  
+ | taxon = Theriiformes 
+ | authority = Rowe, 1988 
+ | subdivision_ranks = Subgroups 
+ | subdivision = 
+ * {{extinct}}[[Allotheria]] 
+ * [[Trechnotheria]] 
+ }} 
+ 
+ '''Theriiformes''' is a [[clade]] of [[mammal]]s. The term was first used by Timothy B. Rowe in his [[PhD|doctoral]] [[dissertation]]. < ref name= " Rowe1988 "  / >  Theriiformes are the clade formed by the most recent common [[ancestry|ancestor]] of [[multituberculate]]s and [[theria]]ns.. < ref name= " Macrini2007 "  / > 
+ 
+ The cladogram below follows Luo ''et al.'' (2016): < ref name= " Luo2016 "  / > 
+ 
+ {{Clade|style=font-size:85%; line-height:85% 
+ |label1=[[Mammal]]ia 
+ |1={{Clade 
+    |1=[[Australosphenida]] 
+    |label2=[[Theriimorpha]] 
+    |2={{Clade 
+       |1=''[[Fruitafossor]]'' 
+       |2={{Clade 
+          |1=[[Eutriconodonta]] 
+          |label2='''Theriiformes''' 
+          |2={{Clade 
+             |1={{Clade 
+                |1=[[Gondwanatheria]] 
+                |2=[[Multituberculata]] 
+                }} 
+             |label2=[[Trechnotheria]] 
+             |2={{Clade 
+                |1=[[Spalacotherioidea]] 
+                |label2=[[Cladotheria]] 
+                |2={{Clade 
+                   |1=[[Dryolestoidea]] 
+                   |2=[[Theria]] 
+ }} }} }} }} }} }} }} 
+ 
+ ==References== 
+ {{Reflist|refs= 
+ < ref name= " Luo2016 " > {{cite journal |last1=Luo |first1=Z.-X. |last2=Schultz |first2=J. A. |last3=Ekdale |first3=E. G. |title=Evolution of the Middle and Inner Ears of Mammaliaforms: The Approach to Mammals |journal=Evolution of the Vertebrate Ear |series=Springer Handbook of Auditory Research |date=2016 |volume=59 |pages=139–174 |doi=10.1007/978-3-319-46661-3_6 |isbn=978-3-319-46659-0 |url=https://www.researchgate.net/publication/311839173}} < /ref > 
+ < ref name= " Macrini2007 " > {{cite journal |last1=Macrini |first1=T. E. |last2=Rougier |first2=G. W. |last3=Rowe |first3=T. |title=Description of a Cranial Endocast from the Fossil Mammal ''Vincelestes neuquenianus'' (Theriiformes) and its Relevance to the Evolution of Endocranial Characters in Therians |journal=The Anatomical Record: Advances in Integrative Anatomy and Evolutionary Biology |date=2007 |volume=290 |issue=7 |pages=875–892 |doi=10.1002/ar.20551|pmid=17506058 |s2cid=15247940 }} < /ref > 
+ < ref name= " Rowe1988 " > {{cite journal |last1=Rowe |first1=T. |title=Definition, diagnosis, and origin of Mammalia |journal=Journal of Vertebrate Paleontology |date=1988 |volume=8 |issue=3 |pages=241–264 |doi=10.1080/02724634.1988.10011708 |url=https://www.researchgate.net/publication/241730711}} < /ref > 
+ }} 
+ 
+ {{Taxonbar|from=Q2513125}} 
+ {{stub}} 
+ 
+ [[Category:Mammals]]

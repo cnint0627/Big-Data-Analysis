@@ -1,0 +1,18 @@
+[[File:Polygon_mouths_and_ears.svg|thumb|B is an ear because the line between C and D is completely inside the [[Polygon|shape]]. C is a mouth because the line between A and B is completely outside the shape.]] 
+ 
+ A '''vertex''' is a corner. More than one vertex are called '''vertices'''. A vertex is a point where two or more [[line]]s, [[curve]]s, [[ray]]s, or [[side]]s meet, and is often represented by letters such as  < math > P < /math > ,  < math > Q < /math > ,  < math > R < /math >  and  < math > S < /math > . < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-16|website=Math Vault|language=en-US}} < /ref >   
+ 
+ For example, the vertex of an [[angle]] is the point where the two edges of the angle intersect, and a vertex of a [[cube]] is simply one of its corners—of which there are 8. < ref > {{Cite web|title=What Are Vertices in Math?|url=https://sciencing.com/vertices-math-5066316.html|access-date=2020-08-16|website=Sciencing|language=en}} < /ref >   
+ 
+ The concept of vertex applies to both two-dimensional and three-dimensional geometrical objects. For example, a [[tetrahedron]] has 4 vertices, and a [[pentagon]] has 5 vertices. < ref > {{Cite web|title=Vertices, Edges and Faces|url=https://www.mathsisfun.com/geometry/vertices-faces-edges.html|access-date=2020-08-16|website=www.mathsisfun.com}} < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[Graph (mathematics)]] 
+ * [[Vertex figure]] 
+ 
+ == References == 
+ < references / > 
+ [[Category:Geometry]] 
+ 
+ {{math-stub}}

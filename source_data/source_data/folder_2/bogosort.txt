@@ -1,0 +1,51 @@
+The '''Bogosort''' is considered one of the worst sorting [[Algorithm|algorithms]]. It works by creating random arrangements of given values and randomly moving them until they are sorted. It is not effective for any form of sorting. 
+ 
+ == Algorithm == 
+ The Bogosort first takes in a set of values from a user. Next it randomly arranges these values. 
+ If the values are now in a sorted order, then the function is finished, else the function repeats itself. 
+ 
+ A working analogy for the Bogosort is to sort a deck of cards by throwing them into the air, picking them up at random, and repeating the process until they are sorted. 
+ 
+ == Implementation == 
+ # Have a set of values to test. 
+ #Sort using Bogo (Randomly arrange values). 
+ #Check if the new arrangement of values is sorted. 
+ #If sorted, then end the function. 
+ #If not sorted, then repeat step 2. 
+ 
+ == Simple Example == 
+ 
+ Array = (3,1 ,5 ,7 ,8 ,9) 
+ 
+ 1st shuffling = (1,3,7,8,9,5) 
+ 
+ 2nd shuffling = (3,7,8,6,9,1) 
+ 
+ 3rd shuffling = (7,6,3,8,9,1) 
+ 
+ 4th shuffling = (6,7,8,9,3,1) 
+ 
+ 5th shuffling = (3,6,7,8,9,1) 
+ 
+ (continued shuffling) ... 
+ 
+ (After final shuffling): Sorted Array = (1,3,6,7,8,9) 
+ 
+ < br / > 
+ == Coding Example == 
+ The following code is done in Python 3: < syntaxhighlight lang= " python3 " > 
+ import random  
+ 
+ def is_sorted(data):  
+     for i in range(len(data) - 1):  
+         if data[i]  >  data[i + 1]: 
+             return False 
+     return True 
+ 
+ def bogosort(data): 
+     while not is_sorted(data):  
+         random.shuffle(data) 
+     return data 
+ < /syntaxhighlight > 
+   
+ [[Category:Searching and sorting algorithms]]

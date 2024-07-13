@@ -1,0 +1,25 @@
+'''Encoder''' may refer to: 
+ {{TOC right}} 
+ 
+ ==Electronic circuits== 
+ * [[Audio encoder]], converts audio from digital to analog 
+ * [[Video encoder]], converts video from digital to analog 
+ * [[Simple encoder]] 
+ * [[Priority encoder]] 
+ * [[8b/10b encoding|8b/10b encoder]] 
+ 
+ ==Media compression== 
+ * [[data compression|Compressor]], encodes data (such as audio/video/images) into a smaller size (see [[codec]]) 
+ 
+ == Sensors == 
+ * [[Encoder (position)]] 
+ ** [[Rotary encoder]], converts rotating position to electronic signals 
+ ** [[Linear encoder]], converts straight position to electronic signals 
+ ** [[Absolute encoder]] 
+ ** [[Incremental encoder]], converts position changes to electronic signals in real time 
+ * [[Altitude encoder]] 
+ 
+ ==Related pages== 
+ * [[Decoder (disambiguation)]] 
+ 
+ {{disambiguation}}

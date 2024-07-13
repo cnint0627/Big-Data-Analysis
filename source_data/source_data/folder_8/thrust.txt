@@ -1,0 +1,64 @@
+{{otheruses}} 
+ [[File:Estes.jpg|300px|right|thumb| Thrust curve for an Estes A10-PT rocket motor. A thrust curve shows how much thrust (in newtons) the motor produces over time (in seconds). This also has information about the impulse, amount of fuel, and [[specific impulse]]]] 
+ 
+ '''Thrust''' is a [[Force (physics)|force]] or a push. When a system pushes or [[acceleration|accelerates]] [[mass]] in one direction, there is a thrust (force) just as large in the opposite direction. In math and physics, this is described by [[Isaac Newton]]’s [[Newton's laws of motion|second and third laws]]. Thrust is used to describe how strongly an engine pushes. It can be used for many kinds of vehicles and engines such as rockets, [[motorboat]]s, [[propeller]]s, and [[jet engine]]s. 
+ 
+ Thrust is measured in “pounds of thrust” in the U.S. and in [[Newton (unit)|newtons]] in the metric system. 4.45 newtons of thrust equals 1 pound of thrust. A pound of thrust is how much thrust it would take to keep a one-pound object unmoving against the force of gravity on earth. 
+ 
+ == Thrust compared to power == 
+ A very common question is how to compare the thrust number of an airplane engine with the mechanical [[Power (physics)|power]] of a piston engine (the kind of engine in cars and in many airplanes with propellers). It is hard to compare these two. This is because they are not measuring the same exact thing. A piston engine does not move the plane. It just turns the propeller, which moves the plane. Because of this, piston engines are rated by how much power they give to the propeller. 
+ 
+ However, a jet engine has no propeller – it pushes the aircraft by moving hot air behind it. A useful way to measure the power of a jet engine is to how much power the jet engine gives to the aircraft through its thrust force. This is called the “propulsive power of the jet engine. "  Power is how much force it takes to move something over a distance, divided by the time it takes to move that distance: < ref > {{cite web 
+ | url = http://www.aerospaceweb.org/question/propulsion/q0195.shtml 
+ | title = Convert Thrust to Horsepower By Joe Yoon 
+ | accessdate = 2009-05-01 
+ }} < /ref > 
+ 
+ : < math > \mathbf{P}=\mathbf{F}\frac{d}{t} < /math > , 
+ 
+ Where P is power, F is force, d is distance, and t is time. For a rocket or jet engine, the force is the same as thrust produced by the engine. Distance divided by time is also called speed. So power is the same as thrust times speed < ref > " Introduction to Aircraft Flight Mechanics " , Yechout  &  Morris < /ref > 
+ 
+ : < math > \mathbf{P}=\mathbf{T}{v} < /math > , 
+ 
+ Where T is thrust and ''v'' is speed. This is the power being delivered by the engine at a certain thrust or velocity. < ref > " Understanding Flight " , Anderson  &  Eberbaht < /ref >  The propulsive power of a jet engine increases with its speed. 
+ 
+ ==Thrust compared to weight== 
+ When the thrust of a rocket or an engine is compared to the weight, it is called the '''Thrust-to-weight ratio'''. The number that comes from this comparison does not have any units, because it is a ratio. A ratio in this case means that the thrust of the engine (in Newtons) is divided by the weight (in Newtons). The purpose of this comparison is to show how well the engine or vehicle performs, for example how much [[acceleration]]. It is a number that can be used to compare various types of motors like airplane motors, jet engines, rocket engines, or car engines. 
+ 
+ This comparison number can change while the engine is running. This is because the weight of the engine gets lighter as fuel is used. The thrust-to-weight ratio is used to actually compare engines is the number found when the engine is first running. 
+ 
+ Thrust is measured in “pounds of thrust” in the U.S. and in Newtons in the metric system. 4.45 Newtons of thrust equals 1 pound of thrust. A pound of thrust is how much thrust it would take to keep a one-pound object unmoving against the force of gravity on earth. 
+ 
+ == Examples == 
+ [[File:aeroforces.svg|thumb|Forces on an [[aerofoil]] cross section]] 
+ 
+ An airplane makes forward thrust when air is pushed in the direction opposite to flight. The thrust is made by the spinning blades of a [[Propeller (aircraft)|propeller]]. Thrust can also be made by a rotating [[Mechanical fan|fan]] pushing air out from the back of a [[jet engine]]. Another way is by ejecting hot gases from a [[rocket engine]]. 
+ 
+ Reverse thrust is the opposite of forward thrust. In this way air is pushed in the same way as the motion of the body. Reverse thrust can be used to help braking after landing. This can be done by redirecting the thrust in a turbofan or jet engine or by changing the blade angle of a propeller driven aircraft. 
+ 
+ Birds normally achieve thrust during flight by flapping their wings. 
+ 
+ A [[boat]] with a motor makes thrust or reverse thrust when the propellers are turned to push water backwards (or forwards). The thrust that this makes pushes the boat in the opposite direction than the water is being pushed. 
+ 
+ A [[rocket]] is pushed forward by a thrust force as large as the force the exhaust gas makes when going out of the rocket nozzle. The force the exhaust gas makes is called the exhaust velocity. The velocity is measured compared to the rocket. For vertical launch of a rocket to work, the starting thrust must be more force than the weight of the rocket. 
+ 
+ {| class= " wikitable " 
+ |- 
+ |+ align= " bottom "  style= " caption-side: bottom "  | Thrust and Thrust to Weight Ratios for Several Engines 
+ ! rowspan= " 1 " |Engine||Thrust (N) ||Thrust to Weight Ratio 
+ |----- 
+ | F-15C Eagle < ref > {{cite journal|url=http://www.ausairpower.net/Profile-F-15A-D.html|title=McDonnell Douglas F-15 Eagle - The Ultimate MiG-Killer|first=Carlo|last=Kopp|date=1 September 1984|journal=Australian Aviation|volume=1984|issue=September|via=www.ausairpower.net}} < /ref >  ||155,240||1.12 
+ |----- 
+ | F-16 Fighting Falcon < ref > {{cite web|url=http://www.af.mil/information/factsheets/factsheet.asp?id=103|archiveurl=https://archive.today/20120719185708/http://www.af.mil/information/factsheets/factsheet.asp?id=103|url-status=dead|title=Factsheets : F-16 Fighting Falcon|date=19 July 2012|archivedate=19 July 2012|website=archive.is}} < /ref >  || 76,300 || 1.095 
+ |----- 
+ | J-58 (SR-71 Blackbird Jet Engine) < ref > Factsheets : Pratt  &  Whitney J58 Turbojet " . National Museum of the United States Air Force. http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=880 {{Webarchive|url=https://web.archive.org/web/20100403022313/http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=880 |date=2010-04-03 }}. Retrieved 2010-04-15. < /ref > ||150,000||5.2 
+ |----- 
+ | Boeing 747-400 (Engines) < ref > {{cite web|url=https://www.grc.nasa.gov/WWW/k-12/BGP/Donna/t_w_ratio_answers.htm|title=Beginner's Guide to Propulsion: Thrust to Weight Ratio - Answers|website=www.grc.nasa.gov}} < /ref > ||1,008,000||6.3 
+ |----- 
+ | F-1 (Saturn V 1st stage rocket engine) < ref > {{cite web|url=http://www.astronautix.com/4/404page.html|title=Encyclopedia Astronautica Index: 1|website=www.astronautix.com}} < /ref >  ||7,740,500||94.1 
+ |} 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ [[Category:Force]]

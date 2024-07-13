@@ -1,0 +1,48 @@
+{{Ionbox 
+ | ImageFile = Chromate-3D-balls.png 
+ |  ImageSize =160px 
+ |  ImageAlt =  [[Ball-and-stick model]] of the chromate anion 
+ | ImageFile2 = Dichromate-3D-balls.png 
+ |  ImageSize2 =200px 
+ |  ImageAlt2 = [[Ball-and-stick model]] of the dichromate anion 
+ | SystematicName = Chromate and Dichromate 
+ | IUPACName = 
+ | OtherNames = 
+ | Section1 = {{Chembox Identifiers 
+ |  CASNo = 
+ |  PubChem = 
+ |  SMILES = }} 
+ | Section2 = {{Chembox Properties 
+ |  Formula = {{chem|Cr|O|4|2-}} and {{chem|Cr|2|O|7|2-}} 
+ |  MolarMass = 115.994 g mol < sup > -1 < /sup >  and 215.988 g mol < sup > -1 < /sup > 
+ |  Appearance = 
+ |  Solubility = }} 
+ | Section3 = {{Chembox Hazards 
+ |  MainHazards = 
+ |  FlashPt = 
+ |  Autoignition = }} 
+ }} 
+ '''Chromate''' is an [[ion]] that contains one [[chromium]] atom (in its +6 [[oxidation state]]) and four [[oxide]] atoms. Its formula is CrO < sub > 4 < /sub > . Its overall charge is -2. '''Dichromate''' is similar, but it contains two chromium atoms and seven oxide atoms (therefore, Cr < sub > 2 < /sub > O < sub > 7 < /sub > ). 
+ 
+ Chromate and dichromate are strongly [[oxidizing agent|oxidizing]] in [[acid]]ic conditions, but weakly oxidizing in [[base (chemistry)|basic]] conditions. Chromates are generally bright yellow, while dichromates are generally orange or red. They can be made by reaction of [[chromium(III) oxide]] and a metal oxide in a basic environment. They can be destroyed by reaction with [[reducing agent]]s. The [[oxygen]] in the air boosts the chromium atom's oxidation state from +3 to +6.  
+ 
+ Chromates and dichromates are harmful when powdered because the dust is [[carcinogen]]ic (it can cause [[cancer]]). This can be avoided by [[reduction (chemistry)|reducing]] chromate with something like [[iron(II) sulfate]]. 
+ 
+ ==Examples== 
+ ;Chromates 
+ *[[Sodium chromate]] 
+ *[[Potassium chromate]] 
+ 
+ ;Dichromates 
+ *[[Potassium dichromate]] 
+ *[[Ammonium dichromate]] 
+ 
+ ==Related pages== 
+ *[[Chromium]] 
+ *[[Chromium(III) oxide]] 
+ 
+ 
+ {{chem-stub}} 
+ 
+ [[Category:Chromium compounds]] 
+ [[Category:Ions]]

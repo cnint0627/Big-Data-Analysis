@@ -1,0 +1,73 @@
+{{Infobox settlement 
+ | name                    = Mikulov 
+ | other_name              =  
+ | settlement_type         = [[Town]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           = Mikulov pohled 2.jpg 
+ | image_caption           = Old town centre and castle 
+ | image_flag              = Flag of Mikulov, Břeclav District, Czech Republic.svg 
+ | image_shield            = Coat of arms of Mikulov (official).svg 
+ < !-- location -- > 
+ | subdivision_type        = Country 
+ | subdivision_name        = {{CZE}} 
+ | subdivision_type1       = [[Regions of the Czech Republic|Region]] 
+ | subdivision_name1       = [[South Moravian Region|South Moravian]] 
+ | subdivision_type2       = [[Districts of the Czech Republic|District]] 
+ | subdivision_name2       = [[Břeclav District|Břeclav]] 
+ < !-- maps and coordinates -- > 
+ | image_map               =  
+ | map_caption             =  
+ | pushpin_map             = Czech Republic 
+ | pushpin_relief          = 1 
+ | pushpin_map_caption     = Location in the Czech Republic 
+ | coordinates             = {{coord|48|48|20|N|16|38|16|E|display=inline,title}} 
+ | coordinates_footnotes   =  
+ < !-- government type, leaders -- > 
+ | leader_title            = Mayor 
+ | leader_name             = Rostislav Koštial 
+ | leader_party            = {{polparty|Czech Republic|ODS}} 
+ < !-- established -- > 
+ | established_title       = First mentioned 
+ | established_date        = 1173 
+ < !-- area -- > 
+ | area_footnotes          =  
+ | area_total_km2          = 45.32 
+ < !-- elevation -- > 
+ | elevation_footnotes     =  
+ | elevation_m             = 242 
+ < !-- population -- > 
+ | population_as_of        = 2022-01-01 
+ | population_footnotes    =  < ref > {{cite web |title=Population of Municipalities – 1 January 2022|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2022|publisher=[[Czech Statistical Office]]|date=2022-04-29}} < /ref > 
+ | population_total        = 7427 
+ | population_density_km2  = auto 
+ < !-- time zone(s) -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        = Postal code 
+ | postal_code             = 692 01 
+ | area_code_type          =  
+ | area_code               =  
+ < !-- website, footnotes -- > 
+ | website                 = {{URL|https://www.mikulov.cz/}} 
+ | footnotes               =  
+ }} 
+ '''Mikulov''' ({{lang-de|Nikolsburg}}) is a town in the [[South Moravian Region]] of the [[Czech Republic]]. About 7,400 people live there. 
+ 
+ The town is about {{convert|18|km|mi}} northwest of [[Břeclav]], on the border with [[Austria]]. It borders the Austrian municipality of [[Drasenhofen]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{Commonscat}} 
+ * [http://www.mikulov.cz/ Official website] {{in lang|cs}} 
+ 
+ {{authority control}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Towns in the Czech Republic]] 
+ [[Category:South Moravian Region]]

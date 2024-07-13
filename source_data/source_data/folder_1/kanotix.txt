@@ -1,0 +1,114 @@
+{{Infobox OS 
+ |name = Kanotix 
+ |screenshot = Kanotix-hellfire.png 
+ |caption = Kanotix-Hellfire-Live-screenshot 
+ |developer = Jörg Schirottke (Aka. Kano) 
+ |family = [[Unix-like]] 
+ |source_model = [[Open source]] 
+ |working_state = Current 
+ |latest_release_version =Dragonfire-LinuxTag 2013  < !-- If you update this, don't forget to update [[Comparison of Linux distributions]]-- > 
+ |latest_release_date = {{release date|2013|05|22}} 
+ |kernel_type = [[Monolithic kernel|Monolithic]] 
+ |ui = [[KDE Plasma Desktop]] 
+ |license = Various 
+ |website = [http://www.kanotix.org/ www.kanotix.org] 
+ }} 
+ 
+ '''Kanotix''', also referred to as '''KANOTIX''', is a [[Linux distribution]] [[Live CD]] ([[LiveDistro]]) based on [[Debian]] (until 2006 ''unstable'', in 2007 KANOTIX moved to Debian Etch) with advanced hardware detection. < ref > [http://www.kanotix.org/index.html Kanotix Introduction] < /ref > < ref > [http://www.tuxmachines.org/node/19794 Thorhammer Beta-Review on tuxmachines.org, July 2007 (author: eco2geek)] < /ref >  It can run from an [[optical disc drive]] without using a [[hard disk]]. 
+ 
+ Kanotix uses [[KDE]] as the default [[desktop environment]]. [[GNOME]] and other [[window manager]]s can be downloaded using [[Advanced Packaging Tool|APT]]. 
+ 
+ The name  " Kanotix "  is derived from the founder's [[nickname]]  " Kano " . Kanotix's mascot is a [[fangtooth]]. 
+ 
+ ==Content== 
+ Kanotix is based on Debian stable (currently  " Etch " ). It contains a lot of [[backport]]s. < ref > [http://kanotix.com/files/thorhammer/backports/ Kanotix backports] < /ref >  So many of the main applications are more recent than are available in Etch.{{Fact|date=April 2008}} 
+ 
+ Kanotix includes about 1,200 software packages: 
+ 
+ * [[KDE]], the default desktop environment, including the Konqueror, IceWM, Beryl (allows access to a 3D desktop environment) 
+ * [[Amarok]], [[Video Disk Recorder]] 
+ * [[Beryl (window manager)]] 
+ * Internet access software, including the KPPP dialer, ISDN utilities and WLAN-[[NdisWrapper]] 
+ * [[Iceweasel]]-web browser,  [[IceDove]] Mail/News Client, [[Pidgin]] instant messenger 
+ * [[K3b]], for CD (and DVD) authoring and backup 
+ * [[The GIMP]], an image manipulation program 
+ * [[Gparted]] and other tools for data rescue and system repair 
+ * Network analysis and administration tools 
+ * [[LibreOffice]], an office suite 
+ * Programming and development tools 
+ * [[NTFS-3G]] used by default 
+ 
+ ===Installation=== 
+ Kanotix can be installed to the hard disk using the (graphical) [http://home.acritox.de/acritoxinstaller acritoxinstaller] {{Webarchive|url=https://web.archive.org/web/20080622030441/http://home.acritox.de/acritoxinstaller/ |date=2008-06-22 }}, which, depending on optical drive, hard disk and processor speed, can take around 10 – 20 minutes. 
+ 
+ ==Versions== 
+ ===History=== 
+ In 2003 Jörg Schirottke was known with the nickname  " Kano "  in the former [[Knoppix]]-Forum (no more available). The distribution derived from ''[http://kanotix.com/files/ " Kano's Scriptpage for Knoppix " ] ''. He wrote about Knoppix:  " I like it much, but I had to improve it :) " . < ref > [http://kanotix.com/files/kanotix/ Kano about  " Knoppix " ] " < /ref >  So he did. One of the main differences from Knoppix was the support of hard disk installation. 
+ The first  " Kanotix " -preview was released at [[24 December]] [[2003]]  " KANOTIX XMAS 2003 PREVIEW " . 
+ In 2004 and 2005 KANOTIX was a popular distribution ranking in the  " top 20 "  of  " distrowatch.com " . < ref > [http://distrowatch.com/index.php?dataspan=2005 Popularity: Ranking in distrowatch year 2005] < /ref > < ref > [http://distrowatch.com/dwres.php?resource=review-kanotix Review  " KANOTIX - Putting the Pizzazz on Debian " ] < /ref >  In 2004 the releases were named  " Bug Hunter "  (Bug Hunter-01-2004 - X-2004). After problems with the stability in 2006 Jörg  " Kano "  Schirottke decided to move from Debian Sid to a less volatile basis. < ref > [http://kanotix.com/Article210.html Codeveloper leaves Kanotix] < /ref > 
+ In October 2006 the main Kanotix co-developer (and most of Kanotix's other developers) left the project, to start [[sidux]], another distribution based on [[Debian#Development versions|Debian sid]]. The last Kanotix release based on Debian Sid was 2006-01-RC4. 
+ 
+ ===Current Releases=== 
+ 
+ {| class= " prettytable " 
+ |+ '''Kanotix''' 
+ |----- 
+ ! bgcolor= " #B3B7FF "  | Version 
+ ! bgcolor= " #B3B7FF "  | Date 
+ ! bgcolor= " #B3B7FF "  | Name 
+ |- 
+ | 2007 || [[2007-12-31]] || ''Thorhammer'' (RC7) 
+ |- 
+ | 2007 || [[2007-09-15]] || ''Thorhammer'' (RC6) 
+ |- 
+ | 01-2006 || [[2006-10-02]] || ''2006-01'' (RC4) 
+ |- 
+ | 2006 || [[2006-05-14]] || ''2006-VDR'' (RC6) 
+ |- 
+ | 2006 || [[2006-05-14]] || ''2006-Easter'' (RC4) 
+ |- 
+ | 2006 || [[2006-03-11]] || ''2006-[[CeBit]]'' (RC3) 
+ |- 
+ | 2005-04 || [[2005-12-31]] || 
+ |- 
+ | 2005-03 || [[2005-06-06]] || 
+ |- 
+ | 2005-02 || [[2005-04-10]] || 
+ |- 
+ | 2005-01|| [[2005-02-12]] || 
+ |- 
+ | 10-2004 || [[2004-11-28]] ||  ''Bug Hunter X'' 
+ |- 
+ | 09-2004 || [[2004-10-17]] ||  ''Bug Hunter 09'' 
+ |- 
+ | 08-2004 || [[2004-09-20]] ||  ''Bug Hunter 08'' 
+ |- 
+ | 07-2004 || [[2004-07-29]] ||  ''Bug Hunter 07'' 
+ |- 
+ | 06-2004 || [[2004-07-01]] ||  ''Bug Hunter 06'' 
+ |- 
+ | 05-2004 || [[2004-04-23]] ||  ''Bug Hunter 05'' 
+ |- 
+ | 04-2004 || [[2004-03-19]] ||  ''Bug Hunter 04'' 
+ |- 
+ | 03-2004 || [[2004-03-02]] || ''Bug Hunter 03'' 
+ |- 
+ | 02-2004 || [[2004-02-07]] ||  ''Bug Hunter 02'' 
+ |- 
+ | 01-2004 || [[2004-02-03]] ||  ''Bug Hunter 01'' 
+ |- 
+ | 01-2003 || [[2003-12-24]] ||  ''XMAS Preview'' 
+ |} 
+ 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{commonscat}} 
+ * [http://www.kanotix.org/ Official site] 
+ * [http://home.acritox.de/acritoxinstaller acritoxinstaller] {{Webarchive|url=https://web.archive.org/web/20080622030441/http://home.acritox.de/acritoxinstaller/ |date=2008-06-22 }} 
+ 
+ [[Category:Knoppix]] 
+ [[Category:Linux distributions]] 
+ [[Category:Live CD]] 
+ [[Category:X86-64 Linux distributions]] 
+ [[Category:Debian-based Linux distributions]]

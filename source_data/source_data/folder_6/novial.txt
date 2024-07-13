@@ -1,0 +1,281 @@
+{{Infobox language 
+ |name       = Novial 
+ |nativename = novial 
+ |creator    = [[Otto Jespersen]] (1928) 
+ |setting    = [[International auxiliary language]] 
+ |family     = [[constructed language]] based on [[Indo-European languages]] 
+ |image      = Flag of Novial.svg 
+ |imagesize  = 140px 
+ |iso1       = 
+ |iso2       = 
+ |iso3       = nov 
+ |linglist   = 
+ }} 
+ '''Novial''' is a constructed [[international auxiliary language]] (IAL) for universal communication between speakers of different native languages. It was created by [[Otto Jespersen]], a Danish linguist. He who had been involved in the Ido movement, and later in the development of Interlingua. 
+ 
+ Its vocabulary is based on the [[Germanic languages|Germanic]] and [[Romance languages]]. Its grammar is influenced by [[English language|English]]. 
+ 
+ == History == 
+ Jespersen introduced  Novial in his book ''An International Language'' in 1928. He updated it in his dictionary Novial Lexike in 1930. He proposed several modifications in the 1930s. However, the language became dormant with Jespersen's death in 1943. In the 1990s, with the revival of interest in constructed languages brought on by the Internet, some people rediscovered Novial. 
+ 
+ == Grammar == 
+ Novial has a simple and regular grammar. The main [[word order]] is [[Subject–verb–object|SVO]]. There is no grammatical gender (but the sex or gender of referrents can be marked). Verbs don't change according to person or number, and don't have exceptions. 
+ 
+ ===Articles=== 
+ The definite article is ''li'' which doesn't change. It is used as in English. 
+ 
+ There is no indefinite article, although ''un'' (one) can be used. 
+ 
+ ===Nouns=== 
+ Nouns mainly end in '''e, a, o, u''' or '''um''' in singular. The plural noun is formed by adding '''–s''' to the singular ('''-es''' after a consonant). 
+ 
+ There is also a form for indefinite number, expressed by removing the ending of the noun in singular (''leone'' – lion, ''leon es kruel'' – a/the lion is cruel, or lions are cruel). < ref > Jespersen, O: ''[https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8342993 & order=1 & view=SINGLE An International Language]'' (p. 89) < /ref > 
+ 
+ If a noun refers to a living being, then the form ending in '''-e''' is neutral in regards to sex, the one ending in '''-a''' female, and the one ending in '''-o''' male. If the noun is based on an adjective, nouns referring to living beings can be made with the previously mentioned rule, and furthermore nouns referring to concrete objects with '''-u''', and abstractions with '''-um'''. The third person pronouns follows the same rule, together with the definite article. 
+ 
+ The genitive is formed with the ending '''-n''' ('''-en''' after a consonant) with the plural being '''-sen''' ('''-esen''' after a consonant) or with the preposition '''de.''' 
+ 
+ Other cases are formed with prepositions. 
+ 
+ ===Adjectives=== 
+ All adjectives end in '''-i''', but this may be dropped if it is easy enough to pronounce and no confusion will be caused. Adjectives precede the noun. Adjectives do not agree with the noun but may be given noun endings if there is no noun present to receive them. 
+ 
+ Comparative adjectives are formed by placing various particles (''plu, tam,'' and ''min'') in front of the adjective receiving the comparison. Likewise, the superlative particles (''maxim'' and ''minim'') precede the adjective. The adjective does not receive an inflection to its ending. 
+ 
+ ===Personal pronouns, subject and object=== 
+ {| class= " wikitable " 
+ |- 
+ ! colspan= " 2 "  | Singular 
+ ! colspan= " 2 "  | Plural 
+ |- 
+ ! I 
+ | me 
+ ! we 
+ | nus 
+ |- 
+ ! you 
+ | vu 
+ ! you 
+ | vus 
+ |- 
+ ! common, < br / >  she, he 
+ | le, la, lo 
+ ! rowspan= " 2 "  | they 
+ | les, las, los 
+ |- 
+ ! it 
+ | lu, lum 
+ | lus 
+ |} 
+ 
+ ===Verbs=== 
+ Verb forms never change with person or number. Most verb tenses, moods and voices are expressed with auxiliary verbs preceding the root form of the main verb. The auxiliaries follow the same word order as the English equivalent. The following phrases give examples of the verb forms: 
+ 
+ {| class= " wikitable " 
+ |- 
+ ! Grammar 
+ ! English 
+ ! Novial 
+ |- 
+ | Infinitive 
+ | to protect 
+ | protekte 
+ |- 
+ | Present 
+ | I protect 
+ | me protekte 
+ |- 
+ | Present Perfect 
+ | I have protected 
+ | me ha protekte 
+ |- 
+ | Simple Past 
+ | I protected 
+ | me did protekte '''or''' me protekted 
+ |- 
+ | Past Perfect 
+ | I had protected 
+ | me had protekte 
+ |- 
+ | Future 
+ | I shall protect '''or''' I will protect 
+ | me sal protekte '''or''' me ve protekte 
+ |- 
+ | Future Perfect 
+ | I shall have protected '''or''' I will have protected 
+ | me sal ha protekte '''or''' me ve ha protekte 
+ |- 
+ | Future In The Past 
+ | I was going to protect 
+ | me saled protekte 
+ |- 
+ | Conditional 
+ | I would protect 
+ | me vud protekte 
+ |- 
+ | Conditional Perfect 
+ | I would have protected 
+ | me vud ha protekte 
+ |- 
+ | First Imperative 
+ | Let me protect! 
+ | Let me protekte! 
+ |- 
+ | Second Imperative 
+ | protect! 
+ | protekte! 
+ |} 
+ 
+ * Present active participle: ''protektent'' –  " protecting " 
+ * Past passive participle: ''protektet'' –  " protected " 
+ 
+ Novial clearly distinguishes the passive of becoming and the passive of being. In English the forms are often the same, using the auxiliary verb ''to be'' followed by the past participle. However, the passive of becoming is also often expressed with the verb ''to get'' which is used in the examples below. 
+ 
+ The passive voice of becoming is formed with the auxiliary '''bli''' followed by the root verb form. It can then be conjugated into the previously mentioned forms, for example: 
+ 
+ {| class= " wikitable " 
+ |- 
+ ! Grammar 
+ ! English 
+ ! Novial 
+ |- 
+ | Infinitive 
+ | to get protected 
+ | bli protekte 
+ |- 
+ | Present 
+ | I get protected 
+ | me bli protekte 
+ |- 
+ | Present Perfect 
+ | I have got protected 
+ | me ha bli protekte 
+ |- 
+ | Simple Past 
+ | I got protected 
+ | me blid protekte 
+ |- 
+ | Past Perfect 
+ | I had got protected 
+ | me had bli protekte 
+ |- 
+ | Future 
+ | I shall get protected '''or''' I will get protected 
+ | me sal bli protekte '''or''' me ve bli protekte 
+ < !-- |- 
+ | Future Perfect 
+ | I shall have got protected '''or''' I will have got protected 
+ | me sal ha bli protekte '''or''' me ve ha bli protekte 
+ |- 
+ | Future In The Past 
+ | I was going to get protected 
+ | me saled bli protekte 
+ -- > |- 
+ | Conditional 
+ | I would get protected 
+ | me vud bli protekte 
+ < !--|- 
+ | Conditional Perfect 
+ | I would have got protected 
+ | me vud ha bli protekte 
+ |- 
+ | First Imperative 
+ | Let me get protected! 
+ | Let me bli protekte! 
+ |- 
+ | Second Imperative 
+ | get protected! 
+ | bli protekte!-- > 
+ |} 
+ 
+ The passive voice of being is formed with the auxiliary '''es''' followed by the past passive participle (stem + -t). For example: 
+ 
+ {| class= " wikitable " 
+ |- 
+ ! Grammar 
+ ! English 
+ ! Novial 
+ |- 
+ | Infinitive 
+ | to be protected 
+ | es protektet 
+ |- 
+ | Present 
+ | I am protected 
+ | me es protektet 
+ |- 
+ | Present Perfect 
+ | I have been protected 
+ | me ha es protektet 
+ |- 
+ | Simple Past 
+ | I was protected 
+ | me did es protektet '''or''' me esed protektet 
+ |- 
+ | Past Perfect 
+ | I had been protected 
+ | me had es protektet 
+ |- 
+ | Future 
+ | I shall be protected '''or''' I will be protected 
+ | me sal es protektet '''or''' me ve es protektet 
+ < !--|- 
+ | Future Perfect 
+ | I shall have been protected '''or''' I will have been protected 
+ | me sal ha es protektet '''or''' me ve ha es protektet 
+ |- 
+ | Future In The Past 
+ | I was going to be protected 
+ | me saled es protektet 
+ -- > |- 
+ | Conditional 
+ | I would be protected 
+ | me vud es protektet 
+ |- 
+ < !--| Conditional Perfect 
+ | I would have been protected 
+ | me vud ha es protektet 
+ |- 
+ | First Imperative 
+ | Let me be protected! 
+ | Let me es protektet! 
+ |- 
+ | Second Imperative 
+ | be protected! 
+ | es protektet!-- > 
+ |} 
+ 
+ ===Adverbs=== 
+ An adjective is converted to a corresponding adverb by adding '''-m''' after the '''-i''' ending of the adjective. 
+ 
+ Comparative and superlative adverbs are formed in the same manner as comparative and superlative adjectives: by placing a specific particle before the adverb receiving the comparison. 
+ 
+ == Novialides == 
+ Novialide is a term used for languages derivatives of Novial and any constructed language project based on or inspired by Novial. 
+ 
+ Some Novialides are: 
+ * Novial by the Novial Revisione Komite (a.k.k.  " Grupe Novial " ,  " Novial98 " ) 
+ * Novial by James Chandler 
+ * Novial Pro by Marcos Franco 
+ * Eurial by B. Phillip Jonsson 
+ * Novial by Jay Bowks 
+ * Proyo 
+ * Reformad Novial by Vicente Costalago 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [https://web.archive.org/web/20091027023518/http://www.geocities.com/CapitolHill/3141/novial.html  A summary of 1928 Novial] 
+ * [https://web.archive.org/web/20030201065247/http://www.cs.brown.edu/~dpb/novial/n30grammar.html A summary of the 1930 version] 
+ * [http://www.blahedo.org/novial/novial98.html Novial{{nbsp}}’98] 
+ * [https://sites.google.com/site/noviallexike/novial-lexike-1930 Novial Lexike: International Dictionary] {{Webarchive|url=https://web.archive.org/web/20230228131202/https://sites.google.com/site/noviallexike/novial-lexike-1930 |date=2023-02-28 }} by Otto Jespersen, 1930 
+ * [https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8134736 & order=1 & view=SINGLE Discussiones inter E. de Wahl e O. Jespersen] 
+ 
+ {{InterWiki|code=nov}} 
+ 
+ {{Constructed languages}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Constructed languages]]

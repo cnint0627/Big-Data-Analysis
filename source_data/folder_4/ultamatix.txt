@@ -1,0 +1,44 @@
+{{Orphan|date=February 2018}} 
+ 
+ {{Infobox Software 
+ | name                   = Ultamatix 
+ | logo                   =  
+ | screenshot             = Ultamatix.png 
+ | caption                = Ultamatix on [[Ubuntu]] 
+ | collapsible            =  
+ | author                 =  
+ | developer              =  
+ | released               =  
+ | latest release version = 1.8.0-4 
+ | latest release date    =  
+ | latest preview version =  
+ | latest preview date    =  
+ | frequently updated     =  
+ | programming language   =  
+ | operating system       = [[Ubuntu]] 
+ | platform               =  
+ | size                   =  
+ | language               =  
+ | genre                  = software installer 
+ | license                = [[open source]] 
+ | website                = http://ultamatix.com/ 
+ }} 
+ 
+ '''Ultamatix''' is a [[computer program]] to install other [[software|programs]] on [[Ubuntu]] and [[Debian]]-based distributions. 
+ 
+ == History == 
+ Since the development of [[Automatix (software)|Automatix]] has ended, Ultamatix was developed to provide user an easy way to install software on their Ubuntu systems. 
+ 
+ == Supported software == 
+ Many software/features can be installed with Ultamatix, including programs such as the [[Adobe Flash|Flash plugin]], [[Adobe Reader]], multimedia [[codec]]s (including MP3, [[Windows Media Audio]] and video-DVD support), fonts, programming software ([[compiler]]s) and games. 
+ 
+ ==Related pages== 
+ *[[Getdeb]] 
+ 
+ ==Other websites== 
+ *[http://hacktolive.org/wiki/Ubuntu_extras_remix Ubuntu extras remix] {{Webarchive|url=https://web.archive.org/web/20090215204608/http://hacktolive.org/wiki/Ubuntu_extras_remix |date=2009-02-15 }}, a version of Ubuntu that already includes [[ubuntu-restricted-extras]] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux software]]

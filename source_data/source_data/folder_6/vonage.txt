@@ -1,0 +1,66 @@
+{{Infobox company 
+ | name = Vonage Holdings Corp. 
+ | logo = Vonage Logo.png 
+ | logo_size = 250px 
+ | logo_alt =  
+ | logo_caption =  
+ | image =  
+ | image_size =  
+ | image_alt =  
+ | image_caption =  
+ | native_name =  
+ | native_name_lang =  < !-- Use ISO 639-1 code, e.g.  " fr "  for French. For multiple names in different languages, use {{lang|[code]|[name]}}. -- > 
+ | former_name =  
+ | type = [[Subsidiary]] 
+ | traded_as = {{NASDAQ was|VG}} 
+ | ISIN =  
+ | industry = [[Cloud Communications]] services 
+ | fate =  
+ | predecessor =  < !-- or: | predecessors = -- > 
+ | successor =  < !-- or: | successors = -- > 
+ | founded = {{Start date and age|1998}} (as Min-X) < br / > {{start date and age|2001}} (as Vonage) [[Edison, New Jersey]], [[United States|U.S.]] 
+ | founders = {{ubl|[[Jeff Pulver]]|[[Jeffrey A. Citron]]}} 
+ | defunct =  < !-- {{end date|YYYY|MM|DD}} -- > 
+ | hq_location =  
+ | hq_location_city = [[Holmdel Township, New Jersey|Holmdel, New Jersey]] 
+ | hq_location_country = U.S. 
+ | area_served = Worldwide 
+ | key_people = {{ublist  
+  |[[Rory Read]] (CEO) < ref > {{cite press release |url=https://www.prnewswire.com/news-releases/vonage-appoints-rory-read-chief-executive-officer-301071902.html |title=Vonage Appoints Rory Read Chief Executive Officer |via=prnewswire.com |date=June 8, 2020 |access-date=June 8, 2020}} < /ref > 
+  |Jay Bellissimo (COO) 
+ |Stephen Lasher ([[Chief financial officer|CFO]]) 
+  |Savinay Berry (EVP, Product  &  Engineering) 
+  |Rodolpho Cardenuto (President, Applications Group)}} 
+ | products = [[Unified Communications]], Contact Center, Communications [[API]]s, Home [[VoIP]] Phone Service Provider 
+ | brands =  
+ | services = Business [[Cloud Communications]] Services 
+ | revenue = {{increase}} {{US$|1.41 billion|link=yes}} 
+ | revenue_year = 2021 
+ | operating_income = {{increase}} US$7.4 million 
+ | income_year = 2021 
+ | net_income = {{increase}} {{US$|-24 million}} 
+ | net_income_year = 2021 
+ | assets = {{decrease}} US$1.39 billion 
+ | assets_year = 2021 
+ | equity = {{increase}} US$618 million 
+ | equity_year = 2021 
+ | owner =  < !-- or: | owners = -- > 
+ | members = 1.1 million subscribers 
+ | members_year = 2019        < !-- Year of members data (when known) -- > 
+ | num_employees = 2,082 
+ | num_employees_year = December 31, 2021 
+ | parent = [[Ericsson]] 
+ | divisions =  
+ | subsid =  
+ | website = {{URL|vonage.com}} 
+ | footnotes =  < ref > {{cite web |url=https://www.sec.gov/ix?doc=/Archives/edgar/data/0001272830/000127283022000040/vg-20211231.htm |title=Vonage Holdings Corp. 2021 Annual Report (Form 10-K) |date=24 February 2022 |publisher=[[U.S. Securities and Exchange Commission]]}} < /ref > 
+ | trade_name = Vonage 
+ | logo_padding =  
+ }}'''Vonage''' is an [[United States|American]] [[Telecommunication|telecommunications]] [[company]]. The company is a [[Publicly owned|publicly held business]] [[Cloud computing|cloud based]] [[Communication|communications]] provider. It is [[Headquarters|headquartered]] in [[Holmdel Township, New Jersey|Holmdel Township]], [[New Jersey]]. The company was founded in [[2001]] as a provider of [[House|residential]] telecommunications services based on [[voice over Internet Protocol]] (VoIP). < ref > https://www.sec.gov/Archives/edgar/data/1272830/000104746906007536/a2169686zs-1a.htm {{Bare URL inline|date=August 2022}} < /ref >  In July 2022, [[Ericsson]] completed its acquisition of Vonage for $6.2 billion. < ref name= " ericsson " > {{cite news|last=Mukherjee|first=Supantha|date=July 21, 2022|title=Ericsson closes $6.2 bln Vonage deal after short delay|work=[[Reuters]]|url=https://www.reuters.com/markets/deals/ericsson-closes-62-bln-vonage-deal-after-short-delay-2022-07-21/|url-status=live|archive-url=https://web.archive.org/web/20220721182406/https://www.reuters.com/markets/deals/ericsson-closes-62-bln-vonage-deal-after-short-delay-2022-07-21/|archive-date=July 21, 2022}} < /ref > < ref > {{cite news|last1=Chopping|first1=Dominic|date=22 November 2021|title=Ericsson to Buy Vonage for $6.2 Billion, Bulking Up Cloud Presence|work=Wall Street Journal|url=https://www.wsj.com/articles/ericsson-to-buy-vonage-for-6-2-billion-bulking-up-cloud-presence-11637575263|access-date=22 November 2021}} < /ref > 
+ 
+ == References == 
+ < references / > 
+ {{us-stub}} 
+ [[Category:American telephone companies]] 
+ [[Category:Companies based in New Jersey]] 
+ [[Category:2001 establishments in the United States]]

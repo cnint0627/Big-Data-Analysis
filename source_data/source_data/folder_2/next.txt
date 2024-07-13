@@ -1,0 +1,51 @@
+{{Infobox company 
+ | type                = [[Privately held company|Private]] 
+ | logo                = NeXT logo.svg 
+ | industry            = {{Plainlist| 
+ * [[Computer hardware]] 
+ * [[Software]] 
+ }} < !-- types of products or services offered -- > 
+ | fate                = Merged into [[Apple Inc.|Apple]] 
+ | successor           = [[Apple Inc.]] 
+ | founded             = {{Start date and age|1985}} 
+ | founder             = [[Steve Jobs]] 
+ | defunct             = {{End date|1997|02|07}} 
+ | hq_location_city    = [[Redwood City, California|Redwood City]], [[California]] 
+ | hq_location_country = U.S. 
+ | key_people          = {{Plainlist| 
+ * Steve Jobs ([[chairman]], [[Chief Executive Officer|CEO]]) 
+ * [[Ross Perot]] (director) 
+ * [[John Patrick Crecine]] (director) 
+ * [[Avie Tevanian]] ([[vice-president]] of engineering) 
+ }} 
+ | products            = {{Collapsible list 
+ |1= [[NeXT Computer]] 
+ |2= [[NeXTcube]] 
+ |3= [[NeXTstation]] 
+ |4= [[NeXTdimension]] 
+ |5= [[NeXTSTEP]] 
+ |6= [[NeXTMail]] 
+ |7= [[NeXT RISC Workstation]] 
+ |8= [[NeXT Laser Printer]] 
+ |9= [[NeXT MegaPixel Display]] 
+ |10= [[NeXT Music Kit]] 
+ |11= [[NeXTcube Turbo]] 
+ |12= [[WriteNow|NeXT port]] 
+ |13= [[OpenStep]] 
+ |14= [[WebObjects]] 
+ }} < !-- some of company's notable products -- > 
+ | num_employees       = 540 < !-- peak number of employees -- > 
+ | num_employees_year  = 1992 
+ | website             = [https://web.archive.org/web/19970412194822/http://www.next.com/ next.com] (archived) 
+ | footnotes           =  < ref name=employees > {{Cite news | title=NeXT Inc. to Drop Hardware 300 losing jobs in strategy shift | date=February 9, 1993 | work=[[San Francisco Chronicle]]}} < /ref > 
+ }} 
+ '''NeXT Inc.''' was an American [[computer]] and [[software]] company. It was created after Steve Jobs quit his job at [[Apple Inc.]]. It was a failure but it did get him back at Apple and as CEO. The [[macOS|Mac OS x]]'s core was based entirely on the NeXT computer. Apple bought NeXT for $429 million.  < ref > {{Cite web|url=https://www.businessinsider.com/steve-jobs-12-million-dollar-failure-saved-apple-next-2019-8|title=Steve Jobs left Apple to start a new computer company. His $12-million failure saved Apple.|last=Morgan|first=Clancy|website=Business Insider|access-date=2020-06-14}} < /ref > 
+ 
+ Steve Jobs used $12 million of his own money to make NeXT and it did pay off because he got his job back. < ref > {{Cite book|url=https://archive.org/details/iconstevejobsgre00jeff|url-access=registration|title=iCon: Steve Jobs|last1=Young|first1=Jeffrey S.|last2=Simon|first2=William L.|publisher=John Wiley  &  Sons|year=2005|isbn=0-471-72083-6|location=|pages=[https://archive.org/details/iconstevejobsgre00jeff/page/134 134]|access-date=August 1, 2019|archive-url=https://web.archive.org/web/20191023023208/https://archive.org/details/iconstevejobsgre00jeff|archive-date=October 23, 2019|url-status=live}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Companies based in California]] 
+ [[Category:Defunct companies of the United States]] 
+ [[Category:American technology companies]]

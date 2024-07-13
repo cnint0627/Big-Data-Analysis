@@ -1,0 +1,16 @@
+In [[logic]] and [[Mathematics|math]], contraposition is the right way to reverse  " if-then "  statements. For example, the contrapositive of the sentence '' " If it is raining, then I wear my coat " '' is the sentence '' " If I don't wear my coat, then it isn't raining. " '' If the original sentence is correct, the contrapositive is always correct.  
+ 
+ It is easier to see how contraposition is the right way to reverse an if-then statement by looking at two other reversals that can sometimes look similar, but are bad logic: 
+ 
+ '''Inversion''' 
+ 
+ '' " If it is not raining, then I don't wear my coat. " '' This is wrong as one can wear a coat for other reasons (eg. It is snowing). In this statement, we have made both the  " if "  and the  " then "  statements negative.  
+ 
+ '''Conversion''' 
+ 
+ '' " If I wear my coat, then it is raining. " '' This is wrong as wearing a coat doesn't cause it to rain. In this statement we have switched the  " if "  and  " then "  statements.   
+ 
+ In technical writing: the contrapositive of  < math > P \rightarrow Q < /math >  is  < math >  \neg Q \rightarrow \neg P  < /math > . The  " < math >  \rightarrow  < /math > "  means  " if-then "  (If P then Q), and the  " < math >  \neg P  < /math > "  means  " not P "  (eg.  " it is not raining " ). 
+ 
+ [[Category:Logic]] 
+ [[Category:Mathematics]]

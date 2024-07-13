@@ -1,0 +1,32 @@
+{{Italic title}} 
+ {{Automatic taxobox 
+ | fossil_range = {{fossil range|Cenomanian|Campanian|ref= < ref name= " Sepkoski Ceph " > {{cite web| last = Sepkoski| first = Jack| title = Sepkoski's Online Genus Database| year = 2002| url = http://strata.geology.wisc.edu/jack/showgenera.php?taxon=231 & rank=class| access-date = 2014-05-28| archive-date = 2016-02-25| archive-url = https://web.archive.org/web/20160225225905/http://strata.geology.wisc.edu/jack/showgenera.php?taxon=231 & rank=class| url-status = dead}} < /ref > }} 
+ | image_alt= 
+ | image =Parapuzosia seppenradensis 3.jpg 
+ | image_caption =''[[Parapuzosia seppenradensis]]'' with a diameter of {{convert|1.8|m|ft|abbr=on}} 
+ | taxon =Parapuzosia 
+ | parent_authority= 
+ | authority =Nowak, 1913 
+ | type_species = ''Sonneratia daubreei'' 
+ | type_species_authority = Grossouvre, 1894 
+ | synonyms_ref = 
+ | synonyms = 
+ |subdivision_ranks = Species  < ref name= " fossilworks " > {{cite web| title = Paleobiology Database - Parapuzosia| url = http://fossilworks.org/bridge.pl?a=taxonInfo & taxon_no=15347| access-date = 7 April 2016| archive-date = 21 April 2016| archive-url = https://web.archive.org/web/20160421164712/http://fossilworks.org/bridge.pl?a=taxonInfo & taxon_no=15347| url-status = dead}} < /ref > 
+ |subdivision = 
+ *''[[Parapuzosia americana|P. americana]]''  < small > (Scott  &  Moore, 1928) < /small > 
+ *''[[Parapuzosia boesei|P. boesei]]''  < small > (Scott  &  Moore, 1928) < /small > 
+ *''[[Parapuzosia bradyi|P. bradyi]]''  < small > (Miller  &  Youngquist, 1946) < /small > 
+ *''[[Parapuzosia corbarica|P. corbarica]]''  < small > (Grossouvre, 1894) < /small > 
+ *''[[Parapuzosia daubreei|P. daubreei]]''  < small > (Grossouvre, 1894) < /small >  ([[type species]]) 
+ *''[[Parapuzosia seppenradensis|P. seppenradensis]]''  < small > (Landois, 1895) < /small > 
+ }} 
+ '''''Parapuzosia seppenradensis''''' is the largest known [[species]] of [[ammonite]]. < ref > Payne, J.L. ''et al'' 2009. Two-phase increase in the maximum size of life over 3.5 billion years reflects biological innovation and environmental opportunity. ''PNAS'' '''106'''(1): 24–27. {{doi|10.1073/pnas.0806314106}} < /ref >  It lived during the [[Lower Cretaceous]], in marine environments in what is now [[Germany]].  
+ 
+ A specimen found in Germany in 1895 measures {{convert|1.8|m|ft|abbr=on}} in diameter. The front chamber where the animal lived is damaged. Presumably, a large [[predator]] bit the end off and the living ammonite taken with it. Almost all ammonite fossils have this damage to the 'living chamber'. 
+ 
+ If complete, this specimen would have had a diameter of about {{convert|2.55|m|ft|abbr=on}} or even {{convert|3.5|m|ft|abbr=on}}. < ref name=TK1960 > Teichert C.  &  B. Kummel 1960. [https://www.biodiversitylibrary.org/page/3199542 Size of endoceroid cephalopods]. ''Breviora Museum of Comparative Zoology'' '''128''': 1–7. < /ref >  The total live mass has been estimated at {{convert|1455|kg|lb|abbr=on}}, of which the shell would be about {{convert|705|kg|lb|abbr=on}}. < ref name=TK1960 / > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Ammonites]]

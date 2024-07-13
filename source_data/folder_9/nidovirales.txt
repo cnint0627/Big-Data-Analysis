@@ -1,0 +1,16 @@
+{{Virusbox 
+ | image = Mesonivirus virions.jpg 
+ | image_alt = Electron micrograph of negatively stained Nam Dinh virus particles 
+ | image_caption = [[Electron micrograph]] of virus particles 
+ | taxon = Nidovirales 
+ | synonyms =  
+ | synonyms_ref =  
+ }} 
+ '''''Nidovirales''''' is an order of [[Virus|viruses]]. It is carried by [[Animal|animals]] and humans. The order includes the families ''Coronaviridae'', < ref name= " sobrino4 " > {{Cite book|title=Animal Viruses: Molecular Biology|url=https://archive.org/details/animalvirusesmol0000unse|publisher=Caister Academic Press|year=2008|isbn=978-1-904455-22-6|editor=Thomas C. Mettenleiter and Francisco Sobrino|chapter=Coronavirus Replication and Interaction with Host|authors=Luis Enjuanes, Isabel Sola, Sonia Zúñiga and Fernando Almazán}} < /ref > < ref name= " Thiel " > {{Cite book|title=Coronaviruses: Molecular and Cellular Biology|url=https://archive.org/details/coronavirusesmol0000unse|publisher=Caister Academic Press|year=2007|isbn=978-1-904455-16-5|editor-last=Volker Thiel}} < /ref >  ''Arteriviridae,'' < ref name= " sobrino3 " > {{Cite book|title=Animal Viruses: Molecular Biology|publisher=Caister Academic Press|year=2008|isbn=978-1-904455-22-6|editor-last=Thomas C. Mettenleiter and Francisco Sobrino|chapter=Arteriviruses|authors=Udeni B. R. Balasuriya and Eric J. Snijder}} < /ref >  ''Roniviridae,'' and ''Mesoniviridae''. 
+ 
+ Nidoviruses are enveloped positive-sense single-stranded [[RNA virus|RNA viruses]]. Their name comes from the [[Latin]] word ''nidus'', meaning nest, as all viruses in this order produce a 3' co-terminal nested set of subgenomic mRNAs during infection. < ref > {{Cite journal|last=Antoine A.F. de Vries, Marian C. Horzinek, Peter J. M. Rottier, Raoul J. de Groot|year=1997|title=The Genome Organization of the Nidovirales: Similarities and Differences between Arteri-, Toro-, and Coronaviruses|journal=Seminars in Virology|volume=8|issue=1|pages=33–47|citeseerx=10.1.1.462.1825|doi=10.1006/smvy.1997.0104|pmid=32288441|pmc=7128191}} < /ref > 
+ 
+ == References == 
+ {{Reflist|2}} 
+ 
+ [[Category:Viruses]]

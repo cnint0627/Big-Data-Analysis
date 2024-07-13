@@ -1,0 +1,77 @@
+{{Automatic taxobox 
+ | name = Elasmobranchii 
+ | image = White shark.jpg 
+ | image_caption = [[Great white shark|Great white shark < br > (''Carcharodon carcharias'')]] 
+ | fossil_range = {{Fossil range|Wenlock|Recent|ref= < ref name= " Märss2001 " > {{cite journal |pages=693–701 |doi=10.1671/0272-4634(2001)021[0693:ANCFTW]2.0.CO;2 |year=2001 |volume=21 |issue=4 |title=A new chondrichthyan from the Wenlock, Lower Silurian, of Baillie-Hamilton Island, the Canadian Arctic |journal=Journal of Vertebrate Paleontology |last1=Märss |first1=Tiiu |last2=Gagnier |first2=Pierre-Yves |s2cid=86329421 }} < /ref > < !--A later fossil is described in:  < ref name=K-T73 > {{cite journal |last=Karatajūte |first=V. |year=1973 |title=''Elegestolepis grossi'' ge. et sp. nov., ein neues typ der placoidschuppe aus dem oberen Silur der Tuwa. |journal=Palaeontographica Abteilung A |volume=143 |pages=35–50}} < /ref > -- > }} 
+ | taxon = Elasmobranchii 
+ | authority = [[Charles Lucien Jules Laurent Bonaparte|Bonaparte]], 1838 
+ | subdivision_ranks = Superorders 
+ | subdivision =  
+ *[[Batoidea]] 
+ *[[Selachimorpha]] 
+ }} 
+ {{Quote box 
+  |title =  
+  |quote = [[File:Cetorhinus maximus by greg skomal.JPG|220px|center]] Elasmobranchs lack [[swim bladder]]s, and maintain buoyancy with oil that they store in their livers. Some deep sea sharks are targeted by fisheries for this [[Shark liver oil|liver oil]], including the [[school shark|school]], [[gulper shark|gulper]] and [[basking shark]]s ''(pictured)''. All three of these species have been assessed by the [[IUCN]] as [[vulnerable species|vulnerable]] due to [[overfishing]]. < ref name= " iucn1 " > {{Cite iucn | author = Fowler, S.L. | title = ''Cetorhinus maximus'' | volume = 2005 | page = e.T4292A10763893 | date = 2005 | doi = 10.2305/IUCN.UK.2005.RLTS.T4292A10763893.en }} < /ref > < ref name= " iucn2 " > {{cite iucn |url=https://www.iucnredlist.org/details/39352/0 |title=Galeorhinus galeus (School shark) |date=2005-06-17 |accessdate=2013-03-26 }}{{Dead link|date=December 2019 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > < ref name= " iucn3 " > {{cite iucn|author=Guallart|display-authors=etal|year=2006|url=https://www.iucnredlist.org/details/39325/0|title=''Centrophorus granulosus''|accessdate=11 May 2006}} < /ref > 
+  |source =  
+  |align = right 
+  |width = 248px 
+  |quoted =  
+  |salign =  
+  |sstyle =  
+ }} 
+ [[File:Evolution of cartilaginous fishes.png|thumb|253px|right| < center > Radiation of elasmobranchs, based on [[Michael Benton]], 2005. < ref > {{cite book |last1=Benton |first1=Michael J. |title=Vertebrate Palaeontology |url=https://archive.org/details/vertebratepalaeo0000bent_4ed |date=2015 |publisher=Blackwell |isbn=9781118406847 |page=[https://archive.org/details/vertebratepalaeo0000bent_4ed/page/185 185] |edition=3rd |oclc=945675149 |language=English}} < /ref > < /center > ]] 
+ {{Quote box 
+  |title =  
+  |quote = From a practical point of view the life-history pattern of elasmobranchs makes this group of animals extremely susceptible to over fishing. It is no coincidence that the commercially exploited marine turtles and baleen whales, which have life-history patterns similar to the sharks, are also in trouble. 
+  |source =  
+  |align = right 
+  |width = 220px 
+  |quoted =  
+  |salign =  
+  |sstyle =  
+ }} 
+ '''Elasmobranchii'''  is a [[subclass]] of the [[Chondrichthyes]] or [[cartilaginous fish]]. It includes the modern [[shark]]s and the [[ray]]s and [[Skate (fish)|skate]]s. 
+ 
+ == Evolution == 
+ Fossilised shark teeth are known from the early [[Devonian]], around 400 million years ago. During the following [[Carboniferous]] period, the sharks underwent a period of diversification, with many new forms evolving. Many of these became extinct during the [[Permian]], but the remaining sharks underwent a second burst of adaptive radiation during the [[Jurassic]], around which time the skates and rays first appeared. 
+ 
+ ==Taxonomy== 
+ *Subclass Elasmobranchii 
+ **†''[[Plesioselachus]]'' 
+ **†Order [[Squatinactiformes]] 
+ **†Order [[Protacrodontiformes]] 
+ **†Infraclass Cladoselachimorpha 
+ ***†Order [[Cladoselachiformes]] 
+ **†Infraclass Xenacanthimorpha 
+ ***†Order [[Xenacanthiformes]] 
+ **Infraclass Euselachii (sharks and rays) 
+ ***†Order [[Ctenacanthiformes]] 
+ ***†Division Hybodonta 
+ ****†Order [[Hybodontiformes]] 
+ ***Division Neoselachii 
+ ****Subdivision [[shark|Selachii]] (Selachimorpha) (modern sharks) 
+ *****Superorder [[Galeomorphi]] 
+ ******Order [[Heterodontiformes]] (bullhead sharks) 
+ ******Order [[Orectolobiformes]] (carpet sharks) 
+ ******Order [[Lamniformes]] (mackerel sharks) 
+ ******Order [[Carcharhiniformes]] (ground sharks) 
+ *****Superorder Squalomorphi 
+ ******Order [[Hexanchiformes]] (frilled and cow sharks) 
+ ******Order [[Squaliformes]] (dogfish sharks) 
+ ******†Order [[Protospinaciformes]] 
+ ******Order [[Squatiniformes]] (angel sharks) 
+ ******Order [[Pristiophoriformes]] (sawsharks) 
+ ****Subdivision [[Batoidea]] (rays) 
+ ******Order [[Torpediniformes]] (electric rays) 
+ ******Order [[Pristiformes]] (sawfishes) 
+ ******Order [[Rajiformes]] (skates and relatives) 
+ ******Order [[Myliobatiformes]] (stingrays and relatives) 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Cartilaginous fish]] 
+ 
+ 
+ {{biology-stub}}

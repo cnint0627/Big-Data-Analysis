@@ -1,0 +1,85 @@
+[[Image:American crossword.png|thumb|A newspaper-style crossword puzzle]] 
+ A '''crossword''', or '''crossword puzzle''', is a popular type of [[puzzle]] that uses [[word]]s. They are usually found in [[newspaper]]s, [[magazine]]s, and in [[book]]s which contain a [[wikt:collection|collection]] of them. They can also be played over the [[Internet]] and using [[mobile app]]s. 
+ 
+ The first crossword puzzle was created by Arthur Wynne, a [[journalist]] from [[Liverpool]]. It first appeared in the December 21, 1913 issue of the [[New York World]]. Today, there are many newspapers and magazines that are known for their crossword puzzles, such as the [[New York Times]].  A different crossword is typically printed every [[day]] or in every [[wikt:issue|issue]], and the [[wikt:answer|answer]] (or [[solution]]) is either found somewhere else or often is not seen until the next day or issue. 
+ 
+ ==How to play== 
+ A [[wikt:traditional|traditional]] crossword is made up of [[black]] and [[white]] squares, called a [[grid]]. All the white squares appear in [[wikt:horizontal|horizontal]] [[row]]s or [[wikt:vertical|vertical]] [[column]]s, but are not always separated with black squares. Another way to say this is that every white square must have at least one other white square touching it on any side. The kind of crossword that appears in newspapers and magazines, such as the one in the image, often has lots of white squares beside each other. 
+ 
+ The [[wikt:goal|goal]] of solving the puzzle is to write different words, [[letter]]-by-letter, in the white squares. Next to the grid is a list of [[wikt:clue|clues]]. The answer to each clue is a word or sometimes a [[phrase]]. The place in the grid where the answer to each clue should go is shown by a [[number]] and the [[direction]] in which the answer appears, for example,  " 1 [[wikt:across|Across]] "  or  " 15 [[wikt:down|Down]] " . Many [[computer program]]s have been created to find the answers to these clues. 
+ 
+ There are many types of crosswords. Straight (or Quick) crosswords are usually made up of simple definitions - which means that other words are used to describe the answer. Some crosswords, called [[cryptic crossword]]s, use [[riddle]]s and [[word play]] and are usually more difficult than straight crosswords. 
+ 
+ ==Example== 
+ Here is a small example of a (British-style) straight crossword: 
+ 
+ {| border=1 cellpadding=0 cellspacing=0 
+ |width=20 height=20| < sup > 1 < /sup > ||width=20 height=20| & nbsp;||width=20 height=20| < sup > 2 < /sup > ||bgcolor=black width=20 height=20| & nbsp;||bgcolor=black width=20 height=20| & nbsp; 
+ |- 
+ |width=20 height=20| & nbsp;||bgcolor=black width=20 height=20| & nbsp;||width=20 height=20| & nbsp;||bgcolor=black width=20 height=20| & nbsp;||bgcolor=black width=20 height=20| & nbsp; 
+ |- 
+ |width=20 height=20| < sup > 3 < /sup > ||width=20 height=20| & nbsp;||width=20 height=20| & nbsp;||width=20 height=20| & nbsp;||width=20 height=20| < sup > 4 < /sup > 
+ |- 
+ |bgcolor=black width=20 height=20| & nbsp;||bgcolor=black width=20 height=20| & nbsp;||width=20 height=20| & nbsp;||bgcolor=black width=20 height=20| & nbsp;||width=20 height=20| & nbsp; 
+ |- 
+ |bgcolor=black width=20 height=20| & nbsp;||bgcolor=black width=20 height=20| & nbsp;||width=20 height=20| < sup > 5 < /sup > ||width=20 height=20| & nbsp;||width=20 height=20| & nbsp; 
+ |} 
+ 
+ ===Across=== 
+ 1.  Sheep sound (3) < br / > 
+ 3.  Neither liquid nor gas (5) < br / > 
+ 5.  Humour (3) 
+ 
+ ===Down=== 
+ 1.  Road passenger transport (3) < br / > 
+ 2.  Permit (5) < br / > 
+ 4.  Short for  " Dorothy "  (3) 
+ 
+ The solution (answer) to this crossword is: 
+ 
+ {| border= " 1 "  cellpadding= " 0 "  cellspacing= " 0 " 
+ |- 
+ | width= " 20 "  height= " 20 "  |  < sup > 1 < /sup > B 
+ | width= " 20 "  height= " 20 "  |  < sup > < font color=white > 9 < /font > < /sup > A 
+ | width= " 20 "  height= " 20 "  |  < sup > 2 < /sup > A 
+ | bgcolor= " black "  width= " 20 "  height= " 20 "  | . 
+ | bgcolor= " black "  width= " 20 "  height= " 20 "  | . 
+ |- 
+ | width= " 20 "  height= " 20 "  |  < sup > < font color=white > 9 < /font > < /sup > U 
+ | bgcolor= " black "  width= " 20 "  height= " 20 "  | . 
+ | width= " 20 "  height= " 20 "  |  < sup > < font color=white > 9 < /font > < /sup > L 
+ | bgcolor= " black "  width= " 20 "  height= " 20 "  | . 
+ | bgcolor= " black "  width= " 20 "  height= " 20 "  | . 
+ |- 
+ | width= " 20 "  height= " 20 "  |  < sup > 3 < /sup > S 
+ | width= " 20 "  height= " 20 "  |  < sup > < font color=white > 9 < /font > < /sup > O 
+ | width= " 20 "  height= " 20 "  |  < sup > < font color=white > 9 < /font > < /sup > L 
+ | width= " 20 "  height= " 20 "  |  < sup > < font color=white > 9 < /font > < /sup > I 
+ | width= " 20 "  height= " 20 "  |  < sup > 4 < /sup > D 
+ |- 
+ | bgcolor= " black "  width= " 20 "  height= " 20 "  | . 
+ | bgcolor= " black "  width= " 20 "  height= " 20 "  | . 
+ | width= " 20 "  height= " 20 "  |  < sup > < font color=white > 9 < /font > < /sup > O 
+ | bgcolor= " black "  width= " 20 "  height= " 20 "  | . 
+ | width= " 20 "  height= " 20 "  |  < sup > < font color=white > 9 < /font > < /sup > O 
+ |- 
+ | bgcolor= " black "  width= " 20 "  height= " 20 "  | . 
+ | bgcolor= " black "  width= " 20 "  height= " 20 "  | . 
+ | width= " 20 "  height= " 20 "  |  < sup > 5 < /sup > W 
+ | width= " 20 "  height= " 20 "  |  < sup > < font color=white > 9 < /font > < /sup > I 
+ | width= " 20 "  height= " 20 "  |  < sup > < font color=white > 9 < /font > < /sup > T 
+ |} 
+ 
+ ==Related pages== 
+ *[[Word games]] 
+ *[[Puzzles]] 
+ *[[Sudoku]] 
+ 
+ == Other websites == 
+ {{Wikinews|Crosswords|daily crosswords}} 
+ *[http://www.crossword.org.uk/ The Crossword Centre] 
+ *[http://www.onlinecrosswords.net/ Daily crossword puzzles, Online crossword help and Crossword solutions] 
+ *[http://www.findtheword.info/crosswordhelp.php FindTheWord.info] {{Webarchive|url=https://web.archive.org/web/20101023200533/http://www.findtheword.info/crosswordhelp.php |date=2010-10-23 }} Online crossword help 
+ 
+ [[Category:Puzzles]] 
+ [[Category:Crossword makers| ]]

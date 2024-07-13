@@ -1,0 +1,164 @@
+{{Infobox French commune 
+ |name                   = Avallon 
+ |image                  = Avallon-Tour de l'Horloge depuis la place de la Collégiale Saint-Lazare.jpg 
+ |caption                = The clock tower in Avallon. 
+ |image coat of arms     = Blason_Avallon_89.svg 
+ |coordinates = {{coord|47.4908333333|3.90916666667|format=dms|display=inline,title}} 
+ |arrondissement         = Avallon 
+ |canton                 = Avallon 
+ |intercommunality       = CC Avallon - Vézelay - Morvan 
+ |INSEE                  = 89025 
+ |postal code            = 89200 
+ |mayor                  = Jean-Yves Caullet < ref > {{cite web |url=http://www.ville-avallon.fr/2_6_Vos-élus |title=Vos élus |publisher=Mairie d'Avallon |language=fr |access-date=19 June 2017 |archive-date=28 June 2017 |archive-url=https://web.archive.org/web/20170628030734/http://ville-avallon.fr/2_6_Vos-%C3%A9lus |url-status=dead }} < /ref > 
+ |term                   = 2014-2020 
+ |elevation m            = 266 
+ |elevation min m        = 163 
+ |elevation max m        = 369 
+ |area km2               = 26.75 
+ |population             = 34843 
+ |population date        = 2014 
+ |website                = [http://www.ville-avallon.fr/ Mairie d'Avallon] 
+ }} 
+ '''Avallon''' is a [[France|French]] [[Communes of France|commune]]. It is in the south of the [[Yonne]] [[Departments of France|department]] in the [[Bourgogne-Franche-Comté]] [[Regions of France|region]], to the southeast of [[Paris]], and is a [[Prefectures in France|subprefecture]] in the department. It is also the [[Capital city|capital]] of the ''arrrondissement'' of [[Arrondissement of Avallon|Avallon]]. 
+ 
+ ==Geography== 
+ The city of Avallon is in the southeastern part of the Yonne department. The city is on small [[hill]]s along the [[Cousin (river)|Cousin]] [[river]], a river that flows mainly in the Yonne department. 
+ 
+ The ''commune'' of Avallon has an area of {{Convert|26.8|km2|sqmi|abbr=on }}. < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-89025 |title=Commune d’Avallon (89025) - Comparateur de territoire |work=Publications et statistiques pour la France ou les régions |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=20 June 2017 }} < /ref >  Its average [[altitude]] is {{Convert|266|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|220|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Avallon-89200/ |title=The city of Avallon |publisher=Map-France.com |access-date=19 June 2017 }} < /ref > 
+ 
+ < center > 
+ {| class= " wikitable " 
+ |+ Distance from Avallon to other cities < ref name= " mairie " > {{cite web |work=Annuaire-Mairie.fr |title=Ville d'Avallon |url=http://www.annuaire-mairie.fr/ville-avallon.html |language=fr  |access-date=20 June 2017}} < /ref > 
+ |- 
+ ! Dijon !! Paris !! Bordeaux !! Toulouse !! Montpellier !! Lyon !! Nantes 
+ |- align= " center " 
+ | {{Convert|107|km|mi|abbr=on }} || {{Convert|224|km|mi|abbr=on }} || {{Convert|678|km|mi|abbr=on }} || {{Convert|647|km|mi|abbr=on }} || {{Convert|553|km|mi|abbr=on }} || {{Convert|256|km|mi|abbr=on }} || {{Convert|550|km|mi|abbr=on }} 
+ |} 
+ < /center > 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Avallon and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 89025.png|350px|Map of the ''commune'' of Avallon]] 
+ |} 
+ < /center > 
+ 
+ The city of Avallon is surrounded by the ''communes'': 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Avallon 
+ |North     = [[Annéot]], [[Étaule]] 
+ |Northeast = [[Sauvigny-le-Bois]] 
+ |East      = [[Magny, Yonne|Magny]] 
+ |Southeast =  
+ |South     = [[Saint-Germain-des-Champs]] 
+ |Southwest = [[Island, Yonne|Island]] 
+ |West      = [[Vault-de-Lugny]] 
+ |Northwest = [[Pontaubert]] 
+ }} 
+ 
+ ===Climate=== 
+ The [[Köppen climate classification]] type for Avallon is an  " [[Oceanic climate]] "  (also known as Maritime Temperate climate) and of the subtype '''Cfb'''. < ref name= " mairie "  / > 
+ 
+ ==Population== 
+ The inhabitants of Avallon are known, in [[French language|French]], as ''Avallonnais'' (women: ''Avallonnaises''). < ref > {{cite web|url=https://www.habitants.fr/yonne-89 |title=Yonne |publisher=habitants.fr |language=fr |access-date=20 June 2017 }} < /ref > 
+ 
+ With a population of 7025, < ref name=insee > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep89.pdf |title=Régions, départements, arrondissements, cantons et communes  |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=fr |access-date=16 June 2017}} < /ref >  Avallon has a [[population density]] of {{Pop density|34843|49.95|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Avallon''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:10000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:2000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:1000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2007 text:2007 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 6846 
+  bar:1975 from:0 till: 8814 
+  bar:1982 from:0 till: 8904 
+  bar:1990 from:0 till: 8617 
+  bar:1999 from:0 till: 8217 
+  bar:2007 from:0 till: 7366 
+  bar:2014 from:0 till: 7025 
+ 
+ PlotData= 
+  bar:1968 at: 6846 fontsize:S text: 6,846 shift:(-12,5) 
+  bar:1975 at: 8814 fontsize:S text: 8,814 shift:(-15,5) 
+  bar:1982 at: 8904 fontsize:S text: 8,904 shift:(-15,5) 
+  bar:1990 at: 8617 fontsize:S text: 8,617 shift:(-15,5) 
+  bar:1999 at: 8217 fontsize:S text: 8,217 shift:(-15,5) 
+  bar:2007 at: 7366 fontsize:S text: 7,366 shift:(-15,5) 
+  bar:2014 at: 7025 fontsize:S text: 7,025 shift:(-15,5) 
+ < /timeline > 
+ < /center > 
+ 
+ == Administration == 
+ Avallon is a [[Prefectures in France|subprefecture]] of the Yonne department, the capital of the ''arrondissement'' of [[Arrondissement of Avallon|Avallon]] and the [[administrative centre]] ({{lang-fr|chef-lieu}}) of the canton [[Canton of Avallon|Avallon]] formed by 27 ''communes'', with 14,851 inhabitants  < small > (2014) < /small > . 
+ 
+ It is part of the [[Communes of France|intercommunality]] ''Avallon, Vézelay, Morvan'' ({{lang-fr|Communauté de communes Avallon - Vézelay - Morvan}}). 
+ 
+ === Twinned and partner towns === 
+ Avallon is [[Twin town|twinned]] with: < ref > {{cite web |url=http://www.ville-avallon.fr/6_46_Jumelage |title=Jumelage |publisher=Mairie d'Avallon |language=fr |access-date=20 June 2017 |archive-date=28 June 2017 |archive-url=https://web.archive.org/web/20170628032603/http://ville-avallon.fr/6_46_Jumelage |url-status=dead }} < /ref > 
+ 
+ * {{flagicon|BEL}} [[Pepinster]], [[Belgium]] 
+ * {{flagicon|GER}} [[Cochem]], [[Germany]] 
+ * {{flagicon|UK}} [[Tenterden]], [[United Kingdom]] 
+ * {{flagicon|Japan}} [[Saku, Nagano|Saku]], [[Japan]] 
+ 
+ ==Places of interest== 
+ Some interesting places in Avallon are: 
+ * The ''Saint-Lazare'' [[church]], built in the twelfth century. 
+ * The ''Saint-Martin'' church, built around 1650. 
+ * The [[bell tower]] - The tower was built in 1456 and is {{Convert|49|m|ft|abbr=on }} high. 
+ 
+ == Gallery == 
+ < gallery mode= " packed " > 
+ File:Avallon - Mairie.jpg|City hall of Avallon. 
+ File:Avallon - Collégiale Saint Lazare vue depuis les Chaumes.jpg|''Saint-Lazare'' [[church]]. 
+ File:Église St Martin Avallon 2.jpg|''Saint-Martin'' [[church]]. 
+ File:Avallon-Musée de l'Avallonnais (4).jpg|''Musée de l'Avallonnais''. 
+ File:Avallon 180.JPG|Public [[garden]] behind the [[museum]]. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Avallon]] 
+ * [[Communes of the Yonne department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{commonscat|Avallon}} 
+ {{Wikivoyage}} 
+ * [http://www.ville-avallon.fr/ Mairie d'Avallon official website] {{in lang|fr}} 
+ * [http://www.avallon-morvan.com/ Office de Tourisme d'Avallon] {{Webarchive|url=https://web.archive.org/web/20200928023222/http://avallon-morvan.com/ |date=2020-09-28 }} {{in lang|fr}} 
+ * [http://www.cc-avm.fr/ Communauté de communes Avallon - Vézelay - Morvan] {{in lang|fr}} 
+ 
+ {{Yonne communes}} 
+ 
+ [[Category:Subprefectures in France]] 
+ [[Category:Communes in Yonne]]

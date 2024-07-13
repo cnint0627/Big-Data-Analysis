@@ -1,0 +1,92 @@
+{{Automatic taxobox 
+ | name = Megalosauroids 
+ | fossil_range = [[Middle Jurassic]] - [[Late Cretaceous]], {{fossilrange|170|85|latest=66}} < small > Possible [[Maastrichtian|Late Maastrichtian]] record < /small > 
+ | image = Torvosaurus Museum of Ancient Life 2.jpg 
+ | image_caption = ''[[Torvosaurus]]'' skeletal mount, [[Museum of Ancient Life]] 
+ | image2 = Spinosaurus swimming.jpg 
+ | image2_caption = ''[[Spinosaurus]]'' skeletal mount, [[National Geographic Museum]] 
+ | taxon = Megalosauroidea 
+ | authority = [[Thomas Henry Huxley|Huxley]], 1889 
+ | type_species = {{extinct}}''[[Megalosaurus bucklandii]]'' 
+ | type_species_authority = [[Gideon Mantell|Mantell]], 1827 
+ | subdivision_ranks = Subgroups 
+ | subdivision = 
+ * ?{{extinct}}''[[Yunyangosaurus]]'' 
+ * {{extinct}}[[Piatnitzkysauridae]]  
+ * {{extinct}}'''Megalosauria''' 
+ ** {{extinct}}[[Megalosauridae]] 
+ ** {{extinct}}[[Spinosauridae]] 
+ | synonyms = 
+ * Spinosauroidea  < small > [[Ernst Stromer|Stromer]], 1915 < /small > 
+ * Torvosauroidea  < small > [[Franz Nopcsa von Felső-Szilvás|Nopcsa]], 1915 < /small > 
+ * Spinosauria  < small > Olshevsky, 1991 < /small > 
+ }} 
+ '''Megalosauroidea''' is a group of [[carnivorous]] [[theropod]] [[dinosaur]]s. They lived from the [[Middle Jurassic]] to the [[Late Cretaceous]] period. Members of the group include [[Spinosaurus|''Spinosaurus'',]] [[Megalosaurus|''Megalosaurus'',]] and [[Torvosaurus|''Torvosaurus''.]] 
+ 
+ == Classification == 
+ The definition of the [[clade]] Megalosauroidea includes [[Megalosaurus|''Megalosaurus bucklandii'']] and all [[taxon|taxa]] that share a more recent [[common ancestor]] with it than they do with ''[[Allosaurus|Allosaurus fragilis]]'' or the [[House Sparrow]]. < ref name= " benson2010 " > {{cite journal|last=Benson|first=R.B.J.|year=2010|title=A description of ''Megalosaurus bucklandii'' (Dinosauria: Theropoda) from the Bathonian of the UK and the relationships of Middle Jurassic theropods|journal=Zoological Journal of the Linnean Society|volume=158|issue=4|pages=882–935|doi=10.1111/j.1096-3642.2009.00569.x|s2cid=84266680 }} < /ref > 
+ 
+ Here is a [[cladogram]] showing the relationships between different members of Megalosauroidea. It is based on a study by Carrano, Benson  &  Sampson (2012). < ref name= " tetanurans2012 " > {{Cite journal|last1=Carrano|first1=M. T.|last2=Benson|first2=R. B. J.|last3=Sampson|first3=S. D.|year=2012|title=The phylogeny of Tetanurae (Dinosauria: Theropoda)|journal=Journal of Systematic Palaeontology|volume=10|issue=2|pages=211–300|doi=10.1080/14772019.2011.630927|pmc=|pmid=|s2cid=85354215}} < /ref > {{clade|{{clade  
+    |1=''[[Cryolophosaurus]]'' [[File:Cryolophosaurus in Japan White Background.jpg|50 px]] 
+    |2=''[[Sinosaurus| " Dilophosaurus "  sinensis]]'' [[File:Sinosaurus triassicus white background.JPG|50 px]] 
+    |3={{clade 
+       |1=''[[Chuandongocoelurus]]'' 
+       |2=''[[Monolophosaurus]]'' [[File:Monolophosaurus jiangi White Background.jpg|50 px]] 
+       |label3=[[Orionides]] 
+       |3={{clade 
+          |label1=[[Avetheropoda]] 
+          |1={{clade 
+             |1=[[Allosauroidea]] [[File:Allosaurus AMNH White Background.jpg|50 px]] 
+             |label2=[[Coelurosauria]] 
+             |2={{clade 
+                |1=''[[Lourinhanosaurus]]'' 
+                |2=Other coelurosaurians  [[File:FMNH Deinonychus white background.JPG|50 px]]}} }} 
+          |label2='''Megalosauroidea''' 
+          |2={{clade 
+             |label1=[[Piatnitzkysauridae]] 
+             |1={{clade  
+                |1=''[[Marshosaurus]]'' 
+                |2={{clade 
+                   |1=''[[Condorraptor]]'' 
+                   |2=''[[Piatnitzkysaurus]]'' }} }} 
+             |label2=[[Megalosauria]] 
+             |2={{clade 
+                |1=''[[Streptospondylus]]'' 
+                |label2=[[Spinosauridae]] 
+                |2={{clade 
+                   |1={{clade 
+                      |1=''[[Baryonyx]]'' 
+                      |2=''[[Suchomimus]]'' [[File:Suchomimus white background.jpg|50 px]]}} 
+                   |2={{clade 
+                      |1=''[[Angaturama]]'' 
+                      |2=''[[Irritator]]'' [[File:Irritator challengeri mount 01 white background.jpg|50 px]] 
+                      |3=''[[Spinosaurus]]'' [[File:Spinosaurus white background.jpg|50 px]]}} }} 
+                |label3=[[Megalosauridae]] 
+                |3={{clade 
+                   |label1=[[Eustreptospondylinae]] 
+                   |1={{clade 
+                      |1=''[[Eustreptospondylus]]'' }} 
+                   |2={{clade 
+                      |label1=[[Megalosaurinae]] 
+                      |1={{clade 
+                         |1=''[[Duriavenator]]'' 
+                         |2={{clade 
+                            |1=''[[Megalosaurus]]'' 
+                            |2=''[[Torvosaurus]]''  [[File:Complete skeleton of Torvosaurus white background.jpg|50 px]]}} }} 
+                      |label2=[[Afrovenatorinae]] 
+                      |2={{clade 
+                         |1=''[[Afrovenator]]'' [[File:Afrovenator mount white background.jpg|50 px]] 
+                         |2={{clade 
+                            |1=''[[Dubreuillosaurus]]'' 
+                            |2=''[[Magnosaurus]]'' }} 
+                         |3={{clade 
+                            |1=''[[Leshansaurus]]'' 
+                            |2=''[[Piveteausaurus]]'' }} }} }} }} }} }} }} }} }}|style=font-size:85%;line-height:85%|label1=[[Tetanurae]]}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{Biology-stub}} 
+ 
+ [[Category:Theropods]]

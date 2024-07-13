@@ -1,0 +1,54 @@
+{{automatic taxobox 
+ | image = Phrynomedusa marginata.jpg 
+ | image_caption = ''Phrynomedusa marginata'' 
+ | taxon = Phrynomedusa 
+ | authority = [[Alípio do Miranda-Ribeiro|Miranda-Ribeiro]], 1923 
+ | subdivision_ranks = Species 
+ | subdivision       = 6 species (see [[#Species|text]]) 
+ | type_species = ''[[Phrynomedusa fimbriata]]'' 
+ | type_species_authority = Miranda-Ribeiro, 1923 
+ }} 
+ 
+ '''''Phrynomedusa''''' is a genus of [[Hylidae|tree frogs]] from [[Brazil]].  They live in the [[Southeast Region, Brazil|Southeast]] and [[South Region, Brazil|South]] parts of Brazil. Scientists used to think these frogs were part of the genus ''[[Phyllomedusa]]'', and thy called them the  " ''[[Phrynomedusa fimbriata|Phyllomedusa fimbriata]]'' group. " < ref name=Frost/ > < ref name= " Baêta et al. 2016 " / >  They are called '''colored leaf frogs''' < ref name=Frost/ >  and '''monkey frogs''' in English. < ref name= " Baêta et al. 2016 " / > 
+ 
+ ==Ecology and conservation== 
+ ''Phrynomedusa'' frogs live in mountain streams and nearby ponds in the [[Atlantic Forest]]. The female frogs lay their egg [[clutch (eggs)|clutch]]es in cracks in the rocks above the water; the [[tadpole]]s grow in the water. < ref name= " Baêta et al. 2016 " / > 
+ 
+ ''Phrynomedusa'' are rare and humans do not know much about them. Except for ''P. appendiculata'' and ''P. marginata'', scientists have only seen a few individual frogs from each species. Conservationists are sure that two species live in protected areas, but they do not know about the other frogs. < ref name= " Baêta et al. 2016 " / > 
+ 
+ ==Description== 
+ ''Phrynomedusa'' are small [[tree frog]]s: adult males are {{convert|26|-|47|mm|abbr=on}} from [[snout-vent length|nose to rear end]], and females {{convert|28|-|45|mm|abbr=on}}. The [[Iris (anatomy)|iris]] has two colors: a horizontal dark stripe in middle of the eye with dark yellow in the upper and lower surfaces. The [[Dorsum (anatomy)|back]] of this frog is smooth. There is only a little webbing on its front and back feet. They do not have flash colors on their sides, thighs, or othe rbody parts, like other phyllomedusid frogs do. Males frogs have [[vocal sac]]s and vocal slits. < ref name= " Baêta et al. 2016 " / > 
+ 
+ ==Species== 
+ There are six species, and one of them is probably extinct: < ref name=Frost/ > < ref name= " Baêta et al. 2016 " / > < ref name=AmphibiaWeb/ > 
+ {|style= " text-align:left; border:1px solid #999999; width: 50% " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !style= " width: 60%;  " | Binomial name and author!!style= " width: 40%;  " |Common name 
+ |- 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phrynomedusa appendiculata]]'' {{small|(Lutz, 1925)}} || Santa Catarina leaf frog 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phrynomedusa bokermanni]]'' {{small|(Cruz, 1991)}} || Bokermann's leaf frog 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phrynomedusa dryade]]'' {{small|(Baêta, Giasson, Pombal, and Haddad, 2016)}} || 
+ |-style= " background:#EEEEEE; " 
+ | †''[[Phrynomedusa fimbriata]]'' {{small|(Miranda-Ribeiro, 1923)}} || Spiny-knee leaf frog 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phrynomedusa marginata]]'' {{small|(Izecksohn  &  Cruz, 1976)}} || Bicolored leaf frog 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phrynomedusa vanzolinii]]'' {{small|(Cruz, 1991)}} || Vanzolini's leaf frog 
+ |- 
+ |} 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=http://www.amphibiaweb.org/lists/Hylidae.shtml |title=Hylidae |year=2017 |work=AmphibiaWeb: Information on amphibian biology and conservation. [web application] |publisher=Berkeley, California: AmphibiaWeb |accessdate=29 May 2017}} < /ref > 
+ 
+ < ref name= " Baêta et al. 2016 " > {{cite journal |last1=Baêta |first1=Délio |last2=Giasson |first2=Luís Olímpio Menta |last3=Pombal |first3=José P. |last4=Haddad |first4=Célio Fernando Baptista |title=Review of the rare genus ''Phrynomedusa'' Miranda-Ribeiro, 1923 (Anura: Phyllomedusidae) with description of a new species |journal=Herpetological Monographs |date=16 November 2016 |volume=30 |issue=1 |pages=49–78 |doi=10.1655/HERPMONOGRAPHS-D-15-00009.1|s2cid=52238516 }} < /ref > 
+ 
+ < ref name=Frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Phyllomedusidae/Phrynomedusa |title=''Phrynomedusa'' Miranda-Ribeiro, 1923 |author=Frost, Darrel R. |year=2017 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=29 May 2017}} < /ref > 
+ }} 
+ 
+ {{Taxonbar|from=Q2012052}} 
+ 
+ [[Category:Frogs of South America]]

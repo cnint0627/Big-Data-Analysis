@@ -1,0 +1,14 @@
+A '''hyperoperation''' is a [[wikt:generalization|generalization]] of [[addition]], [[multiplication]], [[exponentiation]], [[tetration]], [[etc]].  They are often written using [[Knuth's up-arrow notation]].  [[Natural number]] level hyperoperations can be defined [[recursive]]ly as a [[piecewise function]]: 
+ : < math > 
+   H_n(a, b) =   
+    \begin{cases} 
+     b + 1  &  \text{if } n = 0 \\ 
+     a  &  \text{if } n = 1, b = 0 \\ 
+     0  &  \text{if } n = 2, b = 0 \\ 
+     1  &  \text{if } n \ge 3, b = 0 \\ 
+     H_{n-1}(a, H_n(a, b - 1))  &  \text{otherwise} 
+    \end{cases}\,\! 
+ < /math > 
+ 
+ [[Category:Hyperoperations]] 
+ {{math-stub}}

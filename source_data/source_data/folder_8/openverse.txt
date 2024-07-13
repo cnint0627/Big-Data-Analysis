@@ -1,0 +1,42 @@
+{{Infobox website 
+ | name = Openverse 
+ | type = [[Search engine]] 
+ | language = Multilingual 
+ | owner = [[WordPress Foundation]] < ref > {{Cite web |date=2010-09-09 |title=Trademark Policy |url=https://wordpressfoundation.org/trademark-policy/ |access-date=2022-03-28 |website=WordPress Foundation |language=en-US}} < /ref > 
+ | url = {{URL|https://openverse.org}} 
+ | current_status = Active 
+ | programming_language = [[JavaScript]], [[Python (programming language)|Python]] 
+ |screenshot=Openverse screenshot.png}} 
+ 
+ '''Openverse''' is an [[Open-source software|open-source]] [[search engine]] for [[open content]]. It was made in the [[WordPress|WordPress project]]. < ref > {{Cite web |title=Openverse {{!}} WordPress.org |url=https://wordpress.org/openverse/about/ |access-date=2022-03-28 |language=en-US}} < /ref > < ref name= " :0 " > {{Cite web |title=Make Openverse – Openverse is a search tool for CC-licensed and public domain content across the internet. – WordPress.org |url=https://make.wordpress.org/openverse/ |access-date=2022-03-28 |language=en-US}} < /ref > < ref > {{Cite web |title=Handbook – Make Openverse – WordPress.org |url=https://make.wordpress.org/openverse/handbook/ |access-date=2022-03-28 |language=en-US}} < /ref >  It searches [[Creative Commons license|Creative Commons licensed]] and [[public domain]] content from many sources. < ref name= " :1 " > {{Cite web |title=Openverse {{!}} WordPress.org |url=https://wordpress.org/openverse/sources/ |access-date=2022-03-28 |language=en-US}} < /ref >  The software is licensed under the [[MIT License]]. < ref > {{Cite web |title=Openverse, WordPress Git repository |url=https://github.com/wordpress/?q=openverse |access-date=2022-03-28 |website=GitHub |language=en}} < /ref > 
+ 
+ Openverse can search content among of 600 million items. < ref name= " :0 "  / > 
+ 
+ == History == 
+ ===2010s=== 
+ In February 2017 [[Creative Commons]] announced [[CC Search]], an open source search engine for open content. They released a [[Beta Version|beta version]]. < ref > {{Cite web |date=2017-02-07 |title=Announcing the new CC Search, now in Beta |url=https://creativecommons.org/2017/02/07/new-cc-search/ |access-date=2022-03-28 |website=Creative Commons |language=en-US}} < /ref > < ref name= " :2 " > {{Cite web |title=History of Openverse – Make Openverse – WordPress.org |url=https://make.wordpress.org/openverse/handbook/history-of-openverse/ |access-date=2022-03-28 |language=en-US}} < /ref >  A [[stable version]] of CC Search appeared in April 2019. < ref > {{Cite web |date=2019-04-30 |title=CC Search is out of beta with 300M images and easier attribution |url=https://creativecommons.org/2019/04/30/cc-search-images/ |access-date=2022-03-28 |website=Creative Commons |language=en-US}} < /ref > < ref name= " :2 "  / > 
+ ===2020s=== 
+ In December 2020, after Creative Commons staff changes, CC Search and other projects no longer had enough staff. CC Search and others remained available but development was stopped. CC Search no more accepts new [[Pull request|pull requests]] or made changes. < ref > {{Cite web |title=Upcoming Changes to the CC Open Source Community |url=https://opensource.creativecommons.org/blog/entries/2020-12-07-upcoming-changes-to-community/ |access-date=2022-03-28 |website=Creative Commons}} < /ref > < ref name= " :2 "  / > 
+ 
+ In April-May 2021, [[Catherine Stihler]] ([[Creative Commons]]) and [[Matt Mullenweg]] ([[WordPress Foundation]], [[Automattic|Automattic Inc.]]) announced that CC Search join to the [[WordPress|WordPress project]]. < ref > {{Cite web |date=2021-05-03 |title=CC Search to Join WordPress |url=https://creativecommons.org/2021/05/03/cc-search-to-join-wordpress/ |access-date=2022-03-28 |website=Creative Commons |language=en-US}} < /ref > < ref name= " :3 " > {{Cite web |date=2021-04-27 |title=CC Search to join WordPress.org |url=https://ma.tt/2021/04/cc-search-to-join-wordpress-org/ |access-date=2022-03-28 |website=Matt Mullenweg |language=en-US}} < /ref > < ref > {{Cite web |date=2021-04-28 |title=Creative Commons Search to Relaunch on WordPress.org |url=https://wptavern.com/creative-commons-search-to-relaunch-on-wordpress-org |access-date=2022-03-28 |website=WP Tavern |language=en-US}} < /ref >  Automattic paid to the Creative Commons for the search engine, < ref > {{Cite web |date=2022-01-03 |title=What is Openverse? |url=https://bigtechquestion.com/2022/01/03/online/what-is-openverse/ |access-date=2022-03-28 |website=The Big Tech Question |language=en-GB}} < /ref >  hired key members of the CC Search team and sponsor their works to the project as part of [https://wordpress.org/five-for-the-future/ Five for the Future] commitment, < ref name= " :3 "  / > < ref > {{Cite web |date=2019-10-29 |title=Automattic |url=https://wordpress.org/five-for-the-future/pledge/automattic/ |access-date=2022-03-28 |website=Five for the Future |language=en-US}} < /ref >  which (search engine project) is, at the end of the arrangement, part of a WordPress project, not Automattic. < ref name= " :0 "  / >  A new name was also introduced, Openverse. < ref name= " :4 " > {{Cite web |date=2021-05-11 |title=Welcome to Openverse |url=https://wordpress.org/news/2021/05/welcome-to-openverse/ |access-date=2022-03-28 |website=WordPress News |language=en-US}} < /ref >  Openverse is the successor to CC Search, developed of its code base. It aims to be a wider open content search engine. They will continue development work and expand features. < ref name= " :4 "  / >  [[WordPress Foundation]] owns Openverse [[trademark]] and its other [[Intellectual property|intellectual property rights]]. < ref > {{Cite web |date=2010-09-09 |title=Trademark Policy |url=https://wordpressfoundation.org/trademark-policy/ |access-date=2022-03-28 |website=WordPress Foundation |language=en-US}} < /ref >  Starting in December, CC Search users will be redirected to Openverse. < ref > {{Cite web |date=2021-12-13 |title=Dear Users of CC Search, Welcome to Openverse |url=https://creativecommons.org/2021/12/13/dear-users-of-cc-search-welcome-to-openverse/ |access-date=2022-03-28 |website=Creative Commons |language=en-US}} < /ref > 
+ 
+ == Search engine sources == 
+ Openverse searches content from many sources like [[Wikimedia Commons]], [[Europeana]] and [[Flickr]]. < ref > {{Cite web |title=openverse-catalog/openverse_catalog/dags/providers/provider_api_scripts at main · WordPress/openverse-catalog |url=https://github.com/WordPress/openverse-catalog/tree/main/openverse_catalog/dags/providers/provider_api_scripts |access-date=2022-03-28 |website=GitHub |language=en}} < /ref > < ref name= " :1 "  / > 
+ 
+ == Related pages == 
+ * [[Open content]] 
+ 
+ == References == 
+ * [https://wordpress.org/news/2021/05/the-commons-of-images/ Episode 8: The Commons of Images – WP Briefing], podcast episode of Openverse 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ {{Commonscat}} 
+ * {{Official website}} 
+ * [https://make.wordpress.org/openverse Openverse developer site] 
+ * [https://make.wordpress.org/openverse/handbook Openverse developer handbook] 
+ * [https://api.openverse.engineering Openverse API] 
+ * [https://github.com/wordpress/?q=openverse Openverse Git repositories] 
+ 
+ [[Category:Search engines]] 
+ [[Category:Open content]]

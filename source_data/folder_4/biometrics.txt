@@ -1,0 +1,33 @@
+[[File:Reading Fingerprint.jpg|thumb|Many computers have a fingerprint scanner. This allows for some security.]] 
+ 
+ '''Biometrics''' is a field of study which identifies or recognises people by the [[Trait (biology)|traits]] they have. Not to be confused with [[biometry]], the application of statistics to biology. 
+ 
+ Given those traits, a system can be [[training|trained]] to recognise certain people, with a certain [[probability]]. Training lowers the probability of falsely identifying someone. < ref > {{Cite web|title=New trends and advantages of biometrics|url=https://worldvision.com.ua/novye-tendentsii-i-preimushchestva-biometrii/|access-date=|website=|language=}} < /ref >   
+ 
+ The traits used are of two types: 
+ *Based on the body ([[physiology|physiological]] traits). These include [[fingerprint]]s, [[face]] [[recognition]], [[scent]], voice recognition, [[iris (eye)]], or [[retina]] recognition. 
+ *Based on the behaviour of a person. 
+ 
+ Most often, the two types are combined, as in [[voice recognition|voice]] or signature recognition. Most of these biometrics are seen as  " behavioral " , but some are linked to the physiology, e.g. of the vocal tract, or of the hand.  
+ 
+ A person  may be identified by a [[fingerprint]], or by letting the person [[signature|sign]] a [[wikt:document|document]].  The data could then be kept.  Someone who is checking can again take the fingerprint or the signature, and compare it to the old version. 
+ 
+ When selecting features, those choosing must also look at social acceptance. Taking a fingerprint may be ok, taking a [[blood test]] may not be. Some biometric data is also easier to fake, e.g. [[signature]]s. 
+ 
+ Also, when [[voice]] samples are taken, they may be distorted, if only a [[telephone|telephone line]] is available. Telephone lines cut off some [[Bandwidth (signal processing)|bandwidth]] from the [[signal]]. 
+ 
+ Other than for [[Passport|passports]], biometric methods are also used in many banks. 
+ 
+ == Related pages == 
+ * [[Fingerprint scanner]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ {{commonscat}} 
+ [[Category:Anatomy]] 
+ [[Category:Authentication methods]] 
+ 
+ 
+ {{biology-stub}}

@@ -1,0 +1,25 @@
+{{lowercase}} 
+ 
+ In [[computing]], '''rlogin''' is a [[Unix]] [[Computer software|program]] that allows users to log in on another [[Server (computing)|host]] using a [[computer network|network]]. rlogin uses [[Internet protocol suite|TCP]] [[TCP and UDP port|port]] 513. It was first distributed as part of the [[Berkeley Software Distribution|4.2BSD]] release.  rlogin is also the name of the [[application layer]] [[Protocol (computing)|protocol]] used by the software, also the protocol is part of the [[Internet protocol suite|TCP/IP protocol suite]]. 
+ 
+ The rlogin homepage is located at http://rlogin.sourceforge.net. 
+ 
+ rlogin has several serious security problems, the most important are: 
+ * All information, including passwords, is transmitted unencrypted (making it open to interception). There is a modern version, called Rlogin Kerberos, that uses the [[MIT]] [[Kerberos]] authentication technique. 
+ * The protocol partially depends on the remote rlogin [[client]] to provide information honestly (including source port and source host name).  A corrupt client is thus able to rebuild this and gain access. 
+ * The protocol lacks any means of authenticating other machines' identities, ensuring that the rlogin [[client]] is running on a trusted machine, or if it is the ''real'' rlogin client. 
+ 
+ Due to its serious problems, rlogin was rarely used across untrusted networks (like the public internet), and rlogin distributions are no longer included by default with many [[Unix]] and [[Linux]] distributions. Many networks which were depending on rlogin and [[telnet]] have replaced it with [[Secure Shell|SSH]] and the ''rlogin secured equivalent'' slogin. 
+ 
+ ==Related pages== 
+ * [[Internet protocol suite]] 
+ * [[Communications protocol]] 
+ 
+ ==Other websites== 
+ * http://rlogin.sourceforge.net 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Internet]] 
+ [[Category:Computer protocols]]

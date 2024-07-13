@@ -1,0 +1,25 @@
+[[File:Milchsäure_Enantiomerenpaar.svg|thumb|right|[[Lactic acid]] has two enantiomers. The one on the left is called S-(+)-lactic acid and is the natural one]] 
+ 
+ In [[chemistry]], an '''enantiomer''' is a special kind of [[isomer]]. It is a molecule that looks exactly like another one when viewed in a [[mirror]]. The subject of mirror-image chemicals is known as [[chirality]]. 
+ 
+ If you try to put the two molecules on top of each other, they will not be the same (they will not superimpose). This is because they have one [[chirality|chiral centre]]. < ref > {{GoldBookRef | title = ''enantiomer'' | file = E02069}} < /ref >  It is important that they only have one, otherwise the two molecules are called [[diastereoisomer]]s. 
+ 
+ Both enantiomers of a molecule have the same basic properties. For example, they have the same [[boiling point]] and [[NMR spectroscopy|NMR spectrum]]. Therefore they are difficult to separate. It is sometimes very important to separate them because in some [[drug]] molecules one enantiomer might have the right effect but the other might be dangerous. One famous example is [[thalidomide]]: one enantiomer of the molecule causes birth defects. 
+ 
+ 
+ ==Difference between a chiral molecule and enantiomers== 
+ 
+ A chiral molecule is a molecule that is not superimposable on its mirror image, while enantiomers are the set (all of) the molecules which are mirror images of eachother 
+ 
+ Molecule A and B have mirror images (A' and B' respectively). A' and B' are not superimposable on A and B, thus, both A and B are chiral molecules since their mirrors are not the same as the originals, but only [ A and A' ] and/or [ B and B' ] are enantiomers. 
+ 
+ In other words, a chiral molecule X is chiral if its image X' is not the same, while the set of both [ X and X' ] are enantiomers. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ 
+ {{chem-stub}} 
+ 
+ 
+ [[Category:Stereochemistry]]

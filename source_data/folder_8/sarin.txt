@@ -1,0 +1,141 @@
+{{chembox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 415149010 
+ | Reference =  < ref > {{cite web|publisher=United States Senate|work=103d Congress, 2d Session|date=May 25, 1994|url=http://www.gulfweb.org/bigdoc/report/appgb.html|title=Material Safety Data Sheet -- Lethal Nerve Agent Sarin (GB)|accessdate=November 6, 2004}} < /ref > 
+ | Name = Sarin 
+ | pronounce = {{IPAc-en|ˈ|s|ɑː|r|ɪ|n}} 
+ | ImageFile_Ref = {{chemboximage|correct|??}} 
+ | ImageFile = Sarin-2D-by-AHRLS-2011.png 
+ | ImageFile1 = Sarin-3D-balls-by-AHRLS-2012.png 
+ | ImageName1 = ''S''-Sarin 
+ | PIN = (''RS'')-Propan-2-yl methylphosphonofluoridate 
+ | SystematicName = 
+ | OtherNames = (''RS'')-''O''-Isopropyl methylphosphonofluoridate; IMPF; < br / > GB; < ref > {{cite web|url=http://webbook.nist.gov/cgi/cbook.cgi?Name=sarin & Units=SI & cMS=on|title=Sarin|publisher=[[National Institute of Standards and Technology]]|accessdate=March 27, 2011}} < /ref > < br / > 2-(Fluoro-methylphosphoryl)oxypropane;  < br / > Phosphonofluoridic acid, P-methyl-, 1-methylethyl ester 
+ | IUPACName = 
+ | Section1 = {{Chembox Identifiers 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 7583 
+ | InChI1 = 1/C4H10FO2P/c1-4(2)7-8(3,5)6/h4H,1-3H3 
+ | InChIKey1 = DYAHQFWOVKZOOW-UHFFFAOYAY 
+ | ChEBI_Ref = {{ebicite|changed|EBI}} 
+ | ChEBI = 75701 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 509554 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C4H10FO2P/c1-4(2)7-8(3,5)6/h4H,1-3H3 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = DYAHQFWOVKZOOW-UHFFFAOYSA-N 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo = 107-44-8 
+ | PubChem = 7871 
+ | UNII_Ref = {{fdacite|changed|FDA}} 
+ | UNII = B4XG72QGFM 
+ | SMILES = FP(=O)(OC(C)C)C 
+ | InChI=1/C4H10FO2P/c1-4(2)7-8(3,5)6/h4H,1-3H3 
+  }} 
+ | Section2 = {{Chembox Properties 
+ | C=4 | H=10 | F=1 | O=2 | P=1 
+ | Appearance = Clear colourless liquid, brownish if impure 
+ | Odor = Odourless in pure form. Impure sarin can smell like mustard or burned rubber. 
+ | BoilingPtC = 158 
+ | MeltingPtC = -56 
+ | Solubility = Miscible 
+ | Density = 1.0887 g/cm < sup > 3 < /sup >  (25 & nbsp;°C) < br / > 1.102 g/cm < sup > 3 < /sup >  (20 & nbsp;°C) 
+ | LogP = 0.30 
+  }} 
+ | Section3 = {{Chembox Hazards 
+ | ExternalSDS = [http://www.gulfweb.org/bigdoc/report/appgb.html Lethal Nerve Agent Sarin (GB)] 
+ | LD50 = 39  & micro;g/kg (intravenous, rat) < ref name= " Substance Name: Sarin " > {{cite web|title=Substance Name: Sarin|url=http://chem.nlm.nih.gov/chemidplus/rn/107-44-8|website=ChemIDplus|publisher=U.S. National Library of Medicine, National Institutes of Health|accessdate=19 January 2020|language=en}} < /ref > 
+ | MainHazards = Extremely lethal [[cholinergic]] agent. 
+ | NFPA-H = 4 
+ | NFPA-F = 1 
+ | NFPA-R = 1 
+ | IDLH = 0.1 mg/m < sup > 3 < /sup > 
+ | TLV-STEL = 0.0001 mg/m < sup > 3 < /sup > 
+ | TLV-TWA = 0.00003 mg/m < sup > 3 < /sup > 
+ | FlashPtC = 
+ | GHSPictograms = {{GHS06}} 
+ | GHSSignalWord = 
+  }} 
+ | Section4 = 
+ | Section5 = 
+ | Section6 = 
+ }} 
+ '''Sarin''' (or '''GB''') is a [[nerve gas]], a deadly [[poison]]. It was developed as a [[chemical weapon]] for use in war by [[Nazi Germany]]. 
+ 
+ It is classified as a [[weapon of mass destruction]] in [[UN Resolution 687]]. < ref > {{cite news|title=Chemical weapons 101: Six facts about sarin and Syria’s stockpile|url=http://www.csmonitor.com/USA/DC-Decoder/2013/0426/Chemical-weapons-101-Six-facts-about-sarin-and-Syria-s-stockpile/What-is-sarin|newspaper=CS Monitor|date=21 August 2013}} < /ref >  Production and stockpiling of sarin was outlawed by the [[Chemical Weapons Convention]] of 1993, and it is classified as a Schedule 1 substance according to the convention. That means that is a very dangerous chemical that has no use outside of chemical warfare. 
+ 
+ Sarin can be lethal even at very low concentrations. Death comes in 1 to 10 minutes after [[breathing]] it in. It paralyses lung muscles. Antidotes, such as [[atropine]], can save a person if given immediately. < ref >  Sarin (GB). Emergency Response Safety and Health Database. National Institute for Occupational Safety and Health. Accessed April 20, 2009. [https://www.cdc.gov/niosh/ershdb/EmergencyResponseCard_29750001.html] < /ref > 
+ People who get a non-lethal dose, but do not get immediate treatment, may suffer permanent neurological damage. 
+ 
+ == How sarin works == 
+ [[File:Sarin Wirkungsweise.png|thumbnail|left|150px|Sarin (red), acetylcholinesterase (yellow), acetylcholine (blue)]] 
+ Like other nerve agents, sarin attacks the [[nervous system]] by stopping nerve endings in muscles from switching off. Death will usually occur as a result of [[asphyxia]] due to the inability to control the muscles involved in breathing function. 
+ 
+ In [[vertebrates]], [[acetylcholine]] is the [[neurotransmitter]] used at the [[neuromuscular junction]], where signals are transmitted between [[neurons]] from the [[central nervous system]] to [[muscle fibres]]. 
+ 
+ Normally, acetylcholine is released from the neuron to stimulate the muscle, after which it is degraded by acetylcholinesterase. This allows the muscle to relax.  Inhibition of cholinesterase means the neurotransmitter continues to act on the muscle fibre. This stops breathing. 
+ 
+ == History == 
+ Sarin was discovered in 1938 in [[Wuppertal]]-Elberfeld in Germany by scientists at [[IG Farben]] attempting to create stronger [[pesticide]]s. it is the most toxic of the four [[Nerve agent#G-Series|G-Series nerve agents]] made by Germany. The name  " sarin "  comes from letters in the scientists' names: Gerhard '''S'''chrader, Otto '''A'''mbros, Gerhard '''R'''itter, and Hans-Jürgen von der L'''in'''de. 
+ 
+ In mid-1939, the formula for the agent was passed to the [[chemical warfare]] section of the German Army Weapons Office, which ordered that it be brought into mass production for wartime use. It was not used in [[World War II]]. 
+ 
+ === Use === 
+ * March 1998: Sarin was one of the gases used by [[Saddam Hussein]] to attack the [[Kurdish]] village of Halabja. 
+ * April 1988: Sarin was used four times against Iranian soldiers in April 1988 at the end of the [[Iran–Iraq War#Use of chemical weapons by Iraq|Iran–Iraq War]]. It helped Iraqi forces retake control of the al-Faw Peninsula during the [[Second Battle of al-Faw]]. Using satellite imagery, the United States assisted Iraqi forces to find the position of the Iranian troops during those attacks. < ref > Harris, Shane; Matthew M. Aid 2013. Exclusive: CIA files prove America helped Saddam as he gassed Iran. ''Foreign Policy'' (magazine). [http://www.foreignpolicy.com/articles/2013/08/25/secret_cia_files_prove_america_helped_saddam_as_he_gassed_iran] < /ref > 
+ * 1995: Japanese [[cult]] [[Aum Shinrikyo]] released an impure form of sarin in [[Matsumoto, Nagano]], killing eight people and harming over 200. 
+ * 2013: Sarin was used in Ghouta, [[Syria]], during the [[Syrian Civil War]] killing over a thousand rebels, civilians including many children. A UN team traced the chemical blueprint to the Syrian government. The government denied responsibility.  
+ 
+ == Properties == 
+ [[File:Sarin-2D-by-AHRLS-2011.png|thumbnail|right|150px|A 2D representation of sarin]] 
+ Sarin is a [[liquid]]. It has no color and no smell. However, sarin that is not pure can look brown and smell like burnt rubber. It is miscible in water, which means that it can dissolve in water. Sarin melts at −56 °C and boils at 158 °C. 
+ 
+ === Toxicity === 
+ Sarin is very dangerous, whether someone touches it or breathes it in. The LD50 of sarin is 172 μg/kg. This means that a group of people were injected with 172μg of sarin per kilogram of body weight, 50% of the people in that group would die. This was determined when scientists injected mice with sarin. They then did calculations to determine the ratio of sarin per kilogram and get the LD50. 
+ 
+ Pure sarin is estimated to be 26 times more deadly than [[cyanide]]. 
+ 
+ == Production == 
+ Sarin is made by mixing different chemicals together. It is difficult and dangerous for the average person to make sarin or get many of the chemicals needed to make sarin. 
+ 
+ 1) Methylphosphonyl difluoride with isopropyl alcohol. [[Hydrofluoric acid]] is made as a byproduct of the reaction: 
+ :[[File:Sarin synth with racemic stereochemistry.png|415px]] 
+ 
+ 2) Methylphosphonyl difluoride and methylphosphonic dichloride. This is called the  " Di-di "  process. [[Hydrochloric acid]] is made as a byproduct: 
+ [[File:Sarin-di-di-process-by-AHRLS-2011.png|500x500px|An example of  " di-di "  process.|center|frameless]] 
+ 
+ Both methods leave a lot of [[acid]] behind. This is a problem because acid will [[corrode]] the containers used to store sarin in. 
+ 
+ == Storage == 
+ Sarin is hard to store because the bond between the [[phosphorus]] and the [[fluorine]] is easily broken. That's why it is stored as two separate chemicals that create sarin when they are mixed. 
+ 
+ Sarin decomposes at a high [[pH]]. First, it breaks down to isopropyl methylphosphonic acid (IMPA). Then it breaks down to methylphosphonic acid (MPA). IMPA can be detected to find out if sarin was used somewhere because it is a chemical not found in nature. 
+ 
+ == Symptoms == 
+ In medicine, the acronym SLUDGE is used to remember some of the symptoms of sarin poisoning: < ref name= " SJC " > {{cite web |url=http://www.sjcphs.org/healthcare_providers/Documents/05%20Terrorism%20Agents/25%20Nerve%20Agents.pdf |title=Nerve Agents |author= < !--Staff writer(s); no by-line.-- >  |website=www.sjcphs.org |publisher=San Joaquin County Public Health Services |accessdate=December 26, 2015 |quote=}} < /ref > 
+ * '''S'''alivation (the [[salivary gland]]s work too hard and create a lot of [[saliva]]) 
+ * '''L'''acrimation ([[tears]] come out of the eyes) 
+ * '''U'''rination (the person will not be able to stop himself from [[Urination|urinating]]) 
+ * '''D'''efecation (the person will also not be able to stop himself from [[Defecation|defecating]]) 
+ * '''G'''astrointestinal upset (problems with the [[Human gastrointestinal tract|gastrointestinal system]], like [[diarrhea]]) 
+ * '''E'''mesis ([[Vomit|throwing up]]) 
+ Other symptoms of sarin poisoning include: < ref name= " SJC "  / > 
+ * Myosis (the [[Pupil (eye)|pupils]] in the eyes constrict - they get very small) 
+ * [[Muscular system|Muscle]] spasms (the muscles get very tight and painful).  Eventually the muscles can become [[Paralysis|paralyzed]]. 
+ ** This can make it impossible for a person to control the muscles needed for [[breathing]].  If this happens, breathing will stop and the person can die because they are not able to breathe in [[oxygen]]. 
+ * Bradycardia (very slow [[heart rate]]) 
+ * Bronchoconstriction (the [[Bronchus|tubes leading to the lungs]] get smaller, which makes it harder, or even impossible, to breathe air into the lungs) 
+ * [[Seizure]]s and [[status epilepticus]] 
+ * Loss of consciousness 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Commonscat|Sarin}} 
+ 
+ [[Category:Poisons]] 
+ [[Category:Nerve agents]] 
+ [[Category:Wuppertal]] 
+ [[Category:Organic compounds]]

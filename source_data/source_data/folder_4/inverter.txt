@@ -1,0 +1,20 @@
+{{for|the inverter logic gate|NOT gate}} 
+ [[File:Müllberg Speyer - 2.JPG|thumb|240px|An inverter for a solar-mounted free-standing plant in Speyer, down the Rhine.]] 
+ 
+ An '''inverter''' is an [[Electronic component|electric apparatus]] that changes [[direct current]] (DC) to [[alternating current]] (AC). It is not the same thing as an [[alternator]], which converts [[mechanical energy]] (e.g. [[movement]]) into alternating current. 
+ 
+ Direct current is created by devices such as [[Battery|batteries]] and [[solar panel]]s. When connected, an inverter allows these devices to provide [[electric power]] for small household devices. The inverter does this through a complex process of electrical adjustment. From this process, AC electric power is produced. This form of electricity can be used to power an [[Lightbulb|electric light]], a [[microwave oven]], or some other electric machine. 
+ 
+ An inverter usually also increases the [[voltage]]. In order to increase the voltage, the current must be decreased. So, an inverter will use a lot of current on the DC side when only a small amount is being used on the AC side. 
+ 
+ Inverters are made in many different sizes. They can be as small as 150 & nbsp;[[watt]]s, or as large as 1 & nbsp;megawatt (1 & nbsp;million & nbsp;watts). Smaller inverters often plug into a car's cigarette lighter socket and provide 120 or 240 volt AC power from the car's 12 volt supply. 
+ 
+ The earliest inverters consisted of a [[Motor–generator]], a DC motor connected mechanically to an AC generator. A later design often used with vacuum tube car radios used a rapidly switching [[relay]]. Modern inverters are based on [[MOSFET]] or IGBT [[transistor]]s. 
+ 
+ == Types == 
+ * '''Sine wave inverters''' produce good-quality AC power. They use [[pulse-width modulation]] (PWM) to produce a true sine wave, which makes them expensive. 
+ * A '''modified sine wave inverter''' produces a lower quality of AC power, with strong [[power system harmonics]] but is cheaper. The output of a typical modified sine wave inverter is a square wave with a pause between the change in direction. Various [[modulation]] strategies are used in cascaded multilevel inverters to reduce the harmonic contents. Modified sine inverters reduce the performance of some appliances, such as microwave ovens and appliances containing electric motors, and are known to damage some equipment including smoke detectors and some battery chargers. 
+ {{Break}}{{physics-stub}} 
+ 
+ [[Category:Electricity]] 
+ [[Category:Machines]]

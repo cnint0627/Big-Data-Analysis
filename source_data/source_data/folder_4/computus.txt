@@ -1,0 +1,76 @@
+[[File:Scriptorium.jpg|thumb|240px|[[Dionysius Exiguus]] invented the ''[[Anno Domini]]'' era to calculate the Easter date.]] 
+ '''Computus''' ([[Latin]] for  " computation " ) is the method for calculating the date of [[Easter]]. In the early [[4th century]] there was confusion about when [[Christian Easter]] or the [[resurrection of Jesus|Resurrection]] should be celebrated. 
+ 
+ == History == 
+ === Background === 
+ At the [[Arles Council]], in 314, was obliged to all the [[Christianity]] to celebrate [[Easter]] the same day, and that this date was going to be assigned by the [[Pope]], that was going to send epistles to all the churches in the world with the necessary instructions. However, not all the congregations followed those precepts. 
+ === Nicaea Council === 
+ In the [[First Council of Nicaea]], in 325, this subject was solved. 
+ 
+ Was established that the Resurrection Easter had to be celebrated fulfilling some norms: 
+ * Easter had to be celebrated on Sunday. 
+ * It can not coincide with the [[Jew]]ish festival of [[Passover]], celebrated independently which day of the week it was. 
+ * [[Christianity|Christians]] cannot celebrate Easter twice the same year. This is explained because the new year started in the spring [[equinox]], so the celebration of [[Easter]] before the real [[equinox]] was prohibited. 
+ 
+ However, there still were discussions between the [[Roman Catholicism|Roman Church]] and the [[Alexandrian Church]], while the Nicaea Council said that the Alexandria Church was right, they had to calculate the date (in Alexandria), then communicate it to Rome. The Roman Church had to spread the ''computus'' to the rest of the [[Christianity]]. 
+ 
+ == Calculation == 
+ {{Dates for Easter}} 
+ Let's define 5 variables, ''a'', ''b'', ''c'', ''d'', and ''e''. In addition to two constants, ''M'' and ''N'', so the years between 1900 and 2100 take the values 24 and 5, respectively. We'll call ''A'' the year that we want to calculate the Easter date. 
+ 
+ :''a'' is the [[remainder]] of the division  < math > \frac{A}{19} < /math > , or technically according to the [[modular arithmetic]] we should say  < math > A\ mod \ 19 < /math > , 
+ 
+ :''b'' is the [[remainder]] of the division  < math > \frac{A}{4} < /math > , 
+ 
+ :''c'' is the [[remainder]] of the division  < math > \frac{A}{7} < /math > , 
+ 
+ :''d'' is the [[remainder]] of the division  < math > \frac{19a+M}{30} < /math > , 
+ 
+ :''e'' is the [[remainder]] of the division  < math > \frac{2b+4c+6d+N}{7} < /math > . 
+ 
+ If ''d'' + ''e''  <  10, the Easter date will be in March (''d'' + ''e'' + 22). If opposed (''d'' + ''e''  >  9), will be in April (''d'' + ''e'' − 9). 
+ 
+ There are 2 exceptions: 
+ 
+ * If the obtained date is April 26, the Easter date will be April 19, '''not''' April 26. 
+ * If the obtained date is April 25, with ''d'' = 28, ''e'' = 6 and ''a''  >  10, then the Easter date will be April 18. 
+ 
+ The values for M and N for years before 1900 or after 2100 can be obtained from the following table: 
+ 
+ < center > 
+ {| class= " wikitable " 
+ ! style= " background:#efefef "  | Years 
+ ! style= " background:#efefef "  | M 
+ ! style= " background:#efefef "  | N 
+ |- 
+ | 1583-1699 
+ | 22 
+ | 2 
+ |- 
+ | 1700-1799 
+ | 23 
+ | 3 
+ |- 
+ | 1800-1899 
+ | 23 
+ | 4 
+ |- 
+ | 1900-2099 
+ | 24 
+ | 5 
+ |- 
+ | 2100-2199 
+ | 24 
+ | 6 
+ |- 
+ | 2200-2299 
+ | 25 
+ | 0 
+ |} 
+ < /center > 
+ 
+ == Further reading == 
+ * Mosshammer, Alden A. ''[https://books.google.com/books?id=0umDqPOf2L8C The Easter Computus and the Origins of the Christian Era]''. Oxford: Oxford University Press, 2008. {{ISBN|0-19-954312-7}}. 
+ 
+ [[Category:Easter]] 
+ [[Category:4th-century works]]

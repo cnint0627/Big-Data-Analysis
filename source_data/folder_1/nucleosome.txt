@@ -1,0 +1,32 @@
+[[File:Nucleosome.jpg|thumb|right|200px|Structure of a nucleosome]] 
+ 
+ '''Nucleosomes''' are the building blocks which make up [[chromosome]]s. They consist of a segment of DNA wound around a [[histone]] [[protein]] core. < ref name= " Campbell " > 
+ {{cite book 
+ |author=Reece, Jane; Campbell, Neil|title=Biology|publisher=Benjamin Cummings|location=San Francisco|year=2006|pages=|isbn=0-8053-6624-5 
+ }} < /ref > 
+ 
+ First, [[DNA]] and a [[protein]] make up [[chromatin]]. Then the chromatin is packed up into nucleosomes. Nucleosomes are then packaged up to make a chromosome. The packages do three things: the chromosomes function in [[cell division]]; the very long DNA is wrapped up in a shorter package; and the proteins [[Gene regulation|regulate]] the gene action in cells. 
+ 
+ == Details == 
+ Nucleosomes form the basic repeating units of [[eukaryote|eukaryotic]] [[chromatin]]. < ref name= " AlbertsMBOCp207 " > {{cite book |author=Alberts, Bruce |title=Molecular biology of the cell |publisher=Garland Science |location=New York |year=2002 |page=207 |isbn=0-8153-4072-9 |edition=4th |url=https://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=Nucleosome & rid=mboc4.section.608#630}} < /ref >  This packs the large eukaryotic [[genome]]s into the [[Cell_nucleus|nucleus]] and allows it to be controlled. 
+ 
+ In [[mammal]]ian [[Cell (biology)|cells]] about two metres of linear [[DNA]] have to be packed into a nucleus of roughly 10 & nbsp;[[µm]] diameter. Nucleosomes are folded, in a series of higher order structures, to form a [[chromosome]]. This folding compacts the DNA and adds a layer of regulatory control. The control ensures correct [[gene expression]].  
+ 
+ Nucleosomes are thought to carry [[Epigenetics|epigenetically]] inherited information, as modifications of their core [[histone]]s. This information can be passed on to daughter cells, but it usually wiped out by [[meiosis]] in [[germ cell]]s. 
+ 
+ The nucleosome hypothesis proposed by Don and Ada Olins < ref > {{cite journal |author=Olins A.L.  &  D.E. |title=Spheroid chromatin units (v bodies) |journal=Science |volume=183 |issue=4122 |pages=330–2 |year=1974 |pmid=4128918 |doi= 10.1126/science.183.4122.330|bibcode=1974Sci...183..330O |s2cid=83480762 |url=http://www.sciencemag.org/cgi/pmidlookup?view=long & pmid=4128918}} < /ref >  and [[Roger Kornberg]] < ref >  McDonald D. 2005. Milestone 9 (1973-1974) The nucleosome hypothesis: an alternative string theory. ''Nature Milestones'': Gene expression. [http://www.nature.com/milestones/geneexpression/milestones/articles/milegene09.html]  < /ref > < ref > {{cite journal |author=Kornberg R.D. |title=Chromatin structure: a repeating unit of histones and DNA |journal=Science |volume=184 |issue=139 |pages=868–71 |date=May 1974  |doi=10.1126/science.184.4139.868 |pmid=4825889 |bibcode=1974Sci...184..868K |url=http://www.sciencemag.org/cgi/pmidlookup?view=long & pmid=4825889}} < /ref >   
+ in 1974, was a big step for understanding eukaryotic gene expression. Kornberg won the [[Nobel Prize in Chemistry]]  (2006) for this and other discoveries. 
+ 
+ == Nucleosome dynamics == 
+ Although the nucleosome is a very stable [[protein]]-[[DNA]] complex, it is not static. It undergoes some structural re-arrangements, such as nucleosome sliding and DNA site exposure. Nucleosomes can inhibit or facilitate [[Transcription (genetics)|transcription]]. < ref > {{cite journal | author = Teif V.B.  &  Rippe K | title = Predicting nucleosome positions on the DNA: combining intrinsic sequence preferences and remodeler activities | journal = Nucleic Acids Res | volume = 37 | issue = 17 | pages = 5641–5655 | year = 2009 | pmid = 19625488 | doi = 10.1093/nar/gkp610 | pmc = 2761276 }} < /ref >   
+ 
+ Since they were discovered in the mid 1960’s, histone changes were thought to affect transcription. < ref name= " pmid14172992 " > {{cite journal |author=Allfrey VG, Faulkner R, Mirsky A.E. |title=Acetylation and methylation of histones and their possible role in the regulation of RNA synthesis |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=51 |issue= 5|pages=786–94 |date=May 1964  |pmid=14172992 |pmc=300163 |doi= 10.1073/pnas.51.5.786|bibcode=1964PNAS...51..786A |doi-access=free }} < /ref > 
+ 
+ Some modifications have been shown to be correlated with gene silencing, others seem to be correlated with gene activation. The information stored in this way is considered [[Epigenetics|epigenetic]]: it is not coded in the DNA but is nevertheless inherited by daughter cells. The maintenance of a particular state of a gene is often necessary for [[cellular differentiation]]. < ref name= " pmid12540921 " > {{cite journal |author=Felsenfeld G  &  Groudine M |title=Controlling the double helix |journal=Nature |volume=421 |issue=6921|pages=448–53 |year=2003 |pmid=12540921 |doi=10.1038/nature01411 |bibcode=2003Natur.421..448F |s2cid=681821 }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ [[Category:Chromosomes]] 
+ [[Category:Molecular biology]]

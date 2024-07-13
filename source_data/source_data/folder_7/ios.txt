@@ -1,0 +1,113 @@
+{{lowercase}} 
+ {{Infobox OS 
+ | name = iOS 
+ | logo = IOS_wordmark_(2017).svg 
+ | logo_size = 150px 
+ | logo caption =  
+ | screenshot =  
+ | screenshot_size = 200px 
+ | caption = iOS 11 screenshot 
+ | collapsible =  
+ | developer = [[Apple Inc.]] 
+ | family = [[Unix-like]] ([[Berkeley Software Distribution|BSD]]), [[OS X]] 
+ | working_state = Current 
+ | source_model = [[Closed source]] 
+ | released = {{start date and age|2007|06|29}} 
+ | latest release version = iOS 16.5 < ref > {{Cite web |URL=https://www.macrumors.com/2023/05/18/apple-releases-ios-16-5/ |website=MacRumors |date=2023-05-18 |access-date=2023-05-20 |title=Apple Releases iOS 16.5 and iPadOS 16.5 With Sports Tab in Apple News, Bug Fixes and More}} < /ref >  (20F66), < ref name= " 16.5 " > {{Cite web |URL=https://developer.apple.com/news/releases/?id=05182023g |website=Apple Developer |publisher=Apple Inc. |access-date=2023-05-20|title= News and Updates }} < /ref >  released {{start date and age|2023|05|18}} < ref name= " 16.5 " / > 
+ | latest preview version = iOS 17 Developer Beta 1 
+ | marketing_target = Artists, designers, casual users 
+ | programmed_in = [[C (programming language)|C]], [[C++]], [[Objective-C]] 
+ | language = 40 languages < ref > {{cite web|url=https://www.apple.com/iphone-xs/specs/|title=Apple – iPhone XS – Technical Specifications|publisher=Apple|url-status=live|archive-url=https://web.archive.org/web/20190104041336/https://www.apple.com/iphone-xs/specs/|archive-date=January 4, 2019 |access-date=2023-05-20}} < /ref > 
+ | prog_language =  
+ | updatemodel =  < !-- APT, Windows Update, etc. -- > 
+ | supported_platforms = [[64-bit computing|64-]] (and previously and [[32-bit computing|32-bit]]) [[ARM architecture]]s ([[iPhone]], [[iPod]], [[iPad]], [[iPad Mini]], and 2nd gen. and higher [[Apple TV]]), [[Apple A4]], [[Apple A5]], [[Apple A5X]], [[Apple A6]], [[Apple A6X]], [[Apple A7]] 
+ | kernel_type = [[Hybrid kernel|Hybrid]] ([[XNU]]) 
+ | userland =  
+ | ui = [[Cocoa Touch]] ([[multi-touch]], [[graphical user interface|GUI]]) 
+ | license = [[proprietary software|Proprietary]] [[EULA]] except for open-source components 
+ | preceded_by =  
+ | succeeded_by =  
+ | website = {{URL|https://www.apple.com/ios/}} 
+ }}{{Update}} 
+ 
+ '''iOS''' (previously named '''iPhone OS''') is an [[operating system|OS]] for [[Smartphone|smartphones]], made and sold by [[Apple Inc.|Apple]]. It is the [[mobile operating system|mobile OS]] of the [[iPhone]], the [[iPod Touch|iPod]], the [[iPad]], [[Apple TV]] and similar devices. At first iOS was called iPhone OS, but it was renamed to iOS in 2010 to show that the operating system was being supported on new Apple devices. < ref > {{cite web|url=https://www.webopedia.com/TERM/A/apple_ios.html|title=What is Apple iOS? Webopedia Definition|first=Vangie|last=Beal|website=www.webopedia.com|date=22 August 2011 }} < /ref > 
+ 
+ == History == 
+ ===iPhone OS 1=== 
+ iOS was released in 2005, simply known as running a version of [[OS X]] for the first generation [[iPhone]]. Apple said on January 9, 2007 at a conference that there will be a new product, the iPhone, and it would have a  " revolutionary "  operating system. < ref > {{cite news |url=http://www.macworld.com/article/54769/2007/01/iphone.html |title=Apple unveils iPhone |last=Honan |first=Matthew |date=January 9, 2007 |work=[[Macworld]] |accessdate=January 16, 2010 |archive-date=April 15, 2008 |archive-url=https://web.archive.org/web/20080415223141/http://www.macworld.com/article/54769/2007/01/iphone.html |url-status=dead }} < /ref > 
+ 
+ On March 6, 2006, Apple renamed this form of OS X to  " iPhone OS "  following the release of the iPhone [[Software Development Kit|software development kit]]. 
+ 
+ ===iPhone OS 2=== 
+ On July 11, 2008, along with the release of the [[iPhone 3G]], Apple released iPhone OS 2.0, which introduced the [[App Store (iOS)|App Store]]. 
+ 
+ ===iPhone OS 3=== 
+ In June 2009, Apple released iPhone OS 3.0, which was released along with the [[iPhone 3GS]]. It was a minor upgrade to iPhone OS 2.0 except it could do a few new things. iPhone OS 3.0 was available for the first iPhone and iPod Touch, but not all features were supported on those devices. The last version to support the first iPhone and iPod Touch was 3.1.3. It was later available for the [[iPad]] when it was released (as of version 3.2). 
+ 
+ In September 2009, Apple renamed  " iPhone OS "  to  " iOS " . The trademark  " IOS "  has been used by the tech company [[Cisco Systems|Cisco]], so Apple licensed the trademark in order to avoid conflicts. < ref name=ciscosuit > {{cite web | last = Tartakoff | first = Joseph | work = [[paidContent]] | url = http://paidcontent.org/article/419-deja-vu-apples-new-ios-brand-is-already-used-by-cisco/ | title = Apple Avoids iPhone-Like Trademark Battle Thanks To Cisco, FaceTime Deals [sic] | date = June 7, 2010 | accessdate = February 2, 2011 | archive-date = May 11, 2011 | archive-url = https://web.archive.org/web/20110511200002/http://paidcontent.org/article/419-deja-vu-apples-new-ios-brand-is-already-used-by-cisco/ | url-status = dead }} < /ref > 
+ 
+ ===iOS 4=== 
+ {{Main|iOS 4}} 
+ In mid-2010, Apple also released a significant update, iOS 4.0, which added the ability of [[multitasking]], the option to have a wallpaper for the home screen and gives the user the ability to run several apps at the same time, while the number of apps are affected by the device's RAM. Not only that, but it also had a more polished design and was the first version of iOS to be available for the iPod Touch for free. Unfortunately, the iPhone 3G and iPod Touch (2nd generation) have limited features, meaning that they can't multitask or have a wallpaper for the home screen. 
+ 
+ ===iOS 5=== 
+ {{Main|iOS 5}} 
+ In October 2011, Apple released iOS 5, which introduced many new features such as the notifications pull-down bar, a free messaging service called iMessage, [[iCloud]], and more. A voice assistant named [[Siri (software)|Siri]] was also released to the [[iPhone 4S]]. 
+ 
+ ===iOS 6=== 
+ {{Main|iOS 6}} 
+ iOS 6 was released on September 19, 2012 with even more features. Siri was released to the [[iPad (third generation)|iPad (3rd generation)]], [[iPod Touch (5th generation)]], and the [[iPhone 5]]. [[YouTube]] was removed and a YouTube app was added to the App Store. [[Google Maps]] was also removed and replaced with Apple Maps. 
+ 
+ ===iOS 7=== 
+ {{Main|iOS 7}} 
+ On September 18, 2013, iOS 7 was released with a new look and many features, and a new feature called  " Control Center "  where you can control basic settings, music, [[AirPlay]], brightness, flashlight, and more. 
+ 
+ ===iOS 8=== 
+ {{Main|iOS 8}} 
+ On June 2, 2014, Apple announced iOS 8 at their annual [[Apple Worldwide Developers Conference|Worldwide Developers Conference]]. It has several new features, such as a new app called Health, a feature called QuickType, which predicts which words you will type, and several other features. < ref > {{cite web|url=http://9to5mac.com/2014/06/02/apple-announces-ios-8-at-wwdc-with-design-adjustments-additional-features/|title=Apple announces iOS 8 at WWDC with continuity features, Messages enhancements, Quicktype keyboard, more|publisher=9to5Mac|date=June 2, 2014|accessdate=June 13, 2014}} < /ref >  It was officially released to everyone on September 17, 2014. 
+ 
+ ===iOS 9=== 
+ {{Main|iOS 9}} 
+ 
+ ===iOS 10=== 
+ {{Main|iOS 10}} 
+ 
+ === iOS 11 === 
+ {{Main|iOS 11}} 
+ iOS 11 was announced in mid-2017. It supports the [[iPhone 5S]] and newer, the [[iPad Air]] and newer, all [[iPad Pro]] models, the fourth-generation [[iPad mini]], and the sixth-generation [[iPod touch]]. The update removes the labels from the main Phone, Messages, Mail, and Safari icons. The App Store and iTunes store logos are replaced with a simple  " A "  logo and star logo with a blue and purple background, respectively. The Control Center is also easier to use, with bigger buttons and custom controls for functions like Low Power Mode and Mobile Hotspot. On the Plus models of the iPhone 6, 6S, and 7, the Lock Screen can also be rotated. In the Control Center and on the Lock Screen, when a song is playing, only the song name and artist are shown instead of also showing the album name. 
+ 
+ iOS 11 also allows users to  " offload "  apps, meaning that an app can be deleted while leaving behind the app's data. It also provides suggestions and functions for saving storage space, such as deleting old messages and files.  Instead of the iCloud Drive app, there is a Files app that allows users to view their files in the iPhone itself and iCloud Drive. 
+ 
+ ===iOS 12=== 
+ {{Main|iOS 12}} 
+ 
+ ===iOS 13=== 
+ {{main|iOS 13}} 
+ 
+ ===iOS 14=== 
+ {{main|iOS 14}} 
+ 
+ ===iOS 15=== 
+ {{main|iOS 15}} 
+ ===iOS 16=== 
+ {{main|iOS 16}} 
+ 
+ ===iOS 17=== 
+ {{main|iOS 17}} 
+ 
+ == App Store == 
+ The only way to get the software (apps) in iOS is the [[App Store (iOS)|App Store]]. The App Store is an electronic market which gives you the ability to buy  " apps "  (applications), small user interface applications. By January 2013, Apple confirmed to have more than 800,000 applications in the App Store. < ref > {{cite web|url=https://www.apple.com/newsroom/2013/01/28Apple-Updates-iOS-to-6-1/|title=Apple Updates iOS to 6.1|website=Apple Newsroom}} < /ref > 
+ == Important updates == 
+ 
+ iOS Version 7, launched Sep 18, 2013, presented a radically different tone for the iPhone, than the aesthetic which had become iconic already under vers 1 through 6: first with sharper, brighter, flatter icons; less of the photographically detailed: fewer pigments but more uncommon ones, and second with a translucent smoke glass icon tray pulldown. A third major aesthetic difference lay in the shade of blue chosen, which was brighter and especially highlighted the style of version 7 over iOS 1.0. 
+ 
+ iOS 7.03, released Oct 23, 2013, mostly disabled the gyroscopic compass on the Apple iPod Touch, including new-at-the-time models. Later software updates further restricted compass-related hardware features, to only devices with [[GPS]]/[[cellular]] connectivity. 
+ 
+ A  " soft update "  over iTunes, of Sep 9, 2014, increased the size of every user's iTunes by U2's Songs of Innocence album, which at the time could not be deleted from many users' libraries. 
+ 
+ iOS 8, which launched Sep 12, 2014, while not as radical an aesthetic change as iOS 7 from iOS 6, being virtually required for many users. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:IOS| ]]

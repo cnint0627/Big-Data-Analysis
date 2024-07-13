@@ -1,0 +1,4 @@
+{{complex|date=January 2012}} 
+ Biasing in electronics is using specific voltages and/or currents at points of an electronic [[Electrical circuit|circuit]] to set an appropriate operating point. The operating point of a device, also known as bias point, is the point that shows the direct current (DC), collector-emitter voltage (VCE), and the collector current (IC) with no input signal. The term is normally used with [[Transistor|transistors]]. 
+ 
+ [[Category:Electronics]]

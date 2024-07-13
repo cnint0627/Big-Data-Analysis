@@ -1,0 +1,12 @@
+'''Clickjacking''' is a malicious technique of tricking web users into revealing private information or taking control of their [[computer]] while clicking on what look like harmless web pages. 
+ 
+ == History == 
+ The term  " clickjacking "  was coined by Jeremiah Grossman and Robert Hansen, < ref > [http://www.securityfocus.com/news/11535/ You don't know (click)jack] Robert Lemos, October 2008 < /ref > < ref > {{Cite web|url=http://www.sectheory.com/clickjacking.htm|title=Facebook Help Number 1-888-996-3777|last=JAstine|first=Berry|access-date=7 June 2016}} < /ref >  that is a combination of the words  " click "  and  " hijacking. " 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer security]] 
+ [[Category:Internet security]]

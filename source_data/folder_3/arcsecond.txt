@@ -1,0 +1,13 @@
+An '''arcsecond''' (second of arc), represented by the symbol  < math > '' < /math > , < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-08-31|website=Math Vault|language=en-US}} < /ref >  is a unit of angle used in [[mathematics]] and [[astronomy]]. An arcsecond is 1/60th of an [[arcminute]] (minute of arc), < ref name= " :0 " > {{Cite web|last=Weisstein|first=Eric W.|title=Arc Second|url=https://mathworld.wolfram.com/ArcSecond.html|access-date=2020-08-31|website=mathworld.wolfram.com|language=en}} < /ref >  which in turn is 1/60th of a [[Degree (angle)|degree]]. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Arc Minute|url=https://mathworld.wolfram.com/ArcMinute.html|access-date=2020-08-31|website=mathworld.wolfram.com|language=en}} < /ref >  Therefore, an arcsecond is equal to 1/3600th of a degree, < ref name= " :0 "  / >  meaning that there are 360 × 60 × 60 = 1,296,000 arcseconds in a full [[circle]]. 
+ 
+ One '''milliarcsecond''' (mas) is a thousandth (1/1000th) of an arcsecond. So there are 1,296,000,000 milliarcseconds in a full circle. The [[red supergiant]] [[stars]] [[Antares]], [[Betelgeuse]], < ref > http://www.astroscu.unam.mx/rmaa/RMxAC..37/PDF/RMxAC..37_ohernandez.pdf < /ref >  [[Mu Cephei]], [[VV Cephei]] A, and [[VY Canis Majoris]] all have angular diameters (apparent sizes in the sky) of more than 10 milliarcseconds, when seen from Earth. 
+ 
+ == Related pages == 
+ 
+ * [[Radian]] 
+ 
+ == References == 
+ < references / > 
+ {{math-stub}} 
+ 
+ [[Category:Angles]]

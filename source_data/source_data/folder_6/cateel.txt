@@ -1,0 +1,138 @@
+{{Infobox settlement 
+ | name                   = {{PH wikidata|name}} 
+ | image_skyline          = Cateel Church after Typhoon Pablo (Bopha) 2 - Flickr.jpg 
+ | image_caption          = St. James the Apostle Parish Church of Cateel. Shown is the [[church]] just after the town was hit hard by the [[Typhoon Bopha]] of December 2012. 
+ | image_map              = {{PH wikidata|image_map}} 
+ | map_caption            = {{PH wikidata|map_caption}} 
+ | image_map1             = {{Infobox mapframe}} 
+ | pushpin_map            = Philippines 
+ | pushpin_label_position = right 
+ | pushpin_map_caption    = Location within the {{PH wikidata|country}} 
+ | coordinates            = {{PH wikidata|coordinates}} 
+ | settlement_type        = {{PH wikidata|settlement_type}} 
+ | subdivision_type       = [[List of sovereign states|Country]] 
+ | subdivision_name       = {{flag|Philippines}} 
+ | subdivision_type1      = [[Regions of the Philippines|Region]] 
+ | subdivision_name1      = {{PH wikidata|region}} 
+ | subdivision_type2      = [[Provinces of the Philippines|Province]] 
+ | subdivision_name2      = {{PH wikidata|province}} 
+ | official_name          = {{PH wikidata|official_name}} 
+ | etymology              =   < !--origin of name-- > 
+ | named_for              =   < !--named after (if person or place)-- > 
+ | native_name            = 
+ | other_name             = 
+ | nickname               = 
+ | motto                  = 
+ | anthem                 = 
+ | subdivision_type3      = [[House of Representatives of the Philippines#District representation|District]] 
+ | subdivision_name3      = [[Legislative districts of Davao Oriental|1st District]] 
+ | established_title      = Founded 
+ | established_date       = October 29, 1903 
+ | parts_type             = [[Barangay]]s 
+ | parts_style            = para 
+ | p1                     = 16 (see [[#Barangays|Barangays]]) 
+ | leader_title           = {{PH wikidata|leader_title}}  < !--mayor-- > 
+ | leader_name            = Erlinda C. Nuñez 
+ | leader_title1          = [[Vice Mayor]] 
+ | leader_name1           = Camilo T. Nuñez 
+ | leader_title2          = Congressman 
+ | leader_name2           = Corazon N. Malanyaon 
+ | leader_title3          = [[Sangguniang Panlalawigan|SP Board member]] 
+ | leader_name3           =  
+ | leader_title4          = Electorate  
+ | leader_name4           = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]]) 
+ | government_type        = {{PH wikidata|government_type}} 
+ | government_footnotes   = {{thinsp}} < ref > {{DILG detail}} < /ref > 
+ | elevation_footnotes    = 
+ | elevation_m            = 
+ | elevation_max_footnotes=  
+ | elevation_max_m        = 
+ | area_rank              = 
+ | area_footnotes         = {{PSGC detail|area}} 
+ | area_total_km2         = {{PH wikidata|area}} 
+ | population_footnotes   = {{PH census|current}} 
+ | population_total       = {{PH wikidata|population_total}} 
+ | population_as_of       = {{PH wikidata|population_as_of}} 
+ | population_density_km2 = auto 
+ | population_demonym     = 
+ | population_rank        = 
+ | population_note        = 
+ | timezone               = [[Philippine Standard Time|PST]] 
+ | utc_offset             = +8 
+ | postal_code_type       = [[List of ZIP codes in the Philippines|ZIP code]] 
+ | postal_code            = {{PH wikidata|postal_code}} 
+ | postal2_code_type      = {{PSGCstyle}} 
+ | postal2_code           = {{PSGC detail}} 
+ | area_code_type         = {{areacodestyle}} 
+ | area_code              = {{PH wikidata|area_code}} 
+ | website                = {{PH wikidata|website}} 
+ | demographics_type1     = Economy 
+ | demographics1_title1   = {{PH wikidata|income_class_title}} 
+ | demographics1_info1    = {{PH wikidata|income_class}} 
+ | demographics1_title2   = [[Measuring poverty|Poverty incidence]] 
+ | demographics1_info2    = 30.61% (2015) < ref > {{cite web |url=https://psa.gov.ph/sites/default/files/City%20and%20Municipal-level%20Small%20Area%20Poverty%20Estimates_%202009%2C%202012%20and%202015_0.xlsx|title=PSA releases the 2015 Municipal and City Level Poverty Estimates|location=Quezon City, Philippines |access-date=12 October 2019}} < /ref > 
+ | demographics1_title3   = Revenue (₱) 
+ | demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}  
+ | demographics1_title4   = Revenue Rank 
+ | demographics1_info4    =  
+ }} 
+ 
+ '''{{PH wikidata|name}}''', officially the '''{{PH wikidata|official_name}}''',  is a {{PH wikidata|income_class_ordinal}} [[{{PH wikidata|settlement_text}} of the Philippines|{{PH wikidata|settlement_text}}]] (or [[town]]) in the [[Provinces of the Philippines|province]] of {{PH wikidata|province}}, {{PH wikidata|country}}. According to the {{PH wikidata|population_as_of}}, it has a population of {{PH wikidata|population_total}} people.{{PH census|current}} 
+ 
+ ==Barangays== 
+ In [[government]]al [[wikt:administration|administration]], Cateel is divided into 16 [[Administrative division|divisions]] called [[barangay]]s. 
+ 
+ {{columns-list|colwidth=20em| 
+ * Abihod 
+ * Alegria 
+ * Aliwagwag 
+ * Aragon 
+ * Baybay 
+ * Maglahus 
+ * Mainit 
+ * Malibago 
+ * San Alfonso 
+ * San Antonio 
+ * San Miguel 
+ * San Rafael 
+ * San Vicente 
+ * Santa Filomena 
+ * Taytayan 
+ * Poblacion 
+ }} 
+ < !-- 
+ ==Population history== 
+ {{Philippine Census 
+ | cols = 2 
+ | align= none 
+ | title= Population history of Cateel 
+ | 1903 = 4101 
+ | 1918 = 5906 
+ | 1939 = 9243 
+ | 1948 = 10671 
+ | 1960 = 14586 
+ | 1970 = 14633 
+ | 1975 = 15849 
+ | 1980 = 20084  
+ | 1990 = 26144 
+ | 1995 = 27211 
+ | 2000 = 28655 
+ | 2007 = 33109 
+ | 2010 = 38579 
+ | 2015 = 40704 
+ | 2020 = 
+ | 2025 = 
+ | 2030 = 
+ | footnote= Source: [[Philippine Statistics Authority]]{{PH census|2015}}{{PH census|2010}}{{PH census|2007}}{{LWUA population data}}  
+ }} 
+ -- > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Davao Oriental}} 
+ 
+ {{asia-stub}} 
+ 
+ [[Category:Settlements in the Philippines]] 
+ [[Category:Davao Oriental]]

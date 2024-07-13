@@ -1,0 +1,351 @@
+{{Infobox settlement 
+ 
+ | name                    = Caracas 
+ | official_name           = Santiago de León de Caracas 
+ | native_name             =  < !-- if different from the English name -- > 
+ | native_name_lang        =  < !-- ISO 639-2 code e.g.  " fr "  for French. If more than one, use {{lang}} instead -- > 
+ | other_name              = 
+ | settlement_type         = City 
+ 
+ | image_skyline           = Av Bolivar caracas2.jpg 
+ | imagesize               = 
+ | image_alt               = 
+ | image_caption           = Top left: Simón Bolívar Center; top right: Parque Central Complex; middle: Plaza Venezuela Fountain; bottom left: Plaza Bolívar; bottom right: Los Próceres Monument. 
+ | image_flag              = Flag of Caracas.svg 
+ | flag_size               = 
+ | flag_alt                = 
+ | flag_link               = 
+ | image_seal              = 
+ | seal_size               = 
+ | seal_alt                = 
+ | seal_link               = 
+ | image_shield            = Coat of arms of Caracas.svg 
+ | shield_size             = 
+ | shield_alt              = 
+ | shield_link             = 
+ | image_blank_emblem      = 
+ | blank_emblem_type       =  < !-- defaults to Logo -- > 
+ | blank_emblem_size       = 
+ | blank_emblem_alt        = 
+ | blank_emblem_link       = 
+ | nickname                = ''La Sultana del Ávila'' (The Avila's Sultana) < br/ > ''La Sucursal del Cielo ''(Heaven's Branch on Earth) 
+ | motto                   = 
+ | anthem                  = 
+ 
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = [[Venezuela]] 
+ | subdivision_type1       = [[States of Venezuela|State]] 
+ | subdivision_name1       = [[Venezuelan Capital District]] < br / > [[Miranda (state)|Miranda]] 
+ | subdivision_type2       = [[Municipalities of Venezuela|Municipality]] 
+ | subdivision_name2       = [[Libertador Municipality (Venezuelan Capital District)|Libertador]] 
+ 
+ | established_title       = Founded 
+ | established_date        = 25 July 1567 
+ | established_title1      =  < !-- Incorporated (town) -- > 
+ | established_date1       = 
+ | established_title2      =  < !-- Incorporated (city) -- > 
+ | established_date2       = 
+ | established_title3      = 
+ | established_date3       = 
+ | extinct_title           = 
+ | extinct_date            = 
+ | founder                 = [[Diego de Losada]] 
+ | named_for               = 
+ | pushpin_map             = Venezuela 
+ | pushpin_label_position  =  < !-- position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_label           =  < !-- only necessary if  " name "  or  " official_name "  are too long -- > 
+ | pushpin_map_alt         = 
+ | pushpin_mapsize         = 
+ | pushpin_map_caption     = 
+ | pushpin_map1            = 
+ | pushpin_label_position1 = 
+ | pushpin_label1          =  < !-- only necessary if  " name "  or  " official_name "  are too long -- > 
+ | pushpin_map_alt1        = 
+ | pushpin_mapsize1        = 
+ | pushpin_map_caption1    = 
+ |coordinates={{coord|10|30||N|66|55||W|region:VE-A|display=inline,title}} 
+ | coordinates_footnotes   = 
+ 
+ | seat_type               =  < !-- defaults to: Seat -- > 
+ | seat                    = 
+ | parts_type              = Metropolitan 
+ | parts_style             = para 
+ | parts                   = Municipalities 
+ | p1                      = [[Libertador Municipality (Venezuelan Capital District)|Libertador]] 
+ | p2                      = [[Chacao Municipality|Chacao]] 
+ | p3                      = [[Baruta Municipality|Baruta]] 
+ | p4                      = [[Sucre Municipality, Miranda|Sucre]] 
+ | p5                      = [[El Hatillo Municipality|El Hatillo]] 
+ < !-- government type, leaders -- > 
+ | government_footnotes    = 
+ | government_type         = [[Mayor-council government|Mayor-council]] 
+ | governing_body          = Alcaldía Metropolitana de Caracas 
+ | leader_party            = [[Fearless People's Alliance|ABP]] 
+ | leader_title            = [[Mayor]] 
+ | leader_name             = [[Antonio Ledezma]] 
+ | leader_title1           = 
+ | leader_name1            =  < !-- etc., up to leader_title4 / leader_name4 -- > 
+ 
+ | total_type              =  < !-- to set a non-standard label for total area and population rows -- > 
+ | unit_pref               =  < !-- enter: Imperial, to display imperial before metric -- > 
+ 
+ | area_footnotes          = 
+ | area_magnitude          =  < !-- use only to set a special wikilink -- > 
+ | area_total_km2          = 
+ | area_land_km2           = 
+ | area_water_km2          = 
+ | area_water_percent      = 
+ | area_urban_footnotes    = 
+ | area_urban_km2          = 
+ | area_metro_footnotes    = 
+ | area_metro_km2          = 1930 
+ | area_rank               = 
+ | area_blank1_title       = 
+ | area_blank1_km2         = 
+ | area_blank2_title       = 
+ | area_blank2_km2         = 
+ | area_note               = 
+ 
+ | elevation_footnotes     = 
+ | elevation_m             = 900 
+ | elevation_max_footnotes = 
+ | elevation_max_m         = 
+ | elevation_min_footnotes = 
+ | elevation_min_m         = 
+ 
+ | population_footnotes    = 
+ | population_total        = 
+ | population_as_of        = 2009 
+ | population_rank         = 
+ | population_density_km2  = 1431.5 
+ | population_est          = 
+ | pop_est_as_of           = 
+ | population_urban        = 
+ | population_density_urban_km2   = 
+ | population_metro        = 5,196,514 
+ | population_density_metro_km2   = 
+ | population_density      = 
+ | population_density_rank = 
+ | population_blank1_title = 
+ | population_blank1       = 
+ | population_density_blank1_km2  = 
+ | population_blank2_title = 
+ | population_blank2       = 
+ | population_density_blank2_km2  = 
+ | population_demonym      = ''[[caraqueño]]'' (m), ''caraqueña'' (f) 
+ | population_note         = 
+ < !-- demographics (section 1) -- > 
+ | demographics_type1      = 
+ | demographics1_footnotes = 
+ | demographics1_title1    = 
+ | demographics1_info1     =  < !-- etc., up to demographics1_title5 / demographics1_info5 -- > 
+ < !-- demographics (section 2) -- > 
+ | demographics_type2      = 
+ | demographics2_footnotes = 
+ | demographics2_title1    = 
+ | demographics2_info1     =  < !-- etc., up to demographics2_title5 / demographics2_info5 -- > 
+ 
+ | timezone1               = [[Venezuelan Standard Time Zone|VST]] 
+ | utc_offset1             = -04:30 
+ | timezone1_DST           = not observed 
+ | utc_offset1_DST         = -04:30 
+ | timezone2               = 
+ | utc_offset2             = 
+ | timezone2_DST           = 
+ | utc_offset2_DST         = 
+ < !-- postal codes, area code --- > 
+ | postal_code_type        = 
+ | postal_code             = 
+ | area_code_type          = 
+ | area_code               = 
+ | geocode                 = 
+ | iso_code                = 
+ | registration_plate      = 
+ | website                 = 
+ | footnotes               = 
+ }} 
+ '''Caracas''' is the [[capital city]] of [[Venezuela]]. [[Santiago de Leòn de Losada]] founded the city in 1567. It is where [[Simon Bolivar]] was born. The city has nearly 6 million people, who live in the metropolitan area. Caracas is the center of the economical activity of the country and also hosts the main government offices of Venezuela. 
+ 
+ After [[WW2]] the city has experienced a huge growth, thanks to the oil revenues of the country. Nearly half a million Europeans immigrated to the city in the 1950s ( that had in those years only one million inhabitants) and so Caracas developed a typical western-European look in the new modern areas. 
+ 
+ == Geography == 
+ [[File:Parque del Este - Caracas.JPG|thumb|View of Ávila from [[Parque del Este]]]] 
+ Caracas is contained entirely within a valley of the [[Cordillera de la Costa Central|Venezuelan Central Range]], and is separated from the Caribbean coast by a roughly {{convert|15|km|0|adj=on|sp=us}} expanse of [[El Ávila National Park]]. The valley is relatively small and quite irregular, and the altitude varies from between {{convert|870|and|1,043|m|ft|sp=us}} [[above sea level]]; the historic center lies at about {{convert|900|m|ft|abbr=off|sp=us}} above sea level. < ref name=mountains > {{Cite journal|last=Parsons|first=James J.|year=1982|title=The Northern Andean Environment|journal=Mountain Research and Development|volume=2|issue=3|pages=253–264|doi=10.2307/3673089|jstor=3673089}} < /ref >  This, along with the rapid population growth, has profoundly influenced the [[urban planning|urban development]] of the city. < ref > {{Cite journal|last=Morris|first=A.S.|year=1978|title=Urban Growth Patterns in Latin America with Illustrations from Caracas|journal=Urban Studies|volume=15|issue=3|pages=299–312|doi=10.1080/713702382|s2cid=153430807|issn=0042-0980}} < /ref >  The most elevated point of the Capital District, wherein the city is located, is the ''Pico El Ávila'', which rises to {{convert|2159|m|ft|abbr=off|sp=us}}. < ref name= " mountains "  / > 
+ 
+ The main body of water in Caracas is the [[Guaire River]], which flows across the city and empties into the [[Tuy River]], which is also fed by the El Valle and [[San Pedro de los Altos|San Pedro]] rivers, in addition to numerous streams which descend from El Ávila. The La Mariposa and {{ill|Camatagua reservoir|lt=Camatagua|es|Embalse de Camatagua}} reservoirs provide water to the city. < ref > {{Cite web|title=Guaire River|url=https://www.britannica.com/place/Guaire-River|website=Encyclopedia Britannica|language=en|access-date=17 May 2020|archive-date=31 October 2020|archive-url=https://web.archive.org/web/20201031032417/https://www.britannica.com/place/Guaire-River|url-status=live}} < /ref > < ref > {{Cite journal|last1=Jaffe|first1=Rudolf|last2=Leal|first2=Ivan|last3=Alvarado|first3=Jose|last4=Gardinali|first4=Piero|last5=Sericano|first5=José|date=1 December 1995|title=Pollution effects of the Tuy River on the central Venezuelan coast: Anthropogenic organic compounds and heavy metals in Tivela mactroidea|url=https://archive.org/details/sim_marine-pollution-bulletin_1995-12_30_12/page/820|journal=Marine Pollution Bulletin|language=en|volume=30|issue=12|pages=820–825|doi=10.1016/0025-326X(95)00087-4|bibcode=1995MarPB..30..820J |issn=0025-326X}} < /ref > < ref > {{Cite book|title=Exergy for a better environment and improved sustainability. 2, Applications|last1=Aloui|first1=Fethi|last2=Dinçer|first2=İbrahim|date=22 August 2018|isbn=978-3-319-62575-1|location=Cham, Switzerland|oclc=1049802575|page=716}} < /ref > < ref > {{Cite book|last=Steward|first=Julian Haynes|url=https://books.google.com/books?id=oZgOAQAAIAAJ|title=Handbook of South American Indians|date=1946|publisher=U.S. Government Printing Office|page=475|access-date=17 May 2020|archive-date=15 April 2021|archive-url=https://web.archive.org/web/20210415113256/https://books.google.com/books?id=oZgOAQAAIAAJ|url-status=live}} < /ref >  The city is occasionally subject to earthquakes – notably in [[1641 Caracas earthquake|1641]] and 1967. 
+ 
+ Geologically, Caracas was formed in the [[Late Cretaceous]] period, with much of the rest of the Caribbean, and sits on what is mostly [[metamorphic rock]]. Deformation of the land in this period formed the region. < ref > {{Cite journal|last=Dengo|first=Gabriel|title=Geology of the Caracas Region, Venezuela|date=1 January 1953|url=https://pubs.geoscienceworld.org/gsabulletin/article-abstract/64/1/7/4533/GEOLOGY-OF-THE-CARACAS-REGION-VENEZUELA|journal=GSA Bulletin|language=en|volume=64|issue=1|pages=7–40|doi=10.1130/0016-7606(1953)64[7:GOTCRV]2.0.CO;2|bibcode=1953GSAB...64....7D|issn=0016-7606}} < /ref > 
+ 
+ == Climate == 
+ Caracas has a [[tropical climate|tropical savanna climate]] ([[Köppen climate classification|Köppen]]: ''Aw''); fresh due to the elevation and with two distinct seasons: the [[rainy season]], and the [[dry season]]. < ref > {{cite web |url=https://es.climate-data.org/america-del-sur/venezuela/distrito-capital-149/}} < /ref >   
+ 
+ {{Weather box|location = Chacao, Caracas [[Venezuela]] 1961–2022 
+ |metric first = Yes 
+ |single line = Yes 
+ |Jan record high C = 34.0 
+ |Feb record high C = 34.5 
+ |Mar record high C = 35.5 
+ |Apr record high C = 37.6 
+ |May record high C = 36.9 
+ |Jun record high C = 34.5 
+ |Jul record high C = 35.9 
+ |Aug record high C = 36.9 
+ |Sep record high C = 35.2 
+ |Oct record high C = 34.8 
+ |Nov record high C = 32.9 
+ |Dec record high C = 32.4 
+ |year record high C =  
+ |Jan high C = 27.7 
+ |Feb high C = 27.4 
+ |Mar high C = 29.5 
+ |Apr high C = 30.2 
+ |May high C = 31.2 
+ |Jun high C = 30.5 
+ |Jul high C = 29.5 
+ |Aug high C = 29.0 
+ |Sep high C = 29.0 
+ |Oct high C = 29.0 
+ |Nov high C = 28.0 
+ |Dec high C = 27.4 
+ |year high C =  
+ < !--Mean daily temperature-- > 
+ |Jan mean C = 20.3 
+ |Feb mean C = 20.4 
+ |Mar mean C = 22.1 
+ |Apr mean C = 23.4 
+ |May mean C = 23.6 
+ |Jun mean C = 23.5 
+ |Jul mean C = 22.5 
+ |Aug mean C = 22.3 
+ |Sep mean C = 22.2 
+ |Oct mean C = 21.9 
+ |Nov mean C = 21.5 
+ |Dec mean C = 19.5 
+ |year mean C =  
+ |Jan low C = 16.0 
+ |Feb low C = 16.5 
+ |Mar low C = 17.5 
+ |Apr low C = 17.1 
+ |May low C = 20.2 
+ |Jun low C = 20.2 
+ |Jul low C = 18.0 
+ |Aug low C = 18.0 
+ |Sep low C = 17.9 
+ |Oct low C = 17.6 
+ |Nov low C = 17.0 
+ |Dec low C = 17.0 
+ |year low C =  
+ |Jan record low C = 4.5 
+ |Feb record low C = 7.2 
+ |Mar record low C = 4.7 
+ |Apr record low C = 8.9 
+ |May record low C = 11.1 
+ |Jun record low C = 12.4 
+ |Jul record low C = 12.6 
+ |Aug record low C = 12.2 
+ |Sep record low C = 11.0 
+ |Oct record low C = 10.0 
+ |Nov record low C = 7.7 
+ |Dec record low C = 6.8 
+ |year record low C = 4.5 
+ |precipitation colour = green 
+ |Jan precipitation mm = 5.3 
+ |Feb precipitation mm = 4.7 
+ |Mar precipitation mm = 9.9 
+ |Apr precipitation mm = 80.9 
+ |May precipitation mm = 143.5 
+ |Jun precipitation mm = 108.7 
+ |Jul precipitation mm = 130.3 
+ |Aug precipitation mm = 181.9 
+ |Sep precipitation mm = 177.0 
+ |Oct precipitation mm = 108.9 
+ |Nov precipitation mm = 60.9 
+ |Dec precipitation mm = 10.0 
+ |year precipitation mm = 
+ < !--Average number of rainy days-- > 
+ |unit rain days=  < !--If entering the average number of days, then the unit requirement should be used, because this varies between countries. E.g. 0.1 in, 0.01 in.-- > 
+ |unit precipitation days = 1.0 mm 
+ |Jan precipitation days = 1 
+ |Feb precipitation days = 1 
+ |Mar precipitation days = 1 
+ |Apr precipitation days = 2 
+ |May precipitation days = 10 
+ |Jun precipitation days = 12 
+ |Jul precipitation days = 15 
+ |Aug precipitation days = 15 
+ |Sep precipitation days = 13 
+ |Oct precipitation days = 10 
+ |Nov precipitation days = 4 
+ |Dec precipitation days = 2 
+ |year precipitation days =  
+ |Jan humidity = 71 
+ |Feb humidity = 66 
+ |Mar humidity = 62 
+ |Apr humidity = 60 
+ |May humidity = 67 
+ |Jun humidity = 75 
+ |Jul humidity = 74 
+ |Aug humidity = 73 
+ |Sep humidity = 76 
+ |Oct humidity = 78 
+ |Nov humidity = 77 
+ |Dec humidity = 75 
+ |year humidity = 71 
+ < !--Average monthly sunshine hours, monthly totals are preferred, and will produce colors, but percentages are accepted.-- > 
+ |Jan sun = 220.8 
+ |Feb sun = 229.4 
+ |Mar sun = 268.5 
+ |Apr sun = 242.8 
+ |May sun = 216.3 
+ |Jun sun = 171.7 
+ |Jul sun = 192.5 
+ |Aug sun = 204.8 
+ |Sep sun = 183.4 
+ |Oct sun = 200.4 
+ |Nov sun = 199.2 
+ |Dec sun = 212.2 
+ |year sun = 2542.0 
+ < !--Mandatory fields, source-- > 
+ |source 1 = 
+ {{cite web |url=https://es.climate-data.org/america-del-sur/venezuela/distrito-capital-149/}} < /ref > 
+ }} 
+ 
+ ==Sports== 
+ 
+ All the best teams of the sports done in Venezuela are concentrated in the metropolitan area of Caracas. Between those teams we have: 
+ * baseball: [[Leones de Caracas]] 
+ * football: [[Deportivo Italia (1948-2010)|Deportivo Italia]]; [[Deportivo Petare]]; [[Caracas FC]]. 
+ 
+ == Famous sites == 
+ * Avila National Park 
+ * Humbolt Tramway 
+ * Simon Bolivar Birthplace 
+ * Caracas Cathedral 
+ * Bolivar Square 
+ * Altamira Square 
+ * East Park 
+ * Los Proceres 
+ * Parque Central 
+ * Centro Comercial Tamanaco 
+ * Sambil Mall 
+ 
+ ==Buildings== 
+ Many beautiful modern buildings can be seen in the city. Here there are some of them: 
+ [[File:Joseph Thomas 1839 000.jpg|400px|thumb|right|Caracas in a 1840 painting]] 
+ * [[File:Torre de Parque Central.JPG|50px]] - Parque Central 
+ * [[File:Não ao capitalismo, Chávez! (4143236527).jpg|50px]] -  Plaza Venezuela Buildings 
+ *  -  Casa de Italia 
+ * [[File:Plaza Francia e inmediaciones (Altamira) 2013 012.jpg|50px]] - Torre Britanica 
+ * [[File:La Previsora 2012.jpg|50px]] -  Torre La Previsora 
+ 
+ {{authority control}} 
+ 
+ [[Category:Caracas| ]] 
+ [[Category:Capitals of Venezuelan states]] 
+ [[Category:1560s establishments in South America]] 
+ [[Category:Establishments in Venezuela]] 
+ [[Category:1567 establishments]] 
+ [[Category:World Heritage Sites in South America]] 
+ 
+ 
+ {{geo-stub}}

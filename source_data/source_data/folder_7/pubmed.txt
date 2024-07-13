@@ -1,0 +1,22 @@
+{{Selfref|For information on using PMIDs in Wikipedia, see [[Wikipedia:PMID]].}} 
+ 
+ '''PubMed''' is a free online [[database]] of references on [[life sciences]]. < ref name= " help " > U.S. National Center for Biotechnology Information (NCBI), [https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Unique_Identifier_PM PubMed Help]; retrieved 2012-1-27. < /ref >  It was established in January 1996. < ref > {{cite web |title=PubMed Celebrates its 10th Anniversary |work=Technical Bulletin |publisher=[[United States National Library of Medicine]] |date=2006-10-05 |url=https://www.nlm.nih.gov/pubs/techbull/so06/so06_pm_10.html |accessdate=2011-03-22}} < /ref >  The United States National Library of Medicine (NLM) at the [[National Institutes of Health]] (NIH) maintains the database. < ref name= " help " / > 
+ 
+ Each record in the PubMed database is assigned a special number to identify it. < ref name= " help " / >  This is the '''PMID''', an [[acronym]] for  " < u > '''P''' < /u > ub < u > '''M''' < /u > ed  < u > '''ID''' < /u > entifier "  number. < ref > Mount Sinai School of Medicine, [http://library.mssm.edu/reference/pmid.shtml  " What is a PubMed ID (PMID)?]; retrieved 2012-1-27. < /ref >  PMIDs do not change over time and they are never reused. < ref > NCBI, [https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Unique_Identifier_PM PubMed Help, FAQS  < big > → < /big >  PMID  < nowiki > [PMID] < /nowiki > ]; retrieved 2012-1-27. < /ref >  Any PMID is only a number. The PMID tells the reader nothing about the type or quality of the content of any publication. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ * {{Official website|https://www.ncbi.nlm.nih.gov/pubmed/}} 
+ * [https://www.nlm.nih.gov/bsd/disted/pubmed.html PubMed Online Tutorials] 
+ * [https://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=helppubmed.chapter.pubmedhelp PubMed Help] 
+ * [http://guides.library.vcu.edu/content.php?pid=111410 Other PubMed Search Engines Resource Guide] 
+ 
+ {{DEFAULTSORT:Pubmed}} 
+ [[Category:Public databases]] 
+ [[Category:Medical publications]] 
+ [[Category:Science websites]] 
+ 
+ 
+ {{med-stub}}

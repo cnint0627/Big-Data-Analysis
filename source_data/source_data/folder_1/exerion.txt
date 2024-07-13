@@ -1,0 +1,54 @@
+{{Infobox video game 
+  | title      = Exerion 
+  | image      =  
+  | caption    =  
+  | developer  = [[Jaleco]] 
+  | director   =  
+  | producer   =  
+  | publisher  = {{vgrelease|JP|Jaleco|NA|[[Taito Corporation|Taito]]}} 
+  | designer   =  
+  | artist     =  
+  | programmer =  
+  | composer   =  
+  | series     =  
+  | released   = {{Collapsible list 
+                  | title      = February 1983 
+                  | titlestyle = font-weight:normal;background:transparent;text-align:left; 
+                  | {{Video game release 
+                     | JP | February 1983 
+                     | NA | 1983 
+                    }} 
+                 }} 
+  | genre      = [[Shooter]] 
+  | modes      = [[Single-player]], [[Multiplayer video game|two-player]] 
+  | platforms  = {{Unbulleted list 
+                  | [[Arcade game|Arcade]] 
+                  | [[MSX]] 
+                  | [[NES]] 
+                  | [[Sega SG-1000]] 
+                  | [[Sega SC-3000]] 
+                  | [[Mobile phone]] 
+                 }} 
+ }} 
+ {{Contains Japanese text}} 
+ 
+ {{Nihongo|'''''Exerion'''''|サイキツク ファイブ||}} is a [[shooter]] [[video game]] made and published by [[Jaleco]] in [[1983]]. < ref > 
+ {{cite web 
+  | language   = nl 
+  | title      = ''Exerion'' 
+  | url        = https://www.msxcomputermagazine.nl/archief/bladen/msx_computer_magazine_14.pdf#page=32 
+  | website    = msxcomputermagazine.nl 
+  | access-date = May 1, 2020 
+ }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Video-game-stub}} 
+ 
+ [[Category:Shooter video games]] 
+ [[Category:1983 video games]] 
+ [[Category:SG-1000 games]] 
+ [[Category:Nintendo Entertainment System games]] 
+ [[Category:MSX games]] 
+ [[Category:Video games developed in Japan]]

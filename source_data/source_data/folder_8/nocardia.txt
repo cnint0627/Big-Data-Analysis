@@ -1,0 +1,31 @@
+{{Automatic taxobox 
+ | image = Nocardia species CNA plate approximately five days old.jpg 
+ | image_caption = Approximately 5 days old Nocardia species on a CNA plate 
+ | taxon = Nocardia 
+ | authority = Trevisan 1889 (Approved Lists 1980) 
+ | type_species = ''[[Nocardia asteroides]]'' 
+ | type_species_authority = (Eppinger 1891) Blanchard 1896 (Approved Lists 1980) 
+ | subdivision_ranks = Species 
+ | subdivision = See text. 
+ | synonyms = * ''Micropolyspora''  < small > Lechevalier et al. 1961 (Approved Lists 1980) < /small > < br / > 
+ * ''Asteroides'' {{small|Puntoni  &  Leonardi, 1935}} 
+ * ''Proactinomyces'' {{small|(K.Lehmann  &  Haag) H.L.Jensen, 1934}} < ref name= " GBIF " > {{cite web |title=Nocardia Trevisan, 1889 |url=https://www.gbif.org/species/9582951 |website=www.gbif.org |access-date=24 August 2022 |language=en}} < /ref > 
+ | synonyms_ref =  < ref name= " LPSN " > {{cite web|vauthors=Euzéby JP, Parte AC |url=https://lpsn.dsmz.de/genus/nocardia |title=''Nocardia'' |access-date=June 25, 2022 |publisher=[[List of Prokaryotic names with Standing in Nomenclature]] (LPSN)}} < /ref > 
+ }} 
+ '''''Nocardia''''' is a [[genus]] of [[bacteria]] with more than 100 species. < ref > {{Cite journal|last=Santos|first=Rui Pedro|last2=Almeida|first2=Juliana|last3=Almeida|first3=Filipa Tavares|last4=Duarte|first4=Maria da Luz|date=2018-06-04|title=Cutaneous nocardiosis by a new pathogenic species: Nocardia grenadensis|url=https://casereports.bmj.com/lookup/doi/10.1136/bcr-2018-225441|journal=BMJ Case Reports|language=en|pages=bcr–2018–225441|doi=10.1136/bcr-2018-225441|issn=1757-790X}} < /ref >  It is found worldwide in organic-matter-rich soil. < ref > {{Cite journal|last=Das|first=Ayan Kumar|date=2013|title=The Incidence of Nocardiosis at Pulmonary and Extra – Pulmonary Sites|url=http://www.jcdr.net/article_fulltext.asp?issn=0973-709x & year=2013 & month=July & volume=7 & issue=7 & page=1427-1429 & id=3152|journal=JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH|doi=10.7860/JCDR/2013/5177.3152}} < /ref > 
+ 
+ Some species cause harm if eaten. < ref > {{Citation|last=Rawat|first=Deepa|title=Nocardiosis|date=2023|url=http://www.ncbi.nlm.nih.gov/books/NBK526075/|work=StatPearls|place=Treasure Island (FL)|publisher=StatPearls Publishing|pmid=30252331|access-date=2023-06-24|last2=Rajasurya|first2=Venkat|last3=Chakraborty|first3=Rebanta K.|last4=Sharma|first4=Sandeep}} < /ref > 
+ 
+ == Culture == 
+ ''Nocardia'' uses aerobic respiration to grow in a wide temperature range. < ref > {{Citation|last=Sykes|first=Jane E.|title=Chapter 43 - Nocardiosis|date=2014-01-01|url=https://www.sciencedirect.com/science/article/pii/B9781437707953000430|work=Canine and Feline Infectious Diseases|pages=409–417|editor-last=Sykes|editor-first=Jane E.|place=Saint Louis|publisher=W.B. Saunders|language=en|doi=10.1016/b978-1-4377-0795-3.00043-0|isbn=978-1-4377-0795-3|access-date=2023-07-23}} < /ref > 
+ 
+ == Virulence == 
+ Most ''Nocardia'' strains have a virulence factor which damages hosts. Transmission of bacteria via inhalation or through open wounds may lead to ''Nocardia'' infection. People with weakened immune systems are more susceptible to ''Nocardia'' infections. < ref > {{Cite journal|last=Lerner|first=P. I.|date=1996-06-01|title=Nocardiosis|url=http://dx.doi.org/10.1093/clinids/22.6.891|journal=Clinical Infectious Diseases|volume=22|issue=6|pages=891–905|doi=10.1093/clinids/22.6.891|issn=1058-4838}} < /ref > 
+ 
+ == Treatment == 
+ ''Nocardia'' infections are treated by [[Sulfonamide (medicine)|sulfonamide]] antibiotics. < ref > {{Cite journal|last=Root|first=Heather|last2=Daniels|first2=Lindsay|last3=Marx|first3=Ashley|last4=Bartelt|first4=Luther A.|last5=Lachiewicz|first5=Anne M.|last6=Duin|first6=David|date=2023-06-24|title=Sulfonamides without trimethoprim in the treatment of Nocardia infections: A case report and literature review|url=https://onlinelibrary.wiley.com/doi/10.1111/tid.13452|journal=Transplant Infectious Disease|language=en|volume=23|issue=1|doi=10.1111/tid.13452|issn=1398-2273}} < /ref >  Antibiotic therapy and proper wound care are essential to patient recovery. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Gram-positive bacteria]]

@@ -1,0 +1,62 @@
+{{Automatic taxobox 
+ | fossil_range = [[Late Cretaceous]] & ndash;[[Holocene]], {{Fossil range|66|0|earliest=79.6|ref= < ref > {{cite web |title=Primatomorpha |work=[[Paleobiology Database]] |url=https://paleobiodb.org/classic/checkTaxonInfo?taxon_no=132602 & is_real_user=1}} < /ref > < ref name= " :0 "  / > }} 
+ | image = Colugo (Galeopterus variegatus, adult female), Central Catchment Area, Singapore - 20060618.jpg 
+ | image2 = Primates - some families.jpg 
+ | display_parents = 3 
+ | taxon = Primatomorpha 
+ | authority = Beard, 1991 < ref > {{Cite book|last=Collectif | veditors = Coppens Y, Senut B|url=https://books.google.com/books?id=xervDwAAQBAJ|title=Origine(s) de la bipédie chez les hominidés|date=1991|publisher=CNRS Éditions (réédition numérique FeniXX)|isbn=978-2-271-10666-7|language=en}} < /ref > 
+ | subdivision_ranks = Orders 
+ | subdivision = * [[Dermoptera]] 
+ * '''Pan-Primates''' < ref > {{cite journal |last1=Wilson Mantilla |first1=G. P. |last2=Chester |first2=S. G. B. |last3=Clemens |first3=W. A. |last4=Moore |first4=J. R. |last5=Sprain |first5=C. J. |last6=Hovatter |first6=B. T. |last7=Mitchell |first7=W. S. |last8=Mans |first8=W. W. |last9=Mundil |first9=R. |last10=Renne |first10=P. R. |title=Earliest Palaeocene purgatoriids and the initial radiation of stem primates |journal=Royal Society Open Science |date=2021 |volume=8 |issue=2 |pages=rsos.210050, 210050 |doi=10.1098/rsos.210050|pmid=33972886 |pmc=8074693 |bibcode=2021RSOS....810050W }} < /ref > 
+ ** {{Extinct}}[[Plesiadapiformes]] {{Small|([[Paraphyletic]])}} 
+ ** [[Primates]] 
+ }} 
+ 
+ The '''Primatomorpha''' are a [[mirorder]] of [[Mammal|mammals]]. They have two [[Order (biology)|orders]]: the [[Dermoptera]] or colugos and the [[Primate|Primates]] ([[Plesiadapiformes]], [[Strepsirrhini]], [[Haplorhini]]). < ref > {{cite journal|vauthors=Esselstyn JA, Oliveros CH, Swanson MT, Faircloth BC|date=September 2017|title=Investigating Difficult Nodes in the Placental Mammal Tree with Expanded Taxon Sampling and Thousands of Ultraconserved Elements|journal=Genome Biology and Evolution|volume=9|issue=9|pages=2308–2321|doi=10.1093/gbe/evx168|pmc=5604124|pmid=28934378}} < /ref > < ref name= " :0 " > {{cite journal|vauthors=Zhang ML, Li ML, Ayoola AO, Murphy RW, Wu DD, Shao Y|date=November 2019|title=Conserved sequences identify the closest living relatives of primates|journal=Zoological Research|volume=40|issue=6|pages=532–540|doi=10.24272/j.issn.2095-8137.2019.057|pmc=6822925|pmid=31393097}} < /ref > < ref > {{cite journal|display-authors=6|vauthors=Meredith RW, Janečka JE, Gatesy J, Ryder OA, Fisher CA, Teeling EC, Goodbla A, Eizirik E, Simão TL, Stadler T, Rabosky DL, Honeycutt RL, Flynn JJ, Ingram CM, Steiner C, Williams TL, Robinson TJ, Burk-Herrick A, Westerman M, Ayoub NA, Springer MS, Murphy WJ|date=October 2011|title=Impacts of the Cretaceous Terrestrial Revolution and KPg extinction on mammal diversification|journal=Science|volume=334|issue=6055|pages=521–4|bibcode=2011Sci...334..521M|doi=10.1126/science.1211028|pmid=21940861|s2cid=38120449}} < /ref > < ref > {{cite journal|vauthors=Zhou X, Sun F, Xu S, Yang G, Li M|date=March 2015|title=The position of tree shrews in the mammalian tree: Comparing multi-gene analyses with phylogenomic results leaves monophyly of Euarchonta doubtful|journal=Integrative Zoology|volume=10|issue=2|pages=186–98|doi=10.1111/1749-4877.12116|pmid=25311886}} < /ref > 
+ 
+ {{Clade|style=font-size:85%; line-height:85%|label1=[[Euarchontoglires]] & nbsp;|{{Clade 
+   
+   | label1= & nbsp;[[Glires]] & nbsp; 
+   | 1={{Clade 
+      | 1= & nbsp;[[Rodent]]ia[[File:Ruskea rotta.png|50 px]] 
+      | 2= & nbsp;[[Lagomorpha]][[File:Lepus timidus - 1700-1880 - Print - Iconographia Zoologica -(white background).jpg|50 px]]}} 
+ 
+ |label2=[[Euarchonta]] 
+ |2={{clade 
+      | 1= & nbsp;[[Scandentia]][[File:Die Säugthiere in Abbildungen nach der Natur, mit Beschreibungen (Plate 34) (white background).jpg|60 px]] 
+      | label2='''Primatomorpha''' 
+      | 2={{Clade 
+         | 1= & nbsp;[[Dermoptera]][[File:Cynocephalus volans Brehm1883 (white background).jpg|50 px]] 
+         | label2= & nbsp;[[Primates]] & nbsp; 
+         | 2={{Clade 
+            | label1= & nbsp;[[Strepsirrhini]] & nbsp; 
+            | 1={{Clade 
+               |1=[[lemur]]oids[[File:FMIB 46849 Primates Maki Moccoe Lemur catta (white background).jpeg|50 px]] 
+               |2=[[Lorisoidea|lorisoids]][[File:Nycticebus (white background).jpg|40 px]] 
+ }} 
+            | label2= & nbsp;[[Haplorrhini]] & nbsp; 
+            | 2={{Clade 
+               | 1= & nbsp;[[Tarsiiformes]][[File:Säugethiere vom Celebes- und Philippinen-Archipel (Taf. III) (white background) (1).jpg|30 px]] 
+               |label2=[[Simiiformes]] 
+               | 2={{Clade 
+                  |1=[[Platyrrhini]][[File:Die Säugthiere in Abbildungen nach der Natur, mit Beschreibungen (Plate 8) (white background).jpg|60 px]] 
+                  |2=[[Catarrhini]][[File:Cynocephalus doguera - 1700-1880 - Print - Iconographia Zoologica - Special Collections University of Amsterdam - (white background).tiff|60 px]] 
+ 
+ }} }} }} }} }}}}}} 
+ 
+ == References == 
+ {{Reflist|30em}} 
+ 
+ == Further reading == 
+ {{refbegin|30em}} 
+ * {{cite conference|vauthors=Beard KC|title=Vertical postures and climbing in the morphotype of Primatomorpha: Implications for locomotor evolution in primate history|publisher=Editions du CNRS|location=Paris|book-title=Origine(s) de la Bipedie chez les Hominides|series=Cahiers de Paleoanthropologie|year=1991|oclc=636661230|pages=79–87|isbn=9782222046028}} 
+ * {{cite journal|vauthors=Janecka JE, Miller W, Pringle TH, Wiens F, Zitzmann A, Helgen KM, Springer MS, Murphy WJ|date=November 2007|title=Molecular and genomic data identify the closest living relative of primates|journal=Science|volume=318|issue=5851|pages=792–4|bibcode=2007Sci...318..792J|doi=10.1126/science.1147555|pmid=17975064|s2cid=12251814}} 
+ * {{cite book|title=Humanity from African naissance to coming millennia : colloquia in human biology and paleoanthropology|vauthors=Goodman M, Czelusniak J, Page S, Meireles CM|publisher=Firenze University Press|year=2001|isbn=978-88-8453-003-5|veditors=Tobias PV, Raath MA, Moggi-Cecchi J, Doyle GA|location=Firenze|chapter=Where DNA Sequences Place Homo sapiens in a Phylogenetic Classification of Primates}} 
+ * {{cite journal|vauthors=Kriegs JO, Churakov G, Jurka J, Brosius J, Schmitz J|date=April 2007|title=Evolutionary history of 7SL RNA-derived SINEs in Supraprimates|url=https://archive.org/details/sim_trends-in-genetics_2007-04_23_4/page/158|journal=Trends in Genetics|volume=23|issue=4|pages=158–61|doi=10.1016/j.tig.2007.02.002|pmid=17307271}} ([https://web.archive.org/web/20070803072737/http://zmbe2.uni-muenster.de/expath/articles/31_Kriegs_TiG.pdf PDF version]) 
+ * {{cite journal|vauthors=Arnason U, Adegoke JA, Bodin K, Born EW, Esa YB, Gullberg A, Nilsson M, Short RV, Xu X, Janke A|date=June 2002|title=Mammalian mitogenomic relationships and the root of the eutherian tree|journal=Proceedings of the National Academy of Sciences of the United States of America|volume=99|issue=12|pages=8151–6|bibcode=2002PNAS...99.8151A|doi=10.1073/pnas.102164299|pmc=123036|pmid=12034869|doi-access=free}} 
+ * {{cite journal|vauthors=Murphy WJ, Eizirik E, Johnson WE, Zhang YP, Ryder OA, O'Brien SJ|date=February 2001|title=Molecular phylogenetics and the origins of placental mammals|journal=Nature|volume=409|issue=6820|pages=614–8|bibcode=2001Natur.409..614M|doi=10.1038/35054550|pmid=11214319|s2cid=4373847}} 
+ {{refend}} 
+ 
+ {{Taxonbar|from=Q135424}} 
+ 
+ [[Category:Mammals]]

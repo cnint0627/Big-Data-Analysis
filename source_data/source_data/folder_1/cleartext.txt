@@ -1,0 +1,14 @@
+In [[telecommunications]], '''cleartext''' is the form of a message or data which is in a form that is immediately understandable to a human being without additional processing. < ref > ISO/IEC7498-2, Information Processing Systems--Open Systems Interconnection Reference Model--Part 2: Security Architecture < /ref >  In particular, it implies that this message is sent or stored without [[cryptography|cryptographic]] protection. The [[phrase]]s,  " in clear " ,  " en clair "  and  " in the clear "  are the same.  
+ 
+ It is close to, but not entirely the same as, the term  " [[plaintext]] " . Formally, [[plaintext]] is information that is fed as an input to a coding process, while  [[ciphertext]] is what comes out of that process.  [[Plaintext]] might be compressed, coded, or otherwise changed before it is converted to [[ciphertext]], so it is quite common to find [[plaintext]] that is not cleartext. 
+ 
+ Websites using insecure [[HTTP]] send using cleartext, with all data supplied (including [[username]]s and [[password]]s) being sent from the user's computer through the internet using cleartext. Anyone with access to the medium used to carry the data (the [[router]]s, [[computer]]s, [[telecommunications]] equipment, [[wireless]] transmissions, and so on) may read the password, username, and anything else sent to the website. 
+ 
+ ==Related pages== 
+ * [[Plaintext]] 
+ * [[Ciphertext]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Cryptography]]

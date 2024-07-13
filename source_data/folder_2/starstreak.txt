@@ -1,0 +1,136 @@
+{{Infobox weapon 
+ |name= Starstreak 
+ |image= Starstreak.JPG 
+ |caption= One of the [[missile]]s that Starstreak fires. 
+ |origin= {{flagicon|United Kingdom}} [[UK]] 
+ |type= 
+ < !-- Type selection -- > 
+ |is_ranged= 
+ |is_explosive=yes 
+ |is_missile=yes 
+ |is_US= 
+ < !-- Service history -- > 
+ |service= 1997 - Present  
+ |used_by= See ''Operators'' 
+ |wars=  
+ < !-- Production history -- > 
+ |designer=  
+ |design_date= 1980s 
+ |manufacturer= [[Thales Group|Thales Air Defence]] 
+ |unit_cost= 
+ |production_date= November 1986 
+ |number= 7,000  
+ |variants= See ''Variants'' 
+ < !-- General specifications -- > 
+ |spec_label= Starstreak High Velocity Missile 
+ |weight= {{Convert|16.82|kg|abbr=on}} 
+ |length= {{Convert|1.397|m|ftin|0|abbr=on}} 
+ |part_length=  
+ |width= 
+ |height= 
+ |diameter= {{Convert|13|cm|abbr=on}} 
+ |crew= 1 
+ < !-- Ranged weapon specifications -- >   
+ |cartridge=  
+ |caliber=  
+ |barrels= 
+ |action=  
+ |rate= 
+ |velocity=  
+ |range= {{Convert|0.3|–|7|km|abbr=on}} 
+ |max_range=  
+ |feed=  
+ |sights= [[Optical sight]] 
+ < !-- Explosive specifications -- >   
+ |filling=  
+ |filling_weight= {{Convert|0.9|kg|0|abbr=on}} 
+ |detonation=  
+ |yield= 
+ < !-- Vehicle/missile specifications -- > 
+ |armour= 
+ |primary_armament= 
+ |secondary_armament= 
+ |engine=  
+ |engine_power=  
+ |transmission= 
+ |payload_capacity= 
+ |fuel_capacity= 
+ |pw_ratio= 
+ |suspension= 
+ |clearance= 
+ |vehicle_range= 
+ |speed=  
+ |guidance= 
+ }} 
+ '''Starstreak''' is a [[United Kingdom|British]] short range [[Anti-aircraft warfare|surface-to-air missile]]  (also known as MANPADS). It is made by [[Thales Group|Thales Air Defence]] (first called Shorts Missile Systems), in [[Belfast]].  It is also known as '''Starstreak High Velocity Missile''', or '''Starstreak HVM'''.  After it is launched, the missile travels at about [[Mach number|Mach]] 3 (3 times the [[speed of sound]]). < ref name= " BritishArmy " > {{cite web | url=http://army.mod.uk/equipment/artillery-air-defence/1509.aspx | title=British Army equipment | publisher=British Army | accessdate=February 17, 2012 }}{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  Starstreak has been in service with the [[British Army]] since 1997. 
+ 
+ Starstreak can be fired from a [[soldier]]'s shoulder or from the [[Alvis Stormer|Stormer]] armoured [[vehicle]]. < ref name= " BritishArmy "  / > 
+ 
+ Starstreak can travel 1,500 [[metre]]s minimum and 5,5000 metres maximum. < ref name= " BritishArmy "  / > 
+ 
+ == Development == 
+ Starstreak began being developed in the early 1980s. This was after a study into a weapon that could add to the [[Rapier missile]] system. A General Staff Requirement (GSR 3979)  < ref name= " Janes " > {{cite book|title=Jane's Land-Based Air Defence 2005-2006|year=1992|url=https://archive.org/details/janeslandbasedai00cull|publisher=Jane's information group|isbn=0-7106-2697-5}} < /ref >  was made. This GSR showed what the missile system needed to have. One of the things it needed to have was three ways to launch the missile. These were: 
+ 
+ * A [[self-propelled anti-aircraft weapon|self-propelled]] launcher. < ref name= " Janes " / > 
+ * A three round light weight launcher. < ref name= " Janes " / > 
+ * A launcher which can be moved around by people. < ref name= " Janes " / > 
+ 
+ In 1984, the British [[Ministry of Defence (United Kingdom)|Ministry of Defence]] gave [[contract]]s to [[British Aerospace]] (BAe) and Shorts Missile Systems to develop the missile. The BAe missile was called the [[Thunderbolt HVM|Thunderbolt]].  Shorts won the competition. They were awarded £356 million.  The weapon was developed more in November 1986. More contracts were also given out to make the missile. Starstreak was put into service officially in September 1997.  Starstreak is supposed to replace the [[Javelin surface-to-air missile]] in British service. < ref name= " Janes " / > 
+ 
+ The light weight launcher and the launcher which can be moved around by people have been in use since 2000. < ref name= " Janes " / > 
+ 
+ In the middle of 2007, Thales UK in [[Northern Ireland]] said that it had developed Starstreak II. Starstreak II is an improved version of Starstreak.  Some of these improvements were: a bigger range (7 km), a better system to find targets and the [[ability]] to find aircraft that are higher up in the air. < ref > {{cite web|url=http://www.janes.com/events/exhibitions/dsei2007/sections/daily/day1/starstreak-ii-sighted.shtml|title=Starstreak II sighted|publisher=Janes Information Group|access-date=2012-05-31|archive-date=2009-04-12|archive-url=https://web.archive.org/web/20090412045238/http://www.janes.com/events/exhibitions/dsei2007/sections/daily/day1/starstreak-ii-sighted.shtml|url-status=dead}} < /ref > 
+ 
+ In 2011, when Thales won a contract for the [[Lightweight Multirole Missile]], Thales said it agreed with the MOD to  " re-role previously contracted budgets to facilitate the full-scale development, series production and introduction of the LMM. "  This means that Thales were going to focus all their money on the Lightweight Multirole Missile. The contract affected by this is said to have been Starstreak. < ref > {{cite web|url=http://www.defensenews.com/story.php?i=6144980|title=Thales Wins UK Missile Order by Giving Up Other Work|publisher=Defence News}}{{Dead link|date=August 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ == Description == 
+ [[Image:Avenger 04.jpg|thumb|right|A Starstreak, just after being launched from an [[AN/TWQ-1 Avenger]]]] 
+ A soldier carries the Starstreak missile in a tube.  This tube is sealed closed. The tube is attached to the main part of Starstreak to be fired.  The gunner follows the target using Starstreak's special aiming system. When the gunner has locked on to the target, they press a button and the missile launches. < ref name= " Janes " / > 
+ 
+ The missile then fires its first motor. This launches the missile from the tube. However, it stops burning before the missile leaves the tube. This is to protect the gunner.  When the missile is away from the gunner, another motor fires. It makes the missile go to [[Mach]] 3.5. It stops burning when it is about four hundred meters away from the gunner. The back of the missile has the systems that guide the missile by laser beams from the launcher. The Starstreak launches many small [[dart]]s at its target. Each dart has around {{convert|450|g|oz|abbr=on}}  of explosive in it. < ref name= " Janes " / > 
+ 
+ When the darts hit the target, a [[fuze]] is triggered. This fuze [[wikt:delay|delay]]s the explosion. This gives time for the darts to get inside the target before the explosives go off.  The explosive is inside a shell of [[tungsten]]. This tungsten is designed to split up and make as much damage as possible inside the target. < ref name= " Janes " / > 
+ 
+ In September 1999, the missile was shown attacking an [[armoured personnel carrier]]. This showed that Starstreak could also be useful in attacking targets on the ground as well as in the air. < ref name= " Janes " / >   
+ 
+ In 2012, the Ministry of Defence said that it was going to put a group of Starstreaks on top of an [[apartment]] complex in London. This was because of the [[2012 London Olympics]]. The Ministry said that the area was the only place to put an anti-aircraft battery. Some people living there were not happy. They wondered why the battery was needed. < ref > {{cite web|url=https://www.reuters.com/article/2012/04/29/olympics-britain-missiles-idUSL6E8FT00520120429|title=UK puts missiles on London rooftop to guard Olympics|publisher=Reuters|access-date=2017-08-31|archive-date=2015-10-18|archive-url=https://web.archive.org/web/20151018053907/http://www.reuters.com/article/2012/04/29/olympics-britain-missiles-idUSL6E8FT00520120429|url-status=dead}} < /ref > 
+ 
+ == Different kinds of Starstreak == 
+ * ATASK (Air To Air Starstreak): This kind of Starstreak is fired from a [[helicopter]]. It was designed to be used on the [[AH-64 Apache]]. It has not been put into service yet. < ref name= " Janes " / > 
+ * LML: This type of Starstreak has three missiles which can be fired at any time. It can be used on vehicles like a [[Land Rover]] or [[HMMWV]] (Humvee). < ref name= " Janes " / > 
+ * SP HVM: Carried on an [[Alvis Stormer]]. It has a launcher on the roof with eight missiles ready to fire. Another 12 missiles are inside the vehicle. < ref name= " Janes " / > 
+ * THOR/Multi Mission System (MMS): A four-missile turret that is put on a [[Pinzgauer High Mobility All-Terrain Vehicle|Pinzgauer]] ([[6x6]]). < ref > {{cite web|url=http://defense-update.com/products/t/thor.htm|title=Thor – Multi-Mission air defense|publisher=defense-update.com|accessdate=2009-02-22|archive-date=2009-01-29|archive-url=https://web.archive.org/web/20090129121441/http://defense-update.com/products/t/thor.htm|url-status=dead}} < /ref >  Thales UK announced this in 2005. < ref > {{cite web|url=http://www.thalesuk.com/thales_corporate/press-room/latest-news/latest-news-home.cfm?articleid=15044863|title=Focus Archive|publisher=www.thalesuk.com|accessdate=2009-02-22|archive-date=2009-04-12|archive-url=https://web.archive.org/web/20090412025348/http://www.thalesuk.com/thales_corporate/press-room/latest-news/latest-news-home.cfm?articleid=15044863|url-status=dead}} < /ref > 
+ 
+ == How the Starstreak performs == 
+ ===Good things about Starstreak=== 
+ 
+ * It cannot be jammed. < ref name= " Afiss " > {{cite web|url=http://www.armedforces-int.com/projects/Missiles/starstreak-high-velocity-missile.asp|title=Starstreak High Velocity Missile|publisher=Armed Forces International|access-date=2012-06-05|archive-date=2009-05-01|archive-url=https://web.archive.org/web/20090501041113/http://www.armedforces-int.com/projects/Missiles/starstreak-high-velocity-missile.asp|url-status=dead}} < /ref > 
+ * It cannot be destroyed with anti-radar [[missile]]s. < ref name= " Afiss " / > 
+ * It travels at a high speed and so is more likely to be able to hit a faster aircraft. 
+ 
+ ===Bad things about Starstreak=== 
+ * The darts need to hit a target to damage it. 
+ * Things like smoke can stop the gunner from being able to see their target. It can also mess around the guidance system. 
+ * The amount of training the gunner has can change how useful the missile is. The gunner needs to follow the target exactly with Starstreak's sight. 
+ 
+ == Users == 
+ [[File:Starstreak launcher on Dartmoor.jpg|thumb|right|A Starstreak used in training on [[Dartmoor]], England]] 
+ ; {{GBR}} 
+ * Britain uses the SP HVM. It has around 150 Starstreaks. 
+ ; {{ZAF}} 
+ * South Africa uses the LML. It has 120 Starstreaks. 
+ 
+ == Notes ==  
+ {{Reflist}} 
+ 
+ == References == 
+ * {{cite web|url=http://www.army-technology.com/projects/starstreak/|title=Army Technology, Starstreak Close Air Defense Missile}} 
+ 
+ == Other websites == 
+ {{Commons category|Starstreak missiles|Starstreak}} 
+ * [http://www.thales-airdefence.com/subVSRS.htm Thales page on Starstreak] {{Webarchive|url=https://web.archive.org/web/20061124093927/http://www.thales-airdefence.com/medias/Starstreak_HVM.pdf |date=2006-11-24 }} 
+ * [http://www.army.mod.uk/equipment/artillery-air-defence/1509.aspx Starstreak – British Army website] {{Webarchive|url=https://web.archive.org/web/20090113212813/http://www.army.mod.uk/equipment/artillery-air-defence/1509.aspx |date=2009-01-13 }} 
+ 
+ 
+ [[Category:Missiles]] 
+ [[Category:British Army equipment]]

@@ -1,0 +1,64 @@
+'''Trigonometry''' (from the [[Greek language|Greek]] ''trigonon'' = three angles and ''metron'' = [[measurement|measure]]) is a part of elementary [[mathematics]] dealing with [[angle]]s, [[triangle (geometry)|triangles]] and '''[[trigonometric function]]s''' such as '''sine''' (abbreviated sin), '''cosine''' (abbreviated cos) and '''tangent''' (abbreviated tan). < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-24|website=Math Vault|language=en-US}} < /ref > < ref name= " :0 " > {{Cite web|title=trigonometry {{!}} Definition, Formulas, Ratios,  &  Identities|url=https://www.britannica.com/science/trigonometry|access-date=2020-09-24|website=Encyclopedia Britannica|language=en}} < /ref >  It has some connection to [[geometry]], although there is disagreement on exactly what that connection is; for some, trigonometry is just a section of geometry. 
+ 
+ == Overview and definitions == 
+ [[File:Rtriangle.svg|right|thumbnail|A standard right triangle. '''C''' is the [[right angle]] in this picture]] 
+ Trigonometry uses a large number of specific words to describe parts of a triangle. Some of the definitions in trigonometry are: 
+ * '''[[Right triangle|Right-angled triangle]]''' - A right-angled triangle is a triangle that has an angle equal to 90 degrees. (A triangle cannot have more than one right angle) The standard trigonometric ratios can only be used on right-angled triangles. 
+ * '''[[Hypotenuse]]''' - The hypotenuse of a triangle is the longest side, and the side that is opposite the right angle. For example, for the triangle on the right, the hypotenuse is side ''c''. 
+ * '''[[Opposite]]''' of an angle - The opposite side of an angle is the side that does not intersect with the vertex of the angle. For example, side ''a'' is the opposite of angle ''A'' in the triangle to the right. 
+ * '''[[Adjacent]]''' of an angle - The adjacent side of an angle is the side that intersects the vertex of the angle but is not the hypotenuse. For example, side ''b'' is adjacent to angle ''A'' in the triangle to the right. 
+ 
+ == Trigonometric ratios == 
+ There are three main trigonometric [[ratio]]s for right triangles, and three [[reciprocal]]s of those ratios, making up a total of 6 ratios. They are: < ref > {{Cite web|last1=Menz|first1=Petra|last2=Mulberry|first2=Nicola|date=July 13, 2020|title=Calculus Early Transcendentals: Differential  &  Multi-Variable Calculus for Social Sciences (1.3 Trigonometry)|url=https://www.sfu.ca/math-coursenotes/Math%20157%20Course%20Notes/sec_Trigonometry.html|archive-url=|archive-date=|access-date=September 24, 2020|website=sfu.ca}} < /ref > 
+ 
+ * '''Sine''' (sin) - The sine of an angle is equal to the  < math > \textstyle \text{Opposite} \over \text{Hypotenuse} < /math > . 
+ * '''Cosine''' (cos) - The cosine of an angle is equal to the  < math > \textstyle \text{Adjacent} \over \text{Hypotenuse} < /math > . 
+ * '''Tangent''' (tan) - The tangent of an angle is equal to the  < math > \textstyle \text{Opposite} \over \text{Adjacent} < /math > . 
+ 
+ The reciprocals of these ratios are: 
+ 
+ '''Cosecant''' (cosec) - The cosecant of an angle is equal to the  < math > \textstyle \text{Hypotenuse} \over \text{Opposite} < /math >  or  < math > \csc \theta = {1 \over \sin \theta} < /math > . 
+ 
+ '''Secant''' (sec) - The secant of an angle is equal to the  < math > {\text{Hypotenuse} \over \text{Adjacent}} < /math >  or  < math > \sec \theta = {1 \over \cos \theta} < /math > . 
+ 
+ '''Cotangent''' (cot) - The cotangent of an angle is equal to the  < math > {\text{Adjacent} \over \text{Opposite}} < /math >  or  < math > \cot \theta = {1 \over \tan \theta} < /math > . 
+ 
+ Students often use a [[mnemonic]] to remember this relationship. The ''sine'', ''cosine'', and ''tangent'' ratios in a right triangle can be remembered by representing them as strings of letters, such as SOH-CAH-TOA: 
+ 
+ :'''S'''ine = '''O'''pposite ÷ '''H'''ypotenuse 
+ :'''C'''osine = '''A'''djacent ÷ '''H'''ypotenuse 
+ :'''T'''angent = '''O'''pposite ÷ '''A'''djacent 
+ 
+ == Using trigonometry == 
+ With the sines and cosines, one can answer virtually all questions about triangles. This is called  " solving "  the triangle. One can work out the remaining angles and sides of any triangle, as soon as two sides and their included angle or two angles and a side or three sides are known. These laws are useful in all branches of geometry, since ''every [[polygon]] may be described as a combination of triangles''. 
+ 
+ Trigonometry is also vital in [[surveying]], in [[vector analysis]], and in the study of [[periodic function]]s. It developed from a need to compute angles and distances in fields such as [[astronomy]], [[mapmaking]], [[surveying]], and artillery range finding. < ref name= " :0 "  / > 
+ 
+ There is also such a thing as [[spherical trigonometry]], which deals with [[spherical geometry]]. This is used for calculations in [[astronomy]], [[geodesy]] and [[navigation]]. 
+ 
+ == Trigonometry Laws == 
+ 
+ === Law of Sines === 
+ < math > {\text{a} \over \text{Sin A}}={\text{b} \over \text{Sin B}}={\text{c} \over \text{Sin C}} < /math > 
+ 
+ === Law of Cosines === 
+ < math > a^2=b^2+c^2-2bc \cos(A) < /math > 
+ 
+ === Law of Tangents === 
+ < math > \frac{a-b}{a+b}=\frac{\tan(\frac{1}{2}(A-B))}{\tan(\frac{1}{2}(A+B))} < /math > 
+ 
+ == Related pages == 
+ 
+ * [[Radian]] 
+ * [[Polar coordinate system]] 
+ * [[Unit circle]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ {{Sister project links|Trigonometry}} 
+ 
+ * [http://www.khanacademy.org/video/basic-trigonometry?playlist=Trigonometry Basic Trigonometry] course in [[Khan Academy]] 
+ 
+ [[Category:Trigonometry| ]]

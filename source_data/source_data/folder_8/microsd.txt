@@ -1,0 +1,37 @@
+{{lowercase title}} 
+ [[File:TwinMOS 2GB microSD 20100117.jpg|thumb|2 GB microSD]] 
+ [[File:SD Cards.svg|thumb|SD card, miniSD card, and microSD card]] 
+ [[File:MicroSD  &  Adapter.jpg|thumb|upright|MicroSD card with adapter for use in a slot for full SD card]] 
+ '''microSD''' is a type of removable [[flash memory]] card used for storing information. SD is an [[abbreviation]] of [[Secure Digital card|Secure Digital]], and microSD cards are sometimes referred to as µSD, uSD, or mSD. < ref > {{Cite web|url = https://learn.sparkfun.com/tutorials/sd-cards-and-writing-images|title = SD Cards and Writing Images}} < /ref >  The cards are used in [[mobile phone]]s, [[Camera|cameras]], [[Handheld game console|handheld game systems]], and other [[mobile device]]s. 
+ 
+ It is the smallest [[memory card]] that can be bought; at 15 & nbsp;mm × 11 & nbsp;mm × 1 & nbsp;mm (about the size of a [[fingernail]]), it is about a quarter of the size of a normal-sized [[SD card]]. < ref > {{cite web |url=http://www.sdcard.org/developers/tech/microsd/ |title=microSD Card |publisher=SD Card Association |access-date=2008-09-13 |archive-date=2010-01-23 |archive-url=https://web.archive.org/web/20100123221944/http://www.sdcard.org/developers/tech/microsd |url-status=dead }} < /ref >  There are [[adapter (computing)|adapters]] that make the small microSD able to fit in devices that have slots for standard SD, [[miniSD]], [[Memory Stick]] Duo card, and even [[USB]] < !-- OCZ Trifecta -- > . But, not all of the different cards can work together. Many microSD cards are sold with a standard SD adapter, so that people can use them in devices that take standard SD but not microSD cards. 
+ 
+ TransFlash and microSD cards are the same (they can be used in place of each other), but microSD has support for [[Secure Digital card|SDIO]] mode. This lets microSD slots support non-memory jobs like [[Bluetooth]], [[GPS]], and [[Near Field Communication]] by attaching a device in place of a memory card. < ref > {{cite web|url=https://www.phonescoop.com/glossary/term.php?gid=179|title=microSD definition (Phone Scoop)|website=www.phonescoop.com}} < /ref > 
+ 
+ MicroSDHC format is a newer version of the MicroSD which is not backwards compatible. Some older devices cannot use the newer format, although [[third party]] [[firmware]] is available for some devices. < ref > {{cite web|url=https://www.rockbox.org/wiki/MajorChanges|title=MajorChanges  <  Main  <  Wiki|website=www.rockbox.org}} < /ref > 
+ 
+ TransFlash cards are sold in 16MB and 32MB sizes. microSD cards are sold in many sizes, from 64 MB to 32 GB, while microSDHC cards are sold in sizes between 4 GB to 64 GB. Larger ones are microSDXC memory cards, sold in sizes between 8 GB and 1 TB. < ref name= " :0 " > {{Cite web|title=SanDisk's 1TB microSD card is now available|date=15 May 2019 |url=https://www.theverge.com/2019/5/15/18626729/sandisks-1tb-microsd-card-available-b-h-photo-amazon-price}} < /ref > 
+ 
+ ==History== 
+ The microSD format was made by the company [[SanDisk]]. It was first called T-Flash, and then TransFlash, before being named microSD when it started to be used by the [[SD Card Association]] (SDA). Other flash card formats approved by the SDA include miniSD and standard SD card. 
+ 
+ The SDA announced the microSD format at CTIA Wireless 2005 on March 14, 2005, and the final microSD details were announced on July 13, 2005. When they were first sold, the microSD format was sold in sizes of 32, 64, and 128 MB. SanDisk made a 4 GB microSD card in July 2006, at first costing $99 ([[United States dollar|USD]]). Since then, the prices for flash memory devices have become much lower. At the time of April 2009, the same 4 GB card could be bought for as low as $12 (USD) at [[department store]]s, and by May 2009, for as low as $6 (USD) at online electronics stores. In January 2010, a 16 GB micro SD card class 2 cost about $40 (USD), and a 4 GB class 2 micro SD card about $8 (USD). 
+ 
+ In February 2014, SanDisk announced a new microSD card, the MicroSDXC. At the time, the cards held up to 128GB. To enable this amount of storage capacity on a removable microSD card, SanDisk developed a proprietary technique that allows for 16 memory die to be vertically stacked, each shaved to be thinner than a strand of hair. At the time of their release, these cards had capacities ranging from 8GB to 128GB, with the prices ranging from $29.99 to $199.99. < ref name= " :0 "  / > < ref > http://www.sandisk.com/about-sandisk/press-room/press-releases/2014/sandisk-introduces-worlds-highest-capacity-microsdxc-memory-card-at-128gb/ < /ref > 
+ 
+ == Power Usage == 
+ Several [[manufacturer]]s make microSD cards and they consume different amounts of [[electrical power]]. Most are in the range of 0-100 & nbsp;mA at a supply [[voltage]] of 3.3 & nbsp;V. [[TwinMOS Technologies Midde East FZE]] says that the cards carry a maximum of 45 & nbsp;mA during transfer. < ref > http://www.twinmos.com < /ref >  Toshiba lists 80-100 & nbsp;mA. < ref > http://www.toshiba-memory.com/en/micro_sd_cards.html < /ref > 
+ 
+ == Related pages == 
+ * [[Secure Digital card]] 
+ * [[Memory card]] 
+ * [[MMCmicro]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ * [http://www.jedec.org/download/search/JESD84-C01.pdf JESD84-C01 - MultiMediaCard (MMC) Card Mechanical Standard] 
+ 
+ [[Category:2005]] 
+ [[Category:Storage devices]]

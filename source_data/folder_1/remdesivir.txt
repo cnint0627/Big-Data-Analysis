@@ -1,0 +1,124 @@
+{{Infobox drug 
+ | drug_name         = 
+ | INN               = 
+ | type              =  < !-- empty -- > 
+ | image             = Remdesivir.svg 
+ | width             = 
+ | alt               = 
+ | caption           = 
+ | image2            = Remdesivir-from-xtal-Mercury-3D-balls.png 
+ < !-- Clinical data -- > 
+ | pronounce         = {{IPAc-en|r|ɛ|m|ˈ|d|ɛ|s|ɪ|v|ɪər}} {{respell|rem|DESS|i|veer}} 
+ | tradename         =  
+ | Drugs.com         = {{drugs.com|ppa|remdesivir}} 
+ | MedlinePlus       = 
+ | licence_CA        =  < !-- Health Canada may use generic or brand name (generic name preferred) -- > 
+ | licence_EU        =  < !-- EMA uses INN (or special INN_EMA) -- > 
+ | DailyMedID        =  < !-- DailyMed may use generic or brand name (generic name preferred) -- > 
+ | licence_US        =  < !-- FDA may use generic or brand name (generic name preferred) -- > 
+ | pregnancy_AU      =  < !-- A / B1 / B2 / B3 / C / D / X -- > 
+ | pregnancy_AU_comment = 
+ | pregnancy_US      =  < !-- A / B / C / D / X / N -- > 
+ | pregnancy_US_comment = 
+ | pregnancy_category= 
+ | dependency_liability = 
+ | addiction_liability = 
+ | routes_of_administration = Intravenous 
+ | class             = 
+ | ATCvet            = 
+ | ATC_prefix = None 
+ | ATC_suffix = 
+ | ATC_supplemental  = 
+ 
+ < !-- Legal status -- > 
+ | legal_AU =  < !-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-- > 
+ | legal_AU_comment = 
+ | legal_BR =   < !-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F-- > 
+ | legal_BR_comment = 
+ | legal_CA =  < !-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -- > 
+ | legal_CA_comment = 
+ | legal_DE =  < !-- Anlage I, II, III or Unscheduled-- > 
+ | legal_DE_comment = 
+ | legal_NZ =  < !-- Class A, B, C -- > 
+ | legal_NZ_comment = 
+ | legal_UK =  < !-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -- > 
+ | legal_UK_comment = 
+ | legal_US =  < !-- OTC / Rx-only / Schedule I, II, III, IV, V -- > 
+ | legal_US_comment = 
+ | legal_UN =  < !-- N I, II, III, IV / P I, II, III, IV-- > 
+ | legal_UN_comment = 
+ | legal_status      = Investigational  < !--For countries not listed above-- > 
+ 
+ < !-- Pharmacokinetic data -- > 
+ | bioavailability   = 
+ | protein_bound     = 
+ | metabolism        = 
+ | metabolites       = 
+ | onset             = 
+ | elimination_half-life = 
+ | duration_of_action = 
+ | excretion         = 
+ 
+ < !-- Identifiers -- > 
+ | CAS_number_Ref = {{cascite|correct|CAS}} 
+ | CAS_number = 1809249-37-3  
+ | CAS_supplemental  = 
+ | PubChem = 121304016 
+ | IUPHAR_ligand     = 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB14761 
+ | ChemSpiderID_Ref  = 
+ | ChemSpiderID = 58827832 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII =  3QKI37EEHE 
+ | KEGG_Ref          = 
+ | KEGG = D11472 
+ | ChEBI_Ref         = 
+ | ChEBI = 145994 
+ | ChEMBL_Ref        = 
+ | ChEMBL            = 4065616 
+ | NIAID_ChemDB      = 
+ | PDB_ligand        = 
+ | synonyms = GS-5734 
+ 
+ < !-- Chemical and physical data -- > 
+ | IUPAC_name = (2''S'')-2- < nowiki/ > {(2''R'',3''S'',4''R'',5''R'')-[5-(4-Aminopyrrolo[2,1-f] [1,2,4]triazin-7-yl)-5-cyano-3,4-dihydroxy-tetrahydro-furan-2-ylmethoxy]phenoxy-(''S'')-phosphorylamino}propionic acid 2-ethyl-butyl ester 
+ | C=27 | H=35 | N=6 | O=8 | P=1 
+ | molecular_weight  = 
+ | SMILES = CCC(COC(=O)[C@@H](NP(=O)(Oc1ccccc1)OC[C@H]1O[C@@]([C@@H]([C@@H]1O)O)(C#N)c1ccc2n1ncnc2N)C)CC 
+ | Jmol              = 
+ | StdInChI = 1S/C27H35N6O8P/c1-4-18(5-2)13-38-26(36)17(3)32-42(37,41-19-9-7-6-8-10-19)39-14-21-23(34)24(35)27(15-28,40-21)22-12-11-20-25(29)30-16-31-33(20)22/h6-12,16-18,21,23-24,34-35H,4-5,13-14H2,1-3H3,(H,32,37)(H2,29,30,31)/t17-,21+,23+,24+,27-,42-/m0/s1 
+ | StdInChI_comment  = 
+ | StdInChIKey = RWWYLEGWBNMMLJ-YSOARWBDSA-N 
+ | density           = 
+ | density_notes     = 
+ | melting_point     = 
+ | melting_high      = 
+ | melting_notes     = 
+ | boiling_point     = 
+ | boiling_notes     = 
+ | solubility        = 
+ | sol_units         = 
+ | specific_rotation = 
+ }} 
+ '''Remdesivir''' is a [[Broad-spectrum antiviral drug|broad-spectrum]] [[antiviral]] [[medication]] created by the [[biopharmaceutical]] company [[Gilead Sciences]]. < ref name= " Scavone_2020 " > {{cite journal | vauthors = Scavone C, Brusco S, Bertini M, Sportiello L, Rafaniello C, Zoccoli A, Berrino L, Racagni G, Rossi F, Capuano A | display-authors = 6 | title = Current pharmacological treatments for COVID-19: what's next? | journal = British Journal of Pharmacology | date = April 2020 | volume = 177 | issue = 21 | pages = 4813–4824 | pmid = 32329520 | doi = 10.1111/bph.15072 | pmc = 7264618 |doi-access=free }} < /ref >  It was designed to treat [[Ebola]]. 
+ 
+ As of 2020, remdesivir is being tested as a specific treatment for [[COVID-19]]. It is being used for the sickest of patients during the [[COVID-19 pandemic|pandemic]]. < ref name= " FDA_EUA " > {{cite web|title=Remdesivir EUA Letter of Authorization|url=https://www.fda.gov/media/137564/download | format=PDF | website=U.S. [[Food and Drug Administration]] (FDA) | date = 1 May 2020 | access-date = 1 May 2020}} < /ref >  It may shorten the time it takes to recover from the infection. < ref > {{cite news | first1=Gina | last1=Kolata | first2=Peter | last2=Baker | first3=Noah | last3=Weiland | name-list-style = vanc | title=Remdesivir Shows Modest Benefits in Coronavirus Trial | website=[[The New York Times]] | date=29 April 2020 | url=https://www.nytimes.com/2020/04/29/health/gilead-remdesivir-coronavirus.html | access-date=3 May 2020}} < /ref >  Treatment is given by [[intravenous|injection]] into a [[vein]]. < ref > {{cite web |title=Remdesivir |url=https://www.drugs.com/ppa/remdesivir.html |website=Drugs.com |access-date=30 April 2020}} < /ref > < ref name= " Mehta2020 " > {{cite journal | vauthors = Mehta N, Mazer-Amirshahi M, Alkindi N | title = Pharmacotherapy in COVID-19; A narrative review for emergency providers | journal = The American Journal of Emergency Medicine | pages = S0735-6757(20)30263-1 | date = April 2020 | volume = 38 | issue = 7 | pmid = 32336586 | doi = 10.1016/j.ajem.2020.04.035 | pmc = 7158837 | url = https://www.ajemjournal.com/article/S0735-6757(20)30263-1/pdf | access-date = 2020-05-05 | archive-date = 2020-05-02 | archive-url = https://web.archive.org/web/20200502110349/https://www.ajemjournal.com/article/S0735-6757(20)30263-1/pdf | url-status = dead }} < /ref > 
+ 
+ On May 1, the United States Food and Drug Administration gave doctors permission to use remdesivir on patients with COVID-19.  Ordinarily, the FDA would test remdesivir first to see if it worked on patients with COVID-19, but because of the COVID-19 pandemic, they told doctors they could start using the drug before the tests were finished. 
+ 
+ In October 2020, the National Institutes of Health told the world the results of its tests: They studied 11,000 people and found that remdesivir did not help keep COVID-19 patients alive.  Gilead and some scientists said the results of the tests might not be correct. < ref name=NYTFail > {{cite news|url=https://www.nytimes.com/2020/10/15/health/coronavirus-remdesivir-who.html?surface=home-discovery-vi-prg & fellback=false & req_id=164688077 & algo=identity & imp_id=643601596 & action=click & module=Science%20%20Technology & pgtype=Homepage|work=New York Times|title=Remdesivir Fails to Prevent Covid-19 Deaths in Huge Trial|date=October 15, 2020|access-date=October 21, 2020|author1=Gina Kolata|author2=Katherine J. Wu}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{2019–20 coronavirus pandemic}} 
+ 
+ [[Category:Drugs]] 
+ [[Category:COVID-19 pandemic]] 
+ [[Category:Esters]] 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:Phosphates]] 
+ 
+ 
+ {{med-stub}}

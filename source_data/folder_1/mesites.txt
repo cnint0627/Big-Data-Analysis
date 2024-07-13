@@ -1,0 +1,52 @@
+{{Automatic taxobox 
+ | name = Mesites 
+ | image = Subdesert Mesite.jpg 
+ | image_caption = [[Subdesert mesite]] (''Monias benschi'') 
+ | parent_authority = [[Alexander Wetmore|Wetmore]], 1960 
+ | display_parents = 2 
+ | taxon = Mesitornithidae 
+ | authority = [[Alexander Wetmore|Wetmore]], 1960 
+ | subdivision_ranks = Genera 
+ | subdivision = ''[[Mesitornis]]'' < br > 
+ ''[[Monias]]'' 
+ | range_map = Madagaskar-mesites-06.jpg 
+ | range_map_upright = 0.8 
+ | range_map_caption = Respective ranges: [[brown mesite]] in orange, [[white-breasted mesite]] in green and [[subdesert mesite]] in blue 
+ }} 
+ 
+ '''Mesites''' are small [[Bird|birds]] which [[Endemism|only occur]] on [[Madagascar]]. They are [[Flightless birds|flightless]], or near-flightless. There are three [[species]], in two [[genera]]. The [[IUCN]] has classified them as [[Near-threatened species|near-threatened]]. The IUCN estimates that there are only about 145.000 birds left. They look like [[Dove|doves]]. 
+ 
+ == Description == 
+ The mesites are [[forest]] and scrubland birds that feed on [[Insect|insects]] and seeds. The brown and white-breasted mesites [[Foraging|forage]] on the ground, gleaning insects from the leaves and under them, as well as low vegetation. The subdesert mesite uses its long bill to probe in the soil. Other birds, such as [[Drongo|drongos]] and [[Old World flycatcher|flycatchers]], will follow mesites to catch any insects they flush and miss. Mesites are vocal birds, with calls similar to [[passerine]] song, used for territorial defence. Two or three white eggs are laid in a stick-nest located in a bush or low branch. < ref name= " EoB " > {{cite book| last1 = Forshaw| first1 = Joseph| title = Encyclopaedia of Animals: Birds| year = 1991| publisher = Merehurst Press| location = London| isbn = 978-1-85391-186-6| pages = 100–101| editor = Forshaw, Joseph }} < /ref >  The ''Mesitornis'' species are [[monogamous]] < ref > {{Cite journal|url=https://link.springer.com/article/10.1007/s00265-013-1624-4|doi = 10.1007/s00265-013-1624-4|title = Delayed juvenile dispersal and monogamy, but no cooperative breeding in white-breasted mesites (Mesitornis variegata)|year = 2014|last1 = Gamero|first1 = Anna|last2 = Székely|first2 = Tamás|last3 = Kappeler|first3 = Peter M.|journal = Behavioral Ecology and Sociobiology|volume = 68|pages = 73–83|s2cid = 17145658}} < /ref >  while ''Monias benschi'' is [[polygamous]] and unlike the other two shows significant [[sexual dichromatism]]. 
+ 
+ == Systematics == 
+ There are two genera, ''Mesitornis'' (2 species) and ''Monias'' (subdesert mesite). < ref > [[IOC World Bird List]] v6.3 [http://www.worldbirdnames.org/ IOC World Bird List]. {{cite web|title=''IOC Names File Plus 6.3''|url=http://www.worldbirdnames.org/IOC_Names_File_Plus-6.3.xlsx|url-status=dead|archive-url=https://web.archive.org/web/20161008110934/http://www.worldbirdnames.org/IOC_Names_File_Plus-6.3.xlsx|archive-date=8 October 2016|access-date=30 August 2016}} < /ref > < ref > {{cite journal|display-authors=etal|title=Part 7- Vertebrates|url=http://mave.tweakdsl.nl/tn/genera7.html|archive-url=https://web.archive.org/web/20161005114629/http://mave.tweakdsl.nl/tn/genera7.html|archive-date=5 October 2016|website=Collection of genus-group names in a systematic arrangement|access-date=30 June 2016|url-status=dead}} < /ref > 
+ {| class= " wikitable collapsible " 
+ |- 
+ !Image 
+ !Genus 
+ !Species 
+ |- 
+ |[[File:Subdesert Mesite.jpg|175x175px]] 
+ |''[[Monias]]''  < small > Oustalet  &  Grandidier, 1903 < /small > 
+ | 
+ * [[Subdesert mesite]] ''Monias benschi''  < small > Oustalet  &  Grandidier, 1903 < /small > 
+ |- 
+ |[[File:White-breasted Mesite - Ankarafantsika - Madagascar S4E9441 (15297364032).jpg|175x175px]] 
+ |''[[Mesitornis]]''  < small > Bonaparte, 1855 < /small >  [''Mesites''  < small > Geoffroy, 1838 non Schoenherr, 1838 < /small > ; ''Mesoenas''  < small > Reichenbach, 1861 < /small > ] 
+ | 
+ * [[White-breasted mesite]], ''Mesitornis variegata''  < small > (Saint-Hilaire, 1838) < /small > 
+ * [[Brown mesite]], ''Mesitornis unicolor''  < small > (Des Murs, 1845) < /small > 
+ |} 
+ Historically, mesites phylogenetics relations were not very clear and have been allied with the [[Gruiformes]], < ref > {{Cite book|title=Phylogeny and classification of birds|url=https://archive.org/details/phylogenyclassif0000sibl|last=Sibley|first=Charles|author2=Jon Edward Ahlquist|publisher=Yale University Press|year=1990|isbn=978-0-300-04085-2|location=New Haven|author-link=Charles Sibley|author2-link=Jon Edward Ahlquist}} < /ref >  [[Turniciformes]] < ref name= " Theropoda " > {{Cite journal|last1=Livezey|first1=Bradley C.|last2=Zusi|first2=RL|date=January 2007|title=Higher-order phylogeny of modern birds (Theropoda, Aves: Neornithes) based on comparative anatomy. II. Analysis and discussion|journal=[[Zoological Journal of the Linnean Society]]|volume=149|issue=1|pages=1–95|doi=10.1111/j.1096-3642.2006.00293.x|pmc=2517308|pmid=18784798}} < /ref >  and [[Columbiformes]]. < ref name= " Hackett " > Hackett, S.J. ''et al.'' (2008) [https://science.sciencemag.org/content/320/5884/1763 A Phylogenomic Study of Birds Reveals Their Evolutionary History]. ''Science'', 320(5884):1763–1768. < /ref > 
+ 
+ Recent phylogenomic studies support [[Pterocliformes]] (sandgrouse) as the sister group of mesites < ref name= " Jarvis2014 " > {{cite journal | last1 = Jarvis | first1 = E.D. |display-authors=etal  | year = 2014 | title = Whole-genome analyses resolve early branches in the tree of life of modern birds | url= | journal = Science | volume = 346 | issue = 6215| pages = 1320–1331 | doi=10.1126/science.1253451 | pmid=25504713 | pmc=4405904| bibcode = 2014Sci...346.1320J }} < /ref > < ref > {{cite journal|author1=Fain, Matthew G.|author2=Houde, Peter|year=2004|title=Parallel radiations in the primary clades of birds|url=https://archive.org/details/sim_evolution_2004-11_58_11/page/2558|journal=[[Evolution (journal)|Evolution]]|volume=58|issue=11|pages=2558–2573|doi=10.1554/04-235|pmid=15612298|s2cid=1296408}} < /ref > < ref > {{cite journal|last1=Yuri|first1=T.|display-authors=etal|year=2013|title=Parsimony and Model-Based Analyses of Indels in Avian Nuclear Genes Reveal Congruent and Incongruent Phylogenetic Signals|journal=Biology|volume=2|issue=1|pages=419–444|doi=10.3390/biology2010419|pmc=4009869|pmid=24832669|doi-access=free}} < /ref >  while some more recent studies place this [[clade]] with another clade constituted of Columbiformes and [[Cuculiformes]] (cuckoos). < ref name= " kuhl2020 " > H Kuhl, C Frankl-Vilches, A Bakker, G Mayr, G Nikolaus, S T Boerno, S Klages, B Timmermann, M Gahr (2020) [https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa191/5891114 An unbiased molecular approach using 3’UTRs resolves the avian family-level tree of life]. ''Molecular Biology and Evolution'', https://doi.org/10.1093/molbev/msaa191 < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Birds of Africa]] 
+ [[Category:IUCN Red List vulnerable species]] 
+ [[Category:Animals of Madagascar]] 
+ 
+ {{stub}}

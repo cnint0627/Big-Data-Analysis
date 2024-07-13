@@ -1,0 +1,152 @@
+The term '''Quasiparticle''' describes a concept in [[physics]] in which energetically excited states in [[matter]] are treated as though they are elementary [[Quantum mechanics|quantum]] particles in their own right.  In fact they may be something less tangible like a [[vibration]] or a [[rotation]]. 
+ 
+ Unlike neutrons, protons, or even atoms and molecules, quasiparticles aren't independent structures floating about on their own in free space but exist only within the structure  being studied.  
+ 
+ For the purposes of modelling the behaviour of the excited  state within the structure  this treatment works very well.   
+ 
+ As the particles emerge from more fundamental structures they are called quasi-particles or quasiparticles. 
+ 
+ These particles have in most cases short  lifetimes, like the [[magnon]] or the [[exciton]]. But there are also some quasi-particles with an infinite lifetime like the [[cooper-pair]] in [[Superconductor|superconductors]].  < ref > {{Cite web|title=c. What are quasi particles?|url=https://www.uni-muenster.de/Physik.AP/Demokritov/en/Forschen/Forschungsschwerpunkte/mBECwaqp.html#:~:text=The%20termQuasi%20particles%20describes,to%20treat%20excitations%20as%20particles.|access-date=2020-09-07|website=www.uni-muenster.de}} < /ref > < ref > {{Cite web|last=Staff|first=ScienceAlert|title=What Is a Quasiparticle?|url=https://www.sciencealert.com/quasiparticles|access-date=2020-09-07|website=ScienceAlert|language=en-gb}} < /ref > 
+ 
+ == List of known quasiparticles == 
+ {| class= " wikitable sortable " 
+ |+Quasiparticles 
+ !Quasiparticle 
+ !Signification 
+ !Underlying particles 
+ |- 
+ |Anyon 
+ |A type of quasiparticle that occurs only in two-dimensional systems, with properties much less restricted than fermions and bosons. 
+ | 
+ |- 
+ |Bion 
+ |A bound state of solitons, named for Born-Infeld model 
+ |soliton 
+ |- 
+ |Bipolaron 
+ |A bound pair of two polarons 
+ |polaron (electron, phonon) 
+ |- 
+ |Bogoliubon 
+ |Broken Cooper pair 
+ |electron, hole 
+ |- 
+ |Configuron 
+ |An elementary configurational excitation in an amorphous material which involves breaking of a chemical bond 
+ | 
+ |- 
+ |[[Cooper pair]] 
+ |A pair of free electrons within a solid that act together as one quasiparticle and gives rise to superconductivity. 
+ |electron 
+ |- 
+ |Dislon 
+ |Associated with a dislocation in lattice structure  in crystalline solids. It emerges from the quantization of the lattice displacement field of a classical dislocation 
+ | 
+ |- 
+ |Dropleton 
+ |The first known quasiparticle that behaves like a liquid 
+ | 
+ |- 
+ |Electron quasiparticle 
+ |An electron as affected by the other forces and interactions in the solid 
+ |electron 
+ |- 
+ |Electron hole (hole) 
+ |A ''lack'' of electron in a valence band 
+ |electron, cation 
+ |- 
+ |Exciton 
+ |A bound state of an electron and a hole 
+ |electron, hole 
+ |- 
+ |Fracton 
+ |A collective quantized vibration on a substrate with a fractal structure. 
+ | 
+ |- 
+ |Fracton (subdimensional particle) 
+ |An emergent quasiparticle excitation that is immobile when in isolation. 
+ | 
+ |- 
+ |Holon (chargon) 
+ |A quasi-particle resulting from electron spin-charge separation 
+ | 
+ |- 
+ |Leviton 
+ |A collective excitation of a single electron within a metal 
+ | 
+ |- 
+ |[[Magnon]] 
+ |A coherent excitation of electron spins in a material 
+ | 
+ |- 
+ |Majorana fermion 
+ |A quasiparticle equal to its own antiparticle, emerging as a midgap state in certain superconductors 
+ | 
+ |- 
+ |Nematicon 
+ |A soliton in nematic liquid crystal media 
+ | 
+ |- 
+ |Orbiton 
+ |A quasiparticle resulting from electron spin-orbital separation 
+ | 
+ |- 
+ |Oscillon 
+ |A soliton-like single wave in vibrating media 
+ | 
+ |- 
+ |Phason 
+ |Vibrational modes in a quasicrystal associated with atomic rearrangements 
+ | 
+ |- 
+ |Phoniton 
+ |A theoretical quasiparticle which is a hybridization of a localized, long-living phonon and a matter excitation 
+ | 
+ |- 
+ |Phonon 
+ |Vibrational modes in a crystal lattice associated with atomic shifts 
+ | 
+ |- 
+ |Plasmaron 
+ |A quasiparticle emerging from the coupling between a plasmon and a hole 
+ | 
+ |- 
+ |Plasmon 
+ |A coherent excitation of a plasma 
+ | 
+ |- 
+ |Polaron 
+ |A moving charged quasiparticle that is surrounded by ions in a material 
+ |electron, phonon 
+ |- 
+ |Polariton 
+ |A mixture of photon with other quasiparticles 
+ |photon, optical phonon 
+ |- 
+ |Roton 
+ |Elementary excitation in superfluid helium-4 
+ | 
+ |- 
+ |Soliton 
+ |A self-reinforcing solitary excitation wave 
+ | 
+ |- 
+ |Spinon 
+ |A quasiparticle produced as a result of electron spin-charge separation that can form both quantum spin liquid and strongly correlated quantum spin liquid 
+ | 
+ |- 
+ |Trion 
+ |A coherent excitation of three quasiparticles (two holes and one electron or two electrons and one hole) 
+ | 
+ |- 
+ |Wrinklon 
+ |A localized excitation corresponding to wrinkles in a constrained two dimensional system 
+ |} 
+ 
+ == References == 
+ < references / > 
+ {{Particles}} 
+ 
+ [[Category:Basic physics ideas]] 
+ [[Category:Quantum mechanics]] 
+ [[Category:Subatomic particles]]

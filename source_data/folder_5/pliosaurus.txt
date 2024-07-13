@@ -1,0 +1,45 @@
+{{italictitle}}{{Use dmy dates|date=December 2023}} 
+ {{Automatic taxobox 
+ | fossil_range = [[Late Jurassic]], {{Geological range|155.7|147}}  
+ | image = Pliosaurus kevani.png 
+ | image_upright = 1.15 
+ | image_caption = ''P. kevani'' holotype skull 
+ | taxon = Pliosaurus 
+ | authority = [[Richard Owen|Owen]], 1842 
+ | type_species = {{extinct}}'''''Pliosaurus brachydeirus''''' 
+ | type_species_authority = Owen, 1842 
+ | subdivision_ranks = Species 
+ | subdivision_ref =  < ref name=Pliosaurus2013 > {{Cite journal | last1 = Benson | first1 = R.B.J. | last2 = Evans | first2 = M. | last3 = Smith | first3 = A.S. | last4 = Sassoon | first4 = J. | last5 = Moore-Faye | first5 = S. | last6 = Ketchum | first6 = H.F. | last7 = Forrest | first7 = R. | editor1-last = Butler | editor1-first = Richard J | title = A giant Pliosaurid skull from the Late Jurassic of England | doi = 10.1371/journal.pone.0065989 | journal = PLOS ONE | volume = 8 | issue = 5 | pages = e65989 | year = 2013 | pmid =  23741520| pmc = 3669260| bibcode = 2013PLoSO...865989B | doi-access = free }} < /ref > < ref name=KnutsenPliosaurus > {{cite journal |author=Espen M. Knutsen |year=2012 |title=A taxonomic revision of the genus ''Pliosaurus'' (Owen, 1841a) Owen, 1841b |journal=Norwegian Journal of Geology |volume=92 |issue=2–3 |pages=259–276 |issn=0029-196X}} [http://geologi.imaker.no/data/f/0/21/02/2_2401_0/NJG_2_3_2012_14_Knutsen_Scr.pdf Low resolution pdf] {{webarchive|url=https://web.archive.org/web/20131224110941/http://geologi.imaker.no/data/f/0/21/02/2_2401_0/NJG_2_3_2012_14_Knutsen_Scr.pdf |date=2013-12-24 }} [http://geologi.imaker.no/data/f/0/21/02/1_2401_0/NJG_2_3_2012_14_Knutsen_Pr.pdf High resolution pdf] {{webarchive|url=https://web.archive.org/web/20131224094822/http://geologi.imaker.no/data/f/0/21/02/1_2401_0/NJG_2_3_2012_14_Knutsen_Pr.pdf |date=2013-12-24 }} < /ref > 
+ | subdivision = 
+ * {{extinct}}'''''P. brachydeirus'''''  < br/ > < small > (Owen, 1841) < /small > 
+ * {{extinct}}'''''P. carpenteri'''''  < br/ > < small > [[Roger Benson|Benson]] ''et al.'', [[2013 in paleontology|2013]] < /small > 
+ * {{extinct}}'''''P. funkei'''''  < br/ > < small > Knutsen ''et al.'', [[2012 in paleontology|2012]] < /small > 
+ * {{extinct}}'''''P. kevani'''''  < br/ > < small > Benson ''et al.'', 2013 < /small > 
+ * {{extinct}}'''''P. rossicus'''''  < br/ > < small > Novozhilov, 1948 < /small > 
+ * {{extinct}}'''''P. westburyensis'''''  < br/ > < small > Benson ''et al.'', 2013 < /small > 
+ {{collapsible list|title=Species pending reassessment| 
+ * {{extinct}}'''''P. brachyspondylus'''''  < br/ > < small > (Owen, 1839) < /small > 
+ * {{extinct}}'''''P. macromerus'''''  < br/ > < small > (Philips, 1871) < /small > 
+ }} 
+ {{collapsible list|title=Species pending ICZN petition| 
+ * {{extinct}}'''''P. patagonicus'''''  < br/ > < small > Gasparini  &  O'Gorman, 2014 < /small > 
+ * {{extinct}}'''''P. almanzaensis'''''  < br/ > < small > Gasparini, Spalleti  &  O'Gorman, 2018 < /small > 
+ }} 
+ | synonyms = 
+ * ''Stretosaurus''  < br/ > < small > Tarlo, 1960 < /small > 
+ * ''Spondylosaurus''  < br/ > < small > Fischer, 1845 < /small > 
+ * ''[[Plesiosaurus]] giganteus''  < br/ > < small > Conybeare, 1824 < /small > 
+ * ''Plesiosaurus recentior''  < br/ > < small > Parkinson, 1822 < /small > 
+ * ''[[Liopleurodon]] rossicus''  < br/ > < small > ([[Nestor Ivanovich Novozhilov|Novozhilov]], 1948) < /small > 
+ }} 
+ 
+ '''''Pliosaurus''''' was an extinct genus of gigantic [[plesiosaur]] from the [[late Jurassic]] of Europe and South America. Their diet included fish, cephalopods, and marine reptiles.  
+ 
+ Most European species of ''Pliosaurus'' grew to about 8 metres (26 ft) long and weighed about 5 metric tons (5.5 short tons). Some would have been the largest plesiosaurs of all time, more than 10 metres (33 ft) in length. Their teeth were triangular in cross section. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Plesiosaurs]] 
+ 
+ {{biology-stub}}

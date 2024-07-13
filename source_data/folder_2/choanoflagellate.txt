@@ -1,0 +1,57 @@
+{{Automatic taxobox 
+ | name = Choanoflagellates 
+ | fossil_range = {{long fossil range|900|0}}  < small > No fossils known, molecular clock evidence for origin 1050-800Ma < ref name= " Wegener-Parfrey et al. 2011 " > {{cite journal |last=Wegener-Parfrey |first=Laura |author2=Lahr, D. J. |author3=Knoll, A. H. |author4=Katz, L.A. |title=Estimating the timing of early eukaryotic diversification with multigene molecular clocks |journal=PNAS |date=August 16, 2011 |volume=108 |issue=33 |pages=13624–13629 |doi=10.1073/pnas.1110633108 |pmid=21810989 |pmc=3158185|doi-access=free }} < /ref > < /small > 
+ | image = 1singlelate.jpg 
+ | image_caption = ''Codosiga'' sp. 
+ | taxon = Choanoflagellatea  
+ | display_parents = 5 
+ | authority = Cavalier-Smith, 1998 < ref > Cavalier-Smith, T. 1998. Neomonada and the origin of animals and fungi. In: Coombs, G. H.; Vickerman, K.; Sleigh, M. A.; Warren, A. (ed.) ''Evolutionary relationships among protozoa''. Kluwer, London, pp. 375–407. < /ref > < ref > {{cite book| last1 = Leadbeater| first1 = Larry S. | year = 2015 | title = The choanoflagellates : evolution, biology, and ecology | url =http://www.cambridge.org/us/academic/subjects/life-sciences/ecology-and-conservation/choanoflagellates-evolution-biology-and-ecology?format=AR | publisher=University of Birmingham | isbn=978-0-521-88444-0}} < /ref >   
+ | subdivision_ranks = Orders  &  families 
+ | subdivision =  
+ * [[Craspedida]] 
+ ** [[Codonosigidae]] (incl. [[Salpingoecidae]]) 
+ * [[Acanthoecida]] 
+ ** [[Stephanoecidae]] 
+ ** [[Acanthoecidae]] 
+ | synonyms = 
+ * Craspedmonadina  < small > Stein, 1878 < /small > 
+ * Choanoflagellata  < small > [[William Saville-Kent|Kent]], 1880 < /small > < ref > [[Saville-Kent, W.]] (1880). ''A manual of Infusoria''. London, vol. 1, p. 324, [https://archive.org/stream/manualofinfusori18081kent#page/324/mode/2up]. < /ref > 
+ * Craspedomonadaceae  < small > Senn, 1900 < /small > 
+ * Craspedophyceae  < small > Chadefaud, 1960 < /small > 
+ * Craspédomonadophycidées  < small > Bourrelly, 1968 < /small > 
+ * Craspedomonadophyceae  < small > Hibberd, 1976 < /small > 
+ * Choanomonadea  < small > Krylov et al., 1980 < /small > 
+ * Choanoflagellida  < small > Levine et al., 1980, Lee et al., 1985 < /small > 
+ * Choanoflagellea  < small > Cavalier-Smith, 1997 < /small > 
+ * Choanomonada  < small > Adl et al. 2005 < /small > < ref > {{cite journal | last1 = Nitsche | first1 = F. | last2 = Carr | first2 = M. | last3 = Arndt | first3 = H. | last4 = Leadbeater | first4 = B. S. | year = 2011 | title = Higher level taxonomy and molecular phylogenetics of the Choanoflagellatea | url = | journal = Journal of Eukaryotic Microbiology | volume = 58 | issue = 5| pages = 452–462 | doi=10.1111/j.1550-7408.2011.00572.x| pmid = 21895836 | s2cid = 2076733 }} < /ref >   
+ }} 
+ [[File:Sphaeroeca-colony.jpg|thumb|180px|''Sphaeroeca'', a colony of choanoflagellates (about 230 individuals)]] 
+ The '''choanoflagellates''' are a [[class (biology)|class]] or [[phylum]] of collared [[microscopic]] [[flagellate]] [[eukaryote]]s. Some species are single cells, some are multicellular. They do not have [[chloroplast]]s, and are [[heterotroph]]ic. Some consider they form the simplest phylum of [[animal]]s; others consider them to be [[protist]]s. < ref > Leadbeater B.S.C.  &  Thomsen H. 2000. Order Choanoflagellida. In Lawrence (ed) ''An illustrated guide to the Protozoa'' 2nd ed, Society of Protozoologists. < /ref > < ref > Carr M. ''et al.'' 2008. Molecular phylogeny of choanoflagellates, the sister group to Metazoa. ''PNAS'' ''105'': 16641–16646. < /ref > 
+ 
+ The Choanoflagellates have many similarities to metazoa, and are the sister group to Metazoa 
+ 
+ {{Clade 
+ |label1=[[Holozoa]] 
+ |1={{Clade 
+    |1=[[Ichthyosporea]][[File:Pirum_gemmata_(24376829715).jpg|60 px]] 
+    |2=[[Pluriformea]][[File:Corallochytrium_limacisporum-2.jpg|60 px]] 
+    |label3=[[Filozoa]] 
+    |3={{Clade 
+       |1=[[Filasteria]][[File:Ministeria_vibrans.jpeg|60 px]] 
+       |label2=[[Choanozoa]] 
+       |2={{Clade 
+          |1='''Choanoflagellata'''[[File:Cronoflagelado2.svg|60 px]] 
+          |2=[[Animalia|Metazoa]][[File:Bathocyroe_fosteri.jpg|60 px]] 
+       }} 
+    }} 
+ }} 
+ }} 
+ ==Related pages== 
+ * [[List of animal phyla]] 
+ * [[Craspedida]] 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Protista]] 
+ [[Category:Invertebrates]] 
+ [[Category:Minor phyla]]

@@ -1,0 +1,125 @@
+{{Automatic taxobox 
+ | image = Sphaeroforma arctica.jpg 
+ | image_alt =  " Sphaeroforma arctica " 
+ | image_caption = ''[[Sphaeroforma arctica]]'' 
+ | fossil_range = {{fossil range|Ediacaran|recent}} 
+ | taxon = Ichthyosporea 
+ | authority = Cavalier-Smith, 1998 < ref > Cavalier-Smith, T. 1998. Neomonada and the origin of animals and fungi. In: Coombs GH, Vickerman K, Sleigh MA, Warren A (ed.) ''Evolutionary relationships among protozoa.'' Kluwer, London, pp. 375-407, < /ref > 
+ | display_parents = 5 
+ | synonyms = Mesomycetozoa  < small > Mendoza et al., 2002 < /small > 
+ | synonyms_ref =  
+ | subdivision_ranks = Orders 
+ | subdivision =  
+ * [[Dermocystida]] 
+ * [[Ichthyophonida]] 
+ }} 
+ 
+ The '''Ichthyosporea''' (or '''DRIP''' [[clade]], or '''Mesomycetozoea''') is a group of [[Microorganism|microscopic organisms]] within the [[Opisthokont]] group. They are mostly parasites of fish and other animals. 
+ 
+ ==Terminology== 
+ The original name, ''ichthyosporea'', described the first discovered species in the group (such as Sphaeroforma arctica). They were all parasites of fish. 
+ 
+ ==Phylogeny== 
+ Its main groups are Dermocystida and Ichthyophonida 
+ {{clade| style=font-size:90%;line-height:100%;line-width:150% 
+ |label1=Mesomycetozoa 
+ |1={{Clade 
+   |label1=[[Dermocystida]] 
+   |1={{Clade 
+     |label1=[[Rhinosporidiaceae]] 
+     |1={{Clade 
+       |1=''[[Sphaerothecum]]'' 
+       |2={{Clade 
+         |1=''[[Dermocystidium]]'' 
+         |2={{Clade 
+           |1=''[[Valentines]]'' 
+           |2={{Clade 
+             |1=''[[Rhinosporidium]]''[[File:Rhinosporidiosis_spherules.jpg|60 px]] 
+             |2={{Clade 
+               |1=''[[Amphibiocystidium]]'' 
+               |2={{Clade 
+                 |1=''[[Dermotheca]]'' 
+                 |2=''[[Dermosporidium]]'' 
+                  }} 
+                }} 
+              }} 
+            }} 
+          }} 
+        }} 
+      }} 
+   |label2=[[Ichthyophonida]] 
+   |2={{Clade 
+     |label1=[[Creolimacidae]] 
+     |1={{Clade 
+       |1=''[[Anurofeca]]'' 
+       |2={{Clade 
+         |1=''[[Creolimax]]''[[File:Creolimax_fragrantissima.jpg|60 px]] 
+         |2=''[[Sphaeroforma]]''[[File:Sphaeroforma_arctica.jpg|60 px]] 
+          }} 
+        }} 
+     |2={{Clade 
+       |label1=''[[Psorospermidae]]'' 
+       |1=''[[Psorospermis]]'' 
+       |2={{Clade 
+         |label1=[[Piridae]] 
+         |1={{Clade 
+           |1=''[[Abeoforma]]''[[File:Abeoforma_whisleri_(23750077933).jpg|60 px]] 
+           |2={{Clade 
+             |1=''[[Caullerya]]'' 
+             |2=''[[Pirum]]''[[File:Pirum_gemmata.jpg|60 px]] 
+              }} 
+            }} 
+         |label2=[[Trichomycina]] 
+         |2={{Clade 
+           |label1=[[Amoebidiidae]] 
+           |1=''[[Amoebidium]]''[[File:Amoebidium_parasiticum.jpg|60 px]] 
+           |2={{Clade 
+             |label1=[[Ichthyophonidae]] 
+             |1=''[[Ichthyophonus]]''[[File:Ichthyophonus-hoferi-1.tif|60 px]] 
+             |2={{Clade 
+               |label1=[[Paramoebidiidae]] 
+               |1=''[[Paramoebidium]]''[[File:Amoebidiales_(10.3897-mycokeys.67.52055)_Figure_30.jpg|60 px]] 
+               |label2=Eccrinida 
+               |2={{Clade 
+                 |label1=[[Parataeniellaceae]] 
+                 |1=''[[Parataeniella]]'' 
+                 |label2=[[Eccrinaceae]] 
+                 |2={{Clade 
+                   |1=''[[Eccrinidus]]'' 
+                   |2={{Clade 
+                     |1=''[[Enterobryus]]'' 
+                     |2={{Clade 
+                       |1=''[[Leidyomyces]]'' 
+                       |2={{Clade 
+                         |1={{Clade 
+                           |1=''[[Enteromyces]]'' 
+                           |2=''[[Arundinula]]'' 
+                         }} 
+                         |2={{Clade 
+                           |1=''[[Enteropogon (ichthyosporean)|Enteropogon]]'' 
+                           |2={{Clade 
+                             |1=''[[Taeniella]]'' 
+                             |2={{Clade 
+                               |1=''[[Taeniellopsis]]'' 
+                               |2={{Clade 
+                                 |1=''[[Astreptonema]]'' 
+                                 |2=''[[Palavascia]]'' 
+                              }} 
+                            }} 
+                          }} 
+                        }} 
+                      }} 
+                    }} 
+                  }} 
+                }} 
+              }} 
+            }} 
+          }}        
+        }} 
+      }} 
+    }} 
+ }} 
+ }} 
+ 
+ [[Category:Parasites]] 
+ [[Category:Protista]]

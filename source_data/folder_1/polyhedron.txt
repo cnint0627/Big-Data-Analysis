@@ -1,0 +1,59 @@
+{| style= " border:8px solid white "  align=right 
+ |- 
+ | 
+ 
+ {| class= " prettytable "   
+ |+Some polyhedra 
+ |align=center|[[File:Dodecahedron light blue.svg|120px]] < br / > [[Dodecahedron]] < br / > ([[Platonic solid|Regular polyhedron]]) 
+ |align=center|[[File:Small stellated dodecahedron.png|120px]] < br / > [[Small stellated dodecahedron]] < br / > ([[Kepler-Poinsot polyhedron|Regular star]]) 
+ |- 
+ |align=center|[[File:Icosidodecaëder.png|120px]] < br / > [[Icosidodecahedron]] < br / > ([[Archimedean solid|Uniform]]) 
+ |align=center|[[File:Great cubicuboctahedron.png|120px]] < br / > [[Great cubicuboctahedron]] < br / > ([[Uniform polyhedron|Uniform star]]) 
+ |- 
+ |align=center|[[File:Rhombictriacontahedron.jpg|120px]] < br / > [[Rhombic triacontahedron]] < br / > ([[Catalan solid|Uniform dual]]) 
+ |align=center|[[File:Elongated pentagonal cupola.png|120px]] < br / > [[Elongated pentagonal cupola]] < br / > ([[Johnson solid|Convex regular-faced]]) 
+ |- 
+ |align=center|[[File:Octagonal prism.png|120px]] < br / > [[Octagonal prism]] < br / > ([[Uniform prism]]) 
+ |align=center|[[File:Square antiprism.png|120px]] < br / > [[Square antiprism]] < br / > ([[Uniform antiprism]]) 
+ |} 
+ 
+ |} 
+ [[File:BluePlatonicDice.jpg|thumb|right|Most [[dice]] are polyhedra.]] 
+ A '''polyhedron''' (''polyhedra'' or ''polyhedrons'' if more than one) is a [[geometry|geometrical]] [[shape]]. It is a [[3D]] shape with flat faces, and straight edges. Each face is a [[polygon]] surrounded by edges. Usually it is known by the number of faces, [[Vertex|corners]], or edges it has.  
+ 
+ There are many groups of polyhedra, which can either be only a small set, or can be infinite. [[Prism (geometry)|Prisms]], [[Pyramid (geometry)|pyramids]], [[Antiprism|antiprisms]], and bipyramids are groups of polyhedra.  
+ 
+ A [[regular polyhedron]] has faces that are all the same, corners that are all the same, and edges that are all the same. A uniform polyhedron can have one or two kinds of its parts be all the same.  
+ 
+ == Definition == 
+ Two types of polyhedron are [[Convex set|convex]] and concave. The edge connecting any two points of a convex polyhedron is inside the polyhedron. The line connecting two points of a concave polyhedron may go outside the polyhedron. The [[Platonic solids]] are regular convex polyhedra.  
+ 
+ Mathematicians do not always agree on what makes a polyhedron. Some may only consider the convex polyhedra, and disregard the ones that are not convex. Some polyhedra are degenerate, meaning that when drawn as real objects, they look flat. 
+ 
+ === Naming === 
+ Usually, polyhedra are named by the number of faces they have. The first polyhedra are the [[tetrahedron]], which is made of four [[triangle]]s, [[pentahedron]] (five faces, can look like a four-sided pyramid), [[hexahedron]] (six faces, a [[cube]] if it is regular), [[heptahedron]] (seven faces) and [[octahedron]] (eight faces). [[Prism (geometry)|Prisms]], [[Pyramid (geometry)|pyramids]] and other shapes can also be named after how many faces they have. 
+ 
+ == Other websites == 
+ *{{Mathworld | urlname=Polyhedron | title=Polyhedron }} 
+ * [http://mathforum.org/sum95/math_and/poly/polyhedra.html Making Polyhedra] 
+ * [http://www.steelpillow.com/polyhedra/ Polyhedra Pages] 
+ * [http://www.software3d.com/Stella.html Stella: Polyhedron Navigator] – Software for exploring polyhedra and printing nets for their physical construction.  Includes uniform polyhedra, stellations, compounds, Johnson solids, etc. 
+ * [http://www.mathconsult.ch/showroom/unipoly/ The Uniform Polyhedra] 
+ * [http://www.georgehart.com/virtual-polyhedra/vp.html Virtual Reality Polyhedra] – The Encyclopedia of Polyhedra 
+ ** [http://www.georgehart.com/virtual-polyhedra/pyramids-info.html Polyhedra and Pyramids] 
+ * [http://www.korthalsaltes.com/ Paper Models of Polyhedra] Many links 
+ * [http://www.polyedergarten.de/ Paper Models of Uniform (and other) Polyhedra] 
+ * [http://ibiblio.org/e-notes/3Dapp/Convex.htm Interactive 3D  polyhedra in Java] {{Webarchive|url=https://web.archive.org/web/20050403235101/http://ibiblio.org/e-notes/3Dapp/Convex.htm |date=2005-04-03 }} 
+ * [http://www.viviasoft.com/polyhedra/index.htm World of Polyhedra] {{Webarchive|url=https://web.archive.org/web/20060414231627/http://www.viviasoft.com/polyhedra/index.htm |date=2006-04-14 }} – Comprehensive polyhedra in flash applet, showing vertices and edges (but not shaded faces) 
+ * [http://www.peda.com/poly Polyhedra software, die-cast models, and posters] 
+ * [http://www.eg-models.de/index.html Electronic Geometry Models] – Contains a peer reviewed selection of polyhedra with unusual properties 
+ * [http://www.uwgb.edu/dutchs/symmetry/symmetry.htm Symmetry, Crystals and Polyhedra] {{Webarchive|url=https://web.archive.org/web/20170224151555/http://www.uwgb.edu/dutchs/symmetry/symmetry.htm |date=2017-02-24 }} 
+ * [http://www.math.technion.ac.il/~rl/kaleido/ uniform solution for uniform polyhedra by Dr. Zvi Har'El] {{Webarchive|url=https://web.archive.org/web/20110520092545/http://www.math.technion.ac.il/~rl/kaleido/ |date=2011-05-20 }} 
+ * [http://www.pentatope.de/applets/polyh2.html Java applet with the use of kaleido] {{Webarchive|url=https://web.archive.org/web/20070818225335/http://www.pentatope.de/applets/polyh2.html |date=2007-08-18 }} 
+ * [https://www.flickr.com/photos/pascalin/sets/72157594234292561/ Origami Polyhedra] – Models made with Modular Origami 
+ * [http://bulatov/org/polyhedra/ Polyhedra Collection]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} – Various virtual and physical polyhedra models 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Polyhedra| ]]

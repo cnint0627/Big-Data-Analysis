@@ -1,0 +1,97 @@
+{{Chembox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 411133144 
+ | ImageFile = Octane-2D-Skeletal.svg 
+ | ImageFile_Ref = {{chemboximage|correct|??}} 
+ | ImageAlt = Skeletal formula of octane 
+ | ImageFile1 = OctaneFull.png 
+ | ImageFile1_Ref = {{chemboximage|correct|??}} 
+ | ImageAlt1 = Skeletal formula of octane with all implicit carbons shown, and all explicit hydrogens added 
+ | ImageFile2 = Octane 3D ball.png 
+ | ImageFile2_Ref = {{chemboximage|correct|??}} 
+ | ImageAlt2 = Ball-and-stick model of octane 
+ | ImageFile3 = N-octane-spaceFilling.png 
+ | ImageFile3_Ref = {{chemboximage|correct|??}} 
+ | ImageSize3 = 160 
+ | ImageAlt3 = Space-filling model of octane 
+ | IUPACName = Octane < ref > {{cite web|title=octane - Compound Summary|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=356 & loc=ec_rcs|work=PubChem Compound|publisher=National Center for Biotechnology Information|accessdate=6 January 2012|location=USA|date=16 September 2004|at=Identification and Related Records}} < /ref > 
+ |Section1={{Chembox Identifiers 
+ | CASNo = 111-65-9 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 356 
+ | ChemSpiderID = 349 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | EINECS = 203-892-1 
+ | UNNumber = 1262 
+ | DrugBank = DB02440 
+ | DrugBank_Ref = {{drugbankcite|changed|drugbank}} 
+ | KEGG = C01387 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | MeSHName = octane 
+ | ChEBI = 17590 
+ | ChEBI_Ref = {{ebicite|changed|EBI}} 
+ | ChEMBL = 134886 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS = RG8400000 
+ | Beilstein = 1696875 
+ | Gmelin = 82412 
+ | 3DMet = B00281 
+ | SMILES = CCCCCCCC 
+ | StdInChI = 1S/C8H18/c1-3-5-7-8-6-4-2/h3-8H2,1-2H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = TVMXDCGIABBOFY-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ }} 
+ |Section2={{Chembox Properties 
+ | C=8 | H=18 
+ | Appearance = Colorless liquid 
+ | Odor = Gasoline-like < ref name= " PGCH " > {{PGCH|0470}} < /ref > 
+ | Density = 0.703 & nbsp;g cm < sup > −3 < /sup > 
+ | MeltingPtK = 216.0 to 216.6 
+ | BoilingPtK = 398.2 to 399.2 
+ | Solubility = 0.007 mg dm < sup > −3 < /sup >  (at 20 & nbsp;°C) 
+ | LogP = 4.783 
+ | VaporPressure = 1.47 kPa (at 20.0 & nbsp;°C) 
+ | HenryConstant = 29 nmol Pa < sup > −1 < /sup >  kg < sup > −1 < /sup > 
+ | RefractIndex = 1.398 
+ | Viscosity = 542 μPa s (at 20 & nbsp;°C) 
+ | MagSus = -96.63·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+ | ConjugateAcid = [[Octonium]] 
+ }} 
+ |Section3={{Chembox Thermochemistry 
+ | DeltaHf = −252.1–−248.5 kJ mol < sup > −1 < /sup > 
+ | DeltaHc = −5.53–−5.33 MJ mol < sup > −1 < /sup > 
+ | Entropy = 361.20 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ | HeatCapacity = 255.68 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ }} 
+ |Section4={{Chembox Hazards 
+ | GHSPictograms = {{GHS flame}} {{GHS exclamation mark}} {{GHS health hazard}} {{GHS environment}} 
+ | GHSSignalWord = '''DANGER''' 
+ | NFPA-H = 1 
+ | NFPA-F = 3 
+ | NFPA-R = 0 
+ | HPhrases = {{H-phrases|225|304|315|336|410}} 
+ | PPhrases = {{P-phrases|210|261|273|301+310|331}} 
+ | FlashPtC = 13.0 
+ | AutoignitionPtC = 220.0 
+ | ExploLimits = 0.96–6.5% 
+ | IDLH = 1000 ppm < ref name= " PGCH " > {{PGCH|0470}} < /ref > 
+ | REL = TWA 75 ppm (350 mg/m < sup > 3 < /sup > ) C 385 ppm (1800 mg/m < sup > 3 < /sup > ) [15-minute] < ref name=PGCH/ > 
+ | PEL = TWA 500 ppm (2350 mg/m < sup > 3 < /sup > ) < ref name=PGCH/ > 
+ | LDLo = 428 mg/kg (mouse, intravenous) < ref > {{IDLH|111659|Octane}} < /ref > 
+ }} 
+ |Section5={{Chembox Related 
+ | OtherFunction_label = alkanes 
+ | OtherFunction = {{Unbulleted list|[[Heptane]]|[[Nonane]]}} 
+ }} 
+ }} 
+ '''Octane''' is an [[organic compound]] with the [[chemical formula]] {{chem|[[Carbon|C]]|8|[[Hydrogen|H]]|18}}. It is an [[alkane]] with eight carbon [[atom]]s. It is commonly used in fuel. It is the most important part of [[gasoline]], because it is the part that lets out most of the [[energy]] that comes from gasoline when it is burned. A ''high octane'' fuel will be better than a ''low octane'' fuel. 
+ == References == 
+ < references / > 
+ 
+ 
+ [[Category:Alkanes|8]] 
+ 
+ 
+ {{chem-stub}}

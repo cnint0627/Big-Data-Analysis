@@ -1,0 +1,17 @@
+{{complex|date=November 2023}} 
+ {{About|a method in computational chemistry|the human INDO gene|Indoleamine 2,3-dioxygenase }} 
+ '''INDO''' stands for '''Intermediate Neglect of Differential Overlap'''. It is a [[semi-empirical quantum chemistry method]] that is a development of the [[CNDO/2|complete neglect of differential overlap]] (CNDO/2) method  developed by [[John Pople]]. Like CNDO/2 it uses [[zero-differential overlap]] for the two-[[electron]] [[integral]]s. Integrals for over orbitals centered on the same [[atom]] are included in the INDO method. < ref > J. Pople, D. L. Beveridge and P. A. Dobosh, [[Journal of Chemical Physics]], 47, 2026, (1967) < /ref > < ref > {{cite book |last= Pople |first= J.A. |authorlink= John Pople |author2= D. Beveridge 
+ |title= Approximate Molecular Orbital Theory |url= https://archive.org/details/approximatemolec0000popl |publisher= McGraw-Hill |year= 1970 |location= }} < /ref > 
+ 
+ The method is now rarely used in its original form. But it is the basis for several other methods, such as [[MINDO]], [[ZINDO]] and [[SINDO]]. 
+ 
+ ==Related pages== 
+ *[[Computational chemistry]] 
+ 
+ == References == 
+ < references/ > 
+ 
+ 
+ {{chem-stub}} 
+ 
+ [[Category:Semiempirical quantum chemistry methods]]

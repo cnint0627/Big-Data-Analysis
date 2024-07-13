@@ -1,0 +1,29 @@
+{{Orphan|date=May 2009}} 
+ {{Infobox Software 
+ | name                   = JSPWiki 
+ | logo                   =  
+ | screenshot             =  
+ | caption                =  
+ | collapsible            =  
+ | developer              = [[Apache Software Foundation]] 
+ | latest release version = 2.12.1 
+ | latest release date    = {{release date|2023|08|11}} 
+ | latest preview version =  
+ | latest preview date    =  
+ | operating system       = [[Cross-platform]] 
+ | genre                  = [[Wiki software]] 
+ | license                = [[Apache License]] 
+ | website                = [http://jspwiki.apache.org/ jspwiki.apache.org] 
+ }} 
+ 
+ '''JSPWiki''' is a feature-rich and extensible [[WikiWiki]] software built around the standard J2EE components (Java, servlets, JSP). 
+ It was created by [[Janne Jalkanen]]. 
+ 
+ == Other websites == 
+ 
+ *[http://jspwiki.apache.org JSPWiki Homepage] 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Wiki software]] 
+ [[Category:Cross-platform software]]

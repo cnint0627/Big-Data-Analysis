@@ -1,0 +1,36 @@
+{{Orphan|date=May 2009}} 
+ 
+ {{lowercase}} 
+ {{Infobox Software 
+ | name                   = klik 
+ | logo                   =  
+ | screenshot             = Klik.png 
+ | caption                =  
+ | collapsible            =  
+ | author                 =  
+ | developer              = [[Simon Peter (developer)|Simon Peter]] 
+ | released               =  
+ | latest release version = 0.5r9 
+ | latest release date    = {{release date|2006|06|7}} 
+ | latest preview version =  
+ | latest preview date    =  
+ | frequently updated     =  
+ | programming language   =  
+ | operating system       = [[Linux]] 
+ | platform               =  
+ | size                   =  
+ | language               =  
+ | status                 = discontinued 
+ | genre                  = [[Software download system]] 
+ | license                = [[GPL]] (client) 
+ | website                = [http://klik.atekon.de/ klik.atekon.de] 
+ }} 
+ '''klik''' is a system for [[software]] [[download]] and use on [[Linux]]. 
+ 
+ ==Related pages== 
+ *[[RUNZ]], similar method 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux software]]

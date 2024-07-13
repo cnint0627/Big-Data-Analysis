@@ -1,0 +1,41 @@
+{{Use dmy dates|date=May 2019}} 
+ {{Infobox DMU 
+ |name =  < span style= " color:#fff; " > ''Clubman''/''Turbostar'' < /span > 
+ |image = 171802 at NRM 01 June 2004.jpg 
+ |imagesize = 300px 
+ |background = #000066 
+ |caption = Class 171 – 171802 Turbostar Unit in the [[Southern (train operating company)|Southern]] livery 
+ |service = 1998 – present 
+ |manufacturer = [[Bombardier Transportation]], [[Derby Carriage and Wagon Works|Derby]] < br > (formerly [[ADtranz]]) 
+ |yearconstruction = 1998 – present 
+ |refurbishment = 
+ |numberbuilt = 196 trainsets 
+ |formation = 2, 3 or 4 carriages per trainset 
+ |capacity = Varies depending on number of cars and seating configuration, see individual articles for details 
+ |operator = See details below 
+ |fleetnumbers = 
+ |lines = 
+ |carlength = {{convert|23.62|m|ftin|0|abbr=on}} 
+ |width = {{convert|2.69|m|ftin|0|abbr=on}} 
+ |height = {{convert|3.77|m|ftin|0|abbr=on}} 
+ |weight = Varies depending on number of cars and seating configuration, see individual articles for details 
+ |maxspeed = {{convert|100|mph|km/h|abbr=on}} 
+ |traction = 
+ |engine = [[MTU Friedrichshafen|MTU]] 6R 183TD 
+ |safety = Various combinations of [[Automatic Train Protection|ATP]], [[Automatic Warning System#British Rail AWS|AWS]], [[Train Protection  &  Warning System|TPWS]], [[Train stop|Tripcock]] system 
+ |coupling=[[BSI coupling|BSI]] < ref > {{cite web |url=http://www.rssb.co.uk/rv_coupling_system_data/list_index.asp |title=System Data for Mechanical and Electrical Coupling of Rail Vehicles |accessdate=5 January 2009 |publisher=Rail Safety and Standards Board|archiveurl=https://web.archive.org/web/20080705034433/http://rssb.co.uk/rv_coupling_system_data/list_index.asp|archivedate=5 July 2008}} < /ref > /[[Dellner coupling|Dellner couplers]] (Class 171, see below) 
+ |gauge = {{RailGauge|sg|al=on}} 
+ }} 
+ '''Turbostar''' is the name given to a series of [[diesel multiple units]] (DMU) built by [[Bombardier Transportation]] (previously [[ADtranz]]) at their [[Derby Carriage and Wagon Works|Litchurch Lane]] Works in [[Derby]], England. The Turbostar was the first new train type to be introduced after the [[privatisation of British Rail]], and is the most common type of diesel multiple unit (its electrical variant, the [[Electrostar]], is the most common electric multiple unit). The first units were ordered by [[Chiltern Railways]] in 1996 and were designated [[British Rail Class 168|Class 168]] (also known as ''Clubman''). Since then the family has grown with the addition of the [[British Rail Class 170|Class 170]], [[British Rail Class 171|Class 171]], and (in development) the [[British Rail Class 172|Class 172]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Turbostar}} 
+ 
+ [[Category:Bombardier multiple units]] 
+ [[Category:Adtranz multiple units]] 
+ [[Category:British Rail diesel multiple units]] 
+ 
+ 
+ {{transport-stub}}

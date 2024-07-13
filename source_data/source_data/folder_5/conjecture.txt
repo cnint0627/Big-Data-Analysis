@@ -1,0 +1,27 @@
+A '''conjecture''' is an idea in [[mathematics]] that appears ''likely'' to be true but that has not been ''proven'' to be true. 
+ 
+ After a conjecture is proven to be true, it becomes a [[theorem]]. 
+ 
+ ==Famous conjectures== 
+ Until recently, one of the most famous conjectures was [[Fermat's Last Theorem]]. The name was incorrect, because although [[Pierre de Fermat|Fermat]] said he had a proof for it, none could be found in his notes. In 1992, British mathematician [[Andrew Wiles]] found a proof for it, making it a theorem and not a conjecture. 
+ 
+ Other famous conjectures include: 
+ 
+ * There are no odd [[perfect number]]s 
+ * [[Goldbach's conjecture]] 
+ * The [[twin prime conjecture]] 
+ * The [[Collatz conjecture]] 
+ * The [[Riemann hypothesis]] 
+ * [[P versus NP]] 
+ * The [[Poincaré conjecture]] (proven by [[Grigori Perelman]]) 
+ 
+ ==Undecidable conjectures== 
+ 
+ Not every conjecture can be proven true or false. The [[continuum hypothesis]], which describes the size of certain [[infinite set]]s, is an example. It was shown to be independent of the generally accepted [[Zermelo-Fraenkel axioms|axioms of set theory]], which means that it cannot be proven true or false using those [[axiom]]s. It is therefore possible to take this statement, or its negation, as a new [[axiom]] in a consistent manner (much as we can take [[Euclid]]'s [[parallel postulate]] as either true or false). 
+ 
+ In this case, if a proof uses this statement, researchers will often look for a new proof that ''does not'' require the hypothesis  < !--(in the same way that it is desirable that statements in [[Euclidean geometry]] be proved using only the axioms of neutral geometry, i.e. no parallel postulate.)-- > The one major exception to this in practice is the [[axiom of choice]] -- unless studying this axiom in particular, the majority of researchers do not usually worry whether a result requires the axiom of choice. 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Conjectures| ]]

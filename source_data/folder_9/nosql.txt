@@ -1,0 +1,25 @@
+{{Unreferenced|date=May 2020}} 
+ A very common [[programming language]] for accessing a [[database]] is called [[SQL]]. Many of these databases use the mathematical concept of [[relation]]s to store the data. '''NoSQL''' is a term for databases that do not use relations, to store the data in the database. Relational databases have the benefit of being able to guarantee that all the data stored in the database is [[ACID|consistent]]. The drawback of this is that the cost of indexing the data grows with the amount of data.  
+ 
+ NoSQL approaches do not give strong guarantees about consistency, but they are able to better handle the situations where relational database systems have problems coping. < ref > {{Cite web|date=2021-12-10|title=What are NoSQL Databases? {{!}} Data Basecamp|url=https://databasecamp.de/en/data/nosql-databases|access-date=2022-06-03|language=en-US}} < /ref > 
+ 
+ NoSQL is a non-relational DBMS, that does not require a fixed schema, avoid joins, and is easy to scale. 
+ 
+ The purpose of using a NoSQL database is for distributed data stores with humongous data storage needs. 
+ 
+ NoSQL is used for Big data and real-time web apps. For example, companies like twitter, Facebook, google collect terabytes of user data every single day. 
+ 
+ NoSQL DBs could be grouped as follows, but these are archetypes rather than strict boundaries : 
+ 
+ * Wide Column Stores, like Cassandra. 
+ * Key Value Stores, like Redis. 
+ * Document DBs, like CouchDB. 
+ * Graph DBs, like Neo4j. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{stub}} 
+ 
+ [[Category:Database modeling]]

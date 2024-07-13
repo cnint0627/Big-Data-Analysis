@@ -1,0 +1,20 @@
+'''Backpropagation''' is a method of training [[neural network]]s to perform tasks more accurately. < ref > {{Cite web|date=2021-12-04|title=Understanding the Backpropagation Algorithm {{!}} Data Basecamp|url=https://databasecamp.de/en/ml/backpropagation-basics|access-date=2022-07-01|language=en-US}} < /ref >  The algorithm was first used for this purpose in 1974 in papers published by [[Paul Werbos|Werbos]], [[David E. Rumelhart|Rumelhart]], [[Geoffrey E. Hinton|Hinton]], and [[Ronald J. Williams|Williams]]. The term backpropagation is short for  " backward propagation of errors " . 
+ 
+ It works especially well for feed forward neural networks (networks without any loops) and problems that require [[supervised learning]]. 
+ 
+ == How it works == 
+ The idea is to test how wrong the neural network is and then correct it. This is repeated many times. 
+ 
+ With a little more detail: 
+ 
+ # You create a [[loss function]], which shows how far the answers from the neural net are from the real answers. (This is often done many times. After that you take the [[average]]) 
+ # You calculate how to adjust the parameters (weights and biases) inside the neural net through the [[Derivative (mathematics)|derivative]] of the loss function. Specifically, the [[chain rule]] is used to find the derivative with respect to each parameter. 
+ # You adjust the parameters. How you adjust the parameters is based on your training method, with one of the simplest being [[gradient descent]] . 
+ 
+ 
+ This is repeated until the neural network is good enough at its job -i.e., its error as measured by the loss function is low. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Algorithms]]

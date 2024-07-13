@@ -1,0 +1,68 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Medelpad 
+ | image_caption           =  
+ | image_shield            = Medelpad vapen.svg 
+ | shield_size             = 120px 
+ | motto                   =  
+ | image_map               = Sverigekarta-Landskap Medelpad.svg 
+ | mapsize                 = 120px 
+ | map_alt                 =  
+ | map_caption             = 
+ | coordinates             = {{Coord|62.600|N|16.250|E|region:SE_source:enwiki-uniquenames|display=it}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = Country 
+ | subdivision_name        = [[Sweden]] 
+ | subdivision_type1       = [[Lands of Sweden|Land]] 
+ | subdivision_name1       = [[Norrland]] 
+ | subdivision_type2       = Counties 
+ | subdivision_name2       = [[Västernorrland County]] 
+ | unit_pref               = Metric < !-- or US or UK -- > 
+ | area_footnotes          =  
+ | area_total_km2          = 7,058 
+ | area_land_km2           =  
+ | area_water_km2          =  
+ | area_water_percent      =  
+ | area_note               = 
+ | population_footnotes    =  < ref > [http://www.scb.se/Pages/TableAndChart____293162.aspx Statistics Sweden] < /ref > 
+ | population_total        = 123,397 
+ | population_as_of        = 2009 
+ | population_density_km2  = auto 
+ | population_demonym      =  
+ | population_note         =  
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | postal_code_type        = [[List of postal codes in Sweden|Postal codes]] 
+ | postal_code             =  
+ | area_code_type          = [[Telephone numbers in Sweden|Area codes]] 
+ | area_code               =  
+ | demographics_type1      = Ethnicity 
+ | demographics1_title1    = Language 
+ | demographics1_info1     = [[Swedish language|Swedish]]  < small > ([[North Swedish]]) < /small > 
+ | demographics_type2      = Culture 
+ | demographics2_title2    = Flower 
+ | demographics2_info2     = [[Spruce]] 
+ | demographics2_title3    = Animal 
+ | demographics2_info3     = [[Mountain Hare]] 
+ | demographics2_title4    = Bird 
+ | demographics2_info4     = [[Small crossbill]] 
+ | demographics2_title5    = Fish 
+ | demographics2_info5     = [[Perch]] 
+ | website                 =  < !-- {{URL|example.com}} -- > 
+ | footnotes               =  
+ }} 
+ '''Medelpad''' is a [[provinces of Sweden|historical province]] in northern [[Sweden]]. Major rivers are [[Ljungan]] and [[Indalsälven]]. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{commonscat-inline|Medelpad}} 
+ 
+ 
+ {{europe-stub}} 
+ 
+ {{DEFAULTSORT:Medelpad}} 
+ [[Category:Provinces of Sweden]]

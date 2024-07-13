@@ -1,0 +1,90 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Delfzijl 
+ | settlement_type         = [[City]] and former municipality 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Zicht op Delfzijl1.jpg 
+ | image_caption           = Skyline of Delfzijl in 2011 
+ | image_flag              = Flag of Delfzijl.svg 
+ | flag_size               = 100x67px 
+ | image_shield            = Delfzijl wapen.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              = Coat of Arms of Delfzijl 
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 0010 (2009).svg 
+ | map_alt                 = Highlighted position of Delfzijl in a municipal map of Groningen 
+ | map_caption             = Location of the former municipality in the province of [[Groningen (province)|Groningen]] 
+ | coordinates             = {{coord|53|20|N|6|55|E|region:NL-GR|display=inline,title}} 
+ | subdivision_type        = Country 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = Province 
+ | subdivision_name1       = {{flag|Groningen}} 
+ | subdivision_type2       = Municipality 
+ | subdivision_name2       = [[Eemsdelta]] 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Delfzijl}} 
+ | area_land_km2           = {{Dutch municipality land area|Delfzijl}} 
+ | area_water_km2          = {{Dutch municipality water area|Delfzijl}} 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web  
+  |url = http://www.ahn.nl/postcodetool 
+  |title = Postcodetool for 9934EA  
+  |trans-title=|language = Dutch 
+  |author =  < !--Staff writer(s); no by-line.-- >   
+  |work = Actueel Hoogtebestand Nederland 
+  |publisher = Het Waterschapshuis 
+  |accessdate = 16 January 2014}} < /ref > 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Delfzijl}} 
+ | population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|Delfzijl}}  < !-- For automatic calculation: auto-- > 
+ | population_demonym      = Delfzijler 
+ < !-- Other information -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 0596 < ref > {{in lang|nl}} [http://www.telefoonboek.nl/netnummer/ Netnummer zoeken], Telefoonboek.nl. Retrieved 22 October 2015. < /ref > 
+ | website                 = {{URL|1=http://www.delfzijl.nl}} 
+ }} 
+ '''Delfzijl''' is a small city and former municipality in the very north of the [[Netherlands]], in the province of [[Groningen (province)|Groningen]]. It has around 25,000 [[inhabitant]]s. It has the fifth most important seaport in the country. Since 2021, it has been part of the new municipality of [[Eemsdelta]]. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ *{{Official website|http://www.delfzijl.nl/}} (in Dutch) 
+ *{{Commons category-inline|Delfzijl}} 
+ *{{wikivoyage-inline|Delfzijl}} 
+ 
+ < !--Please note that not all directions need to be filled-- > 
+ < !--Please note that preferably only neighboring municipalities or bodies of water should be used-- > 
+ {{Geographic location 
+ |Centre    = Delfzijl 
+ |North     =  
+ |Northeast = ''[[Ems]]'' river ([[Germany|DE]]-[[Lower Saxony|NI]]) 
+ |East      = 
+ |Southeast =  
+ |South     = [[Wagenborgen]] 
+ |Southwest = [[Siddeburen]] 
+ |West      = [[Appingedam]] 
+ |Northwest = [[Holwierde]] 
+ }} 
+ 
+ {{Authority control}} 
+ 
+ 
+ {{multistub|geo|Europe}} 
+ 
+ [[Category:Port cities and towns of the North Sea]] 
+ [[Category:21st-century disestablishments in the Netherlands]] 
+ [[Category:Cities in Groningen (province)]] 
+ [[Category:Former municipalities of Groningen (province)]] 
+ [[Category:Eemsdelta]]

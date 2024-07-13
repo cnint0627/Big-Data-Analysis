@@ -1,0 +1,656 @@
+A '''byte''' is a [[unit]] of [[measurement]] of the size of [[information]] on a [[computer]] or other [[Electronics|electronic]] device. A single byte is usually eight [[bit]]s. Some early computers used six bits for each byte. Bits are the smallest unit of storage on a computer, a single on/off value. Bytes are often represented by the capital letter '''B''', bits by a lower case '''b'''. 
+ 
+ A single typed [[character]] (for example, 'x' or '8') is stored in one byte. The character is held as a [[binary]] number which [[encode]]s a text character. To map each number to a character an agreed code such as [[EBCDIC]] or [[ASCII]] is needed.  EBCDIC is a [[character encoding]] used mainly on [[mainframe computer|mainframe computers]]. It uses 8 bits per byte. ASCII is another encoding that only uses seven bits. ''Extended ASCII'' uses 8 bits to give more types of characters, mostly used on [[personal computers]]. 
+ 
+ The byte is the smallest useful unit of measure to show how many characters a computer (or electronics device) can hold.  This is useful for things like [[Random Access Memory|RAM]], or storage devices like [[USB flash drive|USB drives]] and other types of [[Flash memory]]. Sending of data (for a [[modem]] or [[wi-fi]]) is usually measured in bits, not bytes. 
+ 
+ On modern computers one byte is equal to eight [[bit]]s. Some early computers used fewer bits for each byte. To tell them apart, computer scientists called an 8 bit byte an [[Octet (computing)|octet]]. In modern usage, an octet and a byte are the same. 
+ 
+ == Abbreviation == 
+ The symbol for  " byte "  is  " B " . Sometimes a lowercase  " b "  is used, but this use is incorrect because  " b "  is actually the [[IEEE]] symbol for  " bit " . The [[IEC]] symbol for bit is bit.  For example,  " MB "  means  " megabyte "  and  " Mbit "  means  " megabit " . The difference is important because 1 megabyte (MB) is 1,000,000 bytes, and 1 megabit (Mbit) is 1,000,000 bits or 125,000 bytes. It's easy to confuse the two, but bits are much smaller than bytes, so the symbol  " b "  should be used when referring to  " bits "  and an uppercase  " B "  when referring to  " bytes " . 
+ 
+ == Names for larger units == 
+ For large data, byte is often used with a binary [[prefix]]: 
+ * [[Kilobyte]]/[[kibibyte]] (KB) (2 < sup > 10 < /sup > ) 
+ * [[Megabyte]]/[[mebibyte]] (MB) (2 < sup > 20 < /sup > ) 
+ * [[Gigabyte]]/[[gibibyte]] (GB) (2 < sup > 30 < /sup > ) 
+ * [[Terabyte]]/[[tebibyte]] (TB) (2 < sup > 40 < /sup > ) 
+ 
+ The following terms represent even larger units of bytes, but are very rarely used: 
+ * [[Petabyte]]/[[pebibyte]] (PB) (2 < sup > 50 < /sup > ) 
+ * [[Exabyte]]/[[exbibyte]] (EB) (2 < sup > 60 < /sup > ) 
+ * [[Zettabyte]] (ZB) (2 < sup > 70 < /sup > ) 
+ * [[Yottabyte]] (YB) (2 < sup > 80 < /sup > ) 
+ 
+ == Byte Chart == 
+ According to the International Electrotechnical Commission (IEC), who sets many computer standards, these charts show how bytes should be referred to. 
+ 
+ People who refer to 1 kilobyte as 1,024 bytes, for example, are technically incorrect; 1,024 bytes should be referred to as 1 kibibyte, according to the IEC.  < ref > {{cite web|title=official SI units for computers|url=http://physics.nist.gov/cuu/Units/binary.html|publisher=NIST|accessdate=4 April 2013}} < /ref >  However, using 1024 for kilo and 1048576 for mega, etc. was widely practiced before the IEC standards were set in 1998. There is some confusion and mixing of terms in the marketplace. [[Computer memory]] is still referred to in powers of 2, so 1KB of memory is 1024 bytes, whereas in [[computer data storage]] powers of 10 are used, so 1KB is 1000 bytes. 
+ 
+ === " kilo- "  = 1,000 === 
+ When using standard [[International System of Units|metric]] names like  " kilo- " ,  " mega- "  and  " giga- " , they should follow the same measure that other metric measurements use, like [[kilometer]] (1 kilometer = 1,000 meters), or [[gigahertz]] (1 gigahertz = 1,000,000,000 hertz) for example. 
+ {| class= " wikitable mw-collapsible mw-collapsed " 
+ ! Unit 
+ ! Number 
+ ! Short scale 
+ ! Long scale 
+ ! Scientific,E Notation/ Power of 10 
+ |- 
+ | Byte  
+ (B) 
+ | 1 
+ | 1  
+ byte 
+ | 1  
+ byte 
+ |1*10 < sup > 0 < /sup > ,1E0 / 10 < sup > 0 < /sup > 
+ |- 
+ | Kilobyte  
+ (KB) 
+ | 1,000 
+ | 1  
+ thousand  
+ 
+ bytes 
+ | 1  
+ thousand  
+ 
+ bytes 
+ |1*10 < sup > 3 < /sup > ,1E3 / 10 < sup > 3 < /sup > 
+ |- 
+ | Megabyte (MB) 
+ | 1,000,000 
+ | 1  
+ million  
+ 
+ bytes 
+ | 1  
+ million  
+ 
+ bytes 
+ |1*10 < sup > 6 < /sup > ,1E6 / 10 < sup > 6 < /sup > 
+ |- 
+ | Gigabyte (GB) 
+ | 1,000,000,000 
+ | 1 
+ billion  
+ 
+ bytes 
+ | 1 
+ billion  
+ 
+ bytes 
+ |1*10 < sup > 9 < /sup > ,1E9 / 10 < sup > 9 < /sup > 
+ |- 
+ | Terabyte  
+ (TB) 
+ | 1,000,000,000,000 
+ | 1 
+ trillion  
+ 
+ bytes 
+ | 1 
+ trillion  
+ 
+ bytes 
+ |1*10 < sup > 12 < /sup > ,1E12 / 10 < sup > 12 < /sup > 
+ |- 
+ | Petabyte  
+ (PB) 
+ | 1,000,000,000,000,000 
+ | 1  
+ quadrillion  
+ 
+ bytes 
+ | 1  
+ quadrillion  
+ 
+ bytes 
+ |1*10 < sup > 15 < /sup > ,1E15 / 10 < sup > 15 < /sup > 
+ |- 
+ | Exabyte  
+ (EB) 
+ | 1,000,000,000,000,000,000 
+ | 1  
+ quintillion  
+ 
+ bytes 
+ | 1  
+ quintillion  
+ 
+ bytes 
+ |1*10 < sup > 18 < /sup > ,1E18 / 10 < sup > 18 < /sup > 
+ |- 
+ | Zettabyte (ZB) 
+ | 1,000,000,000,000,000,000,000 
+ | 1  
+ sextillion  
+ 
+ bytes 
+ | 1 
+ sextillion  
+ 
+ bytes 
+ |1*10 < sup > 21 < /sup > ,1E21 / 10 < sup > 21 < /sup > 
+ |- 
+ | Yottabyte (YB) 
+ | 1,000,000,000,000,000,000,000,000 
+ | 1  
+ septillion  
+ 
+ bytes 
+ | 1 
+ septillion  
+ 
+ bytes 
+ |1*10 < sup > 24 < /sup > ,1E24 / 10 < sup > 24 < /sup > 
+ |- 
+ | Brontobyte (BB) (unofficial) 
+ | 1,000,000,000,000,000,000,000,000,000 
+ | 1 
+ octillion  
+ 
+ bytes 
+ | 1 
+ octillion  
+ 
+ bytes 
+ |1*10 < sup > 27 < /sup > ,1E27 / 10 < sup > 27 < /sup > 
+ |- 
+ | Geopbyte (GpB/GeB) (unofficial) 
+ | 1,000,000,000,000,000,000,000,000,000,000 
+ | 1 
+ nonillion  
+ 
+ bytes 
+ | 1 
+ nonillion  
+ 
+ bytes 
+ |1*10 < sup > 30 < /sup > ,1E30 / 10 < sup > 30 < /sup > 
+ |- 
+ |Saganbyte (SB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Decillion 
+ 
+ bytes 
+ |1 
+ Decillion 
+ 
+ bytes 
+ |1*10 < sup > 33 < /sup > ,1E33 / 10 < sup > 33 < /sup > 
+ |- 
+ |Pijabyte  
+ (PjB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Undecillion 
+ 
+ bytes 
+ |1 
+ Undecillion 
+ 
+ bytes 
+ |1*10 < sup > 36 < /sup > ,1E36 / 10 < sup > 36 < /sup > 
+ |- 
+ |Alphabyte (AB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Duodecillion 
+ 
+ bytes 
+ |1 
+ Duodecillion 
+ 
+ bytes 
+ |1*10 < sup > 39 < /sup > ,1E39 / 10 < sup > 39 < /sup > 
+ |- 
+ |Pectrolbyte (PcB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Tredecillion 
+ 
+ bytes 
+ |1 
+ Tredecillion 
+ 
+ bytes 
+ |1*10 < sup > 42 < /sup > ,1E42 / 10 < sup > 42 < /sup > 
+ |- 
+ |Bolgerbyte (BoB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Quattuordecillion 
+ 
+ bytes 
+ |1 
+ Quattuordecillion 
+ 
+ bytes 
+ |1*10 < sup > 45 < /sup > ,1E45 / 10 < sup > 45 < /sup > 
+ |- 
+ |Sambobyte (SaB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Quindecillion 
+ 
+ bytes 
+ |1 
+ Quindecillion 
+ 
+ bytes 
+ |1*10 < sup > 48 < /sup > ,1E48 / 10 < sup > 48 < /sup > 
+ |- 
+ |Quesabyte (QB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Sexdecillion 
+ 
+ bytes 
+ |1 
+ Sexdecillion 
+ 
+ bytes 
+ |1*10 < sup > 51 < /sup > ,1E51 / 10 < sup > 51 < /sup > 
+ |- 
+ |Kinsabyte (KiB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Septendecillion 
+ 
+ bytes 
+ |1 
+ Septendecillion 
+ 
+ bytes 
+ |1*10 < sup > 54 < /sup > ,1E54 / 10 < sup > 54 < /sup > 
+ |- 
+ |Rutherbyte (RB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Octodecillion 
+ 
+ bytes 
+ |1 
+ Octodecillion 
+ 
+ bytes 
+ |1*10 < sup > 57 < /sup > ,1E57 / 10 < sup > 57 < /sup > 
+ |- 
+ |Dubnibyte (DB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Novemdecillion 
+ 
+ bytes 
+ |1 
+ Novemdecillion 
+ 
+ bytes 
+ |1*10 < sup > 60 < /sup > ,1E60 / 10 < sup > 60 < /sup > 
+ |- 
+ |Hassiubyte (HaB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Vigintillion 
+ 
+ bytes 
+ |1 
+ Vigintillion 
+ 
+ bytes 
+ |1*10 < sup > 63 < /sup > ,1E63 / 10 < sup > 63 < /sup > 
+ |- 
+ |Meitnerbyte (MnB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Unvigintillion 
+ 
+ bytes 
+ |1 
+ Unvigintillion 
+ 
+ bytes 
+ |1*10 < sup > 66 < /sup > ,1E66 / 10 < sup > 66 < /sup > 
+ |- 
+ |Darmstadbyte (DrB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Duovigintillion 
+ 
+ bytes 
+ |1 
+ Duovigintillion 
+ 
+ bytes 
+ |1*10 < sup > 69 < /sup > ,1E3 / 10 < sup > 69 < /sup > 
+ |- 
+ |Roentbyte (RaB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Trevigintillion 
+ 
+ bytes 
+ |1 
+ Trevigintillion 
+ 
+ bytes 
+ |1*10 < sup > 72 < /sup > ,1E3 / 10 < sup > 72 < /sup > 
+ |- 
+ |Sophobyte (SoB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Quattuorvigintillion 
+ 
+ bytes 
+ |1 
+ Quattuorvigintillion 
+ 
+ bytes 
+ |1*10 < sup > 75 < /sup > ,1E3 / 10 < sup > 75 < /sup > 
+ |- 
+ |Coperbyte (CoB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Quinvigintillion 
+ 
+ bytes 
+ |1 
+ Quinvigintillion 
+ 
+ bytes 
+ |1*10 < sup > 78 < /sup > ,1E78 / 10 < sup > 78 < /sup > 
+ |- 
+ |Koentekbyte (KoB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Sexvigintillion 
+ 
+ bytes 
+ |1 
+ Sexvigintillion 
+ 
+ bytes 
+ |1*10 < sup > 81 < /sup > ,1E81 / 10 < sup > 81 < /sup > 
+ |- 
+ |Glossybyte (GsB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Septenvigintillion 
+ 
+ bytes 
+ |1 
+ Septenvigintillion 
+ 
+ bytes 
+ |1*10 < sup > 84 < /sup > ,1E84 / 10 < sup > 84 < /sup > 
+ |- 
+ |Snugbyte (SuB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Octovigintillion 
+ 
+ bytes 
+ |1 
+ Octovigintillion 
+ 
+ bytes 
+ |1*10 < sup > 87 < /sup > ,1E87 / 10 < sup > 87 < /sup > 
+ |- 
+ |Grandbyte (GrB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Nonvigintillion 
+ 
+ bytes 
+ |1 
+ Nonvigintillion 
+ 
+ bytes 
+ |1*10 < sup > 90 < /sup > ,1E90 / 10 < sup > 90 < /sup > 
+ |- 
+ |Doombyte (DmB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Trigintillion 
+ 
+ bytes 
+ |1 
+ Trigintillion 
+ 
+ bytes 
+ |1*10 < sup > 93 < /sup > ,1E93 / 10 < sup > 93 < /sup > 
+ |- 
+ |Godbyte (GdB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Untrigintillion 
+ 
+ bytes 
+ |1 
+ Untrigintillion 
+ 
+ bytes 
+ |1*10 < sup > 96 < /sup > ,1E96 / 10 < sup > 96 < /sup > 
+ |- 
+ |Superbyte (SpB) (unofficial) 
+ |1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Duotrigintillion 
+ 
+ bytes 
+ |1 
+ Duotrigintillion 
+ 
+ bytes 
+ |1*10 < sup > 99 < /sup > ,1E99 / 10 < sup > 99 < /sup > 
+ |- 
+ |Googolbyte (GgB) (unofficial) 
+ |10,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+ |1 
+ Googol 
+ 
+ bytes 
+ |1 
+ Googol 
+ 
+ bytes 
+ |1*10 < sup > 100 < /sup > ,1E100 / 10 < sup > 100 < /sup > 
+ |} 
+ 
+ === " kibi- "  = 1,024 === 
+ Since computers are very complex digital devices that are based on the [[binary numeral system]] rather than the commonly-used [[decimal numeral system]] or [[binary coded decimal]] system, there are many situations where the standard metric system does not work well, particularly with memory sizes for a computer or storage device.  If a memory or storage device uses a binary number for addresses, the number of different positions to be accessed (the size of the memory) can be expressed as a power of 2, rather than a power of 10.   
+ 
+ {| class= " wikitable mw-collapsible mw-collapsed " 
+ !Unit 
+ !Number 
+ !Maths 
+ |- 
+ | Byte  
+ (B) 
+ | 1 
+ | 2 < sup > 0 < /sup >  bytes 
+ |- 
+ | Kibibyte  
+ (KiB) 
+ | 1,024  
+ | 2 < sup > 10 < /sup >  bytes 
+ |- 
+ | Mebibyte  
+ (MiB) 
+ | 1,048,576  
+ | 2 < sup > 20 < /sup >  bytes 
+ |- 
+ | Gibibyte  
+ (GiB) 
+ | 1,073,741,824  
+ | 2 < sup > 30 < /sup >  bytes 
+ |- 
+ | Tebibyte  
+ (TiB) 
+ | 1,099,511,627,776  
+ | 2 < sup > 40 < /sup >  bytes 
+ |- 
+ | Pebibyte  
+ (PiB) 
+ | 1,125,899,906,842,624 
+ | 2 < sup > 50 < /sup >  bytes  
+ |- 
+ | Exbibyte  
+ (EiB) 
+ | 1,152,921,504,606,846,976  
+ | 2 < sup > 60 < /sup >  bytes 
+ |- 
+ | Zebibyte  
+ (ZiB) 
+ | 1,180,591,620,717,411,303,424  
+ | 2 < sup > 70 < /sup >  bytes 
+ |- 
+ | Yobibyte  
+ (YiB) 
+ | 1,208,925,819,614,629,174,706,176  
+ | 2 < sup > 80 < /sup >  bytes 
+ |- 
+ | Bronbibyte  
+ (BiB)  
+ 
+ (unofficial) 
+ | 1,237,940,039,285,380,274,899,124,224 
+ | 2 < sup > 90 < /sup >  bytes 
+ |- 
+ | Gebibyte  
+ (GeiB) (unofficial) 
+ | 1,267,650,600,228,229,401,496,703,205,376 
+ | 2 < sup > 100 < /sup >  bytes 
+ |- 
+ |Sagbibyte  
+ (SiB)  
+ 
+ (unofficial) 
+ |1,298,074,214,633,706,907,132,624,082,305,024 
+ |2 < sup > 110 < /sup >  bytes 
+ |- 
+ |Pijbibyte  
+ (PjiB)  
+ 
+ (unofficial) 
+ |1,329,227,995,784,915,872,903,807,060,280,344,576 
+ |2 < sup > 120 < /sup >  bytes 
+ |- 
+ |Alphbibyte  
+ (AiB)  
+ 
+ (unofficial) 
+ |1,361,129,467,683,753,853,853,498,429,727,072,845,824 
+ |2 < sup > 130 < /sup >  bytes 
+ |- 
+ |Pectbibyte  
+ (PciB)  
+ 
+ (unofficial) 
+ |1,393,796,574,908,163,946,345,982,392,040,522,594,123,776 
+ |2 < sup > 140 < /sup >  bytes 
+ |- 
+ |Bolgbibyte (BoiB) (unofficial) 
+ |1,427,247,692,705,959,881,058,285,969,449,495,136,382,746,624 
+ |2 < sup > 150 < /sup >  bytes 
+ |- 
+ |Sambibyte (SaiB) (unofficial) 
+ |1,461,501,637,330,902,918,203,684,832,716,283,019,655,932,542,976 
+ |2 < sup > 160 < /sup >  bytes 
+ |- 
+ |Quesbibyte (QiB)  
+ (unofficial) 
+ |1,496,577,676,626,844,588,240,573,268,701,473,812,127,674,924,007,424 
+ |2 < sup > 170 < /sup >  bytes 
+ |- 
+ |Kinsbibyte  
+ (KiiB)  
+ 
+ (unofficial) 
+ |1,532,495,540,865,888,858,358,347,027,150,309,183,618,739,122,183,602,176 
+ |2 < sup > 180 < /sup >  bytes 
+ |- 
+ |Ruthbibyte  
+ (RiB)  
+ 
+ (unofficial) 
+ |1,569,275,433,846,670,190,958,947,355,801,916,604,025,588,861,116,008,628,224 
+ |2 < sup > 190 < /sup >  bytes 
+ |- 
+ |Dubbibyte  
+ (DiB) 
+ 
+ (unofficial) 
+ |1,606,938,044,258,990,275,541,962,092,341,162,602,522,202,993,782,792,835,301,376 
+ |2 < sup > 200 < /sup >  bytes 
+ |- 
+ |Hassbibyte (HaiB) (unofficial) 
+ |1,645,504,557,321,206,042,154,969,182,557,350,504,982,735,865,633,579,863,348,609,024 
+ |2 < sup > 210 < /sup >  bytes 
+ |- 
+ |Meitbibyte (MniB) (unofficial) 
+ |1,684,996,666,696,914,987,166,688,442,938,726,917,102,321,526,408,785,780,068,975,640,576 
+ |2 < sup > 220 < /sup >  bytes 
+ |- 
+ |Darmbibyte (DriB) 
+ (unofficial) 
+ |1,725,436,586,697,640,946,858,688,965,569,256,363,112,777,243,042,596,638,790,631,055,949,824 
+ |2 < sup > 230 < /sup >  bytes 
+ |- 
+ |Roentbibyte (RaiB) (unofficial) 
+ |1,766,847,064,778,384,329,583,297,500,742,918,515,827,483,896,875,618,958,121,606,201,292,619,776 
+ |2 < sup > 240 < /sup >  bytes 
+ |- 
+ |Sophbibyte (SoiB) (unofficial) 
+ |1,809,251,394,333,065,553,493,296,640,760,748,560,207,343,510,400,633,813,116,524,750,123,642,650,624 
+ |2 < sup > 250 < /sup >  bytes 
+ |- 
+ |Copbibyte 
+ (CoiB) (unofficial) 
+ |1,852,673,427,797,059,126,777,135,760,139,006,525,652,319,754,650,249,024,631,321,344,126,610,074,238,976 
+ |2 < sup > 260 < /sup >  bytes 
+ |- 
+ |Koentbibyte (KoiB) (unofficial) 
+ |1,897,137,590,064,188,545,819,787,018,382,342,682,267,975,428,761,855,001,222,473,056,385,648,716,020,711,424 
+ |2 < sup > 270 < /sup >  bytes 
+ |- 
+ |Glossbibyte (GsiB) (unofficial) 
+ |1,942,668,892,225,729,070,919,461,906,823,518,906,642,406,839,052,139,521,251,812,409,738,904,285,205,208,498,176 
+ |2 < sup > 280 < /sup >  bytes 
+ |- 
+ |Snugbibyte (SuiB) (unofficial) 
+ |1,989,292,945,639,146,568,621,528,992,587,283,360,401,824,603,189,390,869,761,855,907,572,637,988,050,133,502,132,224 
+ |2 < sup > 290 < /sup >  bytes 
+ |- 
+ |Grandbibyte (GriB) 
+ (unofficial) 
+ |1,018,517,988,167,243,043,134,222,844,204,689,080,525,734,196,832,968,125,318,070,224,677,190,649,881,668,353,091,698,688 
+ |2 < sup > 299 < /sup >  bytes 
+ |- 
+ |Doombyte (DmiB) (unofficial) 
+ |1,042,962,419,883,256,876,169,444,192,465,601,618,458,351,817,556,959,360,325,703,910,069,443,225,478,828,393,565,899,456,512 
+ |2 < sup > 309 < /sup >  bytes 
+ |- 
+ |Godbibyte (GdiB) (unofficial) 
+ |1,067,993,517,960,455,041,197,510,853,084,776,057,301,352,261,178,326,384,973,520,803,911,109,862,890,320,275,011,481,043,468,288 
+ |2 < sup > 319 < /sup >  bytes 
+ |- 
+ |Supbibyte  
+ (SpiB) (unofficial) 
+ |1,093,625,362,391,505,962,186,251,113,558,810,682,676,584,715,446,606,218,212,885,303,204,976,499,599,687,961,611,756,588,511,526,912 
+ |2 < sup > 329 < /sup >  bytes 
+ |- 
+ |Googolbibyte (GgiB) (unofficial) 
+ |1,119,872,371,088,902,105,278,721,140,284,222,139,060,822,748,617,324,767,449,994,550,481,895,935,590,080,472,690,438,746,635,803,557,888 
+ |2 < sup > 339 < /sup >  bytes 
+ |} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer science]] 
+ [[Category:Units of information]]

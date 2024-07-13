@@ -1,0 +1,64 @@
+{{Automatic taxobox 
+ | image = Hylarana waliesa.jpg 
+ | image_caption = ''[[Papurana waliesa]]'' 
+ | taxon = Papurana 
+ | authority = {{interlanguage link multi|Alain Dubois|fr|lt=Dubois}}, 1992 
+ | synonyms = ''Tylerana''  < small > Dubois, 1992 < /small > 
+ | synonyms_ref =  < ref name=Frost/ > 
+ | type_species = ''[[Papurana papua|Rana papua]]'' 
+ | type_species_authority = [[René Lesson|Lesson]], 1830 
+ }} 
+ 
+ '''''Papurana''''' is a genus of frogs in the family [[Ranidae]],  " true frogs. " < ref name=Frost/ > < ref name=AmphibiaWeb/ >  They live in [[New Guinea]], some islands near New Guinea, and in northern [[Australia]]. < ref name=Frost/ > < ref name= " Oliver et al. 2015 " / >  ''[[Papurana daemeli]]'' is the only frog in Ranidae that lives in [[Australia]]. < ref name= " Ingram 1993 " / > 
+ 
+ ==Taxonomy== 
+ Scientists first named ''Papurana'' as a [[subgenus]] of ''[[Rana (genus)|Rana]]''. At times, they have said it was a subgenus of ''[[Hylarana]]''. In 2015, Oliver and colleagues looked at ''Hylarana'' closely and said it should have only a few species in it.  They said ''Papurana'' should be its own genus. < ref name=Frost/ > < ref name= " Oliver et al. 2015 " / > 
+ 
+ ==Description== 
+ ''Papurana'' frogs have a mask mark behind their eyes, their body shape, strong wavy stripes on the backs of their thighs, and either no dorsolateral folds or very thin folds, with rough spots. The [[Dorsum (anatomy)|back]] is evenly roughened to warty and sometimes has small spikes. The frogs are medium to very large in size. Male frogs have paired, external [[vocal sac|organs for making sound]]s. < ref name= " Oliver et al. 2015 " / > 
+ 
+ ==Species== 
+ There are 18 species: < ref name=Frost/ > < ref name=AmphibiaWeb/ > 
+ {{Columns-list|colwidth=25em|1= 
+ * ''[[Papurana arfaki]]''  < small > (Meyer, 1875) < /small > 
+ * ''[[Papurana aurata]]''  < small > (Günther, 2003) < /small > 
+ *''[[Papurana celebensis]]''  < small > (Peters, 1872) < /small > < ref name= " Amph " > {{cite web 
+ |url=https://amphibiaweb.org/cgi/amphib_query?where-genus=Papurana & where-species=celebensis 
+ |publisher=Amphibiaweb 
+ |title= ''Papurana celebensis'' 
+ |access-date=January 1, 2021}} < /ref > < ref name=Rename > {{cite journal|url=https://doi.org/10.1016/j.ympev.2020.106899|doi=10.1016/j.ympev.2020.106899|access-date=January 1, 2021|title=Larger, unfiltered datasets are more effective at resolving phylogenetic conflict: Introns, exons, and UCEs resolve ambiguities in Golden-backed frogs (Anura: Ranidae; genus Hylarana)|volume=151|journal=Molecular Phylogenetics and Evolution|date=June 24, 2020|author1=Kin Onn Chan|author2=Carl R.Hutter|author3=Perry L.Wood Jr.|author4=L. Lee Grismer|author5=Rafe M.Brown|page=106899|pmid=32590046|s2cid=220118917}} < /ref > 
+ * ''[[Papurana daemeli]]''  < small > (Steindachner, 1868) < /small > 
+ * ''[[Papurana elberti]]''  < small > (Roux, 1911) < /small > 
+ * ''[[Papurana florensis]]''  < small > (Boulenger, 1897) < /small > 
+ * ''[[Papurana garritor]]''  < small > (Menzies, 1987) < /small > 
+ * ''[[Papurana grisea]]''  < small > (Van Kampen, 1913) < /small > 
+ * ''[[Papurana jimiensis]]''  < small > (Tyler, 1963) < /small > 
+ * ''[[Papurana kreffti]]''  < small > (Boulenger, 1882) < /small > 
+ * ''[[Papurana milleti]]''  < small > (Smith, 1921) < /small > 
+ * ''[[Papurana milneana]]''  < small > (Loveridge, 1948) < /small > 
+ * ''[[Papurana moluccana]]''  < small > (Boettger, 1895) < /small > 
+ * ''[[Papurana novaeguineae]]''  < small > (Van Kampen, 1909) < /small > 
+ * ''[[Papurana papua]]''  < small > (Lesson, 1829) < /small > 
+ * ''[[Papurana supragrisea]]''  < small > (Menzies, 1987) < /small > 
+ * ''[[Papurana volkerjane]]''  < small > (Günther, 2003) < /small > 
+ * ''[[Papurana waliesa]]''  < small > (Kraus and Allison, 2007) < /small > 
+ }} 
+ 
+ [[File:Hylarana florensis.jpeg|thumb|right|''Papurana florensis'' is provisionally placed in this genus.]] 
+ ''Papurana elberti'', ''Papurana florensis'', and ''Papurana moluccana'' are only provisionally allocated to ''Papurana'', meaning scientists want to collect more data on their bodies and genes before deciding. < ref name= " Oliver et al. 2015 " / > 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=http://www.amphibiaweb.org/lists/Ranidae.shtml|title=Ranidae |year=2017 |work=AmphibiaWeb |publisher=University of California, Berkeley |access-date=January 2, 2020}} < /ref > 
+ 
+ < ref name=Frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Ranidae/Papurana |title=''Papurana'' Dubois, 1992 |author=Frost, Darrel R. |year=2017 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |access-date=September 19, 2017}} < /ref > 
+ 
+ < ref name= " Ingram 1993 " > {{cite book |chapter-url=https://www.environment.gov.au/system/files/pages/dc11235d-8b3b-43f7-b991-8429f477a1d4/files/10-fauna-2a-amphibia-ranidae.pdf |chapter=Family Ranidae |author=Ingram, Glen J. |editor1=C. G. Glasby |editor2=G. J. B. Ross |editor3=P. L. Beesley |date=1993 |title=Fauna of Australia |volume=2A Amphibia and Reptilia |publisher=AGPS Canberra |access-date=January 21, 2018}} < /ref > 
+ 
+ < ref name= " Oliver et al. 2015 " > {{cite journal |last1=Oliver |first1=Lauren A. |last2=Prendini |first2=Elizabeth |last3=Kraus |first3=Fred |last4=Raxworthy |first4=Christopher J. |name-list-style=amp |title=Systematics and biogeography of the ''Hylarana'' frog (Anura: Ranidae) radiation across tropical Australasia, Southeast Asia, and Africa |journal=Molecular Phylogenetics and Evolution |date=2015 |volume=90 |pages=176–192 |doi=10.1016/j.ympev.2015.05.001 |pmid=25987527|doi-access=free }} < /ref > 
+ }} 
+ 
+ {{Taxonbar|from=Q20722216}} 
+ 
+ [[Category:Frogs of Oceania]] 
+ [[Category:Frogs of Australia]]

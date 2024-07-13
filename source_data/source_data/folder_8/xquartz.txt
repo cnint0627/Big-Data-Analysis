@@ -1,0 +1,7 @@
+'''XQuartz''' is software made by [[Apple Inc.]] It takes a not-specific-to-Mac program – one that is compatible with a standard called [[X Window System]] or  " X11 "  – and allows it to be displayed on the Mac.  The functionality is only limited to the actual [[Graphical User Interface]] the user sees, nothing more. 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:MacOS]] 
+ [[Category:Apple software]]

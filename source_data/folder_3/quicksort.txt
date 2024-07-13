@@ -1,0 +1,17 @@
+[[File:Sorting quicksort anim.gif|thumb|Animated visualization of the quicksort algorithm. The horizontal lines are pivot values]] 
+ '''Quicksort''' is a [[sorting algorithm]] that is used to sort items in an array. It was created by [[Tony Hoare]] in 1959, < ref > {{Cite web|url=http://www.computerhistory.org/fellowawards/hall/bios/Antony,Hoare/|title=Sir Antony Hoare {{!}} Computer History Museum|date=2015-04-03|website=web.archive.org|access-date=2019-02-25|archive-date=2015-04-03|archive-url=https://web.archive.org/web/20150403184558/http://www.computerhistory.org/fellowawards/hall/bios/Antony,Hoare/|url-status=bot: unknown}} < /ref >  and it is still widely used today. Quicksort splits the array into two parts, and then continues to split those parts into more parts, and sorting along the way. It sorts by using a comparison sort. This means that it chooses a pivot point in a part of the array and then compares it with all the other points in that part of the array. 
+ 
+ == Algorithm == 
+ 
+ # If there is only one item in the array, or no items, stop because we don't need to sort anything. 
+ # Pick any item in the array, this will now be the pivot point. 
+ #Partition the items. Compare each item to the pivot. If it is smaller than the pivot it should come before the pivot in the array, if it is larger it should come after the pivot.  Note that our pivot is now in its sorted position. 
+ # Recursively apply the algorithm to all items left of the pivot (excluding the current pivot) 
+ #Recursively apply the algorithm to all items right of the pivot (excluding the current pivot) 
+ 
+ Often the leftmost item is chosen as the pivot. The recursion means that the algorithm runs the same exact algorithm on the two partitions that were created by the comparisons to the pivot. Note that this algorithm will keep on partitioning the array into subarrays, and splitting those subarrays into even smaller subarrays. Each time it does this, it will choose a new pivot within the subarray and compare the items to the subarray. The base case is when the algorithm reaches a subarray with only one item, in which it just stops because one item does not need to be sorted. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Searching and sorting algorithms]]

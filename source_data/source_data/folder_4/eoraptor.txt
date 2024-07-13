@@ -1,0 +1,67 @@
+{{italictitle}} 
+ {{speciesbox 
+ |taxon=| authority = Sereno ''et al.'', 1993 
+ | fossil_range = [[Late Triassic]] < br > ~{{fossil range|231|228}} 
+ | image = Royal Ontario Museum Eoraptor.JPG 
+ | image_upright = 1.1 
+ | image_caption = Reconstructed skeleton, Royal Ontario Museum 
+ | parent_authority = [[Paul Sereno|Sereno]] ''et al.'', 1993 
+ | display_parents = 2 
+ | genus= Eoraptor  
+ | species = lunensis 
+ }} 
+ '''''Eoraptor''''' is one of the earliest known [[theropod]] [[dinosaur]]s. It was a very small [[omnivore]] or [[carnivore]] which lived in the [[Lower Triassic]], about 245 million years ago (mya). < ref name=Apaldetti > {{cite journal | last = Apaldetti C ''et al'' 2011. A new basal Sauropodomorph (Dinosauria: Saurischia) from Quebrada del Barro Formation (Marayes-El Carrizal Basin), Northwestern Argentina | title = A new basal sauropodomorph (Dinosauria: Saurischia) from Quebrada del Barro Formation (Marayes-El Carrizal Basin), northwestern Argentina| url = | journal = PLOS ONE | year = 2011| volume = 6 | issue = 11| page = e26964 | doi = 10.1371/journal.pone.0026964 | pmid = 22096511| pmc = 3212523| doi-access = free}} < /ref > < ref name=Alco > {{cite journal |last=Alcober Oscar A.  &  Martinez, Ricardo N. 2010. A new herrerasaurid (Dinosauria, Archosauria, Saurischia) from the Upper Triassic Ischigualasto Formation of northwestern Argentina |title=A new herrerasaurid (Dinosauria, Saurischia) from the Upper Triassic Ischigualasto Formation of northwestern Argentina |journal=ZooKeys |year=2010 |pages=55–81 |doi=10.3897/zookeys.63.550 |pmid=21594020 |issue=63 |pmc=3088398|doi-access=free }} [https://www.pensoft.net/inc/journals/download.php?fileId=1401 & fileTable=J_GALLEYS] < /ref >  It is the only one of the possible early dinosaurs which can be exactly [[Radiometric dating|dated]] by a layer of [[volcanic ash]] close beneath the fossil. < ref name=Alco/ >   
+ 
+ ''Eoraptor'' was a small, lightly-built archosaur that walked on two long legs. It was about {{convert|1|m|ft|abbr=on}} it had light, hollow bones, a long head with dozens of small, sharp teeth, and five fingers on its grasping hands (two of the fingers on each hand were very small). 
+ 
+ The fossil was found in the [[Ischigualasto Formation]] in the [[Argentine]]. This contains some of the oldest known dinosaur and archosaur remains. They are of top quality, number and importance. It is the only place in the world where nearly all of the Triassic is represented in an undisturbed sequence of [[strata]]. What is now [[badland]]s was then a [[Volcano|volcanically]] active [[flood]]plain dominated by [[river]]s, with a strongly seasonal rainfall.  
+ 
+ [[Rhynchosaur]]s and [[cynodont]]s are by far the most common among the [[tetrapod]] fossils in the park. Dinosaurs make up only 6% of the findings, < ref > Rogers R.R. ''et al'' 1993 while archosaurs make up 19% of the findings.The Ischigualasto tetrapod assemblage (late Triassic, Argentina) and 40Ar/39Ar dating of dinosaur origins. ''Science'', '''260''', 794-797. < /ref >  but these include early samples of the two major lineages of dinosaurs ([[ornithischia]]ns and [[saurischia]]ns). The carnivorous ''[[Herrerasaurus]]'' is the most numerous of these dinosaur fossils. 
+ 
+ == Teeth == 
+ The teeth of Eoraptor  are of two types. There are  serrated, recurved teeth in the [[maxilla]]e (upper jaws), like the teeth  of theropods, and leaf-shaped teeth in the [[dentary]] (lower jaw), like the teeth of basal [[sauropodomorph]]s. < ref name=sereno > Sereno P.C. ''et al'' 1993.  Primitive dinosaur skeleton form Argentina and the early evolution of the Dinosauria.  ''Nature'' '''361''', 64-66. < /ref > 
+ 
+ == Cladogram == 
+ Below is a [[cladogram]] based on the phylogenetic analysis conducted by Sues et al. in 2011, showing the relationships of ''Eoraptor'': < ref name=sues11 > Sues, Hans-Dieter ''et al'' 2011. A late-surviving basal theropod dinosaur from the latest Triassic of North America. ''Proceedings of the Royal Society B'' '''278''' (1723): 3459–3464 < /ref > 
+ 
+ {{clade| style=font-size:85%;line-height:70% 
+ |label1=[[Theropoda]] & nbsp;    
+ |1={{clade 
+    |label1= & nbsp;[[Herrerasauridae]] & nbsp; 
+    |1={{clade 
+       |1=''[[Staurikosaurus]]'' 
+       |2={{clade 
+          |1=''[[Herrerasaurus]]'' 
+          |2=''[[Chindesaurus]]'' }} }} 
+    |2={{clade 
+       |1='''Eoraptor''' 
+       |2={{clade 
+          |1=''[[Daemonosaurus]]'' 
+          |2={{clade 
+             |1=''[[Tawa (dinosaur)|Tawa]]'' 
+             |label2= & nbsp;[[Neotheropoda]] & nbsp; 
+             |2={{clade 
+                |label1= & nbsp;[[Coelophysidae]] & nbsp; 
+                |1={{clade 
+                   |1=''[[Megapnosaurus]]'' 
+                   |2=''[[Coelophysis]]''}} 
+                |2={{clade 
+                   |1=''[[Liliensternus]]'' 
+                   |2={{clade 
+                      |1=''[[Zupaysaurus]]'' 
+                      |2={{clade 
+                         |1=''[[Cryolophosaurus]]'' 
+                         |2={{clade 
+                            |1=''[[Dilophosaurus]]'' 
+                            |2=[[Jurassic]] theropods }} }} }} }} }} }} }} }} }} }} 
+ [[File:Eoraptor Japan.jpg|thumb|Replica skeleton in Japan]] 
+ [[File:Human-eoraptor size comparison.svg|thumb|]] 
+ A large analysis of early dinosaurs by Matthew Baron, David Norman and Paul Barrett (2017) found ''Eoraptor'' to be the earliest diverging member of [[Theropoda]], within the larger clade [[Ornithoscelida]]. < ref name= " Ornithoscelida " > Baron, M.G., Norman, D.B., and Barrett, P.M. (2017). A new hypothesis of dinosaur relationships and early dinosaur evolution. ''Nature'', '''543''': 501–506. {{doi|10.1038/nature21700}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ 
+ [[Category:Theropods]] 
+ [[Category:Triassic dinosaurs]]

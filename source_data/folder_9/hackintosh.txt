@@ -1,0 +1,25 @@
+[[File:Virtual Hackintosh Monterey.jpg|thumb|A computer with a [[Virtual machine]] with  [[MacOS Monterey]], showing Wikipedia]] 
+ '''Hackintosh''' is a method of installing [[macOS]] on computers that are not Macs. The name comes from the combination of  " Hack "  and  " Macintosh " . Apple does not authorize this, and doing this is against the [[Software licence|EULA]]. < ref > {{Cite web|title=Are hackintoshes legal? - Apple Community|url=https://discussions.apple.com/thread/7380720|access-date=2023-07-26|website=discussions.apple.com}} < /ref >   
+ This is possible because of the compatibility of the architecture of the processor.  
+ 
+ Also, installing macOS on a virtual machine is called  " Virtual Hackintosh " . < ref > {{Cite web|date=2018-06-27|title=Virtual Hackintosh|url=http://www.reddit.com/r/hackintosh/comments/8u60to/virtual_hackintosh/|access-date=2023-07-26|website=r/hackintosh}} < /ref >   
+ 
+ There are many methods to this. One of them is to use ''Clover'', an EFI bootloader specially made for this. < ref > {{Cite web|title=Clover - ArchWiki|url=https://wiki.archlinux.org/title/Clover#:~:text=Clover%20EFI%20is%20a%20boot,Linux%20kernels%20with%20EFISTUB%20support|access-date=2023-07-26|website=wiki.archlinux.org}} < /ref >   
+ 
+ Despite the Apple's introduction of Apple Silicon architecture, it is yet possible to do so with normal computers with Intel processors. < ref > {{Cite web|date=2022-04-15|title=Hackintosh in the future|url=https://www.tonymacx86.com/threads/hackintosh-in-the-future.319898/|access-date=2023-07-26|website=tonymacx86.com|language=en-US}} < /ref > 
+   
+ 
+ 
+ 
+ 
+ 
+ == References == 
+ < !--- See [[Help:Cheatsheet]] on how to create references using  < ref > < /ref >  tags which will then appear here automatically -- > 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [https://www.tonymacx86.com/ tonymacx86] 
+ * [https://hackintosh.com/ Hackintosh.com] 
+ < !--- Categories --- > 
+ [[Category:MacOS]] 
+ [[Category:Pages created with the Article Wizard from 2023]]

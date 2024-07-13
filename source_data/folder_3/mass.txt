@@ -1,0 +1,54 @@
+{{otheruses}} 
+ The '''mass''' of an object is a [[measure]] of the amount of matter in a body. < ref > {{cite book |last1=Tsokos |first1=K. A. |title=Physics for the IB Diploma |url=https://archive.org/details/physicsforibdipl0000tsok |date=2005 |publisher=Cambridge University Press |location=Cambridge, United Kingdom |isbn=9780521604055 |page=[https://archive.org/details/physicsforibdipl0000tsok/page/63 63]}} < /ref >  A mountain has typically more mass than a rock, for instance. Mass should not be confused with the related but quite different concept of [[weight]].  
+ 
+ We can measure the mass of an object if a [[force]] acts on the object. If the mass is greater, the object will have less [[acceleration]] (change in its motion). This measure of mass is called ''inertial mass'' because it measures [[inertia]]. < ref name= " :0 " > {{Cite book|url=https://www.worldcat.org/oclc/54427199|title=Physics for scientists and engineers with modern physics : a strategic approach|last=Knight|first=Randall Dewey|date=2003|publisher=Pearson/Addison-Wesley|isbn=0-321-24329-3|location=San Francisco|pages=349|oclc=54427199}} < /ref > 
+ 
+ A large mass like the Earth will attract a small mass like a human being with enough force to keep the human being from floating away.  " Mass attraction "  is another word for [[gravity]], a force that exists between all matter. When we measure the force of gravity from an object, we can find its ''gravitational mass''. Tests of inertial and gravitational mass show that they are the same or almost the same. < ref name= " :0 "  / > 
+ 
+ == Units of mass == 
+ The unit of mass in the [[International System of Units]] is the [[kilogram]], which is represented by the symbol 'kg'. Fractions and multiples of this basic unit include the gram (one thousandth of a kg, symbol 'g') and the [[ton]]ne (one thousand kg), amongst many others. 
+ 
+ In some fields or applications, it is convenient to use different units to simplify the discussions or writings. For instance, 
+ * Atomic [[physicist]]s deal with the tiny masses of individual [[atom]]s and measure them in [[atomic mass unit]]s. 
+ * Jewelers normally work with small [[jewel]]s and precious stones where masses are traditionally measured in [[Carat (mass)|carats]], which correspond to 200 mg or 0.2 g. 
+ * The masses of stars are very large and are sometimes expressed in units of [[solar mass]]es. 
+ 
+ Traditional units are still in encountered in some countries: [[imperial unit]]s such as the [[ounce]] or the [[Pound (mass)|pound]] were in widespread use within the British Empire. Some of them are still popular in the United States, which also uses units like the short [[ton]] (2,000 pounds, 907 kg) and the long ton (2,240 pounds, 1010 kg), not to be confused with the metric ton (1,000 kg). 
+ 
+ == Conservation of mass and relativity == 
+ {{Main|Conservation of mass}} 
+ Mass is an intrinsic property of the object: it does not depend on its volume, or position in space, for instance. For a long time (at least since the works of [[Antoine Lavoisier]] in the second half of the eighteen century), it has been known that the sum of the masses of objects that interact or of the [[Chemical substance|chemicals]] that react remain conserved throughout these processes. This remains an excellent approximation for everyday life and even most laboratory work. 
+ 
+ However, Einstein has shown through his [[Special relativity|special theory of relativity]] that the mass ''m'' of an object moving at speed ''v'' with respect to an observer must be higher than the mass of the same object observed at rest ''m < sub > 0 < /sub > '' with respect to the observer. The applicable formula is 
+ 
+ < math > m=\frac{m_0}{\sqrt{1 - (v^2/c^2)}} < /math > 
+ 
+ where ''c'' stands for the [[speed of light]]. This change in mass is only important when the speed of the object with respect to the observer becomes a large fraction of ''c''. 
+ 
+ ==The Quantum Concept of Mass== 
+ ''For further reference,see the [[:en:Gluon field]] and [[:en:Higgs boson]]'' 
+ 
+ 
+ In atomic nuclei,i.e in [[:en:Protons]] and [[:en:Neutrons]],the residual mass comes from the binding kinetic and potential energy of the quarks and gluon field. An analogy to go along with is to think of the 3 [[:en:quarks]] as balls with the gluons as a spring connecting the quarks. This mass accounts for ~99% of the mass of these [[:en:baryons]] with the remaining ~1% coming from the individual quarks which comes from quantum interactions with the Higgs field. 
+ [[File:Quark_structure_proton.svg|thumb|right|The Quark Structure of the proton. Most hadronic/baryonic mass comes from the binding energy (kinetic & potential) of the gluon field (with the gluons represented as springs binding the quarks.)]] 
+ 
+ [[File:Candidate_Higgs_Events_in_ATLAS_and_CMS.png|thumb|right|The ATLAS detection of the mass giving Higgs Boson. The Higgs field gives elementary particles their mass and the corresponding field can be thought of as an infinite source of weak hypercharge and mass.]] 
+ ==References== 
+ < references / > 
+ 
+ == Related pages== 
+ * [[Mass versus weight]] 
+ * [[Center of mass]] 
+ * [[Gravity]] 
+ * [[Density]] 
+ * [[Body mass index]] 
+ * [[Momentum]] 
+ * Advanced topics: 
+ ** [[Standard Model]]  
+ ** [[Higgs field]]. 
+ 
+ 
+ [[Category:Physical quantity]] 
+ [[Category:Matter]] 
+ [[Category:Mechanics]] 
+ [[Category:Basic physics ideas]]

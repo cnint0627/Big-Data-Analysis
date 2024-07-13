@@ -1,0 +1,70 @@
+< !-- Note: This article uses British English, since it covers an Anglo-French aircraft. Please do not attempt to change it to another variety of English. For details on Wikipedia's policies on this subject, see: http://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#National_varieties_of_English 
+ 
+ Also note: By convention, the aircraft name is simply  " Concorde " , without an article. The article adheres to this convention throughout. 
+ --- > 
+ {|{{Infobox aircraft begin 
+  |name= Concorde 
+  |image=File:British Concorde.jpg 
+  |caption=A British Airways Concorde at Heathrow airport in London 
+ }}{{Infobox aircraft type 
+  |type= Supersonic airliner 
+  |manufacturer= [[British Aircraft Corporation|BAC]] (now [[BAE Systems]])  < br/ >  [[Sud-Aviation]], [[Aérospatiale]] (now [[EADS]]) 
+  |designer= 
+  |first flight= 2 March 1969 
+  |introduction= 21 January 1976 
+  |retired= 26 November 2003  < !-- final flight, empty, to Filton --- > 
+  |status= Retired from service 
+  |primary user= [[British Airways]] < !--Limit one (1) primary user. Top 4 users listed in 'primary user' and 'more users' fields based on number of their fleets. -- > 
+  |more users= [[Air France]] < !-- Limit is three (3) in 'more users' field, four (4) total users with primary user. Please separate with  < br/ > .-- > 
+  |produced= 
+  |number built= 20 (including 6 non-airline aircraft) < ref > {{Cite book |editor-last = Towey |editor-first = Barrie  |title = Jet Airliners of the World 1949-2007 |year = 2007 |location = Tunbridge Wells, Kent, UK|publisher=Air-Britain (Historians) Ltd, 2007|isbn = 978-0-85130-348-2|page= 359}} < /ref > < ref > {{cite news |url = http://news.bbc.co.uk/1/hi/uk/850899.stm |title = Ageing luxury jet |work=BBC News|date = 25 July 2000}} < /ref > 
+  |unit cost= £23 & nbsp;million in 1977 
+  |program cost=£1.3 billion < ref name=endofdream > {{cite news| url=https://www.telegraph.co.uk/news/uknews/1352927/Is-this-the-end-of-the-Concorde-dream.html | location=London |work=The Daily Telegraph| first=Paul | last=Marston | title=Is this the end of the Concorde dream? | date=16 August 2000}} < /ref > 
+  |variants with their own articles= 
+ }} 
+ |} 
+ 
+ '''Concorde''' was a [[airliner|passenger airplane]] that flew [[supersonic|faster than the speed of sound]]. It was made by the French company [[Aérospatiale]] and the [[British]] company [[British Aircraft Corporation]]. Concorde carried passengers from 1976 to 2003. Twenty aircraft were built. 
+ 
+ Concorde flew across the Atlantic Ocean in a little less than 3.5 hours. Other airplanes take about eight hours. 
+ 
+ When Concorde was being developed, orders from airlines to buy the plane were high. At the time, passenger planes that flew faster than the speed of sound were considered to be a big technological leap. 
+ 
+ Some people did not like the sonic booms caused by Concorde flying faster than the speed of sound. They also complained of the noise Concorde made when taking off and landing. It was twice as loud as conventional passenger jets. Concorde was not allowed to fly over certain countries because of this. There were also concerns that having many Concordes in the air at once could damage the [[ozone layer]]. The price of fuel increased many times in the 1970s, but the Concorde also consumed much more fuel than a conventional passenger jet. 
+ 
+ Many airlines later thought Concorde was too expensive for the cost and were no longer interested in the plane. They cancelled their orders. Another supersonic airliner, the [[Boeing 2707]] was cancelled for similar reasons. 
+ 
+ The first scheduled flights were on 21 January 1976. Concorde flew between several different cities in Europe, North America, South America, and Asia. Concorde initially did not make a [[profit]] because of the high costs to run the plane. From the 1980s onwards, ticket prices became much higher. Concorde was mainly used by rich people who could pay the high ticket price. 
+ 
+ The high running costs, the crash of [[Air France Flight 4590]] in 2000 and the [[September 11 attacks]] caused Concorde to be retired in 2003. 
+ 
+ Concorde is considered to be an engineering marvel and a symbol of pride for Britain and France. 
+ 
+ ==Gallery== 
+ < gallery > 
+ 02.03.69 1er vol de Concorde (1969) - 53Fi1931 - cropped.jpg|First flight in 1969 
+ Concorde landing Farnborough Fitzgerald.jpg|A Concorde landing, showing the  " nose "  tilted down 
+ British Airways Concorde G-BOAC 04.jpg|A British Airways Concorde on the ground 
+ Concorde.highup.arp.750pix.jpg|A Concorde in flight. Notice the special shape of the wings 
+ Concorde G-BOAG.jpg|Concorde G-BOAG in the red tail livery of British Airways 
+ < /gallery > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{commons cat|Concorde}} 
+ * [http://www.britishairways.com/concorde/index.html British Airways Concorde page] 
+ * [http://www.braniffpages.com/concorde.html Braniff Airways Concorde page] {{Webarchive|url=https://web.archive.org/web/20120414164854/http://www.braniffpages.com/concorde.html |date=2012-04-14 }} 
+ * [http://www.designmuseum.org/design/concorde Design Museum (UK) Concorde page] 
+ * [http://www.nms.ac.uk/our_museums/museum_of_flight/concorde.aspx Concorde Experience at the National Museum of Flight, Scotland] 
+ * [http://www.britishpathe.com/record.php?id=45713 Pathé film of 002's maiden flight from Filton to RAF Fairford on 9 April 1967] {{Webarchive|url=https://web.archive.org/web/20111128175942/http://www.britishpathe.com/record.php?id=45713 |date=28 November 2011 }} 
+ 
+ {{Use dmy dates|date=September 2011}} 
+ {{Use British English|date=August 2010}} 
+ 
+ 
+ {{transport-stub}} 
+ 
+ [[Category:British aircraft]] 
+ [[Category:French aircraft]]

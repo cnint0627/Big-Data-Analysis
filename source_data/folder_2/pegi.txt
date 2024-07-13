@@ -1,0 +1,98 @@
+{{Infobox organization 
+ |name         = Pan European Game Information 
+ |image        = PEGI logo.svg 
+ |image_border = 
+ |size         =  < !-- default 200 -- > 
+ |alt          =  < !-- alt text; see [[WP:ALT]] -- > 
+ |caption      = PEGI logo (since 2003) 
+ |abbreviation = PEGI 
+ |motto        = 
+ |formation    = April 2003 
+ |extinction   =  < !-- date of extinction, optional -- > 
+ |type         =  < !-- GO, NGO, IGO, INGO, etc -- > 
+ |status       =  < !-- ad hoc, treaty, foundation, etc -- > 
+ |purpose      = Video game classification 
+ |headquarters = 
+ |location     = 
+ |coords       =  < !-- Coordinates of location using a coordinates template -- > 
+ |region_served = 
+ |membership   = 
+ |language     =  < !-- official languages -- > 
+ |leader_title =  < !-- position title for the leader of the org -- > 
+ |leader_name  =  < !-- name of leader -- > 
+ |main_organ   =  < !-- gral. assembly, board of directors, etc -- > 
+ |parent_organization = [[Interactive Software Federation of Europe]] 
+ |affiliations =  < !-- if any -- > 
+ |num_staff    = 
+ |num_volunteers = 
+ |budget       = 
+ |website      = http://www.pegi.info 
+ |remarks      = 
+ }} 
+ '''Pan European Game Information''' ('''PEGI''') is a [[Europe]]an [[self-regulatory organization]] that assigns [[Video game content rating system|age and content ratings]] to consumer [[video game]]s. The PEGI system is used in more than thirty countries. PEGI has rated more than 15,000 video games from 2003 to 2010. < ref > {{Cite web |url=http://www.pegi.info/en/index/id/37/ |title=PEGI Pan European Game Information - PEGI statistics |access-date=2009-06-26 |archive-date=2009-06-20 |archive-url=https://web.archive.org/web/20090620044442/http://www.pegi.info/en/index/id/37/ |url-status=dead }} < /ref > 
+ 
+ == Ratings == 
+ {| class= " wikitable " 
+ |- 
+ ! Mark 
+ ! Rating 
+ |- 
+ | [[File:PEGI 3.svg|75px]] 
+ | 3 years old 
+ |- 
+ | [[File:PEGI 7.svg|75px]] 
+ | 7 years old 
+ |- 
+ | [[File:PEGI 12.svg|75px]] 
+ | 12 years old 
+ |- 
+ | [[File:PEGI 16.svg|75px]] 
+ | 16 years old 
+ |- 
+ | [[File:PEGI 18.svg|75px]] 
+ | 18 years old 
+ |- 
+ |} 
+ 
+ == History == 
+ {| class= " wikitable " 
+ |- style= " text-align:center; " 
+ ! Legend 
+ ! 3 
+ ! 7 
+ ! 12 
+ ! 16 
+ ! 18 
+ |- style= " text-align:center; " 
+ ! Before 2009 
+ | [[File:PEGI 3 annotated (2003-2009).svg|60px]] 
+ | [[File:PEGI 7+.svg|60px]] 
+ | [[File:PEGI 12 annotated (2003-2009).svg|60px]] 
+ | [[File:PEGI 16 annotated (2003-2009).svg|60px]] 
+ | [[File:PEGI 18 annotated (2003-2009).svg|60px]] 
+ |- style= " text-align:center; " 
+ ! After 2009 
+ | [[File:PEGI 3 annotated (2009-2010).svg|60px]] 
+ | [[File:PEGI 7 annotated (2009-2010).svg|60px]] 
+ | [[File:PEGI 12 annotated (2009-2010).svg|60px]] 
+ | [[File:PEGI 16 annotated (2009-2010).svg|60px]] 
+ | [[File:PEGI 18 annotated (2009-2010).svg|60px]] 
+ |- 
+ !After 2010 
+ |[[File:PEGI_3.svg|link=https://en.wikipedia.org/wiki/File:PEGI_3.svg|73x73px]] 
+ |[[File:PEGI_7.svg|link=https://en.wikipedia.org/wiki/File:PEGI_7.svg|73x73px]] 
+ |[[File:PEGI_12.svg|link=https://en.wikipedia.org/wiki/File:PEGI_12.svg|73x73px]] 
+ |[[File:PEGI_16.svg|link=https://en.wikipedia.org/wiki/File:PEGI_16.svg|73x73px]] 
+ |[[File:PEGI_18.svg|link=https://en.wikipedia.org/wiki/File:PEGI_18.svg|73x73px]] 
+ |} 
+ 
+ == Sources == 
+ {{reflist}} 
+ 
+ [[Category:2003 establishments in Europe]] 
+ [[Category:Cultural organizations]] 
+ [[Category:Video game ratings]] 
+ [[Category:European organizations]] 
+ 
+ 
+ {{Europe-stub}}

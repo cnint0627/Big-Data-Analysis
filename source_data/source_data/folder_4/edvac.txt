@@ -1,0 +1,7 @@
+'''EDVAC''' ('''E'''lectronic '''D'''iscrete '''V'''ariable '''A'''utomatic '''C'''omputer) was one of the first electronic [[computer]]s. Unlike the computer before it, the [[ENIAC]], EDVAC operated in [[binary]] and was able to store programs. 
+ 
+ Functionally, EDVAC was a binary serial computer with automatic [[addition]], [[subtraction]], [[multiplication]], programmed [[division]] and automatic checking with a capacity of 1,000 44-bit words. EDVAC's average addition time was 864 [[microsecond]]s and its average multiplication time was 2,900 microseconds. 
+ 
+ By [[1960]], EDVAC was running over 20 hours a day with error-free run time averaging eight hours. EDVAC ran until [[1961]] when it was replaced by [[BRLESC]]. During its operational life it proved to be reliable and productive for its time. 
+ 
+ [[Category:Historical computers‎]]

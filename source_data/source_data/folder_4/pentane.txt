@@ -1,0 +1,131 @@
+{{Chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 464198186 
+ | Name = 
+ | ImageFile = Pentane-2D-Skeletal.svg 
+ | ImageFile_Ref = {{chemboximage|wrong|??}} 
+ | ImageSize = 160 
+ | ImageAlt = Skeletal formula of pentane 
+ | ImageFile1 = Structure of n-Pentan.svg 
+ | ImageFile1_Ref = {{chemboximage|correct|??}} 
+ | ImageSize1 = 160 
+ | ImageAlt1 = Skeletal formula of pentane with all explicit hydrogens added 
+ | ImageFileL2 = Pentane-3D-balls.png 
+ | ImageFileL2_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeL2 = 120 
+ | ImageAltL2 = Pentane 3D ball.png 
+ | ImageFileR2 = Pentane-3D-space-filling.png 
+ | ImageFileR2_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeR2 = 120 
+ | ImageAltR2 = Pentane 3D spacefill.png 
+ | PIN = Pentane  < !-- Nomenclature of Organic Chemistry – IUPAC Recommendations and Preferred Names 2013 (Blue Book) -- > 
+ | SystematicName = 
+ | OtherNames = Quintane < ref > {{cite journal|url=http://rspl.royalsocietypublishing.org/content/15/54|title=I. On the action of trichloride of phosphorus on the salts of the aromatic monamines|first=August Wilhelm Von|last=Hofmann|date=1 January 1867|journal=Proceedings of the Royal Society of London|volume=15|pages=54–62|accessdate=4 April 2018|via=rspl.royalsocietypublishing.org|doi=10.1098/rspl.1866.0018|s2cid=98496840}} < /ref > 
+ | IUPACName = 
+ | Section1 = {{Chembox Identifiers 
+ | CASNo = 109-66-0 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 8003 
+ | ChemSpiderID = 7712 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = 4FEX897A91 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | EINECS = 203-692-4 
+ | UNNumber = 1265 
+ | DrugBank = DB03119 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | MeSHName = pentane 
+ | ChEBI = 37830 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 16102 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS = RZ9450000 
+ | Beilstein = 969132 
+ | Gmelin = 1766 
+ | SMILES = CCCCC 
+ | StdInChI = 1S/C5H12/c1-3-5-4-2/h3-5H2,1-2H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = OFBQJSOFQDEBGM-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ }} 
+ | Section2 = {{Chembox Properties 
+ | Properties_ref =  < ref name= " GESTIS " > {{GESTIS|ZVG=10040|CAS=109-66-0|Name=n-Pentane|Date=19 April 2011}} < /ref > 
+ | C=5 | H=12 
+ | Appearance = Colourless liquid 
+ | Odor = Gasoline-like < ref name= " PGCH " > {{PGCH|0486}} < /ref > 
+ | Density = 0.626 & nbsp;g mL < sup > −1 < /sup > ; 0.6262 & nbsp;g mL < sup > −1 < /sup >  (at 20 & nbsp;°C) 
+ | MeltingPtK = 142.7 to 144.1 
+ | BoilingPtK = 309.0 to 309.4 
+ | Solubility = 40 mg L < sup > −1 < /sup >  (at 20 & nbsp;°C) 
+ | LogP = 3.255 
+ | VaporPressure = 57.90 kPa (at 20.0 & nbsp;°C) 
+ | HenryConstant = 7.8 nmol Pa < sup > −1 < /sup >  kg < sup > −1 < /sup > 
+ | pKa = ~45 
+ | pKb = ~59 
+ | LambdaMax = 200 nm 
+ | RefractIndex = 1.358 
+ | Viscosity = 0.240 mPa·s (at 20 & nbsp;°C) 
+ | MagSus = -63.05·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+ }} 
+ | Section3 = {{Chembox Thermochemistry 
+ | DeltaHf = −174.1–−172.9 kJ mol < sup > −1 < /sup > 
+ | DeltaHc = −3.5095–−3.5085 MJ mol < sup > −1 < /sup > 
+ | Entropy = 263.47 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ | HeatCapacity = 167.19 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ }} 
+ | Section4 = {{Chembox Hazards 
+ | GHSPictograms = {{GHS flame}} {{GHS exclamation mark}} {{GHS health hazard}} {{GHS environment}} 
+ | GHSSignalWord = '''DANGER''' 
+ | HPhrases = {{H-phrases|225|304|336|411}} 
+ | PPhrases = {{P-phrases|210|261|273|301+310|331}} 
+ | NFPA-H = 1 
+ | NFPA-F = 4 
+ | NFPA-R = 0 
+ | FlashPtC = −49.0 
+ | AutoignitionPtC = 260.0 
+ | ExploLimits = 1.5–7.8% < ref name=PGCH/ > 
+ | LD50 = {{Unbulleted list|3 & nbsp;g kg < sup > −1 < /sup >   < small > (dermal, rabbit) < /small > |5 & nbsp;g kg < sup > −1 < /sup >   < small > (oral, mouse) < /small > }} 
+ | IDLH = 1500 ppm < ref name= " PGCH " > {{PGCH|0486}} < /ref > 
+ | REL = TWA 120 ppm (350 mg/m < sup > 3 < /sup > ) C 610 ppm (1800 mg/m < sup > 3 < /sup > ) [15-minute] < ref name=PGCH/ > 
+ | PEL = TWA 1000 ppm (2950 mg/m < sup > 3 < /sup > ) < ref name=PGCH/ > 
+ | LC50 = 130,000 mg/m < sup > 3 < /sup >  (mouse, 30 & nbsp;min) < br/ > 128,200 ppm (mouse, 37 & nbsp;min) < br/ > 325,000 mg/m < sup > 3 < /sup >  (mouse, 2 hr) < ref > {{IDLH|109660|n-Pentane}} < /ref > 
+ }} 
+ | Section5 = {{Chembox Related 
+ | OtherFunction_label = alkanes 
+ | OtherFunction = {{Unbulleted list|[[Butane]]|[[Butyl iodide]]|[[Hexane]]}} 
+ }} 
+ | Section6 = 
+ }} 
+ '''Pentane''' is an [[organic compound]] with the [[chemical formula]] of {{chem|[[Carbon|C]]|5|[[Hydrogen|H]]|12}}. It is an [[alkane]] with five carbon [[atom]]s. Usually,  " pentane "  represents all three [[isomer]]s (''n''-pentane, [[isopentane]] and [[neopentane]]). But in the [[IUPAC]], '''pentane''' only represents ''n''-pentane. In the [[IUPAC]], the other two isomers is 2-[[methyl]][[butane]] and 2,2-[[methyl|dimethyl]][[propane]]. [[Cyclopentane]]'s [[chemical formula]] is {{chem|C|5|H|10}}, so it is '''not''' an isomer of pentane. 
+ 
+ ==Isomers== 
+ {| class= " wikitable "  style= " text-align:center " 
+ |- 
+ | style= " background:#def; " |Common name 
+ |'''normal pentane''' < br/ > '''unbranched pentane''' < br/ > '''''n''-pentane''' 
+ |'''[[isopentane]]''' 
+ |'''[[neopentane]]''' 
+ |- 
+ | style= " background:#def; " |IUPAC name 
+ |'''pentane''' 
+ |'''2-methylbutane''' 
+ |'''2,2-dimethylpropane''' 
+ |- 
+ | style= " background:#def; " |Molecular < br/ > diagram 
+ |[[File:N-Pentan.png|130px]] 
+ |[[File:Isopentane.PNG|140px]] 
+ |[[File:Neopentane.PNG|120px]] 
+ |- 
+ | style= " background:#def; " |Skeletal < br/ > diagram 
+ |[[File:Pentane-2D-Skeletal.svg|150px]] 
+ |[[File:Isopentane-2D-skeletal.png|110px]] 
+ |[[File:Neopentane-2D-skeletal.png|80px]] 
+ |} 
+ 
+ ==Reaction== 
+ All [[isomer]]s of pentane burn with oxygen to make [[carbon dioxide]] and [[water]]: 
+ :{{chem|C|5|H|12}}+8{{chem|O|2}}- > 5{{chem|CO|2}}+6{{chem|H|2|O}}. 
+ ==References== 
+ {{Reflist}} 
+ 
+ [[Category:Alkanes|5]]

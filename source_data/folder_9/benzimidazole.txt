@@ -1,0 +1,89 @@
+{{chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 443415791 
+ | ImageFile = Benzimidazole 2D numbered.svg 
+ | ImageSize = 160 
+ | ImageAlt = Skeletal formula with numbering convention 
+ | ImageFileL1 = Benzimidazole-3D-balls.png 
+ | ImageSizeL1 = 140 
+ | ImageAltL1 = Ball-and-stick model 
+ | ImageFileR1 = Benzimidazole-3D-spacefill.png 
+ | ImageAltR1 = Space-filling model 
+ | PIN = 1''H''-1,3-Benzimidazole 
+ | OtherNames = 1''H''-Benzo[''d'']imidazole 
+ |Section1={{Chembox Identifiers 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = C02009 
+ | InChIKey = HYZJCKYKOHLVJF-UHFFFAOYAX 
+ | SMILES = c1ccc2c(c1)[nH]cn2 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C7H6N2/c1-2-4-7-6(3-1)8-5-9-7/h1-5H,(H,8,9) 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = HYZJCKYKOHLVJF-UHFFFAOYSA-N 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo = 51-17-2  
+ | PubChem = 5798 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 306226 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID =5593 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = E24GX49LD8 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 41275 
+ | EINECS = 200-081-4 
+ | DrugBank = DB02962 
+ | Gmelin = 3106 
+ | Beilstein = 109682 
+ | InChI = 1/C7H6N2/c1-2-4-7-6(3-1)8-5-9-7/h1-5H,(H,8,9)}} 
+ |Section2={{Chembox Properties 
+ | C=7 | H=6 | N=2 
+ | Appearance =  
+ | Density =  
+ | MeltingPtC = 170 to 172 
+ | MeltingPt_notes =  
+ | BoilingPt =  
+ | Solubility =  
+ | pKa = 12.8 (for benzimidazole) and 5.6 (for the conjugate acid) < ref > {{cite journal|doi=10.1021/jo01066a039|title=Acidity Constants of Some Arylimidazoles and Their Cations |year=1961 |last1=Walba |first1=Harold |last2=Isensee |first2=Robert W. |journal=The Journal of Organic Chemistry |volume=26 |issue=8 |pages=2789–2791 }} < /ref > 
+ }} 
+ |Section3={{Chembox Hazards 
+ | ExternalSDS = [http://msds.chem.ox.ac.uk/BE/benzimidazole.html External MSDS] 
+ | GHSPictograms = {{GHS07}} 
+ | GHSSignalWord = Warning 
+ | HPhrases = {{H-phrases|302|315|319|335}} 
+ | PPhrases = {{P-phrases|261|264|270|271|280|301+312|302+352|304+340|305+351+338|312|321|330|332+313|337+313|362|403+233|405|501}} 
+ | FlashPt =  
+ | AutoignitionPt =  
+  }} 
+ }} 
+ 
+ '''Benzimidazole''' is an [[aromatic]] [[organic compound]], and benzimidazoles are (always)  [[heterocyclic]]. (''Heterocyclic aromatic organic compound'' is how Benzimidazole is often [[description|described]]. < ref > [[IUPAC Gold Book]] [http://goldbook.iupac.org/H02798.html ''heterocyclic compounds''] < /ref >  A [[heterocyclic compound]] or ring structure is a [[cyclic compound]] that has atoms of at least two different [[chemical element|elements]] as members of its ring(s).) 
+ 
+ Benzimidazole is used to produce [[drug]]s, [[plastic]]s and < !--also/even-- >  [[dye]]s. 
+ 
+ ==Examples and uses== 
+ [[File:Benomyl.png|thumb|[[Benomyl]] is a [[fungicide]] with a benzimidazole core]] 
+ 
+ < !--Many pharmaceutical agents belong to the benzimidazole class of compounds. For example:-- > 
+ The [[chemical compound]] can be found in 
+ * [[Angiotensin II receptor blocker]]s such as [[azilsartan]], [[candesartan]], and [[telmisartan]]. 
+ * [[Anthelmintic]] agents such as [[albendazole]], [[ciclobendazole]], [[fenbendazole]], [[flubendazole]], [[mebendazole]], [[oxfendazole]], [[oxibendazole]], [[triclabendazole]], and [[Tiabendazole|thiabendazole]]. 
+ * [[Antihistamine]]s such as [[astemizole]], [[bilastine]], [[clemizole]], [[emedastine]], [[mizolastine]], and [[oxatomide]]. 
+ * [[Benzimidazole fungicide]]s such as [[benomyl]], [[carbendazim]], [[fuberidazole]], and [[thiabendazole]]. 
+ * [[List of benzimidazole opioids|Benzimidazole opioids]] such as [[bezitramide]], [[brorphine]], [[clonitazene]], [[etodesnitazene]], [[etonitazene]], [[etonitazepipne]], [[etonitazepyne]], [[isotonitazene]], [[metodesnitazene]], and [[metonitazene]]. 
+ * [[Proton-pump inhibitor]]s such as [[dexlansoprazole]], [[esomeprazole]], [[ilaprazole]], [[lansoprazole]], [[omeprazole]], [[pantoprazole]], [[rabeprazole]], and [[tenatoprazole]]. 
+ * [[Typical antipsychotic]]s such as [[benperidol]], [[clopimozide]], [[droperidol]], [[neflumozide]], and [[oxiperomide]], and [[pimozide]]. 
+ * < !-- Other notable pharmaceutical agents which contain a benzimidazole group include-- >  Benzimidazole can also be found in [[abemaciclib]], [[bendamustine]], [[dabigatran]], [[daridorexant]], and [[glasdegib]]. 
+ 
+ When [[printed circuit board]]s are [[manufacturing|manufactured]] (or made), benzimidazole can be used as an [[organic solderability preservative]]. (When that kind of [[preservative]] gets used, it can protect copper contacts (for years), until the contact gets [[soldering|soldered]].) 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Simple aromatic rings}} 
+ {{Antifungals}} 
+ 
+ [[Category:Organic compounds]] 
+ 
+ 
+ {{chem-stub}}

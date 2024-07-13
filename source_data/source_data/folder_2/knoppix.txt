@@ -1,0 +1,34 @@
+{{Infobox OS 
+ | name = KNOPPIX 
+ | logo = Knoppix logo.svg 
+ | screenshot =VirtualBox KNOPPIX Desktop GER 26 01 2021 20 20 47.png < !-- Do NOT change the screenshot unless there is BIG change in the UI. When taking screenshot, please resize your window (e.g. 640×480), disable your extensions and use the default theme. -- > 
+ | caption = KNOPPIX 8.6 
+ | developer = [[Klaus Knopper]] 
+ | family = [[Unix-like]] 
+ | source_model = [[Open-source software|Open source]] 
+ | released = {{Start date and age|2000|09|30}} 
+ | working_state = Current 
+ | latest_release_version = {{wikidata|property|preferred|references|edit|Q102410|P348|P548=Q2804309}} 
+ | latest_release_date = {{Start date and age|{{wikidata|qualifier|preferred|single|Q102410|P348|P548=Q2804309|P577}}}} 
+ | language = [[German language|German]] and [[English language|English]] 
+ | kernel_type = [[Monolithic kernel|Monolithic]] ([[Linux kernel|Linux]]) 
+ | userland = [[GNU Core Utilities|GNU]] 
+ | ui = [[LXDE]] 
+ | updatemodel = [[Long-term support|LTS]] 
+ | package_manager = [[APT (software)|APT]] (frontend); [[dpkg]] (maintenance) 
+ | license = [[Free software]] licenses < br / > (mainly [[GPL]]) < ref > {{cite web |url=http://www.knoppix.org/ |archive-url=https://web.archive.org/web/20020719082449/http://www.knoppix.org/ |url-status=dead |archive-date=2002-07-19 |title=KNOPPIX Linux Live CD: What license does the KNOPPIX-CD use? |access-date=2007-07-16 }} < /ref > 
+ | website = {{URL|https://www.knopper.net/knoppix/index-en.html}} 
+ }} 
+ '''Knoppix''', stylized '''KNOPPIX''', is a [[Linux distribution]] based on [[Debian]] designed to be started directly from a [[Compact Disc|CD]] / [[DVD]]. Knoppix is one of the best-known [[LiveDistro|Live Distro]]s. It was developed by Linux consultant [[Klaus Knopper]]. When starting a program it is loaded from the [[optical disc]] and decompressed into a [[RAM drive]]. The decompression is [[transparency (computing)|transparent]] and [[on-the-fly]]. 
+ 
+ ==Related pages== 
+ *[[List of Linux distributions]] 
+ 
+ == References == 
+ < references/ > 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Knoppix| ]] 
+ [[Category:Debian-based Linux distributions]]

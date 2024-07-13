@@ -1,0 +1,16 @@
+[[File:Regular polygon 24.svg|thumb|A icosikaitetragon]] 
+ A '''icosikaitetragon''' or '''icositetragon''' is a [[Polygon|shape]] with 24 sides and 24 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular icosikaitetragon == 
+ All sides of a '''regular icosikaitetragon''' are the same length. Each corner is 165°. All corners added together equal 3960°. 
+ 
+ === Area === 
+ The amount of space a regular icosikaitetragon takes up is 
+ 
+ The [[area]] of a [[Regular polygon|regular]] icosikaitetragon of side length ''a'' is given by 
+ :  < math > A = 6a^2 \cot \frac{\pi}{24} = 6a^2 ( 2+\sqrt{2}+\sqrt{3}+\sqrt{6}) \simeq 45.5745 a^2. < /math > 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ 
+ [[Category:Polygons|24]]

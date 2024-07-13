@@ -1,0 +1,7 @@
+[[File:Early SSA accounting operations.jpg|thumb|Accumulators on a [[tabulating machine]] circa 1936. Each of the four registers can store a 10-digit decimal number.]] 
+ The '''accumulator''' is the register for storing results of operations inside the CPU. Accumulator's name or representation depend upon CPU architecture and manufacturer, for example in intel x86 architecture accumulator's name is AX in 16bits or EAX in 32bits mode. An accumulator is manipulated by machine code or assembly for example assembly code:  
+ 
+ " add ax, 3 "  add 3 in accumulator register.   
+ 
+ {{Tech-stub}} 
+ [[Category:Computer hardware]]

@@ -1,0 +1,132 @@
+{{Infobox river 
+   | name              = Alagnon  
+   | image             =  
+   | image_caption     =  
+   | pushpin_map       = France#France Auvergne-Rhône-Alpes 
+   | source1_location  = [[Massif Central]]  
+   | mouth_location    = [[Allier (river)|Allier]]  
+   | mouth_coordinates = {{coord|45|27|5|N|3|18|14|E|format=dms|display=inline,title}} 
+   
+   | subdivision_type1 = Country 
+   | subdivision_name1 = [[France]]  
+   | length            = {{convert|86.7|km|abbr=on}}  
+   | source1_elevation =  
+   | discharge1_avg    =  
+   | basin_size        =  
+ }} 
+ The '''Alagnon''' is a [[France|French]] [[river]] that starts in the [[Massif Central]] within the Regional Natural Park of the Volcanoes of Auvergne ({{lang-fr|Parc Naturel Régional des Volcans d'Auvergne}}) and that flows through the [[Auvergne-Rhône-Alpes]] [[Regions of France|region]]. It is a left [[tributary]] of the [[Allier (river)|Allier]]. 
+ 
+ ==Geography== 
+ The Alagnon river has a length of {{Convert|85.9|km|mi|1|abbr=on}} and a [[drainage basin]] with an area of {{Convert|1042|km2|sqmi|0|abbr=on }}. < ref name= " sandre " > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=K25-0300 |title=L'Alagnon (K25-0300) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=25 January 2017 }} < /ref >   
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|11.90|m3/s|cuft/s|abbr=on }} at [[Lempdes-sur-Allagnon]] in the Haute-Loire department. < ref name= " hydro " > {{cite web |url=http://www.hydro.eaufrance.fr/stations/K2593010%26procedure%3Dsynthese |title=L'Alagnon à Lempdes |work=Banque Hydro |publisher=Ministère de l'Ecologie, du Développement Durable et de l'Energie |language=fr |access-date=25 January 2017 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303182058/http://www.hydro.eaufrance.fr/stations/K2593010%26procedure%3Dsynthese |url-status=dead }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:20 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:4 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:2 start:0 
+ BackgroundColors = canvas:sfondo  
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 18.40 
+  bar:Feb from:0 till: 19.20 
+  bar:Mar from:0 till: 18.30 
+  bar:Apr from:0 till: 18.40 
+  bar:May from:0 till: 15.70 
+  bar:Jun from:0 till: 8.48 
+  bar:Jul from:0 till: 3.91 
+  bar:Aug from:0 till: 2.86 
+  bar:Sep from:0 till: 3.44 
+  bar:Oct from:0 till: 7.01 
+  bar:Nov from:0 till: 11.70 
+  bar:Dec from:0 till: 15.60 
+ 
+ PlotData= 
+  bar:Jan at: 18.40 fontsize:S text: 18.40 shift:(-8,5) 
+  bar:Feb at: 19.20 fontsize:S text: 19.20 shift:(-10,5) 
+  bar:Mar at: 18.30 fontsize:S text: 18.30 shift:(-10,5) 
+  bar:Apr at: 18.40 fontsize:S text: 18.40 shift:(-10,5) 
+  bar:May at: 15.70 fontsize:S text: 15.70 shift:(-10,5) 
+  bar:Jun at: 8.48 fontsize:S text: 8.48 shift:(-10,5) 
+  bar:Jul at: 3.91 fontsize:S text: 3.91 shift:(-10,5) 
+  bar:Aug at: 2.86 fontsize:S text: 2.86 shift:(-10,5) 
+  bar:Sep at: 3.44 fontsize:S text: 3.44 shift:(-10,5) 
+  bar:Oct at: 7.01 fontsize:S text: 7.01 shift:(-10,5) 
+  bar:Nov at: 11.70 fontsize:S text: 11.70 shift:(-10,5) 
+  bar:Dec at: 15.60 fontsize:S text: 15.60 shift:(-10,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Lempdes-sur-Allagnon (50 years)''' < ref name= " hydro "  / > 
+ < /center > 
+ 
+ ===Course=== 
+ The Alagnon river starts  in the [[Mounts of Cantal]] ([[Massif Central]]), near the ''Puy Bataillouse'' [[mountain]], ''commune'' of [[Laveissière]], at an [[altitude]] of about {{Convert|1590|m|ft|0|abbr=on }}, in the Cantal department. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=2.721389,45.099444 & z=16 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Source de l'Alagnon |publisher=Géoportail |language=fr |access-date=25 January 2017 }} < /ref >  First, it flows to the east, near the Super Lioran [[ski resort]], and gets into a [[gorge]] and, then, into a [[valley]] near [[Murat, Cantal|Murat]]. The river flows in general to the northeast and gets into deep gorges in [[Lempdes-sur-Allagnon]]. 
+ 
+ The Alagnon river flows through the [[Auvergne-Rhône-Alpes]] region, 3 departments and 23 ''communes''. Two ''communes'' are named after the river: [[La Chapelle-d'Alagnon]] and [[Lempdes-sur-Allagnon]]. It flows through the following ''communes'', among others: < ref name=sandre / > 
+ * [[Auvergne-Rhône-Alpes]] region 
+ ** [[Cantal]] department:  [[Laveissière]], [[Murat]], [[La Chapelle-d'Alagnon]], [[Neussargues-Moissac]], [[Ferrières-Saint-Mary]], [[Molompize]], [[Massiac]] 
+ ** [[Haute-Loire]] department: [[Grenier-Montgon]], [[Torsiac]], [[Lempdes-sur-Allagnon]] 
+ ** [[Puy-de-Dôme]] department: [[Charbonnier-les-Mines]], [[Beaulieu, Puy-de-Dôme|Beaulieu]], [[Auzat-la-Combelle]] 
+ 
+ Finally, it flows into the [[Allier (river)|Allier]] river in the town of [[Auzat-la-Combelle]], in the place known as ''Le Saut du Loup'', in the [[Puy-de-Dôme]] department. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=3.303889,45.452222 & z=15 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Embouchure de l'Alagnon |publisher=Géoportail |language=fr |access-date=25 January 2017 }} < /ref > 
+ 
+ == Main tributaries == 
+ The main [[Tributary|tributaries]], over 20 km long,  of the Cère river are: < ref name= " sandre "  / > 
+ 
+ {{col-begin|width=70%}} 
+ {{col-break|width=50%}} 
+ '''Left tributaries''': 
+ * Allanche - 30.5 km 
+ * Sianne - 33.1 km 
+ * Bave - 22 km 
+ * Auze - 17.5 
+ {{col-break}} 
+ {{col-break|width=50%}} 
+ '''Right tributaries''': 
+ * Arcueil - 37.8 km 
+ * Alagnonnette - 20 km 
+ * Violette - 15.4 km 
+ {{col-end}} 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Alagnon Torsiac 1.JPG|The Alagnon in [[Torsiac]]. 
+ File:Alagnon Léotoing.JPG|The Alagnon and the Léotoing [[castle]]. 
+ File:Alagnon Molompize.JPG|The Alagnon in [[Molompize]]. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ ==References== 
+ {{Commonscat|Alagnon}} 
+ {{Reflist}} 
+ 
+ [[Category:Rivers of Auvergne-Rhône-Alpes]]

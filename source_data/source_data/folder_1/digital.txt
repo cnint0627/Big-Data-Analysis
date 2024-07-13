@@ -1,0 +1,15 @@
+[[File:Radiocontrolledclock.jpg|thumb|Digital clock.]] 
+ A '''digital system''' is a something that represents information by using [[digit]]s. Each digit represents a small amount of information because each digit comes from a small set of choices. A digit can be decimal (one of the ten choices from ''0'' through ''9''), as in the display of a digital [[clock]]. A digit can be binary (either ''0'' or ''1'').  A binary digit is called a ''[[bit]]''. Digital [[computer]]s and digital communication like the [[internet]] usually use binary. The meaning of each ''bit'' depends on the place where it is used. For example, a ''bit'' can represent 'Yes' or 'No', or it can represent 'True' or 'False'. A large amount of information, like a picture, can be represented by using a list of many ''bits''.  
+ < !-- Italicize ''bit'' to avoid confusion. Good idea or not? -- > 
+ 
+ A digital system is different than an [[analog signal|analogue]] (US- analog) system, which represents information in a [[continuous]] way.  
+ 
+ The word ''digital'' is most commonly used in [[computing]] and [[electronics]]. 
+ 
+ ==Usage== 
+ * [[Digital electronics]] 
+ * [[Computer]] 
+ 
+ 
+ {{Tech-stub}} 
+ [[Category:Electronics]]

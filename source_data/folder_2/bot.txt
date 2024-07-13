@@ -1,0 +1,21 @@
+{{for|bot operation on Wikipedia|Wikipedia:Bots}} 
+ 
+ A '''bot''' is a computer program which acts automatically. It may do things that a person wouldn't normally do, or take a long time to do.  It is an automated or semi-automated [[tool]] or [[script]]. They may be simple, or advanced and complex: 
+ #Software agents acts for a user doing things which the user programs it for. < ref > Nwana H.S. 1996. Software agents: an overview. ''Knowledge Engineering Review''. '''21''' (3): 205–244. [https://www.cambridge.org/core/journals/knowledge-engineering-review/article/software-agents-an-overview/66832B4C8D509136A8E1AC2E61EB70D0 
+ ] < /ref >  Software agents which interact with people (such as chatbots) have features which make this possible, such as natural language processing. 
+ #More advanced agents: 
+ ##Intelligent agents can use [[artificial intelligence]]. 
+ ##Autonomous agents change the way they do things to achieve the same objectives. Also, there are multi-agent systems which can work together to get a result which could not be done by a single agent. 
+ ##Mobile agents can move (relocate) their working to different processors. 
+ 
+ == Issues with bots == 
+ Societies are going through a rapid learning process at present. The freedom of bots to [[data mining|mine data]] is challenged. By mining data is meant collecting information about use, and about users, so as to advance some commercial or other purpose. In the [[European Union]], for example, bots must now ask for permission to mine data from users. Before, they could collect any data they liked from users inorder to promote the welfare of the companies that used them. 
+ 
+ There is a Directive 96/9/EC of the [[European Parliament]] and [[European Council|Council]] of 11 March 1996 on the legal protection of databases. It is a directive of the [[European Union]] in the field of [[copyright]] law, made under the [[Treaty of Rome]]. The need to protect the data of ''users'' is a more recent development. < ref > Schermer B.W. 2007. Software agents, surveillance, and the right to privacy: a legislative framework for agent-enabled surveillance. Leiden University Press.  < /ref >   
+ 
+ Data mining is certain to be extremely important in the future. On Wikipedia the use of bots is frequent (see link above), but the use of data mining is minimal. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Software]]

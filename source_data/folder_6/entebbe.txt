@@ -1,0 +1,110 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |official_name          = Entebbe 
+ |other_name             = 
+ |native_name            =   < !-- for cities whose native name is not in English -- > 
+ |nickname               = 
+ |settlement_type        =  < !--For Town or Village (Leave blank for the default City)-- > 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = Bugonga Church of Uganda.jpg 
+ |imagesize              = 
+ |image_caption          = 
+ |image_flag             = 
+ |flag_size              = 
+ |image_seal             = 
+ |seal_size              = 
+ |image_shield           = 
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              = 
+ |mapsize                = 
+ |map_caption            = 
+ |image_map1             = 
+ |mapsize1               = 
+ |map_caption1           = 
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            = Uganda < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =top 
+ |pushpin_map_caption    =Location in Uganda 
+ < !-- Location ------------------ > 
+ |subdivision_type1       = Country 
+ |subdivision_name1       = [[File:Flag of Uganda.svg|25px]] [[Uganda]] 
+ |subdivision_type2      = [[Regions of Uganda|Region]] 
+ |subdivision_name2      = [[Central Region, Uganda|Central Uganda]] 
+ |subdivision_type3      = [[Districts of Uganda|District]] 
+ |subdivision_name3      = [[Wakiso District]] 
+ |subdivision_type4      = 
+ |subdivision_name4      = 
+ |subdivision_type5      = 
+ |subdivision_name5      = 
+ < !-- Politics ----------------- >   
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = Mayor 
+ |leader_name            = '''Vincent Kayanja''' < ref > {{cite web|title=New Entebbe Mayor Faces Sh600 Million Debt Hurdle|url=http://allafrica.com/stories/201105260057.html|first=Martin|last=Ssebuyira|date=26 May 2011|publisher=[[Daily Monitor]] via AllAfrica.com|access-date=17 April 2014}} < /ref > 
+ |leader_title1          =   < !-- for places with, say, both a mayor and a city manager -- > 
+ |leader_name1           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       = 
+ |established_title2     =   < !-- Incorporated (town) -- > 
+ |established_date2      = 
+ |established_title3     =   < !-- Incorporated (city) -- > 
+ |established_date3      = 
+ < !-- Area    --------------------- > 
+ |area_magnitude         = 
+ |unit_pref                =Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = 
+ |area_total_km2           = 56.2  
+ |area_land_km2            =  
+ |area_water_km2           = 20 
+ < !-- Population   ----------------------- > 
+ |population_as_of               = 2014 Census 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               = 69958 
+ |population_density_km2         = 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_urban               = 
+ |population_density_urban_km2   = 
+ |population_density_urban_sq_mi = 
+ |population_blank1_title        =Ethnicities 
+ |population_blank1              = 
+ |population_blank2_title        =Religions 
+ |population_blank2              = 
+ |population_density_blank1_km2 = 
+ |population_density_blank1_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               = 
+ |utc_offset             = 
+ |timezone_DST           = 
+ |utc_offset_DST         = 
+ |coordinates            = {{coord|00|03|00|N|32|27|36|E|region:UG|display=inline}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >  tags-- > 
+ |elevation_m            = 1180 
+ |elevation_ft           = 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |website                = 
+ |footnotes              = 
+ }} 
+ '''Entebbe''' is a [[town]] in central [[Uganda]]. It is the second largest city in the country after [[Kampala]]. Entebbe is found on the shores of [[Lake Victoria]]. < ref > [https://www.bbc.com/news/magazine-36559375 | Entebbe: A mother's week of 'indescribable fear' -] BBC News < /ref > < ref > [https://www.cnn.com/2014/07/03/world/aviation-security/index.html | U.S. embassy warns of security threat to Uganda airport -] CNN < /ref >  [[Entebbe International Airport]], which is the main and busiest [[airport]] of Uganda, is located in the town. 
+ The famous [[Operation Entebbe]] took place at Entebbe Airport in 1976. 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Cities in Africa]] 
+ [[Category:Settlements in Uganda]] 
+ 
+ {{geo-stub}}

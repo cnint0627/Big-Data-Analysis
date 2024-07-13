@@ -1,0 +1,40 @@
+The '''ZFS''' is a computer [[file system]]. 
+ FS stands for ''file system''. 
+ The letter Z was chosen, because it is the ''last'' letter in the English alphabet. 
+ This is supposed to mean ZFS was the last, “ultimate” file system ever made. 
+ 
+ == Development == 
+ Originally ZFS has been developed by Sun Microsystems for [[Solaris]]. 
+ Later, ZFS has been ported to other versions of [[Unix]], including [[Linux]] and [[FreeBSD]]. 
+ 
+ == Design == 
+ Traditional file systems focus on managing data and ensuring integrity. 
+ Additional features like [[RAID]] had to be added externally, outside of the file system’s realm. 
+ This potentially led to difficulties and increased complexity of systems. 
+ 
+ The ZFS takes a different approach. 
+ It integrates many useful features into its ecosystem. 
+ This ensures all subsystems work together without problems and increases performance. 
+ 
+ Some features include 
+ * disk encryption 
+ * RAID 
+ * [[logical volume management]] 
+ * snapshots 
+ * data deduplication 
+ * delegating file system administration rights 
+ 
+ Furthermore, during development of ZFS there was a continuing trend to disks having larger capacities. 
+ In designing of ZFS it was taken account of that fact. 
+ The ZFS can handle (in comparison to traditional file systems) very large files, a large number of files, large number of disks, disks having large capacities, and so on. 
+ 
+ == Application == 
+ FreeBSD and Solaris use ZFS as the standard main file system. 
+ Ubuntu’s kernel includes ZFS, but it is not the default choice. 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer file formats]] 
+ [[Category:Sun Microsystems]] 
+ [[Category:Oracle Corporation]]

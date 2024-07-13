@@ -1,0 +1,29 @@
+{{Taxobox 
+ | name = Thermomicrobia 
+ | domain = [[Bacteria]] 
+ | phylum = '''Thermomicrobiota''' 
+ | phylum_authority = Garrity and Holt 2021 < ref > {{cite journal | vauthors = Oren A, Garrity GM | title = Valid publication of the names of forty-two phyla of prokaryotes | journal = Int J Syst Evol Microbiol | year = 2021 | volume = 71 | issue = 10 | pages = 5056 | doi = 10.1099/ijsem.0.005056 | pmid = 34694987 | url = https://www.microbiologyresearch.org/pubmed/content/journal/ijsem/10.1099/ijsem.0.005056| doi-access = free }} < /ref > 
+ | classis = '''Thermomicrobia''' 
+ | classis_authority = Garrity and  &  Holt 2002 < ref > {{cite book | vauthors = Garrity GM, ((Holt JG.)) | chapter = Class I. ''Thermomicrobia'' class. nov. | veditors = Boone DR, Castenholz RW, ((Garrity GM.)) | title = Bergey's Manual of Systematic Bacteriology | edition = 2nd | volume = 1 (The Archaea and the Deeply Branching and Phototrophic Bacteria) | publisher = Springer | location = New York, NY | year = 2001 | pages = 447–450}} < /ref > 
+ | subdivision_ranks = Orders 
+ | subdivision = 
+ * [[Sphaerobacterales]] 
+ * [[Thermomicrobiales]] 
+ | synonyms = 
+ * Thermomicrobia: 
+ **  " Thermomicrobia "   < small > Garrity and Holt 2001 < /small > 
+ **  " Thermomicrobiota "   < small > Whitman et al. 2018 < /small > 
+ **  " Thermomicrobaeota "   < small > Oren et al. 2015 < /small > 
+ }} 
+ The '''Thermomicrobia''' is a group of [[thermophile|thermophilic]] green non-[[sulfur]] [[bacteria]].   
+ 
+ The group is based on the [[type species]] ''Thermomicrobium roseum'' and on ''Sphaerobacter thermophilus''. < ref name= " :0 " > {{cite book|title=Bergey's Manual of Systematic Bacteriology, 2nd edn, vol. 1, The Archaea and the Deeply Branching and Phototrophic Bacteria| vauthors = Garrity GM, Holt JG |publisher=Springer|year=2001 | veditors = Boone DR, Castenholz RW, Garrity GM |location=New York|chapter=Phylum BVII. Thermomicrobia phy. nov.}} < /ref > < ref name= " :1 " > {{cite journal | vauthors = Hugenholtz P, Stackebrandt E | title = Reclassification of Sphaerobacter thermophilus from the subclass Sphaerobacteridae in the phylum Actinobacteria to the class Thermomicrobia (emended description) in the phylum Chloroflexi (emended description) | journal = International Journal of Systematic and Evolutionary Microbiology | volume = 54 | issue = Pt 6 | pages = 2049–51 | date = November 2004 | pmid = 15545432 | doi = 10.1099/ijs.0.03028-0  }} < /ref >  They are [[aerobic]] and chemoorganotrophic (a term which means their [[metabolism]] is rather like most [[fungi]]). 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{-}} 
+ {{biology-stub}} 
+ 
+ [[Category:Gram-negative bacteria]]

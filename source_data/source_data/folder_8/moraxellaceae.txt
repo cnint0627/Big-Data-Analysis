@@ -1,0 +1,41 @@
+{{Automatic_taxobox 
+ | image = Acinetobacter baumannii.JPG 
+ | image_caption = ''[[Acinetobacter baumannii]]'' 
+ | taxon = Moraxellaceae 
+ | authority = Rossau et al. 1991 
+ | subdivision_ranks = Genus 
+ | subdivision =  
+ ''[[Acinetobacter]]'' < br / > 
+ ''[[Alkanindiges]]'' < br / > 
+ ''[[Branhamella]]'' (''Moraxella'') < br / > 
+ ''[[Cavicella]]'' < br / > 
+ < !-- Enhydrobacter was reclassified as Alphaproteobacteria -- > 
+ ''[[Faucicola]]'' < br / > 
+ ''[[Fluviicoccus]]'' < br / > 
+ ''[[Moraxella]]'' < br / > 
+ ''[[Paraperlucidibaca]]'' < br / > 
+ ''[[Perlucidibaca]]'' < br / > 
+ ''[[Psychrobacter]]'' 
+ }} 
+ '''Moraxellaceae''' are a [[family]] of [[bacteria]]. < ref name= " Bergey " > {{cite book|last=Garrity|first=George M.  |display-authors = etal |title=Bergey's manual of systematic bacteriology. Volume 2: ''The Proteobacteria, Part B: The Gammaproteobacteria.'' |year=2005}} < /ref >  They are [[gram-negative]]. Some are [[pathogen]]s. ''[[Moraxella catarrhalis]]'' can cause [[Chronic obstructive pulmonary disease]]. < ref name= " Bergey "  / >  ''Moraxella bovis'' cause in [[cattle]] the so-called [[pink eye]]. < ref name= " Bergey "  / > 
+ 
+ == Systematics == 
+ The family belongs to the [[Gammaproteobacteria]]. It contains the following of genera: < ref > J.P. Euzéby: ''List of Prokaryotic names with Standing in Nomenclature'' – [http://www.bacterio.cict.fr/classifgenerafamilies.html#Moraxellaceae Family Moraxellaceae] {{Webarchive|url=https://web.archive.org/web/20120427014045/http://www.bacterio.cict.fr/classifgenerafamilies.html#Moraxellaceae |date=2012-04-27 }} (24. Januar 2013) < /ref > 
+ 
+ *''[[Acinetobacter]]''  < span class= " Person " > Brisou and Prévot 1954 < /span > 
+ *''[[Alkanindiges]]''  < span class= " Person " > Bogan et al. 2003 < /span > 
+ *''[[Branhamella]]''  < span class= " Person " > Catlin 1970 < /span > 
+ *''[[Enhydrobacter]]''  < span class= " Person " > Staley et al. 1987 < /span > 
+ *''[[Moraxella]]''  < span class= " Person " > Lwoff 1939 < /span > 
+ *''[[Paraperlucidibaca]]''  < span class= " Person " > Oh et al. 2011 < /span > 
+ *''[[Perlucidibaca]]''  < span class= " Person " > Song et al. 2008 < /span > 
+ *''[[Psychrobacter]]''  < span class= " Person " > Juni and Heym 1986 < /span > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ 
+ [[Category:Gram-negative bacteria]] 
+ 
+ {{biology-stub}}

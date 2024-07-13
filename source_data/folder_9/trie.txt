@@ -1,0 +1,5 @@
+[[Image:trie.svg|thumb|right|250px|A trie containing  " Java " ,  " Rad " ,  " Rand " ,  " Rau " ,  " Raum " , and  " Rose " .]] 
+ 
+ In [[computer science]], a '''trie''' is a type of [[tree (data structure)]]. A trie is often used to store a [[set]]. Common prefixes among items within the trie are stored only once. 
+ 
+ [[Category:Data structures]]

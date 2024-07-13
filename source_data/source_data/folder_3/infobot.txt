@@ -1,0 +1,32 @@
+{{Infobox software 
+ | name                   = Infobot 
+ | logo                   =  
+ | screenshot             =  
+ | caption                =  
+ | collapsible            =  
+ | author                 = Kevin Lenzo 
+ | developer              =  
+ | released               = 1995 
+ | latest release version = 1.5.3 
+ | latest release date    = {{release date and age|2008|08|01}} 
+ | latest preview version =  
+ | latest preview date    =  
+ | frequently updated     =  
+ | programming language   = [[Perl]] 
+ | operating system       = [[Unix-like]] 
+ | platform               =  
+ | size                   =  
+ | language               =  
+ | status                 =  
+ | genre                  = [[IRC bot]] 
+ | license                = Artistic License 
+ | website                = {{URL|http://infobot.sourceforge.net/}} 
+ }} 
+ '''Infobot''' is a [[Perl]] [[IRC bot]], first written in 1995 by Kevin Lenzo. The bot's main goal was to remember [[Uniform Resource Locator|URLs]] and associate them with a name, so if someone needed a specific [[Uniform Resource Locator|web address]] they could ask the bot. For this reason, the first Infobot, in the #macintosh channel in the [[EFnet]] [[Internet Relay Chat|IRC]] network, had the nickname 'url'. 
+ 
+ The main project is now inactive, many [[Fork (software development)|forks]] from the original program were made, some of which are still active. Many of these forks carry extra features. 
+ 
+ {{IRC footer}} 
+ 
+ [[Category:Internet Relay Chat]] 
+ [[Category:Software]]

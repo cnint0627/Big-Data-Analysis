@@ -1,0 +1,47 @@
+'''Velocity''' is a [[measure]] of how [[Speed|fast]] something moves in a particular direction. To define it needs both [[magnitude (mathematics)|magnitude]] and [[direction]]. If an object moves [[east]] at 9 [[metre]]s per second (9 & nbsp;m/s), then its velocity is 9 & nbsp;m/s to the east. 
+ 
+ The idea behind this is that speed doesn't tell us in which [[direction]] the object moves in a given [[frame of reference]]. Speed is one part of velocity, direction is the other part. Depending on the frame of reference, the velocity can be defined with many mathematical concepts required for making the correct analysis. 
+ 
+ == Velocity in one-dimensional motion == 
+ 
+ === Average velocity === 
+ To calculate the average velocity of an object, we divide its [[Displacement vector|displacement]] (its change of position) by the time it took to change position. 
+ 
+ < math > {v_{average}} = \frac\text{displacement}\text{time}\Leftrightarrow v_{average}={\Delta x \over \Delta t}\Leftrightarrow v_{average}={x_2-x_1 \over t_2-t_1}\Leftrightarrow v_{average}={x \over t}      < /math > 
+ 
+ For example, if an object moves 20 meters (m) to the left in 1 seconds (s), its velocity (v) would be equal to: 
+ < math display= " block " > {v} = \frac\text{20 m}\text{1 s} = \text{20 m/s to the left} < /math > 
+ 
+ === Instantaneous velocity === 
+ Unlike average velocity, the instantaneous velocity tells us how fast something is moving at only one time, because velocity can only change with time. 
+ 
+ < math > v=\lim_{\Delta t \to 0} {\Delta x \over \Delta t}={dx \over dt} < /math > 
+ 
+ == Velocity in two-dimensional motion == 
+ The concept of velocity allows us to consider two different means of calculating the velocity. Two-dimensional motion ''requires'' us to use vector notation to define the physical quantities found throughout the [[kinematics]]. 
+ 
+ === Distinction between average velocity and instantaneous velocity regarding two dimensional motion === 
+ 
+ ==== Average velocity ==== 
+ To calculate the average velocity of an object, we divide its [[Displacement vector|displacement]] (its change of position) by the time it took to change position. 
+ 
+ < math > {\overrightarrow v_{average}} = \frac\text{displacement}\text{time interval}\Leftrightarrow \overrightarrow v_{average}={\Delta {\overrightarrow r} \over \Delta t}\Leftrightarrow \overrightarrow v_{average}={\overrightarrow r_2- \overrightarrow r_1 \over t_2-t_1}      < /math > 
+ 
+ where:  < math > \Delta r -      < /math > is the total distance traveled in a given time interval  < math >  \Delta t  < /math > . Each of these quantities can be calculated by substracting two different values intertwined within the given quantity, hence  < math > r_2-r_1, t_2-t_1 < /math > give the desired  < math > v={r \over t} < /math > . 
+ 
+ ==== Instantaneous velocity ==== 
+ Contrary to average velocity, the instantaneous velocity tells us the rate of change at which a given object is moving along a certain path at a given instance of time, which usually tends to be infinitesimally small. < ref > {{Cite book|url=https://www.worldcat.org/oclc/1001998323|title=FUNDAMENTALS OF PHYSICS EXTENDED 10E.|last=Halliday, David.|date=2013|publisher=Wiley|others=Resnick, Robert., Walker, Jearl.|isbn=9781118547878|edition=10th|location=New York|oclc=1001998323}} < /ref > 
+ 
+ < math > v=\lim_{\Delta t \to 0} {\Delta \overrightarrow r \over \Delta t}\Leftrightarrow v={d \overrightarrow r \over dt} < /math > 
+ 
+ When  < math > \Delta t \rightarrow 0      < /math > , we can see that  < math > \Delta r \rightarrow 0     < /math > . Taking that into consideration we can conceptualize this rate of change between [[displacement vector]] and interval of time using [[mathematical analysis]] ''(most notably-'' ''[[Calculus]])'' 
+ 
+ ==Relative velocity== 
+ Velocity can also be measured by comparing the motion of two objects. This is called relative velocity. The second object is called the reference frame. To find the relative velocity, subtract the velocity of the reference frame from the velocity of the first object. < ref > {{Cite web|title=Relative Motion|url=http://hyperphysics.phy-astr.gsu.edu/hbase/relmot.html|access-date=2020-08-31|website=hyperphysics.phy-astr.gsu.edu}} < /ref >  For example, Earth moves at 67,000 miles per hour around the Sun. Usually, we do not care about this motion. So we subtract the vector that represents Earth's motion from the total motion. < ref > {{Cite web|title=How fast is the earth moving?|url=https://www.scientificamerican.com/article/how-fast-is-the-earth-mov/|access-date=2020-08-31|website=Scientific American|language=en}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Physical quantity]] 
+ [[Category:Velocity| ]] 
+ [[Category:Basic physics ideas]]

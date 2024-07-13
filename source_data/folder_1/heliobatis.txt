@@ -1,0 +1,37 @@
+{{italictitle}} 
+ {{Taxobox 
+ |name = ''Heliobatis'' 
+ |fossil_range = {{fossilrange|Early Eocene}} 
+ |image =Heliobatis radians Green River Formation.jpg 
+ |image_caption = Male ''Heliobatis radians'' fossil 
+ |regnum = [[Animal]]ia 
+ |phylum = [[Chordata]] 
+ |classis = [[Chondrichthyes]] 
+ |ordo = [[Myliobatiformes]] 
+ |familia = [[Dasyatidae]] 
+ |genus = '''''Heliobatis''''' 
+ |species = ''H. radians'' 
+ |binomial = ''Heliobatis radians'' 
+ |binomial_authority = [[Othniel Charles Marsh|Marsh]], 1877 < ref name = " Grande84 " > {{Citation |last= Grande |first= Lance |title= Paleontology of the Green River Formation, with a review of the fish fauna |place= Laramie, WY |journal= Bulletin of the Wyoming State Geological Survey |year= 1984 |volume = 63 2nd ed.}} < /ref > 
+ | synonyms =  
+ *''Dasyatis'' species  < small > Haseman, 1912 < /small > 
+ *''Palaeodasybatis discus''  < small > Fowler, 1947 < /small > 
+ *''Xiphotrygon acutidens''  < small > Cope, 1879 < /small > 
+ *''Xyphotrygus'' species  < small > Romer, 1971 < /small > 
+ }} 
+ {{Commonscat|Heliobatis radians}} 
+ 
+ '''''Heliobatis''''' is an [[extinct]] [[genus]] of [[stingray]]. < ref name = " Grande84 " / >   At present the genus contains the single species '''''Heliobatis radians'''''. 
+ 
+ The [[fossil]] is found in the early [[Eocene]], [[Wasatchian]] stage, [[Green_River_Formation#Fossil_zones|Fossil Lake]] deposits. Fossil Lake is part of the [[Green River Formation]] in southwest [[Wyoming]]. < ref name = " Grande84 " / >   
+ 
+ ''Heliobatis'' is one of only two known [[rays]] to have been found in the Green River formation. The other species, ''[[Asterotrygon|Asterotrygon maloneyi]]'', was recognized and described in 2004. < ref name= " Carvalho2004 " > {{cite journal |last1=Carvalho |first1=M.R. |author2=Maisey, J.G. |author3=Grande, L. |year=2004 |title=Freshwater stingrays of the Green River Formation of Wyoming (early Eocene), with the description of a new genus and species and an analysis of its phylogenetic relationships (Chondrichthyes, Myliobatiformes). |journal= Bulletin of the American Museum of Natural History |volume=284 |pages=1–136 |doi= 10.1206/0003-0090(2004)284 < 0001:FSOTGR > 2.0.CO;2|s2cid=83986811 |url=https://zenodo.org/record/5355133 }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Fossils]] 
+ [[Category:Rays]]

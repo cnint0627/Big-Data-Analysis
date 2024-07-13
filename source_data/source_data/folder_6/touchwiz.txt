@@ -1,0 +1,43 @@
+{{Infobox OS 
+ | title = Samsung TouchWiz 
+ | name = Samsung Touchwiz 
+ | collapsible =  
+ | author =  
+ | developer = Samsung Electronics Co., Ltd 
+ | released = 2008 
+ | discontinued = Yes 
+ | latest release version = TouchWiz Grace UX V2  ([[Android Nougat]]) Final version 
+ | latest release date = 2016 
+ | latest preview version = Touchwiz Grace UX V2 
+ | latest preview date =  < !-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -- > 
+ | status =  
+ | programming language = C+ 
+ | operating system = Android, Bada, Tizen 
+ | platform = Android, Bada, Tizen 
+ | size =  
+ | language =  
+ | language count = 90+ 
+ | language footnote =  < br >   < small > (varies by carrier and/or version) < /small > 
+ | genre = Graphical user interface 
+ | license = Proprietary 
+ | frequently updated =  < !-- DO NOT include this parameter unless you know what it does -- > 
+ | preceded by = Croix UI 
+ | succeeded by = [[Samsung Experience]] 
+ }} 
+ 
+ '''TouchWiz''' is a user interface and a user experience. It was made by Samsung. 
+ 
+ {{S-start}} 
+ {{Succession box 
+  | title  = TouchWiz 
+  | years  = 2008–2016 
+  | before = Croix UI 
+  | after  = [[Samsung Experience]] 
+ }} 
+ {{S-end}} 
+ 
+ 
+ [[Category:software]] 
+ [[Category:operating systems]] 
+ [[Category:Samsung]] 
+ {{tech-stub}}

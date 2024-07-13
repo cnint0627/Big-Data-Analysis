@@ -1,0 +1,103 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > | name                            = {{raise|0.2em| Koshigaya}} 
+ | population_total                = 345,353 
+ | utc_offset1                     = +9 
+ < !-- postal codes, area code -- > | timezone1                       = [[Japan Standard Time]] 
+ | population_note                 =  < !-- time zone(s) -- > 
+ | population_demonym              =  < !-- demonym, ie. Liverpudlian for someone from Liverpool -- > 
+ | pop_est_as_of                   =  
+ | population_est                  =  
+ | population_density_km2          = auto 
+ | population_as_of                = February 2021 
+ | population_footnotes            =  < !-- for references: use  < ref >  tags -- > 
+ | postal_code                     =  
+ | elevation_m                     =  < !-- population -- > 
+ | elevation_footnotes             =  < !-- for references: use  < ref >  tags -- > 
+ | area_note                       =  < !-- elevation -- > 
+ | area_water_percent              =  
+ | area_water_km2                  =  
+ | area_land_km2                   =  
+ | area_total_km2                  = 60.24 
+ | area_footnotes                  =  < !-- for references: use  < ref >  tags -- > 
+ | area_magnitude                  =  < !-- use only to set a special wikilink -- > 
+ | postal_code_type                =  
+ | area_code_type                  =  < !-- defaults to: Area code(s) -- > 
+ | total_type                      =  < !-- to set a non-standard label for total area and population rows -- > 
+ | blank5_info_sec1                =  
+ | website                         = {{Official|1=http://www.city.koshigaya.saitama.jp}} 
+ | blank1_info_sec2                = 4-2-1 Koshigaya, Koshigaya-shi, Saitama-ken 343-8501 
+ < !-- website, footnotes -- > | blank1_name_sec2                = Address 
+ | blank_info_sec2                 = 048-982-5111 
+ | blank_name_sec2                 = Phone & nbsp;number 
+ | blank7_info_sec1                =  < !-- blank fields (section 2) -- > 
+ | blank7_name_sec1                =  
+ | blank6_info_sec1                =  
+ | blank6_name_sec1                =  
+ | blank5_name_sec1                =  
+ | area_code                       =  < !-- blank fields (section 1) -- > 
+ | blank4_info_sec1                =  
+ | blank4_name_sec1                =  
+ | blank3_info_sec1                = [[Eurasian collared dove]] 
+ | blank3_name_sec1                = - Bird 
+ | blank2_info_sec1                = [[Chrysanthemum]] 
+ | blank2_name_sec1                = - Flower 
+ | blank1_info_sec1                = [[Zelkova serrata]] 
+ | blank1_name_sec1                = - Tree 
+ | blank_name_sec1                 = City Symbols 
+ | unit_pref                       =  < !-- enter: Imperial, to display imperial before metric -- > 
+ < !-- area -- > | leader_name1                    =  < !-- etc., up to leader_title4 / leader_name4 -- > 
+ < !-- display settings  -- > | official_name                   =  
+ | image_shield                    =  
+ | pushpin_map                     = Japan 
+ | map_caption                     = Location of Koshigaya in Saitama Prefecture 
+ | map_alt                         =  
+ | image_map                       = Koshigaya in Saitama Prefecture Ja.svg 
+ | motto                           =  < !-- maps and coordinates -- > 
+ | nickname                        =  
+ | image_blank_emblem              =  
+ | shield_alt                      =  
+ | seal_alt                        =  
+ | pushpin_map_alt                 =  
+ | image_seal                      = Emblem of Koshigaya, Saitama.svg 
+ | flag_alt                        =  
+ | image_flag                      = Flag of Koshigaya, Saitama.svg 
+ | image_caption                   = Koshigaya City Hall 
+ | image_alt                       =  
+ | imagesize                       =  
+ | image_skyline                   = Koshigaya City Hall Saitama Japan 1.jpg 
+ | settlement_type                 = [[Core cities of Japan|Core city]] 
+ < !-- images, nickname, motto -- > | native_name                     = {{lower|0.1em|{{nobold|{{lang|ja|越谷市}}}}}} 
+ | pushpin_label_position          =  < !-- position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_map_caption             =  
+ | leader_title1                   =  
+ | established_title               =  < !-- Settled -- > 
+ | leader_name                     = Tsutomu Takahashi 
+ | leader_title                    = Mayor 
+ | leader_party                    =  
+ | government_footnotes            =  < !-- for references: use  < ref >  tags -- > 
+ | seat                            =  < !-- government type, leaders -- > 
+ | seat_type                       =  < !-- defaults to: Seat -- > 
+ | named_for                       =  < !-- seat, smaller parts -- > 
+ | founder                         =  
+ | established_date                =  
+ | subdivision_name3               =  < !-- established -- > 
+ | coordinates                     = {{coord|35|53|28.1|N|139|47|27.3|E|region:JP-11|display=it}} 
+ | subdivision_type3               =  
+ | subdivision_name2               = [[Saitama Prefecture|Saitama]] 
+ | subdivision_type2               = [[Prefectures of Japan|Prefecture]] 
+ | subdivision_name1               = [[Kantō region|Kantō]] 
+ | subdivision_type1               = [[List of regions of Japan|Region]] 
+ | subdivision_name                = [[Japan]] 
+ | subdivision_type                = Country 
+ | coordinates_footnotes           =  < !-- for references: use  < ref >  tags -- > 
+ < !-- location -- > | coor_pinpoint                   =  < !-- to specify exact location of coordinates (was coor_type) -- > 
+ | footnotes                       =  
+ }} 
+ [[File:Koshigaya_LakeTown_Pond_1.JPG|right|thumb|270x270px|View of Aeon LakeTown shopping mall]] 
+ {{Nihongo|'''Koshigaya'''|越谷市|Koshigaya-shi}} is a [[Cities of Japan|city]] in [[Saitama Prefecture]], [[Japan]]. 
+ 
+ {{authority control}} 
+ 
+ {{Japan-stub}} 
+ 
+ [[Category:Cities in Saitama Prefecture]]

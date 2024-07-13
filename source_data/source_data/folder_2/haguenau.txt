@@ -1,0 +1,151 @@
+{{Infobox French commune 
+ |name                   = Haguenau  
+ |commune status         = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image coat of arms     = Blason haguenau 67.svg 
+ |image                  = EU-FR-AL-67@Haguenau Église Saint-Georges 02.jpg 
+ |caption                = ''Saint-Georges'' [[church]]. 
+ |arrondissement         = Haguenau-Wissembourg 
+ |canton                 = Haguenau 
+ |INSEE                  = 67180 
+ |postal code            = 67500 
+ |population demonym     = Haguenoviens 
+ |mayor                  = Claude Sturni 
+ |term                   = 2014-2020 
+ |intercommunality       = CA de Haguenau 
+ |coordinates            = {{coord|48.82|7.79|format=dms|display=inline,title}} 
+ |elevation m            = 159 
+ |elevation min m        = 115 
+ |elevation max m        = 203 
+ |area km2               = 182.59 
+ |population             = 34761 
+ |population date        = 2014 
+ }} 
+ '''Haguenau''' is a [[Communes of France|commune]] in [[Alsace]] in north-eastern [[France]], in the [[Bas-Rhin]] [[Departments of France|department]], of which it is a [[Subprefectures in France|subprefecture]]. It is in the [[Grand Est]] [[Regions of France|region]]. 
+ 
+ It is second in size in the Bas-Rhin only to [[Strasbourg]], some {{convert|30|km|mi|abbr=on}} to the south. 
+ 
+ ==Geography== 
+ Haguenau is in the northern part of the Bas-Rhin department. The [[Moder (river)|Moder]] [[river]], a left [[tributary]] of the [[Rhine River|Rhine]] river, flows through the ''commune''. 
+ 
+ It has an area of {{Convert|182.6|km2|sqmi|abbr=on }}, the ''commune'' of Alsace with the largest [[territory]]. < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-67180 |title=Commune de Haguenau (67180) |work=Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=25 December 2017 }} < /ref >  Its average [[altitude]] is {{Convert|159|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|140|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Haguenau-67500/ |title=City of Haguenau |publisher=Map-France.com |access-date=25 December 2017 }} < /ref > 
+ 
+ The distances from Haguenau to other cities are: < ref name= " mairie " > {{cite web |work=Annuaire-Mairie.fr |title=Ville d'Haguenau |url=https://www.annuaire-mairie.fr/ville-haguenau.html |language=fr |access-date=25 December 2017}} < /ref > 
+ * [[Paris]], the national capital - {{Convert|480|km|mi|abbr=on }}; 
+ * [[Strasbourg]], the regional capital - {{Convert|32|km|mi|abbr=on }}; 
+ * [[Marseille]] - {{Convert|835|km|mi|abbr=on }}; 
+ * [[Lyon]] - {{Convert|524|km|mi|abbr=on }}; 
+ * [[Reims]] - {{Convert|338|km|mi|abbr=on }}; 
+ * [[Bordeaux]] - {{Convert|1028|km|mi|abbr=on }}; 
+ * [[Toulouse]] - {{Convert|1002|km|mi|abbr=on }}; 
+ * [[Montpellier]] - {{Convert|821|km|mi|abbr=on }}; 
+ * [[Nice]] - {{Convert|817|km|mi|abbr=on }}. 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Haguenau and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 67180.png|350px|Map of the ''commune'' of Haguenau]] 
+ |} 
+ < /center > 
+ 
+ The ''commune'' of Haguenau is surrounded by 25 ''communes'' and so it is one of the ''communes'' in France with more surrounding ''communes''. The nearest ''communes'' are: 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Haguenau 
+ |North     = [[Schweighouse-sur-Moder]] 
+ |Northeast =  
+ |East      = [[Kaltenhouse]] 
+ |Southeast = [[Kaltenhouse]] 
+ |South     = [[Kaltenhouse]] 
+ |Southwest = [[Niederschaeffolsheim]] 
+ |West      = [[Schweighouse-sur-Moder]] 
+ |Northwest = [[Schweighouse-sur-Moder]] 
+ }} 
+ 
+ ===Climate=== 
+ The climate of Haguenau, in the [[Köppen climate classification]], is '''Cfb''' - [[Oceanic climate]] with template summers. < ref name= " mairie "  / > 
+ 
+ ==Population== 
+ The inhabitants of Haguenau are known, in [[French language|French]], as ''Haguenoviens'' (women: ''Haguenoviennes''). < ref > {{cite web|url=https://www.habitants.fr/bas-rhin-67 |title=Habitants du départment: Bas-Rhin|publisher=habitants.fr |language=fr |access-date=25 December 2017 }} < /ref > 
+ 
+ With a population of 34,761, < ref name=insee2 > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep67.pdf |title=Régions, départements, arrondissements, cantons et communes |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=fr |access-date=22 December 2017}} < /ref >  Haguenau has a [[population density]] of {{Pop density|34761|182.59|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Haguenau''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:36000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:4000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:2000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:a text:1968 
+  bar:b text:1975 
+  bar:c text:1982 
+  bar:d text:1990 
+  bar:e text:1999 
+  bar:f text:2006 
+  bar:g text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:a from:0 till: 22944 
+  bar:b from:0 till: 25147 
+  bar:c from:0 till: 26629 
+  bar:d from:0 till: 27675 
+  bar:e from:0 till: 32242 
+  bar:f from:0 till: 34891 
+  bar:g from:0 till: 34761 
+ 
+ PlotData= 
+  bar:a at: 22944 fontsize:S text: 22,944 shift:(-12,12) 
+  bar:b at: 25147 fontsize:S text: 25,147 shift:(-15,5) 
+  bar:c at: 26629 fontsize:S text: 26,629 shift:(-15,5) 
+  bar:d at: 27675 fontsize:S text: 27,675 shift:(-15,5) 
+  bar:e at: 32242 fontsize:S text: 32,242 shift:(-15,5) 
+  bar:f at: 34891 fontsize:S text: 34,891 shift:(-15,5) 
+  bar:g at: 34761 fontsize:S text: 34,761 shift:(-15,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Administration== 
+ Haguenau is a [[Subprefectures in France|subprefecture]] in the [[Bas-Rhin]] department since 1790. It is the capital of the [[Arrondissement of Haguenau-Wissembourg|Haguenau-Wissembourg]] ''arrondissement'' and is also the [[administrative centre]] ({{lang-fr|chef-lieu}}) of the ''canton'' of [[Canton of Haguenau|Haguenau]] formed by 14 ''communes'', with 49,203 inhabitants (2014). < ref name=insee1 > {{cite web|url=https://www.insee.fr/fr/metadonnees/cog/communes/COM67180-haguenau |title=Commune de Haguenau (67180) |work= Géographie administrative et d’étude |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=26 December 2017 }} < /ref > 
+ 
+ === Twin towns === 
+ Haguenau has been [[Twin town|twinned]] with [[Landau]] (Germany) since 1963. 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Haguenau HôtelVille 1a.JPG|[[City and town halls|Town hall]] of Haguenau. 
+ File:Marienthal NotreDame01.JPG|[[Basilica]] of Our Lady of Marienthal. 
+ File:Haguenau-Eglise protestante (1).jpg|[[Protestantism|Protestant]] [[temple]] of Haguenau. 
+ File:Hagenau - panoramio.jpg|[[Town square|Square]] in Haguenau. 
+ File:Haguenau (8475964662).jpg|''Joseph Thierry'' [[street]]. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Haguenau-Wissembourg]] 
+ * [[Communes of the Bas-Rhin department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Haguenau}} 
+ * [http://www.ville-haguenau.fr/ Ville d'Haguenau - Official site] {{in lang|fr}} 
+ * [http://www.tourisme-haguenau-potiers.com/ Office de Tourisme Haguenau Forêt et Terre de Potiers] {{in lang|fr}} 
+ 
+ [[Category:Communes in Bas-Rhin]] 
+ [[Category:Subprefectures in France]]

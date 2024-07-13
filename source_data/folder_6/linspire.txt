@@ -1,0 +1,56 @@
+{{update}} 
+ {{Infobox OS| 
+ | name = Linspire 
+ | logo =  
+ | screenshot =  
+ | caption = Screenshot of Linspire 
+ | developer = Linspire, Inc. 
+ | family = [[Linux]] 
+ | latest_release_version = 6.0 
+ | latest_release_date = [[October 10]], [[2007]] 
+ | kernel_type = [[Monolithic kernel]] 
+ | ui = [[KDE]] 
+ | updatemodel = [[CNR (software)|CNR]] 
+ | license = Both [[Free software|free]] and [[proprietary software]] 
+ | working_state = Current 
+ | website = http://www.linspire.com/ 
+ }} 
+ 
+ '''Linspire''', also known as '''LindowsOS''' (also '''Lin---s''', pronounced ''Lindash''), is a [[Commerce|commercial]] [[Linux distribution]] based on [[Debian|Debian GNU/Linux]] ([[Ubuntu (operating system)|Ubuntu]]). < ref > [http://www.linuxelectrons.com/news/linux/linspire-moves-debian-ubuntu Linspire Moves from Debian to Ubuntu | LinuxElectrons < !-- Bot generated title -- > ] < /ref >  Linspire is sold by Linspire, Inc. and is focused on ease-of-use for the average person, rather than catering to  advanced needs. As of [[2007-10-10]], the most recent stable release of Linspire is version 6.0 which was released in October of 2007. Linspire is available to download and costs [[United States dollar|US$]] & nbsp;50. 
+ 
+ == History == 
+ 
+ Based in [[San Diego, California]], Lindows, Inc. was founded in August 2001 by [[Michael Robertson]] with the goal of developing a Linux-based [[operating system]] capable of running major [[Microsoft Windows]] applications. It based its Windows compatibility on the [[Wine (software)|Wine]] [[application programming interface|API]] emulation layer. The company later abandoned this approach in favor of attempting to make Linux applications easy to download, install and use. To this end a program named  " [[CNR (software)|CNR]] "  was developed: based on Debian's [[Advanced Packaging Tool]], it provides an easy-to-use [[graphical user interface]] and a slightly modified package system for an annual fee. The first public release of Linspire was version 1.0, released in late 2001. < ref > {{cite web | url=https://www.pcmag.com/article2/0,1895,754,00.asp | accessdate=2006-05-02 | author=John C. Dvorak | title=The Lindows Conundrum | archive-date=2006-03-12 | archive-url=https://web.archive.org/web/20060312125027/http://www.pcmag.com/article2/0%2C1895%2C754%2C00.asp | url-status=dead }} < /ref > 
+ 
+ ==CNR== 
+ {{main|CNR (software)}} 
+ {{update}} 
+ 
+ Linspire's CNR (originally  " Click'N'Run " ) is a software distribution service based on Debian's [[APT]]. It is designed to serve as a GUI-based, user-accessible means of downloading and installing various applications, both free and [[proprietary software|proprietary]]. The service allows users to install available applications using a single click. CNR also includes a set of ''Click and Buy'' (CNB) software, which includes many commercial applications to members at a discounted rate. Currently CNR has over 38,000 different software packages, ranging from simple applications to major commercial works such as [[Win4Lin]] and [[OpenOffice.org|StarOffice]]. < ref > {{cite web | url = http://www.linspire.com/lindows_products_categories.php | title = CNR Warehouse - catalogue of software titles downloadable via CNR | accessdate = 2006-04-27}} < /ref >  CNR was originally subscription-based with two tiers: ''basic'' service cost $20 annually, and ''gold'', featuring discounts on some commercial applications, $50. In 2006, Linspire announced that the ''basic'' service was to be made available for free. < ref > {{cite web | url = http://www.linspire.com/lindows_news_pressreleases_archives.php?id=203 | title = Linspire Does Away with Annual Fee for  " Click 'N Run "  Linux Service | accessdate = 2006-08-30}} < /ref > 
+ 
+ === Web Software === 
+ 
+ [http://www.cnr.com/index.seam CNR.com] {{Webarchive|url=https://web.archive.org/web/20080620090309/http://www.cnr.com/index.seam |date=2008-06-20 }} also provides access to thousands of Web-based Applications, providing the Linux community with the option of local Linux and Web Software, available through a single source (as of February 2008). 
+ The same capabilities to browse and search the library of products with additional capabilities planned to improve the Web Software experience (bookmarking). The community will also have the capability to add new products to the already extensive library of applications available. 
+ 
+ ==Freespire== 
+ {{main|Freespire}} 
+ [[Image:Freespire-2.0.8.png|thumb|Freespire RC1]] 
+ 
+ In August 2005, Andrew Betts released a [[Live CD]] based on Linspire and named ''Freespire''. < ref > [http://www.freespire.org Freespire's website.] < /ref >   Linspire, Inc. offered users a  " free Linspire "  (purchase price discounted to $0) by using the coupon code  " Freespire "  until [[September 9]] [[2005]]. On [[April 24]] [[2006]], Linspire announced its own project named  " Freespire " . < ref name=newsforge > {{cite web | url=http://os.newsforge.com/article.pl?sid=06%2F04%2F24%2F1951201 | title=Newsforge: Linspire launches Freespire, open-sources CNR | accessdate=2006-04-25 | archive-date=2013-08-14 | archive-url=https://archive.today/20130814221621/http://os.newsforge.com/article.pl?sid=06/04/24/1951201 | url-status=dead }} < /ref >  This follows the model of community-oriented releases by [[Red Hat]] and [[Novell]] in the form of [[Fedora (Linux distribution)|Fedora]] and [[openSUSE]]. Freespire is a community-driven and -supported project tied to the commercial Linspire distribution, and includes previously [[proprietary]] software from Linspire, such as the CNR Client, while other elements, which Linspire, Inc. licenses but does not own, like the Windows Media Audio compatibility libraries, remain closed-source. 
+ 
+ ==  Criticism == 
+ Linspire has drawn some criticism from the [[free software community]]. This has included anger for including [[proprietary software]], with [[GNU]] founder [[Richard Stallman]] commenting:  " No other GNU/Linux distribution has backslided so far away from freedom. Switching from MS Windows to Linspire does not bring you to freedom, it just gets you a different master. " < ref > {{cite web |url= http://distrocenter.linux.com/article.pl?sid=05/03/30/1346247 |title= Distro review: The four-1-1 on Linspire Five-0 |publisher= Linux.com |author= Jem Matzan |date= 2005-03-31 |accessdate= 2007-02-14 }}{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ ==References== 
+ {{Reflist|2}} 
+ 
+ ==Other websites== 
+ *[http://www.linspire.com/ Linspire official website] 
+ *[http://www.freespire.org/ Freespire official website] 
+ **[http://wiki.freespire.org/ Freespire wiki] {{Webarchive|url=https://web.archive.org/web/20080820173719/http://wiki.freespire.org/ |date=2008-08-20 }} 
+ *[http://www.lugradio.org/episodes/50 LugRadio podcast featuring an interview with Kevin Carmony] 
+ 
+ [[Category:Ubuntu (operating system) derivatives]] 
+ [[Category:Linux distributions]] 
+ [[Category:Debian-based Linux distributions]]

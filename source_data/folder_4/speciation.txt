@@ -1,0 +1,149 @@
+'''Speciation''' is about how [[species]] form. It is a major part of [[evolutionary biology]]. 
+ 
+ [[Charles Darwin|Darwin]] thought most [[species]] came directly from pre-existing species. This is called '''anagenesis''': species by changing, or 'phyletic evolution'. For much of the 20th century, scientists thought most species came when earlier species split. This is called '''cladogenesis'''. < ref > {{cite journal | doi = 10.1126/science.23.587.506 | author = Cook O.F. | year = 1906 | title = Factors of species-formation | url = https://zenodo.org/record/1447954| journal = Science | volume = 23 | issue = 587| pages = 506–507 | pmid = 17789700 | bibcode = 1906Sci....23..506C }} < /ref > < ref > {{cite journal | doi = 10.1086/279001 | author = Cook O.F. | year = 1908 | title = Evolution without isolation | url =https://archive.org/details/sim_american-naturalist_1908-11_42_503/page/727| journal = American Naturalist | volume = 42 | issue = 503| pages = 727–731 | s2cid = 84565616 }} < /ref > 
+ The general view was that most species splitting is caused or helped on its way by '''isolating mechanisms'''. < ref > {{cite web| last =King| first =David| title =The concept of species| work =Zoology 304, Evolution| publisher =| date =2003| url =http://www.science.siu.edu/zoology/King/304/species.htm#15.2.3| accessdate =2007-07-18| archive-date =2007-05-29| archive-url =https://web.archive.org/web/20070529014449/http://www.science.siu.edu/zoology/king/304/species.htm#15.2.3| url-status =dead}} < /ref > < ref > {{cite web| last =Mallet| first =J.L.B. | title =Isolating mechanisms| date =1998| url =http://abacus.gene.ucl.ac.uk/jim/Sp/isolmech.html| accessdate = 2007-07-18 }} < /ref > 
+ 
+ No doubt the physical separation of species which once lived together is a main factor. It is illustrated by so many examples, some of which are discussed below. 
+ 
+ However, work in the last 20 years has shown some other causes. Analysing the [[DNA sequence]] of living things has shown that there is often some [[hybrid]]isation between related species. That means [[genes]] have been transferred by these crosses. In turn, that means [[reproductive isolation]] is not the only definition of a species, and speciation does not always need [[allopatry]] (species to be reproductively separated). < ref > Mallet J. 2001. The speciation revolution. ''J. Evolutionary Biology'' '''14''', 887-888. < /ref > < ref > Wang R.L; Wakeley J.  &  Hey J. 1997. Gene flow and natural selection in the origin of ''Drosophila pseudoobscura'' and close relatives. ''Genetics''' '''147''' 1091-1106. < /ref > < ref > Shapiro B.J; Le Ducq J.B.  &  Mallet J. 2016. What is speciation? ''PLoS Genetics'' '''12''' (3):e1005860. [https://mallet.oeb.harvard.edu/publications/what-speciation] < /ref >  The sections below illustrate the idea that physical separation was of prime importance in the formation of new species. 
+ 
+ == Isolating mechanisms == 
+ Isolating mechanisms are things which prevent successful breeding between groups in a species. [[Reproductive isolation]] of populations is established. This is particularly important to the [[biological species concept]], as species are defined by reproductive isolation. 
+ 
+ Isolating mechanisms can be divided into two groups, before and after fertilisation. 
+ 
+ === Before fertilisation === 
+ [[File:Mule (1).jpg|thumb|right|120px|An example of reproductive isolation. A [[mule]] is the offspring of a horse and a donkey. They are sterile, except in very rare cases]] 
+ 
+ Factors which prevent individuals from mating.  
+ *'''Geographic isolation''': Species occur in different areas, and are often separated by barriers. 
+ *'''Temporal isolation''': Individuals do not mate because they are active at different times. This may be different times of the day or different seasons. The species mating periods may not match up. Individuals do not encounter one another during either their mating periods, or at all.  
+ *'''Ecological isolation''': Individuals only mate in their preferred [[habitat]]. They do not encounter individuals of other species with different ecological preferences. 
+ *'''Behavioral isolation''': Individuals of different species may meet, but one does not recognize any sexual cues that may be given. An individual chooses a member of its own species in most cases.  
+ *'''Mechanical isolation''': [[Copulation]] may be attempted but transfer of sperm does not take place. The individuals may be incompatible due to size or morphology. 
+ *'''Gametic incompatibility''': Sperm transfer takes place, but the egg is not fertilized. 
+ 
+ === After fertilisation === 
+ Factors which prevent mating being successful, such as [[genetic]] incompatibility, [[hybrid]] inviability or [[sterility]]. 
+ *'''Zygotic mortality''': The egg is fertilized, but the [[zygote]] does not develop. 
+ *'''Hybrid inviability''': Hybrid embryo forms, but is not viable. 
+ *'''Hybrid sterility''': Hybrid is viable, but the resulting adult is sterile.  
+ *'''Hybrid breakdown''': First generation (F1) hybrids are viable and fertile, but further hybrid generations (F2 and backcrosses) are inviable or sterile. 
+ 
+ == Geographical isolation == 
+ This is thought to be the most comon cause of speciation. The first person to think of it was [[Moritz Wagner]], a [[Germany|German]] [[explorer]] and [[Natural history|natural historian]]. 
+ 
+ Wagner's early career was as a geographer, and he published a number of geographical books about [[North Africa]], the [[Middle East]], and [[Tropical]] [[America]]. He was also a keen naturalist and collector, and it is for this work he is best known among biologists. [[Ernst Mayr]], the evolutionist and historian of biology, has given an account of Wagner's significance. < ref name= " Ernst " > Mayr E. 1982. ''The growth of biological thought: diversity, evolution and inheritance''. Harvard. < /ref > < sup > p562–565 < /sup > 
+ 
+ During his three years in [[Algeria]], Wagner (amongst other activities) studied the flightless [[beetles]] ''[[Pimelia]]'' and ''[[Melasoma]]''. Each [[genus]] is split into a number of species, each of which is confined to a stretch of the north [[coast]] between rivers which descend from the [[Atlas Mountains]] to the [[Mediterranean]]. As soon as one crosses a river, a different but closely related species appears. < ref > Wagner M. 1841. ''Reisen in der Regentschaft Algier in den Jahren 1836, 1837  &  1838''. Voss, Leipzig. p199-200 < /ref > 
+ 
+ : " ... an incipient species will only [arise] when a few individuals transgress the limiting borders of their range... the formation of a new race will never succeed... without a long continued separation of the colonists from the other members of their species " . < ref > Wagner M. 1873. ''The Darwinian theory and the law of the migration of organisms''. Translated by J.L. Laird, London. < /ref > 
+ 
+ This was an early description of a process of one kind of geographic speciation. In 1942 it was reintroduced by Mayr, < ref > Mayr E. 1942. ''Systematics and the origin of species''. Columbia, N.Y. < /ref >  and the importance of geographic speciation became one of the core ideas of the [[evolutionary synthesis]]. < ref > Huxley J.S. 1942. ''Evolution: the new synthesis''. Allen  &  Unwin, London. < /ref > 
+ 
+ Another term for geographic speciation is '''allopatric''' speciation. Allopatry means 'different land'. 
+ 
+ === Vacant islands === 
+ [[Volcanic]] [[island]]s are formed with no life, and all life has to arrive carried by wind or water. We know from the [[Hawaiian islands]] and from the [[Galapagos Islands]] that all forms of life change when they reach the islands from the mainland. 
+ 
+ In about {{convert|6500|sqmi|km2|abbr=on}}, the [[Hawaiian Islands]] have the most diverse collection of [[Drosophila|drosophilid]] flies in the world, living from [[rainforest]]s to [[mountain]] [[meadow]]s. About 800 Hawaiian drosophilid species are known. 
+ 
+ Studies show a clear  " flow "  of species from older to newer islands. There are also cases of colonization back to older islands, and skipping of islands, but these are much less frequent. 
+ 
+ By [[potassium/argon radioactive dating]], the present islands date from 0.4 million years ago (mya) ([[Mauna Kea]]) to 10mya (Necker). The oldest member of the Hawaiian archipelago still above the sea is Kure Atoll, which can be dated to 30 mya.  
+ [[Image:PT05 ubt.jpeg|thumb|right|A [[herring gull]], ''Larus argentatus'' (front) and a [[lesser black-backed gull]]. ''Larus fuscus'' (behind) in [[Norway]]: two [[phenotype]]s with clear differences.]] 
+ 
+ The [[archipelago]] itself, produced by the [[tectonics|Pacific plate]] moving over a [[Hotspot (geology)|hot spot]], has existed for far longer, at least into the [[Cretaceous]]. The [[Hawaiian islands]] plus former islands which are now beneath the sea make up the [[Hawaiian–Emperor seamount chain]]; and many of the underwater mountains are [[guyot]]s. < ref > Frankel, Henry R. (2012). [https://books.google.com/books?id=LQrlDXGghBgC & dq=guyot+in+Emperor+seamounts & pg=PA292   " The Continental Drift Controversy: Introduction of Seafloor Spreading, "  p. 292]; Clague D.A.  &  G.B. Dalrymple. 1987.   " The Hawaiian-Emperor volcanic chain, Part I. Geologic evolution, "  In R.W. Decker, T.L. Wright  &  P.H. Stauffer, eds. [http://pubs.usgs.gov/pp/1987/1350/ ''Volcanism in Hawaii'', U.S. Geological Survey Professional Paper 1350, pp. 5-54]; retrieved 2012-6-9. < /ref > 
+ 
+ All of the native drosophilid species in Hawai{{okina}}i have apparently descended from ''a single ancestral species'' that colonized the islands, about 20 million years ago. The subsequent adaptive radiation was spurred by a lack of [[competition]] and a wide variety of vacant [[niche]]s. Although it would be possible for a single [[pregnant]] female to colonise an island, it is more likely to have been a group from the same species. < ref > Carson H.L. 1970. Chromosomal tracers of evolution. ''Science'' '''168''', 1414–1418. < /ref > < ref > Carson H.L. 1983. Chromosomal sequences and interisland colonizations in Hawaiian ''Drosophila''. ''Genetics'' '''103''', 465-482. < /ref > < ref > Carson H.L. 1992. Inversions in Hawaiian ''Drosophila''. In: Krimbas C.B.  &  Powell J.R. (eds) ''Drosophila inversion polymorphism''. CRC Press, Boca Raton, FL. 407-439. < /ref > < ref > Kaneshiro K.Y. Gillespie R.G. and Carson H.L. 1995. Chromosomes and male genitalia of Hawaiian Drosophila: tools for interpreting phylogeny and geography. In Wagner W.L.  &  Funk E. (eds) ''Hawaiian biogeography: evolution on a hot spot archipelago'', Smithsonian Institution Press, Washington D.C. 57-71 < /ref > 
+ 
+ There are other animals and plants on the Hawaiian archipelago which have undergone similar, if less spectacular, [[adaptive radiation]]s. < ref > Craddock E.M. 2000. Speciation processes in the adaptive radiation of Hawaiian plants and animals. ''Evolutionary Biology'' '''31''', 1-43. < /ref > < ref > Ziegler A.C. 2002. ''Hawaiian natural history, ecology and evolution''. Honolulu: University of Hawaii Press. < /ref > 
+ 
+ === Ring species === 
+ [[Image:Ring species diagram.svg|thumb|In this diagram, interbreeding populations are represented by coloured blocks. Variation along a cline may bend right around, forming a ring.]] 
+ 
+ In [[biology]], a '''ring species''' is a connected series of neighboring populations, each of which can interbreed with next-door populations. The two ends of the chain overlap. 
+ 
+ The two end populations in the series are too distantly related to interbreed. Such non-breeding-though-genetically-connected 'end' populations may co-exist in the same region, thus closing a 'ring'. < ref name=Mayr > Mayr, Ernst 1942. ''Systematics and the origin of species, from the viewpoint of a zoologist''. Cambridge: Harvard University Press. ISBN 978-0-674-86250-0 < /ref > 
+ 
+ Ring species provide important evidence of [[evolution]]: they illustrate what happens over time as populations genetically diverge. [[Richard Dawkins]] observed that ring species  " are only showing us in the spatial dimension something that must always happen in the time dimension " . < ref name=pilgrim > Dawkins, Richard 2004. ''The ancestor's tale: a pilgrimage to the dawn of life'', p303. Boston: Houghton Mifflin. {{ISBN|0-618-00583-8}} < /ref > 
+ [[File:Ring species seagull.svg|thumb|right|The ''Larus'' gulls interbreed in a ring around the arctic < br / > (1 : ''Larus argentatus argentatus'', 2: ''Larus fuscus sensu stricto'', 3 : ''Larus fuscus heuglini'', 4 : ''Larus argentatus birulai'', 5 : ''Larus argentatus vegae'', 6 : ''Larus argentatus smithsonianus'', 7 : ''Larus argentatus argenteus'')]] 
+ 
+ However, it is difficult to find a simple, straightforward example. 
+ 
+ ==== ''Larus'' gulls ==== 
+ This was the classic example of ring species. The range of these gulls nearly forms a ring around the [[North Pole]] (which is not normally flown over by gulls). The [[lesser black-backed gull]]s and [[herring gull]]s are sufficiently different that they do not normally hybridize; so, it was said, the group of gulls forms a continuum except where the two lineages meet in Europe. < ref name=Mayr/ >  However, it is generally agreed that this is not quite correct, though the details are extremely complicated. < ref > {{cite journal |author=Liebers, Dorit; de Knijff, Peter; Helbig, Andreas J. |title=The herring gull complex is not a ring species |journal=Proceedings of the Royal Society B |volume=271 |issue=1542 |pages=893–901 |year=2004 |doi=10.1098/rspb.2004.2679 |pmid=15255043 |pmc=1691675 |url=http://rspb.royalsocietypublishing.org/content/271/1542/893.full.pdf+html |format=PDF }} < /ref > < ref > Naish, Darren 2910. ''Tetrapod zoology: book one'', chapter 13. ISBN 978-1-905723-61-4 < /ref > 
+ 
+ ==== ''Ensatina'' salamanders ==== 
+ [[File:Greenish warbler ring.svg|thumb|right|Presumed [[evolution]] around [[Himalaya]]s. < br/ > Yellow: ''P. t. trochiloides'' < br/ > Orange: ''P. t. obscuratus'' < br/ > Red: ''P. t. plumbeitarsus'' < br/ > Green: ''P. t.  " ludlowi " '' < br/ > Blue: ''P. t. viridanus'' < br/ > ''P. t. nitidus'' of the [[Caucasus]] is not shown.]] 
+ 
+ The ''[[Ensatina]]'' [[salamander]] is a [[ring species]] in the mountains around the Californian [[Central Valley (California)|Central Valley]]. < ref name=wake > Wake D. 1997. [http://www.pnas.org/content/94/15/7761.full Incipient species formation in salamanders of the ''Ensatina'' complex] Proceedings of the National Academy of Science USA '''94''':7761-7767 < /ref >  The complex forms a [[horseshoe]] shape around the mountains. Though [[interbreeding]] can happen between each of the 19 populations around the horseshoe, the ''Ensatina eschscholtzii'' subspecies on the western end of the horseshoe cannot interbreed with the ''Ensatina klauberi'' on the eastern end. < ref name=pilgrim/ >  It is an illustration of  " nearly all stages in a speciation process "  ([[Dobzhansky]]). < ref name=wake/ > < ref > Dobzhansky T. 1958. ''A century of Darwin'', ed Barnett S.A. Harvard Univ. Press, Cambridge, MA. pp 19–55. < /ref >  Richard Highton argued that ''Ensatina'' is a case of multiple species and not a continuum of one species. < ref > {{cite journal|last=Highton, Richard 1998|title=Is Ensatina eschscholtzii a ring-species?|journal=Herpetologica|year=1998|volume=54|issue=2|pages=254–278|jstor=3893431|url=https://www.jstor.org/stable/3893431}} < /ref > 
+ 
+ ==== The greenish warbler ==== 
+ The ''[[greenish warbler]]'' (''Phylloscopus trochiloides'') has a number of [[subspecies]], of  which ''P. t . viridianus'' is the most familiar in Europe. It is a [[ring species]] with populations diverging east and westwards of the [[Tibetan Plateau]], later meeting on the northern side. Their relationships are fairly confusing. < ref > Snow, David W. ''et al'' 1998. ''The complete birds of the western Palaearctic on CD-ROM''. Oxford University Press. {{ISBN|0-19-268579-1}} < /ref > < ref > Alström, Per 2006. Species concepts and their application: insights from the genera Seicercus and Phylloscopus. ''Acta Zoologica Sinica'' '''52''' (Supplement): 429-434. < /ref > 
+ 
+ == Sympatric speciation == 
+ '''Sympatric speciation''' refers to the formation of two or more descendant species from a single ancestral species all occupying the same geographic location. This is now thought to be very common. 
+ 
+ In sympatric speciation, species diverge while inhabiting the same place.  Often-cited examples of sympatric speciation are found in insects that become dependent on different host plants in the same area. < ref name=rhagoletis1 > Feder J.L. ''et al.'' 2005. Mayr, Dobzhansky, and Bush and the complexities of sympatric speciation in ''Rhagoletis''. ''Proceedings of the National Academy of Sciences USA''. '''1902''':6573-6580 < /ref > < ref name=hostplant1 > Berlocher S.H. and J.L. Feder 2002. Sympatric speciation in phytophagous insects: moving beyond controversy? ''Annual Review of Entomology'' '''47''':773-815 < /ref > 
+ 
+ The existence of sympatric speciation as a mechanism of speciation was hotly contested. People argued that the evidences of sympatric speciation are in fact examples of micro-geographic speciation. In general, this is not now the preferred explanation. Rather, it is the result of hybridisation between closely related species, followed by natural selection working on the offspring of such crosses. One widely accepted example of sympatric speciation is that of the [[cichlids]] of [[Lake Nabugabo]] in [[East Africa]], which is thought to be due to [[sexual selection]]. < ref > Barluenga M; Meyer A; Muschick M; Salzburger W.  &  Stolting K.N. 2006. Sympatric speciation in Nicaraguan crater lake cichlid fish. ''Nature'' 439 (7077): 719–23. [https://pubmed.ncbi.nlm.nih.gov/16467837/] < /ref >   
+ 
+ === Speciation via polyploidization === 
+ [[Polyploidy]] has caused many rapid speciation events because offspring of, for example, tetraploid x diploid matings often result in triploid sterile progeny. < ref > Ramsey J. and D.W. Schemske 1998. Pathways, mechanisms, and rates of polyploid formation in flowering plants. ''Annual Review of Ecology and Systematics'' '''29''':467-501 < /ref > 
+ 
+ However, not all polyploids are reproductively isolated from their parental plants, and gene flow may still occur for example through triploid hybrid x diploid matings that produce tetraploids. 
+ 
+ Many of the existing plant and most animal species have apparently undergone polyploidization in their evolutionary history. < ref > {{cite journal | doi = 10.1146/annurev.genet.34.1.401 | author = Otto S.P.  &  Whitton J. | year = 2000 | title = Polyploidy: incidence and evolution | url = | journal = Annual Review of Genetics | volume = 34 | issue = | pages = 401–437 | pmid = 11092833 }} < /ref > < ref > {{cite journal | author = Comai L | year = 2005 | title = The advantages and disadvantages of being polyploid | url = | journal = Nature Reviews Genetics | volume = 6 | issue = 11| pages = 836–846 | doi = 10.1038/nrg1711 | pmid=16304599| s2cid = 3329282 }} < /ref >  Reproduction of successful polyploid species is sometimes asexual, by [[parthenogenesis]]. For unknown reasons many asexual organisms are polyploid. 
+ 
+ === Hawthorn fly === 
+ One example of evolution at work is the case of the [[hawthorn fly]], ''Rhagoletis pomonella'', which appears to be undergoing sympatric speciation. < ref > {{cite journal |author=Feder JL, Roethele JB, Filchak K, Niedbalski J, Romero-Severson J |title=Evidence for inversion polymorphism related to sympatric host race formation in the apple maggot fly, Rhagoletis pomonella |journal=Genetics |volume=163 |issue=3 |pages=939–53 |date=1 March 2003|doi=10.1093/genetics/163.3.939 |pmid=12663534 |pmc=1462491 |url=http://www.genetics.org/cgi/pmidlookup?view=long & pmid=12663534 }} < /ref > 
+ 
+ Different populations of hawthorn fly feed on different fruits. A distinct population emerged in North America in the 19th century some time after [[apple]]s, a non-native species, were introduced. This apple-feeding population normally feeds only on apples and not on the historically preferred fruit of [[Crataegus|hawthorns]]. The current hawthorn feeding population does not normally feed on apples. 
+ 
+ Some evidence suggests that sympatric speciation is occurring. Hawthorn flies mature later in the season and take longer to mature than apple flies; and there is little evidence of interbreeding (researchers have documented a 4-6% hybridization rate). 
+ 
+ The emergence of the new hawthorn fly is an example of evolution in progress. < ref > {{cite journal |author=Berlocher SH, Bush GL  |title=An electrophoretic analysis of Rhagoletis (Diptera: Tephritidae) phylogeny |url=http://jstor.org/stable/2413033 |journal=Systematic Zoology |volume=31 |issue= 2|pages=136–55 |year=1982 |doi=10.2307/2413033|jstor=2413033 }} < /ref > 
+ 
+ === Hybridisation === 
+ Rarely, a new species forms when individual members of different species mate. Usually, the products of such [[hybrid]] matings are [[infertile]] (not [[fertile]]), or relatively so, and so get eliminated by [[natural selection]]. 
+ 
+ One example of a new and successful hybrid species has been found. < ref name= " BBC " > Gill, Victoria 2011. Italian sparrow joins family as a new species. BBC News [http://www.bbc.co.uk/nature/14947902] < /ref >  The new species is a hybrid of the Italian and Spanish [[sparrow]]s, and the basic facts have been checked by [[sequence analysis]] from the [[DNA]] in their blood. The bird lives in Italy in a region where both parent species live. It does not reproduce with the Spanish sparrow even though it lives with them side-by-side. < ref name=BBC/ > 
+ 
+ == Artificial speciation == 
+ New species have been created by domesticated [[animal husbandry]], but the initial dates and methods are not clear. For example, [[domestic sheep]] were created by hybridisation, and no longer produce viable offspring with ''Ovis orientalis'', one species from which they are descended. < ref > {{cite journal | doi = 10.1098/rspb.2002.1975 | last1 = Hiendleder | first1 = S. | year = 2002 | last2 = Kaupe | first2 = B. | last3 = Wassmuth | first3 = R. | pmc = 1690972 | last4 = Janke | first4 = A.| title = Molecular analysis of wild and domestic sheep questions current nomenclature and provides evidence for domestication from two different subspecies | url = | journal = Proceedings of the Royal Society B: Biological Sciences | volume = 269 | issue = 1494| pages = 893–904 | pmid=12028771}} < /ref > 
+ 
+ Domestic [[cattle]], on the other hand, can be considered the same species as several varieties of wild [[ox]], [[gaur]], [[yak]], etc., as they readily produce fertile offspring with them. < ref > Nowak, R. (1999) ''Walker's Mammals of the World'' 6th ed. (Baltimore: Johns Hopkins University Press) < /ref > 
+ 
+ === Lab species === 
+ The best-documented creations of new species in the laboratory were performed in the late 1980s. William Rice and G.W. Salt bred fruit flies, ''[[Drosophila melanogaster]],'' using a maze with three different choices of habitat such as light/dark and wet/dry. 
+ 
+ Each generation was placed into the maze, and the groups of flies that came out of two of the eight exits were set apart to breed with each other in their respective groups. After thirty-five generations, the two groups and their offspring were isolated reproductively because of their strong habitat preferences: they mated only within the areas they preferred, and so did not mate with flies that preferred the other areas. < ref > {{cite journal|author=Rice, W.R. and G.W. Salt|title=Speciation via disruptive selection on habitat preference: experimental evidence|url=https://archive.org/details/sim_american-naturalist_1988-06_131_6/page/911|journal=The American Naturalist|volume=131|year=1988|issue=6|pages=911–917 | doi = 10.1086/284831|s2cid=84876223}} < /ref >  The history of such attempts is described in Rice and Hostert (1993). < ref > {{cite journal|title=Laboratory experiments on speciation: What have we learned in forty years?|url=http://jstor.org/stable/2410209|author=W.R. Rice and E.E. Hostert|journal=Evolution|volume=47|issue=6|year=1993|pages=1637–1653 | doi = 10.2307/2410209|jstor=2410209}} < /ref > 
+ 
+ Diane Dodd was also able to show how [[reproductive isolation]] can develop from mating preferences in ''[[Drosophila pseudoobscura]]'' after only eight generations using different food types, starch and maltose. < ref > {{cite journal | doi = 10.2307/2409365 | last1 = Dodd | first1 = D.M.B. | year = 1989 | title = Reproductive isolation as a consequence of adaptive divergence in ''Drosophila pseudoobscura'' | url = http://jstor.org/stable/2409365| journal = Evolution | volume = 43 | issue = 6| pages = 1308–1311 | jstor = 2409365 | pmid = 28564510 }} < /ref > 
+ 
+ [[File:Drosophila speciation experiment.svg]] 
+ 
+ Dodd's experiment has been easy for many others to replicate, including with other kinds of fruit flies and foods. < ref > Kirkpatrick, M. and V. Ravigné 2002. Speciation by natural and sexual selection: models and experiments ''The American Naturalist'' '''159''':S22–S35 [http://www.journals.uchicago.edu/doi/abs/10.1086/338370 DOI] < /ref > 
+ 
+ == Reinforcement (Wallace effect) == 
+ Reinforcement is how natural selection increases [[reproductive isolation]]. < ref > Ridley M. 2003. Speciation & nbsp;— What is the role of reinforcement in speciation? adapted from ''Evolution'' 3rd edition (Boston: Blackwell Science) [http://www.blackwellpublishing.com/ridley/tutorials/Speciation15.asp tutorial online] < /ref > 
+ 
+ It may occur after two populations of the same species are separated and then come back into contact. If their reproductive isolation was complete, then they will have already developed into two separate incompatible species. 
+ 
+ If their reproductive isolation is incomplete, then further mating between the populations will produce [[hybrid]]s, which may or may not be fertile. If the hybrids are infertile, or fertile but less fit than their ancestors, then there will be no further reproductive isolation and speciation has essentially occurred (e.g., as in [[horse]]s and [[donkey]]s.) 
+ 
+ The reasoning behind this is that if the parents of the hybrid offspring each have naturally selected traits for their own different environments, the hybrid offspring will bear traits from both, and would not fit either [[niche]] as well as either parent. The low fitness of the hybrids would cause selection to favour [[assortative mating]], < ref > 'Assortative mating' is the opposite of random mating. < /ref >  which would reduce hybridization. 
+ 
+ This is sometimes called the '''Wallace effect''' after the evolutionary biologist [[Alfred Russel Wallace]] who suggested in the late 19th century that it might be an important factor in speciation. < ref > {{cite web|last=Ollerton|first=J|title=Flowering time and the Wallace Effect|url=http://oldweb.northampton.ac.uk/aps/env/lbrg/journals/papers/OllertonHeredityCommentary2005.pdf|publisher=Heredity, August 2005|accessdate=2007-05-22|archive-date=2007-06-05|archive-url=https://web.archive.org/web/20070605063504/http://oldweb.northampton.ac.uk/aps/env/lbrg/journals/papers/OllertonHeredityCommentary2005.pdf|url-status=dead}} < /ref > 
+ 
+ If the hybrid offspring are more fit than their ancestors, then the populations will merge back into the same species within the area they are in contact. 
+ 
+ Reinforcement is required for separation when there is a  " hybrid zone "  between two forms of a species. Hybrid zones are regions where diverged populations meet and interbreed. Hybrid offspring are very common in these regions, which are usually created by diverged species coming into secondary contact. 
+ 
+ Without reinforcement the two populations or species would have uncontrollable interbreeding. Reinforcement may be induced in artificial selection experiments as described above. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Evolution]]

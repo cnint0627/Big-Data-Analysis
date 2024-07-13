@@ -1,0 +1,18 @@
+In [[physics]] and [[mathematics]], a '''pseudovector''' (or '''axial vector''') is a quantity that transforms like a [[vector]] under a proper [[rotation]],{{Clarify}} but gains an additional sign flip under an [[improper rotation]] (a transformation that can be expressed as an inversion followed by a proper rotation). < ref > A simple example of an improper rotation in 3D (but not in 2D) is a coordinate [[inversion]]: '''x''' goes to −'''x''', '''y''' to −'''y''' and '''z''' to −'''z'''. Under this transformation, '''a''' and '''b''' go to −'''a''' and −'''b''' (by the definition of a vector), but '''p''' clearly does not change. It follows that any improper rotation multiplies '''p''' by −1 compared to the rotation's effect on a true vector. < /ref > 
+ 
+ == Physical examples == 
+ Physical examples of pseudovectors include the [[magnetic field]], [[torque]], [[vorticity]], and the [[angular momentum]]. < ref > Often, the distinction between vectors and pseudovectors is overlooked, but it becomes important in understanding and exploiting [[Symmetry in physics|the effect of symmetry on the solution to physical systems]]. < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ < div class= " references-small " > 
+ * George B. Arfken and Hans J. Weber, ''Mathematical Methods for Physicists'' (Harcourt: San Diego, 2001). ({{ISBN|0-12-059815-9}}) 
+ * John David Jackson, ''Classical Electrodynamics'' (Wiley: New York, 1999). ({{ISBN|0-471-30932-X}}) 
+ * Susan M. Lea,  " Mathematics for Physicists "  (Thompson: Belmont, 2004) ({{ISBN|0-534-37997-4}}) 
+ < /div > 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Algebra]] 
+ [[Category:Mathematics]]

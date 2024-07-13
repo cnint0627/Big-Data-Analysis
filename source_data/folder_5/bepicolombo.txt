@@ -1,0 +1,76 @@
+{{update|date=June 2022}} 
+ {{Infobox spaceflight |auto=all 
+ | name                  = ''BepiColombo'' 
+ | names_list            = 
+ 
+ | image                 = BepiColombo spacecraft model.png 
+ | image_caption         = Artist's depiction of the ''BepiColombo'' mission, with the Mercury Planetary Orbiter (left) and Mercury Magnetospheric Orbiter (right) 
+ | image_alt             = Mercury Planetary Orbiter and Mercury Magnetospheric Orbiter 
+ | image_size            = 275px 
+ 
+ | mission_type          = [[Planetary science]] 
+ | operator              = [[European Space Agency|ESA]]{{,}}[[JAXA]] 
+ | COSPAR_ID             = 2018-080A 
+ | SATCAT                =  < !--e.g. 25544-- > 
+ | website               = {{URL|http://sci.esa.int/bepicolombo/}} 
+ | mission_duration      = Cruise: 7 years (planned) 
+ Elapsed: {{time interval|October 20, 2018 01:45}} 
+ 
+ | manufacturer          = [[EADS Astrium]]{{,}}[[Institute of Space and Astronautical Science|ISAS]] 
+ | launch_mass           = {{convert|4100|kg|lb|-1|abbr=on}} < ref name= " FACTS " > {{cite web |url=http://www.esa.int/Our_Activities/Space_Science/BepiColombo/BepiColombo_Factsheet |title=BepiColombo Factsheet |publisher=[[European Space Agency]] |date=6 July 2017 |access-date=6 July 2017}} < /ref > 
+ | dry_mass              = {{convert|2700|kg|lb|-1|abbr=on}} < ref name= " FACTS "  / > 
+ | BOL_mass              = MPO: {{convert|1230|kg|lb|-1|abbr=on}} < ref name= " FACTS "  / >   < br / >  MMO: {{convert|255|kg|lb|-1|abbr=on}} < ref name= " FACTS "  / > 
+ | dimensions            = MPO: {{convert|2.4|xx|2.2|xx|1.7|m|ft|abbr=on|disp=x| < ref name= " FACTS "  / > < br / > < small > {{in5}}(|) < /small > }}  < br / >  MMO: {{convert|1.8|xx|1.1|m|ft|abbr=on|disp=x| < ref name= " FACTS "  / > < br / > < small > {{in5}}(|) < /small > }} 
+ | power                 = MPO: 150 W  < br / >  MMO: 90 W 
+ 
+ | launch_date           = {{start-date|October 20, 2018}} 
+ | launch_rocket         = [[Ariane 5|Ariane 5 ECA]] 
+ | launch_site           = [[Guiana Space Centre]] < ref name= " ISAS homepage " > {{cite web |url=http://www.isas.jaxa.jp/en/missions/spacecraft/future/mmo.html |title=MMO/BepiColombo |publisher=[[JAXA]] |date=2008 |access-date=7 February 2014 |archive-date=14 September 2017 |archive-url=https://web.archive.org/web/20170914035313/http://www.isas.jaxa.jp/en/missions/spacecraft/future/mmo.html |url-status=dead }} < /ref > 
+ | launch_contractor     = [[Arianespace]] 
+ 
+ | disposal_type         =  < !--deorbited, decommissioned, placed in a graveyard orbit, etc-- > 
+ | deactivated           =  < !--when craft was decommissioned-- > 
+ | destroyed             =  < !--when craft was destroyed (if other than by re-entry)-- > 
+ | last_contact          =  < !--when last signal received if not decommissioned-- > 
+ | decay_date            =  < !--when craft re-entered the atmosphere, not needed if it landed-- > 
+ 
+ |interplanetary         =  
+  {{Infobox spaceflight/IP 
+   |type                 = orbiter 
+   |object               = [[Mercury (planet)|Mercury]] 
+   |component            = Mercury Planetary Orbiter 
+   |arrival_date         = Planned: 5 December 2025 
+   |periapsis            = {{convert|480|km|mi|abbr=on}} 
+   |apoapsis             = {{convert|1500|km|mi|abbr=on}} 
+   |inclination          = 90° 
+   |apsis                = hermion 
+  }} 
+  {{Infobox spaceflight/IP 
+   |type                 = orbiter 
+   |object               = [[Mercury (planet)|Mercury]] 
+   |component            = Mercury Magnetospheric Orbiter 
+   |arrival_date         = Planned: 5 December 2025 
+   |periapsis            = {{convert|590|km|mi|abbr=on}} 
+   |apoapsis             = {{convert|11640|km|mi|abbr=on}} 
+   |inclination          = 90° 
+   |apsis                = hermion 
+  }} 
+ 
+ | insignia              =  
+ | insignia_alt          =  
+ | insignia_caption      = ESA solar system insignia for ''BepiColombo'' 
+ | insignia_size         = 180x180px 
+ 
+ | programme             = '''[[List of European Space Agency programs and missions#Horizon 2000+|Horizon 2000+]]''' 
+ | previous_mission      = ''[[LISA Pathfinder]]'' 
+ | next_mission          =  
+ }} 
+ '''BepiColombo''' is a joint mission of the [[European Space Agency]] (ESA) and the [[Japan Aerospace Exploration Agency]] (JAXA) to the [[planet]] [[Mercury (planet)|Mercury]].  It launched on October 20, 2018 and it is planned to arrive at Mercury On December 5, 2025. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:European Space Agency spacecraft]] 
+ [[Category:Mercury (planet)]]

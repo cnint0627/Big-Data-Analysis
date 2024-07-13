@@ -1,0 +1,94 @@
+'''GlobalFoundries Inc.''' ('''GF''') is an American multinational [[semiconductor]] contract manufacturing and design company in Malta, New York. < ref > {{Cite web|title=GLOBALFOUNDRIES Moves Corporate Headquarters to its Most Advanced Semiconductor Manufacturing Facility in New York {{!}} GLOBALFOUNDRIES|url=https://gf.com/press-release/globalfoundries-moves-corporate-headquarters-its-most-advanced-semiconductor|access-date=2021-10-05|website=gf.com|language=en}} < /ref >  {{Infobox company 
+ | name = GlobalFoundries Inc. 
+ | logo =  
+ | logo_size = 250px 
+ | logo_alt = GlobalFoundries Inc. 
+ | type = [[Privately held company|Private]] 
+ | industry = [[Semiconductors]] 
+ | foundation = {{start date and age|2009|03|02}} 
+ | location = [[Malta, New York]], U.S. 
+ | key_people = Thomas Caulfield < br / > < small > (CEO) < /small > < ref > {{cite news|url=https://www.globalfoundries.com/news-events/press-releases/following-significant-technology-capacity-and-expansion-milestones|title=Following Significant Technology, Capacity and Expansion Milestones, GlobalFoundries' Sanjay Jha to Pass Baton to Industry Veteran Tom Caulfield|date=9 March 2018|access-date=5 October 2021|archive-date=9 November 2020|archive-url=https://web.archive.org/web/20201109042850/https://www.globalfoundries.com/news-events/press-releases/following-significant-technology-capacity-and-expansion-milestones|url-status=dead}} < /ref > 
+ | services = Manufacture of Integrated circuits and related services 
+ | revenue = {{Increase}} {{US$|6 & nbsp;billion|link=yes}} < ref > {{Cite web |url=https://gf.com/sites/default/files/2021-07/GLOBALFOUNDRIES%20Fact%20Sheet%20July19.pdf |title=Archived copy |access-date=2021-10-05 |archive-date=2021-09-16 |archive-url=https://web.archive.org/web/20210916180626/https://gf.com/sites/default/files/2021-07/GLOBALFOUNDRIES%20Fact%20Sheet%20July19.pdf |url-status=dead }} < /ref > 
+ | revenue_year = 2020 
+ | operating_income =  
+ | net_income =  
+ | num_employees = 15,000 
+ | parent = [[Mubadala_Investment_Company#Advanced_Technology_Investment_Company|Mubadala Investment Company]] 
+ | subsid =  
+ | footnotes =  < ref name= " AboutUs " > {{cite web |url=http://www.globalfoundries.com/about/globalfoundries-fast-facts |title=About Us |website=GlobalFoundries |date=28 September 2016 |access-date=2019-07-04 |archive-date=2015-08-12 |archive-url=https://web.archive.org/web/20150812064357/http://www.globalfoundries.com/about/globalfoundries-fast-facts |url-status=dead }} < /ref > 
+ | homepage = {{URL|globalfoundries.com}} 
+ | 2 =  
+ | font used for the logo = | 
+ }} 
+ GlobalFoundries produces chips for mobility, automotive, computing and wired connectivity. < ref > {{Cite web|last=Leswing|first=Kif|date=2021-04-02|title=CEO of largest U.S. chip foundry explains why semiconductor shortage could last through 2022|url=https://www.cnbc.com/2021/04/02/globalfoundries-ceo-on-semiconductor-shortage-and-ipo.html|access-date=2021-10-05|website=CNBC|language=en}} < /ref > < ref > {{Cite web|last=Sun|first=Leo|date=2021-07-21|title=Intel's Interest in GlobalFoundries Could Affect These 4 Chipmakers|url=https://www.fool.com/investing/2021/07/21/intels-interest-in-globalfoundries-could-affect-th/|access-date=2021-10-05|website=The Motley Fool|language=en}} < /ref > 
+ 
+ == List of GlobalFoundries CEOs == 
+ 
+ * Doug Grose (2009-2011) 
+ * Ajit Manocha (2011-2014) < sup > [''circular reference''] < /sup > 
+ * Sanjay Jha (2014-2018) 
+ * Tom Caulfield (2018-present) 
+ 
+ == Fabrication foundries == 
+ {| class= " wikitable " 
+ !Name 
+ !Wafer 
+ ! colspan= " 2 "  |Location 
+ !Process 
+ |- 
+ !Fab 1 
+ |300 & nbsp;mm 
+ |[[Dresden]], Germany 
+ |{{coord|51.125|13.716||name=GlobalFoundries Fab 1, Dresden|display=inline}} 
+ |55, 45, 40, 32, 28, 22 & nbsp;nm, 12 & nbsp;nm 
+ |- 
+ !Fab 2 
+ |200 & nbsp;mm 
+ |[[Woodlands, Singapore|Woodlands]], Singapore 
+ |{{coord|1.436|103.766|region:SG|name=GlobalFoundries Fabs in Woodlands, Singapore|display=inline}} 
+ |600–350 & nbsp;nm 
+ |- 
+ !Fab 3/5 
+ |200 & nbsp;mm 
+ |Woodlands, Singapore 
+ |{{coord|1.436|103.766|region:SG|name=GlobalFoundries Fabs in Woodlands, Singapore|display=inline}} 
+ |350–180 & nbsp;nm 
+ |- 
+ !Fab 3E 
+ |200 & nbsp;mm 
+ |[[Tampines, Singapore|Tampines]], Singapore (2019: sold to [[Vanguard International Semiconductor Corporation|VIS]]) 
+ |{{coord|1.371|103.929|region:SG|name=GlobalFoundries Fabs in Tampines, Singapore|display=inline}} 
+ |180 & nbsp;nm 
+ |- 
+ !Fab 6 
+ |200 & nbsp;mm 
+ |Woodlands, Singapore (converted to 300 & nbsp;mm and merged into Fab 7) 
+ |{{coord|1.436|103.766|region:SG|name=GlobalFoundries Fabs in Woodlands, Singapore|display=inline}} 
+ |180–110 & nbsp;nm 
+ |- 
+ !Fab 7 
+ |300 & nbsp;mm 
+ |Woodlands, Singapore 
+ |{{coord|1.436|103.766|region:SG|name=GlobalFoundries Fabs in Woodlands, Singapore|display=inline}} 
+ |130–40 & nbsp;nm 
+ |- 
+ !Fab 8 
+ |300 & nbsp;mm 
+ |[[Luther Forest Technology Campus]], [[Saratoga County, New York|Saratoga County]], New York, United States 
+ |{{coord|42.970|-73.756|type:landmark_region:US-NY_source:OpenStreetMap|name=GlobalFoundries Fab 8|display=inline}} 
+ |28, 20, 14 & nbsp;nm 
+ |- 
+ !Fab 9 
+ |200 & nbsp;mm 
+ |[[Essex Junction]], Vermont, United States 
+ | 
+ |} 
+ 
+ * 
+ * 
+ * 
+ 
+ == References == 
+ < references / > 
+ [[Category:Manufacturing companies of the United States]]

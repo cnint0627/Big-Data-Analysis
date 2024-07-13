@@ -1,0 +1,8 @@
+A '''chatterbot''' is a [[computer program]] that responds to input in a [[natural language processing|natural language]]. < ref > {{cite web |url=http://oxforddictionaries.com/definition/chatterbot |title=definition of chatterbot from Oxford Dictionaries Online |publisher=Oxforddictionaries.com |access-date=2011-11-01 |archive-date=2011-11-17 |archive-url=https://web.archive.org/web/20111117003114/http://oxforddictionaries.com/definition/chatterbot |url-status=dead }} < /ref >  An example is [[ELIZA]].  ELIZA was one of the first chatterbots.  Every year, there is a contest for chatterbots called the [[Loebner prize]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Software]]

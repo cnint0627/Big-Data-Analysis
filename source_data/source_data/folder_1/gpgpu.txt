@@ -1,0 +1,7 @@
+'''GPGPU''' stands for '''General-Purpose computation on Graphics Processing Units'''. It refers to using a [[Graphics Processing Unit]] to perform tasks normally done by a [[central processing unit]]. 
+ 
+ GPUs are stronger than CPUs of the same price only for jobs that can be split up into many subtasks internally. Like playing [[videos]] and rendering [[Computer graphics|graphics]] in [[video games]]. Likewise, CPUs are stronger than GPUs of the same price for jobs that cannot be split up. 
+ 
+ [[Category:Computer graphics]] 
+ 
+ {{video-game-stub}}

@@ -1,0 +1,57 @@
+[[File:Neuroncat.jpg|thumb|right|270px|Nerve cell; axon in pink]] 
+ 
+ The '''axon''' is the part of a [[neuron]] that sends the signal to the synapse. Axons are long, thin and [[tendril]]-like. < ref > {{Cite web 
+  |url= http://www.mult-sclerosis.org/axon.html 
+  |title=axon - multiple sclerosis encyclopaedia 
+  |work=mult-sclerosis.org 
+  |access-date=27 October 2010 
+ }} < /ref > 
+ 
+ Axons are much like a highly developed [[dendrite]]. 
+ 
+ The axon carries an electrical signal from the cell body ([[soma]]) to the [[synapse]]. There the signal passes to other neurons or to [[muscle fibers]]. An axon can be over a meter long in humans. Or even longer in longer animals like elephants and whales. 
+ 
+ The electrical signal of an axon is made by [[ions]] that flow in and out of the cell producing an electric impulse called an [[action potential]]. The speed at which the signal travels depends on how thick the axon is, and how much insulation it has. Insulation is provided by specialized cells called [[myelin]] that wrap around the axon. This insulation is called the [[myelin sheath]].  
+ 
+ The axon was discovered by [[Otto Deiters]]. 
+ 
+ '''What is an axon?''' 
+ 
+ Axons are the primary signaling lines of the nervous system and they bundle together to form nerves. Axons have variable lengths and diameters. The numbers of axonal  telodendria can vary depending on the type of nerve fiber. Axons in the [[central nervous system]] (CNS) tend to have more ends which allows for simultaneous transmission of messages to a large number of target neurons within a single region of the brain. 
+ 
+ The role of axons is to transmit information around the body between neurons, muscles, and the glands. < ref name= " :0 " > [https://www.sciencedirect.com/topics/neuroscience/action-potential#:~:text=The%20action%20potential%20is%20a,i.e.%20different%20amplitudes%20and%20durations. https://www.sciencedirect.com/topics/neuroscience/action-potential#:~:text=The%20action%20potential%20is%20a,i.e.%20different%20amplitudes%20and%20durations.] < /ref >  Axons are one of two extensions of a neuron, the other one is the dendrites < ref name= " :0 "  / > < sup >   < /sup >  and axons are covered by a membrane called the axolemma and the cytoplasm of the cell is the axoplasm. < ref name= " :0 "  / >  Most messages are sent across neurons in the form of neurotransmitters which travel across synapses (connection between two neurons) and axons branch off into telodendria. Impulses are sent down the axons in the form of [[Nerve impulse|action potentials]] which activate the neurotransmitter release when it hits the axon terminal.  
+ 
+ '''Anatomy''' 
+ 
+ There are two types of axons: myelinated and unmyelinated axons. The myelin sheath serves as insulation material for the axon. The white matter in the brain is made of myelinated axons while gray matter is made of unmyelinated cells. < ref name= " :0 "  / >   
+ 
+ Axons send impulses down their body. Impulses jump between exposed areas on the axon not covered by the myelin sheath called the [https://www.ncbi.nlm.nih.gov/books/NBK537273/#:~:text=The%20nodes%20of%20Ranvier%20are%20characterized%20by%20short%20(1um)%2C,the%20CNS%20(Figure%201). nodes of Ranvier.] The myelin sheath is made by [[Glial cell|glial cells]]. Axons are covered in spots in myelin sheath made by oligodendrocytes in the central nervous system (CNS), or Schwann cells in peripheral nervous system (PNS). < ref name= " :0 "  / >  Neurons are made up of two regions: the cell body and dendrites as one region and axonal body as another. The axonal region of neurons consists of the axon hillock which receives an action potential from the neuron which generates an action potential from the initial segment. The axonal initial segment (AIS) separates the main part of the axon from the rest of the neuron and also initiates action potentials. The AIS is unmyelinated and has a certain plasticity to it which allows for adaptability and the fast conduction of nerve impulses, which is achieved by a large concentration of voltage gated sodium channels in the initial segment where the action potential is initiated. < ref name= " :0 "  / >   
+ 
+ Axons can divide into many ends called telodendria. At the end of the telodendria is an axon terminal which has an axon synaptic vessel that stores neurotransmitters for release at the synapse. < ref name= " :0 "  / >  This makes multiple synaptic connections with other neurons possible. Sometimes the axon of a neuron may synapse into dendrites of the same neuron, called autapse. < ref name= " :0 "  / >   
+ 
+ '''Action potential''' 
+ [[File:Action potential propagation in unmyelinated axon.gif|thumb|Changes in membrane charge]] 
+ Most axons carry messages in the form of action potentials which start in the cell body of a neuron and travel down the axon. Axon potentials are terminated at the point where axons make contact with [[:en:Synaptic_vesicle|synaptic vesicles]]. The axon's body has a negative charge because of charged potassium ions and a positive charge outside (sodium ions). The difference is called the [https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-membrane-potential resting membrane potential]  < ref > {{Cite web|title=Membrane potential (resting membrane potential) (article)|url=https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-membrane-potential|access-date=2023-06-23|website=Khan Academy|language=en}} < /ref >  about 70 millivolts in your body. < ref name= " :1 "  / >  When a neuron has a negative membrane potential it is said to be polarized. A protein in the nerve cell membrane adds to this difference in charge, since it pumps out three sodium ions for every two potassium ions it brings in. The difference in charge is called an [[:en:Electrochemical_gradient#:~:text=An%20electrochemical%20gradient%20is%20a,in%20charge%20across%20a%20membrane.|electrochemical gradient]], which the neuron wants to even  out. The cell membrane is also riddled with ion channels (examples are voltage < ref name= " :1 " > [https://www.ncbi.nlm.nih.gov/books/NBK538143/#:~:text=An%20action%20potential%20is%20a,the%20permeability%20of%20each%20ion. https://www.ncbi.nlm.nih.gov/books/NBK538143/#:~:text=An%20action%20potential%20is%20a,the%20permeability%20of%20each%20ion.] < /ref >  gated channels, ligand gated channels, mechanically gated channels). When these gates open, the ions move down them to even out the differences in charges across the membrane; these actions are the key to all electrical events in neurons. If only a few channels open and only a few sodium ions pass through this is called a graded potential and only causes a small change in membrane potential in a localized part of the cell. Action potentials trigger release of voltage gated ion channels. Process: something stimulates you and causes the sodium channels to open causing the inner charge to increase. The stimuli has to be strong enough to trigger the action potential. At this level many voltage sodiums open causing a lot of sodium ions to enter the cell causing the cell to be massively depolarized, up to 40 mv. This causes a biological chain reaction causing the charges inside and outside the cell to swap. Repolarization is when voltage gated potassium ion channels cause the pot ions to go outside trying to rebalance the charges. This causes hyperpolarization which is when the membrane potential drops to -75mv before sodium potassium ;pumps take over and return everything to its resting level. Refractory period process during which the axon is not responsive to any other stimuli. < ref name= " :2 " > {{Cite web|title=Neuron action potentials: The creation of a brain signal (article)|url=https://www.khanacademy.org/test-prep/mcat/organ-systems/neuron-membrane-potentials/a/neuron-action-potentials-the-creation-of-a-brain-signal|access-date=2023-06-23|website=Khan Academy|language=en}} < /ref >  The strength of an action potential is always the same, what changes is the frequency of the stimuli. The speed of conduction also varies, myelinated axons are faster than unmyelinated ones because impulses can jump from node to node in saltatory conduction. < ref name= " :0 "  / > 
+ 
+ '''Synapses''' 
+ 
+ Some are chemical, others are electrical. Electrical synapses send an ion current flowing directly from the cytoplasm of one nerve cell to another through small windows called gap junctions which causes all nearby synapses and neurons to be activated all together which is useful in places like your heart. Chemical synapses use neurotransmitters to communicate by diffusion through a synaptic gap. Presynaptic neuron sends signals through presynaptic terminals filled with synaptic vesicles filled with the neurotransmitters. Postsynaptic neurons make the neurotransmitters in the receptor region on the dendrite or cell body.  
+ 
+ '''Development and growth of axons''' 
+ 
+ In early embryonic development the neural tube differentiates into immature neurons which migrate to a final location and an axon grows from each immature neuron in response to chemical stimuli. During the development of the CNS, axons grow from their tip via a growth cone which has a broad sheet-like extension called a [[:en:Lamellipodium|lamellipodium]]. This enables axons to navigate through their environment so they can meet with other axonal synapses and form connections which will become the entire circuitry of the nervous system < ref name= " :3 " > {{Citation|last=Purves|first=Dale|title=The Axonal Growth Cone|date=2001|url=https://www.ncbi.nlm.nih.gov/books/NBK11114/|work=Neuroscience. 2nd edition|publisher=Sinauer Associates|language=en|access-date=2023-06-23|last2=Augustine|first2=George J.|last3=Fitzpatrick|first3=David|last4=Katz|first4=Lawrence C.|last5=LaMantia|first5=Anthony-Samuel|last6=McNamara|first6=James O.|last7=Williams|first7=S. Mark}} < /ref > '''.''' 
+ 
+ '''Clinical significance'''  < ref > [https://www.ncbi.nlm.nih.gov/books/NBK538143/#:~:text=An%20action%20potential%20is%20a,the%20permeability%20of%20each%20ion. https://www.ncbi.nlm.nih.gov/books/NBK538143/#:~:text=An%20action%20potential%20is%20a,the%20permeability%20of%20each%20ion.] < /ref > 
+ 
+ The dysfunction of axons in the nervous system is one of the leading causes of neurological disorders that affect central and peripheral neurons. Crushing an axon can lead to its death which can also take place in many neurodegenerative diseases especially when axonal transport is impaired. Demyelination of neurons (when axons lose their protective sheath)  causes many disorders, as does dysmyelination (abnormal formation of myelin sheath). < ref name= " :4 " > {{Cite web|title=Giant Axonal Neuropathy|url=https://www.ninds.nih.gov/health-information/disorders/giant-axonal-neuropathy|access-date=2023-06-23|website=National Institute of Neurological Disorders and Stroke|language=en}} < /ref > 
+ 
+ == References == 
+ < references/ > 
+ 
+ 
+ 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Anatomy of the nervous system]]

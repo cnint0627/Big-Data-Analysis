@@ -1,0 +1,49 @@
+:''For the small fish, go to [[seahorse]]'' 
+ {{Infobox Brain 
+  | Name            = Hippocampus 
+  | Latin           = Hippocampus 
+  | Image           = Gray739-emphasizing-hippocampus.png 
+  | Caption         = The hippocampus is located in the [[temporal lobe|medial temporal lobe]] of the [[brain]]. In this lateral view of the human brain, the frontal lobe is at the left, the occipital lobe at the right, and the temporal and parietal lobes have largely been removed to reveal the hippocampus underneath. 
+  | Image2          = 1511 The Limbic Lobe.jpg 
+  | Caption2        = Hippocampus (lowest pink bulb) < br / > as part of the [[limbic system]] 
+  | Width           = 200 
+  | IsPartOf        = [[Temporal lobe]] 
+  | Components      = 
+  | Artery          = 
+  | Vein            = 
+  }} 
+ [[File:MRI Location Hippocampus up..png|thumb|alt=MRI coronal view of a hippocampus shown in red.|MRI coronal view of a hippocampus shown in red]] 
+ 
+ The '''hippocampus''' is part of the [[mammal]]ian [[brain]], and belongs to the [[limbic system]]. Humans and other mammals have two, one in each side of the brain. The hippocampus is under the [[cerebral cortex]]. < ref > {{Cite web |url=http://neuroscience.uth.tmc.edu/s4/chapter05.html |title=Limbic System: Hippocampus (Section 4, Chapter 5) Neuroscience Online: An Electronic Textbook for the Neurosciences  & #124; Department of Neurobiology and Anatomy - the University of Texas Medical School at Houston |access-date=2014-02-28 |archive-date=2015-11-14 |archive-url=https://web.archive.org/web/20151114224516/http://neuroscience.uth.tmc.edu/s4/chapter05.html |url-status=dead }} < /ref > 
+ It is important in spatial [[memory]] and navigation, and helps turn [[short-term memory]] into long-term memory. The hippocampus is named after the ''[[seahorse]]'' because its shape is similar. 
+ 
+ In [[Alzheimer's disease]], the hippocampus is one of the first regions of the brain to suffer damage; memory loss and disorientation are included among the early symptoms. People with extensive, bilateral hippocampal damage may experience [[anterograde amnesia]] {{ndash}} the inability to form or retain new memories. 
+ 
+ The different [[neuron]]al cell types are neatly organized into layers in the hippocampus. It has often been used as a model system for studying [[neurophysiology]]. [[Long-term potentiation]] (LTP), a neural mechanism for storing memory, was first discovered to occur in the hippocampus. 
+ 
+ == Hippocampus and memory == 
+ The connection of hippocampus with memory was made by a famous report. < ref name= " Scoville " > Scoville W.B.  &  Milner B. 1957. Loss of recent memory after bilateral hippocampal lesions. ''J. Neurol. Neurosurg. Psych''. '''20''' (1): 11–21. [http://jnnp.bmj.com/content/20/1/11] < /ref >  This gave the results of the destruction of the hippocampi by [[surgery]] (an attempt to relieve [[epilepsy|epileptic seizure]]s). < ref name= " HMObit " > [[#refHMObit|N.Y. Times, 12-06-2008]] < /ref >  The unexpected outcome of the surgery was severe [[anterograde amnesia|anterograde]] and partial [[retrograde amnesia]]. The patient could not form new memories of events after his surgery, and could not remember any events that occurred just before his surgery. However, he did remember events from many years earlier, right back to his childhood. 
+ 
+ This case attracted widespread professional interest. < ref > Squire L.R. 2009. The legacy of patient H.M. for neuroscience. ''Neuron'' '''61''' (1): 6–9. [http://www.cell.com/neuron/retrieve/pii/S0896627308010957] < /ref >  Later, other patients with similar damage and amnesia (caused by accident or disease) have also been studied. Thousands of experiments have studied the physiology of changes in [[Synapse|synaptic connections]] in the hippocampus after activity. The hippocampi do play an important role in memory. However, the precise nature of this role remains unclear. < ref name= " Squire " > Squire L.R. 1992. Memory and the hippocampus: a synthesis from findings with rats, monkeys, and humans. ''Psych. Rev''. '''99''' (2): 195–231. [http://psycnet.apa.org/? & fa=main.doiLanding & doi=10.1037/0033-295X.99.2.195] < /ref > < ref name= " Eichenbaum " > Eichenbaum H.  &  Cohen N.J. 1993. ''Memory, amnesia, and the hippocampal system''. MIT Press. < /ref > 
+ 
+ Recent reviews say how the hippocampus puts together our memories of past events, and helps us remember aspects of complex events. < ref > Webb, Jonathan 2015. Peeking into the brain's filing system. ''BBC News'' Science  &  Environment. [https://www.bbc.co.uk/news/science-environment-33380677] < /ref > < ref > Horner, Adrian J ''et al'' 2015. Evidence for holistic episodic recollection via hippocampal pattern completion. ''Nature Communications'' '''6''', article number 7462. [http://www.nature.com/ncomms/2015/150702/ncomms8462/abs/ncomms8462.html] < /ref > 
+ 
+ == Hippocampus and orientation == 
+ Neurons in the rat hippocampus show activity related to the rat's position in its environment. < ref > O'Keefe J.  &  Dostrovsky J. 1971. The hippocampus as a spatial map. Preliminary evidence from unit activity in the freely-moving rat. ''Brain Res'' '''34''' (1): 171–75. [http://www.sciencedirect.com/science/article/pii/0006899371903581] < /ref > < ref name=map > O'Keefe J.  &  Nadel L. 1978. ''The hippocampus as a cognitive map''. Oxford University Press. < /ref >   As with the memory theory, there is now almost universal agreement that spatial coding plays an important role in hippocampal function, but the details are widely debated. < ref name=Moser2008 > Moser E.I; Kropf E.  &  Moser M-B. 2008. Place cells, grid cells, and the brain's spatial representation system. ''Ann. Rev. Neurosci''. '''31''': 69 [http://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.061307.090723] {{Webarchive|url=https://web.archive.org/web/20150630193033/http://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.061307.090723 |date=2015-06-30 }} < /ref > 
+ 
+ Studies conducted on freely moving rats and mice have shown that many hippocampal [[neurons]] have  " place fields " , that is, they fire bursts of [[action potential]]s when a rat passes through a particular part of the environment. In humans, cells with location-specific firing patterns have been reported in a study. Patients with drug-resistant epilepsy had diagnostic electrodes put in their hippocampus. Then a computer was used to move them around in a [[virtual reality]] town. < ref name= " Ekstrom  " > Ekstrom A.D. ''et al'' 2003. Cellular networks underlying human spatial navigation. ''Nature'' '''425''' (6954): 184–88. [http://www.nature.com/nature/journal/v425/n6954/full/nature01964.html] < /ref > 
+ 
+ The discovery of [[place cell]]s in the 1970s led to a theory that the hippocampus might act as a cognitive map {{ndash}}a neural representation of the layout of the environment. < ref name=map/ >  The  " cognitive map hypothesis "  has been further advanced by recent discoveries of direction cells in several parts of the rodent brain which are strongly connected to the hippocampus. < ref name=Moser2008 / > < ref > Solstad T. ''et al'' 2008. Representation of geometric borders in the entorhinal cortex. ''Science'' '''322''' (5909): 1865–68. [http://www.sciencemag.org/content/322/5909/1865] < /ref > 
+ 
+ == Evolution == 
+ [[File:Golgi Hippocampus.jpg|right|thumb|240px|Drawing by [[Camillo Golgi]] of a hippocampus stained using the [[silver nitrate]] method]] 
+ 
+ The hippocampus has a generally similar appearance across the mammals from [[monotreme]]s such as the [[echidna]] to [[primate]]s such as humans. < ref > West M.J. 1990. Stereological studies of the hippocampus: a comparison of the hippocampal subdivisions of diverse species including hedgehogs, laboratory rodents, wild mice and men. ''Prog. Brain Res''. '''83''': 13–36. [http://www.sciencedirect.com/science/article/pii/S0079612308612388] < /ref >  The hippocampal size to body-size [[ratio]] increases: it is about twice as large for primates as for the [[echidna]]. It does not, however, increase at anywhere close to the rate of the [[neocortex]] to body-size ratio. Therefore, the hippocampus takes up a larger fraction of the cortex in rodents than in primates. 
+ 
+ Other vertebrates have areas which may be [[homologous]] to the hippocampus of mammals. < ref > Rodríguez F. ''et al'' 2002. Spatial memory and hippocampal pallium through vertebrate evolution: insights from reptiles and teleost fish. ''Brain Res. Bull''. '''57''' (3–4): 499–503. [http://www.sciencedirect.com/science/article/pii/S0361923001006827] < /ref >  Some [[insects]], and cephalopods such as the [[octopus]], have strong spatial learning and navigation abilities. These appear to work differently from the mammalian spatial system, and have evolved independently of the mammalian system. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Anatomy of the brain]] 
+ [[Category:Physiology]]

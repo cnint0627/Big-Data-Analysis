@@ -1,0 +1,53 @@
+{{Citations missing}} 
+ 
+ [[Image:Phrase sanskrit.svg|thumb|400px|Comparison of various abugidas descended from [[Brahmi script]]. ''May [[Shiva|Śiva]] bless those who take delight in the language of the gods.'' ([[Kalidasa]])]] 
+ An '''abugida''' is a [[writing system]] that is neither a [[syllabic script|syllabic]] nor [[alphabet]]ic script, but somewhere in between. It has sequences of [[consonant]]s and [[vowel]]s that are written together as a unit, each of which is based on the consonant letter. Vowels must be written down as well, but they are secondary and do not act the same way as consonants. 
+ 
+ [[Syllable|Syllables]] are built up of consonants, each of which has an [[inherent vowel]]. That means a vowel must be pronounced in a syllable even if it is not written down. For example, in [[Thai language|Thai]], the syllable written as the consonant-vowel pair หา is pronounced ''haa'', but the syllable just written as a consonant ห is pronounced ''hɔ.'' 
+ 
+ [[Diacritic]] symbols may be used to change or mute the inherent vowel, and separate vowel letters may be used when vowels occur at the beginning of a syllable or on their own. 
+ 
+ In some abugidas, certain vowels can be written to the right, to the left, on top, or below the consonant that is spoken before it, even if the reading order all of the consonants is left-to-right or right-to-left. An example uses the Thai consonant ก to show where the following vowels must be written. 
+ {| class= " wikitable sortable " 
+ !Thai vowel letter 
+ !Pronunciation 
+ !syllable with ก 
+ !Pronunciation 
+ |- 
+ |า 
+ |{{IPA-all|aː}} 
+ |กา 
+ |{{IPA-all|kaː}} 
+ |- 
+ |ไ 
+ |{{IPA-all|ai}} 
+ |ไก 
+ |{{IPA-all|kai}} 
+ |- 
+ |  ิ 
+ |{{IPA-all|iː}} 
+ |กิ 
+ |{{IPA-all|ki}} 
+ |- 
+ | ู 
+ |{{IPA-all|u}} 
+ |กู 
+ |{{IPA-all|ku}} 
+ |- 
+ |no vowel 
+ |IPA: [ɔː] 
+ |ก 
+ |IPA: [kɔː] 
+ |} 
+ This is different from a truly alphabetic script in which the vowels and consonants have the same status, and an [[abjad]], whose vowels can be left out. [[Ge'ez_script|Ethiopic]], most scripts of the [[Indian subcontinent]], [[mainland Southeast Asia]], some scripts of [[Maritime Southeast Asia]], and [[Canadian Aboriginal syllabics|Canadian syllabics]] are abugidas. 
+ 
+ The oldest known abugida is the [[Brahmi script]], a writing system that was invented in modern-day [[India]]. Most abugidas that exist today, including [[Devanagari]], [[Khmer script|Khmer]], and [[Thai script|Thai]], were based on the Brahmi script. Abugidas based on Brahmi spread along with the [[Indian religions]] throughout the [[Indian subcontinent]] and [[Southeast Asia]], especially [[Buddhism]] and [[Hinduism]]. 
+ 
+ Some forms of [[shorthand]] also employ [[diacritic]]s to indicate vowels. 
+ 
+ The name 'abugida' is derived from the first four letters of the [[Ge'ez script|Ge'ez]] (Ethiopic) alphasyllabary writing system. 
+ 
+ Some abugidas allow for consonant strings to be written down in a single consonant space. For example, in [[Khmer script]], unlike in Thai script, consonants can be written on top of each other, with most consonants having normal and subscript forms. For example, the Khmer word ''phnom'' ភ្នំ as in Phnom Penh is written in one consonant space with three consonants, with ភ being ''ph'', ្ន being the subscript form of ន ''n'', and ំbeing the final ''-m'' to be pronounced after the vowel''.'' Even though the word is written as ''phnm'', the vowel ''o'' is the inherent vowel, thus it should be pronounced ''phnom''. An example of a word with stacked consonants and a vowel is ''sri'' ស្រី, in which ស is ''s'', ្រ is the subscript form of រ ''r'', and ី being the vowel ''i''. 
+ {{stub}} 
+ 
+ [[Category:Writing systems]]

@@ -1,0 +1,40 @@
+[[File:Chemoluminescent reaction.jpg|thumb|right|300px|A chemoluminescent reaction in an [[Erlenmeyer flask]] produces a large amount of light]] 
+   
+ '''Chemiluminescence''' (or '''Chemoluminescence''') is a kind of [[luminescence]]. It is a process of making [[light]] from a [[chemical reaction]]. Chemiluminescence in [[biological]] [[systems]] is called [[bioluminescence]].  
+ 
+ The light made in chemiluminiscence is not directly related to [[heat]]. A simple two step example of a reaction of A, and B, that produces; C, D, and light. 
+ :['''A'''] + ['''B'''] → ['''C < sup > * < /sup > '''] + [''D''] 
+ :['''C < sup > * < /sup > '''] → ['''C'''] + '''Light'''  
+ '''C < sup > * < /sup > ''' is an [[excited state]] of '''C'''.  
+ 
+ This reaction is simpler than most chemiluminesence reactions. The excited state happens when [[electrons]] are pushed into a  higher [[orbit]] by the energy of a chemical  reaction. The excited state is less stable than the [[ground state]]. The [[electrons]] in the excited state fall to the [[ground state]] (lower energy), emitting light.  
+ 
+ The amount of measurable light made is called ''radiant intensity'': I < sub > CL < /sub >  ([[photons]] [[Emission|emitted]] per [[second]]).  
+ 
+ == Analytical applications== 
+ The device needed to measure the light made is simple. It needs something to hold the sample, and a [[Photomultiplier tubes|photomultiplier]] tube. There are three ways for this to be used in chemical measurements.  
+ #sometimes the product wanted makes light when it reacts with another [[Chemical compound|compound]],  
+ #in another type the amount of light made drops when the wanted product is added,  
+ #sometimes the wanted product when added to a chemiluminescence reaction makes more light(a [[Catalysis|catalytic]] reaction). 
+ 
+ === Analysis of gases === 
+ The method measures small amounts of [[Atmosphere|atmospheric]] [[pollutants]]. A common method measures the amount of [[nitrogen]] [[monoxide]] by reacting it with [[ozone]]. The light made has a [[wavelength]] range of 600 to 2800 & nbsp;nm. 
+ 
+ === Analysis of liquids === 
+ [[Luminol]] is the most well known type of compound used for chemiluminescence in liquids.  
+ 
+ === Analysis of cell organelles === 
+ '''Ca < sup > 2+ < /sup > '''([[calcium]]) inside of different parts of [[cells]] like the [[mitochondria]] can make light when it reacts with a [[protein]] from [[jellyfish]] named [[aequorin]]. [[Nitric oxide]](NO) is in cells and is a way for cells to [[Transmitter|talk]] to each other, this can be measured with the compound [[luminol]].  
+ 
+ ==Other examples== 
+ *An example of chemiluminescence molecules in nature is [[firefly]] [[luciferin]]. 
+ *The process is used to make [[glowstick]]s. 
+ 
+ ==References== 
+ {{refbegin}} 
+ *Daniel C. Harris. In Quantitative Chemical Analysis Seventh Edition: 2007 by W.H. Freeman and Company. 
+ *Douglas A. Skoog, James F. Holler, Stanley R. Crouch. In Principles of Instrumental Analysis Sixth Edition:2005 by Thomson, Brooks, Cole. 
+ {{refend}} 
+ 
+ [[Category:Chemical reactions]] 
+ [[Category:Light sources]]

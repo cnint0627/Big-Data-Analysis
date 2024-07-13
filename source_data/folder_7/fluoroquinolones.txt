@@ -1,0 +1,57 @@
+{{Orphan|date=July 2023}} 
+ 
+ {{DISPLAYTITLE:Fluoroquinolones}} 
+ 
+ '''Fluoroquinolones''' are a group of chemical substances used for [[Antibiotics|antibiotic]] treatment of bacterial [[infection]]. < ref name= " :0 " > {{Citation|last=Martens|first=Evan|title=Chapter 7 - An Overview of the Industrial Aspects of Antibiotic Discovery|date=2017-01-01|url=https://www.sciencedirect.com/science/article/pii/B9780128047651000072|work=Microbial Resources|pages=149–168|editor-last=Kurtböke|editor-first=Ipek|publisher=Academic Press|language=en|isbn=978-0-12-804765-1|access-date=2023-07-04|last2=Demain|first2=Arnold L.}} < /ref >  They can be used to treat many different infections, since they work against [[gram-positive]] and [[gram-negative]] bacteria, the two main types of bacteria. < ref name= " :1 " > {{Cite journal|last=Pham|first=Thu D. M.|last2=Ziora|first2=Zyta M.|last3=Blaskovich|first3=Mark A. T.|date=2019-10-16|title=Quinolone antibiotics|url=https://pubs.rsc.org/en/content/articlelanding/2019/md/c9md00120d|journal=MedChemComm|language=en|volume=10|issue=10|pages=1719–1739|doi=10.1039/C9MD00120D|issn=2040-2511|pmc=6836748|pmid=31803393}} < /ref >  Benefits of using fluoroquinolones for treatment include their ease of access, simple formulas, large amount of bacterial targets, effectiveness against infection, and unlikely chance of side effects. < ref name= " :1 "  / > 
+ {{Infobox drug 
+ | drug_name = Fluoroquinolone 
+ | type = Ciprofloxacin 
+ | image = Ciprofloxacin.svg 
+ | alt = Chemical structure of Ciprofloxacin 
+ | caption = Ciprofloxacin. A fluoroquinolone medication, commonly used for respiratory and urinary infections. 
+ | pregnancy_US =  
+ | routes_of_administration = Oral 
+ | metabolism = Liver 
+ | DrugBank = DB00537 
+ }} 
+ 
+ == Nomenclature and structure == 
+ Fluoroquinolones are a sub-class of quinolone antibiotics, named for their chemical structure. Fluoroquinolones have a similar structure to quinolones; two fused [[carbohydrate]] rings with a [[fluorine]] atom attached to the sixth carbon and a [[nitrogen]] atom replacing the eighth carbon atom. < ref name= " :0 "  / > < ref name= " :1 "  / > < ref name= " :2 " > {{Cite journal|last=Kocsis|first=Bela|last2=Domokos|first2=J.|last3=Szabo|first3=D.|date=2016-05-23|title=Chemical structure and pharmacokinetics of novel quinolone agents represented by avarofloxacin, delafloxacin, finafloxacin, zabofloxacin and nemonoxacin|url=https://doi.org/10.1186/s12941-016-0150-4|journal=Annals of Clinical Microbiology and Antimicrobials|volume=15|issue=1|pages=34|doi=10.1186/s12941-016-0150-4|issn=1476-0711|pmc=4878067|pmid=27215369}} < /ref > < ref name= " :3 " > {{Cite journal|last=Redgrave|first=Liam S.|last2=Sutton|first2=Sam B.|last3=Webber|first3=Mark A.|last4=Piddock|first4=Laura J.V.|date=August 2014|title=Fluoroquinolone resistance: mechanisms, impact on bacteria, and role in evolutionary success|url=https://doi.org/10.1016/j.tim.2014.04.007|journal=Trends in Microbiology|volume=22|issue=8|pages=438–445|doi=10.1016/j.tim.2014.04.007|issn=0966-842X}} < /ref > 
+ 
+ == Medicine == 
+ The following medicines are fluoroquinolone antiobiotics: < ref > {{Cite journal|last=King|first=D. E.|last2=Malone|first2=R.|last3=Lilley|first3=S. H.|date=2000-05-01|title=New classification and update on the quinolone antibiotics|url=https://pubmed.ncbi.nlm.nih.gov/10821154|journal=American Family Physician|volume=61|issue=9|pages=2741–2748|issn=0002-838X|pmid=10821154}} < /ref > 
+ 
+ * Norfloxacin (Norocin) 
+ * Lomefloxacin (Maxaquin) 
+ * Enoxacin (Penetrex) 
+ * Ofloxacin (Floxin) 
+ * Ciprofloxacin (Cipro) 
+ * Levofloxacin (Levaquin) 
+ * Sparfloxacin (Zagam) 
+ * Gatifloxacin (Tequin) 
+ * Moxifloxacin (Avelox) 
+ * Trovafloxacin (Trovan) 
+ * Alatrofloxacin (Trovan IV) 
+ 
+ Ciproflaxin is the most frequently prescribed fluoroquinolone antibiotic, for its strength against gram-negative bacilli bacteria such as [[Escherichia coli]] and [[Salmonella]]. < ref name= " :2 "  / > < ref > {{Citation|last=Thai|first=Tony|title=Ciprofloxacin|date=2023|url=http://www.ncbi.nlm.nih.gov/books/NBK535454/|work=StatPearls|place=Treasure Island (FL)|publisher=StatPearls Publishing|pmid=30571075|access-date=2023-07-04|last2=Salisbury|first2=Blake H.|last3=Zito|first3=Patrick M.}} < /ref > 
+ 
+ == Mechanism of action == 
+ Fluoroquinolones kill bacteria by damaging their [[DNA]], through halting [[enzyme]] function. Enzymes [[Topoisomerase]] I and IV are affected such that the supercoiling of bacterial genetic material is not functional. < ref name= " :3 "  / > 
+ 
+ == Side effects == 
+ The following side effects can occur during fluoroquinolone antibiotic treatment: < ref name= " :0 "  / > < ref > {{Cite journal|last=Baggio|first=Diva|last2=R Ananda-Rajah|first2=Michelle|date=2021-10-01|title=Fluoroquinolone antibiotics and adverse events|url=https://www.nps.org.au/australian-prescriber/articles/fluoroquinolone-antibiotics-and-adverse-events|journal=Australian Prescriber|volume=44|issue=5|pages=161–164|doi=10.18773/austprescr.2021.035|pmc=8542490|pmid=34728881}} < /ref > 
+ 
+ * retinal damage 
+ * Achilles tendon damage  
+ * Nerve disfunction (peripheral neuropathy) 
+ * psychiatric change (central neuropathy)   
+ * [[diarrhea]] 
+ 
+ == Bacterial resistance == 
+ A growing number of bacteria are becoming resistant to quinolone antibiotics due to overuse. < ref > {{Cite journal|last=Walker|first=Randall C.|date=October 1999|title=The Fluoroquinolones|url=https://doi.org/10.4065/74.10.1030|journal=Mayo Clinic Proceedings|volume=74|issue=10|pages=1030–1037|doi=10.4065/74.10.1030|issn=0025-6196}} < /ref >  To slow the spread of [[bacterial resistance]], fluoroquinolones are usually used as treatment after specific antibiotic medicines have been ruled out. < ref name= " :3 "  / > 
+ 
+ == References == 
+ < references / > 
+ 
+ {{DEFAULTSORT:Fluoroquinolones}} 
+ [[Category:Antibiotics]]

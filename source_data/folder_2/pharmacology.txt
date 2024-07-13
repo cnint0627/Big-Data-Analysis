@@ -1,0 +1,42 @@
+'''Pharmacology''' is the study of how medicine and other things have an effect on living [[organism]]s and change how they function. Pharmacology could also be defined as the study of how medicine actually works. 
+ 
+ The first pharmacology department in the world was set up in the [[University of Tartu]] by [[Rudolf Buchheim]] in 1847.  < ref > {{cite journal | vauthors = Rang HP | title = The receptor concept: pharmacology's big idea | journal = British Journal of Pharmacology | volume = 147 Suppl 1 | issue = S1 | pages = S9-16 | date = January 2006 | pmid = 16402126 | pmc = 1760743 | doi = 10.1038/sj.bjp.0706457 }} < /ref >   
+ 
+ Pharmacology is not exactly the same as [[pharmacy]], and a pharmacologist is not exactly the same as a [[pharmacist]]. A pharmacologist is a scientist who studies how medicine actually works, and usually works in a science lab.  A pharmacist is a health care provider who usually works at a pharmacy.  However, there is quite a bit of overlap between these two fields. A pharmacist could be considered a type of pharmacologist. Pharmacists do take many classes in pharmacology. 
+ 
+ If something can be used as a [[medicine]], it is called a pharmaceutical. Pharmacology includes how drugs are made, how they interact with living [[organism]]s, what [[harm]]ful effects they could have, how they can be used as [[Medicine|medicines]], and if they can be used to prevent illness. A person who works in the study of pharmacology is called a '''pharmacologist'''. Pharmacologists work in a team with [[biochemist]]s, [[genetics|geneticists]], [[Microbiology|microbiologists]], [[Toxicology|toxicologists]] and [[pharmacist]]s to run clinical tests on how drugs work. 
+ 
+ == Uses of pharmacology == 
+ The development of drugs is very important to medicine, but it also has strong economical and political uses. To protect people and prevent [[abuse]], some countries try to control the way in which drugs are made, sold, and administered. 
+ 
+ == Scientific background == 
+ To [[study]] chemicals, a person needs to know a lot about what will be affected if it is [[ingestion|ingested]] (taken into the body).  As more people know about [[cell biology]] and [[biochemistry]], the field of pharmacology has changed as well. It is now possible to [[design]] chemicals that do specific things. 
+ 
+ A chemical can have different [[property|properties]]. [[Pharmacokinetics]] describes the what effect the [[body]] will have on the chemical, and [[pharmacodynamics]] describes the chemical's effect on the body (desired or toxic). 
+ 
+ When a pharmacologist is talking about pharmacokinetic properties of a chemical, they are interested in four things: ADME. 
+ 
+ * '''Absorption''' - How is the medication absorbed (through the skin, the intestine, the mouth)? 
+ * '''Distribution''' - How does it spread through the organism? 
+ * '''Metabolism''' - Is the medication converted chemically inside the body, and into what.  Are these new substances active?  Could they be toxic? 
+ * '''Excretion''' - How does the organism get rid of the chemical (through the [[bile]], [[urine]], [[breath]], [[skin]])? 
+ 
+ Medication is said to have a narrow or wide therapeutic index. This describes the [[ratio]] of desired effect to toxic effect. A medicine with a narrow therapeutic index (close to one) only does what people want it to do when the amount given is enough to put the organism in danger.  A medicine with a wide therapeutic index (greater than five) does what people want it to do and does not necessarily put the organism in danger. Medication with a narrow margin are more difficult to dose and give to a person, and may require therapeutic drug monitoring (examples are [[warfarin]], some [[antiepileptic]]s, aminoglycoside antibiotics). Most anti-[[cancer]] drugs have a narrow therapeutic margin; toxic side-effects are almost always encountered at doses needed to kill [[tumour]]s. 
+ 
+ == Drugs as medicine == 
+ Drugs that are given to people to help cure them of a medical condition or help reduce the symptoms are often licensed. They can be divided into three groups: over-the-counter, where anybody can buy the drug from a shop; prescription-only medicine, where a [[Medical doctor|doctor]] has to say that a person is allowed to take a drug; and in some countries, pharmacy medicines, where only a registered [[pharmacy]] can sell a drug.  Most over-the-counter medication will not hurt a person if they take a bit more than they are meant to. Medications are often produced by [[:Category:Pharmaceutical companies|pharmaceutical companies]] and are often [[patent]]ed. Drugs that are not patented, or where the patent has expired, are called [[generic]] drugs. 
+ 
+ == Market == 
+ Early stage drug research is often done by small companies,  [[Startup company|start-ups]], that later sell out to the big pharmaceutical companies. The  [[patent]] lasts for up to 20 years. After that other companies can copy the invention.    
+ 
+ The [[Americans|American]] market was worth more than $600 billion in 2022, almost half the global total.  Americans pay three times as much for [[Brand|branded]] drugs as the [[OECD]] average.  American research and development spending was nearly two-thirds of the OECD total. The 2022 [[Inflation Reduction Act]] lets [[Medicare (United States)|Medicare]] bargain directly with drugmakers. It plans to seek cuts of 25% in some drugs.  Private [[Health insurance|health insurer]] < nowiki/ > s  may do the same. < ref > {{Cite news|last=Masters|first=Brooke|date=2023-09-01|title=The world will need to stop piggybacking on US pharma|work=Financial Times|url=https://www.ft.com/content/0c20c518-60a8-4dd0-87be-f03adc8ec0e1|access-date=2023-09-02}} < /ref >    
+ 
+ == Related pages == 
+ *[[Pharmacoepidemiology]] 
+ *[[Pharmacokinetics]] 
+ *[[Pharmacotheraphy]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ [[Category:Pharmacology| ]]

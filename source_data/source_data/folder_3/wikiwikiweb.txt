@@ -1,0 +1,20 @@
+{{Infobox website|name=WikiWikiWeb|logo=|logo_size=50px|logocaption=The WikiWikiWeb logo|caption=The [[homepage]] of the WikiWikiWeb in 2003|url={{url|https://wiki.c2.com/}}|location=[[Portland, Oregon]]|type=[[Wiki]] with focus on [[software design pattern]]s|language=[[English language|English]]|registration=Not implemented; users can edit using any name and optionally create a page about themselves under that name|owner=Cunningham  &  Cunningham, Inc.|author=[[Ward Cunningham]]|launched={{start date and age|1995|3|25}}|current_status=Active (Read-only indefinitely since February 1, 2015)}} 
+ {{Infobox software 
+ | license = [[GNU GPL]] < ref > http://c2.com/cgi/wiki?WikiWikiWebFaq < /ref > 
+ | website = hide 
+ }} 
+ [[File:Ward_Cunningham_-_Commons-1.jpg|thumb|[[Ward Cunningham]] in 2011]] 
+ The '''WikiWikiWeb''' is the first [[wiki]], or user-editable [[website]], like [[Wikipedia]]. It was launched on 25 March 1995 by its inventor, programmer [[Ward Cunningham]], to accompany the [[Portland Pattern Repository]] website discussing [[Software design pattern|software design patterns]]. The name ''WikiWikiWeb'' originally also applied to the [[wiki software]] that operated the website, written in the [[Perl]] programming language and later renamed to  " WikiBase " . The site is frequently referred to by its users as simply  " Wiki " , and a convention established among users of the early network of wiki sites that followed was that using the word with a capitalized ''W'' referred exclusively to the original site. 
+ 
+ == History == 
+ The software and website were developed in 1994 by Cunningham in order to make the exchange of ideas between programmers easier. The concept was based on the ideas developed in [[HyperCard]] stacks that Cunningham built in the late 1980s. < ref > [[c2:WikiHistory|WikiHistory]] on c2.com < /ref > < ref > [[n:Interview: Wikinewsie Kim Bruning discusses Wikimania|Interview: Wikinewsie Kim Bruning discusses Wikimania]] on WikiNews < /ref > < ref > [http://video.google.com/videoplay?docid=-7739076742312910146 Interview with Ward Cunningham] {{Webarchive|url=https://web.archive.org/web/20070507062332/http://video.google.com/videoplay?docid=-7739076742312910146 |date=2007-05-07 }} on Google Video < /ref >  On March 25, 1995, he installed the software on his company's (Cunningham  &  Cunningham) website, c2.com. Cunningham came up with the name WikiWikiWeb because he remembered a [[Honolulu International Airport]] counter employee who told him to take the [[Wiki Wiki Shuttle]], a [[Public transport|shuttle bus]] line that runs between the airport's terminals.  " Wiki Wiki "  is a [[reduplication]] of  " wiki " , a [[Hawaiian language]] word for  " quick " . < ref > {{Citation|last=Andrews|first=Lorrin|title=A dictionary of the Hawaiian language to which is appended an English-Hawaiian vocabulary and a chronological table of remarkable events|year=1865|publisher=Henry M. Whitney|url=https://archive.org/details/dictionaryofhawa00andrrich/page/n519|page=514}} < /ref >  Cunningham's idea was to make WikiWikiWeb's pages quickly editable by its users, so he initially thought about calling it  " QuickWeb " , but later changed his mind and dubbed it  " WikiWikiWeb " . 
+ 
+ == Related pages == 
+ * [[Wikipedia]] 
+ * [[Wiki]] 
+ 
+ == References == 
+ < references / > 
+ 
+ [[Category:Wikis]] 
+ [[Category:1995 establishments]]

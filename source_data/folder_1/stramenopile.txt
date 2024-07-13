@@ -1,0 +1,145 @@
+{{Taxobox 
+ | name = Heterokonts 
+ | image = pacific rockweed, Olympic National Park, USA.jpg 
+ | image_caption = Pacific rockweed, ''[[Fucus]] distichus'', in Olympic National Park 
+ | domain = [[Eukarya]] 
+ | regnum = [[Chromalveolata]] 
+ | phylum = '''Heterokontophyta''' 
+ | subdivision_ranks = Typical classes 
+ | subdivision = 
+ *'''Colored groups''' & nbsp;(alga-like) 
+ **[[Axodine|Actihrysophyceae]] & nbsp;(axodines) 
+ **[[Diatom|Bacillariophyceae]] (diatoms) 
+ **[[Bolidophyte|Bolidophyceae]] 
+ **[[Golden alga|Chrysophyceae]] & nbsp;(golden & nbsp;algae) 
+ **[[Eustigmatophyte|Eustigmatophyceae]] 
+ **[[Pelagophyte|Pelagophyceae]] 
+ **[[Brown alga|Phaeophyceae]] (brown algae) 
+ **[[Phaeothamnid|Phaeothamniophyceae]] 
+ **[[Raphidophyte|Raphidophyceae]] 
+ **[[Synurid|Synurophyceae]] 
+ **[[Yellow-green alga|Xanthophyceae]] & nbsp;(yellow-green & nbsp;algae) 
+ *'''Colorless groups''' & nbsp;(fungus-like) 
+ **[[Bicosoecid|Bicosoecea]] 
+ **[[Hyphochytridiomycetes]] 
+ **[[Labyrinthulomycetes]] & nbsp;(slime & nbsp;nets) 
+ **[[Oomycete]]s (water moulds) 
+ **[[Opaline]]a 
+ **[[Proteromonad]]ea 
+ **''[[Blastocystis]]'' 
+ }} 
+ 
+ The '''heterokonts''' or '''stramenopiles''' are a major line of [[eukaryote]]s with more than 100,000 known species, < ref name= " urlstramenopiles " > {{cite web |url=https://www.uniprot.org/taxonomy/33634 |title=stramenopiles |format= |accessdate=2009-03-08}} < /ref >  most of them [[diatom]]s. < ref name= " Hoek " > {{cite book | last=Hoek | first=C. van den |author2= D.G. Mann and H.M. Jahns | year=1995 | pages=[https://archive.org/details/algaeintroductio0000hoek/page/104 104], 124, 134, 166 
+ | title=Algae: An Introduction to Phycology | url=https://archive.org/details/algaeintroductio0000hoek | location=Cambridge | publisher=Cambridge University Press | isbn=0-521-31687-1 }} < /ref > 
+ 
+ '''Heterokont'''s are mostly [[algae]]. In one stage of their [[life cycle]] they have two unequal [[flagella]]. They include both single-celled types and [[brown algae]] ([[seaweed]]s such as [[kelp]] and ''[[Sargassum]]''). They are members of the [[Kingdom (biology)|Kingdom]] [[Chromalveolata]]. 
+ 
+ 
+ ==Phylogeny== 
+ {{clade 
+ |label1='''Stramenopiles''' 
+ |1={{clade|style=font-size:90%;line-height:80% 
+ |label1= 
+ |1={{Clade 
+   |1=[[Platysulcidae]]  < small > Shiratori, Nkayama  &  Ishida 2015 < /small > 
+   |2={{Clade 
+     |1={{Clade|label1=[[Sagenista]] 
+     |1={{Clade 
+       |1=[[Eogyrea]] 
+       |2=[[Labyrinthulea]] [[File:Aplanosem.png|50px]] 
+        }}}} 
+     |2={{Clade 
+       |1=[[Bicosoecid|Bikosea]]  < small > Cavalier-Smith 2013 < /small > 
+       |2={{Clade 
+         |label1=[[Placidozoa]] 
+         |1={{Clade 
+           |1=[[Placididea]]  < small > Moriya, Nakayama  &  Inouye 2002 < /small > 
+           |2={{Clade 
+             |1=[[Nanomonadea]]  < small > Cavalier-Smith 2013 < /small > 
+             |2={{Clade 
+               |1=[[Opalomonadea]]  < small > Cavalier-Smith 2013 < /small > 
+               |label2=[[Opalinata]] 
+               |2={{Clade 
+                 |1=[[Blastocystea]]  < small > Zierdt et al. 1967 < /small >  [[File:Four_common_forms_of_Blastocystis_hominis_Valzn.jpg|50px]] 
+                 |2=[[Opalinea]]  < small > Wenyon 1926 emend. Cavalier-Smith 1993 < /small >  [[File:Parasite140015-fig2 Protoopalina pingi (Opalinidae) Microscopy.tif|50px]] 
+                  }} 
+                }} 
+              }} 
+            }} 
+         |label2=[[Gyrista]]  
+         |2={{Clade 
+           |1=[[Bigyromonadea]]  < small > Cavalier-Smith 1998 < /small > 
+           |2={{Clade 
+             |1=[[Oomycota]]  < small > Arx 1967 < /small >  [[File:Peronospora sparsa.JPG|50px]] 
+             |2={{Clade 
+               |1=[[Hyphochytriomycota]]  < small > Whittaker 1969 < /small > 
+               |2={{Clade 
+                 |1=[[Pirsoniales]]  < small > Cavalier-Smith 1998 < /small > 
+                 |label2=[[Ochrophyta]] 
+                 |2={{Clade 
+                   |label1=[[Khakista]] 
+                   |1={{Clade 
+                     |1=[[Bolidophyceae]]  < small > Guillou  &  Chretiennot-Dinet 1999 < /small >  [[File:Tetraparma pelagica.jpg|50px]] 
+                     |2=[[Bacillariophyceae]]  < small > Haeckel 1878 < /small >  [[File:Diatoms through the microscope.jpg|50px]] 
+                      }} 
+                   |label2=[[Phaeista]] 
+                   |2={{Clade 
+                     |label1=[[Hypogyristea]] 
+                     |1=[[Dictyochophyceae]]  < small > Silva 1980 s.l. < /small >  [[File:Dictyocha speculum.jpg|50px]] 
+                     |label2=[[Chrysista]] 
+                     |2={{Clade 
+                       |1={{Clade|label1=[[Eustigmista]] 
+                       |1={{Clade 
+                         |1=[[Pinguiophyceae]]  < small > Kawachi et al. 2002 < /small > 
+                         |2=[[Eustigmatophyceae]]  < small > Hibberd  &  Leedale 1971 < /small >  [[File:15 3klein2.jpg|50px]] 
+                          }}}} 
+                       |2={{Clade 
+                         |label1=[[Phagochrysia]] 
+                         |1={{Clade 
+                           |1=[[Picophagea]]  < small > Cavalier-Smith 2006 < /small >  [[File:Collection Penard MHNG Specimen 99-1-3 Chlamydomyxa montana.tif|50px]] 
+                           |2={{Clade 
+                              |1=''[[Leukarachnion]]''  < small > Geitler 1942 < /small > 
+                              |2=[[Chrysophyceae]]  < small > Pascher 1914 < /small >  [[File:Dinobryon sp.jpg|50px]] < !--[[File:Synura.jpg|50px]]-- > 
+                              }} 
+                            }} 
+                         |label2=[[Xanthophytina]] 
+                         |2={{Clade 
+                           |label1=[[Raphidoistia]] 
+                           |1=[[Raphidophyceae]]  < small > s.l. < /small >  [[File:Actinophrys sol.jpg|50px]] 
+                           |label2=[[Fucistia]] 
+                           |2={{Clade 
+                             |1=[[Phaeophyceae]] (brown seaweeds)  < small > Hansgirg 1886 < /small >   [[File:Gemeiner Blasentang.jpg|50 px]] 
+                             |2={{Clade 
+                               |1=[[Chrysomerophyceae]]  < small > Cavalier-Smith 1995 < /small > 
+                               |2={{Clade 
+                                 |1=[[Phaeothamniophyceae]]  < small > Andersen  &  Bailey 1998 s.l. < /small > 
+                                 |2=[[Xanthophyceae]] (yellow-green algae)  < small > Allorge 1930 emend. Fritsch 1935 < /small >  [[File:Vaucheria_sp_sexial_reproductive_organ01.jpg|50px]] 
+                                  }} 
+                                }} 
+                              }} 
+                            }} 
+                          }} 
+                        }} 
+                      }} 
+                    }} 
+                  }} 
+                }} 
+              }} 
+            }} 
+          }} 
+        }} 
+      }} 
+    }} 
+ }} 
+ }} 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ {{Wikispecies|Heterokonta}} 
+ 
+ {{Taxonbar|from1=Q461622|from2=Q18744565|from3=Q21286613}} 
+ {{Plankton}} 
+ 
+ [[Category:Algae]] 
+ [[Category:Protista]]

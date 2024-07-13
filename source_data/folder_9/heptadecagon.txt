@@ -1,0 +1,29 @@
+[[File:Heptadecagon.svg|thumb|A heptadecagon]] 
+ A '''heptadecagon''' or '''septadecagon''' or '''17-gon''' is a [[Polygon|shape]] with 17 sides and 17 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular heptadecagon == 
+ All sides of a '''regular heptadecagon''' are the same length. Each corner is 158.82°. All corners added together equal 2700°. 
+ 
+ === Area === 
+ The amount of space a regular heptadecagon takes up is 
+ 
+ The [[area]] of a [[Regular polygon|regular]] heptadecagon of side length ''a'' is given by 
+ : < math > A = \frac{17}{4}a^2\cot\frac{\pi}{17}\simeq 22,735a^2 < /math > 
+ 
+ === Heptadecagon construction === 
+ The regular heptadecagon edit geometry compass and ruler in 1796, demonstrated [[Carl Friedrich Gauss]]. 
+ 
+ This is due to [[Göttingen]] of a memorial statue of a regular heptadecagon pedestal. 
+ 
+ The following animation of a heptadecagon editing. 
+ :[[Image:HeptadecagonConstructionAni.gif|thumb|230px|center|]] 
+ 
+ ==Related pages== 
+ * [[Carl Friedrich Gauss]] 
+ {{shapes}} 
+ {{Polygons}} 
+ 
+ [[Category:Polygons|17]] 
+ 
+ 
+ {{Math-stub}}

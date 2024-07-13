@@ -1,0 +1,18 @@
+{{Orphan|date=April 2008}} 
+ '''Ghostzilla''' is a [[web browser]] for [[Microsoft Windows]] based on [[Mozilla]]. The browser runs inside the window space of another program e.g. in [[Outlook|Microsoft Outlook]], where the page is made to look like the things one would expect in an email. It makes people think think the person they're reading an email.  < ref > [https://web.archive.org/web/20060529002302/http://web.archive.org/web/20060529002302/www.ghostzilla.com/ghostzilla-large.gif Archive.Org: Ghostzilla.com] Image of Ghostzilla working inside Microsoft Outlook. < /ref > 
+ 
+ Between May [[2004]] and January [[2005]], the project was taken off the website because the person who made it felt it was bad to use it. It was later put back, but with warnings about the potential to use it for the wrong reason. Since February [[2007]], the site has been closed and is no longer available. 
+ 
+ ==Features== 
+ * The Ghostzilla window disappears when the mouse cursor is moved away from it, letting the user easily hide it. 
+ * The user can set the preferences to set security (hiding) levels. For example: He can display no images unless the mouse is put over it (they stand out, thus making it more easily recognized as the Web), or display plain grey text on a white background. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [https://web.archive.org/web/20060529002108/http://www.ghostzilla.com/ Last ever archived version of Ghostzilla site.] 
+ 
+ {{Tech-stub}} 
+ [[Category:Web browsers]] 
+ [[Category:Mozilla]]

@@ -1,0 +1,83 @@
+{{Infobox file format 
+ | name = XML 
+ | icon = 
+ | logo = 
+ | screenshot = XML.svg 
+ | screenshot_size = 250px 
+ | extension = .xml 
+ | mime =  < code > application/xml < /code > < ref > {{cite web |url=http://tools.ietf.org/html/rfc3023#section-3.2 |title=XML Media Types, RFC 3023 |pages=9–11 |publisher=Internet Engineering Task Force |date=January 2001|accessdate=2010-01-04}} < /ref > < br/ > < code > text/xml < /code > < ref > {{cite web |url=http://tools.ietf.org/html/rfc3023#section-3.1 |title=XML Media Types, RFC 3023 |pages=7–9 |publisher=Internet Engineering Task Force |date=January 2001 |accessdate=2010-01-04}} < /ref > 
+ | type code = 
+ | uniform type = public.xml 
+ | conforms to = public.text 
+ | magic = 
+ | owner = [[World Wide Web Consortium]] 
+ | genre = [[Markup language]] 
+ | container for = 
+ | contained by = 
+ | extended from = [[Standard Generalized Markup Language|SGML]] 
+ | extended to = [[List of XML markup languages|Numerous]], including: < br/ > [[XHTML]], [[RSS]], [[Atom (standard)|Atom]], [[KML]] 
+ | standard = [http://www.w3.org/TR/2008/REC-xml-20081126/ 1.0 (Fifth Edition)] {{release date and age|2008|11|26}} < br > [http://www.w3.org/TR/2006/REC-xml11-20060816/ 1.1 (Second Edition)] {{release date and age|2006|08|16}} 
+ | free = Yes 
+ }} 
+ The '''Extensible Markup Language''' (short XML) is a [[markup language]] like [[HTML]] but is [[extensible]]. < ref > {{Cite web|date=2022-08-20|title=What is an XML-File? {{!}} Data Basecamp|url=https://databasecamp.de/en/data/xml-file|access-date=2022-09-25|language=en-US}} < /ref >  It's created by the [[World Wide Web Consortium]] (W3C). XML defines rules for the construction of a document. XML adds context to the information in a document. It does not say how this should be displayed. 
+ 
+ Some programs get information out of an XML-document. To do that, they need an [[API]]. < ref > {{Cite web|date=2022-07-23|title=What is an API? Easily explained! {{!}} Data Basecamp|url=https://databasecamp.de/en/data/api-en|access-date=2022-08-11|language=en-US}} < /ref >   There are many APIs for XML. 
+ 
+ You can write a description of an XML document in a way that is useful for programmers. There are several languages for this; the best known is called [[DTD]]. 
+ 
+ == Syntax == 
+ XML uses less than ( < ) and greater than ( > ) to show tags. For example, a paragraph in [[HTML]] would be  < code > & lt;p & gt; < /code > . 
+ 
+ A closing tag is a tag used to enclose the [[value]] of the tag. The tag has a slash (/) before its name. For example,  < code > & lt;/p & gt; < /code > 
+ 
+ A tag which is empty can be represented as an opening tag but with a slash before the  < code > & gt; < /code > . For example,  < code > & lt;p/ & gt; < /code > 
+ 
+ The XML specification defines a [[XML validation|valid XML document]] as a [[well-formed XML document]] which also conforms to the rules of a [[Document Type Definition]] (DTD). < ref > {{cite web|url=https://xmlnotepad.codeplex.com/|title=XML Notepad|access-date=16 November 2017|archive-date=15 November 2017|archive-url=https://web.archive.org/web/20171115122856/http://xmlnotepad.codeplex.com/|url-status=dead}} < /ref > < ref > {{cite web|url=https://aristeksystems.com/blog/elearning-standards-2022/#qti|title=XML Notepad 2007|access-date=16 November 2017}} < /ref > 
+ 
+ == Languages == 
+ The following languages are based on XML. 
+ 
+ === Text === 
+ * [[XSL-FO]] 
+ * [[DocBook]] 
+ * [[DITA]] 
+ * [[XHTML]] (HTML based on ALL) 
+ * [[Text Encoding Initiative|TEI]] (Text Encoding Initiative) 
+ * [[NITF (XML)|NITF]] (News Industry Text Format) 
+ 
+ === Images === 
+ * [[Scalable Vector Graphics|SVG]] (vector graphics) 
+ * [[X3D]] (3D modelling language) 
+ * [[Collaborative Design Activity|Collada]] (Language to change informations between different 3D programs) 
+ 
+ === Earth === 
+ * [[Geography Markup Language]] (GML) 
+ * [[GPS Exchange Format]] (GPX): XML for [[Global Positioning System|GPS]] informatons 
+ * [[Keyhole Markup Language]] (KML): coordinates for [[Google Earth]] 
+ * [[OpenImmo]] : XML for Houses with position informations 
+ 
+ === Multimedia === 
+ * [[SMIL]] (Informations with times from multimedia) 
+ * [[MPEG-7]] (for MPEG-7) 
+ * [[Laszlo (Auszeichnungssprache)|Laszlo]] (LZX) 
+ 
+ === Safety === 
+ * [[SAML]] (describe and send informations about safety) 
+ * [[XML Signature]] 
+ * [[XML Encryption]] 
+ 
+ === Other === 
+ There are a lot more languages that use XML. A couple of them are: 
+ * [[RSS]] 
+ * [[WAP/WML]] 
+ 
+ ==Sources== 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://www.xeml.net XeML.net] {{Webarchive|url=https://web.archive.org/web/20180316073129/http://xeml.net/ |date=2018-03-16 }} 
+ * [http://www.w3.org/XML/ W3C XML Page] 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Markup languages]]

@@ -1,0 +1,56 @@
+{{Infobox software 
+ | name                   = VisualEditor 
+ | title                  = VisualEditor 
+ | logo                   = [[File:VisualEditor-logo.svg|250px]] 
+ | logo caption           =  
+ | logo_size              =  
+ | logo_alt               =  
+ | screenshot             = [[File:VisualEditor text format menu.png|300px]] 
+ | caption                = VisualEditor's text formatting menu 
+ | screenshot_size        =  
+ | screenshot_alt         = VisualEditor's text formatting menu 
+ | collapsible            =  
+ | author                 =  
+ | developer              = [[Wikimedia Foundation]] and [[Wikia, Inc.]] 
+ | released               =  < !-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -- > 
+ | discontinued           =  
+ | latest release version =  
+ | latest release date    =  < !-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -- > 
+ | latest preview version =  
+ | latest preview date    =  < !-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -- > 
+ | programming language   = [[JavaScript]], [[Node.js]], [[PHP]] 
+ | operating system       = [[Cross-platform]] 
+ | platform               = [[MediaWiki]] [[Software extension|extension]] 
+ | size                   =  
+ | language               =  
+ | language count         =  < !-- DO NOT include this parameter unless you know what it does -- > 
+ | language footnote      =  
+ | genre                  = [[Wiki]] 
+ | license                = [[MIT License|MIT]] < ref > [https://phabricator.wikimedia.org/diffusion/EVED/browse/master/LICENSE.txt;9740d1683e9f2d66e81d8c54466b89b7ca2a0292 LICENSE.txt] {{webarchive|url=https://web.archive.org/web/20180112022217/https://phabricator.wikimedia.org/diffusion/EVED/browse/master/LICENSE.txt;9740d1683e9f2d66e81d8c54466b89b7ca2a0292 |date=2018-01-12 }}, VisualEditor source code repository, phabricator.wikimedia.org/diffusion/ < /ref > 
+ | alexa                  =  
+ | website                = {{URL|https://www.mediawiki.org/wiki/VisualEditor}} 
+ | standard               =  
+ | AsOf                   =  
+ }} 
+ 
+ '''VisualEditor''' ('''VE''') is a project developed by the [[Wikimedia Foundation]] together with [[Wikia]]. < ref > {{cite web | url=https://www.theverge.com/2012/6/22/3110130/wikimedia-visual-editor-prototype | title=Wikimedia releases updated prototype for simplified visual editor | date=22 June 2012 }} < /ref >  It is similar to a [[WYSIWYG]] editor, and is available as a [[MediaWiki]] extension. The [[Beta]] version of this extension was enabled on Mediawiki.org and other larger Wikipedia in July 2013 by default, but users could decide to [[opt-out]].  
+ 
+ == References == 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [https://www.mediawiki.org/wiki/VisualEditor MediaWiki VisualEditor] 
+ * [https://www.mediawiki.org/wiki/Extension:VisualEditor MediaWiki Extension: VisualEditor] 
+ * [http://community.wikia.com/wiki/Help:VisualEditor Help:VisualEditor - Community Central] 
+ * [http://upload.wikimedia.org/wikipedia/wikimania2006/b/b5/CS1_slides.pdf What you see is Wiki - Questioning WYSIWYG in the Internet Age] 
+ * [http://www.mediawiki.org/wiki/Alternative_parsers MediaWiki alternative parsers] 
+ * [http://www.trevorparscal.com/resume/slides/building-a-visual-editor-for-wikipedia-with-notes@wikimania-2012.pdf Building a Visual Editor for Wikipedia] 
+ {{Commons category|VisualEditor}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Wikimedia]] 
+ [[Category:Wikimedia Foundation]] 
+ [[Category:JavaScript]]

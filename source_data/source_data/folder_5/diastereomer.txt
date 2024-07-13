@@ -1,0 +1,22 @@
+{| align= " right "  class= " wikitable " 
+ |- 
+ !colspan= " 2 " |Diastereomers 
+ |- 
+ |bgcolor= " #FFFFFF " | [[File:D-threose.svg|150px]] 
+ |bgcolor= " #FFFFFF " | [[File:D-erythrose.svg|150px]] 
+ |- 
+ | [[Threose| < small > D < /small > -Threose]] 
+ | [[Erythrose| < small > D < /small > -Erythrose]] 
+ |} 
+ '''Diastereomers''' (also called '''diastereoisomers''') are stereoisomers which are not [[enantiomer]]s. They are [[molecule]]s which have the same atoms and bonds but different [[stereochemistry]] in at least one, but not all, of their [[chiral centre]]s. Diastereomers can have very different properties even though they look similar. < ref > {{Cite web|url=http://goldbook.iupac.org/D01679.html|title=IUPAC Gold Book - Diastereoisomerism|publisher=[[IUPAC]]|access-date=22 January 2013}} < /ref >  This is different from enantiomers, that have exactly the same properties except when in a chiral environment like the [[human body]]. 
+ 
+ Every chiral centre in a molecule has two possible ways of putting the groups in space. With only one chiral centre, there are two enantiomers. With two chiral centres, you can form 4 different [[isomer]]s. When all chiral centres are changed at the same time, two pairs of enantiomers are formed. When only one chiral centre is changed at a time, sets of diastereoisomers are formed. With more chiral centres the possibilities are many more. 
+ 
+ Diastereoisomers which are different at only one of more chiral centres are called '''epimers'''. For example,  < small > D < /small > -Threose and  < small > D < /small > -Erythrose (see picture) are diastereomers because they are different at only one of two chiral centres. Because of this they can also be called epimers. < ref > {{Cite web|url=http://goldbook.iupac.org/E02167.html|title=IUPAC Gold Book - Epimers|publisher=[[IUPAC]]|access-date=22 January 2013}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Stereochemistry}} 
+ 
+ [[Category:Stereochemistry]]

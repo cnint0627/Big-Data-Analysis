@@ -1,0 +1,127 @@
+{{Infobox musical artist 
+ | Name                = Disturbed 
+ | Img                 = Disturbed Sweden Rock 2008.jpg | 
+ | Img_capt            = Disturbed performing at 2008's [[Sweden Rock Festival]]. 
+ | Img_size            = 250 
+ | Landscape           = Yes 
+ | Background          = group_or_band 
+ | Origin              = [[Chicago]], [[Illinois]], United States 
+ | Genre               =  < !--Please contribute to the discussion page if you wish to alter genres, and see the sources in the styles section. -- > [[Alternative metal]], [[nu metal]],  [[hard rock]] 
+ < !--Absolutely NO line breaks (br) in genre section! Keep them as commas! -- > 
+ | Years_active        = 1994-2011; 2015-present 
+ | Label               = [[Giant Records (Warner Bros. subsidiary label)|Giant]], [[Warner Bros. Records|Warner Bros.]], [[Reprise Records|Reprise]] 
+ | URL                 = [http://www.disturbed1.com/ www.disturbed1.com] 
+ | Current_members     = [[David Draiman]] < br / > [[Dan Donegan]] < br / > [[John Moyer]] < br / > [[Mike Wengren]] 
+ | Past_members        = [[Steve Kmak|Steve  " Fuzz "  Kmak]] 
+ }} 
+ '''Disturbed''' is a [[rock music|rock]] [[band]] from [[Chicago]], [[Illinois]]. They were formed in 1994 and have sold over 11 million albums in the [[United States]] alone and almost 20 million around the world.  All of Disturbed's albums have been number one on the ''[[Billboard 200]]''.  Four of their albums have been number one on their first week on the ''Billboard 200''. < ref > {{cite magazine |url=http://www.billboard.biz/bbbiz/content_display/charts/chart_alert/e3i28d20febe0f2d51bc333698a59cb4f75 |title=Disturbed  >  Chart success  >  Billboard Albums |publisher=Nielsen Business Media, Inc |accessdate=March 11, 2009 |magazine=Billboard |archive-date=April 19, 2009 |archive-url=https://web.archive.org/web/20090419103815/http://www.billboard.biz/bbbiz/content_display/charts/chart_alert/e3i28d20febe0f2d51bc333698a59cb4f75 |url-status=dead }} < /ref > 
+ 
+ ==History== 
+ Disturbed's original name was Brawl, and had a different singer.  [[David Draiman]] joined Brawl, and changed the name to Disturbed.  In 2000, Disturbed released their first [[Compact Disc|CD]], called ''[[The Sickness]]''.  Since 2000, ''The Sickness'' has sold over 4 million copies in the United States. < ref > {{cite news |url=http://www.roadrunnerrecords.com/BLABBERMOUTH.net/news.aspx?mode=Article & newsitemID=101575 |title=Disturbed Interviewed on KISW's 'The Men's Room'; Audio Available |publisher=Roadrunner Records |date=July 25, 2008 |accessdate=March 6, 2009 |work=Blabbermouth.net |archive-date=July 15, 2011 |archive-url=https://web.archive.org/web/20110715192018/http://www.roadrunnerrecords.com/BLABBERMOUTH.net/news.aspx?mode=Article & newsitemID=101575 |url-status=dead }} < /ref >   In 2002, Disturbed released a [[DVD]] called ''M.O.L.''.  This has [[music video]]s and videos of the band while on tour.  Later in 2002, Disturbed released another CD, called ''[[Believe (album)|Believe]]''.  After Disturbed finished a tour in 2003, they fired bassist, Steve Kmak.  He was replaced with [[John Moyer]].  In 2005, Disturbed released another album called ''[[Ten Thousand Fists]]''.  One of Disturbed's songs,  " This Moment "  was put in the movie ''[[Transformers (film)|Transformers]]''.  In 2008, Disturbed released another album, called ''[[Indestructible (album)|Indestructible]]''.  Some of the songs from ''Indestructible'' were put on the video game ''[[Rock Band (video game)|Rock Band]]''. 
+ 
+ ==Band members== 
+ ;Current lineup 
+ * Dan Donegan – guitars  < small > (1996–2011, 2015–present) < /small > 
+ * Mike Wengren – drums  < small > (1996–2011, 2015–present) < /small > 
+ * [[David Draiman]] – vocals  < small > (1996–2011, 2015–present) < /small > 
+ * John Moyer – bass  < small > (2004–2011, 2015–present) < /small > 
+ 
+ ;Former 
+ * Steve  " Fuzz "  Kmak – bass  < small > (1996–2003) < /small > 
+ 
+ ===Timeline=== 
+ {{#tag:timeline| 
+ ImageSize = width:800 height:auto barincrement:20 
+ PlotArea = left:90 bottom:75 top:10 right:10 
+ Alignbars = justify 
+ DateFormat = dd/mm/yyyy 
+ Period = from:04/08/1996 till:{{#time:d/m/Y}} 
+ TimeAxis = orientation:horizontal format:yyyy 
+ Legend = orientation:vertical position:bottom columns:4 
+ ScaleMajor = increment:2 start:1997 
+ ScaleMinor = increment:1 start:1997 
+ 
+ Colors = 
+  id:vocals   value:red        legend:Vocals 
+  id:guitar   value:green      legend:Guitars 
+  id:bass     value:blue       legend:Bass 
+  id:drums    value:orange     legend:Drums 
+  id:studio   value:black      legend:Studio_albums 
+ 
+ LineData = 
+  layer:back 
+  at:07/03/2000 color:studio 
+  at:17/09/2002 color:studio 
+  at:20/09/2005 color:studio 
+  at:03/06/2008 color:studio 
+  at:31/08/2010 color:studio 
+  at:21/08/2015 color:studio 
+  at:19/10/2018 color:studio 
+ 
+ BarData = 
+  bar:David text: " David Draiman " 
+  bar:Dan   text: " Dan Donegan " 
+  bar:Fuzz  text: " Steve Kmak " 
+  bar:John  text: " John Moyer " 
+  bar:Mike  text: " Mike Wengren " 
+ 
+ PlotData = 
+  width:11 
+  bar:David from:04/08/1996 till:30/10/2011 color:vocals 
+  bar:David from:23/06/2015 till:end        color:vocals 
+  bar:Dan   from:04/08/1996 till:30/10/2011 color:guitar 
+  bar:Dan   from:23/06/2015 till:end        color:guitar 
+  bar:Fuzz  from:04/08/1996 till:01/07/2003 color:bass 
+  bar:John  from:07/01/2004 till:30/10/2011 color:bass 
+  bar:John  from:23/06/2015 till:end        color:bass 
+  bar:Mike  from:04/08/1996 till:30/10/2011 color:drums 
+  bar:Mike  from:23/06/2015 till:end        color:drums 
+ 
+ }} 
+ 
+ ==Albums== 
+ {| class= " wikitable "  border= " 1 " 
+ |+ Studio albums 
+ !Year 
+ !Title 
+ |- 
+ |2000 
+ |''[[The Sickness]]'' 
+ |- 
+ |2002 
+ |''[[Believe (Disturbed album)|Believe]]'' 
+ |- 
+ |2005 
+ |''[[Ten Thousand Fists]]'' 
+ |- 
+ |2008 
+ |''[[Indestructible (Disturbed album)|Indestructible]]'' 
+ |- 
+ |2010 
+ |''[[Asylum (Disturbed album)|Asylum]]'' 
+ |- 
+ |2015 
+ |''[[Immortalized (Disturbed album)|Immortalized]]'' 
+ |- 
+ |2018 
+ |''[[Evolution (Disturbed album)|Evolution]]'' 
+ |} 
+ {| class= " wikitable "  border= " 1 " 
+ |+ Compilation albums 
+ !Year 
+ !Title 
+ |- 
+ |2011 
+ |''The Lost Children'' 
+ |} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:1994 establishments in Illinois]] 
+ [[Category:1990s American music groups]] 
+ [[Category:2000s American music groups]] 
+ [[Category:2010s American music groups]] 
+ [[Category:American heavy metal bands]] 
+ [[Category:Musical groups established in 1994]] 
+ [[Category:Musical groups from Chicago]]

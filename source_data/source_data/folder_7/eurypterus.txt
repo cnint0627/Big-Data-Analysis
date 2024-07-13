@@ -1,0 +1,34 @@
+{{Automatic taxobox 
+ | display_parents = 2 
+ | taxon = Eurypterus 
+ | authority = [[James Ellsworth De Kay|De Kay, 1825]] 
+ | fossil_range = [[Silurian]], {{fossil range|432|418.1}} 
+ | image = Eurypterus Paleoart.jpg 
+ | image_caption =[[Paleoart|Artist's reconstruction]] of ''Eurypterus'' in life. 
+ | type_species = ''Eurypterus remipes'' 
+ | type_species_authority =De Kay, 1825 
+ | subdivision_ranks = [[Species]] 
+ | subdivision =See [[Eurypterus#Species|text]] 
+ |range_map=Eurypterus distribution.png 
+ |range_map_caption=Collection sites of ''Eurypterus'' [[fossil]]s. < ref name= " paleodb " > {{cite web|url=http://paleodb.org/cgi-bin/bridge.pl?a=checkTaxonInfo & taxon_no=18968 & is_real_user=1|title=''Eurypterus''|publisher=Paleobiology Database|access-date=May 20, 2011}} < /ref > 
+ |synonyms=''Baltoeurypterus''  < small > Størmer, 1973 < /small > 
+ |range_map_alt= 
+ }} 
+ '''''Eurypterus''''' is a type of extinct [[sea scorpion]]. It is the most famous type of sea scorpion, although it was far from the largest. It lived during the [[Silurian]] era and out has been found in the [[United States]], [[Canada]] and [[Europe]]. The first ''Eurypterus'' fossil was discovered in 1818. < ref > {{cite web|url=http://www.ucmp.berkeley.edu/arthropoda/chelicerata/eurypteridfr.html|title=Eurypterida: Fossil Record|publisher=University of California Museum of Paleontology|access-date=May 21, 2011}} < /ref >   
+ 
+ {{multiple image 
+  | align     = left 
+  | footer    = Dorsal and ventral aspects of ''Eurypterus tetragonophthalmus'', from Jan Nieszkowski's 1858 dissertation 
+  | width     = 180 
+  | image1    = De euryptero remipede Nieszkowski Tafel I.JPG 
+  | image2    = De euryptero remipede Nieszkowski Tafel II.JPG 
+ }} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Chelicerata]] 
+ [[Category:Extinct species]] 
+ 
+ 
+ {{biology-stub}}

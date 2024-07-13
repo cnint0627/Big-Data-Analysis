@@ -1,0 +1,24 @@
+{{otheruses}} 
+ [[File:The National Archives UK - CO 1069-139-51.jpg|thumb|200px|Code flags]] 
+ 
+ A '''code''' is a way of changing information into something else.  Sometimes this is done as a way of keeping a message [[secret]]. This is called [[encryption]] or [[cryptography]]. < ref > Kahn, David 1967. ''The Codebreakers {{ndash}} the story of secret writing''. {{ISBN|0-684-83130-9}} < /ref >   
+ One source gives this explanation: a code is  " a word, number or some other symbol used to represent a word, [[phrase]] or [[syllable]] in [[plaintext]] " . < ref > Newton, David E. 1997. ''Encyclopedia of cryptology''. Instructional Horizons, Santa Barbara, p58. {{ISBN|1-85109-323-0}} < /ref >  It is one of the earliest forms of [[cryptography]]. Contrast code with [[cypher]], in which the individual letters are encrypted (changed). 
+ 
+ Sometimes it is done as an easier way of sending a message.  For example, when people on two different boats want to send a message, they may be too far away to shout, but they can send messages with a flag code.  Another code that people use is called [[Morse code]], which changes letters to dots and dashes, like this: 
+ 
+   [[SOS]]:   '''···−−−···''' 
+ 
+ Computers use codes, by changing letters into 1's and 0's. This method was invented for [[punched tape]]. Now the usual alphanumeric code is [[ASCII]]. 
+ 
+ Some people write codes as a kind of [[game]].  They think it is fun to make ciphers, and fun to break them.  Breaking a code means taking it apart to understand how it works, and then you can understand messages that are written in that code. [[Cryptanalysis]] is also serious business. Nations and other organizations have been breaking each other's ciphers for many centuries. 
+ 
+ The [[algorithm]] (code) for making a message secret is called the [[encryption]] algorithm.  To change a secret message back a [[decryption]] algorithm is needed. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Related pages == 
+ *[[Character encoding]] 
+ 
+ [[Category:Cryptography]] 
+ [[Category:Human communication]]

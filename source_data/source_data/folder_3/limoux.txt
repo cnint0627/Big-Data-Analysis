@@ -1,0 +1,186 @@
+{{Infobox French commune 
+ |name                    = Limoux 
+ |native name             =  
+ |commune status          = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image flag              =  
+ |image flag size         =  
+ |flag legend             =  
+ |image coat of arms      = Blason ville fr Limoux (Aude).svg 
+ |image coat of arms size =  
+ |coat of arms legend     =  
+ |city motto              =  
+ |image                   = France-Limoux-Pont neuf1.jpg 
+ |caption                 = ''Pont-Neuf'' of Limoux 
+ |map                     =  
+ |adjustable map    =  
+ |time zone             =  
+ |coordinates             = {{coord|43.0578|2.2192|format=dms|display=inline,title}} 
+ |arrondissement          = Limoux 
+ |canton                  = Région-Limouxine 
+ |subdivisions entry      =  
+ |subdivisions            =  
+ |intercommunality        = Le Limouxin 
+ |mayor                   = Jean-Paul Dupré < ref > {{cite web |url=http://www.limoux.fr/index.php/la-mairie-de-limoux-a-votre-service/vie-municipale/conseil-municipal |title=Conseil municipale |publisher=Commune de Narbonne |language= |accessdate=21 March 2017 |date= }} < /ref > 
+ |party                   =  
+ |term                    = 2014 - 2020 
+ |elevation m             = 448 
+ |elevation min m         = 156 
+ |elevation max m         = 740 
+ |area km2                = 32.41 
+ |population demonym      = Limouxins 
+ |population              = 10275 
+ |population ranking      =  
+ |population date         = 2014 
+ |urban area km2         =  
+ |urban area date        =  
+ |urban pop              =  
+ |urban pop date         =  
+ |metro area km2         =  
+ |metro area date        =  
+ |metro area pop         =  
+ |metro area pop date    =  
+ |INSEE                   = 11206 
+ |postal code             = 11300 
+ |website                 = [http://www.limoux.fr/ www.limoux.fr] 
+ }} 
+ '''Limoux''' ({{lang-oc|Limós}}) is a [[France|French]] [[Communes of France|commune]], a ''[[Prefectures in France|subprefecture]]'' in the [[Aude]] [[Departments of France|department]]. It is in the [[Occitanie]] [[Regions of France|region]]. It is also the [[Capital city|capital]] of the ''arrondissement'' of [[Arrondissement of Limoux|Limoux]]. 
+ 
+ ==Geography== 
+ Limoux is along the [[Aude (river)|Aude]] river and is about {{convert|30|km|mi|abbr=on}} due south of [[Carcassonne]]. 
+ 
+ The ''commune'' of Limoux has an area of {{Convert|32.4|km2|sqmi|abbr=on }}. < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-11206 |title=Commune de Limoux (11206) |work=Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=21 March 2017 |date= }} < /ref >  Its average [[altitude]] is {{Convert|448|m|ft|abbr=on}} and the [[City and town halls|city hall]] is an altitude of {{Convert|169|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Limoux-11300/ |title=City of Limoux |publisher=Map-France.com |language= |accessdate=21 March 2017 |date= }} < /ref > 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Limoux and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 11206.png|350px|Map of the ''commune'' of Limoux]] 
+ |} 
+ < /center > 
+ 
+ The ''commune'' of Limoux is surrounded by the ''communes'': 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Limoux 
+ |North     = [[Pieusse]] < br / > [[Cépie]] < br / > [[Saint-Martin-de-Villereglan]] 
+ |Northeast =  
+ |East      = [[Véraza]] < br / > [[Saint-Polycarpe]] < br / > [[Villar-Saint-Anselme]] 
+ |Southeast =  
+ |South     = [[Magrie]] < br / > [[Cournanel]] < br / > [[Alet-les-Bains]] 
+ |Southwest =  
+ |West      = [[Gaja-et-Villedieu]] < br / > [[Malras]] < br / > [[La Digne-d'Aval]] 
+ |Northwest =  
+ }} 
+ 
+ ===Climate=== 
+ The climate of Limoux, in the [[Köppen climate classification]], is '''Cfb''' - [[oceanic climate]] with warm summers. < ref > {{cite web |work=Annuaire-Mairie.fr |publisher= |title=La ville de Limoux |url=http://www.annuaire-mairie.fr/ville-limoux.html |language=French |accessdate=22 March 2017}} < /ref > 
+ 
+ ==Population== 
+ The inhabitants of Limoux are known, in [[French language|French]], as ''Limouxins'' (women: ''Limouxines''). < ref > {{cite web|url=http://www.habitants.fr/habitants_departement_aude_11.html |title=Aude (11) |publisher=habitants.fr |language=French |accessdate=16 July 2015 |date= }} < /ref > 
+ 
+ With a population of 10,275, < ref name=insee > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep11.pdf |title=Régions, départements, arrondissements, cantons et communes |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=French |accessdate=22 March 2017|date= }} < /ref >  Limoux has a [[population density]] of {{Pop density|10275|32.41|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+        
+ '''Evolution of the population in Limoux''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:15000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:5000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:2500 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2006 text:2006 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 10824 
+  bar:1975 from:0 till: 11101 
+  bar:1982 from:0 till: 10206 
+  bar:1990 from:0 till: 9665 
+  bar:1999 from:0 till: 9411 
+  bar:2006 from:0 till: 9680 
+  bar:2014 from:0 till: 10275 
+ 
+ PlotData= 
+  bar:1968 at: 10824 fontsize:S text: 10,824 shift:(-12,5) 
+  bar:1975 at: 11101 fontsize:S text: 11,101 shift:(-17,5) 
+  bar:1982 at: 10206 fontsize:S text: 10,206 shift:(-17,5) 
+  bar:1990 at: 9665 fontsize:S text: 9,665 shift:(-13,5) 
+  bar:1999 at: 9411 fontsize:S text: 9,411 shift:(-13,5) 
+  bar:2006 at: 9680 fontsize:S text: 9,680 shift:(-13,5) 
+  bar:2014 at: 10275 fontsize:S text: 10,275 shift:(-17,5) 
+ < /timeline > 
+ < /center > 
+ 
+ Limoux forms, with other 4 ''communes'', the [[urban area]] of Limoux with a population of 12,883 inhabitants (2013) and an area of {{Convert|64.8|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=UU2010-11301 |title=Unité urbaine de Limoux (11301) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=22 March 2017|date= }} < /ref >  This urban area is the centre of the [[metropolitan area]] of Limoux, formed by 16 ''communes'' with a population of 15,560 inhabitants (2013) and an area of {{Convert|150.6|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=AU2010-296 |title=Aire urbaine de Limoux (296) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=22 March 2017|date= }} < /ref > 
+ 
+ == Administration == 
+ Limoux is a [[Prefectures in France|subprefecture]] of the Aude department, the capital of the ''arrondissement'' of [[Arrondissement of Limoux|Limoux]] and the [[administrative centre]] ({{lang-fr|chef-lieu}}) of the [[Cantons of France|canton]] [[Canton of La Région Limouxine|La Région Limouxine]], with 19,978 inhabitants  < small > (2014) < /small > . 
+ 
+ It is part of the [[Communes of France|intercommunality]] ''Le Limouxin'' ({{lang-fr|Communauté de communes du Limouxin}}). 
+ 
+ === Twinned and partner towns === 
+ Limoux is [[Twin town|twinned]] with: 
+ * {{flagicon|ESP}} [[Sant Joan de Vilatorrada]], [[Catalonia]], [[Spain]] 
+ 
+ ==Culture== 
+ [[Image:France-Carnaval de Limoux2.jpg|270px|thumb|right|The Carnival]] 
+ The town is well known for its [[wine]] called [[Limoux wine]]. It also has a [[Winter]] [[festival]] called ''Fècos''. It is often called ''Carnaval de Limoux'' in France. It is usually between [[January]] and [[Easter]]. 
+ 
+ ===Markets=== 
+ * Weekly [[market]] every Friday (or Thursday if a public holiday falls on a Friday). 
+ * [[Flea market]] or ''Brocante'' the first Sunday of each month on the Promenade du Tivoli. 
+ * Evening markets on Tuesdays in [[July]] and [[August]]. 
+ 
+ ===Places of interest=== 
+ * The Musée Petiet ([[Tourism|Tourist]] Information Office), 
+ * Musée du Piano ([[Museum]] of the [[piano]]) 
+ * CathaRama (a history of the [[Catharism|Cathar]] movement). 
+ * Winery tours at Sieur d'Arques and Aimery. 
+ * [[Jardin aux Plantes la Bouichère]] - Flassian, 2 hectares of gardens which is home to various collections of increasingly rare plant varieties. 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Eglise-StMartinLimoux-041212.jpg|''Saint-Martin de Limoux'' [[church]]. 
+ File:Basilique-ND-de-Marceille.jpg|''Notre Dame de Marceille'' [[Basilica]]. 
+ File:Hôtel de ville de Limoux001.JPG|Limoux [[City and town halls|town hall]]. 
+ File:France Limoux lycee Jacques Ruffie.JPG|Jacques Ruffie [[school]]. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Limoux]] 
+ * [[Communes of the Aude department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat}} 
+ * [http://www.limoux.fr/ Mairie de Limoux website] {{in lang|fr}} 
+ * [http://www.aude-aude.com/content/view/39/48/ Photos of Limoux] 
+ * [http://aude-limoux.blogspot.com/ Aude in photos: Limoux (163 photos)] {{Webarchive|url=https://web.archive.org/web/20110708024233/http://aude-limoux.blogspot.com/ |date=2011-07-08 }} 
+ * [http://limouxins.site.voila.fr/index2.html Site de la Bande de Carnaval de Limoux ’Les Limouxins’] {{Webarchive|url=https://web.archive.org/web/20090901152719/http://limouxins.site.voila.fr/index2.html |date=2009-09-01 }} 
+ 
+ {{Aude communes}} 
+ 
+ [[Category:Communes in Aude]] 
+ [[Category:Subprefectures in France]]

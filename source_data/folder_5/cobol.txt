@@ -1,0 +1,16 @@
+'''COBOL''' is a [[programming language]] that was developed in the year 1959. It was one of the first [[computer]] programming languages. The name COBOL stands for '''''CO'''mmon '''B'''usiness-'''O'''riented '''L'''anguage''. 
+ ==Background== 
+ COBOL was created because people wanted a language they could use to describe the problems in a way that is independent of the hardware used. Like [[SQL]] COBOL uses a [[syntax]] that is close to that of natural languages. As an example,  '''''ADD''' YEARS '''TO''' AGE'' is a valid expression. 
+ ==History== 
+ There are several different versions of COBOL. The newest is from [[2002]]. In general, versions of the language before [[1985]] are not compatible with the newer versions, from 1985 and later.  
+ 
+ In his letter to an editor in [[1975]] titled  " How do we tell truths that might hurt? " , computer scientist and [[Turing Award]] recipient [[Edsger Dijkstra]] remarked that  " The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense. " < ref name= " Dijkstra1 " > {{Cite web|url=http://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD498.html|title=E. W. Dijkstra Archive: How do we tell truths that might hurt? (EWD498)|access-date=August 29, 2007|publisher=University of Texas at Austin|year=2006|author=Dijkstra }} < /ref >  In this letter, Dijkstra also criticised several other languages which were used at the time. 
+ 
+ In recent years, COBOL has been extended to allow [[object-oriented programming]], user-defined functions, and user-defined data types.  
+ ==Reputation== 
+ The [[computer scientist]] Howard E. Tompkins disagreed, and defended structured COBOL:  " COBOL programs with convoluted control flow indeed tend to 'cripple the mind' " , but this was because  " there are too many such business application programs written by programmers that have never had the benefit of structured COBOL taught well... " . < ref > " ''In Defense of Teaching Structured COBOL as Computer Science'' " , Howard E. Tompkins, ACM SIGPLAN Notices, Vol. 18, Issue 4, April 1983. < /ref > 
+ ==References== 
+ {{reflist}} 
+ {{authority control}} 
+ [[Category:Programming languages]] 
+ [[Category:Acronyms]]

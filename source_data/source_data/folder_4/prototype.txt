@@ -1,0 +1,21 @@
+A '''prototype''' is an original type, form, or instance of something. (usually in [[engineering]]) It serves as a typical example or standard for things of the same category. Some prototypes are used to find defects or to test an idea. '''''Building a prototype of each idea and testing them is a good way to choose a final design.''''' 
+ 
+ ==Different kinds== 
+ [[File:Peugeot-touareg.jpg|thumb|Peugeot Touareg prototype (concept car)]] 
+ Prototypes are built for different reasons: < ref > {{cite journal |last1=Lai |first1=Chun Sing |last2=Locatelli |first2=Giorgio |title=Valuing the option to prototype: A case study with Generation Integrated Energy Storage |journal=Energy |date=February 2021 |volume=217 |pages=119290 |doi=10.1016/j.energy.2020.119290|doi-access=free }} < /ref > 
+ *'''Proof of principle prototype''' (or model): Shows that something can be done.  These kinds of prototypes are built to test a part of the design. These prototypes do not look like the finished product, in most cases. Such prototypes are used to show that certain design choices will work or will not work. < ref > {{Cite web|url=https://3d-printing-expert.com/proof-of-principle-prototype/|title=Proof-of-Principle Prototype|website=3d-printing-expert.com|access-date=2019-12-15}} < /ref > 
+ *'''Form-study prototype''' (model): This tries to show what the finished design will look like, but without the function. Such prototypes allow to take decisions about the exact shape, size, or ergonomic properties.  This lets a designer see if things fit together, and will feel right. 
+ *'''Visual prototype''': These will look like the actual product, and are used for market research. They do not have any of the functionality of the final product. An example is a ''concept'' car at a car show.  It may look like a new car but may not even have an engine. < ref > {{Cite web|url=https://3d-printing-expert.com/what-is-a-visual-prototype/|title=What Is A Visual Prototype|website=3d-printing-expert.com|access-date=2019-12-15}} < /ref > 
+ *'''User experience prototype''' represents enough of the appearance and function of the product  that it can be used for user research. < ref > {{Cite web|url=https://waykenrm.com/|title=Prototyping services|access-date=2020-02-25}} < /ref > 
+ *'''Functional prototype''': These will behave and act like the final product as much as possible. For cost reasons, they may be smaller in size, or they may not have the final look of the product. < ref > {{Cite web|url = http://www.thomasnet.com/articles/engineering-consulting/general-prototypes|title = Prototypes: General Categories|access-date = 13 July 2015|website = ThomasNet|archive-date = 16 January 2017|archive-url = https://web.archive.org/web/20170116213805/http://www.thomasnet.com/articles/engineering-consulting/general-prototypes|url-status = dead}} < /ref > 
+ *'''Paper prototype''' is a printed or hand-drawn representation of the user interface of a software product. Such prototypes are commonly used for early testing of a software design, and can be part of a  software walkthrough to confirm design decisions before more costly levels of design effort are expended. < ref > {{Cite web|url=http://cs.brown.edu/courses/uxisp/slides/prototyping.pptx|title=Prototyping|website=Brown University - User Experience, Independent Study Project|access-date=2015-02-24}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Commons}} 
+ 
+ 
+ {{stub}} 
+ 
+ [[Category:Manufacturing]]

@@ -1,0 +1,132 @@
+{{Infobox Italian comune 
+ | name                = Gambarana 
+ | official_name       = Comune di Gambarana 
+ | native_name         =  
+ | image_skyline       =  
+ | imagesize           =  
+ | image_alt           =  
+ | image_caption       =  
+ | image_shield        =  
+ | shield_alt          =  
+ | image_map           =  
+ | map_alt             =  
+ | map_caption         =  
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates         = {{coord|45|2|N|8|46|E|type:city(267)_region:IT|display=inline,title}} 
+ | coordinates_footnotes =  
+ | region              = [[Lombardy]] 
+ | province            = [[Province of Pavia]] (PV) 
+ | frazioni            =  
+ | mayor_party         =  
+ | mayor               =  
+ | area_footnotes      =  
+ | area_total_km2      = 11.78 
+ | population_footnotes =  
+ | population_total    = 267 
+ | population_as_of    = Dec. 2004 
+ | pop_density_footnotes =  
+ | population_demonym  = Gambaranesi 
+ | elevation_footnotes =  
+ | elevation_m         = 83 
+ | twin1               =  
+ | twin1_country       =  
+ | saint               =  
+ | day                 =  
+ | postal_code         = 27030 
+ | area_code           = 0384 
+ | website             =  
+ | footnotes           =  
+ }} 
+ '''Gambarana''' is a ''[[comune]]'' (municipality) in the [[Province of Pavia]] in the [[Italy|Italian]] region of [[Lombardy]]. It is about 60 & nbsp;km southwest of [[Milan]] and about 35 & nbsp;km southwest of [[Pavia]]. As of 31 December 2004, 267 people lived there. It has an area of 11.78 & nbsp;km². < ref name= " istat " > All demographics and other statistics: Italian statistical institute [[National Institute of Statistics (Italy)|Istat]]. < /ref > 
+ 
+ Gambarana is next to these municipalities: [[Bassignana]], [[Frascarolo]], [[Isola Sant'Antonio]], [[Mede, Lombardy|Mede]], [[Pieve del Cairo]], [[Suardi]]. 
+ 
+ == Demographic change == 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.8) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize  = width:455 height:303 
+ PlotArea   = left:50 bottom:50 top:30 right:30 
+ DateFormat = x.y 
+ Period     = from:0 till:2000 
+ TimeAxis   = orientation:vertical 
+ AlignBars  = justify 
+ ScaleMajor = gridcolor:darkgrey increment:1000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:200 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+   bar:1861 text:1861 
+   bar:1871 text:1871 
+   bar:1881 text:1881 
+   bar:1901 text:1901 
+   bar:1911 text:1911 
+   bar:1921 text:1921 
+   bar:1931 text:1931 
+   bar:1936 text:1936 
+   bar:1951 text:1951 
+   bar:1961 text:1961 
+   bar:1971 text:1971 
+   bar:1981 text:1981 
+   bar:1991 text:1991 
+   bar:2001 text:2001 
+ 
+ PlotData= 
+   color:barra width:20 align:left 
+ 
+   bar:1861 from: 0 till:1001 
+   bar:1871 from: 0 till:1155 
+   bar:1881 from: 0 till:1154 
+   bar:1901 from: 0 till:1121 
+   bar:1911 from: 0 till:950 
+   bar:1921 from: 0 till:852 
+   bar:1931 from: 0 till:755 
+   bar:1936 from: 0 till:722 
+   bar:1951 from: 0 till:720 
+   bar:1961 from: 0 till:602 
+   bar:1971 from: 0 till:447 
+   bar:1981 from: 0 till:359 
+   bar:1991 from: 0 till:309 
+   bar:2001 from: 0 till:281 
+ 
+ PlotData= 
+ 
+   bar:1861 at:1001 fontsize:XS text: 1001 shift:(-8,5) 
+   bar:1871 at:1155 fontsize:XS text: 1155 shift:(-8,5) 
+   bar:1881 at:1154 fontsize:XS text: 1154 shift:(-8,5) 
+   bar:1901 at:1121 fontsize:XS text: 1121 shift:(-8,5) 
+   bar:1911 at:950 fontsize:XS text: 950 shift:(-8,5) 
+   bar:1921 at:852 fontsize:XS text: 852 shift:(-8,5) 
+   bar:1931 at:755 fontsize:XS text: 755 shift:(-8,5) 
+   bar:1936 at:722 fontsize:XS text: 722 shift:(-8,5) 
+   bar:1951 at:720 fontsize:XS text: 720 shift:(-8,5) 
+   bar:1961 at:602 fontsize:XS text: 602 shift:(-8,5) 
+   bar:1971 at:447 fontsize:XS text: 447 shift:(-8,5) 
+   bar:1981 at:359 fontsize:XS text: 359 shift:(-8,5) 
+   bar:1991 at:309 fontsize:XS text: 309 shift:(-8,5) 
+   bar:2001 at:281 fontsize:XS text: 281 shift:(-8,5) 
+ 
+ TextData= 
+   fontsize:S pos:(20,20) 
+   text:Data from ISTAT 
+ 
+ < /timeline > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * {{Commonscat-inline}} 
+ 
+ {{Province of Pavia}} 
+ {{authority control}} 
+ 
+ [[Category:Settlements in Pavia]] 
+ 
+ 
+ {{europe-stub}}

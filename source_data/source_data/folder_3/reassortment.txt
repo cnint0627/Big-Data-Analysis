@@ -1,0 +1,20 @@
+[[Image:Reassortment.svg|300px|thumb | The process of reassortment in biotechnology]] 
+ 
+ '''Reassortment''' is mixing of the [[genes|genetic material]] of a [[species]] into new combinations in different individuals.  
+ 
+ There are several ways this happens. < ref > {{cite book |author1=Alberts B. |author2=Bray D. |author3=Roberts K. |author4=Lewis J. |author5=Raff M. |title=Essential cell biology: an introduction to the molecular biology of the cell |publisher=Taylor  &  Francis |year=1997 |url=https://books.google.com/books?id=inZWDr4h1aIC |isbn=978-0-8153-2045-6 }} < /ref >  The term is  used when two similar [[virus]]es infecting the same cell exchange genetic material. In particular, reassortment occurs among [[Orthomyxoviridae|influenza viruses]]. Their genomes have eight segments of RNA. These segments act like mini-chromosomes: each time a flu virus is assembled, it needs one copy of each segment. 
+ 
+ A single host (a human, a chicken, or other animal) may be infected by two different strains of the influenza virus. Then it is possible that new assembled viral particles will be made from segments whose origin is mixed, some coming from one strain and some coming from another. The new reassorted strain will share properties from both  parental lineages. 
+ 
+ Reassortment is responsible for some of the major changes in the history of the influenza virus. The 1957 and 1968 [[pandemic]] flu strains were caused by reassortment between an avian virus and a human virus. The [[H1N1]] virus responsible for the [[2009 swine flu pandemic]] has an unusual mix of swine, avian and human influenza genetic sequences. < ref name= " NewSci-20090424-pandemic " > {{cite news|url=https://www.newscientist.com/article/dn17025-deadly-new-flu-virus-in-us-and-mexico-may-go-pandemic.html|title=Deadly new flu virus in US and Mexico may go pandemic|work=[[New Scientist]]|date=2009-04-24|access-date=2009-04-26}} < /ref > 
+ 
+ There are other examples, but this is enough to indicate why reassortment causes such dangerous illness. < ref > Barry RD. The multiplication of influenza virus. II. Multiplicity reactivation of ultraviolet irradiated virus.  Virology. 1961 Aug;14:398-405.  {{PMID|13687359}} DOI: 10.1016/0042-6822(61)90330-0 < /ref > < ref > Henle W, Liu OC. Studies on host-virus interactions in the chick embryo-influenza virus system. VI. Evidence for multiplicity reactivation of inactivated virus.  J Exp Med. 1951 Oct;94(4):305-22.  {{PMID|14888814}} < /ref > < ref > Gilker JC, Pavilanis V, Ghys R. Multiplicity reactivation in gamma irradiated influenza viruses. Nature. 1967 Jun 17;214(5094):1235-7. {{PMID|6066111}} DOI: 10.1038/2141235a0 < /ref >    
+ 
+ If any of a virus’s [[genome]] segments is damaged in such a way as to prevent replication or expression of an essential [[gene]], the virus is inviable when it, alone, infects a host cell (single infection).  However when two or more damaged viruses infect the same cell (multiple infection), the infection may succeed due to reassortment of segments. Each of the eight genome segments may be present in at least one undamaged copy. < ref > Michod R.E; Bernstein H.  &  Nedelcu A.M.  2008. Adaptive value of sex in microbial pathogens.  ''Infect Genet Evol''. 2008 May;8(3):267-85. doi: 10.1016/j.meegid.2008.01.002. Epub 2008 Jan 16. Review.  {{PMID|18295550}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ 
+ [[Category:DNA]] 
+ [[Category:Diseases caused by viruses]]

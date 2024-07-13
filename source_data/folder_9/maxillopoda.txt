@@ -1,0 +1,40 @@
+{{Taxobox 
+ | fossil_range =  [[Cambrian]] to Recent 
+ | image = Cyclops.jpg 
+ | image_caption = ''[[Cyclops (genus)|Cyclops]]'' ([[Copepod]]a: [[Cyclopoida]]) 
+ | regnum = [[Animal]]ia 
+ | unranked superphylum = [[Panarthropoda]] 
+ | phylum = [[Arthropod]]a 
+ | subphylum = [[Crustacean|Crustacea]] 
+ | classis = '''Maxillopoda''' 
+ | classis_authority = [[Erik Dahl|Dahl]], 1956 & nbsp; < ref > {{ITIS |id=621145 |taxon=Maxillopoda |accessdate=October 7, 2010}} < /ref > 
+ | subdivision_ranks = [[Subclass (biology)|Sub-classes]] 
+ | subdivision =  
+ *[[Thecostraca]] incl. [[Cirripedia]] (barnacles) 
+ *[[Tantulocarida]] 
+ *[[Branchiura]] 
+ *[[Pentastomida]] 
+ *[[Mystacocarida]] 
+ *[[Copepod]]a 
+ }} 
+ 
+ '''Maxillopoda''' is a diverse [[class (biology)|class]] of [[crustacean]]s which includes the [[barnacle]]s, [[copepod]]s and a number of related animals. 
+ 
+ It does not appear to be a [[monophyletic]] group, and no single character unites all the members. < ref name= " M & D " > {{cite book |url=http://atiniui.nhm.org/pdfs/3839/3839.pdf |title=An updated classification of the Recent Crustacea |author=Joel W. Martin  &  George E. Davis |year=2001 |pages=132 |publisher=Natural History Museum of Los Angeles County |access-date=2011-09-12 |archive-date=2013-05-12 |archive-url=https://web.archive.org/web/20130512091254/http://atiniui.nhm.org/pdfs/3839/3839.pdf |url-status=dead }} < /ref > 
+ 
+ == Description == 
+ With the exception of some barnacles, maxillopodans are mostly small, < ref name= " UCMP " > {{cite web |url=http://www.ucmp.berkeley.edu/arthropoda/crustacea/maxillopoda.html |title=Introduction to Maxillopoda |publisher=[[University of California, Berkeley]] |accessdate=December 31, 2009}} < /ref >  including the smallest known arthropod, ''Stygotantulus stocki''. < ref name= " M & D " / >  They often have short bodies, with the [[abdomen]] reduced in size, and generally lacking any [[appendage]]s & nbsp; < ref name= " UCMP " / >  This may have arisen through [[paedomorphosis]]. < ref name= " UCMP " / > 
+ 
+ Apart from barnacles, which use their legs for [[filter feeding]], most maxillopodans feed with their [[maxilla]]e. Their bodyplan has 5 head segments, 6 [[Thorax|thoracic]] segments and 4 abdominal segments, followed by a [[telson]] (tailpiece). < ref > {{cite web |author=Phil Myers |year=2001 |title= " Maxillopoda "   |work=Animal Diversity Web |accessdate=December 31, 2009 |url=http://animaldiversity.ummz.umich.edu/site/accounts/information/Maxillopoda.html}} < /ref > 
+ 
+ == Fossil record == 
+ The [[fossil]] record of the group extends back into the [[Cambrian]], with fossils of [[barnacle]]s and [[Pentastomida|tongue worms]] known from that period. < ref > {{cite book |author=B.A. Foster  &  J.S. Buckeridge |year=1987 |chapter=Barnacle palaeontology |pages=41–63 |title=Crustacean Issues 5: Barnacle biology |editor=A.J. Southward |isbn=90-6191-628-3}} < /ref > < ref > {{cite journal |title=A new Late Cambrian pentastomid and a review of the relationships of this parasitic group |author=Dieter Waloszek, John E. Repetski  &  Andreas Maas |journal=Transactions of the Royal Society of Edinburgh: Earth Sciences |year=2005 |volume=96 |issue=2 |pages=163–176 |doi=10.1017/S0263593300001280|s2cid=84859920 }} < /ref > 
+ 
+ == Classification == 
+ Six subclasses are generally recognised, although many works have included the [[ostracod]]s among the Maxillopoda. < ref name= " M & D " / >  Of the six groups, only [[Mystacocarida]] are entirely free-living; all the members of the [[Tantulocarida]], [[Pentastomida]] and [[Branchiura]] are [[parasite|parasitic]], and many of the [[Copepod]]a and [[Thecostraca]] are parasites. 
+ 
+ == References == 
+ {{commonscat}} 
+ {{reflist}} 
+ 
+ [[Category:Crustaceans]]

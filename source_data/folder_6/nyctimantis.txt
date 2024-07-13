@@ -1,0 +1,55 @@
+{{italictitle}} 
+ {{Automatic taxobox 
+ | image = Perereca-de-capacete - Aparasphenodon bokermanni.jpg 
+ | image_caption = ''[[Nyctimantis bokermanni]]'' 
+ | taxon = Nyctimantis   
+ | authority = Boulenger, 1882 
+ | subdivision = see [[#Species|text]] 
+ | synonyms = * ''Aparasphenodon''  < small > [[Alípio do Miranda-Ribeiro|Miranda-Ribeiro]], 1920 < /small > 
+ }} 
+ '''''Nyctimantis''''' is a genus of [[frog]]s in the family [[Hylidae]]. These frogs live in southeastern Brazil and in the [[Orinoco|Orinoco Basin]] in Venezuela, Colombia, and Brazil. < ref name=Frost/ > < ref name= " Assis et al. 2013 " / >  They live in trees.  They hide in small pockets of water in [[bromeliad|plants]] that live on the branches and trunks of [[epiphytic|trees]]. The top of the frog's head has a bony plate on it.  The bone plate is grown into the skin. 
+ 
+ ==Species== 
+ Scientists say these frogs are in ''Nyctimantis'': < ref name=Frost/ > < ref name=AmphibiaWeb/ > 
+ 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !Binomial Name and Author!! Common Name 
+ |- 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nyctimantis arapapa]]'' {{small|(Pimenta, Napoli  &  Haddad, 2009)}} || Bahia's broad-snout casque-headed tree frog 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Nyctimantis bokermanni]]'' {{small|(Pombal, 1993)}} || Bokermann's casque-headed frog 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nyctimantis brunoi]]'' {{small|(Miranda-Ribeiro, 1920)}} || Bruno's casque-headed frog 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Nyctimantis galeata]]'' {{small|(Pombal, Menezes, Fontes, Nunes, Rocha, and Van Sluys, 2012)}} ||  
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nyctimantis pomba]]'' {{small|(Assis, Santana, Silva, Quintela, and Feio, 2013)}} ||  
+ |-style= " background:#FFFDFF; " 
+ | ''[[Nyctimantis rugiceps]]'' {{small|(Boulenger, 1882)}} || Brown-eyed treefrog  
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nyctimantis siemersi]]'' {{small|(Mertens, 1937)}} || Red-spotted Argentina frog 
+ |-style= " background:#FFFDFF; " 
+ |- 
+ |} 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=http://www.amphibiaweb.org/lists/Hylidae.shtml|title=Hylidae |year=2017 |work=AmphibiaWeb |publisher=University of California, Berkeley |accessdate=2 May 2017}} < /ref > 
+ 
+ < ref name= " Assis et al. 2013 " > {{cite journal|last1=Assis|first1=C. L.|last2=Santana |first2=D. J.|last3=da Silva |first3=F. A.|last4=Quintela |first4=F. M.|last5=Feio |first5=R. N. |title=A new and possibly critically endangered species of casque-headed tree frog ''Aparasphenodon'' Miranda-Ribeiro, 1920 (Anura, Hylidae) from southeastern Brazil |journal=Zootaxa |date=25 September 2013 |volume=3716 |issue=4 |pages=583–591 |doi=10.11646/zootaxa.3716.4.6|pmid=26106793}} < /ref > 
+ 
+ < ref name=Frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Hylidae/Lophyohylinae/Aparasphenodon |title=''Aparasphenodon'' Miranda-Ribeiro, 1920 |author=Frost, Darrel R. |year=2017 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=1 May 2017}} < /ref > 
+ }} 
+ * {{aut|Trueb, L.}} (1970b): The evolutionary relationships of casque-headed treefrogs with co-ossified skulls (family Hylidae). - ''Univ. Kansas Publ. Mus. Nat. Hist''. '''18''', pp. [547-716] 
+ 
+ ==Other websites== 
+ * {{aut|eol - Encyclopedia of Life}} taxon [https://web.archive.org/web/20081005185701/http://www.eol.org/taxa/16142079 ''Aparasphenodon''] at http://www.eol.org. 
+ * {{aut|ITIS - Integrated Taxonomic Information System on-line database}} Taxon [https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN & search_value=207335 ''Aparasphenodon''] at https://web.archive.org/web/20160606043808/http://www.itis.gov/index.html. (Accessed: Apr 24, 2008). 
+ * {{aut|GBIF - Global Biodiversity Information Facility}} Taxon [https://web.archive.org/web/20160303175347/http://data.gbif.org/species/13184640/ ''Aparasphenodon''] at https://web.archive.org/web/20080501142231/http://data.gbif.org/welcome.htm 
+ 
+ {{Taxonbar|from=Q605005}} 
+ 
+ [[Category:Frogs of South America]] 
+ {{biology-stub}}

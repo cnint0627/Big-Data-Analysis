@@ -1,0 +1,7 @@
+'''Annealing''' is the name for a number of processes that change the properties of a piece of work using [[heat]]. In general the piece is heated to a certain [[temperature]], and modelled while it cools off. Specifically, annealing can refer to: 
+ *[[Annealing (metallurgy)]] when [[metal|metals]] are treated 
+ *[[Annealing (glass)]] when a piece of [[glass]] is heated to remove [[Stress (mechanics)|stress]] 
+ *[[Nucleic acid thermodynamics]] when [[DNA]]-like structures are changed 
+ *[[Simulated annealing]] is a method of [[combinatorial optimization]] to find the [[wikt:optimum|optimum]] of a [[function (mathematics)|function]] 
+ *[[Quantum annealing]] is another method of combinatorial optimization  
+ {{disambiguation}}

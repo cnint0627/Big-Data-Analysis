@@ -1,0 +1,116 @@
+{{Infobox settlement 
+ | name                     = Kranj 
+ | native_name              =  
+ | native_name_lang         = sl < !-- ISO 639-2 code e.g.  " fr "  for French. If more than one, use {{lang}} instead -- > 
+ | settlement_type          = City 
+ | image_skyline            = Kranj.jpg 
+ | image_alt                =  
+ | image_caption            = A view of Kranj 
+ | image_flag               = Zastava Kranja.svg 
+ | flag_alt                 =  
+ | image_shield             = Coat of arms of Kranj.svg 
+ | shield_alt               =  
+ | nickname                 =  
+ | motto                    =  
+ | image_map                =  
+ | map_alt                  =  
+ | map_caption              =  
+ | pushpin_map              = Slovenia < !-- Slovenia -- > 
+ | pushpin_label_position   =  
+ | pushpin_map_alt          =  
+ | pushpin_map_caption      = Location of the city of Kranj in Slovenia 
+ | coordinates              = {{coord|46|14|N|14|22|E|region:SI_type:city|display=inline,title}} 
+ | coor_pinpoint            =  
+ | coordinates_footnotes    =  
+ | subdivision_type         = [[List of sovereign states|Country]] 
+ | subdivision_name         = {{flag|Slovenia}} 
+ | subdivision_type1        = Region 
+ | subdivision_name1        = [[Upper Carniola]] 
+ | subdivision_type2        = Municipality 
+ | subdivision_name2        = Kranj 
+ | established_title        =  
+ | established_date         =  
+ | founder                  =  
+ | seat_type                =  < !-- [[Capital (political)|Capital]] -- > 
+ | seat                     =  
+ | government_footnotes     =  
+ | leader_party             =  
+ | leader_title             = Mayor 
+ | leader_name              = Matjaž Rakovec ([[Social Democrats (Slovenia)|SD]]) 
+ | leader_title1            = Deputy Mayor 
+ | leader_name1             = Janez Černe 
+ | leader_title2            = Deputy Mayor 
+ | leader_name2             = Robert Nograšek 
+ | unit_pref                = Metric 
+ | area_footnotes           =  < ref name= " SORS-KRANJ " > {{cite web |url=http://www.stat.si/eng/KrajevnaImena/default.asp?txtIme=KRANJ & selNacin=celo & selTip=naselja & ID=1852 |title=Kranj, Kranj |publisher=Statistical Office of the Republic of Slovenia |access-date=6 September 2012 |work=Place Names}} < /ref > 
+ | total_type               =  
+ | area_total_km2           = 26.3 
+ | area_note                =  
+ | elevation_footnotes      =  < ref > {{cite web |url=http://www.stat.si/letopis/2002/01_02/01-06-02.asp?jezik=en |title=Nadmorska višina naselij, kjer so sedeži občin |language=sl, en |trans-title=Height above sea level of seats of municipalities |year=2002 |publisher=Statistical Office of the Republic of Slovenia |url-status=dead |archive-url=https://web.archive.org/web/20130524220943/http://www.stat.si/letopis/2002/01_02/01-06-02.asp?jezik=en |archive-date=2013-05-24 }} < /ref > 
+ | elevation_m              = 386 
+ | population_footnotes     =  < ref name= " SORS-KRANJ " / > 
+ | population_total         = 37941 
+ | population_as_of         = 1 January 2020 
+ | population_density_km2   = auto 
+ | population_demonym       =  
+ | population_note          =  
+ | timezone1                = [[Central European Time|CET]] 
+ | utc_offset1              = +01 
+ | timezone1_DST            = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST          = +02 
+ | postal_code_type         = Postal code 
+ | postal_code              = 4000 
+ | area_code_type           =  
+ | area_code                = 04 
+ | iso_code                 =  
+ | registration_plate       = KR 
+ | website                  = {{url|http://www.kranj.si}} 
+ | footnotes                = Source: [[Statistical Office of the Republic of Slovenia]], census of 2002 
+ | official_name            =  
+ }} 
+ '''Kranj''' ({{lang-de|Krainburg}}) is the third-largest city in [[Slovenia]]. In 2020, 37,941 people lived there. It is about {{convert|20|km|0|abbr=off}} northwest of [[Ljubljana]]. The city is the seat of the [[City Municipality of Kranj]] and of the traditional region of [[Upper Carniola]]. It is an important industrial city with [[electronics]] and [[rubber]] industries. 
+ 
+ == International relations == 
+ 
+ === Twin towns — Sister cities === 
+ Kranj is [[Town twinning|twinned]] with: 
+ {| class= " wikitable " 
+ |- valign= " top " 
+ | 
+ * {{flagicon|UK}} [[Oldham]], [[England]], [[United Kingdom]] 
+ * {{flagicon|FRA}} [[La Ciotat]], [[France]] 
+ * {{flagicon|ITA}} [[Rivoli]], [[Italy]] 
+ * {{flagicon|BIH}} [[Banja Luka]], [[Bosnia and Herzegovina]] 
+ * {{flagicon|NMK}} [[Bitola]], [[North Macedonia]] 
+ * {{flagicon|NMK}} [[Kočani]], [[North Macedonia]] 
+ * {{flagicon|MNE}} [[Herceg Novi]], [[Montenegro]] 
+ * {{flagicon|ITA}} [[Doberdò del Lago]], [[Italy]] 
+ || 
+ * {{flagicon|TUR}} [[Buyukcekmece]], [[Turkey]] 
+ * {{flagicon|CRO}} [[Osijek]], [[Croatia]] 
+ * {{flagicon|SRB}} [[Zemun]], [[Serbia]] 
+ * {{flagicon|BIH}} [[Kotor Varoš]], [[Bosnia and Herzegovina]] 
+ * {{flagicon|SRB}} [[Senta]], [[Serbia]] 
+ * {{flagicon|CRO}} [[Grožnjan]], [[Croatia]] 
+ * {{flagicon|AUT}} [[Bad Eisenkappel]], [[Austria]] 
+ * {{flagicon|CRO}} [[Pula]], [[Croatia]] 
+ * {{flagicon|GER}} [[Amberg]], [[Germany]] 
+ || 
+ * {{flagicon|SRB}} [[Novi Sad]], [[Serbia]] 
+ * {{flagicon|BIH}} [[Zenica]], [[Bosnia and Herzegovina]] 
+ * {{flagicon|GER}} [[Singen]], [[Germany]] 
+ * {{flagicon|AUT}} [[Villach]], [[Austria]] 
+ * {{flagicon|CZE}} [[Olomouc]], [[Czech Republic]] 
+ * {{flagicon|HUN}} [[Mátranovák]], [[Hungary]] 
+ |} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Commonscat}} 
+ 
+ {{authority control}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Cities in Slovenia]]

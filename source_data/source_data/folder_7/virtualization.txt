@@ -1,0 +1,15 @@
+[[File:VirtualBox2.png|thumb|[[VirtualBox]] uses ''virtualization'']] 
+ '''Virtualization''' (or '''Virtualisation''') is a word used in [[computing]]. Virtualization means that the users (programs, or real people) only see an [[abstraction]] of a computer resource. Virtualization can be done in software, or with hardware. < ref > [https://itcompanies.net/blog/types-of-virtualization Virtualization: what are these, the main types] < /ref >   
+ * [[RAID]]. RAID is used to virtualize computer storage. A RAID system appears as one  " disk " . The fact that it is made of several disks that work together is hidden.  
+ * [[Virtual memory]] makes it possible to use more memory than is physically in the computer. The computer figures out a way to write contents of certain memory blocks to disk. 
+ *[[Storage virtualization]] takes the ideas developed by RAID further. This is what [[Storage area network]]s commonly use. All the storage appears as a single big disk. Certain administrators can specify that this large disk is made of  " data pools "  (which are also virtual). The disk pools are made of single physical disks (or RAID arrays).  
+ *Some computers (mostly [[mainframe]]s) allow to run several [[operating system]]s at the same time. Each operating system believes it is the only one running. 
+ *Data virtualization is used by businesses to put together data from a few sources in one place. This helps applications, reporting tools and end users to access data with no need in details about the source structure, location and original data. < ref > {{Cite web|url=http://www.datawerks.com/|title=dataWerks – Data Virtualization Software|website=www.datawerks.com|language=en-US|access-date=2017-12-13|archive-date=2017-12-12|archive-url=https://web.archive.org/web/20171212193724/http://www.datawerks.com/|url-status=dead}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computing]]

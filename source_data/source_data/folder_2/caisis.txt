@@ -1,0 +1,9 @@
+'''Caisis''' is an ope-source patience management application. < ref > {{cite journal |last1=Fearn |first1=Paul |last2=Regan |first2=Kevin |last3=Sculli |first3=Frank |last4=Fajardo |first4=Jason |last5=Smith |first5=Brandon |last6=Alli |first6=Paul |title=Lessons Learned from Caisis: An Open Source, Web-Based System for Integrating Clinical Practice and Research |journal=Twentieth IEEE International Symposium on Computer-Based Medical Systems (CBMS'07) |date=June 2007 |pages=633–638 |doi=10.1109/CBMS.2007.66 |isbn=978-0-7695-2905-9 |s2cid=27727382 |url=https://ieeexplore.ieee.org/document/4262719}} < /ref >  It was initially released in 2012 under 	GNU General Public License V2 license for Windows platform. < ref > {{Cite book |doi = 10.1109/CBMS.2003.1212759|chapter = A chronological database as backbone for clinical practice and research data management|title = 16th IEEE Symposium Computer-Based Medical Systems, 2003. Proceedings|url = https://archive.org/details/16thieeesymposiu0000ieee|pages = [https://archive.org/details/16thieeesymposiu0000ieee/page/9 9]–15|year = 2003|last1 = Fearn|first1 = P.A.|last2 = Regan|first2 = K.|last3 = Sculli|first3 = F.|last4 = Katz|first4 = J.|last5 = Kattan|first5 = M.W.|isbn = 0-7695-1901-6|s2cid = 34144877}} < /ref > 
+ 
+ ==History== 
+ The software was started from a project at the Department of Urology in [[Memorial Sloan–Kettering Cancer Center]] and later developed at [[BioDigital]]. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ [[Category:Software]]

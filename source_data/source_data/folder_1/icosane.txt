@@ -1,0 +1,71 @@
+{{Chembox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 443869216 
+ | ImageFile =  
+ | ImageFile_Ref =  
+ | ImageSize = 300 
+ | ImageAlt = Structural formula of icosane 
+ | ImageFile1 =  
+ | ImageFile1_Ref =  
+ | ImageSize1 = 300 
+ | ImageAlt1 = Ball and stick model of the icosane molecule 
+ | IUPACName = Icosane < ref > {{Cite web|title=eicosane - Compound Summary|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=8222 & loc=ec_rcs|work=PubChem Compound|publisher=National Center for Biotechnology Information|access-date=4 January 2012|location=USA|date=16 September 2004|at=Identification and Related Records}} < /ref > 
+ |Section1={{Chembox Identifiers 
+ | CASNo = 112-95-8 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 8222 
+ | ChemSpiderID = 7929  
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = 3AYA9KEC48 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | EINECS = 204-018-1 
+ | MeSHName = eicosane 
+ | ChEBI = 43619 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 1233983 
+ | ChEMBL_Ref = {{ebicite|changed|EBI}} 
+ | Beilstein = 1700722 
+ | SMILES = CCCCCCCCCCCCCCCCCCCC 
+ | StdInChI = 1S/C20H42/c1-3-5-7-9-11-13-15-17-19-20-18-16-14-12-10-8-6-4-2/h3-20H2,1-2H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = CBFCDTFDPHXCNY-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ }} 
+ |Section2={{Chembox Properties 
+ | C=20 | H=42  
+ | Appearance = Colorless, waxy crystals 
+ | Odor = Odorless 
+ | MeltingPtK = 309 to 311  
+ | BoilingPtK = 616.2 
+ | LogP = 10.897 
+ | HenryConstant = 31 μmol Pa < sup > −1 < /sup >  kg < sup > −1 < /sup > 
+ }} 
+ |Section3={{Chembox Thermochemistry 
+ | Entropy = 558.6 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ | HeatCapacity = 602.5 J K < sup > −1 < /sup >  mol < sup > −1 < /sup >  (at 6.0 & nbsp;°C) 
+ }} 
+ |Section4={{Chembox Hazards 
+ | FlashPt =  >  113 °C (235 °F; 386 K) 
+ | NFPA-F = 1 
+ | NFPA-H = 0 
+ | NFPA-R = 0 
+ }} 
+ |Section5={{Chembox Related 
+ | OtherFunction_label = alkanes 
+ | OtherFunction = {{Unbulleted list|[[Nonadecane]]|[[Heneicosane]]}} 
+ }} 
+ }} 
+ '''Icosane''', also commonly spelled '''eicosane''', is an alkane or a hydrocarbon with the chemical formula H < sub > 20 < /sub > C < sub > 42 < /sub > . < ref > {{Cite web|last=PubChem|title=Eicosane|url=https://pubchem.ncbi.nlm.nih.gov/compound/8222|access-date=2021-05-20|website=pubchem.ncbi.nlm.nih.gov|language=en}} < /ref > < ref > {{Cite web|title=PDBeChem: Ligand Dictionary (PDB Ligand Chemistry - chemical component dictionary)|url=https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/LFA|access-date=2021-06-03|website=www.ebi.ac.uk}} < /ref >  It has 366,319 structural [[isomers]]. Its high flash point makes it a hard to light [[fuel]], so it is not much use in the petrochemical industry. < ref name= " :0 " > {{Cite web|title=icosane (CHEBI:43619)|url=https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:43619|access-date=2021-05-20|website=www.ebi.ac.uk}} < /ref >  However, an isomer of icosane, ''n''-Icosane (the straight-chain structural isomer of icosane) is the shortest compound found in paraffin waxes (C < sub > n < /sub > H < sub > 2n+2 < /sub > , where  < math > n = \mathbb {Z} = {[20,40]}  < /math > ) used to form [[Candle|candles]]. Icosane's phase transition at a moderate temperature makes it a candidate for PCM, which is used to store thermal energy and control temperature. 
+ 
+ Icosane is a non-polar molecule: quite unreactive except when it burns (see the NFPA Diamond in the infobox). It is also way less dense than insoluble in [[water]]. This also means it shares properties with its smaller alkaline counterparts. 
+ 
+ Icosane can also be detected in the body odor of people diagnosed with [[Parkinson's disease|Parkinson's Disease]]. < ref name= " :0 "  / > 
+ 
+ The compound is found in the highest concentrations in plants such as Mexican ageratum, licorice, and the Bayrum tree. < ref > {{Cite web|date=2015-09-23|title=Activities of a Specific Chemical Query|url=http://www.ars-grin.gov/cgi-bin/duke/chemical.pl?EICOSANE|access-date=2021-05-21|archive-date=2015-09-23|archive-url=https://web.archive.org/web/20150923173912/http://www.ars-grin.gov/cgi-bin/duke/chemical.pl?EICOSANE|url-status=bot: unknown}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ {{Chem-stub}} 
+ 
+ [[Category:Alkanes]]

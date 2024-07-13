@@ -1,0 +1,11 @@
+'''JIT''', Just-In-Time [[compiler|compilation]] is a way to translate [[bytecode]] instructions to instructions the processor understands. Bytecode is a set of computer instructions for a processor that only exists on paper.  
+ 
+ The alternative to a JIT is an [[interpreter (computing)|interpreter]] that looks at each bytecode instruction individually and then decides what to with it. When you run over the same part of the program again, an interpreter has to make the decisions again. While a JIT makes the decisions on how to handle the bytecode once, and then stores it as native processor instructions (this takes memory). Properly deciding how to translate bytecode take some time, so you have some minor slowdown in startup speed. A proper modern JIT first runs a regular interpreter, and then does the JIT step once it knows something is used frequently. 
+ 
+ ==Related pages== 
+ *[[Java Virtual Machine]] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer programming]]

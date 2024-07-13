@@ -1,0 +1,27 @@
+{{Infobox software 
+ |name = XChat 
+ |logo = Xchat logo.svg 
+ |screenshot = Screenshot-XChat- Moniker42 @ FreeNode - -ubuntuforums (+tn)-1.png 
+ |caption = Screenshot of XChat running on [[Ubuntu]] 
+ |status = Discontinued 
+ |latest release version = 2.8.9 
+ |latest release date    = {{Start date and age|2010|08|28}} 
+ }} 
+ 
+ '''XChat''' was a popular [[IRC]] client. It was [[open source]], but its Windows port was [[shareware]]. < ref > {{cite web |url=http://www.xchat.org/windows/ |title=Xchat for Windows |access-date=2009-09-16 |publisher=Xchat.org }} < /ref >  It was replaced by HexChat in 2015. 
+ 
+ ==Related pages== 
+ *[[List of IRC clients]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *[http://www.xchat.org XChat website] 
+ 
+ {{IRC footer}} 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:IRC clients]]

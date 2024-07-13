@@ -1,0 +1,116 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of anything that's a native name is not in English -- > | settlement_type                 =  < !--For Town or Village (Leave blank for the default City)-- > 
+ | image_skyline                   = File:Vanquet Hall.jpg 
+ | imagesize                       =  
+ | image_caption                   =  
+ | image_flag                      =  
+ | flag_size                       =  
+ | image_seal                      =  
+ | seal_size                       =  
+ | image_shield                    =  
+ | shield_size                     =  
+ | image_blank_emblem              =  
+ | blank_emblem_type               =  
+ | blank_emblem_size               =  
+ | nickname                        =  
+ | motto                           =  < !-- images and maps  ----------- > 
+ | image_map                       =  
+ | mapsize                         =  
+ | map_caption                     =  
+ | image_map1                      =  
+ | mapsize1                        =  
+ | map_caption1                    =  
+ | pushpin_map                     = Nigeria < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | pushpin_label_position          = bottom 
+ | pushpin_map_caption             = Location in Nigeria 
+ < !-- Location ------------------ > | coordinates                     = {{coord|10|31|23|N|7|26|25|E|region:NG|display=inline}} 
+ | subdivision_type                = Country 
+ | subdivision_name                = [[File:Flag of Nigeria.svg|25px]] [[Nigeria]] 
+ | subdivision_type1               = [[States of Nigeria|State]] 
+ | subdivision_type2               =  
+ | subdivision_type3               =  
+ | subdivision_type4               =  
+ | subdivision_name1               = [[Kaduna State]] 
+ | subdivision_name2               =  
+ | subdivision_name3               =  
+ | subdivision_name4               =  < !-- Politics ----------------- > 
+ | established_title               =  < !-- Settled -- > 
+ | established_date                =  
+ | established_title2              =  < !-- Incorporated (town) -- > 
+ | established_date2               =  
+ | established_title3              =  < !-- Incorporated (city) -- > 
+ | established_date3               =  < !-- Area    --------------------- > 
+ | government_footnotes            =  
+ | government_type                 =  
+ | leader_title                    = [[List of Governors of Kaduna State|Governor]] 
+ | leader_name                     = [[Nasir Ahmad el-Rufai]] 
+ | leader_title1                   =  < !-- for places with, say, both a mayor and a city manager -- > 
+ | leader_name1                    =  
+ | unit_pref                       =  
+ | area_footnotes                  =  
+ | area_magnitude                  =  
+ | area_total_km2                  = 431 < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_total_sq_mi                =  
+ | area_land_km2                   =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ | area_land_sq_mi                 =  
+ | area_water_km2                  =  
+ | area_water_sq_mi                =  
+ | area_water_percent              =  
+ | area_urban_km2                  =  
+ | area_urban_sq_mi                =  
+ | area_metro_km2                  =  
+ | area_metro_sq_mi                =  
+ | area_blank1_title               =  
+ | area_blank1_km2                 =  
+ | area_blank1_sq_mi               =  < !-- Population   ----------------------- > 
+ | population_total                = 760,084 
+ | population_as_of                = 2006 census 
+ | population_footnotes            =  < ref > Summing the 2 LGAs Kaduna North/South as per {{cite web|url=http://www.nigerianstat.gov.ng/nbsapps/Connections/Pop2006.pdf |title=Legal Notice on Publication of the Details of the Breakdown of the National and State Provisional Totals 2006 Census |author=Federal Republic of Nigeria Official Gazette |date=15 May 2007 |access-date=2007-05-19 |url-status=dead |archive-url=https://web.archive.org/web/20120305101910/http://www.nigerianstat.gov.ng/nbsapps/Connections/Pop2006.pdf |archive-date= 5 March 2012 }} < /ref > 
+ | population_density_km2          = auto 
+ | population_density_sq_mi        =  
+ | population_urban                =  
+ | population_density_urban_km2    =  
+ | population_density_urban_sq_mi  =  
+ | population_metro                =  
+ | population_density_metro_km2    =  
+ | population_density_metro_sq_mi  =  
+ | population_rank                 = [[List of Nigerian cities by population|8th]] 
+ | population_blank1_title         = Ethnicities 
+ | population_blank1               = [[Gbagyi]], [[Adara people|Adara]], [[Hausa people|Hausa]], [[Atyap people|Atyap]]-[[Bajju people|Bajju]], [[Ham people|Ham]], [[Yoruba people|Yoruba]], [[Fulani]], [[Kanuri people|Kanuri]], [[Marghi]], [[Nupe people|Nupe]], and [[Igbo people|Igbo]], 
+ | population_density_blank1_km2   =  
+ | population_density_blank1_sq_mi =  < !-- General information  --------------- > 
+ | population_blank2_title         = Religions 
+ | population_blank2               =  
+ | population_note                 =  
+ | elevation_m                     = 250 
+ | website                         = {{URL|http://www.kdsg.gov.ng}} 
+ | footnotes                       =  
+ | image_dot_map                   =  
+ | dot_mapsize                     =  
+ | dot_map_caption                 =  
+ | dot_x                           =  
+ | dot_y                           =  
+ | leader_title2                   =  
+ | leader_name2                    =  
+ | leader_title3                   =  
+ | leader_name3                    =  
+ | leader_title4                   =  
+ | leader_name4                    =  
+ | timezone                        = [[Central European Time|CET]] 
+ | utc_offset                      = +1 
+ | timezone_DST                    = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST                  = +1 
+ | blank_name                      = [[Köppen climate classification|Climate]] 
+ | blank_info                      = [[Tropical savanna climate|Aw]] 
+ }} 
+   < !-- Infobox ends -- > 
+ '''Kaduna''' is the state capital of [[Kaduna State]] in north-western [[Nigeria]], on the [[Kaduna River]]. It is the capital of the former Northern Region of Nigeria < ref > {{Cite web|title=Kaduna State|url=https://kdsg.gov.ng/about-kaduna/}} < /ref > . The first premier of Northern Nigeria, Alhaji Ahmadu Bello, conducted government business from Kaduna < ref > {{Cite web|title=ahmadubello.com|url=https://www.arewaonline-ng.com/sardauna/about%20sardauna.html|access-date=2023-12-15|website=www.arewaonline-ng.com}} < /ref > . 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Cities in Nigeria]] 
+ 
+ {{geo-stub}} 
+ [[Category:State capitals in Nigeria]] 
+ [[Category:Kaduna State]]

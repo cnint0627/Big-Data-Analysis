@@ -1,0 +1,21 @@
+A '''percentile''' (or a centile) is a measure in [[statistics]].   
+ 
+ It is a way of expressing where an observation falls in a range of other observations.  
+ 
+ For example, if a score falls in the 20th percentile, this means that 20 percent of all the scores recorded are equal to or lower. If a score is in the 90th percentile, this means that 90 percent of all the other scores were equal to or lower than that score.  
+ 
+ In [[statistics]], percentiles are found by taking a large set of numerical [[data]], arranging it in ascending order, and then dividing it into 100 groups with an equal number of data points. Each of the 99 dividing points is called a '''percentile''' of the data set.  
+ 
+ Some of the percentiles have special names. For example. the 25th, 50th and 75th percentiles are called the first, second and third [[quartile]], respectively. < ref > {{Cite web|title=Percentiles|url=https://www.mathsisfun.com/data/percentiles.html|access-date=2020-10-13|website=www.mathsisfun.com}} < /ref >  The 50th percentile is also called the [[median]]. 
+ 
+ == Related pages == 
+ 
+ * [[Decile]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Statistics]]

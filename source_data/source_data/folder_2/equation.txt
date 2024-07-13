@@ -1,0 +1,40 @@
+{{for|a chemical type of equation|Chemical equation}} 
+ A mathematical '''equation''' is an expression containing two mathematical objects connected by an [[equals sign]] (=) . < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-09-01|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Equations and Formulas|url=http://www.mathisfun.com/algebra/equation-formula|access-date=2020-09-01|website=www.mathisfun.com}} < /ref > < ref > " A statement of equality between two expressions. Equations are of two types, '''identities''' and '''conditional equations''' (or usually simply  " equations " ) " .  « ''Equation'' », in  ''Mathematics Dictionary'', Glenn James et Robert C. James (éd.), Van Nostrand, 1968, 3 ed. 1st ed. 1948, p. 131. < /ref > < ref > Une équation est une égalité entre deux expressions mathématiques, donc une formule de la forme A = B, où les deux membres A et B de l'équation sont des expressions où figurent une ou plusieurs variables, représentées par des lettres. [http://www.universalis.fr/encyclopedie/equation-mathematique/ ÉQUATION, mathématique - Encyclopædia Universalis] < /ref >  The equals sign says that both sides are exactly equal, or of the same value. An equation can be as simple as  < math > x=0 < /math > , or as complex as  < math > 4(3y^{99})+76=42+3x < /math >  or harder. 
+ 
+ There are two kinds of mathematical equations: 
+ * The kind of equation that is either true or false; these are also called identities. For example:  
+ : < math > 2\cdot(x+4)=2x+8\rightarrow\text{true} < /math > 
+ * The kind of equation that is only true for certain values of the [[variable]](s). The equation is only true if the variable(s) have that value. For example: 
+ :  < math > 2\cdot x=8\rightarrow x=4 < /math > 
+ 
+ The second kind is often used to solve problems in which finding the value of some variables is involved. For example, if 
+ :  < math > 2x=8 < /math > ,  < math > x=\frac82=4 < /math > 
+ 
+ The second kind of equation is used in [[algebra]]. For example, to solve the equation  < math > 2x=8 < /math >  for  < math > x < /math > , one would follow an algebraic [[rule]] to find that  < math > x=4 < /math > . 
+ 
+ == Types of equations == 
+ Equations can be classified by the types of [[Operation (mathematics)|operations]] and [[Quantity|quantities]] involved. For example: 
+ * An [[algebraic equation]] is an equation in which both sides are [[polynomial]]s. These are further classified by degree: 
+ ** [[Linear equation]] for degree one 
+ ** [[Quadratic equation]] for degree two 
+ ** [[Cubic equation]] for degree three 
+ ** [[Quartic equation]] for degree four 
+ ** Quintic equation for degree five 
+ * A [[Diophantine equation]] is an equation where the [[Unknown (mathematics)|unknowns]] are required to be [[integer]]s 
+ * A [[differential equation]] is a functional equation involving [[Derivative (mathematics)|derivatives]] of the unknown functions, which include: 
+ ** [[Ordinary differential equation]] 
+ ** [[Partial differential equation]] 
+ == Related pages == 
+ * [[Equation solving]] 
+ * [[Formula]] 
+ * [[Rate equation]] 
+ * [[System of linear equations]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Equations]] 
+ 
+ 
+ {{math-stub}} 
+ {{authority control}}

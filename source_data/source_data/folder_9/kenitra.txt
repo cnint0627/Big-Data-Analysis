@@ -1,0 +1,94 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > |  =  < !-- Politics ----------------- > 
+ | population_metro         =  
+ | leader_name1             =  
+ | unit_pref                = metric  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_footnotes           =  
+ | area_magnitude           =  
+ | area_total_km2           = 112 
+ | area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ < !-- Population   ----------------------- > | elevation_footnotes      =  < !--for references: use  < ref >   < /ref >  tags-- > 
+ | elevation_m              = 26 
+ | elevation_ft             =  < !-- Area/postal codes  &  others -------- > 
+ | population_total         = 431282 
+ | population_as_of         = 2014 
+ | population_footnotes     =  < ref name=census2014 > {{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D'APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=High Commission for Planning, Morocco |date=8 April 2015 |access-date=29 September 2017}} < /ref > 
+ | population_density_km2   =  
+ | population_density_sq_mi =  
+ | population_density_metro_km2 =  
+ | government_type          =  
+ | website                  = http://www.alkenitra.com/ 
+ | blank1_name              =  
+ | blank_info               =  
+ | blank_name               =  
+ | utc_offset               = +1 
+ | timezone                 = [[Central European Time|CET]] 
+ | footnotes                =  
+ | area_code                =  
+ | population_density_metro_sq_mi =  
+ | postal_code              = 2900 
+ | postal_code_type         =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | population_note          =  
+ | population_density_blank1_sq_mi =  < !-- General information  --------------- > 
+ | population_density_blank1_km2 =  
+ | population_rank          = [[List of cities in Morocco|9th in Morocco]] 
+ | leader_title1            =  < !-- for places with, say, both a mayor and a city manager -- > 
+ | government_footnotes     =  
+ | name                     = Kenitra 
+ | mapsize                  =  
+ | native_name              = {{unbulleted list 
+     |{{native name|ar|القنيطرة}} < br / >  ⵇⵏⵉⵟIIiI ([[Berber languages|Berber]]) 
+ }} 
+ | other_name               =  
+ | settlement_type          =  
+ | image_skyline            = {{Photomontage 
+ | photo1a = Kenitra main pic.jpg  
+ | photo2a = Kenitra Avenue Mohamed V.JPG 
+ | photo2b = Kenitra-Centre.JPG 
+ | photo3a = Kénitra 2014032.jpg 
+ | photo3b = Kenitra American Base.jpg 
+ | photo4a = Sbou River - Corniche Kenitra.jpg 
+ | size = 275 
+ | spacing = 2 
+ | color = transparent 
+ | border = 0 
+ }} 
+ | image_caption            = Avenue Mohamed Diouri, Avenue Mohamed V, Kenitra 
+ | image_flag               =  
+ | flag_size                =  
+ | image_seal               = Blason de la ville de Kénitra.svg 
+ | seal_size                = 120px 
+ | image_shield             =  
+ | shield_size              =  
+ | nickname                 =  
+ | motto                    =  < !-- images and maps  ----------- > 
+ | image_map                =  
+ | map_caption              =  
+ | established_date         = 1912 
+ < !-- Area    --------------------- > | subdivision_type1        = [[Regions of Morocco|Region]] 
+ | established_title        = Founded 
+ | subdivision_name3        =  
+ | subdivision_name2        = [[Kenitra Province|Kenitra]] 
+ | subdivision_name1        = [[Rabat-Salé-Kénitra]] 
+ | subdivision_type3        =  
+ | subdivision_type2        = [[Provinces of Morocco|Province]] 
+ | subdivision_name         = {{flag|Morocco}} 
+ | pushpin_map              = Morocco#Africa 
+ | subdivision_type         = Country 
+ | coordinates              = {{coord|34|15|N|6|35|W|region:MA|display=inline}} 
+ | pushpin_map_caption      = Location in Morocco 
+ < !-- Location ------------------ > | pushpin_mapsize          = 300 
+ | pushpin_label_position   = bottom 
+ | pushpin_relief           = yes 
+ | blank1_info              =  
+ }} 
+ 
+ '''Kenitra''' ({{lang-ar|القُنَيْطَرَة}}, {{lang|ar-Latn|al-qunayṭara}}, {{IPA-ar|alqunajtˤira|}}, < ref > {{Cite web|last=Team|first=Almaany|title=ترجمة و معنى قنيطرة بالإنجليزي في قاموس المعاني. قاموس عربي انجليزي مصطلحات صفحة 1|url=https://www.almaany.com/ar/dict/ar-en/%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9/|access-date=2021-07-16|website=www.almaany.com|language=en}} < /ref >  {{lang-ber|ⵇⵏⵉⵟⵔⴰ|Qniṭra}}; {{lang-fr|Kénitra}}) is a city in north western [[Morocco]], it is formerly known as '''Port Lyautey''' from 1932 to 1956. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:Cities in Morocco]]

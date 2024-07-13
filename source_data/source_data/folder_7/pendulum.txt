@@ -1,0 +1,21 @@
+{{for|the drum and bass duo|Pendulum (band)}} 
+ [[Image:Simple-Pendulum-Labeled-Diagram.png|thumb|300px|Simple pendulum]] 
+ 
+ A '''pendulum''' is a [[mass]] (any object usually metal) on an arm. The arm is attached to a ''pivot'', which is a point to swing from. The mass will naturally hang down because of [[gravity]], but if it is pushed to one side it will ''oscillate'', which means that it will swing from side to side.  The [[frequency]] of the swinging pendulum stays the same. 
+ 
+ We can work out the time taken for one full [[oscillation]] (for example, swinging from left to right and back to left). We shall call this time  < math > T < /math >  the period. If the pendulum length is  < math > L < /math > , and the acceleration due to gravity is  < math > g < /math > , then: 
+ 
+ < math > T \approx 2\pi \sqrt\frac{L}{g} < /math > 
+ 
+ where [[Pi (mathematical constant)|π]] (a Greek letter pronounced 'pi') is a mathematical constant. This equation gives a good approximation for the period when the mass does not swing far from the middle. The period of a pendulum does not depend on the mass of the object. 
+ 
+ The mechanical energy of a pendulum is constant and is the sum of the [[kinetic energy]] and [[gravitational potential energy]].    
+ 
+ The regular motion of the pendulum can be used for timekeeping, and pendulums are used to regulate pendulum [[clock]]s. 
+ 
+ == Related pages == 
+ *[[Foucault pendulum]] 
+ *[[Pendulum clock]] 
+ 
+ {{physics-stub}} 
+ [[Category:Hardware (mechanical)]]

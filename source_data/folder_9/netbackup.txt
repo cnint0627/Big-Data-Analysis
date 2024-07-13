@@ -1,0 +1,8 @@
+{{more sources|date=December 2023}} 
+ {{Orphan|date=May 2009}} 
+ 
+ [[Veritas Software|Veritas]]' '''NetBackup''' is a [[Information|data]] [[backup]] [[software]] for [[Microsoft Windows|Windows]], [[Linux]], [[FreeBSD]], and [[MacOS]] designed for business use. < ref > {{Cite web|title=NetBackup: #1 in enterprise backup solutions|url=https://www.veritas.com/protection/netbackup|access-date=2023-12-31|website=www.veritas.com|language=en-US}} < /ref >  It is often used alongside hypervisors such as [[VMware Workstation Player]] or [[VirtualBox]] < ref > {{Cite web|title=What is NetBackup?|url=https://www.eginnovations.com/documentation/NetBackup/What-is-NetBackup.htm|access-date=2023-12-31|website=www.eginnovations.com}} < /ref > 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Software]]

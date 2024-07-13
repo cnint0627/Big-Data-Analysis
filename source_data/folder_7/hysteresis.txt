@@ -1,0 +1,12 @@
+{{Distinguish2|[[Hysteria]]}} 
+ 
+ '''Hysteresis''' is a [[concept]] in [[physical science]]. 
+ In hysteresis the [[output]] of a [[system]] depends not only on its [[input]], but also on its history of past inputs. This is because the history affects the value of an internal state. To predict the future outputs of a [[system]], either its internal state or its history must be known. < ref > Krasnosel'skii, Mark; Pokrovskii, Alexei 1989. ''Systems with hysteresis''. New York: Springer-Verlag. {{ISBN|978-0-387-15543-2}} < /ref > 
+ 
+ The effect may happen because of a [[lag]] between input and output. This effect disappears as the input changes more slowly. This effect meets the description of hysteresis given above, but is often referred to as ''rate-dependent hysteresis'' to distinguish it from hysteresis with a more durable [[memory]] effect. 
+ 
+ Hysteresis occurs in [[ferromagnetic]] materials and [[ferroelectricity|ferroelectric]] materials. < ref > Bertotti, Giorgio 1998. ''Hysteresis in magnetism: for physicists, materials scientists, and engineers''. Academic Press. {{ISBN|978-0-12-093270-2}} < /ref >  It also occurs in the [[deformation]] of some materials (such as [[rubber band]]s and [[shape-memory alloy]]s). < ref > {{Cite journal |last1=Mielke |first1=A. |first2=T. |last2=Roubícek |year=2003 |title=A rate-independent model for inelastic behavior of shape-memory alloys |journal=Multiscale Model. Simul. |volume=1 |issue=4 |pages=571–597 |doi=10.1137/S1540345903422860}} < /ref >  Many artificial systems are designed to have hysteresis: for example, in [[thermostat]]s and computers. 
+ 
+ == References == 
+ {{reflist}} 
+ [[Category:Physics]]

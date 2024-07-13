@@ -1,0 +1,13 @@
+A '''cutscene''' is a time in a [[video game]] where the game stops and the player watches something happen.  
+ 
+ Usually cutscenes tell part of the story, such as showing characters talking or having a [[narrator]] say what is going on. Sometimes, however, a cutscene just shows something that is happening in the game, like a [[Boss (video game)|boss]] showing up, a ship taking off, or a building falling down. 
+ 
+ There are many different types of cutscene. Some cutscenes are very simple and just show pictures with text like a [[slideshow]]. Others may be animated like a [[cartoon]]. Sometimes the cutscene appears directly in the [[game engine]].  
+ 
+ Many new games use [[Pre-rendering|prerendered]] scenes, meaning that the scene was created when the game was made and saved as a video file. Prerendered videos are sometimes just saved movies of things recorded in the game engine, but some use [[Computer-generated imagery]] (CGI), which is separately made [[3D]] graphics which are usually fancier than the game's normal graphics. Prerendered scenes with CGI are often used for a game's intro video. 
+ 
+ A few games use [[live-action]] video footage, which is filmed like a movie or television show. Sometimes live-action footage will be used together with CGI. 
+ 
+ {{video-game-stub}} 
+ 
+ [[Category:Video game design]]

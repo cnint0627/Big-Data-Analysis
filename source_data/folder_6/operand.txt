@@ -1,0 +1,59 @@
+In [[mathematics]], an '''operand''' is a [[number]] or [[variable]] being worked on in an [[equation]] or [[inequality]]. 
+ 
+ == Notation == 
+ 
+ In  < math > (3+5)\times2 < /math > , the operands are 3, 5, and 2, and the [[operator]]s are  < math > + < /math >  and  < math > \times < /math > . 
+ 
+ == Name of operands == 
+ Operands have different names depending on the [[Operation (mathematics)|operation]] that is done to them. 
+ 
+ 
+ *  < math > x+y < /math >  [[Operation (mathematics)#Addition|Addition]]: addend 
+ 
+ *  < math > x-y < /math >  [[Operation (mathematics)#Subtraction|Subtraction]]: minuend  &  subtrahend 
+ 
+ *  < math > x\times y < /math >  [[Operation (mathematics)#Multiplication|Multiplication]]: factor 
+ 
+ *  < math > x/y < /math >  [[Operation (mathematics)#Division|Division]]: dividend  &  divisor 
+ 
+ *  < math > \frac xy < /math >  [[Fraction (mathematics)|Division (fraction)]]: numerator  &  denominator 
+ 
+ *  < math > x^y < /math >  [[Operation (mathematics)#Exponentiation|Exponentiation]]: base  &  exponent 
+ 
+ *  < math > \sqrt[y]{x} < /math >  [[Operation (mathematics)#Roots|Root]]: index  &  radicand 
+ 
+ *  < math > \log x < /math >  [[Operation (mathematics)#Logarithms|Logarithm]]: base  &  power 
+ 
+ *  < math > x\backslash y < /math >  [[Operation (mathematics)#Modulation|Modulation]]: modulend  &  modulator 
+ 
+ *  < math > n! < /math >  [[Operation (mathematics)#Factorial|Factorial]]: index 
+ 
+ *  < math > \sum_{k}^n{x} < /math >  [[Sum#Sigma notation|Summation]]: summand 
+ 
+ *  < math > \prod_{k}^n{x} < /math >  [[Product (mathematics)#Pi product notation|Product]]: multiplicand 
+ 
+ *  < math > \lim_{k\to n}{x} < /math >  [[Limit (mathematics)|Limit]]: index  &  limit 
+ 
+ *  < math > \lfloor x\rceil < /math >  [[Rounding#Rounding to integer|Nearest integer]]: index 
+ 
+ *  < math > \lfloor x\rfloor < /math >  [[Rounding#Rounding to integer|Floor]]: index 
+ 
+ *  < math > \lceil x\rceil < /math >  [[Rounding#Rounding to integer|Ceiling]]: index 
+ 
+ *  < math > [x] < /math >  [[Rounding#Rounding to integer|Integer part]]: index 
+ 
+ *  < math > \{x\} < /math >  Fractional part: index 
+ 
+ == Related pages == 
+ 
+ * [[Algebra]] 
+ * [[Arithmetic]] 
+ * [[Operation (mathematics)|Operation]] 
+ * [[Operator]] 
+ 
+ {{math-stub}} 
+ [[Category:Mathematical notation]] 
+ [[Category:Arithmetics]] 
+ [[Category:Algebra]] 
+ [[Category:Number theory]] 
+ [[Category:Mathematics]]

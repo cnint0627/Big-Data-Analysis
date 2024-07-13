@@ -1,0 +1,18 @@
+A '''nuclease''' is an [[enzyme]] which cuts the bonds between the [[nucleotide]] subunits of [[nucleic acids]], which are the building blocks of [[DNA]] and [[RNA]]. These enzymes act like molecular scissors, cutting the [[phosphodiester bonds]] that hold [[nucleotides]] together in these genetic molecules. Nucleases are essential in various cellular processes, including DNA repair, replication, and gene regulation. Well known nucleases are [[deoxyribonuclease]] and [[ribonuclease]]. 
+ 
+ == Kinds of nuclease == 
+ Nucleases may have the [[prefix]]  " endo "  or  " exo "  added to the name.  '''Endonucleases''' break nucleic acid chains somewhere in the middle of the molecule. '''Exonucleases''' remove nucleotides from the ends of [[DNA]] molecules. 
+ 
+ A [[restriction endonuclease]] does a specific job. It scans the length of a DNA molecule. Once it finds a particular sequence, it binds to the DNA molecule and makes a cut in each of the two sugar-phosphate backbones. 
+ 
+ Different endonucleases cut in different places, but one endonuclease will always cut a particular base sequence the same way, no matter what DNA molecule it is acting on. Once the cuts have been made, the DNA molecule breaks into fragments. In fact, more than 900 restriction enzymes, some sequence specific and some not, have been isolated from over 230 strains of [[bacteria]] since their discovery. < ref > Baker, Tania A.  &  [[Arthur Kornberg|Kornberg, Arthur]] 2005. ''DNA replication''. University Science. {{ISBN|1-891389-44-0}} < /ref > < ref > Ellenberger T. ''et al'' 2006. ''DNA repair and mutagenesis'''. Washington, D.C: ASM Press. {{ISBN|1-55581-319-4}} < /ref > 
+ 
+ These enzymatic tools were important to scientists who were gathering the tools needed to  " cut and paste "  DNA molecules. They needed a tool to cut DNA at specific sites, rather than at random sites along the length of the molecule. This way they could cut DNA molecules in a predictable way. 
+ 
+ This whole field of research started many years ago with the [[Avery–MacLeod–McCarty experiment]]. < ref > Arber W.  &  Linn S. 1969. DNA modification and restriction. ''Annu. Rev. Biochem''. '''38''':467-500. < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Enzymes]] 
+ [[Category:Genetic engineering]]

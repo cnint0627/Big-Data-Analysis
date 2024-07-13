@@ -1,0 +1,36 @@
+In [[mathematics]], an '''operator''' is a [[Function (mathematics)|function]] (like addition) that acts on one or more [[number]]s to create a new number. 
+ 
+ The most known operators are those used for the first four [[arithmetic]] [[Operation (mathematics)|operations]]: [[Operation (mathematics)#Addition|addition]], [[Operation (mathematics)#Subtraction|subtraction]], [[Operation (mathematics)#Multiplication|multiplication]], and [[Operation (mathematics)#Division|division]] ( < math > + < /math > ,  < math > - < /math > ,  < math > \times < /math > ,  < math > / < /math > ). 
+ 
+ == List of operators == 
+ * [[Operation (mathematics)#Addition|Addition]]:  < math > + < /math > 
+ * [[Operation (mathematics)#Subtraction|Subtraction]]:  < math > - < /math > 
+ * [[Operation (mathematics)#Multiplication|Multiplication]]:  < math > \times < /math > 
+ * [[Operation (mathematics)#Division|Division]]:  < math > / < /math > 
+ * [[Fraction (mathematics)|Division (fraction)]]:  < math > - < /math > 
+ * [[Operation (mathematics)#Exponentiation|Exponentiation]]:  < math > x^y < /math > 
+ * [[Operation (mathematics)#Roots|Root]] (radical):  < math > \sqrt{\,\,\,\,} < /math > 
+ * [[Operation (mathematics)#Logarithms|Logarithm]]:  < math > \log < /math > 
+ * [[Operation (mathematics)#Modulation|Modulation]]:  < math > \backslash < /math > 
+ * [[Operation (mathematics)#Factorial|Factorial]]:  < math > ! < /math > 
+ * [[Sum#Sigma notation|Summation]]:  < math > \sum < /math > 
+ * [[Product (mathematics)#Pi product notation|Product]]:  < math > \prod < /math > 
+ * [[Limit (mathematics)|Limit]]:  < math > \lim < /math > 
+ * [[Rounding#Rounding to integer|Nearest integer]]:  < math > \lfloor\,\,\rceil < /math > 
+ * [[Rounding#Rounding to integer|Floor]]:  < math > \lfloor\,\,\rfloor < /math > 
+ * [[Rounding#Rounding to integer|Ceiling]]:  < math > \lceil\,\,\rceil < /math > 
+ * [[Rounding#Rounding to integer|Integer part]]:  < math > [\,\,] < /math > 
+ * Fractional part:  < math > \{\,\,\} < /math > 
+ 
+ == Related pages == 
+ * [[Algebra]] 
+ * [[Arithmetic]] 
+ * [[Function (mathematics)|Function]] 
+ * [[Operation (mathematics)|Operation]] 
+ * [[Operand]] 
+ 
+ {{math-stub}} 
+ [[Category:Mathematical notation]] 
+ [[Category:Arithmetics]] 
+ [[Category:Algebra]] 
+ [[Category:Mathematics]]

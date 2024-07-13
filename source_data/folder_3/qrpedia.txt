@@ -1,0 +1,46 @@
+[[File:QR code for QRpedia.png|thumb|A sample QRpedia QR code, which decodes as the URL http://en.qrwp.org/QRpedia]] 
+ 
+ '''QRpedia''' is a web system for mobile devices, like mobile phones. It uses [[QR code]]s to show  [[Wikipedia]] articles to people. The articles are shown in the user's own language. < ref name= " EdenT-1 " > {{cite web|url=http://shkspr.mobi/blog/index.php/2011/04/introducing-qrpedia/|title=Introducing QRpedia|last=Eden|first=Terence|date=2011-04-03|accessdate=25 August 2011}} < /ref > < ref name= " CmoI " > {{cite web|url=http://www.childrensmuseum.org/Childrens-Museum-Indianapolis-Creates-New-Learning-Opportunities-through-Wikipedian-in-Residence|title=The Children's Museum of Indianapolis Creates New Learning Opportunities through Wikipedian-in-Residence|last=Anon|date=2011-08-19|publisher=The Children's Museum of Indianapolis|accessdate=25 August 2011|archive-date=2012-03-29|archive-url=https://web.archive.org/web/20120329035310/http://www.childrensmuseum.org/Childrens-Museum-Indianapolis-Creates-New-Learning-Opportunities-through-Wikipedian-in-Residence|url-status=dead}} < /ref > 
+ 
+ == Process == 
+ A user uses their [[mobile device]] to scan a QRpedia QR code. The device decodes the QR code into a [[URL|web address]]. The address has the [[domain name]]  " qrwp.org " . The last part of the web address is the title of a Wikipedia article. 
+ 
+ The device sends a request for the article to the QRpedia [[server|web server]]. It also transmits the name of the language used by the device. < ref name= " ByrdPhillips-2 " > {{cite web|url=http://midea.nmc.org/2011/06/qrpedia/|title=Going Multilingual with QRpedia|last=Byrd Phillips|first=Lori|date=2011-06-15|publisher=[[Marcus Institute for Digital Education in the Arts]]|accessdate=25 August 2011|archive-date=2012-08-26|archive-url=https://www.webcitation.org/6ACwdLuzA?url=http://midea.nmc.org/2011/06/qrpedia/|url-status=dead}} < /ref > 
+ 
+ The QRpedia server then uses Wikipedia's [[Application programming interface|API]] < ref name= " EdenT-1 "  / >  to find out if there is a version of the specified Wikipedia article in the language used by the device. If there is, it sends back the article in a mobile-friendly format. < ref name= " ByrdPhillips-2 "  / >  If there is no translation of the requested article, then the QRpedia server offers a choice of the available languages. It also offers a Google translation. 
+ 
+ In this way, a single QRcode can be used to find the same article, in many languages. < ref name= " ByrdPhillips-2 "  / >  QRpedia also records usage statistics. < ref name= " ByrdPhillips-2 "  / > < ref name= " Stats " > {{cite web|url=http://qrwp.org/stats.php?path=QRpedia|title=QRpedia Statistics (example)|accessdate=12 December 2011|archive-date=13 July 2012|archive-url=https://archive.today/20120713074153/http://qrwp.org/stats.php?path=QRpedia|url-status=dead}} < /ref > 
+ 
+ == Origins == 
+ 
+ [[File:Geology Exhibits QR Coded Derby Museum Muscovite obscured QR.jpg|thumb|right|A QRpedia code for the article [[Muscovite]], in Derby Museum. The article is, as of August 2011, available in 30 languages. The languages Arabic, Catalan, Esperanto, German, Greek, Japanese, Turkish and Vietnamese.]] 
+ 
+ QRpedia was invented by Roger Bamkin, < ref name= " EdenT-1 "  / >  then chairman of [[Wikimedia UK]], < ref name= " Board " > {{cite web|url=http://uk.wikimedia.org/wiki/Board|title=Board|work=[[Wikimedia Foundation]]|publisher=[[Wikimedia UK]]|accessdate=25 August 2011}} < /ref >  and Terence Eden. < ref name= " EdenT-1 "  / >  who is a mobile web consultant. < ref name= " Imperica "  / >  It was unveiled on 9 April 2011 < ref name= " EdenT-1 "  / >  It was unveiled at Derby Museum's ''Backstage Pass'' event. < ref name= " EdenT-1 "  / > < ref name= " Imperica " > {{cite web|url=http://www.imperica.com/features/quiet-realities|title=Quiet Realities|last=Anon|date=2011-05-21|work=Imperica|accessdate=25 August 2011|archive-date=2011-05-29|archive-url=https://web.archive.org/web/20110529035213/http://www.imperica.com/features/quiet-realities|url-status=dead}} < /ref >  The event was part of the GLAM/Derby collaboration between [[Derby Museum and Art Gallery]] and Wikipedia. < ref name= " BSP " > {{cite web|url=http://uk.wikimedia.org/wiki/Derby_Backstage_Pass|title=Derby Backstage Pass|last=Various|work=[[Wikimedia Foundation]]|publisher=[[Wikimedia UK]]|accessdate=25 August 2011}} < /ref >  During the collaboration, over 500 Wikipedia articles were also created. The articles were in several languages. The project's name is a made-up word, using the initials  " QR "  from  " QR ('''Q'''uick '''R'''esponse) code "  and  " pedia "  from  " Wiki'''pedia''' " . 
+ 
+ The project's source code is has a [[MIT License]]. This means that anyone can use it, free. < ref name= " code " > {{cite web|url=http://code.google.com/p/qrwp/|title=qrwp - QR Redirection to Wikipedia|work=[[Google Project Hosting]]|accessdate=25 August 2011}} < /ref > 
+ 
+ == Uses == 
+ 
+ [[File:Derby Museum visitor uses QR Code.jpg|thumb|right|Visitors to Derby Museum, using a [[mobile phone]] to scan a QRpedia QR code]] 
+ 
+ QRpedia is used at: 
+ * [[The Children's Museum of Indianapolis]] < ref name= " CmoI "  / > < ref name= " ByrdPhillips " > {{cite web|url=http://blog.childrensmuseum.org/blog/wikipedian-in-residence/qr-codes-wikipedia-qrpedia|title=QR codes + Wikipedia = QRpedia|publisher=The Children's Museum of Indianapolis|last=Byrd Phillips|first=Lori|date=2011-07-29|accessdate=25 August 2011|archive-date=2011-09-26|archive-url=https://web.archive.org/web/20110926014126/http://blog.childrensmuseum.org/blog/wikipedian-in-residence/qr-codes-wikipedia-qrpedia|url-status=dead}} < /ref > 
+ * Derby Museum and Art Gallery < ref name= " ByrdPhillips-2 "  / > 
+ * [[Fundació Joan Miró]], < ref name= " ByrdPhillips-2 "  / > < ref name= " Hinojo " > {{cite web|url=http://theglamwikiexperience.blogspot.com/2011/05/qrpedia-codes-at-fundacio-joan-miro.html|title=QRpedia Codes at Fundació Joan Miró|last=Hinojo|first=Alex|date=2011-05-11|work=The GLAM-Wiki Experience|accessdate=25 August 2011|archive-date=2012-08-26|archive-url=https://www.webcitation.org/6AD1IRPVL?url=http://theglamwikiexperience.blogspot.com/2011/05/qrpedia-codes-at-fundacio-joan-miro.html|url-status=dead}} < /ref >   including a travelling exhibit shown at [[Tate|The Tate]] < ref name= " ByrdPhillips-2 "  / > 
+ * [[The National Archives (United Kingdom)|The National Archives]], United Kingdom  < ref name= " TNA " > {{cite web|url=http://www.nationalarchives.gov.uk/news/620.htm|title=New collaboration between Wikimedia UK and The National Archives|date=2011-09-15|publisher=[[The National Archives (United Kingdom)]]|accessdate=16 September 2011|archive-date=2012-08-26|archive-url=https://www.webcitation.org/6AD1J4vM8?url=http://www.nationalarchives.gov.uk/news/620.htm|url-status=dead}} < /ref > < ref name= " EdenT-TNA " > {{cite web|url=http://shkspr.mobi/blog/index.php/2011/09/national-archives-and-qrpedia/|title=National Archives and QRpedia|last=Eden|first=Terence|date=2011-09-18|accessdate=18 September 2011}} < /ref > 
+ * [[The National Museum of Computing]] (UK) < ref name= " SmartUK " > {{cite web|url=http://www.smartukproject.co.uk/archives/1750|title=Become an instant expert with a little help from your mobile|date=2012-02-02|publisher=[[Smart UK Project]]|accessdate=2 February 2012|archive-date=2013-07-21|archive-url=https://web.archive.org/web/20130721014716/http://www.smartukproject.co.uk/archives/1750|url-status=dead}} < /ref > 
+ * [[Sofia Zoo]], Bulgaria 
+ * The Welsh town of [[Monmouth]], as part of Wikipedia's [[MonmouthpediA]] project. < ref name= " MonToday " > {{cite web|url=http://www.monmouth-today.co.uk/news.cfm?id=7508 & headline=Monmouth%20to%20be%20Wales'%20first%20WiFi%20town|title=Monmouth to be Wales' first WiFi town|date=2012-02-29|work=Monmouth Today|accessdate=1 March 2012|archive-date=2012-08-26|archive-url=https://www.webcitation.org/6AD1L6L4b?url=http://www.monmouth-today.co.uk/news.cfm?id=7508|url-status=dead}} < /ref > 
+ * [[The New Art Gallery Walsall]] 
+ QRpedia is also used in other kinds of places. For example, the [[Occupy movement]] uses it on their posters. < ref name= " Occupy " > {{cite web|url=http://wedontmakedemands.org/posters.php|title=We Don't Make Demands: Posters|date=2011-12-02|accessdate=2 December 2011}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ {{commonscat}} 
+ * [http://qrpedia.org/ QRpedia] - this site makes QR codes which convert to QRpedia URLs 
+ * {{Twitter|QRpedia|@QRpedia}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Encodings]]

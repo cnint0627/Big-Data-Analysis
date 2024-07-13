@@ -1,0 +1,21 @@
+An '''approximation''' is a version of a piece of [[information]] that does not describe it exactly, but is close enough to be used. An approximation may be used either when the exact piece of information is not known, or when it's too long or complicated and people need something simpler. The most common simple adjective for an approximation is  " about " .  
+ 
+ For example, if you wanted to [[add]] 2.0002 and 2.0003, you can add 2 and 2, and it would be an approximation. 
+ If you are left with a balance of Dollar 78.23 you might want to say you are left with 80 dollars. In mathematics, this is written using the  < math > \approx < /math >  symbol (e.g.,  < math > \pi \approx 3.1416 < /math > ). < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-09-19|website=Math Vault|language=en-US}} < /ref > 
+ 
+ [[Archimedes]] used [[polygon]]s to approximate a [[circle]], and to calculate an approximation for [[pi| < math > \pi < /math > ]] as shown below: 
+ [[File:Archimedes pi.svg|center]] 
+ 
+ == Related pages == 
+ * [[Approximation theory]] 
+ * [[Diophantine approximation]] 
+ * [[Estimation]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{Math-stub}} 
+ {{authority control}} 
+ [[Category:Measurement]] 
+ [[Category:Mathematical approximation]]

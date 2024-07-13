@@ -1,0 +1,31 @@
+[[File:Spiritusflamme mit spektrum.png|thumb|Alcohol flame and its spectrum]] 
+ 
+ '''Spectroscopy''' is the study of [[light]] as a function of length of the wave that has been [[light|emitted]], [[reflection|reflected]] or shone through a [[wikt:solid|solid]], liquid, or gas.  
+ 
+ To be analysed the chemical is heated, because each chemical glows differently. The various wavelengths of the glow make a color [[spectrum]] which differs in some detail from other chemicals. Spectroscopy separates and measures the brightness of the different wavelengths. It can identify the chemicals in a mixture, and determine some other things, such as how hot the thing is. 
+ 
+ Spectroscopy allows scientists to investigate and explore things that are too small to be seen through a [[microscope]], such as [[molecule]]s, and the even smaller [[subatomic particles]] like [[proton]]s, [[neutron]]s and  [[electron]]s. There are special instruments to [[Measurement|measure]] and [[Analysis|analyze]] these light waves. 
+ 
+ ==Methods== 
+ [[Infrared spectroscopy]] measures light in the [[infrared]] [[electromagnetic spectrum]]. The highlight of IR spectroscopy is that it is very useful in identifying functional groups of organic molecules.  The absorption of infrared light by organic molecules causes [[molecular vibrations]].  The vibrational frequencies are unique to the individual functional groups. IR spectra is given graphically by transmittance(%) vs. wavenumber (cm-1) 
+ 
+ [[X-ray crystallography]] can look at the structure of a crystalline molecule. The electron cloud of each atom diffracts the X-rays thus revealing the positions of the atoms. Various inorganic and organic molecules can be crystallized and used in this method including DNA, proteins, salts and metals. The sample used for analysis is not destroyed. 
+ 
+ [[Ultraviolet–visible spectroscopy]] uses [[Visible light|visible]] and [[ultraviolet]] light to look at how much of a chemical is in a liquid. The colour of the solution is the basis for how UV-Vis works. The color of the solution we are working with is colored because of its chemical composition. So the solution absorbs some light colors and reflects other colors, the light it reflects is the color of the solution.  UV-Vis spectroscopy works by passing light through a sample of your solution then determining how much light gets absorbed by the solution. 
+ 
+ [[NMR spectroscopy|Nuclear magnetic resonance]] can look at [[nuclei]]. It uses the magnetic properties of certain nuclei, the most common being  < sup > 13 < /sup > C and  < sup > 1 < /sup > H.  The NMR instrument generates a large magnetic field that makes the nuclei act like tiny bar magnets.  The nuclei either align with the instruments magnetic field or against it.  At this point we have two possible orientations the nuclei could be in α or β. Next the nuclei are exposed to radio waves that make α go to the β orientation. When this change occurs energy is given off and detected.  The data is interpreted graphically (Intensity vs. chemical shifts in ppm) by a computer system.  NMR does not destroy the sample you use for analysis.  Below is a 900 & nbsp;MHz NMR system. 
+ 
+ == Related pages == 
+ * [[Absorption spectroscopy]] 
+ * [[Astronomical spectroscopy]] 
+ * [[Time-domain spectroscopy]] 
+ * [[Auger electron spectroscopy]] 
+ * [[Cauchy distribution]] 
+ * [[Optics]] 
+ 
+ ==Other websites== 
+ {{commons category}} 
+ *{{dmoz|/Science/Physics/Optics/Spectroscopy/|Spectroscopy links}} 
+ 
+ [[Category:Measurement]] 
+ [[Category:Spectroscopy| ]]

@@ -1,0 +1,92 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > | settlement_type          = City 
+ | image_skyline            =  
+ | imagesize                =  
+ | image_caption            =  
+ | nickname                 = Waffi, Waff Town 
+ | motto                    =  < !-- images and maps  ----------- > 
+ | image_map                =  
+ | mapsize                  =  
+ | map_caption              =  
+ | image_map1               =  
+ | mapsize1                 =  
+ | map_caption1             =  
+ | pushpin_map              = Nigeria < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | pushpin_label_position   = bottom 
+ | pushpin_map_caption      = Location in Nigeria 
+ < !-- Location ------------------ > | coordinates              = {{coord|5|31|N|5|45|E|region:NG|display=inline}} 
+ | subdivision_type         = Country 
+ | subdivision_name         = [[File:Flag of Nigeria.svg|25px]] [[Nigeria]] 
+ | subdivision_type1        = [[States of Nigeria|State]] 
+ | subdivision_type2        = Local Government 
+ | subdivision_type4        =  
+ | subdivision_name1        = [[Delta State]] 
+ | subdivision_name2        = [[Warri South|Warri South LGA]] 
+ | leader_title             = Executive Governor 
+ | leader_name              = [[Ifeanyi Okowa]] 
+ | leader_title1            =  < !-- for places with, say, both a mayor and a city manager -- > 
+ | leader_name1             =  
+ | unit_pref                = Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | elevation_footnotes      =  < !--for references: use < ref >   < /ref >  tags-- > 
+ | elevation_m              =  
+ | elevation_ft             =  < !-- Area/postal codes  &  others -------- > 
+ | population_total         = 2 Million 
+ | population_as_of         = 2016 est 
+ | population_footnotes     =  
+ | population_density_km2   =  
+ | population_density_sq_mi =  
+ | population_urban         =  
+ | population_density_urban_km2 =  
+ | population_density_urban_sq_mi =  
+ | population_metro         =  
+ | population_density_metro_km2 =  
+ | population_density_metro_sq_mi =  
+ | population_note          =  
+ | postal_code_type         =  < !-- 332231, 332232, 320242. -- > 
+ | postal_code              =  
+ | area_code                =  
+ | footnotes                =  
+ | image_dot_map            =  
+ | dot_mapsize              =  
+ | dot_map_caption          =  
+ | dot_x                    =  
+ | dot_y                    =  
+ | government_footnotes     =  < !-- Government -- > 
+ | leader_title2            =  
+ | leader_name2             =  
+ | leader_title3            =  
+ | leader_name3             =  
+ | leader_title4            =  
+ | leader_name4             =  
+ | timezone                 =  
+ | utc_offset               =  
+ | timezone_DST             =  
+ | utc_offset_DST           =  
+ | blank_name               = [[Köppen climate classification|Climate]] 
+ | blank_info               = [[Tropical monsoon climate|Am]] 
+ | demographics_type1       = Demographics 
+ | demographics1_title1     = Ethnicities 
+ | demographics1_info1      = [[Urhobo people|Urhobo]], [[Itsekiri people|Itsekiri]], [[Ijaw people|Ijaw]] 
+ | demographics1_title2     = Languages 
+ | demographics1_info2      = [[Nigerian Pidgin|Pidgin English]], [[Urhobo language|Urhobo]], [[Itsekiri]], and 
+ [[Ijaw language|Ijaw]] 
+ | demographics1_title3     = Religions 
+ | demographics1_info3      = 95% [[Christianity]], 3% [[Traditional African religions]], 2% [[Islam]] 
+ | official_name            = Warri 
+ | native_name_lang         =  
+ }} 
+ '''Warri''' is a city in [[Delta State]], [[Nigeria]]. It is very rich in [[oil]].  
+ 
+ ==Notable people== 
+ * Pastor [[Ayo Oritsejafor]], former CAN President 
+ 
+ * [[Nedum Onuoha]], footballer < ref > {{Cite book|url=https://www.worldcat.org/oclc/619938382|title=The PFA footballers' who's who 2010-11|date=2010|publisher=Mainstream|others=Barry J. Hugman|isbn=978-1-84596-601-0|location=Edinburgh|oclc=619938382}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:Cities in Nigeria]] 
+ [[Category:Delta State]]

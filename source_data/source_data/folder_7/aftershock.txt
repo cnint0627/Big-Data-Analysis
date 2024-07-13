@@ -1,0 +1,24 @@
+An '''aftershock''' is a smaller [[earthquake]] which comes after a large earthquake (called the '''main shock''') in the same area. An aftershock is the opposite of a '''foreshock''', which a small earthquake comes before the large earthquake. 
+ 
+ ==Omori's Law== 
+ 
+ There are many laws which refer to aftershocks, but the most famous is Omori's Law. In 1894, [[Fusakichi Omori]] did some works on aftershocks, and firstly he came up with this rule: 
+ 
+ < math > n(t) = \frac {K} {c+t} < /math > 
+ 
+ * " t "  is [[time]]. 
+ * " n(t) "  is the rate of earthquakes in a time after the main shock 
+ * " c "  is a [[constant]] 
+ * " K "  is the [[size]] of the earthquake. 
+ < ref > F. Omori (1894)  " On the aftershocks of earthquakes, "  ''Journal of the College of Science, Imperial University of Tokyo'', vol. 7, pages 111–200. < /ref > 
+ 
+ By 1961, Utsu wanted to change the rule. < ref > Utsu, T. (1961)  " A statistical study of the occurrence of aftershocks, "  ''Geophysical Magazine'', vol. 30, pages 521–605. < /ref > < ref > Utsu, T., Ogata, Y. ,and Matsu'ura, R.S. (1995)  " The centenary of the Omori formula for a decay law of aftershock activity, "  ''Journal of Physics of the Earth'', vol. 43, pages 1–33. < /ref >  His rule looked like this: 
+ 
+ < math > n(t) = \frac {k} {(c+t)^p} < /math > 
+ 
+ where  " p "  changes the rate, this mainly has a number between 0.7 and 1.5. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ [[Category:Earthquakes]]

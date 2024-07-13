@@ -1,0 +1,10 @@
+'''AlphaZero''' is the [[computer program]] developed by [[artificial intelligence]] research company [[DeepMind]]. It plays the games of [[chess]], [[shogi]] and [[Go (game)|go]] better than humans can.   
+ 
+ The [[algorithm]] uses an approach similar to [[AlphaGo Zero]]. Within 24 hours of training it reached a superhuman level of play in all three games. It defeated the previous world-champion programs [[Stockfish (chess)|Stockfish]], [[Elmo (shogi engine)|elmo]], and the three-day version of AlphaGo Zero. < ref name=preprint > {{Cite arXiv|author-link1=David Silver (programmer)|first1=David|last1= Silver|first2=Thomas|last2= Hubert|first3= Julian|last3=Schrittwieser|first4= Ioannis|last4=Antonoglou |first5= Matthew|last5= Lai|first6= Arthur|last6= Guez|first7= Marc|last7= Lanctot|first8= Laurent|last8= Sifre|first9= Dharshan|last9= Kumaran|author-link9=Dharshan Kumaran|first10= Thore|last10= Graepel|first11= Timothy|last11= Lillicrap|first12= Karen|last12= Simonyan|first13=Demis |last13=Hassabis|author-link13=Demis Hassabis |eprint=1712.01815|title=Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm|class=cs.AI|date=2017}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Chess]] 
+ [[Category:Artificial intelligence]] 
+ [[Category:Go (game)]]

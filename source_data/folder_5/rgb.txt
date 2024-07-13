@@ -1,0 +1,69 @@
+[[Image:AdditiveColorMixing.svg|thumb|250px|Additive colour mixing: adding [[red]] to [[green]] yields [[yellow]]; adding [[yellow]] to [[blue]] yields [[white]].]] 
+ '''RGB''', also called '''additive color mixing''', is a color coding using [[light]], with [[red]], [[green]], and [[blue]]. These three are mixed with different levels of brightness to create different colors. For example, to obtain [[white]], they are blended with equal intensity for each. For [[black]], no colour receives any intensity.  
+ 
+ == Representations == 
+ There are several ways of representing RGB colors, which are used in different situations and purposes.  In general, each RGB color consists of red, green and blue light, each of which shines with some intensity; the higher the intensity of (for example) green light, the more 'green' the overall color will seem.  
+ 
+ In some digital systems each of red, green and blue has 256 different intensities, from being completely turned off (level 0) to being completely turned on (level 255).  The three intensities together are usually listed on their own to then represent the overall color.  When the numbers are not annotated with the color they each represent, the first number represents the intensity of red, the second number that of green, and the third number that of blue.  
+ 
+ There are usually different ways of writing these lists, for example when creating [[Website|websites]].  The most common way uses [[hexadecimal]] code, in which the numbers ranging from 0 to 255 can be represented using 2 digits.  This only needs six hexadecimal digits (which may be the numbers 0-9 or the letters A-F) to represent RGB colors. When using hexadecimal code, these digits are preceded with a '#' character.  See the Examples section below.  
+ 
+ An alternative way is to write the numbers in the conventional [[Decimal|denary]] way, then usually enclosed in parentheses with the label 'RGB' to indicate what the numbers stand for. Within computer storage, the three numbers are just stored as [[Binary number|binary numbers]], much like any other data, though the binary representation is not usually used by humans directly.  
+ 
+ == Examples == 
+ The below table shows a few examples of how RGB is used to blend different colours. 
+ {| class= " wikitable " 
+ |+ 
+ !Colour 
+ !Colour Description 
+ !Hexadecimal Code 
+ !Denary Code 
+ |- 
+ | style= " background: #FFFFFF "  | 
+ |White 
+ |#FFFFFF 
+ |RGB(255, 255, 255) 
+ |- 
+ | style= " background: #000000 "  | 
+ |Black 
+ |#000000 
+ |RGB(0, 0, 0) 
+ |- 
+ | style= " background: #FF0000 "  | 
+ |Bright Red 
+ |#FF0000 
+ |RGB(255, 0, 0) 
+ |- 
+ | style= " background: #00FF00 "  | 
+ |Bright Green 
+ |#00FF00 
+ |RGB(0, 255, 0) 
+ |- 
+ | style= " background: #0000FF "  | 
+ |Bright Blue 
+ |#0000FF 
+ |RGB(0, 0, 255) 
+ |- 
+ | style= " background: #00FFFF "  | 
+ |Cyan (Blue-green) 
+ |#00FFFF 
+ |RGB(0, 255, 255) 
+ |- 
+ | style= " background: #FF00FF "  | 
+ |Magenta (Bright Purple) 
+ |#FF00FF 
+ |RGB(255, 0, 255) 
+ |- 
+ | style= " background: #500000 "  | 
+ |Dark Red 
+ |#500000 
+ |RGB(80, 0, 0) 
+ |- 
+ | style= " background: #808080 "  | 
+ |Medium Grey 
+ |#808080 
+ |RGB(128, 128, 128) 
+ |} 
+ {{stub}} 
+ 
+ [[Category:Color]]

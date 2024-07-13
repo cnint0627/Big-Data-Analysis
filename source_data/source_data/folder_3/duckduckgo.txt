@@ -1,0 +1,32 @@
+{{Infobox website 
+ | name = DuckDuckGo 
+ | url = {{URL|https://duckduckgo.com}} 
+ | commercial = Yes 
+ | type = [[Web search engine]] 
+ | registration = None 
+ | language = Many languages 
+ | programming_language = [[Perl]], < ref name= " Buys " > {{cite web|url = http://ostatic.com/blog/duckduckgo-a-new-search-engine-built-from-open-source|title = DuckDuckGo: A New Search Engine Built from Open Source|last = Buys|first = Jon|date = July 10, 2010|publisher = GigaOM OStatic blog|access-date = March 19, 2013|url-status = dead|archive-url = https://web.archive.org/web/20110317053629/http://ostatic.com/blog/duckduckgo-a-new-search-engine-built-from-open-source|archive-date = March 17, 2011}} < /ref >  [[JavaScript]], [[Python (programming language)|Python]] < ref name= " duckduckgo-architecture " > {{cite web|url=https://duck.co/help/company/architecture|title=Architecture|work=DuckDuckGo Community Platform|access-date=March 6, 2015|archive-date=April 22, 2018|archive-url=https://web.archive.org/web/20180422235108/https://duck.co/help/company/architecture|url-status=dead}} < /ref > 
+ | owner = Duck Duck Go, Inc. < ref > {{cite web |url=https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=141641872 |title=Duck Duck Go, Inc.: Private Company Information |access-date=2 May 2017 |publisher=[[Bloomberg L.P.]] }} < /ref > 
+ | author = Gabriel Weinberg 
+ | launch_date = {{start date and age|2008|9|25}} < ref > {{Cite web|url=https://duckduckgo.com/about|title=About DuckDuckGo|website=DuckDuckGo|language=en-US|access-date=2019-03-29}} < /ref > 
+ | revenue =  
+ | current_status = Active 
+ | location = 20 Paoli Pike < br > [[Paoli, Pennsylvania]], [[United States|U.S.]] 
+ | area_served = Worldwide 
+ }} 
+ '''DuckDuckGo''' is a [[search engine]] made by [[Gabriel Weinberg]]. It stresses that it does not collect information about users like [[Google]] does, and keeps data private. It headquarters is in [[Paoli, Pennsylvania|Paoli]], [[Pennsylvania]], United States. As of March 2020, it received 56,256,596 searches every day. < ref > {{Cite web|url=https://duckduckgo.com/traffic|title=DuckDuckGo Traffic|website=DuckDuckGo|language=en-US|access-date=2019-04-11}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{Commons category|DuckDuckGo}} 
+ * {{Official website}} 
+ 
+ [[Category:2008 establishments in the United States]] 
+ [[Category:Companies based in Pennsylvania]] 
+ [[Category:Internet-related organizations]] 
+ [[Category:Search engines]] 
+ 
+ 
+ {{Tech-stub}}

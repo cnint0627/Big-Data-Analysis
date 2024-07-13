@@ -1,0 +1,63 @@
+In [[physics]], '''radiation''' is the emission or transmission of [[energy]] in the form of [[waves]] or [[particles]] through space or through a [[material]] medium. < ref > {{cite web |url=http://scienceworld.wolfram.com/physics/Radiation.html |title=Radiation |last=Weisstein |first=Eric W. |website=Eric Weisstein's World of Physics |publisher=Wolfram Research |accessdate=2014-01-11}} < /ref > < ref > {{cite web |url=http://www.thefreedictionary.com/radiation |title=Radiation |website=The free dictionary by Farlex |publisher=Farlex, Inc. |accessdate=2014-01-11}} < /ref > 
+ 
+ This includes: 
+ # [[electromagnetic radiation]] such as [[radio waves]], [[visible light]], and [[x-ray]]s 
+ # [[particle physics|particle radiation]] such as [[alpha radiation|α]], [[beta particle|β]], and [[neutron]] radiation 
+ # [[acoustics|acoustic]] radiation such as [[ultrasound]], [[sound]] 
+ # [[seismology|seismic waves]]. 
+ 
+ Radiation may also refer to the energy, waves, or particles being radiated. Originally, radiation waves do not contain particles as they are transferred to [[Earth]] by the [[Sun]] for example. 
+ 
+ == Electromagnetic radiation == 
+ Many people are already familiar with [[electromagnetic radiation]] (EMR), including light.  The [[electromagnetic spectrum]] shows the types of radiation according to their [[wavelength]] and [[frequency]]. Some kinds are: 
+ * '''Ionizing radiation''' comes from [[radioactive]] materials and [[X-ray]] machines and '''non-ionizing radiation''' comes from other sources. Ionizing radiation carries more than 10 [[eV]] (electronvolts), which is enough to ionize atoms and molecules, and break [[chemical bond]]s. This is important for its harmfulness to living organisms. Non-ionizing radiation does not cause microscopic damage, but it can make things hotter and some types can cause chemical changes. 
+ ** '''X-rays and gamma rays''': These very strong rays are commonly used in medicine to photograph the interior of the body and treat [[cancer]]. However, in large amounts, they are dangerous to life. 
+ ** '''Ultraviolet light''': This is a type of radiation with more energy than visible light. It gives people a [[sunburn]]. Ultraviolet light is used to kill [[bacteria]]. 
+ * '''Visible light''': This is the radiation that we see all around us as what most people call ‘light’. It can make chemical changes. 
+ * '''Infrared waves''': Objects at room temperature emit [[infrared]] radiation. Although humans cannot see it, special cameras can pick up this kind of radiation. 
+ * '''Radio waves''': This is the kind of electromagnetic radiation with the longest waves.  Radio waves are used to send and receive communications. 
+ ** '''Micro-waves''': This kind of radio wave is used by a microwave oven to warm up food. [[Microwave]]s are also used for communications, as weapons, and to move electrical power from one place to another. 
+ ** '''Radar waves''': This kind of radio wave is used to detect air planes in the sky and ships in the ocean. [[Radar]] is also used to see changes in weather. 
+ 
+ == Danger from radiation == 
+ [[Ionizing radiation]] is radiation that carries enough energy to free [[electrons]] from atoms or molecules. 
+ 
+ Only certain types of radiation are harmful to humans. For example, ultraviolet radiation can give people sunburns. X-rays and gamma rays can make a person sick, or even [[death|die]], depending on the dose they get. Some types of particle radiation can also make people sick and lead to burns. If radiation does not carry high enough levels of energy, though, then these changes will not happen when something is hit by the radiation. This is referred to as '''non-ionizing radiation''', which is not as dangerous. 
+ 
+ One can distinguish between various types of radiation by looking at the source of the radiation, its wavelength (if the radiation is electromagnetic), the amount of energy being carried, any particles involved, etc. Radioactive material is a material which emits radiation. [[Uranium]] and [[plutonium]] are examples of radioactive materials. The atoms they are made of tend to fall apart and give off different kinds of radiation, like [[gamma rays]] and lots of particle radiation. 
+ 
+ == Ionizing radiation by type == 
+ Ionizing radiation can kill living things. It can cause [[genetics|genetic]] [[mutation]]s, as shown by [[H.J. Muller]]. It can destroy cells in the body which divide, and thus indirectly kill a person. 
+ * [[Radioactive decay|Alpha radiation]], a type of particle radiation made up of the [[atomic nucleus|nuclei]] of [[helium]] atoms. 
+ * [[Radioactive decay|Beta radiation]], another type of particle radiation made up of high energy [[electron]]s or [[positron]]s. 
+ * [[Neutron radiation]], yet another type of particle radiation made up of high energy [[neutrons]]. 
+ * [[Gamma rays|Gamma radiation]] (Gamma rays), a type of radiation made up of high energy [[photons]]. 
+ * [[X-rays|X-ray radiation]] (X-rays), a type of radiation also made up of [[photons]] but which typically contain less energy than [[gamma rays]]. 
+ 
+ == Non-ionizing radiation by type == 
+ * [[Ultraviolet radiation]], also known as [[UV]]. 
+ * [[Visible light]] 
+ * [[Infrared radiation]] 
+ * [[Radio wave]]s including 
+ ** [[Microwave radiation]] 
+ * [[Gravitational radiation]], a predicted consequence of [[general relativity]]. 
+ * [[Sound]] waves 
+ 
+ ==Related pages== 
+ * [[Background radiation]] 
+ * [[Cosmic microwave background radiation]], 3K [[blackbody radiation]] that fills the [[Universe]] 
+ * [[Laser]] 
+ * [[Maser]] 
+ * [[Radiation damage]] – destructive effects on materials and devices 
+ * [[Radiation poisoning]] – destructive effects on life forms 
+ * [[Radiation hardening]] – making devices resistant to failure in high radiation environments 
+ * [[Radioactive contamination]] 
+ * [[Radioactive decay]] 
+ * [[Radiation accidents]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Basic physics ideas]] 
+ [[Category:Wave physics]] 
+ [[Category:Nuclear physics]]

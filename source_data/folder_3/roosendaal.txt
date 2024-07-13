@@ -1,0 +1,91 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Roosendaal 
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Rijksmonumenten Roosendaal 224.JPG 
+ | image_alt               =  
+ | image_caption           = Roosendaal city hall 
+ | image_flag              = Roosendaal vlag.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Roosendaal wapen.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 1674 (2009).svg 
+ | map_alt                 = Highlighted position of Roosendaal in a municipal map of North Brabant 
+ | map_caption             = Location in North Brabant 
+ | coordinates             = {{coord|51|32|N|4|27|E|region:NL|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|North Brabant}} 
+ | government_footnotes    =  < ref name= " mayor_now " > {{cite web 
+  |url         = http://www.roosendaal.nl/Bestuur_en_organisatie/College_van_B_W/Samenstelling_en_portefeuilleverdeling/Burgemeester_mr_J_M_L_Jacques_Niederer 
+  |title       = Burgemeester mr. J.M.L. (Jacques) Niederer 
+  |language    = nl 
+  |publisher   = Gemeente Roosendaal 
+  |access-date  = 3 June 2014 
+  |url-status     = dead 
+  |archive-url  = https://web.archive.org/web/20150924092020/http://www.roosendaal.nl/Bestuur_en_organisatie/College_van_B_W/Samenstelling_en_portefeuilleverdeling/Burgemeester_mr_J_M_L_Jacques_Niederer 
+  |archive-date = 24 September 2015 
+  |df          = dmy-all 
+ }} < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = [[People's Party for Freedom and Democracy|VVD]] 
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[Jacques Niederer]] 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Roosendaal}} 
+ | area_land_km2           = {{Dutch municipality land area|Roosendaal}} 
+ | area_water_km2          = {{Dutch municipality water area|Roosendaal}} 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web  
+  |url = http://www.ahn.nl/postcodetool 
+  |title = Postcodetool for 4701NK 
+  |language = nl 
+  |author =  < !--Staff writer(s); no by-line.-- >   
+  |work = Actueel Hoogtebestand Nederland 
+  |publisher = Het Waterschapshuis 
+  |access-date = 3 June 2014}} < /ref > 
+ | elevation_m             = 3 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Roosendaal}} 
+ | population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|Roosendaal}}  < !-- For automatic calculation: auto-- > 
+ | population_demonym      = Roosendaler, Roosendaalder 
+ < !-- Other information -- > 
+ | timezone                = [[Central European Time|CET]] 
+ | utc_offset              = +1 
+ | timezone_DST            = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST          = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 4700–4709, 4724–4727 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 0165 
+ | website                 = {{URL|1=http://www.roosendaal.nl}} 
+ | footnotes               = 
+ }} 
+ '''Roosendaal''' is a [[List of municipalities of the Netherlands|municipality]] in the [[Netherlands|Dutch]] [[Provinces of the Netherlands|province]] of [[North Brabant]]. In 2019, 77,032 people lived there. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{North Brabant Province}} 
+ 
+ {{europe-stub}} 
+ {{authority control}} 
+ [[Category:Cities in North Brabant]] 
+ [[Category:Municipalities of North Brabant]]

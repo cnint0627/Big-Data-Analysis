@@ -1,0 +1,13 @@
+[[Image:Triangle_on_globe.jpg|thumb|300px|On a sphere, the sum of the [[angle]]s of a [[triangle]] is not equal to 180°.  A sphere is not a Euclidean space, but locally the laws of the Euclidean geometry are good approximations. In a small triangle on the face of the earth, the sum of the angles is almost 180°.  A sphere can be represented by several  two dimensional maps, therefore a sphere is a manifold.]] 
+ A '''manifold''' is a concept from [[mathematics]].  Making a manifold is like making a flat map of a sphere (the Earth). 
+ 
+ The Earth is a [[sphere]], a three dimensional object of [[geometry]]. Yet, [[map]]s (two-dimensional representations) can be made of the Earth. At the edges of a certain map, the map needs to be changed. That way it is possible to make a two dimensional image of the whole [[surface]] of the Earth. There need to be [[rule]]s, on how to change the maps, and some [[area]]s (near the edges of the map) will be on more than one map. It is not possible to make one map only, which would have no edges. This map would either have edges (and overlapping areas), or there would be some places where the paper was torn. Tearing and overlapping isn't allowed. 
+ 
+ [[File:Hyperbolic triangle.svg|thumb|250px|right|A triangle drawn on a saddle shape has angles that add up to less than 180.]] 
+ 
+ Other shapes can be manifolds too. For example, a [[hyperbolic geometry|hyperbolic plane]] is a shape that looks like a saddle or leaf of lettuce. If you try to press it down onto a piece of paper, it will have wrinkles, and it will go on forever past the edges of the paper. But you can make a map of part of it by squishing the edges, just like with the Earth you can make a map by taking part of it and stretching the edges. 
+ 
+ Each manifold has a [[dimension]]. This is the number of dimensions of the maps, in the example above. It is the same for all maps.  
+ {{Math-stub}} 
+ [[Category:Differential geometry]] 
+ [[Category:Topology]]

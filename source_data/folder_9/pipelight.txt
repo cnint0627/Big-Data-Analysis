@@ -1,0 +1,40 @@
+{{More citations needed|date=June 2021}} 
+ {{Infobox software 
+ | name                   =  
+ | title                  =  
+ | logo                   =  < !-- Image name is enough -- > 
+ | logo caption           =  
+ | logo_size              =  
+ | logo_alt               =  
+ | screenshot             =  < !-- Image name is enough -- > 
+ | caption                =  
+ | screenshot_size        =  
+ | screenshot_alt         =  
+ | collapsible            =  
+ | author                 =  
+ | developer              =  
+ | released               =  < !-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -- > 
+ | discontinued           =  
+ | latest release version =  
+ | latest release date    =  < !-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -- > 
+ | latest preview version =  
+ | latest preview date    =  < !-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -- > 
+ < !-- | status                 = --- > 
+ | programming language   = [[C (programming language)|C]], [[C++]] 
+ | operating system       = [[Linux]] 
+ | platform               =  
+ | size                   =  
+ | language               =  
+ | language count         =  < !-- Number only -- > 
+ | language footnote      =  
+ | genre                  = [[compatibility layer]] 
+ | license                = GNU GPL v2, GNU LGPL v2.1, Mozilla Public License 
+ | website                = {{URL|https://launchpad.net/pipelight}} 
+ }} 
+ '''Pipelight''' is a [[compatibility layer]] that allows [[NPAPI]] plugins for [[Microsoft Windows|Windows]] to be used on [[Linux]]. It is a modified version of [[Wine (software)|Wine]]. [[Silverlight]], [[Adobe Flash Player|Flash Player]], [[Unity (game engine)|Unity Web Player]] and [[Widevine]] run. More plugins, such as [[Adobe Shockwave|Shockwave]], run experimentally. The web browser must be able to use NPAPI plugins. Some web browsers (notably newer versions of [[Google Chrome|Chrome]] and [[Opera (web browser)|Opera]], and Firefox 52 and later < ref > {{cite web | url = https://www.mozilla.org/en-US/firefox | title = Firefox —  Notes (52.0) — Mozilla | date = 2017-03-07 | website = Mozilla.org | publisher = Mozilla | access-date = 2017-03-18}} < /ref > ) are not. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Internet]] 
+ [[Category:Linux software]]

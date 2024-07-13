@@ -1,0 +1,11 @@
+'''BIOS''', [[computing]], stands for '''Basic Input/Output System'''. The BIOS is a [[computer program]] embedded on a chip on a computer's [[motherboard]] that recognizes and controls various devices that make up the [[computer]]. The purpose of the BIOS is to make sure all the things plugged into the computer can work properly. It brings life to the computer, and the term is a pun{{Citation needed|date=May 2022}} on the [[Greek Language|Greek]] word {{lang|grc|[[wikt:βίος|βίος]]}}, ''bios'' meaning  " [[life]] " . < ref > {{Cite web|url=http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=bi/os1|title=Henry George Liddell, Robert Scott, A Greek-English Lexicon, βίος|website=www.perseus.tufts.edu|accessdate=2017-03-10}} < /ref > 
+ 
+ " [[Booting]] " , sometimes called  " Booting up "  is the process that the computer completes to get it ready to use when it is first turned on. When the computer turns on, the BIOS starts up and performs a Power-On Self Test ([[POST]]). During the POST, the BIOS will check various devices in the computer like the [[CPU|computer processor]], [[RAM|memory]], the [[video card]] and others to make sure they are present and functioning. Once the POST has completed successfully, the BIOS looks for an [[operating system]] to load, which is usually located on the computer's [[hard drive]]. When it finds one, it starts to load it. At this point, the operating system takes over control of the system. 
+ 
+ ==Overclocking== 
+ Some people try to configure their computer to run faster than it was designed to do. This is called  " [[overclocking]] " . Since the BIOS controls the computer processor, entering the BIOS setup screen while it is booting up gives people access to advanced computer settings. For most computers, pressing the delete or F12 button while the computer is booting up will bring up the BIOS setup screen. There are many ways a computer can be overclocked to run faster, but most involve simply turning up the speed of the computer processor. Doing this will usually make your computer run much hotter, though, and can sometimes break your computer, which is why overclocking will usually void your computer's warranty. Only people who are computer hardware experts should attempt to overclock their computers. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Software]]

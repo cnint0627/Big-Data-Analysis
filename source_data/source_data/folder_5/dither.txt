@@ -1,0 +1,20 @@
+{{Orphan|date=December 2010}} 
+ '''Dithering''' is the intentional use of [[noise]] (random sounds) to reduce the error of compression.  
+ 
+ Example below:  
+ {{Image gallery 
+ |lines=6 
+ |width=260 
+ |File:Dithering example undithered.png|Figure 1. Original photo; note the smoothness in the detail. 
+ |File:Dithering example undithered web palette.png|Figure 2. Original image using the web-safe color palette with no dithering applied. Note the large flat areas and loss of detail. 
+ |File:Dithering example dithered web palette.png|Figure 3. Original image using the web-safe color palette with [[Floyd–Steinberg dithering]]. Note that even though the same palette is used, the application of dithering gives a better representation of the original. 
+ |File:Dithering example dithered 256color.png|Figure 4. Here, the original has been reduced to a 256-color optimized palette with [[Floyd–Steinberg dithering]] applied. The use of an optimized palette, rather than a fixed palette, allows the result to better represent the colors in the original image. 
+ |File:Dithering example undithered 16color.png|Figure 5. Depth is reduced to a 16-color optimized palette in this image, with no dithering. Colors appear muted, and color banding is pronounced. 
+ |File:Dithering example dithered 16color.png|Figure 6. This image also uses the 16-color optimized palette, but the use of dithering helps to reduce banding. 
+ }} 
+ 
+ [[Category:Digital signal processing]] 
+ [[Category:Computer graphics]] 
+ [[Category:Sound]] 
+ 
+ {{tech-stub}}

@@ -1,0 +1,37 @@
+'''Infinitesimals''' are quantities that are too small to measure.  
+ 
+ == Infinitesimal calculus == 
+ 
+ [[Isaac Newton|Newton]] and [[Gottfried Leibniz|Leibniz]] developed the calculus based on an intuitive notion of an infinitesimal. In 1870, [[Karl Weierstraß]] provided the first rigorous treatment of the calculus, using the [[Limit (mathematics)|limit]] method. But in 1960, Abraham Robinson found that infinitesimals also provide a rigorous basis for the calculus. Many calculus courses still begin with the difficult [[Limit (mathematics)|limit]] concept, but others now adopt the easier to understand infinitesimal concept. 
+ 
+ In [[differential calculus]], in both the limit and infinitesimal versions, the [[velocity]] of a particle is represented by  < math > \tfrac{ds}{dt} < /math > , where ''s'' is the position of the particle and ''t'' the time at which the velocity is measured. In infinitesimal calculus, d''s'' and d''t'' are simply very small quantities. In general, the term  < math > dx < /math >  is called the differential of the variable  < math > x < /math > . < ref > {{Cite web|date=2020-05-11|title=List of Calculus and Analysis Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/|access-date=2020-10-14|website=Math Vault|language=en-US}} < /ref > 
+ 
+ Assume that ''s'' = ''t'' < sup > 2 < /sup > , we have that at time ''t'' + d''t'', ''s'' + d''s'' = (t + d''t'') < sup > 2 < /sup > . From these equations, we can determine d''s'' in terms of d''t'' by using simple [[algebra]] as follows: 
+ 
+     < math >  \begin{align} ds  &  = (t + dt)^2-t^2  
+   \\  &  = t^2 + 2t(dt) + (dt)^2-t^2 \\  &  = 2t(dt) + (dt)^2 \end{align} < /math > 
+ which means that: 
+ 
+     < math >   v = \frac{ds}{dt} = 2t + dt < /math > 
+ 
+ Because d''t'' is infinitesimal, one can just ignore it, so the instantanous velocity is ''v'' = 2''t''. One gets the same result using the limit version, with greater rigour. The infinitesimal derivation can also be made more rigorous. 
+ 
+ == Related pages == 
+ 
+ * [[Derivative (mathematics)]] 
+ 
+ == References == 
+ 
+ === Citations === 
+ < references / > 
+ 
+ ===Sources=== 
+ {{Refbegin}} 
+ * B. Crowell, [http://www.lightandmatter.com/calc/  " Calculus " ] (2003) 
+ * J. Keisler, [http://www.math.wisc.edu/~keisler/calc.html  " Elementary Calculus " ] (2000) University of Wisconsin 
+ * K. Stroyan [http://www.math.uiowa.edu/%7Estroyan/InfsmlCalculus/InfsmlCalc.htm  " Foundations of Infinitesimal Calculus " ] {{Webarchive|url=https://web.archive.org/web/20081222012119/http://www.math.uiowa.edu/~stroyan/InfsmlCalculus/InfsmlCalc.htm |date=2008-12-22 }} (1993) 
+ {{refend}} 
+ 
+ {{Calculus topics}} 
+ 
+ [[Category:Measurement]]

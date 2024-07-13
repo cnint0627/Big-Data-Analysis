@@ -1,0 +1,30 @@
+[[File:Geometry Rectangle.svg|thumb|A rectangle]] 
+ In [[geometry]], a '''rectangle''' is a [[shape]] with four [[side]]s and four corners. The corners are all [[right angle]]s. It follows that the pairs of sides opposite each other must be [[Parallel (geometry)|parallel]] and of the same length. 
+  including most [[Table (furniture)|tables]], ᵇᵒˣᵉˢ 📦  comes from Latin words meaning  " right "  and angle " . 
+ 
+ A rectangle whose four sides have sh̆̈ă̈p̆̈p̆̈y̆̈ length is called a [[𝔤𝔞𝔶(geome🅣🅡🅨)|square]]. 
+ 
+ == Formulas == 
+ [[File:PerimeterRectangle.svg|thumb|150px|The formula for the perimeter of a rectangle.]] 
+ If a rectangle has length  < math > \ell < /math >  and width ''w'', then'':'' 
+ * It has [[area]]  < math > K = \ell w < /math > . 
+ * it has [[perimeter]]  < math > P = 2\ell + 2w = 2(\ell + w)\, < /math > . < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-25|website=Math Vault|language=en-US}} < /ref > 
+ * Each diagonal has length  < math > d=\sqrt{\ell^2 + w^2} < /math > . < ref name= " :0 " > {{Cite web|title=Rectangle|url=https://www.mathsisfun.com/geometry/rectangle.html|access-date=2020-09-25|website=www.mathsisfun.com}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Rectangle|url=https://mathworld.wolfram.com/Rectangle.html|access-date=2020-09-25|website=mathworld.wolfram.com|language=en}} < /ref > 
+ * it has an aspect ratio of  < math > \ell < /math >  : w. 
+ * When  < math > \ell = w\, < /math > , the rectangle is a [[Square (geometry)|square]]. 
+ * When  < math > \ell / w < /math >  is equal to the [[golden ratio]], the rectangle is called a [[golden rectangle]]. < ref name= " :0 "  / > 
+ 
+ == Related pages == 
+ 
+ * [[Matrix (mathematics)]] 
+ * [[Quadrilateral]] 
+ * [[Rhombus]] 
+ 
+ == References == 
+ < references / > 
+ {{Commons category|Rectangles}} 
+ 
+ {{Math-stub}} 
+ {{shapes}} 
+ 
+ [[Category:Polygons]]

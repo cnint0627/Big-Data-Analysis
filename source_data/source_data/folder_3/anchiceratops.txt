@@ -1,0 +1,96 @@
+{{Italictitle}} 
+ {{automatic taxobox 
+ | fossil_range = [[Late Cretaceous]], {{Fossil range|72|71|earliest=76.5|latest=70}} 
+ | image = Anchiceratops.png 
+ | image_caption = Skull cast of TMP 1983.001.0001, Geological Museum (Copenhagen) 
+ | taxon = Anchiceratops 
+ | authority = [[Barnum Brown|Brown]], [[1914 in paleontology|1914]] 
+ | type_species = {{extinct}}'''''Anchiceratops ornatus''''' 
+ | type_species_authority = Brown, 1914 
+ | synonyms = ''Anchiceratops longirostris''  < br/ > < small > [[C.M. Sternberg]], 1926 < /small > 
+ }} 
+ '''''Anchiceratops''''' was a kind of [[Herbivore|plant-eating]] [[dinosaur]]. It had a long frill on the back of its head and three [[horn]]s on its face. There were two long ones above its eyes and one shorter one on its nose. It was similar to ''[[Triceratops]]'', which also had these features. ''Anchiceratops'' was found in the Horseshoe Canyon Formation, which is a fossil site in [[Alberta]]. There is just one species of ''Anchiceratops'', ''A. ornatus''. 
+ 
+ == History of Finds == 
+ [[File:Anchiceratops ornatus skeleton.jpg|thumb|left|300px|The skeleton found by Sternberg]] 
+ [[Barnum Brown]] found the first ''Anchiceratops'' skulls in 1912. He gave them their name, ''Anchiceratops ornatus'', in 1914, two years later. ''Anchiceratops'' means  " almost ''[[Ceratops]]'' "  and ''ornatus'' means  " ornate " . In 1924, C. M. Sternberg discovered another skull. It was smaller and had a long beak. In 1929, he named this species ''A. longirostris'', meaning  " long snout. "  However, in 1990, Leham decided that ''A. longirostris'' was only the female of ''A. ornatus''. Another study done by Dodson and Currie in the same year agreed with this idea. < ref name= " Paleobiodb " > {{cite web | url=https://paleobiodb.org/classic/checkTaxonInfo?taxon_no=63447 & is_real_user=1 | title=PBDB }} < /ref >  In 1925, Sternberg found a headless skeleton that he thought belonged to ''Anchiceratops''. However, it could belong to ''Arrhinoceratops'' or a new genus. Other skulls have been found but they have never been described. < ref name= " Dodson " > Dodson, Peter. ''The Horned Dinosaurs: A Natural History''. Princeton, NJ: Princeton, 1996. Print. < /ref > 
+ 
+ == Description == 
+ [[File:Anchiceratops Size.svg|thumb|left|Size compared to a human]] 
+ ''Anchiceratops'' could be 4.5 meters (15 feet) long and 1.5 tonnes (1.65 tons) in weight. If the unnamed skeleton belonged to ''Anchiceratops'', then it would only be 4.3 meters (14 feet) and weigh just 1.2 tonnes (1.32 tons). < ref name= " Paul "  / > 
+ 
+ ''Anchiceratops'' had a short nose horn that went forwards. The horns above its eyes (brow horns) were long and went a bit to the side. They were slightly curved. The frill was narrow and had many small hornlets on its outside edge. It did not angle upwards very far. The snout on some specimens is very long. < ref name= " Paul "  / > 
+ 
+ The skeleton that may belong to this dinosaur was strange. It was smaller than in most other ceratopsids. It had a long neck and strong arms, < ref name= " Paul " > Paul, Gregory S. ''The Princeton Field Guide to Dinosaurs''. 2nd ed. Princeton, NJ: Princeton UP, 2016. Print. < /ref >  but it had a short tail with only 38 vertebrae instead of 45. The length of its thighbone was 74 centimeters and its shin was 51.5 centimeters long. < ref name= " Dodson "  / > 
+ 
+ == Classification == 
+ [[File:Anchiceratops dinosaur.png|thumb|right|Reconstruction]] 
+ 
+ ''Anchiceratops'' was classified like this by Scott Sampson in 2010. This family tree shows many related ceratopsids. < ref name= " Sampson " > Scott D. Sampson, Mark A. Loewen, Andrew A. Farke, Eric M. Roberts, Catherine A. Forster, Joshua A. Smith, and Alan L. Titus (2010). Stepanova, Anna, ed.  " [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012292 New Horned Dinosaurs from Utah Provide Evidence for Intracontinental Dinosaur Endemism] " . PLoS ONE. 5 (9): e12292. < /ref > 
+ {{clade| style=font-size:85%;line-height:85% 
+ |1={{clade 
+    |1=[[Centrosaurinae]] 
+    |label2=[[Chasmosaurinae]] 
+    |2={{clade 
+       |1={{clade 
+          |1=''[[Chasmosaurus]] ruselli'' 
+          |2=''[[Chasmosaurus]] belli'' 
+          }} 
+       |2={{clade 
+          |1=''[[Mojoceratops]] perifania'' 
+          |2={{clade 
+             |1=''[[Agujaceratops]] mariscalensis'' 
+             |2={{clade 
+                |1={{clade 
+                   |1=''[[Utahceratops]] gettyi'' 
+                   |2=''[[Pentaceratops]] sternbergi'' 
+                   }} 
+                |2={{clade 
+                   |1=''[[Coahuilaceratops]] magnacuerna 
+                   |2={{clade 
+                      |1={{clade 
+                         |1=''[[Kosmoceratops]] richardsoni'' 
+                         |2=''[[Vagaceratops]] irivensis'' 
+                         }} 
+                      |2={{clade 
+                         |1='''''Anchiceratops ornatus''''' 
+                         |2={{clade 
+                             |1=''[[Arrhinoceratops]] brachyops'' 
+                             |2={{clade 
+                                |1=''[[Ojoceratops]] fowleri'' 
+                                |2=''[[Eotriceratops]] xerinsularis'' 
+                                |3={{clade 
+                                   |1={{clade 
+                                      |1=''[[Torosaurus]] latus'' 
+                                      |2=''[[Torosaurus]] utahensis'' 
+                                      }} 
+                                   |2={{clade 
+                                      |1=''[[Nedoceratops]] hatcheri'' 
+                                      |2={{clade 
+                                         |1=''[[Triceratops]] horridus'' 
+                                         |2=''[[Triceratops]] prorsus'' 
+                                         }} 
+                                      }} 
+                                   }} 
+                                }} 
+                             }} 
+                          }} 
+                       }} 
+                    }} 
+                 }} 
+              }} 
+           }} 
+        }} 
+     }} 
+  }} 
+ 
+ == Paleoecology == 
+ [[File:Anchiceratops facing off.jpg|thumb|right|''Anchiceratops'' in their habitat]] 
+ ''Anchiceratops'' lived in the Horseshoe Canyon Formation. ''Arrhinoceratops'' and one other ceratopsid may also have lived there. When ''Anchiceratops'' was alive the Horseshoe Canyon Formation was a floodplain with forests. < ref name= " Paul "  / >  ''Anchiceratops'' seems to have liked marshy places, unlike  other ceratopsids that liked drier locations. < ref name= " Dodson "  / > 
+ 
+ == Sources == 
+ {{reflist}} 
+ 
+ {{commons category|Anchiceratops}} 
+ 
+ [[Category:Ceratopsids]]

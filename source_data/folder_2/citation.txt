@@ -1,0 +1,65 @@
+[[File:LaTeX bibliography plain.svg|thumb|right|450px|{{Center|An example of a [[bibliography]]}}]] 
+ {{Distinguish|Wikipedia:Citing sources}} 
+ A '''citation''' or '''source citation''' is a [[wikt:reference|reference]] to a published work (for [[example]], a [[book]], [[article]], [[image]], etc.,) that is used when creating a [[writing|written work]]. < ref > {{cite web |url=http://libguides.mit.edu/citing |title=Citing sources: Overview |website=MIT Libraries |publisher=Massachusetts Institute of Technology |access-date=24 August 2016}} < /ref >  It shows readers where specific pieces of [[information]] came from and where readers can locate it for themselves. < ref > {{cite web |url=https://www.ncsu.edu/labwrite/res/res-citsandrefs.html |title=Citations and References; Documenting your Sources |date=2004 |website=LabWrite Resources |publisher=NC State University |access-date=24 August 2016}} < /ref >  It [[wikt:acknowledge|acknowledge]]s or gives [[wikt:credit#Verb|credit]] to the [[author]] who actually created the content being used in a paper. < ref name=keepsafe > {{cite web |url=http://ikeepsafe.org/be-a-pro/ethics/how-do-i-correctly-cite-internet-sources/ |title=How Do I Correctly Cite Internet Sources |publisher=Internet Keep Safe Coalition |access-date=24 August 2016 |archive-date=25 August 2016 |archive-url=https://web.archive.org/web/20160825225025/http://ikeepsafe.org/be-a-pro/ethics/how-do-i-correctly-cite-internet-sources/ |url-status=dead }} < /ref >  The opposite of a citation is [[plagiarism]], or not giving credit to others for their ideas, concepts, or images. < ref name=keepsafe/ >  Plagiarism, especially in [[academia]], is considered taking the work of others and presenting it as one's own. < ref name=Oxford > {{cite web |url=https://www.ox.ac.uk/students/academic/guidance/skills/plagiarism?wssl=1 |title=Plagiarism |date=2016 |publisher=University of Oxford |access-date=24 August 2016}} < /ref >  The penalties for plagiarism can be severe. < ref > {{cite web |url=http://www.ithenticate.com/resources/6-consequences-of-plagiarism |title=6 Consequences of Plagiarism |website=√iThenticate |publisher=Turnitin, LLC |access-date=26 August 2016}} < /ref >  Source citations also give a work [[wikt:credible|credibility]]. In other words, it shows the information is simply not made up. 
+ 
+ == What to cite == 
+ In general, different academic situations will have different rules for what to cite and how to cite it. < ref name=academicInteg > {{cite web |url=https://www.princeton.edu/pr/pub/integrity/pages/cite/ |title=When to Cite Sources |website=Academic Integrity |publisher=Princeton University |access-date=24 August 2016}} < /ref >  Some use [[wikt:footnote|footnote]]s while others may require in-text (also called inline) source citations. < ref name=academicInteg/ > ( < span style= " color:#0000FF " > ← < small > This is an inline source citation < /small > < /span > ) Some may require a [[bibliography]] which lists all works that were used. < ref name=academicInteg/ >  In some cases, it may only be necessary to provide a list of  " works cited. " < ref name=academicInteg/ >  It is important to know in advance what [[wikt:protocol|protocol]]s must be used and what citation style (see below) is [[wikt:prefer|prefer]]red. < ref name=academicInteg/ > 
+ 
+ * '''Quotations''' Anything taken word-for-word from a source must be shown in [[quotation mark]]s ( "   " ). < ref name=academicInteg/ >  The quotation must have a source citation showing where the quoted text came from. < ref name=academicInteg/ > 
+ 
+ ::For example:  " Quality or junk? How do you want your research described by others? " < ref name=MillsSKBLDR > {{cite web |url=http://www.bcgcertification.org/skillbuilders/skbld959.html |title=Citing Your Sources |author=Elizabeth Shown Mills |date=1 September 1995 |website=Skillbuilding |access-date=24 August 2016 |archive-date=25 August 2016 |archive-url=https://web.archive.org/web/20160825151047/http://www.bcgcertification.org/skillbuilders/skbld959.html |url-status=dead }} < /ref > 
+ 
+ * '''Paraphrase''' To [[wikt:paraphrase|paraphrase]] is to take someone's words or ideas and put them in the words of the person writing the paper. < ref name=academicInteg/ >  Anything paraphrased should be source cited. < ref name=academicInteg/ >  A paraphrase is usually about the same number of words as the original but does not use quotation marks. < ref name=academicInteg/ > 
+ 
+ ::Example (original text):  " And there is only one fault so obvious, so fundamental, that it instantly brands a piece of work as the product of an amateur or careless researcher: ''poor source citations'' " . < ref name=MillsSKBLDR/ >  Paraphrased: Poor quality source citations usually indicate that a piece of work is either careless research or the work of an amateur. < ref name=MillsSKBLDR/ > 
+ 
+ * '''Summarize''' A [[summary]] is a short version of another work in the writer's own words. < ref name=academicInteg/ >  A summary is usually shorter than the original. When summarizing someone else's work, a source citation is necessary. < ref name=academicInteg/ > 
+ 
+ ::Example (original text):  " When you don’t know when to cite, you end up plagiarizing which is just a big word for stealing and that’s mean. And when you plagiarize, you also get an “F” and people think, “Dude, that kid is one dumb bunny.” Let’s avoid that, shall we? " < ref name=Albemarle > {{cite web |url=https://www2.k12albemarle.org/school/HMS/library/Documents/Citations%20for%20Dummies.pdf |title=Citations for Dummies |publisher=Albemarle County Public Schools, Charlottesville, VA |access-date=26 August 2016 }}{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  Summarized: When you do not understand source citations, it is easy to plagiarize someone else's work. So you do not get an  " F "  for your work, the following are the basic rules. < ref name=Albemarle/ > 
+ 
+ * '''Facts and ideas''' Using facts and [[information]] to support an [[argument]] generally requires a source citation. Facts do not always need to be source cited, especially if they are commonly known ([[Exempli gratia|e.g.]] water [[wikt:freeze|freeze]]s at 32 degrees [[Fahrenheit]]). Ideas, however, should always be cited. < ref name=academicInteg/ > 
+ 
+ == What is not necessary to cite == 
+ You do not need to cite anything that is [[common knowledge]]. < ref name=HGUSC > {{cite web |url=http://usingsources.fas.harvard.edu/icb/icb.do?keyword=k70847 & pageid=icb.page342055 |title=The Exception: Common Knowledge |website=Harvard Guide to Using Sources |publisher=President and Fellows of Harvard College |access-date=24 August 2016}} < /ref >  These are things that would be known by nearly everyone. Examples of common knowledge are: 
+ * Facts that are widely available in many sources. < ref name=HGUSC/ >  For example: [[Andrew Jackson]] was the seventh [[President of the United States]]. 
+ * Things that are easy to [[wikt:observe|observe]] or see. < ref name=Oxford/ >  For example: Many people use [[cell phone]]s today. 
+ * Common [[saying]]s. < ref name=Oxford/ >  For example: To make a long story short... 
+ 
+ But when in doubt, cite it. 
+ 
+ == What a source citation includes == 
+ A source citation typically includes several key pieces of information including: 
+ * The name of the author or authors. < ref name=UCMerced > {{cite web |url=http://libanswers.ucmerced.edu/faq/95930 |title=Q. What information should be included in a citation? |website=UCMerced |publisher=University of California, Merced, CA |access-date=24 August 2016}} < /ref > 
+ * The name of the book, article, or publication. < ref name=UCMerced/ > 
+ * The date the work was published. < ref name=UCMerced/ > 
+ * When it was [[wikt:accessed|accessed]], if it was found [[Internet|online]]. < ref name=UCMerced/ > 
+ * The [[URL]], if it is an online [[webpage]]. < ref name=GeorgiaTech > {{cite web |url=http://libguides.gatech.edu/c.php?g=53980 & p=348445 |title=Research/Writing/Citing Sources: How to Read a Citation |publisher=Georgia Tech Library |access-date=24 August 2016 |archive-date=20 August 2016 |archive-url=https://web.archive.org/web/20160820154112/http://libguides.gatech.edu/c.php?g=53980 & p=348445 |url-status=dead }} < /ref > 
+ * The place of publication. < ref name=GeorgiaTech/ > 
+ * The name of the [[publisher]]. < ref name=GeorgiaTech/ > 
+ * The page number or numbers. < ref name=GeorgiaTech/ >  For example, p. & nbsp;1, 21, 33 (means the information is on these pages) or pp. & nbsp;55–60 (meaning the information is found on pages 55 through 60). 
+ 
+ == Citation styles == 
+ The main citation styles that are used include: 
+ 
+ * '''APA style''' (American Psychological Association) is the style is the most commonly used style in the [[social sciences]]. < ref name=OwlAPA > {{cite web |url=https://owl.english.purdue.edu/owl/section/2/10/ |title=APA Style |website=Purdue Online Writing Lab |publisher=Purdue University |access-date=24 August 2016}} < /ref >  The guideline is found in the ''Publication Manual of the American Psychological Association'', Sixth Edition. < ref name=OwlAPA/ > 
+ 
+ ::Example (bibliographic style):  < span style= " color:#0000FF " > (Smith, 2004, p. 39) < /span >  Here  " Smith "  is the author of a work fully listed in the bibliography. The page number is 39. 
+ 
+ * '''MLA Style''' (Modern Language Association) is the style used for writing and formatting [[Research|research papers]] in the [[liberal arts]] and the [[humanities]]. < ref name=OwlMLA > {{cite web |url=https://owl.english.purdue.edu/owl/section/2/11/ |title=MLA Style |website=Purdue Online Writing Lab |publisher=Purdue University |access-date=24 August 2016}} < /ref >  One of the references for this style is the ''MLA Handbook for Writers of Research Papers'', Eighth Edition. < ref name=OwlMLA/ > 
+ 
+ ::Example (author-date style):  < span style= " color:#0000FF " > Smith, William. The Last of the Inupiat Eskimos. Alaska Northwest Books, 1997. p 39. < /span >  Note the use of [[period (punctuation)|period]]s separating parts of the citation) 
+ 
+ * '''Chicago Manual of Style''' is the style often used in printed and electronic [[journal]]s, [[magazines]], and [[newspaper]]s. < ref name=OwlCMS > {{cite web |url=https://owl.english.purdue.edu/owl/resource/717/04/ |title=Periodicals |website=Purdue Online Writing Lab |publisher=Purdue University|access-date=24 August 2016}} < /ref >  It offers two types of citation systems: (1) notes and bibliography and (2) author-date. < ref name=CMS > {{cite web |url=http://www.chicagomanualofstyle.org/tools_citationguide.html |title=The Chicago Manual of Style Online |publisher=The University of Chicago |access-date=24 August 2016}} < /ref >  The notes and bibliography style is used most often in [[literature]], [[history]] and the [[arts]]. < ref name=CMS/ >  The author-date system is traditionally used in [[Physics]], [[natural science]], and [[social sciences]]. < ref name=CMS/ > 
+ 
+ ::Example (author-date style):  < span style= " color:#0000FF " > William Smith, ''The Last of the Inupiat Eskimos'' (Portland, OR: Alaska Northwest Books, 1997), p. 39 < /span >  (Chicago style allows author last name, first name or first name last name) 
+ 
+ == References == 
+ (The following are inline source citations) 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [https://www.youtube.com/watch?v=uY3OOpQbKkY When to Cite Your Sources; YouTube] 
+ * [http://www.citationmachine.net/ Citation Generator] 
+ * [http://www.researchomatic.com/citation-generator/ Citation Machine] 
+ 
+ [[Category:Writing]]

@@ -1,0 +1,55 @@
+[[File:6 different resistors.jpg|thumb|right|200px|6 different resistors]] 
+ [[File:Serial Resistors.svg|thumb|Two resistors in serial circuit]] 
+ [[File:Parallel Resistors.svg|thumb|Two resistors in parallel circuit]] 
+ [[File:Tw-resistor-color-code-ex22-ohms.gif|thumb|Resistor color code]] 
+ 
+ A '''resistor''' limits the [[electric current]] that flows through a circuit. Resistance is the restriction of current. < ref > 
+ {{cite book |last=Lowery |first=Lawrence |date= 2001|title= Electronics Resources|url= http://delta-education.com/productdetail.aspx?Collection=N & prodID=4108 & return=1096=|location=Berkeley, CA |publisher= Lawrence Hall of Science|page= 6-8|isbn=1583564209 |accessdate=2015-05-12 }} 
+ < /ref >  In a resistor the energy of the [[electron]]s that pass through the resistor are changed to heat and/or light. For example, in a light bulb, the [[tungsten]] filament acts as a resistor that heats up because of the current going through it, causing it to glow. < ref > {{cite web |url=http://www.qrg.northwestern.edu/projects/vss/docs/thermal/3-whats-a-resistor.html|title=what's a resistor|accessdate=20 May 2012}} < /ref > 
+ 
+ == Series and parallel == 
+ Resistors can be linked in various combinations to help make a [[electrical circuit|circuit]]: 
+ 
+ #Series - Where the resistors are linked ''one after another''.  
+ #Parallel - Where the resistors are linked ''over one another''. 
+ 
+ There are many different types of resistors. Resistors have different power ratings to tell engineers how much [[Watt|power]] they can handle before they break and how accurate their value is. < ref > {{cite web |url=http://physics.bu.edu/py106/notes/Circuits.html |title= series and parallel circuits |accessdate=20 May 2012}} < /ref >  Connecting two resistors in series results in a higher resistance, and connecting them in parallel makes a lower resistance.   
+ Nowadays the electrical industry in many cases uses so called [[surface-mount technology]] based resistors which can be very small. < ref name= " Lowery 2001 16-17 " > {{cite book |last=Lowery |first=Lawrence |date= 2001|title= Electronics Resources|url= http://delta-education.com/productdetail.aspx?Collection=N & prodID=4108 & return=1096=|location=Berkeley, CA |publisher= Lawrence Hall of Science|page= 16-17|isbn=1583564209 |accessdate=2015-05-12 }} < /ref > 
+ 
+ === Calculating resistance === 
+ *Series Circuit: Rt=R1+R2+R3+R4...Rn 
+ *Parallel Circuit: 1/Rt=1/R1+1/R2+1/R3...1/Rn   
+ *Resistance value: R=v/i 
+ Where R is the resistor's value  < ref name= " Lowery 2001 16-17 " / > 
+ 
+ === Ohm’s Law === 
+ The formula for Ohm’s law, V=I*R, states that the [[voltage]] drop across a component is equal to the product of the current flowing in the component multiplied by the resistance of the component. When  using Ohm’s law, you are able to switch the formula around if needed to find a different outcome: I=V/R or R=V/I  < ref > 
+ {{cite book |last=Lowery |first=Lawrence |date= 2001|title= Electronics Resources|url= http://delta-education.com/productdetail.aspx?Collection=N & prodID=4108 & return=1096=|location=Berkeley, CA |publisher= Lawrence Hall of Science|page= 33|isbn=1583564209 |accessdate=2015-05-12 }} 
+ < /ref > 
+ [[File:0.25 watts through-hole resistor.stl|thumb|Three-dimensional model of a resistor]] 
+ 
+ == Color code == 
+ [[File:ResistorColorcode.jpg|thumb|Resistor Color Code]] 
+ Resistor's values are rated by the colors that are painted on the resistor. The colored bands that are used on the sides of a resistor are black, brown, red, orange, yellow, green, blue, purple, gray, and white.  Each color represents a different number. The black band represents the number 0, brown band represents the number 1, red is 2 and so on all the way to white which is the number 9. These numbers are very important in the electronic field. < ref > {{cite web |url= http://www.warren-wilson.edu/~physics/physics1/ActivityGuides/currentVoltage/ColorCode.html |title= Resistor Color Code |accessdate= 20 May 2012 }}{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ A resistor has multiple bands of color on its side. The most common have four or five but they can range all the way up to 6 per resistor. On a four band resistor, the last band is usually gold or silver. The gold band represents a positive or negative 5% tolerance. The silver band on a resistor represents a positive or negative 10% tolerance. Hold this band on the right side, and read the colors from left to right. The first two bands are read as the numbers that they represent in the color code. The third band acts as a multiplier for the other bands, so for example, if the third band was an orange band which is a 3, it would mean you multiply the two numbers by 1000. In short you add the value of the color in zeros at the end, so add three zeros. < ref > {{cite web |url= http://www.swarthmore.edu/NatSci/echeeve1/Ref/Resistor/resistor.html |title=resistor and capacitor values |accessdate=20 May 2012}} < /ref > 
+ 
+ Online calculators are available to calculate color codes. When the color codes are put into the calculator, it will automatically calculate the value of the resistor, along with the tolerance. < ref > {{Cite web|url=https://www.switchelectronics.co.uk/blog/resistorcalc/|title=Blog - 4 Band Resistor Calculator|website=www.switchelectronics.co.uk|language=en|access-date=2018-11-08|archive-date=2020-08-12|archive-url=https://web.archive.org/web/20200812125050/https://www.switchelectronics.co.uk/blog/resistorcalc/|url-status=dead}} < /ref > 
+ 
+ == Applications == 
+ Resistors are used in many different ways. First of all, they are put in circuits to protect components from damage such as LEDs. < ref > 
+ {{cite book |last=Lowery |first=Lawrence |date= 2001|title= Electronics Resources|url= http://delta-education.com/productdetail.aspx?Collection=N & prodID=4108 & return=1096=|location=Berkeley, CA |publisher= Lawrence Hall of Science|page= 22|isbn=1583564209 |accessdate=2015-05-12 }} 
+ < /ref > 
+ They also control the amount of current flowing in a circuit, for example, if you want less current to flow you would put in a resistor with a higher value. Resistors can also split voltage between different parts of a circuit and control time delay. < ref > {{cite web|url= http://www.bbc.co.uk/schools/gcsebitesize/design/electronics/componentsrev2.shtml|title= Design and Technology|author= BBC|date= 2014|publisher= BBC|accessdate= 12 April 2015|archive-date= 27 February 2015|archive-url= https://web.archive.org/web/20150227051340/http://www.bbc.co.uk/schools/gcsebitesize/design/electronics/componentsrev2.shtml|url-status= dead}} < /ref > 
+ 
+ Electric heaters use very large resistors to turn electricity into heat. Usually, engineers try to make resistors heat up as little as possible to not waste power, but in a heater, this  " waste "  is a good thing. You can also use resistors for soldering electronics. 
+ 
+ == Resistor materials == 
+ Many different types of resistors are made. They are made with a resistive material encased in a non-conductive material, such as [[plastic]] or [[ceramic]]. Fixed resistors are usually made of [[carbon]] encased in a plastic cylinder, with a connecting wire on either end. Most resistors used in electronics today are carbon resistors. Older resistors were made of other poorly conducting metals, in order to restrict the flow of charge. < ref > {{cite web|url=http://www.longwood.edu/staff/meshejianwk/electronics/announcements/ResistorLab.pdf|title=resistors|accessdate=20 May 2012|archive-date=2 June 2010|archive-url=https://web.archive.org/web/20100602010606/http://www.longwood.edu/staff/meshejianwk/electronics/announcements/ResistorLab.pdf|url-status=dead}} < /ref > < ref > {{cite web |url=http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/rescarb.html |title=carbon resistors|accessdate=20 May 2012}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Commonscat}} 
+ 
+ [[Category:Electronic components]]

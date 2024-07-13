@@ -1,0 +1,18 @@
+[[File:Catenary-pm.svg|right|thumb|350x350px|Plots of  < math > y = a \cosh \left(\frac{x}{a}\right) < /math >  with  < math > a = 0.5, 1, 2 < /math > . The variable  < math > x < /math >  is on the horizontal axis and   < math > y < /math >  is on the vertical axis.]] 
+ [[File:Kette_Kettenkurve_Catenary_2008_PD.JPG|right|thumb|290x290px|A chain hanging like this forms the shape of a catenary approximately]] 
+ A '''catenary''' is a type of [[curve]]. An ideal [[chain]] hanging between two supports and acted on by a uniform [[Gravity|gravitational force]] makes the shape of a catenary. < ref name= " wolfram " > {{cite web|url=http://mathworld.wolfram.com/Catenary.html|title=Catenary|publisher=Wolfram Research|access-date=2016-10-30}} < /ref >  (An ideal chain is one that can bend perfectly, cannot be stretched and has the same [[density]] throughout. < ref name= " csu " > {{cite web|url=http://web.calstatela.edu/curvebank/catenary/catenary.htm|title=The Catenary - The  " Chain "  Curve|publisher=California State University|access-date=2019-01-01|archive-date=2017-06-30|archive-url=https://web.archive.org/web/20170630204710/http://web.calstatela.edu/curvebank/catenary/catenary.htm|url-status=bot: unknown}} < /ref > ) The supports can be at different heights and the shape will still be a catenary. < ref > {{cite web|url=http://people.math.aau.dk/~br/catenary.pdf|title=Catenary|first=Bo|last=Rosbjerg|publisher=Aalborg University|access-date=2016-10-30}} < /ref >  A catenary looks a bit like a [[parabola]], but they are different. < ref > {{cite web|url=http://mathforum.org/library/drmath/view/65729.html|title=Catenary and Parabola Comparison|publisher=Drexel University|access-date=2016-11-05}} < /ref > 
+ 
+ The [[equation]] for a catenary in [[Cartesian coordinate system|Cartesian coordinates]] is < ref name= " csu "  / > < ref name= " math24 " > {{cite web|url=http://www.math24.net/equation-of-catenary.html|title=Equation of Catenary|publisher=Math24.net|access-date=2016-10-30|archive-date=2016-10-21|archive-url=https://web.archive.org/web/20161021220909/http://www.math24.net/equation-of-catenary.html|url-status=dead}} < /ref > 
+ :  < math > y = a \cosh \left(\frac{x}{a}\right) < /math > 
+ where  < math > a < /math >  is a [[parameter]] that determines the shape of the catenary < ref name= " math24 "  / >  and  < math > \cosh < /math >  is the [[Hyperbolic function|hyperbolic cosine]] function, which is defined as < ref name= " stroud "  / > 
+ :  < math >  \cosh x = \frac {e^x + e^{-x}} {2} < /math > . 
+ Hence, we can also write the catenary equation as 
+ :  < math >  y = \frac{a\left(e^\frac{x}{a} + e^{-\frac{x}{a}}\right)}{2} < /math > . 
+ 
+ The word  " catenary "  comes from the [[Latin]] word ''catena'', which means  " chain " . < ref name= " stroud " > {{cite book|first1=K. A.|last1=Stroud|first2=Dexter J.|last2=Booth|title=Engineering Mathematics|url=https://archive.org/details/engineeringmathe0000stro_b7c3_7ed|edition=7th|publisher=Palgrave Macmillan|date=2013|isbn=978-1-137-03120-4|page=[https://archive.org/details/engineeringmathe0000stro_b7c3_7ed/page/438 438]}} < /ref >  A catenary is also called called an alysoid and a chainette. < ref name= " wolfram "  / > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Geometry]] 
+ {{math-stub}}

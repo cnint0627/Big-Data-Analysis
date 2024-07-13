@@ -1,0 +1,11 @@
+'''Transclusion''' is a way to use content from one electronic [[document]], in another document without having to copy the content from one to the other. If the original content is changed, the change will automatically show in the article that is using the trancluded content. The two documents are connected by [[hypertext]]. The word is a combination of ''trans'', meaning across and ''inclusion'', so it means including something that is brought across from another place. 
+ 
+ On Wikipedia, this is usually used for putting content from a special article called a ''[[template]]'' into other articles, but the method also works for other kinds of article. 
+ 
+ When you put the double braces  < code > < nowiki > {{ }} < /nowiki > < /code >  around a page name, the program reading the [[Wikitext|wiki source code]] and converting it to [[HTML]] so it will display on a [[browser]]. [[Software]] will see that you wish to add the content of the named page at that point, and will go read it, convert it to html and add it at that point before continuing with converting the rest of the source code of the original page to html. That is transclusion. You refer to the page to be transcluded by naming it in braces, which is called referencing.  
+ 
+ There are ways to exclude parts of the transcluded page, and ways to transclude part of a page, like just a section, but that does not change the basic [[concept]].  
+ 
+ A transcluded page may also include transclusions of other pages. This is called nesting. It can be done a moderate number of times, with one page transcluding others, which may each tranclude others, again and again. There is a limit to how many levels of transclusion are allowed to prevent accidental or intentional infinite loops, which will cause the translating program to get stuck. 
+ 
+ [[Category:Computer programming]]

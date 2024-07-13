@@ -1,0 +1,42 @@
+{{Infobox programming language 
+ | name = TypeScript 
+ | logo = Typescript logo 2020.svg 
+ | logo_size = 64px 
+ | logo caption =  
+ | screenshot =  
+ | screenshot caption =  
+ | paradigm = [[Multi-paradigm programming language|Multi-paradigm]]: [[functional programming|functional]], [[generic programming|generic]], [[imperative programming|imperative]], [[object-oriented programming|object-oriented]] 
+ | released = {{Start date and age|2012|10|01|df=yes}} < ref > {{cite web |url = https://typescript.codeplex.com/releases/view/95554 |title = TypeScript |work = [[CodePlex]] |access-date = 26 April 2015 |archive-date = 3 April 2015 |archive-url = https://web.archive.org/web/20150403224440/https://typescript.codeplex.com/releases/view/95554 |url-status = dead }} < /ref > 
+ | designer = [[Microsoft]] 
+ | developer = [[Microsoft]] 
+ | latest release version = {{wikidata|property|edit|reference|P548=Q2804309|P348}} 
+ | latest release date = {{start date and age|{{wikidata|qualifier|single|P548=Q2804309|P348|P577}}}} 
+ | latest preview version = {{wikidata|property|edit|reference|P548=Q51930650|P348}} 
+ | latest preview date = {{start date and age|{{wikidata|qualifier|single|P548=Q51930650|P348|P577}}}} 
+ | typing = [[Duck typing|Duck]], [[Gradual typing|gradual]], [[Structural type system|structural]] < ref > {{cite web|title=Type Compatibility | url=https://www.typescriptlang.org/docs/handbook/type-compatibility.html | 
+ website=TypeScript|access-date=21 March 2018}} < /ref > 
+ | scope =  
+ | implementations =  
+ | dialects =  
+ | influenced by = [[C Sharp (programming language)|C#]], [[Java (programming language)|Java]], [[JavaScript]] 
+ | influenced = [[AtScript]], [[AssemblyScript]] 
+ | programming language =  
+ | platform =  
+ | operating system =  
+ | license = [[Apache License|Apache License 2.0]] 
+ | file ext = .ts, .tsx 
+ | wikibooks =  
+ }} 
+ 
+ '''TypeScript''' is a [[programming language]] from [[Microsoft]]. It is a type of [[JavaScript]] that adds [[static typing]]. It became public in October 2012 when Microsoft worked on it for two years. < ref > {{cite web|date=1 October 2012|title=Microsoft augments JavaScript for large-scale development|url=http://www.infoworld.com/d/application-development/microsoft-augments-javascript-large-scale-development-203737|access-date=26 April 2015|work=[[InfoWorld]]|publisher=[[International Data Group|IDG]]}} < /ref > < ref > {{cite web|last=Turner|first=Jonathan|date=2 April 2014|title=Announcing TypeScript 1.0|url=http://blogs.msdn.com/b/typescript/archive/2014/04/02/announcing-typescript-1-0.aspx|access-date=26 April 2015|work=TypeScript Language team blog|publisher=Microsoft|archive-date=2 May 2015|archive-url=https://web.archive.org/web/20150502074848/http://blogs.msdn.com/b/typescript/archive/2014/04/02/announcing-typescript-1-0.aspx|url-status=dead}} < /ref > 
+ 
+ TypeScript can be compiled to most versions of [[ECMAScript]] ([[JavaScript]]). < ref > {{Cite web|last=Staff|first=Ars|date=2012-10-03|title=Microsoft TypeScript: the JavaScript we need, or a solution looking for a problem?|url=https://arstechnica.com/information-technology/2012/10/microsoft-typescript-the-javascript-we-need-or-a-solution-looking-for-a-problem/|access-date=2021-08-15|website=Ars Technica|language=en-us}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:JavaScript]] 
+ [[Category:Multi-paradigm programming languages]] 
+ [[Category:Functional languages]]

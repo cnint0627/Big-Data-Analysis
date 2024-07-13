@@ -1,0 +1,30 @@
+{{Taxobox 
+ | fossil_range = Late [[Eocene]] 
+ | image = Basilosaurus cetoides skeleton.JPG 
+ | image_width = 250px 
+ | image_caption = A skull of ''Basilosaurus cetoides'' 
+ | regnum = [[Animalia]] 
+ | phylum = [[Chordata]] 
+ | classis = [[Mammal]]ia 
+ | ordo = [[Cetacea]] 
+ | subordo = [[Archaeoceti]] 
+ | familia = [[Basilosauridae]] 
+ | subfamilia = '''Basilosaurinae''' 
+ | subfamilia_authority = [[Edward Drinker Cope|Cope]], 1868 
+ | genus = '''''Basilosaurus''''' 
+ | genus_authority = [[Richard Harlan|Harlan]], 1834 }} 
+ '''Basilosaurus''' is a genus of [[cetacean]] that lived from 40 to 34 million years ago in the Late [[Eocene]]. The first ''Basilosaurus'' fossils were found in [[Louisiana]], [[United States|USA]], but another species was soon discovered preserved in large numbers in the [[Fayum]] deposits of [[Egypt]]. 
+ 
+ The first fossil of ''B. cetoides'' was discovered in the [[United States]] and was initially believed to be some sort of reptile, hence the suffix - " saurus " , but it was later found to be a marine mammal. < ref name= " bbc " > {{Cite web | title = Basilosaurus | publisher = BBC Nature | url = http://www.bbc.co.uk/science/seamonsters/factfiles/basilosaurus.shtml | accessdate = 10 September 2014 | archive-date = 21 September 2010 | archive-url = https://web.archive.org/web/20100921083651/http://www.bbc.co.uk/science/seamonsters/factfiles/basilosaurus.shtml | url-status = dead }} < /ref >  [[Richard Owen]] wanted to rename the creature '''''Zeuglodon''''' ( " yoked tooth " ), but by taxonomic rules the creature's first name remained permanent.  Fossils of ''B. isis'' have been found in [[Egypt]] and [[Jordan]]. < ref > Zalmout I.S; Mustafa H.A.  &  Gingerich P.D. 2000. Priabonian ''Basilosaurus isis'' (Cetacea) from the Wadi Esh-Shallala Formation: first marine mammal from the Eocene of Jordan. ''Journal of Vertebrate Paleontology'' '''20''' (1): 201–204. [http://www.tandfonline.com/doi/abs/10.1671/.VBBJY9sqeHM]{{Dead link|date=September 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >   
+ 
+ Far from being a marine reptile, ''Basilosaurus'' is a stage in the [[evolution of whales]]. At 15–20 & nbsp;m (49–66 & nbsp;ft), ''Basilosaurus'' was one of the largest oceanic animals of its time. < ref > {{cite journal|year=2012|title=Evolution of Whales from Land to Sea|journal=Proceedings of the American Philosophical Society|volume=156|issue=3|pages=309–323|url=https://www.jstor.org/stable/23558092| last1 = Gingerich | first1 = P. D.|jstor=23558092}} < /ref > < ref > {{cite book|chapter-url=http://www-personal.umich.edu/~gingeric/PDFfiles/PDG471_WhalesinEgypt.pdf|last=Gingerich|first=P. D.|year=2008|title=Elwyn Simons: A Search for Origins|chapter=Early Evolution of Whales: A Century of Research in Egypt|series=Developments in Primatology: Progress and Prospects|pages=107–124|editor1-last=Fleagle|editor1-first=J. G.|editor2-last= Gilbert|editor2-first=C. C.|isbn=978-0-387-73895-6}} < /ref > < ref name=Basilo2019 > {{Cite journal |doi = 10.1371/journal.pone.0209021|pmid = 30625131|pmc = 6326415|title = Stomach contents of the archaeocete Basilosaurus isis: Apex predator in oceans of the late Eocene|journal = PLOS ONE|volume = 14|issue = 1|pages = e0209021|year = 2019|last1 = Voss|first1 = Manja|last2 = Antar|first2 = Mohammed Sameh M.|last3 = Zalmout|first3 = Iyad S.|last4 = Gingerich|first4 = Philip D.|doi-access = free}} < /ref > < ref > {{Harvnb|Kellogg|1936}} < /ref >  Basilosaurus went extinct during the Eocene Extinction.  
+ == References == 
+ *{{Cite book 
+  | last = Kellogg | first = R. 
+  | title = A review of the Archaeoceti 
+  | year = 1936 | location = Washington | publisher = Carnegie Institution of Washington 
+  | url = http://publicationsonline.carnegiescience.edu/publications_online/archaeoceti.pdf | format = PDF, 46.3 Mb 
+  | oclc =681376 }} < !-- {{Harvnb|Kellogg|1936}} -- > 
+ {{reflist}} 
+ 
+ [[Category:Cetaceans]]

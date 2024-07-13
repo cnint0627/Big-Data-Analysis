@@ -1,0 +1,16 @@
+
+ Fractran is a simple programming language invented by mathematician John Horton Conway. It operates on fractions and uses them as instructions for the program. 
+ 
+ In Fractran, you start with a positive whole number as the input. The program consists of a list of fractions. You multiply the input by each fraction in the list, one after another. The result of each multiplication is rounded down to the nearest whole number, and that becomes the new input for the next iteration. 
+ 
+ The process continues until the input can no longer be multiplied by any of the fractions in the list. At that point, the program stops, and the final output is the last number you obtained. 
+ 
+ What makes Fractran interesting is that some programs can do really powerful things. For example, they can simulate any other computer program, given the right set of fractions. These programs are like universal computers in a simple language. 
+ 
+ The behavior of Fractran programs is related to the prime factorization of numbers. The fractions in the program are carefully chosen to produce specific patterns or sequences. This connection to number theory makes Fractran a fascinating area of study for mathematicians and computer scientists. 
+ 
+ Overall, Fractran is a simple language where you multiply an input by fractions repeatedly until you can't do it anymore, and the final result is your output. But within this simplicity lies the potential for powerful computation and deep mathematical connections. 
+ 
+ [[Category:Programming languages]] 
+ 
+ {{tech-stub}}

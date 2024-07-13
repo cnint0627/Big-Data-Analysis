@@ -1,0 +1,17 @@
+{{Regular polygon db|Regular polygon stat table|p32}} 
+ A '''triacontadigon''' or '''icosidodecagon''' is a [[Polygon|shape]] with 32 sides and 32 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular triacontadigon == 
+ All sides of a '''regular triacontadigon''' are the same length. Each corner is 168{{frac|3|4}}°. All corners added together equal 5400°. 
+ 
+ === Area === 
+ The amount of space a regular triacontadigon takes up is 
+ 
+ : < math > \text{Area} = 8a^2 \left(1+ \sqrt{2} + \sqrt{4 +2 \sqrt{2} } +\sqrt{8 +4 \sqrt{2} +2 \sqrt{20 +14 \sqrt{2} } }\right). < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ [[Category:Polygons|32]]

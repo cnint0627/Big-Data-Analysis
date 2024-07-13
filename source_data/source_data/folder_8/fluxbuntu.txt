@@ -1,0 +1,34 @@
+{{Infobox OS 
+ |name = Fluxbuntu 
+ |logo = Fluxbuntu logo.png 
+ |developer =  
+ |logo_size = 100px 
+ |family = [[Linux]] 
+ |source_model = [[Open source]] 
+ |latest_release_version = 7.10 Release Candidate 
+ |latest_release_date = October 26, 2007 
+ |kernel_type = [[Kernel (computer science)|Monolithic kernel]] 
+ |ui = [[Fluxbox]] [[Graphical User Interface|GUI]] 
+ |license = [[Free software]] licenses < br > (mainly [[GPL]]) 
+ |working_state = Discontinued 
+ |website = {{Webarchive|url=https://web.archive.org/web/20160503043658/https://fluxbuntu.org/ |date=2016-05-03 |title=fluxbuntu.org}} 
+ |supported_platforms = [[i386]], [[AMD64]], [[PowerPC]] 
+ }} 
+ 
+ '''Fluxbuntu''' [http://distrowatch.com/table.php?distribution=fluxbuntu was] a [[Linux distribution]] made for computers that have less powerful [[Computer hardware|hardware]]. It is based or made from [[Ubuntu]] and uses [[Fluxbox]] for its [[Window Manager]]. 
+ 
+ < gallery Caption= " Fluxbuntu " > 
+ Image:Fluxbuntu-7.10-BootLoader.png|Fluxbuntu Login Window 
+ Image:Fluxbuntu-7.10 using Abiword.png|Fluxbuntu using Abiword 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Ubuntu]] 
+ * [[LiveDistro]] 
+ 
+ == Other websites == 
+ *[http://fluxbuntu.org/ Official website] {{Webarchive|url=https://web.archive.org/web/20070926212901/http://fluxbuntu.org/ |date=2007-09-26 }} 
+ *[https://launchpad.net/fluxbuntu Fluxbuntu page on Launchpad] 
+ 
+ [[Category:Linux distributions]] 
+ [[Category:Live CD]]

@@ -1,0 +1,8 @@
+'''ChessBase GmbH''' is a [[Germany|German]] company that markets chess [[software]]. It also has a chess news website, and uses a server for [[online]] chess. Set up in 1998, it builds and sells large [[database]]s, with up to three million games, classified in various ways. A smaller [[Fraction (mathematics)|fraction]] have notes, about 60,000 at present. It is possible to connect the database with one or more ''chess engines'' which calculate likely good moves. < ref > Watson, John 1998. ''Secrets of modern chess strategy: advances since Nimzowitsch'' Gambit, London. p8 < /ref > < ref name= " Muller " > Muller, Karsten and Lamprecht, Frank 2001. ''Fundamental chess endings: a new endgame encyclopedia for the 21st century''. Gambit, London. p9-10 < /ref >  Databases [[wikt:organize|organize]] data from past games; engines do calculations and use look-up tables for standard information, having, for example, answers to special endgame problems. < ref name= " Muller " / > < sup > p400-406 < /sup > < ref > Tim Krabbe, ''Chess Records'' http://www.xs4all.nl/~timkr/records/records.htm#list. < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{stub}} 
+ 
+ [[Category:Chess]]

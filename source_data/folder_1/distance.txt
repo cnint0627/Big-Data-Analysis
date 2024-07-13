@@ -1,0 +1,22 @@
+{{wiktionary}} 
+ '''Distance''' is how far one thing is from another thing. It is also a [[measure]] of the space between two things. It can be measured along any path. Thus, someone who goes around in a circle has traveled a distance, even though his [[position]] has not changed. 
+ 
+ In [[geometry]], the distance between two points ''A'' and ''B'' is sometimes written as  < math > \overline{AB} < /math > . < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-01|website=Math Vault|language=en-US}} < /ref >  [[Pythagorean theorem]] is often used in the calculation of distance. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Distance|url=https://mathworld.wolfram.com/Distance.html|access-date=2020-09-01|website=mathworld.wolfram.com|language=en}} < /ref > < ref > {{Cite web|title=Distance Between 2 Points|url=https://www.mathsisfun.com/algebra/distance-2-points.html|access-date=2020-09-01|website=www.mathsisfun.com}} < /ref >  Distance is a [[scalar]], and thus is different from [[displacement vector|displacement]].  Displacement is a [[vector]] that measures distance with a straight line (and in only one path). Displacement is the shortest way to travel the distance. 
+ 
+ == Examples == 
+ * One ball is 5 [[Foot (unit of length)|feet]] from another ball. The distance between the two balls is 5 feet. 
+ * John walks at a [[speed]] of 6 [[kilometre]]s per [[hour]] for one hour. John [[walk]]s a distance of 6 kilometres.  
+ * A [[circle]] is a [[curve]]d [[line]]. Each point on the circle is the same distance from the centre of the circle. 
+ 
+ == Related pages == 
+ 
+ * [[Euclidean distance]] 
+ * [[Norm (mathematics)]] 
+ 
+ == References == 
+ < references / > 
+ {{math-stub}} 
+ 
+ [[Category:Physical quantity]] 
+ [[Category:Mathematics]] 
+ [[Category:Geometry]]

@@ -1,0 +1,53 @@
+{{Infobox polygon 
+ | name        = Parallelogram  
+ | image       = Parallelogram.svg 
+ | caption     = This parallelogram is a [[rhomboid]] as it has no right angles and unequal  sides. 
+ | type        = [[quadrilateral]], [[trapezoid|trapezium]] 
+ | edges       = 4 
+ | symmetry    = [[Point reflection|C < sub > 2 < /sub > ]], [2] < sup > + < /sup > ,  
+ | area        = ''b'' × ''h'' (base × height); < br > ''ab'' sin ''θ'' (product of adjacent sides and sine of the vertex angle determined by them) 
+ | properties  = [[convex polygon|convex]]}} 
+ A '''parallelogram''' is a [[polygon]] with four sides (a [[quadrilateral]]). It has two pairs of [[parallel]] sides ([[Line segment|line segments]] which never meet if the lines were allowed to extend beyond their end points). The opposite sides of a parallelogram have the same length (they are equally long). The word  " parallelogram "  comes from the [[Greek language|Greek]] word  " parallelogrammon "  (''bounded by parallel lines''). < ref > {{Cite web |url= http://www.etymonline.com/index.php?search=parallelogram & searchmode=none 
+  |title=Online Etymology Dictionary |work=etymonline.com |accessdate=10 January 2011}} < /ref >  [[Rectangle]]s, [[rhombus]]es, and [[Square (geometry)|squares]] are all parallelograms. 
+ 
+ As shown in the picture on the right, because [[triangle]]s '''''ABE''''' and '''''CDE''''' are [[congruence|congruent]] (have the same shape and size), 
+ : < math > AE = CE < /math > 
+ : < math > BE = DE. < /math > 
+ 
+ In all Parallelogram's opposite angles are equal to each other. 
+ Angles which are not opposite in the Parallelogram will add up to 180 degrees. 
+ 
+ ==Characterizations== 
+ A simple (non self-intersecting) [[quadrilateral]] is a parallelogram [[if and only if]]  < u > any one < /u >  of the following statements is true: < ref > Owen Byer, Felix Lazebnik and Deirdre Smeltzer, ''Methods for Euclidean Geometry'', Mathematical Association of America, 2010, pp. 51-52. < /ref > < ref > Zalman Usiskin and Jennifer Griffin,  " The Classification of Quadrilaterals. A Study of Definition " , Information Age Publishing, 2008, p. 22. < /ref > 
+ *Two pairs of opposite sides are equal in length 
+ *Two pairs of opposite angles are equal in measure 
+ *The [[diagonal]]s bisect each other 
+ *One pair of opposite sides are [[Parallel (geometry)|parallel]] and equal in length 
+ *[[Adjacent angles]] are [[supplementary angles|supplementary]] 
+ *Each diagonal divides the quadrilateral into two [[congruence (geometry)|congruent]] [[triangle]]s 
+ *The sum of the [[Square number|square]]s of the sides equals the sum of the squares of the diagonals. (This is the [[parallelogram law]]) 
+ *It has [[rotational symmetry]] of order 2 
+ *It has two lines of symmetry 
+ 
+ == Properties == 
+ # Opposite sides of parallelogram are parallel. 
+ # Any line through the midpoint of a parallelogram bisects the area. 
+ # Parallelograms  are quadrilaterals. 
+ 
+ == Area formula == 
+ A parallelogram can be cut into a [[trapezoid]] and a [[right triangle]], and be rearranged to make a [[rectangle]]. This mean the area of a parallelogram is the same with with a rectangle of the same height and base as that parallelogram: 
+ 
+ < math > K=bh. < /math > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ {{Commons|Parallelograms}} 
+ * [http://www.elsy.at/kurse/index.php?kurs=Parallelogram+and+Rhombus & status=public Parallelogram and Rhombus - Animated course (Construction, Circumference, Area)] 
+ *[http://www.mathwarehouse.com/geometry/quadrilaterals/parallelograms/index.php  Interactive Parallelogram --sides, angles and slope] 
+ 
+ {{shapes}} 
+ {{math-stub}} 
+ 
+ [[Category:Polygons]]

@@ -1,0 +1,110 @@
+{{Chembox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 477167117 
+ | ImageFileL1 = Ethanol-2D-flat.svg 
+ | ImageNameL1 = Full structural formula of ethanol 
+ | ImageFileR1 = Ethanol-2D-skeletal.svg 
+ | ImageFileR1_Ref = {{chemboximage|correct|??}} 
+ | ImageNameR1 = Skeletal formula of ethanol 
+ | ImageFileL2 = Ethanol-3D-balls.png 
+ | ImageFileL2_Ref = {{chemboximage|correct|??}} 
+ | ImageNameL2 = Ball-and-stick model of ethanol 
+ | ImageFileR2 = Ethanol-3D-vdW.png 
+ | ImageFileR2_Ref = {{chemboximage|correct|??}} 
+ | ImageNameR2 = Space-filling model of ethanol 
+ | SystematicName = ethanol < ref name= " Pubchem " > {{cite web|title = Ethanol – Compound Summary|url = https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=702|website = The PubChem Project|location = USA|publisher = National Center for Biotechnology Information}} < /ref > 
+ | pronounce = {{IPAc-en|ˈ|ɛ|θ|ə|n|ɒ|l}} 
+ | OtherNames = Absolute alcohol < br / > alcohol < br / > cologne spirit < br / > drinking alcohol < br / > ethylic alcohol < br / > EtOH < br / > ethyl alcohol < br / > ethyl hydrate < br / > ethyl hydroxide < br / > ethylol < br / > grain alcohol < br / > hydroxyethane < br / > methylcarbinol 
+ |Section2={{Chembox Properties 
+ | C=2 | H=6 | O=1 
+ | Appearance = Colorless liquid 
+ | MolarMass =  < !--43.044 & nbsp;g/mol < ref name= " crc2 " > {{RubberBible92nd|page=3.246}} < /ref >  -- > 
+ | Density = 0.7893 & nbsp;g/cm < sup > 3 < /sup >  (at 20 & nbsp;°C) < ref name= " crc2 "  / > 
+ | MeltingPtC = −114.14 ± 0.03 < ref name= " crc2 " > {{RubberBible92nd|page=3.246}} < /ref > 
+ | BoilingPtC = 78.24 ± 0.09 < ref name= " crc2 "  / > 
+ | Solubility = [[miscible]] 
+ | RefractIndex = 1.3611 < ref name= " crc2 "  / > 
+ | LogP = −0.18 
+ | VaporPressure = 5.95 kPa (at 20 & nbsp;°C) 
+ | pKa = 15.9 (H < sub > 2 < /sub > O), 29.8 (DMSO) < ref > {{cite journal | vauthors = Ballinger P, Long FA | doi = 10.1021/ja01489a008|title=Acid Ionization Constants of Alcohols. II. Acidities of Some Substituted Methanols and Related Compounds1,2|year=1960|journal=Journal of the American Chemical Society|volume=82|issue=4|pages=795–798}} < /ref > < ref > {{cite journal | vauthors = Arnett EM, Venkatasubramaniam KG | doi = 10.1021/jo00158a001|journal=J. Org. Chem.|title=Thermochemical acidities in three superbase systems|year=1983|volume=48|issue=10|pages=1569–1578}} < /ref > 
+ | Viscosity = 1.2 mPa·s (at 20 & nbsp;°C), 1.074 mPa·s (at 25 & nbsp;°C) < ref name= " crc92 " > {{cite book| editor-last = Lide | editor-first = David R. | name-list-style = vanc | title=CRC Handbook of Chemistry and Physics|url=https://books.google.com/books?id=pYPRBQAAQBAJ & pg=PA6|edition=92nd|year=2012|publisher=CRC Press/Taylor and Francis|location=Boca Raton, FL.|pages=6–232| isbn = 9781439855126 }} < /ref > 
+ | Dipole = 1.69 D < ref name= " crc89 " > {{cite book | editor-last = Lide | editor-first = David R. | name-list-style = vanc | title=CRC Handbook of Chemistry and Physics|url=https://books.google.com/books?id=KACWPwAACAAJ & pg=PA9|edition=89th|year=2008|publisher=CRC Press|location=Boca Raton|pages=9–55| isbn = 9781420066791 }} < /ref > 
+ | MagSus = −33.60·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+ }} 
+ |Section1={{Chembox Identifiers 
+ | IUPHAR_ligand = 2299 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo = 64-17-5 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 3K9958V90M 
+ | SMILES = CCO 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 682 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB00898 
+ | PubChem = 702 
+ | ChEBI = 16236 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 545 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | Gmelin = 787 
+ | Beilstein = 1718733 
+ | StdInChI = 1S/C2H6O/c1-2-3/h3H,2H2,1H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | InChI = 1/C2H6O/c1-2-3/h3H,2H2,1H3 
+ | StdInChIKey = LFQSCWFLJHTTHZ-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | InChIKey = LFQSCWFLJHTTHZ-UHFFFAOYAB 
+ | 3DMet = B01253 
+ | UNNumber = UN 1170 
+ }} 
+ | Section3={{Chembox Hazards 
+ | ExternalSDS =  < ref name= " avantormaterials " > {{cite web| url = http://www.avantormaterials.com/documents/MSDS/usa/English/C0407_msds_us_Default.pdf| title = MSDS Ethanol| accessdate = 2018-07-08| url-status = dead| archiveurl = https://web.archive.org/web/20120325005938/http://www.avantormaterials.com/documents/MSDS/usa/English/C0407_msds_us_Default.pdf| archivedate = 2012-03-25| df = dmy-all}} < /ref > 
+ | GHSPictograms = {{GHS02}} {{GHS07}} 
+ | GHSSignalWord = Danger 
+ | HPhrases = {{H-phrases|225|319|}} 
+ | PPhrases = {{P-phrases|210|280|305+351+338}} 
+ | NFPA-H = 2 
+ | NFPA-F = 3 
+ | NFPA-R = 0 
+ | NFPA-S = 
+ | NFPA_ref =  < ref > {{cite web |url= https://www.airgas.com/msds/001114.pdf#page=11 |website= [[Airgas]] |title= Safety Data Sheet: Ethanol |page= 11 |date= 18 May 2015 |accessdate= 28 June 2018}} < /ref > 
+ | FlashPt = 14 & nbsp;°C (Absolute) 
+ | LD50 = 7340{{Spaces}}mg/kg (oral, rat)  < br > 7300{{Spaces}}mg/kg (mouse) 
+ | PEL = TWA 1000 ppm (1900{{Spaces}}mg/m < sup > 3 < /sup > )  < ref name= " PGCH " > {{PGCH|0262}} < /ref > 
+ | IDLH = N.D. < ref name=PGCH/ > 
+ | REL = TWA 1000 ppm (1900{{Spaces}}mg/m < sup > 3 < /sup > )  < ref name=PGCH/ > 
+ }} 
+ |Section4={{Chembox Related 
+ | OtherAnions = 
+ | OtherCations = 
+ | OtherFunction = 
+ | OtherFunction_label = 
+ | OtherCompounds = [[Ethane]]  < br / > [[Methanol]] 
+ }} 
+ }} 
+ [[File:Ethanol Flasche.jpg|thumb|right|A [[bottle]] of Ethanol]] 
+ '''Ethanol''', also known as '''ethyl alcohol''', '''grain alcohol''' or just '''alcohol''', is a flammable, colorless [[chemical compound]]. Its [[chemical formula]] is [[Carbon|C]] < sub > 2 < /sub > [[Hydrogen|H]] < sub > 5 < /sub > OH, also written as C < sub > 2 < /sub > H < sub > 6 < /sub > [[oxygen|O]]. It is the active part of [[alcoholic drink]]s, which are drunk in most [[culture]]s worldwide. It is also used as a [[solvent]] because it can [[dissolution|dissolve]] many other chemicals and is not very toxic. [[Yeast]] makes most of the ethanol that people use. 
+ 
+ == Ethanol fuel == 
+ 
+ '''Ethanol fuel''' can be used instead of [[gasoline]] in [[car]]s and other [[engine]]s. Engines can use pure ethanol or ethanol mixed with gasoline. 
+ 
+ In [[Brazil]], ethanol fuel made from sugar cane provides 18 percent of the country's fuel for cars. Because of this, Brazil does not have to buy [[oil]] from other countries. < ref > {{Cite web |url=http://www.renewableenergyaccess.com/rea/news/story?id=44896 |title=America and Brazil Intersect on Ethanol |access-date=2007-06-05 |archive-date=2007-09-26 |archive-url=https://web.archive.org/web/20070926230948/http://www.renewableenergyaccess.com/rea/news/story?id=44896 |url-status=dead }} < /ref > 
+ To do this, Brazil cut down much of the [[rain forests]] to grow more sugar cane, which is then fermented into Ethanol. 
+ 
+ Most cars in the U.S. can run on fuels that have of up to 10% ethanol in them. Car makers like [[Ford Motor Company|Ford]], [[DaimlerChrysler]], and [[General Motors Corporation|GM]] also make vehicles specifically designed to run on higher ethanol blends. Some of their engines can run on up to 85% ethanol (E85). By mid-[[2006]], there were about six million E85-compatible vehicles on U.S. roads. < ref > [http://images1.americanprogress.org/il80web20037/americanenergynow/AmericanEnergy.pdf American energy: The renewable path to energy security] < /ref > 
+ 
+ == References == 
+ < references/ > 
+ 
+ == Other websites == 
+ * [http://www.eere.energy.gov/afdc/infrastructure/e85_stations.cgi US E85 refueling map] {{Webarchive|url=https://web.archive.org/web/20070921050146/http://www.eere.energy.gov/afdc/infrastructure/e85_stations.cgi |date=2007-09-21 }} 
+ * [http://www.ilo.org/public/english/protection/safework/cis/products/icsc/dtasht/_icsc00/icsc0044.htm International Chemical Safety Card 0044] 
+ * [http://www.bluerhinos.co.uk/molview/indv.php?id=4 Molview from bluerhinos.co.uk] {{Webarchive|url=https://web.archive.org/web/20080925014055/http://www.bluerhinos.co.uk/molview/indv.php?id=4 |date=2008-09-25 }} See Ethanol in 3D (may take over a minute to load using a dial-up connection) 
+ 
+ {{Hypnotics and sedatives}} 
+ 
+ [[Category:Fuel]] 
+ [[Category:Alcohols|2]]

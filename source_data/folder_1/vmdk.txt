@@ -1,0 +1,40 @@
+{{Infobox file format 
+ | name                   = Virtual Machine Disk Format 
+ | icon                   =  
+ | logo                   =  
+ | screenshot             =  
+ | caption                =  
+ | extension              = .vmdk 
+ | mime                   =  
+ | type code              =  
+ | uniform type           =  
+ | magic                  =  
+ | owner                  = [[VMware]] 
+ | released               =  
+ | latest release version =  
+ | latest release date    =  
+ | genre                  = [[Disk image]] file 
+ | container for          =  
+ | contained by           =  
+ | extended from          =  
+ | extended to            =  
+ | standard               =  
+ | url                    = [http://www.vmware.com/interfaces/vmdk.html www.vmware.com/interfaces/vmdk.html] 
+ }} 
+ The '''VMDK''' ('''V'''irtual '''M'''achine '''D'''is'''k''') is a [[file format]] used by [[VMware]] products. < ref > [http://filext.com/file-extension/VMDK VMDK at Filext.com] < /ref > 
+ 
+ ==Products that use the format== 
+ *[[VMware Workstation]] 
+ *[[VMware Player]] 
+ *[[VMware Server]] 
+ 
+ ==References== 
+ < references/ > 
+ 
+ ==Other websites== 
+ *[http://www.vmware.com/ Official WebSite of VMware] 
+ *[http://www.file-extensions.org/vmdk-file-extension VMDK at File-extensions.org] 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer file formats]]

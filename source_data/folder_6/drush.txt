@@ -1,0 +1,10 @@
+'''Drush''' is a [[free and open source software]] application that allows people to install and change [[drupal]] websites. The name  " drush "  means  " ''dru''pal ''sh''ell " . < ref name=github > {{cite web|title=drush-ops/drush |url=https://github.com/drush-ops/drush|work=github.com|access-date=2 March 2016}} < /ref >  People who install drush can do all these things using the [[command line interface|command line]], or terminal of a computer. This makes managing a website that uses drupal faster and more efficient. According to [[GitHub]], drush has been downloaded more than 788,000 times as of March, 2016. < ref name=github / > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Web software]] 
+ 
+ 
+ {{tech-stub}}

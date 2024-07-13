@@ -1,0 +1,29 @@
+{{Taxobox 
+ | name = Firmicutes 
+ | image = Bacillus subtilis Gram.jpg 
+ | image_width = 220px 
+ | image_caption = ''[[Bacillus subtilis]]'', Gram stained 
+ | domain = [[Bacteria]] 
+ | phylum = '''Firmicutes''' 
+ | subdivision_ranks = Classes 
+ | subdivision =  
+ [[Bacilli]] < br/ > 
+ [[Clostridia]] 
+ }} 
+ 
+ The '''Firmicutes''' are a [[phylum]] of [[bacteria]], most of which have the [[Gram-positive]] type of [[cell wall]]s. 
+ 
+ == Classes == 
+ The group is typically divided into the [[Clostridia]], which are [[Anaerobic organism|anaerobic]], the [[Bacilli]], which are [[aerobic]], and the [[Mollicute]]s, a class of bacteria which do not have cell walls.  
+ 
+ On [[phylogenetic tree]]s, the first two groups show up as [[paraphyletic]] or [[polyphyletic]], as do their main genera, ''[[Clostridium]]'' and ''[[Bacillus]]''. < ref name= " pmid15143038 " > {{cite journal |author=Wolf M. |display-authors=etal |title=Phylogeny of Firmicutes with special reference to Mycoplasma (Mollicutes) as inferred from phosphoglycerate kinase amino acid sequence data |journal=Int. J. Syst. Evol. Microbiol. |volume=54 |issue=Pt 3 |pages=871–5 |date=2004 |pmid=15143038 |doi=10.1099/ijs.0.02868-0 |url=http://ijs.sgmjournals.org/cgi/pmidlookup?view=long & pmid=15143038 |access-date=2014-03-28 |archive-date=2012-12-09 |archive-url=https://archive.today/20121209051705/http://ijs.sgmjournals.org/cgi/pmidlookup?view=long & pmid=15143038 |url-status=dead }} < /ref > 
+ 
+ == Health == 
+ Firmicutes make up the largest portion of the mouse and human gut microbiome. < ref name= " Ley, et al. " > {{cite journal |authors=Ley R.E; Peterson D.A.  &  Gordon J.I. |title=Ecological and evolutionary forces shaping microbial diversity in the human intestine |journal=Cell |volume=124 |issue=4 |pages=837–48 |year=2006 |pmid=16497592 |doi=10.1016/j.cell.2006.02.017 |s2cid=17203181 |url= |type=Review}}   < /ref >  The division ''Firmicutes'' as part of the [[gut flora]] has been shown to be involved in energy resorption and [[obesity]]. < ref name= " Ley et al " > {{cite journal |authors=Ley R.E. |display-authors = etal |title=Microbial ecology: human gut microbes associated with obesity |journal=Nature |volume=444 |issue=7122 |pages=1022–3 |year=2006 |doi = 10.1038/4441022a |pmid=17183309  |s2cid = 205034045 |url= |type=Clinical Trial}} < /ref > < ref > {{cite news | last=Henig| first=Robin Marantz| url=https://www.nytimes.com/2006/08/13/magazine/13obesity.html?pagewanted=3 & ei=5070 & en=0c39c5880e4d7067 & ex=1166850000| title=Fat Factors | date=2006-08-13| work=New York Times Magazine| accessdate=2008-09-28}} < /ref > < ref > {{cite journal |author=Ley R.E. |display-authors = etal |title=Obesity alters gut microbial ecology |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=102 |issue=31 |pages=11070–5 |date=2005 |pmid=16033867 |pmc=1176910 |doi=10.1073/pnas.0504978102 |type=Research Support|doi-access = free }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ 
+ [[Category:Gram-positive bacteria]]

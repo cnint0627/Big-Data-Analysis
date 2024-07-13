@@ -1,0 +1,49 @@
+{{about||the mathematical idea|Homology (mathematics)}} 
+ 
+ [[File:Gegenbaur 1870 skull homology color.png|right|thumb|230px| Diagram of the skulls of a [[Monitor lizard]] and a [[Crocodile]]: homologous bones have the same colours.]] 
+ 
+ A '''homologous''' < ref > [[Ancient Greek|Greek]] ''ομολογειν'' = 'to agree' < /ref >  [[Trait (biology)|trait]] is any characteristic which is derived by [[evolution]] from a common [[ancestor]]. This is contrasted to '''analogous''' traits: similarities between organisms that were [[convergent evolution|evolved separately]].  
+ 
+ The term existed before 1859, but got its modern meaning after [[Charles Darwin|Darwin]] established the idea of [[common descent]]. < ref name=Mayr > Mayr, Ernst 1982. ''The growth of biological thought''. Harvard. < /ref > < sup > p45 < /sup > 
+ The pre-Darwinian naturalists [[Cuvier]], [[Geoffroy]] and [[Richard Owen]], also used the idea. 
+ 
+ A homologous trait is often called a '''homologue''' (also spelled '''homolog'''). In genetics, the term  " homologue "  is used both to refer to a homologous protein, and to the gene (DNA sequence) encoding it. 
+ 
+ == Homology vs analogy == 
+ According to Russell, < ref > Russell E.S. 1916. ''Form and function: a contribution to the history of animal morphology''. Murray, London. p108 < /ref >  we owe to Richard Owen the first clear distinction between homologous and analogous [[Organ (anatomy)|organs]]. Owen's definitions were: 
+ :'''Analogue''': a part or organ in one animal which has the same function as another part or organ in a different animal. 
+ :'''Homologue''': the same organ in different animals under every variety of form and function. < ref > Owen, Richard 1843. ''Lectures on invertebrate animals''. London. p374  &  379 < /ref > 
+ 
+ The distinction is made clear by examples such as the [[ear ossicles]] of mammals. These little bones have, in the course of several hundred million years of [[evolution]], made their way from the [[gill]] covers of fish to the rear [[jaw]] bones of [[Synapsid]]s to their present position in the ear of mammals. In the fossil record is evidence of this, and also in embryology. < ref > {{Cite web |url=http://www.palaeos.com/Vertebrates/Bones/Gill_Arches/Meckelian.html |title=''Palaeos'', the gill arches |access-date=2010-10-19 |archive-date=2006-02-21 |archive-url=https://web.archive.org/web/20060221053957/http://www.palaeos.com/Vertebrates/Bones/Gill_Arches/Meckelian.html |url-status=dead }} < /ref >  As the [[embryo]] develops, the [[cartilage]] hardens to form bone. Later in development, tiny bone structures break loose from the jaw and migrate to the inner ear area. < ref > Meng, Jin. 2003. The journey from jaw to ear. ''Biologist'', '''50''', 154-158. < /ref > < ref > Goodrich E.S. 1930. ''Studies on the structure and development of vertebrates''. Macmillan, London. < /ref >  The ear ossicles are homologous with the jaw bones and the gill covers, but not analogous. 
+ 
+ This rather extraordinary story was first proposed in 1818 by [[Étienne Geoffroy Saint-Hilaire]], who looked at fish and tried to discover the homologies of their bones with that of land vertebrates. < ref > Saint-Hilaire, Étienne Geoffroy 1818. ''Philosopie anatomique''. Paris. < /ref > 
+ 
+ == Level of analysis == 
+ [[Image:Homology.jpg|thumb|right|220px|The wings of [[pterosaur]]s (1), [[Chiroptera|bat]]s (2) and [[bird]]s (3) are analogous as wings, but homologous as forearms.]] 
+ ''A trait may be both homologous and analogous'', depending on the level at which the trait is examined. For example, the wings of birds and [[bat]]s are homologous as ''forearms'' in [[tetrapod]]s. However, they are not homologous as ''wings'', because the organ served as a forearm (not a wing) in the last common ancestor of [[tetrapod]]s. < ref name=Scotland > Scotland R.W. 2010.  " Deep homology: a view from systematics " . ''BioEssays : news and reviews in molecular, cellular and developmental biology'' '''32''' (5): NA–ME. [http://onlinelibrary.wiley.com/doi/10.1002/bies.200900175/abstract;jsessionid=C4CD13987CB98D3EF454B6BD8E16DD42.d03t02] [https://www.ncbi.nlm.nih.gov/pubmed/20394064] < /ref >   
+ 
+ By definition, any homologous trait defines a [[clade]]–a [[monophyletic]] [[taxon]] in which all the members have the trait (or have lost it secondarily); and all non-members lack it. < ref name=Scotland/ > 
+ 
+ == Related terms == 
+ === Cladistic terms === 
+ *'''Homoplasy''': evolved independently, but from the same ancestral structure. < ref > Butler A.B. 2009. ''Homology and homoplasty.'' In: Squire, Larry R. (ed) ''Encyclopedia of neuroscience'', Academic Press. 1195–1199. < /ref > 
+ *'''Plesiomorphy''': present in a common ancestor but secondarily lost in some of its descendants. 
+ *'''Synapomorphy''': present in an ancestor and ''all'' of its descendants. < ref name=Scotland/ > 
+ 
+ === Gene sequences === 
+ [[Conserved sequence]]s of DNA, RNA and proteins can be used to decide homologies between organisms. 
+ *'''Orthology''': [[gene]]s or sequences of [[DNA]] which are similar because they came from a common ancestor. They were originally separated by a [[speciation]] event. '''Orthologs''' (orthologous genes) are genes in different species which originated by vertical descent from a single gene of the last common ancestor. The term  " ortholog "  was coined in 1970 by Walter Fitch. < ref > {{cite journal |author=Fitch W. |title=Distinguishing homologous from analogous proteins |journal=Syst Zool |volume=19 |year=1970 |pmid=5449325 |url=https://pubmed.ncbi.nlm.nih.gov/5449325/ |issue=2 |pages=99–113 |doi=10.2307/2412448|jstor=2412448 }} < /ref > 
+ 
+ *'''Paralogy''': when a [[gene duplication|gene is duplicated]] to occupy two different places in the same genome, the two copies are paralogous. Paralogous genes often belong to the same species, but this is not necessary: for example, the [[haemoglobin]] gene of humans and the [[myoglobin]] gene of [[chimpanzee]]s are paralogs. Paralogs typically have the same or similar function, but sometimes do not. At least one of the copies will be under less selection pressure, and may mutate and acquire a new function. 
+ 
+ *'''Xenology''': Homologs resulting from [[horizontal gene transfer]] between two organisms. Xenologs can have different functions, if the new environment is vastly different for the horizontally moving gene. In general, though, xenologs typically have similar function in both organisms. < ref > [https://www.ncbi.nlm.nih.gov/About/primer/phylo.html NCBI Phylogenetics Factsheet] < /ref > 
+ 
+ == Deep homology == 
+ In [[evolutionary developmental biology]],  the concept of '''deep homology''' is used to describe cases where [[Cell growth|growth]] and [[Cellular differentiation|differentiation]] are controlled by genetic mechanisms that are [[Homology (biology)#Homology of sequences in genetics|homologous]] and deeply [[Conserved sequence|conserved]] across a wide range of [[species]]. < ref > {{cite book |chapter=Homologous pathways of development |chapter-url=https://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=dbio & part=A5439 |author=Gilbert, Scott F. |title=Developmental biology |publisher=Sinauer Associates |location=Sunderland, Mass |year=2000 |pages= |isbn=0-87893-243-7 |edition=6th |url=https://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=dbio}} < /ref >  Textbook examples common to [[metazoa]] include the [[homeotic gene]]s that control differentiation along the body, and [[pax genes]] (especially [[PAX6]]) involved in the development of the [[eye]] and other [[sensory organ]]s. 
+ 
+ An [[algorithm]] identifies deeply homologous genetic modules in unicellular organisms, plants, and non-human animals based on [[phenotype|phenotypes]] (such as traits and developmental defects). The technique aligns phenotypes across organisms based on the homology of genes involved in the phenotypes. < ref > Zimmer, Carl 2010. [https://www.nytimes.com/2010/04/27/science/27gene.html?hp= & pagewanted=all The search for genes leads to unexpected places], ''The New York Times'', April 26, 2010. < /ref > < ref name= " McGary2010 " > {{cite journal |author1=McGary K.L. ''et al'' 2010. Systematic discovery of nonobvious human disease models through orthologous phenotypes |title=Systematic discovery of nonobvious human disease models through orthologous phenotypes |journal=Proceedings of the National Academy of Sciences |year=2010 |volume=107 |issue=14 |pages=6544–9 |pmid=20308572 |doi=10.1073/pnas.0910200107 |pmc=2851946 |bibcode=2010PNAS..107.6544M |url=http://www.marcottelab.org/paper-pdfs/PNAS_Phenologs_2010.pdf |doi-access=free }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Biology]]

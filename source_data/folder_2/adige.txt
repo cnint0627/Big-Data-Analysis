@@ -1,0 +1,181 @@
+{{Infobox river 
+ | name               = Adige 
+ | native_name        = {{native name list |tag1=de|name1=Etsch |tag2=vec|name2=Àdexe |tag3=it|name3=Adige |tag4=rm|name4=Adisch |tag5=lld|name5=Adesc}} 
+ | name_other         =  
+ | name_etymology     = Latin ''Athesis'', from Celtic *''yt-ese'',  " the water " 
+ < !---------------------- IMAGE  &  MAP -- > 
+ | image              = 20110720 Verona 3078.jpg 
+ | image_size         =  
+ | image_caption      = The Adige in [[Verona]] 
+ | map                = AdigeLocationMap360.png 
+ | map_size           =  
+ | map_caption        = Map of the Adige River 
+ | pushpin_map        =  
+ | pushpin_map_size   =  
+ | pushpin_map_caption=  
+ < !---------------------- LOCATION -- > 
+ | subdivision_type1  = Country 
+ | subdivision_name1  = [[Italy]] 
+ | subdivision_type2  =  
+ | subdivision_name2  =  
+ | subdivision_type3  =  
+ | subdivision_name3  =  
+ | subdivision_type4  =  
+ | subdivision_name4  =  
+ | subdivision_type5  =  
+ | subdivision_name5  =  
+ < !---------------------- PHYSICAL CHARACTERISTICS -- > 
+ | length             = {{convert|410|km|mi|abbr=on}}  
+ | width_min          =  
+ | width_avg          =  
+ | width_max          =  
+ | depth_min          =  
+ | depth_avg          =  
+ | depth_max          =  
+ | discharge1_location=  
+ | discharge1_min     =  
+ | discharge1_avg     = {{convert|235|m3/s|cuft/s|abbr=on}} 
+ | discharge1_max     =  
+ < !---------------------- BASIN FEATURES -- > 
+ | source1            = [[Reschen Pass]] 
+ | source1_location   = [[Graun im Vinschgau]], [[South Tyrol]], [[Italy]] 
+ | source1_coordinates= {{coord|46|50|04|N|10|30|53|E|display=inline}} 
+ | source1_elevation  = {{convert|1520|m|abbr=on}} 
+ | mouth              = [[Adriatic Sea]] 
+ | mouth_location     = [[Italy]] 
+ | mouth_coordinates  = {{coord|45|8|59|N|12|19|13|E|display=inline,title}} 
+ | mouth_elevation    =  
+ | progression        =  
+ | river_system       =  
+ | basin_size         = {{convert|12100|km2|abbr=on}} 
+ | tributaries_left   =  
+ | tributaries_right  =  
+ | custom_label       =  
+ | custom_data        =  
+ | extra              =  
+ }} 
+ The '''Adige''' ({{lang-de|Etsch}}; {{lang-vec|Àdexe}}; {{lang-rm|Adisch}}; {{lang-lld|Adesc}}; {{lang-la|Athesis}}; {{lang-grc|Ἄθεσις}}) is an [[Italy|Italian]] river that starts in the [[Alps]] in the province of [[South Tyrol]] near the Italian border with [[Austria]] and [[Switzerland]], flowing through most of [[Northeast Italy]] to the [[Adriatic Sea]]. 
+ 
+ It is the second Italian river by [[length]] after the [[Po (river)|Po]], the third for its [[watershed]] after the Po and the [[Tiber River|Tiber]], and the fourth by its mean yearly [[Discharge (hydrology)|discharge]] after the Po, the [[Ticino (river)|Ticino]] and the Tiber. 
+ 
+ ==Geography== 
+ The Adige river has a length of {{Convert|410|km|mi|1|abbr=on}} and a [[drainage basin]] with an area of {{Convert|12200|km2|sqmi|0|abbr=on }}. < ref name= " treccani " > {{cite web |url=http://www.treccani.it/enciclopedia/adige/ |title=Adige |publisher=Treccani Enciclopedia |language=it |access-date=26 June 2017 }} < /ref >   
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|205|m3/s|cuft/s|abbr=on }} at [[Boara Pisani]], a ''comune'' in the [[Province of Padua|Padua]] province near the mouth of the river. < ref name= " hydro " > {{cite web |url=http://193.206.192.243/simn/dati/alov_portate.php?id=27 & nome=ADIGE%20a%20Boara%20Pisani |title=ADIGE a Boara Pisani |publisher=Agenzia per la protezione dell'ambiente e per i servizi tecnici |language=it |access-date=26 June 2017 |archive-date=20 April 2017 |archive-url=https://web.archive.org/web/20170420045830/http://193.206.192.243/simn/dati/alov_portate.php?id=27 & nome=ADIGE%20a%20Boara%20Pisani |url-status=dead }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:350 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:50 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:25 start:0 
+ BackgroundColors = canvas:sfondo  
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 148 
+  bar:Feb from:0 till: 141 
+  bar:Mar from:0 till: 149 
+  bar:Apr from:0 till: 177 
+  bar:May from:0 till: 244 
+  bar:Jun from:0 till: 329 
+  bar:Jul from:0 till: 238 
+  bar:Aug from:0 till: 240 
+  bar:Sep from:0 till: 245 
+  bar:Oct from:0 till: 182 
+  bar:Nov from:0 till: 214 
+  bar:Dec from:0 till: 153 
+ 
+ PlotData= 
+  bar:Jan at: 148 fontsize:S text: 148 shift:(-8,5) 
+  bar:Feb at: 141 fontsize:S text: 141 shift:(-13,5) 
+  bar:Mar at: 149 fontsize:S text: 149 shift:(-13,5) 
+  bar:Apr at: 177 fontsize:S text: 177 shift:(-13,5) 
+  bar:May at: 244 fontsize:S text: 244 shift:(-13,5) 
+  bar:Jun at: 329 fontsize:S text: 329 shift:(-13,5) 
+  bar:Jul at: 238 fontsize:S text: 238 shift:(-13,5) 
+  bar:Aug at: 240 fontsize:S text: 240 shift:(-13,5) 
+  bar:Sep at: 245 fontsize:S text: 245 shift:(-13,5) 
+  bar:Oct at: 182 fontsize:S text: 182 shift:(-13,5) 
+  bar:Nov at: 214 fontsize:S text: 214 shift:(-13,5) 
+  bar:Dec at: 153 fontsize:S text: 153 shift:(-13,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Boara Pisani (1961 - 1970)''' < ref name= " hydro "  / > 
+ < /center > 
+ 
+ ===Course=== 
+ The Adige starts in the [[Reschen Pass]] in the ''comune'' of [[Graun im Vinschgau]], [[South Tyrol]] province, at an [[altitude]] of about {{Convert|1550|m|ft|0|abbr=on }} close to the borders with [[Austria]] and [[Switzerland]]. First, it flows to the south until the [[confluence]] with the Ram river and then turns to the east. At [[Merano]], the Adige is joined by the Passirio river and turns to the southeast; in [[Bolzano]], it is joined by the Isarco, its main [[tributary]]. In the confluence with the Tasso river, the Adige flows to the south and, then, from [[Badia Polesine]], it turns to the east and flows into the [[Adriatic Sea]] to the south of the mouth of the [[Brenta (river)|Brenta]] river and to the north of the mouth of the Po river. < ref name= " treccani "  / > 
+ 
+ The [[valley]] of the Adige gets several names: ''Venosta'' valley between the [[Source (river or stream)|source]] and [[Merano]], ''Adige'' valley between Merano and [[Trento]], ''Vallagarina'' between Trento and [[Verona]] and, last, ''Padana'' valley between Verona and the mouth. 
+ 
+ == Main tributaries == 
+ The main [[Tributary|tributaries]] are: 
+ 
+ < center > 
+ {| class= " wikitable " 
+ |- 
+ ! Tributary !! Length < br / > < small > (km) < /small >  !! Joins the Adige in: 
+ |- 
+ | Ram || align= " right "  | 24.7 || [[Glorenza]] 
+ |- 
+ | Passirio || align= " right "  | 42.6 || [[Merano]] 
+ |- 
+ | Isarco || align= " right "  | 95,5 || [[Bolzano]] 
+ |- 
+ | Noce || align= " right "  | 46 || [[Zambana]] 
+ |- 
+ | Avisio || align= " right "  | 89.4 || [[Lavis]] 
+ |- 
+ | Fersina || align= " right "  | 30 || [[Trento]] 
+ |- 
+ | Alpone || align= " right "  | 38 || [[Albaredo d'Adige]] 
+ |} 
+ < /center > 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:AdigeinVallagarina.jpg|The Adige in the ''Vallagarina'' valley. 
+ File:VeronaPonteRomanoDaCastSanPietro.jpg|The Roman [[bridge]] over the Adige, Verona. 
+ File:Adige Verona 2010.JPG|The Adige in Verona. 
+ File:Adigecastagnarobadia.jpg|The Adige near [[Badia Polesine]]. 
+ File:Adige foce.jpg|Mouth of the Adige.  
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[List of rivers of Italy]] 
+ * [[List of rivers of Switzerland]] 
+ 
+ ==References== 
+ {{commonscat|Adige}} 
+ {{Reflist}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Rivers of Italy]] 
+ [[Category:Trentino-Alto Adige/Südtirol]] 
+ [[Category:Veneto]]

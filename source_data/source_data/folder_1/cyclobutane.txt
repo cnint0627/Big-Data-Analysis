@@ -1,0 +1,67 @@
+{{chembox 
+ | Name           = Cyclobutane 
+ | ImageFile      = Cyclobutane2.svg 
+ | ImageFileL1    = Cyclobutane-buckled-3D-balls.png 
+ | ImageFileR1    = Cyclobutane-buckled-3D-vdW.png 
+ | ImageSize      = 50px 
+ | ImageNameL1    = Cyclobutane 
+ | ImageNameR1    = Cyclobutane 
+ | PIN            = Cyclobutane 
+ | Section1       = {{Chembox Identifiers 
+ | CASNo_Ref = {{cascite|correct|EBI}} 
+ | CASNo = 287-23-0 
+ | UNII_Ref = {{fdacite|changed|FDA}} 
+ | UNII = 5X619RB2CY 
+ | SMILES = C1CCC1 
+ | PubChem = 9250 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 8894 
+ | EC_number = 206-014-5 
+ | UNNumber = 2601 
+ | ChEBI = 30377 
+ | Beilstein = 1900183 
+ | Gmelin = 81684 
+ | InChI = 1/C4H8/c1-2-4-3-1/h1-4H2 
+ | InChIKey = PMPVIKIVABFJJI-UHFFFAOYAP 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C4H8/c1-2-4-3-1/h1-4H2 
+ | StdInChIKey_Ref = {{stdinchicite|changed|chemspider}} 
+ | StdInChIKey = PMPVIKIVABFJJI-UHFFFAOYSA-N 
+   }} 
+ | Section2       = {{Chembox Properties 
+ | Formula = C < sub > 4 < /sub > H < sub > 8 < /sub > 
+ | Appearance = Colorless gas 
+ | MolarMass = 56.107 g/mol 
+ | MeltingPtC = -91 
+ | BoilingPtC = 12.5 
+ | Density = 0.720  g/cm < sup > 3 < /sup > 
+   }} 
+ | Section7       = {{Chembox Hazards 
+ | GHSPictograms = {{GHS02}}{{GHS04}} 
+ | GHSSignalWord = Danger 
+ | HPhrases = {{H-phrases|220|280}} 
+ | PPhrases = {{P-phrases|210|377|381|403|410+403}} 
+ | NFPA-H=1 
+ | NFPA-F=4 
+ | NFPA-R=0 
+   }} 
+ | Section8       = {{Chembox Related 
+ | OtherAnions =  
+ | OtherCations =  
+ | OtherFunction = [[Butane]] 
+ | OtherFunction_label = [[alkane]] 
+ | OtherCompounds = [[Cyclobutene]]; [[Cyclobutadiene]]; [[Cyclopropane]]; [[Cyclopentane]] }} 
+ | Verifiedfields = changed 
+ | Watchedfields  = changed 
+ | verifiedrevid  = 439048895 
+ }} 
+ 
+ '''Cyclobutane''' is a [[cycloalkane]] [[organic compound]] with the formula (CH < sub > 2) < /sub > < sub > 4 < /sub > < sub > , < /sub >  a colorless gas at room temperature. Cyclobutane is usually sold as a liquified gas (a gas that has been pressurized or frozen to be in a state that isn't natural). Variants of cyclobutane are called cyclobutanes. Cyclobutane has no uses in commerce or [[biological|biology]], < ref > {{Cite web|title=Cyclobutane - an overview {{!}} ScienceDirect Topics|url=https://www.sciencedirect.com/topics/earth-and-planetary-sciences/cyclobutane|access-date=2022-03-29|website=www.sciencedirect.com}} < /ref >  but compounds containing cyclobutane are important in biology and [[Biotechnology|biotechnology.]]   
+ 
+ == Structure == 
+ The [[carbon]] [[Atom|atoms]] within cyclobutane are at odd angles. Cyclobutane is [[unstable]] and will break at temperatures over about 500° celcius. Cyclobutane is connected to itself in a ladder-like structure. An example of this structure can be seen in in pentacycloanammoxic [[acid]]. This compound is a ladderane made up of five connected cyclobutane units. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Cycloalkanes|4]]

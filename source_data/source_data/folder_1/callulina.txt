@@ -1,0 +1,30 @@
+{{automatic taxobox 
+ | image = Callulina dawida.jpg 
+ | image_caption = Taita warty frog (''[[Callulina dawida]]'') 
+ | taxon = Callulina 
+ | authority = [[Fritz Nieden|Nieden]], 1911 
+ | type_species = ''[[Callulina kreffti]]'' 
+ | type_species_authority = Nieden, 1911  " 1910 " 
+ | subdivision_ranks = Species 
+ | subdivision =  
+ See text. 
+ }} 
+ '''''Callulina''''' (commonly known as the '''warty frogs''') is a small genus of [[frog]]s in the family [[Brevicipitidae]]. There are nine species in this genus.  They live in [[Tanzania]] and [[Kenya]]. For a long time, scientists thought that there was only one species in ''Callulina'', a frog that lives in the [[Eastern Arc Mountains]] in Tanzania and in southern Kenya. However, they found eight more species. < ref name=ASW > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Brevicipitidae/Callulina |title=''Callulina'' Nieden, 1911 |author=Frost, Darrel R. |year=2016 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |access-date=22 January 2016}} < /ref >  Most of these frogs are [[critically endangered|in danger of dying out]]. < ref > {{cite web |url=http://www.iucnredlist.org/ |title=IUCN Red List of Threatened Species. Version 2013.2.  < www.iucnredlist.org >  |author=IUCN  |year=2014 |access-date=13 January 2014}} < /ref > 
+ 
+ ==Species== 
+ [[Amphibian Species of the World]] says there are nine ''Callulina'' species. < ref name=ASW / > 
+ * ''[[Callulina dawida]],'' Taita warty frog {{small|Loader, Measey, de Sá,  &  Malonza, 2009}} < ref > {{cite journal|author1=Loader, S. P.|author2=Measey, G. J.|author3=de Sá, R. O.|author4=Malonza, P. K.| year=2009| title= A new brevicipitid species (Brevicipitidae: ''Callulina'') from the fragmented forests of the Taita Hills, Kenya| journal= Zootaxa | volume=2123| pages= 55–68|doi=10.11646/zootaxa.2123.1.3}} < /ref > 
+ * ''[[Callulina hanseni]]'', Hansen's warty frog {{small| Loader, Gower, Müller,  &  Menegon, 2010}} < ref name=Loader2010a > {{cite journal|author1=Loader, S. P.|author2=Gower, D. J.|author3=Müller, H.|author4=Menegon, M.|year=2010 | title=Two new species of ''Callulina'' (Amphibia: Anura: Brevicipitidae) from the Nguru Mountains, Tanzania| journal= Zootaxa | volume=2694|pages= 26–42|doi=10.11646/zootaxa.2694.1.2}} < /ref > 
+ * ''[[Callulina kanga]]'', Krefft's secret frog {{small| Loader, Gower, Müller,  &  Menegon, 2010}} < ref name=Loader2010a / > 
+ * ''[[Callulina kisiwamsitu]]'', Mazumbai warty frog{{small| de Sá, Loader,  &  Channing, 2004}} < ref > {{Cite journal | last1 = de Sá | first1 = R. O. | last2 = Loader | first2 = S. P. | last3 = Channing | first3 = A. | doi = 10.1670/209-03A | title = A new species of ''Callulina'' (Anura: Microhylidae) from the West Usambara Mountains, Tanzania | journal = Journal of Herpetology | volume = 38 | issue = 2 | pages = 219–224| year = 2004 | s2cid = 86129626 }} < /ref > 
+ * ''[[Callulina kreffti]]'', Krefft's warty frog{{small| Nieden, 1911}} 
+ * ''[[Callulina laphami]]'', Lapham's warty frog {{small| Loader, Gower, Ngalason,  &  Menegon, 2010}} < ref name=Loader2010b/ > 
+ * ''[[Callulina meteora]]'', Nguru warty frog{{small| Menegon, Gower, and Loader, 2011.}} < ref > {{cite journal|author1=Menegon, M.|author2=Gower, D. J.|author3=Loader, S. P. | year= 2011| title= A remarkable new species of ''Callulina'' (Amphibia: Anura: Brevicipitidae) with massive, boldly coloured limb glands| journal= Zootaxa | volume=3095 | pages=15–26}} < /ref > 
+ * ''[[Callulina shengena]]'', Shengena warty frog{{small| Loader, Gower, Ngalason,  &  Menegon, 2010}} < ref name=Loader2010b/ > 
+ * ''[[Callulina stanleyi]]'', Stanley's warty frog{{small| Loader, Gower, Ngalason,  &  Menegon, 2010}} < ref name=Loader2010b > {{Cite journal | last1 = Loader | first1 = S. P. | last2 = Gower | first2 = D. J. | last3 = Ngalason | first3 = W. | last4 = Menegon | first4 = M. | title = Three new species of ''Callulina'' (Amphibia: Anura: Brevicipitidae) highlight local endemism and conservation plight of Africa's Eastern Arc forests | doi = 10.1111/j.1096-3642.2010.00652.x | journal = Zoological Journal of the Linnean Society | volume = 160 | issue = 3 | pages = 496–514| year = 2010 | doi-access = free }} < /ref > 
+ 
+ == References == 
+ {{Reflist|30em}} 
+ {{Taxonbar|from=Q2176185}} 
+ [[Category:Frogs of Africa]] 
+ {{biology-stub}}

@@ -1,0 +1,32 @@
+[[File:tree.ring.arp.jpg|thumb|230px|The growth rings of a tree. Each ring represents one year; the outside rings, near the bark, are the youngest.]] 
+ [[File:Dendrochronological drill hg.jpg|thumb|230px|Drill for dendrochronology sampling and growth ring counting]] 
+ 
+ '''Dendrochronology''' is '''tree-ring dating'''. It is a method of dating which uses the patterns of '''[[growth ring]]s''' in trees. In many types of wood, the time rings were formed can be dated to the exact calendar year.  
+ 
+ Dendrochronology has three main uses:  
+ #[[radiocarbon dating]], where it is used to calibrate [[Radiocarbon dating|radiocarbon ages]]. < ref > This is needed because the concentration of [[carbon-14]] in the [[atmosphere]] varies with time and place. The relatively short-lived 14C is renewed by [[cosmic ray]] bombardment on atmospheric [[nitrogen]]. The bombardment is slightly variable. < /ref > 
+ #[[archaeology]], where it is used to date old buildings, etc. 
+ #palaeoecology, where it is used to determine certain aspects of past [[climate]]s  
+ 
+ In some parts of the world, it is possible to date wood back a few thousand years, or even many thousands. The maximum for  " fully anchored chronologies "  is a little over 11,000 years from present. < ref name= " arts.cornell " > {{cite book |author=McGovern P.J. |display-authors = etal |chapter=Dendrochronology |chapter-url=http://www.arts.cornell.edu/dendro/ajatext.html |title=Science in archaeology: a review |journal=AJA |volume=99 |issue=1 |pages=79–142 |year=1995 |doi = 10.2307/506880 |jstor = 506880 |s2cid = 193071801 }} < /ref >  The term  " fully anchored chronology "  means the dates are absolutely certain. 
+ 
+ == History == 
+ Dendrochronology (word derived from [[Ancient Greek|Greek]] {{lang|grc|[[wikt:δένδρον|δένδρον]]}}, ''dendron'',  " tree limb " ; {{lang|grc|[[wikt:χρόνος|χρόνος]]}}, ''khronos'',  " time " ; and {{lang|grc|[[wikt:-λογία|-λογία]]}}, ''[[wikt:-logia|-logia]]'') was developed during the first half of the 20th century originally by the astronomer A.E. Douglass, who founded the Laboratory of Tree-Ring Research at the [[University of Arizona]]. Douglass researched [[sunspot]] activity. He expected changes in solar activity would affect climate patterns on Earth. The climate would be recorded by tree-ring growth patterns. 
+ 
+ The phenomenon of tree rings and their relationship with wet and dry years had been noticed before Douglass. There is a brief note in one of [[Leonardo da Vinci]]'s notebooks, and [[Charles Babbage]] in 1837 came up with the same idea. < ref > Watson, Peter 2009. ''Ideas: a history, from Wittgenstein to the word wide web''. London: Folio Society, p294. Original edition was titled ''A terrible beauty: the people  &  ideas that shaped the modern world''. London: Weidenfeld  &  Nicolson, 2000. < /ref > 
+ 
+ == How it works == 
+ Many trees in [[temperate zone]]s make one growth ring each year, with the newest adjacent to the bark. Through a tree's life, a year-by-year ring pattern is formed which reflects the climatic conditions in which the tree grew. Adequate moisture and a long growing season result in a wide ring. A drought year may result in a very narrow one.  
+ 
+ Alternating poor and favorable conditions, such as mid summer droughts, can result in several rings forming in a given year. Problems like this are fixed by comparing one part of the world with another. Missing rings are rare in [[oak]] and [[elm]] trees: the only recorded instance of a missing ring in oak trees occurred in the year 1816, also known as the [[Year without a Summer]]. < ref > {{cite web| url=http://www.ltrr.arizona.edu/lorim/good.html| title=Useful tree species for tree-ring dating| author=Lori Martinez| year=1996| access-date=2008-11-08}} 
+ < /ref >   
+ 
+ Trees from the same region will tend to develop the same patterns of ring widths for a given period. These patterns can be compared and matched ring for ring with trees growing in the same geographical zone and under similar climatic conditions. Following these tree-ring patterns from living trees back through time, chronologies can be built up, both for entire regions, and for sub-regions of the world. Thus wood from ancient structures can be matched to known chronologies (a technique called cross-dating) and the age of the wood determined precisely.  
+ 
+ The tree-ring dates can be extended back to 26,000 BP < ref > BP = Before Present, where  " present "  is 1 January 1950. < /ref >  by using other methods. Those other methods use marine [[sediment]] layers and growth rings in [[coral]]s. < ref > {{cite journal|format=PDF|title=INTCAL04 Terrestrial radiocarbon age calibration, 0–26 cal kyr BP|author= Reimer, Paula J. |display-authors = etal|journal=Radiocarbon|volume=46|issue=3|year=2004|pages=1029–58|doi=10.1017/S0033822200032999|s2cid=38359692|url=https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/4167}} < /ref > < ref > {{cite web|last=Fairbanks|first=Richard|title=Current research: radiocarbon calibration|url=http://radiocarbon.ldeo.columbia.edu/research/radiocarbon.htm|work=Columbia|access-date=2012-09-24|archive-date=2011-08-25|archive-url=https://web.archive.org/web/20110825132650/http://radiocarbon.ldeo.columbia.edu/research/radiocarbon.htm|url-status=dead}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Trees]] 
+ [[Category:Dating methods]]

@@ -1,0 +1,81 @@
+< !--{{Distinguish|Caffeine}}-- > 
+ {{Drugbox 
+ | Verifiedfields = changed 
+ | class = {{Plainlist| 
+ *[[Appetite suppressant]] 
+ *[[CNS stimulant|{{abbr|CNS|Central nervous system}} stimulant]] 
+ }} 
+ | solubility = 20 
+ | verifiedrevid = 446197235 
+ | drug_name = {{sc|D}}-norpseudoephedrine 
+ | type =  
+ | IUPAC_name = (1''S'',2''S'')-2-amino-1-phenylpropan-1-ol 
+ | image = Cathine2DCSD.svg 
+ | width = 150px 
+ | alt =  
+ | caption = The model has one atom colored red ([[oxygen]]). One atom is colored blue ([[nitrogen]]). Grey color for [[carbon]]; White for [[hydrogen]] 
+ | image2 = Cathine3DanJ.gif 
+ | width2 = 250px 
+ 
+ < !--Clinical data-- > | tradename =  
+ | MedlinePlus =  
+ | licence_EU =  
+ | licence_US =  
+ | pregnancy_AU =  
+ | pregnancy_US =  
+ | pregnancy_category =  
+ | legal_AU = S4 
+ | legal_BR = A3 
+ | legal_BR_comment =  < ref > {{Cite web |author=Anvisa |author-link=Brazilian Health Regulatory Agency |date=2023-03-31 |title=RDC Nº 784 - Listas de Substâncias Entorpecentes, Psicotrópicas, Precursoras e Outras sob Controle Especial |trans-title=Collegiate Board Resolution No. 784 - Lists of Narcotic, Psychotropic, Precursor, and Other Substances under Special Control|url=https://www.in.gov.br/en/web/dou/-/resolucao-rdc-n-784-de-31-de-marco-de-2023-474904992 |url-status=live |archive-url=https://web.archive.org/web/20230803143925/https://www.in.gov.br/en/web/dou/-/resolucao-rdc-n-784-de-31-de-marco-de-2023-474904992 |archive-date=2023-08-03 |access-date=2023-08-16 |publisher=[[Diário Oficial da União]] |language=pt-BR |publication-date=2023-04-04}} < /ref > 
+ | legal_CA = Schedule IV 
+ | legal_DE = Rx-only/Anlage III 
+ | legal_US = Schedule IV 
+ | legal_UK = Class C 
+ | legal_UN = P III 
+ | legal_status =  
+ | routes_of_administration = Oral 
+ 
+ < !--Pharmacokinetic data-- > | bioavailability =  
+ | metabolism =  
+ | elimination_half-life = 1.8–8.6 hours < ref > {{cite journal | vauthors = Toennes SW, Harder S, Schramm M, Niess C, Kauert GF | title = Pharmacokinetics of cathinone, cathine and norephedrine after the chewing of khat leaves | journal = British Journal of Clinical Pharmacology | volume = 56 | issue = 1 | pages = 125–30 | date = July 2003 | pmid = 12848785 | pmc = 1884326 | doi = 10.1046/j.1365-2125.2003.01834.x }} < /ref > 
+ 
+ < !--Identifiers-- > | CAS_number_Ref = {{cascite|correct|??}} 
+ | CAS_number = 492-39-7 
+ | ATC_prefix = A08 
+ | ATC_suffix = AA07 
+ | PubChem = 441457 
+ | ChEMBL_Ref = {{ebicite|changed|EBI}} 
+ | synonyms = {{Plainlist| 
+ *(+)-norpseudoephedrine 
+ *Cathine 
+ }} 
+ | ChEMBL = 1412041 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB01486 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 390189 
+ | ChEBI = 4109 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = E1L4ZW2F8O 
+ 
+ < !--Chemical data-- > | C = 9 
+ | H = 13 
+ | N = 1 
+ | O = 1 
+ | smiles = O[C@@H](c1ccccc1)[C@@H](N)C 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C9H13NO/c1-7(10)9(11)8-5-3-2-4-6-8/h2-7,9,11H,10H2,1H3/t7-,9+/m0/s1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = DLNKOYKMWOXYQA-IONNQARKSA-N 
+ }} 
+ 
+ '''{{sc|D}}-norpseudoephedrine''', also known as '''cathine''' and '''(+)-norpseudoephedrine''', is a [[psychoactive drug]]. It is a [[stimulant]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Drugs]] 
+ [[Category:Organic compounds]] 
+ 
+ 
+ {{chem-stub}}

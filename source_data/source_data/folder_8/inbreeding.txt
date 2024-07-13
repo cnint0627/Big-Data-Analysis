@@ -1,0 +1,27 @@
+'''Inbreeding''' is a term in [[genetics]], meaning the crossing (mating) of closely related animals or plants. < ref > Bernstein H, Byerly HC, Hopf FA, Michod RE. 1985. Genetic damage, mutation, and the evolution of sex. ''Science'' '''229''' (4719): 1277–81. Bibcode:1985Sci...229.1277B. doi:10.1126/science.3898363. PMID 3898363 < /ref >   Self-[[fertilisation]] in plants is the most extreme kind of inbreeding.  It is quite widespread in plants which carry both male and female [[flower]]s on the same plant. < ref > Darwin, Charles 1876. ''The effects of cross and self fertilisation in the vegetable kindon''. Murray, London. < /ref >  Inbreeding is the opposite of [[outcrossing]], which is the mating of unrelated members of the same [[species]]. The combination of inbreeding and outcrossing is a standard method of [[artificial selection]]. < ref >  Michod R.E. ''Eros and Evolution: a natural philosophy of sex''. 1994. Perseus Books. ISBN 0-201-40754-X 
+ < /ref > 
+ 
+ Other terms are '''inbred strain''', a group of organisms so inbred that they have little or no genetic variation, and '''inbreeding depression''', which is the decreased [[fitness]] (usually lack of fertility and early illness and death) brought about by inbreeding. 
+ 
+ Inbred strains, for example of mice or [[Drosophila melanogaster|drosophila]], are often used in biology as [[model organism]] < nowiki/ > s when genetic uniformity makes them useful in investigation of such things as drugs and cancer. 
+ 
+ For human beings, inbreeding is destructive, and almost all cultures have an incest taboo. For example, many prohibit marriage between first [[cousin]]s, and most prohibit it for closer family members. 
+ 
+ == Loss of genetic variation == 
+ Loss of genetic variation means that many gene [[allele|loci]] that were [[allele|heterozygous]] are now homozygous. The result of both genes at a locus being mutant can be serious.  
+ 
+ The most intense form of inbreeding is the self-fertilisation in an [[hermaphrodite]], in which the proportion of heterozygotes is halved in each generation. < ref name= " JMS " >  Maynard Smith, John 1998. ''Evolutionary genetics'', 2nd ed. Oxford. < /ref > < sup > p139 < /sup >  Aa x Aa (100%) gives 1 AA: 2 Aa; 1 aa (50%), and so on. A similar effect takes twice as long with brother-sister mating, and longer still with mating in very small isolated groups. The latter situation is famous because [[Sewall Wright]] did his calculations for just such groups, and he called the process [[genetic drift]]. Genetic drift and inbreeding are closely related concepts. 
+ 
+ The degree of inbreeding can be measured in various ways. A simple test for mammals is the exchange of [[skin graft]]s. If the grafts are not rejected, the animals must be nearly identical genetically. Skin grafts can be successfully exchanged between [[rat]]s in standard laboratory [[Strain (biology)|strains]], and between [[cheetah]]s caught in the wild. 
+ 
+ == Discussion == 
+ Why is it that inbreeding brings about a loss of viability? There are two answers, and both seem to be true. The first is that a group with little genetic variation is vulnerable to environmental challenges: [[infection]]s, sudden climate events, [[predator]]s. Small groups are vulnerable to chance events in any case, but with no [[heritable]] variability they are even more vulnerable. 
+ 
+ The second explanation is genetic. Some of the homozygous genes will be ''deleterious recessives'' which would normally be shielded by a dominant allele. Also, there are some loci where the heterozygote is inherently [[fitness|fitter]] than either homozygote. If so, inbreeding will automatically cause a loss of vigour. < ref name= " JMS " / > < sup > p103 < /sup > 
+ 
+ Many plant species do self-[[pollination]] in the wild, but the great majority have occasional outcrossing. This provides them with sufficient variety for their survival. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Classical genetics]]

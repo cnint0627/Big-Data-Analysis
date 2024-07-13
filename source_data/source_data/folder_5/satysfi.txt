@@ -1,0 +1,30 @@
+{{Infobox Software 
+  | name                = SATySFi 
+  | logo = File:SATySFi_logo.svg 
+  | screenshot          = 
+  | collapsible         = 
+  | caption             = 
+  | author              = T. Suwa ([[Japan]]) 
+  | developer           = 
+  | released            = 
+  | latest release version = 
+  | latest release date = 
+  | latest preview version = 
+  | latest preview date = 
+  | operating system    = 
+  | platform            = [[Cross-platform]] 
+  | language            = 
+ |genre                 = [[Typesetting]] 
+ |license               = [[GNU Lesser General Public License]] 
+ |website               = [https://github.com/gfngfn/SATySFi SATySFi] 
+ }} 
+ '''SATySFi''' (Static Analysis-based Typesetting System for Functional Implementation) is an open source [[computer program]] used for making articles, reports and mathematical formulas. Various free extensions are developed for SATySFi, and it is expected to be an alternative option for [[LaTeX]] and [[Beamer]] in the future. 
+ 
+ ==Other websites== 
+ * [http://satysfi-playground.tech/ SATySFi Playground] - at this website, users can experience SATysFi typesetting on their [[web browser]]s. 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Programming languages]] 
+ [[Category:Software]]

@@ -1,0 +1,31 @@
+{{Infobox Software 
+ | name                   = EasyBCD 
+ | logo                   =  
+ | screenshot             =  
+ | caption                =  
+ | collapsible            =  
+ | author                 = [[Mahmoud H. Al-Qudsi]] 
+ | developer              = [[NeoSmart Technologies]] 
+ | released               = {{release date|2006|07|04}} 
+ | latest release version = 2.2 
+ | latest release date    = {{Start date and age|2012|09|26}} 
+ | latest preview version =  
+ | latest preview date    =  
+ | frequently updated     = Yes 
+ | programming language   = [[C++]] and [[C Sharp (programming language)|C#]] 
+ | operating system       = Windows 98, Windows 2000, [[Microsoft Windows|Windows]] XP, Windows Vista, Windows Server 2008 
+ | platform               = [[.NET Framework 2.0]] or [[.NET Framework 4.0]] 
+ | size                   = 1.5 [[Megabyte|MB]] 
+ | language               =  
+ | status                 =  
+ | genre                  = [[Utility software]] 
+ | license                = [[Shareware]] ([[Freeware|Free]] for noncommercial use)  
+ | website                = {{URL|http://neosmart.net}} 
+ }} 
+ '''EasyBCD''' is a free program developed by the non-profit [[NeoSmart Technologies]] used to configure and tweak the new [[Windows Vista]] Bootloader. EasyBCD can be used to set up dual-boots between Windows Vista and previous versions of Windows, along with Linux, BSD, and Mac OS X. 
+ 
+ == Other websites == 
+ *{{Official website|1=http://neosmart.net/EasyBCD/}} 
+ {{tech-stub}} 
+ {{DEFAULTSORT:Easybcd}} 
+ [[Category:Software]]

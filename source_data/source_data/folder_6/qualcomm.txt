@@ -1,0 +1,42 @@
+{{Infobox company 
+ | name = Qualcomm Incorporated 
+ | logo = Qualcomm-Logo.svg 
+ | image = [[Image:Qualcomm Headquarters La Jolla.jpg|250px]] 
+ | image_caption = Headquarters in San Diego, California 
+ | type = [[Public company|Public]] 
+ | traded_as = {{ubl|{{NASDAQ|QCOM}}|[[Nasdaq-100]] component|[[S & P 100]] component|[[S & P 500]] component}} 
+ | industry = {{nowrap|[[Telecoms equipment]]s < br / > [[Semiconductor industry|Semiconductor]]s}} 
+ | foundation = {{start date and age|1985|7|df=yes}} 
+ | founders = {{ubl|[[Irwin M. Jacobs|Irwin Jacobs]]|[[Andrew Viterbi]]}} 
+ | location_city = [[San Diego]], California 
+ | area_served = Worldwide 
+ | key_people = Cristiano Amon (CEO) < br / > Mark D. McLaughlin (chairman) 
+ | products = [[CDMA]]/[[WCDMA]] [[chipsets]], [[Snapdragon (processor)|Snapdragon]], [[Qualcomm Brew|BREW]], OmniTRACS, [[MediaFLO]], [[QChat]], [[Interferometric modulator display|mirasol displays]], uiOne, [[Qualcomm Gobi|Gobi]], [[Qizx]], [[Central processing unit|CPU]] 
+ | revenue = {{Decrease}} {{US$|23.53 [[1,000,000,000|billion]]|link=yes}} (2020) 
+ | operating_income = {{Decrease}} {{US$|6.26 billion}} (2020) 
+ | net_income = {{Increase}} {{US$|5.20 billion}} (2020) 
+ | assets = {{Increase}} {{US$|35.59 billion}} (2020) 
+ | equity = {{Increase}} {{US$|6.08 billion}} (2020) 
+ | num_employees = 41,000 (2020) 
+ | website = {{url|qualcomm.com}} 
+ | footnotes =  < ref > {{cite web |url=https://www.sec.gov/ix?doc=/Archives/edgar/data/804328/000172894920000067/qcom-20200927.htm |title=US SEC: 2020 Form 10-K Qualcomm Incorporated |publisher=[[U.S. Securities and Exchange Commission]] |date=November 4, 2020 |access-date=February 11, 2021 |archive-date=January 20, 2021 |archive-url=https://web.archive.org/web/20210120045846/https://www.sec.gov/ix?doc=%2FArchives%2Fedgar%2Fdata%2F804328%2F000172894920000067%2Fqcom-20200927.htm |url-status=live }} < /ref > 
+ | location_country = U.S. 
+ | area =  
+ }}'''Qualcomm''' is a wireless communications and SoC  research and development company located in San Diego, California, USA. The company produces  semiconductors, software, etc. It is best known for working in 5G, < ref name= " qualcomm.com " > {{Cite web|date=March 18, 2014|title=Licensing  & #124; Intellectual Property|url=https://www.qualcomm.com/company/licensing|url-status=live|archive-url=https://web.archive.org/web/20210402135429/https://www.qualcomm.com/company/licensing|archive-date=April 2, 2021|access-date=March 30, 2021}} < /ref >  4G, < ref name= " qualcomm.com "  / >  CDMA2000, and WCDMA standards. 
+ 
+ == History == 
+ The company was founded in 1985 by Irwin Jacobs, Franklin Antonio and four other co-founders. 
+ 
+ In 1999, the base station production was sold to Ericsson. 
+ 
+ In 2000, the company acquired SnapTrack, a developer of A-GPS systems for mobile phones under the [[gpsOne]] brand. 
+ 
+ In 2000, the production of cell phones was sold to the Japanese company Kyocera. The company focused on the development and licensing of wireless technologies, as well as the production of ASICs that implement these technologies. 
+ 
+ == References == 
+ {{reflist}} 
+ {{authority control}} 
+ [[Category:American computer hardware manufacturers]] 
+ [[Category:Companies based in California]] 
+ [[Category:1985 establishments in California]] 
+ [[Category:San Diego, California]]

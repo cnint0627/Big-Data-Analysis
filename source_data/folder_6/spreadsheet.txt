@@ -1,0 +1,48 @@
+[[File:LibreOffice 7.2.4.1 Calc with csv screenshot.png|thumb|300px|Example of a spreadsheet holding data about a group of audio tracks.]] 
+ [[File:Excel chart.PNG|thumb|A sample spreadsheet showing formula]] 
+ A '''Spreadsheet''' is a [[computer program]] that imitates a paper [[worksheet]]. < ref > {{cite web|title=spreadsheet|url=http://www.merriam-webster.com/dictionary/spreadsheet|access-date=23 June 2016|work=[[Merriam-Webster]] Online Dictionary}} < /ref > < ref > {{cite book|title=American Heritage Dictionary of the English Language|date=2011|publisher=Houghton Mifflin Harcourt Publishing Company|edition=5th|quote=A software interface consisting of an interactive grid made up of cells in which data or formulas are entered for analysis or presentation.}} < /ref > < ref > {{cite book|title=Collins English Dictionary – Complete and Unabridged|date=2014|publisher=HarperCollins Publishers|edition=12th|quote=(Computer Science) a computer program that allows easy entry and manipulation of figures, equations, and text, used esp for financial planning and budgeting}} < /ref >  It shows a large sheet (like a sheet of paper) that has many cells in a grid of rows and columns. < ref > {{cite web|title=spreadsheet|url=http://whatis.techtarget.com/definition/spreadsheet|access-date=23 June 2016|publisher=[[TechTarget]]|department=WhatIs.com}} < /ref >  Users can put words or numbers into the cells, to make headings and store information (usually numbers). You can also move the grid lines around so that some cells are bigger than others, and change the color or size of text/font, the same way font/text is changed in a [[word processor]]. You can even put pictures in the worksheets, make multiple pages, and print out their results on real paper. < ref > {{cite web|title=spreadsheet|url=http://www.dictionary.com/browse/spreadsheet|access-date=23 June 2016|website=Dictionary.com Unabridged|publisher=Random House, Inc}} < /ref > < ref > {{cite web|last1=Beal|first1=Vangie|date=September 1996|title=spreadsheet|url=http://www.webopedia.com/TERM/S/spreadsheet.html|access-date=23 June 2016|website=webopedia|publisher=[[QuinStreet]]}} < /ref > < ref > {{cite web|title=Spreadsheet|url=http://www.computerhope.com/jargon/s/spreadsh.htm|access-date=23 June 2016|website=Computer Hope|archive-date=21 June 2016|archive-url=https://web.archive.org/web/20160621102503/http://www.computerhope.com/jargon/s/spreadsh.htm|url-status=dead}} < /ref > 
+ 
+ The primary reason most people use spreadsheets is for automatic calculations. Spreadsheets can be designed to add up the items/amounts on a bill, calculate sales tax, and even calculate income tax. A user can add and subtract the numbers here, even if the numbers are not next to each other. This means the computer does all the math, and people only need to give the correct information. 
+ 
+ Another strength of spreadsheets, is that they can produce diagrams, like graphs and pie-charts, based on the data the user enters. Sometimes the numbers make more sense when the computer turns them into a picture. 
+ 
+ == Basics == 
+ [[File:Python_demo_-_spreadsheet.png|thumb]] 
+ In 1969, a program called LANPAR was created. < ref name= " :0 " > {{Cite book|url=https://books.google.com/books?id=ms--K3jipt4C & q=LANPAR & pg=PT149|title=The Grid Book|last=Higgins|first=Hannah|date=2009-01-01|publisher=MIT Press|isbn=9780262512404|language=en}} < /ref >  It was like a digital table that could do math on big computers shared by many people. They named it LANPAR because those words meant something special. < ref name= " :0 "  / >  Then, in 1979, a similar program called VisiCalc was made for smaller computers. < ref > [http://www.informationweek.com/whats-the-greatest-software-ever-written/d/d-id/1046033? Charles Babcock,  " What's The Greatest Software Ever Written? " , ''Information Week'', 11 Aug 2006] {{Webarchive|url=https://web.archive.org/web/20170625181757/http://www.informationweek.com/whats-the-greatest-software-ever-written/d/d-id/1046033|date=25 June 2017}}. Accessed 25 June 2014 < /ref >  This helped make the Apple II computer really popular. Before Windows became common, a program called Lotus 1-2-3 was the most popular for working with these digital tables. < ref > {{cite web|last=Lewis|first=Peter H.|date=1988-03-13|title=The Executive computer; Lotus 1-2-3 Faces Up to the Upstarts|url=https://www.nytimes.com/1988/03/13/business/the-executive-computer-lotus-1-2-3-faces-up-to-the-upstarts.html?pagewanted=all & src=pm|access-date=2012-10-14|website=[[NYTimes.com]]|publisher=[[The New York Times Company]]|quote=Release 3.0 is being written in the computer language known as C, to provide easy transportability among PCs, Macs and mainframes.}} < /ref >  But now, Microsoft Excel is the most used one on Windows and Mac computers. < ref > {{cite web|title=Rivals Set Their Sights on Microsoft Office: Can They Topple the Giant? & nbsp;–Knowledge@Wharton|url=http://knowledge.wharton.upenn.edu/article.cfm?articleid=1795|access-date=2010-08-20|publisher=Wharton, University of Pennsylvania}} < /ref > < ref > {{cite web|title=spreadsheet analysis from winners, losers, and Microsoft|url=http://www.utdallas.edu/%7Eliebowit/book/sheets/sheet.html|url-status=dead|archive-url=https://web.archive.org/web/20100723125259/http://www.utdallas.edu/~liebowit/book/sheets/sheet.html|archive-date=2010-07-23|access-date=2010-08-20|website=Utdallas.edu}} < /ref > < ref > {{cite web|title=A|url=http://www.utdallas.edu/%7Eliebowit/book/wordprocessor/word.html|url-status=dead|archive-url=https://web.archive.org/web/20100805133621/http://www.utdallas.edu/~liebowit/book/wordprocessor/word.html|archive-date=2010-08-05|access-date=2010-08-20|website=Utdallas.edu}} < /ref >  These digital table programs are now found in programs that help people do work in offices. In 2006, Google made their own digital table program that you can use on the internet. It's called Google Sheets and is part of Google Drive. < ref > {{Cite web|last=Arrington|first=Michael|date=11 Oct 2006|title=Google  " Docs  &  Spreadsheets "  Launches|url=https://techcrunch.com/2006/10/10/google-docs-spreadsheets-launches/|access-date=8 July 2023|website=TechCrunch}} < /ref > 
+ 
+ A spreadsheet is like a digital table made up of little boxes called cells. These cells are put in rows (like lines in a book) and columns (like vertical lines). Each cell has a special name that tells its position, using letters for columns and numbers for rows. For example, a cell might be called  " C10. "  This idea of giving cells names was first used in a program called LANPAR. Another program called VisiCalc used a similar way of naming cells. You can also talk about a group of cells that are next to each other, like a bunch of cells in a column. This group is called a range. To talk about a range, you use the names of the first and last cells in that group. For example, you can call the first ten cells in the first column  " A1:A10. "  LANPAR did something special too. It allowed you to do calculations that depended on things you would write later. This was helpful and came back later in programs like Lotus 123 and Microsoft's MultiPlan Version 2. 
+ 
+ In the new computer programs that work with tables, we put many tables together to make a big book called a workbook. This workbook is like a special computer file that holds all the information for the book, including the tables and the little boxes in the tables. Each table inside the workbook is called a worksheet or sheet for short. You can imagine these sheets like pages in a book. To switch between them, you can use tabs, just like flipping pages. But one program called Numbers does it differently. If you have many sheets in one book, you give each box a special name that tells which sheet it's in. For example, you might say  " Sheet 1!C10 "  to talk about a box in Sheet 1. Sometimes, you can even use this naming to talk about boxes in other books too. 
+ 
+ == Popular spreadsheet software == 
+ * Microsoft Excel 
+ * LibreOffice Calc 
+ * Apple Numbers 
+ * Google Sheets 
+ 
+ == Less popular spreadsheet software == 
+ * Lotus 1-2-3 IBM, for Windows, Mac OS X  &  Linux, original 1983, last 2010 
+ * Quattro Pro, for Windows, original 1989, last 2010 
+ * Gnumeric, for Windows  &  Linux, original 2002, last 2010 
+ * Kspread, Windows, Mac OS X  &  Linux, original 2007, last 2010 
+ * EditGrid, internet based, like Google Spreadsheets, 2008 
+ * OpenOffice.org Calc, last 2011 
+ 
+ == Old spreadsheet software == 
+ * VisiCalc, original 1979 
+ * APLDOT modeling language: US Railway Association. 1976 
+ * LANPAR spreadsheet compiler: Bell Canada and AT & T, 1969 
+ * Autoplan/Autotab spreadsheet programming language: GE, 1968 
+ * BCL, or Business Computer Language: IBM, 1963 
+ * MultiPlan 
+ * T/Maker 
+ * Target Planner Calc for CP/M and TRS-DOS 
+ * Trapeze for Macintosh 
+ * Wingz for Macintosh 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Spreadsheet software| ]]

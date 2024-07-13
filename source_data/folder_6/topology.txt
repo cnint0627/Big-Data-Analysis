@@ -1,0 +1,23 @@
+'''Topology''' is an area of [[Mathematics]], which studies how spaces are organized and how they are structured in terms of position. It also studies how spaces are connected. It is divided into ''algebraic topology'', ''differential topology'' and ''geometric topology''. 
+ 
+ [[File:Möbius strip.jpg|right|thumb|A [[Möbius strip]], a surface with only one side and one edge; such shapes are an object of study in topology.]] 
+ 
+ Topology has been called rubber-sheet geometry. In a topology of two dimensions there is no difference between a circle and a square. A circle made out of a rubber band can be stretched into a square. There is a difference between a circle and a figure eight. A figure eight cannot be stretched into a circle without tearing. 
+ 
+ The spaces studied in topology are called [[topological space]]s. They vary from familiar [[manifold]]s to some very exotic constructions. 
+ 
+ == Natural Origin == 
+ 
+ In many problems, we often divide a large space into smaller areas. For instance, a house is divided into rooms, a nation into states, a type of quantity into numbers, and so on. Each of these smaller areas (room, state, number) is next to other small areas (other rooms/states/numbers). The places where the areas meet are connections. If we write down on paper a list of spaces, and the connections between them, we have written down a description of a space -- a topological space. All topological spaces have the same properties such as connections, and are made of the same structure (a list of smaller areas). This makes it easier to study how spaces behave. It also makes it easier to write [[algorithm]]s. For instance, to program a robot to navigate a house, we simply give it a list of rooms, the connections between each room (doors), and an algorithm that can work out which rooms to go through to reach any other room. For more examples of this type of problem, look at [[Graph theory]]. 
+ 
+ We can go further by creating subdivisions of subdivisions of space. For instance, a nation divided into states, divided into counties, divided into city boundaries, and so on. All this kind of information can be described using topology. 
+ 
+ ==Related pages== 
+ * [[Knot theory]] 
+ 
+ {{Areas of mathematics}} 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Topology| ]]

@@ -1,0 +1,187 @@
+{{Infobox settlement 
+ |official_name          = Wiltz 
+ |other_name             = Wolz 
+ |native_name            =  
+ |nickname               = 
+ |settlement_type        =  
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = Gemeng Wolz 01.JPG 
+ |imagesize              = 
+ |image_caption          =  [[City and town halls|Town hall]] of Wiltz 
+ |flag_size              = 
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           = Coat of arms wiltz luxbrg.png 
+ |shield_size            = 90px 
+ |image_map              = Map Wiltz.PNG 
+ |mapsize                = 
+ |map_caption            = Map showing, in orange, the Wiltz ''commune'' 
+ |image_map1             = 
+ |mapsize1               = 
+ |map_caption1           = 
+ |coordinates            = {{coord|49|58|0|N|05|56|0|E|region:LU|display=inline,title}} 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = {{LUX}} 
+ |subdivision_type1      = [[Cantons of Luxembourg|Canton]] 
+ |subdivision_name1      = [[Wiltz (canton)|Wiltz]] 
+ |subdivision_type2      = [[Communes of Luxembourg|Commune]] 
+ |subdivision_name2      = Wiltz 
+ |subdivision_type3      =  
+ |subdivision_name3      =  
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = [[Mayor]] 
+ |leader_name        = Frank Arndt 
+ |leader_title1          =  
+ |leader_name1           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       = 
+ |established_title2     =   < !-- Incorporated (town) -- > 
+ |established_date2      = 
+ < !-- Area    --------------------- > 
+ |area_magnitude           = 
+ |unit_pref                =  
+ |area_footnotes           = < ref name=stats > {{cite web| url=http://www.statistiques.public.lu/stat/TableViewer/tableView.aspx?ReportId=140 & IF_Language=eng & MainTheme=1 & FldrName=1 |title=Surface area of the cantons and municipalities |publisher=Statistics Portal - Grand Duchy of Luxembourg |access-date=27 May 2016 }} < /ref > 
+ |area_total_km2           = 39.3 
+ < !-- Population   ----------------------- > 
+ |population_as_of               =2017 
+ |population_footnotes           = < ref name=stats2 > {{cite web| url=http://www.statistiques.public.lu/stat/TableViewer/tableView.aspx?ReportId=12861 & IF_Language=eng & MainTheme=2 & FldrName=1 |title=Population by canton and municipality 1821 - 2017 |publisher=Statistics Portal - Grand Duchy of Luxembourg |access-date=30 December 2017 }} < /ref > 
+ |population_note                = 
+ |population_total               =6730 
+ |population_density_km2         =auto 
+ < !-- General information  --------------- > 
+ |timezone               = [[Central European Time|CET]] 
+ |utc_offset             = +1 
+ |timezone_DST           = [[Central European Summer Time|CEST]] 
+ |utc_offset_DST         = +2 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            =  
+ |elevation_ft           =  
+ |elevation_max_m        = 506 
+ |elevation_max_ft       =  
+ |elevation_min_m        = 285 
+ |elevation_min_ft       =  
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             = [[Local administrative unit|LAU2]] 
+ |blank_info             = LU00005009 
+ |blank1_name            = 
+ |blank1_info            = 
+ |website                = [http://www.wiltz.lu/ Official website] 
+ |footnotes              = 
+ }} 
+ '''Wiltz''' ({{lang-lb|Wolz}}) is a [[Communes of Luxembourg|commune]] with [[List of cities in Luxembourg|city status]] in north-western [[Luxembourg]], capital of the [[Wiltz (canton)|canton Wiltz]]. Wiltz is situated along the sides of the river [[Wiltz (river)|Wiltz]]. 
+ 
+ ==History== 
+ During World War II, Luxembourg was occupied 10 May 1940 (the first day of the [[Battle of France]]).  
+ On 31 August 1942, a [[Strike|general strike]] began in Wiltz that spread throughout the country. 
+ 
+ On 1 January 2015, Wiltz absorbed the neighboring commune of [[Eschweiler, Wiltz|Eschweiler]]. 
+ 
+ ==Geography== 
+ The ''commune'' is in the [[Oesling]], a region within the greater [[Ardennes (forest)|Ardennes]] area. It has an area of {{Convert|39.3|km2|sqmi|1|abbr=on }}. < ref name=stats / >  The [[altitude]] is {{Convert|285|-|506|m|ft|abbr=on }} high. At the [[castle]], the altitude  is {{Convert|464|m|ft|abbr=on }} high. < ref > {{cite web| url=http://www.statistiques.public.lu/stat/TableViewer/tableView.aspx?ReportId=142 & IF_Language=eng & MainTheme=1 & FldrName=1 |title=Altitudes of the different localities per cantons (in m) |publisher=Statistics Portal - Grand Duchy of Luxembourg |access-date= 10 June 2016 }} < /ref > 
+ 
+ Wiltz is surrounded by six ''communes'': [[Wincrange]] to the north and northwest, [[Clervaux]] to the northeast, [[Kiischpelt]] to the east, [[Goesdorf]] to the southeast, [[Lac de la Haute-Sûre]] to the south and southwest, and [[Winseler]] to the west. 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Wiltz 
+ |North     =  
+ |Northeast = [[Clervaux]] 
+ |East      = [[Kiischpelt]] 
+ |Southeast = [[Goesdorf]] 
+ |South     =  
+ |Southwest = [[Lac de la Haute-Sûre]] 
+ |West      = [[Winseler]] 
+ |Northwest = [[Wincrange]] 
+ }} 
+ 
+ ==Population== 
+ There were 6,730 persons living in the ''commune'' in January 2016, < ref name=stats2 / >  for a [[population density]] of {{Pop density|6730|39.3|km2|prec=1|disp=num}} inhabitants/km². 
+ 
+ Other towns, besides the town of Wiltz, within the ''commune'' are Roullingen and Weidingen. 
+ 
+ < center > 
+ '''Evolution of the population in Wiltz''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:8000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:1000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:500 start:0 
+ BackgroundColors = canvas:sfondo  
+ BarData= 
+  bar:a text:1960 
+  bar:b text:1970 
+  bar:c text:1981 
+  bar:d text:1991 
+  bar:e text:2001 
+  bar:f text:2011 
+  bar:g text:2017 
+ 
+ PlotData= 
+  color:barra width:25 align:left 
+ 
+  bar:a from:0 till: 4365 
+  bar:b from:0 till: 4320 
+  bar:c from:0 till: 4191 
+  bar:d from:0 till: 4362 
+  bar:e from:0 till: 5176 
+  bar:f from:0 till: 5758 
+  bar:g from:0 till: 6730 
+ 
+ PlotData= 
+  bar:a at: 4365 fontsize:S text: 4,365 shift:(-10,5) 
+  bar:b at: 4320 fontsize:S text: 4,320 shift:(-14,5) 
+  bar:c at: 4191 fontsize:S text: 4,191 shift:(-14,5) 
+  bar:d at: 4362 fontsize:S text: 4,362 shift:(-14,5) 
+  bar:e at: 5176 fontsize:S text: 5,176 shift:(-14,7) 
+  bar:f at: 5758 fontsize:S text: 5,758 shift:(-14,8) 
+  bar:g at: 6730 fontsize:S text: 6,730 shift:(-14,8) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Places of interest== 
+ One of the main features of the town is [[Wiltz Castle]] ({{lang-fr|Château de Wiltz}}, [[German language|German]]: ''Schloss Wiltz'', {{lang-lb|Schlass Wolz}}) which belonged to the former [[Count]]s of Wiltz.  This castle, which is situated on {{Convert|600|acre|km2}} of lawns and gardens, contains hundreds of rooms.  It was completed in 1727, and the final Count died in 1793. 
+ 
+ == Twin towns == 
+ Wiltz is [[Twin town|twinned]] withː < ref > {{cite web| url=http://www.wiltz.lu/fr/vivre/la-commune/informations-generales/jumelages-et-pactes |title=Jumelages et Pactes |publisher=Commune de Wiltz |access-date= 28 December 2017 }} < /ref > 
+ 
+ * {{Flagicon|POR}} [[Celorico de Basto]], [[Portugal]], since 2005 
+ * {{Flagicon|BIH}} [[Zavidovići]], [[Bosnia and Herzegovina]], since 2008 
+ 
+ == Gallery == 
+ < gallery mode= " packed " > 
+ File:Wiltz Fatima monument entry.jpg|Entrance to the [[Our Lady of Fatima]]-monument site. 
+ File:Wiltz castle 2012-07.JPG|Wiltz [[castle]]. 
+ File:Jardin de Wiltz 01.jpg|Garden of Wiltz castle. 
+ File:Streikmonument Wiltz 01.jpg|National strike memorial in Wiltz. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Cantons of Luxembourg]] 
+ * [[Communes of Luxembourg]] 
+ * [[List of cities in Luxembourg]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{commons category|Wiltz}} 
+ {{Wikivoyage|Wiltz}} 
+ * [http://www.wiltz.lu/fr Official website] {{in lang|fr}} 
+ 
+ [[Category:Communes of Wiltz]]

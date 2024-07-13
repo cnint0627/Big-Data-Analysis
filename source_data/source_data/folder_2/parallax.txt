@@ -1,0 +1,27 @@
+[[Image:Parallax Example en.svg|thumb|280px|right|An example of the parallax of an object against a distant background due to a change in location.  When viewed from  " Viewpoint A " , the object appears to be in front of the blue square.  When the viewpoint is changed to  " Viewpoint B " , the object ''appears'' to have moved in front of the red square.]] 
+ 
+ '''Parallax''' is the [[perception|perceived]] change in position of an object seen from two different places. 
+ 
+ In [[astronomy]], annual parallax is the only direct way to measure distance to [[star]]s outside the [[solar system]]. 
+ In essence, parallax is the perceived shifting phenomenon which occurs when an object is viewed from different positions. 
+ 
+ It is measured by the angle between two lines of observation. < ref > {{cite dictionary | quote=Mutual inclination of two lines meeting in an angle | encyclopedia=Shorter Oxford English Dictionary | year=1968}} < /ref > < ref name=oed > {{cite dictionary | encyclopedia=Oxford English Dictionary | year=1989 | edition=Second | title=Parallax | quote=''Astron.'' Apparent displacement, or difference in the apparent position, of an object, caused by actual change (or difference) of position of the point of observation; spec. the angular amount of such displacement or difference of position, being the angle contained between the two straight lines drawn to the object from the two different points of view, and constituting a measure of the distance of the object. | url=http://dictionary.oed.com/cgi/entry/50171114?single=1 & query_type=word & queryword=parallax & first=1 & max_to_show=10 }} < /ref >  Nearby objects have a larger parallax than more distant objects when observed from identical positions, so parallax can be used to determine distances. 
+ 
+ [[Astronomer]]s use the principle of parallax to measure distances to celestial objects including to the [[Moon]], the [[Sun]], and to [[star]]s beyond the [[Solar System]]. Here, the term  " parallax "  is the angle between two sight-lines to the star. 
+ 
+ Astronomical measurement of position are taken at different times of the year. Since the Earth's orbit is known exactly, the distance from position 1 to position 2 can be worked out. The angle from the horizon to the object can be measured precisely. This gives a [[triangle]] whose baseline and angles are known accurately. From the triangle, the distance is calculated by [[trigonometry]] and expressed in [[parsec]]s. 
+ 
+ The method only fails with objects which are so distant that the earth's orbit is too small to get a large enough parallax angle to measure accurately. This distance is about 100 light-years. Astronomers have invented various ways to solve this problem, though none are so accurate as the parallax method is for relatively nearby objects. This provides a basis for the [[cosmic distance ladder]] of techniques to calculate greater distances. 
+ 
+ From 1989 to 1993 the [[Hipparcos]] satellite took measurements for over 100,000 nearby stars. [[Gaia (spacecraft)]] is intended to make similar measurements of about a Billion stars. 
+ 
+ Many animals, including humans, have two [[eye]]s which provide  [[depth perception]]; this is called [[stereopsis]]. Because the two eyes are at different places on the head, this gives the basis for an automatic sense of distance. We perceive this as a normal [[3-D]] scene. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://en.citizendium.org/wiki/Parallax Parallax] Citizendium 
+ 
+ [[Category:Astronomical distances]] 
+ [[Category:Vision]]

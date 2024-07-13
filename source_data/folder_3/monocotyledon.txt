@@ -1,0 +1,60 @@
+{{no footnotes|date=July 2018}} 
+ {{Taxobox 
+ | name = Monocotyledons 
+ | image = Hemerocallis_longituba.jpg 
+ | image_width = 240px 
+ | image_caption = [[Daylily]] flower, with three flower parts in each whorl 
+ | regnum = [[Plant]]ae 
+ | divisio = [[Flowering plant|Magnoliophyta]] 
+ | classis = '''Monocotyledons''' 
+ }} 
+ 
+ '''Monocotyledons''' are a [[class (biology)|class]] of [[flowering plant]]s (angiosperms), whose [[embryo]] ([[seed]]) store only one [[cotyledon]]. 
+ The [[APG II|APG II system]] recognises a [[clade]] called  " monocots "  but does not assign it to a taxonomic rank.  
+ 
+ You can recognize a monocot by its leaves: they have long parallel veins running down the leaf. In contrast, dicot plant leaves have a complex netted vein pattern on their leaves. 
+ 
+ Monocots usually have a fibrous root system. 
+ 
+ == Clade diagram == 
+ {{Clade  
+ | style= font-size:100%; line-height:100% 
+ | label1= '''[[Flowering plant|Angiosperms]]''' 
+ | 1= {{clade 
+   | label1= '''monocots''' 
+   | 1= {{clade 
+     | 1=  
+ [[Piperales]], [[Acorales]], [[Alismatales]], [[Asparagales]], [[Dioscoreales]], [[Liliales]], [[Pandanales]] 
+     | 2= '''[[commelinids]]''' 
+     }} 
+   | label2= '''[[eudicots]]''' 
+   | 2= {{clade 
+     | 1= rest of clades... 
+     | label2= [[core eudicots]] 
+     | 2= {{clade 
+       | 1= rest of clades... 
+       | label2= [[rosids]] 
+       | 2= {{clade 
+         | 1= [[eurosids I]] 
+         | 2= [[eurosids II]] 
+         }} 
+       | label3= [[asterids]]  
+       | 3= {{clade 
+         | 1= [[euasterids I]] 
+         | 2= [[euasterids II]] 
+         }} 
+       }} 
+     }} 
+   | 3= unassigned [[Taxon|taxa]]... 
+   }}}} 
+ 
+ == Other websites == 
+ * [http://doi.org/10.1046/j.1095-8339.2003.t01-1-00158.x APG II] 
+ * [http://www.amjbot.org/cgi/content/full/91/10/1645?maxtoshow= & HITS=10 & hits=10 & RESULTFORMAT= & fulltext=canna & searchid=1 & FIRSTINDEX=0 & sortspec=relevance & resourcetype=HWCIT Petrosaviales] {{Webarchive|url=https://web.archive.org/web/20080212220534/http://www.amjbot.org/cgi/content/full/91/10/1645?maxtoshow= & HITS=10 & hits=10 & RESULTFORMAT= & fulltext=canna & searchid=1 & FIRSTINDEX=0 & sortspec=relevance & resourcetype=HWCIT |date=2008-02-12 }} 
+ 
+ 
+ 
+ {{-}} 
+ {{Biology-stub}} 
+ 
+ [[Category:Monocots| ]]

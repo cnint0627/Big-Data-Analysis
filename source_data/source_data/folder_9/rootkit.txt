@@ -1,0 +1,13 @@
+A '''''rootkit''''' is a [[computer virus]] which allows someone to take control on your computer. It is very dangerous.  
+ 
+ It is a stealthy type of [[software]], typically [[malicious software|malicious]], designed to hide the existence of certain processes or programs from normal methods of detection. It allows continued secret access to a computer. < ref name= " McAfee1 " > Rootkits, Part 1 of 3: The growing threat. McAfee 2006. [https://web.archive.org/web/20060823090948/http://www.mcafee.com/us/local_content/white_papers/threat_center/wp_akapoor_rootkits1_en.pdf] < /ref > 
+ 
+ Rootkits can be a single piece of code or multiple tools working together to affect the targets computer. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Malware]]

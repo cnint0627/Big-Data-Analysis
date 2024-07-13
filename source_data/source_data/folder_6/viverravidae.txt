@@ -1,0 +1,24 @@
+{{Automatic taxobox 
+ |fossil_range = {{fossil range|66.043|33.9}} early [[Paleocene]] - late [[Eocene]]  
+ |image = 
+ |image_caption = 
+ |display_parents = 2 
+ |taxon = Viverravidae 
+ |parent_authority = Wortman  &  Matthew, 1899 
+ |authority = {{Harvnb|Wortman|Matthew|1899}} < ref > {{Cite journal |last1=Wortman |first1=J. L. |last2=Matthew |first2=W. D. |author2-link=William Diller Matthew |title=The ancestry of certain members of the Canidae, Viverridae, and Procyonidae |year=1899 |journal=Bulletin of the American Museum of Natural History |volume=12 |pages=109–138 |oclc=46687698 |hdl=2246/1535}} < !-- {{Harvnb|Wortman|Matthew|1899}} -- > < /ref > 
+ |subdivision_ranks = Genera 
+ |subdivision =  < center > [see [[#Revised classification|classification]]] < /center > 
+ |synonyms = Didymictidae < ref > {{BioRef |fossilworks |title=†family Viverravidae (Wortman  &  Matthew, 1899) (placental) |id=40992 |access-date=29 June 2019}} < /ref > 
+ }} 
+ The '''Viverravidae''' are an extinct  [[family (biology)|family]] of early mammalian [[carnivores]]. They are in the superfamily [[Miacoidea]], and lived from the early [[Palaeocene]] to the [[Eocene]]. They first appeared in the Paleocene of [[North America]] about 60 million years ago. 
+ 
+ Viverravidae is a [[monophyletic]] family. In viverravids, the number of [[molar|molars]] is reduced to two and the [[skull]] is long.  
+ 
+ They are probably not related to any living carnivorans. < ref > Wesley-Hunt G.D.  &  Flynn J.J. 2005. Phylogeny of the Carnivora: basal relationships among the carnivoramorphans, and assessment of the position of 'Miacoidea' relative to Carnivora. ''Journal of Systematic Paleontology'', '''3''': 1-28. < /ref >  The viverravids were previously thought to be the earliest carnivorans. A recent study of their skull [[morphology (biology)|morphology]] puts them outside the order [[Carnivora]]. < ref name=Polly > {{cite journal | author = Polly, David | display-authors = etal | year = 2006 | title = Earliest known carnivoran auditory bulla and support for a recent origin of crown-clade carnivora (Eutheria, Mammalia) | journal = Palaeontology | volume = 49 | issue = 5 | pages = 1019–1027 | url = http://mypage.iu.edu/~pdpolly/Papers/Polly%20et%20al,%202006,%20Viverravus.pdf | doi = 10.1111/j.1475-4983.2006.00586.x | s2cid = 27819519 | access-date = 2014-05-31 | archive-date = 2011-05-24 | archive-url = https://web.archive.org/web/20110524193602/http://mypage.iu.edu/~pdpolly/Papers/Polly%20et%20al,%202006,%20Viverravus.pdf | url-status = dead }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ 
+ [[Category:Mammals]]

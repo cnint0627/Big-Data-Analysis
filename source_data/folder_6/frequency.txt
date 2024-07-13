@@ -1,0 +1,36 @@
+[[File:Sine waves different frequencies.svg|thumb|250px|As time elapses—here moving left to right on the [[horizontal]] axis—the five [[Sine wave|sinusoidal wave]]s vary, or cycle, regularly at different [[rate (mathematics)|rates]] (or [[ratio]]s). The red [[wave]] (top) has the lowest frequency (i.e. cycles at the slowest rate) while the purple wave (bottom) has the highest frequency (cycles at the fastest rate).]] 
+ [[File:Sinfrequency.jpg|thumb|250px|[[Sine]]s with three different frequencies '''''f'''''.]] 
+ '''Frequency''' is how often an event repeats itself over a [[period (physics)|set amount of time]]. < ref > {{cite web|url=http://www.merriam-webster.com/dictionary/frequency|title=Definition of FREQUENCY|publisher=|accessdate=3 October 2016}} < /ref > 
+ 
+ In physics, the '''frequency''' of a wave is the number of [[wave (physics)|wave]] [[crest]]s that pass a point in one [[second]] (a wave crest is the peak of the wave). 
+ 
+ '''[[Hertz]]''' (symbol Hz) is the unit of frequency. 
+ 
+ The relationship between '''frequency''' and '''[[wavelength]]''' is expressed by the formula:  
+ 
+ < center > ''' < math > f = v/\lambda < /math > ''' < /center > 
+ 
+ where v is speed and  < math > \lambda < /math >  (lambda) is wavelength. The formula for the frequency of light waves is ''' < math > f = c/\lambda < /math > ''' where the c is the [[speed of light]]. < ref > {{cite web|url=http://www.sciencescope.co.uk/frequency_of_a_wave.htm|title= " Frequency of a wave " |accessdate=2009-03-04|publisher=Science Scope|archive-date=2009-02-25|archive-url=https://web.archive.org/web/20090225183321/http://sciencescope.co.uk/frequency_of_a_wave.htm|url-status=dead}} < /ref > 
+ 
+ All [[electromagnetic waves]] travel at the speed of light in a [[vacuum]] '''but''' they travel at slower speeds when they travel through a medium that is not a vacuum. Other waves, such as [[sound]] waves, travel at much much lower speeds and can not travel through a vacuum. 
+ 
+ Examples of electromagnetic waves are: [[light]] waves, [[radio wave]]s, [[infrared radiation]], [[microwaves]], and [[Gamma ray|gamma waves]]. 
+ 
+ == Visualizing electromagnetic waves == 
+ Different types of electromagnetic waves have different frequencies. 
+ 
+ === Example === 
+ 
+ [[File:2019-12-05 train illustration.png|thumb|Two different trains traveling at the same speed]] 
+ 
+ One way to visualize this is if there were two trains traveling at the same speed, but the size of the train cars was smaller on one train than the other. If someone picked something that was not moving, like a signpost, and then counted how many train cars passed the sign post in one second for each train, they would know the frequency of cars passing in each train. The number and frequency of train cars passing the sign post would be different, because the train with smaller train cars would have more train cars passing the sign post in a second than the train with larger train cars. Knowing how many cars passed the sign post in one second, and knowing the speed of the train, one could figure out mathematically the size of each train car for each train. 
+ 
+ For example, if the train was moving at 10 miles per second, and 10 train cars passed in one second, then each train car would be 1 mile long. If the other train was also moving at 10 miles per second and 20 train cars passed in one second, then one would know that each train car was 1/2 of a mile long for that train. This example shows that knowing the frequency of an electromagnetic wave gives you the wavelength, since all electromagnetic waves travel at the speed of light so that c = v (lambda) where v is frequency and lambda is wavelength, and c is the speed of light. Therefore, another way of expressing frequency is to say ''frequency is c over lambda.'' 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Physical quantity]] 
+ [[Category:Basic physics ideas]] 
+ [[Category:Wave physics]] 
+ [[Category:Mechanical vibrations]]

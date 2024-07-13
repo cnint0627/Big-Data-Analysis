@@ -1,0 +1,48 @@
+{{redirect|Mountain stream frog|the frog that lives in New South Wales, Australia|Mountain stream tree frog}} 
+ {{automatic taxobox 
+ | image = Ptychohyla salvadorensis.jpg 
+ | image_caption = ''[[Ptychohyla salvadorensis]]'' 
+ | taxon = Ptychohyla 
+ | authority = [[Edward Harrison Taylor|Taylor]], 1944 
+ | subdivision_ranks = Species 
+ | subdivision = See text. 
+ }} 
+ 
+ '''''Ptychohyla''''' is a [[genus]].  It is a group of [[frog]]s in the family [[Hylidae]].  They are called '''stream frogs''' or '''mountain stream frogs''' in English. < ref name=frost/ > < ref > {{ITIS|id=207422 |taxon=''Ptychohyla'' Taylor, 1944}} < /ref >  These frogs live in southern [[Mexico]] and [[Central America]].  They live in the states of [[Chiapas]], [[Guerrero]], and [[Oaxaca]] and all the way south to [[Panama]]. < ref name=frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Hylidae/Hylinae/Ptychohyla |title=''Ptychohyla'' Taylor, 1944 |author=Frost, Darrel R. |year=2014 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=18 April 2014}} < /ref > 
+ 
+ ==Species== 
+ These species are in ''Ptychohyla'': < ref name=frost/ > 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !Binomial name and author!! Common name 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Ptychohyla dendrophasma|P. dendrophasma]]'' {{small|(Campbell, Smith, and Acevedo, 2000)}} || Phantom treefrog 
+ |-style= " background:#FFFDFF; " 
+ | ''P. euthysanota'' {{small|(Kellogg, 1928)}} || [[Cloud forest stream frog]] 
+ |-style= " background:#EEEEEE; " 
+ | ''P. hypomykter'' {{small|(McCranie and Wilson, 1993)}} || [[Copan stream frog]] 
+ |-style= " background:#FFFDFF; " 
+ | ''P. legleri'' {{small|(Taylor, 1958)}} || [[Legler's stream frog]] 
+ |-style= " background:#EEEEEE; " 
+ | ''P. leonhardschultzei'' {{small|(Ahl, 1934)}} || [[Schultze's stream frog]] 
+ |-style= " background:#FFFDFF; " 
+ | ''P. macrotympanum'' {{small|(Tanner, 1957)}} || [[Pine forest stream frog]] 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Ptychohyla salvadorensis|P. salvadorensis]]'' {{small|(Mertens, 1952)}} || Salvador stream frog 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Ptychohyla zophodes|P. zophodes]]'' {{small|(Campbell and Duellman, 2000)}} || Gloomy Mountain stream frog 
+ |- 
+ |} 
+ 
+ ==References== 
+ {{Reflist}} 
+ * {{aut|Duellman, W. E.}} (1960): Synonymy, variation, and distribution of ''Ptychohyla leonhard-schultzei'' Ahl. Studies of American hylid frogs. IV - ''Herpetologica'' '''16''': 191–197 
+ 
+ ==Other websites== 
+ * {{aut|AmphibiaWeb: Information on amphibian biology and conservation.}} [web application]. 2008. Berkeley, California: [http://amphibiaweb.org/cgi-bin/amphib_query?query_src=aw_lists_genera_ & table=amphib & where-genus=Ptychohyla & where-species= ''Ptychohyla'']. AmphibiaWeb, available at http://amphibiaweb.org/. (Accessed: April 23, 2008). 
+ {{Taxonbar|from=Q2208297}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Frogs of North America]]

@@ -1,0 +1,128 @@
+The '''octal numeral system''' is a [[Base (mathematics)|base]] 8 [[numeral]] system. It uses the numerals 0 through 7. The system is similar to [[Binary numeral system|binary]] (base 2) and [[Hexadecimal numeral system|hexadecimal]] (base 16). Octal numerals are written using the letter ''o'' before the numeral, for example, o04 or o1242. Octal numbers are also sometimes written with a small 8 to the lower right, as in 1242 < sub > 8 < /sub > . 
+ 
+ At one time, the octal system was used mainly for work with [[computer]]s. It provided an easier way to work with binary numbers. As computers changed from using 24-[[bit]] systems to 32- and 64-bit systems, hexadecimal replaced octal for most uses. Certain groups, for example, [[Native Americans]] using the [[Yuki tribe|Yuki]] [[language]] in [[California]] and the Pamean languages < ref > {{ Citation 
+  | last=Avelino 
+  | first=Heriberto 
+  | title=The typology of Pame number systems and the limits of Mesoamerica as a linguistic area 
+  | journal=Linguistic Typology 
+  | year=2006 
+  | volume=10 
+  | pages=41–60 
+  | doi=10.1515/LINGTY.2006.002 
+  | s2cid=20412558 
+  | url=http://linguistics.berkeley.edu/~avelino/Avelino_2006.pdf 
+ }} < /ref >  in [[Mexico]], also use an octal numbering system. They do this because when they count, they use the spaces between their [[finger]]s instead of counting the actual fingers. 
+ 
+ ==Octal and binary== 
+ The octal numeral system uses a  " three-bit "  binary coding. Each [[digit]] in an octal numeral is the same as three digits in a binary numeral. The grouping of the binary digits is done from right to left. The first three binary digits from the right are grouped into the last part of the octal numeral, then the next three digits form the next to the last part of the numeral. 
+ {| 
+ | 
+ {| class=wikitable 
+ !Octal!!Binary 
+ |- 
+ | 1|| 001 
+ |- 
+ |2||010 
+ |- 
+ |3||011 
+ |- 
+ |4||100 
+ |- 
+ |5||101 
+ |- 
+ |6||110 
+ |- 
+ |7||111 
+ |- 
+ |10||001 000 
+ |} 
+ | 
+ {| class=wikitable 
+ !Octal!!Binary 
+ |- 
+ | 11|| 001 001 
+ |- 
+ |12||001 010 
+ |- 
+ |36||011 110 
+ |- 
+ |45||100 101 
+ |- 
+ |53||101 011 
+ |- 
+ |64||110 100 
+ |- 
+ |100||001 000 000 
+ |- 
+ |357||011 101 111 
+ |} 
+ |valign=top| 
+ {| class=wikitable 
+ ! Binary!!colspan=4|Groupings!!Octal 
+ |- align=right 
+ |11|||||| ||011||3 
+ |- align=right 
+ |010111||  || || 010||111||27 
+ |- align=right 
+ |101000110||  ||101 || 000||110||506 
+ |- align=right 
+ |01011010101||001||011||010||101||1325 
+ |} 
+ |} 
+ 
+ ==Octal and decimal== 
+ In the [[Decimal numeral system|decimal system]] (base 10), each digit in octal is equal to that digit [[multiplication|multiplied]] by the [[exponent]] of 8 that is equal to its location minus one. 
+ {|class=wikitable 
+ !rowspan=2| & nbsp;!!colspan=6|Location 
+ |- align=center 
+ |width=65|6 ||width=65|5 ||width=65|4 ||width=65|3 ||width=65|2 ||width=65|1 
+ |- align=center 
+ !Value 
+ ||32768 (8 < sup > 5 < /sup > )|| 4096 (8 < sup > 4 < /sup > )|| 512 (8 < sup > 3 < /sup > )|| 64 (8 < sup > 2 < /sup > )|| 8(8 < sup > 1 < /sup > )||1 (8 < sup > 0 < /sup > ) 
+ |} 
+ 
+ '''Example:''' o3425 to decimal 
+ {| 
+ |width=20| & nbsp; 
+ | 
+ {| style=  " border: 1px #999 solid " 
+ |- align=center 
+ !Octal!!!!Decimal 
+ |- 
+ |rowspan=2 valign=top|o3425 ||=|| ( 5 × 1 ) ||+|| ( 2 × 8)||+|| ( 4 × 64 )||+|| ( 3 × 512) 
+ |- align=center 
+ |=|| 5 ||+|| 16||+|| 256||+|| 1536 
+ |- 
+ |o3425||=||1813 
+ |} 
+ |} 
+ 
+ ==Octal and hexadecimal== 
+ Octal is similar to hexadecimal because they are both easily converted to binary. Where octal is equal to three-digit binary, hexadecimal is equal to four-digit binary. Where octal numerals start with the letter  " o " , hexadecimal numerals end with the letter  " h " . The easiest way to convert from one to the other is to convert to binary and then to the other system. 
+ 
+ {| class=wikitable 
+ !rowspan=2|Octal !!colspan=9|Binary||rowspan=2|Hexadecimal 
+ |- align=center 
+ |colspan=5|three digit||colspan=4|four digit 
+ |- align=right 
+ |o4||||||||||100||||||||0100||04h 
+ |- align=right 
+ |o15||||||||001||101||||||||1101||0Dh 
+ |- align=right 
+ |o306||||||011||000||110||||||1100||0110||C6h 
+ |- align=right 
+ |o54253||101||100||010||101||011||0101||1000||1010||1011||58ABh 
+ |} 
+ 
+ ==Related pages== 
+ * [[Binary numeral system]] 
+ * [[Hexadecimal numeral system]] 
+ * [[Decimal numeral system]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://netzreport.googlepages.com/online_converter_for_dec_octal.html Online Converter] {{Webarchive|url=https://web.archive.org/web/20070104051621/http://netzreport.googlepages.com/online_converter_for_dec_octal.html |date=2007-01-04 }} for Decimal/Octal Numerals ([[JavaScript]], [[GPL]]) 
+ 
+ [[Category:Numbering systems]]

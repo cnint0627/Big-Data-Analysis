@@ -1,0 +1,70 @@
+{{Infobox software 
+ | name                   = HHVM 
+ | logo                   = HHVM logo.svg 
+ | logo size              = x64px 
+ | logo alt               = HHVM logo, featuring white uppercase  " HHVM "  letters on a black background, with stylized triangular geometric shapes on the left 
+ | logo caption           =  
+ | developer              = [[Facebook, Inc.]] 
+ | released               = {{Start date and age|2011|12|09}} < ref name= " initial-release " > {{cite web 
+  | url = https://www.facebook.com/notes/facebook-engineering/the-hiphop-virtual-machine/10150415177928920 
+  | title = The HipHop Virtual Machine 
+  | date = December 9, 2011 | access-date = August 2, 2014 
+  | author = Jason Evans | publisher = [[Facebook]] 
+ }} < /ref > 
+ | programming language   = [[PHP]], [[C++]], < ref > {{cite web 
+  | url = https://github.com/facebook/hhvm/wiki/Building-and-installing-hhvm-on-CentOS-7.x 
+  | title = Building and installing HHVM on CentOS & nbsp;7.x 
+  | date = May 26, 2015 | access-date = June 12, 2015 
+  | publisher = [[Facebook]] | website = github.com 
+ }} < /ref >  [[OCaml]] < ref > {{cite web 
+  | url = https://github.com/facebook/hhvm/wiki/Building%20the%20Hack%20Typechecker 
+  | title = Building the Hack typechecker 
+  | date = September 10, 2014 | access-date = June 12, 2015 
+  | publisher = Facebook | website = github.com 
+ }} < /ref > {{Efn|Only the [[Hack (programming language)|Hack]]'s [[Data type|type]]-checking ({{Mono|hh_server}} and {{Mono|hh_client}}) and code-formatting ({{Mono|hh_format}}) [[Command-line utility|command-line utilities]] and [[Daemon (computing)|daemons]] bundled together with the HipHop Virtual Machine are written in [[OCaml]].}} and [[Rust (programming language)|Rust]] < ref > {{cite web |title=Facebook's HHVM Begins Seeing Rust Rewrite - Phoronix |url=https://www.phoronix.com/scan.php?page=news_item & px=Facebook-Rust-HHVM |access-date=29 August 2019}} < /ref > 
+ | operating system       =  
+ | platform               =  
+ | license                = [[PHP License]] and [[Zend License]] < ref name= " license " > {{cite web 
+  | url = https://github.com/facebook/hhvm#license 
+  | title = facebook/hhvm: License 
+  | access-date = August 2, 2014 
+  | publisher = [[Facebook, Inc.]] | website = github.com 
+ }} < /ref > 
+ | website                = {{Official URL}} 
+ }} 
+ 
+ '''HipHop Virtual Machine''' ('''HHVM''') is an [[Open-source software|open-source]] virtual machine based on [[Just-in-time compilation|just-in-time (JIT) compilation]] that serves as an execution engine for the [[Hack (programming language)|Hack programming language]] and used to support [[PHP]] execution before the release of HHVM version 4. < ref > {{cite web | url=https://hhvm.com/blog/2019/02/11/hhvm-4.0.0.html | title=HHVM 4.0.0 }} < /ref >  By using the principle of JIT compilation, Hack code is first transformed into intermediate '''HipHop bytecode''' ('''HHBC'''), which is then dynamically translated into [[x86-64]] [[machine code]], optimized, and natively executed. < ref > {{cite conference 
+  | url = https://dl.acm.org/citation.cfm?id=3192374 
+  | title = HHVM JIT: A Profile-Guided, Region-Based Compiler for PHP and Hack 
+  | date = June 20, 2018  
+  | last = Ottoni 
+  | first = Guilherme  
+  | book-title = Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI) 
+  | pages = 151–165 
+  | publisher = [[Association for Computing Machinery|ACM]] 
+ }} < /ref > < ref > {{cite web 
+  | url = https://github.com/facebook/hhvm 
+  | title = facebook/hhvm 
+  | access-date = August 2, 2014 
+  | publisher = Facebook | website = github.com 
+ }} < /ref >   This contrasts with PHP's usual [[Interpreted language|interpreted]] execution, in which the [[Zend Engine]] transforms PHP [[source code]] into [[opcode]]s that serve as a form of [[bytecode]], and executes the opcodes directly on the Zend Engine's virtual [[CPU]]. < ref > {{cite web 
+  | url = http://www.phpbuilder.com/articles/application-architecture/optimization/php-and-zend-engine-internals.html 
+  | title = PHP and Zend Engine Internals 
+  | date = April 28, 2014 
+  | access-date = September 23, 2014 
+  | author = Kaushik Pal 
+  | website = phpbuilder.com 
+  | archive-url = https://web.archive.org/web/20140915042514/http://www.phpbuilder.com/articles/application-architecture/optimization/php-and-zend-engine-internals.html 
+  | archive-date = September 15, 2014 
+  | url-status = dead 
+  }} < /ref > 
+ 
+ HHVM is developed by [[Facebook, Inc.|Facebook]], with the project's source code hosted on [[GitHub]]; < ref > [https://github.com/facebook/hhvm HHVM source code on GitHub] < /ref >  it is licensed under the terms of the [[PHP License]] and [[Zend License]]. < ref name= " initial-release "  / > < ref name= " license "  / > 
+ 
+ == Notes == 
+ {{Notelist}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Software]]

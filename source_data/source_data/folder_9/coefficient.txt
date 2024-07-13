@@ -1,0 +1,17 @@
+{{otheruses}} 
+ {{enWiktionary}} 
+ In [[mathematics]], a '''coefficient''' is a [[constant]] [[multiplication|multiplicative]] factor of a certain object. For example, the coefficient in ''9x'' < sup > ''2'' < /sup >  is ''9''. A coefficient can also be a [[variable]] such as  < math > a < /math > ,  < math > b < /math >  and  < math > c < /math > . < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-15|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Definition of Coefficient|url=https://www.mathsisfun.com/definitions/coefficient.html|access-date=2020-08-15|website=www.mathsisfun.com}} < /ref >   
+ 
+ The object can be such things as a [[variable]], a [[vector]], a [[function (mathematics)|function]], etc. In some cases, the objects and the coefficients are indexed similarly, leading to expressions such as: 
+ : < math > a_1 x_1 + a_2 x_2 + a_3 x_3 + \cdots  < /math > 
+ where ''a'' < sub > ''n'' < /sub >  is the coefficient of the variable ''x'' < sub > ''n'' < /sub >  for each ''n'' = 1, 2, 3, … < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Coefficient|url=https://mathworld.wolfram.com/Coefficient.html|access-date=2020-08-15|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[Polynomial]] 
+ 
+ == References == 
+ < references / > 
+ {{Math-stub}} 
+ 
+ [[Category:Algebra]]

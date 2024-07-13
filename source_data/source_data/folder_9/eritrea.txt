@@ -1,0 +1,265 @@
+{{Infobox country 
+ | native_name            = {{Unicode|ሃገረ ኤርትራ}}{{Spaces|2}}{{smaller|''{{transl|ti|Hagere Ertra}}''}} < br/ > {{lower|0.1em| < big > {{lang|ar|دولة إرتريا}} < /big > }}{{Spaces|2}}{{smaller|''{{transl|ar|ALA-LC|Dawlat Iritriyā}}''}} 
+ | conventional_long_name = State of Eritrea 
+ | common_name            = Eritrea 
+ | image_flag             = Flag of Eritrea.svg 
+ | image_coat             = Coat of arms of Eritrea (or-argent-azur).svg 
+ | symbol_type            = Emblem 
+ | image_map              = Eritrea (Africa orthographic projection).svg 
+ | national_anthem        = {{native name|ti|ኤርትራ ኤርትራ ኤርትራ}} < br / > " [[Eritrea, Eritrea, Eritrea]] " {{parabr}}{{center|[[File:National Anthem of Eritrea by US Navy Band.ogg|center]]}} 
+ | official_languages     = [[Tigrinya language|Tigrinya]] < ref name= " multilingualism " > {{cite journal |title=Multilingualism and Nation Building: Language and Education in Eritrea |journal=Journal of Multilingual and Multicultural Development |volume=20 |issue=6 |pages=474–493 |year=1999 |doi=10.1080/01434639908666385 |url=http://www.chr.up.ac.za/chr_old/indigenous/documents/Eritrea/Report/Multilingualism%20and%20Nation%20Building%20Language%20and%20Nation%20Building%20in%20Eritrea.pdf |accessdate=April 4, 2012 |archive-date=September 23, 2015 |archive-url=https://web.archive.org/web/20150923203014/http://www.chr.up.ac.za/chr_old/indigenous/documents/Eritrea/Report/Multilingualism%20and%20Nation%20Building%20Language%20and%20Nation%20Building%20in%20Eritrea.pdf |url-status=dead |last1=Hailemariam |first1=Chefena |last2=Kroon |first2=Sjaak |last3=Walters |first3=Joel }} < /ref > < br/ > [[Arabic language|Arabic]] < ref name= " multilingualism " / > < br/ > [[English language|English]] < ref name= " multilingualism " / > < ref name= " CIA " > [https://www.cia.gov/library/publications/the-world-factbook/geos/er.html Eritrea] {{Webarchive|url=https://web.archive.org/web/20200515225510/https://www.cia.gov/library/publications/the-world-factbook/geos/er.html |date=2020-05-15 }}. CIA – The World Factbook. cia.gov. Retrieved on June 25, 2012. < /ref > 
+ | demonym                = Eritrean 
+ | ethnic_groups          = 55% [[Tigray-Tigrinya people|Tigrinya]] < br/ > 30% [[Tigre people|Tigre]] < br/ > 4% [[Saho people|Saho]] < br/ > 2% [[Kunama people|Kunama]] < br/ > 2% [[Rashaida people|Rashaida]] < br/ > 2% [[Bilen people|Bilen]] < br/ > 5% other < sup > a < /sup > 
+ | ethnic_groups_year     = 2012 < ref name= " Ciaethn " > [https://www.cia.gov/library/publications/the-world-factbook/fields/2075.html#er CIA – Eritrea – Ethnic groups] {{Webarchive|url=https://web.archive.org/web/20190106010801/https://www.cia.gov/library/publications/the-world-factbook/fields/2075.html#er |date=2019-01-06 }}. Cia.gov. Retrieved on June 25, 2012. < /ref > 
+ | capital                = [[Asmara]] 
+ | largest_city           = capital 
+ | government_type        = [[Unitary state|Unitary]] [[Single-party state|single-party]] [[presidential]] [[republic]] under an [[Totalitarianism|totalitarian]] [[dictatorship]] 
+ | leader_title1          = [[President of Eritrea|President]] 
+ | leader_name1           = [[Isaias Afewerki]] 
+ | sovereignty_type       = [[Independence]] 
+ | established_event1     = From [[Italy]] 
+ | established_date1      = November 1941 
+ | established_event2     = From [[United Kingdom]] under [[UN Mandate]] 
+ | established_date2      = 1951 
+ | established_event3     = from [[Ethiopia]] ''[[de facto]]'' 
+ | established_date3      = May 24, 1991 
+ | established_event4     = From [[Ethiopia]] ''[[de jure]]'' 
+ | established_date4      = May 24, 1993 
+ | area_rank              = 101st 
+ | area_km2               = 117,600 
+ | area_sq_mi             = 45,405  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | percent_water          = 0.14% 
+ | population_estimate    = 6,086,495 
+ | population_estimate_rank = 107th 
+ | population_estimate_year = 2012 
+ | population_census      = 5,291,370 
+ | population_census_year = 2008 
+ | population_density_km2 = 51.8 
+ | population_density_sq_mi = 111.7  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | population_density_rank = 154th 
+ | GDP_PPP                = $4.397 billion < ref name= " imf2 " > {{cite web |url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=43 & pr.y=20 & sy=2009 & ey=2012 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & c=643 & s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP & grp=0 & a= |title=Eritrea |publisher=International Monetary Fund |accessdate=April 18, 2012}} < /ref > 
+ | GDP_PPP_year           = 2012 
+ | GDP_PPP_per_capita     = $777 < ref name=imf2/ > 
+ | GDP_nominal            = $3.108 billion < ref name=imf2/ > 
+ | GDP_nominal_year       = 2012 
+ | GDP_nominal_per_capita = $549 < ref name=imf2/ > 
+ | HDI                    = 0.349 
+ | HDI_change             = steady 
+ | HDI_ref                =  
+ | HDI_rank               = 177th 
+ | HDI_year               = 2011 
+ | currency               = [[Eritrean nakfa|Nakfa]] 
+ | currency_code          = ERN 
+ | time_zone              = [[East Africa Time|EAT]] 
+ | utc_offset             = +3 
+ | time_zone_DST          = not observed 
+ | utc_offset_DST         = +3 
+ | drives_on              = right 
+ | cctld                  = [[.er]] 
+ | calling_code           = 291 
+ | footnote_a             = [[Afar people|Afar]], [[Beni-Amer]], [[Nara people|Nara]]. 
+ | footnote_b             = Working languages only. < ref name= " official " > {{cite web |url=http://www.shabait.com/about-eritrea/eritrea-at-a-glance/49-eritrea-at-a-glance |title=ERITREA AT A GLANCE |date=October 1, 2009 |accessdate=April 4, 2012 |archive-date=March 3, 2012 |archive-url=https://web.archive.org/web/20120303132512/http://www.shabait.com/about-eritrea/eritrea-at-a-glance/49-eritrea-at-a-glance |url-status=dead }} < /ref > 
+ }} 
+ [[File:Er-map.gif|thumb|300px|right|A [[map]] of Eritrea]] 
+ '''Eritrea''' is a country on the [[East Africa|eastern]] coast of [[Africa]]. Its official name is '''The State of Eritrea'''. {{Habesha Community}} 
+ 
+ == Geography == 
+ [[File:Eritrean Highlands.jpg|left|thumb|Eritrean highlands.]] 
+ Eritrea is located on the [[coast]] of the [[Red Sea]]. It is north of the [[Bab-el-Mandeb]] and the [[Horn of Africa]]. Eritrea has borders with the countries of [[Sudan]], [[Ethiopia]], and [[Djibouti]]. The land [[area]] of Eritrea is 101,000 & nbsp;km², and it is one of the smallest countries in Africa. < ref name= " Factbook " > {{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/er.html|title=Eritrea|publisher=Central Intelligence Agency - The World Factbook|accessdate=August 25, 2008|archive-date=May 15, 2020|archive-url=https://web.archive.org/web/20200515225510/https://www.cia.gov/library/publications/the-world-factbook/geos/er.html|url-status=dead}} < /ref > 
+ 
+ == History == 
+ Eritrea became an [[independence|independent]] country on May 24, 1993. < ref name= " Factbook "  / >  It is one of the newest countries in the world. 
+ 
+ Many different countries have ruled the land that is now called Eritrea. Between 1885 and 1941 it was a [[colony]] of [[Italy]]. Between 1941 and 1952, the [[United Nations]] put it under the protection of the [[United Kingdom]]. After 1952, Eritrea became a part of [[Ethiopia]]. < ref name= " Factbook "  / >  This was the reason for a long [[war|civil war]] between the Eritreans and the government of Ethiopia. 
+ 
+ Eventually, in 1993, Eritrea became an independent country after a [[vote]] by its people. < ref name= " Factbook "  / > 
+ 
+ == Eritreans == 
+ {{Infobox ethnic group 
+ | group            = Eritreans 
+ | flag             = Flag of Eritrea.svg 
+ | flag_caption     = [[Flag of Eritrea]] 
+ | population       = [[File:Eritrean people around the world.svg|center|frameless|260x260px]] Eritrea: 3.6–6.7 million < ref name= " UNDESA_WPP_2019_total_population " > {{cite web | title= World Population Prospects 2019 | website= [[United Nations Department of Economic and Social Affairs|UN DESA]] |year = 2019 | url = https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx | access-date = February 28, 2021 |archive-url= https://web.archive.org/web/20210227235642/https://population.un.org/wpp/Download/Files/1_Indicators%20(Standard)/EXCEL_FILES/1_Population/WPP2019_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.xlsx |archive-date= February 27, 2021 |url-status=live }} < /ref > < ref name= " COMESA_ERpop_2019 " > {{cite web | title= Eritrea – Indicators – Population (million people), 2018 | website= [[Common Market for Eastern and Southern Africa]] |year = 2019 | url = https://comstat.comesa.int/lqpaqnf/comesa-in-figures-2019?tsId=1000510 | access-date = February 28, 2021 |archive-url=https://web.archive.org/web/20210228195303/https://comstat.comesa.int/lqpaqnf/comesa-in-figures-2019?tsId=1000510 |archive-date= February 28, 2021 |url-status=live }} < /ref > < br > Eritrean diaspora: ≥600,000 
+ | region1          = {{flag|Eritrea}} 
+ | pop1             = 3.6–6.7 million < ref name= " UNDESA_WPP_2019_total_population " / > < ref name= " COMESA_ERpop_2019 " / > 
+ | region2          = {{flag|Ethiopia}} 
+ | pop2             = 170,231 
+ | region3          = {{flag|Sudan}} 
+ | pop3             = 159,748 {{small|(Eritrean-born)}} 
+ | region4          = {{flag|Germany}} 
+ | pop4             = 75,735 
+ | region5          = {{flag|United States}} 
+ | pop5             = 57,980 
+ | region6          = {{flag|Sweden}} 
+ | pop6             = 45,734 
+ | region7          = {{flag|Switzerland}} 
+ | pop7             = 36,359 
+ | region8          = {{flag|Norway}} 
+ | pop8             = 30,213 
+ | region9          = {{flag|Canada}} 
+ | pop9             = 25,255 
+ | region10         = {{flag|United Kingdom}} 
+ | pop10            = 19,031 {{small|(Eritrean-born)}} 
+ | region11         = {{flag|United Arab Emirates}} 
+ | pop11            = 17,916 {{small|(Eritrean-born)}} 
+ | region12         = {{flag|Italy}} 
+ | pop12            = 13,592 {{small|(Eritrean-born)}} 
+ | region13         = {{flag|Australia}} 
+ | pop13            = 11,152 
+ | region14         = {{flag|Denmark}} 
+ | pop14            = 5,703 
+ | region15         = {{flag|Kuwait}} 
+ | pop15            = 4,725 {{small|(Eritrean-born)}} 
+ | region16         = {{flag|Uganda}} 
+ | pop16            = 3,529 {{small|(Eritrean-born)}} 
+ | region17         = {{flag|South Sudan}} 
+ | pop17            = 3,318 {{small|(Eritrean-born)}} 
+ | region18         = {{flag|Egypt}} 
+ | pop18            = 2,368 {{small|(Eritrean-born)}} 
+ | region19         = {{flag|Netherlands}} 
+ | pop19            = 2,150 {{small|(Eritrean-born)}} 
+ | region20         = {{flag|Kenya}} 
+ | pop20            = 2,127 {{small|(Eritrean-born)}} 
+ | region21         = {{flag|Libya}} 
+ | pop21            = 1,983 {{small|(Eritrean-born)}} 
+ | region22         = {{flag|Qatar}} 
+ | pop22            = 1,854 {{small|(Eritrean-born)}} 
+ | region23         = {{flag|South Africa}} 
+ | pop23            = 1,604 {{small|(Eritrean-born)}} 
+ | region24         = {{flag|Bahrain}} 
+ | pop24            = 1,550 {{small|(Eritrean-born)}} 
+ | region25         = {{flag|Yemen}} 
+ | pop25            = 1,009 {{small|(Eritrean-born)}} 
+ | langs            = [[Tigrinya language|Tigrinya]], [[Tigre language|Tigre]], [[Kunama language|Kunama]], [[Bilen language|Bilen]], [[Nara language|Nara]], [[Saho language|Saho]], [[Afar language|Afar]], [[Beja language|Beja]], and other [[Languages of Eritrea]] 
+ | rels             = [[Christianity|Christian]] 63% ([[Eritrean Orthodox Tewahedo Church|Eritrean Orthodox]], [[P'ent'ay]], [[Catholic Church|Catholic]]), [[Islam|Muslim]] 36% 
+ | related          = [[Ethiopians]], [[Djibouti]]ans, [[Somalia|Somalis]] 
+ }} 
+ 
+ '''Eritreans''' are the native inhabitants of Eritrea, as well as the global diaspora of Eritreans displaced by the [[Eritrean War of Independence]] and seeking refuge from human rights violations by the Eritrean government. Eritreans constitute [[Eritreans#Component Ethnicities|several component ethnic groups]], many of which are closely related to ethnic groups in [[Ethiopia]] and other parts of the [[Horn of Africa]]. 
+ 
+ The Eritrean national identity began to develop during the [[Scramble for Africa]], when [[Italy]] claimed Eritrea as one of its colonies. This marked the establishment of Eritrea's present-day borders. < ref name= " Ully " > [[Edward Ullendorff|Ullendorff, Edward]]. ''The Ethiopians: An Introduction to Country and People'' 2nd & nbsp;ed., p. & nbsp;90. [[Oxford University Press]] (London), 1965. {{ISBN|0-19-285061-X}}. < /ref >  Following Italy's defeat in [[World War II]] and the subsequent [[United Kingdom|British]] administration of Eritrea, the former colony was [[Federation of Ethiopia and Eritrea|federated with Ethiopia]] in 1952. Tensions increased through the 1950s between Eritreans wishing for independence and the Ethiopian government, culminating in the Eritrean War of Independence. 
+ 
+ === Component Ethnicities === 
+ 
+ ==== Tigrinya ==== 
+ {{main|Tigrinya people}}The majority of the [[Tigrinya people|Tigrinya]] inhabit the highlands of Eritrea; however, migration to other parts of the country has occurred. Their language is called [[Tigrinya language|Tigrinya]]. They are the largest ethnic group in the country, constituting about 60% of the population. < ref name= " Ciaethn4 " > {{cite web|title=The World Factbook|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2075.html#er|access-date=May 31, 2015|archive-date=January 6, 2019|archive-url=https://web.archive.org/web/20190106010801/https://www.cia.gov/library/publications/the-world-factbook/fields/2075.html#er|url-status=dead}} < /ref >  The predominantly Tigrinya populated urban centers in Eritrea are the capital [[Asmara]], [[Mendefera]], [[Dekemhare]], [[Adi Keyh]], [[Adi Quala]] and [[Senafe]], while there is a significant population of Tigrinya in other cities including [[Keren, Eritrea|Keren]], and [[Massawa]]. 
+ 
+ They are 96% Christians, (of which 90% are of the [[Eritrean Orthodox]] faith, 5% [[Roman Catholic]] and [[Eastern Catholic]] (whose mass is held in [[Ge'ez]] as opposed to Latin), and 5% belonging to various [[Protestant]] and other Christian denominations, the majority of which belong to the (Lutheran) Evangelical Church of Eritrea). 
+ 
+ ==== Tigre ==== 
+ {{main|Tigre people}}The Tigre reside in the western lowlands in Eritrea. Many also migrated to Sudan at the time of the Ethiopian-Eritrean conflict and lived there since. They are a nomadic and pastoralist people, related to the [[Tigrinya]] and to the [[Beja people]]. They are a predominantly Muslim nomadic people who inhabit the northern, western, and coastal lowlands of Eritrea, where they constitute 30% of local residents. < ref name= " Ciaethn4 " / >  Some also inhabit areas in eastern Sudan. 95% of the Tigre people adhere to the Islamic religion [[Sunni Islam]], but there are a small number of Christians among them as well (often referred to as the Mensaï in Eritrea). Their language is called [[Tigre language|Tigre]]. 
+ 
+ ==== Jeberti ==== 
+ The [[Jeberti people]] in Eritrea trace descent from early Muslim adherents. The term ''Jeberti'' is also locally sometimes used to generically refer to all Islamic inhabitants of the [[Ethiopian Highlands|highlands]]. < ref name= " Lhrfda " > {{cite journal|last=Kifleyesus|first=Abbebe|date=January 2009|title=Jeberti Women Traders' Innumeracy: Its Impact on Commercial Activity in Eritrea|url=http://www.cairn.info/revue-l-homme-2009-1-page-49.htm|journal=L'Homme: Revue française d'anthropologie|issue=189|page=59|access-date=February 27, 2015}} < /ref >  The Jeberti in Eritrea speak [[Arabic language|Arabic]] and [[Tigrinya language|Tigrinya]]. < ref name= " Eotpoaatme " > {{cite book| last = Facts On File, Incorporated| title = Encyclopedia of the Peoples of Africa and the Middle East| url = https://books.google.com/books?id=stl97FdyRswC| year = 2009| publisher = Infobase Publishing| isbn = 978-1-4381-2676-0| page = 336 }} < /ref >  They account for about 4% of the Tigrinya speakers in the nation. 
+ 
+ ==== Afar ==== 
+ {{main|Afar people}}According to the CIA, the Afar constitute under 5% of the nation's population. < ref name= " Ciaethn4 " / >  They live in the [[Debubawi Keyih Bahri Region]] of Eritrea, as well as the [[Afar Region]] in Ethiopia, and [[Djibouti]]. They speak the [[Afar language]] as a mother tongue, and are predominantly Muslim. Afars in Eritrea number about 397,000 individuals, the smallest population out of the countries they reside in. In Djibouti, there are about 780,000 group members, and in Ethiopia, they number approximately 1,300,000. 
+ 
+ === Saho === 
+ {{main|Saho people}}The Saho represent 4% of Eritrea's population. < ref name= " Ciaethn4 " / >  They principally reside in the [[Debubawi Keyih Bahri Region]] and the [[Northern Red Sea Region]] of Eritrea. Their language is called [[Saho language|Saho]]. They are predominantly Muslim, although a few Christians known as the [[Irob people|Irob]] live in the [[Debub Region]] of Eritrea and the [[Tigray region]] of Ethiopia. 
+ 
+ ==== Bilen ==== 
+ {{main|Bilen people}}The Bilen in Eritrea represent around 2% of the country's population. < ref name= " Ciaethn4 " / >  They are primarily concentrated in the north-central areas, in and around the city of [[Keren, Eritrea|Keren]], and south towards [[Asmara]], the nation's capital. Many of them entered Eritrea from Kush (central Sudan) in the 8th century and settled at Merara, after which they went to Lalibela and Lasta. The Bilen then returned to Axum in Ethiopia's [[Tigray Province]], and battled with the natives; in the resulting aftermath, the Bilen returned to their main base at Merara. The Bilen include adherents of both [[Islam]] and [[Christianity]]. They speak the [[Bilen language|Bilen]] as a mother tongue. Christian adherents are mainly urban and have intermingled with the Tigrinya who live in the area. Muslim adherents are mainly rural and have interbred with the adjacent Tigre. 
+ 
+ ==== Beja ==== 
+ {{main|Beja people}}The Beja in Eritrea, or [[Hedareb]], constitute under 5% of local residents. < ref name= " Ciaethn4 " / >  They mainly live along the north-western border with Sudan. Group members are predominantly Muslim and communicate in [[Hedareb language|Hedareb]] as a first or second language. The Beja also include the [[Beni-Amer people]], who have retained their native [[Beja language]] alongside Hedareb. 
+ 
+ ==== Kunama ==== 
+ {{main|Kunama people}}According to the CIA, the Kunama constitute around 2% of Eritrea's population. < ref name= " Ciaethn4 " / >  They mainly live in the country's [[Gash Barka Region]], as well as in adjacent parts of Ethiopia's [[Tigray Region]]. Many of them reside in the contested border village of [[Badme]]. Their language is called [[Kunama language|Kunama]]. Although some Kunama still practice traditional beliefs, most are converts to either Christianity (Roman Catholic and Protestant) or Islam. 
+ 
+ ==== Nara ==== 
+ {{main|Nara people}}The Nara represent under 5% of the nation's population. < ref name= " Ciaethn4 " / >  They principally reside along the south-western border with Sudan and Ethiopia. They are generally Muslim, with a few Christians and some practising their indigenous beliefs. Their language is called [[Nara language|Nara]]. 
+ 
+ ==== Rashaida Arabs in Eritrean ==== 
+ {{main|Rashaida people}}The Rashaida are one of Eritrea's nine recognized ethnic groups. They represent around 2% of the population of Eritrea. < ref name= " Ciaethn4 " / >  The Rashaida reside in the northern coastal lowlands of Eritrea and the northern eastern coasts of Sudan. They are predominantly Muslim and are the only ethnic group in Eritrea to have [[Arabic language|Arabic]] as their communal language, specifically the [[Hejazi Arabic|Hejazi dialect]]. The Rashaida first came to Eritrea in the 19th century from the Arabian Coast. < ref > {{cite web|last=Alders|first=Anne|title=the Rashaida|url=http://www.eritreanbeauty.com/r.html|access-date=June 7, 2006|archive-date=July 9, 2006|archive-url=https://web.archive.org/web/20060709094430/http://www.eritreanbeauty.com/r.html|url-status=dead}} < /ref > 
+ 
+ ==== Italians in Eritrea ==== 
+ {{main|Italian Eritreans}}A few monolingual [[Italian Eritreans]] remain. As of 2008, they were estimated at 900 people, down from around 38,000 residents at the end of World War II. They contributed with the development of the Eritrean language with a local  " Pidgin " . < ref > [https://researchomnia.blogpot.com/2022/03/italian-language-in-italys-colonies.html Italian language in Eritrea]{{Dead link|date=March 2022 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ ==== Eritrean diaspora ==== 
+ * [[Eritrean Americans]] 
+ * [[Eritrean Australians]] 
+ * [[Eritrean Canadians]] 
+ * [[Eritreans in Italy]] 
+ * [[Eritreans in the United Kingdom]] 
+ * [[Eritreans in Denmark]] 
+ * [[African immigration to Israel|Eritreans in Israel]] 
+ * [[Eritreans in Norway]] 
+ * [[Eritreans in Sweden]] 
+ * [[Ethiopians]] 
+ * [[Habesha peoples]] 
+ ** [[:Category:Eritrean people of Ethiopian descent|Eritrean people of Ethiopian descent]] 
+ ** [[:Category:Ethiopian people of Eritrean descent|Ethiopian people of Eritrean descent]] 
+ 
+ == Government == 
+ Eritrea is known for being the most oppressive country in Africa, sometimes considered to be the  " North Korea of Africa " . < ref > {{cite news|url = http://www.haaretz.com/israel-news/the-north-korea-of-africa-where-you-need-a-permit-to-have-dinner-with-friends-1.463319|title = 'The North Korea of Africa': Where You Need a Permit to Have Dinner With Friends|first = Yishai|last = Halper|website = |newspaper = Haaretz|accessdate = }} < /ref >  The nation has been accused of many human rights violations, severely limited freedoms, and many arbitrary (made-up) arrests. 
+ 
+ ==Administrative divisions== 
+ Eritrea is divided into six administrative regions. These areas are then divided into 58 districts. 
+ [[File:Eritrea, administrative divisions - Nmbrs - colored.svg|thumb|upright=1.3|A map of Eritrea regions. 1.Northern Red Sea, 2.Anseba, 3.Gash-Barka, 4.Central(to right), 5.Southern, 6.Southern Red Sea]] 
+ {| class= " wikitable sortable " 
+ |+ Regions of Eritrea 
+ |- 
+ ! Region 
+ ! Area (km < sup > 2 < /sup > ) 
+ ! Population 
+ ! Capital 
+ |- 
+ | [[Central Region (Eritrea)|Central]] 
+ | 1,300 
+ | 1,053,254 
+ | [[Asmara]] 
+ |- 
+ | [[Anseba Region|Anseba]] 
+ | 23,200 
+ | 893,587 
+ | [[Keren]] 
+ |- 
+ | [[Gash-Barka Region|Gash-Barka]] 
+ | 33,200 
+ | 1,103,742 
+ | [[Barentu, Eritrea|Barentu]] 
+ |- 
+ | [[Southern Region (Eritrea)|Southern]] 
+ | 8,000 
+ | 1,476,765 
+ | [[Mendefera]] 
+ |- 
+ | [[Northern Red Sea Region|Northern Red Sea]] 
+ | 27,800 
+ | 897,454 
+ | [[Massawa]] 
+ |- 
+ | [[Southern Red Sea Region|Southern Red Sea]] 
+ | 27,600 
+ | 398,073 
+ | [[Assab]] 
+ |} 
+ 
+ == Culture == 
+ The [[population]] of Eritrea is about 3.6 & nbsp;million. < ref name= " Factbook "  / >  About 0.5 & nbsp;million people live in Asmara. People from Eritrea are called '''Eritreans'''. Most of them speak ''Tigrinya'' or ''Tigre'' as their first [[language]]. The people usually use Tigrinya or [[Arabic language|Arabic]] for official business. 
+ 
+ Eritrea has nine ethnic groups. These are the Afar people, the Bilen people, the Hedareb people, the Kunama, the Nara, the Rashaida, the Saho, the Tigre, and Tigray-Tigrinya. 
+ 
+ The [[currency]] of Eritrea is called the '''Nakfa'''. Eritrea is a very poor country. Almost half of Eritrea's [[economy]] comes from Eritreans who live abroad. They send money home to their families. Most of the rest comes from [[farming]]. 
+ 
+ [[Association football|Football]] and [[cycling]] are the most popular sports in Eritrea. In recent years, Eritrean athletes have also seen increasing success in the international arena. 
+ 
+ ==Related pages== 
+ * [[Eritrea at the Olympics]] 
+ * [[Eritrea national football team]] 
+ * [[List of rivers of Eritrea]] 
+ 
+ == References == 
+ {{Commons category}} 
+ {{Reflist}} 
+ 
+ {{Middle East}} 
+ {{Countries of Africa}} 
+ 
+ [[Category:1993 establishments in Africa]] 
+ [[Category:Eritrea| ]] 
+ [[Category:Italian-speaking countries]] 
+ [[Category:Least developed countries]] 
+ [[Category:Current dictatorships]] 
+ [[Category:States and territories established in the 1990s]]

@@ -1,0 +1,57 @@
+{{Infobox software 
+ | name = LaTeX Beamer class 
+ | logo =  
+ | screenshot = A modified Latex Beamer example.jpg 
+ | caption = LaTeX Beamer presentation screenshot 
+ | developer = Till Tantau, Joseph Wright, Vedran Miletić 
+ | released = {{Start date and age|2003|03}} 
+ | latest release version = 3.55 
+ | latest release date = {{Start date and age|2018|12|02}} 
+ | repo = {{URL|github.com/josephwright/beamer}} 
+ | programming language = [[LaTeX]] 
+ | operating system = [[Unix-like]], [[Windows]] 
+ | platform = TeX Live, MikTeX 
+ | language = [[English language|English]], [[German language|German]], [[Croatian language|Croatian]], [[Serbian language|Serbian]] 
+ | genre = [[Presentation software]] 
+ | license = LaTeX Project Public License, [[GNU General Public License]] 
+ | website = {{URL|ctan.org/pkg/beamer}} 
+ }} 
+ 
+ '''Beamer''' is an [[open source]] [[LaTeX]] document class for creating [[presentation]] slides. < ref > Mertz, A.,  &  Slough, W. (2005). Beamer by example. The PracTEX Journal. < /ref > < ref > Batts, C. T. (2007). A beamer tutorial in Beamer. The University of North Carolina at Greensboro, Department of Computer Science. < /ref > < ref > Oaks, A. (2009). LATEX Programming: Beamer Presentations. University of California, Berkeley. < /ref >  This [[software]] is mostly used to create slides with mathematical formulas. < ref > This is the biggest difference between [[Microsoft PowerPoint]] and [[LibreOffice]]. < /ref >  It also supports many compile options. By using Beamer, all slides will be generated in [[PDF]] style. 
+ 
+ ==References and notes== 
+ {{reflist|2}} 
+ 
+ ==Further reading== 
+ *{{cite book |last=Voß |first=H. |year=2012 |title=Presentations with LaTeX |publisher=Lehmanns Media |location=Berlin |isbn=9783865414960}} 
+ * Voß, H. (2011). PSTricks: Graphics and PostScript for TEX and LATEX. UIT Cambridge Ltd.. 
+ 
+ ==Related pages== 
+ * [[CTAN]] - [[repository (data)|repository]] including further details of Beamer 
+ * [[SATySFi]] - open source software aiming to replace LaTeX and Beamer 
+ 
+ ==Other websites== 
+ {{wikibooks 
+  |1= LaTeX 
+  |2= Presentations 
+  |3= Presentations in LaTeX 
+ }} 
+ * [https://github.com/josephwright/beamer Beamer home page] 
+ * [http://www-i6.informatik.rwth-aachen.de/~dreuw/latexbeamerposter.php beamerposter – a Beamer extension for scientific conference posters in DIN-A0 size or bigger] 
+ * Till Tantau, Joseph Wright, Vedran Miletić (2015) ''[http://www.ctan.org/tex-archive/macros/latex/contrib/beamer/doc/beameruserguide.pdf User's guide]'' – from [http://www.ctan.org www.ctan.org] 
+ * [http://www.hartwork.org/beamer-theme-matrix/ Beamer Theme Matrix] 
+ * [http://wiki2beamer.sourceforge.net/ wiki2beamer: Tool to create Beamer presentations from a wiki-like syntax] 
+ * Dohmen, Klaus (2010) ''[http://www.tug.org/pracjourn/2010-1/dohmen/dohmen.pdf Dual Screen Presentations with the LaTeX Beamer Class under X]''  
+ * [https://cfiandra.github.io/Beamer2Thesis/ Beamer2Thesis] 
+ * [https://www.mimuw.edu.pl/~mskrzypczak/projects/beamerikz/ BeamerikZ - A Latex class for creating TikZ based Beamer presentations] 
+ 
+ ===Tutorials=== 
+ * [http://www.math-linux.com/spip.php?article77 Introduction to Beamer – How to make a presentation] {{Webarchive|url=https://web.archive.org/web/20130305231300/http://www.math-linux.com/spip.php?article77 |date=2013-03-05 }} 
+ *[https://www.overleaf.com/learn/latex/Beamer_Presentations:_A_Tutorial_for_Beginners_(Part_1)%E2%80%94Getting_Started Beamer Presentations: A 5-Part Tutorial for Beginners (Overleaf)] 
+ * [http://www.logicmatters.net/resources/pdfs/SimpleBeamer.pdf Using beamer.cls:  " An intentionally incomplete guide "  from LaTeX for Logicians] 
+ * [http://www.tug.org/pracjourn/2005-4/mertz/mertz.pdf Beamer by Example from PracTEX Journal, many examples of both TeX source and formatted output] 
+ * [[b:LaTeX/Presentations|Introduction to Beamer on Wikibooks]] 
+ * [https://web.archive.org/web/20130403002321/http://www.lampos.net/latex-presentation A presentation using the LaTeX Beamer class (short guide – samples)] 
+ 
+ [[Category:Free software]] 
+ [[Category:Presentation software]]

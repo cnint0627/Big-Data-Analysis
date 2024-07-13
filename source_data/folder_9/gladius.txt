@@ -1,0 +1,33 @@
+{{Italic title}} 
+ {{Infobox weapon 
+ |name=''Gladius'' 
+ | image= Uncrossed gladius.jpg 
+ | image_size = 300 
+ |caption=Replica pseudo-Pompeii ''gladius'' 
+ |origin=[[Ancient Rome]], [[Italy]] as ''gladius'' 
+ |type=[[Sword]] 
+ 
+ < !-- Type selection -- > 
+ |is_bladed=yes 
+ < !-- Service history -- > 
+ |service= 3rd century BC – 3rd century AD 
+ |used_by= Roman foot soldiers during wars 
+ 
+ |wars=[[Roman Republic]] and [[Roman Empire]] 
+ < !-- General specifications -- > 
+ |weight= {{convert|0.7|-|1|kg|lb|abbr=on}} 
+ |length= {{convert|60|-|85|cm|in|abbr=on}} 
+ |width= {{convert|5|-|7|cm|in|abbr=on}} 
+ |part_length = {{convert|45|-|68|cm|in|abbr=on}} 
+ < !-- Bladed weapon specifications -- > 
+ |blade_type= steel of varying degrees of carbon content, pointed, double-edged 
+ |hilt_type= Wood, bronze or ivory 
+ }} 
+ A '''''gladius''''' is a Roman short sword mainly used by gladiators and soldiers in [[Ancient Rome]]. 
+ 
+ You are able to read more about [[gladiator]]s here. 
+ 
+ 
+ {{stub}} 
+ 
+ [[Category:Swords]]

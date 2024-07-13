@@ -1,0 +1,17 @@
+[[File:Histogram example.svg|thumbnail|right|Example of a histogram of 100 [[Normal distribution|normally distributed]] [[random]] values]]A '''histogram''' is a [[concept]] from [[statistics]]. It is a [[graph|graphical display]] that tells us about the [[Frequency distribution|distribution]] of the samples involved. They are commonly a picture made from a [[Table (information)|table]] with many categories. The table tells how many samples there are in each category. 
+ The word ''histogram'' is derived from ''histos'' and ''gramma'' in [[Greek language|Greek]]. ''Histos'' means ''web'' or ''mast''. ''Gramma'' means ''drawing'', ''record'' or ''writing''. A histogram of something is therefore, [[etymology|etymologically]] speaking, a drawing of the web of this something.  
+ 
+ A histogram is a graphical representation of the distribution of numerical data. It is a type of bar chart that shows the frequency or number of observations within different numerical ranges, called bins. The bins are usually specified as consecutive, non-overlapping intervals of a variable. The histogram provides a visual representation of the distribution of the data, showing the number of observations that fall within each bin. < ref > {{Cite web|title=Histogram maker|url=https://histogrammaker.co/}} < /ref >   
+ 
+ ==Similar ideas== 
+ The histogram is one of the seven basic tools of quality control, which also include the [[Pareto chart]], [[check sheet]], [[control chart]], [[cause-and-effect diagram]], [[flowchart]], and [[scatter diagram]].  
+ 
+ A [[population pyramid]] is two histograms. < ref > {{cite web |last1=Forbes |first1=Sharleen |last2=Harraway |first2=John |title=Population pyramids |website=Graph it in Excel |url=https://iase-web.org/islp/apps/gov_stats_graphing/PopulationPyramids/ |access-date=2020-06-10}} < /ref > 
+ 
+ A generalization of the histogram is [[kernel (statistics)|kernel]] smoothing techniques. This will construct a smooth [[probability density function]] from the supplied data. 
+ 
+ ==References== 
+ {{reflist}} 
+ {{Statistics}} 
+ 
+ [[Category:Statistics]]

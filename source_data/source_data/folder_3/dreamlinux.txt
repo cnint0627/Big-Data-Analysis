@@ -1,0 +1,37 @@
+{{Infobox OS 
+ | name = Dreamlinux 
+ | logo = [[Image:Dreamlinux-logo.png|100px|Dreamlinux logo]] 
+ | screenshot = [[Image:Rc4-screen.png|250px|Dreamlinux screenshot]] 
+ | caption = Dreamlinux 5.0 
+ | family = [[Unix-like]] 
+ | latest_release_version = 5.0 
+ | latest_release_date = {{release date|2012|01|01}} 
+ | language = [[English language|English]] and [[Portuguese language|Portuguese]] 
+ | kernel_type = [[Monolithic kernel|Monolithic]] 
+ | working_state = Discontinued 
+ | supported_platforms = [[IA-32]] 
+ | license = Mainly the [[GNU GPL]] / various others 
+ | website = http://www.dreamlinux.info |http://www.dreamlinux.info 
+ }} 
+ 
+ '''Dreamlinux''' was a [[Linux distribution]], a collection of [[computer program]]s that is designed for the use of the [[Linux]] [[operating system]] on a computer.  The Dreamlinux distribution was made in [[Brazil]], and is based on [[Debian]], another commonly-used Linux distribution.  Dreamlinux can be used in [[Portuguese language|Portuguese]]. 
+ 
+ ==Methods of booting== 
+ 
+ There are several ways to use Dreamlinux to run the Linux operating system on a computer. 
+ * Using a compact disc called a [[live CD]], the computer user can start up (or [[boot]]) the operating system straight from the disc without [[install]]ing anything on the computer. 
+ * The user can boot Dreamlinux in the same way from an external [[flash drive]] containing the programs, connected to the computer through a [[USB port]]. 
+ * The user can install the programs in Dreamlinux on a computer's internal [[hard drive]] and run them from there. 
+ 
+ ==Graphical User Interface== 
+ Most operating systems have a [[graphical user interface]], or GUI{{original research inline}}, which allows the user to interact with the programs using a graphical display.  The [[GUI]] which Dreamlinux uses looks similar to the one used by [[Apple Inc.|Apple]]'s [[Mac OS X]] operating system, with a toolbar in the center.  The user can also download the  " Engage "  theme, which gives the toolbar some animated aspects. 
+ 
+ ==Related pages== 
+ *[[List of Linux distributions]] 
+ * [[Xfce]] 
+ 
+ == Other websites == 
+ * [http://www.dreamlinux.com.br/ Official Dreamlinux site] {{Webarchive |url=https://web.archive.org/web/20120213061803/http://www.dreamlinux.info/ |date=2012-02-13 |url2=https://web.archive.org/web/20081029034916/http://www.dreamlinux.com.br/ |date2=2008-10-29 }} 
+ * [http://dreamlinuxforums.org/ Official English forum] 
+ 
+ [[Category:Debian-based Linux distributions]]

@@ -1,0 +1,30 @@
+{{italictitle}} 
+ {{Taxobox 
+ | image = Enterococcus_histological_pneumonia_01.png 
+ | image_width = 240px 
+ | image_caption = ''Enterococcus sp.'' infection in [[lung]] tissue 
+ | regnum = [[Bacteria]] 
+ | divisio = [[Firmicutes]] 
+ | classis = [[Bacilli]] 
+ | ordo = [[Lactobacillales]] 
+ | familia = [[Enterococcaceae]] 
+ | genus = '''''Enterococcus'''''}} 
+ 
+ '''''Enterococcus''''' is a [[genus]] of [[lactic acid]] [[bacteria]] of the [[Phylum (biology)|phylum]] [[Firmicutes]]. 
+ 
+ Enterococci are [[Gram-positive]] [[cocci]] that often occur in pairs or short chains. They look like [[Streptococcus|streptococci]]. < ref name=Gilmore_2002 > {{cite book | title=The Enterococci: pathogenesis, molecular biology, and antibiotic resistance | url=https://archive.org/details/enterococcipatho0000unse | publisher = ASM Press | location=Washington, D.C. | year=2002 | editor=Gilmore M.S. |display-authors = etal | isbn=978-1-55581-234-8}} < /ref >  Two species are regular [[gut flora]] organisms in the intestines of humans: ''E. faecalis'' (90-95%) and ''E. faecium'' (5-10%). 
+ 
+ == Physiology and classification == 
+ Enterococci are  " facultative [[anaerobic]] organisms " . This means they can live in both [[oxygen]]-rich and oxygen-poor environments. < ref name=Fischetti_2000 > {{cite book | editor = Fischetti V.A. |display-authors = etal | title = Gram-positive pathogens | url = https://archive.org/details/grampositivepath0000unse | publisher = ASM Press | year = 2000 | isbn = 1-55581-166-3}} < /ref > 
+ 
+ Members of the genus ''Enterococcus'' were classified as Group D ''[[Streptococcus]]'' until 1984. [[Genome|Genomic]] [[sequence analysis|DNA analysis]] showed they were a separate genus. < ref > {{cite journal | author = Schleifer KH; Kilpper-Balz R | title = Transfer of ''Streptococcus faecalis'' and ''Streptococcus faecium'' to the genus ''Enterococcus'' nom. rev. as ''Enterococcus faecalis'' comb. nov. and ''Enterococcus faecium'' comb. nov. | journal= Int. J. Sys. Bacteriol. | year= 1984 | volume= 34 | issue= | pages= 31–34 | url= | doi = 10.1099/00207713-34-1-31 }} < /ref > 
+ 
+ == Pathology == 
+ Important [[infection]]s caused by ''Enterococcus'' include [[urinary tract infection]]s, bacterial [[endocarditis]], [[diverticulitis]], and [[meningitis]]. 
+ 
+ Sensitive strains of these bacteria can be treated with [[ampicillin]], [[penicillin]] and [[vancomycin]]. < ref name=Baron > {{cite book | author = Pelletier LL Jr. | title = Microbiology of the circulatory system. ''in: Baron S et al. (eds) ''Baron's Medical Microbiology''. | edition = 4th | publisher = Univ of Texas Medical Branch | year = 1996 | url = https://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mmed.section.5077 | isbn = 0-9631172-1-1 }} < /ref >  [[urinary system|Urinary tract]] [[infection]]s can be treated by [[antibiotics]], but many virulent strains of ''Enterococcus'' are [[Resistance to antibiotics|resistant]]. From a medical standpoint, an important feature of this genus is the high level of [[Wiktionary:intrinsic|intrinsic]] [[antibiotic resistance]]. This rules out some important antibiotics. < ref > Ryan K.J.  &  Ray C.G. (eds) 2004. ''Sherris medical microbiology''. 4th ed, McGraw Hill, 294–5. {{ISBN|0-8385-8529-9}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Gram-positive bacteria]]

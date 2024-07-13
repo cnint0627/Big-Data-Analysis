@@ -1,0 +1,74 @@
+{{chembox 
+ | verifiedrevid = 477513893 
+ |   ImageFileL1 = Propylene skeletal.svg 
+ |   ImageSizeL1 = 100px 
+ |   ImageNameL1 = Skeletal formula of propene 
+ |   ImageFileR1 = Propene-2D-flat.png 
+ |   ImageSizeR1 = 100px 
+ |   ImageFileL2 = Propylene-3D-vdW.png 
+ |   ImageSizeL2 = 120px 
+ |   ImageFileR2 = Propylene-3D-balls.png 
+ |   ImageSizeR2 = 120px 
+ |   ImageNameR2 = Propylene 
+ |   IUPACName = Propene 
+ | Section1 = {{Chembox Identifiers 
+ |   SMILES = C=CC 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 117213 
+ |   CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo = 115-07-1 
+ | UNNumber = [[List of UN Numbers 1001 to 1100|1077]] < br/ > ''In [[Liquefied petroleum gas]]: ''[[List of UN Numbers 1001 to 1100|1075]] 
+ |   RTECS = UC6740000 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = C11505 
+ |  ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 16052 
+ | PubChem = 8252 
+ |  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 7954 
+ |  InChI = 1/C3H6/c1-3-2/h3H,1H2,2H3 
+ |  InChIKey = QQONPFPTGQHPMA-UHFFFAOYAA 
+ |  StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C3H6/c1-3-2/h3H,1H2,2H3 
+ |  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = QQONPFPTGQHPMA-UHFFFAOYSA-N 
+   }} 
+ | Section2 = {{Chembox Properties 
+ |   C=3|H=6 
+ |   Appearance = Colorless gas 
+ |   Density = 1.81 kg/m < sup > 3 < /sup > , gas (1.013 bar, 15 °C) < br > 613.9 kg/m < sup > 3 < /sup > , liquid 
+ |   Solubility = 0.61 g/m < sup > 3 < /sup > 
+ |   BoilingPtC = −47.6 
+ |   MeltingPtC = −185.2 
+ |   Viscosity = 8.34 [[pascal second|µPa·s]] at 16.7 °C 
+   }} 
+ | Section3 = {{Chembox Structure 
+ |   Dipole = 0.366 [[Debye|D]] (gas) 
+   }} 
+ | Section7 = {{Chembox Hazards 
+ |   ExternalMSDS = [http://msds.chem.ox.ac.uk/PR/propene.html External MSDS] 
+ |   MainHazards = Highly flammable, < br / > Asphyxiant 
+ |   NFPA-H = 1 
+ |   NFPA-F = 4 
+ |   NFPA-R = 1 
+ |   FlashPt = −108 °C 
+ |   RPhrases = 12 
+ |   SPhrases = 9-16-33 
+   }} 
+ | Section8 = {{Chembox Related 
+ |   Function = [[alkene]]s 
+ |   OtherCpds = [[Propane]], [[Propyne]] < br / > [[Propadiene]], [[1-Propanol]] < br / > [[Isopropyl alcohol|2-Propanol]] 
+ |   OtherFunctn = [[Allyl]], [[Propenyl]]}} 
+ }} 
+ '''Propene''' is an [[organic chemistry|organic]] [[Chemical compound|compound]]. The substance is also known as '''propylene''' and has the formula C < sub > 3 < /sub > H < sub > 6 < /sub > . It is the second-simplest [[alkene]]. Since it is only made of [[hydrogen]] and [[carbon]] [[atom]]s, it is a [[hydrocarbon]]. At [[room temperature]] and [[Standard temperature and pressure|normal pressure]] it is a [[gas]]. 
+ 
+ ==Uses== 
+ Propene is produced from [[fossil fuel]]s, and from [[coal]]. Propene is the second most important product used in the [[petrochemical industry]], after [[ethene]]. About two thirds are used to produce [[polypropylene]]. Propene and [[benzene]] are converted to [[acetone]] and [[phenol]] via the [[cumene process]]. Propene is also used to produce [[isopropanol]] (propan-2-ol), [[acrylonitrile]], [[propylene oxide]] (epoxypropane) and [[epichlorohydrin]]. < ref > {{Cite book| contribution = 8034. Propylene  | year = 1996  | title = The Merck Index, Twelfth Edition  | editor-last = Budavari  | editor-first = Susan  | volume =   | pages = 1348–1349  | place = New Jersey  | publisher = Merck  &  Co.  }} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Alkenes|3]] 
+ 
+ {{-}} 
+ {{chemistry-stub}}

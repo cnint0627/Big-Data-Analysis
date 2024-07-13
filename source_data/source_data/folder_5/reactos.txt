@@ -1,0 +1,27 @@
+{{Infobox OS 
+ | name = ReactOS 
+ | logo =  
+ | screenshot = ReactOS 0.4.7.png 
+ | caption = This is how ReactOS looks like. 
+ | developer = ReactOS Foundation 
+ | family = [[Microsoft Windows]]-like 
+ | source_model = [[Open source]] 
+ | website = {{URL|https://www.reactos.org}} 
+ }} 
+ 
+ '''ReactOS''' is a project to develop an [[operating system]] that is compatible with [[software]] for [[Microsoft]] [[Windows Server 2003]] and its successors. In 2018, the project is still in its first stage of development. ReactOS is not based on Linux or Unix. ReactOS uses some code from the [[Wine (software)|Wine]] project. 
+ 
+ == Other websites == 
+ * [https://www.reactos.org ReactOS official website] 
+ * {{DistroWatch|reactos}} 
+ * {{Facebook|ReactOS-19143619259}} 
+ * [https://plus.google.com/100586191925430460947/ ReactOS Google+ page] 
+ * [https://sourceforge.net/projects/reactos/ ReactOS SourceForge page] 
+ * {{Twitter|reactos}} 
+ * [https://vk.com/reactos_ru ReactOS VKontakte page] {{in lang|ru}} 
+ * {{YouTube Channel Link|UCMo8NP-2oP35rauon-Duc9Q|ReactOS}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Operating systems]]

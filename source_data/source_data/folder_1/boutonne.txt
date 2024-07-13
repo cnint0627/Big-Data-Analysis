@@ -1,0 +1,137 @@
+{{Infobox river 
+ | name              = Boutonne 
+ | image             = Ecluses St Jean dY.jpg 
+ | image_caption     = The Boutonne at Saint-Jean-d'Angély 
+ | map               = Boutonne river map.svg 
+ | source1_location  = Chef-Boutonne 
+ | source1_coordinates= {{coord|46|06|46|N|00|03|57|W}} 
+ | mouth_location    = [[Charente (river)|Charente]] 
+ | mouth_coordinates = {{coord|45|54|32|N|00|49|35|W|display=inline,title}} 
+ 
+ | subdivision_type1 = Country 
+ | subdivision_name1 = [[France]] 
+ | length            = {{convert|98.8|km|mi|abbr=on}} 
+ | source1_elevation = {{convert|85|m|ft|abbr=on}} 
+ | mouth_elevation   = {{convert|4|m|ft|abbr=on}} 
+ | discharge1_avg    = {{convert|13|m3/s|cuft/s|abbr=on}} 
+ | basin_size        = {{convert|1320|km2|sqmi|abbr=on}} 
+ }} 
+ The '''Boutonne''' is a river of western [[France]] that flows through the [[Deux-Sèvres]] and [[Charente-Maritime]] [[Departments of France|departments]], in the [[Nouvelle-Aquitaine]] [[Regions of France|region]]. It is a right [[tributary]] of the [[Charente (river)|Charente]] river. 
+ 
+ ==Geography== 
+ The Boutonne has a length of {{Convert|98.8|km|mi|1|abbr=on}}, and a [[drainage basin]] with an area of approximately {{Convert|1327|km2|sqmi|0|abbr=on }}. < ref name= " sandre " > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=R6--0250 |title=La Boutonne (R6--0250) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=29 May 2017 }} < /ref > 
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|5.50|m3/s|cuft/s|abbr=on }} at [[Saint-Séverin-sur-Boutonne]] in the [[Charente-Maritime]] department, at an [[altitude]] of {{Convert|34|m|ft|abbr=on }}. < ref name= " hydro " > {{cite web |url=http://www.hydro.eaufrance.fr/stations/R6092920%26procedure%3Dsynthese |title=La Boutonne à Saint-Séverin-sur-Boutonne [Moulin de Châtre] |publisher=Banque Hydro |language=fr |access-date=29 May 2017 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303190453/http://www.hydro.eaufrance.fr/stations/R6092920%26procedure%3Dsynthese |url-status=dead }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:15 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:5 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:1 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 11.60 
+  bar:Feb from:0 till: 12.20 
+  bar:Mar from:0 till: 8.860 
+  bar:Apr from:0 till: 7.240 
+  bar:May from:0 till: 5.180 
+  bar:Jun from:0 till: 3.250 
+  bar:Jul from:0 till: 1.480 
+  bar:Aug from:0 till: 0.922 
+  bar:Sep from:0 till: 0.976 
+  bar:Oct from:0 till: 2.070 
+  bar:Nov from:0 till: 4.620 
+  bar:Dec from:0 till: 8.010 
+ 
+ PlotData= 
+  bar:Jan at: 11.60 fontsize:S text: 11.60 shift:(-8,5) 
+  bar:Feb at: 12.20 fontsize:S text: 12.20 shift:(-12,5) 
+  bar:Mar at: 8.860 fontsize:S text: 8.860 shift:(-12,5) 
+  bar:Apr at: 7.240 fontsize:S text: 7.240 shift:(-12,5) 
+  bar:May at: 5.180 fontsize:S text: 5.180 shift:(-12,5) 
+  bar:Jun at: 3.250 fontsize:S text: 3.250 shift:(-12,5) 
+  bar:Jul at: 1.480 fontsize:S text: 1.480 shift:(-12,5) 
+  bar:Aug at: 0.922 fontsize:S text: 0.922 shift:(-12,5) 
+  bar:Sep at: 0.976 fontsize:S text: 0.976 shift:(-12,5) 
+  bar:Oct at: 2.070 fontsize:S text: 2.070 shift:(-12,5) 
+  bar:Nov at: 4.620 fontsize:S text: 4.620 shift:(-12,5) 
+  bar:Dec at: 8.010 fontsize:S text: 8.010 shift:(-12,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Saint-Séverin-sur-Boutonne (1969-2017)''' < ref name= " hydro "  / > 
+ < /center > 
+ 
+ ===Course=== 
+ The Boutonne starts in the southeast of the [[Deux-Sèvres]] department, in the ''[[commune]]'' of [[Chef-Boutonne]] (that is,  " Head of the Boutonne " ), at an [[elevation]] of about {{Convert|90|m|ft|0|abbr=on}}. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=-0.065556,46.113056 & z=16 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Source de la Boutonne |publisher=Géoportail |language=fr |access-date=29 May 2017 }} < /ref > 
+ 
+ It flows to the west and, later, to the southwest through the [[Deux-Sèvres]] and [[Charente-Maritime]] departments before flowing, at almost right [[angle]], into the [[Charente (river)|Charente]] river in [[Cabariot]] at about {{Convert|4|m|ft|0|abbr=on }} of altitude. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=-0.826111,45.909167 & z=15 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Confluence de la Boutonne |publisher=Géoportail |language=fr |access-date=29 May 2017 }} < /ref > 
+   
+ The Boutonne flows through 1 region ([[Nouvelle-Aquitaine]]), 2 departments and 41 ''communes''; they are, from [[Source (river or stream)|source]] to mouth: < ref name= " sandre "  / > 
+ 
+ * '''Deux-Sèvres''': [[Chef-Boutonne]] (here is the source of the river), [[Fontenille-Saint-Martin-d'Entraigues]], [[Chérigné]], [[Lusseray]], [[Brioux-sur-Boutonne]], [[Vernoux-sur-Boutonne]], [[Séligné]], [[Brieuil-sur-Chizé]], [[Villefollet]], [[Villiers-sur-Chizé]], [[Chizé]], [[Le Vert, Deux-Sèvres|Le Vert]] (the last ''commune'' of Deux-Sèvres in the course of the river). 
+ * '''Charente-Maritime''': [[Dampierre-sur-Boutonne]] (the first ''commune'' where the Boutonne gets into the department), [[Saint-Séverin-sur-Boutonne]], [[Coivert]], [[Blanzay-sur-Boutonne]], [[Saint-Georges-de-Longuepierre]], [[Saint-Martial, Charente-Maritime|Saint-Martial]], [[Saint-Pierre-de-l'Isle]], [[Nuaillé-sur-Boutonne]], [[Saint-Pardoult]], [[Les Églises-d'Argenteuil]], [[Antezant-la-Chapelle]], [[Vervant, Charente-Maritime|Vervant]], [[Poursay-Garnaud]], [[Courcelles, Charente-Maritime|Courcelles]], [[Saint-Julien-de-l'Escap]], [[Saint-Jean-d'Angély]] (main city in the course of the river), [[Ternant, Charente-Maritime|Ternant]], [[La Vergne, Charente-Maritime|La Vergne]], [[Voissay]], [[Torxé]], [[Les Nouillers]], [[Tonnay-Boutonne]], [[Puy-du-Lac]], [[Archingeay]], [[Saint-Coutant-le-Grand]], [[Champdolent]], [[Lussant]], [[Cabariot]] (place where the river flows into the Charente river). 
+ 
+ Seven ''communes'' have the name of the river in their names: [[Chef-Boutonne]], [[Saint-Séverin-sur-Boutonne]], [[Dampierre-sur-Boutonne]], [[Tonnay-Boutonne]], [[Blanzay-sur-Boutonne]], [[Nuaillé-sur-Boutonne]], [[Vernoux-sur-Boutonne]]. 
+ 
+ ==Main tributaries == 
+ The main [[Tributary|tributaries]] of the Boutonne river are: < ref name= " sandre "  / > 
+ 
+ {{col-begin|width=80%}} 
+ {{col-break|width=30%}} 
+ '''Left tributaries''': 
+ * Nie - 26 & nbsp;km 
+ {{col-break}} 
+ {{col-break|width=70%}} 
+ '''Right tributaries''': 
+ * Béronne - 29.5 & nbsp;km 
+ * Belle - 25 & nbsp;km 
+ * Trézence - 27.7 & nbsp;km, the main tributary of the Boutonne 
+ {{col-end}} 
+ 
+ ==Gallery== 
+ < center > 
+ < gallery widths=180px > 
+ File:Pont Boutonne 001.jpg|[[Bridge]] over the Boutonne in Bel-Ébat. 
+ File:Tonnay-Boutonne 001.jpg|Bridge in [[Tonnay-Boutonne]]. 
+ File:Pont sur la Boutonne à Dampierre-sur-Boutonne.JPG|The Boutonne flowing through [[Dampierre-sur-Boutonne]]. 
+ < /gallery > 
+ < /center > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Boutonne}} 
+ * [http://www.hydro.eaufrance.fr/selection.php Banque Hydro - Station R6092920 - La Boutonne à Saint-Séverin-sur-Boutonne] {{Webarchive|url=https://web.archive.org/web/20150219053605/http://www.hydro.eaufrance.fr/selection.php |date=2015-02-19 }} {{in lang|fr}} 
+ 
+ [[Category:Rivers of Nouvelle-Aquitaine]]

@@ -1,0 +1,74 @@
+{{chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 477316992 
+ |   Name = Aldrin 
+ |   ImageFile = Aldrin.svg 
+ |   ImageSize = 200px 
+ |   ImageName = Aldrin 
+ |   ImageFile1 = Aldrin-from-xtal-3D-balls.png 
+ |   IUPACName = 1,2,3,4,10,10-Hexachloro- < wbr / > 1,4,4a,5,8,8a-hexahydro- < wbr / > 1,4:5,8-dimethanonaphthalene 
+ |   OtherNames = HHDN < ref name=NIOSH/ > < br/ >  octalene < ref name=NIOSH/ > 
+ | Section1 = {{Chembox Identifiers 
+ |   InChI = 1/C12H8Cl6/c13-8-9(14)11(16)7-5-2-1-4(3-5)6(7)10(8,15)12(11,17)18/h1-2,4-7H,3H2/t4-,5+,6+,7-,10+,11- 
+ | InChIKey = QBYJBZPUGVGKQQ-SJJAEHHWBI 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C12H8Cl6/c13-8-9(14)11(16)7-5-2-1-4(3-5)6(7)10(8,15)12(11,17)18/h1-2,4-7H,3H2/t4-,5+,6+,7-,10+,11- 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = QBYJBZPUGVGKQQ-SJJAEHHWSA-N 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo = 309-00-2 
+ |   UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = OZE3CLY605 
+ | SMILES = ClC4(Cl)[C@@]2(Cl)C(/Cl)=C(/Cl)[C@]4(Cl)[C@@H]3[C@@H]\1C[C@@H](/C=C/1)[C@H]23 
+ |   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID=10292747 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = C07552 
+ | PubChem = 2087 
+ | EC_number = 206-215-8 
+ | RTECS = IO2100000 
+ | UNNumber = 2762, 2761 
+ | ChEBI = 2564 
+ | ChEMBL = 195953  
+   }} 
+ | Section2 = {{Chembox Properties 
+ |C=12|H=8|Cl=6 
+ |   Appearance = colorless solid 
+ |   MeltingPtC = 104 
+ |   VaporPressure = 7.5 × 10 < sup > −5 < /sup >  mmHg @ 20 & nbsp;°C 
+ |   Solubility = slightly soluble (0.003%) < ref name=NIOSH/ > 
+ |   Density = 1.60 g/mL < ref name=NIOSH/ > 
+   }} 
+ | Section7 = {{Chembox Hazards 
+ |   NFPA-H = 4 
+ |   NFPA-F = 0 
+ |   NFPA-R = 0 
+ |   FlashPtC = 66 
+ | GHSPictograms = {{GHS06}}{{GHS08}}{{GHS09}} 
+ | GHSSignalWord = Danger 
+ | HPhrases = {{H-phrases|300|301|301|310|311|351|372|400|410}} 
+ | PPhrases = {{P-phrases|201|202|260|262|264|270|273|280|281|301+310|302+350|302+352|308+313|310|312|314|321|322|330|361|363|391|405|501}} 
+ |   PEL = TWA 0.25 mg/m < sup > 3 < /sup >  [skin] < ref name=NIOSH > {{PGCH|0016}} < /ref > 
+ |   REL = Ca TWA 0.25 mg/m < sup > 3 < /sup >  [skin] < ref name=NIOSH/ > 
+ |   IDLH = 25 mg/m < sup > 3 < /sup > < ref name=NIOSH/ > 
+ |   MainHazards = potential occupational [[carcinogen]] < ref name=NIOSH/ >    
+ |   LD50 = 50 mg/kg (rabbit, oral) < br/ > 33 mg/kg (guinea pig, oral) < br/ > 39 mg/kg (rat, oral) < br/ > 44 mg/kg (mouse, oral) < ref name=IDLH > {{IDLH|309002|Aldrin}} < /ref > 
+ |   LCLo = 5.8 mg/m < sup > 3 < /sup >  (rat, 4 hr) < ref name=IDLH/ > 
+ }} 
+ }} 
+ '''Aldrin''' is an [[insecticide]], which was used against [[termite]]s, [[locust]]s and the [[larva]]e of [[Click beetle]]s. Most plants and animals convert it to [[Dieldrin]]. It is listed in the [[Stockholm Convention on Persistent Organic Pollutants]], its production, use and trade are banned since 2004. Aldrin is a [[neurotoxin]]. People inhaling it can develop [[headache]]s, but also [[seizure]]s. In humans, Aldrin is converted to dieldrin in the [[liver]]. The change will mean that it can leave the body again. The problem is that the change is slow, and the [[Half-life (element)|half-life]] is about a year. Aldrin may be a [[teratogen]], and it probably causes [[cancer]].  
+ ==Production== 
+ Aldrin is produced by combining [[hexachlorocyclopentadiene]] with [[norbornadiene]] in a [[Diels-Alder reaction]] to give the adduct. < ref name= " Tedder " > {{cite book |first=A. H. | last=Jubb |year=1975 
+   | title=Basic Organic Chemistry, Part 5 Industrial products |url=https://archive.org/details/trent_0116401244110 | publisher=Wiley 
+   | location=London | isbn=0-471-85014-4 }} < /ref > 
+ 
+ [[Image:AldrinSynthesis.svg|thumbnail|left|480px|Synthesis of Aldrin via a [[Diels-Alder reaction]]]]{{Clear|left}} 
+ Aldrin is named after the German chemist [[Kurt Alder]], one of the coinventors of this kind of reaction.  An estimated 270 million kilograms of aldrin and related cyclodiene pesticides were produced between 1946 and 1976. 
+ 
+ In soil, on plant surfaces, or in the digestive tracts of insects, aldrin oxidizes to the [[epoxide]], [[dieldrin]]. Dieldrin is more strongly insecticidal than aldrin. 
+ 
+ ==References== 
+ < references/ > 
+ 
+ [[Category:Organochlorides]] 
+ [[Category:Insecticides]]

@@ -1,0 +1,36 @@
+'''Cogeneration''' (also '''combined heat and power''', '''CHP''') is the use of a [[heat engine]] or a [[power station]] to make both [[electricity]] and useful [[heat]] at the same time. 
+ 
+ Conventional power plants [[Emission|emit]] the heat created as a byproduct of [[electricity generation]] into the environment through [[cooling tower]]s, as [[flue gas]], or by other means. Combined heat and power captures the [[waste heat]] for domestic or industrial [[heating]] purposes, either very close to the plant, or - especially in [[Scandinavia]] and eastern [[Europe]] - for distribution through pipes to [[district heating|heat local housing]]. Cogeneration is a [[thermodynamics|thermodynamically]] [[Energy efficiency|efficient]] use of [[fuel]].   
+ 
+ Byproduct heat at moderate temperatures (100 to 180[[°C]]) can also be used in [[Gas-absorption refrigerator|absorption chillers]] for cooling. A plant producing electricity, heat and cold is sometimes called '''[[regeneration]]''' or more generally: '''polygene ration''' plant. [[File:Masnedø power station.jpg|300px|thumb|right|[[Masnedø]] ''CHP'' power station in [[Denmark]]. This station burns straw as fuel. The plant heats adjacent greenhouses.]] 
+ 
+ Thermal power plants (including those that use [[uranium|fissile elements]] or burn [[coal]], [[petroleum]], or [[natural gas]]), and [[heat engine]]s in general, do not convert all of their available energy into electricity.  In most heat engines, a bit more than half is wasted as excess heat (see: [[Second law of thermodynamics]]). By capturing the excess heat, CHP uses heat that would be wasted in a conventional [[power plant]], potentially reaching an [[Energy efficiency|efficiency]] of up to 70%, compared with at most 40% for the conventional plants. Less fuel needs to be consumed to produce the same amount of useful energy.  Less pollution is produced for a given economic benefit. 
+ 
+ An exact match between the heat and electricity needs rarely exists. A CHP plant can either meet the need for heat (''heat driven operation'') or be run as a [[power plant]] with some use of its waste heat. 
+ 
+ CHP is most efficient when the heat can be used on site or very close to it.  Overall efficiency is reduced when the heat must be transported over longer distances.  This requires heavily insulated pipes, which are expensive and inefficient. Electricity can be transmitted along a comparatively simple [[wire]], and over much longer distances for the same energy loss. 
+ 
+ A car motor becomes a CHP plant in winter, when the heat is useful for warming the interior of the vehicle. This example scores the point that deployment of CHP depends on heat uses in the neighbourhood of the heat engine. 
+ 
+ Cogeneration plants are commonly found in district heating systems of big towns, [[Hospital|hospitals]], [[Prison|prisons]], [[Oil refinery|oil refineries]], [[Paper mill|paper mills]], [[wastewater]] treatment plants, thermal [[enhanced oil recovery]] wells and industrial plants with large heating needs.   
+ 
+ == Other websites == 
+ * [http://a257.g.akamaitech.net/7/257/2422/01jan20061800/edocket.access.gpo.gov/2006/E6-1096.htm Energy Policy Act of 2005 - sec. 1817  " Study of Cogeneration " ] 
+ * [http://www.mccree.com/airproducts.html www.mccree.com] {{Webarchive|url=https://web.archive.org/web/20070712182956/http://www.mccree.com/airproducts.html |date=2007-07-12 }} - Air Products and Chemicals Cogeneration Plant (Orlando, Florida) 
+ * [http://www.co-generationsystems.com/ www.co-generationsystems.com] - Industrial Co-generation Equipment Provider 
+ *[http://www.sequoien.com/chp.html Sequoien - Non-profit CHP] {{Webarchive|url=https://web.archive.org/web/20070710222918/http://www.sequoien.com/chp.html |date=2007-07-10 }} 
+ *  CHP in Finland: 
+ ** [http://www.opet-chp.net/download/wp3/iisalmifinland.pdf High cogeneration performance by innovative steam turbine for biomass-fired CHP plant in Iisalmi, Finland] {{Webarchive|url=https://web.archive.org/web/20110715113827/http://www.opet-chp.net/download/wp3/iisalmifinland.pdf |date=2011-07-15 }} (URL accessed on 30 March 2006) 
+ * UK micro CHP schemes: 
+ ** [http://www.defra.gov.uk/environment/energy/chp/index.htm www.defra.gov.uk, CHP] {{Webarchive|url=https://web.archive.org/web/20070617163350/http://www.defra.gov.uk/environment/energy/chp/index.htm |date=2007-06-17 }} 
+ ** BBC News: [http://news.bbc.co.uk/2/hi/programmes/working_lunch/3231549.stm Power from the people] 
+ ** [http://www.powergen.co.uk/At-Home/Products/Technology-And-Initiatives/WhisperGen.htm Powergen WhisperGen] 
+ ** [http://cogen.mit.edu/powermit/ M.I.T. algae reactor] {{Webarchive|url=https://web.archive.org/web/20080915201226/http://cogen.mit.edu/powermit/ |date=2008-09-15 }} 
+ ** [http://www.hoval.com/english/contents/presse/agrolyt_stirling.pdf Stirling/ Oven] {{Webarchive|url=https://web.archive.org/web/20050308043350/http://www.hoval.com/english/contents/presse/agrolyt_stirling.pdf |date=2005-03-08 }} 
+ * Associations: 
+ ** [http://www.uschpa.org/ U.S. Combined Heat and Power Association] 
+ ** [http://www.chpa.org/ CHP Association] 
+ ** [http://www.cogen.org/ COGEN Europe The European Association for the Promotion of Cogeneration] 
+ ** [http://www.localpower.org/ The World Alliance for Decentralized Energy] 
+ 
+ [[Category:Electricity]]

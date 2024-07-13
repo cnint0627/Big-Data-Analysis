@@ -1,0 +1,9 @@
+'''Tig''' is an application software that provides graphical user interface for [[Git]]. It mainly works as a repository browser for Git. < ref > {{cite web |title=How to use Tig to browse Git logs |url=https://opensource.com/article/19/6/what-tig |publisher=opensource.com}} < /ref >  It is an cross-platform application and is available under GNU V2 license. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * https://jonas.github.io/tig 
+ 
+ [[Category:Software]]

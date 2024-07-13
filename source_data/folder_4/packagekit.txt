@@ -1,0 +1,31 @@
+{{Infobox Software 
+ | name                   = PackageKit 
+ | logo                   =  
+ | screenshot             = Gnome-packagekit -- 2008, 08.png 
+ | caption                = A screenshot of PackageKit on [[Ubuntu]] 
+ | collapsible            =  
+ | author                 =  
+ | developer              = Richard Hughes 
+ | released               =  
+ | latest release version = 0.3.10 
+ | latest release date    = {{release date and age|2008|11|10}} 
+ | latest preview version =  
+ | latest preview date    =  
+ | frequently updated     =  
+ | programming language   =  
+ | operating system       = [[Linux]] 
+ | platform               =  
+ | size                   =  
+ | language               =  
+ | status                 =  
+ | genre                  = [[Package management system]] 
+ | license                = [[GNU General Public License|GPL]] 
+ | website                = [http://www.packagekit.org/ www.packagekit.org] 
+ }} 
+ 
+ '''PackageKit''' is a [[free software|free]] group of [[software application]]s designed to provide a consistent and high-level [[front end]] for a number of different [[package management system]]s. PackageKit was made by Richard Hughes. 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Free software]]

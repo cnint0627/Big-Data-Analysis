@@ -1,0 +1,24 @@
+[[File:Full length hammerhead ribozyme.png|thumb|upright|right|Structure of hammerhead ribozyme]] 
+ 
+ A '''ribozyme''' ('''ribo'''nucleic acid en'''zyme''') is an [[RNA]] molecule that can help certain [[biochemical]] reactions. similar to the action of protein [[enzymes]].  
+ 
+ Also called ''catalytic RNA'', ribozymes  work in the [[ribosome]] to link [[amino acid]]s during [[Translation (genetics)|protein synthesis]]. They also take part in [[RNA splicing]], [[viral]] [[replication]], and [[transfer RNA]] biosynthesis.  
+ 
+ The 1981 discovery of ribozymes showed RNA can be both genetic material (like [[DNA]]) and a biological [[catalysis|catalyst]] (like enzymes). This led to the [[RNA world hypothesis]], in which RNA acts in the evolution of prebiotic self-replicating systems.  
+ 
+ Investigators studying the [[origin of life]] have produced ribozymes in the [[laboratory]] that can catalyze their own [[synthesis]] under certain conditions, such as an [[RNA polymerase]] ribozyme. < ref name= " pmid11358999 " > {{cite journal | author = Johnston W.K. ''et al'' 2001 | title = RNA-catalyzed RNA polymerization: accurate and general RNA-templated primer extension | journal = Science | year = 2001 | volume = 292 | issue = 5520 | pages = 1319–1325 | pmid = 11358999 | doi = 10.1126/science.1060786 | url = |bibcode = 2001Sci...292.1319J | s2cid = 14174984 }} < /ref >  Improved variants of the  " Round-18 "  polymerase ribozyme have been developed.  " B6.61 "  is able to add up to 20 [[nucleotides]] to a primer template in 24 hours, until it decomposes by cleavage of its phosphodiester bonds. < ref name= " pmid17586759 " > {{cite journal | author = Zaher H.S.  &  Unrau P.J. 2007 | title = Selection of an improved RNA polymerase ribozyme with superior extension and fidelity | journal = RNA | year = 2007 | volume = 13 | issue = 7 | pages = 1017–1026  | pmid = 17586759 | pmc = 1894930 | doi = 10.1261/rna.548807 | url =  }} < /ref >  The  " tC19Z "  ribozyme can add up to 95 nucleotides with great accuracy. < ref name= " pmid21474753 " > {{cite journal |author=Wochner A. ''et al'' 2011 |title=Ribozyme-catalyzed transcription of an active ribozyme |journal=Science |year=2011 |volume=332 |issue=6026 |pages=209–212|pmid=21474753 |doi=10.1126/science.1200752 |url=|bibcode = 2011Sci...332..209W |s2cid=39990861 }} < /ref > 
+ 
+ Some ribozymes may play an important role as [[therapeutic]] agents, as enzymes which target defined RNA sequences for cleavage, as [[biosensor]]s, and for applications in [[genomics]] and gene discovery. < ref name= " Hean " > {{cite book | author =  Hean J.  &  Weinberg M.S. 2008 | editor = Morris KL | title = RNA and the regulation of gene expression: a hidden layer of complexity  | publisher = Caister Academic Press | location = Norfolk | isbn = 978-1-904455-25-7 | chapter=The hammerhead ribozyme revisited: new biological insights for the development of therapeutic agents and for reverse genomics applications | year = 2008 | chapter-url = http://www.horizonpress.com/rnareg}} < /ref > 
+ 
+ == History == 
+ In 1967, [[Carl Woese]], [[Francis Crick]], and [[Leslie Orgel]] suggested that RNA could act as a catalyst. It was discovered that RNA can form complex [[Protein structure#Secondary structure|secondary structures]]. < ref > Woese, Carl 1967. ''The genetic code''. New York: Harper and Row. < /ref > 
+ 
+ The first ribozymes were discovered in the 1980s. In 1989, [[Thomas Cech]] and [[Sidney Altman]] won the [[Nobel Prize in Chemistry]] for their  " discovery of catalytic properties of RNA " . < ref > [http://nobelprize.org/chemistry/laureates/1989/ The Nobel Prize in Chemistry 1989] was awarded to [[Thomas R. Cech]] and [[Sidney Altman]]  " for their discovery of catalytic properties of RNA " . < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ 
+ [[Category:RNA]] 
+ [[Category:Enzymes]]

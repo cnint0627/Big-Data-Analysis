@@ -1,0 +1,36 @@
+'''Amorphea''' < ref > {{Cite journal|last1=Adl|first1=Sina M.|last2=Simpson|first2=Alastair. G.|last3=Lane|first3=Christopher E.|last4=Lukeš|first4=Julius|last5=Bass|first5=David|last6=Bowser|first6=Samuel S.|last7=Brown|first7=Matt|last8=Burki|first8=Fabien|last9=Dunthorn|first9=Micah|last10=Hampl|first10=Vladimir|last11=Heiss|first11=Aaron|date=September 2012|title=The revised classification of eukaryotes|journal=The Journal of Eukaryotic Microbiology|volume=59|issue=5|pages=429–493|doi=10.1111/j.1550-7408.2012.00644.x|issn=1066-5234|pmc=3483872|pmid=23020233}} < /ref >  are part of a [[Taxonomy|taxonomic]] large group that contains [[Protist|protists]], like [[Amoebozoa]] and [[Obazoa]]. The ISP, or the International Society of Protistologists (people who study protists) suggested in 2012 that the back term for this large group, Unikont, be changed to Amorphea since the name  " Unikont "  is a [[synapomorphy]] that was shown wrong.  
+ 
+ == Taxonomic revisions in this group == 
+ Thomas Cavalier-Smith has offered two new [[Phylum|phyla]]: Sulcozoa, which consists of the subphyla Diphyllatea, Discocelida, Mantamonadidae, Planomonadida and Rigifilida. < ref > {{Cite journal|last=Cavalier-Smith|first=Thomas|date=2013-05-01|title=Early evolution of eukaryote feeding modes, cell structural diversity, and classification of the protozoan phyla Loukozoa, Sulcozoa, and Choanozoa|url=https://www.sciencedirect.com/science/article/pii/S0932473912000508|journal=European Journal of Protistology|language=en|volume=49|issue=2|pages=115–178|doi=10.1016/j.ejop.2012.06.001|pmid=23085100 |issn=0932-4739}} < /ref >  The effectiveness of this offered taxonomy has yet to be ruled on by the ISP. 
+ 
+ More work by Cavalier-Smith has exhibited that Sulcozoa is [[paraphyletic]]. < ref > {{Cite journal|last1=Cavalier-Smith|first1=Thomas|last2=Chao|first2=Ema E.|last3=Snell|first3=Elizabeth A.|last4=Berney|first4=Cédric|last5=Fiore-Donno|first5=Anna Maria|last6=Lewis|first6=Rhodri|date=2014-12-01|title=Multigene eukaryote phylogeny reveals the likely protozoan ancestors of opisthokonts (animals, fungi, choanozoans) and Amoebozoa|url=https://www.sciencedirect.com/science/article/pii/S1055790314002796|journal=Molecular Phylogenetics and Evolution|language=en|volume=81|pages=71–85|doi=10.1016/j.ympev.2014.08.012|pmid=25152275 |issn=1055-7903}} < /ref >  Apusozoa also looks like it is paraphyletic. Varisulca now includes planomonads, Mantamonas and Collodictyon. 
+ ==Clade== 
+ {{Clade 
+ |label1=[[Eukaryota]] 
+ |1={{Clade 
+    |label1=Bikonts 
+    |1={{Clade 
+       |1=[[Diaphoretickes]][[File:Aulacanthas_01.jpg|60 px]] 
+       |2=[[Excavata]][[File:Giardia_lamblia_SEM_8698_lores.jpg|60 px]] 
+    }}  
+    |label3=[[Unikonta]] 
+    |3={{Clade 
+       |1=[[Malawimonada]][[File:Malawimonas.jpg|60 px]] 
+       |2={{Clade 
+          |1=[[Ancyromonada]][[File:Ancyromonas.png|60 px]] 
+          |2={{Clade 
+             |1=[[CRuMs]][[File:Collodictyon_pseudopodoa_(extracted).jpg|60 px]] 
+             |label2='''Amorphea''' 
+             |2={{Clade 
+                |1=[[Amoebozoa]][[File:Amoeba_proteus_with_many_pseudopodia.jpg|60 px]] 
+                |2=[[Obazoa]]/Crown-group amorphea[[File:Cronoflagelado2.jpg|60 px]] 
+             }} 
+          }} 
+       }} 
+    }} 
+ }} 
+ }} 
+ 
+ ==References== 
+ {{reflist}} 
+ [[Category:Eukaryotes]]

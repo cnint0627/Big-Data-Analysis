@@ -1,0 +1,21 @@
+{{complex|date=April 2012}} 
+ {{wiktionary|event}} 
+ An '''event''' is something which happens or takes place. An event is brief, possibly extremely brief. Contrast with a [[process]], which takes time.  
+ 
+ *Alternate meaning: an important activity, an item in a program, or the program as a whole. 
+ 
+ ==Culture== 
+ * A special occasion, such as a wedding or other party, is a [[social]] event. 
+ 
+ == Science == 
+ * In [[physics]] (and in some kinds of [[philosophy]]), an event occurs at a point in [[time]] which can be distinguished because the [[state (disambiguation)|state]] of the world changed.  Something was different before and after the event.  < !-- Simplified out: Physics also speaks of [[event horizon]]s and [[simultaneity]]. In Physics and in Science in general, an event may be contrasted with a [[process]], which occurs across intervals, not just at a point on a timeline. An action or relationship may be misunderstood when viewed as an event or single point of focus. Instead, it may help to view it as part of an integrated process. -- > 
+ * In [[special relativity]] (and [[general relativity]]), an event is a point in the [[spacetime]] continuum, i.e. it has a position in [[Space (physics)|space]] and [[time]]. 
+ * In experimental [[particle physics]], an [[event (particle physics)|event]] refers to a set of [[elementary particle]] interactions recorded in a brief span of time. 
+ * In [[probability]] a possible outcome of an experiment is called an [[elementary event]], while a set of those (a subset of all) is called simply an event. (''See [[event (probability theory)]].'') 
+ * In [[palaeontology]], one speaks of [[List of extinction events|extinction events]]. 
+ 
+ == Telecommunications == 
+ * In [[information processing]], an event is a change in the [[property|properties]] received by an [[observer]] after being transmitted from an [[wikt:object|object]]. 
+ * In [[computer science]], an event is a software message that indicates something has happened. See [[event-driven programming]]. A number of protocols, such as [[MIDI]], are also event-based. 
+ 
+ {{disambig}}

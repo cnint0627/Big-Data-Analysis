@@ -1,0 +1,49 @@
+[[Image:Superscalarpipeline.png|thumb|220x220px|right|A simple superscalar pipeline. Up to two instructions can be completed in each cycle by fetching and executing two instructions at once.]] 
+ 
+ [[Image:Processor board cray-2 hg.jpg|thumb|[[Motherboard|Processor board]] of a [[Cray T3E|CRAY T3e]] parallel computer with four ''superscalar'' [[DEC Alpha|Alpha]] processors]] 
+ 
+ '''Superscalar''' technology supports basic [[parallel computing]] (specifically, [[instruction level parallelism|instruction-level parallelism]]) on one [[CPU]] (processor), which allows more than one [[Instruction (computer science)|instruction]] in each [[Clock rate|clock cycle]] by using more than one [[execution unit]] at the same time. 
+ 
+ Superscalar processors are often [[Instruction pipelining|pipelined]] as well, but that's a different technology that allows more than one instruction at once in each execution unit, rather than using multiple execution units at once. 
+ 
+ Superscalar technology usually involves: 
+ * Instructions coming into the processor in order. 
+ * The processor looking for [[Data dependency|data dependencies]] while it runs. 
+ * Loading more than one instruction in each clock cycle 
+ 
+ The simplest processors are scalar processors. On a [[scalar processor]], instructions usually work with one or two data items at once. On a [[vector processor]], instructions usually work with many data items at once. A superscalar processor is a mix of a scalar process and a vector processor: each instruction processes one data item, but more than one instruction runs at once, so many data items are handled at once by the processor. 
+ 
+ In a superscalar processor, it's very important to have an accurate '''[[Out-of-order execution|instruction dispatcher]]''', so that the execution units are always busy with work that probably will be needed. If the instruction dispatcher isn't accurate, the processor will have to throw away some work and might not be any faster than a scalar processor. In 2008, all normal CPUs were superscalar, and could have up to 4 [[Arithmetic logic unit|ALUs]], 2 [[Floating point unit|FPUs]], and 2 [[SIMD]] units. 
+ 
+ ==Limitations== 
+ The [[Energy efficiency|efficiency]] of superscalar [[design]] is limited by three things:  
+ # How much [[Instruction level parallelism|parallelism]] is in the [[Computer program|instruction list]] 
+ # How long the dispatcher takes to check dependencies and how long [[register renaming]] takes 
+ # The branch instruction processing 
+ Existing programs have different levels of parallelism. In some cases, instructions are not dependent on each other and can be executed at the same time. In other cases, they are '''interdependent''': one instruction affects another. The instructions  < code > a = b + c; d = e + f < /code >  can be run in parallel because none of the results depend on other results, but the instructions  < code > a = b + c; b = e + f < /code >  will probably have to be run in a specific order because  < code > a < /code >  depends on  < code > b < /code > . 
+ 
+ Although there might not be any interdependent instructions in the list, a superscalar processor still has to check for them, because there's no way to be sure there aren't any unless it checks, and if a dependency is missed the results will be wrong. No matter how fast the processor is, this limits how many instructions can be run at the same time. Checking for dependencies gets harder and harder, even while improvements in [[Computer hardware|hardware]] manufacturing allow for more execution units in each CPU core. 
+ 
+ ==Alternatives== 
+ * '''[[Simultaneous multithreading]]''': often written as  " SMT " , this is a [[technique]] for improving the total speed of superscalar processors. SMT allows many independent [[Thread (computer science)|threads]] of execution, to make better use of the resources available inside a modern superscalar processor. 
+ * '''[[Multi-core processor]]s''': a multi-core CPU has many [[processor]]s that each have their own instruction lists, rather than just many execution units. 
+ * '''[[Instruction pipelining|Pipelined processors]]''': a pipelined CPU supports multiple instructions at different stages of execution inside each execution unit. 
+ 
+ All of these techniques can be (and often are) combined in a single CPU, so it is possible to have a multicore CPU is where each core is an independent processor with many parallel superscalar [[Instruction pipelining|pipelines]]. Some multicore processors also include [[vector processor|vector]] capability. 
+ 
+ ==Related pages== 
+ * [[Parallel computing]] 
+ * [[Instruction level parallelism|Instruction-level parallelism]] 
+ * [[Simultaneous multithreading]] (SMT) 
+ * [[Multi-core|Multi-core processors]] 
+ 
+ ==References== 
+ * [[William Michael (Mike) Johnson (technologist)|Mike Johnson]], ''Superscalar Microprocessor Design'', Prentice-Hall, 1991, {{ISBN|0-13-875634-1}} 
+ * Sorin Cotofana, Stamatis Vassiliadis,  " On the Design Complexity of the Issue Logic of Superscalar Machines " , [[EUROMICRO]] 1998: 10277-10284 
+ * [[Steven McGeady]],  " The i960CA SuperScalar Implementation of the 80960 Architecture " , IEEE 1990, pp. & nbsp;232–240 
+ * [[Steven McGeady]], et al.,  " Performance Enhancements in the Superscalar i960MM Embedded Microprocessor, "  ''ACM Proceedings of the 1991 Conference on Computer Architecture (Compcon)'', 1991, pp. & nbsp;4–7 
+ 
+ ==Other websites== 
+ * [http://www.cs.clemson.edu/~mark/eager.html School of Computing, Clemson University] 
+ 
+ [[Category:Computer architecture]]

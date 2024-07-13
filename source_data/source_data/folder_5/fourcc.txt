@@ -1,0 +1,9 @@
+{{Orphan|date=December 2010}} 
+ '''FourCC''' (Four Character Code, 4CC) is identifier of length of four bytes used to identify type of [[data format]] (e.g. [[video]] [[codec]] used in [[AVI]] [[multimedia container]]). 
+ 
+ The same video format can be (in dependency to used codec) denoted by several different FourCC codes. Even there is no exception to the rule to use more FourCC codes for that format by same codec. For example, some different [[DivX]] codec versions denote [[MPEG-4 ASP]] format by  < code > DIVX < /code >  and  < code > DX50 < /code >  codes. Therefore, selection of this code depends on used codec and thus on used multimedia framework. 
+ 
+ == Other websites == 
+ * [http://www.fourcc.org FourCC.org] – FourCC codes for video codecs and uncompressed formats 
+ 
+ [[Category:Computer file formats]]

@@ -1,0 +1,55 @@
+[[File:Meissner effect p1390048.jpg|thumb|A [[magnet]] levitating above a high-temperature superconductor, cooled with [[liquid nitrogen]]. Persistent electric current flows on the surface of the superconductor. This excludes the magnetic field of the magnet ([[Faraday's law of induction]]). In effect, the current forms an electromagnet that repels the magnet]] 
+ 
+ A '''superconductor''' is a substance that conducts [[electricity]] without [[electrical resistance|resistance]] when it becomes colder than a  " critical temperature. "  At this temperature, electrons can move freely through the material. Superconductors are different from ordinary conductors, such as copper. Ordinary conductors lose their resistance (get more conductive) slowly as they get colder. In contrast, superconductors lose their resistance all at once. This is an example of a [[phase transition]]. High magnetic fields destroy superconductivity and restore the normal conducting state. Some examples of superconductors are the metals [[Mercury (element)|mercury]] and [[lead]], [[ceramic]]s and organic [[carbon nanotube]]s. 
+ 
+ Normally, a magnet moving by a conductor produces currents in the conductor by [[electromagnetic induction]]. But a superconductor actually pushes out magnetic fields entirely by inducing surface currents. Instead of letting the magnetic field pass through, the superconductor acts like a magnet pointing the opposite way, which repels the real magnet. This is called the [[Meissner effect]], and it can be demonstrated by levitating a superconductor over magnets or vice versa. 
+ 
+ == Explanation == 
+ Physicists explain superconductivity by describing what happens when [[temperature]]s get cold. The thermal energy in a solid or liquid shakes the atoms so they randomly vibrate, but this gets less as the temperature drops. [[Electron]]s carry the same negative electric charge which makes them repel each other. At higher temperatures each electron behaves as if it were a free particle. There is also however a very weak attraction between electrons when they are in a solid or liquid. At rather large distances ( many hundreds of [[Nanometre|nanometers]] apart) and low temperatures (near [[absolute zero]]), the attractive effect and lack of thermal energy allows pairs of electrons to hang together. This is called a [[cooper pair]] and it is a [[quasiparticle]], that is it acts as if it were a new kind of particle in its own right even though it is made up of two fundamental electrons. 
+ 
+ Many overlapping cooper pairs can exist in the same nanometer sized space. Since paired electrons constitute a [[boson]] the motions of all of the cooper pairs within a single superconductor synchronize and they function as if they are a single entity. Small disturbances such as scattering of electrons are forbidden in this state, and it moves as one, showing no resistance to its motion. Thus, it is now a superconductor. 
+ 
+ == History of superconductors == 
+ {| class= " wikitable " 
+ |+ 
+ !1911 
+ |superconductivity discovered by Heike Kamerlingh Onnes 
+ | 
+ |- 
+ !1933 
+ |the Meissner effect discovered by Walter Meissner and Robert Ochsenfeld 
+ | 
+ |- 
+ !1957 
+ |theoretical explanation for superconductivity put forward by John Bardeen, Leon Cooper, and John Schrieffer (BCS theory) 
+ | 
+ |- 
+ !1962 
+ |the tunneling of superconducting Cooper pairs through insulating barrier predicted 
+ | 
+ |- 
+ !1986 
+ |A ceramic superconductor was discovered by Alex Müller and Georg Bednorz. Ceramics are normally insulators. A lanthanum, barium, copper and oxygen compound with a critical temperature of 30K. Opened up the possibilities for new superconductors. 
+ | 
+ |- 
+ !2020 
+ |Superconductor discovered that functions at room temperature < ref > {{Cite web|last1=ServiceOct. 14|first1=Robert F.|last2=2020|last3=Am|first3=11:00|date=2020-10-14|title=After decades, room temperature superconductivity achieved|url=https://www.sciencemag.org/news/2020/10/after-decades-room-temperature-superconductivity-achieved|access-date=2020-10-16|website=Science {{!}} AAAS|language=en}} < /ref > 
+ | 
+ |} 
+ 
+ == Applications == 
+ * Superconducting quantum interference device (SQUID) 
+ * Powerful magnets 
+ ** Particle accelerators 
+ ** Small particle accelerators in health 
+ ** Levitating trains 
+ ** Nuclear fusion 
+ ** MRI Scanner 
+ 
+ ==References== 
+ < references / > 
+ 
+ {{States of matter}} 
+ 
+ [[Category:Electronics]] 
+ [[Category:Magnetism]]

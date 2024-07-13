@@ -1,0 +1,58 @@
+{{update}} 
+ {{lowercase|title=openSUSE}} 
+ {{Infobox OS 
+ | name                   = openSUSE Linux 
+ | logo                   = OpenSUSE Logo.svg 
+ | screenshot             = OpenSUSE 15.1 KDE default.png 
+ | caption                = openSUSE 15.2 with [[KDE Plasma 5]] 
+ | website                = [http://www.opensuse.org www.opensuse.org] 
+ | developer              = [[openSUSE Project]] 
+ | family                 = [[Unix-like]] (based on [[SUSE Linux]])  
+ | source_model           = [[Open source]] 
+ | released               = {{release date|2006|12}} 
+ | latest_release_version = 15.1 
+ | latest_release_date    = {{release date|2019|05|22}} 
+ | marketing_target       = Consumer, Small Business, Development, Developers 
+ | language               = English, German, Russian, Italian, many others < ref > [http://software.opensuse.org/122/en software.opensuse.org: Download openSUSE 12.2 < !-- Bot generated title -- > ] < /ref > 
+ | kernel_type            = [[Monolithic kernel|Monolithic]] ([[Linux kernel|Linux]]) 
+ | ui                     = [[KDE Plasma 5]] < ref > 
+ {{cite news| title = openSUSE community konfesses love for KDE, makes it default| author = Ryan Paul| url = https://arstechnica.com/open-source/news/2009/08/opensuse-community-konfesses-love-for-kde-makes-it-default.ars| agency = Ars technica| publisher = Condé Nast Digital| date = 2009-08-21}} < /ref > 
+ | license                = [[Free software]] licenses < br > (mainly [[GPL]]) 
+ | working_state          = Current 
+ | supported_platforms    = [[IA-32]], [[x86-64]] 
+ | updatemodel            = [[ZYpp]] ([[YaST]]) 
+ | package_manager        = [[RPM Package Manager]] 
+ }} 
+ '''openSUSE''' ({{pronEng|ˌoʊpɛnˈsuːzə}}) is a community project, sponsored by Novell and AMD, < ref > {{cite web|title=Sponsors/AMD|url=http://en.opensuse.org/Sponsors/AMD|publisher=opensuse.org|accessdate=2008-03-17|archive-date=2008-06-04|archive-url=https://web.archive.org/web/20080604153124/http://en.opensuse.org/Sponsors/AMD|url-status=dead}} < /ref >  to develop and maintain a general purpose [[Linux distribution]]. After taking over [[SUSE Linux]] in January 2004, < ref > {{cite web | url=http://www.novell.com/news/press/item.jsp?id=24 & locale=en_US | title=Novell Completes Acquisition of SUSE LINUX | date=January 13, 2004 | work=Novell Press Release | accessdate=2006-01-13}} < /ref >  Novell decided to release the SUSE Linux Professional product as a 100% open source project, involving the community in the development process. < ref > {{cite web | url=http://os.newsforge.com/os/05/08/03/1246236.shtml | title=Novell frees SUSE Professional under new branding | author=Tina Gasperson | date=August 3, 2005 | work=NewsForge | accessdate=2006-01-13 | archive-date=2005-08-09 | archive-url=https://web.archive.org/web/20050809014039/http://os.newsforge.com/os/05/08/03/1246236.shtml | url-status=dead }} < /ref >   The initial release was a beta version of SUSE Linux 10.0, and as of January 2016 the current stable release is openSUSE Leap 42.1 < ref > {{cite web 
+  | url = https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/ 
+  | title = Release Notes  & #124; openSUSE Leap 42.1 
+  | date = 2016-01-07 
+  | website = openSUSE Release Notes 
+  | publisher = openSUSE 
+  | accessdate = 2016-01-23 
+  | archive-date = 2016-03-29 
+  | archive-url = https://web.archive.org/web/20160329132836/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/ 
+  | url-status = dead 
+  }} < /ref > 
+ 
+ == System requirements == 
+ 
+ OpenSUSE 11.1 has full support for [[32-bit]] i586 and [[64-bit]] x86-64 [[Personal computer|PC]] hardware, as well as [[PowerPC]] (PPC) processors. The basic requirements for non-PPC hardware is as follows: < ref > [http://www.novell.com/products/opensuse/sysreqs.html OpenSUSE 11.1: Hardware Requirements] < /ref > 
+ 
+ * CPU: Intel—Pentium 1-4 or Xeon; AMD—Duron, Athlon, Athlon XP, Athlon MP, Athlon 64, Sempron or Opteron 
+ * RAM: 256 MB minimum, 512 MB recommended, upper limit of 64 GB on 32-bit version 
+ * Hard drive: 500 MB for minimal system; 3 GB recommended for standard system 
+ 
+ Older processors that still belong to the i586 family can be used, for example the [[AMD K6|AMD K6/2]]. When extra language/translation files and documentation are removed and X is not needed, decent console-based router systems can be made using 300 MB disk space. Most console workloads also cope with 128 MB of RAM at the cost of increased swap activity in tight situations. 
+ 
+ ==Package== 
+ OpenSUSE's official software package repository < ref > ArchLinux.org, [https://wiki.archlinux.org/index.php/Official_Repositories   " Official repositories, " ] excerpt,  " A software repository is a storage location from which software packages may be retrieved and installed on a computer " ; retrieved 2012-6-7. < /ref >  includes, for example, [[UNetbootin]]. < ref > openSUSE, [http://software.opensuse.org/package/unetbootin?search_term=unetbootin  Package unetbootin] {{Webarchive|url=https://web.archive.org/web/20140212234902/http://software.opensuse.org/package/unetbootin?search_term=unetbootin |date=2014-02-12 }}; retrieved 2012-6-7. < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux distributions]] 
+ [[Category:X86-64 Linux distributions]]

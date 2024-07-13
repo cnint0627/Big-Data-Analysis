@@ -1,0 +1,7 @@
+'''Bersirc''' is an [[IRC]] client that is written in [[C (programming language)|C]]. It was first made in [[1999]]. The newest, or latest, version of Bersirc is 2.2.14 and was made in [[2005]]. The client is free to use. Bersirc is [[software license|licensed]] under the [[LGPL]]. 
+ 
+ ==Related pages== 
+ *[[List of IRC clients]] 
+ 
+ {{Tech-stub}} 
+ [[Category:IRC clients]]

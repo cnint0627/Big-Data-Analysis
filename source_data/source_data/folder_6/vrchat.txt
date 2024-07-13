@@ -1,0 +1,39 @@
+{{Infobox video game 
+ | title = VRChat 
+ | image = Vrchatlogo.png 
+ | developer = VRChat Inc. 
+ | publisher = VRChat Inc. 
+ | platforms = SteamVR, Vive, Rift, Oculus/Meta Quest, Windows 
+ | released = January 16, 2014 
+ | genre = MMO 
+ | modes = Single-player, multiplayer 
+ }} 
+ 
+ '''VRChat''' is a [[virtual reality]] online game created for Meta, Rift, PCVR, and SteamVR headsets by Graham Gaylor. < ref > {{Cite web|title=Graham Gaylor|url=https://www.forbes.com/profile/graham-gaylor/|access-date=2023-01-06|website=Forbes|language=en}} < /ref >  VRChat was released in beta on [[Oculus]] (now [[Meta Platforms|Meta]]) Rift headsets on January 16, 2014. The game was fully released for free early access on February 1, 2017 on [[Steam (service)|Steam]]. 
+ 
+ == History == 
+ VRChat started off in beta for a prototype Oculus Rift headset. As the beta was developed and turned into early access it allowed for more platforms such as the Meta Quest headsets. 
+ 
+ === Trust Ranks === 
+ VRChat allows users to earn trust ranks by spending time on the game, making friends, and making content. You start off as a Visitor when you make a new account but if you merge your account on the website you become a New User. Once you make a few friends you'll become a User. After a while spent making more friends or content, you can become a Known User or you can purchase the VRChat Plus subscription and get an automatic rank boost. Once you've been on VRChat for a while you can become a Trusted User. < ref > {{Cite web|title=How to View Your Rank in VRChat|url=https://www.alphr.com/ga/|access-date=2023-01-06|website=Alphr|language=en-US}} < /ref > 
+ 
+ === Content Building === 
+ VRChat lets its users create content for the game such as avatars or worlds. Using software like [[Unity (game engine)|Unity]] or [[Blender (program)|Blender]] you can make your own worlds and avatars. < ref > {{Cite web|title=How to Create a World in VRChat|url=https://www.alphr.com/make-world-vrchat/|access-date=2023-01-06|website=Alphr|language=en-US}} < /ref >  Recently to help with organization, VRChat added a Creator Companion which lets users add packages and sort their projects. VRChat is known for its many of popular worlds such as The Black Cat, Murder 4, etc. < ref > {{Cite news|last=Faber|first=Tom|date=2022-12-27|title=Finding Community, and Freedom, on the Virtual Dance Floor|language=en-US|work=The New York Times|url=https://www.nytimes.com/2022/12/27/arts/music/vrchat-virtual-reality-clubbing.html|access-date=2023-01-06|issn=0362-4331}} < /ref > 
+ 
+ === Body Tracking === 
+ Using third party software VRChat allows PCVR players to use Full-Body Tracking which makes avatars that support it use all of its body parts. < ref > {{Cite web|date=2022-12-02|title=Vive Trackers Experiments - Part 2: Setup, Props, and Full Body Virtual Reality|url=https://skarredghost.com/2022/12/02/vive-trackers-full-body-vrchat-2/|access-date=2023-01-06|website=The Ghost Howls|language=en-US}} < /ref >  On October 27, 2022, VRChat released hand tracking on Meta Quest 2 and Meta Quest Pro headsets. Using the front cameras on the Quest 2 and Quest Pro, it tracks your hands and fingers and utilizes them on avatars that support them and can replace the controllers. < ref > {{Cite web|last=Melnick|first=Kyle|date=2022-10-27|title=VRChat Unveils Hand Tracking For Quest 2  &  Quest Pro|url=https://vrscout.com/news/vrchat-unveils-hand-tracking-for-quest-2-quest-pro/|access-date=2023-01-06|website=VRScout|language=en-US}} < /ref > 
+ 
+ === VRChat Plus === 
+ VRChat allows users to purchase a subscription called VRChat Plus (VRC+) which lets users invite other users using custom pictures, have profile pictures and icons by their username, and recently allowed users who have the subscription to make groups, and gives you a higher trust rank or rank boost. < ref > {{Cite web|last=Baker|first=Harry|date=2020-12-04|title=VRChat Plus, Paid Subscription Option, Now Available On Steam|url=https://uploadvr.com/vrchat-plus-subscription-steam/|access-date=2023-01-06|language=en-US}} < /ref >  You can purchase a month or a year non-renewable subscription for other users but you can only purchase a cancellable renewing month for yourself. 
+ 
+ == Reception == 
+ Easy Anti-Cheat (EAC) was added on July 25, 2022 to combat [[Malicious software|malicious]] mods on PCVR. However, mods such as Avatar Search were also banned. EAC caused many performance issues to VRChat as some mods that helped with performance on PC and banned lots of other non-malicious mods. < ref > {{Cite web|last=Chawake|first=Anurag|date=2022-07-27|title=VRChat Easy Anti-Cheat (EAC) security update frustrating many|url=https://piunikaweb.com/2022/07/27/vrchat-easy-anti-cheat-eac-security-update-making-many-angry/|access-date=2023-01-06|website=PiunikaWeb|language=en-US}} < /ref > 
+ 
+ == References == 
+ < references / > 
+ 
+ [[Category:2014 video games]] 
+ [[Category:Online games]] 
+ [[Category:Virtual reality]] 
+ [[Category:Windows games]] 
+ [[Category:Indie video games]]

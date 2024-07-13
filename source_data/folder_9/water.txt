@@ -1,0 +1,196 @@
+{{for|water in its [[solid|solid state]]|ice}}{{for|water in its [[gas]] state|water vapour}} 
+ {{chembox|verifiedrevid=477162647|Name=Water ({{chem|H|2|O}})|ImageFile1=H2O 2D labelled.svg|ImageSize1=150px|ImageName1=The water molecule has this basic geometric structure|ImageFileL1=Water-3D-balls.png|ImageSizeL1=100px|ImageNameL1=Ball-and-stick model of a water molecule|ImageFileR1=Water molecule 3D.svg|ImageSizeR1=100px|ImageNameR1=Space filling model of a water molecule|ImageFile2=2006-02-13 Drop before impact.jpg|ImageSize2=264px|ImageName2=A drop of water falling towards water in a glass|IUPACName=water, oxidane|OtherNames=Hydrogen hydroxide (HH or HOH), hydrogen oxide, dihydrogen monoxide (DHMO) (systematic name < ref > {{cite web |title=naming molecular compounds |url=http://www.iun.edu/~cpanhd/C101webnotes/chemical-nomenclature/bimolcmpds.html |website=www.iun.edu |accessdate=1 October 2018 |quote=Sometimes these compounds have generic or common names (e.g., H2O is  " water " ) and they also have systematic names (e.g., H2O, dihydrogen monoxide). |archive-date=24 September 2018 |archive-url=https://web.archive.org/web/20180924023206/http://www.iun.edu/~cpanhd/C101webnotes/chemical-nomenclature/bimolcmpds.html |url-status=dead }} < /ref > ), hydrogen monoxide, dihydrogen oxide, hydric acid, hydrohydroxic acid, hydroxic acid, hydrol, < ref > {{cite web| url = http://www.merriam-webster.com/dictionary/hydrol|title =  Definition of Hydrol|publisher= Merriam-Webster|url-access=subscription }} < /ref >  μ-oxido dihydrogen, κ < sup > 1 < /sup > -hydroxyl hydrogen(0)|data page pagename=Water (data page)|Section1={{Chembox Identifiers 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 1098659 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/H2O/h1H2 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = XLYOFNOQVPJJNP-UHFFFAOYSA-N 
+ | SMILES = O 
+ | CASNo = 7732-18-5 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 962 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 937 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 15377 
+ | RTECS = ZC0110000 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 059QF0KO0R 
+ | Gmelin = 117 
+ | Beilstein = 3587155 
+ }}|Section2={{Chembox Properties 
+ | Formula = {{chem| H|2|O}} 
+ | MolarMass = 18.01528(33) g/mol 
+ | Odor = None 
+ | Appearance = White crystal-like solid, almost colorless liquid with a hint of blue, colorless gas 
+ | Density = Liquid:{{sfn|Riddick|1970|loc= Table of Physical Properties, Water 0b. pg 67-8}} < br > 0.9998396 & nbsp;g/mL at 0 & nbsp;°C < br > 0.9970474 & nbsp;g/mL at 25 & nbsp;°C < br > 0.961893 & nbsp;g/mL at 95 & nbsp;°C < br > Solid:{{sfn|Lide|2003|loc = Properties of Ice and Supercooled Water in Section 6}} < br >  0.9167 & nbsp;g/ml at 0 & nbsp;°C 
+ | MeltingPtC = 0.00 
+ | MeltingPt_notes ={{Efn|[[Vienna Standard Mean Ocean Water]] (VSMOW), used for calibration, melts at 273.1500089(10) K (0.000089(10) °C, and boils at 373.1339 & nbsp;K (99.9839 & nbsp;°C).  Other isotopic compositions melt or boil at slightly different temperatures.|name = VSMOW}} 
+ | BoilingPtC = 99.98 
+ | BoilingPt_notes = < ref name= " nistbp " > {{nist|name=Water|id=C7732185|accessdate=2016-5-27|mask=FFFF|units=SI}} < /ref > {{Efn|name=VSMOW}} 
+ | pKa = 13.995{{sfn|Lide|2003|loc=Chapter 8: Dissociation Constants of Inorganic Acids and Bases}}{{sfn|Weingärtner et al.|2016|p = 13}}{{efn| 
+ A commonly quoted value of 15.7 used mainly in organic chemistry for the pK < sub > a < /sub >  of water is incorrect. < ref > {{cite web| title = What is the pKa of Water| url  = http://chemwiki.ucdavis.edu/Core/Organic_Chemistry/Fundamentals/What_is_the_pKa_of_water%3F| publisher = [[University of California, Davis]]| date  = 2015-08-09}} < /ref > < ref > {{cite journal|last1=Silverstein|first1=Todd P.|last2=Heller|first2=Stephen T.|title=pKa Values in the Undergraduate Curriculum: What Is the Real pKa of Water?|journal=Journal of Chemical Education|date=17 April 2017|volume=94|issue=6|pages=690–695|doi=10.1021/acs.jchemed.6b00623|bibcode=2017JChEd..94..690S}} < /ref > }} 
+ | pKb = 13.995 
+ | ConjugateAcid = [[Hydronium]] 
+ | ConjugateBase = [[Hydroxide]] 
+ | Viscosity = 0.890 [[Poise (unit)|cP]]{{sfn|Lide|2003|loc=6.186}} 
+ | RefractIndex = 1.3330 (20 & nbsp;°C){{sfn|Lide|2003|loc=8—Concentrative Properties of Aqueous Solutions: Density, Refractive Index, Freezing Point Depression, and Viscosity}} 
+ | VaporPressure = {{convert|3.1690|kPa|atm|abbr = out| disp = or}}{{sfn|Lide|2003|loc= Vapor Pressure of Water From 0 to 370° C in Sec. 6}} 
+ | Solubility = [[Properties of water#Cohesion|N/A]] 
+ | SolubleOther =  Poorly soluble in [[haloalkane]]s, [[aliphatic]] and [[aromatic]] hydrocarbons, [[ether]]s. < ref name= " chemister " > {{cite web| title = Properties of substance: water|url = http://chemister.ru/Database/properties-en.php?dbid=1 & id=1| first = Kiper Ruslan | last = Anatolievich}} < /ref >  Improved solubility in [[carboxylate]]s, [[alcohols]], [[ketones]], [[amines]]. Miscible with [[methanol]], [[ethanol]], [[propanol]], [[isopropanol]], [[acetone]], [[glycerol]], [[1,4-dioxane]], [[tetrahydrofuran]], [[sulfolane]], [[acetaldehyde]], [[dimethylformamide]], [[dimethoxyethane]], [[dimethyl sulfoxide]], [[acetonitrile]]. Partially miscible with [[Diethyl ether]], [[Methyl Ethyl Ketone]], [[Dichloromethane]], [[Ethyl Acetate]], [[Bromine]]. 
+ | ThermalConductivity = 0.6065 W/(m·K) < ref > {{cite journal|last1=Ramires|first1=Maria L. V.|last2=Castro|first2=Carlos A. Nieto de|last3=Nagasaka|first3=Yuchi|last4=Nagashima|first4=Akira|last5=Assael|first5=Marc J.|last6=Wakeham|first6=William A.|date=1995-05-01|title=Standard Reference Data for the Thermal Conductivity of Water|journal=Journal of Physical and Chemical Reference Data|volume=24|issue=3|pages=1377–1381|doi=10.1063/1.555963|issn=0047-2689|bibcode=1995JPCRD..24.1377R}} < /ref > 
+ }}|Section3={{Chembox Structure 
+ | MolShape = [[bent (chemistry)|Bent]] 
+ | CrystalStruct = [[ice|Hexagonal]] 
+ | Dipole = 1.8546 [[Debye|D]]{{sfn|Lide|2003|loc=9—Dipole Moments}} 
+ | PointGroup = C < sub > 2v < /sub > 
+ }}|Section4={{Chembox Thermochemistry 
+ | DeltaHf = −285.83 ± 0.04 & nbsp;kJ/mol < ref name=chemister / > < ref name= " nist " > {{nist|name=Water|id=C7732185|accessdate=2014-06-01|mask=FFFF|units=SI}} < /ref > 
+ | DeltaGf = −237.24 & nbsp;kJ/mol < ref name=chemister / > 
+ | Entropy = 69.95 ± 0.03 & nbsp;J/(mol·K) < ref name=nist / > 
+ | HeatCapacity = 75.385 ± 0.05 & nbsp;J/(mol·K) < ref name=nist / > 
+ }}|Section7={{Chembox Hazards 
+ | MainHazards = [[Drowning]] < br > [[Avalanche]] (as snow) 
+ < br > [[Water intoxication]] 
+ < br > (see also [[Dihydrogen monoxide parody]]) 
+ | NFPA-H = 0 
+ | NFPA-F = 0 
+ | NFPA-R = 0 
+ | FlashPt= Non-flammable 
+ | GHSPictograms = 
+ | GHSSignalWord = 
+ | HPhrases = 
+ | PPhrases = 
+ }}|Section8={{Chembox Related 
+ | OtherCations = [[Hydrogen sulfide]] < br >  [[Hydrogen selenide]] < br >  [[Hydrogen telluride]] < br >  [[Hydrogen polonide]] < br >  [[Hydrogen peroxide]] 
+ | OtherFunction_label = [[solvent]]s 
+ | OtherFunction = [[Acetone]] < br >  [[Methanol]] 
+ }}}} 
+ [[File:Iceberg with hole near Sandersons Hope 2007-07-28 2.jpg|thumb|Water in three [[States of matter|states]]: [[liquid]] (including the clouds, which are [[aerosol]]s), [[solid]] ([[ice]]) and [[gas]] ([[water vapour]])]] 
+ 
+ '''Water''' ({{chem|[[Hydrogen|H]]|2|[[Oxygen|O]]}}) is a [[transparent]], [[taste]]less, [[smell|odourless]], and almost [[color|colour]]less [[chemical substance]] and covers about 71% of [[Earth]]'s surface.  
+ 
+ No known [[life]] can live without it. Water is essential for life. < ref > {{cite web|url=http://www.un.org/waterforlifedecade/background.html |title=United Nations |publisher=Un.org |date=2005-03-22 |accessdate=2010-07-25}} < /ref >  This has to be qualified a bit. There are some forms of life which can survive without it, but cannot [[Reproduction|reproduce]] without it. Since reproduction is a central part of life, it is clear that water is essential for an organism to survive and reproduce. 
+ 
+ [[Lake]]s, [[ocean]]s, [[sea]]s, and [[river]]s are made of water. [[Precipitation]] is water that falls from [[cloud]]s in the [[sky]]. It may be [[rain]] if it is liquid, or it may be snow or ice [[Freezing|frozen]] if it is cold. When water gets below {{convert|0|C}}, it [[freeze]]s and becomes [[ice]], the frozen kind of water. If water gets very hot (above {{convert|100|C}}, it [[Boiling|boils]] and becomes [[steam]] or [[water vapor]].  
+ 
+ There is a [[water cycle]]. 
+ 
+ == Physical chemistry of water == 
+ Water is a [[fluid]]. Water is the only [[chemical substance]] on Earth that exists naturally in three [[States of matter|state]]s. There are over 40 [[wikt:anomaly|anomalies]] (strange things) about water. < ref > {{cite web |url= http://fathersergio.wordpress.com/2006/01/29/forty-one-anomalies-of-water/ |title=Forty-one anomalies of water « Fairy LoRe |first= |last= |work=fathersergio.wordpress.com |year=2011|accessdate=September 1, 2011}} < /ref >  Unlike most other liquids such as alcohol or oil, when water [[freezing|freezes]], it expands by about 9%. < ref > {{cite web |url= http://www.physicalgeography.net/fundamentals/8a.html |title=8(a) Physical Properties of Water |first= |last= |work=physicalgeography.net |year=2011|quote=pan |accessdate=August 31, 2011}} < /ref > < ref > {{cite web |url=http://www.mountainnature.com/geology/erosion.htm |title=Understanding the processes of erosion |first= |last= |work=mountainnature.com |year=2009 |accessdate=August 31, 2011 |archive-date=August 28, 2011 |archive-url=https://web.archive.org/web/20110828165031/http://www.mountainnature.com/Geology/Erosion.htm |url-status=dead }} < /ref > < ref > {{cite web |url= http://www.iapws.org/faq1/freeze.htm |title= iapws.org |first=  |last=  |year= 2000 |accessdate= August 31, 2011 |archive-date= August 8, 2011 |archive-url= https://web.archive.org/web/20110808093427/http://www.iapws.org/faq1/freeze.htm |url-status= dead }} < /ref >  This expansion can cause pipes to break if the water inside them freezes. 
+ 
+ Water is a [[molecule]] made of two [[hydrogen]] [[atom]]s and one [[oxygen]] atom. Its [[chemical formula]] is H < sub > 2 < /sub > O. 
+ Like other liquids, water has a [[surface tension]], so a little water can make drops on a surface, rather than always spreading out to wet the surface. < ref > {{cite web |url=https://www.boundless.com/chemistry/textbooks/boundless-chemistry-textbook/liquids-and-solids-11/liquid-properties-85/surface-tension-376-6402/ |title=Surface tension is a contractive tendency of the surface of a liquid that allows it to resist an external force. |author= |website= |publisher=Boundless |accessdate=December 25, 2016 |archive-date=June 3, 2016 |archive-url=https://web.archive.org/web/20160603233926/https://www.boundless.com/chemistry/textbooks/boundless-chemistry-textbook/liquids-and-solids-11/liquid-properties-85/surface-tension-376-6402/ |url-status=dead }} < /ref > 
+ 
+ Things having something to do with water may have  " hydro "  or  " aqua "  in their name, such as [[hydropower]] or [[aquarium]], from the [[Ancient Greek language|Greek]] and [[Latin]] names for water. It is also called the  " universal solvent " , because it dissolves many other [[chemical compound|compounds]]. 
+ 
+ In small amounts, water appears to have no colour but in large amounts (such as seas or lakes), it has a very light blue color. 
+ 
+ == Uses of water == 
+ [[Plant]]s and [[animal]]s (including [[wikt:people|people]]) are mostly water inside, and must drink water to live. It gives a [[Media|medium]] for [[chemical reaction]]s to take place, and is the main part of [[blood plasma|blood]]. It keeps the [[body temperature]] the same by [[sweat]]ing from the [[skin]].  Water helps blood carry [[nutrient]]s from the [[stomach]] to all parts of the body to keep the body alive.  Water also helps the blood carry [[oxygen]] from the [[lung]]s to the body.  [[Saliva]], which helps animals and people digest food, is mostly water. Water helps make [[urine]]. Urine helps remove bad [[chemical]]s from the body. The human body is between 60% and 70% water, but this value differs with age; i.e. a foetus is 95% water inside. 
+ 
+ Water is the main component of [[drink]]s like [[milk]], [[juice]], and [[wine]]. Each type of drink also has other things that add [[flavor]] or [[nutrient]]s, things like [[sugar]], [[fruit]], and sometimes [[alcohol]]. Water that a person can drink is called  " potable water "  (or  " drinking water " ). The water in oceans is [[salt water]], but lakes and rivers usually have [[fresh water|unsalted water]]. Only about 3% of all the water on earth is fresh water. The rest is salt water. < ref > {{cite web|url=http://ga.water.usgs.gov/edu/earthwherewater.html|title=Percentage of water|access-date=2008-12-11|archive-date=2013-12-14|archive-url=https://web.archive.org/web/20131214091601/http://ga.water.usgs.gov/edu/earthwherewater.html|url-status=dead}} < /ref > < ref > {{cite web|url=http://www.cdli.ca/CITE/water.htm|title=Fresh water percentage (2)|access-date=2008-12-11|archive-date=2007-07-15|archive-url=https://web.archive.org/web/20070715121554/http://www.cdli.ca/CITE/water.htm|url-status=dead}} < /ref > 
+ [[File:Water drop animation enhanced small.gif|thumb|Drop of water falling from a faucet.]] 
+ Many places, including cities and [[desert]]s, don't have as much water as people want. They build [[aqueduct]]s to bring water there. 
+ 
+ Though people can survive a few months without food, they can only survive for a day or two without water.  A few [[desert]] animals can get enough water from their food, but the others must drink. 
+ Water has no smell, taste, or color. 
+ 
+ Water is also used for recreational purposes, ''see [[list of water sports]]''. 
+ 
+ Water is used as both the coolant and the [[neutron moderator]] in most [[nuclear reactor]]s. This may be ordinary water (called light water in the nuclear industry) or [[heavy water]]. 
+ 
+ Water is also used for washing a lot of objects. [[Good (economics)|Goods]], [[Service (economics)|services]] and people are transported to other [[Country|countries]] in [[watercraft]]s on bodies of water. 
+ 
+ Water is used in [[chemical reaction]]s as a [[solvent]] or [[Reagent|reactant]]. Water is also used in [[Firefighting|fire fighting]]. Water is also used for [[cooking]]. 
+ 
+ == Dihydrogen monoxide parody == 
+ The dihydrogen monoxide [[parody]] involves calling water by the unfamiliar chemical name  " dihydrogen monoxide "  (DHMO) and listing some of its harmful effects in an alarming way. Some examples include talking about how  " it causes burning, suffocation and corrosion, "  when it is actually just talking about hot water, drowning and rust. Sometimes the parody calls for it to be banned and/or labelled as dangerous. 
+ 
+ The prank works because it takes advantage of people's misunderstanding. Calling water by an unfamiliar name and making it sound like a harmful chemical can make people think it is dangerous. 
+ 
+ " Dihydrogen monoxide "  is an alternative chemical name for water, but nobody uses it. The word  " dihydrogen "  means two hydrogens, and  " monoxide "  means one oxygen. The chemical formula of water has two hydrogens and one oxygen. 
+ 
+ The parody gained most of its popularity in the 1990s, when a 14-year-old named Nathan Zohner collected anti-DHMO petitions for a science project about gullibility. Zohner fooled a lot of people, which has led to his project being used in lessons about critical thinking and the scientific method. 
+ 
+ The website DHMO.org is a joke website which lists the harmful effects of water (DHMO), answers questions, and calls for it to be banned, among other things. 
+ 
+ == Origin of the Earth's water == 
+ === The weirdness of water === 
+ A BBC short item  explains that every molecule on [[Earth]] has existed for [[1,000,000,000|billion]]s of years, and all of them came from elsewhere. Water is alien because it arrived on [[asteroids]] and [[comets]]. It is the second most common molecule in the [[universe]]. Why is it not a gas? It is made of two very light elements. Ice floating on water is also an oddity. Also, hot water freezes faster than cold, and no-one knows why this is. Molecules of water can move up against the force of [[gravity]] (that is due to surface [[adhesion]]). < ref > Jha, Alok 2019. Why water is one of the weirdest things in the universe. ''BBC News'' Ideas. [https://www.bbc.com/ideas/videos/why-water-is-one-of-the-weirdest-things-in-the-uni/p06y2c9k?playlist=universal-wonders] < /ref > 
+ 
+ === Water in the universe === 
+ [[File:Band 5 ALMA receiver.jpg|thumb|Band 5 [[Atacama Large Millimeter Array|ALMA]] receiver is an instrument specifically designed to detect water in the universe. < ref > {{cite web |title=ALMA greatly improves capacity to search for water in universe |url=http://www.eso.org/public/announcements/ann15059/ |accessdate=20 July 2015 |archive-url=https://web.archive.org/web/20150723070436/http://www.eso.org/public/announcements/ann15059/ |archive-date=23 July 2015 |url-status=live |df=dmy-all }} < /ref > ]] 
+ 
+ Much of the universe's water is produced as a by-product of [[star formation]]. < ref > Melnick, Gary, Harvard-Smithsonian Center for Astrophysics and Neufeld, David, [[Johns Hopkins University]] quoted in: 
+ {{cite news |url=http://www.news.harvard.edu/gazette/1998/04.23/DiscoverofWater.html |title=Discover of water vapor near Orion nebula suggests possible origin of H < sub > 2 < /sub > 0 in Solar System |date= 1998 |publisher=The Harvard University Gazette |url-status=dead |archiveurl=https://web.archive.org/web/20000116054013/http://www.news.harvard.edu/gazette/1998/04.23/DiscoverofWater.html |archivedate=16 January 2000 }} 
+ {{cite news |url=http://www.jhu.edu/news_info/news/home98/apr98/clouds.html |title=Space cloud holds enough water to fill Earth's oceans 1 million times |date=9 April 1998 |publisher=Headlines@Hopkins, JHU |access-date=21 April 2007 |archive-url=https://web.archive.org/web/20071109171410/http://www.jhu.edu/news_info/news/home98/apr98/clouds.html |archive-date=9 November 2007 |url-status=live |df=dmy-all }} < /ref > 
+ On 22 July 2011, a report described the discovery of a gigantic cloud of water vapor containing  " 140 trillion times more water than the Earth's oceans combined "  around a [[quasar]] 12 billion light years from Earth. According to the researchers, the  " discovery shows that water has been prevalent in the universe for nearly its entire existence " . < ref name= " Clavin " > {{cite web |last1=Clavin |first1=Whitney |last2=Buis |first2=Alan |title=Astronomers find largest, most distant reservoir of water |url=http://www.nasa.gov/topics/universe/features/universe20110722.html |date=22 July 2011 |publisher=NASA |accessdate=25 July 2011 |archive-url=https://web.archive.org/web/20110724063244/http://www.nasa.gov/topics/universe/features/universe20110722.html |archive-date=24 July 2011 |url-status=live |df=dmy-all }} < /ref > < ref name= " water vapor cloud " > {{cite web |author=Staff |title=Astronomers find largest, oldest mass of water in Universe |url=http://www.space.com/12400-universe-biggest-oldest-cloud-water.html |date=22 July 2011 |publisher=Space.com |accessdate=23 July 2011 |archive-url=https://web.archive.org/web/20111029230319/http://www.space.com/12400-universe-biggest-oldest-cloud-water.html |archive-date=29 October 2011 |url-status=live |df=dmy-all }} < /ref > 
+ 
+ Water has been detected in [[interstellar cloud]]s in our [[galaxy]], the [[Milky Way]]. < ref > {{cite book| last = Bova| first = Ben| title = Faint Echoes, Distant Stars: the science and politics of finding life beyond Earth| url = https://books.google.com/books?id=m1gfe459yygC & pg=PA90| date = 13 October 2009| publisher = Zondervan| isbn = 978-0-06-185448-4 }} < /ref >  Water probably exists in abundance in other galaxies, too. Its components, hydrogen and oxygen, are among the most abundant elements in the universe. Most other [[planetary system]]s may have similar ingredients. 
+ 
+ === Origin of water on Earth: possibilities === 
+ We do not know exactly how the Earth came to have so much water. It is everywhere in the Universe, but it is uncommon for a place to have so much. The reasoning is like this: every element (except hydrogen and some [[helium]]) has been formed in stars. Therefore, oxygen was originally formed in stars. The formation of water is not a problem: it is [[exothermic]], so forming the molecule from its atoms does not need outside energy. But to explain why the Earth has so much compared to, for example, [[Mars]], is not easy. It is an undecided problem in [[planetary geology]]. 
+ 
+ For a while, people thought Earth’s water did not come from the planet’s region of the [[protoplanetary disk]]. Instead, it was thought that water and other [[volatiles]] must have been delivered to Earth from the outer Solar System later in its history. But hydrogen inside the Earth did play some role in the formation of the ocean. < ref > {{Cite web|last1=Monday|first1=Nola Taylor Redd {{!}} Published|last2=April 1|last3=2019|title=Where did Earths water come from|url=https://astronomy.com/magazine/2019/04/where-did-earths-water-come-from|access-date=2020-07-16|website=Astronomy.com}} < /ref >  The two ideas may each be partly right. Water was delivered to Earth by impacts from icy [[planetesimal]]s  ([[asteroid]]s) in the outer edges of the [[asteroid belt]]. < ref > Pepin, Robert O. 1991. On the origin and early evolution of terrestrial planet atmospheres and meteoritic volatiles. ''Icarus'' '''92''' (1): 2–79. [https://www.sciencedirect.com/science/article/abs/pii/001910359190036S?via%3Dihub] < /ref >  How much is not known. 
+ 
+ === Water vapor === 
+ Water vapor (or water vapour) is the gas form of water. It is found in: 
+ * [[Atmosphere of the Sun]]: this has tiny amounts of water. < ref > {{Cite journal|last1=Solanki|first1=S. K.|last2=Livingston|first2=W.|last3=Ayres|first3=T.|date=1994-01-07|title=New light on the heart of darkness of the Solar chromosphere |url=https://www.sciencemag.org/lookup/doi/10.1126/science.263.5143.64|journal=Science|language=en|volume=263|issue=5143|pages=64–66|doi=10.1126/science.263.5143.64|pmid=17748350|bibcode=1994Sci...263...64S|s2cid=27696504|issn=0036-8075}} < /ref > 
+ * [[Atmosphere of Mercury]]: it is composed of 3.4% of water. [[Mercury]] has large amounts of water in its [[exosphere]]. < ref > {{Cite web|date=2010-04-06|title=MESSENGER Scientists 'astonished' to find water in Mercury's thin atmosphere - Planetary News {{!}} The Planetary Society|url=http://www.planetary.org/news/2008/0703_MESSENGER_Scientists_Astonished_to.html|access-date=2020-09-11|archive-url=https://web.archive.org/web/20100406034624/http://www.planetary.org/news/2008/0703_MESSENGER_Scientists_Astonished_to.html|archive-date=2010-04-06}} < /ref > 
+ * [[Atmosphere of Venus]]: It is composed of 0.002% of water. < ref > {{Cite journal|last1=the SPICAV/SOIR team|last2=Bertaux|first2=Jean-Loup|last3=Vandaele|first3=Ann-Carine|last4=Korablev|first4=Oleg|last5=Villard|first5=E.|last6=Fedorova|first6=A.|last7=Fussen|first7=D.|last8=Quémerais|first8=E.|last9=Belyaev|first9=D.|date=November 2007|title=A warm layer in Venus' cryosphere and high-altitude measurements of HF, HCl, H2O and HDO|url=http://www.nature.com/articles/nature05974|journal=Nature|language=en|volume=450|issue=7170|pages=646–649|doi=10.1038/nature05974|pmid=18046397|bibcode=2007Natur.450..646B|s2cid=4421875|issn=0028-0836}} < /ref > 
+ * [[Atmosphere of Earth]]: It is composed of 0.4% of water all over the [[atmosphere]]. There is usually around 1–4% of water at the [[surface]] of the [[Earth]]. Water vapor is also found in the extremely thin atmosphere of the [[Moon]] in small amounts. < ref > {{Cite journal|last1=Sridharan|first1=R.|last2=Ahmed|first2=S.M.|last3=Pratim Das|first3=Tirtha|last4=Sreelatha|first4=P.|last5=Pradeepkumar|first5=P.|last6=Naik|first6=Neha|last7=Supriya|first7=Gogulapati|date=2010|title='Direct' evidence for water (H2O) in the sunlit lunar ambience from CHACE on MIP of Chandrayaan I |url=https://linkinghub.elsevier.com/retrieve/pii/S0032063310000693|journal=Planetary and Space Science|language=en|volume=58|issue=6|pages=947–950|doi=10.1016/j.pss.2010.02.013|bibcode=2010P & SS...58..947S|via=}} < /ref > 
+ * [[Atmosphere of Mars]]: It is composed of 0.03% of water. < ref > {{Cite book|url=https://www.worldcat.org/oclc/819571505|title=Use of extraterrestrial resources for human space missions to Moon or Mars|last=Rapp, Donald, 1934-|date=2013|publisher=Springer|isbn=978-3-642-32762-9|location=Berlin|oclc=819571505}} < /ref > 
+ * [[Atmosphere of Ceres]]. < ref > {{Cite journal|last1=Küppers|first1=Michael|last2=O’Rourke|first2=Laurence|last3=Bockelée-Morvan|first3=Dominique|last4=Zakharov|first4=Vladimir|last5=Lee|first5=Seungwon|last6=von Allmen|first6=Paul|last7=Carry|first7=Benoît|last8=Teyssier|first8=David|last9=Marston|first9=Anthony|date=January 2014|title=Localized sources of water vapour on the dwarf planet (1) Ceres|url=http://www.nature.com/articles/nature12918|journal=Nature|language=en|volume=505|issue=7484|pages=525–527|doi=10.1038/nature12918|pmid=24451541|bibcode=2014Natur.505..525K|s2cid=4448395|issn=0028-0836}} < /ref > 
+ * [[Atmosphere of Jupiter]]: It is composed of 0.0004% [[ice]]. < ref > {{Cite journal|last1=Atreya|first1=Sushil K.|last2=Wong|first2=Ah-San|date=January 2005|title=Coupled clouds and chemistry of the giant planets— a case for multiprobes |url=http://link.springer.com/10.1007/s11214-005-1951-5|journal=Space Science Reviews|language=en|volume=116|issue=1–2|pages=121–136|doi=10.1007/s11214-005-1951-5|bibcode=2005SSRv..116..121A|hdl=2027.42/43766|s2cid=31037195|issn=0038-6308}} < /ref >  There is also water in its moon [[Europa (moon)|Europa]]. < ref > {{Cite web|title=Hubble sees evidence of water vapor at Jupiter moon|url=http://www.jpl.nasa.gov/news/news.php?feature=3983|access-date=2020-09-11|website=NASA/JPL|archive-date=2020-11-07|archive-url=https://web.archive.org/web/20201107170659/https://www.jpl.nasa.gov/news/news.php?feature=3983|url-status=dead}} < /ref > 
+ * [[Atmosphere of Saturn]]: It is has water in the form of ice. [[Enceladus (moon)|Enceladus]] is composed of 91% of ice and ice is also in [[Dione (moon)|Dione's]] exosphere. < ref > {{Cite journal|last=Hansen|first=C. J.|date=2006-03-10|title=Enceladus' Water Vapor Plume|url=https://www.sciencemag.org/lookup/doi/10.1126/science.1121254|journal=Science|language=en|volume=311|issue=5766|pages=1422–1425|doi=10.1126/science.1121254|pmid=16527971|bibcode=2006Sci...311.1422H|s2cid=2954801|issn=0036-8075}} < /ref > 
+ * [[Atmosphere of Uranus]]: Ice is found in small amounts. 
+ * [[Atmosphere of Neptune]]: Ice is also found deep in the atmosphere of Neptune. < ref > {{Cite journal|last=Hubbard|first=W. B.|date=1997-02-28|title=Neptune's Deep Chemistry|url=https://www.sciencemag.org/lookup/doi/10.1126/science.275.5304.1279|journal=Science|volume=275|issue=5304|pages=1279–1280|doi=10.1126/science.275.5304.1279|pmid=9064785|s2cid=36248590}} < /ref > 
+ * The atmosphere of [[extrasolar planet]]s such as [[HD 189733 b]] and [[HD 209458 b]], [[Tau Boötis b]], [[HAT-P-11b]], [[XO-1b]], [[WASP-12b]], [[WASP-17b]], and [[WASP-19b]]. < ref > {{Cite journal|last1=Lockwood|first1=Alexandra C.|last2=Johnson|first2=John A.|last3=Bender|first3=Chad F.|last4=Carr|first4=John S.|last5=Barman|first5=Travis|last6=Richert|first6=Alexander J. W.|last7=Blake|first7=Geoffrey A.|date=2014-02-24|title=Near-IR direct detection of water vapor in Tau Bootis b|url=https://iopscience.iop.org/article/10.1088/2041-8205/783/2/L29|journal=The Astrophysical Journal |volume=783| issue=2| pages=L29|doi=10.1088/2041-8205/783/2/L29|arxiv=1402.0846|bibcode=2014ApJ...783L..29L|s2cid=8463125|issn=2041-8205}} < /ref > < ref > {{Cite web|title=NASA telescopes find clear skies and water vapor on exoplanet|url=http://www.jpl.nasa.gov/news/news.php?feature=4306|access-date=2020-09-11|website=NASA/JPL|archive-date=2020-12-07|archive-url=https://web.archive.org/web/20201207034845/https://www.jpl.nasa.gov/news/news.php?feature=4306|url-status=dead}} < /ref > < ref name= " :0 " > {{Cite book|url=https://www.worldcat.org/oclc/670074794|title=Water in the universe|last=Hanslmeier, Arnold.|date=2011|publisher=Springer|isbn=978-90-481-9984-6|location=Dordrecht|oclc=670074794}} < /ref > < ref > {{Cite web|last=Garner|first=Rob|date=2015-05-06|title=Hubble Traces Subtle Signals of Water on Hazy Worlds|url=http://www.nasa.gov/content/goddard/hubble-traces-subtle-signals-of-water-on-hazy-worlds|access-date=2020-09-11|website=NASA}} < /ref > 
+ * [[Stellar atmosphere]]s: Water vapor is found in giant hot stars such as [[Betelgeuse]], [[Mu Cephei]], [[Antares]] and [[Arcturus]]. < ref name= " :0 "  / > 
+ 
+ === Liquid water === 
+ Liquid water is found on [[Earth]]. It covers about 71% of the [[surface]] of the Earth. Liquid water is sometimes found in small amounts on [[Mars]]. Scientists believe that liquid water is in the moons [[Enceladus (moon)|Enceladus]], [[Titan (moon)|Titan]], [[Europa (moon)|Europa]] and [[Ganymede (moon)|Ganymede]]. < ref > {{Cite web|last=Anderson|first=Gina|date=2015-09-28|title=NASA Confirms Evidence That Liquid Water Flows on Today's Mars|url=http://www.nasa.gov/press-release/nasa-confirms-evidence-that-liquid-water-flows-on-today-s-mars|access-date=2020-09-12|website=NASA}} < /ref > < ref > {{Cite web|title=NASA Space Assets Detect Ocean inside Saturn Moon|url=http://www.jpl.nasa.gov/news/news.php?feature=4099|access-date=2020-09-12|website=NASA/JPL}} < /ref > < ref > {{Cite journal|last1=Iess|first1=L.|last2=Stevenson|first2=D. J.|last3=Parisi|first3=M.|last4=Hemingway|first4=D.|last5=Jacobson|first5=R. A.|last6=Lunine|first6=J. I.|last7=Nimmo|first7=F.|last8=Armstrong|first8=J. W.|last9=Asmar|first9=S. W.|date=2014-04-04|title=The Gravity Field and Interior Structure of Enceladus|url=https://www.sciencemag.org/lookup/doi/10.1126/science.1250551|journal=Science|language=en|volume=344|issue=6179|pages=78–80|doi=10.1126/science.1250551|pmid=24700854|bibcode=2014Sci...344...78I|s2cid=28990283|issn=0036-8075}} < /ref > < ref > {{Cite journal|last1=Dunaeva|first1=A. N.|last2=Kronrod|first2=V. A.|last3=Kuskov|first3=O. L.|date=2016|title=Physico-chemical models of the internal structure of partially differentiated Titan|url=http://dx.doi.org/10.1134/s0016702916010043|journal=Geochemistry International|volume=54|issue=1|pages=27–47|doi=10.1134/s0016702916010043|s2cid=130371184|issn=0016-7029|via=}} < /ref > < ref > {{Cite web|date=2007-06-09|title=Possibility of Life on Europa|url=http://people.msoe.edu/~tritt/sf/europa.life.html|access-date=2020-09-12|archive-url=https://web.archive.org/web/20070609150109/http://people.msoe.edu/~tritt/sf/europa.life.html|archive-date=2007-06-09}} < /ref > 
+ 
+ === Frozen water === 
+ The frozen form of water (ice) is found in: 
+ [[File:South_Polar_Cap_of_Mars_during_Martian_South_summer_2000.jpg|thumb|right|South polar ice cap of Mars during Martian summer in the year 2000]] 
+ * Mars: Water ice is found at the [[North Pole|north]] and [[South Pole|south poles]] of Mars. < ref > {{Cite journal|last1=Bibring|first1=Jean-Pierre|last2=Langevin|first2=Yves|last3=Poulet|first3=François|last4=Gendrin|first4=Aline|last5=Gondet|first5=Brigitte|last6=Berthé|first6=Michel|last7=Soufflot|first7=Alain|last8=Drossart|first8=Pierre|last9=Combes|first9=Michel|date=April 2004|title=Perennial water ice identified in the south polar cap of Mars|url=http://www.nature.com/articles/nature02461|journal=Nature|language=en|volume=428|issue=6983|pages=627–630|doi=10.1038/nature02461|pmid=15024393|bibcode=2004Natur.428..627B|s2cid=4373206|issn=0028-0836}} < /ref > 
+ * Earth and the Moon: It is mainly found as [[ice sheet]]s on Earth and in [[crater]]s and volcanic rocks in the Moon. < ref > {{Cite news|last=SPIEGEL|first=DER|title=Versteckt in Glasperlen: Auf dem Mond gibt es Wasser - DER SPIEGEL - Wissenschaft|url=https://www.spiegel.de/wissenschaft/weltall/versteckt-in-glasperlen-auf-dem-mond-gibt-es-wasser-a-564911.html|access-date=2020-09-12|newspaper=Der Spiegel|date=9 July 2008|language=de}} < /ref > 
+ * [[Ceres (dwarf planet)|Ceres]]. < ref > {{Cite journal|last=McCord|first=Thomas B.|date=2005|title=Ceres: Evolution and current state|url=http://doi.wiley.com/10.1029/2004JE002244|journal=Journal of Geophysical Research|language=en|volume=110|issue=E5|pages=E05009|doi=10.1029/2004JE002244|bibcode=2005JGRE..110.5009M|s2cid=129787104 |issn=0148-0227}} < /ref > < ref > {{Cite journal|last1=Thomas|first1=P. C.|last2=Parker|first2=J. Wm.|last3=McFadden|first3=L. A.|last4=Russell|first4=C. T.|last5=Stern|first5=S. A.|last6=Sykes|first6=M. V.|last7=Young|first7=E. F.|date=2005|title=Differentiation of the asteroid Ceres as revealed by its shape|url=http://www.nature.com/articles/nature03938|journal=Nature|language=en|volume=437|issue=7056|pages=224–226|doi=10.1038/nature03938|pmid=16148926|bibcode=2005Natur.437..224T|s2cid=17758979|issn=0028-0836|via=}} < /ref > < ref > {{Cite web|last=September 2005|first=Bjorn Carey 07|title=Largest asteroid might contain more fresh water than Earth |url=https://www.space.com/1526-largest-asteroid-fresh-water-earth.html|access-date=2020-09-12|website=Space.com|date=7 September 2005|language=en}} < /ref > 
+ * Jupiter's moons: It is found on Europa, Ganymede and [[Callisto (moon)|Callisto]]. < ref > {{Cite news|last=Chang|first=Kenneth|date=2015-03-12|title=Suddenly, it seems, water is everywhere in Solar System |language=en-US|work=The New York Times|url=https://www.nytimes.com/2015/03/13/science/space/suddenly-it-seems-water-is-everywhere-in-solar-system.html|access-date=2020-09-12|issn=0362-4331}} < /ref > < ref > {{Cite journal|last1=Kuskov|first1=O.L.|last2=Kronrod|first2=V.A.|date=2005|title=Internal structure of Europa and Callisto|url=https://linkinghub.elsevier.com/retrieve/pii/S0019103505001806|journal=Icarus|language=en|volume=177|issue=2|pages=550–569|doi=10.1016/j.icarus.2005.04.014|bibcode=2005Icar..177..550K|via=}} < /ref > < ref > {{Cite journal|last=Showman|first=A. P.|date=1999-10-01|title=The Galilean Satellites|url=https://www.sciencemag.org/lookup/doi/10.1126/science.286.5437.77|journal=Science|volume=286|issue=5437|pages=77–84|doi=10.1126/science.286.5437.77|pmid=10506564}} < /ref > 
+ * Saturn: It is found in the [[planetary ring]]s of Saturn. It is also found in Titan and Enceladus. < ref name= " :1 " > {{Cite book|url=https://www.worldcat.org/oclc/70170307|title=The solar system : exploring the planets and their moons from Mercury to Pluto and beyond|date=2006|publisher=Thunder Bay Press|others=Sparrow, Giles, 1970-|isbn=1-59223-579-4|location=San Diego, Calif.|oclc=70170307}} < /ref > < ref > {{Cite journal|last1=Tobie|first1=Gabriel|last2=Grasset|first2=Olivier|last3=Lunine|first3=Jonathan I.|last4=Mocquet|first4=Antoine|last5=Sotin|first5=Christophe|date=2005|title=Titan's internal structure inferred from a coupled thermal-orbital model|url=https://linkinghub.elsevier.com/retrieve/pii/S0019103504004269|journal=Icarus|language=en|volume=175|issue=2|pages=496–502|doi=10.1016/j.icarus.2004.12.007|bibcode=2005Icar..175..496T|via=}} < /ref > < ref > {{Cite journal|last1=Verbiscer|first1=A.|last2=French|first2=R.|last3=Showalter|first3=M.|last4=Helfenstein|first4=P.|date=2007-02-09|title=Enceladus: Cosmic Graffiti Artist Caught in the Act|url=https://www.sciencemag.org/lookup/doi/10.1126/science.1134681|journal=Science|language=en|volume=315|issue=5813|pages=815|doi=10.1126/science.1134681|pmid=17289992|bibcode=2007Sci...315..815V|s2cid=21932253|issn=0036-8075}} < /ref > 
+ * [[Pluto]] and [[Charon (moon)|Charon]]. < ref name= " :1 "  / > 
+ * [[Comet]]s and other objects in the [[Kuiper belt]] and [[Oort cloud]]. < ref > {{Cite journal|last1=Gibb|first1=E.L.|last2=Mumma|first2=M.J.|last3=Dello Russo|first3=N.|last4=DiSanti|first4=M.A.|last5=Magee-Sauer|first5=K.|date=2003|title=Methane in Oort cloud comets|url=https://linkinghub.elsevier.com/retrieve/pii/S001910350300201X|journal=Icarus|language=en|volume=165|issue=2|pages=391–406|doi=10.1016/S0019-1035(03)00201-X|bibcode=2003Icar..165..391G|via=}} < /ref > 
+ 
+ == Related pages == 
+ {{div col|colwidth=30em}} 
+ * [[Ice]] 
+ * [[Lake]] 
+ * [[Template:Life timeline|Life timeline]] 
+ * [[Template:Nature timeline|Nature timeline]] 
+ * [[Pond]] 
+ * [[Rain]] 
+ * [[River]] 
+ * [[Sea]] 
+ * [[Steam]] 
+ * [[Water cycle]] 
+ * [[Waterway]] 
+ {{div col end}} 
+ 
+ == References == 
+ {{Reflist}} 
+ {{Reflist|group=lower-alpha}} 
+ {{Commons}} 
+ 
+ == Other websites == 
+ * [http://en.citizendium.org/wiki/Water Water] Citizendium 
+ *[https://essaydiary.com/essay-on-water-water-essay/ Importance of Water] {{Webarchive|url=https://web.archive.org/web/20210928062806/https://essaydiary.com/essay-on-water-water-essay/ |date=2021-09-28 }} 
+ 
+ [[Category:Natural resources]] 
+ [[Category:Hydrogen compounds]] 
+ [[Category:Oxygen compounds]] 
+ [[Category:Oxides]] 
+ [[Category:Water]] 
+ [[Category:Basic English 850 words]]

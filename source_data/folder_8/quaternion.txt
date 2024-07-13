@@ -1,0 +1,52 @@
+{|class= " wikitable "  align= " right "  style= " text-align:center; margin-left:0.5em; " 
+ |+Quaternion multiplication table 
+ |- 
+ !width=15|  
+ !width=15|{{math|1}} 
+ !width=15|{{math|'''i'''}} 
+ !width=15|{{math|'''j'''}} 
+ !width=15|{{math|'''k'''}} 
+ |- 
+ !{{math|1}} 
+ |{{math|1}} 
+ |{{math|'''i'''}} 
+ |{{math|'''j'''}} 
+ |{{math|'''k'''}} 
+ |- 
+ !{{math|'''i'''}} 
+ |{{math|'''i'''}} 
+ |{{math|−1}} 
+ |{{math|'''k'''}} 
+ |{{math|−'''j'''}} 
+ |- 
+ !{{math|'''j'''}} 
+ |{{math|'''j'''}} 
+ |{{math|−'''k'''}} 
+ |{{math|−1}} 
+ |{{math|'''i'''}} 
+ |- 
+ !{{math|'''k'''}} 
+ |{{math|'''k'''}} 
+ |{{math|'''j'''}} 
+ |{{math|−'''i'''}} 
+ |{{math|−1}} 
+ |} 
+ [[File:Cayley_Q8_quaternion_multiplication_graph.svg|thumb|link={{filepath:Cayley_Q8_quaternion_multiplication_graph.svg}}|[[Cayley graph|Cayley Q8 graph]] showing the 6 cycles of multiplication by {{red|'''i'''}}, {{green|'''j'''}} and {{blue|'''k'''}}. {{nowrap|(In [[Media:Cayley Q8 quaternion multiplication graph.svg|the SVG file]],}} hover over or click a cycle to highlight it.)]] 
+ 
+ In [[mathematics]], the '''quaternion''' [[number system]] extends the [[complex number]]s into four dimensions. They were first described by Irish mathematician [[William Rowan Hamilton]] in 1843. < ref > {{cite journal |title=On Quaternions; or on a new System of Imaginaries in Algebra |journal=Letter to John T. Graves |date=17 October 1843}} < /ref > < ref > {{cite book |url=https://books.google.com/books?id=DRLpAFZM7uwC & pg=PA385 |title=The history of non-euclidean geometry: Evolution of the concept of a geometric space |year=1988 |publisher=Springer |first=Boris Abramovich |last=Rozenfelʹd |page=385 |isbn=9780387964584}} < /ref >  They are often used in [[computer graphics]] to compute 3-dimensional rotations. 
+ 
+ ==References== 
+ {{reflist}} 
+ ==Other websites== 
+ {{wikibooks|Associative Composition Algebra|Quaternions}} 
+ {{Wikiquote}} 
+ *{{Commons category-inline}} 
+ * [[Lawrence Paulson|Paulson, Lawrence C.]] [https://www.isa-afp.org/entries/Quaternions.html Quaternions (Formal proof development in Isabelle/HOL, Archive of Formal Proofs) ] 
+ * [https://quaternions.online/ Quaternions – Visualisation] 
+ 
+ {{Authority control}} 
+ 
+ [[Category:algebra]] 
+ [[Category:Numbers]] 
+ 
+ {{math-stub}}

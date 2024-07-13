@@ -1,0 +1,150 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox settlement for all fields and descriptions of usage-- > | official_name                   = Oxford 
+ | population_density_sq_mi        =  
+ | population_blank2_title         = Ethnicity (2011) < !--mathematics required-- > 
+ | population_density_blank1_sq_mi =  
+ | population_density_blank1_km2   =  
+ | population_density_blank1_title =  
+ | population_blank1               =  
+ | population_blank1_title         =  
+ | population_density_urban_sq_mi  =  
+ | population_density_urban_km2    =  
+ | population_urban                =  
+ | population_density_metro_sq_mi  =  
+ | population_density_metro_km2    =  
+ | population_metro                = 244000 
+ | population_density_km2          = 3270 
+ | population_density_blank2_km2   =  
+ | population_as_of                = 2017 
+ | population_total                = 152,450 < ref name= " pop17 " > {{cite web |url=https://www.oxford.gov.uk/info/20131/population/459/oxfords_population |title=Key Facts about Oxford |publisher=Oxford City Council |access-date=5 October 2020 |archive-url=https://web.archive.org/web/20200806021342/https://www.oxford.gov.uk/info/20131/population/459/oxfords_population |archive-date=6 August 2020 |url-status=live }} < /ref > 
+ | area_blank1_sq_mi               =  < !-- Population: 38,693 (2020) -- > 
+ | area_blank1_km2                 =  
+ | area_blank1_title               =  
+ | area_metro_sq_mi                =  
+ | area_metro_km2                  =  
+ | area_urban_sq_mi                =  
+ | area_urban_km2                  =  
+ | area_water_percent              =  
+ | area_water_sq_mi                =  
+ | area_land_sq_mi                 =  
+ | area_total_sq_mi                =  
+ | population_blank2               = 63.6% [[White British]] < br / > 1.6% [[Irish Briton|White Irish]] < br / > 12.5% [[Other White]] < br / > 12.5% [[British Asian]] < br / > 4.0% [[British Mixed|Mixed Race]] < br / > 4.6% [[Black British|Black]] < br / > 1.4% [[Other ethnic group (United Kingdom Census)|Other]] 
+ | population_density_blank2_sq_mi =  
+ | area_land_km2                   =  < !--See table @ Template:Infobox settlement for details on automatic unit conversion-- > 
+ | blank1_info                     = 38UC (ONS) < br / > E07000178 (GSS) 
+ | footnotes                       =  
+ | website                         = [http://www.oxford.gov.uk/ www.oxford.gov.uk] 
+ | blank2_info_sec2                = [[Oxfordshire Fire and Rescue Service|Oxfordshire]] 
+ | blank2_name_sec2                = Fire 
+ | blank5_info                     = [[South Central Ambulance Service|South Central]] 
+ | blank5_name                     = Ambulance 
+ | blank4_info                     = [[Thames Valley Police|Thames Valley]] 
+ | blank4_name                     = Police 
+ | blank3_info                     =  
+ | blank3_name                     = [[Nomenclature of Territorial Units for Statistics|NUTS]] 3 
+ | blank2_info                     = {{gbmappingsmall|SP513061}} 
+ | blank2_name                     = [[British national grid reference system|OS grid reference]] 
+ | blank1_name                     = [[ONS coding system|ONS code]] 
+ | population_demonym              = [[Oxonian]] 
+ < !-- General information --------------- > | blank_info                      = GB-OXF 
+ | blank_name                      = [[ISO 3166-2:GB|ISO 3166-2]] 
+ | area_code                       = 01865 
+ | postal_code                     = [[OX postcode area|OX1, OX2, OX3, OX4]] 
+ | postal_code_type                = Postcode 
+ | elevation_ft                    =  < !-- Area/postal codes  &  others -------- > 
+ | elevation_m                     =  
+ | elevation_footnotes             =  < !--for references: use < ref >   < /ref >  tags-- > 
+ | coordinates                     = {{coord|51|45|7|N|1|15|28|W|region:GB|display=inline}} 
+ | utc_offset_DST                  = +1 
+ | timezone_DST                    = [[British Summer Time|BST]] 
+ | utc_offset                      = 0 
+ | timezone                        = [[Greenwich Mean Time|GMT]] 
+ | area_water_km2                  =  
+ | area_total_km2                  = 45.59 < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | other_name                      =  
+ | blank_emblem_type               = [[Coat of arms of Oxford]] 
+ | pushpin_mapsize                 =  
+ | pushpin_map_caption             = Location within England##Location within the United Kingdom##Location within Europe 
+ | pushpin_label_position          =  
+ | pushpin_map                     = England#UK#Europe 
+ | map_caption1                    =  
+ | mapsize1                        =  
+ | image_map1                      =  
+ | map_caption                     = Shown within [[Oxfordshire]] 
+ | mapsize                         = 250px 
+ | image_map                       = Oxford UK locator map.svg 
+ | blank_emblem_link               =  
+ | blank_emblem_size               = 160px 
+ | image_blank_emblem              = Coat of arms for the City of Oxford.svg 
+ | subdivision_type                = [[List of sovereign states|Sovereign state]] 
+ | shield_size                     =  
+ | shield_link                     =  
+ | image_shield                    =  
+ | seal_size                       =  
+ | image_seal                      =  
+ | flag_size                       =  
+ | image_flag                      =  
+ | image_caption                   = From top left to bottom right: Oxford skyline panorama from St Mary's Church; Radcliffe Camera; High Street from above looking east; University College, main quadrangle; High Street by night; Natural History Museum and Pitt Rivers Museum 
+ | imagesize                       = 280px 
+ | image_skyline                   = Oxford Montage 2012.png 
+ | motto                           =  " Fortis est veritas "   < small > '' " The truth is strong " '' < /small > 
+ < !-- images and maps ----------- > | settlement_type                 = [[City status in the United Kingdom|City]] < !--For Town or Village (Leave blank for the default City)-- >  and [[non-metropolitan district]] 
+ | nickname                        =  " the City of Dreaming Spires " 
+ | pushpin_relief                  = 1 
+ < !-- Location ------------------ > | subdivision_name                = [[United Kingdom]] 
+ | area_footnotes                  =  
+ | leader_name2                    = Craig Simmons 
+ | unit_pref                       =  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_magnitude                  =  
+ | established_date3               = 1542 
+ < !-- Area --------------------- > | established_title3              = City status 
+ | established_date2               =  
+ | established_title2              = Town charter 
+ | established_date                = 8th century 
+ | established_title               = Founded 
+ | leader_name4                    = [[Anneliese Dodds]] ([[Labour and Co-operative|Labour  &  Co-op]], [[Oxford East]]) < br / > [[Layla Moran]] [[Liberal Democrats (UK)|(Liberal Democrat]], [[Oxford West and Abingdon]]) 
+ | leader_title4                   = [[List of MPs elected in the 2019 United Kingdom general election|MPs]] 
+ | leader_name3                    = [[Labour Party (UK)|Labour]] 
+ | leader_title3                   = Executive 
+ | leader_title2                   = [[Sheriff|Sheriff of Oxford]] 
+ | subdivision_type1               = [[Countries of the United Kingdom|Country]] 
+ | leader_name1                    =  
+ | leader_title1                   = [[Lord Mayor]] 
+ | leader_name                     = [[Oxford City Council]] 
+ | leader_title                    = Governing & nbsp;body 
+ | government_type                 = [[City status in the United Kingdom|City]] 
+ | government_footnotes            =  
+ | subdivision_name4               = Oxford City Centre 
+ < !-- Politics ----------------- > | subdivision_type4               = Admin HQ 
+ | subdivision_name3               = [[Oxfordshire]] 
+ | subdivision_type3               = [[Ceremonial counties of England|Ceremonial county]] 
+ | subdivision_name2               = [[South East England]] 
+ | subdivision_type2               = [[Regions of England|Region]] 
+ | subdivision_name1               = [[England]] 
+ | name                            =  
+ }} 
+ '''Oxford''' is a [[city]] in [[England]]. It is on the [[River Thames]]. It is a very old city. It is the 52nd largest city in the United Kingdom. Some of its buildings were built before the [[12th century]]. It is famous for its university, [[Oxford University]], which is the oldest university in the English-speaking world. 
+ 
+ About 150,200 live in Oxford. Two rivers run through the city, the Cherwell and the Thames. These two rivers meet south of the city centre. 
+ 
+ Besides its university, there are some buildings famous for their [[architecture]] (the style in which they were built), like the Radcliffe Camera. There are also lots of museums and other places for tourists to visit. 
+ 
+ The south and east of the city are less wealthy and have fewer students. [[Cowley]] used to be a separate town and has a large car factory, and Blackbird Leys is an area of mainly [[council housing]]. 
+ 
+ == Transport == 
+ 
+ === Rail === 
+ Oxford has a station in the centre of the city < ref > {{Cite web|title=National Rail Enquiries - Station facilities for Oxford|url=https://www.nationalrail.co.uk/stations/OXF/details.html|access-date=2021-03-03|website=www.nationalrail.co.uk}} < /ref >  and a station on the outskirts of the city. < ref > {{Cite web|title=National Rail Enquiries - Station facilities for Oxford Parkway|url=https://www.nationalrail.co.uk/stations/OXP/details.html|access-date=2021-03-03|website=www.nationalrail.co.uk}} < /ref > 
+ 
+ == References == 
+ < references / > 
+ 
+ == Other websites == 
+ * [http://en.citizendium.org/wiki/Oxford Oxford] - Citizendium 
+ 
+ {{English Cities|nocat=yes}} 
+ 
+ {{multistub|UK|geo}} 
+ {{authority control}} 
+ [[Category:County towns in England]] 
+ [[Category:Oxford| ]]

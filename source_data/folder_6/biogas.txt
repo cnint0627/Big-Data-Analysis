@@ -1,0 +1,59 @@
+'''Biogas''' is a [[gas]] produced by the digestion in an oxygen free ([[anaerobic digestion]]) or [[fermentation]] of [[organic matter]]. The organic matter can be [[manure]], [[sewage]], municipal [[waste]], compost, food waste or any other [[biodegradable]] [[raw material]]. Biogas is mainly [[methane]] and [[carbon dioxide]]. Depending on where it is produced, biogas is also called: 
+ 
+ * '''[[swamp]] gas'''   
+ * '''[[marsh]] gas''' 
+ * '''[[landfill]] gas''' 
+ * '''[[anaerobic digester|digester]] gas''' 
+ 
+ Biogas can be used as a vehicle [[fuel]] or to generate electricity. It can also be burned directly for cooking, heating, lighting, process heat and absorption refrigeration. 
+ 
+ == Biogas and anaerobic digestion == 
+ {{main|anaerobic digestion}} 
+ Anaerobic digestion is much used to make biogas from biodegradable waste because valuable fuel can be produced while destroying disease-causing [[pathogen]]s and reducing the volume of disposed waste products.  The methane in bio gas burns more cleanly than [[coal]], and produces more energy with less [[emission]]s of [[carbon dioxide]].  The harvesting of bio gas is an important role of [[waste management]] because methane is a [[greenhouse gas]] with a greater [[global warming]] potential than carbon dioxide.  The carbon in bio gas was generally recently extracted from the atmosphere by [[photosynthesis|photosynthetic]] plants, so releasing it back into the atmosphere adds less total atmospheric carbon than the burning of [[fossil fuels]]. 
+ 
+ === Biogas typical composition range === 
+ 
+ The composition of biogas varies depending on how it is made.  Landfill gas typically has methane concentrations around 50%. Advanced waste treatment technologies can produce biogas with 55-75%CH < sub > 4 < /sub > . < ref > {{Cite web |url=http://www.oaktech-environmental.com/Juniper.htm |title=Juniper Biogas Yield Comparison |access-date=2007-03-26 |archive-date=2015-04-30 |archive-url=https://web.archive.org/web/20150430064354/http://www.oaktech-environmental.com/Juniper.htm |url-status=dead }} < /ref > 
+ 
+ {|border= " 1 " 
+ |+ '''Biogas composition''' < ref > [http://www.kolumbus.fi/suomen.biokaasukeskus/en/enperus.html Basic Information on Biogas] < /ref > 
+ |- 
+ ! Matter!! %  
+ |- 
+ ! Methane, CH < sub > 4 < /sub >   
+ | 50-75  
+ |- 
+ ! Carbon dioxide, CO < sub > 2 < /sub > 
+ | 25-50  
+ |- 
+ ! Nitrogen, N < sub > 2 < /sub >   
+ | 0-10*  
+ |- 
+ ! Hydrogen, H < sub > 2 < /sub >   
+ | 0-1 
+ |- 
+ ! Hydrogen sulphide, H < sub > 2 < /sub > S  
+ | 0-3  
+ |- 
+ ! Oxygen, O < sub > 2 < /sub >   
+ | 0-2*  
+ |- 
+ |} 
+ 
+ *: often 5% of air is introduced to get rid of [[sulfur]] [[Microbiology|microbiologically]] 
+ 
+ == Related pages == 
+ * [[Producer gas]] 
+ 
+ == Other websites == 
+ * [http://www.agores.org/Publications/CityRES/English/Lille-FR-english.pdf AGORES - Biogas Biofuel Lille] {{Webarchive|url=https://web.archive.org/web/20061006091122/http://www.agores.org/Publications/CityRES/English/Lille-FR-english.pdf |date=2006-10-06 }} (PDF) 
+ * [http://www.agores.org/Publications/CityRES/English/Stockholm-SE-english.pdf AGORES - Biogas Biofuel Stockholm] {{Webarchive|url=https://web.archive.org/web/20061116072558/http://www.agores.org/Publications/CityRES/English/Stockholm-SE-english.pdf |date=2006-11-16 }} (PDF) 
+ * [http://www.ees.adelaide.edu.au/pharris/biogas/beginners.html University of Adelaide - An Introduction to Biogas] 
+ * [http://www.ruralcostarica.com/biogas.html Biogas in Rural Costa Rica] {{Webarchive|url=https://web.archive.org/web/20070327154734/http://www.ruralcostarica.com/biogas.html |date=2007-03-27 }} 
+ * [http://www.swana.org Solid Waste Association of North America] 
+ * [http://www.lfg.swana.org Landfill Gas Symposium] {{Webarchive|url=https://web.archive.org/web/20120709164324/http://lfg.swana.org/ |date=2012-07-09 }} 
+ 
+ == References == 
+ < references/ > 
+ 
+ [[Category:Biofuels]]

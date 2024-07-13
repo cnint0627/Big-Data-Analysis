@@ -1,0 +1,121 @@
+{{drugbox 
+ | Watchedfields      = changed 
+ | verifiedrevid      = 456349142 
+ | drug_name          =  
+ | INN                =  
+ | type               =  < !-- empty -- > 
+ | image              = Paracetamol-skeletal.svg 
+ | width              =  
+ | alt                =  
+ | caption            =  
+ | image2             = Paracetamol-from-xtal-3D-balls.png 
+ | width2             =  
+ | alt2               =  
+ | USAN               = acetaminophen 
+ < !-- Clinical data -- > | pronounce = Paracetamol: {{IPAc-en|ˌ|p|ær|ə|ˈ|s|iː|t|ə|m|ɒ|l}} < br / > Acetaminophen: {{IPAc-en|audio=En-acetaminophen.oga|ə|ˌ|s|iː|t|ə|ˈ|m|ɪ|n|ə|f|ɪ|n}} 
+ | tradename          = [[Tylenol (brand)|Tylenol]], [[Panadol (brand)|Panadol]], [[Paracetamol brand names|others]] < ref name=drugs.com-internatl > {{drugs.com|international| acetaminophen}} < /ref > 
+ | Drugs.com          = {{drugs.com|monograph|acetaminophen}} 
+ | MedlinePlus        = a681004 
+ | licence_CA         =  < !-- Health Canada may use generic or brand name (generic name preferred) -- > 
+ | licence_EU         =  < !-- EMA uses INN (or special INN_EMA) -- > 
+ | DailyMedID         = Acetaminophen 
+ | licence_US         = Acetaminophen 
+ | pregnancy_AU       = A 
+ | pregnancy_AU_comment =  < ref name= " Drugs.com pregnancy " > {{cite web | title=Acetaminophen Use During Pregnancy | website=Drugs.com | date=14 June 2019 | url=https://www.drugs.com/pregnancy/acetaminophen.html | access-date=25 February 2020 | archive-date=9 March 2020 | archive-url=https://web.archive.org/web/20200309154313/https://www.drugs.com/pregnancy/acetaminophen.html | url-status=live }} < /ref > 
+ | pregnancy_category =  
+ | dependency_liability =  
+ | addiction_liability =  
+ | routes_of_administration = [[Oral administration|By mouth]], [[rectal administration|rectal]], [[intravenous administration|intravenous]] (IV) 
+ | class              = Analgesics and antipyretics 
+ | ATCvet             =  
+ | ATC_prefix         = N02 
+ | ATC_suffix         = BE01 
+ | ATC_supplemental   = {{ATC|N02|BE51}} {{ATC|N02|BE71}} 
+ 
+ < !-- Legal status -- > | legal_AU           = S4 (Rx), OTC, and unscheduled 
+ | legal_AU_comment   =  
+ | legal_BR           =  < !-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F-- > 
+ | legal_BR_comment   =  
+ | legal_CA           =  < !-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -- > 
+ | legal_CA_comment   =  
+ | legal_DE           =  < !-- Anlage I, II, III or Unscheduled-- > 
+ | legal_DE_comment   =  
+ | legal_NZ           =  < !-- Class A, B, C -- > 
+ | legal_NZ_comment   =  
+ | legal_UK           = GSL 
+ | legal_UK_comment   =  
+ | legal_US           = OTC 
+ | legal_US_comment   = / & nbsp;Rx-only 
+ | legal_UN           =  < !-- N I, II, III, IV / P I, II, III, IV-- > 
+ | legal_UN_comment   =  
+ | legal_status       =  < !--For countries not listed above-- > 
+ 
+ < !-- Pharmacokinetic data -- > | bioavailability    = 63–89% < ref > {{cite book | isbn=978-0-9873236-7-5 | title=Acute Pain Management: Scientific Evidence | veditors=Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J | vauthors=((Working Group of the Australian and New Zealand College of Anaesthetists and Faculty of Pain Medicine)) | year=2015 | edition=4th | publisher=Australian and New Zealand College of Anaesthetists (ANZCA), Faculty of Pain Medicine (FPM) | location=Melbourne | url=http://fpm.anzca.edu.au/documents/apmse4_2015_final | format=PDF | access-date=28 October 2019 | archive-url=https://web.archive.org/web/20190731120330/http://fpm.anzca.edu.au/documents/apmse4_2015_final | archive-date=31 July 2019 | url-status=dead }} < /ref > {{rp|73}} 
+ | protein_bound      = negligible to 10–25% in overdose < ref name= " pmid7039926 " / > 
+ | metabolism         = Predominantly in the liver < ref name = TGA > {{cite web|title=Codapane Forte Paracetamol and codeine phosphate product information|work=TGA eBusiness Services|publisher=Alphapharm Pty Limited|date=29 April 2013|access-date=10 May 2014|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent & id=CP-2010-PI-05623-3|format=PDF|archive-date=6 February 2016|archive-url=https://web.archive.org/web/20160206163239/https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent & id=CP-2010-PI-05623-3|url-status=live}} < /ref > 
+ | metabolites        = APAP [[Glucuronide|gluc]], APAP [[sulfate]], APAP [[Glutathione|GSH]], APAP [[cys]], AM404, [[NAPQI]] < ref > {{cite web |title= Acetaminophen Pathway (therapeutic doses), Pharmacokinetics |access-date= 13 January 2016 |url= https://www.pharmgkb.org/pathway/PA165986279 |url-status= dead |archive-url= https://web.archive.org/web/20160304220600/https://www.pharmgkb.org/pathway/PA165986279 |archive-date= 4 March 2016 }} < /ref > 
+ | onset              = Pain relief onset by [[Route of administration|route]]: < br / > [[Oral administration|By mouth]]{{nbsp}}– 37{{nbsp}}minutes < ref name= " Buccal route " > {{cite journal | vauthors = Pickering G, Macian N, Libert F, Cardot JM, Coissard S, Perovitch P, Maury M, Dubray C | title = Buccal acetaminophen provides fast analgesia: two randomized clinical trials in healthy volunteers | journal = Drug Design, Development and Therapy| volume = 8 | pages = 1621–1627 | date = September 2014 | pmid = 25302017 | pmc = 4189711 | doi = 10.2147/DDDT.S63476 | quote =  In postoperative conditions for acute pain of mild to moderate intensity, the quickest reported time to onset of analgesia with APAP is 8 minutes9 for the iv route and 37 minutes6 for the oral route.}} < /ref > < br / > [[Intravenous]]{{nbsp}}– 8{{nbsp}}minutes < ref name= " Buccal route "  / > 
+ | elimination_half-life = 1.9–2.5 hours < ref name= " pmid7039926 " > {{cite journal |vauthors=Forrest JA, Clements JA, Prescott LF |title=Clinical pharmacokinetics of paracetamol |journal=Clin Pharmacokinet |volume=7 |issue=2 |pages=93–107 |date=1982 |pmid=7039926 |doi=10.2165/00003088-198207020-00001 |s2cid=20946160 |url=}} < /ref > 
+ | duration_of_action =  
+ | excretion          = Urine < ref name= " pmid7039926 " / > 
+ 
+ < !-- Identifiers -- > | CAS_number_Ref     = {{cascite|correct|??}} 
+ | CAS_number         = 103-90-2 
+ | CAS_supplemental   =  
+ | PubChem            = 1983 
+ | PubChemSubstance   = 46506142 
+ | IUPHAR_ligand      = 5239 
+ | DrugBank_Ref       = {{drugbankcite|correct|drugbank}} 
+ | DrugBank           = DB00316 
+ | ChemSpiderID_Ref   = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID       = 1906 
+ | UNII_Ref           = {{fdacite|correct|FDA}} 
+ | UNII               = 362O9ITL9D 
+ | KEGG_Ref           = {{keggcite|correct|kegg}} 
+ | KEGG               = D00217 
+ | KEGG2              = C06804 
+ | ChEBI_Ref          = {{ebicite|correct|EBI}} 
+ | ChEBI              = 46195 
+ | ChEMBL_Ref         = {{ebicite|correct|EBI}} 
+ | ChEMBL             = 112 
+ | NIAID_ChemDB       =  
+ | PDB_ligand         = TYL 
+ | synonyms           = ''N''-acetyl-''para''-aminophenol (APAP) 
+ 
+ < !-- Chemical and physical data -- > | IUPAC_name         = ''N''-(4-hydroxyphenyl)acetamide 
+ | C                  = 8 
+ | H                  = 9 
+ | N                  = 1 
+ | O                  = 2 
+ | SMILES             = CC(=O)Nc1ccc(O)cc1 
+ | StdInChI_Ref       = {{stdinchicite|correct|chemspider}} 
+ | StdInChI           = 1S/C8H9NO2/c1-6(10)9-7-2-4-8(11)5-3-7/h2-5,11H,1H3,(H,9,10) 
+ | StdInChI_comment   =  
+ | StdInChIKey_Ref    = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey        = RZVAJINKPMORJF-UHFFFAOYSA-N 
+ | density            = 1.263 
+ | density_notes      =  
+ | melting_point      = 169 
+ | melting_high       =  
+ | melting_notes      =  < ref > {{Cite journal | doi = 10.1021/ci0500132 | title = General Melting Point Prediction Based on a Diverse Compound Data Set and Artificial Neural Networks | year = 2005 | vauthors=Karthikeyan M, Glen RC, Bender A | journal = Journal of Chemical Information and Modeling | volume = 45 | issue = 3 | pages = 581–590 | pmid = 15921448}} < /ref > < ref > {{cite web | url = http://lxsrv7.oru.edu/~alang/meltingpoints/meltingpointof.php?csid=1906 | title = melting point data for paracetamol | publisher = Lxsrv7.oru.edu | access-date = 19 March 2011 | url-status=dead | archive-url = https://archive.today/20120630213835/http://lxsrv7.oru.edu/~alang/meltingpoints/meltingpointof.php?csid=1906 | archive-date = 30 June 2012 }} < /ref > 
+ | boiling_point      =  
+ | boiling_notes      =  
+ | solubility         = {{ubl| 7.21{{nbsp}}g/kg (0{{nbsp}}°C) < ref name= " paracetamol-solubility " > {{cite journal| doi = 10.1021/je990124v| title = Solubility of paracetamol in pure solvents| vauthors=Granberg RA, Rasmuson AC| journal = [[Journal of Chemical  &  Engineering Data]]| volume = 44 | issue = 6 | pages = 1391–95| year = 1999}} < /ref > | 8.21{{nbsp}}g/kg (5{{nbsp}}°C) < ref name= " paracetamol-solubility "  / > | 9.44{{nbsp}}g/kg (10{{nbsp}}°C) < ref name= " paracetamol-solubility "  / > | 10.97{{nbsp}}g/kg (15{{nbsp}}°C) < ref name= " paracetamol-solubility "  / > | 12.78{{nbsp}}g/kg (20{{nbsp}}°C) < ref name= " paracetamol-solubility "  / > | ~14{{nbsp}}mg/ml (20{{nbsp}}°C)}} 
+ | sol_units          =  
+ | specific_rotation  =  
+ }} 
+ '''Paracetamol''' (or '''acetaminophen''') is a common [[analgesic]], a [[drug]] that is used to relieve [[pain]]. It can also be used to reduce [[fever]], and some kinds of [[headache]]. This makes it an [[antipyretic]], something that reduces fevers. It is used in many drugs that treat [[influenza|the flu]] and [[cold]]s. 
+ 
+ The words ''acetaminophen'' and ''paracetamol'' both come from the names of the chemicals used in the compound: N-'''acet'''yl-para-'''aminophen'''ol and '''par'''a-'''acet'''yl-'''am'''ino-phen'''ol'''. Sometimes, it is shortened to '''APAP''', for N-'''a'''cetyl-'''p'''ara-'''a'''mino'''p'''henol. 
+ 
+ [[Harmon Northrop Morse]] was the first to make Paracetamol, in the year [[1878]]. Drugs made with Paracetamol became common in the 1950s. Today, these drugs are some of the most used, together with those containing [[salicylic acid]] or [[Ibuprofen]]. In the year [[1977]], Paracetamol was put on the [[List of World Health Organization Essential Medicines|List of Essential Medicines]] of the [[WHO]]. 
+ 
+ ==Safety and dosage== 
+ Paracetamol is considered safe for use. The drug is easily available without a [[prescription]]. People often take too much Paracetamol. Sometimes this is because people do not know how much they should take. The recommended [[wikt:dose|dose]] may not work for some individuals. Other times it is because they are trying to commit [[suicide]]. Very often, a person's [[liver]] can be hurt when they take too much Paracetamol. < ref name= " Paracetamol_Larson " > {{cite journal | author = Larson A. M. | display-authors = etal | title = Acetaminophen-induced acute liver failure: results of a United States multicenter, prospective study | url = https://archive.org/details/sim_hepatology_2005-12_42_6/page/1364 | year = 2005 | journal = Hepatology | volume = 42 | issue = 6 | pages = 1364–1372 | doi = 10.1002/hep.20948 | pmid = 16317692 | s2cid = 24758491 }} < /ref >  A dose of 150 [[milligram]]s for every [[kilogram]] of the person's weight (about 10 [[gram]]s for most adults) will lead to permanent liver damage, and may cause the liver to [[liver failure|fail]]. For people whose livers have already been damaged, such as [[alcoholism|alcoholics]], and for those with a limited secretion of Paracetamol, this amount can be much smaller. < ref name= " isbn0-07-112432-2 " > {{cite book |author=Roberts, L. Jackson; Morrow, Jason D. |editor=Gilman, Alfred; Goodman, Louis Sanford; Hardman, Joel G.; Limbird, Lee E. |title=Goodman  &  Gilman's the pharmacological basis of therapeutics |publisher=McGraw-Hill |location=New York |year=2001 |pages=687–732 |chapter=Analgesic-antipyretic and antiinflammatory agents and drugs employed in the treatment of gout |isbn=0-07-112432-2 |oclc= |doi= |accessdate=}} < /ref > < ref name= " isbn0-521-55381-4 " > {{cite book |author=Williams, Roger Lawrence; Jean-Pierre Benhamou; Lee, William Thomas |title=Acute liver failure |publisher=Cambridge University Press |location=Cambridge, UK |year=1997 |pages= |isbn=0-521-55381-4 |oclc= |doi= |accessdate=}} < /ref > < ref > {{Cite web|title=8 Paracetamol Guidelines for Patients|url=https://www.prfire.co.uk/press_releases/8-paracetamol-guidelines-for-patients|access-date=2021-02-12|website=PR Fire|language=en-GB|archive-date=2021-01-24|archive-url=https://web.archive.org/web/20210124235817/https://www.prfire.co.uk/press_releases/8-paracetamol-guidelines-for-patients|url-status=dead}} < /ref > == 
+ In [[England]] and [[Wales]], about 30.000 people per year go to the hospital after taking too much paracetamol (called paracetamol poisoning), and about 150 die of the poisoning. Since a law was passed saying that Paracetamol packets cannot be too large, fewer people have been committing suicide with Paracetamol. < ref name= " pmid17407385 " > {{cite journal |author=Morgan OW, Griffiths C, Majeed A |title=Interrupted time-series analysis of regulations to reduce paracetamol (acetaminophen) poisoning |journal=PLOS Med. |volume=4 |issue=4 |pages=e105 |date=April 2007  |pmid=17407385 |pmc=1845154 |doi=10.1371/journal.pmed.0040105}} < /ref >  In [[Great Britain]] < ref name= " Paracetamol_Chun " > {{cite journal | author = Chun, L. J. | display-authors = etal | title = Acetaminophen hepatotoxicity and acute liver failure. | year = 2009 | journal = J Clin Gastroenterol. | volume = 43 | issue = 4 | pages = 342–349 | doi = 10.1097/MCG.0b013e31818a3854 | pmid = 19169150 }} < /ref >  and the [[United States]] Paracetamol is the main reason for acute [[liver failure]]. About half of the cases are because of an 'unintentional overdose'. < ref name= " Paracetamol_Larson "  / > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Analgesics]] 
+ [[Category:Organonitrogen compounds]]

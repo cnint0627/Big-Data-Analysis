@@ -1,0 +1,21 @@
+[[File:Gluconeogenesis.png|thumb|Simplified gluconeogenesis processed (in humans). Acetyl-CoA derived from fatty acids (dotted lines) may be changed to pyruvate a bit under fasting.]] 
+ '''Gluconeogenesis''' (GNG) is a chemical process in [[organism|living bodies]].  In gluconeogenesis, the body turns [[fat]]s and [[protein]]s ([[glucogenic amino acid]]s) into [[sugar]]s called [[glucose]]. < ref > {{Cite book|url=http://archive.org/details/lehningerprincip01lehn|title=Lehninger principles of biochemistry.|last1=Lehninger|first1=Albert L.|last2=Nelson|first2=David L. (David Lee)|last3=Cox|first3=Michael M.|date=2000|publisher=New York : Worth Publishers|others=Duke University Libraries|isbn=978-1-57259-153-0}} < /ref >  In most [[vertebrate|animals with spines]], gluconeogenesis happens in the [[liver]], but some animals have gluconeogenesis in the [[kidney]]s. < ref > {{Cite web|title=Key protein causing excess liver production of glucose in diabetes identified|url=https://www.sciencedaily.com/releases/2011/09/110928125414.htm|access-date=2021-06-03|website=ScienceDaily|language=en}} < /ref >  gluconeogenesis usually happens when the organism has not eaten many [[Low-carbohydrate diet|starches or sugars]] or  eaten [[fasting|nothing at all]] for a long time.  Not eating and not eating starch can cause [[ketosis]], which is when some cells cannot use [[ketone]]s for fuel. < ref > {{Cite journal|last=Rui|first=Liangyou|date=January 2014|title=Energy Metabolism in the Liver|journal=Comprehensive Physiology|volume=4|issue=1|pages=177–197|doi=10.1002/cphy.c130024|isbn=9780470650714|issn=2040-4603|pmc=4050641|pmid=24692138}} < /ref > 
+ 
+ ==Process== 
+ {{Complex}} 
+ [[File:Amino acid catabolism revised.png|thumb|300px|Simplification of [[proteinogenic amino acid]]s. Some amino acids can be used in gluconeogenesis and some cannot: < ref > {{cite book|chapter=20. Amino Acid Degradation and Synthesis |first1=Denise R|last1= Ferrier|first2=Pamela C|last2=Champe|first3=Richard A|last3=Harvey | name-list-style = vanc |title=Biochemistry (Lippincott's Illustrated Reviews) |publisher=Lippincott Williams  &  Wilkins |location= Hagerstwon, MD |isbn=978-0-7817-2265-0 |date=1 August 2004}} < /ref >  {{unordered list 
+  | [[Glucogenic amino acid]]s have this ability 
+  | [[Ketogenic amino acid]]s do not. These products may still be used for [[ketogenesis]] or [[lipid synthesis]]. 
+  | Some amino acids are catabolized into both glucogenic and ketogenic products.}}]] 
+ In humans, the main gluconeogenic compounds are [[lactic acid|lactate]], [[glycerol]] (a part of the [[triglyceride]] molecule), [[alanine]] and [[glutamine]]. They are mostly involved in over 90% of the overall process. < ref name= " pmid11213896 " > {{cite journal | vauthors = Gerich JE, Meyer C, Woerle HJ, Stumvoll M | title = Renal gluconeogenesis: its importance in human glucose homeostasis | journal = Diabetes Care | volume = 24 | issue = 2 | pages = 382–91 | date = February 2001 | pmid = 11213896 | doi = 10.2337/diacare.24.2.382 | url = https://www.researchgate.net/publication/12117257 | doi-access = free }} < /ref > 
+ 
+ Lactate comes back to the liver where it is converted into [[pyruvate]] by the [[Cori cycle]] using the enzyme [[lactate dehydrogenase]]. Pyruvate, the first designated substrate of the gluconeogenic pathway, can then be used to make glucose. < ref name= " Garrett " > {{cite book |title=Principles of Biochemistry with a Human Focus |url=https://archive.org/details/principlesofbioc0000garr |last1=Garrett |first1=Reginald H. | first2 = Charles M. | last2 = Grisham | name-list-style = vanc |year=2002 |publisher=Brooks/Cole, Thomson Learning |location=USA |isbn=978-0-03-097369-7 |pages=[https://archive.org/details/principlesofbioc0000garr/page/578 578], 585 }} < /ref > 
+ 
+ Fat is mostly broken down, but if there is no fat to break down, or the body cannot access the fat stores, then proteins found in the muscle can break down, resulting in muscle loss. < ref > {{Cite journal|last=Manninen|first=Anssi H|date=2006-01-31|title=Very-low-carbohydrate diets and preservation of muscle mass|journal=Nutrition  &  Metabolism|volume=3|pages=9|doi=10.1186/1743-7075-3-9|issn=1743-7075|pmc=1373635|pmid=16448570}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{Chemistry-stub}} 
+ 
+ [[Category:Metabolism]]

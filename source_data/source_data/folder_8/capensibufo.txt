@@ -1,0 +1,40 @@
+{{Taxobox 
+ | name = ''Capensibufo'' 
+ | regnum = [[Animalia]] 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Amphibia]] 
+ | ordo = [[Anura]] 
+ | familia = [[Bufonidae]] 
+ | genus = '''''Capensibufo''''' 
+ | genus_authority = Grandison, 1980 
+ | subdivision_ranks = Species 
+ | subdivision =  
+ See text. 
+ }} 
+ 
+ '''''Capensibufo''''' is a [[genus]] of [[Bufonidae|true toads]] with only two species. The common English name is '''Cape Toads'''. They live in the [[Republic of South Africa]] from [[Breede River]] to north of [[Knysna]], [[Western Cape Province]]. 
+ 
+ ==Species== 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !Binomial Name and Author!! Common Name 
+ |- 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Capensibufo rosei]]'' {{small|(Hewitt, 1926)}} ||  Rose's Mountain Toad 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Capensibufo tradouwi]]'' {{small|(Hewitt, 1926)}} ||  Tradouw Mountain Toad 
+ |- 
+ |} 
+ 
+ == Other websites == 
+ * {{aut|Frost, Darrel R}}. 2007. Amphibian Species of the World: an Online Reference. Version 5.1 (10 October, 2007). [http://research.amnh.org/herpetology/amphibia/names.php?taxon= & family= & subfamily= & genus=Capensibufo & commname= & authority= & year= & geo=0 & dist= & comment= ''Capensibufo'']. Electronic Database accessible at http://research.amnh.org/herpetology/amphibia/index.php. American Museum of Natural History, New York, USA. (Accessed: May 01, 2008). 
+ * {{aut|AmphibiaWeb: Information on amphibian biology and conservation.}} [web application]. 2008. Berkeley, California: [http://amphibiaweb.org/cgi-bin/amphib_query?query_src=aw_lists_genera_ & table=amphib & where-genus=Capensibufo & where-species= ''Capensibufo'']. AmphibiaWeb, available at http://amphibiaweb.org/. (Accessed: May 01, 2008). 
+ * {{aut|eol – Encyclopedia of Life}} taxon [http://www.eol.org/search?q=Capensibufo & search_image= ''Capensibufo''] at http://www.eol.org. 
+ * {{aut|ITIS – Integrated Taxonomic Information System on-line database}} Taxon [https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN & search_value=585624 ''Capensibufo''] at https://www.itis.gov/index.html. (Accessed: May 01, 2008). 
+ 
+ {{Taxonbar|from=Q858139}} 
+ [[Category:Toads]] 
+ [[Category:Frogs of Africa]] 
+ 
+ 
+ {{biology-stub}}

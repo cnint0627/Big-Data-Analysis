@@ -1,0 +1,146 @@
+{{Infobox Italian comune 
+ | name                = Senigallia 
+ | official_name       = Città di Senigallia 
+ | image_skyline       = Piazza del Duca - panoramio.jpg 
+ | imagesize           =  
+ | image_alt           = Piazza del Duca  
+ | image_caption       = Piazza del Duca, Senigallia 
+ | image_shield        = Senigallia-Stemma.png 
+ | shield_alt          = 
+ | shield_size.      =  
+ | image_map           =Map of comune of Senigallia (province of Ancona, region Marche, Italy).svg 
+ | map_alt             = Senigallia within the Province of Ancona 
+ | map_caption         = Senigallia within the Province of Ancona 
+ | davvero             = 
+ | pushpin_map_alt     = 
+ | coordinates         = {{coord|43|43|N|13|13|E|display=inline,title}} 
+ | region              = [[Marche]] 
+ | province            = {{ProvinciaIT (short form)|sigla=AN}} (AN) 
+ | frazioni            = see [[#Frazioni|list]] 
+ | mayor_party         =  
+ | mayor               = Maurizio Mangialardi ([[Democratic Party (Italy)|PD]]) 
+ | area_footnotes      = < ref name= " area " > {{cite web|url=http://www.tuttitalia.it/marche/52-senigallia/|title=Comune di Senigallia |publisher=Tuttitalia.it |language=Italian |accessdate=20 June 2016}} < /ref > 
+ | area_total_km2      = 117.77 
+ | population_footnotes = < ref name= " pop " > {{cite web |url=http://demo.istat.it/pop2017/index.html |title=Statistiche demografiche ISTAT |publisher=Demo.istat.it |language=Italian |accessdate=2 November 2017 |archive-date=3 January 2018 |archive-url=https://web.archive.org/web/20180103163404/http://demo.istat.it/pop2017/index.html |url-status=dead }} < /ref > 
+ | population_total    = 44706 
+ | population_as_of    = January 2017 
+ | pop_density_footnotes = 
+ | population_demonym  = Senigalliesi 
+ | elevation_footnotes = < ref name= " area "  / > 
+ | elevation_m         = 5 
+ | elevation_min_m     = 0 
+ | elevation_max_m     = 202 
+ | twin1               = 
+ | twin1_country       = 
+ | saint               = [[Paolino di Nola|St. Paulinus]] 
+ | day                 = 4 May 
+ | postal_code         = 60019 
+ | area_code           = 071 
+ | website             = {{Official website|http://www.comune.senigallia.an.it}} 
+ | footnotes           = 
+ }} 
+ '''Senigallia''' is a ''[[comune]]'' and [[seaport]] in [[Italy]]. It is on the [[Adriatic Sea|Adriatic]] [[coastline]], in the [[province of Ancona]], in the [[Marche]] [[Regions of Italy|region]]. It is the second city of the province, after the [[Capital city|capital]], by the number of people living there. 
+ 
+ It is an important [[seaside resort]] in the Marche region, and is visited every year by many person. Its beach is known as ''Spiaggia di Velluto'' ([[Velvet]] Beach). 
+ 
+ ==Geography== 
+ Senigallia is on the [[Adriatic Sea]], at the mouth of the [[Misa (river in Italy)|Misa]] river. It has an area of {{Convert|117.77|km2|sqmi|abbr=on }} and its [[altitude]] is {{Convert|5|m|ft|abbr=on}}. 
+ 
+ The ''comune'' borders with the following ''comuni''ː [[Belvedere Ostrense]], [[Mondolfo]] ([[Province of Pesaro and Urbino]]), [[Monte San Vito]], [[Montemarciano]], [[Morro d'Alba]], [[Ostra, Marche|Ostra]], [[Trecastelli]]. < ref > {{cite web|url=http://www.comuni-italiani.it/042/045/index.html |title=Comune di Senigallia |publisher=Comuni-Italiani.it |language=Italian |accessdate=20 June 2016}} < /ref > 
+ 
+ ===''Frazioni''=== 
+ The following ''[[Frazione|frazioni]]'' ([[Hamlet (place)|hamlet]]s) are part of Senigalliaː Bettolelle, Borgo Bicchia, Borgo Catena, Borgo Passera, Brugnetto, Cannella, Castellaro, Cesanella, Cesano, Ciarnin, Filetto, Gabriella, Grottino, Mandriola, Marzocca, Montignano, Roncitelli, Sant'Angelo, San Silvestro, Scapezzano and Vallone. 
+ 
+ ==Population== 
+ There are 44,706 persons living in the ''comune'' (January 2017), < ref name=pop / >  for a [[population density]] of {{Pop density|44706|117.77|km2|prec=1|disp=num}} inhabitants/km². 
+ 
+ '''Evolution of the population''' 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:45000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:5000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:2500 start:0 
+ BackgroundColors = canvas:sfondo  
+ 
+ BarData= 
+  bar:1961 text:1961 
+  bar:1971 text:1971 
+  bar:1981 text:1981 
+  bar:1991 text:1991 
+  bar:2001 text:2001 
+  bar:2011 text:2011 
+  bar:2017 text:2017 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+   bar:1961 from:0 till: 35337 
+   bar:1971 from:0 till: 38090 
+   bar:1981 from:0 till: 40135 
+   bar:1991 from:0 till: 41144 
+   bar:2001 from:0 till: 41550 
+   bar:2011 from:0 till: 44361 
+   bar:2017 from:0 till: 44706 
+ 
+ PlotData= 
+   bar:1961 at: 35337 fontsize:S text: 35,337 shift:(-13,5) 
+   bar:1971 at: 38090 fontsize:S text: 38,090 shift:(-18,5) 
+   bar:1981 at: 40135 fontsize:S text: 40,135 shift:(-18,5) 
+   bar:1991 at: 41144 fontsize:S text: 41,144 shift:(-18,5) 
+   bar:2001 at: 41550 fontsize:S text: 41,550 shift:(-18,8) 
+   bar:2011 at: 44361 fontsize:S text: 44,361 shift:(-18,5) 
+   bar:2017 at: 44706 fontsize:S text: 44,706 shift:(-18,5) 
+ < /timeline > 
+ < /center > 
+ 
+ The people from this ''comune'' are known, in [[Italian language|Italian]], as ''senigalliesi''. 
+ 
+ ==Main sights== 
+ Despite its ancient origin the city presents a modern appearance, with wide streets. Attractions include: 
+ *'''''Palazzo Comunale''''', a [[palace]] from the 17th century. Now is called ''Palazzo di Governo'' because the offices of the government of the ''comune'' are here. It is in the ''Piazza Roma''. 
+ *'''''Rocca Roveresca''''' - castle of [[Gothic]] origin, was restored by [[Baccio Pontelli]] in 1492. It has a square plan with four large round tower. 
+ *The '''Cathedral of Senigallia''' (''Cattedrale di San Pietro Apostolo''), a [[cathedral]] built between  1762 and 1790. 
+ *[[Santa Maria delle Grazie, Senigallia|'''''Santa Maria delle Grazie''''']] church - one of the only two churches attributed to [[Baccio Pontelli]] (the other is at [[Orciano di Pesaro]], [[province of Pesaro and Urbino]], about {{convert|20|km|0|abbr=off}} to the west by road). It once housed the painting of ''[[Madonna di Senigallia]]'' by [[Piero della Francesca]]; it is now in the ''Galleria Nazionale delle Marche'' in [[Urbino]], [[Province of Pesaro and Urbino]]. 
+ *[[Chiesa della Croce, Senigallia|'''''Chiesa della Croce''''']] or ''Church of the Cross'' . < ref > {{cite web |url=http://www.comune.senigallia.an.it/site/senigallia/live/taxonomy/senigallia/infocitta/monumenti/chiesa-.della-croce.html |title=Comune di Senigallia |publisher=Comune di Senigalliaː Monumenti |language=Italian |accessdate=20 June 2016 }}{{Dead link|date=January 2022 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ *'''''Rotonda a mare''''' . < ref > {{cite web |url=http://www.comune.senigallia.an.it/site/senigallia/live/taxonomy/senigallia/infocitta/la_rotonda/index.html |title=Comune di Senigallia |publisher=Comune di Senigalliaː La Rotonda a Mare |language=Italian |accessdate=20 June 2016 |archive-date=20 May 2016 |archive-url=https://web.archive.org/web/20160520161508/http://www.comune.senigallia.an.it/site/senigallia/live/taxonomy/senigallia/infocitta/la_rotonda/index.html |url-status=dead }} < /ref > 
+ 
+ ==People from Senigallia== 
+ * [[Pope Pius IX]], 1792–1878, [[Pope]] 
+ * [[Gaetano Bedini]], 1806–1864, [[Cardinal (Catholicism)|Cardinal]] and [[Diplomacy|diplomat]] of the [[Catholic Church]] 
+ * [[Enric Martínez-Castignani]], ([[Barcelona]], 1970) is an Italo-Spanish [[baritone]] who sings [[opera]] and [[lied]]er 
+ * [[Fabri Fibra]] (born Fabrizio Tarducci,  17 October 1976) is an [[Italians|Italian]] [[rapper]] 
+ 
+ ==Twinned and partner towns== 
+ Senigallia is [[Twin town|twinned]] with: < ref > {{cite web |url=http://www.comune.senigallia.an.it/site/senigallia/live/taxonomy/senigallia/infocitta/citta_gemellate/index.html |title=Comune di Senigallia |publisher=Comune di Senigallia |language=Italian |accessdate=20 June 2016 |archive-date=2 July 2016 |archive-url=https://web.archive.org/web/20160702190122/http://www.comune.senigallia.an.it/site/senigallia/live/taxonomy/senigallia/infocitta/citta_gemellate/index.html |url-status=dead }} < /ref > 
+ *{{flagicon|UK}} [[Chester]], [[United Kingdom]] 
+ *{{flagicon|GER}} [[Lörrach]], Germany 
+ *{{flagicon|FRA}} [[Sens]], France 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Rotonda 2003.jpg|La Rotonda a Mare (2003 
+ File:564SenigalliaDuomo.JPG|The cathedral of Senigallia 
+ File:10RoccaRovere.jpg|The ''Rocca'' of Senigallia 
+ File:Senigallia-Porta Lambertina 01.jpg|''Porta Lambertina'' (or ''Porta Fano'') 
+ < /gallery > 
+ 
+ ==References== 
+ {{Commons category}} 
+ {{Wikivoyage}} 
+ {{Reflist}} 
+ 
+ {{Province of Ancona}} 
+ 
+ [[Category:Towns in Italy]] 
+ [[Category:Settlements in Ancona]]

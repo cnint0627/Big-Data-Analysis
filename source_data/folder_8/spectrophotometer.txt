@@ -1,0 +1,23 @@
+[[File:Spektrofotometri.jpg|thumb|300px|Spectrophotometer]] 
+ A '''spectrophotometer''' measures either the amount of light reflected from a sample object or the amount of light that is absorbed by the sample object. '''Spectrophotometry''' is the quantity based study of [[electromagnetic spectrum|electromagnetic spectra]]. 
+ 
+ ==Design== 
+ [[File:Spetrophotometer-en.svg|thumb|330px|Single beam spectrophotometer]] 
+ In short, the sequence of events in a modern spectrophotometer is as follows: 
+ # The light source shines on the sample. 
+ # A fraction of the light is transmitted or reflected from the sample 
+ # The light from the sample is directed to the entrance slit of the monochromator 
+ # The monochromator separates the wavelengths of light and focuses each of them onto the photodetector sequentially. 
+ 
+ There are two kinds of spectrophotometers: single beam and double beam. A double beam spectrophotometer compares the light intensity between two light paths. One path containing a reference sample, the other holding the test sample. A single beam spectrophotometer measures the relative light intensity of the beam before and after a test sample is inserted. A double beam machine makes comparison readings easier and more stable. But a single beam machine can have measure a wider range of light frequencies. Single beam machines have simple optical systems and are more compact. When the spectrophotometer is built into another device (like microscopes or telescopes) only single beam machines will work. 
+ 
+ Many older spectrophotometers must be calibrated by a procedure known as  " zeroing. "  The absorbancy of a reference substance is set as a baseline value, so the absorbancies of all other substances are recorded relative to the initial  " zeroed "  substance. The spectrophotometer then displays % absorbancy (the amount of light absorbed relative to the initial substance). < ref name=george > Rendina, George. 1976. ''Experimental methods in modern biochemistry''. Philadelphia, PA: Saunders, 46-55. < /ref > 
+ 
+ Spectrophotometers can also measure [[luminescence]].  For example, the machine can shine ultraviolet light of one frequency on the sample. This will excite the sample and make it glow. The detectors can then measure the light glowing from the sample at a different frequency. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{LaboratoryEquipment|collapsed}} 
+ 
+ [[Category:Spectroscopy]]

@@ -1,0 +1,77 @@
+{{otheruses}} 
+ {{Infobox settlement 
+ < !-- See {{Infobox settlement}} for the full list of available fields -- > 
+ < !-- Elements common to United Kingdom -- > 
+ |timezone                = [[Greenwich Mean Time|GMT]] 
+ |utc_offset              = 0 
+ |timezone_DST            = [[British Summer Time|BST]] 
+ |utc_offset_DST          = +1 
+ |settlement_type         = [[Town]]  &  [[Borough]] 
+ |subdivision_type        = [[List of sovereign states|Sovereign State]] 
+ |subdivision_type1       = [[Countries of the United Kingdom|Constituent country]] 
+ |subdivision_type2       = [[Regions of England|Region]] 
+ |subdivision_type3       = [[Non-metropolitan county]] 
+ |subdivision_type4       = Status 
+ |subdivision_type5       = Admin HQ 
+ |subdivision_name        = [[United Kingdom]] 
+ |subdivision_name1       = [[England]] 
+ |subdivision_name4       = [[Non-metropolitan district]] 
+ |government_type         = Non-metropolitan district council 
+ |leader_title            = Borough Council 
+ |leader_title1           = Mayor 
+ |leader_title2           = [[List of MPs elected in the United Kingdom general election, 2015|MPs]] 
+ |established_title1      = Incorporated 
+ |population_density_km2  = auto 
+ |population_blank1_title = Ethnicity 
+ |blank1_name             = [[ONS coding system|ONS code]] 
+ |blank2_name             = [[Ordnance Survey National Grid|OS grid reference]] 
+ |postal_code_type        = [[Postcodes in the United Kingdom|Postcodes]] 
+ |pushpin_label_position  = bottom 
+ < !-- Elements unique to this article -- > 
+ |official_name           = Gosport 
+ |other_name              = Borough of Gosport 
+ |image_skyline           =  
+ |imagesize               =  
+ |image_alt               =  
+ |image_caption           =  
+ |image_shield            =  
+ |shield_size             =  
+ |shield_alt              =  
+ |shield_link             =  
+ |image_map               = Gosport UK locator map.svg 
+ |mapsize                 =  
+ |map_alt                 =  
+ |map_caption             = Borough of Gosport shown within Hampshire 
+ |subdivision_name2       = [[South East England]] 
+ |subdivision_name3       = [[Hampshire]] 
+ |subdivision_name5       = Gosport 
+ |established_date1       =  
+ |leader_party            = {{English district control|GSS=E07000088}} 
+ |leader_name             = Gosport Borough Council 
+ |leader_name1            = Keith Gill 
+ |leader_name2            = [[Caroline Dinenage]] (Conservative) 
+ |area_rank               = {{English district area rank|GSS=E07000088}} [[List of English districts by area|(of {{English district total}})]] 
+ |area_total_km2         = 25.29 
+ |population_total       = {{English district population|GSS=E07000088}} 
+ |population_as_of       = {{English statistics year}} 
+ |population_rank        = {{English district rank|GSS=E07000088}} [[List of English districts by population|(of {{English district total}})]] 
+ |population_blank1      =  
+ |blank1_info            = 24UF (ONS) < br / > E07000088 (GSS) 
+ |blank2_info            = {{gbmappingsmall|SZ618998}} 
+ |website                = {{URL|www.gosport.gov.uk}} 
+ |postal_code            = [[PO postcode area|PO12, PO13]] 
+ |area_code              = 023  < ref > {{cite web|url=http://stakeholders.ofcom.org.uk/telecoms/numbering/ |title=Ofcom  & #124; Telecoms numbering |publisher=Stakeholders.ofcom.org.uk |date=28 April 2010 |accessdate=29 May 2013}} < /ref > 
+ |coordinates             = {{coord|50.794785|-1.124324|region:GB|display=inline}} 
+ }} 
+ '''Gosport''' is a town in [[Hampshire]], [[England]]. The population of Gosport is around 78,000  
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat-inline}} 
+ 
+ 
+ {{multistub|geo|UK}} 
+ {{authority control}} 
+ [[Category:Towns in Hampshire]]

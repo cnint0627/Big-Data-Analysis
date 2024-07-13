@@ -1,0 +1,103 @@
+{{lowercase title}} 
+ {{Infobox website 
+ |name           = arXiv 
+ |logo           = ArXiv logo 2022.png 
+ |screenshot     =  
+ |caption        =  
+ |url            = {{URL|https://arxiv.org/}} 
+ |commercial     = No 
+ |type           = [[Science]] 
+ |language       = [[English language|English]] 
+ |registration   =  
+ |owner          = [[Cornell University]] 
+ |author         = Paul Ginsparg 
+ |oclc           = 228652809 
+ |issn           = 2331-8422 
+ |revenue        =  
+ |current_status=Online 
+ |launch_date={{start date and age|1991|8|14}} 
+ }} 
+ '''arXiv''' (pronounced  " [[archive]] " —the X represents the Greek letter chi [χ]) < ref name= " Steele " > {{cite web |url=http://ezramagazine.cornell.edu/FALL12/CoverStorySidebar2.html |title=Library-managed 'arXiv' spreads scientific advances rapidly and worldwide |work=Ezra |date=Fall 2012 |page=9 |archive-url=https://web.archive.org/web/20150111003819/http://ezramagazine.cornell.edu/FALL12/CoverStorySidebar2.html |archive-date=January 11, 2015 |url-status=live |first=Bill |last=Steele |publisher=Cornell University |location=Ithaca, New York |volume=V |issue=1 |oclc=263846378 |quote=Pronounce it 'archive'. The X represents the Greek letter [[Chi (letter)|chi]] {{bracket|{{nnbsp}}χ{{nnbsp}}}}.}} < /ref >  is an open-access [[repository (data)|repository]] of scientific pre-prints. < ref > Pre-prints are scientific articles before being approved by [[peer review]]. Pre-prints which has been approved by peer-review are [[academic journal]]s.  < /ref >  All documents are stored as [[PDF]]. 
+ ==Importance== 
+ Generally, all scientific journals have peer-review procedures. This process sometimes take several years. The time lag made by this process will easily cause delay to the scientific community. arXiv was made to avoid this delay. 
+ ==Usage at Wikipedia etc.== 
+ {{see also|Template:Cite arXiv}} 
+ [[Wikipedia]] and some journals accept citations by arXiv. Some academic [[search engine]]s (such as [[Google Scholar]]) can help users to find arXiv pre-prints. 
+ ==Scientific areas== 
+ arXiv includes pre-prints from various scientific fields such as: 
+ * [[Computer science]] 
+ ** [[Artificial intelligence]] < ref > {{twitter|arXiv_AI|Artificial Intelligence arXiv}} < /ref > 
+ ** [[Machine learning]] < ref > {{twitter|arXiv__ml|Machine Learning arXiv}} < /ref > 
+ * [[Mathematics]] 
+ ** [[Algebraic geometry]] < ref > {{twitter|arXiv_math_AG|math.AG Algebraic Geometry daily arXiv submissions}} < /ref > 
+ ** [[Numerical analysis]] < ref > {{twitter|arXiv_math_NA|math.NA Numerical Analysis arXiv submissions}} < /ref > 
+ **[[Statistics]] < ref > {{twitter|arXiv_math_ST|math.ST Statistics Theory arXiv submissions}} < /ref > 
+ * [[Physics]] 
+ ==Similar websites== 
+ Today, there are several arXiv-like websites in other areas. 
+ * bioRxiv: This is the [[biology]] version of arXiv < ref > Abdill, R. J.,  &  Blekhman, R. (2019). Meta-Research: Tracking the popularity and outcomes of all bioRxiv preprints. Elife, 8, e45133. < /ref > < ref > Loew, L. M. (2016). Peer review and bioRxiv. Biophysical journal, 111(3), E01. < /ref > 
+ *ChemRxiv: This is the [[chemistry]] version of arXiv < ref > Kidd, R., Koch, W., Milne, J., Sens, I., Tegen, S., Wilson, E., ...  &  Brennan, M. (2018). ChemRxiv: Year One and Beyond. ChemRxiv (2018). < /ref > 
+ * EarthArXiv: [[Earth science]]  &  [[planetary science]] version of arXiv < ref > Jackson, C. (2018). EarthArXiv-A preprint server for the Earth and Planetary Sciences. EGUGA, 1429. < /ref > 
+ * medRxiv: [[Medicine]] version of arXiv. It includes many pre-prints about [[COVID-19]]. 
+ * SocArXiv: [[Social science]] version of arXiv < ref > Cohen, P. (2016). Developing SocArXiv: a new open archive of the social sciences to challenge the outdated journal system. Impact of Social Sciences Blog. < /ref > 
+ ==Further reading== 
+ {{Refbegin}} 
+ * {{cite journal 
+  | last = Giles | first = Jim 
+  | s2cid = 29003994 
+  | date = 2003 
+  | title = Preprint Server Seeks Way to Halt Plagiarists 
+  | journal = [[Nature (journal)|Nature]] 
+  | volume = 426 | issue = 6962  | page = 7 
+  | pmid = 14603280 
+  | doi = 10.1038/426007a 
+  | bibcode = 2003Natur.426Q...7G 
+  }} 
+ * {{cite journal 
+  | last = Ginsparg 
+  | first = Paul 
+  | date = 1997 
+  | title = Winners and Losers in the Global Research Village 
+  | url = https://www.cs.cornell.edu/~ginsparg/physics/blurb/pg96unesco.html 
+  | journal = The Serials Librarian 
+  | volume = 30 
+  | issue = 3–4 
+  | pages = 83–95 
+  | doi = 10.1300/J123v30n03_13 
+  | s2cid = 62596805 
+  }} 
+ 
+ * {{cite journal 
+  | last = Pinfield | first = Stephen 
+  | date = 2001 
+  | title = How Do Physicists Use an E-Print Archive? Implications for Institutional E-Print Services 
+  | journal = [[D-Lib Magazine]] 
+  | volume = 7 | issue = 12 | doi =  10.1045/december2001-pinfield 
+  }} 
+ 
+ * {{cite arXiv 
+  | last = Warner | first = Simeon 
+  | title = Open Archives Initiative protocol development and implementation at arXiv 
+  | date = 2001 
+  | eprint = cs/0101027 
+ }} 
+ * {{cite journal 
+  | date = 2004 
+  | title = What Is q-bio? 
+  | journal = Open Access Now 
+  }} 
+ {{Refend}} 
+ 
+ ==References and notes== 
+ {{reflist|2}} 
+ 
+ == Other websites == 
+ {{Commons category|ArXiv.org}} 
+ * {{official website|https://arxiv.org}} 
+ * {{twitter|arxiv_org}} - Unofficial bot 
+ * [https://www.arxiv-vanity.com/ arXiv Vanity] - converts the arXiv [[LaTeX]] sources to [[HTML]]. 
+ * [https://www.ar5iv.org/ ar5iv] - an [https://blog.arxiv.org/2022/02/21/arxiv-articles-as-responsive-web-pages/ arXiv Lab] converting the [[LaTeX]] sources to [[HTML]].  
+ 
+ [[Category:1991 establishments in the United States]] 
+ [[Category:Science websites]] 
+ [[Category:Archives]]

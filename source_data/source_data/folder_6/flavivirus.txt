@@ -1,0 +1,31 @@
+{{italictitle}} 
+ {{Taxobox 
+ | virus_group= iv 
+ | image = YellowFeverVirus.jpg 
+ | image_width = 250px 
+ | image_caption = A [[electron microscope|TEM]] [[micrograph]] of the [[yellow fever]] virus  
+ | familia = ''[[Flaviviridae]]'' 
+ | genus = '''''Flavivirus''''' 
+ | type_species= ''[[Yellow fever virus]]''  
+ }} 
+ 
+ '''''Flavivirus''''' is a [[genus]] of the family [[Flaviviridae]]. This genus includes the [[West Nile virus]], [[dengue fever]] virus, [[Tick-borne Encephalitis Virus|tick-borne encephalitis virus]], [[yellow fever]] virus, [[Zika virus]], and several other [[Virus|viruses]] which may cause [[encephalitis]] ([[Inflammation|swelling]] in the [[brain]]). < ref name= " ShiP-Y " > {{cite book|title=Molecular Virology and Control of Flaviviruses|date=2012|publisher=Caister Academic Press|isbn=978-1-904455-92-9|editor-last=Shi, P-Y}} < /ref > 
+ 
+ ''Flaviviruses'' are named for the yellow fever virus -  " flavus "  means  " yellow "  in [[Latin]].  (Yellow fever was named because it often caused yellow-colored skin, called [[jaundice]], in its victims.) < ref > {{cite journal |author=Jarcho S 1957 |title=John Mitchell, Benjamin Rush, and Yellow fever |url= |journal=Bulletin of the History of Medicine |year=1957 |volume=31 |issue=2 |pages=132–136|doi=|pmid=13426674 }} < /ref > 
+   
+ ''Flaviviruses'' share a common size (40-65 [[Nanometre|nm]]) and [[Symmetry (biology)|symmetry]] (shape), and they look similar under an [[electron microscope]].  They are made of single-stranded [[RNA]]. < ref name=ViralZone > {{cite web|title=Viral Zone|url=http://viralzone.expasy.org/all_by_species/24.html|publisher=ExPASy}} < /ref > 
+   
+ Humans get these viruses after being bitten by an infected [[mosquito]] or [[Acarina|tick]].  Usually, if a human who has a ''Flavivirus'' gets bitten by a healthy mosquito or tick, the human will not have enough of the virus in their blood to infect the [[insect]].  This means humans do not help continue the virus's [[life cycle]] (by infecting insects who go on to infect other people).  However, this is not true for yellow fever or dengue fever. < ref name=ViralZone/ > 
+   
+ People can also get ''Flaviviruses'' in other ways, like: < ref > {{cite book |last=Kalitzky |first=Matthias |date=October 5, 2005 |title=Molecular Biology of the Flavivirus |url= |location= |publisher=Taylor  &  Francis Ltd. |page= |isbn=1-904933-22-X}} < /ref > 
+ * Touching the dead bodies of animals who had a ''Flavivirus'' 
+ * Getting a blood transfusion from someone who has a ''Flavivirus'' 
+ * [[Sexual intercourse|Having sex]] with someone who has a ''Flavivirus'': this has been proven true at least for the Zika virus. < ref name= " :1 " > {{Cite journal|title = Zika virus: a previously slow pandemic spreads rapidly through the Americas|url = http://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.000381.v1|journal = Journal of General Virology|date = 2015-12-18|doi = 10.1099/jgv.0.000381|first1 = Derek|last1 = Gatherer|first2 = Alain|last2 = Kohl|volume = 97|issue = 2|pages = 269–273|pmid = 26684466}} < /ref > 
+ * Drinking [[Pasteurization|unpasteurized]] [[Dairy product|milk products]] 
+ * A [[fetus]] can get a ''Flavivirus'' from its mother during [[childbirth]] 
+ It is not likely that animals can spread ''Flaviviruses'' directly to humans.  [[Scientist|Scientists]] believe that an mosquito or tick has to bite an infected animal before it can spread the virus to a human by biting that human.  This means that ''Flaviviruses'' are probably not [[Infectious disease|contagious diseases]].  For example, early tests with yellow fever showed that the disease is not a contagious disease. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[category:Viruses]]

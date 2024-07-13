@@ -1,0 +1,27 @@
+{{complex|reason=Consensus unreached|date=June 2021}} 
+ [[File:Parabola.svg|thumb|right|A parabola]] 
+ [[Image:Parabel som keglesnit.jpg|right|thumb|A parabola obtained as the intersection of a cone with a plane parallel to a straight line on its surface]] 
+ 
+ A '''parabola''' is a type of [[curve]]. [[Menaechmus]] (380–320 BC) discovered the parabola, and [[Apollonius of Perga]] (262 BC–c190 BC) first named it. 
+ 
+ A parabola is a [[conic section]]. If a [[cone]] is cut by a [[Plane (mathematics)|plane]] which is [[Parallel (geometry)|parallel]] to one of the [[surface]]s of the cone, the result is a parabola. 
+ 
+ The [[Point (geometry)|point]] where the parabola reaches its [[Maximum and minimum|maximum or minimum]] is called the  " vertex. "  At this point the curvature of the parabola is greatest. This means the curve of the parabola is the tightest. The vertical line which passes through a parabola's vertex is called the  " axis of symmetry " . This is because the parabola looks the same on either side of that line. 
+ 
+ Each parabola has a focal point. Any [[Ray (mathematics)|ray]] that enters the parabola and is parallel to the axis of symmetry will pass through this point after being reflected by the curve. Because of this fact, parabolas are important in devices such as [[satellite dish]]es, or magnifying [[mirror]]s. Parabolas are often used to [[Approximation|approximate]] curves that are more difficult to model by themselves. 
+ 
+ Every parabola uses the [[equation]]  < math > y = ax^2 + bx + c < /math > , where  < math > a < /math > ,  < math > b < /math >  and  < math > c < /math >  are [[Constant|constants]], and  < math > a < /math >  is not equal to  < math > 0 < /math > .   
+ 
+ [[File:Parts_of_Parabola.svg|thumb|Parts of a parabola]] 
+ < gallery > 
+ File:Bouncing ball strobe edit.jpg|The bouncing of a ball will be parabolic, if the [[Friction|force of friction]] is ignored 
+ File:ParabolicWaterTrajectory.jpg|The course of the water in a [[fountain]] is parabolic 
+ File:St Louis Gateway Arch.jpg|The [[Gateway Arch]] in [[St. Louis]] looks like it is shaped like a parabola, but it is actually an inverted weighted [[catenary]] 
+ File:Offset Schotelantenne.jpg|A satellite receiver is shaped like a parabola 
+ < /gallery > 
+ 
+ [[File:Conic Sections.svg|thumb|The parabola is a member of the family of [[conic section]]s.]] 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Conic sections]]

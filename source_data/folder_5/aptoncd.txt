@@ -1,0 +1,40 @@
+{{complex|date=March 2012}} 
+ {{Infobox Software 
+ | name                   = APTonCD 
+ | logo                   =  
+ | screenshot             = APTonCD.png 
+ | caption                =  
+ | collapsible            =  
+ | author                 =  
+ | developer              = Laudeci Oliveira (aka Pretto) < ref > {{cite web|url=http://aptoncd.sourceforge.net/develop.html#people|title=APTonCD|website=aptoncd.sourceforge.net}} < /ref > 
+ | released               =  
+ | latest release version = 0.1-1 
+ | latest release date    =  
+ | latest preview version =  
+ | latest preview date    =  
+ | frequently updated     =  
+ | programming language   =  
+ | operating system       = [[Linux]] ([[Debian]]/[[Ubuntu]]) 
+ | platform               =  
+ | size                   =  
+ | language               =  
+ | status                 =  
+ | genre                  = offline repository 
+ | license                =  
+ | website                = http://aptoncd.sourceforge.net/ 
+ }} 
+ 
+ '''APTonCD''' is a tool that can create one or more [[.iso|ISOs]], CDs or DVDs with all of the packages the user downloaded via APT-GET or APTITUDE, creating a removable repository that the user can use on other computers. 
+ 
+ APTonCD will also allow the user to automatically create media with all of the .deb packages in one specific repository, so that the user can install them into other computers without the need for an internet connection. 
+ 
+ ==Related pages== 
+ *[[SuperDeb]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux]]

@@ -1,0 +1,30 @@
+[[File:Trump’s arrest (2).jpg|thumb|Fake image of [[Donald Trump]] being arrested.]]'''Deepfake''' is the name for media content that has been changed, or created using technologies of [[artificial intelligence]]. In most cases, deepfakes are [[photos]],  or sequences of [[Video|videos]] or [[audio]]. In itself, [[media manipulation]] is not new. Using [[machine learning]], and [[Artificial neural network|artificial neural networks]], it is possible to create such content more easily, as less specialized knowledge is required. Also, detecting that an image, video  or media piece was made using these technologies is becoming more difficult.  
+ 
+ As of 2023, deepfakes are used in different contexts: 
+ 
+ * Creating material showing cases of [[Child sexual abuse|sexual abuse of children]] or [[child pornography]]. Such material can have a direct impact on children, including [[defamation]], [[Child grooming|grooming]], [[extortion]], and [[bullying]]. < ref > {{Cite journal|last=Kirchengast|first=T|date=2020|title=Deepfakes and image manipulation: criminalisation and control.|journal=Information  &  Communications Technology Law|volume=29|issue=3|pages=308–323|doi=10.1080/13600834.2020.1794615|s2cid=221058610}} < /ref > 
+ 
+ * Creating material showing celebrities doing [[Pornography|porn]] 
+ * Creaing [[revenge porn]]. 
+ * [[Fake news]] 
+ * Material for [[bullying]] or [[Blackmail|blackmailing]]. A report by the American [[Congressional Research Service]] warned that deepfakes could be used to blackmail elected officials or those with access to [[classified information]] for [[espionage]] or influence purposes. < ref name= " CRS1 " > {{cite report|first2=Laurie A.|last2=Harris|first1=Kelley M.|last1=Tayler|date=June 8, 2021|title=Deep Fakes and National Security|url=https://crsreports.congress.gov/product/pdf/IF/IF11333|publisher=[[Congressional Research Service]]|page=1|access-date=July 19, 2021}} < /ref > 
+ * Financial [[fraud]] 
+ 
+ == Problems == 
+ Deepfakes cause a number of problems: 
+ 
+ * Audio deepfakes are used for [[Social engineering (security)|social engineering]]. The people then believe they get instructions from someone they trust. < ref name= " Statt-2019 " > {{cite news|last=Statt|first=Nick|date=5 Sep 2019|title=Thieves are now using AI deepfakes to trick companies into sending them money|url=https://www.theverge.com/2019/9/5/20851248/deepfakes-ai-fake-audio-phone-calls-thieves-trick-companies-stealing-money|url-status=live|access-date=13 Sep 2019|archive-url=https://web.archive.org/web/20190915151504/https://www.theverge.com/2019/9/5/20851248/deepfakes-ai-fake-audio-phone-calls-thieves-trick-companies-stealing-money|archive-date=15 September 2019}} < /ref >  In 2019, a U.K.-based energy firm's CEO was scammed over the phone when he was ordered to transfer €220,000 into a Hungarian bank account by an individual who used audio deepfake technology to impersonate the voice of the firm's parent company's chief executive. < ref name= " Damiani-2019 " > {{Cite web|last=Damiani|first=Jesse|title=A Voice Deepfake Was Used To Scam A CEO Out Of $243,000|url=https://www.forbes.com/sites/jessedamiani/2019/09/03/a-voice-deepfake-was-used-to-scam-a-ceo-out-of-243000/|url-status=live|archive-url=https://web.archive.org/web/20190914192455/https://www.forbes.com/sites/jessedamiani/2019/09/03/a-voice-deepfake-was-used-to-scam-a-ceo-out-of-243000/|archive-date=14 September 2019|access-date=2019-11-09|website=Forbes|language=en}} < /ref >   
+ * Fake photos and videos make it difficult to tell if a photo or video is real or a fake. This can be used for [[disinformation]]. 
+ 
+ == Shallowfakes == 
+ Shallowfakes or cheapfakes are similar to deepfakes. They use the same techonlogies, but are less advanced. As an example, they might show a real image, in a different context, so that a different impression is generated. < ref > {{cite web|author=Bobbie Johnson|url=https://www.technologyreview.com/2019/03/25/136460/deepfakes-shallowfakes-human-rights/|title=Deepfakes are solvable—but don’t forget that “shallowfakes” are already pervasive|publisher=MIT Technology Review|date=2019-03-25|access-date=2023-05-16|language=en}} < /ref >    
+ ==Gallery== 
+ < gallery > 
+ File:AI Photo of John XXIII Signing document.png|AI-generated image of [[Pope John XXIII]] signing a document. The image was generated in 2023, the pope died in 1963. 
+ File:Hyperrealistic image of Sylvia Kristel in 1974.png|AI-generated image of [[Sylvia Kristel]] (1952-2012), showing her in 1974. Kristel was a model and actress who became known for starring in a number of soft-porn movies. 
+ File:Sylvia Kristel (1973).jpg|Kristel, after winning Miss TV Europe, in 1973. This is a real image. 
+ File:Elvis Presley at the age of 65, imaginative artist depiction.jpg|AI generated image of [[Elvis Presley]], aged 65. Presley died when he was 42 years old. 
+ < /gallery > 
+ 
+ == References == 
+ {{Reflist}}{{uncat|date=December 2023}}

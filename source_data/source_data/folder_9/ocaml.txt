@@ -1,0 +1,47 @@
+{{Infobox programming language 
+  | name                   = OCaml 
+  | logo                   = OCaml Logo.svg 
+  | logo caption           =  
+  | screenshot             =  
+  | screenshot caption     =  
+  | paradigm               = [[Programming paradigm#Multi-paradigm|Multi-paradigm]]: [[functional programming|functional]], [[imperative programming|imperative]], [[modular programming|modular]], < ref > {{cite web|title=Modules|url=https://ocaml.org/learn/tutorials/modules.html|access-date=22 February 2020}} < /ref >  [[object-oriented programming|object-oriented]] 
+  | family = [[ML (programming language)|ML]] 
+  | scope                  = 
+  | released               = {{Start date and age|1996}} 
+  | designer               = [[Xavier Leroy]], Jérôme Vouillon, [[Damien Doligez]], Didier Rémy, Ascánder Suárez 
+  | developer              = [[French Institute for Research in Computer Science and Automation|INRIA]] 
+ 
+  | latest release version = {{wikidata|property|edit|reference|P548=Q2804309|P348}} 
+  | latest release date    = {{start date and age|{{wikidata|qualifier|P548=Q2804309|P348|P577}}}} 
+  | latest preview version =  
+  | latest preview date    =  < !-- {{Start date and age|YYYY|MM|DD}} -- > 
+  | typing                 = [[type inference|Inferred]], [[static typing|static]], [[strong and weak typing|strong]], [[structural typing|structural]] 
+  | implementations        =  
+  | influenced by          = [[C (programming language)|C]], [[Caml]], [[Modula-3]], [[Pascal (programming language)|Pascal]], [[Standard ML]] 
+  | influenced             = [[ATS (programming language)|ATS]], [[Coq]], [[Elm (programming language)|Elm]], [[F Sharp (programming language)|F#]], [[F* (programming language)|F*]], [[Haxe]], [[Opa (programming language)|Opa]], [[Rust (programming language)|Rust]], [[Scala (programming language)|Scala]] 
+  | programming language   = OCaml, [[C (programming language)|C]] 
+  | platform               = [[IA-32]], [[x86-64]], [[Power ISA|Power]], [[SPARC]], [[ARM architecture|ARM 32-64]] 
+  | operating system       = [[Cross-platform]]: [[Unix]], [[macOS]], [[Microsoft Windows|Windows]] 
+  | license                = [[GNU Lesser General Public License|LGPLv2.1]] 
+  | file ext               = .ml, .mli 
+  | wikibooks              = Objective Caml 
+ }} 
+ '''Objective Caml''' ('''OCaml''') is a [[programming language]] which is a dialect of [[ML (programming language)]]. It extends the [[Caml]] language so [[object-oriented programming]] can be used.  
+ 
+ ==Bibliography== 
+ * {{cite book |last1=Whitington |first1=John |title=OCaml from the Very Beginning |date=2013 |publisher=Coherent Press |isbn=9780957671102 |url=https://books.google.com/books?id=DYeOAQAAQBAJ & q=ocaml}} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{wikibooks|OCaml}} 
+ * {{Official website}} 
+ * [http://caml.inria.fr/pub/docs/manual-ocaml/ OCaml manual] 
+ * [https://opam.ocaml.org/ OCaml Package Manager] 
+ * [https://realworldocaml.org Real World OCaml] 
+ 
+ [[Category:Programming languages]] 
+ 
+ 
+ {{Tech-stub}}

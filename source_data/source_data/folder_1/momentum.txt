@@ -1,0 +1,47 @@
+'''Linear momentum''', '''translational momentum''' or simply '''momentum''' is the product of a body's [[mass]] and its [[velocity]]:  
+ 
+ : < math > \mathbf{p}= m \mathbf{v} < /math > 
+ where '''p''' is the momentum, ''m'' is the mass and '''v''' is the velocity. 
+ 
+ Momentum can be thought of as the  " power "  when a body is moving, meaning how much force it can have on another body.  For example,  
+ #a bowling ball (large mass) moving very slowly (low velocity) can have the same momentum as a baseball (small mass) that is thrown fast (high velocity).  
+ #A bullet is another example where the momentum is very-very high, due to the extraordinary velocity.  
+ #Another example where very low-velocities cause greater momentum is the push of [[Indian subcontinent]] towards the rest of Asia, causing serious damages, such as [[earthquakes]] in the area of the [[Himalayas]]. In this example, the subcontinent is moving as slowly as few inches per year but the mass of the Indian-subcontinent is very high.  
+ 
+ '''Momentum''' is a [[vector]] quantity, which has both [[direction]] and [[magnitude]]. Its unit is ''kg m/s'' (kilogram metre per second) or ''N s'' (newton second). 
+ 
+ Momentum is a [[Conservation law|conserved]] quantity, meaning that the total initial momentum of a system must be equal to  the total final momentum of the system. The total '''momentum''' remains unchanged. 
+ 
+ == Formula == 
+ In [[Newtonian physics]], the usual symbol for momentum is the letter '''p''' ; so this can be written 
+ : < math > \mathbf{p}= m \mathbf{v} < /math > 
+ where '''p''' is the momentum, ''m'' is the mass and '''v''' is the velocity 
+ < br > 
+ If we apply [[Newton's 2nd Law]], we can derive 
+ : < math > \mathbf{F}= {mv_2-mv_1\over\ {t_2-t_1}} < /math > 
+ The meaning is that the net force on an object is equal to the rate of change in momentum of the object. 
+ 
+ In order to use this equation in [[special relativity]], '''m''' has to change with speed.  That is sometimes called the  " [[relativistic mass]] "  of the object.  (Scientists who work with special relativity use other equations instead.) 
+ 
+ == Impulse == 
+ '''Impulse''' is the change in momentum caused by a new force: this force will increase or decrease the momentum depending on the direction of the force; towards or away from the body that was moving before. If the new force (N) is going in the direction of the momentum of the body (x), the momentum of x will increase; therefore if N is going towards body x in the opposite direction, x will slow down and its momentum will decrease. 
+ 
+ ==Law of conservation of momentum== 
+ < math > \Sigma p = C  < /math > < br/ > 
+ In understanding conservation of momentum, the direction of the momentum is important.  In a system, momentum is added up using [[vector addition]].  Under the rules of vector addition, adding a certain amount of momentum together with the same amount of momentum going in the opposite direction gives a total momentum of zero. 
+ 
+ For instance, when a gun is fired, a small mass (the bullet) moves at a high speed in one direction.  A larger mass (the gun) moves in the opposite direction at a much slower speed.  The momentum of the bullet and the momentum of the gun are exactly equal in size but opposite in direction.  Using vector addition to add the momentum of the bullet to the momentum of the gun (equal in size but opposite in direction) gives a total system momentum of zero.  The momentum of the gun-bullet system has been conserved. 
+ 
+ A collision also shows conservation of momentum: if a car (1000 & nbsp;kg) is going right at 8 & nbsp;m/s, and a truck (6000 & nbsp;kg) is going left at 2 & nbsp;m/s, the car and truck will be moving left after the collision. This exercise shows why: < br / > 
+ Momentum = Mass x Velocity < br / > 
+ The car's momentum: 1000 & nbsp;kg x 8 & nbsp;m/s = 8000kgm/s    (Going right) < br / > 
+ The truck's momentum: 6000 & nbsp;kg x 2 & nbsp;m/s = 12000kgm/s (Going left) < br / > 
+ This means their total momentum is 4000kgm/s.    (Going left) 
+ 
+ ==Related pages== 
+ *[[Angular momentum]] 
+ *[[Movement]] 
+ 
+ [[Category:Physical quantity]] 
+ [[Category:Mechanics]] 
+ [[Category:Basic physics ideas]]

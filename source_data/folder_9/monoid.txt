@@ -1,0 +1,19 @@
+In [[abstract algebra]], a '''monoid''' is a set of elements 
+ along with an operation that has two key properties: 
+ 
+ #The operation can combine the elements associatively; e.g.  < math > (A + B) + C = A + (B + C) < /math > 
+ #There exists an identity element; e.g.  < math > 1 \times X = X < /math > , or  < math > 0 + X = X < /math > 
+ 
+ The operation need not have the [[commutative property]]. 
+ 
+ In [[computing]] science common monoids include [[addition]], [[multiplication]], or, and. These properties are useful for various problems e.g. they allow a large set of data to be divided, processed in parallel and combined. As each part produces a monoid, the final combined result will be the same. This also works with more complex monoids, such as a map from words to the number of times they appear in a document. 
+ 
+ Character [[strings]] also form a monoid over [[concatenation]] with the empty string  " "  as the identity element. Examples of the two properties are  " abc "  + ( " def "  +  " ghi " ) = ( " abc "  +  " def " ) +  " ghi "  and  " abc "  +  " "  =  " " +  " abc "  =  " abc " .  This is true even though  " abc "  +  " def "  ≠  " def "  +  " abc " . 
+ 
+ == Other websites == 
+ {{wikibooks-inline|Haskell/Monoids}} 
+ 
+ [[Category:Abstract algebra]] 
+ 
+ 
+ {{Math-stub}}

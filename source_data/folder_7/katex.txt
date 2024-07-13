@@ -1,0 +1,48 @@
+{{Infobox software 
+ | name = KaTeX 
+ | logo = [[File:Katex.png]] 
+ | latest release version = v0.12.0 < ref > {{cite web|url=https://github.com/Khan/KaTeX/releases/tag/v0.12.0|title=Release v0.12.0|website=KaTeX|date=2020-07-12}} < /ref > 
+ | latest release date = {{Start date and age|2020|07|12}} 
+ | operating system = [[Cross-platform]] 
+ | programming language = [[JavaScript]] 
+ | genre = Mathematical software 
+ | license = [[MIT License]] 
+ | website = {{URL|https://katex.org/}} 
+ }} 
+ 
+ '''KaTeX''' is a JavaScript library that shows [[mathematical notation]] on any [[web browser]]. It aims to be fast and easy to use. < ref name=CindyJS > {{citation 
+  | last1 = von Gagern | first1 = Martin 
+  | last2 = Richter-Gebert | first2 = Jürgen 
+  | editor1-last = Greuel | editor1-first = Gert-Martin 
+  | editor2-last = Koch | editor2-first = Thorsten 
+  | editor3-last = Paule | editor3-first = Peter 
+  | editor4-last = Sommese | editor4-first = Andrew 
+  | contribution = CindyJS Plugins 
+  | doi = 10.1007/978-3-319-42432-3_40 
+  | pages = 327–334 
+  | publisher = Springer 
+  | series = Lecture Notes in Computer Science 
+  | title = Mathematical Software – ICMS 2016: 5th International Conference, Berlin, Germany, July 11–14, 2016, Proceedings 
+  | volume = 9725 
+  | year = 2016}} < /ref > 
+ 
+ It was initially developed by [[Khan Academy]]. < ref > {{cite journal|title= < span class= " texhtml "  style= " font-family: 'CMU Serif', cmr10, LMRoman10-Regular, 'Nimbus Roman No9 L', 'Times New Roman', Times, serif; " > T < span style= " text-transform: uppercase; vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em; " > e < /span > X < /span >  as a three-stage rocket: Cookie-cutter page breaking|first=S. K.|last=Venkatesan|journal=TUGboat|publisher= < span class= " texhtml "  style= " font-family: 'CMU Serif', cmr10, LMRoman10-Regular, 'Nimbus Roman No9 L', 'Times New Roman', Times, serif; " > T < span style= " text-transform: uppercase; vertical-align: -0.5ex; margin-left: -0.1667em; margin-right: -0.125em; " > e < /span > X < /span >  User's Group|volume=36|issue=2|year=2015|pages=145–148}} < /ref >  This is why it starts from [[K]]. KaTeX is known to be one of the top five popular projects on [[GitHub]] in September [[2014]]. < ref > {{citation|url=https://sdtimes.com/awesome-node-js/top-5-projects-trending-on-github-this-week-42/|magazine=SD Times|title=Top 5 projects trending on GitHub this week|first=Rob|last=Marvin|date=September 19, 2014}} < /ref > 
+ 
+ == Features == 
+ KaTeX claims to be: 
+ 
+ * Fast: It doesn’t need to reload the [[webpage]]. 
+ * Print quality: It is based on [[LaTeX]]. 
+ * No dependencies: It doesn't need anything else for [[installation (computer programs)|installation]]. 
+ 
+ == References == 
+ {{Reflist|2}} 
+ 
+ == Other websites == 
+ * {{Official website|https://khan.github.io/KaTeX/}} 
+ * [http://aperiodical.com/2014/09/katex-the-fastest-math-typesetting-library-for-the-web/  " KaTeX is a (partial) alternative to (some of) MathJax " ] 
+ * [http://www.intmath.com/blog/mathematics/katex-a-new-way-to-display-math-on-the-web-9445  " KaTeX - a new way to display math on the Web " ] 
+ * [http://www.intmath.com/cg5/katex-mathjax-comparison.php KaTeX-MathJax comparison] 
+ {{DEFAULTSORT:katex}} 
+ [[Category:Free software]] 
+ [[Category:JavaScript]]

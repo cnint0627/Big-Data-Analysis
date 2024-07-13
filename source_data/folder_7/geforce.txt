@@ -1,0 +1,104 @@
+[[File:GeForce (2022).svg|thumb|Logo since 2022]] 
+ 
+ '''GeForce''' is a brand name by [[Nvidia]]. It is a series of [[Video card|video cards]]. 
+ 
+ Their main competitor is [[AMD]] with their [[AMD Radeon|Radeon]] line. 
+ 
+ == History == 
+ GeForce is the successor of the [[RIVA TNT2]] line. 
+ 
+ In early 1999, Nvidia made a contest named  " Name That Chip " . The public should find a name for Nvidia's next video card. 7 winners should get a RIVA TNT2 Ultra as reward. < ref > {{Cite web|title=NVIDIA Naming Contest!|url=http://www.nvidia.com/namingcontest|access-date=2021-01-25|website=web.archive.org|archive-date=2000-06-08|archive-url=https://web.archive.org/web/20000608011648/http://www.nvidia.com/namingcontest|url-status=bot: unknown}} < /ref >  The name  " GeForce "  won. 
+ [[File:KL_NVIDIA_Geforce_256.jpg|thumb|GPU of the GeForce 256, the NV10]] 
+ The first card in the series was the [[GeForce 256]]. It was released on September 1, 1999. 
+ 
+ The latest video card series under the GeForce brand is the [[GeForce 40 series]] as of 2023. 
+ 
+ == Timeline == 
+ {| class= " wikitable release_timeline " 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |1999 
+ |[[GeForce 256]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2000 
+ |[[GeForce 2 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2001 
+ |[[GeForce 3 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2002 
+ |[[GeForce 4 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2003 
+ |[[GeForce FX series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2004 
+ |[[GeForce 6 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2005 
+ |[[GeForce 7 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2006 
+ |[[GeForce 8 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #619700 "  |2007 
+ |- 
+ ! rowspan= " 2 "  scope= " row "  style= " border-right:1.4em solid #76B900 "  |2008 
+ | class= " rt_first "  |[[GeForce 9 series]] 
+ |- 
+ | class= " rt_last "  |[[GeForce 200 series]] 
+ |- 
+ ! rowspan= " 2 "  scope= " row "  style= " border-right:1.4em solid #76B900 "  |2009 
+ | class= " rt_first "  |[[GeForce 100 series]] 
+ |- 
+ | class= " rt_last "  |[[GeForce 300 series]] 
+ |- 
+ ! rowspan= " 2 "  scope= " row "  style= " border-right:1.4em solid #76B900 "  |2010 
+ | class= " rt_first "  |[[GeForce 400 series]] 
+ |- 
+ | class= " rt_last "  |[[GeForce 500 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #619700 "  |2011 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2012 
+ |[[GeForce 600 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2013 
+ |[[GeForce 700 series]] 
+ |- 
+ ! rowspan= " 2 "  scope= " row "  style= " border-right:1.4em solid #76B900 "  |2014 
+ | class= " rt_first "  |[[GeForce 800M series]] 
+ |- 
+ | class= " rt_last "  |[[GeForce 900 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #619700 "  |2015 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2016 
+ |[[GeForce 10 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #619700 "  |2017 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2018 
+ |[[GeForce 20 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2019 
+ |[[GeForce 16 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2020 
+ |[[GeForce 30 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #619700 "  |2021 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #76B900 "  |2022 
+ |[[GeForce 40 series]] 
+ |- 
+ ! scope= " row "  style= " border-right:1.4em solid #619700 "  |2023 
+ |} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.nvidia.com/page/desktop.html Official website] 
+ * [http://www.geforce.com/ GeForce powered games] 
+ 
+ [[Category:Computer hardware]] 
+ [[Category:Nvidia]]

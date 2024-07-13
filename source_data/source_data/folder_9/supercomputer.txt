@@ -1,0 +1,67 @@
+[[File:Cray 2 Arts et Metiers dsc03940.jpg|thumb|300px|The [[Cray-2]], the world's fastest supercomputer from 1985 to 1989]] 
+ 
+ A '''supercomputer''' is a [[computer]] with great speed and [[memory]]. This kind of computer can do jobs faster than any other computer of its generation. They are usually thousands of times faster than ordinary [[personal computer]]s made at that time. Supercomputers can do [[arithmetic]] jobs very fast, so they are used for [[weather forecast]]ing, [[code-breaking]], [[gene]]tic analysis and other jobs that need many calculations. When new computers of all classes become more powerful, new ordinary computers are made with powers that only supercomputers had in the past, while new supercomputers continue to outclass them.  
+ 
+ [[Electrical engineer]]s make supercomputers that link many thousands of [[microprocessor]]s. 
+ 
+ == Types == 
+ Supercomputer types include: shared memory, distributed memory and array. Supercomputers with shared memory are developed by using a [[parallel computing]] and [[pipelining]] concept. Supercomputers with distributed memory consist of many (about 100~10000) nodes. CRAY series of CRAYRESERCH and VP 2400/40, NEC의 SX-3 of HUCIS are shared memory types. nCube 3, iPSC/860, AP 1000, NCR 3700, Paragon XP/S, CM-5 are distributed memory types. 
+ 
+ 
+ An array type computer named ILIAC started working in 1972. Later, the CF-11, CM-2, and the Mas Par MP-2 (which is also an array type) were developed. Supercomputers that use a physically separated memory as one shared memory include the T3D, KSR1, and Tera Computer. 
+ 
+ === Supercomputing centers, organizations === 
+ ''Organizations'' 
+ * [http://www.deisa.org/ DEISA] Distributed European Infrastructure for Supercomputing Applications, a facility integrating eleven European supercomputing centers. 
+ * [http://www.naregi.org/index_e.html NAREGI] {{Webarchive|url=https://web.archive.org/web/20081223014652/http://www.naregi.org/index_e.html |date=2008-12-23 }} Japanese NAtional REsearch Grid Initiative involving several supercomputer centers 
+ * [http://www.teragrid.org TeraGrid] {{Webarchive|url=https://web.archive.org/web/20070630140544/http://www.teragrid.org/ |date=2007-06-30 }}, a national facility integrating nine US supercomputing centers 
+ ''Centers'' 
+ * [http://www.bsc.es BSC] Barcelona Supercomputing Center - Spanish national supercomputing facility and R & D center 
+ * [http://www.cesca.es/en CESCA] {{Webarchive|url=https://web.archive.org/web/20081220052908/http://www.cesca.es/en/ |date=2008-12-20 }} Supercomputing Centre of Catalonia - Centre de Supercomputacio de Catalunya 
+ * [http://www.cesga.es CESGA] Galicia Supercomputing Center - Centro de Supercomputación de Galicia 
+ * [http://www.cesvima.upm.es CeSViMa] Supercomputing and Visualization Center of Madrid 
+ * [http://www.cineca.it/en CINECA] CINECA Interuniversity Consortium, Italy 
+ * [http://www.cines.fr/ CINES] Centre Informatique National de l'Enseignement Superieur, France 
+ * [http://www.csar.cfs.ac.uk CSAR] UK national supercomputer service operated by [http://www.mc.manchester.ac.uk Manchester Computing] 
+ * [http://www.epcc.ed.ac.uk/ EPCC] Edinburgh Parallel Computing Centre. Based in the [[University of Edinburgh]].  
+ * [http://www.gsic.titech.ac.jp/ GSIC] Global Scientific Information and Computing Center at the [http://www.titech.ac.jp/ Tokyo Institute of Technology] 
+ * [[HECToR]] UK national supercomputer service provided by a consortium of EPCC, Cray and [[Numerical Algorithms Group]] (NAG) 
+ * [http://www.hpcx.ac.uk HPCx] {{Webarchive|url=https://web.archive.org/web/20200103014838/http://www.hpcx.ac.uk/ |date=2020-01-03 }} UK national supercomputer service operated by EPCC and Daresbury Lab 
+ * [http://www.irb.hr/en/ IRB] {{Webarchive|url=https://web.archive.org/web/20081213010224/http://www.irb.hr/en/ |date=2008-12-13 }} 
+ * [http://www.msi.umn.edu Minnesota Supercomputer Institute] (Formerly Minnesota Supercomputer Center) operated by [[University of Minnesota]] 
+ * [http://www.nas.nasa.gov NASA Advanced Supercomputing facility] {{Webarchive|url=https://web.archive.org/web/20171202212843/https://www.nas.nasa.gov/ |date=2017-12-02 }} 
+ * [http://www.ucar.edu National Center for Atmospheric Research (NCAR)] 
+ * [http://www.ncsa.uiuc.edu National Center for Supercomputing Applications (NCSA)] 
+ * [http://www.nersc.gov National Energy Research Scientific Computing Center (NERSC)] 
+ * [http://www.osc.edu Ohio Supercomputer Center (OSC)] 
+ * [http://www.psc.edu/ Pittsburgh Supercomputing Center] operated by [[University of Pittsburgh]] and [[Carnegie Mellon University]]. 
+ * [http://www.sdsc.edu San Diego Supercomputer Center (SDSC)] 
+ * [http://www.sara.nl/userinfo/lisa/usage/batch/index.html SARA] {{Webarchive|url=https://web.archive.org/web/20060208010453/http://www.sara.nl/userinfo/lisa/usage/batch/index.html |date=2006-02-08 }} (Stichting Academisch Rekencentrum Amsterdam), Amsterdam, The Netherlands 
+ * [http://www.tcf.vt.edu/systemX.html System X] {{Webarchive|url=https://web.archive.org/web/20040917045638/http://www.tcf.vt.edu/systemX.html |date=2004-09-17 }} at [[Virginia Polytechnic Institute and State University|Virginia Tech]] 
+ * [http://www.tacc.utexas.edu Texas Advanced Computing Center (TACC)] 
+ * [http://www.dcsc.ku.dk/ DCSC] Danish Centre for Scientific Computing. Based at the [[University of Copenhagen]]. 
+ * [http://www.man.poznan.pl PSNC] (Poznan Supercomputing and Networking Center), Poznan, Poland 
+ * [http://www.nsc.liu.se/ NSC] National Supercomputer Centre in Sweden at [[Linköping University]], [[Sweden]] 
+ 
+ === Specific machines, general-purpose === 
+ * [http://lwn.net/Articles/4759/ Linux NetworX press release: Linux NetworX to build  " largest "  Linux supercomputer] 
+ * [http://www.llnl.gov/asci/news/white_news.html ASCI White press release] {{Webarchive|url=https://web.archive.org/web/20061008032634/http://www.llnl.gov/asci/news/white_news.html |date=2006-10-08 }} 
+ * [https://www.llnl.gov/str/June03/McCoy.html MCR @ LLNL Linux NetworX '''Supermicro''' based Supercomputer  " 3rd largest supercomputer in 2004 " ] {{Webarchive|url=https://web.archive.org/web/20121010194855/https://www.llnl.gov/str//June03/McCoy.html |date=2012-10-10 }} 
+ * [http://www.hoise.com/primeur/02/articles/weekly/AE-PR-05-02-59.html Article about Japanese  " Earth Simulator "  computer] {{Webarchive|url=https://web.archive.org/web/20081223092241/http://www.hoise.com/primeur/02/articles/weekly/AE-PR-05-02-59.html |date=2008-12-23 }} 
+ * [http://www.es.jamstec.go.jp/esc/eng/  " Earth Simulator "  website (in English)] {{Webarchive|url=https://web.archive.org/web/20070410013731/http://www.es.jamstec.go.jp/esc/eng/ |date=2007-04-10 }} 
+ * [http://www.nec.com.sg/necsin/hpcs.htm NEC high-performance computing information] {{Webarchive|url=https://web.archive.org/web/20030207165745/http://www.nec.com.sg/necsin/hpcs.htm |date=2003-02-07 }} 
+ * [http://www.hq.nasa.gov/hpcc/insights/vol6/supercom.htm Superconducting Supercomputer] {{Webarchive|url=https://web.archive.org/web/20090418164350/http://www.hq.nasa.gov/hpcc/insights/vol6/supercom.htm |date=2009-04-18 }} 
+ * [http://www.ncsa.uiuc.edu/BlueWaters/ Blue Waters Petascale Computing System] {{Webarchive|url=https://web.archive.org/web/20081211121143/http://www.ncsa.uiuc.edu/BlueWaters/ |date=2008-12-11 }} 
+ 
+ === Specific machines, special-purpose === 
+ * [http://grape.c.u-tokyo.ac.jp/gp/paper/hardpaper.html Papers on the GRAPE special-purpose computer] {{Webarchive|url=https://web.archive.org/web/20080222183128/http://grape.c.u-tokyo.ac.jp/gp/paper/hardpaper.html |date=2008-02-22 }} 
+ * [http://big.gsc.riken.go.jp/SPCtext.htm More special-purpose supercomputer information] {{Webarchive|url=https://web.archive.org/web/20030604142918/http://big.gsc.riken.go.jp/SPCtext.htm |date=2003-06-04 }} 
+ * [http://chimera.roma1.infn.it/apehdoc/apemille/INFN_APEmille.html Information about the APEmille special-purpose computer] 
+ * [http://apegate.roma1.infn.it Information about the apeNEXT special-purpose computer] 
+ * [http://phys.columbia.edu/~cqft/ Information about the QCDOC project, machines] {{Webarchive|url=https://web.archive.org/web/20081222071030/http://phys.columbia.edu/~cqft/ |date=2008-12-22 }} 
+ 
+ ==Related pages== 
+ * [[Cluster (computing)]] 
+ * [[Grid computing]] 
+ 
+ [[Category:Computers]]

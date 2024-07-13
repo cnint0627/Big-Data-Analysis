@@ -1,0 +1,10 @@
+The '''apothem''' (sometimes shortened to '''apo''') of a [[regular polygon]] is a [[line segment]] from the center of the polygon to the middle of one of its sides. It is also perpendicular to that side. The word  " apothem "  can also mean the length of that line segment. Regular polygons are the only polygons with apothems; because of this, all apothems of one shape are congruent. 
+ 
+ == Properties == 
+ The apothem, ''a'', can be used to find the area of any regular polygon with the side length, ''s'', according to the following formula, which also states that the area is equal to the apothem times half the perimeter since ''ns'' = ''p''. 
+ 
+ < math > 
+ A = {nsa \over 2} = {pa \over 2} 
+ < /math > . 
+ {{math-Stub}} 
+ [[Category:geometry]]

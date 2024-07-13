@@ -1,0 +1,47 @@
+[[File:Interferenz.jpg|right|thumb|200px|When two rocks hit a pond at the same time their waves interfere with each other]] 
+ 
+ In [[physics]], '''interference''' is the effect of [[wave (physics)|wave functions]]. A single wave can interfere with itself, but this is still an addition of two waves (see [[Young's double-slit experiment|Young's slits experiment]]). Two waves always interfere, even if the result of the addition is complicated or not remarkable. 
+ 
+ Something that happens when two or more [[waves]] are in the same space. Sometimes the peak of one wave joins with the peak of another wave, so the resulting peak is twice as high. Sometimes the peak of one wave falls into the trough of another wave, and the surface is then flat. When waves add their effects, it is called positive interference, or constructive interference. When one wave subtracts from the effects of the other, it is called negative interference, or destructive interference. 
+ 
+ If two people pushed on a car in the same direction, they would move the car better than either one alone. That would be positive interference.  If two people of equal strength pushed the car from opposite directions, then it would not be moved by either of them. That would be negative interference. 
+ 
+ ==Constructive interference== 
+ [[File:Destructive interference1.svg|thumb|200px|''Destructive interference'': When the top of one wave meets the trough (bottom) of another wave in the middle, the water stays flat.]] 
+ {{stack|[[File:Constructive interference.svg|thumb|200px|''Constructive interference'': When the tops of two waves meet in the middle a taller wave is seen.]]}} 
+ 
+ Constructive interference happens when two or more waves are in the same space and in [[phase]]. When this happens, the waves' amplitudes add together and the total is greater than the amplitude of any of the waves by themselves. This causes the waves to appear more intense. 
+ 
+ At time = 0, one wave top is moving from the left and another wave is moving from the right.  < br > 
+ At time = 1, the two wave tops meet in the middle. < br > 
+ At time = 2, the two waves have each continued moving forward and reappear again at their original heights. 
+ 
+ == Destructive interference == 
+ Destructive interference happens when two or more waves are in the same place and out of phase. When this happens, the waves' amplitudes add together and the total is less than the amplitude of any of the waves by themselves. This causes the waves to appear less intense. 
+ 
+ At time = 0, a wave top is moving in from the left and a wave trough is moving in from the right. < br > 
+ At time = 1, the two waves have met in the middle. The crest (top) fills in the trough. < br > 
+ At time = 2, the two waves have moved along in their original direct and each reappears. 
+ {{clear}} 
+ 
+ ==Examples of interference== 
+ After a rain, one can often see patterns when a little oil floats on top of puddles. The colors will be in the order: red, orange, yellow, green, blue, and violet. Each of these colors of light has its own [[wavelength]], and different parts of the oil have different thicknesses. Part of the light from the sun bounces off the top surface,  in other words it bounces off the oil. Part of the sunlight bounces off the top of the water. The light waves from the oil surface and the light from the water surface meet back in the air, and they interfere. For any thickness of the oil layer, some of the light waves will add and some will subtract, so the result is that one color of light will be strongest there. 
+ 
+ When two highly polished sheets of glass are pressed together, sometimes the distance between the two pieces will change from place to place. When that happens, the pattern that shows up is called  " Newton's rings. "  When slide photographs are put between two thin sheets of glass for showing in a slide projector, this kind of pattern is a big problem. The same problem can show up when two microscope slides are put together. 
+ 
+ [[Noise (music)|Noise]]-canceling [[headphone]]s use destructive interference to cut out noise from the outside. 
+ 
+ < gallery mode= " packed " > 
+ File:Oelfleckerp.jpg|Oil on water creates an interference pattern in the colors of the spectrum 
+ File:Newton-rings.jpg|Newton's rings 
+ Soap bubble sky.jpg|Interference produces a light show on a soap bubble. 
+ < /gallery > 
+ 
+ ==Physics questions== 
+ [[File:Newton's rings 02.svg|thumb|A curved piece of glass over a flat piece of glass]] 
+ [[File:2PanesGlass Const  &  Dest interference.svg|thumb|Two flat pieces of glass forming a narrow angle with each other]] 
+ Here is a diagram of the kind of thing that produces some kinds of light interference. The distance between the top piece of glass and the bottom piece gets larger near the outside edges. 
+ 
+ A simpler setup would be to have two flat pieces of glass in contact along one edge and a narrow angle between their two faces. If the separation between the top surface of the first piece of glass and the top surface of the second piece of glass is, at some point, such that light beams reflected from each are synchronized or in [[phase]], then the reflected light will be bright, but if the two beams are half a cycle out of phase, then at that point the two beams will cancel each other and what reflected light there is will not be bright. 
+ 
+ [[Category:Wave physics]]

@@ -1,0 +1,22 @@
+'''Pleiotropism''' < ref > [[Ancient Greek]]: pleion = more; trepein = turn; hence  " more turns " < /ref >  is a central term in developmental [[genetics]]. In pleiotropism, a single [[gene]] affects a number of [[Phenotype|phenotypic]] [[Trait (biology)|traits]] in the same organism. < ref > King R.C. Stansfield W.D.  &  Mulligan P.K. 2006. ''A dictionary of genetics'', 7th ed. Oxford. p342 < /ref >   
+ 
+ These pleiotropic effects often seem to be unrelated to each other. The usual underlying mechanism is that the same gene is activated in several different [[Tissue (biological)|tissues]], producing apparently different effects. It follows that the phenomenon must be extremely common, since most genes will have effects in more than one tissue.  
+ 
+ The term may be contrasted with '''pleiomorphism''', in which a genetically uniform group of organisms shows variable [[Phenotype|phenotypes]]. 
+ 
+ == Evolutionary implications == 
+ Pleiotropy has significance for the theory of [[evolution]]. It has often been claimed that some [[heritable]] features of animals are not the product of [[adaptation]] by [[natural selection]]. Much of this may be explained by pleiotropism. Strong selection for one or two aspects of gene function will automatically bring along some other pleiotropic traits. These other traits, though inherited, may be neutral or even slightly deleterious in terms of selection. 
+ 
+ ''Antagonistic pleiotropy'' refers to the [[gene expression|expression]] of a gene resulting in multiple competing effects, some beneficial but others detrimental to the organism. < ref > Williams G.C. 1957. Pleiotropy, natural selection, and the evolution of senescence. ''Evolution'' '''11''': 398–411 < /ref >  Three circumstances are possible: 
+ 
+ 1. Simultaneously, a gene may cause deleterious traits which are outbalanced by the survival value of positive traits. 
+ 
+ 2. A gene may increase [[fitness]] in the younger, fertile organism, yet contribute to decreased fitness later in life. The reproductive contribution at the younger stages of life will ensure the spread of such a gene. 
+ 
+ 3. A gene may increase fitness in some [[habitat]]s, but not others. Its survival in the population is then balanced. An example is a [[bacterium|bacterial]] gene which enhances [[glucose]] use at the expense of the ability to use other energy sources (such as [[lactose]]). This has positive effects when there is plenty of glucose, but can be lethal if lactose is the only available food source. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Classical genetics]] 
+ [[Category:Evolutionary biology]]

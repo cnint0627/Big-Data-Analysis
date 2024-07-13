@@ -1,0 +1,35 @@
+A '''variable''' is a special type of [[amount]] or [[quantity]] with an [[Unknown (math)|unknown value]]. The opposite of a variable (that is, a known value) is called a [[constant]]. 
+ 
+ ==Variables in math== 
+ In [[mathematics]], a variable is usually given a [[letter]], such as ''x'' or ''y''. Other letters are often used for particular kinds of variable: < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-10-09|website=Math Vault|language=en-US}} < /ref > 
+ 
+ * The letters ''m'', ''n'', ''p'', ''q'' are often used as variables for [[Integer|integers]]. 
+ * The letters ''a'', ''b'' and ''c'' are often used as [[Coefficient|coefficients]] of [[Function (mathematics)|functions]]. 
+ * The letters ''i'', ''j'' ,''k'' are often used as indices of [[summation]]. 
+ * The letter ''t'' is often used as a variable for [[time]]. < ref > {{Cite web|last=Nykamp|first=Duane|date=|title=Variable definition|url=https://mathinsight.org/definition/variable|archive-url=|archive-date=|access-date=October 8, 2020|website=Math Insight}} < /ref > 
+ * The letter ''z'' is often used as a variable for [[Complex number|complex numbers]]. < ref > {{Cite web|title=Variable {{!}} mathematics and logic|url=https://www.britannica.com/topic/variable-mathematics-and-logic|access-date=2020-10-09|website=Encyclopedia Britannica|language=en}} < /ref > 
+ 
+ Most letters are used in [[equation]]s to show numbers that are unknown (an exception is ''[[E (mathematical constant)|e]]'', which is a constant). Using a type of math called [[algebra]], one can find the value of the variable. 
+ 
+ Any [[number]] cannot change its value. This is true whether the number is [[rational number|rational]] (such as -8.625) or [[irrational number|irrational]] (such as 2√3, which is 2 [[multiplication|multiplied]] by the [[square root]] of 3), or whether the number is [[real number|real]] (such as  < math > \pi < /math > ) or [[imaginary number|imaginary]] (such as  < math > i < /math > ). 
+ 
+ Variables are also common in [[science]], where they usually represent [[physical property|physical properties]] that do not stay the same. For example, if a person stands 5 [[Foot (unit)|feet]] away from a building, the ''[[distance]]'' variable compared to the building does not change over [[time]]. 5 feet is called a ''fixed amount'', which is the opposite of a variable amount. But if a person walks away from the building, the distance variable compared to the building is increasing. So it does not have the same value and we cannot use the same number for it, as the distance might be 1 foot now, but 2 feet a second later. 
+ 
+ == Variables in computer science== 
+ In [[computer science]], a variable is a value in a [[Computer program|program]] that can change. It does not have to be a number. In fact, it can be a [[string (computer science)|string]] (text value), a [[Calendar date|date]], an amount of [[money]], an [[Object (computer science)|object]] such as a [[picture]], or simply [[:en:wikt:null|null]] (which means it has no content). The value that is stored in a variable can change the behavior of a program when it is run. Because of this, variables are commonly used to store [[input]] and [[output]] values. 
+ 
+ Each [[programming language]] works differently with variables. Most of them allow any character string that is not  " reserved "  (that is, has a special meaning) to be the name of the variable. It is good in [[computer programming]] to use names that tells what will be stored in the variable (such as  " person " ,  " age " ,  " total " , and so on). Also, some languages like [[C (programming language)|C]] and [[Java (programming language)|Java]] require the [[data type]] of the variable (that is, the kind of content that will be stored in it) to be declared (written) when the variable is created. Others, like [[Python (programming language)|Python]] and [[Visual Basic]], do not have this rule, which allows the type of variable to be changed when a new value is stored in it. 
+ 
+ == Related pages == 
+ 
+ * [[Dependent and independent variables]] 
+ * [[Explanatory variable]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Mathematics]] 
+ [[Category:Computer science]]

@@ -1,0 +1,38 @@
+[[File:Droste.jpg|thumb|right|A visual form of '''recursion''' is the [[Droste effect]]. It leads to [[similarity|self-similar]] images.]] 
+ '''Recursion''' is a word from [[mathematics]] and [[computer science]]. It is used to [[definition|define]] a thing, such as a [[Function (mathematics)|function]] or a [[set]]. A recursive definition uses the thing it is defining as part of the definition. 
+ 
+ == Description == 
+ Usually, a recursive function refers to itself in some cases (or inputs), but not in every case. A function that referred to itself in every case would never terminate. 
+ 
+ When a function refers to itself, it often uses a smaller input than the input it was given. In this way, it can solve a problem by first solving a simpler version of the problem. 
+ 
+ == Example == 
+ An example of a recursive function  < math > f(n) < /math >  is: 
+ 
+ *If  < math > n  >  0 < /math >  then return  < math > n \times f(n-1) < /math > . 
+ *If  < math > n = 0 < /math >  then return  < math > 1 < /math > . 
+ This function computes the [[factorial]] of a [[natural number]]. It works because  < math > n!=n(n-1)!, n  >  0 < /math >  and  < math > 0!=1 < /math > . 
+ 
+ The definition has two cases: a recursive case for  < math > n > 0 < /math > , and a case for  < math > n=0 < /math >  that is not recursive. The case that is not recursive is called a  " base case " . 
+ 
+ == Uses == 
+ 
+ Recursion can be used to write [[Computer programming|computer programs]]. A program that uses recursion may be easier to write and understand than a program that does the same thing without recursion. 
+ 
+ Recursion is used in [[mathematics]] to prove [[Theorem|theorems]]. This method is called [[Mathematical induction|induction]]. 
+ 
+ The idea of recursion can be seen in [[art]] and [[language]]. For example: 
+ * A [[fractal]] image contains smaller versions of itself. 
+ * In the rules of [[grammar]], a sentence can be part of another sentence. 
+ 
+ == Easter Eggs == 
+ In the Google search engine, if you type up  " recursion " , it will say  " Did you mean: [[Recursion]] " , a reference to the meaning of recursion. < ref > {{Cite web|title=recursion - Google Search|url=https://www.google.com/search?q=recursion|access-date=2022-11-29|website=www.google.com}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Computer science]] 
+ [[Category:Recursion| ]]

@@ -1,0 +1,30 @@
+{{Lowercase}} 
+ {{for|the mobile device operating system|Internet Tablet OS}} 
+ '''maemo''' (properly not capitalized  < ref > {{Cite web |url=http://maemo.org/intro/trademarks/trademark_faq.html |title=Maemo Trademark FAQ |access-date=2008-06-16 |archive-date=2008-05-18 |archive-url=https://web.archive.org/web/20080518121131/http://maemo.org/intro/trademarks/trademark_faq.html |url-status=dead }} < /ref > ) is a project that oversees the development of the [[Internet Tablet OS]] and the maemo application development platform. The maemo project is paid for by [[Nokia]]. 
+ 
+ == maemo SDK == 
+ The maemo SDK is based around the [[Debian]]-oriented [[Scratchbox|Scratchbox Cross Compilation Toolkit]], which provides a  [[Sandbox (software development)|sandbox]] environment in which development may take place. Scratchbox uses [[Qemu]] to emulate an ARMEL processor or [[sbrsh]] to remotely execute instructions. Scratchbox-compatible [[rootstrap]]s are available for both [[x86]] and [[Armel|ARMEL]], so the majority of development and debugging takes place on x86, with final packaging being for ARMEL. < ref > {{Cite web |url=http://maemo.org/maemo_training_material/maemo4.x/html/maemo_Technology_Overview/Chapter_05_Software_Development_Process_for_maemo_SDK.html#OverviewofthesoftwaredevelopmentprocessusingthemaemoSDKenvironment |title=Overview of the software development process using the maemo SDK environment |access-date=2008-06-16 |archive-date=2009-02-02 |archive-url=https://web.archive.org/web/20090202104604/http://maemo.org/maemo_training_material/maemo4.x/html/maemo_Technology_Overview/Chapter_05_Software_Development_Process_for_maemo_SDK.html#OverviewofthesoftwaredevelopmentprocessusingthemaemoSDKenvironment |url-status=dead }} < /ref > 
+ 
+ ==Related pages== 
+ * [[Openmoko]] 
+ * [[LiMo Foundation]] 
+ * [[Hildon]] 
+ * [[Android (mobile phone platform)]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.maemo.org maemo.org] 
+ * [http://wiki.maemo.org maemo wiki] ([http://maemo.org/community/wiki/ old one]) 
+ * [http://planet.maemo.org maemo planet] 
+ * [https://bugs.maemo.org/ maemo Bugzilla] 
+ * [http://www.freedesktop.org/wiki/Software/sbox2/Maemo maemo in freedesktop.org] 
+ * [http://www.scratchbox.org/ Scratchbox Cross Compilation Toolkit] 
+ * [irc://irc.freenode.net/maemo #maemo] on freenode 
+ * [http://maemo.org/maemo_training_material/maemo4.x/html/maemo_Technology_Overview/index.html Material for Nokia's own introductory course on maemo] {{Webarchive|url=https://web.archive.org/web/20080622151142/http://maemo.org/maemo_training_material/maemo4.x/html/maemo_Technology_Overview/index.html |date=2008-06-22 }} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Debian-based Linux distributions]]

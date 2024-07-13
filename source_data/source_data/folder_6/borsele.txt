@@ -1,0 +1,102 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Borsele 
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = OvezandeKerkje1.jpg 
+ | image_alt               =  
+ | image_caption           = Church in [[Ovezande]] 
+ | image_flag              = Flag of Borsele.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Coat of arms of Borsele.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 0654 (2009).svg 
+ | map_alt                 = Highlighted position of Borsele in a municipal map of Zeeland 
+ | map_caption             = Location in Zeeland 
+ | coordinates             = {{coord|51|26|N|3|49|E|region:NL|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = [[Netherlands]] 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = [[Zeeland]] 
+ | government_footnotes    =  < ref name= " mayor_now " > {{cite web 
+  |url         = http://www.borsele.nl/bestuur-organisatie/samenstelling-college-van-bw_43375/ 
+  |title       = Samenstelling College van B & W 
+  |trans-title = Members of the board of mayor and aldermen 
+  |language    = nl 
+  |publisher   = Gemeente Borsele 
+  |access-date  = 6 December 2013 
+  |url-status     = dead 
+  |archive-url  = https://web.archive.org/web/20131211224954/http://www.borsele.nl/bestuur-organisatie/samenstelling-college-van-bw_43375/ 
+  |archive-date = 11 December 2013 
+ }} < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = [[ChristianUnion]] 
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[Gerben Dijksterhuis]] 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Borsele}} 
+ | area_land_km2           = {{Dutch municipality land area|Borsele}} 
+ | area_water_km2          = {{Dutch municipality water area|Borsele}} 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web  
+  |url = http://www.ahn.nl/postcodetool 
+  |title = Postcodetool for 4441AT 
+  |language = nl 
+  |author =  < !--Staff writer(s); no by-line.-- >   
+  |work = Actueel Hoogtebestand Nederland 
+  |publisher = Het Waterschapshuis 
+  |access-date = 6 December 2013}} < /ref > 
+ | elevation_m             = 2 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Borsele}} 
+ | population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|Borsele}}  < !-- For automatic calculation: auto-- > 
+ | population_demonym      = Borsselaar 
+ < !-- Other information -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 4430–4456 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 0113 
+ | website                 = {{URL|1=http://www.borsele.nl}} 
+ | footnotes               = 
+ }} 
+ '''Borsele''', [[Zeelandic dialect|Zeelandic]]: ''Bossele'', is a [[municipality]] on the former island of [[Zuid-Beveland]], Province of [[Zeeland]], the [[Netherlands]]. 
+ 
+ About 23,000 people were living in Borsele in 2017. 
+ 
+ The [[Western Scheldt]] is to the south of the municipality. 
+ 
+ The north entrance of the [[Western Scheldt Tunnel]] is in Borsele. 
+ 
+ [[Borssele Nuclear Power Station]] is also in the municipality. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * {{Official website|http://www.borsele.nl}} 
+ 
+ {{Zeeland Province}} 
+ 
+ 
+ {{multistub|geo|Europe}} 
+ {{authority control}} 
+ [[Category:Municipalities of Zeeland]]

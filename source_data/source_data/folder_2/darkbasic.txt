@@ -1,0 +1,14 @@
+'''DarkBASIC''' is a [[programming language]] that is very easy to create games in so people do not need to worry about [[DirectX]]. People now use the more [[powerful]] [[DarkBASIC Professional]]. 
+ 
+ == [[Hello World]] in DarkBASIC == 
+ 
+  print  " Hello, World! " 
+ 
+ == Other websites == 
+ *[http://www.darkbasic.com DarkBASIC] 
+ *[http://www.kenneyjacob.com/2007/05/06/darkbasic-the-gaming-language/ DarkBasic - The Gaming Language] {{Webarchive|url=https://web.archive.org/web/20080101164423/http://www.kenneyjacob.com/2007/05/06/darkbasic-the-gaming-language/ |date=2008-01-01 }} 
+ 
+ [[Category:Programming languages]] 
+ 
+ 
+ {{Tech-stub}}

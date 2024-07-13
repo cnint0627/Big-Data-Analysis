@@ -1,0 +1,61 @@
+{{Infobox Website 
+ | name             = Mecabricks 
+ | website_type     = Lego building tool 
+ | language         = French, English, German, Spanish, Italian, Portuguese, Russian, Swedish 
+ | owner            = Nicolas Jarraud 
+ | founder          = Nicolas Jarraud 
+ | url              = [https://www.mecabricks.com/ mecabricks.com] 
+ | launch_date      = 18th March 2012 
+ }} 
+ 
+ '''Mecabricks''' is an online tool to build, render and [[Animation|animate]] [[Lego]] in a [[Browser engine|browser]] using [[Three.js]]. In 2012, Nicolas Jarraud (online alias  " scrubs " ) < ref > ([https://www.reids4fun.com/289/i-love-my-lego-imageshow-i-made-them-better-with-mecabricks Article]) on rendering quality improvement and products of Nicolas Jarraud < /ref >  released the first version of Mecabricks.  There have been updates with new features such as a tool to animate or the [[Mosaic|mosaic]] tool. Mecabricks is popular for its ability to export models directly to [[Blender (program)|blender]] for realistic [https://en.wikipedia.org/wiki/Rendering_(computer_graphics) rendering] and its large library of models. 
+ 
+ Some tools the workshop has are: < ref > ''Brickset Article'', [https://brickset.com/article/52336/let-s-build-in-mecabricks! Let's build in Mecabricks] < /ref > 
+ * '''The mosaic tool''' will create [[pixel art]] from any image 
+ * '''Flex tool''' to manipulate flexible objects such as string 
+ * '''The snap tool''' can snap any parts into place 
+ * '''Grouping parts together''' 
+ * '''Toggling the visibility''' 
+ * '''Selecting by color and/or piece type''' 
+ * '''Box  &  multi-select''' to select large amounts of parts at once 
+ * '''Duplicating parts''' 
+ < br > The  the color  of the pieces can be changed  using a color palette which corresponds to the official [[Lego]] colors. < br > The workshop can export and import these file formats: 
+ {| class= " wikitable "  style= " text-align: center; width: 280px; "  border= " 1 " 
+ |+ Import 
+ ! scope= " col "  | Name 
+ ! scope= " col "  | File extension 
+ |- 
+ | Lego Digital Designer || .lxf, .lxfml 
+ |- 
+ | LDraw || .ldr, .mpd, .io 
+ |} 
+ {| class= " wikitable "  style= " text-align: center; width:480px "  border= " 1 " 
+ |+ Export 
+ ! scope= " col "  | Name 
+ ! scope= " col "  | File extension 
+ ! scope= " col "  | Export options 
+ |- 
+ | Blender add on || .zmbx || - 
+ |- 
+ | Collada || .dae || Logo on studs, Instances, Normals 
+ |- 
+ | Wavefront || .obj || Logo on studs 
+ |- 
+ | Stl || .stl || Logo on studs 
+ |} 
+ === Rendering === 
+ The Mecabricks [https://en.wikipedia.org/wiki/Render_farm render farm] was custom built by Scrubs and allows rendering models in the [[Web browser|browser]] by sending the model to the renderfarm. < ref > ''BrickSet Article'', [https://brickset.com/article/52611/mecabricks-the-render-farm The Render Farm] < /ref >  After rendering is complete, the image is sent to Mecabricks where it can be downloaded. The render farm can be used for free, but users are only allowed 10 free renders a day under 0.7 million pixels. With rendering comes a few objects that can be of help, such as lamps, cameras and the [[volumetric box]]. Multiple frames can be rendered for rendering animations and other features such as scratches, [[Fingerprint|fingerprints]] and dents can make the render(s) look even more realistic. 
+ === Animating === 
+ Animation can be done in [[nodes]], which is a separate area from the workshop view that can be toggled on or off. Different node trees are executed when the animation plays. The node trees themselves contain nodes which can determine a piece's position, material (color) and visibility over a timespan. It is also possible to instance large amounts of pieces. < br > Other settings such as [[frame rate]] and animation length can also be determined in nodes. 
+ === Prints === 
+ Ttextures can be added to parts, which  can be uploaded to free storage for these prints. These prints are then available and can be exported to [[Blender (program)|blender]] using the [https://docs.blender.org/manual/en/latest/editors/preferences/addons.html blender addon]. Other people can then save this print as their own if the  model is public and open to workshop. 
+ 
+ == References == 
+ < !--- See https://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using  < ref > < /ref >  tags which will then appear here automatically -- > 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://www.bricklink.com/ bricklink.com] 
+ 
+ [[Category:Entertainment websites]] 
+ [[Category:Lego]]

@@ -1,0 +1,28 @@
+{{Taxobox 
+ | name = Sable 
+ | status = LC | status_system = IUCN3.1 
+ | status_ref =  < ref name=iucn > {{IUCN2008|assessors=Abramov, A.  &  Wozencraft, C. |year=2008|id=41652|title=Martes zibellina|downloaded=21 March 2009}} Database entry includes a brief justification of why this species is of least concern < /ref > 
+ | image = Sable - 2.png 
+ | image_width = 250px 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Mammal]]ia 
+ | ordo = [[Carnivora]] 
+ | familia = [[Mustelidae]] 
+ | genus = ''[[Martes]]'' 
+ | species = '''''M. zibellina''''' 
+ | binomial = ''Martes zibellina'' 
+ | binomial_authority = ([[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]) 
+ | range_map = Sable area.png 
+ | range_map_caption = Sable range < br/ > (green - extant, black - extinct) 
+ }} 
+ 
+ The '''sable''' (''Martes zibellina'') is a [[species]] of [[marten]] in [[taiga|forest]] environments. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Mustelids]] 
+ [[Category:Mammals of Asia]]

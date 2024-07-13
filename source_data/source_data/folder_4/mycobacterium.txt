@@ -1,0 +1,51 @@
+{{italictitle}} 
+ {{Taxobox 
+ | name = ''Mycobacterium'' 
+ | image = Mycobacterium tuberculosis 01.jpg 
+ | image_width = 240px 
+ | image_caption = [https://en.wikipedia.org/wiki/Transmission%20electron%20microscopy Transmission electron microscopy (TEM)] [[micrograph]] of ''[[Mycobacterium tuberculosis]]''. 
+ | regnum = [[Bacteria]] 
+ | phylum = [[Actinobacteria]] 
+ | ordo = [https://en.wikipedia.org/wiki/Actinomycetales Actinomycetales] 
+ | subordo = Corynebacterineae 
+ | familia = '''Mycobacteriaceae''' 
+ | genus = '''''[[Mycobacterium]]'''''}} 
+ [[File:TB Culture.jpg|thumb|A close up of a culture of M. tuberculosis. The patches that look like foam are the typical growth pattern of these bacteria]] 
+ 
+ '''''Mycobacterium''''' is a [[genus]] of [[bacteria]], with about 190 [[species]].The genus includes [[pathogen]]s known to cause serious diseases in mammals, including [[tuberculosis]] (''[[Mycobacterium tuberculosis]]'') and [[leprosy]] (''[[Mycobacterium leprae]]''). < ref name= " Sherris " > {{Cite book|url=https://www.worldcat.org/oclc/52358530|title=Sherris medical microbiology : an introduction to infectious diseases|date=2004|publisher=McGraw-Hill|isbn=0-8385-8529-9|edition=4th|location=New York|oclc=52358530}} < /ref >  Mycobacteria are immobile and are [[Bacillus (shape)|rod-shaped]]. They are mostly found in water, soil, and dust. 
+ 
+ The colony colour ranges from white to orange to pink (Iivanainen, 1999 < ref > {{Cite journal|last1=Iivanainen|first1=E.|last2=Martikainen|first2=P. J.|last3=Väauml;nänen|first3=P.|last4=Katila|first4=M. ‐L.|date=April 1999|title=Environmental factors affecting the occurrence of mycobacteria in brook sediments|url=https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2672.1999.00711.x|journal=Journal of Applied Microbiology|language=en|volume=86|issue=4|pages=673–681|doi=10.1046/j.1365-2672.1999.00711.x|pmid=10212411 |s2cid=21290238 |issn=1364-5072}} < /ref > ). Most mycobacteria need [[oxygen]] to survive (aerobic organisms), although some species require very little amounts of oxygen, less than what is present in the air, are called (microaerophilic bacteria) (Falkinham, 1996 < ref > {{Cite journal|last=Falkinham|first=J O|date=April 1996|title=Epidemiology of infection by nontuberculous mycobacteria|journal=Clinical Microbiology Reviews|language=en|volume=9|issue=2|pages=177–215|doi=10.1128/CMR.9.2.177|pmid=8964035 |pmc=172890 |issn=0893-8512}} < /ref > ). 
+ 
+ == Categorization == 
+ Mycobacteria can be categorized into three groups: 
+ 
+ 1.  
+ [https://en.wikipedia.org/wiki/Mycobacterium%20tuberculosis%20complex Mycobacterium tuberculosis complex] – causative pathogen of tuberculosis 
+ 
+ 2.     Non-tuberculosis mycobacteria (NTM) 
+ 
+ 3.     [[Mycobacterium leprae]] – causative pathogen of leprosy 
+ 
+ == Characterstics == 
+ The [[Greek language|Greek]] prefix ''myco'' means  " [[fungus]] " . When they are [[:en:Growth medium|cultured]] on the surface of liquids, mycobacteria growth is  similar to that of [[mould]]s, a kind of fungus. < ref > James H. Kerr and Terry L. Barrett,  " Atypical mycobacterial diseases " , Military Dermatology Textbook, p. 401. < /ref > 
+ 
+ Mycobacteria have an external membrane, contain no layer that lies outside the bacteria ([[:en:Bacterial capsule|capsules]]). The special characteristic about all Mycobacterium species is having a thicker [[cell wall]] than many other bacteria, which is to maintain the shape of the [[plasma membrane]]. The [[cell wall]] is waxy and rich in specific types of fats ([[lipid]]s), called [[:en:Mycolic acid|mycolic acids]] or [[:en:Mycolic acid|mycolates]]. 
+ 
+ ''Mycobacterium tuberculosis'' can occupy different environments. However, they grow so slowly that their [[:en:Duplication|duplication]] time exceeds 18 hours. Surprisingly, [[mycobacterium leprae]] have the '''longest doubling time''' of all bacteria. In comparison, bacteria ''[[Escherichia coli|E. coli]]'' only takes as short as 20 minutes to double. 
+ == Clinical Manifestation == 
+ Mycobacteria can [[colonize]] their [[Host (biology)|hosts]] without the hosts showing any [[Adverse effect (medicine)|adverse]] signs. Many people around the world have infections of ''M. tuberculosis'' without showing any signs of it. 
+ 
+ Mycobacterial infections are difficult to treat. The organisms are tough due to their [[cell wall]]. < ref > which is neither truly [[gram-negative|Gram negative]] nor [[gram-positive|positive]] < /ref >  In addition, they are naturally [[Antibiotic resistance|resistant]] to a number of [[antibiotics]] that disrupt cell-wall building, such as [[penicillin]]. With their unique cell wall, they can survive long exposure to [[acid]]s, [[alkali]]s, detergents, oxidative bursts, lysis by [[Complement system|complement]], and many [[antibiotic]]s. 
+ 
+ Mycobacterial infections are complex [[disease]]s and are more common in individuals with [[:en:Immunodeficiency|weakened immune systems]], for example people undergoing treatment for [[cancer]] or that are [[HIV]] positive. One third of the planet’s population currently carries the ''[[:en:Mycobacterium tuberculosis|M. tuberculosis]]'' bacteria. However, only 25 per cent will develop disease. They can cause [[tuberculosis]], [[:en:Nontuberculous mycobacteria|nontuberculous mycobacteria]] (NTM) pulmonary infections, other localized NTM or [[:en:Dissemination|disseminated]] infections, [[leprosy]], and chronic ulcers ([[Buruli ulcer]]). 
+ 
+ Most mycobacteria are [[:en:Susceptibility|susceptible]] to the antibiotics [[clarithromycin]] and [[rifamycin]], but [[antibiotic resistance|antibiotic-resistant strains]] have emerged. 
+ 
+ == References == 
+ 
+ {{reflist}} 
+ 6. Antonini, J. (2014)  " Sarcoidosis " , Reference Module in Biomedical Sciences. Available at:  < https://www.sciencedirect.com/topics/medicine-and-dentistry/mycobacterium > 
+ 
+ 7. Rice, L. and Jung, M. (2018) '' " Neutrophilic Leukocytosis, Neutropenia, Monocytosis, and Monocytopenia " '', Hematology, pp. & nbsp;675–681. Available at:  < https://www.sciencedirect.com/topics/medicine-and-dentistry/mycobacterial-infection > 
+ 
+ [[Category:Bacteria]]

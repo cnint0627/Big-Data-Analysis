@@ -1,0 +1,63 @@
+[[File:Pre-mRNA-1ysv-tubes.png|thumb|A hairpin loop from a pre-mRNA. Highlighted are the [[nucleobase]]s (green) and the ribose-phosphate backbone (blue). This is a single strand of RNA that folds back upon itself. ]] 
+ '''RNA''' is an [[acronym]] for '''ribonucleic acid''', a [[nucleic acid]]. Many different kinds are now known. < ref > Only the most important are described here. A complete list is available at [[:en:List of RNAs]]. < /ref > 
+ 
+ RNA is physically different from [[DNA]]. DNA has two intercoiled [[Strand|strands]], but RNA only has one strand. RNA also has different [[Nucleotide|bases]] than DNA. These bases are [[adenine]], [[guanine]], [[cytosine]], and [[uracil]]. 
+ 
+ Adenine bonds with uracil. Guanine bonds with cytosine. In this way, we say that adenine is complementary to uracil and that guanine is complementary to cytosine. Adenine, guanine and cytosine are also in DNA. In RNA, [[uracil]] replaces [[thymine]] as a complement to adenine. 
+ 
+ '''RNA''' also has [[ribose]]. This is different from the [[deoxyribose]] in DNA. These differences result in RNA being more chemically reactive than DNA. This makes it the more suitable [[molecule]] to take part in cell reactions. 
+ 
+ RNA is the carrier of [[Genetics|genetic]] information in certain [[virus]]es, especially [[retrovirus]]es like [[HIV]]. This is the only exception to the general rule that DNA is the [[Heredity|hereditary]] substance. 
+ 
+ == Protein synthesis RNAs == 
+ === Messenger RNA === 
+ [[File:MRNA structure.svg|thumb|650px|center|The structure of a mature eukaryotic mRNA. A fully processed mRNA includes a [[5' cap]], [[5' UTR]], [[coding region]], [[3' UTR]], and poly(A) tail. UTR = untranslated region]] 
+ 
+ The main function of RNA is to carry information of [[amino acid]] sequences from the [[Gene|genes]] to [[ribosomes]] in the [[cytoplasm]]. Ribosomes are where proteins are assembled. 
+ 
+ This is done by '''[[messenger RNA]]''' (mRNA). A strand of DNA is the blueprint for the mRNA which is [[Transcription (genetics)|transcribed]] from that DNA strand. The sequence of base pairs is [[Transcription (genetics)|transcribed]] from [[DNA]] by an [[enzyme]] called [[RNA polymerase]]. Then the mRNA moves from the [[nucleus]] to the [[ribosomes]] in the cytoplasm to form [[Protein|proteins]]. The mRNA translates the sequence of base pairs into a sequence of [[amino acids]] to form [[protein]]s. This is called [[Translation (genetics)|translation]]. 
+ 
+ DNA does not leave the nucleus for many reasons. DNA is a very long molecule, and is bound in with proteins, called [[histone]]s, in the [[chromosome]]s. mRNA is able to move and react with many cell enzymes. The mRNA leaves the nucleus and moves to the ribosomes after it is transcribed. 
+ 
+ Two kinds of non-coding RNAs help in the process of building proteins in the cell. They are transfer RNA (tRNA) and ribosomal RNA (rRNA). 
+ 
+ === tRNA === 
+ [[Transfer RNA]] ('''tRNA''') is a short molecule of about 80 [[nucleotide]]s which carries a specific amino acid to the polypeptide chain at a [[ribosome]]. There is a different tRNA for each amino acid. Each one has a site for the amino acid to attach, and an anti-codon to match the codon on the mRNA. For example, [[codon]]s UUU or UUC code for the amino acid [[phenylalanine]]. 
+ 
+ === rRNA === 
+ '''Ribosomal RNA''' ('''rRNA''') is the [[Catalysis|catalytic]] component of the ribosomes. [[Eukaryote|Eukaryotic]] ribosomes contain four different rRNA molecules: 18S, 5.8S, 28S and 5S rRNA. Three of the rRNA molecules are synthesized in the [[nucleolus]], and one is synthesized elsewhere. In the cytoplasm, ribosomal RNA and protein combine to form a nucleoprotein called a ribosome. The ribosome binds mRNA and carries out protein synthesis. Several ribosomes may be attached to a single mRNA at any time. < ref name=The_Cell > {{cite book | title=The Cell: a molecular approach| edition=3rd| author=Cooper GC  &  Hausman RE| date=2004| pages=261–76, 297, 339–44| publisher=Sinauer| isbn=0-87893-214-3 | oclc=174924833|id=OCLC 52121379 52359301 56050609}} < /ref >  rRNA is extremely abundant and makes up 80% of the 10 & nbsp;mg/ml RNA found in a typical eukaryotic [[cytoplasm]]. < ref > {{cite journal | author=Kampers T. | display-authors = etal | title=RNA stimulates aggregation of microtubule-associated protein tau into Alzheimer-like paired helical filaments| journal=FEBS Letters| year=1996| volume=399 | pages = 344–349| pmid=8985176 | doi = 10.1016/S0014-5793(96)01386-5 | issue=3| s2cid = 1722620 }} < /ref > 
+ 
+ === snRNAs === 
+ [[Small nuclear RNA]]s ('''snRNA''') join with proteins to form [[spliceosome]]s. The spliceosomes govern [[alternative splicing]]. Genes code for proteins in bits called [[exon]]s. The bits can be joined together in different ways to make different mRNAs. Thus, from one gene many proteins can be made. This is the process of alternative splicing. Any unwanted versions of the protein get chopped up by [[protease]]s, and the chemical bits re-used. 
+ 
+ == Regulatory RNAs == 
+ There are a number of RNAs which regulate genes, that is, they regulate the rate at which genes are transcribed or translated. < ref name=Morris > {{cite book |url=http://www.horizonpress.com/rnareg|author= Morris KV|year=2008|title=RNA and the regulation of gene expression: a hidden layer of complexity|publisher=Caister Academic Press|isbn= 978-1-904455-25-7}} < /ref > 
+ 
+ === miRNA === 
+ Micro RNAs (miRNA) act by joining an enzyme and blocking mRNA or speeding its breakdown. This is called [[RNA interference]]. < ref > [https://web.archive.org/web/20070120113455/http://nobelprize.org/nobel_prizes/medicine/laureates/2006/adv.html The Nobel Prize in Physiology or Medicine 2006. RNA Interference] < /ref > < ref > Lee R.C.  &  Ambros V. 2001. An extensive class of small RNAs in Caenorhabditis elegans. ''Science'' '''294''', 862-864. < /ref > < ref > Lau N.C. ''et al'' 2001. An abundant class of tiny RNAs with probable regulatory roles in Caenorhabditis elegans. ''Science'' '''294''', 858-862. < /ref > 
+ 
+ === siRNA === 
+ Small interfering RNAs (sometimes called silencing RNAs) interfere with the expression of a specific gene. They are quite small (20/25 nucleotides) double-stranded molecules. Their discovery has caused a surge in biomedical research and drug development. < ref > {{cite journal |author=Hamilton A.  &  Baulcombe D |title=A species of small antisense RNA in posttranscriptional gene silencing in plants |journal=Science |volume=286 |issue= 5441|pages=950–2 |year=1999 |pmid=10542148 |doi=10.1126/science.286.5441.950}} First description of siRNAs. < /ref > < ref > {{cite journal |author=Hannon G.  &  Rossi J |title=Unlocking the potential of the human genome with RNA interference |journal=Nature |volume=431 |issue=  7006|pages=371–8 |year=2004 |url=http://www.nature.com/nature/journal/v431/n7006/full/nature02870.html |doi =10.1038/nature02870 |pmid=15372045|bibcode=2004Natur.431..371H |s2cid=4410723 }} < /ref > 
+ 
+ == Parasitic and other RNAs == 
+ === Retrotransposons === 
+ [[Transposon|Transposons]] are only one of several types of [[mobile genetic elements]]. [[Retrotransposon]]s copy themselves in two stages: first from DNA to RNA by [[Transcription (genetics)|transcription]], then from RNA back to DNA by [[reverse transcription]]. The DNA copy is then inserted into the [[genome]] in a new position. Retrotransposons behave very similarly to [[retrovirus]]es, such as [[HIV]]. 
+ 
+ === Viral genomes === 
+ Viral genomes, which are usually RNA, take over the cell machinery and make both new viral RNA and the protein coat of the virus. 
+ 
+ === Phage genomes === 
+ [[Phage]] genomes are quite varied. The genetic material can be '''ssRNA''' (single-stranded RNA), '''dsRNA''' (double-stranded RNA), '''ssDNA''' (single-stranded DNA), or '''dsDNA''' (double-stranded DNA). It may be between 5 and 500 kilo [[base pairs]] long with either circular or linear arrangement. Bacteriophages are usually between 20 and 200 [[nanometer]]s in size. 
+ 
+ Phage [[genomes]] may code for as few as four [[genes]], < ref > Bacteriophage MS2 < /ref >  and as many as hundreds of [[genes]]. 
+ 
+ ==Uses== 
+ 
+ Some scientists and doctors have used [[messenger RNA vaccines|messenger RNA in vaccines]] to treat [[cancer]] and prevent people from becoming sick. < ref name= " Horizon " > {{cite news|url=https://horizon-magazine.eu/article/five-things-you-need-know-about-mrna-vaccines.html|title=Five things you need to know about: mRNA vaccines|date=April 1, 2020|accessdate=May 1, 2020|author=Joanna Roberts|publisher=Horizon|archive-date=April 4, 2020|archive-url=https://web.archive.org/web/20200404043837/https://horizon-magazine.eu/article/five-things-you-need-know-about-mrna-vaccines.html|url-status=dead}} < /ref > < ref name= " Nature " > {{cite journal|date=January 12, 2018|title=mRNA vaccines — a new era in vaccinology|pages=261–279|volume=18|doi=10.1038/nrd.2017.243|author1=    Norbert Pardi|author2= Michael J. Hogan|author3= Frederick W. Porter|author4=Drew Weissman|journal=Nature Reviews Drug Discovery|issue=4|pmid=29326426|pmc=5906799}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:RNA| ]] 
+ [[Category:Cell biology]] 
+ [[Category:Macromolecules]]

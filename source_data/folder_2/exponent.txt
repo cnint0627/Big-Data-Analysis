@@ -1,0 +1,173 @@
+{{Merge to | Exponentiation |date=February 2021 }} 
+ 
+ In [[mathematics]], an '''exponent''' indicates how many copies of a number (known as the [[base (mathematics)|base]]) is multiplied together.  
+ 
+ For example, in the number  < math > 5^4 < /math > , 5 is the base and 4 is the exponent. This can be read as  " 5 to the power of 4 " . Therefore, in this example, four copies of 5 are multiplied together, which means that  < math > 5^4 = 5\cdot5\cdot5\cdot5 = 625 < /math > . 
+ 
+ In general, given two numbers  < math > x < /math >  and  < math > y < /math > , the number  < math > x^y < /math >  can be read as  " < math > x < /math >  raised to the power of  < math > y < /math > " < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-27|website=Math Vault|language=en-US}} < /ref >  or  " < math > x < /math >  to the  < math > y < /math > th power " , < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Power|url=https://mathworld.wolfram.com/Power.html|access-date=2020-08-27|website=mathworld.wolfram.com|language=en}} < /ref >  where  < math > y < /math >  is the exponent. 
+ 
+ Bases raised to the [[power of two]],  < math > x^2 
+ < /math > , can be read the base  " squared " , because the area of a square with a side length of x is  < math > x^2 < /math > . 
+ 
+ Similarly, bases raised to the power of three,  < math > x^3 
+ < /math > , can be called the base  " cubed " , because the area of a [[cube]] with a side length of x is  < math > x^3 < /math > . 
+ 
+ Exponents are used in [[algebra]]. Exponentiation is a way of shortening the process/equation of repeatedly multiplying many copies of a number.  
+ 
+ An exponent is a number or symbol, placed above and to the right of the expression to which it applies, that indicates the number of times the expression is used as a factor. For example. the exponent ''x'' in  < math > (a + b)^x < /math >  indicates x copies of  < math > (a + b) < /math >  are multiplied together. 
+ 
+ There are some basic rules used in exponentiation < ref > {{Cite web|last=Nykamp|first=Duane|date=|title=Basic rules for exponentiation|url=https://mathinsight.org/exponentiation_basic_rules|archive-url=|archive-date=|access-date=August 27, 2020|website=Math Insight}} < /ref > 
+ 
+ '''1. Product Rule''': 
+ : < math > a^m \cdot a^n=a^{m+n} < /math > 
+ 
+ Proof - When multiplying a base term by two different exponents  < math > a^m \cdot a^n = (a . a ... a) (\text{m times})\cdot (a . a... a)(\text{n times}) 
+ < /math > , there are ''m'' number of ''a' < nowiki/ > ''s and ''n'' number of ''a'' < nowiki/ > 's. 
+ 
+ Since exponentiation is simply repeated [[multiplication]] of a base term, we get that:  
+ 
+ : < math > a^m \cdot a^n = (a^1 \cdot a^2 \cdot \dots \cdot a^m)\cdot(a^1 \cdot a^2 \cdot \dots \cdot a^n) = a^{m+n} 
+ < /math > 
+ 
+ therefore   < math > a^m \cdot a^n = a^{m+n} < /math > . 
+ 
+ For example,  < math > 3^2 \cdot 3^4 = (3 \cdot 3) \cdot (3 \cdot 3 \cdot 3 \cdot 3) = 3^6 
+ < /math > . This is true because at first, we had 2 threes times 4 threes which, when multiplied together, gives us 3 multiplied by itself 6 times, or 4+2 times.    
+ 
+ '''2. Quotient Rule''': 
+ : < math > \frac{a^m}{a^n}=a^{m-n} < /math > 
+ 
+ Proof (when m  >  n) -  < math > \frac{a^m}{a^n} = \frac{(a^1 \cdot a^2 \cdot \dots \cdot a^m)}{(a^1 \cdot a^2 \cdot \dots \cdot a^n)}  
+ < /math > 
+ 
+ By grouping the corresponding ''a''’s, we get: 
+ 
+ : < math > \frac{a^1}{a^1} \cdot \frac{a^2}{a^2} \cdot \dots \cdot \frac{a^{m-n}}{a^n} \cdot a^{m-n} < /math > 
+ 
+ Since corresponding ''a''’s become 1, we are then left with 
+ 
+ : < math > 1 \cdot 1 \cdot \dots \cdot a^{m-n} = a^{m-n} < /math > 
+ 
+ therefore,  < math > \frac{a^m}{a^n} = a^{m-n} < /math > . 
+ 
+ For example,  < math > \frac{4^4}{4^2} =  
+ \frac {4 \cdot 4 \cdot4 \cdot4}{4 \cdot4} = 
+ 4 \cdot 4 = 4^2  
+ < /math > . Notice that  < math > 4^4 - 4^2 = 4^2 < /math > , which confirms the proof. 
+ 
+ In fact, this property holds when m  <  n as well, but in that case, we get negative exponents instead. When m  <  n, the format of the problem becomes  < math > \frac{a^m}{a^n}= \frac{1}{a^{n-m}} 
+ < /math > .  
+ 
+ For more information on negative exponents, see [[Exponent#Negative exponents|§ Negative exponents]] below. 
+ 
+ '''3. Zero Rule''': 
+ : < math > b^0 = 1 < /math > 
+ 
+ Proof: we showed in #1 that   < math > b^{m+n} =b^m \cdot b^n < /math > . 
+ 
+ This equation holds true for  < math > b^0 < /math >  as well, so  
+ 
+ : < math > b^m = b^{m+0} = b^m \cdot b^0 < /math > 
+ 
+ If this statement is true where  < math > b^m = b^m \cdot b^0 < /math > , then  < math > b^0 < /math >  must equal one. That is: 
+ : < math > b^0 = 1 < /math > 
+ == Negative exponents == 
+ A '''negative exponent''' is the [[reciprocal]] of a number with a positive exponent which can be mathematically represented as  < math > x^{-1}=\frac{1}{x}. < /math >  In the same way that regular exponents are considered repeated multiplication, negative exponents can be considered repeated division.  
+ 
+ Negative exponents can also be different from -1.  In this case the negative exponent can be separated from the positive exponent,  so  < math > x^{-2}=(x^{-1})^2=\left(\frac{1}{x}\right)^{2}=\frac{1}{x^{2}}. < /math > 
+ 
+ The formula for a negative exponent in terms of a whole number exponent is  < math > x^{-a}=\frac{1}{x^{a}}. < /math >  There are more than one ways to prove this. The first proof involves a pattern form. It is not always a good idea to use patterns because in cases like exponents they may not be complete patterns for every case, but the proof still holds.  
+ 
+ '''Proof #1''': Why is   < math >  x^{-1} =  \frac{1}{x} 
+ < /math >  ? 
+ 
+ : < math > b^x\cdot b^{-x} = b^{x+(-x)} < /math > 
+ 
+ : < math > b^x\cdot b^{-x} = b^0 < /math > 
+ 
+ : < math > b^x\cdot b^{-x} = 1 < /math >    ***(see zero rule for proof of this!) 
+ 
+ divide both sides by  < math > b^x < /math > 
+ 
+ : < math > \frac{{b^{x}}\cdot{b^{-x}}}{b^{x}} = \frac{1}{b^{x}} < /math > 
+ 
+ : < math > b^{-x} = \frac{1}{b^{x}} < /math >   
+ 
+ The second proof proves exactly the same thing but dives further into matching equalities  
+ 
+ '''Proof #2''':  < math >  x^{-1} =  \frac{1}{x} < /math > 
+ 
+ everything in the next row is proved by the rules in the exponent section 
+ 
+ : < math >  1= a^0 = a^{m-m}= a^m\cdot a^{-m} < /math > 
+ 
+ : < math >  a^ma^{-m}= 1 = \frac {a^m}{a^m} < /math > 
+ 
+ : < math >  a^ma^{-m} = a^m \cdot \frac{1}{a^m} < /math > 
+ 
+ : < math >  \frac {a^ma^{-m}}{a^m}= \frac {(a^m\cdot \frac {1}{a^m})}{a^m} < /math > 
+ 
+ therefore  < math >  a^{-m} = \frac {1}{a^m} < /math > 
+ 
+ If we also have a multiplication, like in  < math > 2x^{-a} < /math > , it would be written as  < math > \frac{2}{x^{a}}. < /math > 
+ 
+ == Complex exponentiation == 
+ A [[complex number]] can also be taken to the power of another complex number. The relationship between [[imaginary number]]s and [[trigonometry]], which produces the multiplication formula 
+ 
+ : < math > [r (\cos P + i \sin P)][s (\cos Q + i \sin Q)] = rs [\cos(P+Q) + i \sin(P+Q)] < /math > 
+ 
+ This formula basically states that the multiplication of complex numbers is related to addition of angles. 
+ 
+ There are some relationships between functions and “infinite degree polynomials”, that are called series representations of the functions. The important series representations that we will focus on are: 
+ 
+ : < math > e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \frac{x^4}{4!} + \frac{x^5}{5!} + \dots < /math > 
+ 
+ : < math > \cos x = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \dots < /math > 
+ 
+ : < math > \sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \dots < /math > 
+ 
+ From these representations, you should notice that the terms of the sine and cosine series combine, along with some sign changes, to make the exponential series over [[factorial]]. By introducing the number i into the equation, we get 
+ 
+ : < math > e^{ix} = 1 + ix - \frac{x^2}{2!} - \frac{ix^3}{3!} + \frac{x^4}{4!} + \frac{ix^5}{5!} - \dots = \cos x + i \sin x < /math > 
+ 
+ This result is often used as the beginning of the definition for complex number exponents. 
+ 
+ There are some cases where we are raising other numbers to the power i. For example, we can use the following relationship  < math > a^x = {e ^{\ln a}}^x = e^{x \ln a} 
+ < /math > . Here using base 2 and exponent i, we get 
+ 
+ : < math > 2^i = e^{i \ln 2} = \cos (\ln 2) + i \sin (\ln 2) \approx 0.7692 + 0.6390i < /math > 
+ 
+ When using base i and exponent i, we get 
+ 
+ : < math > i^i = e^ {i ln i} = e^{i \ln {\cos (\frac{\pi}{2}) + i \sin (\frac{\pi}{2})}} = e^{i ln e ^{i \frac{\pi}{2}}} = e^{\frac{-  \pi}{2}}. < /math > 
+ 
+ 
+ Now we can look at a general formula. 
+ 
+ : < math > a + bi^{c + di} = e ^{(c+ di) ln (a + bi)} < /math > 
+ 
+ We can rewrite the  < math > a + bi < /math >  in the trigonometric form  < math > r (\cos P + i \sin P) < /math > . 
+ 
+ By the relationship we found between trigonometry and complex exponent, we can rewrite the equation in complex exponential form,  < math > re^{iP} < /math > . 
+ 
+ Substituting this equation in the exponent in our original equation, we get  < math > a + bi^{c + di} = e^{(c + di) \ln re^{iP}} < /math > 
+ 
+ This can be simplified to be  < math > a + bi^{c + di} = e^{(c \ln r -dP) + (d \ln r + cP)} < /math > 
+ 
+ The real and imaginary parts of the exponent can be simplified separately to obtain to result  < math > a + bi^{c + di} = r^c e^{-dP} [\cos (d \ln (r) + cP) +i \sin(d \ln (r) + cP)] 
+ < /math > 
+ 
+ Because there are many ways to describe the angle P, this formula can give many answers. If we allow the variable P to vary by multiples of  < math > 2 \pi < /math > , we get the final result  
+ 
+ : < math > a + bi^{c + di} = r^c e^{-dP} [\cos (d \ln (r) + cP + 2 c k \pi) +i \sin(d \ln (r) + cP + 2 c k \pi)] < /math > 
+ 
+ == Related pages == 
+ 
+ * [[Exponentiation by squaring]] 
+ * [[Logarithm]] 
+ 
+ == References == 
+ < references / > 
+ {{Math-stub}} 
+ 
+ [[Category:Mathematics]]

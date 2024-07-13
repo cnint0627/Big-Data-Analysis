@@ -1,0 +1,36 @@
+{{Infobox company 
+ | name = SAP SE 
+ | logo = SAP 2011 logo.svg 
+ | caption =  
+ | image = Sap-wdf.jpg 
+ | image_caption = Headquarters in Walldorf, Baden-Württemberg 
+ | type = [[Public company|Public]] (''[[Societas Europaea]]'') 
+ | traded_as = {{FWB|SAP}} < br / > [[DAX|DAX Component]] 
+ | industry = [[Enterprise software]] < br / > [[Business software]] < br / > [[Cloud computing]] < br / > [[Consulting]] 
+ | foundation = [[Weinheim]], Germany < br / > ({{start date and age|1972}}) 
+ | founder = [[Dietmar Hopp]] < br / > Hans-Werner Hector < br / > [[Hasso Plattner]] < br / > [[Klaus Tschira]] < br / > [[Claus Wellenreuther]] 
+ | location_city = Dietmar-Hopp-Allee 16, [[Walldorf]], [[Baden-Württemberg]] 
+ | area_served = Worldwide 
+ | key_people = [[Hasso Plattner]] (Chairman) < br / > [[Christian Klein]] (CEO) 
+ | products =  
+ | services = {{hlist|[[Application software|Applications]]|[[Cloud computing|Cloud]] }} 
+ | revenue = {{Increase}} [[Euro|€]]27.842 & nbsp;billion (2021) < ref name= " financials " > {{cite web|url=https://www.sap.com/docs/download/investors/2021/sap-2021-q4-statement.pdf|title=SAP Q4 2021 Quarterly Statement 
+ |publisher=SAP SE |access-date=4 February 2022}} < /ref > 
+ | operating_income = {{Decrease}} €4.659 & nbsp;billion (2021) < ref name= " financials " / > 
+ | net_income = {{Increase}} €5.383 & nbsp;billion (2021) < ref name= " financials " / > 
+ | assets = {{Increase}} €71.173 & nbsp;billion (2021) < ref name= " financials " / > 
+ | equity = {{Increase}} €41.623 & nbsp;billion (2021) < ref name= " financials " / > 
+ | num_employees = 107,415 (2021) < ref name= " financials " / > 
+ | footnotes =  
+ | location_country = Germany 
+ | homepage = {{URL|https://www.sap.com/}} 
+ }} 
+ 
+ '''SAP SE''' ({{IPAc-en|ˌ|ɛ|s|.|eɪ|ˈ|p|iː|_|ɛ|s|iː}}) is a German [[Multinational corporation|multinational]] software company based in [[Walldorf, Baden-Württemberg]]. They make [[enterprise software]] to manage business operations and customer relations. < ref name= " SAP Company History " > {{cite web|title=SAP Company History|url=https://www.sap.com/corporate/en/company/history.html|access-date=25 January 2017}} < /ref > 
+ ==References== 
+ < references / > 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Technology companies of Germany]] 
+ [[Category:Software companies]]

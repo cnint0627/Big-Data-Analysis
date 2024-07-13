@@ -1,0 +1,49 @@
+In [[mathematics]], a '''polynomial''' is a kind of mathematical expression. It is a sum of several [[Term (mathematics)|mathematical terms]] called [[monomial|monomials]]. That is, a number, a [[variable]], or a product of a number and several variables.  When an [[algebra|algebraic]] expression contains letters mixed with numbers and arithmetic, like  < math > 7x^4(-3)x^3 + 19x^2(-8)x+197 < /math > , there is a good chance that it is a '''polynomial'''. Polynomials are taught in [[algebra]], which is a gateway course to all technical subjects. Mathematicians, scientists and engineers all use polynomials to solve problems. 
+ 
+ In [[algebra]], when letters, numbers, and arithmetic symbols occur together, the understanding is that the letters stand for variables, which are either symbols of their own, numbers not yet known, or numbers that change during the course of the problem (such as [[time]]). A '''polynomial''' is an algebraic expression in which the only arithmetic is addition, subtraction, multiplication and whole number [[exponentiation]]. If harder operations are used, such as division or [[square root]] < nowiki/ > s, then this algebraic expression is not a polynomial. Polynomials are often easier to use than other algebraic expressions. 
+ 
+ Polynomials are often used to form polynomial [[equation]]s, such as the [[equation]]  < math > 7x^4(-3)x^3 + 19x^2(-8)x+197=0 < /math > , or polynomial [[Function (mathematics)|functions]], such as  < math > f(x) = 7x^4(-3)x^3 + 19x^2(-8)x+197 < /math > . 
+ 
+ == Terminology == 
+ 
+ Given a series of  < math > n < /math >  numbers  < math > k_0, \ldots, k_n < /math > , a polynomial of variable  < math > x < /math >  generally takes the form  < math > k_n x^n + \ldots + k_0 x^0 < /math > . < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-28|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Polynomial|url=https://mathworld.wolfram.com/Polynomial.html|access-date=2020-08-28|website=mathworld.wolfram.com|language=en}} < /ref >  The parts of a polynomial separated by plus (or minus) signs are called  " [[Term (mathematics)|terms]] " , and the signs are themselves part of the term.  
+ 
+ (In a polynomial, multiplication is  " understood " . That means, for example, that  < math > 2x < /math >  means two times '' < math > x < /math > '', or twice '' < math > x < /math > ''. So that if '' < math > x < /math > '' is '' < math > 7 < /math > '', then  < math > 2x < /math >  is  < math > 14 < /math > .) 
+ 
+ Thus, in the polynomial '' < math > 7x^4(-3)x^3 + 19x^2(-8)x+197 < /math > '', the terms are: 
+ 
+ :: < math > 7x^4 < /math > 
+ :: < math > (-3)x^3 < /math > 
+ :: < math > +19x^2 < /math > 
+ :: < math > (-8)x < /math > 
+ :: < math > +197 < /math > 
+ 
+ If a polynomial has only one term, it is called a  " [[monomial]] " . Monomial are also the building blocks of polynomials. < ref > {{Cite web|title=Polynomials {{!}} Brilliant Math  &  Science Wiki|url=https://brilliant.org/wiki/polynomials/|access-date=2020-08-28|website=brilliant.org|language=en-us}} < /ref >  For example,  < math > 5x^3 < /math >  is a monomial.  
+ 
+ In a term, the multiplier out in front is called a  " [[coefficient]] " . The letter is called an  " unknown "  or a  " variable " , and the raised number after the letter is called an [[exponent]]. On a calculator and some computers, instead of putting an exponent above and to the right of the variable, the symbol ^ is used, so that the monomial above could be written as  < math > 5x < /math > ^ < math > 3 < /math > . 
+ 
+ A polynomial with exactly two terms is called a  " binomial " . A polynomial with exactly three terms is called a  " trinomial " . Within a term: 
+ 
+ * A term with no variables in it is called a  " constant term " . 
+ * A term with one variable but no exponent is called a  " first degree term " , or a  " linear term " . 
+ * A term with one variable which has exponent  < math > 2 < /math >  is called a  " second degree term "  or  " quadratic term " . A  " [[quadratic equation]] "  is an equation in which the largest exponent on any term is  < math > 2 < /math > . 
+ * A term with one variable which has exponent  < math > 3 < /math >  is called a  " third degree term "  or  " cubic term. "  A  " cubic equation "  is an equation in which the largest exponent on any term is  < math > 3 < /math > . 
+ * A term with one variable which has exponent  < math > 4 < /math >  is called a  " fourth degree term "  or  " quartic term. "  A  " [[quartic equation]] "  is an equation in which the largest exponent on any term is  < math > 4 < /math > . 
+ * A term with one variable which has exponent  < math > 5 < /math >  is called a  " fifth degree term "  or  " quintic term. "  A  " quintic equation "  is an equation in which the largest exponent on any term is  < math > 5 < /math > . 
+ * A term with one variable which has exponent  < math > 6 < /math >  is called a  " sixth degree term "  or  " sextic term. "  A  " sextic equation "  is an equation in which the largest exponent on any term is  < math > 6 < /math > . 
+ 
+ == Related pages == 
+ 
+ * [[Degree (mathematics)]] 
+ * [[Fundamental theorem of algebra]] 
+ * [[Polynomial remainder theorem]] 
+ * [[Polynomial root]] 
+ * [[Quartic equation]] 
+ * [[Galois theory]] 
+ 
+ == References == 
+ < references / > 
+ {{Polynomials}} 
+ 
+ [[Category:Mathematics]] 
+ [[Category:Algebra]]

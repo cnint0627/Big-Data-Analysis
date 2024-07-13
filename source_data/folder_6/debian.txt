@@ -1,0 +1,270 @@
+{{Infobox OS 
+ | name = Debian 
+ | logo = Debian-OpenLogo.svg 
+ | logo_size = 100px 
+ | logo_alt = Debian OpenLogo 
+ | screenshot = Debian 12 Bookworm GNOME Desktop English.png 
+ | screenshot_alt = Screenshot of Debian 11 (Bullseye) with the [[GNOME]] desktop environment 43.4 
+ | caption = Debian 11 (Bullseye) running its default [[desktop environment]], [[GNOME]] version 43.4 
+ | developer = The Debian Project 
+ | family = [[Unix-like]]  < !-- per [[template:Infobox OS/doc]] as of December 18, 2019 -- > 
+ | working_state = Current 
+ | source_model = [[Open-source software|Open source]] 
+ | released = {{Start date and age|1993|09}} 
+ | latest release version = {{wikidata|property|edit|reference|P348}} 
+ | latest release date    = {{start date and age|{{wikidata|qualifier|P348|P577}}}} 
+ | latest preview version = 12 (Bookworm) < ref > {{cite web |url = https://www.debian.org/releases/testing/releasenotes |title = Debian Release Notes |publisher = debian.org |access-date = 14 August 2021 |archive-date = 14 August 2021 |archive-url = https://web.archive.org/web/20210814214331/https://www.debian.org/releases/testing/releasenotes |url-status = live }} < /ref > 
+ | language = 75 languages 
+ | updatemodel = [[Long-term support]] in stable edition, [[rolling release]] in unstable and testing editions 
+ | package_manager = [[APT (Debian)|APT]] (front-end), [[dpkg]] 
+ | supported_platforms = [[x86-64]], [[arm64]], [https://wiki.debian.org/ArmEabiPort armel]{{Efn | Support ended at Buster(10).}}, [[armhf]], [[i386]], [[MIPS architecture|mips]], [[mipsel]], [[MIPS architecture|mips64el]], [[ppc64el]], [[s390x]], < ref > {{cite web |url = https://www.debian.org/ports/ |title = Debian -- Ports |access-date = May 26, 2014 |archive-date = November 22, 2016 |archive-url = https://web.archive.org/web/20161122100500/http://www.debian.org/ports/ |url-status = live }} < /ref >  [[RISC-V|riscv64]] (in progress) < ref > {{cite web | url=https://wiki.debian.org/RISC-V | title=RISC-V - Debian Wiki | access-date=2018-01-24 | archive-date=March 20, 2018 | archive-url=https://web.archive.org/web/20180320153651/https://wiki.debian.org/RISC-V | url-status=live }} < /ref > 
+ | kernel_type = [[Linux kernel]] 
+ | userland = [[GNU Core Utilities|GNU]] 
+ | ui =  
+ * [[GNOME]] on DVD 
+ * [[XFCE]] on CD and non-Linux ports 
+ * [[MATE (software)|MATE]] available on Debian's website 
+ * [[KDE Plasma 5|KDE Plasma]] available on Debian's website 
+ * [[LXQt]] available on Debian's website 
+ * [[LXDE]] available on Debian's website 
+ * [[Cinnamon (desktop environment)|Cinnamon]] available on Debian's website 
+ | license = [[Debian Free Software Guidelines|DFSG]]-compatible licenses 
+ | website = {{Official URL}} 
+ }} 
+ 
+ '''Debian''' is a free [[operating system]]. It is a distribution of an operating system known as the [[GNU|GNU operating system]], which can be used with various kernels, including [[Linux kernel|Linux]], [[FreeBSD|kFreeBSD]], and [[GNU Hurd|Hurd]]. In combination with these kernels, the operating system can be referred to as Debian GNU/Linux, Debian GNU/kFreeBSD, and Debian GNU/Hurd, respectively. Debian GNU/Linux is one of the most complete and popular [[Linux|GNU/Linux distributions]], on which many others, like [[Ubuntu]], are based. 
+ 
+ == Brief history == 
+ The Debian Project officially started on August 16th, 1993, led by [[Ian Murdock]]. He was a [[computer programmer]]. Today, in this project, Debian is developed by more than 1,000 computer specialists all over the world. 
+ 
+ The name  " Debian "  was taken after Ian Murdock and his wife Debra. Some people say or pronounce 'deb-ee-n' but others also say 'de-bi-an' or 'de-bai-an' and in Japan 'de-bi-a-n' and so on. 
+ 
+ == Development steps == 
+ Software packages in development are either uploaded to the project distribution named ''unstable'' (also known as ''sid''), or to the ''experimental'' repository. Software packages uploaded to ''unstable'' are normally versions stable enough to be released by the original [[upstream (software development)|upstream]] developer, but with the added Debian-specific packaging and other modifications introduced by Debian developers. These additions may be new and untested. Software not ready yet for the ''unstable'' distribution is typically placed in the ''experimental'' repository. < ref name= " ftparchive " > {{cite web 
+ | url = http://www.us.debian.org/doc/FAQ/ch-ftparchives 
+ | accessdate = 2007-05-24 
+ | title = The Debian GNU/Linux FAQ Chapter 6 - The Debian FTP archives 
+ | publisher = Debian 
+ | archive-date = 2008-05-15 
+ | archive-url = https://web.archive.org/web/20080515044357/http://www.us.debian.org/doc/FAQ/ch-ftparchives 
+ | url-status = dead 
+ }} < /ref > 
+ 
+ After a version of a software package has remained in ''unstable'' for a certain length of time (depending on how urgent the changes are), that package is automatically moved to the ''testing'' distribution. The package's move to testing happens only if no serious (''release-critical'') bugs in the package are reported and if other software needed for package functionality qualifies for inclusion in ''testing''. < ref name= " ftparchive "  / > 
+ 
+ Since updates to Debian software packages between official releases do not contain new features, some choose to use the ''testing'' and ''unstable'' distributions for their newer packages. However, these distributions are less tested than ''stable'', and ''unstable'' does not receive timely security updates.  In particular, incautious upgrades to working ''unstable'' packages can sometimes seriously break software functionality. < ref name= " securityfaq " > 
+ {{cite web 
+ | url = http://www.debian.org/security/faq 
+ | title = Debian security FAQ 
+ | date = 2007-02-28 
+ | accessdate = 2008-10-21 
+ | publisher = Debian }} 
+ < /ref >  Since September 9, 2005 < ref > 
+ {{cite mailing list 
+ | url = http://lists.debian.org/debian-devel-announce/2005/09/msg00006.html 
+ | title = announcing the beginning of security support for testing 
+ | date = 2005-09-05 
+ | accessdate = 2007-04-20 
+ | mailinglist = debian-devel-announce 
+ | last = Hess 
+ | first = Joey }} 
+ < /ref >   the ''testing'' distributions security updates have been provided by the ''testing'' security team. < ref > {{cite web 
+ | url = http://testing-security.debian.net 
+ | title = Debian testing security team 
+ | publisher = Debian 
+ | accessdate = 2008-10-31 
+ | archive-date = 2014-12-29 
+ | archive-url = https://web.archive.org/web/20141229131743/http://testing-security.debian.net/ 
+ | url-status = dead 
+ }} < /ref > 
+ 
+ After the packages in ''testing'' have matured and the goals for the next release are met, the ''testing'' distribution becomes the next stable release. The latest stable release of Debian (''Buster'') is 10.0, released on July 6, 2019. The next release is codenamed  " ''Bullseye'' " . < ref name= " ftparchive "  / > 
+ 
+ === Release history === 
+ < !-- NOTE: Use this article in English Wikipedia to help update https://en.wikipedia.org/wiki/Debian_version_history -- >   
+ {| class= " wikitable "  style= " float: center; " 
+ |- 
+ ! Legend 
+ |- 
+ | style= " background-color:#F06C47; "  | Release no longer supported 
+ |- 
+ | style= " background-color:#A0E75A; "  | Release still supported 
+ |- 
+ | style= " background-color:#87CEEB; "  | Future release 
+ |} 
+ {| class= " wikitable " 
+ ! Version 
+ ! [[Code name|Code & nbsp;name]] 
+ ! Release date 
+ ! [[Debian#Ports|Ports]] 
+ ! Packages 
+ ! Supported until 
+ ! Notes 
+ |- 
+ | 1.1 
+ | ''[[Buzz Lightyear|buzz]]'' 
+ | align= " right "  | 17 June 1996 
+ | align= " right "  | 1 
+ | align= " right "  | 474 
+ | style= " background-color:#F06C47; "  | 1996{{Citation needed|date=December 2009}} 
+ |  < tt > dpkg < /tt > , [[Executable and Linkable Format|ELF]] transition, Linux 2.0 
+ |- 
+ | 1.2 
+ | ''rex'' 
+ | align= " right "  | 12 December 1996 
+ | align= " right "  | 1 
+ | align= " right "  | 848 
+ | style= " background-color:#F06C47; "  | 1996{{Citation needed|date=December 2009}} 
+ | - 
+ |- 
+ | 1.3 
+ | ''bo'' 
+ | align= " right "  | 5 June 1997 
+ | align= " right "  | 1 
+ | align= " right "  | 974 
+ | style= " background-color:#F06C47; "  | 1997{{Citation needed|date=December 2009}} 
+ | - 
+ |- 
+ | 2.0 
+ | ''hamm'' 
+ | align= " right "  | 24 July 1998 
+ | align= " right "  | 2 
+ | align= " right "  |≈ & nbsp;1,500 
+ | style= " background-color:#F06C47; "  | 1998 
+ | [[GNU C Library|glibc]] transition, new architecture:  < tt > m68k < /tt > 
+ |- 
+ | 2.1 
+ | ''slink'' 
+ | align= " right "  | 9 March 1999 
+ | align= " right "  | 4 
+ | align= " right "  | ≈ & nbsp;2,250 
+ | style= " background-color:#F06C47; "  | 2000-12 
+ |  < tt > APT < /tt > , new architectures:  < tt > alpha < /tt > ,  < tt > sparc < /tt > 
+ |- 
+ | 2.2 
+ | ''potato'' 
+ | align= " right "  | 15 August 2000 
+ | align= " right "  | 6 
+ | align= " right "  | ≈ & nbsp;3,900 
+ | style= " background-color:#F06C47; "  | 2003-04 
+ | New architectures:  < tt > arm < /tt > ,  < tt > powerpc < /tt > < ref name= " 22rel " > {{cite mailing list | url = http://lists.debian.org/debian-announce/debian-announce-2000/msg00009.html | title = Debian GNU/Linux 2.2, the  " Joel 'Espy' Klecker "  release | mailinglist = debian-announce | date = 2000-08-15 | last = Schulze | first = Martin }} < /ref > 
+ |- 
+ | 3.0 
+ | ''[[Sheriff Woody|woody]]'' 
+ | align= " right "  | 19 July 2002 
+ | align= " right "  | 11 
+ | align= " right "  | ≈ & nbsp;8,500 
+ | style= " background-color:#F06C47; "  | 2006-08 
+ | New architectures:  < tt > hppa < /tt > ,  < tt > ia64 < /tt > ,  < tt > mips < /tt > ,  < tt > mipsel < /tt > ,  < tt > s390 < /tt > 
+ |- 
+ | 3.1 
+ | ''sarge'' 
+ | align= " right "  | 6 June 2005 
+ | align= " right "  | 11 
+ | align= " right "  | ≈ & nbsp;15,400 
+ | style= " background-color:#F06C47; "  | 2008-04 < ref name= " securityfaq "  / > 
+ | Modular installer, semi-official  < tt > amd64 < /tt >  support. 
+ |- 
+ | 4.0 
+ | ''etch'' 
+ | align= " right "  | 8 April 2007 
+ | align= " right "  | 11 
+ | align= " right "  | ≈ & nbsp;18,000 
+ | style= " background-color:#F06C47; "  | 2010-02-15 < ref name= " wiki.debian.org-DebianEtch " > {{cite web | url = http://wiki.debian.org/DebianEtch | title = Debian Wiki: Debian Releases  >  Debian Etch | accessdate = 2010-07-16 | publisher = Debian }} < /ref > 
+ | New architecture:  < tt > amd64 < /tt > , dropped architecture:  < tt > m68k < /tt > . < ref name= " 40rel " > {{cite mailing list | mailinglist = debian-announce | last = Schmehl | first = Alexander | url = http://lists.debian.org/debian-announce/debian-announce-2007/msg00002.html | title = Debian GNU/Linux 4.0 released | date = 2007-04-08 | accessdate = 2008-11-01 }} < /ref >  Graphical installer, [[udev]] transition, modular [[X.Org Server|X.Org]] transition. Latest update 4.0r9 was released 2010-05-22 < ref > {{cite web | title = Debian GNU/Linux 4.0 updated | publisher = Debian | url = http://www.debian.org/News/2010/20100522 | accessdate = 2010-07-16 }} < /ref > 
+ |- 
+ | 5.0 < ref > {{cite mailing list | url = http://lists.debian.org/debian-devel-announce/2008/03/msg00001.html | title = Release Update: Release numbering, goals, armel architecture, BSPs | mailinglist = debian-announce | date = 2008-03-02 | accessdate = 2008-11-01 | first = Marc | last = Brockschmidt }} < /ref > 
+ | ''lenny'' < ref > {{cite mailing list | url = http://lists.debian.org/debian-devel-announce/2006/11/msg00004.html | title = testing d-i Release Candidate 1 and more release adjustments | mailinglist = debian-devel-announce | date = 2006-11-16 | first = Steve | last = Langasek | accessdate = 2008-11-01 }} < /ref > 
+ | align= " right "  | 14 & nbsp;February & nbsp;2009 
+ | align= " right "  | 11+1{{Ref label|lenny|A|A}} 
+ | align= " right "  | ≈ & nbsp;23,000 < ref name= " lenny released "  / > 
+ | style= " background-color:#F06C47; "  | 2012-02-06 
+ | New architecture/binary ABI:  < tt > armel < /tt > . < ref > {{cite mailing list | url = http://lists.debian.org/debian-devel-announce/2008/06/msg00000.html | title = Release Update: arch status, major transitions finished, freeze coming up | first = Marc | last = Brockschmidt | date = 2008-06-02 | accessdate = 2008-11-01 | mailinglist = debian-devel-announce }} < /ref >  [[SPARC]] 32-bit hardware support dropped. < ref > {{cite mailing list | url = http://lists.debian.org/debian-devel-announce/2007/07/msg00006.html | title = Retiring the sparc32 port | last = Smakov | first = Jurij | mailinglist = debian-devel-announce | date = 2007-07-18 | accessdate = 2008-10-31 }} < /ref >   Full [[ASUS Eee PC|Eee PC]] support. < ref > {{cite mailing list | url = http://lists.debian.org/debian-devel-announce/2008/08/msg00002.html | title = Bits from the Debian Eee PC team, summer 2008 | mailinglist = debian-devel-announce | first = Ben | last = Armstrong | date = 2008-08-03 | accessdate = 2008-10-31}} < /ref >  Latest update 5.0.8 was released 2011-01-22. < ref > {{cite web | title = Debian -- News -- Updated Debian GNU/Linux: 5.0.8 released | publisher = Debian | url = http://www.debian.org/News/2011/20110122 | accessdate = 2011-01-22 }} < /ref > 
+ |- 
+ | 6.0 < ref name= " squeezenotes " > {{cite web | url = http://www.debian.org/releases/squeeze/releasenotes | title = Debian GNU/Linux 6.0 & nbsp;– Release Notes | accessdate = 2009-02-15 | publisher = Debian }} < /ref > 
+ | ''squeeze'' < ref > {{cite mailing list | url = http://lists.debian.org/debian-devel-announce/2008/09/msg00000.html | title = Release Update: freeze guidelines, testing, BSP, rc bug fixes | mailinglist = debian-devel-announce | date = 2008-09-01 | first = Luk | last = Claes | accessdate = 2008-10-31 }} < /ref > 
+ | align= " right "  | 6 February 2011 < ref > {{cite web | url = http://www.debian.org/News/2011/20110205a | accessdate = 2011-02-06 | title = Bits from the release team: Planning, request for help  | first = Luk | last = Claes }} < /ref > 
+ | align= " right "  | 9+2{{Ref label|squeeze|B|B}} 
+ | align= " right "  | ≈ & nbsp;29,000 
+ | style= " background-color:#F06C47; "  | 2016-02-29 
+ | New architectures/kernels:  < tt > kfreebsd-i386 < /tt > ,  < tt > kfreebsd-amd64 < /tt > , dropped architectures:  < tt > alpha < /tt > ,  < tt > arm < /tt > . < ref name= " squeeze release architectures " > {{cite web | url = http://lists.debian.org/debian-devel-announce/2009/10/msg00000.html | accessdate = 2009-10-01 | title = Release architectures |  first = Andreas | last = Barth }} < /ref >  [[Embedded GLIBC|eglibc]] in favour of [[GNU C Library|glibc]]. < ref > {{cite web | url = http://blog.aurel32.net/?p=47 | accessdate = 2009-05-21 | title = Aurelien's weblog: Debian is switching to EGLIBC | publisher = Aurélien Jarno }} < /ref > 
+ |- 
+ |7 
+ |style= " text-align: left; " |wheezy 
+ | align= " right "  | 4 May 2013 
+ | align= " right "  | 13 
+ | align= " right "  | ≈ 36,000 
+ | style= " background-color:#F06C47; "  | 2018-05 
+ | 
+ |- 
+ |8 
+ |style= " text-align: left; " |jessie 
+ | align= " right "  | 25–26 April 2015 
+ | align= " right "  | 10 
+ | align= " right "  | ≈ 43,000 
+ | style= " background-color:#F06C47; "  | 2020-04 
+ | 
+ |- 
+ |9 
+ |style= " text-align: left; " |stretch 
+ | align= " right "  | 17 June 2017 
+ | align= " right "  | 10 
+ | align= " right "  | ≈ 52,000 
+ | style= " background-color:#F06C47; "  | 2022-06 
+ | 
+ |- 
+ |10 
+ |style= " text-align: left; " |buster 
+ | align= " right "  | 6 July 2019 
+ | align= " right "  |  10 
+ | align= " right "  | ≈ 58,000 
+ | style= " background-color:#A0E75A; "  | 2024-06 
+ |- 
+ |11 
+ |style= " text-align: left; " |bullseye 
+ | align= " right "  | 14 August 2021 
+ | align= " right "  |  9 
+ | align= " right "  | 59,551 
+ | style= " background-color:#A0E75A; "  | 2026-06 
+ | 
+ | 
+ |} 
+ :{{note label|lenny|A|A}} 11 architectures + 1 additional ARM binary ABI ( < tt > armel < /tt > ) < ref name= " lenny released " > {{cite web |url=http://www.debian.org/News/2009/20090214.en.html |title=Debian GNU/Linux 5.0 released |accessdate=2009-02-15 |publisher=Debian |date= 2009-02-14}} < /ref > 
+ :{{note label|squeeze|B|B}} 9 architectures with Linux kernel + 2 architectures with FreeBSD kernel < ref name= " squeeze release architectures "  / > 
+ 
+ {| style= " float: right " 
+ | [[File:Debian-cd-cover1.png|150px|thumb|A Debian 4.0 Box Cover < ref name= " dvdcover " > {{cite web | url = http://www.debian.org/CD/artwork/ | title = Artwork for Debian CDs | accessdate = 2009-01-11 | publisher = Debian }} 
+ < /ref > ]] 
+ |} 
+ 
+ Due to an incident involving a CD vendor who made an unofficial and broken release labeled ''1.0'', an official 1.0 release was never made. < ref name= " releases " > 
+ {{cite web 
+ | url = http://wiki.debian.org/DebianReleases 
+ | title = Debian Wiki: Debian Releases 
+ | publisher = Debian 
+ | accessdate = 2010-07-16 }} 
+ < /ref > 
+ 
+ == For other platforms == 
+ Debian has been ported to different architectures or platforms. One version, which is based on the developer release (sid) that has been ported to the [[Xbox (console)|Xbox]] is called Xebian. 
+ 
+ == Package == 
+ Debian's official software package repository < ref > ArchLinux.org, [https://wiki.archlinux.org/index.php/Official_Repositories   " Official repositories, " ] excerpt,  " A software repository is a storage location from which software packages may be retrieved and installed on a computer " ; retrieved 2012-6-7. < /ref >  includes, for example, [[UNetbootin]]. < ref > Debian, [http://packages.debian.org/search?keywords=unetbootin Package unetbootin]; retrieved 2012-6-7. < /ref > 
+ 
+ ==Related pages== 
+ * [[List of Linux distributions]] 
+ 
+ == References == 
+ {{reflist}} 
+ ;Notes 
+ < references group= " lower-alpha " / > 
+ 
+ == Other websites == 
+ * http://www.debian.org/ - Debian Project Homepage 
+ * {{DistroWatch|debian|NAME=Debian}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Linux distributions]] 
+ [[Category:Debian]] 
+ [[Category:X86-64 Linux distributions]]

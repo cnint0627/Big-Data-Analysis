@@ -1,0 +1,130 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ | official_name                   = Ruhengeri 
+ | other_name                      = Musanze 
+ | native_name                     =  < !-- for cities whose native name is not in English -- > 
+ | nickname                        =  
+ | settlement_type                 = City 
+ | motto                           =  < !-- images and maps  ----------- > 
+ | image_skyline                   = ruhengeri.jpg 
+ | imagesize                       =  
+ | image_caption                   =  
+ | image_flag                      =  
+ | flag_size                       =  
+ | image_seal                      =  
+ | seal_size                       =  
+ | image_shield                    =  
+ | shield_size                     =  
+ | image_blank_emblem              =  
+ | blank_emblem_type               =  
+ | blank_emblem_size               =  
+ | image_map                       =  
+ | mapsize                         =  
+ | map_caption                     =  
+ | image_map1                      =  
+ | mapsize1                        =  
+ | map_caption1                    =  
+ | image_dot_map                   =  
+ | dot_mapsize                     =  
+ | dot_map_caption                 =  
+ | dot_x                           =  
+ | dot_y                           =  
+ | pushpin_map                     = Rwanda < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | pushpin_label_position          = bottom 
+ | pushpin_map_caption             = Location in Rwanda 
+ < !-- Location ------------------ > | subdivision_type                = Country 
+ | subdivision_name                = {{flag|Rwanda}} 
+ | subdivision_type1               = Admin. & nbsp;Province 
+ | subdivision_name1               = [[Northern Province, Rwanda|Northern Province]] 
+ | subdivision_type2               = District 
+ | subdivision_name2               = [[Musanze District|Musanze]] 
+ | subdivision_type3               =  
+ | subdivision_name3               =  
+ | subdivision_type4               =  
+ | subdivision_name4               =  < !-- Politics ----------------- > 
+ | government_footnotes            =  
+ | government_type                 =  
+ | leader_title                    = Mayor 
+ | leader_name                     =  
+ | leader_title1                   =  < !-- for places with, say, both a mayor and a city manager -- > 
+ | leader_name1                    =  
+ | leader_title2                   =  
+ | leader_name2                    =  
+ | leader_title3                   =  
+ | leader_name3                    =  
+ | leader_title4                   =  
+ | leader_name4                    =  
+ | established_title               =  < !-- Settled -- > 
+ | established_date                =  
+ | established_title2              =  < !-- Incorporated (town) -- > 
+ | established_date2               =  
+ | established_title3              =  < !-- Incorporated (city) -- > 
+ | established_date3               =  < !-- Area    --------------------- > 
+ | area_magnitude                  =  
+ | unit_pref                       = Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_footnotes                  =  
+ | area_total_km2                  =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_land_km2                   =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ | area_water_km2                  =  
+ | area_total_sq_mi                =  
+ | area_land_sq_mi                 =  
+ | area_water_sq_mi                =  
+ | area_water_percent              =  
+ | area_urban_km2                  =  
+ | area_urban_sq_mi                =  
+ | area_metro_km2                  =  
+ | area_metro_sq_mi                =  
+ | area_blank1_title               = Muhoza sector 
+ | area_blank1_km2                 = 21.15 
+ | area_blank1_sq_mi               =  < !-- Population   ----------------------- > 
+ | population_as_of                = 2022 census 
+ | population_footnotes            =  < ref name= " pop " > [http://www.citypopulation.de/en/rwanda/cities/ Citypopulation.de] Population of the major cities in Rwanda < /ref > < ref > [http://www.citypopulation.de/en/rwanda/sector/admin/muzanse/4308/ Citypopulation.de] Population of Muhoza sector < /ref > 
+ | population_note                 =  
+ | population_total                = 135000 
+ | population_density_km2          =  
+ | population_density_sq_mi        =  
+ | population_metro                =  
+ | population_density_metro_km2    =  
+ | population_density_metro_sq_mi  =  
+ | population_urban                =  
+ | population_density_urban_km2    =  
+ | population_density_urban_sq_mi  =  
+ | population_blank1_title         = Muhoza sector 
+ | population_blank1               = 69741 
+ | population_blank2_title         = Ethnicities 
+ | population_blank2               =  
+ | population_blank3_title         = Religions 
+ | population_blank3               =  
+ | population_density_blank1_km2   = auto 
+ | population_density_blank1_sq_mi =  < !-- General information  --------------- > 
+ | timezone                        =  
+ | utc_offset                      =  
+ | timezone_DST                    =  
+ | utc_offset_DST                  =  
+ | coordinates                     = {{coord|1|30|S|29|38|E|region:RW|display=inline}} 
+ | elevation_footnotes             =  < !--for references: use  < ref >  tags-- > 
+ | elevation_m                     = 1883 
+ | elevation_ft                    =  < !-- Area/postal codes  &  others -------- > 
+ | postal_code_type                =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | postal_code                     =  
+ | area_code                       =  
+ | blank_name                      = [[Köppen climate classification|Climate]] 
+ | blank_info                      = [[Oceanic climate|Cfb]] 
+ | blank1_name                     =  
+ | blank1_info                     =  
+ | website                         =  
+ | footnotes                       =  
+ | name                            =  
+ }} 
+ '''Ruhengeri''', also known as '''Musanze''', is the third largest city in [[Rwanda]] and the capital of Musanze District in the [[Northern Province, Rwanda|Northern Province]] of Rwanda. As of the 2022 census, 135,000 people lived there. 
+ 
+ Ruhengeri is near the lakes of [[Lake Burera]] and [[Lake Ruhondo]] and is the gateway city to [[Volcanoes National Park]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:Cities in Rwanda]]

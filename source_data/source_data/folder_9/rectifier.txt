@@ -1,0 +1,20 @@
+[[File:Regulated rectifier.gif|thumb|upright]] 
+ [[File:Halfwave.rectifier.en.png|thumb|upright]] 
+ A '''rectifier''' is a device that can convert [[Alternating current]] (AC) to [[Direct current]] (DC). This is a process called rectification. Many rectifiers in the 20th century were made of metals like copper, iron, and silver. < ref > {{cite web |url= http://www.nd.edu/~lemmon/courses/ee224/web-manual/web-manual/lab8b/node6.html 
+  |title=What is a Rectifier Circuit? |date= 2009-02-01 |publisher= Michael Lemmon |accessdate=20 May 2012}} < /ref >  Nowadays most are [[semiconductor]] < nowiki/ > s. 
+ 
+ ''Half-wave rectifiers'' only have one side of a waveform, while the ''full-wave rectifiers'' use both sides of a waveform. The left-hand side of the full-wave rectifier circuit consists of four diodes: a diode bridge. Half-wave current is a current that can only flow  in alternate current, a full-wave current can flow both alternating current and direct current.  < ref > {{cite web |url=http://www.wisc-online.com/objects/ViewObject.aspx?ID=SSE402 |title=Half-Wave Rectifier |author=Patrick Hoppe |accessdate=20 May 2012}} < /ref > 
+ 
+ [[File:4 diodes bridge rectifier.jpg|thumb|left|upright|Diode bridge, a full wave rectifier]] 
+ 
+ '''Diode bridge''' is [[electrical circuit]] that consists of four [[diode]]s. It acts as a full wave rectifier to convert alternating current to direct current. 
+ 
+ [[File:Diodebridge-eng.gif|thumb|center]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Rectifiers| ]]

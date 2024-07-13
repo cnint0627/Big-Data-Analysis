@@ -1,0 +1,30 @@
+{{For|the human bone|Radius (bone)}}[[File:Radius.PNG|thumb|The radius of a circle]] 
+ In [[geometry]], the '''radius''' of a [[circle]] or [[sphere]], written as  < math > r < /math > , < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-24|website=Math Vault|language=en-US}} < /ref >  is the shortest connection between the center and the boundary. It is either the distance from the center to the [[perimeter]] (in the case of a circle), or the distance from the center to the [[surface]] (in the case of a sphere). It is half of the [[diameter]]. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Radius|url=https://mathworld.wolfram.com/Radius.html#:~:text=The%20distance%20from%20the%20center,equal%20to%20half%20the%20diameter.|access-date=2020-09-24|website=mathworld.wolfram.com|language=en}} < /ref >  That is, when ''r'' is the radius and ''d'' is the diameter: < ref > {{Cite web|title=Radius, diameter,  &  circumference {{!}} Circles (article)|url=https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/a/radius-diameter-circumference|access-date=2020-09-24|website=Khan Academy|language=en}} < /ref > 
+ 
+ ''r'' = ''d'' ÷ 2 
+ 
+ ''d'' = 2 x ''r'' = ''r'' + ''r'' 
+ 
+ The relationship between the radius  < math > {\displaystyle r} < /math >  and the [[circumference]]  < math > {\displaystyle c} < /math >  of a circle is  
+ < math > ~c = 2\pi r. < /math > 
+ 
+ The [[area]]  < math > {\displaystyle A} < /math >  of a circle of radius  
+ < math > {\displaystyle r} < /math >  is  
+ < math > {\displaystyle ~A = \pi r^2.} < /math > 
+ 
+ ==Related pages== 
+ * [[Area]] 
+ * [[Covalent radius]] 
+ * [[Diameter]] 
+ * [[Radian]] 
+ 
+ == References == 
+ < references / > 
+ 
+ == Other websites == 
+ * [http://www.mathopenref.com/radius.html Definition and properties of the radius of a circle] with interactive applet 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Geometry]]

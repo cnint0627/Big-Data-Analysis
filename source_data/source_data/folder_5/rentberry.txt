@@ -1,0 +1,54 @@
+{{complex|date=March 2022}} 
+ {{Infobox company 
+ | name = Rentberry 
+ | logo = Rentberry Logo.png 
+ | founded = 2015 
+ | founder = Oleksiy Lyubinsky (General Director),  
+ Lilia Ostapchuk (CPO) 
+ | hq_location = [[San Francisco]], {{USA}} 
+ | key_people = Oleksiy Lyubinsky (General Director),  
+ Lilia Ostapchuk (CPO), 
+ 
+ Denis Golubovsky (Technical Director), 
+ Alex Kotovskov (project manager). 
+ | num_employees = 30+ 
+ }} 
+ '''Rentberry, Inc.''' is an international long-term rental marketplace company based in [[San Francisco]], [[California]], [[United States]]. The company was founded in 2015 by Alex Lubinsky and Lily Ostapchuk. < ref > {{Cite web|date=2017-11-20|title=Алексей Любинский, Rentberry: «Мы привлекли первый миллион в Долине, не имея продукта»|url=https://ain.ua/2017/11/20/interview-rentberry/|access-date=2021-03-22|website=AIN.UA|language=ru-RU}} < /ref > < ref name= " ain.ua " > {{Cite web|date=2017-10-03|title=Украинский стартап Rentberry привлек новый раунд инвестиций на сумму $2,8 млн|url=https://ain.ua/2017/10/03/rentberry-privlek-2-8-mln/|access-date=2021-03-22|website=AIN.UA|language=ru-RU}} < /ref > 
+ 
+ == History == 
+ In 2015, Oleksiy Lyubinsky and Lilia Ostapchuk founded the PropTech startup Rentberry in [[San Francisco]], [[United States]]. < ref > {{Cite news|date=2017-03-31|title=Rentberry's controversial property bid site expands in US|language=en-GB|work=BBC News|url=https://www.bbc.com/news/technology-39355984|access-date=2021-03-22}} < /ref > < ref > {{Cite web|title=Bidding Website Rentberry May Be the Startup of Your Nightmares|url=https://gizmodo.com/bidding-website-rentberry-may-be-the-startup-of-your-ni-1793940693|access-date=2021-03-22|website=Gizmodo|date=2 April 2017 |language=en-us}} < /ref > < ref > {{Cite web|title=With the Rentberry App, Silicon Valley Invented Another Way to Drive Out the Working Class|url=https://www.yahoo.com/news/rentberry-app-silicon-valley-invented-190900738.html|access-date=2021-03-22|website=www.yahoo.com|language=en-US}} < /ref > 
+ 
+ That same year, the prototype of the Rentberry product raised $845,000 from 12 international investors, including Carlyle Group, Synergo Private Equity, IFC, Pegasus Capital, Abris Capital and Ericsson. < ref > {{Cite web|date=2016-08-09|title=Основанный украинцами стартап Rentberry привлек $320 000 от инвесторов из Google, WP Global Partners и Boston Venture Fund|url=https://ain.ua/2016/08/09/osnovannyj-ukraincami-startap-rentberry-privlek-320-000-ot-investorov-iz-google-wp-global-partners-i-boston-venture-fund/|access-date=2021-03-22|website=AIN.UA|language=ru-RU}} < /ref > < ref > {{Cite web|date=2015-12-02|title=Украинский стартап Rentberry привлек $845 000 от мировых инвесторов и получил оценку в $3 млн, не имея готового продукта|url=https://ain.ua/2015/12/02/ukrainskij-startap-rentberry-privlek-845-000-ot-mirovyx-investorov-i-poluchil-ocenku-v-3-mln-ne-imeya-gotovogo-produkta/|access-date=2021-03-22|website=AIN.UA|language=ru-RU}} < /ref > 
+ 
+ In 2017, the company began working with ListHub, Realtor.com and Walk Score to combine rental bulletin boards. 
+ 
+ In October 2017, Rentberry raised $4.5 million in venture financing. Zing Capital became a leading investor, joining Nelson Brothers Property Management, Hopewell Development, 808 Ventures, Beechwood Ventures, Jade Value. < ref name= " ain.ua " / > < ref > {{Cite web|title=Украинские стартапы, которым удалось привлечь инвестиции в тяжелые времена|url=https://inventure.com.ua/analytics/articles/ukrainskie-startapy-kotorym-udalos-privlech-investicii-vo-vremya-pandemii-koronavirusa|access-date=2021-03-22|website=inventure.com.ua|language=ru}} < /ref > 
+ 
+ In 2018, Rentberry signed its first international partnership with OnTheMarket and thus the company entered the rental market in the [[United Kingdom|UK]]. 
+ 
+ In June 2019, the platform became available in more than 50 countries, including [[Australia]], [[Canada]], [[Germany]], [[Spain]], [[Italy]] and more. < ref name= " GmbH " > {{Cite web|last=GmbH|first=finanzen net|title=Rentberry Has Expanded Worldwide and Introduced Mobile Apps|url=https://markets.businessinsider.com/news/stocks/rentberry-has-expanded-worldwide-and-introduced-mobile-apps-1027585213|access-date=2021-03-22|website=markets.businessinsider.com|language=en-us}} < /ref > 
+ 
+ == Functional == 
+ Rentberry offers a decentralized platform for landlords and tenants, based on a transparent process for submitting and reviewing rental applications, online payments, a risk assessment system for potential tenants and homeowners, and more. Rent is paid through the website. To do this, Rentberry works with HelloSign, offering tenants and landlords to sign sign legally binding documents digitally on the platforms. < ref > {{Cite web|title=Alex Lubinsky, CEO of Rentberry|url=https://www.propertyinvestortoday.co.uk/60-second-interview/2017/4/alex-lubinsky-ceo-of-rentberry|access-date=2021-03-22|website=Property Investor Today|language=en}} < /ref > < ref > {{Cite web|date=2018-01-27|title=10 cryptocurrency startups to watch in 2018|url=https://techstartups.com/2018/01/27/10-cryptocurrency-startups-watch-2018/|access-date=2021-03-22|website=Tech News {{!}} Startups News|language=en-US}} < /ref > 
+ 
+ Rentberry also uses the DataUSA.io API service and database, providing tenants with information about the area where the tenant is looking for housing, including population, average age, poverty rate, average income, average property value, and more. 
+ 
+ On September 10, 2018, Rentberry launched mobile applications for tenants and landlords on both iOS and Android. < ref name= " GmbH " / > 
+ 
+ == Critics == 
+ The American press gave mixed reviews and called Rentberry  " eBay for rent " , claiming that the platform could only lead to a rise in the rental market. 
+ 
+ Since the first launch, the controversial bidding tool (a tenant can set a preferred price for an apartment) has been discussed in [[Vanity Fair (magazine)|Vanity Fair]], [[The Wall Street Journal]], [[The Independent]], [[HuffPost|HuffingtonPost]], CBS SF BayArea, SFGate, Inman, Curbed and other media. < ref > {{Cite magazine|last=Kosoff|first=Maya|title=A Start-Up that Lets Renters Bid Against Each Other for Apartments Just Launched in America's Two Most Expensive Cities|url=https://www.vanityfair.com/news/2016/05/rentberry-apartment-bidding-launches-in-new-york-san-francisco|access-date=2021-03-22|magazine=Vanity Fair|language=en-us}} < /ref > < ref > {{Cite news|last=Mims|first=Christopher|date=2017-04-02|title=Want That Apartment? You May Have to Bid for It|language=en-US|work=Wall Street Journal|url=https://www.wsj.com/articles/want-that-apartment-you-may-have-to-bid-for-it-1491134407|access-date=2021-03-22|issn=0099-9660}} < /ref > < ref > {{Cite web|date=2016-05-17|title=This new startup is making renters bid against each other for the best flats|url=https://www.independent.co.uk/life-style/gadgets-and-tech/news/rentberry-renting-startup-ebay-san-francisco-new-york-a7034761.html|access-date=2021-03-22|website=The Independent|language=en}} < /ref > < ref > {{Cite web|date=2016-05-17|title=Housing Advocates See Bitter Side Of New Bidding Startup Rentberry|url=https://sanfrancisco.cbslocal.com/2016/05/17/housing-advocates-see-bitter-side-of-new-bidding-startup-rentberry/|access-date=2021-03-22|language=en-US}} < /ref > < ref > {{Cite web|last=SFGATE|first=Mike Moffitt|date=2016-05-16|title=SF startup lets would-be tenants bid for apartments|url=https://www.sfgate.com/tech/article/SF-startup-seeks-to-auction-off-rental-apartments-7467415.php|access-date=2021-03-22|website=SFGATE|language=en-US}} < /ref > < ref > {{Cite web|title=Rentberry Lets You Auction Your Rental Property|url=https://www.inman.com/2016/05/16/rentberry-lets-you-auction-rental-property/|access-date=2021-03-22|website=Inman|language=en-US}} < /ref > < ref > {{Cite web|last=Brinklow|first=Adam|date=2016-05-16|title=Startup Offers Bidding War Platform For Apartments; Renters Freak|url=https://sf.curbed.com/2016/5/16/11686666/rentberry-san-francisco-lubinsky|access-date=2021-03-22|website=Curbed SF|language=en}} < /ref > 
+ 
+ == Lawsuit == 
+ In March 2018, [[Seattle]] City Council imposed a one-year moratorium on platforms where you can bargain for rent, as in Rentberry. < ref > {{Cite web|title=Rentberry v. City of Seattle|url=https://pacificlegal.org/case/rentberry-v-city-of-seattle/|access-date=2021-03-22|website=Pacific Legal Foundation|language=en}} < /ref > 
+ 
+ In March 2019, Rentberry lost the case in the US District Court. < ref > {{Cite web|last=Schofield|first=Kevin|date=2019-04-28|title=City Council moves to extend moratorium on rent-bidding platforms|url=https://sccinsight.com/2019/04/28/city-council-moves-to-extend-moratorium-on-rent-bidding-platforms/|access-date=2021-03-22|website=Seattle City Council Insight|language=en-US}} < /ref > 
+ 
+ Reports say the Seattle City Council plans to extend the moratorium for another year. As of June 2019, Rentberry is agglomerating the lists (boards) of rental housing in Seattle, as the moratorium has not yet been extended. < ref > {{Cite news|date=2019-04-28|title=City Council moves to extend moratorium on rent-bidding platforms|language=en-US|work=Seattle City Council Insight|url=https://sccinsight.com/2019/04/28/city-council-moves-to-extend-moratorium-on-rent-bidding-platforms/|access-date=2021-03-22}} < /ref > 
+ 
+ == References == 
+ < references responsive= " "  / > 
+ 
+ [[Category:Companies based in San Francisco]] 
+ [[Category:2015 establishments in California]]

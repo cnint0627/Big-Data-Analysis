@@ -1,0 +1,45 @@
+[[File:Conicas1.PNG|right|thumb|150px|An ellipse obtained as the intersection of a [[cone]] with a plane.]] 
+ 
+ An '''ellipse'''  < ref > from [[Greek language|Greek]] ἔλλειψις ''elleipsis'', a  " falling short " < /ref >  is a shape that looks like an [[oval]] or a flattened [[circle]].  
+ 
+ In [[geometry]], an '''ellipse''' is a [[plane (mathematics)|plane]] [[curve]] which results from the intersection of a [[cone]] by a [[plane (mathematics)|plane]] in a way that produces a closed curve.   
+ 
+ [[Circle]]s are special cases of ellipses, created when the cutting plane is [[Right angle|perpendicular]] to the cone's axis. 
+ 
+ [[Image:Elipse.svg|thumb|right|150px|An ellipse and its properties.]] 
+ [[Image:locating_the_foci_of_an_ellipse.svg|thumb|150px|The foci (purple crosses) are at intersects of the major axis (red) and a circle (cyan) of radius equal to the semi-major axis (blue), centred on an end of the minor axis (grey)]] 
+ A circle has one center, called a [[focus]]. An ellipse has two foci.  
+ 
+ An ellipse is simply all points on a graph that the sum of the distances from 2 points are the same. For example, an ellipse can be made by putting two pins into cardboard and a circle of string around those two, then putting a pencil in the loop and pulling as far as possible without breaking the string in all directions. The orbits of the planets are ellipses, with the sun at one focus.   
+ 
+ The equation of an ellipse is 
+ 
+ < math display= " block " > \frac{(x-h)^{2}}{a^{2}} + \frac{(y-k)^{2}}{b^{2}} = 1  < /math >    < br / > where the center of the ellipse is (h,k). 2A is the length from each end of the longer skinnier side.  2b is the length of the 2 ends of the short side.  A²-B²=C² for c is the length between the foci and the center. 
+ 
+ 
+ An ellipse can also be expressed as  
+ 
+ 
+ < math > \frac{(x-h)^{2}}{b^{2}} + \frac{(y-k)^{2}}{a^{2}} = 1  < /math > 
+ 
+ 
+ In this case, it will be taller than it is wide. 
+ 
+ ==Other websites== 
+ * [http://www.geocities.com/Area51/Quadrant/3864/sketchunifiedconstr.htm Ellipse  &  Hyperbola Construction] {{Webarchive|url=https://web.archive.org/web/20080211120646/http://www.geocities.com/Area51/Quadrant/3864/sketchunifiedconstr.htm |date=2008-02-11 }} - An interactive sketch showing how to trace the curves of the ellipse and hyperbola. (Requires Java.) 
+ * [http://www.geocities.com/Area51/Quadrant/3864/sketchellipseconstr.htm Ellipse Construction] {{Webarchive|url=https://web.archive.org/web/20071202082741/http://www.geocities.com/Area51/Quadrant/3864/sketchellipseconstr.htm |date=2007-12-02 }} - Another interactive sketch, this time showing a different method of tracing the ellipse. (Requires Java.) 
+ * [http://mathworld.wolfram.com/Ellipse.html Ellipse on MathWorld] - More on Ellipse 
+ * [http://faculty.evansville.edu/ck6/ellipse.pdf The Shape and History of The Ellipse in Washington, D.C.] by Clark Kimberling 
+ *[http://www.mathopenref.com/tocs/ellipsetoc.html Collection of animated ellipse demonstrations.] Ellipse, axes, semi-axes, area, perimeter, tangent, foci. 
+ *[http://www.miterclamp.com/Woodworking_video_index.htm Woodworking videos showing how to work with ellipses in wood.] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ 
+ 
+ {{commonscat|Ellipses}} 
+ 
+ [[category:shapes]] 
+ [[Category:Conic sections]]

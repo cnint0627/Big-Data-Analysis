@@ -1,0 +1,18 @@
+[[File:Asus-ROG-Strix-Z390-F-Gaming-Motherboard 20201120 DSC6025.jpg|thumb|A mainbord for a desktop [[personal computer|PC]] made in 2020.]]The '''motherboard,''' also known as a '''mainboard''', is the main [[circuit board]] in any [[Electronics|electronic]] system. It's what holds together all the components needed for an electronic system to function. Although there may be other circuit boards attached to the motherboard, the motherboard is the largest. 
+ 
+ == Composition == 
+ The painted, base material of a motherboard is composed of [[fiberglass]] yarn strands that have been woven together and coated with a liquid resin and set to dry. This combination of woven fiberglass and resin is sent through an oven at a high temperature. When it comes out, it hardens and becomes stronger than it was before. This finished, very-hard, lightweight material, called pre-preg, is layered together and then painted, typically green. It forms what is the base material of the motherboard. This material acts as an electrical insulator and holds everything in place. 
+ 
+ Copper is used to form the communication pathways that connect all the different parts on the motherboard, and is used because of its excellent ability to conduct electricity. 
+ 
+ 
+ “On-board” is a term used to refer to anything that is permanently embedded onto the motherboard. Electrical parts are [[Soldering|soldered]] onto the motherboard. These parts include [[transistors]] and [[resistors]]. Other parts that are attached to the motherboard are able to be removed in the future so that they can be upgraded. The [[CPU]] is an example of a part that is usually removable. 
+ 
+ Parts that are not  " on-board "  can be bought as a card. Some of these parts include RAM and CPU. Computers today usually have a [[computer memory|memory]] [[port]], 2 or more [[USB]] ports, a [[parallel port]] (for use with old printers usually), audio  &  microphone jacks, a network port and ports for the [[Keyboard (computer)|keyboard]] and [[computer mouse|mouse]]. There are also some rare motherboards that have plugs only for very specific parts. < ref > {{cite web|title=HOW TO CONNECT THE MOTHERBOARD TO THE FRONT PANEL - INSTRUCTIONS|url=http://geek-nose.com/kak-podklyuchit-materinskuyu-platu-k-perednej-paneli/|publisher=Geek Nose (Russian)|accessdate=30 March 2016}} < /ref > 
+ 
+ All of the slots and plugs both inside and outside the computer case are shaped a certain way to accept a certain type of part. Some will not even accept parts even one generation behind, such as the CPU and memory. Others, like the video plug have not changed in years. Some of the plugs, such as the video, keyboard and mouse plugs, are a special color. These colors make it easier to pair the plug to the port. The motherboard may also be referred to as the PCB which stands for ‘printed circuit board’, though it is essentially a gigantic PCB and can be considered the 'primary' PCB. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Motherboard| ]]

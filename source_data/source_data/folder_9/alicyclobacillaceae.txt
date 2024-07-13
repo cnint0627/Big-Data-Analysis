@@ -1,0 +1,29 @@
+{{Taxobox 
+ | color = lightgrey 
+ | name = Alicyclobacillaceae 
+ | regnum = [[Bacterium|Bacteria]] 
+ | divisio = [[Firmicutes]] 
+ | classis = [[Bacilli]] 
+ | ordo = [[Bacillales]] 
+ | familia = '''Alicyclobacillaceae''' 
+ | familia_authority = da Costa  &  Rainey, 2009 < ref name= " dacosta " > {{cite book |last1=da Costa |first1=M. S. |last2=Rainey |first2=F. A. |title=Family II. Alicyclobacillaceae fam. nov. Bergey's Manual of Systematic Bacteriology |date=2009 |page=229 |edition=2nd}} < /ref > 
+ | subdivision_ranks = Genera 
+ | subdivision = * ''[[Alicyclobacillus]]'' 
+ * ''[[Effusibacillus]]'' 
+ * ''[[Kyrpidia]]'' 
+ * ''[[Tumebacillus]]'' 
+ }} 
+ 
+ 
+ The '''Alicyclobacillaceae''' are a [[family (taxonomy)|family]] of [[gram-positive]] [[bacteria]]. Some of them are [[thermophile]]s, they can live at around {{convert|70|C|F}}. < ref name= " Bergey " / >  They also [[wikt:tolerate|tolerate]] [[wikt:acidic|acidic]] [[pH]] levels of 1.5–5.5. < ref name= " Bergey " / >  They can make [[endospore]]s. Alicyclobacillaceae are found in soil, water and in [[Hot spring|geothermal springs]]. < ref name= " Bergey "  / > 
+ 
+ == References == 
+ < references > 
+ 
+ < ref name= " Bergey " > 
+ George Garrity (hrsg.): ''Bergey's manual of systematic bacteriology'', Volume 3: ''The low G+C Gram Positives''. 2. Auflage. Springer-Verlag, New York u. a. O. 2008, {{ISBN|978-0-387-95041-9}}. 
+ < /ref > 
+ 
+ < /references > 
+ 
+ [[Category:Gram-positive bacteria]]

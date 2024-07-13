@@ -1,0 +1,61 @@
+{{chembox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 456660597 
+ | ImageFile = Cortison.svg 
+ | ImageFile1 = Cortisone-3D-balls.png 
+ | IUPACName = (8''S'',9''S'',10''R'',13''S'',14''S'',17''R'')-17-Hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,12,14,15,16-decahydrocyclopenta[a]phenanthrene-3,11-dione 
+ | OtherNames = 17α,21-Dihydroxypregn-4-ene-3,11,20-trione; 17α,21-Dihydroxy-11-ketoprogesterone; 17α-Hydroxy-11-dehydrocorticosterone 
+ |Section1={{Chembox Identifiers 
+ | UNII_Ref = {{fdacite|changed|FDA}} 
+ | IUPHAR_ligand = 5171 
+ | ChEMBL_Ref = {{ebicite|changed|EBI}} 
+ | ChEMBL = 111861 
+ | InChI = 1/C21H28O5/c1-19-7-5-13(23)9-12(19)3-4-14-15-6-8-21(26,17(25)11-22)20(15,2)10-16(24)18(14)19/h9,14-15,18,22,26H,3-8,10-11H2,1-2H3/t14-,15-,18+,19-,20-,21-/m0/s1 
+ | InChIKey = MFYSYFVPBJMHGN-ZPOLXVRWBW 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C21H28O5/c1-19-7-5-13(23)9-12(19)3-4-14-15-6-8-21(26,17(25)11-22)20(15,2)10-16(24)18(14)19/h9,14-15,18,22,26H,3-8,10-11H2,1-2H3/t14-,15-,18+,19-,20-,21-/m0/s1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = MFYSYFVPBJMHGN-ZPOLXVRWSA-N 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 193441 
+ | CASNo = 53-06-5 
+ | PubChem = 222786 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = D07749 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 16962 
+ | SMILES = O=C(CO)[C@@]3(O)CC[C@H]2[C@@H]4CC\C1=C\C(=O)CC[C@]1(C)[C@H]4C(=O)C[C@@]23C 
+ | MeSHName = Cortisone 
+   }} 
+ |Section2={{Chembox Properties 
+ | C=21 | H=28 | O=5 
+ | Appearance =  
+ | Density =  
+ | MeltingPtC = 220 to 224 
+ | BoilingPt =  
+   }} 
+ |Section6={{Chembox Pharmacology 
+ | ATCCode_prefix = H02 
+ | ATCCode_suffix = AB10 
+ | ATC_Supplemental = {{ATC|S01|BA03}} 
+ }} 
+ |Section7={{Chembox Hazards 
+ | MainHazards =  
+ | FlashPt =  
+ | AutoignitionPt =  
+   }} 
+ }} 
+ '''Cortisone''' is a 21-carbon [[steroid]] [[hormone]]. Its chemical name is 17-hydroxy-11-dehydrocorticosterone. It is one of the main hormones released by the [[adrenal gland]] in response to [[stress (biology)|stress]].  
+ 
+ In chemical structure, it is closely related to [[cortisol]]. It is used to treat a variety of ailments and can be administered in various ways. Cortisone suppresses the [[immune system]]. This reduces inflammation, pain and swelling at the site of the injury. Long-term use of cortisone has risks. < ref name=mayo > {{cite web|url=http://www.mayoclinic.com/health/cortisone-shots/MY00268 |title=Cortisone shots |publisher=MayoClinic.com |date=2010-11-16 |access-date=July 31, 2013}} < /ref > < ref name=mayorisk2 > {{cite web|url=http://www.mayoclinic.com/health/steroids/HQ01431 |title=Prednisone and other corticosteroids: Balance the risks and benefits |publisher=MayoClinic.com |date=2010-06-05 |access-date=2011-09-03}} < /ref > 
+ 
+ [[Tadeus Reichstein]], [[E.C. Kendall]] and [[P.S. Hench]] were awarded the [[Nobel Prize in Physiology or Medicine]] in 1950 for their discovery of cortisone. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Hormones}} 
+ 
+ [[Category:Steroid hormones]]

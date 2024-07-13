@@ -1,0 +1,191 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |official_name          = Tipaza 
+ |other_name             = (Roman Tipasa) 
+ |native_name            = Bazar / ⴱⴰⵣⴰⵔ 
+ |nickname               = 
+ |settlement_type        =  < !--For Town or Village (Leave blank for the default City)-- > 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = File:Tipazay.JPG 
+ |imagesize              = 270px 
+ |image_caption          =  
+ |image_flag             = 
+ |flag_size              = 
+ |image_seal             = 
+ |seal_size              = 
+ |image_shield           = 
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              = 
+ |mapsize                = 
+ |map_caption            = 
+ |image_map1             = 
+ |mapsize1               = 
+ |map_caption1           = 
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            = Algeria  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =bottom 
+ |pushpin_mapsize        =250 
+ |pushpin_map_caption    =Location in Algeria 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = [[Algeria]] 
+ |subdivision_type1      = [[Provinces of Algeria|Province]] 
+ |subdivision_name1      = [[Tipaza Province|Tipaza]] 
+ |subdivision_type2      = District 
+ |subdivision_name2      = [[Tipaza District|Tipaza]] 
+ |subdivision_type3      = 
+ |subdivision_name3      = 
+ |subdivision_type4      = 
+ |subdivision_name4      = 
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            = 
+ |leader_title1          =   < !-- for places with, say, both a mayor and a city manager -- > 
+ |leader_name1           = 
+ |leader_title2          = 
+ |leader_name2           = 
+ |leader_title3          = 
+ |leader_name3           = 
+ |leader_title4          = 
+ |leader_name4           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       = 
+ |established_title2     =   < !-- Incorporated (town) -- > 
+ |established_date2      = 
+ |established_title3     =   < !-- Incorporated (city) -- > 
+ |established_date3      = 
+ < !-- Area    --------------------- > 
+ |area_magnitude         = 
+ |unit_pref                = 
+ |area_footnotes           = 
+ |area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ |area_urban_km2           = 
+ |area_urban_sq_mi         = 
+ |area_metro_km2           = 
+ |area_metro_sq_mi         = 
+ |area_blank1_title        = 
+ |area_blank1_km2          = 
+ |area_blank1_sq_mi        = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               =2008 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               =25225 
+ |population_density_km2         = 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_urban               = 
+ |population_density_urban_km2   = 
+ |population_density_urban_sq_mi = 
+ |population_blank1_title        =Ethnicities 
+ |population_blank1              = 
+ |population_blank2_title        =Religions 
+ |population_blank2              = 
+ |population_density_blank1_km2 = 
+ |population_density_blank1_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               =  
+ |utc_offset             =  
+ |timezone_DST           =  
+ |utc_offset_DST         = 
+ |coordinates            = {{coord|36|35|31|N|2|26|58|E|display=inline,title}} 
+ |coordinates_footnotes   =  
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            = 
+ |elevation_ft           = 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |footnotes              = {{designation list | embed=yes 
+    | designation1 = WHS 
+    | designation1_offname =  Tipasa 
+    | designation1_date = 1982  < small > (6th [[World Heritage Committee|session]]) < /small > 
+    | designation1_type = Cultural 
+    | designation1_criteria = iii, iv 
+    | designation1_number = [http://whc.unesco.org/en/list/193 193] 
+    | designation1_free1name = State Party 
+    | designation1_free1value = {{ALG}} 
+    | designation1_free2name = Region 
+    | designation1_free2value = [[List of World Heritage Sites in the Arab States|Arab States]] 
+    | designation1_free3name  = [[List of World Heritage in Danger|Endangered]] 
+    | designation1_free3value = 2002 & ndash;2006 
+ }} 
+ |website                = 
+ }} 
+ 
+ {{Infobox lighthouse 
+ | name = Tipaza Lighthouse 
+ | image_name = Phare de Tipaza.JPG 
+ | image_width =  
+ | caption = Tipaza Lighthouse and the promontory 
+ | location = Tipaza < br > [[Algeria]] 
+ | pushpin_map = Algeria 
+ | relief = 1 
+ | pushpin_map_caption = Algeria 
+ | pushpin = lighthouse 
+ | coordinates = {{coord|36|35|49.66|N|2|26|51.62|E|type:landmark|display=inline}} 
+ | coordinates_footnotes = 
+ | yearbuilt = 1867 < ref name=tipaza > {{cite web|url=http://www.onsm-dz.com/?p=detailphares & equipement_id=17|title=Tipaza|website=Office Nationale de Signalisation Maritime|publisher= Ministere des Travaux Publics|access-date=3 May 2017}} < /ref > 
+ | yearlit  =  
+ | automated =  
+ | yeardeactivated =  
+ | foundation = masonry base 
+ | construction = masonry tower 
+ | shape = square prism tower with balcony and lantern 
+ | marking = white tower, dark green lantern 
+ | height = {{convert|13.58|m|ft}} < ref name=tipaza/ > 
+ | focalheight = {{convert|34.08|m|ft}} < ref name=tipaza/ > 
+ | lens =  
+ | currentlens = 
+ | lightsource = main power 
+ | intensity =  
+ | range = {{convert|18|nmi}} < ref name=tipaza/ > 
+ | characteristic = Oc W 4s. < ref > {{cite ngall|113|2015|}} < /ref > 
+ | fogsignal =  
+ | racon =  
+ | admiralty = E6630 
+ | canada =  
+ | NGA = 22444 
+ | ARLHS = ALG-053 < ref > {{cite web|url=https://www.unc.edu/~rowlett/lighthouse/dza.htm|title=Western Algeria|website=The Lighthouse Directory|publisher=University of North Carolina at Chapel Hill|access-date=3 May 2017|archive-date=15 March 2018|archive-url=https://web.archive.org/web/20180315151402/http://www.unc.edu/~rowlett/lighthouse/dza.htm|url-status=dead}} < /ref > 
+ | USCG =  
+ | country =  
+ | countrynumber =  
+ | countrylink = 
+ | managingagent = Office Nationale de Signalisation Maritime 
+ | heritage = 
+ }} 
+ '''Tipaza''' is a town on the coast of [[Algeria]].  It is the capital of the [[Tipaza Province]]. It was formed in 1857.  It is known for its sandy beach and ancient ruins. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{WHSite}} 
+ 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:World Heritage Sites in Africa]] 
+ [[Category:Settlements in Algeria]] 
+ [[Category:Towns in Africa]] 
+ [[Category:1867 establishments]] 
+ [[Category:Establishments in Algeria]] 
+ [[Category:19th-century establishments in Africa]]

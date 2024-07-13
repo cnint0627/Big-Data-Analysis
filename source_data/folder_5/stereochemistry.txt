@@ -1,0 +1,35 @@
+{{complex|date=June 2012}} 
+ [[Image:Isomerism.png|thumb|right|400px|The different types of [[isomer]]s. Stereochemistry is the study of [[stereoisomer]]s]] 
+ 
+ '''Stereochemistry''' is the study of how [[molecule]]s are affected by the way their [[atom]]s are arranged in space. < ref > {{cite web |url= http://www.credoreference.com/entry/apdst/stereochemistry |title=Stereochemistry |first= |last= |work=Academic Press Dictionary of Science and Technology  |year=2002 |accessdate=13 August 2011}} < /ref >  It is also known as [[Three-dimensional space|3D]] chemistry as the word ''stereo'' means ''three dimensional''. < ref > {{cite web |url= http://dictionary.reference.com/browse/stereo- |title=Stereo |first= |last= |work=reference.com |year=2011 |accessdate=13 August 2011}} < /ref >  Using stereochemistry, chemists can work out the relationships between different molecules that are made up from the same atoms. They can also study the effect on the [[physics|physical]] or [[biology|biological]] properties these relationships give molecules. When these relationships influence the [[Reactivity (chemistry)|reactivity]] of the molecules it is called [[dynamic stereochemistry]].  
+ 
+ In chemistry, some [[molecule]]s have more than one [[isomer]]. This means that molecules can have different forms, even though all the forms are made of the same atoms. There are two kinds of isomers. < ref name=st > {{cite web |url=http://facultystaff.vwc.edu/~jeaster/courseinfo/Tutorials/stereochemistryl.html |title=Stereochemistry Tutorial |first= |last= |work=facultystaff.vwc.edu |year=2001 |accessdate=9 August 2011 |archive-date=28 August 2011 |archive-url=https://web.archive.org/web/20110828095830/http://facultystaff.vwc.edu/~jeaster/courseinfo/Tutorials/stereochemistryl.html |url-status=dead }} < /ref >  [[Constitutional isomer]]s have the same atoms, but they are joined differently. < ref name=st/ >  [[Stereoisomer]]s have the same atoms, they are joined the same way, but the atoms are arranged differently in space. < ref name=st/ >  An important part of stereochemistry is the study of [[chirality (chemistry)|chiral]] molecules. < ref > {{JerryMarch}} < /ref >  These molecules look almost identical, except that one molecule is the mirror image of the other. 
+ 
+ In most [[chemical bond]]s, the atoms of a molecule free to move around without breaking the bonds. When a molecule has a [[double bond]] or a ring structure, the molecule can be sorted into different isomers. These are molecules with the same chemical structure but different forms. 
+ 
+ The study of stereochemical problems covers the entire range of [[Organic chemistry|organic]], [[Inorganic chemistry|inorganic]], [[Biochemistry|biological]], [[Physical chemistry|physical]] and [[Supramolecular chemistry|supramolecular]] chemistries. 
+ 
+ ==History== 
+ [[Louis Pasteur]] was the first person to study stereochemistry. He observed in 1849 that [[salt]]s of [[tartaric acid]] collected from [[wine]]-making equipment could rotate plane [[polarized light]], but that salts from other sources did not. This property was the only difference between the two types of salt. It is due to [[optical isomerism]]. In 1874, [[Jacobus Henricus van 't Hoff]] and [[Joseph Le Bel]] discovered the difference was caused by the way that the [[atom]]s bonded to [[carbon]] in a tetrahedral (four faced) shape. 
+ 
+ ==Uses of stereochemistry== 
+ Stereochemistry was important in solving the [[thalidomide]] disaster in the 1960s. Thalidomide is a [[Medication|drug]] that was first produced in 1957 in [[Germany]]. < ref name=collins > {{cite web |url= http://www.credoreference.com/entry/collinsbiology/thalidomide |title=Thalidomide  |first= |last= |work=Collins Dictionary of Biology |year=2005 |accessdate=13 August 2011}} < /ref >  Doctors used it to treat morning sickness in [[pregnancy|pregnant]] women. Later, the drug was shown to cause [[deformation]]s in [[baby|babies]]. < ref name=collins/ >  One isomer of the drug was not dangerous, but the other caused serious [[genetics|genetic]] damage to the [[embryo]]s. In the human body, thalidomide undergoes [[racemization]]: even if only one of the two stereoisomers enters a human body, the body changes some of it to other one. The thalidomide disaster caused governments to test drugs more carefully. Selected people take new drugs in an experiment ([[clinical trial]]) first before the drug is made available for public use. Thalidomide is now used as a [[therapy]] for [[leprosy]]. Women must use it with [[Birth control|contraceptives]] to prevent pregnancy. 
+ 
+ ==Describing a molecule's stereochemistry== 
+ [[Image:Fischer projection.png|thumb|Projection of a [[tetrahedral]] molecule onto a planar surface.]] 
+ [[Image:Fischer Projection2.svg|thumb|Visualizing a Fischer projection.]] 
+ 
+ When an atom can have other atoms connect to it in more than one way, it is called a [[stereocenter]].  For example, if a carbon atom has four different groups attached to it, it becomes a stereocenter. 
+ 
+ [[Cahn Ingold Prelog priority rules|Cahn-Ingold-Prelog priority rules]] are part of a system for describing a molecule's stereochemistry. They rank the atoms around a stereocenter in a standard way. This allows the relative position of these atoms in the molecule to be described very clearly. A [[Fischer projection]] is a simplified way to show the stereochemistry around a stereocenter. 
+ 
+ ==Related pages== 
+ * [[Chirality (chemistry)]] 
+ * [[Alkane stereochemistry]] 
+ 
+ ==References== 
+ < references/ > 
+ 
+ {{organic chemistry}} 
+ 
+ [[Category:Stereochemistry| ]]

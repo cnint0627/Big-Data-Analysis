@@ -1,0 +1,56 @@
+{{complex|date=March 2012}} 
+ [[File:Methyl cation.svg|thumb|120px|Carbenium ion of [[methane]]]] 
+ [[File:Carbocationstructure.png|thumb|120px|right|[[Butyl|''tert''-butyl]] cation, demonstrating planar geometry]] 
+ [[File:Methonium.svg|thumb|Carbonium ion of methane]] 
+ 
+ A '''carbocation''' is an [[ion]] with a [[positive charge|positively]]-[[Electric charge|charged]] [[carbon]] [[atom]]. The charged carbon atom in a carbocation is a  " sextet "  (that is, it has only six [[electron]]s in its outer [[Electron shell#Valence shells|valence shell]] instead of eight valence electrons.) Carbon atoms with eight valence electrons have the maximum [[wikt:stability|stability]] ([[octet rule]]). Therefore, carbocations are often reactive, seeking to fill the octet of valence electrons as well as regain a neutral [[electric charge|charge]]. Logic would say that carbocation have [[Electron configuration|sp < sup > 3 < /sup > ]] [[hybrid orbital|hybridization]] with an empty sp < sup > 3 < /sup >  orbital giving positive charge. However, the [[chemical reactivity|reactivity]] of a carbocation more closely resembles [[Orbital hybridization|sp < sup > 2 < /sup >  hybridization]] with a [[trigonal planar]] molecular [[geometry]]. 
+ 
+ ==Definitions== 
+ A carbocation was previously often called a ''carbonium ion'' but chemists question the exact meaning. < ref > [[Gold Book]] definition [http://goldbook.iupac.org/C00839.html ''carbonium ion''] [http://www.iupac.org/goldbook/C00839.pdf PDF] < /ref >  In present-day chemistry, a carbocation is any positively charged carbon atom. Two special types have been suggested: [[carbenium ion]]s are trivalent and [[carbonium ion]]s are pentavalent or hexavalent. University level textbooks only discuss carbocations as if they are carbenium ions, < ref > ''Organic chemistry'' 5th Ed. John McMurry {{ISBN|0-534-37617-7}} < /ref >  or discuss carbocations with a fleeting reference to the older phrase of carbonium ion < ref > ''Organic Chemistry'', Fourth Edition Paula Yurkanis Bruice {{ISBN|0-13-140748-1}} < /ref >  or carbenium and carbonium ions. < ref > {{Clayden}} < /ref >  One textbook to this day stays with the older name of carbonium ion for carbenium ion and reserves the phrase ''hypervalent carbenium ion'' for CH < sub > 5 < /sub > < sup > + < /sup > . < ref > ''Organic Chemistry'' by Marye Anne Fox and James K. Whitesell {{ISBN|0-7637-0413-X}} < /ref > 
+ 
+ ==History== 
+ In 1891, G. Merling < ref > Chem. Ber. 24, 3108 '''1891''' < /ref >  reported that he added [[bromine]] to [[tropylidene]] ([[cycloheptatriene]]) and then heated the product to obtain a [[crystal]]line, [[water soluble]] material, {{chem|C|7|H|7|Br}}. He did not suggest a structure for it; however [[William von Eggers Doering|Doering]] and Knox < ref > The Cycloheptatrienylium (Tropylium) Ion W. Von E. Doering and L. H. Knox [[J. Am. Chem. Soc.]]; '''1954'''; 76(12) pp 3203 - 3206; {{doi|10.1021/ja01641a027}} < /ref >  convincingly showed that it was tropylium (cycloheptatrienylium) bromide. This ion is predicted to be [[aromatic]] by the [[Hückel's rule|Hückel Rule]]. 
+ 
+ In 1902, Norris and Kehrman independently discovered that [[colorless]] [[triphenylmethanol]] gave deep yellow solutions in concentrated [[sulfuric acid]]. Triphenylmethyl chloride similarly formed orange complexes with [[aluminium]] and [[tin]] chlorides. In 1902, [[Adolf von Baeyer]] recognized the [[salt]]-like character of the compounds formed. 
+ 
+ [[File:TriphenylmethanolCarbocationFormation.svg|center|reaction of triphenylmethanol with sulfuric acid]] 
+ 
+ He called the relationship between color and salt formation '''halochromy''' of which [[malachite green]] is a prime example. 
+ 
+ Carbocations are [[reactive intermediates]] in many organic reactions. This idea, first proposed by [[Julius Stieglitz]] in 1899 < ref > ''On the Constitution of the Salts of Imido-Ethers and other Carbimide Derivatives;'' Am. Chem. J. 21, 101; {{ISSN|0096-4085}} < /ref >  was further developed by Hans Meerwein in his 1922 study < ref > H. Meerwein and K. van Emster, ''Berichte'', '''1922''', ''55'', 2500. < /ref >  of the [[Wagner-Meerwein rearrangement]]. Carbocations were also found to be involved in the [[SN1 reaction|S < sub > N < /sub > 1 reaction]], the [[elimination reaction|E1 reaction]], and in [[rearrangement reaction]]s such as the [[Whitmore 1,2 shift]]. The chemical establishment was reluctant to accept the notion of a carbocation and for a long time the ''[[Journal of the American Chemical Society]]'' refused articles that mentioned them. 
+   
+ The first [[NMR spectrum]] of a stable carbocation in solution was published by Doering et al. < ref > ''The 1,1,2,3,4,5,6-heptamethylbenzenonium ion'' W. von E. Doering and M. Saunders H. G. Boyton, H. W. Earhart, E. F. Wadley and W. R. Edwards G. Laber Tetrahedron Volume 4, Issues 1-2, '''1958''', Pages 178-185 {{doi|10.1016/0040-4020(58)88016-3}} < /ref >  in 1958. It was the heptamethylbenzenonium ion, made by treating [[hexamethylbenzene]] with [[methyl chloride]] and [[aluminium chloride]]. The stable 7-norbornadienyl cation was prepared by Story et al. in 1960 < ref > ''The 7-norbornadienyl carbonium ion'' Paul R. Story and Martin Saunders [[J. Am. Chem. Soc.]]; '''1960'''; 82(23) pp 6199 - 6199; {{doi|10.1021/ja01508a058}} < /ref >  by reacting [[norbornadiene|norbornadienyl chloride]] with [[silver tetrafluoroborate]] in [[sulfur dioxide]] at −80 & nbsp;°C. The NMR spectrum established that it was non-classically bridged (the first stable [[non-classical ion]] observed). 
+ 
+ In 1962, [[George Andrew Olah|Olah]] directly observed the [[tert-butyl]] carbocation by [[nuclear magnetic resonance]] as a stable [[chemical species|species]] on dissolving [[tert-butyl fluoride]] in [[magic acid]]. The NMR of the norbornyl cation was first reported by Schleyer et al. < ref > ''Stable Carbonium Ions. X.1 Direct Nuclear Magnetic Resonance Observation of the 2-Norbornyl Cation'' Paul von R. Schleyer, William E. Watts, Raymond C. Fort, Melvin B. Comisarow, and George A. Olah [[J. Am. Chem. Soc.]]; '''1964'''; 86(24) pp 5679 - 5680; {{doi|10.1021/ja01078a056}} < /ref >  and it was shown to undergo proton-scrambling over a barrier by Saunders et al. < ref > ''Stable Carbonium Ions. XI.1 The Rate of Hydride Shifts in the 2-Norbornyl Cation'' Martin Saunders, Paul von R. Schleyer, and George A. Olah [[J. Am. Chem. Soc.]]; '''1964'''; 86(24) pp 5680 - 5681; {{doi|10.1021/ja01078a057}} < /ref > 
+ 
+ ==Properties== 
+ [[File:CarboCationStabilities.svg|thumb|right|Order of stability of examples of tertiary (III), secondary (II), and primary (I) alkyl carbocations]]In [[organic chemistry]], a carbocation is often the target of nucleophilic attack by [[nucleophile]]s like [[hydroxyl]] (OH < sup > − < /sup > ) ions or [[halogen]] ions. 
+ 
+ Carbocations are classified as [[Primary carbon|primary]], [[secondary carbon|secondary]], or [[tertiary carbon|tertiary]] depending on the number of carbon atoms bonded to the ionized carbon. Primary carbocations have one or zero carbons attached to the ionized carbon, secondary carbocations have two carbons attached to the ionized carbon, and tertiary carbocations have three carbons attached to the ionized carbon. 
+ 
+ Stability of the carbocation increases with the number of [[alkyl group]]s bonded to the charge-bearing carbon. Tertiary carbocations are more stable (and form more readily) than secondary carbocations; primary carbocations are highly unstable because, while ionized higher-order carbons are stabilized by [[hyperconjugation]], unsubstituted (primary) carbons are not. Therefore, reactions such as the [[SN1 reaction|S < sub > N < /sub > 1 reaction]] and the E1 [[elimination reaction]] normally do not occur if a primary carbocation would be formed. An exception to this occurs when there is a carbon-carbon double bond next to the ionized carbon. Such cations as ''[[allyl]]'' cation CH < sub > 2 < /sub > =CH–CH < sub > 2 < /sub > < sup > + < /sup >  and ''[[benzyl]]'' cation C < sub > 6 < /sub > H < sub > 5 < /sub > –CH < sub > 2 < /sub > < sup > + < /sup >  are more stable than most other carbocations. Molecules which can form allyl or benzyl carbocations are especially reactive. 
+ 
+ Carbocations undergo [[rearrangement reaction]]s from less stable structures to equally stable or more stable ones with [[rate constant]]s in excess of 10 < sup > 9 < /sup > /sec. This fact complicates synthetic pathways to many compounds. For example, when 3-pentanol is heated with aqueous HCl, the initially formed 3-pentyl carbocation rearranges to a statistical mixture of the 3-pentyl and 2-pentyl. These cations react with chloride ion to produce about 1/3 3-chloropentane and 2/3 2-chloropentane. 
+ 
+ Some carbocations such as the [[Norbornane|norbornyl cation]] exhibit more or less symmetrical three centre bonding. Cations of this sort have been referred to as [[non-classical ion]]s. The energy difference between  " classical "  carbocations and  " non-classical "  isomers is often very small, and there is generally little, if any activation energy involved in the transition between  " classical "  and  " non-classical "  structures. The  " non-classical "  form of the 2-butyl carbocation is essentially [[2-butene]] with a proton directly above the centre of what would be the carbon-carbon double bond.   " Non-classical "  carbocations were once the subject of great [[wikt:controversy|controversy]]. One of [[George Andrew Olah|George Olah]]'s greatest contributions to chemistry was resolving this controversy. < ref > [http://nobelprize.org/chemistry/laureates/1994/olah-lecture.html George A. Olah - Nobel Lecture < !-- Bot generated title -- > ] < /ref > 
+ 
+ ==Specific carbocations== 
+ Cyclopropylcarbinyl cations can be studied by NMR: < ref > ''Nuclear magnetic double resonance studies of the dimethylcyclopropylcarbinyl cation. Measurement of the rotation barrier'' David S. Kabakoff,, Eli. Namanworth [[J. Am. Chem. Soc.]] '''1970''', 92 (10), pp 3234–3235 {{doi|10.1021/ja00713a080}} < /ref > < ref > ''Stable Carbonium Ions. XVII.1a Cyclopropyl Carbonium Ions and Protonated Cyclopropyl Ketones'' Charles U. Pittman Jr., George A. Olah [[J. Am. Chem. Soc.]], '''1965''', 87 (22), pp 5123–5132 {{doi|10.1021/ja00950a026}} < /ref > 
+ 
+ :[[File:The cyclopropyl carbinyl cation.svg]] 
+ 
+ In the NMR spectrum  of a dimethyl derivative, two nonequivalent signals are found for the two methyl groups indicating that the [[molecular conformation]] of this cation not perpendicular (as in A) but is bisected (as in B) with the empty p-orbital and the cyclopropyl ring system in the same plane: 
+ 
+ :[[File:Cyclopropylcarbinyl bisected conformation.svg]] 
+ 
+ In terms of [[bent bond]] theory, this preference is explained by assuming favorable [[orbital overlap]] between the filled cyclopropane bent bonds and the empty p-orbital. < ref > F.A. Carey, R.J. Sundberg Advanced Organic Chemistry Part A 2nd Ed. < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://nobelprize.org/nobel_prizes/chemistry/laureates/1994/press.html?print=1 Press Release] The 1994 Nobel Prize in Chemistry " . Nobelprize.org.9 Jun 2010 
+ 
+ Www.ncertnic.in 
+ 
+ [[Category:Chemistry]]

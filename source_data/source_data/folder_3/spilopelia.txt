@@ -1,0 +1,28 @@
+{{automatic taxobox 
+ | image = Streptopelia chinensis Tas Edit.jpg 
+ | image_caption = [[Spotted dove]] (''S. chinensis'') with plumage pattern of ''S. c. tigrina'' 
+ | taxon = Spilopelia 
+ | authority = [[Carl Jakob Sundevall|Sundevall]], 1873 
+ | subdivision_ranks = Species 
+ | subdivision = See text 
+ | synonyms = ''Stigmatopelia'' 
+ }} 
+ 
+ '''''Spilopelia''''' is a [[genus]] of [[Columbidae|dove]]s that are closely related to ''[[Streptopelia]]'', yet distinguished from them by differences in morphology and behavior. Some authors have argued that ''Stigmatopelia'' is the valid name as it appears in an earlier line although also erected by the Swedish zoologist [[Carl Jakob Sundevall|Carl Sundevall]], < ref > {{cite book |last=Sundevall | first=Carl | author-link=Carl Jakob Sundevall | title=Methodi naturalis avium disponendarum tentamen. Försök till fogelklassens naturenliga uppställnung | language=Latin | year= 1872 | publisher=Samson and Wallin| place=Stockholm | page=100 | url=https://biodiversitylibrary.org/page/52164515}} < /ref > {{efn|The title page of Sundevall's book gives the year as 1872. The book was issued in two parts and the second part from page 74 that includes ''Spilopelia'' was published in 1873. < ref > {{ cite journal | last=Mathews | first=Gregory M. | author-link=Gregory Mathews | year=1920 | title=Dates of ornithological works | journal=Austral Avian Record | volume=4 | issue=1 | pages=1–27 [23] | url=https://www.biodiversitylibrary.org/page/33270952 }} < /ref > }} < ref > {{cite journal | last=Cheke | first=Anthony S. | year=2005 | title=Naming segregates from the ''Columba''–''Streptopelia'' pigeons following DNA studies on phylogeny| journal=Bulletin of the British Ornithologists' Club | volume=125 | issue=4 | pages=293–295 | url=https://www.biodiversitylibrary.org/page/40056602 }} < /ref >  but [[Richard Schodde]] and [[Ian J. Mason]] in their zoological catalogue of Australian birds chose ''Spilopelia'' citing clause 24(b) of the [[International Code of Zoological Nomenclature]] (ICZN) which supports the decision of the first reviser. < ref > {{cite book| last1=Schodde | first1=R. | author1-link=Richard Schodde |last2=Mason | first2=I.J. | author2-link=Ian J. Mason |year=1997| title=Zoological Catalogue of Australia. Aves (Columbidae to Coraciidae) | volume=37 | issue=2 |publisher=CSIRO publishing | page=20| isbn=978-0-643-06037-1}} < /ref > < ref > {{ cite web | title=Chapter 6: Validity of names and nomenclatural acts. Art. 24.2 | work=International Code of Zoological Nomenclature | year=1999 |  publisher=International Commission on Zoological Nomenclature | edition=4th | url=https://code.iczn.org/validity-of-names-and-nomenclatural-acts/article-24-precedence-between-simultaneously-published-names-spellings-or-acts/?frame=1#art-24-1 }} < /ref >  The name ''Spilopelia'' combines the [[Ancient Greek]] ''spilos'' meaning  " spot "  and ''peleia'' meaning  " dove " . < ref > {{cite book | last=Jobling | first=James A. | year=2010| title=The Helm Dictionary of Scientific Bird Names | url=https://archive.org/details/helmdictionarysc00jobl | url-access=limited | publisher=Christopher Helm | location=London | isbn=978-1-4081-2501-4 | page=[https://archive.org/details/helmdictionarysc00jobl/page/n362 362] }} < /ref > 
+ 
+ ==Species== 
+ The genus includes just two species: < ref name=ioc > {{cite web| editor1-last=Gill | editor1-first=Frank | editor1-link=Frank Gill (ornithologist) | editor2-last=Donsker | editor2-first=David | editor3-last=Rasmussen | editor3-first=Pamela | editor3-link=Pamela Rasmussen | year=2020 | title=Pigeons | work=IOC World Bird List Version 10.1 | url=https://www.worldbirdnames.org/bow/pigeons/ | publisher=International Ornithologists' Union | accessdate=5 March 2020 }} < /ref > 
+ 
+ * [[Spotted dove]], ''Spilopelia chinensis'' 
+ * [[Laughing dove]], ''Spilopelia senegalensis'' 
+ Some ornithologists split the spotted dove into the eastern spotted dove (''Spilopelia chinensis'') and the western spotted dove (''Spilopelia suratensis''). < ref > {{cite journal | last1=Baptista | first1=L.F. | last2=Trail | first2=P.W. | last3=Horblit | first3=H.M. | last4=Kirwan | first4=G.M. | last5=Garcia | first5=E.F.J. | year=2020 | title=Eastern Spotted Dove (''Spilopelia chinensis'') | editor1-last=del Hoyo | editor1-first=J. | editor2-last=Elliott | editor2-first=A. | editor3-last=Sargatal | editor3-first=J. | editor4-last=Christie | editor4-first=D.A. | editor5-last=de Juana | editor5-first=E. | journal=Handbook of the Birds of the World Alive | publisher=Lynx Edicions | doi=10.2173/bow.spodov.01 | s2cid=216386337 | url=https://www.hbw.com/node/54163 | accessdate=7 March 2020 | url-access=subscription }} < /ref > < ref > {{cite journal | last1=del Hoyo | first1=J. | last2=Collar | first2=N. | last3=Kirwan | first3=G.M. | last4=Garcia | first4=E.F.J. | year=2020 | title=Western Spotted Dove (''Spilopelia suratensis'') | editor1-last=del Hoyo | editor1-first=J. | editor2-last=Elliott | editor2-first=A. | editor3-last=Sargatal | editor3-first=J. | editor4-last=Christie | editor4-first=D.A. | editor5-last=de Juana | editor5-first=E. | journal=Handbook of the Birds of the World Alive | publisher=Lynx Edicions | doi=10.2173/bow.spodov.01 | s2cid=216386337 | url=https://www.hbw.com/node/467132 | accessdate=7 March 2020 | url-access=subscription }} < /ref > 
+ 
+ ==Notes== 
+ {{notelist}} 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{Taxonbar|from=Q2841020}} 
+ 
+ [[Category:Doves]]

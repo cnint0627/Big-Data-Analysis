@@ -1,0 +1,18 @@
+[[File:Combustor on Rolls-Royce Nene turbojet (1).jpg|thumb|{{center|Combustor on Rolls-Royce Nene turbojet}}]] 
+ A '''combustor''' is a part or area of a [[gas turbine]], [[ramjet]], or [[scramjet]] [[engine]] where [[combustion]] takes place. It is also known as a '''burner''', '''combustion chamber''' or '''flame holder'''. In a gas turbine engine, the ''combustor'' or [[combustion chamber]] is fed [[Compressed air|high pressure air]] by the compression system. < ref name=Hunecke4.6 > Klaus Hünecke, ''Jet Engines: Fundamentals of Theory, Design, and Operation'' (Osceola, WI: Motorbooks International, 1997), pp. 4–6 < /ref >  The combustor then heats this air at constant [[:wikt:pressure|pressure]]. < ref name=Hunecke4.6/ >  After heating, air passes from the combustor through the [[:en:vane|vanes]] to the turbine. < ref name=Hunecke4.6/ >  In the case of a ramjet or scramjet engines, the air is directly fed to a [[nozzle]]. < ref > E T Curran, 'Scramjet Propulsion', ''Progress in Aastronautics and Aeronautics'', Vol. 189 (2000), p. 5 < /ref >   
+ 
+ ==Components== 
+ * Casing 
+ * Diffuser 
+ * Liner 
+ * Snout 
+ * Dome 
+ * [[Fuel injection|Fuel injector]] 
+ * Igniter 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Machines]] 
+ 
+ {{tech-stub}}

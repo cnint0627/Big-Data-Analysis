@@ -1,0 +1,48 @@
+{{Infobox software 
+ | logo = HTTrack logo.png 
+ | logo alt = Rectangular logo with words  " HTTrack Website Copier " 
+ | collapsible =  < !-- Any text here will collapse the screenshot. -- > 
+ | screenshot = HTTrack.png 
+ | screenshot alt = Screenshot of program 
+ | developer = Xavier Roche 
+ | released =  < !-- {{Start date and age|1998|05}} -- > 
+ | ver layout =  < !-- simple (default) or stacked -- > 
+ | discontinued =  < !-- Set to yes, if software is discontinued, otherwise omit. -- > 
+ | latest release version = 3.49-2 
+ | latest release date = {{Start date and age|2017|05|20}} 
+ | latest preview version =  
+ | latest preview date =  < !-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -- > 
+ | repo =  < !-- {{URL|example.org}} -- > 
+ | qid =  
+ | programming language = C 
+ | middleware = 
+ | engine =  < !-- or |engines= -- > 
+ | operating system = Microsoft Windows, Mac OS X, GNU, GNU/Linux, FreeBSD and Android 
+ | platform =  
+ | included with =  
+ | replaces = 
+ | replaced_by = 
+ | service_name =  
+ | size =  
+ | standard =  
+ | language =  
+ | language count =  < !-- Number only -- > 
+ | language footnote =  
+ | genre =  
+ | license = GNU General Public License Version 3 
+ | website =  < !-- {{URL|example.org}} or {{official URL}} -- > 
+ | AsOf =  
+ | games list =  
+ }} 
+ 
+ '''HTTrack''' is a [[free software|free]] and [[open source]] [[website]] copier and offline [[Web browser|browser]] by Xavier Roche, licensed under the [[GNU General Public License]]. It allows you to download [[World Wide Web]] sites from the [[Internet]] to a computer. 
+ 
+ {{Tech-stub}} 
+ 
+ == Other websites == 
+ * [http://www.httrack.com/ Official site] 
+ * [https://www.youtube.com/watch?v=RdYaSjXAeAk Demonstration of WinHTTrack in use] 
+ * [https://addons.mozilla.org/firefox/1616/ SpiderZilla Add-on for Mozilla FireFox]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} 
+ 
+ [[Category:Web browsers]] 
+ [[Category:Free software]]

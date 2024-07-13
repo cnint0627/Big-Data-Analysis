@@ -1,0 +1,18 @@
+There are some materials which offer some [[Electrical resistance|resistance]] to the current flow; they are not good [[Electrical conductor]] < nowiki/ > s or good [[Electrical insulator]] < nowiki/ > s. They are resistive materials, for example graphite, iron, and certain synthetic materials. 
+ 
+ The magnitude that represents this characteristic is the resistance, and it is measured in ohms. An '''ohm''' (referred to by the Greek letter  & #937; ([[Omega (letter)|Omega]])) is the [[SI]] unit of resistance (R). It can be defined by [[Ohm's Law|Ohm's law]] and the equation:  
+ : < math > R= V/I < /math > 
+ where  < math display= " inline " > R < /math >  is [[Electrical resistance|resistance]] in ohms,  < math display= " inline " > V < /math >  is voltage in [[volt]]s, and  < math display= " inline " > I < /math >  the current in [[ampere]]s. 
+ 
+ The ohm was named after [[Georg Ohm]]. 
+ 
+ ==Further reading == 
+ 
+ *    [http://max-iskram.rhcloud.com/?page_id=26 '''Resistors Basics'''] {{Webarchive|url=https://web.archive.org/web/20140513123939/https://max-iskram.rhcloud.com/?page_id=26 |date=2014-05-13 }}: Everybody is able to understand electronics 
+ 
+ {{SI units}} 
+ 
+ [[Category:SI derived units]] 
+ [[Category:Electricity]] 
+ 
+ {{science-stub}}

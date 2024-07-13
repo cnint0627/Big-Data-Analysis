@@ -1,0 +1,30 @@
+[[File:Surveillance Camera over the Platform of Train.jpg|thumb|[[Surveillance|Surveillance cameras]], such as this one at a [[train station]], lessen privacy.]] 
+ 
+ '''Privacy''' is the ability to choose what [[information]] or personal [[data]] is hidden and who it's hidden from. 
+ 
+ Privacy [[Law|laws]] in many countries give the right not to be unfairly subjected to invasions of privacy.  
+ 
+ The [[Universal Declaration of Human Rights]] says that privacy is a [[Human rights|human right]]. < ref > [https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf#%5B%7B%22num%22%3A7%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitBH%22%7D%2C659%5D Universal Declaration of Human Rights] '''Article 12''' No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks. < /ref > 
+ 
+ == Importance == 
+ Everyone wants to keep things about them private. 
+ 
+ Some people want to keep their [[religion]], [[sexual orientation]], and [[Opinion|opinions]] private so that they don't get in trouble with their [[government]], the people they know, or both. 
+ 
+ == Internet privacy == 
+ Many things on the internet are tracked and sometimes sold by different groups of people.  
+ 
+ For example: 
+ 
+ * Your [[Internet service provider|internet provider]] can see the names of the [[Website|websites]] you go to (for example: Wikipedia), if the website uses HTTPS. If a website uses [[HTTP]] your internet provider can see the exact page you're in (for example: Privacy page on Wikipedia) and things you write in that website (Like your password). < ref > {{Cite web|date=2017-01-01|title=Is it true that my ISP is spying on my web browsing? Does DuckDuckGo fix that?|url=https://spreadprivacy.com/protection-from-isp-spying/|access-date=2022-08-19|website=Spread Privacy|language=en}} < /ref >  {{Better source}} This is why HTTPS is considered by web browsers as safe but HTTP is not. [[File:HTTPS lock Firefox.svg|thumb|194x194px|[[Hypertext Transfer Protocol|HTTPS]] in a [[Web browser|browser's]] address bar]] 
+ * [[Google]] tracks and stores data created by the [[Google Search|Google searches]] you make{{Efn|Google Search receives everything you type in the bar on their website (google.com) and in most cases your browser's address bar, so they can give you search suggestions. It is unknown if they store this data.}}, the emails sent from and to [[Gmail]] addresses, on all websites you visit that use Google Analytics, and more. < ref > 
+ {{Cite web|title=Google -- Terms of Service; Didn't Read|url=https://tosdr.org/en/service/217|access-date=2022-08-19|website=tosdr.org}} < /ref > < ref > {{Cite web|title=Privacy  &  Terms – Google|url=https://policies.google.com/|access-date=2022-08-19|website=policies.google.com}} < /ref > 
+ * [[TikTok]] collects and shares [[location]] data, sees private messages, sells your personal information to others, and more. < ref > {{Cite web|title=TikTok -- Terms of Service; Didn't Read|url=https://tosdr.org/en/service/1448|access-date=2022-08-19|website=tosdr.org}} < /ref > < ref > {{Cite web|title=Terms of Service {{!}} TikTok|url=https://www.tiktok.com/legal/terms-of-service-us?lang=en|access-date=2022-08-19|website=www.tiktok.com|language=en}} < /ref > 
+ 
+ The senders of an [[E-mail|email]] can track the time you open an email using pictures that sometimes can't even be seen. 
+ 
+ == Notes == 
+ {{notelist}} 
+ == References == 
+ {{Reflist}} 
+ [[Category:Privacy|Human rights]]

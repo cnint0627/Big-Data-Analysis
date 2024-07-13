@@ -1,0 +1,34 @@
+{{Chembox 
+ | Verifiedimages = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 464377262 
+ | ImageFileL1 = Pyrimidine 2D aromatic full.svg 
+ | ImageFileR1 = Pyrimidine 2D numbers.svg 
+ | ImageFileL2 = Pyrimidine-3D-balls-2.png 
+ | ImageAltL2 = Pyrimidine molecule 
+ | ImageFileR2 = Pyrimidine-3D-spacefill.png 
+ | ImageAltR2 = Pyrimidine molecule 
+ | IUPACName = Pyrimidine 
+ | OtherNames = 1,3-Diazine, m-Diazine}} 
+ 
+ '''Pyrimidines''' include three of the [[Base (chemistry)|bases]] in [[DNA]] and [[RNA]]. 
+ 
+ A pyrimidine is an [[aromatic hydrocarbon|aromatic]] [[cyclic compound|heterocyclic]] [[organic compound]], similar to [[purine]]. < ref name= " isbn0-582-27843-0 " > {{cite book |author= Gilchrist T.L. |title=Heterocyclic chemistry  |publisher=Longman |location=New York |year=1997 |isbn=0-582-27843-0 }} < /ref >  It has nitrogens at positions 1 and 3 in the ring. < ref name= " JouleMills5thp250 " > {{cite book | title=Heterocyclic chemistry |edition=5th |editor1-last=Joule |editor1-first=John A. |editor2-last=Mills |editor2-first=Keith |publisher=Wiley |location=Oxford |year=2010 |page=250 |quote= |isbn=978-1-405-13300-5 |oclc= |doi= |url= |accessdate=}} < /ref > < ref > Brown H.C. ''et al'' 1955. In Baude, E.A. and Nachod, F.C., ''Determination of organic structures by physical methods''. Academic Press, New York. < /ref >   
+ 
+ == Pyrimidines == 
+ The pyrimidine ring system occurs widely in nature. < ref name=Lagoja1 > {{Cite journal| author = Lagoja, Irene M.| year = 2007| title = Pyrimidine as constituent of natural biologically active compounds| journal = Chemistry and Biodiversity| volume = 2| issue = 1| pages = 1–50| id = | url = http://homepage.univie.ac.at/mario.barbatti/papers/pyrazine_pyrimidine/pyrimidine.pdf| doi = 10.1002/cbdv.200490173| pmid = 17191918| s2cid = 9942715| access-date = 2014-10-05| archive-date = 2017-02-15| archive-url = https://web.archive.org/web/20170215012342/http://homepage.univie.ac.at/mario.barbatti/papers/pyrazine_pyrimidine/pyrimidine.pdf| url-status = dead}} < /ref > 
+ *[[Cytosine]] (C),  
+ *[[Thymine]] (T),  
+ *[[Uracil]] (U). 
+ *[[Thiamine]] ([[vitamin B1]]) 
+   
+ It is also found in many synthetic compounds such as [[barbiturate]]s and the [[HIV]] drug, [[zidovudine]]. [[Uric acid]] is a pyrimidine derivative.   
+ 
+ == References == 
+ {{reflist}} 
+ {{Simple aromatic rings}} 
+ 
+ 
+ {{chem-stub}} 
+ 
+ [[Category:Organonitrogen compounds]]

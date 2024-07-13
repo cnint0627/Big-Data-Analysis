@@ -1,0 +1,47 @@
+{{IPstack}} 
+ '''FTP''', also known as '''File Transfer Protocol''', is a [[communication protocol]] for the rapid, simple transmission of [[Computer file|files]] across a [[Computer network|network]] supporting the [[TCP/IP]]. This network is generally the [[Internet]], or a local network. FTP is a way of accessing files on another [[computer]]. FTP uses the Client-Server architecture, meaning that there is a server, that holds the files, and does the [[authentication]], and a client, or the end-user, who is accessing the files. The server listens on the [[network]] for connection requests from other computers. The client can make a connection to the FTP server by using FTP client software. Once connected and authenticated (via rsh or SFTP) the client can do things such as uploading files to the server, downloading files (taking the server's files and putting them on his own computer) from the server, and renaming, deleting files on the server, changing file permissions, etc. 
+ 
+ Most modern [[Operating System|operating system]]s support FTP. This implies that any computer connected to a TCP/IP based network can manipulate files on another computer on that network regardless of which operating systems are involved, provided that they are open to FTP connections. There are many existing FTP client and server programs, many of these are available free, or open source. 
+ 
+ FTP connection is also seen in [[Mobile phone|cellular phones]] when trying to transfer or receive data from a computer nearby. 
+ 
+ == FTP return codes == 
+ 
+ FTP server return codes show their status by the digits within them. A short explanation of various digits' meanings are given below: 
+ 
+ * 1xx: Positive Preliminary reply. The action requested is being initiated but there will be another reply before it begins. 
+ * 2xx: Positive Completion reply. The action requested has been completed. The client may now issue a new command. 
+ * 3xx: Positive Intermediate reply. The command was successful, but a further command is required before the server can act upon the request. 
+ * 4xx: Transient Negative Completion reply. The command was not successful, but the client is free to try the command again as the failure is only temporary. 
+ * 5xx: Permanent Negative Completion reply. The command was not successful and the client should not attempt to repeat it again. 
+ * x0x: The failure was due to a [[syntax]] error. 
+ * x1x: This response is a reply to a request for information. 
+ * x2x: This response is a reply relating to connection information. 
+ * x3x: This response is a reply relating to accounting and authorization. 
+ * x4x: Not used. 
+ * x5x: These responses indicate the status of the Server file system vis-a-vis the requested transfer or other file system action. 
+ 
+ == FTP modes == 
+ FTP may run in ''active'' or ''passive'' mode, which determines how the data connection is established. In both cases, the client creates a TCP control connection from a random, usually an unprivileged, port N to the FTP server command port 21. 
+ * In ''active'' mode, the client starts listening for incoming data connections from the server on port M. It sends the FTP command PORT M to inform the server on which port it is listening. The server then initiates a data channel to the client from its port 20, the FTP server data port. 
+ * In situations where the client is behind a firewall and unable to accept incoming TCP connections, ''passive'' mode may be used. In this mode, the client uses the control connection to send a PASV command to the server and then receives a server IP address and server port number from the server, which the client then uses to open a data connection from an arbitrary client port to the server IP address and server port number received. 
+ 
+ == Encryption == 
+ * [[FTPS|File Transfer Protocol Secured]] (Using [[SSL]] / [[TLS]]) 
+ * [[SFTP or SSH-FTP|SSH File Transfer Protocol]] (Using [[SSH]]) 
+ 
+ == FTP Servers == 
+ Some popular open source FTP server implementations are: 
+ * [[FileZilla Server]] (Windows) 
+ * [[Pure-FTPd]] (Unix) 
+ * [[VsFTPd]] (Unix) 
+ * [[ProFTPd]] (Unix) 
+ 
+ ==Other websites== 
+ * {{Wikibooks-inline|Communication Networks/File Transfer Protocol}} 
+ * [//servertest.online/ftp FTP Server Online Tester] Authentication, encryption, mode and connectivity. 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Internet]] 
+ [[Category:Computer protocols]]

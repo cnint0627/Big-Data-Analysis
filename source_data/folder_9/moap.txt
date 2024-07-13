@@ -1,0 +1,18 @@
+'''MOAP''' ('''Mobile Oriented Applications Platform''') is the software platform for [[NTT DoCoMo]]'s [[FOMA]] service for [[mobile phone]]s. < ref > {{Cite web |url=http://www.nttdocomo.com/glossary/m/MOAP.html |title=NTT DoCoMo Glossary |access-date=2020-03-19 |archive-date=2012-02-08 |archive-url=https://web.archive.org/web/20120208174102/http://www.nttdocomo.com/glossary/m/MOAP.html |url-status=dead }} < /ref > < ref > [https://books.google.com/books?id=cyjSBAAAQBAJ & dq=%22Mobile+Oriented+Applications+Platform%22 & pg=PA83 Page 83], ''New Frontiers in Open Innovation'', Editors: Henry William Chesbrough, Wim Vanhaverbeke, Joel West, Publisher: Oxford University Press, 2014, {{ISBN|0199682461}}, 9780199682461, ''... the next most important customer was NTT DoCoMo and MOAP (Mobile Oriented Applications Platform), whose handsets accounted for 10‒20% of Symbian sales...'' < /ref > 
+ 
+ Because it has a closed user interface, third parties cannot make applications or install applications, unlike UIQ and S60. 
+ 
+ ==Versions== 
+ There are two versions of MOAP: < ref > [http://www.nttdocomo.co.jp/english/binary/pdf/corporate/technology/rd/tech/main/platform/vol8_1_15en.pdf Expansion of  " MOAP "  Software Platforms for Mobile Terminals, NTT DoCoMo Technical Journal Vol. 8 No. 1] < /ref > 
+ 
+ *'''MOAP(S)''' runs on phones that run [[Symbian OS]] from some manufacturers, such as [[Fujitsu]], [[List of Sony Ericsson products#NTT DoCoMo|Sony Ericsson Japan]], [[Mitsubishi]],  [[Sharp Corporation|Sharp]] and more. Unlike [[Series 60]] and [[UIQ]], which are other platforms based on Symbian, MOAP(S) is not an open development platform. MOAP(S) is released as open source from Symbian Foundation under the [[Eclipse Public License|EPL]]. 
+ *'''MOAP(L)''' is supported by [[Linux]]-based phones from [[Panasonic]] and [[NEC]]. MOAP(L) is also not an open development platform. 
+ 
+ ==Related pages== 
+ *[[Symbian]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ [[Category:Linux]] 
+ [[Category:Mobile phones]]

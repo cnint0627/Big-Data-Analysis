@@ -1,0 +1,47 @@
+'''Electromagnetism''' is one of the four [[Fundamental force|fundamental forces]] of nature. The others are [[gravity]], and the [[Strong interaction|strong]] and [[weak interaction]]s of [[particle physics]]. < ref > A. Beiser (1987). Concepts of Modern Physics (4th ed.). McGraw-Hill (International). ISBN 978-0-07-100144-1 < /ref > 
+ 
+ The electromagnetic force pushes or pulls anything that has an [[electric charge]], like [[electrons]] and [[protons]]. It includes the [[Electricity|electric]] force, which pushes all charged particles, and the [[Magnetic field|magnetic]] force, which only pushes moving charges. 
+ 
+ There are two types of electric charge: positive and negative. The electric force pulls opposite charges (positive and negative) towards each other. It pushes similar charges (both positive, or both negative) away from each other. < ref > L.H. Greenberg (1978). Physics with Modern Applications. Holt-Saunders International W.B. Saunders and Co. ISBN 978-0-7216-4247-5 < /ref > 
+ 
+ == What is a field? == 
+ The electromagnetic force comes from something called an electromagnetic field. In physics, a field is how we keep track of things that might change in space and time. It is like a set of labels for every point in space. For instance, the air temperature in a room could be described by a field, where the labels are just numbers saying how hot it is at that point in the room. We could have more complicated labels as well. On a map of wind speeds, the label could be a number saying how strong the wind is and also an arrow saying which way it is blowing. We call this a [[vector field]] because each label is a vector - it has a direction (the arrow) and a magnitude (its strength). < ref > P.M. Whelan; M.J. Hodgeson (1978). Essential Principles of Physics (2nd ed.). John Murray. ISBN 978-0-7195-3382-2 < /ref > 
+ 
+ Electric and magnetic fields are also fields. Instead of keeping track of temperature or wind speed, they tell us how much push or pull a charged particle will feel at that point in space, and which direction it will be pushed. Like wind speeds, electric fields are also vector fields, so they can be drawn as arrows. The arrows point which way a positive particle, like a [[proton]], will be pushed if it is in the field. Negative particles, like [[electrons]], will go in the opposite direction as the arrows. In an electric field, arrows will point away from positive particles and towards negative ones. So a proton in an electric field would move away from another proton, or towards an electron. Similar charges repel (push away from each other), while opposite charges attract (are pulled together). 
+ 
+ Magnetic fields are a little different. They only push on moving charges, and they push more on charges that are moving faster. But they do not push at all on charges that are sitting still. However, a changing magnetic field can produce an electric field, and an electric field can push on any charges. This idea, called [[electromagnetic induction]], is used to make [[electric generator]]s, induction motors, and [[transformer]]s work. Together, electric and magnetic fields make up the electromagnetic field. 
+ 
+ == History == 
+ Before 1800, people thought that electricity and magnetism were two different things. However, this changed during the [[19th century]] when scientists like [[Hans Christian Ørsted]] and [[Michael Faraday]] proved that electricity and magnetism are actually connected. In 1820, Ørsted found that when he turned the [[electric current]] from a battery on and off, it moved the needle on a nearby compass. When he studied this effect more carefully, he discovered that the electric current was producing a magnetic field. That is, when electric charges are moving, they can produce a force that pushes on [[Magnet|magnets]]. Ørsted had found one of the first connections between electricity and magnetism. 
+ 
+ Faraday continued studying this connection, running tests with loops of wire and magnets. He found that if he set up two loops of wire and ran electricity through just one of them, he could (for a little while) produce an electric current in the other loop as well. Faraday also discovered that he could produce a current by moving a magnet through a loop of wire, or by moving the wire over a magnet. What Faraday had shown was that magnets could push back on moving electric charges, and that moving magnets could push on charges sitting still. This was like what Ørsted had found, but in reverse. 
+ 
+ in 1873, [[James Clerk Maxwell]] summed up these connections in his theory of  " classical electromagnetism, "  electricity and magnetism together.  This theory was based on a set of four equations called [[Maxwell's equations]], and the [[Lorentz force law]]. Maxwell's equations told us how to relate electricity and magnetism. They said that [[Coulomb's law|charges sitting still could push on other charges]], but [[Ampère's circuital law|moving charges could produce magnetic fields that push on magnets]]. On the other hand, [[Lorentz force|magnets sitting still can only push on moving charges]], but [[Faraday's law of induction|moving magnets can push on any electric charges]].  
+ 
+ What's more, Maxwell's studies showed that light could be described as a ripple in the electromagnetic field. That is, light moves like a [[Wave (physics)|wave]]. However, Maxwell's work did not agree with [[classical mechanics]], the description of forces and motion originally developed by [[Isaac Newton|Newton]]. Maxwell's equations predicted that light always moves through empty space at [[Speed of light|the same speed]]. This was a problem because in classical mechanics, velocities are  " additive " -- if a person A on a train moving at speed X throws a ball with speed Y, then a person B on the ground sees the ball moving with speed X+Y. According to Maxwell, if person A turns on a flashlight, they will see the light moving away from them at speed ''c''. But person B on the ground must also see the light moving at speed ''c'', not ''c''+X. This led to the development of the [[theory]] of [[special relativity]] by [[Albert Einstein|Einstein]], which explained how the speed of light could be the same for everyone, and why classical mechanics does not work for things moving very fast. 
+ 
+ === Problems in classical electromagnetism === 
+ [[Albert Einstein]]'s work with the [[photoelectric effect]] and [[Max Planck]]'s work with [[black body radiation|blackbody radiation]] did not work with the traditional view of light as a [[continuous]] wave. This problem would be solved after the development of [[quantum mechanics]] in 1925. This development led to the development of [[quantum electrodynamics]] which was developed by [[Richard Feynman]] and [[Julian Schwinger]].  Quantum electrodynamics was able to describe the interactions particles in detail. 
+ 
+ == Electromagnetic radiation == 
+ [[Electromagnetic radiation]] is thought to be both a [[particle]] and a [[wave (physics)|wave]]. This is because it sometimes acts like a particle and sometimes acts like a wave. To make things easier we can think of an electromagnetic wave as a stream of [[photon]]s (symbol γ). 
+ 
+ === Photons === 
+ A [[photon]] is an [[elementary particle]], meaning that it cannot be broken down into smaller particles. It is the [[particle]] that light is made up of. Photons also make up all other types of [[electromagnetic radiation]] such as [[gamma ray]]s, [[X-ray]]s, and [[ultraviolet|UV rays]]. The idea of photons was thought up by [[Albert Einstein|Einstein]]. Using his theory for the [[photoelectric effect]], Einstein said that light existed in small  " packets "  or parcels which he called photons. 
+ 
+ [[Photon]]s have energy and momentum. When two charged objects push or pull on each other, they send photons back and forth. So photons carry the electromagnetic force between charged objects. Photons are also known as [[Particle|messenger particles]] in [[physics]] because these particles often carry messages between objects. Photons send messages saying  " come closer "  or  " go away "  depending on the charges of the objects that are being looked at. If a force exists while time passes, then photons are being exchanged during that time. 
+ 
+ Fundamental electromagnetic interactions occur between any two particles that have an electric charge. These interactions involve the exchange or production of photons. Thus, photons are the carrier particles of electromagnetic interactions. 
+ 
+ Electromagnetic [[Radioactive decay|decay]] processes can often be recognized by the fact that they produce one or more photons (also known as [[gamma ray]]s). They proceed less rapidly than strong decay processes with comparable mass differences, but more rapidly than comparable weak decays. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{Electromagnetism}} 
+ 
+ 
+ 
+ [[Category:Electromagnetism| ]] 
+ [[Category:Force]]

@@ -1,0 +1,31 @@
+A '''postulate''' (also sometimes called an [[axiom]]) is a [[statement]] that is agreed by everyone to be correct. This is useful for creating [[wikt:proof|proof]]s in [[mathematics]] and [[science]], (also seen in [[Social sciences|social science]])Along with [[Definition|definitions]], postulates are often the basic [[truth]] of a much larger [[theory]] or [[law]]. < ref > {{Cite web|last=|first=|date=2019-08-01|title=The Definitive Glossary of Higher Mathematical Jargon: Axiom|url=https://mathvault.ca/math-glossary/#axiom|archive-url=|archive-date=|access-date=2020-10-08|website=Math Vault|language=en-US}} < /ref >  Thus a postulate is a [[hypothesis]] advanced as an essential presupposition to a train of reasoning. < ref > {{Cite web|title=Definition of POSTULATE|url=https://www.merriam-webster.com/dictionary/postulate|access-date=2020-10-08|website=www.merriam-webster.com|language=en}} < /ref > 
+ 
+ Postulates themselves cannot be proven, but since they are usually self-evident, their acceptance is not a problem. Here is a good example of a postulate (given by [[Euclid]] in his studies about [[geometry]]). 
+ 
+ :''Two points determine (make) a line.'' 
+ Using this postulate and four others like it, Euclid brought a new understanding of [[geometry]] to the world, and many people think they are some of the most [[influence|influential]] works in geometry (even in modern time). 
+ 
+ Sometimes, postulates are not obviously correct, but are required for their consequences. One example is Albert Einstein's postulate that the universe is homogenous. This type of postulate was necessary to make possible some major scientific achievements, but can also be problematic since it is not self-evident.  
+ 
+ As a rule of thumb, postulates tend to have the following characteristics: 
+ # Obvious and easy to understand 
+ # Does not contain many words that are difficult to explain 
+ # Few in quantity 
+ # Work together without making any strange result (that is, they are [[consistency|consistent]]) 
+ # True when used alone (which means that they can be used [[independent]]ly) 
+ 
+ Postulates are sometimes proved to be wrong after they have been known for a long time, but this is usually because something new has been [[Discovery (observation)|discovered]], and the original creator could not have known any better. 
+ 
+ == Related pages == 
+ 
+ * [[Koch's postulates]] 
+ * [[Parallel postulate]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Science]] 
+ [[Category:Mathematics]]

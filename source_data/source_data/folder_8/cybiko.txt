@@ -1,0 +1,89 @@
+{{Infobox information appliance 
+ |name=Cybiko 
+ |title= 
+ |aka= 
+ |logo= 
+ |image=[[File:cybiko.jpg|175px]] 
+ |caption=A Cybiko Classic with its antenna extended, running the main desktop. 
+ |developer=Cybiko Inc. 
+ |manufacturer= 
+ |family= 
+ |type=[[Handheld game console]] / [[PDA]] 
+ |generation=[[History of video game consoles (sixth generation)|Sixth generation]] 
+ |releasedate={{Start date|2000|04|}} 
+ |lifespan= 
+ |price= 
+ |discontinued= 
+ |unitssold= 
+ |unitsshipped= 
+ |media= 
+ |os= 
+ |power= 
+ |soc= 
+ |cpu= 
+ |memory= 
+ |storage= 
+ |memory card= 
+ |display= 
+ |graphics= 
+ |sound= 
+ |input= 
+ |controllers= 
+ |camera= 
+ |touchpad= 
+ |connectivity= 
+ |platform= 
+ |service= 
+ |dimensions= 
+ |weight= 
+ |topgame= 
+ |compatibility= 
+ |predecessor= 
+ |successor=[[#Cybiko Xtreme|Cybiko Xtreme]] 
+ |related= 
+ |website= 
+ }} 
+ 
+ The '''Cybiko''' is a handheld computer from [[Russia]] that was introduced in the [[United States]] by [[David Yang (entrepreneur)|David Yang]]'s company Cybiko Inc. in [[New York]] to [[test market|test it in retail]] in April 2000. < ref name= " Cybiko4 " > {{cite web |url=http://www.holmesreport.com/latest/article/cybiko-technology-for-teens |title=Cybiko: Technology for Teens |last1=Holmes |first1=Paul |date=July 8, 2002 |website=www.holmesreport.com |publisher=The Holmes Report |access-date=February 23, 2016 |archive-date=March 4, 2016 |archive-url=https://web.archive.org/web/20160304125440/http://www.holmesreport.com/latest/article/cybiko-technology-for-teens |url-status=dead }} < /ref > < ref name= " Cybiko1 " > {{cite web |url=http://www.piclist.com/tecHREF/cybiko/b2c/ch1.htm |title=Chapter 1 : Introducing the Cybiko |publisher=Piclist.com |access-date=February 23, 2016 }} < /ref >  It was released in the rest of the United States in May 2000. < ref name= " Cybiko5 " > {{cite web |url=http://www.mobic.com/oldnews/2000/05/cybiko.htm |title=CYBIKO, INC. ANNOUNCES NATIONAL DISTRIBUTION OF WIRELESS INTER-TAINMENT SYSTEM FOR TEENS |date=May 11, 2000 |website=www.mobic.com |publisher=[[E3 Expo]] |access-date=February 23, 2016 }} < /ref >  It was designed to appeal to teenagers < ref > {{cite web |last=Robischon |first=Noah |url=http://www.ew.com/ew/article/0,,276367,00.html |title=Entertainment Weekly: Chatter Box |publisher=Ew.com |date=2000-06-09 |access-date=2013-12-03 |archive-date=2013-12-02 |archive-url=https://web.archive.org/web/20131202222850/http://www.ew.com/ew/article/0,,276367,00.html |url-status=dead }} < /ref > < ref > [http://www.streettech.com/archives_gadget/cybiko.html Gadget: Cybiko] {{webarchive |url=https://web.archive.org/web/20090907202159/http://www.streettech.com/archives_gadget/cybiko.html |date=September 7, 2009 }} < /ref >  by being able to send text messages two ways using radio. < ref > {{cite web|first=Rob |last=Flickenger |url=http://www.oreillynet.com/etel/blog/2001/03/cybiko_no_strings_attached.html |title=O' Reilly: Cybiko: no strings attached |publisher=Oreillynet.com |date=2001-03-28 |access-date=2013-12-03}} < /ref >  Over 430  " official "  [[freeware]] games and applications were released for the Cybiko. < ref name= " Cybiko2 " > {{cite web |url=http://www.thefreelibrary.com/Win+a+fabulous+Cybiko+Xtreme%3b+READER+CLUB.-a084536941 |title=Win a fabulous Cybiko Xtreme; READER CLUB. |date=2002 |website=The Free Library |publisher=MGN Ltd. |access-date=February 23, 2016 }} < /ref >  Because it could be used to send text messages, it had a QWERTY keyboard  used with a stylus. An [[MP3 player]] add-on and a [[SmartMedia]] card reader were made for the Cybiko. The company stopped manufacturing the Cybiko after two product versions. Multiple Cybikos can communicate with each other from up to 300 & nbsp;metres (0.19 & nbsp;miles) away. Several Cybikos can be used for chatting with each other in a wireless chatroom. Over 500,000 Cybiko Classics were sold by the end of 2000. < ref name= " Cybiko3 " > {{cite web |url=https://www.telegraph.co.uk/finance/personalfinance/4478896/Vesta-pours-9m-into-new-console.html |title=Vesta pours $9m into new console |last1=Ringshaw |first1=Grant |date=January 2001 |website=The Telegraph |publisher=Telegraph Media Group Limited |access-date=February 23, 2016 }} < /ref > 
+ 
+ == Models == 
+ 
+ === Cybiko Classic === 
+ [[File:CyXtreme.JPG|thumb|A Cybiko Xtreme with its antenna folded down, running the Main Desktop.]] 
+ There are two models of the Cybiko Classic. The only difference that can be seen between the two models is the original version has a power switch on the side, and the later version uses the  " escape "  key for power management. Internally, the differences between the two models are in the internal memory, and where the [[firmware]] is. 
+ 
+ The [[central processing unit|CPU]] is a [[Hitachi]] [[H8 Family|H8]]S/2241 running at 11.0592 & nbsp;MHz. < ref name= " zdnet " > {{cite web |url=http://review.zdnet.com/product/pdas/cybiko-purple/4842481?tag=content |title=Cybiko (Purple) |publisher=[[CBS Interactive]] |access-date=February 23, 2016 |archive-url=https://web.archive.org/web/20110811010851/http://www.zdnet.com/reviews/product/pdas/cybiko-purple/4842481?tag=content%3Bcol1 |archive-date=August 11, 2011 |url-status=dead }} < /ref >  The Cybiko Classic also has an [[Atmel]] AT90S2313 [[co-processor]] running at 4 & nbsp;MHz < ref > {{cite web|url=http://the-gadgeteer.com/2000/12/28/cybiko_review/ |title=Cybiko Review |publisher=The Gadgeteer |date=2009-11-09 |access-date=2013-12-03}} < /ref >  so it can support [[Radio frequency|RF]] communications. It comes with 512KB of [[read-only memory|ROM]] [[flash memory|flash storage]] and 256KB of [[random access memory|RAM]]. It comes with an add-on slot in the back. 
+ 
+ The Cybiko Classic came in five colors: blue, purple, neon green, white, and black. The black version has a yellow keypad, instead of the white unit the other Cybikos have. 
+ 
+ The add-on slot has the same pin arrangement as a [[PC card]], but it is not electrically compatible. 
+ 
+ === Specifications === 
+ * Weight: 122g 
+ * Dimensions (L x W x H): 7.1 & nbsp;cm x 2.2 & nbsp;cm x 14.5 & nbsp;cm 
+ * LCD screen: 160x100 dots, 59x40 mm, 4 level grayscale 
+ 
+ === Cybiko Xtreme === 
+ The Cybiko Xtreme is the second-generation Cybiko handheld. < ref > [http://www.streettech.com/archives_gadget/cybikoXtreme.html Gadget: Cybiko Xtreme] {{webarchive |url=https://web.archive.org/web/20091116090033/http://www.streettech.com/archives_gadget/cybikoXtreme.html |date=November 16, 2009 }} < /ref >  It has various improvements over the original Cybiko, such as a faster processor, more RAM, more ROM, a new [[operating system]], a new keyboard layout, a new case design, a bigger wireless range, a microphone, improved audio output and a smaller size. < ref > {{cite web |url=http://www.edgereview.com/reviews.cfm?Category=handheld & ID=31 |title=Cybiko Xtreme |publisher=Edge Review |access-date=2013-12-03 |url-status=dead |archive-url=https://web.archive.org/web/20120301092658/http://www.edgereview.com/reviews.cfm?Category=handheld & ID=31 |archive-date=2012-03-01 }} < /ref > 
+ 
+ The CPU is a Hitachi [[H8 Family|H8]]S/2323 running at 18 & nbsp;MHz. Just as with the original version, it also has an Atmel AT90S2313 co-processor running at 4 & nbsp;MHz so it can support [[Radio frequency|RF]] communications. The Cybiko Extreme comes with 512KB ROM [[flash memory|flash storage]] and 1.5MB RAM. It comes with an add-on slot in the back, but the only hardware released that can be connected to it is an MP3 player. 
+ 
+ Two variants of the Cybiko Xtreme were released. The US variant (Model No. CY44801), which had a frequency range of 902-928 & nbsp;MHz, and the European variant (Model No. CY44802), which had a frequency range of 868-870 & nbsp;MHz. There were no other functional differences between those variants. < ref > {{cite web|title=Cybiko Xtreme on-line guide|url=ftp://ftp.navigator.co.uk/pub/cybiko/xtreme%20cd%20-%20most%20files%20work%20with%20classic%20too/docs/online_guide.pdf|website=navigator.co.uk|access-date=29 July 2015}} < /ref > < ref > {{cite web|title=Cybiko Xtreme Screenshot of original page|url=http://archiv.iwi.uni-hannover.de/lv/seminar_ss04/www/Jan_Gacnik/bibliography/CYBIKO.pdf|website=University of Honnover Archive|access-date=29 July 2015|archive-date=19 October 2015|archive-url=https://web.archive.org/web/20151019104116/http://archiv.iwi.uni-hannover.de/lv/seminar_ss04/www/Jan_Gacnik/bibliography/CYBIKO.pdf|url-status=dead}} < /ref > 
+ 
+ == Options == 
+ 
+ === MP3 player === 
+ * '''Classic MP3 Player:''' It is the MP3 player for the Cybiko Classic. It plugs into the bottom of the Cybiko Classic. It supports [[SmartMedia]] cards up to 64 & nbsp;MB. The MP3 player had controls built into the unit. 
+ * '''Xtreme MP3 Player:''' It is the MP3 player for the Cybiko Xtreme. It plugs into the back of the Cybiko Xtreme. It had a slot for one [[MultiMediaCard|MMC memory card]]. The MP3 player could only be controlled from the Cybiko. The MP3 player could also be used to store data that is not MP3 files, and also programs. 
+ 
+ === 1MB Expansion Memory === 
+ It is a add-on card that gave the Cybiko 1 & nbsp;megabyte of static [[RAM]] and 1 & nbsp;megabyte of flash storage. The RAM allowed Cybiko programs that need more RAM to run. The flash storage allows more Cybiko programs to be stored. Some Cybiko programs would not run if the 1MB Expansion Memory is not connected to the add-on slot. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{commons category|Cybiko}} 
+ {{Sixth generation game consoles}} 
+ 
+ [[Category:Personal digital assistants]] 
+ [[Category:Sixth generation consoles]]

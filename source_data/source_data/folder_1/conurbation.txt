@@ -1,0 +1,35 @@
+< imagemap >                     
+ File:Randstad.png|400px|thumb|right|Clickable schematic map of the Randstad, a big conurbation in the Netherlands 
+ circle 528 380 26 [[Schiphol]] 
+ rect 426 356 498 436 [[Haarlemmermeer]]  
+ rect 399 166 479 245 [[Velsen]] 
+ circle 250 716 32 [[Delft]] 
+ circle 220 642 60 [[The Hague]] 
+ circle 456 569 27 [[Alphen aan den Rijn]]  
+ circle 555 201 52 [[Zaanstad]] 
+ circle 999 168 42 [[Lelystad]] 
+ circle 798 474 29 [[Hilversum]] 
+ circle 492 692 34 [[Gouda]] 
+ circle 347 654 31 [[Zoetermeer]] 
+ circle 944 532 40 [[Amersfoort]] 
+ circle 521 24 33 [[Alkmaar]] 
+ circle 442 294 44 [[Haarlem]] 
+ circle 466 943 36 [[Dordrecht]] 
+ circle 334 537 30 [[Leiden]] 
+ circle 840 314 50 [[Almere]] 
+ rect 245 738 400 869 [[Rotterdam]] 
+ rect 13 725 81 789 [[Port of Rotterdam]] 
+ rect 82 749 116 788 [[Port of Rotterdam]] 
+ rect 117 778 148 803 [[Port of Rotterdam]] 
+ rect 120 804 209 835 [[Port of Rotterdam]] 
+ rect 158 826 247 857 [[Port of Rotterdam]] 
+ circle 742 617 53 [[Utrecht (city)]] 
+ circle 615 324 88 [[Amsterdam]] 
+ < /imagemap > 
+ A '''conurbation''' is an [[urban area]] that includes a number of [[cities]], [[town]]s and villages which, through [[population growth]] and expansion, have physically merged to form one continuous built up area. It is a sort of [[agglomeration]]. 
+ 
+ A [[metropolitan area]] usually combines one or several conurbations. 
+ {{geo-stub}} 
+ 
+ [[Category:Settlements]] 
+ [[Category:Urban geography]]

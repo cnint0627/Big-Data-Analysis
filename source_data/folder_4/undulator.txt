@@ -1,0 +1,35 @@
+{{complex|date=May 2013}} 
+ [[Image:Undulator.png|300px|thumb|Working of the undulator. 1: magnets, 2: electron beam, 3: synchrotron radiation]] 
+ [[Image:Aust.-Synchrotron,-Undulator,-14.06.2007.jpg|thumb|right|250px|A multipole wiggler, as used in the [[storage ring]] at the [[Australian Synchrotron]] to generate [[synchrotron radiation]]]] 
+ An '''undulator''' is an [[insertion device]] from high-energy physics and usually part of a larger  
+ installation, a [[synchrotron]] [[storage ring]]. It consists of a periodic structure of [[dipole magnet]]s. A static [[magnetic field]] is alternating along the length of the '''undulator''' with a wavelength  < math > \lambda_u < /math > . Electrons traversing the periodic magnet structure are forced to undergo oscillations. So the electrons give off energy as electronmagnetic radiation. The radiation produced in an undulator is very intense and concentrated in narrow energy bands in the [[spectrum]]. The light beam is also [[Collimated light|collimated]] on the orbit plane of the electrons. This radiation is guided through [[beamline]]s for experiments in various scientific areas. 
+ 
+ The important dimensionless parameter  
+ 
+ < math > K=\frac{e B \lambda_u}{2 \pi \beta m_e c} < /math >   
+ 
+ where ''e'' is the particle charge, ''B'' is the magnetic field, '' < math > \beta=v/c < /math > '', '' < math > m_{e} < /math > '' is the electron rest  
+ mass and ''c'' is the speed of light, characterizes the nature of the electron motion. For  
+ < math > K\ll1 < /math >  the [[oscillation amplitude]] of the [[motion]] is small and the radiation displays interference patterns which lead to narrow energy bands. If  < math > K\gg1 < /math >  the oscillation amplitude is bigger and the radiation contributions from each field period sum up independently, leading to a broad energy spectrum. When K is much bigger than 1,  the device is no longer called an ''undulator''; it is called a [[wiggler (synchrotron)|wiggler]]. 
+ 
+ Physicist think about undulators both using classical physics and [[relativity]]. This means that though the precision calculation is tedious the undulator can be seen as a [[black box]]. An electron enters this box and an electromagnetic pulse exits through a small exit slit. The slit should be small enough so that only the main cone passes, so that  the side lobes may be ignored.  
+ 
+ Undulators can provide hundreds of time more [[magnetic flux]] than a simple bending magnet and as such are in high demand at [[synchrotron radiation]] facilities.  For an undulator that repeat N times (N periods), the brightness can be up to  < math > N^{2} < /math >  more than a bending magnet.  The intensity is enhanced up to a factor of N at harmonic wavelengths due to the [[constructive interference]] of the fields emitted during the N radiation periods.  The usual pulse is a [[sine]] wave with some envelope.  The second factor of N comes from the reduction of the emission angle associated with these harmonics, which is reduced in proportion to 1/N.  When the electrons come with half the period, they interfere destructively. So, the undulator stays dark. The same is true if the electrons come as a bead chain.  Because the bunch of electron spreads out the more times that they travel around the synchrotron, physicists want to design new machines that throw out the electron bunches before they have a chance to spread out.  This change will produced more useful synchrotron radiation. < ref > {{cite journal|url=http://erl.chess.cornell.edu/Pub_Bilderback_group/Bilderback_Review_Light_Sources_2005.pdf|title=Review of third and next generation synchrotron light sources|journal=J. Phys. B: At. Mol. Opt. Phys.|volume=38|year=2005|authors=Donald H Bilderback, Pascal Elleaume and Edgar Weckert|issue=9|pages= S773–S797|doi= 10.1088/0953-4075/38/9/022|s2cid=53685315 |accessdate=December 22, 2011}} < /ref > 
+ 
+ The polarization of the emitted radiation can be controlled by using permanent magnets to induce different periodic electron trajectories through the undulator.  If the oscillations are confined to a plane the radiation will be linearly polarized.  If the oscillation trajectory is helical, the radiation will be circularly [[polarized light|polarized]], with the handedness determined by the helix. 
+ 
+ If  the electrons follow the [[Poisson distribution]], a partial interference leads to a linear increase in intensity. 
+ In the [[free-electron laser]] the intensity increases [[exponential growth|exponentially]] with the number of electrons.  
+ 
+ Physicists measure an undulator's effectiveness in terms of  [[spectral radiance]]. 
+ 
+ ==History== 
+ The first undulator was built by [[Hans Motz]] and his coworkers at [[Stanford University|Stanford]] in 1953. One of their undulators produced the first ever coherent  infrared radiation. Their total frequency range was from visible light down to millimeter waves. The Russian physicist V.L. Ginzburg showed that undulators could be made in principle in a 1947 paper. 
+ 
+ ==References== 
+ < references/ > 
+ 
+ ==Other websites== 
+ D. T. Attwood's page at Berkeley: [http://www.coe.berkeley.edu/AST/sxreuv/ Soft X-Rays and Extreme Ultraviolet Radiation] {{Webarchive|url=https://web.archive.org/web/20090503232703/http://www.coe.berkeley.edu/AST/sxreuv/ |date=2009-05-03 }}. His lecture and viewgraphs are available online. 
+ 
+ [[Category:Synchrotron instrumentation]]

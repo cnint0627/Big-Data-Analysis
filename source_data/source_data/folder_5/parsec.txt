@@ -1,0 +1,30 @@
+{{Infobox unit 
+ | name = Parsec 
+ | image = Stellarparallax parsec1.svg 
+ | caption = A parsec is the distance from the [[Sun]] to an [[astronomical object]] which has a [[parallax]] angle of one [[arcsecond]]. (the diagram is not to scale). 
+ | standard = astronomical units 
+ | quantity = length 
+ | symbol = pc 
+ | units1   = [[International System of Units|SI units]] 
+ | inunits1 = {{val|3.0857|e=16|ul=m}} 
+ | units2   = [[Imperial units|imperial]]  &  [[United States customary units|US]] units 
+ | inunits2 = {{val|1.9174|e=13|ul=mi}} 
+ | units3   = other astronomical 
+ | inunits3 = {{val|2.0626|e=5|ul=AU}} 
+ | units4   =  & nbsp; & nbsp; & nbsp;units 
+ | inunits4 = {{val|3.26156}} & nbsp;[[light-year|ly]] 
+ }} 
+ 
+ A '''parsec''' is a unit of distance used in [[astronomy]]. It is the distance that light travels in 3.26 years, or just under 31 trillion kilometres (about 19 trillion miles).  
+ 
+ This is from the [[definition]]: a parsec is the distance from the Sun to an object which has a [[parallax]] [[angle]] of one [[arcsecond]]. The technique used in the calculation is [[trigonometry]].  
+ 
+ It takes 3.26 years for the light to come from a parsec away. 
+ 
+ 
+ {{-}} 
+ {{science-stub}} 
+ 
+ 
+ [[Category:Astronomical distances]] 
+ [[Category:Units of length]]

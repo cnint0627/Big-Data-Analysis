@@ -1,0 +1,30 @@
+[[File:Turbojet operation-axial flow-en.svg|thumb]] 
+ A '''turbojet''' is a kind of [[jet engine]] that works by squeezing air into a small space, mixing it with [[fuel]], and setting it on fire. < ref >  A Dictionary of Aviation, David W. Wragg. ISBN 10: 0850451639 / ISBN 13: 9780850451634, 1st Edition Published by Osprey, 1973 / Published by Frederick Fell, Inc., NY, 1974 (1st American Edition.) < /ref > < ref name=Mair77.78 > W. Austyn Mair, ''Aircraft Performance'' (Cambridge; New York: Cambridge University Press, 1992), pp. 77–78 < /ref >  The mixture of fuel and air goes out the back of the engine and pushes it forward. As it leaves the engine it spins a [[turbine]] which turns a [[gas compressor]] at the front which sucks in more air and compresses it.   
+ 
+ '''Turbofan''' engines are more complex. They are more common today because they can make more [[Power (physics)|power]], for the same amount of fuel, than a turbojet. < ref name=Mair77.78/ >  They also make less noise. [[Supersonic]] aircraft still use the simpler kind. 
+ 
+ == Parts == 
+ 
+ * The air intake is the part at the front of the engine. The intake is where the air is brought into the engine. 
+ * The air compressor squeezes the air, in order to make it smaller. This makes the pressure and temperature higher. The air compressor is made out of spinning blades called rotors, and blades that do not move, called stators. 
+ * The combustion chamber is where the air is burnt. Fuel is injected by several tubes, and the fire heats up the air. 
+ * After passing the combustion chamber, the air pushes a turbine fan. This turbine fan is connected to the compressor. The air pushing on it makes the rotors of the compressor turn. 
+ * The nozzle is where the air comes out of the engine. The speed of the air is bigger than the speed at the air intake. This bigger force makes the vehicle move towards the front. 
+ * Some planes have an afterburner. The afterburner is like a combustion chamber, but is attached behind the nozzle. It has tubes which inject fuel and burns the air again. The afterburner is used in order to increase speed of the vehicle, but the use of fuel is very high. This makes it used rarely, for example on [[supersonic]] airplanes. 
+ 
+ == Related pages == 
+ * [[Gas turbine]] 
+ 
+ == References == 
+ {{commons}} 
+ {{reflist}} 
+ 
+ == External links == 
+ *[https://www.daviddarling.info/encyclopedia/T/turbojet_engine.html] 
+ *[https://slideplayer.com/slide/4179686/] 
+ *[https://gallery.autodesk.com/fusion360/projects/21260/turbojet-engine] 
+ *[https://engineering.purdue.edu/~propulsi/propulsion/jets/basics/afterburner.html] 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Aircraft engines‎]]

@@ -1,0 +1,96 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |name                   = Tāloqān 
+ |native_name            =  تالقان 
+ |settlement_type        =City 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = 
+ |imagesize              = 
+ |image_caption          = 
+ |image_flag             =  
+ |flag_size              = 
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           = 
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              =  
+ |mapsize                =  
+ |map_caption            =  
+ |pushpin_map            = Afghanistan 
+ |pushpin_label_position = above 
+ |pushpin_mapsize        = 
+ |pushpin_map_caption    = Location in Afghanistan 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = [[Afghanistan]] 
+ |subdivision_type1      = [[Provinces of Afghanistan|Province]] 
+ |subdivision_name1      = [[Takhār Province]] 
+ |subdivision_type2      = [[Districts of Afghanistan|District]] 
+ |subdivision_name2      = [[Taluqan District]] 
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            = 
+ |established_title      = 
+ |established_date       =  
+ < !-- Area    --------------------- > 
+ |unit_pref                =  
+ |area_footnotes           = 
+ |area_total_km2           = 
+ < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ |area_metro_km2           = 
+ |area_metro_sq_mi         = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               = 2006 
+ |population_footnotes           =  
+ |population_note                =  
+ |population_total               =196400 
+ |population_density_km2         = 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_urban               = 
+ |population_density_urban_km2   = 
+ |population_density_urban_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               =Afghanistan Standard Time 
+ |utc_offset             = +4:30 
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ |coordinates={{coord|36|43||N|69|31||E|region:AF|display=inline,title}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            =876 
+ |elevation_ft           = 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             = 
+ |blank_info             = 
+ |blank1_name            = 
+ |blank1_info            = 
+ |website                =  
+ |footnotes              = 
+ }} 
+ 
+ '''Tāloqān''' ({{lang-fa| تالقان}}, also '''Tāleqān''' or '''Tāluqān''') is the capital of [[Takhar Province]], in northern [[Afghanistan]]. It is in the [[Taluqan District]]. About 196,400 people live in the city. < ref > {{cite web|url= http://www.world-gazetteer.com/wg.php?x= & men=gpro & lng=en & dat=32 & geo=-13 & srt=npan & col=aohdq & pt=c & va= & geo=456252953|title= Tāloqān|accessdate= 2007-12-19|publisher= World Gazetteer|archiveurl= https://archive.today/20130105120532/http://www.world-gazetteer.com/wg.php?x= & men=gpro & lng=en & dat=32 & geo=-13 & srt=npan & col=aohdq & pt=c & va= & geo=456252953|archivedate= 2013-01-05|url-status= dead}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{asia-stub}} 
+ 
+ [[Category:Cities in Afghanistan]]

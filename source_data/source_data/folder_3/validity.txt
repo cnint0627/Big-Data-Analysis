@@ -1,0 +1,36 @@
+'''Validity''' is an [[idea]] that is used in [[everyday language]] and in [[logic]]. In ordinary language it means correct or in the right form. 
+ 
+ An [[argument]] is valid if it seems appropriate, well-grounded and can be defended. A [[contract]] is valid if it is enforceable in [[law]]. In other words, it applies legally to a particular situation. A [[bank-note]] is valid if it can be exchanged and used for purchase, and a [[passport]] is valid if it lets the holder come in and go out of a country. A [[Will (law)|will]] is valid if correctly made, and certified by an appropriate [[court]]. In all these cases, valid refers to the soundness in some situation. Logical uses of this idea are similar, but phrased much more exactly. 
+ 
+ == In logic == 
+ It is nothing to do with ordinary ideas of [[truth]]. Truth points outwards to the world. Validity, on the other hand, points inwards to the [[syllogism]]. 
+ 
+ The conclusion of a valid [[argument]] is a logical consequence of its [[premise]]s. An example of a valid argument is given by the following well-known syllogism: 
+ 
+ :All men are mortal. 
+ :Socrates is a man. 
+ :Therefore, Socrates is mortal. < ref > Michael Frede, ''Essays in Ancient Philosophy'' (Minneapolis: University of Minnesota Press, 1987), p. 104 < /ref > 
+ 
+ *However, this is also a valid syllogism: 
+ 
+ :All cups are green. 
+ :Socrates is a cup. 
+ :Therefore, Socrates is green. 
+ 
+ And it is not true that Socrates was green. 
+ 
+ *The following is valid but not sound: 
+ 
+ : All animals live on Mars. 
+ : All humans are animals. 
+ : Therefore, all humans live on Mars. 
+ 
+ The problem with the argument is that it is not ''sound''.  In order for a deductive argument to be sound, the deduction must be valid and '''all''' the premises true. < ref > Stephen Priest, ''The British Empiricists'' (Oxford; New York: Routledge, 2007), p. 193 < /ref >   
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Logic]] 
+ 
+ 
+ {{stub}}

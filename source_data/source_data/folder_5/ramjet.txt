@@ -1,0 +1,24 @@
+[[File:Ramjet operation.svg|thumb|352x352px|Diagram of how a ramjet works. Note the lack of any large moving parts. The speed of the air, in [[Mach number|Mach]], is written in parentheses under certain components.]] 
+ A ramjet is a type of [[jet engine]] which uses the forward [[Movement|motion]] of the engine to produce [[thrust]]. Ramjets are most often attached to [[aircraft]], and require that the aircraft is moving above the [[speed of sound]] ([[Mach number|Mach 1]]). They are different from [[Turbojet|turbojets]] ( " normal "  aircraft engines) because they do not have any moving parts which [[Compression (physical)|compress]] the air. Instead, they use a shock cone to compress the air. The ramjet gets its name from this fact; it  " rams "  the air hard enough to compress it to a combustible pressure. 
+ 
+ == Parts of a Ramjet == 
+ 
+ Ramjets are made up of 4 main sections. 
+ 
+ === Inlet === 
+ The first section is called the inlet. The purpose of the inlet is to capture air and compress it. Compression is required in order to burn the fuel correctly. The compression comes from a process called a shock wave. Shock waves only occur when the aircraft is moving at or above Mach 1. For this reason, ramjets are more efficient if moving around Mach 2 or 3.  
+ 
+ === Diffuser === 
+ The second part of the ramjet is called the diffuser. Air that comes through the inlet is moving very fast, which makes it very hard to burn fuel. The job of the diffuser is to slow the flow down in an efficient way. By the time the air has passed all the way through the inlet, it is traveling slower than Mach 1. This is important for the diffuser to work properly. The diffuser is essentially just a pipe that increases in area as you move along it. Because the flow moving slower than Mach 1, the increasing area causes the air to slow down. 
+ 
+ === Combustion chamber === 
+ The third part of the ramjet is the [[combustor]], also called the combustion chamber. The combustor is where the fuel is introduced to the air, and then [[Combustion|burns]]. Burning fuel adds [[energy]] to the air, which will be later used to create thrust. The air must be moving relatively slowly for the combustor to work properly. There is a part inside the combustor called the flame holder. The flame holder, as the name suggests, holds the flame in place. A typical flame holder looks like a ring of small v-shaped pieces of metal. They create little pockets of slow air, which make it easier for the fuel to keep burning. 
+ 
+ === Nozzle === 
+ After the fuel is burned and the air is heated, it flows through the last part, the [[nozzle]]. The purpose of the nozzle is to turn all of the energy in the air into thrust. In order to do this, the nozzle must first get smaller then get larger. The smallest area of the nozzle is called the  " throat " . The air coming from the combustor is moving slower than Mach 1, so as the nozzle gets smaller, the air speeds up. The nozzle is designed so that once the air reaches the throat, it has sped all the way up to Mach 1. This is an important detail for the nozzle to work properly. Once the air passes the throat, the air gets larger again. Since the flow reached Mach 1 in the throat, increasing the area also increases the speed of the air. This is the key to creating thrust. The air exiting the nozzle essentially  " pushes "  the ramjet forward. 
+ 
+ == Related pages == 
+ * [[Gas turbine]] 
+ * [[Turbojet]] 
+ 
+ [[Category:Aircraft engines]]

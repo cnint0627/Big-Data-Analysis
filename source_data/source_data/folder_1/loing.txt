@@ -1,0 +1,153 @@
+{{Infobox river 
+   | name              = Loing 
+   | image             = Alfred Sisley 012.jpg 
+   | image_caption     = Loing River; painted by [[Alfred Sisley]] 
+   | map               = Loing.png   
+   | source1_location  = [[Burgundy (French region)|Burgundy]] 
+   | source1_coordinates= {{coord|47|33|13|N|3|13|51|E}} 
+   | mouth_location    = [[Seine]] 
+   | mouth_coordinates = {{coord|48|23|13|N|2|48|9|E|format=dms|display=inline,title}} 
+   | progression       = {{RSeine}} 
+   | subdivision_type1 = Country 
+   | subdivision_name1 = [[France]] 
+   | length            = {{convert|143|km|mi|abbr=on}} 
+   | source1_elevation = {{convert|320|m|ft|abbr=on}} 
+   | mouth_elevation   = {{convert|45|m|ft|abbr=on}} 
+   | discharge1_avg    = {{convert|19|m3/s|cuft/s|abbr=on}} 
+   | basin_size        = {{convert|4150|km2|mi2|abbr=on}} 
+ }} 
+ The '''Loing''' is a river in central [[France]]. It is a left [[tributary]] of the [[Seine]]. It flows through three [[regions of France]]: [[Bourgogne-Franche-Comté]], [[Centre-Val de Loire]] and [[Île-de-France]] 
+ 
+ ==Geography== 
+ The Loing is {{Convert|142.7|km|mi|1|abbr=off}} long. Its [[drainage basin]] covers {{Convert|4182|km2|sqmi|0|abbr=off}}. < ref name= " sandre " > {{cite web|url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=F4--0200|title=le Loing (F4--0200)|publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau|language=fr|access-date=14 August 2017}} < /ref > 
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|18.50|m3/s|cuft/s|abbr=on }} at [[Épisy]], [[Seine-et-Marne]], at about {{Convert|10|km|mi|abbr=on }} from the mouth of the Loing. < ref > {{cite web |url=http://www.hydro.eaufrance.fr/stations/H3621010 & procedure=synthese |title=Le Loing à Épisy |publisher=Banque Hydro |language=fr |access-date=14 August 2017 |archive-date=3 August 2016 |archive-url=https://web.archive.org/web/20160803161019/http://www.hydro.eaufrance.fr/stations/H3621010%26procedure%3Dsynthese |url-status=dead }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:40 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5 start:0 
+ BackgroundColors = canvas:sfondo  
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 30.50 
+  bar:Feb from:0 till: 33.00 
+  bar:Mar from:0 till: 27.80 
+  bar:Apr from:0 till: 23.00 
+  bar:May from:0 till: 18.90 
+  bar:Jun from:0 till: 14.50 
+  bar:Jul from:0 till: 9.580 
+  bar:Aug from:0 till: 8.240 
+  bar:Sep from:0 till: 8.020 
+  bar:Oct from:0 till: 11.00 
+  bar:Nov from:0 till: 15.40 
+  bar:Dec from:0 till: 23.40 
+ 
+ PlotData= 
+  bar:Jan at: 30.50 fontsize:S text: 30.50 shift:(-9,5) 
+  bar:Feb at: 33.00 fontsize:S text: 33.00 shift:(-12,5) 
+  bar:Mar at: 27.80 fontsize:S text: 27.80 shift:(-12,5) 
+  bar:Apr at: 23.00 fontsize:S text: 23.00 shift:(-12,5) 
+  bar:May at: 18.90 fontsize:S text: 18.90 shift:(-12,5) 
+  bar:Jun at: 14.50 fontsize:S text: 14.50 shift:(-12,5) 
+  bar:Jul at: 9.580 fontsize:S text: 9.580 shift:(-12,5) 
+  bar:Aug at: 8.240 fontsize:S text: 8.240 shift:(-12,5) 
+  bar:Sep at: 8.020 fontsize:S text: 8.020 shift:(-12,5) 
+  bar:Oct at: 11.00 fontsize:S text: 11.00 shift:(-12,5) 
+  bar:Nov at: 15.40 fontsize:S text: 15.40 shift:(-12,5) 
+  bar:Dec at: 23.40 fontsize:S text: 23.40 shift:(-12,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Épisy'''  < small > (69 years) < /small > 
+ < /center > 
+ 
+ ===Course=== 
+ The Loing starts in ''Puisaye'', a natural region, in the ''commune'' of [[Sainte-Colombe-sur-Loing]], in the south of the [[Yonne]] department, [[Bourgogne-Franche-Comté]] [[Regions of France|region]]. It starts at an [[altitude]] of about {{Convert|320|m|ft|0|abbr=off}}. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=3.232778,47.553333 & z=16 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Source du Loing |publisher=Géoportail |language=fr |access-date=14 August 2017 }} < /ref > 
+ 
+ The Loing flows, in general, to the northwest. It goes through the following regions, departments and ''communes'': < ref name= " sandre "  / > 
+ 
+ * [[Bourgogne-Franche-Comté]] region 
+ ** '''[[Yonne]]''': [[Sainte-Colombe-sur-Loing]] ~ [[Saint-Sauveur-en-Puisaye]] ~ [[Moutiers-en-Puisaye]] ~ [[Saint-Fargeau]] ~ [[Saint-Martin-des-Champs, Yonne|Saint-Martin-des-Champs]] ~ [[Saint-Privé, Yonne|Saint-Privé]] ~ [[Bléneau]] ~ [[Rogny-les-Sept-Écluses]] 
+ * [[Centre-Val de Loire]] region 
+ ** '''[[Loiret]]''': [[Dammarie-sur-Loing]] ~ [[Sainte-Geneviève-des-Bois, Loiret|Sainte-Geneviève-des-Bois]] ~ [[Châtillon-Coligny]] ~ [[Montbouy]] ~ [[Montcresson]] ~ [[Conflans-sur-Loing]] ~ [[Amilly, Loiret|Amilly]] ~ [[Montargis]] ~ [[Châlette-sur-Loing]] ~ [[Cepoy]] ~ [[Girolles, Loiret|Girolles]] ~ [[Fontenay-sur-Loing]] ~ [[Nargis]] ~ [[Dordives]] 
+ * [[Île-de-France]] region 
+ ** '''[[Seine-et-Marne]]''': [[Château-Landon]] ~ [[Souppes-sur-Loing]] ~ [[La Madeleine-sur-Loing]] ~ [[Poligny, Seine-et-Marne|Poligny]] ~ [[Bagneaux-sur-Loing]] ~ [[Saint-Pierre-lès-Nemours]] ~ [[Nemours]]  ~[[Montcourt-Fromonville]] ~ [[Grez-sur-Loing]] ~ [[Bourron-Marlotte]] ~ [[Montigny-sur-Loing]] ~ [[La Genevraye]] ~ [[Épisy]] ~ [[Orvanne (commune)|Orvanne]] ~ [[Veneux-les-Sablons]] ~ [[Saint-Mammès]] 
+ 
+ At its end, the Loing flows into the [[Seine]] river in [[Saint-Mammès]] (bordering [[Veneux-les-Sablons]]), [[Seine-et-Marne]] department, at {{Convert|16|m|ft|0|abbr=off}} of altitude. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=2.8025,48.386944 & z=15 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Confluence du Loing |publisher=Géoportail |language=fr |access-date=14 August 2017 }} < /ref > 
+ 
+ The Loing river gives its name to the following ''communes'': [[Sainte-Colombe-sur-Loing]], [[Dammarie-sur-Loing]], [[Conflans-sur-Loing]], [[Châlette-sur-Loing]], [[Fontenay-sur-Loing]], [[Souppes-sur-Loing]], [[La Madeleine-sur-Loing]], [[Bagneaux-sur-Loing]], [[Grez-sur-Loing]], [[Montigny-sur-Loing]] et [[Moret-sur-Loing]]. < ref name= " sandre "  / > 
+ 
+ ==Main tributaries== 
+ The main [[Tributary|tributaries]] of the Loing are: 
+ {{col-begin|width=50%}} 
+ {{col-break|width=50%}} 
+ '''Left tributaries''': 
+ * Puiseaux - 37 & nbsp;km 
+ * Solin - 31.3 & nbsp;km 
+ * Bezonde - 35 & nbsp;km 
+ * Fusain - 34.4 & nbsp;km 
+ {{col-break}} 
+ {{col-break|width=50%}} 
+ '''Right tributaries''': 
+ * Ouanne - 83.8 & nbsp;km 
+ * Cléry - 43.1 & nbsp;km 
+ * Lunain - 51.4 & nbsp;km 
+ {{col-end}} 
+ 
+ == Paintings == 
+ Several [[painter]]s have painted the Loing river. Some of the paintings are:  
+ < gallery mode= " packed "  heights= " 160px " > 
+ File:Alferd Sisley - Banks of the Loing - Autumn Effect, 1881 - Google Art Project.jpg|[[Alfred Sisley]] : ''Rives du Loing, effets d'automne'' (1881) 
+ File:Alfred Sisley 010.jpg|Alfred Sisley: ''Pont de Moret l'été'' (1888) 
+ File:Alfred Sisley 064.jpg|Alfred Sisley: ''Le long du Loing près de Moret'' (1892) 
+ File:William Lamb Picknel - Banks of the Loing.jpg|William Lamb Picknell: ''Rives du Loing'' (between 1894 and 1897) 
+ File:Eugène Cicéri-Au bord du Loing-Musée barrois.jpg|Eugène Cicéri : ''Au bord du Loing'' 
+ File:Eugène Galien-Laloue - Lavandières au bord du Loing.jpg|Eugène Galien-Laloue: ''Lavandières au bord du Loing'' 
+ < /gallery > 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:SourceLoing.jpg|The source of the Loing in [[Sainte-Colombe-sur-Loing]]. 
+ File:Loing a Nemours P1050500.JPG|The Loing in [[Nemours]]. 
+ File:Loing Grez.JPG|The Loing in [[Grez-sur-Loing]]. 
+ File:Lunain-episy-1.jpg|The Loing in Episy. 
+ File:Veneux Saint-Mammès vue.jpg|The Loing in [[Saint-Mammès]]. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ == References == 
+ {{Commonscat}} 
+ {{Reflist}} 
+ 
+ [[Category:Rivers of Bourgogne-Franche-Comté]] 
+ [[Category:Rivers of Centre-Val de Loire]] 
+ [[Category:Rivers of Île-de-France]]

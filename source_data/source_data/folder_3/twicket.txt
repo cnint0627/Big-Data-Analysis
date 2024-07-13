@@ -1,0 +1,74 @@
+< !-- {{Infobox news event 
+ |title                    = Twicket 
+ |image_name               = John Popham and umpire at Twicket.jpg 
+ |caption                  = John Popham interviews the [[umpire]], John Marshall. 
+ |date                     = {{start date|2011|04|25|df=y}} 
+ |time                     =  
+ |place                    = [[Wray, Lancashire|Wray]], [[Lancashire]], [[England]] 
+ |coordinates              = {{coord|54.10319|-2.60761|region:GB_type:landmark|display=inline,title}} 
+ |also known as            = Wray vs. the Rest of the World 
+ |first reporter           =  
+ |filmed by                = Aquila TV 
+ |participants             =  
+ |outcome                  = Wray beat Rest of World 
+ |awards                   =  
+ |url                      =  
+ |website                  = {{URL|www.twicket.info}} 
+ |notes                    =  
+ }}-- > 
+ 
+ [[File:John Popham and umpire at Twicket.jpg|thumb|right|John Popham interviews the [[umpire]], John Marshall]] 
+ 
+ '''Twicket''' was a village [[cricket]] match. It was shown live on the [[Internet]]. It could be watched form anywhere on the world. That happened on Easter Monday, 25 April 2011. < ref name= " Twicket-official " > {{cite web |url=http://www.twicket.info |title=A World First – Live Broadcasting a Village Cricket Match |last=Popham |first=John |accessdate=17 April 2011 |archive-date=28 April 2011 |archive-url=https://web.archive.org/web/20110428062314/http://twicket.info/ |url-status=dead }} < /ref >  The organisers did that to show that very fast broadband is useful. Very fast broadband helps community groups to upload content to the web. < ref name= " Hartley-2 "  / >  The organisers says Twicket was the first village cricket match ever to be streamed online. < ref name= " Twicket-official "  / > 
+ 
+ Twicket is a [[Portmanteau word|made up word]]. The  " '''Tw''' "  is from '''Tw'''itter. The  " '''icket''' "  is from  Cr'''icket'''. 
+ 
+ There were reports about Twicket on BBC television news, on [[BBC Radio London]], < ref name= " BBC-RL " > {{cite news |title=BBC Radio London |date=2011-04-26 }} < /ref > < !-- recording of BBC Radio London interview with Wray team member Phil Denby, at http://www.mixcloud.com/johnrpopham/twicket-star-phil-denby-on-bbc-london/ -- >  on [[TalkSport]], < ref > {{cite news |title= TalkSport |date= 2011-04-26 }} < !-- recording of TalkSport interview with Wray team member John Whitfield, at http://www.mixcloud.com/johnrpopham/star-player-john-whitfield-talks-twicket-on-talksport/ -- > < /ref >  and on [[Radio New Zealand]]. < ref > {{cite news |title= Radio New Zealand |date= 2011-05-06 }} < !-- recording of Radio New Zealand interview with John Popham, at http://www.mixcloud.com/johnrpopham/me-talking-twicket-on-radio-new-zealand/ -- > < /ref > 
+ 
+ It was written about by ''[[The Guardian]]'', < ref name= " Hartley-2 " > {{cite news|url=http://www.guardian.co.uk/technology/blog/2011/apr/25/twicket-wray-lancashire-boadband|title=Lancashire village cricket match attracts thousands... online {{!}} Technology {{!}} guardian.co.uk|last=Hartley |first=Sarah |date=2011-04-25 |work=[[The Guardian]] |accessdate= 25 April 2011 }} < /ref > < ref name= " Hartley-1 " > {{cite web |url= http://www.guardian.co.uk/technology/blog/2011/apr/12/broadband-cricket-wray|title=Cricket livestream to highlight rural broadband needs|last=Hartley|first=Sarah|work=[[The Guardian]]|date=2011-04-12|accessdate=17 April 2011}} < /ref >  and ''[[Metro (British newspaper)|Metro]]''. < ref > [[Metro (British newspaper)|Metro]], 15 April 2011 < /ref > 
+ 
+ It was mentioned on [[Twitter]] by [[Stephen Fry]], < ref > https://twitter.com/stephenfry/status/57696632447307777 -  < blockquote > A World First? Live Broadcast of a Village Cricket Match  < nowiki > http://t.co/FOdFGGr < /nowiki > < /blockquote > < /ref >  the [[BBC]]'s [[Rory Cellan-Jones]] < ref > https://twitter.com/ruskin147/status/62472785993281536 -  < blockquote > A live village cricket match on Twitter - you can watch here:  < nowiki > http://t.co/IT9Bvo1 < /nowiki >  #twicket < /blockquote > < /ref >  and [[Jonathan Agnew]]. < ref > https://twitter.com/Aggercricket/status/61499198364856320 -  < blockquote > RT @Pam_nAshes Have you heard about the Village cricket match being streamed live on the web on Monday?  < nowiki > http://bit.ly/i5pA1V < /nowiki >   " Sounds fun " < /blockquote > < /ref >  Agnew is the BBC's cricket correspondent. 
+ 
+ == Background == 
+ 
+ John Popham is a [[consultant]]. He decided to show Twicket online after seeing two comments on Twitter. < ref name= " Twicket-official "  / >  In the first comment, Dan Slee said he wanted to see news about his a local village cricket team on Twitter. < ref name= " Twicket-official "  / > 
+ 
+ Then, Chris Conder mentioned that she was testing a new 30[[Data rate units#Megabit per second|Mbps]], [[Symmetric digital subscriber line|symmetrical internet]] connection.  " Symmetrical internet "  means that the upload speed is as fast as the download speed. Conder lives in a village called [[Wray, Lancashire|Wray]]. Wray is in Lancashire, England. < ref name= " Twicket-official "  / >  The connection was installed in Wray by [[Lancaster University]] < ref name= " LivingLab " > {{cite web|url=http://www.infolab21.co.uk/livinglab/|title=RuralConnect Living Labs|accessdate=17 April 2011}} < /ref >  Wray is one of only three villages in the UK to have a symmetrical [[community network]]. < ref name= " Hartley-2 "  / > 
+ 
+ Conder told Popham that a special cricket match was going to be played in Wray. The match was part of the village’s Scarecrow Festival. < ref name= " Twicket-official "  / >  The Scarecrow Festival happens every year. The match was between Wray and a team called  " The Rest of the World " . < ref name= " Scarecrow " > {{cite web|url=http://www.wrayvillage.co.uk/scarecrows.htm|title=Wray scarecrow village UK information page|accessdate=17 April 2011|archive-date=30 April 2011|archive-url=https://web.archive.org/web/20110430090256/http://www.wrayvillage.co.uk/scarecrows.htm|url-status=dead}} < /ref > 
+ 
+ Popham said: 
+ 
+ < blockquote > I'm confident we can do this, because the village Wi-Fi has a 30Mbps upload speed ... It's a bit of fun, but it has a serious purpose too. The serious side is to demonstrate that it can be done, it {{Allcaps|is}} possible to live broadcast events like this using relatively cheap equipment and a good internet connection. It will also demonstrate the importance of good internet connectivity in rural areas, and the need for fast {{Allcaps|upload}} connections if we are to realise the aspiration to use the internet to enable more people to produce their own content. < ref name= " Hartley-1 "  / > < /blockquote > 
+ 
+ ==The match== 
+ The match was 20 [[Over (cricket)|overs]] per side. This is called the [[Twenty20]] format. There was an extra rule that said that any batsman who scored 20 runs had to retire. Wray won the toss. < ref name= " Twicket-video " > {{cite web|url=http://www.twicket.info|title=Twicket (video stream archive)|date=2011-04-25|accessdate=25 April 2011|archive-date=2011-04-28|archive-url=https://web.archive.org/web/20110428062314/http://twicket.info/|url-status=dead}} < /ref >  They decided to bowl first. < ref name= " Twicket-video "  / >  After 20 overs, The Rest of the World had scored 69 runs and lost 5 wickets. < ref name= " Twicket-video "  / >  That meant that Wray needed 70 runs off 20 overs. Wray managed to do that. Their final runs were a six. Wray won in their eleventh over. < ref name= " Twicket-video "  / >  They won by 8 wickets. < ref name= " Twicket-video "  / > 
+ 
+ After the cricket match, there was a [[Tug of war|tug o'war]] contest. It was also streamed live. < ref name= " Twicket-video "  / >  The rest of the world won. Interviews with some of the cricket players and other people were also shown on the internet. < ref name= " Twicket-video "  / > 
+ 
+ ==Media == 
+ 
+ [[File:Twicket broadcast crew.jpg|thumb|right|One of the three cameras. There is microphone on the boundary-line. it has a red lead.]] 
+ 
+ The event was streamed on a website called [[Bambuser]]. Technical support was provided by a company from Birmingham < ref name= " Aquila " > {{cite web|url=http://www.aquila-tv.com/|title=Aquila TV|accessdate=26 April 2011}} < /ref >  called Aquila TV. < ref name= " Hartley-2 "  / >  Aquila used two [[Sony HVR-Z1|Sony Z1]] cameras and a DSR 350 camera. < ref name= " Hartley-2 "  / >  The most people watching at once was 2,733. 
+ 
+ A separate sound-only commentary was broadcast on-line, by Radio Youthology. < ref name= " Hartley-2 "  / >  Radio Youthology are also from Birmingham. < ref name= " Youthology-1 " > {{cite web|url=http://radioyouthology.net/|title=Radio Youthology|accessdate=26 April 2011|archive-date=7 March 2011|archive-url=https://web.archive.org/web/20110307194640/http://radioyouthology.net/|url-status=dead}} < /ref >  1,780 people listened to the Radio Youthology commentary. That was Radio Youthology's biggest audience ever. 
+ 
+ A [[BBC North West]] television news crew also went to the match. < ref name= " Twicket-video "  / >  They made a short film. It was broadcast the same evening. < ref name= " BBC-NW " > {{cite web|url=https://www.bbc.co.uk/iplayer/episode/b010nr0g/North_West_Tonight_25_04_2011/|title=BBC iPlayer - North West Tonight: 25/04/2011|date=2011-04-25|work=[[BBC Online]]|publisher=[[BBC]]|accessdate=25 April 2011}} < /ref > 
+ 
+ The [[hashtag]] for the event was #twicket. It was trending on Twitter just before the end of the match. < ref name= " Hartley-2 "  / > 
+ 
+ == References== 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ *[http://www.twicket.info/ Twicket] {{Webarchive|url=https://web.archive.org/web/20110428062314/http://twicket.info/ |date=2011-04-28 }} (includes copy of video stream) 
+ *[http://johnpopham.wordpress.com/2011/05/01/the-story-of-twicket/ The Story of #Twicket] - Written by Popham after the event. 
+ *[http://soundcloud.com/johnopham/me-talking-twicket-on-radio Popham interview on BBC Radio Lancaster] 
+ *[https://www.bbc.co.uk/iplayer/episode/b010nr0g/North_West_Tonight_25_04_2011/ BBC North West news feature] on [[iPlayer]] - starts 3 minutes and 45 seconds in. 
+ **[http://vimeo.com/22881532 The same feature, on the Vimeo website]  < !-- in case the BBC link is time limited-- > 
+ 
+ [[Category:Lancashire]] 
+ [[Category:2011 in sports]] 
+ [[Category:2011 in the United Kingdom]] 
+ [[Category:2010s in English sport]]

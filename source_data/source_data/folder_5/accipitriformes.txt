@@ -1,0 +1,29 @@
+{{Automatic taxobox 
+ | fossil_range = [[Eocene]]-[[Holocene|present]], {{fossilrange|47|0}} 
+ | image = דורסי-יום-01.jpg 
+ | image_caption =  
+ | taxon = Accipitriformes 
+ | authority = [[Louis Jean Pierre Vieillot|Vieillot]], 1816 
+ | subdivision_ranks = Families 
+ | subdivision ={{plainlist| 
+ *[[Sagittariidae]] 
+ *[[Pandionidae]] 
+ *[[Accipitridae]]}} 
+ |range_map=Diversity map of Accipitriformes.webp 
+ |range_map_caption= Diversity map of Accipitriformes (258 species). The colour gradient (from light to dark) indicates species richness. < ref > {{cite journal |last1=Nagy |first1=Jenő  |title=Biologia Futura: rapid diversification and behavioural adaptation of birds in response to Oligocene–Miocene climatic conditions |journal=Biologia Futura |year=2020 |volume=71 |issue=1–2 |pages=109–121 |doi=10.1007/s42977-020-00013-9 |pmid=34554530 |s2cid=219904689 |url=https://link.springer.com/content/pdf/10.1007/s42977-020-00013-9.pdf}} < /ref > 
+ }} 
+ 
+ '''Accipitriformes''' is an [[order (biology)|order]] which includes most of the [[diurnal]] [[birds of prey]]: [[hawk]]s, [[eagle]]s, [[vulture]]s, and many others, about 225 [[species]] in all.  
+ 
+ For a long time, the majority view was to include them with the [[falcon]]s in the [[Falconiformes]]. However, a recent [[DNA]] study has shown that falcons are not closely related to the Accipitriformes. Instead, they are related to [[parrot]]s and [[passerine]]s. < ref name=Hackett > Hackett S.J. ''et al'' 2008. A phylogenomic study of birds reveals their evolutionary history. ''Science'' '''320''' (5884): 1763–1768. [http://www.sciencemag.org/content/320/5884/1763.abstract] < /ref > 
+ 
+ Since then putting the falcons next to the [[parrots]] in [[taxonomic]] order has been adopted by most [[ornithologist]]s. The DNA-based proposal includes the [[New World vulture]]s in the Accipitriformes, < ref name=Hackett/ >  but the American Ornithologists' Union (AOU) classifies the New World vultures as a separate order, the [[Cathartiformes]]. < ref > Remsen J.V. ''et al'' 2008. A classification of the bird species of South America (section ACCIPITRIDAE (HAWKS) 3, note 1). Version 11. American Ornithologists' Union. [http://www.museum.lsu.edu/~Remsen/SACCBaseline02.html] < /ref >   
+ 
+ == References == 
+ {{commonscat|Accipitriformes}} 
+ {{reflist}} 
+ 
+ {{taxonbar|from=Q21736}} 
+ {{authority control}} 
+ [[Category:Accipitriformes| ]] 
+ {{biology-stub}}

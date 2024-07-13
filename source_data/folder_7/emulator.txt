@@ -1,0 +1,10 @@
+[[File:DOSBox screenshot.png|thumb|right|DOSBox emulates a classic gaming PC running [[DOS]]]] 
+ An '''emulator''' is a [[computer program]] or software that makes one kind of [[computer]] behave like a different one, so that it can use the same [[computer programs|programs]] or do the same things as the other one. They are best for using old software and [[computer games|games]] on newer computers. They can be [[Computer hardware|hardware]] that you add to the computer, or [[software]] that you use on it. Some types of emulators require newer computers that have the right [[system requirements]]. For example, you need a [[Central processing unit|processor]] that is fast enough to meet the demands of the emulator. [[computer memory|Memory]] (both [[RAM]] and [[hard drive]] space) may be another factor to help it run smoothly and more accurately. With the more advanced emulators, if your computer is too old, the emulator or even the [[operating system]] may [[computer crash|crash]]{{fact|date=July 2010}}. 
+ 
+ == Types of emulators == 
+ The simplest type of emulator is called an interpreter, and it runs the foreign program one step at a time. This is the slowest type of emulator but it is easy to debug and port to new platforms. Another type is called the dynamic recompiler, and it takes foreign code a block at a time and recompiles (converts) it into native code. Foreign code that has already been converted is kept, so if the foreign program uses that code again, the emulator does not have to recompile it again. This type of emulator is much faster than the interpreter. Another type is the hypervisor, which only makes slight modifications to the foreign code, and runs it directly on the host processor. The hypervisor requires that the guest (foreign) and host systems use the same type of [[Central processing unit|CPU]]. 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Software]] 
+ [[Category:Computer science]]

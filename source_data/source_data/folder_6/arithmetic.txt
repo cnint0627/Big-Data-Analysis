@@ -1,0 +1,28 @@
+In [[mathematics]], '''arithmetic''' is the basic study of [[number]]s. The four basic arithmetic operations are [[Operation (mathematics)#Addition|addition]], [[Operation (mathematics)#Subtraction|subtraction]], [[Operation (mathematics)#Multiplication|multiplication]], and [[Operation (mathematics)#Division|division]], although other operations such as [[Operation (mathematics)#Exponentiation|exponentiation]] and [[Operation (mathematics)#Roots|roots]] are also studied in arithmetic. < ref > {{Cite web|date=2020-03-17|title=List of Arithmetic and Common Math Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/common-math-symbols/|access-date=2020-08-25|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Definition of Arithmetic|url=https://www.mathsisfun.com/definitions/arithmetic.html|access-date=2020-08-25|website=www.mathsisfun.com}} < /ref > < ref > {{Cite web|title=Arithmetic|url=https://www.britannica.com/science/arithmetic|access-date=2020-08-25|website=Encyclopedia Britannica|language=en-US}} < /ref > 
+ 
+ Other arithmetic topics includes working with negative numbers, [[Fraction (mathematics)|fractions]], [[decimal]]s and [[Percentage|percentages]]. 
+ 
+ Most people learn arithmetic in [[primary school]], but some people do not learn arithmetic and others forget the arithmetic they learned. Many jobs require a knowledge of arithmetic, and many employers complain that it is hard to find people who know enough arithmetic. A few of the many jobs that require arithmetic include [[carpenter]]s, [[plumber]]s, [[Mechanical engineering|mechanics]], [[accountant]]s, [[architect]]s, [[doctor]]s, and [[nurse]]s. Arithmetic is needed in all areas of mathematics, [[science]], and [[engineering]]. 
+ 
+ Some arithmetic can be carried out mentally. A [[calculator]] can also be used to perform arithmetic. [[Computer]]s can do it more quickly, which is one reason [[Global Positioning System]] receivers have a small computer inside. 
+ 
+ == Examples of arithmetic == 
+ *  < math > 2+3=5 < /math >  (addition is [[commutative property|commutative]]:  < math > 2+3 < /math >  is the same as  < math > 3+2 < /math > ) 
+ *  < math > 7-5=2 < /math >  (subtraction is not commutative:  < math > 7-5 < /math >  is different from  < math > 5-7 < /math > ) 
+ *  < math > 3\times4=12 < /math >  (multiplication is commutative:  < math > 3\times4 < /math >  is the same as  < math > 4\times3 < /math > ) 
+ *  < math > 6/2=3 < /math >  (division is not commutative:  < math > 6/2 < /math >  is different from  < math > 2/6 < /math > 
+ 
+ ==Related pages== 
+ * [[Affine arithmetic]] 
+ * [[Elementary algebra]] 
+ * [[Interval arithmetic]] 
+ * [[Modular arithmetic]] 
+ 
+ == References == 
+ < references / > 
+ {{authority control}} 
+ 
+ [[Category:Arithmetics]] 
+ 
+ 
+ {{math-stub}}

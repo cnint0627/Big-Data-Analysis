@@ -1,0 +1,24 @@
+{{sections|date=May 2023}} 
+ [[File:Lux Products TX9600TS Thermostat.jpg|thumb|Thermostat used to control an home's [[air conditioning]] system.]] 
+ A '''thermostat''' is a [[sensor]] that keeps a heating [[system]] near to a desired [[temperature]] or setpoint. It is a [[control system]]. 
+ 
+ The thermostat works by switching heating or cooling [[wikt:device|devices]] on or off. This is what happens in a [[central heating system]] or an [[air conditioner]]. In some systems, it works by switching a 'heat transfer fluid' off or on as needed to keep the set temperature. The name is derived from the Greek words ''thermos''  " hot "  and ''statos''  " a standing " . 
+ 
+ The simplest kind of thermostat is a [[bimetal strip]] which bends as the temperature rises, and at a set point breaks the [[Electrical circuit|circuit]] of an [[electrical current]]. Kitchen [[toaster]]s use this kind of thermostat. 
+ 
+ Because they control a system, thermostats are examples of [[feedback]] devices that maintain a steady local environment against temperature changes outside the outside world. In [[cybernetics]], the thermostat is an example of a [[machine]] that uses feedback to maintain the [[stability]] of a heating system. < ref > [https://www.ebee.com/what-is-wifi-thermostat/  " What is WiFi Thermostat " ]. www.ebee.com. 2023-12-15. Retrieved 2023-12-15. < /ref > 
+ 
+ Thermostats can be either line voltage or low voltage thermostats. Line voltage thermostats have regular 120 volt and 220~240 volt power going to them and low voltage thermostats have 24 volts powering them from a [[transformer]]. 
+ 
+ With the advancement of technology, wireless thermostats based on [[Wi-Fi|WiFi]] or [https://www.ebee.com/what-is-zigbee-and-its-technical-advantages/ Zigbee] protocols are also emerging and moving towards intelligence. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{HVAC}} 
+ {{Home appliances}} 
+ [[Category:Heat transfer]] 
+ [[Category:Control engineering]] 
+ [[Category:Machines]] 
+ [[Category:HVAC]] 
+ [[Category:Home appliances]]

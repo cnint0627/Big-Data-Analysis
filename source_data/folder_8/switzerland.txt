@@ -1,0 +1,260 @@
+{{Infobox country 
+ | conventional_long_name = Swiss Confederation 
+ | common_name            = Switzerland 
+ | native_name            = {{collapsible list 
+ |titlestyle                  = background:transparent;text-align:center;line-height:normal;font-size:84%; 
+ |title                       = {{resize|1.0 em|5 other official names}} 
+ |{{center| 
+ {{ubl|{{native name|de|{{nowrap|Schweizerische Eidgenossenschaft}}}}|{{native name|fr|Confédération suisse}}|{{native name|it|Confederazione Svizzera}}|{{native name|rm|Confederaziun svizra}}|{{native name|la|Confoederatio Helvetica}} 
+   }} 
+  }} 
+ }} 
+ | image_flag             = Flag of Switzerland.svg 
+ | image_coat             = Coat of Arms of Switzerland.svg 
+ | national_motto         = {{small|(traditional)}} < br / > {{native phrase|la| " [[Unus pro omnibus, omnes pro uno]] " |italics=off}} < br / > {{small| " One for all, all for one " }} 
+ | national_anthem        =  " [[Swiss Psalm]] " < div style= " padding-top:0.5em; " > [[File:Swiss Psalm.ogg|center]] < /div > 
+ | image_map              = Europe-Switzerland.svg 
+ | map_caption            = {{map caption |location_color=green |region=[[Europe]] |region_color=green and dark grey}} 
+ | capital                = None {{small|(''[[de jure]]'')}} < br / > [[Bern]] {{small|(''[[de facto]]'')}} < ref name=deFacto > {{cite journal |title=Die Hauptstadt existiert nicht |type=scientific article |last=Holenstein |first=André |volume=152 (Sonderfall Hauptstatdtregion) |journal=UniPress – Forschung und Wissenschaft an der Universität Bern |publisher=Department Communication, University of Berne |location=Berne |year=2012 |pages=16–19 |language=German |doi=10.7892/boris.41280 |s2cid=178237847 |quote=Als 1848 ein politisch-administratives Zentrum für den neuen Bundesstaat zu bestimmen war, verzichteten die Verfassungsväter darauf, eine Hauptstadt der Schweiz zu bezeichnen und formulierten stattdessen in Artikel 108: «Alles, was sich auf den Sitz der Bundesbehörden bezieht, ist Gegenstand der Bundesgesetzgebung.» Die Bundesstadt ist also nicht mehr und nicht weniger als der Sitz der Bundesbehörden. }} < /ref > 
+ | coordinates            = {{Coord|46|57|N|7|27|E|type:city}} 
+ | largest_city           = [[Zürich]] 
+ | official_languages     = [[German language|German]] < br / > [[French language|French]] < br / > [[Italian language|Italian]] 
+ | national_languages = [[Romansh language|Romansh]] 
+ | common_languages = [[Latin language|Latin]] 
+ | demonym                = {{lang-en|[[Swiss people|Swiss]]}}, < br / > {{lang-de|Schweizer(in)}}, < br / > {{lang-fr|Suisse(sse)}}, < br / > {{lang-it|svizzero/svizzera, or elvetico/elvetica}}, < br / > {{lang-rm|Svizzer/Svizra}} 
+ | government_type        = [[Federalism|Federal]] [[semi-direct democracy]] under a [[Multi-party system|multi-party]] [[parliamentary system|parliamentary]] [[Directorial system|directorial]] [[republic]] 
+ | leader_title1          = [[Swiss Federal Council|Federal Council]] 
+ | leader_name1           = {{unbulleted list 
+  | [[Viola Amherd]] {{small|([[President of the Swiss Confederation|President]])}} 
+  | [[Karin Keller-Sutter]] {{small|([[President of the Swiss Confederation|Vice President]])}} 
+  | [[Guy Parmelin]] 
+  | [[Ignazio Cassis]] 
+  | {{nowrap|[[Élisabeth Baume-Schneider]]}} 
+  | [[Albert Rösti]] 
+  | [[Beat Jans]] 
+  }} 
+ | leader_title2          = {{nowrap|[[Federal Chancellor of Switzerland|Federal Chancellor]]}} 
+ | leader_name2           = [[Viktor Rossi]] 
+ | legislature            = [[Federal Assembly (Switzerland)|Federal Assembly]] 
+ | upper_house            = [[Council of States (Switzerland)|Council of States]] 
+ | lower_house            = [[National Council (Switzerland)|National Council]] 
+ | sovereignty_type       = [[History of Switzerland|History]] 
+ | established_event1     = [[Foundation of the Old Swiss Confederacy|Foundation date]] 
+ | established_date1      = {{circa|1300}} < ref group=note > The original date of the [[Rütlischwur]] was 1307 (reported by [[Aegidius Tschudi]] in the 16th century) and is just one among several comparable treaties between more or less the same parties during that period. The date of the [[Federal Charter of 1291]] was selected in 1891 for the official celebration of the  " Confederacy's 600th anniversary " . < /ref >  (traditionally 1 August 1291) 
+ | established_event2     = [[Peace of Westphalia]] 
+ | established_date2      = 24 October 1648 
+ | established_event3     = [[Restoration (Switzerland)|Restoration]] 
+ | established_date3      = 7 August 1815 
+ | established_event4     = [[Switzerland as a federal state|Federal state]] 
+ | established_date4      = 12 September 1848 < ref group=note > A solemn declaration of the [[Tagsatzung]] declared the Federal Constitution adopted on 12 September 1848. A resolution of the ''Tagsatzung'' of 14 September 1848 specified that the powers of the institutions provided for by the 1815 Federal Treaty would expire at the time of the [[constitution]] of the [[Swiss Federal Council|Federal Council]], which took place on 16 November 1848. < /ref > < ref > {{HDS|9811|Federal constitution|date=3 May 2011|author=Andreas Kley}} < /ref > 
+ | area_km2               = 41,285 
+ | area_rank              = 132nd 
+ | area_sq_mi             = 15,940  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | percent_water          = 4.2 
+ | population_estimate    = {{increase}} {{formatnum:8570146}} < ref name=population > {{cite web |trans-title=Recent monthly and quarterly figures: provisional data |url=https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung.gnpdetail.2019-0447.html |title=Bevölkerungsbestand am Ende des 2. Quartal 2019 |date=19 September 2019 |id=1155-1500 |publisher=Swiss Federal Statistical Office (FSO), Swiss Confederation |location=Neuchâtel, Switzerland |language=de, fr, it |format=XLS |type=official statistics |accessdate=20 September 2019 }} < /ref > 
+ | population_census      = 8,327,126 < ref name=PopCensus > {{cite report |url=https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.1401565.html |title=Switzerland's population 2015 |date=22 November 2016 |editor=Jacqueline Kucera |editor2=Athena Krummenacher |series=Swiss Statistics |issue=1 Population |publisher=Swiss Federal Statistical Office (FSO), Swiss Confederation |location=Neuchâtel, Switzerland |format=PDF |type=official report |accessdate=7 December 2016 |url-status=live |archiveurl=https://web.archive.org/web/20161220075134/https://www.bfs.admin.ch/bfs/en/home/statistics/population.assetdetail.1401565.html |archivedate=20 December 2016}} < /ref > 
+ | population_estimate_year = 2019 
+ | population_estimate_rank = 99th 
+ | population_census_year = 2015 
+ | population_density_km2 = {{#expr: 8555541/41285 round 0}} 
+ | population_density_rank = 48th 
+ | GDP_PPP                = $548 billion < ref name=imf2 > {{cite web |url=https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=52 & pr.y=12 & sy=2017 & ey=2024 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & c=146 & s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC & grp=0 & a= |title=5. Report for Selected Countries and Subjects: Switzerland |publisher=International Monetary Fund |location=Washington, DC, U.S. |accessdate=1 October 2018 }} < /ref > 
+ | GDP_PPP_year           = 2018 
+ | GDP_PPP_rank           = 38th 
+ | GDP_PPP_per_capita     = $64,649 < ref name=imf2/ > 
+ | GDP_PPP_per_capita_rank = 9th 
+ | GDP_nominal            = $704 billion < ref name=imf2/ > 
+ | GDP_nominal_year       = 2018 
+ | GDP_nominal_rank       = 20th 
+ | GDP_nominal_per_capita = $82,950 < ref name=imf2/ > 
+ | GDP_nominal_per_capita_rank = 2nd 
+ | Gini                   = 29.7  < !--number only-- > 
+ | Gini_year              = 2018 
+ | Gini_change            = decrease  < !--increase/decrease/steady-- > 
+ | Gini_ref               =  < ref > {{cite web |url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table & init=1 & language=en & pcode=tessi190 & plugin=1 |title=Gini coefficient of equivalised disposable income – EU-SILC survey |publisher=[[Eurostat]] |website=ec.europa.eu |access-date=20 October 2019}} < /ref > 
+ | Gini_rank              = 19th 
+ | HDI                    = 0.946  < !--number only-- > 
+ | HDI_year               = 2018 < !-- Please use the year to which the data refers, not the publication year-- > 
+ | HDI_change             = increase < !--increase/decrease/steady-- > 
+ | HDI_ref                =  < ref name= " UNHDR " > {{cite web|url=http://hdr.undp.org/en/content/2019-human-development-index-ranking|title=Human Development Report 2019|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|accessdate=10 December 2019|format=PDF|archive-date=23 May 2020|archive-url=https://web.archive.org/web/20200523103905/http://hdr.undp.org/en/content/2019-human-development-index-ranking|url-status=dead}} < /ref > 
+ | HDI_rank               = 2nd 
+ | currency               = [[Swiss franc]] 
+ | currency_code          = CHF 
+ | time_zone              = [[Central European Time|CET]] 
+ | utc_offset             = +1 
+ | utc_offset_DST         = +2 
+ | time_zone_DST          = [[Central European Summer Time|CEST]] 
+ | date_format            = dd.mm.yyyy ([[AD]]) 
+ | drives_on              = right 
+ | calling_code           = [[+41]] 
+ | patron_saint           = [[Nicholas of Flüe|St Nicholas of Flüe]] 
+ | iso3166code            = CH 
+ | cctld                  = [[.ch]], [[.swiss]] 
+ }} 
+ '''Switzerland''' ({{lang-de|Schweiz}}; {{lang-fr|Suisse}}; {{lang-it|Svizzera}}; {{lang-rm|Svizra}}; [[Swiss German]]: ''Schwiz'') is a [[country]] in [[Western Europe]]. Switzerland is a [[federation]] of 26 [[Cantons of Switzerland|cantons]]. 
+ 
+ The official name of Switzerland is ''Confoederatio Helvetica'' ('''Swiss Confederation'''). This is [[Latin]] and is not often used except for official state documents. When it was founded in 1291, Switzerland was originally a [[confederation]], but later became a federation, even though it has kept the word ''Confoederatio'' in its official name. 
+ 
+ Switzerland does not have an official [[capital city]], but [[Bern (city)|Bern]] is used as though it is the capital. The largest city of Switzerland is [[Zürich City|Zürich]]. 
+ 
+ To the north of Switzerland is [[Germany]]. East of Switzerland are [[Austria]] and [[Liechtenstein]]. To the south of Switzerland is [[Italy]]. To the west of Switzerland is [[France]]. 
+ 
+ Switzerland is known for its [[neutrality (international relations)|neutrality]]. A country is neutral when it does not take sides among the countries who are at war. < ref > {{Cite web 
+  |url= http://www.swissworld.org/en/politics/foreign_policy/neutrality_and_isolationism/ 
+  |title=Neutrality and isolationism - Switzerland - Information 
+  |work=swissworld.org 
+  |accessdate=March 27, 2010 
+ }} < /ref >  Switzerland has been neutral since 1815. However, on February 28, 2022 < ref > {{Cite web|date=28 February 2022|title=Switzerland will forego  " Swiss neutrality " |url=https://www.cnn.com/europe/live-news/ukraine-russia-news-02-28-22/h_f8b3aa0b0e6c885286e93f1e47494e55|access-date=March 3, 2022|website=cnn.com}} < /ref >  Switzerland joined the imposition of [[economic sanctions]] against Russia.   
+ 
+ Many international organizations are in Switzerland. The [[United Nations]] has a main office (but not its headquarters) in [[Geneva City|Geneva]]. Its predecessor organization, the [[League of Nations]], was headquartered in Geneva. 
+ 
+ == Languages == 
+ There are four official languages in Switzerland: [[German language|German]], [[French language|French]], [[Italian language|Italian]], and [[Romansh]]. Some cantons and even towns have two languages spoken in them, and the largest canton by area, [[Graubünden]], has three. About 2/3 of the population speak German; French is spoken in the west of the country, while Italian is spoken in the canton of [[Ticino]] and Romansh in parts of Graubünden. Romansh language is spoken less than by 1% of the population.  
+ 
+ == Geography == 
+ [[File:Matterhornnorth.jpg|thumb|left|[[Matterhorn]] in the [[Swiss Alps]]]] 
+ 
+ The area of Switzerland is 41,285 & nbsp;km². The confederation is divided into 23 full states called ''[[cantons of Switzerland|cantons]]''. All 26 cantons are: [[Aargau]], [[Appenzell Innerrhoden]], [[Appenzell Ausserrhoden]], [[Basel-Stadt]], [[Basel-Landschaft|Basel-Land]], [[Bern (canton)|Berne]], [[Fribourg (canton)|Fribourg]], [[Geneva (canton)|Geneva]], [[Glarus (canton)|Glarus]], [[Graubünden]],  [[Jura (canton)|Jura]], [[Lucerne]], [[Neuchâtel]], [[Nidwalden]], [[Obwalden]], [[Schaffhausen]], [[Schwyz]], [[Solothurn]], [[St. Gallen]], [[Thurgau]], [[Ticino]], [[Canton of Uri|Uri]], [[Valais]], [[Vaud]], [[Zug]], and [[Zürich Canton|Zürich]]. 
+ 
+ The [[mountain]]s are very tall in the center and south of Switzerland. About 60% of Switzerland is in the [[Alps]] area. Only few people live here. The highest mountain is the ''Dufour Peak'' at 4,634 m. 
+ 
+ Many of the mountains have ice all year. This ice is called [[glacier]]s. The rivers [[Rhine]], [[Rhône]], and many other [[river]]s start in the mountains of Switzerland. 
+ 
+ There are many [[lake]]s in Switzerland. The biggest lakes are all in the north and west: [[Lake Geneva]] (''Lac Léman''), [[Lake Zürich]], [[Lake Neuchâtel]] and [[Lake Constance]] (''Bodensee''). 
+ 
+ Mountains in the north of Switzerland are fewer and smaller. Most Swiss people live in cities and towns in the north. The [[Jura mountains]] are in the northwest of Switzerland. 
+ 
+ === Cities === 
+ [[File:Distrib citta svizzera.png|thumb|left|alt=map of Switzerland with dots showing places with more than 10,000 people|370px|Population of cities with more than 10,000 people]] 
+ Switzerland has 2,485 villages, towns and cities. 
+ 
+ The largest cities are: 
+ {{columns-list| 
+ #[[Zurich]] 
+ #[[Geneva]] 
+ #[[Basel]] 
+ #[[Lausanne]] 
+ #[[Bern]] 
+ #[[Lucerne]] 
+ #[[Winterthur]] 
+ #[[St. Gallen]] 
+ #[[Lugano]] 
+ #[[Biel/Bienne]] 
+ #[[Thun]] 
+ #[[Köniz]] 
+ #[[La Chaux-de-Fonds]] 
+ #[[Schaffhausen]] 
+ #[[Fribourg (city)|Fribourg]] 
+ #[[Vernier]] 
+ #[[Chur]] 
+ #[[Neuchâtel]] 
+ #[[Uster]] 
+ #[[Sion, Switzerland|Sion]] 
+ }} 
+ {{clear}} 
+ 
+ == Culture == 
+ [[File:Alpabfahrt, Mels. 2019-09-14 13-04-59.jpg|thumb|[[Almabtrieb]] at [[Mels]] in [[2019]]]] 
+ There are about 8.4 million people in Switzerland. About 64% of the people speak Swiss German ([[German language|German]] Alemannic) as their first language, in northern and central Switzerland. 19% of the people speak [[French language|French]] as their first language, mainly in the west of Switzerland. 8% of the people speak [[Italian language|Italian]], in the south of Switzerland. Only 1% of the people speak Romansh, in the southeastern part of Switzerland. < ref name= " federalstatistics " > {{cite web| url=http://www.bfs.admin.ch/bfs/portal/en/index/themen/01/05/blank/key/sprachen.html| title=Languages and religions - Data, indicators| author=Swiss Federal Statistical Office| accessdate=2007-10-09}} The first number refers to the share of languages within total population. The second refers to the Swiss citizens only. < /ref >  Romansh is an old language that is similar to Latin. 
+ 
+ The German-speaking people of Switzerland do not actually speak  " German "  as their native language. Swiss people speak something called [[Alemannic German|Alemannic]] which has its own writing language and grammar but still is normally considered a German dialect. Alemannic may be difficult for Germans to understand. Swiss people do write like the people from Germany and also speak standard German very well, especially in the larger cities. 
+ 
+ About 23% of the people in Switzerland do not come from Switzerland. < ref > [http://www.bfs.admin.ch/bfs/portal/de/index/themen/01/22/publ.Document.114724.pdf Ausländerinnen und Ausländer in der Schweiz - Bericht 2008 (German)] (1196 [[KiB]]), Swiss Federal Statistical Office, page 12. < /ref >  They come from other places to usually work in Switzerland. 
+ 
+ The religion of most people in Switzerland is [[Christianity]]. 43% of the population follow Catholicism. 35% of the population follow Protestantism. 2% follow Eastern Orthodoxy. The religion of 4% of the population is [[Islam]]. The rest follow other religions, or they have no religion. 
+ 
+ Switzerland is famous for its [[chocolate]], [[cheese]], banking system, [[watch]]es and [[mountain]]s. 
+ 
+ == History == 
+ In 1291, people from Uri, Schwyz and Unterwalden wanted to be free. They signed a contract to work together called the ''Eternal Alliance''. Together, they could be free from the people of [[Habsburg]], who were very strong. In 1315 the people from the Eternal Alliance fought the Habsburgs in battles at Morgarten, Sempach and Näfels. The people of the Eternal Alliance won all the battles. 
+ 
+ People from other areas signed the contract and joined the Eternal Alliance. More and more people worked together to be free. In 1648, other countries from Europe made an agreement that Switzerland was free. The name of this agreement was the ''[[Peace of Westphalia]]''. More areas came to be part of Switzerland. 
+ 
+ Switzerland was important to the [[slave trade]] that forced [[Black people|black]] [[Africa|Africans]] to be sold as slaves. Swiss companies made [[indiennes]], which are a kind of cloth. These cloths were sent to Africa and exchanged for captured slaves. Some Swiss also joined French companies already making indiennes or owned [[plantations]] with slaves in French [[colonies]]. < ref > {{Cite web|last=|first=|date=|title=CARICOM Compilation Archive (CCA)|url=https://louverture.ch/caricom-compilation/|url-status=dead|archive-url=https://web.archive.org/web/20201027000908/https://louverture.ch/caricom-compilation/|archive-date=2020-10-27|access-date=2020-11-11|website=louverture.ch|language=}} < /ref > 
+ 
+ In 1798, France invaded Switzerland.  The ruler of France was [[Napoleon]].  He changed many laws.  In 1815 Switzerland again became [[independent]] from France.  Other countries agreed at the [[Congress of Vienna]] that Switzerland was free and neutral.  
+ 
+ The constitution of Switzerland that was made after a short [[civil war]] in 1848 was replaced in 1999. Switzerland did not fight in [[World War I]] or [[World War II]]. Since 2002, Switzerland is part of the United Nations.  It did not join the United Nations for 57 years because of its neutrality. 
+ 
+ == Politics == 
+ [[File:Bern luftaufnahme.png|thumb|200px|[[Bern (city)|Bern]] is the Swiss Capital]] 
+ 
+ Switzerland is a [[republic]]. Switzerland does not have the same kind of president as the United States or France. Seven people (called ministers) do the job of president. They are called the Federal Council in English, ''Bundesrat'' in German, ''Conseil Fédéral'' in French, ''Consiglio Federale'' in Italian and ''Cussegl Federal'' in Romansh. Every year one of these people is made president. The president is not more important than the other six people. At present 3 of the 7 people are women. 
+ 
+ The seven people are: 
+ * [[Alain Berset]] (President in 2023) 
+ * [[Guy Parmelin]] 
+ * [[Ignazio Cassis]] 
+ * [[Viola Amherd]] (Vice president in 2023) 
+ * [[Karin Keller-Sutter]] 
+ * [[Albert Rösti]]  
+ * [[Élisabeth Baume-Schneider]] < ref > {{cite web|title=The seven members of the Federal Council |url=https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council.html |access-date=4 March 2023 |website=www.admin.ch}} < /ref > 
+ 
+ There are two parts of [[parliament]] in Switzerland. The ''Council of States'' and the ''National Council''. Only both together can make laws. There are 46 people in the Council of States. Every full canton of Switzerland can send 2 people. There are 200 people in the National Council. The biggest canton sends most people to the National Council. The smallest 6 cantons can only send one person to the National Council. 
+ 
+ The people of Switzerland can collect signatures if they do not like a new law or a law change. This is called a ''referendum''. If enough people sign a referendum, the people vote. The people can also collect signatures to change the [[constitution]]. This is called an ''initiative''. The constitution is the basic law of a country. 
+ 
+ == Economy == 
+ Switzerland is not a member of the [[European Union]], but it is member of the [[European Free Trade Agreement]] (EFTA). The EFTA makes trade with other countries in Europe easier. In 1999 Switzerland and the European Union made a [[contract]]. This contract makes [[trade]] even easier. They recently made two other contracts. 
+ 
+ The [[bank]]s of Switzerland and the insurance companies in Switzerland together produce eleven per cent of the [[gross domestic product]]. Tourism is important in Switzerland. There are many places for tourists. [[Davos]], [[St. Moritz]], [[Pontresina]] and [[Flims]] are in Switzerland. These towns are important both in winter (for skiing) and in summer. Tourists also like the cities of [[Lucerne]], [[Geneva City|Geneva]], and [[Zürich City|Zürich]]. 
+ 
+ In 2011 the [[Pharmaceutical drug|pharmaceutical]] industry in Switzerland directly and indirectly employed about 135,000 people. < ref name=Vaterlaus > Stephan Vaterlaus, Stephan Suter and Barbara Fischer, [http://www.interpharma.ch/sites/default/files/polynomics-2011_bedeutung-der-pharmaindustrie-fuer-die-schweiz_e.pdf  " The Importance of the Pharmaceutical Industry for Switzerland " ] {{Webarchive|url=https://web.archive.org/web/20150924035703/http://www.interpharma.ch/sites/default/files/polynomics-2011_bedeutung-der-pharmaindustrie-fuer-die-schweiz_e.pdf |date=2015-09-24 }}, A study undertaken on behalf of Interpharma, September 2011. < /ref >  The companies [[Novartis]] and [[Hoffmann-La Roche|Roche]] are the second and third largest pharma companies in the world. They both have invented many life saving drugs because of well developed [[research and development]] facilities. 
+ 
+ ==Climate== 
+ 
+ Switzerland has a [[continental climate]]. 
+ 
+ The highest temperature ever recorded in Switzerland was {{cvt|41.5|C|F}}, on 11 August 2003 in Grono. < ref > {{Cite web |url=http://www.meteosuisse.admin.ch/home/climat/passe/extremes-climatiques/records-suisse.html |title=Records Suisse |access-date=2023-02-13 |archive-date=2016-08-16 |archive-url=https://web.archive.org/web/20160816174245/http://www.meteosuisse.admin.ch/home/climat/passe/extremes-climatiques/records-suisse.html |url-status=dead }} < /ref > 
+ 
+ The lowest temperature ever recorded in Switzerland was {{cvt|-41.8|C|F}}, on 12 January 1987 in [[La Brévine]]. < ref > {{Cite web |url=http://www.meteosuisse.admin.ch/home/climat/passe/extremes-climatiques/records-suisse.html |title=Records Suisse |access-date=2023-02-13 |archive-date=2016-08-16 |archive-url=https://web.archive.org/web/20160816174245/http://www.meteosuisse.admin.ch/home/climat/passe/extremes-climatiques/records-suisse.html |url-status=dead }} < /ref > 
+ 
+ == Literature == 
+ [[File:Heidi.jpg|thumb|upright|''[[Heidi]]'' by [[Johanna Spyri]]]] 
+ 
+ The literature of Switzerland is divided according to the language used. Most Swiss literature was written in [[German language|German]] from 1291 until 1798. [[French language|French]] became popular in Bern and elsewhere in the 18th century and many words also in the German speaking parts of Switzerland come from the French and are not known to Germans. [[Italian language]] and Romansch-Latin literature are less common in Switzerland. 
+ 
+ [[Heidi]], a book for children by [[Johanna Spyri]], is the most famous book of Switzerland. < ref > {{cite web | title=Swiss Literature | last= | first= | work=admin.ch | url=http://ead.nb.admin.ch/web/swissinfodesk/cultl-en.html | accessdate=2008-03-04 | archive-date=2008-02-06 | archive-url=https://web.archive.org/web/20080206223105/http://ead.nb.admin.ch/web/swissinfodesk/cultl-en.html | url-status=dead }} < /ref >  It is in the mountains in Graubünden. < ref > {{in lang|en}}[http://en.graubuenden.ch/highlights-switzerland/highlights/heidi.html Highlights Switzerland on state tourism site]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ == Sports == 
+ [[File:Allalinhorn 4027 2007 04 17.JPG|thumb|Ski area over the glaciers of [[Saas-Fee]]]] 
+ [[Skiing]], [[snowboarding]] and [[mountaineering]] are among the most popular sports in Switzerland. Because of the large mountain range the nature of the country is well suited for such activities. < ref > [http://www.europe-cities.com/en/672/switzerland/sport/ Sport in Switzerland] {{Webarchive|url=https://web.archive.org/web/20100916001155/http://www.europe-cities.com/en/672/switzerland/sport/ |date=2010-09-16 }} europe-cities.com. Retrieved on 2009-12-14 < /ref >  [[Bobsleigh]] was invented in [[St. Moritz]]. < ref > [http://www.fibt.com/index.php?id=39 A brief history of bobsleigh] fibt.com. Retrieved on 2009-11-02 < /ref >  The first [[FIS Alpine World Ski Championships|world ski championships]] were held in [[Mürren]] (1931) and St. Moritz (1934). St. Moritz hosted the second [[Winter Olympic Games]] in 1928 and in 1948. Among the most successful skiers and world champions are [[Pirmin Zurbriggen]] and [[Didier Cuche]]. 
+ 
+ [[File:Innenaufnahme Vaillant Arena Davos.JPG|thumb|left|[[Spengler Cup]] in [[Davos]]]] 
+ Many Swiss are fans of [[Association football|football]]. The national team or '[[Switzerland national football team|Nati]]' is widely supported. Switzerland was the joint host, with [[Austria]], of the [[Euro 2008]] tournament. Many Swiss also follow [[ice hockey]]. In April 2009, Switzerland hosted the [[2009 IIHF World Championship]] for the 10th time. < ref > {{cite web|url=http://www.iihf.com/channels/iihf-world-championship-oc09/home-oc/tournament-information.html |title=IIHF World Championships 2009 official website |publisher=Iihf.com |date=2009-05-10 |accessdate=2010-04-29}} < /ref >  The [[National League A]] is the most attended league in Europe. < ref > {{cite web |author=Geering |url=http://www.hockeyarenas.net/index.php3?ctID=ch & size=0 & page=0701 & c=eu & ctID=eu & atType=0 & show=25 & tdSaison=2011 |title=Hockeyarenas.net |publisher=Hockeyarenas.net |accessdate=2011-11-03 |archive-date=2012-01-14 |archive-url=https://web.archive.org/web/20120114160452/http://www.hockeyarenas.net/index.php3?ctID=ch & size=0 & page=0701 & c=eu & ctID=eu & atType=0 & show=25 & tdSaison=2011 |url-status=dead }} < /ref >   
+ 
+ The many lakes in the country make Switzerland a good place for sailing. The largest, [[Lake Geneva]], is the home of the sailing team [[Alinghi]].  They were the first European team to win the [[America's Cup]] in 2003.  They also won in 2007. Tennis has become more popular. Swiss players such as [[Martina Hingis]] and [[Roger Federer]] have won multiple [[Grand Slam (tennis)|Grand Slams]]. 
+ 
+ [[File:Federer Cincinnati (2007).jpg|thumb|upright|In an eight-year span, [[Roger Federer]] has won a record 17 Grand Slam singles titles, making him the most successful men's tennis player ever. < ref > [http://sportsillustrated.cnn.com/vault/gallery/featured/GAL1157546/1/index.htm Roger Federer's Grand Slam Titles] sportsillustrated.cnn.com. Retrieved on 2010-06-14 < /ref > ]] 
+ [[Motorsport]] racecourses and events were banned in Switzerland after the [[1955 Le Mans disaster]]. There were exceptions for events such as [[Hillclimbing]]. This ban was overturned in June 2007. < ref > {{cite web | title = Switzerland lifts ban on motor racing | url = http://en.wikinews.org/wiki/Switzerland_lifts_ban_on_motor_racing | publisher = GrandPrix.com  &  DueMotori.com | date = 6 June 2007 | accessdate = 23 September 2008}} < /ref >  During this period, the country still had successful racing drivers such as [[Clay Regazzoni]], [[Sebastian Buemi]], [[Jo Siffert]] and successful [[World Touring Car Championship]] driver [[Alain Menu]]. [[A1 Team Switzerland|Switzerland]] also won the [[A1 Grand Prix|A1GP World Cup of Motorsport]] in [[2007–08 A1 Grand Prix season|2007–08]] with driver [[Neel Jani]]. Swiss [[motorcycle racer]] [[Thomas Lüthi]] won the 2005 [[MotoGP]] World Championship in the 125cc category. 
+ 
+ Traditional sports include Swiss wrestling or  " [[Schwingen]] " . It is an old tradition from the rural central cantons and considered the national sport by some. [[Hornussen]] is another native Swiss sport. It is like a cross between baseball and golf. < ref > [http://www.swissroots.org/swissroots/en/stories/heritage/Heritage/Swiss%20Customs/Hornussen%20Baseball%20Swissstyle Hornussen] {{Webarchive|url=https://web.archive.org/web/20090629151434/http://www.swissroots.org/swissroots/en/stories/heritage/Heritage/Swiss%20Customs/Hornussen%20Baseball%20Swissstyle |date=2009-06-29 }} swissroots.org. Retrieved on 2010-01-25 < /ref >  [[Steinstossen]] is the Swiss version of [[stone put]], a competition in throwing a heavy stone. It is recorded to have taken place in [[Basel]] in the 13th century. It is also central to the [[Unspunnenfest]], first held in 1805. < ref > [http://www.interlaken.ch/erlebnisse/sommer/festivals/unspunnenfest/tradition-und-geschichte.html?L=3 Tradition and history] {{Webarchive|url=https://web.archive.org/web/20110706234615/http://www.interlaken.ch/erlebnisse/sommer/festivals/unspunnenfest/tradition-und-geschichte.html?L=3 |date=2011-07-06 }} interlaken.ch. Retrieved on 2010-01-25 < /ref > 
+ 
+ ==Related pages== 
+ *[[List of rivers of Switzerland]] 
+ *[[Switzerland at the Olympics]] 
+ *[[Switzerland national football team]] 
+ 
+ ==Notes== 
+ {{reflist|group=note}} 
+ 
+ == References == 
+ < references/ > 
+ 
+ == Other websites == 
+ {{commonscat}} 
+ {{Wikivoyage|Switzerland}} 
+ {{Spoken article|Simple Switzerland.ogg|2006-10-12}} 
+ * [http://www.admin.ch/index.html?lang=en English homepage of the Federal Authorities of the Swiss Confederation] {{Webarchive|url=https://web.archive.org/web/20090504114919/http://www.admin.ch/index.html?lang=en |date=2009-05-04 }} 
+ * [http://www.admin.ch/dokumentation/00104/index.html?lang=en The Swiss Confederation: A Brief Guide] {{Webarchive|url=https://web.archive.org/web/20090218050453/http://www.admin.ch/dokumentation/00104/index.html?lang=en |date=2009-02-18 }} 
+ * [http://www.swissorama.org/photo-gallery.html Pictures from Switzerland] {{Webarchive|url=https://web.archive.org/web/20070313182656/http://www.swissorama.org/photo-gallery.html |date=2007-03-13 }} 
+ * [https://en.citizendium.org/wiki/Switzerland Switzerland] -Citizendium 
+ 
+ {{europe}} 
+ {{switzerland}} 
+ {{authority control}} 
+ [[Category:Switzerland| ]] 
+ [[Category:German-speaking countries]] 
+ [[Category:French-speaking countries]] 
+ [[Category:Italian-speaking countries]] 
+ [[Category:Federations]]

@@ -1,0 +1,8 @@
+'''Availability''' is a term used in [[information security]] to show that a system is running and reachable by those that are supposed to be able to use the system. 
+ 
+ Availability is sometimes expressed as a percentage of uptime, such as 99%.  High availability is usually expressed as five nines - 99.999%.  In a 24-hour, 7-day-a-week operation this would be just a little over 5 minutes per year. 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Security]]

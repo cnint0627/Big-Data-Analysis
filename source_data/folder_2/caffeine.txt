@@ -1,0 +1,215 @@
+{{infobox drug 
+ | verifiedrevid = 
+ | drug_name = 
+ | image = Caffeine structure.svg 
+ | alt = 2D structure of caffeine 
+ | image2 = Caffeine molecule ball from xtal (1).png 
+ | alt2 = 3D structure of caffeine 
+ 
+ < !--Clinical data-- > 
+ |pronounce = {{IPAc-en|k|æ|ˈ|f|iː|n|,_|ˈ|k|æ|f|iː|n|}} 
+ | tradename = 
+ | Drugs.com ={{Drugs.com|monograph|caffeine-caffeine-and-sodium-benzoate-injection-caffeine-citrate}} 
+ | MedlinePlus = 
+ | pregnancy_AU = A 
+ | legal_UK = GSL 
+ | legal_US = unscheduled 
+ | legal_CA = unscheduled 
+ | dependency_liability = [[Physical dependence|Physical]]: low–moderate < ref name= " Nestler caffeine dependence-addiction " > {{cite book |vauthors=Malenka RC, Nestler EJ, Hyman SE |veditors=Sydor A, Brown RY | title = Molecular Neuropharmacology: A Foundation for Clinical Neuroscience | year = 2009 | publisher = McGraw-Hill Medical | location = New York | isbn = 978-0-07-148127-4 | pages = 375 | edition = 2nd | chapter = Chapter 15: Reinforcement and Addictive Disorders | quote= Long-term caffeine use can lead to mild physical dependence. A withdrawal syndrome characterized by drowsiness, irritability, and headache typically lasts no longer than a day. True compulsive use of caffeine has not been documented.}} < /ref > < ref name= " Clinical addiction  &  dependence " > {{cite book | vauthors = Karch SB | title = Karch's pathology of drug abuse | date = 2009 | publisher = CRC Press | location = Boca Raton | isbn = 978-0-8493-7881-2 | pages = 229–230 | edition = 4th | url ={{google books |plainurl=y |id=G9E7gfJq0KkC|page=229}}}} < /ref > < ref name= " DSM-5 definitions + addiction-dependence distinction + Caffeine use disorder " > {{cite web|author=American Psychiatric Association |title=Substance-Related and Addictive Disorders |url=http://www.dsm5.org/documents/substance%20use%20disorder%20fact%20sheet.pdf |publisher=American Psychiatric Publishing |access-date=10 July 2015 |pages=1–2 |date=2013 |quote=Substance use disorder in DSM-5 combines the DSM-IV categories of substance abuse and substance dependence into a single disorder measured on a continuum from mild to severe. & nbsp;... Additionally, the diagnosis of dependence caused much confusion. Most people link dependence with  " addiction "  when in fact dependence can be a normal body response to a substance. & nbsp;... DSM-5 will not include caffeine use disorder, although research shows that as little as two to three cups of coffee can trigger a withdrawal effect marked by tiredness or sleepiness. There is sufficient evidence to support this as a condition, however it is not yet clear to what extent it is a clinically significant disorder. |url-status=dead |archive-url=https://web.archive.org/web/20150815050402/http://www.dsm5.org/Documents/Substance%20Use%20Disorder%20Fact%20Sheet.pdf |archive-date=15 August 2015  }} < /ref > < ref name= " CRC Press " > {{cite book | title = Introduction to Pharmacology | edition = third | date = 2007 | publisher = CRC Press | location = Abingdon | isbn = 978-1-4200-4742-4 | pages = 222–223 | url = https://books.google.com/books?id=qfrLBQAAQBAJ & pg=PA222 }} < /ref > < br / > 
+ [[Psychological dependence|Psychological]]: low < ref name= " pmid15448977 " > {{cite journal | vauthors = Juliano LM, Griffiths RR | title = A critical review of caffeine withdrawal: empirical validation of symptoms and signs, incidence, severity, and associated features | url = https://archive.org/details/sim_psychopharmacology_2004-10_176_1/page/1 | journal = Psychopharmacology | volume = 176 | issue = 1 | pages = 1–29 | date = October 2004 | pmid = 15448977 | doi = 10.1007/s00213-004-2000-x| s2cid = 5572188 }} < /ref > 
+ | addiction_liability =Low < ref name= " CRC Press " / >  / none < ref name= " Nestler caffeine dependence-addiction "  / > < ref name= " Clinical addiction  &  dependence "  / > < ref name= " DSM-5 definitions + addiction-dependence distinction + Caffeine use disorder "  / > 
+ | routes_of_administration = [[Oral route|By mouth]], [[Insufflation (medicine)|insufflation]], [[coffee enema|enema]], [[Suppository|rectal]], [[intravenous]] 
+ | class = [[Stimulant]] 
+ | ATC_prefix = N06B 
+ | ATC_suffix = C01 
+ | ATC_supplemental = {{ATC|D11|AX26}}, {{ATC|V04|CG30}} 
+ 	 
+ < !--Pharmacokinetic data-- > 
+ | onset = ~1 hour < ref name =  " Poleszak 2015 " / > 
+ | bioavailability = 99% < ref name =  " Poleszak 2015 " / > 
+ | protein_bound = 25–36% < ref name= " Drugbank-Caffeine "  / > 
+ | metabolism = Primary: [[CYP1A2]] < ref name= " Drugbank-Caffeine "  / > < br / > Minor: [[CYP2E1]], < ref name= " Drugbank-Caffeine "  / >  [[CYP3A4]], < ref name= " Drugbank-Caffeine "  / > < br / > [[CYP2C8]], < ref name= " Drugbank-Caffeine "  / >  [[CYP2C9]] < ref name= " Drugbank-Caffeine "  / > 
+ | elimination_half-life = Adults: 3–7 & nbsp;hours < ref name= " Drugbank-Caffeine " > {{cite web | title=Caffeine | url=http://www.drugbank.ca/drugs/DB00201#pharmacology | website=DrugBank | publisher= University of Alberta | access-date=8 August 2014 | date=16 September 2013 }} < /ref > < br / > Infants (full term): 8 & nbsp;hours < ref name= " Drugbank-Caffeine "  / > < br / > Infants (premature): 100 & nbsp;hours < ref name= " Drugbank-Caffeine "  / > 
+ | excretion = Urine (100%) 
+ | duration_of_action = 3–4 hours < ref name= " Poleszak 2015 " > {{cite journal | vauthors = Poleszak E, Szopa A, Wyska E, Kukuła-Koch W, Serefko A, Wośko S, Bogatko K, Wróbel A, Wlaź P | title = Caffeine augments the antidepressant-like activity of mianserin and agomelatine in forced swim and tail suspension tests in mice | journal = Pharmacological Reports | volume = 68 | issue = 1 | pages = 56–61 | date = February 2016 | pmid = 26721352 | doi = 10.1016/j.pharep.2015.06.138 }} < /ref > 
+ | metabolites = [[Paraxanthine]] (84%) < br / > [[Theobromine]] (12%) < br / > [[Theophylline]] (4%) 
+ 
+ < !--Identifiers-- > 
+ | CAS_number_Ref = {{cascite|correct|??}} 
+ | CAS_number = 58-08-2 
+ | PubChem = 2519 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB00201 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 2424 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 3G6A5W338E 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = D00528 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 27732 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 113 
+ | PDB_ligand = CFF 
+ | IUPHAR_ligand = 407 
+ | synonyms = Guaranine < !--Pubchem-- > < br / > Methyltheobromine < !--Pubchem-- > < br / > 1,3,7-Trimethylxanthine < !--Pubchem-- > < br / > 7-methyltheophylline < ref > {{cite web |title=Caffeine |url=http://www.chemspider.com/Chemical-Structure.2424.html |website=ChemSpider |access-date=16 November 2021}} < /ref >  Theine 
+ 
+ < !--Chemical data-- > 
+ | IUPAC_name = 1,3,7-Trimethylpurine-2,6-dione < !--Refs: Pubchem  &  IUPHAR ligand-- > 
+ |C=8 
+ |H=10 
+ |N=4 
+ |O=2 
+ | smiles = CN1C=NC2=C1C(=O)N(C(=O)N2C)C 
+ | StdInChI_Ref = 
+ | StdInChI = 1S/C8H10N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2/h4H,1-3H3 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = RYYVLZVUVIJVGH-UHFFFAOYSA-N 
+ 
+ < !--Chemical data-- > 
+ | density = 1.23 < !--Reference:  < ref > {{cite web|url=http://www.ilo.org/legacy/english/protection/safework/cis/products/icsc/dtasht/_icsc04/icsc0405.htm |title=Caffeine |publisher=International Occupational Safety and Health Information Centre (CIS)}} < /ref > -- > 
+ | solubility =  < !--This field will append  " & nbsp;mg/mL (20 & nbsp;°C) "  to the end of any value-- > 
+ | melting_point = 235 
+ | melting_high = 238  < !--Ref:Pubchem-- > 
+ | melting_notes = (anhydrous) < ref name= " Pubchem properties " > {{cite web|title=Caffeine|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?q=all & cid=2519#x27|website=Pubchem Compound|publisher=NCBI|access-date=16 October 2014|quote= < br / > '''Boiling Point''' < br / > 178 & nbsp;°C (sublimes) < br / > '''Melting Point''' < br / > 238 DEG C (ANHYD)}} < /ref > < ref name= " ChemSpider " > {{cite web|title=Caffeine|url=http://www.chemspider.com/Chemical-Structure.2424.html|website=ChemSpider|publisher=Royal Society of Chemistry|access-date=16 October 2014|quote=Experimental Melting Point: < br / > 234–236 °C Alfa Aesar < br / > 237 °C Oxford University Chemical Safety Data < br / > 238 °C LKT Labs [C0221] < br / > 237 & nbsp;°C Jean-Claude Bradley Open Melting Point Dataset 14937 < br / > 238 & nbsp;°C Jean-Claude Bradley Open Melting Point Dataset 17008, 17229, 22105, 27892, 27893, 27894, 27895 < br / > 235.25 & nbsp;°C Jean-Claude Bradley Open Melting Point Dataset 27892, 27893, 27894, 27895 < br / > 236 & nbsp;°C Jean-Claude Bradley Open Melting Point Dataset 27892, 27893, 27894, 27895 < br / > 235 & nbsp;°C Jean-Claude Bradley Open Melting Point Dataset 6603 < br / > 234–236 & nbsp;°C Alfa Aesar A10431, 39214 < br / > Experimental Boiling Point: < br / > 178 °C (Sublimes) Alfa Aesar < br / > 178 °C (Sublimes) Alfa Aesar 39214}} < /ref > 
+ | boiling_point =  < !--178 Ref:Pubchem-- > 
+ | boiling_notes =  < !--([[sublimation (chemistry)|sublimes]])-- > 
+ }} 
+ [[File:Coffea arabica 003.JPG|thumb|Coffee plant (Coffea arabica), with fruits. The fruits, which are used to make coffee, contain caffeine.]] 
+ '''Caffeine''' is a [[central nervous system]] (CNS) [[stimulant]]. It is in the [[Xanthine|methylxanthine]] class. It is found in many [[plant]]s, and is used in drinks like [[coffee]], some [[tea]]s, some [[soft drink]]s, and [[energy drink]]s. It can be harmful for both humans and animals if a large amount is consumed. If a person ate 10-13 grams of caffeine quickly, between 80 and 100 cups of [[coffee]], they would [[overdose]] and may die. < ref > {{cite web |url=http://www.livescience.com/32165-can-caffeine-kill-you.html |title=Can caffeine kill you? |date= 25 September 2012 |work=Livescience.com |access-date=19 February 2016}} < /ref >  It is the world's most popular [[psychoactive drug]], and is legal in nearly all of the world. < ref name= " abc.net " > {{cite news |title=What's your poison: caffeine |publisher=Australian Broadcasting Corporation |year=1997 |url=http://www.abc.net.au/quantum/poison/caffeine/caffeine.htm |access-date=15 January 2014 | vauthors = Burchfield G | veditors = Meredith H |archive-url=https://web.archive.org/web/20090726194701/http://www.abc.net.au/quantum/poison/caffeine/caffeine.htm |archive-date=26 July 2009 |url-status=dead  }} < /ref >   
+ 
+ == Sources == 
+ Caffeine is the main drug that is in [[coffee]]. Coffee comes from a tree. The seeds of the tree are roasted to make coffee. 
+ 
+ Caffeine comes from other plants as well. It is in guarana, yerba maté, [[cacao]], and some plants used to make [[tea]]. The plants use caffeine as a ''[[pesticide]]''. This is a chemical that kills insects if they eat the plant. It is the way the plant protects itself. 
+ 
+ Caffeine was first extracted from cocoa beans into its purest form which is a white powder and the word originated from the German word “kaffee” and the French word “café” which both mean caffeine. < ref > {{Cite news|url=https://caffeineandyou.wordpress.com/historyandbackground/|title=History and Background|date=2012-09-12|work=Caffeine|access-date=2018-11-18|language=en-US}} < /ref > 
+ 
+ It is called '''guaranine''' when it comes from the [[guarana]] plant and '''theine''' when it comes from a [[tea]] plant. It is called '''mateine''' in the [[mate (drink)|mate drink]]. This drink is an infusion made with [[Yerba mate]]. 
+ 
+ == What caffeine is == 
+ [[File:Koffein - Caffeine.svg|thumb|right|Caffeine [[molecule]] ]] 
+ Caffeine is a ''stimulant'' [[drug]]. A stimulant is a drug that increases body actions like [[heart]] rate, [[blood pressure]], and [[metabolism]]. It makes a person more awake and alert. 
+ 
+ Caffeine also is a [[diuretic]]. This means it makes a person make more [[urine]] (the waste liquid a person makes). 
+ 
+ The caffeine [[chemical]] is called a ''xanthine alkaloid''. This is a group of chemicals that are stimulants. Some xanthine alkaloids (like theophylline) are used to help [[asthma]]. 
+ 
+ == What caffeine is used for == 
+ The biggest use of caffeine is as a stimulant. People drink coffee and other drinks with caffeine to stay awake. 
+ 
+ [[Medical doctor|Doctors]] sometimes use caffeine as a [[medicine]]. It is used for [[headache]]s (head pain). It is sometimes used to help premature (born ''very'' early) babies to breathe. The short-term risk of this treatment seems to be that the babies treated gain less weight than usual. < ref > {{cite journal|last1=Schmidt|first1=B|last2=Roberts|first2=RS|last3=Davis|first3=P|last4=Doyle|first4=LW|date=May 18, 2006|title=Caffeine therapy for apnea of prematurity|journal=New England Journal of Medicine|volume=354|issue=20|pages=2112–21|doi=10.1056/NEJMoa054065|pmid=16707748|s2cid=22587234|url=https://archive-ouverte.unige.ch/unige:46930}} < /ref > 
+ 
+ Caffeine is sometimes given to people after a [[lumbar puncture]]. This is a test to see if someone has [[meningitis]]. 
+ 
+ In the beginning caffeine was found to relieve hunger, so it was used for weight loss. That did not last because people were using too much. Caffeine can be a very dangerous drug when not used in the right way. 
+ 
+ Caffeine also has medicinal properties. It is used in many over the counter medicines, such as Excedrin, Midol and Anacin. When combined with other [[analgesic]]s, caffeine can help to alleviate headaches and cramps. 
+ 
+ == Problems with caffeine == 
+ [[File:Caffeinated spiderwebs.jpg|thumb|right|Caffeine is a problem for [[spider]]s. The image above shows a spiderweb which was woven by a normal spider. The image below shows a web of a spider that had received Caffeine in an [[Animal testing|experiment]]]] 
+ The largest problem with caffeine is [[addiction]]. This is when people get bad [[symptom]]s when they do not have the drug. When people have ''withdrawal'' (feel bad because they do not have the drug) they drink more. This makes them feel better. But if they cannot get more, they are likely to feel some of the symptoms listed below: 
+ * [[Headache]]s 
+ * Being tired or need to sleep 
+ * Caffeine inhibits sleep and in the long-term alters brain functions 
+ ** Sleep deprivation leads to a weakened connectivity between the amygdala and medial prefrontal cortex which regulate mood and emotion. 
+ *** This causes the consumer to feel irritable, tired, restlessness, and anxious. 
+ * [[Nausea]] (feeling like [[vomit]]ing) 
+ 
+ Caffeine can also hurt people if they drink a lot at once. If someone takes too much of a drug at once it is called an ''[[overdose]]''. Caffeine overdose is a [[medical diagnosis]]. It is called: ''Caffeine-Induced Organic Mental Disorder'' or ''Caffeine Intoxication''. People with this can have these symptoms: 
+ * Very bad feelings like: 
+ ** ''[[Paranoia]]'' (feeling as if people are about to hurt the person) 
+ ** ''Restlessness'' or ''nervousness'' (with the person feeling like he cannot sit down or rest) 
+ ** ''[[Anxiety]]'' (very bad worry) 
+ * [[Muscle]] movements that cannot be stopped 
+ * Very fast [[heart]] rate 
+ * Abnormal heart rhythms (even heart stopping) 
+ * Very high blood pressure 
+ * [[Vomiting]] 
+ * [[Confusion]] (not knowing who the person is or where he/she is) 
+ 
+ == Caffeine helps for == 
+ Caffeine also has some strong advantages: < ref > {{Cite news|url=https://coffeecorner.com/general/advantages-disadvantages-drinking-coffee/|title=The Advantages and Disadvantages Of Drinking Coffee {{!}} Coffee Corner|date=2017-10-26|newspaper=Coffee Corner|access-date=2017-12-03|language=en-US}} < /ref > 
+ * Lower risk of [[Coronary artery disease|coronary disease]] 
+ * Cut [[stroke]] risk 
+ * Speed up metabolism 
+ * Increases memory 
+ * Helps ward off [[Alzheimer's disease|Alzheimer’s]] 
+ * Reduces kidney stone risk 
+ 
+ == How much caffeine is safe == 
+ 250–300 & nbsp;mg of caffeine a day is a ''moderate'' amount. That is as much caffeine that is in three cups of coffee (8oz each cup). More than 750–1000 & nbsp;mg a day is a significant amount, but is very unlikely to kill someone. The [[LD50|Lethal Dose 50]] of caffeine is 192 & nbsp;mg per kilogram, in rats. In humans, it is between 150 and 200 & nbsp;mg per kilogram (70-90 per pound.) 
+ 
+ Caffeine is in many drinks and foods. This is ''approximate'' amounts of caffeine in some food and drink: 
+ 
+ * Brewed coffee – 40 to 220 & nbsp;mg in a cup 
+ * Instant coffee – 30 to 120 & nbsp;mg in a cup 
+ * ''Decaffeinated'' coffee (with most caffeine taken out) – 3 to 5 & nbsp;mg in a cup 
+ * Tea – 20 to 110 & nbsp;mg in a cup 
+ * Soda drinks with caffeine – 36 to 90 & nbsp;mg in 12 ounces. Some people think that soft drinks which are light in color do not contain caffeine. This is not always true. 
+ * Milk [[chocolate]] – 3 to 6 & nbsp;mg in an ounce 
+ * Bittersweet chocolate – 25 & nbsp;mg in an ounce 
+ 
+ One ounce – [[abbreviation|abbreviated]] oz – is 30 & nbsp;ml. 
+ 
+ A 'cup' is 8 oz (240 & nbsp;ml.) 
+ 
+ == Different ways to get 200mg of caffeine == 
+ {| class= " toccolours "  border= " 1 "  style= " margin: 0 2em 1em 0; border-collapse: collapse; font-size: 90% " 
+ !Caffeine equivalents < ref name= " Caffeine Content of Food and Drugs " > {{cite web |title=Caffeine Content of Food and Drugs |work=Nutrition Action Health Newsletter |publisher=Center for Science in the Public Interest|date=December 1996 |url=http://www.cspinet.org/nah/caffeine/caffeine_content.htm |archive-url=https://web.archive.org/web/20070614144016/http://www.cspinet.org/nah/caffeine/caffeine_content.htm |archive-date=2007-06-14 | access-date = 2006-08-22 }} < /ref > < ref name= " Erowid Caffeine Content " > {{cite web|title=Caffeine Content of Beverages, Foods,  &  Medications|publisher=The Vaults of Erowid|date=July 7, 2006|url=http://www.erowid.org/chemicals/caffeine/caffeine_info1.shtml|access-date=2006-08-22}} < /ref > 
+ |- 
+ |In general, each of the following contains approximately 200 & nbsp;[[kilogram#SI multiples|milligrams]] of caffeine: 
+ < div class= " toccolors "  style= " -moz-column-count:2; column-count:2; " > 
+ * '''One''' 200 & nbsp;milligram caffeine pill 
+ * '''One''' 2.5 [[fluid ounce]] & nbsp;Upshot energy shot (75 & nbsp;[[Milliliter#SI prefixes applied to the litre|millilitres]]). 
+ * '''One''' 12 [[fluid ounce]] cup of regular [[Starbucks]] coffee (355 & nbsp;[[Milliliter#SI prefixes applied to the litre|millilitres]]) Pike Place – 235 & nbsp;mg  Blonde Roast – 270 & nbsp;mg 
+ * '''One and a half''' [[Pound (mass)|pounds]] of [[chocolate|milk chocolate]] < sup > [a] < /sup >  (680 & nbsp;[[gram]]s) 
+ * '''Two''' 8 fluid ounce containers of regular [[coffee]] (470 & nbsp; millilitres) 
+ * '''Five''' 1 fluid ounce shots of [[espresso]] from [[Coffee|robusta]] beans (150 & nbsp;millilitres) 
+ * '''Eight and a half''' 8 fluid ounce cups of [[Coca-Cola]] Classic (68 fl oz is approximately 2.0 & nbsp;litres) 
+ * '''Ten''' 8 fluid ounce cups of [[green tea]] < sup > [b] < /sup >  (2.4 & nbsp;litres) 
+ * '''Fifty''' 8 fluid ounce cups of [[decaf]]feinated coffee (12 & nbsp;litres) 
+ < /div > 
+ Notes: 
+ 
+ A ''fluid ounce'' is between 28 and 30 millilitres. 
+ 
+ a. There may also be large amounts of other chemicals, similar to caffeine in [[Chocolate]] and other products of [[cacao]]. There is [[theobromine]] in cacao, for example. These substances can have effects similar to those of caffeine. 
+ 
+ b. Most tea drunk in North America is not very strong. The figures  are for this kind of tea. The tea drunk in most other places of the world is stronger; for these kinds of tea, the figures are probably too small. 
+ |} 
+ 
+ == References == 
+ < references responsive= " "  / > 
+ 
+ == Other websites == 
+ === Scientific information === 
+ * [http://www.emedicine.com/med/topic3115.htm eMedicine Caffeine-Related Psychiatric Disorders] 
+ * [http://www.druglibrary.org/schaffer/Library/studies/cu/CU21.html The Consumers Union Report on Licit and Illicit Drugs, Caffeine-Part 1] [http://www.druglibrary.org/schaffer/Library/studies/cu/CU22.html Part 2] 
+ * [http://www.physsportsmed.com/issues/1997/11nov/caffeine.htm ''The Physician and Sportsmedicine'': Caffeine: A User's Guide] {{Webarchive|url=https://web.archive.org/web/20080621111946/http://www.physsportsmed.com/issues/1997/11nov/caffeine.htm |date=2008-06-21 }} 
+ * [http://www.garynull.com/Documents/CaffeineEffects.htm Caffeine: Psychological Effects, Use  &  Abuse] {{Webarchive|url=https://web.archive.org/web/20070403134842/http://www.garynull.com/documents/CaffeineEffects.htm |date=2007-04-03 }} 
+ * [http://www.hopkinsmedicine.org/Press_releases/2004/09_29_04.html Caffeine Withdrawal Recognized as a Disorder] 
+ * [http://www.benbest.com/health/caffeine.html Is Caffeine a Health Hazard?] 
+ 
+ === Others === 
+ * [https://ykhoablog.com/tin-tuc/caffeine-co-tac-dong-gi-den-co-the-ban/ Caffeine Withdrawal Symptoms] 
+ * [http://home.howstuffworks.com/caffeine.htm Caffeine: How Stuff Works] 
+ * [https://brokebutshredded.com/caffeine-the-most-popular-psychoactive-drug/ Caffeine: The most popular psychoactive drug, Broke but Shredded, January 2022] {{Webarchive|url=https://web.archive.org/web/20220131211243/https://brokebutshredded.com/caffeine-the-most-popular-psychoactive-drug/ |date=2022-01-31 }} 
+ * [http://www.erowid.org/chemicals/caffeine/caffeine.shtml Erowid Caffeine Vaults] 
+ * [http://www.caffeinated.jp/ #caffeine! - The Caffeine Information Archive] {{Webarchive|url=https://web.archive.org/web/20080209023959/http://caffeinated.jp/ |date=2008-02-09 }} 
+ * [http://www.thenakedscientists.com/html/columnists/dalyacolumn2.htm Naked Scientists Online: Why do plants make caffeine?] 
+ * [http://historyofalcoholanddrugs.typepad.com/alcohol_and_drugs_history/caffeine/index.html Alcohol and Drugs History Society: Caffeine news page] 
+ * [https://www.npr.org/templates/story/story.php?storyId=6155178 Coffee: A Little Really Does Go a Long Way, NPR, September 28, 2006] 
+ * [http://www.express.co.uk/posts/view/4664/Does-coffee-really-give-you-a-buzz- Does coffee really give you a buzz? by John Triggs in the Daily Express April 17 2007] 
+ * Burgower, Rachael. “The Effects of Energy Drinks on Sleep and Daily Functioning.” , 2014, pp. & nbsp;1–59. {{ProQuest|1642026146}} 
+ 
+ === News === 
+ * [http://www.canada.com/nationalpost/news/story.html?id=30d6d514-1c68-441a-bbec-5b80ae23627f & k=45911 National Post: Caffeine linked to psychiatric disorders] {{Webarchive|url=https://web.archive.org/web/20100822165143/http://www.canada.com/nationalpost/news/story.html?id=30d6d514-1c68-441a-bbec-5b80ae23627f & k=45911 |date=2010-08-22 }} 
+ 
+ {{Spoken article|Simple en Caffeine.oga|1 January 2008}} 
+ {{Alkaloids}} 
+ {{authority control}} 
+ 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:Psychoactive drugs]] 
+ [[Category:Former good articles]]

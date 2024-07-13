@@ -1,0 +1,96 @@
+{{Taxobox 
+ | name = Pipidae 
+ | image = Amplexus of ADF.jpg 
+ | image_caption = African Dwarf Frog 
+ | fossil_range = {{Fossilrange|145|0}}Lower [[Cretaceous]] to Recent 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Amphibia]] 
+ | subclassis = [[Lissamphibia]] 
+ | superordo = [[Batrachia]] 
+ | ordo = [[Anura]] 
+ | subordo = [[Mesobatrachia]] 
+ | familia = '''Pipidae''' 
+ | range_map = PIPIDAE_range.png 
+ | range_map_caption = Distribution of Pipidae (in black). 
+ }} 
+ The '''Pipidae''' is a [[family (biology)|family]] of [[frog]]s. They do not have [[tongue]]s. There are over 30 [[species]] of Pipidae frogs. They are found in [[tropical]] places in [[South America]] and [[Africa]]. 
+ 
+ == Genera == 
+ Family '''Pipidae''' 
+ * ''[[African dwarf frog|Hymenochirus]]'' - Dwarf clawed frogs 
+ * ''[[Pseudhymenochirus merlini|Pseudhymenochirus]]'' - Merlin's clawed frog 
+ * ''[[Xenopus]]'' - Common clawed frogs 
+ * ''[[Silurana]]'' - Tropical clawed frogs 
+ * ''[[Surinam toad|Pipa]]'' - Surinam toads 
+ 
+ == References == 
+ *{{cite journal 
+  | title = Mitochondrial phylogeny of Anura (Amphibia): A case study of congruent phylogenetic reconstruction using amino acid and nucleotide characters 
+  | doi = 10.1016/j.gene.2005.07.034 
+  | journal = Gene  
+  | volume = 366  
+  | pages = 228–237 
+  |date=February 2006 
+   
+  | pmid = 16307849 
+  | issue = 2 
+ | last1 = Gissi 
+  | first1 = Carmela 
+  | last2 = San Mauro 
+  | first2 = Diego 
+  | last3 = Pesole 
+  | first3 = Graziano 
+  | last4 = Zardoya 
+  | first4 = Rafael 
+  }} 
+ *{{cite journal 
+  | title = Archaeobatrachian paraphyly and pangaean diversification of crown-group frogs 
+  | url = https://archive.org/details/sim_systematic-biology_2005-02_54_1/page/111 
+  | journal = Systematic Biology  
+  | volume = 54  
+  | pages = 111–126 
+  |date=February 2005 
+   
+  | doi = 10.1080/10635150590905894 
+  | pmid = 15805014 
+  | issue = 1 
+ | last1 = Roelants 
+  | first1 = Kim 
+  | last2 = Bossuyt 
+  | first2 = Franky 
+  | s2cid = 10677785 
+  }} 
+ *{{cite journal 
+  | title = Initial diversification of living amphibians predated the breakup of Pangaea 
+  | url = https://archive.org/details/sim_american-naturalist_2005-05_165_5/page/590 
+  | journal = American Naturalist 
+  | volume = 165 
+  | pages = 590–599 
+  |date=May 2005 
+   
+ | doi = 10.1086/429523 
+  | pmid = 15795855 
+  | issue = 5 
+ | s2cid = 17021360 
+  | last1 = San Mauro 
+  | first1 = Diego 
+  | last2 = Vences 
+  | first2 = Miguel 
+  | last3 = Alcobendas 
+  | first3 = Marina 
+  | last4 = Zardoya 
+  | first4 = Rafael 
+  | last5 = Meyer 
+  | first5 = Axel 
+  }} 
+ 
+ ==Other websites== 
+ {{commonscat-inline}} 
+ 
+ {{Frogs}} 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Frogs of South America]] 
+ [[Category:Frogs of Africa]]

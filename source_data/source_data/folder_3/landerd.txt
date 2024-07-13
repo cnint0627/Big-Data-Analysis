@@ -1,0 +1,95 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Landerd 
+ | settlement_type         = Former municipality 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           =  
+ | image_alt               =  
+ | image_caption           =  
+ | image_flag              = Flag of Landerd.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Landerd wapen.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 1685 (2009).svg 
+ | map_alt                 = Highlighted position of Landerd in a municipal map of North Brabant 
+ | map_caption             = Location in North Brabant 
+ | coordinates             = {{coord|51|42|N|5|40|E|region:NL|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|North Brabant}} 
+ | established_title       = Established 
+ | established_date        = 1 January 1994 
+ | government_footnotes    =  < ref name= " mayor_now " > {{cite web 
+  |url = http://www.landerd.nl/bestuur-en-organisatie/samenstelling-college_42039/ 
+  |title = Samenstelling college 
+  |trans-title = Members of the board 
+  |language = nl 
+  |publisher = Gemeente Landerd 
+  |access-date = 29 May 2014 
+  |archive-date = 26 December 2018 
+  |archive-url = https://web.archive.org/web/20181226031454/https://www.landerd.nl/bestuur-en-organisatie/samenstelling-college_42039/%0a 
+  |url-status = dead 
+  }} < /ref > 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Landerd}} 
+ | area_land_km2           = {{Dutch municipality land area|Landerd}} 
+ | area_water_km2          = {{Dutch municipality water area|Landerd}} 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web 
+  |url=http://www.ahn.nl/postcodetool  
+  |title=Postcodetool for 5411EA  
+  |language=nl  
+  |work=Actueel Hoogtebestand Nederland  
+  |publisher=Het Waterschapshuis  
+  |access-date=29 May 2014  
+  |url-status=dead  
+ |archive-url=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool  
+  |archive-date=21 September 2013  
+ }} < /ref > 
+ | elevation_m             = 20 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Landerd}} 
+ | population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|Landerd}}  < !-- For automatic calculation: auto-- > 
+ | population_blank1_title = [[Uden-Veghel]] 
+ | population_blank1       = 175119 
+ | population_demonym      =  
+ < !-- Other information -- > 
+ | timezone                = [[Central European Time|CET]] 
+ | utc_offset              = +1 
+ | timezone_DST            = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST          = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 5374–5375, 5410–5411 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 0486 
+ | website                 = {{URL|1=http://www.landerd.nl}} 
+ | footnotes               = 
+ }} 
+ '''Landerd''' is a former municipality in the [[Netherlands|Dutch]] [[Provinces of the Netherlands|province]] of [[North Brabant]]. In 2021, about 15,800 people lived there. 
+ 
+ Landerd has been a part of [[Maashorst]] since 2022. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:21st-century disestablishments in the Netherlands]] 
+ [[Category:Former municipalities of North Brabant]] 
+ [[Category:Maashorst]]

@@ -1,0 +1,77 @@
+{{complex|date=March 2012}} 
+ [[File:E innga kyo.jpg|thumb|320px|''The Illustrated Sutra of Cause and Effect''. An image done in the 8th century in Japan showing cause and effect.]] 
+ [[File:Domino Cascade.JPG|thumb|Tipping the first domino stone will cause the second one to fall, which will cause the third one to fall, etc.]] 
+ 
+ '''Causality''' is a way to describe how different [[event]]s relate to one another. Suppose there are two events ''A'' and ''B''. If ''B'' happens because ''A'' happened, then people say that A ''is the cause'' of B, or that B ''is the effect of'' A. 
+ 
+ What looks very simple, is in fact a difficult problem. Many people have tried to solve it, they have come up with different solutions 
+ 
+ == Causality in Philosophy == 
+ === Aristotle === 
+ 
+ [[Aristotle]] was a [[Ancient Greece|Greek]] philosopher. He also looked at the problem of causality. In his books ''Posterior analytics'' and ''Metaphysics'' he wrote: 
+ *  " All causes are beginnings... " < ref > Aristotle, ''Metaphysics, Book V, Part 1.'' < /ref > 
+ *  " ... we have scientific knowledge when we know the cause... " < ref > Aristotle, ''Posterior Analytics, Book 2, Part 11.'' < /ref > 
+ *  " ... to know a thing's nature is to know the reason why it is... " < ref > Aristotle, ''Posterior Analytics, Book 2, Part 2.'' < /ref > 
+ This can be used to explain causality. Aristotle found different kinds of causes: 
+ < !-- 
+ This formulation set the guidelines for subsequent causal theories by specifying the number, nature, principles, elements, varieties, order of causes as well as the modes of causation. Aristotle's account of the causes of things is a comprehensive model. 
+ 
+ Aristotle's theory enumerates the possible causes which fall into several wide groups, amounting to the ways the question  " why "  may be answered; namely, by reference to the material worked upon (as by an artisan) or what might be called the ''substratum''; to the ''essence'', i.e., the pattern, the form, or the structure by reference to which the  " matter "  or  " substratum "  is to be worked; to the primary moving agent of ''change'' or the agent and its action; and to the goal, the plan, the end, or the good that the figurative artisan intended to obtain. As a result, the major kinds of causes come under the following divisions: 
+ -- > 
+ * The [[material cause]] is that  " raw material "  from which a thing is made.  < !-- as from its parts, constituents, substratum, or materials. This rubric limits the explanation of cause to the parts (the factors, elements, constituents, ingredients) forming the whole (the system, structure, compound, complex, composite, or combination) -- >  This is sometimes called  the ''part-whole causation''. Example: The [[bronze]] of a [[statue]]. 
+ * The [[formal cause]] tells us what, by using the example of an artist, a thing is planned to be.  < !-- Any thing is thought to be determined by its definition, form (mold), pattern, essence, whole, synthesis, or archetype. This analysis embraces the account of causes in terms of fundamental principles or general laws, as the intended whole (macrostructure) is the cause that explains the production of its parts -- >  This is sometimes called ''the whole-part causation''. Example the [[shape]] of a statue. 
+ * The [[efficient cause]] is that external thing that causes the change in the first place. It shows ' what causes change of what is changed'. It covers all possible types of things, and is the modern definition of ''cause''.  < !--and so suggests all sorts of agents, nonliving or living, acting as the sources of change or movement or rest. Representing the current understanding of causality as the relation of cause and effect, this analysis covers the modern definitions of  " cause "  as either the agent, agency, particular causal events, or the relevant causal states of affairs. -- >  Example: the artisan making the statue, the art of bronze-working, the man who gives the advice, the father of a child. 
+ * The [[final cause]] describes why something exists.  < !-- - including both purposeful and instrumental actions.-- >  The final cause, or telos, is the purpose < !--, or end, -- >  of the thing.  < !-- ; or it is that from which, and that to which, the change is. -- >  This includes modern ideas of causation, such as wanting or needing something to be, or those that give a purpose to behaviour  < !-- This analysis also covers modern ideas of mental causation involving such psychological causes as volition, need, motivation, or motives; rational, irrational, ethical - all that gives purpose to behavior. -- >  Example: The reason why the artist wanted to make the statue. 
+ 
+ Aristotle told people of two types of causes: proper (prior) causes and accidental (chance) causes. Both types of causes, can be spoken as potential or as actual, particular or generic. The same language refers to the effects of causes; so that generic effects assigned to generic causes, particular effects to particular causes, and operating causes to actual effects. It is also essential that ontological causality does not suggest the temporal relation of before and after - between the cause and the effect; that spontaneity (in nature) and chance (in the sphere of moral actions) are among the causes of effects belonging to the efficient causation, and that no incidental, spontaneous, or chance cause can be prior to a proper, real, or underlying cause ''per se''. 
+ 
+ All investigations of causality coming later in history will consist in imposing a favorite hierarchy on the order (priority) of causes; such as  " final  >  efficient  >  material  >  formal "  (Aquinas), or in restricting all causality to the material and efficient causes or, to the efficient causality (deterministic or chance), or just to regular sequences and correlations of natural phenomena (the natural sciences describing ''how'' things happen rather than asking ''why'' they happen). 
+ 
+ === David Hume === 
+ [[David Hume]] was another philosopher who looked at the relation between cause and effect. Hume thinks that there are certain things all such relations of cause and effect have in common.: < ref > [[s:en:Treatise of Human Nature/Book 1: Of the understanding/Part III#Sect. II: Of probability.3B and of the idea of cause and effect.|Hume, ''Treatise'' 1.3.2]] < /ref > 
+ * Cause and effect must be located close to each other. It is possible that causes far away have an effect close by, but they can only do this by a chain of cause-effect reactions. 
+ * The effect always comes after the cause. 
+ * There is a third element, called force or necessity. [[Water]] is usually [[fluid]] and [[transparent]]. From these properties, it is not apparent however that a man can [[suffocation|suffocate]] in it. < ref > [[s:en:An Enquiry Concerning Human Understanding#PART I.|Hume, ''Enquiry'' 4.1]] < /ref > 
+ 
+ Hume says that if someone is used to always seeing the same things occur in the same order, he will get accustomed to them being in that order. When he sees one event occur, he will expect the other to occur as well: 
+ {{cquote|I immediately perceive, that they are contiguous in time and place, and that the object we call cause precedes the other we call effect. In no one instance can I go any farther, nor is it possible for me to discover any third relation betwixt these objects. I therefore enlarge my view to comprehend several instances; where I find like objects always existing in like relations of contiguity and succession. At first sight this seems to serve but little to my purpose. The reflection on several instances only repeats the same objects; and therefore can never give rise to a new idea. But upon farther enquiry I find, that the repetition is not in every particular the same, but produces a new impression, and by that means the idea, which I at present examine. For after a frequent repetition, I find, that upon the appearance of one of the objects, the mind is determin’d by custom to consider its usual attendant, and to consider it in a stronger light upon account of its relation to the first object. ‘Tis this impression, then, or determination, which affords me the idea of necessity.|40|40|David Hume, [[s:en:Treatise of Human Nature/Book 1: Of the understanding/Part III#Sect. XIV: Of the idea of necessary connexion.|''Treatise'' 1.3.14]]}} 
+ 
+ == Causality in Logic == 
+ [[Logic]] is the science that looks at how to build an argument. In Logic, there are usually two different types of causes. They are called ''necessary cause'' and ''sufficient cause''. 
+ # A '''necessary cause''' is a cause that says: ''Whenever B occurs, A will also have occurred''. Knowing that A occurred, on the other hand does not necessarily imply that B will also have occurred.  Example: Senators in the [[United States]] need to be at least 30 years old. People that are younger cannot become senators. Therefore, any senator is at least 30 years old. (On the other hand: there are people that are at least 30 years old  that are not senators). 
+ # A '''sufficient cause''' is a cause that says ''If I know A occurred, I can conclude that B also occurred''. Example:  The center of a playing card is marked with a special symbol, called a large ''spade'' (♠). This is sufficient to say that the card is an [[Ace (card)|ace]].  There are three other cards in the game that are also aces. They are marked with a diamond (♦), a heart (♥), or a club (♣). It is not necessary to know that these three other cards exist or what they mean. On the other hand, there are no cards that are aces, except for those listed. 
+ 
+ == Related pages == 
+ *[[Free will]] 
+ *[[Determinism]] 
+ *[[Karma]] 
+ 
+ == References == 
+ {{reflist|2}} 
+ 
+ == Other websites == 
+ * [http://bayes.cs.ucla.edu/LECTURE/lecture_sec1.htm  " The Art and Science of Cause and Effect " ]: a slide show and tutorial lecture by Judea Pearl 
+ * [http://www.nichirenshueuropa.com  " The Buddhist Dharma of Cause and Effect as seen in the Lotus Sutra " ] {{Webarchive|url=https://web.archive.org/web/20110714181042/http://www.nichirenshueuropa.com/ |date=2011-07-14 }}: a Buddhist school based on this law of life as seen in the Lotus Sutra. Website in Italian and English. 
+ 
+ === Stanford Encyclopedia of Philosophy === 
+ * [http://plato.stanford.edu/entries/aristotle-causality/ Aristotle on Causality] 
+ * [http://plato.stanford.edu/entries/kant-hume-causality/ Kant and Hume on Causality] 
+ * [http://plato.stanford.edu/entries/causation-backwards/ Backwards Causation] 
+ * [http://plato.stanford.edu/entries/causation-probabilistic/ Probabilistic Causation] 
+ * [http://plato.stanford.edu/entries/causation-mani/ Causation and Manipulability] 
+ * [http://plato.stanford.edu/entries/causation-counterfactual/ Counterfactual Theories of Causation] 
+ * [http://plato.stanford.edu/entries/causation-process/ Causal Processes] 
+ * [http://plato.stanford.edu/entries/causation-law/ Causation in the Law] 
+ * [http://plato.stanford.edu/entries/causation-medieval/ Medieval Theories of Causation] 
+ * [http://plato.stanford.edu/entries/causation-metaphysics/ The Metaphysics of Causation] 
+ 
+ === General === 
+ * [http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-37 ''Dictionary of the History of Ideas'':] {{Webarchive|url=https://web.archive.org/web/20071016030133/http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-37 |date=2007-10-16 }} Causation 
+ * [http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-40 ''Dictionary of the History of Ideas'':] {{Webarchive|url=https://web.archive.org/web/20071014204405/http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-40 |date=2007-10-14 }} Causation in Law 
+ * [http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-38 ''Dictionary of the History of Ideas'':] {{Webarchive|url=https://web.archive.org/web/20071016030138/http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-38 |date=2007-10-16 }} Causation in History 
+ 
+ {{Metaphysics}}  
+ 
+ [[Category:Logic]] 
+ [[Category:Causality| ]]

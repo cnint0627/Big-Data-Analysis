@@ -1,0 +1,107 @@
+{{Infobox Settlement 
+ < !--See Template:Infobox Settlement for additional fields that may be available-- > 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |name                   =Bannockburn  < !-- at least one of the first two fields must be filled in -- > 
+ |official_name          = 
+ |other_name             = 
+ |native_name            =   < !-- if different from the English name -- > 
+ |nickname               = 
+ |settlement_type        =Town 
+ |total_type             =  < !-- to set a non-standard label for total area and population rows -- > 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = Wfm bannockburn main street.jpg 
+ |imagesize              = 
+ |image_caption          = The centre of Bannockburn 
+ |image_flag             = 
+ |flag_size              = 
+ |image_seal             = 
+ |seal_size              = 
+ |image_shield           = 
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              = 
+ |mapsize                = 
+ |map_caption            = 
+ |image_map1             = 
+ |mapsize1               = 
+ |map_caption1           = 
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            = Scotland 
+ |pushpin_label_position =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ |pushpin_map_caption    =Location within Scotland 
+ |pushpin_mapsize        = 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = [[United Kingdom]] 
+ |subdivision_type1      = Consistent Country 
+ |subdivision_name1      = [[Scotland]] 
+ |subdivision_type2      = 
+ |subdivision_name2      = 
+ < !-- Smaller parts (e.g. boroughs of a city) and seat of government -- > 
+ |seat_type              = 
+ |seat                   = 
+ |parts_type             = 
+ |parts_style            =  < !-- =list (for list), coll (for collapsed list), para (for paragraph format) 
+                                Default is list if up to 5 items, coll if more than 5-- > 
+ |parts                  =  < !-- parts text, or header for parts list -- > 
+ |p1                     = 
+ |p2                     =  < !-- etc. up to p50: for separate parts to be listed-- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            =   < !--add   (no-break space) to leader names to disable automatic links-- > 
+ |leader_title1          =  
+ |leader_name1           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       = 
+ |area_magnitude         = 
+ |unit_pref                =Imperial < !--Enter: Imperial, to display imperial  before metric-- > 
+ |area_footnotes           = 
+ |area_total_km2           =  < !-- ALL fields with measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on unit conversion-- > 
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ |elevation_footnotes    =   < !--for references: use  < ref >  tags-- > 
+ |elevation_m            = 
+ |elevation_ft           = 
+ |elevation_max_m            = 
+ |elevation_max_ft           = 
+ |elevation_min_m            = 
+ |elevation_min_ft           = 
+ |population_as_of               =2001 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               =7352 
+ |population_density_km2         =  < !--For automatic calculation, any density field may contain: auto -- > 
+ |population_density_sq_mi       = 
+ |timezone               = [[GMT]] 
+ |utc_offset             = +0 
+ |timezone_DST           = 
+ |utc_offset_DST         = 
+ |coor_type              =  < !-- can be used to specify what the coordinates refer to -- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |website                =[http://www.bannockburn.co.uk Bannockburn Community Website] 
+ |footnotes              = 
+ }}  
+ [[File:Fm telford bannockburn.jpg|thumb|right|200px|Telford's circular roadbridge over the Bannock Burn]] 
+ 
+ '''Bannockburn''' is a small town immediately south of the city of [[Stirling]] in [[Scotland]].  It is named after the [[Bannock Burn]], a burn (small stream) running through the town before flowing into the [[River Forth]]. 
+ 
+ {{Commonscat|Bannockburn, Stirling}} 
+ 
+ {{UK-stub}} 
+ {{authority control}} 
+ [[Category:Stirling]] 
+ [[Category:Towns in Scotland]]

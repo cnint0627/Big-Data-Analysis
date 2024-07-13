@@ -1,0 +1,26 @@
+{{Infobox OS version 
+ | name            = JeOS 
+ | family          = Ubuntu Linux 
+ | developer       = Canonical 
+ | website         = [http://www.ubuntu.com/products/whatisubuntu/serveredition/jeos] 
+ | first_release_date = [[October 25]] [[2001]] 
+ | first_release_url = https://lists.ubuntu.com/archives/ubuntu-announce/2007-November/000106.html 
+ | release_version = 12.04 
+ | release_date = April 26, 2012 
+ | release_url = https://lists.ubuntu.com/archives/ubuntu-announce/2012-April/000159.html 
+ | source_model    = [[Open source]] 
+ | license         = [[GNU General Public Licence]] 
+ | kernel_type     = [[Hybrid kernel]] 
+ | support_status  = Supported 
+ }} 
+ '''JeOS''' is a version of [[Ubuntu]] designed for [[Virtualization|virtual machines]]. 
+ 
+ ==Related pages== 
+ * [[Ubuntu]] 
+ 
+ ==Other websites== 
+ * [http://www.ubuntu.com/products/whatisubuntu/serveredition/jeos Official website] 
+ 
+ {{tech-stub}} 
+ [[Category:Linux distributions]] 
+ [[Category:Ubuntu (operating system) derivatives]]

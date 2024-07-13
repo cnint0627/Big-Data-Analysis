@@ -1,0 +1,39 @@
+{{italictitle}} 
+ 
+ {{Infobox VG 
+ |title= Frogger 
+ |image=  
+ |caption=  
+ |developer= [[Konami]] 
+ |publisher= [[Sega]]/[[Gremlin Industries|Gremlin]] 
+ |released= [[1981 in video gaming|1981]] 
+ |genre= Overhead View Action 
+ |modes= Up to 2 players, alternating turns 
+ |platforms= [[Arcade game|Arcade]] 
+ |input= 4-way [[joystick]] 
+ |cabinet= Upright 
+ |arcade system= 
+ |cpu= [[Zilog Z80|Z80]] (@ 3.072 & nbsp;MHz) 
+ |sound= Sound CPU: Z80 (@ 1.78975 & nbsp;MHz)  < br/ >  Sound Chips: [[General Instrument AY-3-8910|AY8910]] (@ 1.78975 & nbsp;MHz) 
+ |display= [[Raster graphics|Raster]], 224 x 256 pixels (Vertical), 99 colors 
+ }} 
+ 
+ '''''Frogger''''' is an [[arcade game|arcade]] [[video game]] made in 1981 by Konami. The player must play as Frogger to get to home. The player must cross a road and a river. If the player is [[roadkill|hit by a car]] or falls into the water, the player must start over. ''Frogger'' is very popular and there are many newer ''Frogger'' games. 
+ 
+ == Gameplay == 
+ 
+ The player guides a frog using a [[joystick]] (a game controller). The frog starts at the bottom of the screen. The frog must first cross a busy road. There are cars that go left and right on the road. If a car hits the frog, it dies and the player must start again. Once the frog crosses the road, the frog must cross a river. There are logs and turtles that move left and right in the [[river]]. The player must jump on top of the logs and turtles to reach the other side. If the player reaches the other side, he gets extra points and can try again. 
+ 
+ There are many ways that the frog can die: 
+ # If a car hits the frog, the frog dies. 
+ # If the frog falls in the water, the frog dies. 
+ # Sometimes, there are snakes, otters, and alligators in the water. If an animal hits the frog, the frog dies. 
+ # Sometimes, the turtles go under the water. If the frog is riding on a turtle when it goes under the water, the frog dies. 
+ # If the frog goes off the edge of the screen, the frog dies. 
+ # The frog can not land in the same spot twice at the top of the screen. If it does, the frog dies. 
+ # There is a timer. If the time runs out, the frog dies. 
+ 
+ If the frog dies, the player can try again. Once the frog dies too many times, the game is over. 
+ 
+ [[Category:1981 video games]] 
+ [[Category:Sega arcade games]]

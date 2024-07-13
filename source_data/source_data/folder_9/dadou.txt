@@ -1,0 +1,138 @@
+{{Infobox river 
+ | name              = Dadou 
+ | image             = Briatexte moulin.jpg 
+ | image_caption     = The Dadou at Briatexte 
+ | map               = Dadou (rivière).png 
+ | source1_location  = Saint-Salvi-de-Carcavès 
+ | source1_coordinates= {{coord|43|47|19|N|02|37|32|E}} 
+ | mouth_location    = [[Agout]] 
+ | mouth_coordinates = {{coord|43|44|11|N|01|47|24|E|display=inline,title}} 
+ 
+ | subdivision_type1 = Country 
+ | subdivision_name1 = [[France]] 
+ | length            = {{convert|115.8|km|mi|abbr=on}} 
+ | source1_elevation = {{convert|860|m|ft|abbr=on}} 
+ | mouth_elevation   = {{convert|110|m|ft|abbr=on}} 
+ | discharge1_avg    = {{convert|12|m3/s|cuft/s|abbr=on}} 
+ | basin_size        = {{convert|858|km2|sqmi|abbr=on}} 
+ }} 
+ The '''Dadou''' is a river in southwestern [[France]], right [[tributary]] of the [[Agout]] [[river]]. It flows through the [[Tarn]] [[Departments of France|department]], in the [[Occitanie]] [[Regions of France|region]]. 
+ 
+ ==Geography== 
+ The Dadou river has a length of {{Convert|115.8|km|mi|1|abbr=on}} and a [[drainage basin]] with an area of {{Convert|857|km2|sqmi|0|abbr=on }}. < ref name= " sandre " > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=O47-0400 |title=Le Dadou (O47-0400) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=2 February 2017 }} < /ref > 
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|7.81|m3/s|cuft/s|abbr=on }} at [[Montdragon]] in the [[Tarn]] department. < ref name= " hydro " > {{cite web |url=http://www.hydro.eaufrance.fr/stations/O4774010 & procedure=synthese |title=Le Dadou à Montdragon |publisher=Banque Hydro |language=fr |access-date=2 February 2017 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303210852/http://www.hydro.eaufrance.fr/stations/O4774010%26procedure%3Dsynthese |url-status=dead }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:20 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:4 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:2 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 13.00 
+  bar:Feb from:0 till: 17.00 
+  bar:Mar from:0 till: 12.50 
+  bar:Apr from:0 till: 11.70 
+  bar:May from:0 till: 10.00 
+  bar:Jun from:0 till: 5.36 
+  bar:Jul from:0 till: 2.47 
+  bar:Aug from:0 till: 1.82 
+  bar:Sep from:0 till: 2.05 
+  bar:Oct from:0 till: 2.72 
+  bar:Nov from:0 till: 5.38 
+  bar:Dec from:0 till: 10.40 
+ 
+ PlotData= 
+  bar:Jan at: 13.00 fontsize:S text: 13.00 shift:(-8,5) 
+  bar:Feb at: 17.00 fontsize:S text: 17.00 shift:(-10,5) 
+  bar:Mar at: 12.50 fontsize:S text: 12.50 shift:(-10,5) 
+  bar:Apr at: 11.70 fontsize:S text: 11.70 shift:(-10,5) 
+  bar:May at: 10.00 fontsize:S text: 10.00 shift:(-10,5) 
+  bar:Jun at: 5.36 fontsize:S text: 5.36 shift:(-10,5) 
+  bar:Jul at: 2.47 fontsize:S text: 2.47 shift:(-10,5) 
+  bar:Aug at: 1.82 fontsize:S text: 1.82 shift:(-10,5) 
+  bar:Sep at: 2.05 fontsize:S text: 2.05 shift:(-10,5) 
+  bar:Oct at: 2.72 fontsize:S text: 2.72 shift:(-10,5) 
+  bar:Nov at: 5.38 fontsize:S text: 5.38 shift:(-10,5) 
+  bar:Dec at: 10.40 fontsize:S text: 10.40 shift:(-10,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Montdragon (49 years)''' < ref name= " hydro "  / > 
+ < /center > 
+ 
+ ===Course=== 
+ The [[River source|source]] of the Dadou is on the ''Monts de Lacaune'', in the southern [[Massif Central]], in the [[Communes of France|''commune'']] of [[Saint-Salvi-de-Carcavès]], [[Tarn]] department, at an [[altitude]] of about {{Convert|870|m|ft|0|abbr=on }}. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=2.625556,43.788611 & z=16 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Source du Dadou |publisher=Géoportail |language=fr |access-date=2 February 2017 }} < /ref > 
+ 
+ The Agout flows, in general, to the west through the Tarn department and 26 ''communes''. < ref name= " sandre "  / >  Some of the ''communes'' are [[Montdragon]], [[Graulhet]], [[Briatexte]], [[Lacaze]], [[Rayssac]], [[Saint-Julien-du-Puy]], [[Vénès]], [[Saint-Genest-de-Contest]], [[Le Masnau-Massuguiès]], [[Saint-Salvi-de-Carcavès]], [[Laboutarie]], [[Lombers]], [[Réalmont]], [[Saint-Lieux-Lafenasse]], [[Saint-Antonin-de-Lacalm]], [[Le Travet]], [[Teillet]], [[Arifat]], [[Mont-Roc]], [[Paulinet]], [[Giroussens]], [[Saint-Jean-de-Rives]], [[Ambres]], [[Saint-Gauzens]], [[Puybegon]], [[Montredon-Labessonnié]]. 
+ 
+ Finally, it flows, as a right [[tributary]] into the [[Agout]] river at [[Ambres]], near [[Saint-Jean-de-Rives]], in the [[Tarn]] department, at {{Convert|115|m|ft|0|abbr=on }} of altitude. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=1.79,43.736389 & z=15 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Confluence du Dadou |publisher=Géoportail |language=fr |access-date=2 February 2017 }} < /ref > 
+ 
+ ==Main tributaries== 
+ The main [[Tributary|tributaries]] of the Dadou are: 
+ 
+ {{col-begin|width=70%}} 
+ {{col-break|width=50%}} 
+ '''Left tributaries''': 
+ * Dadounet (15 & nbsp;km) 
+ * Bardes (15 & nbsp;km) 
+ * Rieu de l’Aze (15 & nbsp;km) 
+ * Bezan (12 & nbsp;km) 
+ {{col-break}} 
+ {{col-break|width=50%}} 
+ '''Right tributaries''': 
+ * Ambias (12 & nbsp;km) 
+ * Oulas (24 & nbsp;km) 
+ * Lézert (17 & nbsp;km) 
+ * Assou (37 & nbsp;km) 
+ * Agros (19 & nbsp;km) 
+ {{col-end}} 
+ 
+ ==Gallery== 
+ < center > 
+ < gallery widths=160px > 
+ File:Chateau de Granval.jpg|''Chateau de Granval'' [[ruins]] and the Dadou river 
+ File:New and old bridges in Graulhet, France.jpg|New and old [[bridge]]s over the Dadou, [[Graulhet]] 
+ File:Briatexte moulin 2.JPG|[[Mill]] on the Dadou, [[Briatexte]] 
+ < /gallery > 
+ < /center > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Dadou}} 
+ * [http://www.hydro.eaufrance.fr/selection.php Banque Hydro - Station O4774010 - Le Dadou à Montdragon (Synthèse)] {{Webarchive|url=https://web.archive.org/web/20150219053605/http://www.hydro.eaufrance.fr/selection.php |date=2015-02-19 }} {{in lang|fr}} 
+ * [http://www.bassin-agout.fr/ Syndicat Mixte du Bassin de l'Agout] {{in lang|fr}} 
+ 
+ [[Category:Rivers of Occitanie]]

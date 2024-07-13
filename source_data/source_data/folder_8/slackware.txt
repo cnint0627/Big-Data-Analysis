@@ -1,0 +1,17 @@
+[[File:Slackware 15.0 screenshot.png|300px|thumb|Slackware running [[KDE]]]] 
+ '''Slackware''' is a [[GNU/Linux]] distribution which is famous for being stable, fast and suitable for older computers. Slackware is the oldest Linux distribution that is still supported.  
+ 
+ It does not offer any graphical tools for configuration; rather, the person must change it on their own using the [[command line interface]] and by editing [[text file]]s. 
+ 
+ The newest version is Slackware 15.0. 
+ 
+ ==Related pages== 
+ * [[List of Linux distributions]] 
+ 
+ == Other websites == 
+ * http://www.slackware.com - The official website. 
+ * {{DistroWatch|slackware|NAME=Slackware}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux distributions]]

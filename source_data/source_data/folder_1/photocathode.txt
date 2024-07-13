@@ -1,0 +1,21 @@
+A '''photocathode''' is a [[Negative charge|negatively charged]] [[electrode]] in a [[light]] [[detect]]ion device. They are the main type of [[photomultiplier]]. That means they take a little light, and make more of it. 
+ 
+ There are [[instrument]]s which need to magnify the amount of light coming in. Examples are [[astronomy|astronomical]] [[telescopes]] and [[military]] night-sight equipment: [[binoculars]] and [[telescopes]] on [[helmet]]s and [[rifle]]s etc. 
+ 
+ The lens of the telescope or binocular passes the light onto a layer of glass coated with a special light-sensitive [[metal]]. When this is struck by light, the absorbed energy causes [[electron]]s to jump off. This is called the '[[photoelectric effect]]'. The freed electrons are then collected to produce the final image. 
+ 
+ == Some photocathode materials == 
+ #'''Ag-O-Cs''', ([[silver oxide]]/[[caesium]], also called S-1). This was the first compound photocathode material, developed in 1929.  
+ #'''High temperature bi[[alkali]]''' or low noise bialkali ([[sodium]]-[[potassium]]-[[antimony]], Na-K-Sb). This material is often used in [[oil well]] logging since it can withstand temperatures up to 175 °C. At room temperatures, this photocathode operates with very low dark current, making it ideal for use in [[photon]] counting applications. 
+ #'''GaAs''' ([[gallium(II) arsenide]]). This photocathode material covers a wide spectral response range, from [[ultraviolet]] to 930 & nbsp;nm (nm = [[nanometre]], a measure of the [[wavelength]] of the light or other [[electromagnetic radiation]]). 
+ #'''Cs-Te, Cs-I''' ([[caesium]]-[[telluride]], [[caesium]]-[[iodide]]). These materials are sensitive to [[vacuum]] UV and UV rays, but not to visible light and are therefore referred to as solar blind. Cs-Te is insensitive to wavelengths longer than 320 & nbsp;nm, and Cs-I to those longer than 200 & nbsp;nm. 
+ These devices are mostly based on [[alkali metal]]s. 
+ 
+ 
+ 
+ 
+ 
+ 
+ [[Category:Physics]] 
+ [[Category:Tools]] 
+ [[Category:Alkali metals]]

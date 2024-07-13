@@ -1,0 +1,164 @@
+{{for|the commune in the Lot-et-Garonne department|Durance, Lot-et-Garonne}} 
+ {{Infobox river 
+ | name              = Durance 
+ | image             = Panorama depuis la chapelle Notre-Dame-de-Beauregard d'Orgon.jpg 
+ | image_caption     = A view of the Durance south of [[Cavaillon]] with the [[LGV Méditerranée]] viaduct 
+ | map               = Durance.png 
+ | source1_location  = [[Cottian Alps]] 
+ | mouth_location    = [[Rhône]] 
+ | mouth_coordinates = {{coord|43|55|21|N|4|44|35|E|format=dms|display=inline,title}} 
+ | progression       = {{RRhône}} 
+ | subdivision_type1 = Country 
+ | subdivision_name1 = [[France]] 
+ | length            = {{convert|323|km|mi|abbr=on}} < ref name=sandre/ > 
+ | source1_elevation = {{convert|2300|m|ft|abbr=on}} 
+ | discharge1_avg    = {{convert|188|m3/s|cuft/s|abbr=on}} 
+ | basin_size        = {{convert|14472|km2|sqmi|abbr=on}} 
+ }} 
+ The '''Durance''' ({{lang-oc|Durença}}) is a [[river]] in southeastern [[France]], a left [[tributary]] of the [[Rhône]] river. It is the longest river in [[Metropolitan France]] without a [[Departments of France|department]] named after it. 
+ 
+ ==Geography== 
+ The Durance river has a length of {{Convert|320.9|km|mi|0|abbr=on}} and a [[drainage basin]] with an area of approximately {{Convert|14342|km2|sqmi|0|abbr=on }}. < ref name= " sandre " > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=X---0000 |title=La Durance (X---0000) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=21 September 2016 }} < /ref > 
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|175|m3/s|cuft/s|abbr=on }} at [[Saint-Paul-lès-Durance]] in the [[Bouches-du-Rhône]] department at an [[altitude]] of {{Convert|247|m|ft|abbr=on }}, for a period of 95 years. < ref name= " hydro " > {{cite web |url=http://www.hydro.eaufrance.fr/stations/X3000010 & procedure=synthese |title=La Durance à Saint-Paul-lès-Durance (Jouques-Cadarache) |publisher=Banque Hydro |language=fr |access-date=16 July 2017 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303171703/http://www.hydro.eaufrance.fr/stations/X3000010%26procedure%3Dsynthese |url-status=dead }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:400 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:100 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:50 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 142.0 
+  bar:Feb from:0 till: 143.0 
+  bar:Mar from:0 till: 178.0 
+  bar:Apr from:0 till: 228.0 
+  bar:May from:0 till: 315.0 
+  bar:Jun from:0 till: 292.0 
+  bar:Jul from:0 till: 147.0 
+  bar:Aug from:0 till: 86.30 
+  bar:Sep from:0 till: 93.40 
+  bar:Oct from:0 till: 139.0 
+  bar:Nov from:0 till: 181.0 
+  bar:Dec from:0 till: 153.0 
+ 
+ PlotData= 
+  bar:Jan at: 142.0 fontsize:S text: 142.0 shift:(-8,5) 
+  bar:Feb at: 143.0 fontsize:S text: 143.0 shift:(-12,5) 
+  bar:Mar at: 178.0 fontsize:S text: 178.0 shift:(-12,5) 
+  bar:Apr at: 228.0 fontsize:S text: 228.0 shift:(-12,5) 
+  bar:May at: 315.0 fontsize:S text: 315.0 shift:(-12,5) 
+  bar:Jun at: 292.0 fontsize:S text: 292.0 shift:(-12,5) 
+  bar:Jul at: 147.0 fontsize:S text: 147.0 shift:(-12,5) 
+  bar:Aug at: 86.30 fontsize:S text: 86.30 shift:(-10,5) 
+  bar:Sep at: 93.40 fontsize:S text: 93.40 shift:(-10,5) 
+  bar:Oct at: 139.0 fontsize:S text: 139.0 shift:(-12,5) 
+  bar:Nov at: 181.0 fontsize:S text: 181.0 shift:(-12,5) 
+  bar:Dec at: 153.0 fontsize:S text: 153.0 shift:(-12,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Saint-Paul-lès-Durance''' 
+ < /center > 
+ 
+ ===Course=== 
+ The Durance starts in the ''pré de Gondran'' ( " [[meadow]] of Gondran " ), on the east side of the ''Sommet des Anges'' [[mountain]], in the ''commune'' of [[Montgenèvre]] (a [[ski resort]] near [[Briançon]]), [[Hautes-Alpes]] department, at an [[elevation]] of about {{Convert|2325|m|ft|0|abbr=on}}. It then flows to the southwest through the departments of [[Hautes-Alpes]], [[Alpes-de-Haute-Provence]], [[Vaucluse]] and [[Bouches-du-Rhône]]. 
+ 
+ Finally, the river flows into the Rhône river, as a left tributary, south of the city of [[Avignon]]. 
+ 
+ The Durance only flows through two departments: Hautes-Alpes and Alpes-de-Haute-Provence; it forms the border between two other departments but it does not flow through them: [[Vaucluse]] and [[Bouches-du-Rhône]]. It flows through the [[Var (department)|Var]] department only for a short distance. 
+ 
+ It flows through the following communes, among others: < ref name= " sandre "  / > 
+ * [[Hautes-Alpes]] 
+ **[[Briançon]] 
+ **[[Embrun, Hautes-Alpes|Embrun]] 
+ *[[Alpes-de-Haute-Provence]] 
+ **[[Sisteron]] 
+ **[[Château-Arnoux-Saint-Auban]] 
+ **[[Manosque]] 
+ *[[Vaucluse]] 
+ **[[Pertuis]] 
+ **[[Cadenet]] 
+ **[[Cavaillon]] 
+ 
+ ==Main tributaries == 
+ The main [[Tributary|tributaries]] of the Durance river are: < ref name= " sandre "  / > 
+ {{col-begin|width=70%}} 
+ {{col-break|width=33%}} 
+ '''Left tributaries''': 
+ * Cerveyrette - 22.8 & nbsp;km 
+ * Guil - 51.5 & nbsp;km 
+ * Vachères - 21.9 & nbsp;km 
+ * Ubaye - 82.7 & nbsp;km 
+ * La Blanche - 30.2 & nbsp;km 
+ * Sasse - 38.4 & nbsp;km 
+ * Vanson - 30.2 & nbsp;km 
+ * Bléone - 67.5 & nbsp;km 
+ * Rancure - 23.9 & nbsp;km 
+ * Asse - 75.3 & nbsp;km 
+ * Verdon - 165.7 & nbsp;km 
+ * Réal - 22.5 & nbsp;km 
+ * Anguillon - 20.1 & nbsp;km 
+ {{col-break}} 
+ {{col-break|width=66%}} 
+ '''Right tributaries''': 
+ * Clarée - 31.8 & nbsp;km 
+ * Guisane - 27.7 & nbsp;km 
+ * Avance - 20.6 & nbsp;km 
+ * Luye - 22.6 & nbsp;km 
+ * [[Buëch]] - 85 & nbsp;km 
+ * Jabron - 36.5 & nbsp;km 
+ * Lauzon - 25.2 & nbsp;km 
+ * Largue - 55.4 & nbsp;km 
+ * Èze - 24.3 & nbsp;km 
+ * Aigue Brun - 22.8 & nbsp;km 
+ * Coulon - 88.2 & nbsp;km 
+ {{col-end}} 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ Sources durance.jpg|The [[Source (river or stream)|source]] of the Durance 
+ La durance près d'Avignon - P1000844.jpg|The Durance in [[Rognonas]] 
+ Sisteron August2007 2.jpg|The [[bridge]] on the Durance between [[Sisteron]] and the [[Baume]] 
+ La Durance près d'Avignon.JPG|The Durance near [[Avignon]] 
+ Pano Confluent Rhone Durance.jpg|[[Confluence]] of the Durance with the [[Rhône]] 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commons category}} 
+ * [http://www.donnees.paca.developpement-durable.gouv.fr/docHTML/val-de-durance/durance.html Val de Durance] {{Webarchive|url=https://web.archive.org/web/20160304081635/http://www.donnees.paca.developpement-durable.gouv.fr/docHTML/val-de-durance/durance.html |date=2016-03-04 }} {{in lang|fr}} 
+ *[http://www.smavd.org Mixed syndicate working on the valley of the Durance] {{in lang|fr}} 
+ 
+ [[Category:Rivers of Provence-Alpes-Côte d'Azur]]

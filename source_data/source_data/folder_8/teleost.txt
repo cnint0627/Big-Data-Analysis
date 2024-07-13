@@ -1,0 +1,86 @@
+{{Automatic taxobox 
+ | fossil_range = [[Triassic]] – Recent 
+ | image = F de Castelnau-poissonsPl12.jpg 
+ | image_width = 250px 
+ | image_caption = ''Retroculus'' ([[Cichlidae]]); Hairy Blenny, ''Labrisomus''; ''Ogcocephalus'' and ''Acanthurus'' 
+ | taxon = Teleostei 
+ | subdivision_ranks = Superorders 
+ | subdivision = 
+ }} 
+ 
+ '''Teleosts''' are the dominant [[fish]] of the present day. They arose in the [[Mesozoic]] [[era]], and include 20,000 living [[species]]. The oldest teleost fossils date back to the late [[Upper Triassic|Triassic]]. They evolved from fish like [[bowfin]]s in the [[clade]] [[Holostei]]. During the [[Mesozoic]] and [[Cainozoic]] they [[adaptive radiation|diversified]]. 96 percent of all known fish species are teleosts. 
+ 
+ They are, in order of [[evolution]], [[vertebrate]]s, jawed fish ([[Gnathostomata]]), bony fish ([[Osteichthyes]]) and ray-finned fish ([[Actinopterygii]]). < ref > {{cite web|year=2006|title=FishBase|url=http://www.fishbase.org}} < /ref > < ref > Nelson, Joseph S. 2006. ''Fishes of the world''. Wiley, N.Y. {{ISBN|0471250317}}. < /ref > < ref > Helfman G. Collette B.  &  Facey D. 1997. ''The diversity of fishes''. Blackwell, Oxford. {{ISBN|0-86542-256-7}} < /ref > 
+ 
+ == Advantages == 
+ To account for their success, teleosts must have advantages over earlier fish. In general, teleosts tend to be quicker and more flexible than earlier bony fishes. Their skeletal structure has evolved towards greater lightness. Teleost bones are constructed from a scaffolding of struts, which makes them strong without adding weight. 
+ 
+ Teleosts have a movable [[jaw]] and changes in the jaw muscles. These changes make it possible for them to protrude their jaws outwards from the mouth. < ref > {{cite web | title = Telostei | url = http://www.ucmp.berkeley.edu/vertebrates/actinopterygii/teleostei.html | publisher = Museum of Paleontology, University of California, Berkeley | author = Ben Waggoner | date = 1995-07-17 | accessdate = 2006-06-08 }} < /ref >  This [[adaptation]] improves their ability to grab fast-moving [[prey]]. < ref > [https://www.youtube.com/watch?v=pDU4CQWXaNY Video of a slingjaw wrasse catching prey by protruding its jaw] < /ref > < ref > [https://www.youtube.com/watch?v=TbGILi8p5Y8 & feature=rec-LGOUT-real_rn-HM Video of a red bay snook catching prey by suction feeding] < /ref > 
+ 
+ == Date of origin == 
+ The date of origin of the teleosts is a difficult problem. Two kinds of evidence are available. There is evidence from the fossil record that the first teleost comes from the [[Upper Triassic|late Triassic]] period. < ref > Kemp T.S. 1999. ''Fossils and evolution''. Oxford University Press. p122 {{ISBN|0198504241}} < /ref > < ref > Palmer D. (ed) 1999. ''The Marshall illustrated encyclopedia of dinosaurs and prehistoric animals.'' London: Marshall Editions. p38 {{ISBN|1-84028-152-9}} < /ref > 
+ 
+ This date is somewhat later than molecular divergence time estimates ([[molecular clock]]). A recent paper finds that fossil dates and molecular clock dates are similar to each other. < ref name=Near > Near, Thomas J. ''et al'' 2012. Resolution of ray-finned fish phylogeny and timing of diversification. PNAS (Proceedings of the National Academy of Sciences of the United States of America). pp. 13698–13703. [http://www.pnas.org/content/109/34/13698] {{Webarchive|url=https://web.archive.org/web/20180430021413/http://www.pnas.org/content/109/34/13698 |date=2018-04-30 }} < /ref >  These researchers state: 
+ : " Divergence times estimated from relaxed-molecular clock analyses yield a comprehensive time-scale of actinopterygian diversification that is remarkably close to ages inferred from the fossil record " . < ref name=Near/ > 
+ {{-}} 
+ {{clade 
+ |label1=[[Osteichthyes]] 
+ |1={{clade 
+    |label1=[[Actinopterygii]] 400 mya 
+    |1={{clade 
+       |1={{clade 
+          |1=part of [[Chondrostei]]. So the former  " [[Chondrostei]] "  is [[paraphyletic]] (not a clade), and has been broken up by more recent studies. < ref name=Near/ > < ref name=TOL > {{cite journal |author=Betancur-R, Ricardo |display-authors=etal |year=2013 |title=The Tree of Life and a new classification of bony fishes |journal=PLOS Currents Tree of Life |volume=5 |edition=1st |url=http://currents.plos.org/treeoflife/article/the-tree-of-life-and-a-new-classification-of-bony-fishes/pdf |doi=10.1371/currents.tol.53ba26640df0ccaee75bb165c8c26288 |pmid=23653398 |pmc=3644299 |access-date=2016-05-29 |archive-date=2013-10-13 |archive-url=https://web.archive.org/web/20131013102547/http://currents.plos.org//treeoflife/article/the-tree-of-life-and-a-new-classification-of-bony-fishes/pdf |url-status=dead }} < /ref >  [[Polypteridae]] (bichirs) [[File:Cuvier-105-Polyptère.jpg|70 px]] 
+          |2={{clade 
+             |label1=part of [[Chondrostei]]:  
+             |1=[[Acipenseriformes]] ([[sturgeon]]s, [[paddlefish]]) [[File:Atlantic sturgeon flipped.jpg|70px]] 
+             |label2=[[Neopterygii]] 360 mya 
+             |2={{clade 
+                |1=[[Holostei]] ([[bowfin]]s, [[gar]]s) 275 mya [[File:Longnose gar flipped.jpg|70px]] 
+                |2='''Teleostei''' 210 mya [[File:Cyprinus carpio3.jpg|70px]]   
+                }} 
+             }} 
+          }} 
+       }} 
+    |label2=[[Sarcopterygii]] 
+    |2={{clade 
+       |1=[[Actinistia]] (Coelacanths) [[File:Coelacanth flipped.png|70 px]]   
+       |2={{clade 
+          |1=[[Dipnoi]] (Lungfish) [[File:Barramunda coloured.jpg|70 px]] 
+          |2={{clade 
+             |label1=[[Tetrapod]]s 
+             |1={{clade 
+                |1=[[Amphibian]]s  [[File:Deutschlands Amphibien und Reptilien (Salamandra salamdra).jpg|70 px]]  
+                |label2=[[Amniote|Amniota]] 
+                |2={{clade 
+                   |1=[[Mammal]]s  [[File:Phylogenetic tree of marsupials derived from retroposon data (Paucituberculata).png|70 px]]  
+                   |2=[[Sauropsida|Sauropsids]] ([[reptile]]s, [[bird]]s)  [[File:Description des reptiles nouveaux, ou, Imparfaitement connus de la collection du Muséum d'histoire naturelle et remarques sur la classification et les caractères des reptiles (1852) (Crocodylus moreletii).jpg|70 px]] 
+                   }} 
+                }} 
+             }} 
+          }} 
+       }} 
+    }} 
+ }} 
+ [[File:Evolution of ray-finned fish.png|thumb|center|600px|Evolution of ray-finned fish]] 
+ 
+ == Teleost superorders == 
+ '''Teleostei''' 
+ * [[Osteoglossomorpha]] ([[freshwater elephantfish]], [[mooneye]]s, ''[[Arapaima]]'') 
+ * [[Elopomorpha]] ([[eel]]s) 
+ * [[Clupeomorpha]] ([[herring]]s, [[anchovy|anchovies]]) 
+ * [[Ostariophysi]] ([[carp]], [[goldfish]], [[minnow]]s, [[catfish]], [[piranha]], [[electric eel]]s) 
+ * [[Protacanthopterygii]] ([[salmon]], [[trout]], [[pike]]) 
+ * [[Stenopterygii]] ([[marine hatchetfish]]) 
+ * [[Cyclosquamata]] ([[Bombay duck]]. [[lancetfish]]) 
+ * [[Scopelomorpha]] ([[lanternfish]]) 
+ *[[Lampridiomorpha]] ([[ribbonfish]]) 
+ * [[Polymyxiomorpha]] ([[beardfish]]) 
+ * [[Paracanthopterygii]] ([[cavefish]], [[cod]], [[anglerfish]]) 
+ * [[Acanthopterygii]] ([[mullet]], [[silverside]], [[dory]], [[flyingfish]], [[stickleback]], [[seahorse]]) 
+ ** 16 Orders, and especially the Order '''[[Perciformes]]''' (40% of all fish): [[bass (fish)|bass]], [[cichlid]], [[mackerel]], [[tuna]], [[perch]], [[filefish]], [[pufferfish]], [[flatfish]], [[goby]], [[blenny]], [[whiting]], [[wrasse]]) 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Ray-finned fish| ]] 
+ [[Category:Teleosts| ]]

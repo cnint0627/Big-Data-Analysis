@@ -1,0 +1,40 @@
+{{infobox software 
+ | name                   = ChatZilla 
+ | screenshot             = Chatzilla.png 
+ | caption                = ChatZilla with Midnight theme and black motif 
+ | developer              = James Ross, Robert Ginda, Samuel Sieb, Gijs Kruitbosch 
+ | latest_release_version =  
+ | latest_release_date    = {{release date and age|2012|04|01}} 
+ | frequently updated     = yes < !-- Release version update? Don't edit this page, just click on the version number! -- > 
+ | programming language   = [[JavaScript]], [[XUL]] 
+ | status                 = Active 
+ | operating_system       = [[Cross-platform]] 
+ | genre                  = [[IRC client]] 
+ | language               = [[Catalan language|Catalan]], [[English language|English]], [[French language|French]], [[German language|German]], [[Italian language|Italian]], [[Polish language|Polish]], [[Portuguese language|Portuguese]], [[Russian language|Russian]] and [[Spanish language|Spanish]]. 
+ | license                = [[Tri-license]]d: [[Mozilla Public License|MPL]] < ref > [https://addons.mozilla.org/en-US/firefox/addon/chatzilla/license/ Chatzilla License] Mozilla.org < /ref >  / [[GNU General Public License|GPL]] / [[GNU Lesser General Public License|LGPL]] 
+ | website       = {{URL|http://chatzilla.hacksrus.com/}} 
+ }} 
+ '''ChatZilla''' is an [[IRC]] client made by [[Mozilla]] that is free of charge. It is programmed in [[JavaScript]] and [[XUL]]. Its first public release date was in [[2001]]. The latest stable version (0.9.86) was made in [[2009]]. It is licensed under [[Mozilla Public License|MPL]], [[GNU General Public License|GPL]], and [[GNU Lesser General Public License|LGPL]]. 
+ 
+ ==Related pages== 
+ * [[List of IRC clients]] 
+ 
+ ==Sources== 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://chatzilla.hacksrus.com/ ChatZilla homepage] 
+ * [https://www.mozilla.org/projects/rt-messaging/chatzilla/ Mozilla.org ChatZilla page] 
+ * [https://addons.mozilla.org/firefox/16/ ChatZilla on Mozilla Add-ons] {{Webarchive|url=https://web.archive.org/web/20060924131150/https://addons.mozilla.org/firefox/16/ |date=2006-09-24 }} 
+ * [news://news.mozilla.org/mozilla.dev.apps.chatzilla Newsgroup] 
+ * [http://chatzilla.rdmsoft.com/xulrunner/ ChatZilla on XULRunner] 
+ * [http://silver.uwcs.co.uk/mozilla/chatzilla/links Other Useful Links] {{Webarchive|url=https://web.archive.org/web/20080907143638/http://silver.uwcs.co.uk/mozilla/chatzilla/links |date=2008-09-07 }} 
+ 
+ {{IRC topics}} 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Mozilla]] 
+ [[Category:IRC clients]] 
+ [[Category:Cross-platform software]]

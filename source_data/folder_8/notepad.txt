@@ -1,0 +1,8 @@
+'''Notepad''' is a [[word processor|word processing]] [[computer program|program]], which allows changing of text in a computer file.  Notepad was created by the [[Microsoft]] corporation.  It is a [[text editor]], a very simple word processor.  It has been a part of [[Microsoft Windows]] since 1985. The program has options such as changing the [[font]], the font size, and the font [[style]]. The most common use for Notepad is to view or change (edit) [[text]] (.txt) [[Computer file|files]], though .dat and .ini files can be changed in Notpad as well. Many users find Notepad a simple program for creating [[webpage]]s. 
+ 
+ Unlike using special [[software]] programs to create webpages, a Notepad user must write their webpages directly in the [[HTML]] [[markup]] language. 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Word processors]] 
+ [[Category:Microsoft Windows software]]

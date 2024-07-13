@@ -1,0 +1,58 @@
+{{Taxobox 
+ | name = Gymnospermae 
+ | image = Fichtennadel.jpg 
+ | image_width = 220px 
+ | image_caption = White spruce leaves (needles) 
+ | regnum = [[Plant]]ae 
+ | unranked superdivisio = [[Spermatophyta]] 
+ | unranked divisio = '''Gymnospermae''' 
+ | subdivision_ranks = [[Division (biology)|Divisions]] 
+ | subdivision =  
+ [[Pinophyta]] (or Coniferophyta) – Conifers < br > 
+ [[Ginkgo]]phyta – ''Ginkgo'' < br > 
+ [[Cycad]]ophyta – Cycads < br > 
+ [[Gnetophyta]] – ''Gnetum, Ephedra, Welwitschia'' 
+ }} 
+ 
+ [[image:Encephalartos sclavoi reproductive cone.jpg|thumb|Sclavo's cycad]] 
+ [[Image:KauriFruchtstand.jpg|thumb |kauri cone]] 
+ 
+ The '''gymnosperms''' are a group of [[seed plant]]s which includes [[conifer]]s, [[cycad]]s, ''[[Ginkgo]]'' and [[Gnetophyta|Gnetales]]. < ref > The term comes from the [[Greek language|Greek]] word (γυμνός) for  " naked seed " , ''gymnospermos''. < /ref > 
+ 
+ They have naked seeds, in contrast to the seeds or ovules of [[flowering plant]]s ([[angiosperm]]s) which are enclosed during pollination. Gymnosperm seeds develop either on the surface of scale- or leaf-like appendages of [[Conifer cone|cones]], or at the end of short stalks (''Ginkgo''). < ref > Anderson, Anderson  &  Cleal 2007. Brief history of the gymnosperms: classification, biodiversity, phytogeography and ecology. Strelitzia. '''20''' SANBI. p280. ISBN 978-1-919976-39-6 < /ref > 
+ 
+ The gymnosperms and angiosperms together make up the [[spermatophyte]]s or [[seed plants]]. By far the largest group of living gymnosperms are the [[conifer]]s ([[pine]]s, [[cypress]]es, and relatives), followed by cycads, Gnetales (''[[Gnetum]]'', ''[[Ephedra (genus)|Ephedra]]'' and ''[[Welwitschia]]''), and ''[[Ginkgo]]'' (a single living species). < ref > {{Cite journal|date=2018-09-01|title=Sexual systems in gymnosperms: A review|url=https://www.sciencedirect.com/science/article/abs/pii/S1439179117304498|journal=Basic and Applied Ecology|language=en|volume=31|pages=1–9|doi=10.1016/j.baae.2018.05.009|issn=1439-1791|last1=Walas|first1=Łukasz|last2=Mandryk|first2=Wojciech|last3=Thomas|first3=Peter A.|last4=Tyrała-Wierucka|first4=Żanna|last5=Iszkuło|first5=Grzegorz|s2cid=90740232}} < /ref > 
+ 
+ [[Fossil]] gymnosperms include many that do not belong to the four modern groups, including the so-called  " seed ferns "  ([[Pteridospermatophyta|Pteridosperms]]) and the  " cycadeoids "  ([[Bennettitales]]). Most of the Gymnosperms became [[extinct]] in the [[Cenozoic|Cenozoic era]] (from 65 million years ago to present day). < ref > {{cite journal |author=Crisp, M.D.; Cook, L.G. |year=2011 |title=Cenozoic extinctions account for the low diversity of extant gymnosperms compared with angiosperms |journal=New Phytologist |volume=192 |issue=4 |pages=997–1009 |doi=10.1111/j.1469-8137.2011.03862.x|pmid=21895664 |s2cid=23823843 }} < /ref > 
+ 
+ Some genera have [[mycorrhiza]], fungal associations with roots (''Pinus''). In some others (''Cycas'') small specialised roots have  nitrogen-fixing [[cyanobacteria]]. 
+ 
+ == Phylogenetics == 
+ {{clade | 
+   1=[[angiosperm]]s | 
+   label2=gymnosperms | 
+   2={{clade | 
+     1=[[cycad]]s < ref > {{cite journal | journal = Molecular Biology and Evolution | year = 2007 | volume = 24 | issue =6 | pages = 1366–1379 | doi = 10.1093/molbev/msm059 | title = Chloroplast Genome (cpDNA) of Cycas taitungensis and 56 cp protein-coding genes of Gnetum parvifolium: insights into cpDNA evolution and phylogeny of extant seed plants | url = https://archive.org/details/sim_molecular-biology-and-evolution_2007-06_24_6/page/1366 | author = Chung-Shien Wu, Ya-Nan Wang, Shu-Mei Liu and Shu-Miaw Chaw | pmid = 17383970 }} < /ref >  | 
+     2=''[[Ginkgo]]'' | 
+     3={{clade | 
+       1={{clade | 
+         1=[[Pinaceae]] (the [[pine]] family) | 
+         2=[[Gnetophyta]] 
+       }} | 
+       2=other conifers 
+     }} 
+   }} 
+ }} 
+ 
+ ==Related pages== 
+ *[[Seed]]  
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ *[http://www.conifers.org/ Gymnosperm Database] 
+ 
+ 
+ 
+ [[Category:Gymnosperms| ]]

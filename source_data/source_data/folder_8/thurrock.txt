@@ -1,0 +1,165 @@
+{{Infobox settlement 
+ < !--See Template:Infobox Settlement for additional fields that may be available-- > 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info ---------------- > 
+ |name=Thurrock  < !-- at least one of the first two fields must be filled in -- > 
+ |other_name=Borough of Thurrock 
+ |native_name= 
+ |nickname= 
+ |motto= 
+ |settlement_type=[[Borough]]  &  [[Unitary authorities of England|Unitary authority area]] 
+ < !-- images and maps ----------- > 
+ |image_skyline=Lakeside Shopping Centre eastern entrance.JPG 
+ |imagesize=240px 
+ |image_caption=Lakeside Shopping Centre 
+ |image_flag= 
+ |flag_size= 
+ |image_seal= 
+ |seal_size= 
+ |image_shield= 
+ |shield_size= 
+ |image_blank_emblem= 
+ |blank_emblem_type=Thurrock Council 
+ |blank_emblem_size=150px 
+ |image_map=Thurrock UK locator map.svg 
+ |mapsize=200px 
+ |map_caption=Shown within [[Essex]] 
+ |image_map1= 
+ |mapsize1= 
+ |map_caption1= 
+ |image_dot_map= 
+ |dot_mapsize= 
+ |dot_map_caption= 
+ |dot_x=|dot_y= 
+ |pushpin_map= < !-- name of a location map as per Template:Location_map -- > 
+ |pushpin_label_position= < !-- position of the pushpin label: left, right, top, bottom, none -- > 
+ |pushpin_map_caption= 
+ |pushpin_mapsize= 
+ < !-- Location ------------------ > 
+ |subdivision_type=Country 
+ |subdivision_name=[[UK|United Kingdom]] < !--the name of the country-- > 
+ |subdivision_type1=[[Countries of the United Kingdom|Constituent country]] 
+ |subdivision_name1=[[England]] 
+ |subdivision_type2=[[Regions of England|Region]] 
+ |subdivision_name2=[[East of England|East]] 
+ |subdivision_type3=[[Ceremonial County]] 
+ |subdivision_name3=[[Essex]] 
+ |subdivision_type4= 
+ |subdivision_name4= 
+ < !-- Smaller parts (e.g. boroughs of a city) and seat of government -- > 
+ |seat_type= 
+ |seat= 
+ |parts_type= 
+ |parts_style= < !--=list (for list), coll (for collapsed list), para (for paragraph format) 
+  Default is list if up to 5 items, coll if more than 5-- > 
+ |parts= < !-- parts text, or header for parts list -- > 
+ |p1= 
+ |p2= < !-- etc. up to p50: for separate parts to be listed-- >   
+ < !-- Politics ----------------- > 
+ |government_footnotes= 
+ | governing_body          = [[Thurrock Council]] 
+ |leader_title=[[Local government in England#Councillors and mayors|Leadership]] 
+ |leader_name=Leader  &  Cabinet < ref > {{Cite web|url=https://www.thurrock.gov.uk/cabinet/cabinet-and-its-members|title=The Cabinet and its members  & #124; Cabinet  & #124; Thurrock Council|website=www.thurrock.gov.uk}} < /ref > 
+ |leader_title1=Executive 
+ |leader_name1=[[Conservative Party (UK)|Conservative Administration]], < br > [[No Overall Control|(Council NOC)]] 
+ |leader_title2=[[List of MPs elected in the 2015 United Kingdom general election|MPs]] 
+ |leader_name2=[[Jackie Doyle-Price]] [[Conservative Party (UK)|(C)]] < br > [[Stephen Metcalfe (politician)|Stephen Metcalfe]] [[Conservative Party (UK)|(C)]] 
+ |leader_title3= Leader of the Council 
+ |leader_name3= [[Councillor|Cllr]] Robert Gledhill [[Conservative Party (UK)|(C)]] 
+ |leader_title4=[[Mayor]] of Thurrock 
+ |leader_name4= [[Councillor|Cllr]] Tunde Ojetola [[Conservative Party (UK)|(C)]] 
+ |established_title= < !-- Settled -- > 
+ |established_date= 
+ |established_title1= < !-- Incorporated (town) -- > 
+ |established_date1= 
+ |established_title2= < !-- Incorporated (city) -- >   
+ |established_date2= 
+ |established_title3= 
+ |established_date3= 
+ |founder= 
+ |named_for= 
+ < !-- Area --------------------- > 
+ |unit_pref= < !--Enter: Imperial, to display imperial before metric-- > 
+ |area_footnotes= 
+ |area_total_km2=163.38 < !-- ALL fields with measurements are subject to automatic unit conversion-- > 
+ |area_land_km2= < !--See table @ Template:Infobox Settlement for details on unit conversion-- > 
+ |area_water_km2= 
+ |area_total_dunam= < !--Used in Middle East articles only-- > 
+ |area_total_sq_mi= 
+ |area_land_sq_mi= 
+ |area_water_sq_mi= 
+ |area_water_percent= 
+ |area_urban_km2= 
+ |area_urban_sq_mi= 
+ |area_metro_km2= 
+ |area_metro_sq_mi= 
+ |area_blank1_title= 
+ |area_blank1_km2= 
+ |area_blank1_sq_mi= 
+ < !-- Elevation -------------------------- > 
+ |elevation_footnotes= < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m= 
+ |elevation_ft= 
+ |elevation_max_m= 
+ |elevation_max_ft= 
+ |elevation_min_m= 
+ |elevation_min_ft= 
+ < !-- Population ----------------------- > 
+ |population_as_of= 
+ |population_footnotes= 
+ |population_note= 
+ |population_total=[[List of English districts by population|Ranked {{English district rank|GSS=E06000034}}]] < br > {{English district population|GSS=E06000034}} 
+ |population_density_km2={{English district density|GSS=E06000034}}  < !--For automatic calculation, any density field may contain: auto -- > 
+ |population_density_sq_mi= 
+ |population_metro= 
+ |population_density_metro_km2= 
+ |population_density_metro_sq_mi= 
+ |population_urban= 
+ |population_density_urban_km2= 
+ |population_density_urban_sq_mi= 
+ |population_blank1_title=Ethnicity < ref > {{Cite web|url=http://www.ukcensusdata.com/thurrock-e06000034|title=Thurrock - UK Census Data 2011|first=Good Stuff IT|last=Services|website=UK Census Data}} < /ref > 
+ |population_blank1=80.9% White British < br > 4.9% Other White < br > 3.8% Asian < br > 7.8% Black < br > 2.0% Mixed Race < br > 0.6% other 
+ |population_density_blank1_km2= 
+ |population_density_blank1_sq_mi= 
+ < !-- General information --------------- > 
+ |timezone=[[GMT]] 
+ |utc_offset= 
+ |timezone_DST=[[British Summer Time]] 
+ |utc_offset_DST= 
+ |coor_type= < !-- can be used to specify what the coordinates refer to -- > 
+ |coordinates = {{coord|51|30|00|N|0|25|00|E|region:GB|display=inline}} 
+ |postal_code_type= < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code= 
+ |area_code= 
+ |blank_name=Grid reference 
+ |blank_info= 
+ |blank1_name=[[ONS coding system|ONS code]] 
+ |blank1_info=00KG (ONS) < br / > E06000034 (GSS) 
+ |blank2_name= 
+ |blank2_info= 
+ |blank3_name= 
+ |blank3_info= 
+ |blank4_name= 
+ |blank4_info= 
+ |blank5_name= 
+ |blank5_info= 
+ |blank6_name= 
+ |blank6_info= 
+ |website={{url|http://www.thurrock.gov.uk/}} 
+ |footnotes= 
+ }} 
+ '''Thurrock''' ({{IPAc-en|ˈ|θ|ʌr|ə|k}}) is a [[Unitary authorities of England|unitary authority area]] with borough status in the [[England|English]] [[Ceremonial counties of England|ceremonial county]] of [[Essex]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Essex}} 
+ 
+ {{authority control}} 
+ 
+ 
+ {{multistub|geo|UK}} 
+ 
+ [[Category:English boroughs]] 
+ [[Category:Unitary authorities]] 
+ [[Category:Settlements in Essex]]

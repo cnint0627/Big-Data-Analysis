@@ -1,0 +1,18 @@
+[[Image:CMVschema.svg|thumb|right|250px|A [[cytomegalovirus]] also has an outer  " envelope " ]] 
+ 
+ A '''capsid''' is the [[protein]] shell of a [[virus]]. It is made of several [[protein]] subunits. The observable 3-dimensional subunits are called 'capsomeres'. The capsid encloses the [[nucleic acid]] of the virus. 
+ 
+ Capsids are broadly classified according to their structure. < ref > {{cite journal | author=Lidmar J, Mirny L, Nelson DR| title=Virus shapes and buckling transitions in spherical shells | journal = Phys. Rev. E | volume = 68 | pages = 051910|year=2003 | doi=10.1103/PhysRevE.68.051910 | issue=5| pmid=14682823 | arxiv=cond-mat/0306741 | s2cid=6023873 }} < /ref > < ref > {{cite journal | author=Vernizzi G, Olvera de la Cruz M| title=Faceting ionic shells into icosahedra via electrostatics | journal = Proc. Natl. Acad. Sci. USA | volume = 104 | pages = 18382–18386|year=2007| doi=10.1073/pnas.0703431104 | issue=47| pmid=18003933 | pmc=2141786 | doi-access=free }} < /ref >  Some viruses, such as [[bacteriophage]]s, have developed more complicated structures. < ref > {{cite journal | author=Vernizzi G, Sknepnek R, Olvera de la Cruz M| title=Platonic and Archimedean geometries in multicomponent elastic membranes | journal = Proc. Natl. Acad. Sci. USA | volume = 108 | pages = 4292–4296|year=2011| doi=10.1073/pnas.1012872108 | pmid=21368184 | issue=11 | pmc=3060260| doi-access=free }} < /ref >   The [[icosahedron|icosahedral]] shape, which has 20 [[equilateral triangle|equilateral triangular]] faces, approximates a [[sphere]], while the [[helix|helical]] shape is [[cylinder|cylindrical]]. < ref > {{cite book|title=Introduction to Protein Structure|author=Branden, Carl and Tooze, John|year=1991|pages=161–162|isbn=0-8153-0270-3|publisher=Garland|location=New York}} < /ref >   The capsid faces may consist of one or more proteins. For example, the [[foot-and-mouth disease]] virus capsid has faces consisting of three proteins called VP1–3. < ref > {{cite web|url=http://www.web-books.com/MoBio/Free/Ch1E1.htm|title=Virus Structure (web-books.com)}} < /ref > 
+ 
+ == Viral envelopes == 
+ Most [[virus]]es (e.g. influenza and many animal viruses) have [[viral envelope]]s covering their protein capsids. < ref name= " urlCHAPTER #11: VIRUSES " > {{cite web |url=http://www.slic2.wsu.edu:82/hurlbert/micro101/pages/Chap11.html |title=CHAPTER #11: VIRUSES |access-date=2008-11-07 |archive-date=2008-11-10 |archive-url=https://web.archive.org/web/20081110135307/http://www.slic2.wsu.edu:82/hurlbert/micro101/pages/Chap11.html |url-status=dead }} < /ref >  This means the capsid is coated with a [[lipid]] membrane. 
+ 
+ The envelope is got by the capsid from an intracellular membrane in the virus' host; such as the inner [[nuclear membrane]], the [[Golgi apparatus|golgi]] membrane, or the cell's outer [[cell membrane|membrane]]. < ref > {{cite book|title=Molecular biology of the cell|url=https://archive.org/details/molecularbiology00albe|edition=4th |pages=[https://archive.org/details/molecularbiology00albe/page/280 280]|author=Alberts, Bruce | display-authors = etal|year=1994}} < /ref > 
+ 
+ The envelope may help viruses avoid the host [[immune system]]. [[Glycoprotein]]s on the surface of the envelope bind to receptor sites on the host's membrane. The viral envelope then fuses with the host's membrane This allows the capsid and viral [[genome]] to enter and infect the host. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Viruses]] 
+ [[Category:Proteins]]

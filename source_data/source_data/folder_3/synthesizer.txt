@@ -1,0 +1,35 @@
+[[Image:Teleharmonium1897.jpg|thumb| Telharmonium, [[Thaddeus Cahill]] 1897]] 
+ 
+ [[Image:Mixtur Trautonium.jpg|thumb|[[Trautonium]], 1928]] 
+ 
+ A '''musical synthesizer''' is an [[Musical instrument|instrument]] that uses [[electricity]] to make musical [[sound]]s. They are the main instrument for making [[electronic music]]. Many synthesizers have a [[Keyboard instrument|keyboard]] like that of a [[piano]]. When playing a piano keyboard, sounds are made by hitting soft [[hammer (piano)|hammers]] against strings pulled very tight. When playing a synthesizer keyboard, sounds are made by turning electrical [[oscillator]]s on and off. Since  " synthesizer "  is such a big word, the word is usually shortened to  " synth " . 
+ 
+ == How synthesizers work == 
+ 
+ An oscillator is something that  " [[vibration|vibrates]] " , or repeats the same pattern. The [[pendulum]] of a [[clock]], for example, is a very slow oscillator. A piano string  " oscillates "  when struck by a hammer. 
+ 
+ Electric oscillators might be made using [[transistor]]s. They turn electricity into electrical patterns, or [[signals]], that repeat over and over. When different keys are pressed, different notes are heard. This is done by making the signal from the oscillator repeat at different rates.  
+ 
+ The signal can be boosted in strength and sent straight to a [[loudspeaker]]. But the sound of a simple signal can be boring after a while. Sounds can be made more interesting in many ways. 
+ 
+ ;For example: 
+ * Signals are often shaped by changing how fast they get loud and then soft again. This method, called  " ADSR " , helps synthesizers to sound more like older instruments — pianos, [[trumpet]]s, [[flute]]s, and so on. 
+ * The signals from several different oscillators may be combined. This helps to make a richer sound. 
+ * The signal can then be sent to one or more filters. Filters are used to take away parts of the signal. For example, they might make the signal sound  " brighter "  or  " duller " ,  " soft "  or  " harsh " . 
+ * Many synthesizers use special oscillators called  " LFOs " . For example, an LFO might control how loud and soft the signal is, or control the pitch of the signal. An LFO might even control the actions of the filters. 
+ 
+ By combining many of these methods, synths can now sound very much like older instruments. For one example, special synths called  " drum synths "  are used just to make the sounds a drummer might make. Synths can also make many new sounds never heard before. 
+ 
+ In the early 2000s, computers got fast enough so  " software synths "  could be made. These are computer programs designed to look and work like a synth. They tend to be less expensive, so more can be used. Most of these programs can be downloaded for free, however this may be illegal. 
+ 
+ There are special tools available to play synths. For example, a thing called a  " wind controller "  lets players of wind instruments use their special skills. But there is still a need for more ways to control synths to make them more expressive. 
+ 
+ == Other websites == 
+ * [http://www.sonicstate.com Sonic State describing 3000 models of Synthesizers] 
+ * [http://www.wikizic.org/Synthesizers/ Analog  &  Digital Synthesizers museum] {{Webarchive|url=https://web.archive.org/web/20070122171855/http://www.wikizic.org/Synthesizers/ |date=2007-01-22 }} - Synthesizers database, resources, user reviews, pictures 
+ * [http://www.vintagesynth.com Vintage Synth Explorer] - facts and photos of hundreds of old and new synths 
+ * [http://www.phinnweb.org/history/ The history of Electronic Music] 
+ * [http://www.obsolete.com/120_years/ 120 years of Electronic Music] {{Webarchive|url=https://web.archive.org/web/20070717060550/http://www.obsolete.com/120_years/ |date=2007-07-17 }} 
+ 
+ [[Category:Electronic musical instruments]] 
+ [[Category:Audio technology]]

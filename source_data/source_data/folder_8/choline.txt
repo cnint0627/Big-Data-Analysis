@@ -1,0 +1,138 @@
+{{chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 477165756 
+ | Name = Choline 
+ | ImageFileL1 = Choline-skeletal.svg 
+ | ImageAltL1 = Skeletal formula 
+ | ImageNameL1 = The ''N'',''N'',''N''-trimethylethanolammonium cation, with an undefined counteranion, X 
+ | ImageFileR1 = Choline-cation-3D-balls.png  
+ | ImageSizeR1 = 180 
+ | ImageAltR1 = Ball-and-stick model 
+ | ImageNameR1 =  
+ | PIN = 2-Hydroxy-''N'',''N'',''N''-trimethylethan-1-aminium  
+ | OtherNames = 2-Hydroxy-''N'',''N'',''N''-trimethylethanaminium < br / > Bilineurine < br / > (2-Hydroxyethyl)trimethylammonium 
+ |Section1={{Chembox Identifiers 
+ | IUPHAR_ligand = 4551 
+ | 3DMet = 
+ | Abbreviations = 
+ | Beilstein = 1736748  
+ | CASNo = 62-49-7  
+ | CASNo_Ref = {{cascite|correct|??}} 
+ | CASNoOther = 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 15354 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 299 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB00122 
+ | EC_number = 200–655–4 
+ | EINECS = 
+ | Gmelin = 324597  
+ | InChI = InChI=1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = C00114 
+ | MeSHName = 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = N91BDP6H0X 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 920 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = OEYIOHPDSNJKLS-UHFFFAOYSA-N 
+ | PubChem = 6209 
+ | RTECS = 
+ | SMILES = C[N+](C)(C)CCO 
+ | UNNumber = 
+ }} 
+ |Section2={{Chembox Properties 
+ | AtmosphericOHRateConstant = 
+ | Appearance = 
+ | BoilingPtC = 305 
+ | BoilingPt_notes = 
+ | Density = 1.09 g/ml 
+ | Formula = C < sub > 5 < /sub > H < sub > 14 < /sub > NO < sup > + < /sup > 
+ | HenryConstant = 
+ | LogP = 
+ | MolarMass = 104.17080 
+ | MeltingPt =  
+ | MeltingPt_notes = 
+ | pKa = 
+ | pKb = 
+ | Solubility = 500 mg/ml 
+ | SolubleOther = 
+ | Solvent = 
+ | VaporPressure =}} 
+ |Section3={{Chembox Structure 
+ | Coordination = 
+ | CrystalStruct = 
+ | MolShape = }} 
+ |Section4={{Chembox Thermochemistry 
+ | DeltaHc = 
+ | DeltaHf =  
+ | Entropy = 
+ | HeatCapacity = }} 
+ |Section5={{Chembox Pharmacology 
+ | AdminRoutes = 
+ | Bioavail = 
+ | Excretion = 
+ | HalfLife = 
+ | Metabolism = 
+ | Legal_status = 
+ | Legal_US = 
+ | Legal_UK = 
+ | Legal_AU = 
+ | Legal_CA = 
+ | Pregnancy_category = 
+ | Pregnancy_AU = 
+ | Pregnancy_US = 
+ | ProteinBound = }} 
+ |Section6={{Chembox Explosive 
+ | DetonationV =  
+ | FrictionSens = 
+ | REFactor = 
+ | ShockSens = }} 
+ |Section7={{Chembox Hazards 
+ | AutoignitionPt = 
+ | EUClass = 
+ | ExploLimits = 
+ | ExternalSDS = 
+ | FlashPt = 
+ | LD50 = 
+ | MainHazards = 
+ | NFPA-H = 
+ | NFPA-F = 
+ | NFPA-R = 
+ | NFPA-S = 
+ | PEL = 
+ | RPhrases = 
+ | RSPhrases = 
+ | SPhrases = }} 
+ |Section8={{Chembox Related 
+ | OtherFunction_label = 
+ | OtherAnions = 
+ | OtherCations = 
+ | OtherCompounds = 
+ | OtherFunction = }} 
+ }} 
+ '''Choline''' is an [[organic compound]]. It is the precursor molecule (~building block) for the [[neurotransmitter]] [[acetylcholine]]. Acetylcholine is involved in many functions including [[memory]] and [[muscle]] control. 
+ 
+ Some animals cannot produce choline, but must have it in their diet to stay healthy. Humans make a small amount of choline in the [[liver]]. In the [[United States]], choline is recommended as an [[essential nutrient]] after research showed that humans need to get it. They need to have choline in their diet or take a [[dietary supplement|supplementation]] for proper health. < ref name= " lpi " > {{cite web|url=http://lpi.oregonstate.edu/mic/other-nutrients/choline|title=Choline|publisher=Micronutrient Information Center, Linus Pauling Institute, Oregon State University, Corvallis, Oregon|date=February 2015|accessdate=10 January 2017}} < /ref > < ref name= " Zeisel " > {{cite journal |author=Zeisel SH  |author2=da Costa KA |title=Choline: an essential nutrient for public health |journal=Nutrition Reviews |volume=67 |issue=11 |pages=615–23 |date=November 2009 |pmid=19906248 |pmc=2782876 |doi=10.1111/j.1753-4887.2009.00246.x}} < /ref >  Possible benefits include reducing the risk of neural tube defects and fatty liver disease. It has also been found that intake of choline during pregnancy can have long-term beneficial effects on memory for the child. < ref name=Zeisel/ > 
+ 
+ Choline is usually grouped with the [[B vitamin complex|Vitamin B complex]]. It is a [[vitamin]] that is needed by the [[human body]]. Adults should take between 425 and 550 milligrams of it daily. Choline is used by the body in the walls of [[cell]]s and as a [[neurotransmitter]]. It also helps to prevent [[heart disease]]. There are claims that it helps reduce body [[fat]], but this has not been proven. 
+   
+ == History == 
+ Choline was discovered by Andreas Strecker in 1864. In 1998 choline was classified as an needed [[nutrient]] by the [[Food and Nutrition Board]] of the [[Institute of Medicine]] ([[United States|USA]]). < ref > {{pauling|id=othernuts/choline/|title=Choline|author=Jane Higdon}} < /ref > < ref > " [http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/cho_0283.shtml Choline], ''PDRHealth'' < /ref > < ref > " [http://www.abc.net.au/rn/talks/8.30/helthrpt/stories/s119524.htm Choline] "  (An interview with Steven Zeisel, Editor-in-Chief of the Journal of Nutritional Biochemistry), ''Radio National Health Report with Norman Swan'', Monday 17 April 2000 < /ref > 
+ 
+ == Sources == 
+ Sources of Choline are [[Egg (food)|egg]] [[yolk]]s, [[soybean|soy]] and cooked [[beef]], [[chicken]], [[veal]] and [[turkey (bird)]] [[liver]]s. Many foods contain small amounts of choline, even iceberg [[lettuce]]. 
+ 
+ == References == 
+ < references/ > 
+ 
+ {{Alkaloids}} 
+ 
+ [[Category:Vitamins]] 
+ [[Category:Food supplements]] 
+ [[Category:Nutrients]] 
+ [[Category:Organonitrogen compounds]]

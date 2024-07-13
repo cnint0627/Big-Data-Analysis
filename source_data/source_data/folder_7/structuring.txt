@@ -1,0 +1,89 @@
+{{distinguish|Structured finance}} 
+ {{Use dmy dates|date=January 2020}} 
+ {{Globalize|article|USA|2name=the United States|date=October 2014}} 
+ 
+ '''Structuring''', also called '''smurfing''' is a way to cheat in American [[banking industry|banking]].  It is the act of breaking a large sum of money into smaller sums to hide it from the law.  Some United States laws, for example the [[Bank Secrecy Act]] and [[Internal Revenue Code]] say people have to tell the government if they move large amounts of money all at once.  By moving the money in smaller amounts, people can sneak past the law.  People might structure if they are [[money laundering|trying to make criminal money look like honest money]] or committing [[fraud]]. 
+ 
+ ==Definition== 
+ Structuring is the act of dividing a large financial transaction, for example a payment or bank deposit, into many smaller ones to sneak past the law. < ref name= " linn " > {{cite journal|last1=Linn|first1=Courtney J.|title=Redefining the Bank Secrecy Act: Currency Reporting and the Crime of Structuring|journal=Santa Clara Law Review|date=2010|volume=50|issue=2|pages=407–513|url=http://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1058 & context=lawreview}} < /ref >  The structurer, or  " smurf, "  makes sure each smaller sum is lower than the number that the law says must be reported.  For example, if the limit is $10,000 in one day, the structurer will move no more than $9,999.99 in one day.  groups of criminals sometimes use many smurfs who move money. 
+ 
+ The word  " smurfing "  comes from [[the Smurfs]], which are fictional people from comic books.  The Smurf village has a large group of many small people.  A Miami lawyer named Gregory Baldwin may be the person who first named structuring  " smurfing. "  People have called it that since the 1980s. < ref > {{cite news | author1=Gross, Samantha | author2=Barrett, Devlin | title=Spitzer Tripped Up on Laws He Enforced | url=http://www.foxnews.com/wires/2008Mar11/0,4670,SpitzerTheMoneyTrail,00.html | work=Fox News | date=11 March 2008 | access-date=2008-03-14 | url-status=dead | archive-url=https://web.archive.org/web/20080322064115/http://www.foxnews.com/wires/2008Mar11/0,4670,SpitzerTheMoneyTrail,00.html | archive-date=22 March 2008 | df=dmy-all }} < /ref > 
+ 
+ ==Regulations== 
+ 
+ ===United States=== 
+ In the [[United States]], the [[Bank Secrecy Act]] says people must write the government [[currency transaction report]]s (CTRs) if they buy, sell, or deposit money worth $10,000 or more.  This is either in USD or any money from any other country. < ref > See generally {{usc|31|5313}}, {{usc|31|5324}}, 31 C.F.R. sec. 1010.311, and 31 C.F.R. sec. 1010.314. < /ref >  [[Financial institution]]s, for example banks, that think someone might be smurfing have to tell the government about it.  They file a [[suspicious activity report]] (SAR). < ref > See generally 31 C.F.R. sec. 1010.320. < /ref >  In 1986, the [[U.S. Congress]] passed a new part of Title 31 of the [[United States Code]]: < ref > See section 1354(a) of the Anti-Drug Abuse Act of 1986, Public Law No. 99-570, 100 Stat. 3207, at 3207-22 (27 October 1986). < /ref > 
+ 
+ < blockquote > No person shall, for the purpose of evading the reporting requirements of section 5313 (a) or 5325 or any regulation prescribed under any such section, the reporting or record keeping requirements imposed by any order issued under section 5326, or the record keeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—[...] 
+ 
+ (3) structure or assist in structuring, or attempt to structure or assist in structuring, any transaction with one or more domestic financial institutions. < /blockquote > 
+ 
+ This law also says that people who smurf may be punished with [[fine|paying their own money]], five years in prison, or both. < ref > See 31 USC section 5324(d)(1). < /ref >  The filing of Form 8300 is required under [[Internal Revenue Code]] section 6050I. < ref > {{cite book | author=Internal Revenue Service | chapter=Part IV Examining Process; Chapter 26 Bank Secrecy Act; Section 13 Structuring | title=Internal Revenue Manual | location=Washington, D.C. | publisher=US Treasury Department | url=https://www.irs.gov/irm/index.html | chapter-url=https://www.irs.gov/irm/part4/ch25s17.html | date=1 June 2006 | oclc=37305546 | access-date=11 March 2008}} < /ref > 
+ 
+ If a bank files a suspicious activity report, a judge may issue a [[warrant]].  This is a piece of paper that says, in this case, the police or other agents may take the money in the smaller payments and hold it as evidence.  Even if the person or business was not really smurfing, they still have to hire lawyers and go to a court of law.  This can cost $20,000 or more. 
+ 
+ In 2014, ''[[The New York Times]]'' printed a story about money taken from innocent people in this way.  The [[Internal Revenue Service]] (IRS) then changed the way it worked. 
+ 
+ If a banks thinks a customer is smurfing and files a suspicious activity report, the bank is not allowed to tell the customer about it unless the customer asks.  Sometimes bank desk employees will warn customers anyway. < ref name = NYT102514  > [https://www.nytimes.com/2014/10/26/us/law-lets-irs-seize-accounts-on-suspicion-no-crime-required.html  " Law Lets I.R.S. Seize Accounts on Suspicion, No Crime Required " ] article by Sahaila Dewan in ''[[The New York Times]]'' 25 October 2014 < /ref > 
+ 
+ ===Outside the United States=== 
+ 
+ {| class= " wikitable " 
+ ! width= " 120 "  | Jurisdiction 
+ ! width= " 100 "  | Single transaction 
+ ! Notes 
+ |- 
+ | [[Australia]] 
+ | [[Australian Dollar|AU$]]10,000 
+ | Australia does not have a rule about how much money a person can move per week or per month.  But dividing money into smaller amounts to hide it from the law is always illegale. < ref > {{cite web | author=Australian Transaction Reports and Analysis Centre | author-link=Australian Transaction Reports and Analysis Centre | title=AUSTRAC Guideline No. 1: Suspect Transaction Reporting | url=http://www.austrac.gov.au/sites/default/files/documents/guideline_1_archived.pdf | format=.PDF | work=Financial Transaction Reports Act 1988 | publisher=Government of Australia | date=September 2002 | access-date=12 March 2008 | archive-date=19 November 2016 | archive-url=https://web.archive.org/web/20161119185930/http://www.austrac.gov.au/sites/default/files/documents/guideline_1_archived.pdf | url-status=dead }} < /ref > 
+ |- 
+ | [[Brazil]] 
+ | ''varies'' 
+ | Depends on the type of transaction. < ref > {{cite web | author=Conselho de Controle de Atividades Financeiras | title=Lavagem de Dinheiro | url=http://www.coaf.fazenda.gov.br/conteudo/publicacoes | publisher=Ministério da Fazenda | language=pt | access-date=2008-03-12 | url-status=dead | archive-url=https://web.archive.org/web/20070703151241/http://www.coaf.fazenda.gov.br/conteudo/publicacoes | archive-date=3 July 2007 | df=dmy-all }} < /ref > 
+ |- 
+ | [[Canada]] 
+ | [[Canadian dollar|CA$]]10,000 
+ | People must tell the government any time they move CA$10,000 or more in one day. Some businesses that move money are allowed to use another reporting rule instead: the Alternative to Large Cash Transaction (ALCT) reporting rule. < ref > {{cite web|url=https://www.fintrac-canafe.gc.ca/guidance-directives/transaction-operation/Guide9/9-eng|title=Guideline 9: Alternative to Large Cash Transaction Reports to FINTRAC|work=fintrac.gc.ca|date=17 April 2009}} < /ref > 
+ |- 
+ | [[Germany]] 
+ | €15,000 
+ |€10,000 for goods deals. < ref > {{Cite web|url=https://www.gesetze-im-internet.de/gwg_2017/__10.html|title=§ 10 GwG - Einzelnorm|website=www.gesetze-im-internet.de|access-date=2019-05-26}} < /ref > 
+ |- 
+ | [[Republic of Ireland|Ireland]] 
+ | €10,000 
+ |Per the 4th EU Anti-Money Laundering Directive (2017) < ref > http://www.antimoneylaundering.gov.ie/website/aml/amlcuweb.nsf/0/B75E0654ED35762480257F230043F9FE/$File/2014%20Report.pdf < /ref > 
+ |- 
+ | [[Italy]] 
+ | €12,500 
+ | < ref > {{cite web | author=Dipartimento del Tesoro | title=Antiriciclaggio | url=http://www.dt.tesoro.it/Aree-Docum/Prevenzion/Antiriciclaggio/index.htm | publisher=Ministero dell'Economia e delle Finanze | language=it | access-date=2008-03-12 | url-status=dead | archive-url=https://web.archive.org/web/20080315134134/http://www.dt.tesoro.it/Aree-Docum/Prevenzion/Antiriciclaggio/index.htm | archive-date=15 March 2008 | df=dmy-all }} < /ref > 
+ |- 
+ | [[Netherlands]] 
+ | €15,000 
+ | < ref > {{cite web | author=FIU-Nederland | title=Meldingen Ongebruikelijke Transacties | url=http://www.justitie.nl/mot/ | publisher=Ministerie van Justitie | language= nl | access-date=12 March 2008}} < /ref > 
+ |- 
+ | [[Sweden]] 
+ | €10,000 
+ | < ref > {{cite web |author1=Europa Taxation  |author2=Customs Union  |name-list-style=amp | title=Cash controls | url=http://ec.europa.eu/taxation_customs/customs/customs_controls/cash_controls/index_en.htm | publisher=European Commission | date=21 December 2007 | access-date=12 March 2008}} < /ref > 
+ |- 
+ | [[Thailand]] 
+ | US$58,000 
+ | < ref > {{cite web| author=Netipoom Maysakun| title=MONEY LAUNDERING IN THAILAND| url=http://www.unafei.or.jp/english/pdf/PDF_rms/no73/12_p86-p94.pdf| publisher=The United Nations Asia and Far East Institute for the Prevention of Crime and the Treatment of Offenders| access-date=15 September 2008}}{{Dead link|date=January 2022 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ |} 
+ 
+ ==Other uses== 
+ The word  " smurfing "  is also for [[controlled substance|drugs]]s, for example [[pseudoephedrine]]. < ref name= " justice.gov " > {{cite web |url=https://www.justice.gov/dea/concern/18862/ndic_2009.pdf |title=DEA |page=16 |publisher=Justice.gov |url-status=dead |archive-url=https://web.archive.org/web/20101017093604/http://www.justice.gov/dea/concern/18862/ndic_2009.pdf |archive-date=17 October 2010 |df=dmy-all }} < /ref >  In this type of smurfing, the agent buys small amounts of legal drugs from many places, then puts the small amounts together to make enough to make the illegal drug [[methamphetamine]]. < ref name= " justice.gov " / >  Also, since the monthly [[pseudoephedrine]] purchase limits in US are too low for mass meth production, this practice often involves using multiple people, other  " smurfs. " 
+ 
+ As Robert Pennal of the Fresno Meth Task Force explains: 
+ 
+ < blockquote > Then we started seeing  " smurfing. "  Remember how the smurfs were little gatherers? We started getting calls from different retail stores that people were buying two or three packs—that's the most you can buy—and they went to one store, they bought three, they went to another store, bought three. We're seeing [[blister packs]] everywhere because they're sitting in the car, they're punching the pills out of the blister packs, they're putting them in the freezer bags and they're turning them over to chemical brokers. < ref > {{cite web|url=https://www.pbs.org/wgbh/pages/frontline/meth/etc/script.html|title=Transcript – The Meth Epidemic |work=Frontline – PBS}} < /ref > < /blockquote > 
+ 
+ ==Related pages== 
+ * [[Salami slicing]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ * [https://web.archive.org/web/20060319192030/http://www.fincen.gov/fincenruling2005-6.pdf Financial Crimes Enforcement Network ruling on structuring] 
+ 
+ [[Category:Financial crimes]]

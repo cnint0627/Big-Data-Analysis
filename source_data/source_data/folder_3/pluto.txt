@@ -1,0 +1,144 @@
+{{other uses}} 
+ {{Infobox Planet 
+ | bgcolour=#A0FFA0 
+ | name = Pluto 
+ | symbol = [[File:Pluto symbol (large orb, bold).svg|24px|⯓]][[File:Pluto monogram (bold).svg|24px|♇]] 
+ | image = Pluto-01 Stern 03 Pluto Color TXT.jpg 
+ | caption = Enhanced color view of Pluto  < br/ > imaged by the [[New Horizons]] [[spacecraft]]  < br/ > on 13 July 2015 
+ 
+ | discoverer = [[Clyde Tombaugh|Clyde W. Tombaugh]] 
+ | discovered = February 18, 1930 
+ | mp_name = '''134340 Pluto''' 
+ | mp_category = [[dwarf planet]], < br / > [[trans-Neptunian object|TNO]], < br / > [[plutoid]], < br / > [[Kuiper belt|KBO]], < br / > [[plutino]] 
+ | epoch = [[J2000]] 
+ | aphelion = 7,375,927,931 km < br / > 49.305 & nbsp;032 & nbsp;87 [[Astronomical unit|AU]] 
+ | perihelion = 4,436,824,613 & nbsp;km < br / > 29.658 & nbsp;340 & nbsp;67 AU 
+ | semimajor = 5,906,376,272 & nbsp;km < br / > 39.481 & nbsp;686 & nbsp;77 AU 
+ | eccentricity = 0.248 & nbsp;807 & nbsp;66 
+ | inclination = 17.141 & nbsp;75° < br / > 11.88° to Sun's equator 
+ | asc_node = 110.303 & nbsp;47° 
+ | arg_peri = 113.763 & nbsp;29° 
+ | period = 90,613.305 days < br / > 248.09 [[julian year (astronomy)|years]] < br / > 14,164.4 Pluto [[solar day]]s < ref name= " planet_years " > {{cite web|url = http://cseligman.com/text/sky/rotationvsday.htm|title = Rotation Period and Day Length|last = Seligman |first = Courtney|accessdate = 2009-08-13}} < /ref > 
+ | synodic_period = 366.73 days 
+ | avg_speed = 4.666 & nbsp;km/s 
+ | satellites = [[Pluto's natural satellites|5]] 
+ 
+ | mean_radius = {{nowrap|1,187 ± 4 km}} < ref > {{citation|first=S. A. | display-authors = etal|last=Stern|title=The Pluto system: Initial results from its exploration by New Horizons|journal=Science|volume=350|issue=6258|pages=aad1815-1–aad1815-8|doi=10.1126/science.aad1815|date=16 October 2015| pmid = 26472913| arxiv = 1510.07704| bibcode = 2015Sci...350.1815S| s2cid = 1220226}} < /ref > < br / > 0.18 Earths 
+ | surface_area = 1.665{{e|7}} km² < ref group=note > Surface area derived from the radius ''r'':  < math > 4\pi r^2 < /math > '{{'}}'. < /ref > < br / > 0.033 Earths 
+ | volume = 6,39{{e|9}} km³ < ref group=note > Volume ''v'' derived from the radius ''r'':  < math > 4\pi r^3/3 < /math > '{{'}}'. < /ref > < br / > 0.0059 & nbsp; Earths 
+ | mass = (1.305 ± 0.007){{e|22}} kg < ref name= " Buie06 " / > < br / > 0.002 & nbsp;1 Earths < br / > 0.178 moon 
+ | density = 2.03 ± 0.06 g/cm³ < ref name= " Buie06 " / > 
+ | surface_grav = {{Gr|13.05|1153}} [[Acceleration|m/s²]] < ref group=note > Surface gravity derived from the mass ''m'', the [[gravitational constant]] ''G'' and the radius ''r'':  < math > Gm/r^2 < /math > . < /ref > < br / > 0.067 [[g-force|g]] 
+ | escape_velocity = {{V2|13.05|1153}} & nbsp;km/s < ref group=note > Escape velocity derived from the mass ''m'', the [[gravitational constant]] ''G'' and the radius ''r'':  < math > \sqrt{2Gm/r} < /math > . < /ref > 
+ | sidereal_day = [[retrograde motion|−6.387 & nbsp;230 day]] < br / > 6 d 9 h 17 m 36 s 
+ | rot_velocity = 47.18 & nbsp;km/h 
+ | axial_tilt = 119.591 ± 0.014° (to orbit) < ref name= " Buie06 " > {{cite journal 
+  | author = M.W. Buie, W.M. Grundy, E.F. Young, L.A. Young, S.A. Stern 
+  | title = Orbits and photometry of Pluto's satellites: Charon, S/2005 P1, and S/2005 P2 
+  | url = https://archive.org/details/sim_astronomical-journal_2006-07_132_1/page/290 
+  | journal = Astronomical Journal 
+  | year=2006 
+  | volume=132 
+  | issue = 1 
+  | pages=290–298 
+  | doi = 10.1086/504422 
+  | arxiv = astro-ph/0512491 
+  | bibcode = 2006AJ....132..290B 
+  | s2cid = 119386667 
+  }} < /ref > < ref name=inclination group=note > Based on the orientation of Charon's orbit, which is assumed the same as Pluto's spin axis due to the mutual [[tidal locking]]. < /ref > 
+ | right_asc_north_pole = 133.046 ± 0.014° < ref name= " Buie06 " / > 
+ | declination = −6.145 ± 0.014° < ref name= " Buie06 " / > 
+ | albedo = 0.49–0.66 (varies by 35%) < ref name=Hamilton > {{cite web 
+   |date=2006-02-12 
+   |title=Dwarf Planet Pluto 
+   |publisher=Views of the Solar System 
+   |author=Calvin J. Hamilton 
+   |url=http://www.solarviews.com/eng/pluto.htm 
+   |accessdate=2007-01-10}} < /ref > < ref name= " Pluto Fact Sheet " / > 
+ | magnitude = up to 13.65 (mean is 15.1) < ref name= " Pluto Fact Sheet " > {{cite web 
+  |url = http://nssdc.gsfc.nasa.gov/planetary/factsheet 
+  |author = David R. Williams 
+  |title = Planetary Fact Sheet 
+  |accessdate = 2007-03-31 
+  |publisher = NASA }} < /ref > 
+ | abs_magnitude = −0.7 < ref name=jpldata > {{cite web 
+   |title=JPL Small-Body Database Browser: 134340 Pluto 
+   |url=http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=Pluto 
+   |accessdate=2008-06-12}} < /ref > 
+ | pronounce = {{IPA-en|ˈpluːtoʊ||en-us-Pluto.ogg}}, < ref group=note > In US dictionary transcription, {{USdict|plōō′·tō}}. From the {{lang-la|Plūto}} < /ref > 
+ | adjectives = Plutonian 
+ | atmosphere = yes 
+ 
+ | temp_name1 = [[Kelvin]] 
+ | min_temp_1 = 33 K 
+ | mean_temp_1 = 44 K 
+ | max_temp_1 = 55 K 
+ | surface_pressure = 0.30 [[pascal (unit)|Pa]] (summer maximum) 
+ | atmosphere_composition = [[nitrogen]], [[methane]], [[carbon monoxide]] 
+ | note=no}} 
+ 
+ '''Pluto''' is a [[dwarf planet]] in the [[Solar System]]. < ref > {{cite web|url=https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/overview/|title=Pluto Overview|access-date=September 9, 2018}} < /ref >  Its [[Minor planet names|formal name]] is '''134340 Pluto''', and its planetary symbol [[File:Pluto symbol (large orb, fixed width).svg|16px|⯓]] < ref > {{cite web |url= https://www.jpl.nasa.gov/infographics/what-is-a-dwarf-planet |author= JPL/NASA |date= 2015-04-22  |website= Jet Propulsion Laboratory |title= What is a Dwarf Planet? |access-date= 2022-01-19}} < /ref >  or [[File:Pluto monogram (fixed width).svg|16px|♇]]. < ref > {{cite book |editor=John Lewis |date=2004 |title=Physics and chemistry of the solar system |url=https://archive.org/details/physicschemistry00lewi_433 |edition= 2 |page=[https://archive.org/details/physicschemistry00lewi_433/page/n78 64] |publisher=Elsevier|isbn=9780124467446 }} < /ref >  Pluto is the ninth largest body that moves around the [[Sun]]. Upon first being discovered, Pluto was considered a planet but was reclassified to a dwarf planet in 2006. It is the largest body in the [[Kuiper belt]]. 
+ 
+ Like other [[wikt:member|members]] of the Kuiper belt, Pluto is mainly made of rock and ice. It is quite small. It is about a fifth (⅕) of the weight of the [[Earth]]'s [[Moon]]. It is only a third (⅓) of its volume. Pluto is very far from the Sun, so its temperature is very low. The average temperature on Pluto is -226 to -240 degrees Celsius. < ref > {{Cite web|title=In Depth {{!}} Pluto|url=https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/in-depth|access-date=2021-10-08|website=NASA Solar System Exploration}} < /ref >  It has an [[orbital eccentricity|odd]] orbit and this orbit is very sloped. It takes Pluto to 30 to 49 & nbsp;[[Astronomical unit|AU]] (4.4–7.4 billion & nbsp;km) from the Sun. This causes Pluto to sometimes go closer to the Sun than [[Neptune]]. 
+ 
+ Since it was discovered in 1930, Pluto was thought to be the Solar System's ninth planet. In the late 1970s, the minor planet 2060 Chiron was found and people learned that Pluto had a small size. < ref name=ridpath > {{cite journal|author=Ian Ridpath|title=Pluto—Planet or Impostor?|url=http://myweb.tiscali.co.uk/ianridpath/Pluto.pdf|journal=Astronomy|date=December 1978|pages=6–11|access-date=2010-05-02|archive-date=2012-08-07|archive-url=https://web.archive.org/web/20120807192820/http://myweb.tiscali.co.uk/ianridpath/Pluto.pdf|url-status=dead}} < /ref > 
+ Later, in the early 21st century, the [[scattered disc|scattered disc object]] [[Eris (dwarf planet)|Eris]] and other objects like Pluto were discovered. Eris was initially believed to be 27% larger than Pluto, but was later found to be slightly smaller. < ref > {{cite web|title=Astronomers Measure Mass of Largest Dwarf Planet|work=hubblesite|year=2007|url=http://hubblesite.org/newscenter/archive/releases/2007/24/full/|accessdate=2007-11-03}} < /ref >  On August 24, 2006, the [[International Astronomical Union]] (IAU) gave a definition to the word  " planet "  for the first time. By this definition, Pluto was not a planet anymore. It became a  " dwarf planet "  along with Eris and [[Ceres (dwarf planet)|Ceres]]. < ref > {{cite web| url = http://news.bbc.co.uk/1/hi/magazine/4737647.stm| title = Farewell Pluto?| author = A. Akwagyiram| publisher = BBC News| date = 2005| accessdate = 2006-03-05}} < /ref >  After this, Pluto was put on the list of [[minor planet]]s and was downgraded in 2006 by astronomer Michael E Brown. < ref > {{Cite news|url=https://www.bbc.com/news/science-environment-33514304|title=Man who 'killed Pluto' has no regrets|last=Ghosh|first=Pallab|date=2015-07-14|access-date=2019-02-18|language=en-GB}} < /ref >  It was given the number 134340. < ref > {{cite web| url=http://cfa-www.harvard.edu/mpec/K06/K06R19.html| title = MPEC 2006-R19 : Editorial Notice| author = T.B. Spahr| publisher = Minor Planet Center| date = 2006| accessdate = 2006-09-07}} < /ref > < ref > {{cite web| url = http://www.newscientistspace.com/article/dn10028-pluto-added-to-official-minor-planet-list.html| title = Pluto added to official  " minor planet "  list| author = D. Shiga | publisher=[[NewScientist]]| date = 2006| accessdate = 2006-09-08}} < /ref >  Some scientists still think that Pluto should be classified as a planet. < ref > {{cite web| url = https://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/08/10/scipluto110.xml| title = Pluto should get back planet status, say astronomers| author = Richard Gray| publisher = The Telegraph| date = 2008-08-10| accessdate = 2008-08-09| archive-date = 2008-08-12| archive-url = https://web.archive.org/web/20080812073452/http://www.telegraph.co.uk/earth/main.jhtml?xml=%2Fearth%2F2008%2F08%2F10%2Fscipluto110.xml| url-status = dead}} < /ref > 
+ 
+ == Discovery == 
+ In the 1840s, using [[Classical mechanics|Newtonian mechanics]], [[Urbain Le Verrier]] [[wikt:predict|predicted]] the planet [[Neptune]] existed. He discovered this after studying the orbit of [[Uranus]]. < ref > {{cite book| title = Planet quest: the epic discovery of alien solar systems| url = https://archive.org/details/planetquestepicd0000cros| author = K. Croswell| publisher = The Free Press| year = 1997| pages = [https://archive.org/details/planetquestepicd0000cros/page/43 43] 
+ | isbn = 978-0684832524}} < /ref >  Neptune was seen later in the late 19th century. Astronomers then felt that another planet was disturbing Uranus's orbit. In 1906, [[Percival Lowell]], a person from Boston began an [[wikt:extend|extensive]] to search the ninth planet. He called it  " Planet X " . < ref name= " Tombaugh1946 " > {{cite journal |last=Tombaugh |first=C. W. |authorlink=Clyde Tombaugh |year=1946 |title=The Search for the Ninth Planet, Pluto |journal=Astronomical Society of the Pacific Leaflets |volume=5 |issue= 209|pages=73–80 |bibcode=1946ASPL....5...73T |url=http://adsabs.harvard.edu/abs/1946ASPL....5...73T }} < /ref >  By 1909, Lowell and [[William Henry Pickering|William H. Pickering]] had suggested many possible places in the Solar System where the planet could be. < ref name= " Hoyt " / >  Lowell continued the research till 1916. However, it fetched no good result. On March 19, 1915, his observatory had captured two images of Pluto. Lowell did not know this. The pictures were not recognized then for what they were. < ref name= " Hoyt " / > < ref > {{cite book | title=Planets Beyond: Discovering the Outer Solar System | url=https://archive.org/details/planetsbeyonddis0000litt | author=Mark Littman | year=1990 | pages=[https://archive.org/details/planetsbeyonddis0000litt/page/70 70] | isbn=047151053X | publisher=Wiley }} < /ref > 
+ 
+ Constance Lowell, Percival's widow had a ten-year-long [[law|legal]] battle for Percival's estate. For this reason, the search for Planet X again started in 1929. < ref name=slipher > Croswell, p. 50 < /ref >  The director of the mission, Vesto Melvin Slipher, gave the job to Clyde Tombaugh, a 23-year-old Kansas man. Tombaugh had just come to the Lowell Observatory. Slipher had been impressed by his astronomical drawings. < ref name=slipher / > 
+ 
+ Tombaugh's had to [[system]]atically get pictures of the night sky in pairs every two weeks.  Then, he had to look at each pair, to see whether any object had shifted.  He used a machine called a [[blink comparator]]. He quickly shifted between the different views of each of the plates. This helped him to see whether any object had changed its position. On February 18, 1930, Tombaugh discovered an object which seemed to move from the photographic plates taken on January 23 and January 29 of the year. Another picture taken on January 21 confirmed this. < ref > Croswell p. 52 < /ref >  After the observatory did more research about it, news of the discovery was telegraphed to the Harvard College Observatory on March 13, 1930. < ref name= " Hoyt " > {{cite journal| title = W H. Pickering's planetary predictions and the discovery of Pluto| author = W.G. Hoyt| journal = Isis| volume = 67| issue = 4| year = 1976| pages = 551–564| jstor=230561| doi = 10.1086/351668| pmid = 794024| s2cid = 26512655}} < /ref > 
+ 
+ === Name === 
+ The discovery made headlines across the Earth. The Lowell Observatory had the right to name the new object. They received over 1000 suggestions from all over the world. Some proposed Atlas as the name. Others wanted to name it Zymal. < ref name= " pluto guide " > {{cite web| url = http://www.space.com/spacewatch/050311_pluto_guide.html| title = Finding Pluto: Tough Task, Even 75 Years Later| author = J. Rao| publisher = SPACE.com| date= 2005| accessdate=2006-09-08}} < /ref >  Tombaugh urged Slipher to suggest a name for the new object quickly before someone else did. < ref name= " pluto guide " / >  Constance Lowell proposed ''[[Zeus]],'' then ''Lowell,'' and finally Constance. These suggestions were not used. < ref > {{cite web| title = The search continues| author = B. Mager| work = Pluto: The Discovery of Planet X| url = http://www.discoveryofpluto.com/pluto05.html| accessdate = 2007-03-27}} < /ref > 
+ 
+ The name Pluto was proposed by [[Venetia Burney]] (later Venetia Phair). She was an 11-year-old schoolgirl in [[Oxford]], [[England]] then. < ref name= " Venetia " > {{cite news| title = The girl who named a planet| publisher = BBC News| author = P. Rincon| work = Pluto: The Discovery of Planet X| date = 13 January 2006| url = http://news.bbc.co.uk/1/hi/sci/tech/4596246.stm| accessdate = 2007-04-12}} < /ref >  Venetia was interested in [[classical mythology]] and astronomy. The name was of the [[Pluto (mythology)|Roman god of the underworld]]. She thought it was a good name for a dark and cold world. She suggested it when she was talking with her grandfather Falconer Madan. He was a former librarian at the University of Oxford's [[Bodleian Library]]. Madan passed the name to Professor [[Herbert Hall Turner]]. Turner told this proposed name to the astronomers in the United States. < ref > {{cite web| url = http://fredpratt.tripod.com/PR/pluto.html| title = The Planet 'Pluto'| author = K.M. Claxton| publisher = Parents' Union School Diamond Jubilee Magazine, 1891–1951 (Ambleside: PUS, 1951), p. 30–32| accessdate = 2007-10-15| archive-date = 2011-07-17| archive-url = https://web.archive.org/web/20110717102713/http://fredpratt.tripod.com/PR/pluto.html| url-status = dead}} < /ref > 
+ 
+ The object was officially named on March 24, 1930. < ref > {{cite news| title = The Trans-Neptunian body: decision to call it Pluto| newspaper = [[The Times]]| year = 1930| date =  May 27, 1930| pages = 15}} < /ref > < ref > {{cite news| title = Name Pluto given to body believed to be planet X| url = http://select.nytimes.com/gst/abstract.html?res=F60F14FC3D55147A93C7AB178ED85F448385F9 & scp=1 & sq=Name%20given%20to%20body%20planet%20X & st=cse| newspaper = [[The New York Times]]| location = New York City| year = 1930| date = May 25, 1930| agency = The Associated Press| issn =| page = 1| quote = Pluto, the title of the Roman gods of the region of darkness, was announced tonight at Lowell Observatory here as the name chosen for the recently discovered trans-Neptunian body, which is believed to be the long-sought Planet X. 
+ }} < /ref >  Each member of the Lowell Observatory was allowed to vote on a short list of three names. The names were [[Minerva]] (which was already the name for an asteroid), [[Cronus]], and Pluto. Pluto received all votes. < ref > Croswell pp. 54–55 < /ref >  The name was announced on May 1, 1930. < ref name= " Venetia " / >  Upon the announcement, Madan gave Venetia five pounds as a reward. < ref name= " Venetia " / > 
+ 
+ The name became popular in culture. The [[Disney]] character, ''Pluto'', was introduced in the same year. He was named in the object's honor. < ref > {{cite web|title=Dwarfed by comparison|author=Allison M. Heinrichs|work=Pittsburgh Tribune-Review|url=http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_467650.html|year=2006|accessdate=2007-03-26|archive-date=2007-11-14|archive-url=https://web.archive.org/web/20071114081539/http://www.pittsburghlive.com/x/pittsburghtrib/news/cityregion/s_467650.html|url-status=dead}} < /ref >  In 1941, [[Glenn T. Seaborg]] named the newly created [[Chemical element|element]] [[plutonium]] after Pluto. This was to keep the tradition of naming new elements after newly discovered planets. For example, [[uranium]] had been named after [[Uranus]], and [[neptunium]] after [[Neptune]]. < ref > {{cite web|title=Reflections on the Legacy of a Legend|author=David L. Clark and David E. Hobart|year=2000|url=http://www.fas.org/sgp/othergov/doe/lanl/pubs/00818011.pdf |accessdate=2007-08-09}} < /ref > 
+ 
+ === IAU classification === 
+ After a debate, in August 2006 an IAU resolution created an official definition for the term  " planet " . According to this resolution, there are three conditions for an object in the [[Solar System]] to be considered a planet: 
+ # The object must be in orbit around the [[Sun]]. 
+ # The object must be massive enough to be rounded by its own gravity. More specifically, its own gravity should pull it into a shape defined by [[hydrostatic equilibrium]]. 
+ # It must have cleared the neighborhood around its orbit. 
+ 
+ Pluto fails to meet the third condition. < ref name= " Margot2015 " > {{cite journal|last1=Margot|first1=Jean-Luc|title=A quantitative criterion for defining planets|journal=The Astronomical Journal|volume=150|issue=6|year=2015|pages=185 |doi=10.1088/0004-6256/150/6/185|bibcode=2015AJ....150..185M|arxiv=1507.06300|s2cid=51684830}} < /ref >  Its mass is much less than the combined mass of the other objects in its orbit: 0.07 times. [[Earth]], by contrast, is 1.7 million times the remaining mass in its orbit (excluding the moon). The IAU also decided that bodies which, like Pluto, meet criteria 1 and 2 but do not meet criterion 3, would be called [[dwarf planet]]s.  
+ 
+ In September 2006, the IAU included Pluto, and [[Eris]] and its moon [[Dysnomia (moon)|Dysnomia]], in their [[Minor Planet Catalogue]]. it gave them the official [[minor planet designation]]s  " (134340) Pluto " ,  " (136199) Eris " , and  " (136199) Eris I Dysnomia " . < ref > {{cite web |url=http://ssd.jpl.nasa.gov/sbdb.cgi#top |title=JPL Small-Body Database Browser |publisher=California Institute of Technology |accessdate=July 15, 2015}} < /ref > 
+ 
+ ===Moons=== 
+ [[file:Charon Eclipses Pluto on 25 February 1989.jpg |thumb|right|Size comparison with Pluto and Charon]] 
+ Pluto and its largest moon, [[Charon (moon)|Charon]], are sometimes called a  " binary system " . This is because the [[barycentre]] of their orbits does not lie within them. < ref > 
+ {{cite journal|title = The mass ratio of Charon to Pluto from Hubble Space Telescope astrometry with the fine guidance sensors| journal = Icarus| volume = 164| pages =  254–259| author = C.B. Olkin, L.H. Wasserman, O.G. Franz| url = http://www.as.utexas.edu/~fritz/astrometry/Papers_in_pdf/%7BOlk03%7DPlutoCharon.pdf| year = 2003| issue = 1| doi = 10.1016/S0019-1035(03)00136-2| bibcode = 2003Icar..164..254O| accessdate = 2007-03-13}} < /ref >  The IAU has yet to formalise a definition for binary dwarf planets, and until it passes such a ruling, they classify Charon as a [[natural satellite|moon]] of Pluto. < ref > 
+ {{cite web| title = The path to defining planets| author = O. Gingerich| work = Harvard-Smithsonian Center for Astrophysics and IAU EC Planet Definition Committee chair| year = 2006| url = http://astro.cas.cz/nuncius/nsiii_03.pdf| accessdate = 2007-03-13}} < /ref >  Pluto has four known smaller moons, [[Nix (moon)|Nix]] and [[Hydra (moon)|Hydra]], discovered in 2005, < ref > {{cite journal| title = Observing two Pluto stellar approaches in 2006: results on Pluto's atmosphere and detection of Hydra| author = B. Sicardy, W. Beisker | journal = Aas/Division for Planetary Sciences Meeting Abstracts #38 | display-authors = etal| url = http://adsabs.harvard.edu/abs/2006DPS....38.3106S| year = 2006| volume = 38 | bibcode = 2006DPS....38.3106S | accessdate = 2007-03-13}} < /ref >  [[Kerberos (moon)|Kerberos]], discovered in 2011, and [[Styx (moon)|Styx]], discovered in 2012. 
+ 
+ == Notes == 
+ {{reflist|colwidth=60em|group=note}} 
+ 
+ == References == 
+ {{reflist|colwidth=30em}} 
+ 
+ == Other websites == 
+ {{sisterlinks|Pluto}} 
+ * {{cite web |last=Nunberg |first=G. |title=Dwarfing Pluto |publisher=NPR |url=https://www.npr.org/templates/story/story.php?storyId=5723794 |date=August 28, 2006 |accessdate=2007-04-13 }} An examination of the redefinition of Pluto from a linguistic perspective. 
+ * [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Pluto Pluto Profile] {{Webarchive|url=https://web.archive.org/web/20120729075223/http://solarsystem.nasa.gov/planets/profile.cfm?Object=Pluto |date=2012-07-29 }} at [http://solarsystem.nasa.gov NASA's Solar System Exploration site] 
+ * {{cite web |title=Lowell Observatory |url=http://www.lowell.edu/AboutLowell/history.html |year=2007 |accessdate=2007-04-13 |archive-date=2007-03-11 |archive-url=https://web.archive.org/web/20070311043927/http://www.lowell.edu/AboutLowell/history.html |url-status=dead }} Website of the observatory that discovered Pluto 
+ * {{cite web |last=Williams |first=D. R. |title=Pluto Fact Sheet |publisher=NASA |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/plutofact.html |date=September 7, 2006 |accessdate=2007-04-13 }} 
+ * {{cite web |last=Dunn |first=T. |title=Pluto's 3:2 Resonance with Neptune |publisher=Gravity Simulator |url=http://www.orbitsimulator.com/gravity/articles/pluto.html |year=2006 |accessdate=2007-04-13 }} 
+ * {{cite web |last=Fraknoi |first=A. |title=Teaching What a Planet Is: A Roundtable on the Educational Implications of the New Definition of a Planet |publisher=Astronomy Education Review |url=http://aer.noao.edu/cgi-bin/article.pl?id=207 |year=2006 |accessdate=2007-04-13 |archive-date=2007-02-28 |archive-url=https://web.archive.org/web/20070228061650/http://aer.noao.edu/cgi-bin/article.pl?id=207 |url-status=dead }} Series of personal articles written by astronomers involved in the debate. 
+ * {{cite web |title=Pluto: Planet or Impostor? |url=http://www.ianridpath.com/Pluto.pdf |date= December 1978 |accessdate= 2008-11-21 }} An early article questioning the planetary status of Pluto. 
+ * {{cite web |title=NASA: New Horizons: Science: What We Know about Pluto, Charon and the Kuiper Belt: The Basics |url=http://pluto.jhuapl.edu/science/everything_pluto/1_basics.php |publisher=NASA |accessdate=2011-03-31 |archive-date=2014-11-13 |archive-url=https://web.archive.org/web/20141113225441/http://pluto.jhuapl.edu/science/everything_pluto/1_basics.php |url-status=dead }} 
+ * {{cite web|title=NASA: New Horizons: Science: What We Know About Pluto, Charon and the Kuiper Belt: Pluto's Atmosphere|url=http://pluto.jhuapl.edu/science/everything_pluto/7_atmosphere.php|publisher=NASA|accessdate=2011-03-31|archive-date=2008-05-13|archive-url=https://web.archive.org/web/20080513023748/http://pluto.jhuapl.edu/science/everything_pluto/7_atmosphere.php|url-status=dead}} 
+ * {{cite web|url=http://www.bbc.co.uk/science/space/solarsystem/other_solar_system_bodies/pluto#p005y0lq|title=Clyde Tombaugh discovers Pluto|accessdate=2011-10-31|publisher=BBC|format=Video|archive-date=2011-10-31|archive-url=https://web.archive.org/web/20111031124715/http://www.bbc.co.uk/science/space/solarsystem/other_solar_system_bodies/pluto#p005y0lq|url-status=dead}} 
+ 
+ {{MinorPlanets Navigator|(134339) 5628 T-3|(134341) 1979 MA|PageName=(134340) Pluto|state=autocollapse}} 
+ {{Moons_of_Pluto}} 
+ {{Solar System}} 
+ {{authority control}} 
+ [[Category:Pluto| ]]

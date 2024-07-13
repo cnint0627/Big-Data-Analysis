@@ -1,0 +1,66 @@
+{{Use dmy dates|date=December 2012}} 
+ {{Infobox_Software 
+ | name = SetACL 
+ | logo =  
+ | screenshot =  
+ | caption =  
+ | developer = Helge Klein 
+ | latest_release_version = 3.0.6 
+ | latest_release_date =  7 September 2012 
+ | operating_system = [[Microsoft Windows]] 
+ | genre = [[Utility software]]  
+ | license = [[Freeware]] 
+ | website = [http://helgeklein.com/setacl/ helgeklein.com/setacl] 
+ }} 
+ 
+ '''SetACL''' is a [[freeware]] [[Utility software|utility]] for manipulating [[security descriptor]]s on [[Microsoft Windows]]. < ref > [http://helgeklein.com/setacl/documentation/ SetACL Documentation] < /ref >  It used to be available under the [[GNU Lesser General Public License]] (LGPL). It changed to a [[freeware]] license in version 3.0.0.0. 
+ 
+ ==Features== 
+ This list of features is taken from the product's [[Webpage|web page]]. < ref > [http://helgeklein.com/setacl/ SetACL Windows permission management] < /ref > 
+ * Supports the following object types on [[Windows 2000]] and later 
+ ** [[NTFS]] [[Computer file|files]] and [[Directory (file systems)|directories]] 
+ ** [[Windows Registry|registry keys]] 
+ ** [[Computer printer|printers]] 
+ ** [[Windows service|services]] 
+ ** [[Shared resource|network shares]] 
+ ** [[Windows Management Instrumentation|WMI objects]]  
+ * Manage permissions on local or remote systems in [[Windows Server domain|domains]] or [[Workgroup (Computer networking)|workgroups]]. 
+ * Set multiple permissions for multiple users or groups in a single command. 
+ * Control how permissions are inherited. 
+ * List, backup and restore permissions. 
+ * All operations work on a single object or recursively on a directory or registry tree. 
+ * Set the owner to any user or group. 
+ * Unicode support. 
+ * Remove, replace or copy a user or group from an [[Access control list|ACL]]. 
+ * Fast performance. This is due to time consuming steps only being performed only once. An example of a time consuming step is the recursing of a large [[file system]]. 
+ * Filter out object names not to be processed. 
+ 
+ ==Usage== 
+ To set 'change' permissions on the directory 'C:\angela' for user 'brian' in domain 'dom1': 
+ 
+  SetACL.exe -on  " C:\angela "  -ot file -actn ace 
+             -ace  " n:dom1\brian;p:change " 
+ 
+ Remove write and change permission sets from Desktop, replace with 'read and execute' permissions:  
+ 
+  SetACL.exe -on  " \\mycomputer\C$\Documents and Settings\username\Desktop "  -ot file  
+             -actn ace -ace  " n:mycomputer\username;p:write,change;m:revoke " 
+             -ace  " n:mycomputer\username;p:read_ex " 
+ 
+ An example of its use from [[AutoIt]] can be found [http://www.autoitscript.com/forum/index.php?showtopic=74626 here] 
+ 
+ ==Short history== 
+ * March 2001 SetACL program 0.x development begins 
+ * December 2002 SetACL program 2.x development begins 
+ * April 2003 2.0 beta 1 released 
+ * July 2003 2.0 final released 
+ * September 2003 2.0.1.0 released - Remove, replace or copy all Access Control Entries (ACEs) belonging to users or groups of a specified [[Windows Server domain|domain]]. 
+ * January 2004 2.0.2 released - [[ActiveX]] support. can be used from any language that supports [[Component Object Model|COM]] including [[AutoIt]], [[Visual Basic]], [[Perl]], [[VBScript]]. 
+ * May 2008 2.0.3 released - 64-bit support 
+ * August 2010 2.1 released - Improved permission listing 
+ 
+ ==Notes== 
+ {{reflist}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Microsoft Windows software]]

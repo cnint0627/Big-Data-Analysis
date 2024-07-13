@@ -1,0 +1,41 @@
+A '''heuristic''' is a practical way to solve a [[problem]]. It is better than [[chance]], but does not always work. A person develops a heuristic by using [[intelligence]], [[experience]], and [[common sense]]. [[Trial and error]] is the simplest heuristic, but one of the weakest. '''Rule of thumb''' and 'educated guesses' are other names for simple heuristics. Since a heuristic is not certain to get a result, there are always exceptions. 
+ 
+ Sometimes heuristics are rather vague: 'look before you leap' is a guide to behaviour, but 'think about the consequences' is a bit clearer. Sometimes a heuristic is a whole set of stages. When doctors examines a patient, they go through a whole set of tests and observations. They may not find out what is wrong, but they give themselves the best chance of succeeding. This is called a [[diagnosis]]. 
+ 
+ In [[computer science]], a 'heuristic' is a kind of [[algorithm]]. Algorithms are written to get a good solution to a problem. A heuristic algorithm might usually find pretty good solutions, but there is no [[guarantee]] or [[Mathematical proof|proof]] that the solutions are correct. The time it takes to run the algorithm is another consideration. 
+ 
+ == Background == 
+ Heuristics is the [[art]] of finding an adequate solution to a problem, using limited knowledge and little time. < ref > G. Gigerenzer G.  &  Todd P.M. 1999. ''Simple heuristics that make us smart''. New York: Oxford University Press. < /ref >  More formally, heuristics are based on experience; they can speed up the search for a solution using simple rules. A complete search may take too long, or may be too difficult to do. 
+ 
+ In more precise terms, heuristics are strategies using readily accessible, though loosely applicable, information to control [[problem solving]] in human beings and machines. < ref > Pearl, Judea 1983. ''Heuristics: intelligent search strategies for computer problem solving''. New York, Addison-Wesley, vii. {{ISBN|978-0201055948}} < /ref > 
+ 
+ Heuristics can be used in some fields of science, but not in others: For economics, a solution that is one percent off is often acceptable; a [[telescope]] that has an error of one degree is probably unusable if aimed at a far-away object. The same telescope pointed to the window across the street will probably tolerate this error; missing by one degree will not have a big impact on a short distance. 
+ 
+ Heuristics can be used to estimate an answer which is then made more clear by performing an exact solution at a very small scale, perhaps to save time, money or labor on a project - for example a heuristic guess as to how much weight a bridge is expected to carry can be used to determine whether the bridge should be made of wood, stone or steel, and appropriate quantities of the needed material can be purchased while the exact design of the bridge is being completed. 
+ 
+ However, the use of heuristics in certain very technical fields may be damaging {{ndash}} computer science is one example. Programming a computer to perform more or less the desired actions may result in severe glitches. Therefore, computer tasks generally must be fairly exact. However, there are certain areas in which computers can calculate heuristic solutions safely {{ndash}} for example [[Google]]'s search technology relies heavily on heuristics, producing  " near-miss "  matches to a search query when an exact match cannot be found. This enables a user to correct for any mistakes the search produces. Example: Searching for the name  " Peter Smith "  and unable to find that exact name, the [[search engine]] heuristically matches  " Pete Smith "  instead, and the person using the search engine must decide whether Pete and Peter are the same person. 
+ 
+ == Examples == 
+ === Polya === 
+ Here are some other commonly used heuristics, from Polya's 1945 book, ''How to Solve It'': < ref > Polya, George 1945. ''How To Solve It: a new aspect of mathematical method''. Princeton, N.J; Princeton University Press. {{ISBN|0-691-02356-5}} {{ISBN|0-691-08097-6}} < /ref > 
+ * If you are having difficulty understanding a problem, try drawing a picture. 
+ * If you can't find a solution, try assuming that you have a solution and seeing what you can derive from that ( " working backward " ). 
+ * If the problem is abstract, try examining a concrete example. 
+ * Try solving a more general problem first: the  " [[inventor]]'s [[paradox]] " : the more ambitious plan may have more chances of success. 
+ 
+ === Packing problem === 
+ [[File:Knapsack.svg|thumb|right|250px|Example of a packing problem. This is a one-dimensional (constraint) [[Knapsack problem]]: which boxes should be chosen to maximize the amount of money and keep the overall weight under 15 & nbsp;kg? A multi dimensional problem could consider the density or dimensions of the boxes, the latter a typical [[packing problem]]. < br / > 
+ (The solution in this case is to choose all of the boxes besides the green one.)]] 
+ 
+ One example where heuristics are useful is a kind of packing problem. The problem consists of packing a number of items. There are rules that need to be respected. For example, each item has a value and a weight. The problem now is to get the most valuable items, with the least weight possible. Another instance is fitting a number of differently-sized items into a confined space, like the trunk of a car. 
+ 
+ To get the perfect solution to the problem, all possibilities must be tried. This is often not a good option, as trying them takes a long time, and on average, half the possibilities must be tried until a solution is found. So what most people will do is to start with the biggest item, fit it in, and then try to arrange the other items around it. This will give a good solution, most of the time. There are cases however, where such a solution is very bad and another technique must be used. 
+ 
+ Therefore, this is a heuristic solution. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Problem solving]] 
+ [[Category:Mathematics]] 
+ [[Category:Computer science]]

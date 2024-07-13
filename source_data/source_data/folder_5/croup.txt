@@ -1,0 +1,143 @@
+{{complex|date=April 2012}} 
+ {{Infobox Disease 
+  | Name           = Croup 
+  | Image          = Croup steeple sign.jpg 
+  | Caption        = The [[steeple sign]] as seen on an AP neck X-ray of a child with croup 
+  | DiseasesDB     = 13233 
+  | ICD10          = {{ICD10|J|05|0|j|00}} 
+  | ICD9           = {{ICD9|464.4}} 
+  | ICDO           = 
+  | OMIM           = 
+  | MedlinePlus    = 000959 
+  | eMedicineSubj  = ped 
+  | eMedicineTopic = 510 
+  | eMedicine_mult = {{eMedicine2|emerg|370}} {{eMedicine2|radio|199}} 
+  | MeshID         = D003440 
+ }} 
+ '''Croup''' (or '''laryngotracheobronchitis''') is caused by a virus and leads to swelling inside the throat. This swelling causes problems with normal breathing. People with croup can have a  " barking " [[cough]], [[stridor]] (a high-pitched wheezing sound), and [[hoarseness]]. Croup symptoms often get worse at night. Taking [[steroids]] by mouth can treat the condition. Sometimes [[epinephrine]] is used in more severe cases. Hospitalization is rarely required. 
+ 
+ Doctors decide if a person has croup after they have eliminated other possibilities (for example, an [[airway foreign body]]). Blood tests, [[X-rays]], and cultures are not needed. Croup is common. About 15% of children between 6 months and 5–6 years old get croup. Teenagers and adults rarely get croup. 
+ 
+ ==Signs and symptoms== 
+ {{listen 
+  | filename     = Stridor 2OGG.ogg 
+  | title        = Stridor 
+  | description  = Inspiratory and expiratory stridor in a 13-month-child with croup. 
+  | format       = [[Ogg]] 
+ }} 
+ 
+ Croup symptoms include a  " barking "  [[cough]], [[stridor]] ( a high pitched sound typically when breathing in), [[hoarseness]], and [[respiratory distress|difficult breathing]] that are worse at night. < ref name=Au10 > {{cite journal |author=Rajapaksa S, Starr M |title=Croup – assessment and management |journal=Aust Fam Physician |volume=39|issue=5 |pages=280–2 |date=May 2010  |pmid=20485713 }} < /ref >   The  " barking "  cough can sound like a [[Pinniped|seal]] or [[sea lion]]. < ref name= " Cherry08_NEJM " / >   [[Crying]] can make the wheezing worse; wheezing can mean that the airways are narrowed. As croup gets worse, the wheezing can decrease. < ref name=Au10/ > 
+ 
+ Other symptoms are [[fever]], symptoms typical of the [[common cold]]), and the skin between the ribs pulling in when the child breathes. < ref name=Au10/ > < ref name=Alberta07 > {{cite web |url=http://www.childhealthbc.ca/resources/category/5-croup?download=13%3Acroup-guideline |format=PDF|title=Diagnosis and Management of Croup |work=BC Children’s Hospital Division of Pediatric Emergency Medicine Clinical Practice Guidelines }} < /ref >  [[Drooling]] or a sick appearance can mean a different illness. < ref name=Alberta07/ >  The virus infection leads to swelling in the throat and air passages that can make breathing difficult. < ref name=PedN09/ > 
+ 
+ ==Causes== 
+ Most croup is caused by a virus infection. < ref name=Au10/ > < ref name=PedN09/ >  Some people call severe [[laryngotracheitis]] croup. This disease is caused by a milder virus. Croup also can be laryngeal diphtheria, [[bacterial tracheitis]], laryngotracheobronchitis, and laryngotracheobronchopneumonitis. These diseases are caused by bacteria and are more severe. < ref name= " Cherry08_NEJM " / > 
+ 
+ ===Virus=== 
+ In 75% of cases, the [[parainfluenza virus]], mainly types 1 and 2, causes croup. < ref name=Croup09/ >  Other viruses that can cause croup include [[influenza]] A and B, [[measles]], [[adenovirus]] and [[respiratory syncytial virus]] (RSV). < ref name= " Cherry08_NEJM " / >  Spasmodic croup (croup with barking) does not have the usual signs of infection, such as fever, sore throat, and increased [[white blood cell count]]). < ref name= " Cherry08_NEJM " / >   Treating spasmodic croup is the same as treating regular croup. < ref name=Croup09/ > 
+ 
+ ===Bacterial=== 
+ Bacterial croup includes laryngeal diphtheria, bacterial tracheitis, laryngotracheobronchitis, and laryngotracheobronchopneumonitis. < ref name= " Cherry08_NEJM " / >  ''[[Corynebacterium diphtheriae]]'' causes laryngeal diphtheria; bacterial tracheitis, laryngotracheobronchitis, and laryngotracheobronchopneumonitis come from a virus infection, followed by a bacteria infection. The most common bacteria that cause croup are''[[Staphylococcus aureus]]'', ''[[Streptococcus pneumoniae]]'', ''[[Hemophilus influenzae]]'', and ''[[Moraxella catarrhalis]]''. < ref name= " Cherry08_NEJM " / > 
+ 
+ ==Diagnosis== 
+ {| class= " wikitable "  style =  " float: right; margin-left:15px;   text-align:center " 
+ |+ '''The Westley Score: Classification of croup severity''' < ref name=Croup09/ > < ref name=Peds99/ >   
+ |- 
+ ! rowspan= " 2 "  |Feature 
+ ! colspan= " 6 "  |Number of points assigned for this feature 
+ |- 
+ !0 
+ !1 
+ !2 
+ !3 
+ !4 
+ !5 
+ |- 
+ | Chest wall < br / >  retraction 
+ | width= " 80 " |None 
+ | width= " 80 " |Mild 
+ | width= " 80 " |Moderate 
+ | width= " 80 " |Severe 
+ | width= " 80 " | 
+ | width= " 80 " | 
+ |- 
+ | [[Stridor]] 
+ | None 
+ | With < br / >  agitation 
+ | At rest 
+ |  
+ |  
+ |  
+ |- 
+ | [[Cyanosis]] 
+ | None 
+ |   
+ |   
+ |   
+ | With < br / >  agitation 
+ | At rest 
+ |- 
+ | [[Level of consciousness|Level of < br / > consciousness]] 
+ | Normal 
+ |  
+ |  
+ |  
+ |  
+ | Disoriented 
+ |- 
+ | Air entry 
+ | Normal 
+ | Decreased 
+ | Markedly decreased 
+ |  
+ |  
+ |  
+ |- 
+ |} 
+ 
+ Croup is diagnosed based on signs and symptoms. < ref name=PedN09/ >   The first step is to make sure it is not another condition that can block the upper airway, especially [[epiglottitis]] (an inflammation of the tissue that covers the trachea or windpipe) , something in the airway, [[subglottic stenosis]] (narrowing of the airway below the vocal cords), [[angioedema]] (swelling underneath the skin), [[retropharyngeal abscess]] (pus in the back of the throat), and [[bacterial tracheitis]] (bacterial infection in the trachea). < ref name= " Cherry08_NEJM " / > < ref name=PedN09/ > 
+ 
+ An [[X-ray]] of the neck is not routine, < ref name=PedN09/ >  but if it is done, it can show a narrowing of the trachea, called the [[steeple sign]], because the narrow shape looks like a church steeple. The steeple sign does not appear in half of cases. < ref name=Alberta07/ > 
+ 
+ [[Blood test]]s and [[viral culture]]s (tests for the virus) can cause irritate the airway. < ref name=PedN09/ >  Cultures of the virus, obtained by [[nasopharyngeal]] aspiration (using a tube to suck mucus out of the nose), are used to confirm the exact cause. These cultures are restricted to people doing research. < ref name=Au10/ >   If a person does not improve with standard treatment, further tests can be done to check for bacteria. < ref name= " Cherry08_NEJM " / > 
+ 
+ Severity 
+ 
+ The most common system for describing the severity of croup is the Westley score. This test is used for research, but does not help the person with croup. < ref name= " Cherry08_NEJM " > {{cite journal |author=Cherry JD |title=Clinical practice. Croup |journal=N. Engl. J. Med. |volume=358|issue=4 |pages=384–91 |year=2008 |pmid=18216359 |doi=10.1056/NEJMcp072022 |url=http://content.nejm.org/cgi/content/full/358/4/384}} < /ref >  Points are given for five factors: level of consciousness, cyanosis (blue skin coloring), stridor (wheezing), air entry, and retractions (skin on the chest pulling in). < ref name= " Cherry08_NEJM " / >  The table to the right lists the points given for each factor; the final score ranges from 0 to 17. < ref name=Peds99/ > 
+ 
+ * A total score of ≤ & nbsp;2 points indicates ''mild'' croup. The person can have barking cough and hoarseness, but there is no stridor (wheezing) when the person is resting. < ref name=Croup09/ > 
+ * A total score of 3–5 is ''moderate'' croup — the person has wheezing, with few other signs. < ref name=Croup09/ > 
+ * A total score of 6–11 is ''severe'' croup. The patient has obvious wheezing and the skin on the [[chest wall]] indraws or pulls in. < ref name=Croup09/ > 
+ * A total score of ≥ & nbsp;12 means [[respiratory failure]] is possible. The barking cough and wheezing does not always happen at this stage. < ref name=Croup09/ > 
+ 
+ 85% of children going to the emergency department have mild disease. Severe croup is rare–less than 1% of cases. < ref name=Croup09/ > 
+ 
+ ==Prevention== 
+ [[Immunization]] (vaccines) for [[influenza]] and [[diphtheria]] can prevent croup. < ref name= " Cherry08_NEJM " / > 
+ 
+ ==Treatment== 
+ It is important to keep children with croup as calm as possible. < ref name=PedN09/ >  Children often are given steroids, but epinephrine is used in severe cases. < ref name=PedN09/ >  If the amount of blood oxygen is under 92%, the child needs oxygen. < ref name= " Cherry08_NEJM " / >  People with  severe croup can be hospitalized for observation. < ref name=Alberta07/ >  If oxygen is needed,  " blow-by "  administration (holding an oxygen source near the face of the child) is better than an oxygen mask, because it is less likely to upset a child than an oxygen mask is. < ref name= " Cherry08_NEJM " / >  With treatment, less than 0.2% of people need [[endotracheal intubation]](a tube placed into the airway). < ref name=Peds99 > {{cite journal |author=Klassen TP |title=Croup. A current perspective |url=https://archive.org/details/sim_pediatric-clinics-of-north-america_1999-12_46_6/page/1167 |journal=Pediatr. Clin. North Am. |volume=46 |issue=6 |pages=1167–78 |date=December 1999  |pmid=10629679 |doi= 10.1016/S0031-3955(05)70180-2}} < /ref > 
+ 
+ ===Steroids=== 
+ [[Corticosteroids]], such as [[dexamethasone]] and [[budesonide]], can be used to treat croup. < ref name=Cochrane11 > {{cite journal |author=Russell KF, Liang Y, O'Gorman K, Johnson DW, Klassen TP |title=Glucocorticoids for croup |journal=Cochrane Database Syst Rev |volume=1 |issue= 1|pages=CD001955 |year=2011 |pmid=21249651 |doi=10.1002/14651858.CD001955.pub3 |editor1-last=Klassen|editor1-first=Terry P}} < /ref >   People begin to improve a lot within six hours after taking steroids. < ref name=Cochrane11/ >   Steroids work when given by mouth, injection, or inhalation (breathing them in), but taking them by mouth is best. < ref name=PedN09/ >   Most of the time, a single dose is enough. < ref name=PedN09/ >  Dexamethasone at doses of  0.15, 0.3 and 0.6 & nbsp;mg/kg appear to be all equally good. < ref > {{cite journal |author=Port C |title=Towards evidence based emergency medicine: best BETs from the Manchester Royal Infirmary. BET 4. Dose of dexamethasone in croup |journal=Emerg Med J |volume=26 |issue=4 |pages=291–2 |date=April 2009  |pmid=19307398|doi=10.1136/emj.2009.072090 |s2cid=6655787 }} < /ref > 
+ 
+ ===Epinephrine=== 
+ Moderate to severe croup can be helped with [[nebulizer|nebulized]] [[epinephrine]](an inhaled solution that widens the airway). < ref name=PedN09 > {{cite journal |author=Everard ML|title=Acute bronchiolitis and croup |url=https://archive.org/details/sim_pediatric-clinics-of-north-america_2009-02_56_1/page/119|journal=Pediatr. Clin. North Am. |volume=56 |issue=1 |pages=119–33, x–xi |date=February 2009 |pmid=19135584 |doi=10.1016/j.pcl.2008.10.007 }} < /ref >  While epinephrine reduces croup severity within 10–30 minutes, the benefits last for only about 2 hours. < ref name=Au10/ > < ref name=PedN09/ >  If symptoms improve for 2–4 & nbsp;hours after treatment and no other complications happen, the child typically can leave the hospital. < ref name=Au10/ > < ref name=PedN09/ > 
+ 
+ ===Other=== 
+ There is not enough evidence that other treatments for croup are helpful. Clinical studies do not show that breathing hot steam or humidified air is helpful < ref name= " Cherry08_NEJM " / > < ref name=PedN09/ >  and currently it rarely is used. < ref name=Hist2001 > {{cite journal |author=Marchessault V |title=Historical review of croup |journal=Can J Infect Dis |volume=12|issue=6 |pages=337–9 |date=November 2001  |doi=10.1155/2001/919830 |pmid=18159359 |pmc=2094841 |doi-access=free }} < /ref >  Medical professionals do not want people to use [[cough medicine]]s, which contain[[dextromethorphan]] and/or [[guiafenesin]]. < ref name=Au10/ >  Clinical studies also do not support inhaling [[heliox]] (a mixture of [[helium]] and [[oxygen]]) to make it easier to breath. < ref > {{cite journal |author=Vorwerk C, Coats T |title=Heliox for croup in children |journal=Cochrane Database Syst Rev |volume=2 |issue= 2|pages=CD006822 |year=2010 |pmid=20166089|doi=10.1002/14651858.CD006822.pub2 |editor1-last=Vorwerk |editor1-first=Christiane}} < /ref >   Since most cases of croup is are diseases, [[antibiotics]] are not used unless bacteria are also suspected. < ref name=Au10/ >  The antibiotics [[vancomycin]] and [[cefotaxime]] are recommended for bacterial infections. < ref name= " Cherry08_NEJM " / >  In severe cases associated with influenza & nbsp;A or B, the[[anti]] [[neuraminidase inhibitors]] can be given. < ref name= " Cherry08_NEJM " / > 
+ 
+ ==Likely outcome== 
+ Most of the time, croup caused by a virus is a short-term disease. Croup rarely causes death from [[respiratory failure]] and/or [[cardiac arrest]]. < ref name=Au10/ >   Symptoms improve within two & nbsp;days, but can last for up to seven & nbsp;days. < ref name=Croup09/ >  Other uncommon complications include bacterial tracheitis (infection of the trachea), [[pneumonia]] (lung infection), and [[pulmonary edema]] (fluid in the lungs). < ref name=Croup09 > {{cite journal |author=Johnson D|title=Croup |journal=Clin Evid (Online) |volume=2009 |year=2009 |pmid=19445760 |pmc=2907784}} < /ref > 
+ 
+ ==Epidemiology== 
+ About 15% of children between the ages of 6 months and 5–6 years will get croup. < ref name= " Cherry08_NEJM " / > < ref name=PedN09/ >  Croup accounts for about 5% of hospital admissions for this age group. < ref name=Croup09/ >  In rare cases, children as young as 3 months and as old as 15 years have croup. < ref name=Croup09/ >  Males are affected 50% more frequently than are females; croup is more common in autumn (fall). < ref name= " Cherry08_NEJM " / > 
+ 
+ ==History== 
+ The word ''croup'' comes from the [[Early Modern English]] verb ''croup,'' meaning  " to cry hoarsely " ; the name was first used for the disease in Scotland. < ref > Online Etymological Dictionary, [http://www.etymonline.com/index.php?term=croup croup]. Accessed 2010-09-13. < /ref >  Diphtheritic croup has been known since the time of [[Homer]]'s [[Ancient Greece]].  In 1826, Bretonneau distinguished croup from a virus and croup due to [[diphtheria]]. < ref name=history > {{cite book |author=Feigin, Ralph D. |title=Textbook of pediatric infectious diseases |publisher=Saunders |location=Philadelphia |year=2004 |page=252 |isbn=0-7216-9329-6 }} < /ref >   The French called croup from a virus  " faux-croup, "  using  " croup "  for a disease caused by the diphtheria bacteria. < ref name=Hist2001/ >   Croup due to diphtheria has become nearly unknown since most people are [[immunized]]. < ref name=history/ > 
+ 
+ ==References== 
+ {{Reflist|2}} 
+ 
+ [[Category:Diseases caused by viruses]] 
+ [[Category:Breathing problems]]

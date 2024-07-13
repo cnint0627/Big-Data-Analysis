@@ -1,0 +1,27 @@
+{{Infobox company 
+ | logo = 
+ | type = [[Privately held company|Private]] 
+ | industry = fintech 
+ | founded = 2014 
+ | founder = Markus Mikola, Riitta Raesmaa 
+ | website = https://www.contractzen.com/ 
+ }} 
+ '''ContractZen''' is a Finnish company that offers cloud-based governance software for managing important business documents like contracts, meeting minutes, and other legal and financial documents. The company also provides virtual data rooms, electronic signature capabilities, and legal entity management tools. < ref > {{Cite web|last=Desk|first=AIT News|date=2018-12-27|title=Finnish Hockey League Reimagines Sports Management and Digitizes Administration on ContractZen|url=https://aithority.com/saas/finnish-hockey-league-reimagines-sports-management-and-digitizes-administration-on-contractzen-2/|access-date=2023-04-21|website=AiThority|language=en-US}} < /ref > < ref > {{Cite web|title=COMET winning ContractZen – the first Finnish company to enter Ingram Cloud Marketplace.|url=https://fi.ingrammicro.eu/ajankohtaista/uutiset/comet-winning-contractzen-the-first-finnish-compan}} < /ref > 
+ 
+ == History == 
+ The company was founded in 2014 in [[Helsinki]], Finland. It works in Europe, North America, South America, and Asia. < ref > {{Cite web|last=Abo|first=Jessica|date=2022-02-01|title=How This Company Is Helping Business Executives Improve Their Digital Governance|url=https://www.entrepreneur.com/starting-a-business/how-this-company-is-helping-business-executives-improve/415502|access-date=2023-04-26|website=Entrepreneur|language=en}} < /ref >  In 2017, [[PwC]] Finland and ContractZen began cooperating in the field of governance software. ContractZen is integrated with [[Microsoft]], Adobe Sign, [[DocuSign]], and [[Google]]. < ref > {{Cite web|last=Desk|first=AIT News|date=2018-12-27|title=Finnish Hockey League Reimagines Sports Management and Digitizes Administration on ContractZen|url=https://aithority.com/saas/finnish-hockey-league-reimagines-sports-management-and-digitizes-administration-on-contractzen-2/|access-date=2023-04-26|website=AiThority|language=en-US}} < /ref > 
+ 
+ In 2019, ContractZen was chosen as one of the first 20 products available for purchase directly from Microsoft AppSource. < ref > {{Cite web|title=Find the right app {{!}} Microsoft AppSource|url=https://appsource.microsoft.com/en-us/product/web-apps/contractzen.contractzen-prod?tab=overview|access-date=2023-05-04|website=appsource.microsoft.com|language=en-us}} < /ref >  At the same time, the company was also the Nordic regional prize winner of Ingram Micro's 'Comet Competition'. < ref > {{Cite web|title=COMET winning ContractZen – the first Finnish company to enter Ingram Cloud Marketplace.|url=https://fi.ingrammicro.eu/ajankohtaista/uutiset/comet-winning-contractzen-the-first-finnish-compan}} < /ref > 
+ 
+ In 2021, ContractZen raised €1 million in funding to support their growth and expansion plans. < ref > {{Cite web|last=artificiallawyer|date=2021-06-03|title=ContractZen Bags €1m Funding As Nordic Legal Tech Prospers|url=https://www.artificiallawyer.com/2021/06/03/contractzen-bags-e1m-funding-as-nordic-legal-tech-prospers/|access-date=2023-04-26|website=Artificial Lawyer|language=en-GB}} < /ref >   
+ 
+ === Technology === 
+ The company's governance software suite includes contract management, a board portal, virtual data rooms, electronic signatures, and legal entity management. 
+ 
+ ContractZen is integrated with Microsoft Teams, Microsoft Outlook, Adobe Sign, DocuSign, Microsoft 365 (Single Sign-On), and Google (Single Sign-On). The capabilities include an API allowing customers to integrate it into their in-house systems. ContractZen is available on the iOS App Store and Google Play Store for Android devices. < ref > {{Cite web|title=Featured Customers {{!}} Find B2B  &  SaaS Software  &  Services - Reviews, Testimonials  &  Case Studies|url=https://www.featuredcustomers.com/vendor/contractzen|access-date=2023-04-26|website=www.featuredcustomers.com}} < /ref > 
+ 
+ == References == 
+ [[Category:Companies of Finland]] 
+ < references / > 
+ 
+ {{tech-stub}}

@@ -1,0 +1,11 @@
+If G is a [[group (mathematics)|group]] and H a [[subgroup]] of G, x is an element in G, and h is an element in H the '''cosets''' of H in G are defined as follows:  
+ 
+ *Left coset: xH is the set of all the elements h of H multiplied by x on the left.  
+ *Right coset: Hx is the set of all the elements h of H multiplied by x on the right.  
+ 
+ When xH = Hx we say that H is normal in G. 
+ {{Math-stub}} 
+ [[Category:Abstract algebra]] 
+ 
+ [[de:Gruppentheorie#Nebenklassen]] 
+ [[ru:Глоссарий теории групп#К]]

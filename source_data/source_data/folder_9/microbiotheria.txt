@@ -1,0 +1,67 @@
+{{Taxobox 
+ | name = Microbiotheres 
+ | image = Monito del Monte ps6.jpg 
+ | image name = Monito del Monte 
+ | fossil_range = Early [[Palaeocene]] – Recent 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Mammal]]ia 
+ | infraclassis = [[Marsupial]]ia 
+ | superordo = [[Australidelphia]] 
+ | ordo = '''Microbiotheria''' 
+ | ordo_authority = [[Florentino Ameghino|Ameghino]], 1889 
+ | familia = '''Microbiotheriidae''' 
+ | familia_authority = [[Florentino Ameghino|Ameghino]], 1887 
+ < !-- 
+ | subdivision_ranks = [[Genus]] 
+ | subdivision = †''[[Khasia]]'' < br > †''[[Mirandatherium]]'' < br > †''[[Eomicrobiotherium]]'' < br > †''[[Ideodelphys]]'' < br > †''[[Pitheculus]]'' < br > ''[[Monito del Monte|Dromiciops]]'' 
+ -- > 
+ }} 
+ 
+ '''Microbiotheria''' are a small [[Order (biology)|order]] of [[marsupial]] [[mammal]]s with only one living species, the '''Monito del Monte''' (Spanish for 'little mountain monkey'). 
+ 
+ It is the only New World representative of the superorder [[Australidelphia]]; all other New World marsupials are part of the [[Ameridelphia]]. 
+ 
+ The species is [[nocturnal]] and [[arboreal]], and lives in thickets of Chilean bamboo in the [[temperate]] [[rain forest]]s of the southern [[Andes]]. < ref name=iucn > {{IUCN2008|assessors=Diaz M.  &  Teta P.|year=2008|id=6834|title=Dromiciops gliroides|downloaded=28 December 2008}} Database entry includes justification for why this species is listed as near threatened < /ref > < ref name= " Edge " > {{cite web|date=2006|title=Monito del monte (''Dromiciops gliroides'')|url=http://www.edgeofexistence.org/mammals/species_info.php?id=42|url-status=dead|archive-url=https://web.archive.org/web/20100922113242/http://edgeofexistence.org/mammals/species_info.php?id=42|archive-date=2010-09-22|access-date=2009-07-05|work=EDGE of Existence|publisher=Zoological Society of London}} < /ref >  It eats mainly [[insect]]s and other small invertebrates, supplemented with [[fruit]]. < ref name =  " Edge " / > 
+ 
+ At one time, they were placed in the order [[Didelphimorphia]], the opossums, but due to many morphological differences, they were placed in another order. The [[skull]]'s shape is strange, with many technical differences from the opossums. 
+ 
+ == Phylogeny and biogeography == 
+ [[Image:Dromiciops gliroides.jpg|thumb|right|An artistic rendering of the Monito del Monte]] 
+ It has long been suspected that South American marsupials were ancestral to those of [[Australia]]. The two continents were connected via [[Antarctica]] in the early [[Cainozoic]] era. 
+ 
+ Australia’s earliest known marsupial is ''[[Djarthia]]'', a primitive [[mouse]]-like animal that lived about 55 million years ago. ''Djarthia'' had been identified as the earliest known australidelphian, and this research suggested that the Monito del Monte was the last of a [[clade]] which included ''Djarthia''. < ref name= " Edge " / > < ref name =  " Beck " > {{cite journal 
+   | last = Beck | display-authors = etal | first = Robin M.D.  
+   | title = Australia's oldest marsupial fossils and their biogeographical implications 
+   | journal = PLOS ONE | volume = 3 | issue = 3 | pages = e1858 
+   | publisher = Public Library of Science 
+   | date = 2008 
+   | doi = 10.1371/journal.pone.0001858  
+   | pmid = 18365013 | pmc = 2267999| bibcode = 2008PLoSO...3.1858B | doi-access = free }} < /ref > 
+ 
+ In 2010, analysis of [[retrotransposon]] insertion sites in the [[Cell nucleus|nuclear]] [[DNA]] of marsupials confirmed the placement of the Monito del Monte in Australidelphia. It also showed its position as the most [[basal]] of that superorder. < ref > 'Basal': term in [[cladistics]] meaning closest to the origin of the [[clade]], or most 'primitive'. < /ref > 
+ 
+ The study also confirmed that the most basal of all marsupial orders are the other two South American lineages ([[Didelphimorphia]] and [[Paucituberculata]], with the former probably branching first). This indicates that Australidelphia arose in South America (with the ancestors of all other living marsupials), and probably reached Australia in a single dispersal event after Microbiotheria split off (originated). < ref name= " LAT " > {{Cite web 
+   | last = Schiewe | first = Jessie  
+   | title = Australia's marsupials originated in what is now South America, study says 
+   | work = [[Los Angeles Times]] 
+   | date = 2010 
+   | url = http://www.latimes.com/news/science/la-sci-marsupial-20100728,0,5549873.story 
+   | access-date = 2010-08-01}} < /ref > < ref name =  " Inman " > {{Cite journal 
+   | last = Inman  | first = M.  
+   | title = Jumping genes reveal kangaroos' origins 
+   | journal = PLOS Biology | volume = 8 | issue = 7 | pages = e1000437 
+   | publisher = Public Library of Science | date = 2010 
+   | pmid = 20668663 
+   | pmc = 2910652| doi = 10.1371/journal.pbio.1000437 | doi-access = free  
+  }} < /ref > < ref name =  " Nilsson " > {{Cite journal | last = Nilsson | display-authors = etal | first = M.A.  
+   | title = Tracking marsupial evolution using archaic genomic retroposon insertions 
+   | journal = PLOS Biology | volume = 8 | issue = 7 | pages = e1000436 
+   | publisher = Public Library of Science | date = 2010 
+   | pmid = 20668664 | pmc = 2910653| doi = 10.1371/journal.pbio.1000436 | doi-access = free }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Marsupials of Australia]] 
+ [[Category:Chile]]

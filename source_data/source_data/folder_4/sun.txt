@@ -1,0 +1,205 @@
+{{other uses|Sun (disambiguation)|The Sun (disambiguation)}} 
+ {{Infobox 
+ | bodystyle   = border-collapse:collapse 
+ |   title     = Sun [[File:Sun symbol (bold).svg|25px|☉]] 
+ |   image     = [[File:Sun white.jpg|frameless]] 
+ | caption     = Sun with [[sunspot]]s and [[limb darkening]] as seen in [[visible light]] with [[solar filter]]. 
+ |   image2    = [[File:The Sun by the Atmospheric Imaging Assembly of NASA's Solar Dynamics Observatory - 20100819.jpg|frameless]] 
+ | caption2    = [[False color|False-color]] photo of the Sun as seen in [[ultraviolet light]] (wavelength of 30.4 nm) 
+ | headerstyle      = background:#FCC857 
+ |  labelstyle = padding:2px 
+ |   datastyle = padding:2px 
+ < !-- section break, rows 1-19-- > 
+ | header1  = Observation data 
+ |  label2  = Mean distance < br / > from [[Earth]] 
+ |   data2  = 1 [[astronomical unit|au]] ≈ {{val|1.496|e=8|u=km}} < ref name= " Pitjeva2009 " > {{Cite journal|last1=Pitjeva|first1=E. V.|last2=Standish|first2=E. M.|date=2009|title=Proposals for the masses of the three largest asteroids, the Moon-Earth mass ratio and the Astronomical Unit|url=https://doi.org/10.1007/s10569-009-9203-8|journal=Celestial Mechanics and Dynamical Astronomy |language=en|volume=103|issue=4|pages=365–372|doi=10.1007/s10569-009-9203-8|bibcode=2009CeMDA.103..365P|s2cid=121374703|issn=1572-9478}} < /ref > < br / > 8 & nbsp;min 19 & nbsp;s at [[speed of light|light speed]] 
+ |  label3  = [[Apparent magnitude|Visual brightness]] (''V'') 
+ |   data3  = −26.74 < ref name=nssdc > {{cite web |last=Williams |first=D.R. |date=1 July 2013 |title=Sun Fact Sheet |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html |publisher=NASA Goddard Space Flight Center |accessdate=12 August 2013 |archive-url=https://web.archive.org/web/20100715200549/http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html |archive-date=15 July 2010 |url-status=dead |df=dmy-all }} < /ref > 
+ |  label4  = [[Absolute magnitude]] 
+ |   data4  = 4.83 < ref name=nssdc / > 
+ |  label5  = [[Stellar classification|Spectral classification]] 
+ |   data5  = G2V < ref > {{cite book|last=Zombeck|first=Martin V.|date=1990|title=Handbook of Space Astronomy and Astrophysics 2nd edition|publisher=[[Cambridge University Press]]|url=http://ads.harvard.edu/books/hsaa/}} < /ref > 
+ |  label6  = [[Metallicity]] 
+ |   data6  = ''Z'' = 0.0122 < ref > {{cite journal |last1=Asplund |first1=M. |last2=Grevesse |first2=N. |last3=Sauval |first3=A.J. |date=2006 |title=The new solar abundances – Part I: the observations |journal=Communications in Asteroseismology |volume=147 |pages=76–79 |bibcode=2006CoAst.147...76A |doi=10.1553/cia147s76}} < /ref > 
+ |  label7  = [[Angular size]] 
+ |   data7  = 31.6–32.7 [[minutes of arc]] < ref > {{cite web|title=Eclipse 99: Frequently Asked Questions |url=http://education.gsfc.nasa.gov/eclipse/pages/faq.html |publisher=NASA |accessdate=24 October 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20100527142627/http://education.gsfc.nasa.gov/eclipse/pages/faq.html |archivedate=27 May 2010 }} < /ref > 
+ |  label8  = Adjectives 
+ |   data8  = Solar 
+ | header10 = [[Orbit]]al characteristics 
+ |  label11 = Mean distance < br / > from [[Milky Way]] core 
+ |   data11 = ≈ {{val|2.7|e=17|u=km}} < br / > {{nowrap|{{val|fmt=commas|27200|ul=light-years}}}} 
+ |  label12 = [[Galactic year|Galactic period]] 
+ |   data12 = (2.25–2.50){{e|8}} [[julian year (astronomy)|yr]] 
+ |  label13 = [[Velocity]] 
+ |   data13 = ≈ {{val|220|u=km/s}} (orbit around the center of the Milky Way)  < br / > ≈ {{val|20|u=km/s}} (relative to average velocity of other stars in stellar neighborhood)  < br / > ≈ {{val|370|u=km/s}} < ref > {{cite journal |last=Hinshaw |first=G. |display-authors=etal |year=2009 |title=Five-year Wilkinson Microwave Anisotropy Probe observations: data processing, sky maps, and basic results |journal=The Astrophysical Journal Supplement Series |volume=180 |issue=2 |pages=225–245 |arxiv=0803.0732 |bibcode=2009ApJS..180..225H |doi=10.1088/0067-0049/180/2/225|s2cid=3629998 }} < /ref >  (relative to the [[Cosmic microwave background radiation#CMBR dipole anisotropy|cosmic microwave background]]) 
+ < !-- section break, rows 20-39 -- > 
+ | header20 = Physical characteristics 
+ |  label21  = Equatorial [[radius]] 
+ |   data21  = [[Solar radius|695,700]] & nbsp;km, < ref name=IAU2015resB3 > {{cite arXiv | first1=E.E. | last1=Mamajek | first2=A. | last2=Prsa | first3=G. | last3=Torres | first4=al. | last4=et | title=IAU 2015 Resolution B3 on Recommended Nominal Conversion Constants for Selected Solar and Planetary Properties  | eprint=1510.07674 |mode=cs2| class=astro-ph.SR | year=2015 }} < /ref > < br / >  696,342 km < ref name=arxiv1203_4898 > {{citation | first1=Marcelo | last1=Emilio | first2=Jeff R. | last2=Kuhn | first3=Rock I. | last3=Bush | first4=Isabelle F. | last4=Scholl | title=Measuring the Solar Radius from Space during the 2003 and 2006 Mercury Transits  | arxiv=1203.4898 |bibcode = 2012ApJ...750..135E |doi = 10.1088/0004-637X/750/2/135 | volume=750 | issue=2 | journal=The Astrophysical Journal | page=135| year=2012| s2cid=119255559 }} < /ref > < br / > {{val|109|u=[[Earth radius|× Earth]]}} < ref name=sse/ > 
+ |  label22  = Equatorial [[circumference]] 
+ |   data22  = {{val|4.379|e=6|u=km}} < ref name=sse/ > < br / > 109 × Earth < ref name=sse > {{cite web |title=Solar System Exploration: Planets: Sun: Facts  &  Figures |url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sun & Display=Facts & System=Metric |archiveurl=https://web.archive.org/web/20080102034758/http://solarsystem.nasa.gov/planets/profile.cfm?Object=Sun & Display=Facts & System=Metric |archivedate=2 January 2008 |publisher=NASA 
+ }} < /ref > 
+ |  label23  = [[Flattening]] 
+ |   data23  = {{val|9|e=-6}} 
+ |  label24  = [[Surface area]] 
+ |   data24  = {{val|6.09|e=12|u=km2}} < ref name=sse/ > < br / > {{nowrap|{{val|fmt=commas|12000}}}} × Earth < ref name=sse/ > 
+ |  label25  = [[Volume]] 
+ |   data25  = {{val|1.41|e=18|u=km3}} < ref name=sse/ > < !-- NASA source has  " 1.412 x 10^18 km^3 " , which is 1.412 × 10^27 m^3 (basic arithmetic, also verified using the formula for volume of a sphere), but the Sun is not a sphere, and their radius is off a bit from what we have above, so we need to at least round a bit-- > < br / > {{nowrap|{{val|fmt=commas|1300000}}}} × Earth 
+ |  label26  = [[Mass]] 
+ |   data26  = {{val|1.9885||e=30|u=kg}} < ref name=nssdc/ > < br / > {{nowrap|{{val|fmt=commas|333000|u=[[Mass of Earth|× Earth]]}}}} < ref name=nssdc/ > < !-- NASA Sun Fact Sheet states 333,000, a figure coherent with data already present in en.wiki -- > 
+ |  label27  = Average [[density]] 
+ |   data27  = {{val|1.408|u=g/cm3}} < ref name=nssdc/ > < ref name=sse/ > < ref > {{cite web |last=Ko |first=M. |date=1999 |title=Density of the Sun |url=http://hypertextbook.com/facts/1999/MayKo.shtml |editor=Elert, G. |website=The Physics Factbook}} < /ref > < br / > {{val|0.255}} × Earth < ref name=nssdc/ > < ref name=sse/ > 
+ |  label28  = Center [[density]] (modeled) 
+ |   data28  = {{val|162.2|u=g/cm3}} < ref name=nssdc/ > < br / > {{val|12.4}} × Earth 
+ |  label29  = Equatorial [[surface gravity]] 
+ |   data29  = {{val|274|u=m/s2}} < ref name=nssdc/ > < br / > 28 × Earth < ref name=sse/ > 
+ |  label30  = [[Moment of inertia factor]] 
+ |   data30  = {{val|0.070}} < ref name=nssdc / >  (estimate) 
+ |  label31  = [[Escape velocity]] < br / > (from the surface) 
+ |   data31  = {{val|617.7|u=km/s}} < ref name=sse/ > < br / > 55 × Earth < ref name=sse/ > 
+ |  label32  = Temperature 
+ |   data32  = Center (modeled): {{val|1.57|e=7|u=K}} < ref name=nssdc/ > < br / > [[Photosphere]] (effective): {{nowrap|{{val|fmt=commas|5778|ul=K}}}} < ref name=nssdc/ > < br / >  [[Corona]]: ≈ {{val|5|e=6|u=K}} 
+ |  label33  = [[Luminosity]] (L < sub > sol < /sub > ) 
+ |   data33  = {{val|3.828|e=26|ul=W}} < ref name=nssdc/ > < br / > ≈ {{val|3.75|e=28|u=[[lumen (unit)|lm]]}} < br / > ≈ {{val|98|u=lm/W}} [[Luminous efficacy|efficacy]] 
+ |  label34  = [[Color index|Color]] (B-V) 
+ |   data34  = 0.63 
+ |  label35  = Mean [[radiance]] & nbsp;(I < sub > sol < /sub > ) 
+ |   data35  = {{val|2.009|e=7|u=W·m < sup > −2 < /sup > ·sr < sup > −1 < /sup > }} 
+ |  label36  = Age 
+ |   data36  = ≈ 4.6 billion years < ref name= " Bonanno " > {{Cite journal |last1=Bonanno |first1=A. |last2=Schlattl |first2=H. |last3=Paternò |first3=L. |year=2002 |title=The age of the Sun and the relativistic corrections in the EOS |journal=Astronomy and Astrophysics |volume=390 |issue=3 |pages=1115–1118 |arxiv=astro-ph/0204331 |bibcode=2002A & A...390.1115B |doi=10.1051/0004-6361:20020749 |s2cid=119436299 }} < /ref > < ref > {{Cite journal|url=//www.sciencemag.org/content/338/6107/651.full|title=The Absolute Chronology and Thermal Processing of Solids in the Solar Protoplanetary Disk|date=2 November 2012|accessdate=17 March 2014|doi=10.1126/science.1226919 |journal=Science|volume=338 |issue= 6107 |pages=651–655|bibcode = 2012Sci...338..651C |pmid=23118187 | last1 = Connelly | first1 = JN | last2 = Bizzarro | first2 = M | last3 = Krot | first3 = AN | last4 = Nordlund | first4 = Å | last5 = Wielandt | first5 = D | last6 = Ivanova | first6 = MA|s2cid=21965292}}{{Registration required}} < /ref > 
+ < !-- section break, rows 40-49 -- > 
+ | header40  = [[Rotation]] characteristics 
+ |  label41  = [[Axial tilt|Obliquity]] 
+ |   data41  = 7.25° < ref name=nssdc/ > < br / > (to the [[ecliptic]]) < br / > 67.23° < br / > (to the [[galactic plane]]) 
+ |  label42  = [[Right ascension]] < br / > of North pole < ref name= " iau-iag " > {{cite web |last1=Seidelmann |first1=P.K. |display-authors=etal |title=Report Of The IAU/IAG Working Group On Cartographic Coordinates And Rotational Elements Of The Planets And Satellites: 2000 |url=http://www.hnsky.org/iau-iag.htm |date=2000 |accessdate=22 March 2006 |archive-date=12 May 2020 |archive-url=https://web.archive.org/web/20200512151452/http://www.hnsky.org/iau-iag.htm |url-status=dead }} < /ref > 
+ |   data42  = 286.13° < br / > {{nowrap|19 h 4 min 30 s}} 
+ |  label43  = [[Declination]] < br / > of North pole 
+ |   data43  = +63.87° < br / > 63° 52' North 
+ |  label44  = Sidereal [[Solar rotation|rotation period]]  < br / > (at equator) 
+ |   data44  = 25.05 d < ref name=nssdc/ > 
+ |  label45  = (at 16° latitude) 
+ |   data45  = 25.38 d < ref name=nssdc/ > < br / > {{nowrap|25 d 9 h 7 min 12 s}} < ref name= " iau-iag " / > 
+ |  label46  = (at poles) 
+ |   data46  = 34.4 d < ref name=nssdc/ > < !-- derived from T = ( 14.37 - 2.33 sin^2 L - 1.56 sin^4 L ) °/day, L = 90° -- > 
+ |  label47  = Rotation velocity < br / > (at equator) 
+ |   data47  = {{val|7.189|e=3|u=km/h}} < ref name= " sse " / > < !-- Derived from NASA source: equatorial circumference of 4,379,000 kilometres divided by sidereal rotation period of 609.12 hours; maybe this kind of basic calculation could be done in some generic template code? -- > 
+ < !-- section break, rows 50-69 -- > 
+ | header50  = [[photosphere|Photospheric]] composition (by mass) 
+ |  label51  = [[Hydrogen]] 
+ |   data51  = 73.46% < ref > {{cite web |title=The Sun's Vital Statistics |url=http://solar-center.stanford.edu/vitalstats.html |publisher=Stanford Solar Center |accessdate=29 July 2008}} Citing {{cite book |last=Eddy |first=J. |date=1979 |title=A New Sun: The Solar Results From Skylab |url=https://history.nasa.gov/SP-402/contents.htm |page=37 |publisher=NASA |id=NASA SP-402}} < /ref > 
+ |  label52  = [[Helium]] 
+ |   data52  = 24.85% 
+ |  label53  = [[Oxygen]] 
+ |   data53  = 0.77% 
+ |  label54  = [[Carbon]] 
+ |   data54  = 0.29% 
+ |  label55  = [[Iron]] 
+ |   data55  = 0.16% 
+ |  label56  = [[Neon]] 
+ |   data56  = 0.12% 
+ |  label57  = [[Nitrogen]] 
+ |   data57  = 0.09% 
+ |  label58  = [[Silicon]] 
+ |   data58  = 0.07% 
+ |  label59  = [[Magnesium]] 
+ |   data59  = 0.05% 
+ |  label60  = [[Sulfur]] 
+ |   data60  = 0.04% 
+ }}[[File:India Goa Fort Chapora Chapora River.jpg|thumb|250px|Sun]] 
+ 
+ The '''Sun''', also known as '''Sol''', is a [[star]] at the center of [[Solar System|solar system]]. It is a white star that gives off different types of [[energy]] such as [[infrared]] energy (heat), [[ultraviolet light]], [[radio]] waves and light. It also gives off a stream of [[particle]]s, which reaches Earth as  " [[solar wind]] " . The source of all this energy is [[nuclear fusion]]. Nuclear fusion is the reaction in the star which turns [[hydrogen]] into [[helium]] and makes huge amounts of [[energy]]. It is a nearly perfect [[Circle|ball]] of hot [[Plasma (physics)|plasma]]. 
+ 
+ The Sun looks yellow to a person standing on the Earth, but it is actually white. It looks yellow from the ground because the Earth's atmosphere scatters sunlight, causing shorter blue and green wavelengths to disperse, making the Sun's remaining visible light appear more yellow. 
+ 
+ The Sun is a star like many others in our [[Milky Way]] [[galaxy]]. The Sun is a type of star called a [[G-type main-sequence star]] based on its [[Stellar classification|spectral class]]. < ref > {{Cite journal|last1=Connelly|first1=J. N.|last2=Bizzarro|first2=M.|last3=Krot|first3=A. N.|last4=Nordlund|first4=A.|last5=Wielandt|first5=D.|last6=Ivanova|first6=M. A.|date=2012-11-02|title=The absolute chronology and thermal processing of solids in the Solar protoplanetary Dpdisk|url=https://www.sciencemag.org/lookup/doi/10.1126/science.1226919|journal=Science|language=en|volume=338|issue=6107|pages=651–655|doi=10.1126/science.1226919|pmid=23118187|bibcode=2012Sci...338..651C|s2cid=21965292|issn=0036-8075}} < /ref >   
+ 
+ The Sun has existed for a little over 4.5 [[billion]] years. 
+ 
+ The Sun is about a hundred times as wide as the Earth. It has a mass of {{val|1.9891|e=30|u=kg}}. This is 333,000 times the mass of the Earth. 1.3 million Earths can fit inside the Sun. < ref > {{Cite journal|last1=Bonanno|first1=A.|last2=Schlattl|first2=H.|last3=Paternò|first3=L.|date=2002|title=The age of the Sun and the relativistic corrections in the EOS|url=http://www.aanda.org/10.1051/0004-6361:20020749|journal=Astronomy  &  Astrophysics|volume=390|issue=3|pages=1115–1118|doi=10.1051/0004-6361:20020749|arxiv=astro-ph/0204331|bibcode=2002A & A...390.1115B|s2cid=119436299 |issn=0004-6361|via=}} < /ref >  The Sun fuses about 600 million tons of [[hydrogen]] into [[helium]] every second. 
+ 
+ The Sun is the main source of energy for the Earth. This energy is made deep inside the Sun in a process called [[nuclear fusion]]. Four hydrogen atoms are fused together to make one [[helium]] atom. Some of the leftover matter turns into energy. This is the same way energy is released in a hydrogen bomb. 
+ 
+ It can take between 10,000 and 170,000 years for the [[energy]] in the core of the Sun to escape. 
+ 
+ == No Sun, no life on Earth == 
+ The Sun is the most important source of [[energy]] for [[life]] on [[Earth]]. Without the Sun, there would be no [[vegetation]] on [[Earth]]: every [[plant]] needs light to live and grow. Everything on Earth would freeze over without the Sun. The Sun gives the Earth heat as well as light. Plants make oxygen by [[photosynthesis]]. All [[human]]s and [[animal]]s breathe oxygen. The [[Earth]]'s position in the Solar System is just right for the development of life on Earth.  
+ 
+ == General characteristics == 
+ The Sun is a G-type [[Main sequence|main-sequence star]]. It has about 99.86% of the [[mass]] of the [[Solar System]]. The Sun has an [[Magnitude (astronomy)|absolute magnitude]] of +4.83. It is brighter than about 85% of the stars in the [[Milky Way|Milky Way galaxy]]. < ref > {{Cite web|last=January 2006|first=Ker Than 30|title=Astronomers Had it Wrong: Most Stars are Single|url=https://www.space.com/1995-astronomers-wrong-stars-single.html|access-date=2020-09-15|website=Space.com|date=30 January 2006|language=en}} < /ref > < ref > {{Cite journal|last=Lada|first=Charles J.|date=2006-03-20|title=Stellar multiplicity and the initial mass function: most stars are single|url=https://iopscience.iop.org/article/10.1086/503158|journal=The Astrophysical Journal |language=en |volume=640 |issue=1 |pages=L63–L66|doi=10.1086/503158|arxiv=astro-ph/0601375 |bibcode=2006ApJ...640L..63L|s2cid=8400400|issn=0004-637X}} < /ref >  The Sun is a [[Population I]] star, < ref > {{Cite book|url=https://www.worldcat.org/oclc/38157539|title=Introductory astronomy  &  astrophysics|last=Zeilik, Michael.|date=1998|publisher=Brooks/Cole, Cengage Learning|others=Gregory, Stephen A.|isbn=0-03-006228-4|edition=4th|location=Belmont Drive, CA|oclc=38157539}} < /ref >   i.e it  a metal-rich fairly young star. 
+ 
+ The Sun is the brightest object in the Earth's sky. It has an [[Magnitude (astronomy)|apparent magnitude]] of −26.74. < ref > {{Cite journal|last=|first=|date=1986|title=Stellar parameters|url=http://link.springer.com/10.1007/BF00190626|journal=Space Science Reviews|language=en|volume=43|issue=3–4|pages=|doi=10.1007/BF00190626|s2cid=189796439|issn=0038-6308|via=}} < /ref >  It takes 8 minutes and 19 seconds for [[light]] to travel from the Sun's surface to Earth's surface. < ref > {{Cite book|url=https://www.worldcat.org/oclc/48151793|title=The real science behind the X-files : microbes, meteorites, and mutants|last=Simon, Anne Elizabeth, 1956-|date=2001|publisher=Simon  &  Schuster|isbn=0-684-85618-2|edition=1st Touchstone|location=New York|oclc=48151793}} < /ref > 
+ 
+ == Physics of the Sun == 
+ === Origin === 
+ Scientists think that the Sun started from a very large cloud of dust and small bits of ice about 4.567 [[billion]] years ago. < ref name= " Connelly2012 " > {{cite journal |title=The absolute chronology and thermal processing of solids in the solar protoplanetary disk |journal=[[Science (journal)|Science]] |last=Connelly, James N. |display-authors = etal |volume=338 |issue=6107 |pages=651–655 |date= 2012 |doi=10.1126/science.1226919 |bibcode=2012Sci...338..651C |pmid=23118187|s2cid=21965292 }} < /ref > 
+ 
+ At the center of that huge cloud, [[gravity]] caused the material to build up into a ball. Once this got big enough, the huge pressure inside started a [[fusion reaction]]. The energy this released caused that ball to heat and shine. At its very center, [[hydrogen]] [[atom]]s collide together at great [[temperature]] and [[pressure]] and fuse to form atoms of [[helium]]. This process is called [[nuclear fusion]]. It was proposed by [[Hans Bethe]] just before [[World War II]]. 
+ 
+ == Orbit == 
+ The Sun and everything that orbits it is in the [[Milky Way]] galaxy. The Sun orbits around the [[Galactic Centre|centre of the Milky Way]]. It takes along everything in the Solar System. The Sun moves at 820,000 & nbsp;km an hour. At that speed, it still takes 230 million years for a full orbit. 
+ 
+ == Visible features == 
+ Since the Sun is all gas, surface features come and go. If the Sun is viewed through a special [[solar telescope]], dark areas called [[sunspot]]s can be seen. These areas are caused by the Sun's [[magnetic field]]. The sunspots only look dark because the rest of the Sun is very bright. 
+ 
+ Some [[space telescopes]], including the ones that orbit the Sun have seen huge [[arch]]es of the Sun's matter extend suddenly from the Sun. These are called solar prominences. Solar prominences come in many different shapes and sizes. Some of them are so large that the Earth could fit inside of them, and a few are shaped like hands. [[Solar flare]]s also come and go. 
+ 
+ Sunspots, prominences and flares become rare, and then numerous, and then rare again, every 11 years. 
+ 
+ === Photosphere === 
+ This is the surface of the Sun. The light that the Earth receives from the Sun is [[radiation|radiated]] from this layer. Below this layer, the Sun is [[Opacity|opaque]], or not [[transparent]] to light. 
+ 
+ == Composition == 
+ The Sun is mainly composed of hydrogen and helium. All elements heavier than hydrogen and helium, account for less than 2% of the mass of the Sun. < ref name= " :0 " > {{Cite journal|last=Lodders|first=Katharina|date=2003-07-10|title=Solar System Abundances and Condensation Temperatures of the Elements|url=https://iopscience.iop.org/article/10.1086/375492|journal=The Astrophysical Journal|language=en|volume=591|issue=2|pages=1220–1247|doi=10.1086/375492|bibcode=2003ApJ...591.1220L|s2cid=42498829 |issn=0004-637X}} < /ref > < ref name= " :1 " > {{Cite book|url=https://www.worldcat.org/oclc/53083938|title=Stellar interiors : physical principles, structure, and evolution.|last=Hansen, Carl J.|date=2004|publisher=Springer|others=Kawaler, Steven D., Trimble, Virginia.|isbn=0-387-20089-4|edition=2nd|location=New York|oclc=53083938}} < /ref >   The Sun's chemical composition was got from the [[interstellar medium]]. The hydrogen and most of the helium in the Sun would have been produced by [[Big Bang nucleosynthesis]] in the first 20 minutes of the [[universe]]. The heavier elements were produced by stars that died before the Sun was formed. The heavier elements were released into the interstellar medium when stars exploded as [[Supernova|supernovae]]. < ref name= " :0 "  / > < ref name= " :1 "  / > 
+ 
+ == Atmosphere == 
+ Five layers make up the [[atmosphere]] of the Sun. The [[chromosphere]], transition region, and [[corona]] are much hotter than the outer photosphere surface of the Sun. < ref name=Abhyankar1977/ >  It is believed that [[Alfvén wave]]s may pass through to heat the corona. < ref > 
+ {{Cite journal|last=De Pontieu B. |display-authors = etal|title=Chromospheric Alfvénic waves strong enough to power the solar wind|journal=Science|volume=318 |issue=5856 |pages=1574–77|year=2007|doi=10.1126/science.1151747|pmid=18063784|bibcode = 2007Sci...318.1574D |s2cid = 33655095}} < /ref > 
+ 
+ The '''minimum temperature zone''', the coolest layer of the Sun, is about {{convert|500|km|abbr=off}} above the photosphere. It has a temperature of about {{cvt|4100|K}}. < ref name=Abhyankar1977 > {{Cite journal|last=Abhyankar K.D.|title=A survey of the solar atmospheric models|year=1977|journal=Bull. Astr. Soc. India|volume=5|bibcode=1977BASI....5...40A|pages=40–44|url=http://prints.iiap.res.in/handle/2248/510}} < /ref >  This part of the Sun is cool enough to allow simple molecules such as [[carbon monoxide]] and water to form. These molecules can be seen on the Sun with special instruments called [[Spectroscope|spectroscopes]]. < ref name=Solanki1994 > {{Cite journal|last=Solanki S.K; Livingston W.  &  Ayres T|title=New light on the heart of darkness of the solar chromosphere |year=1994|journal=Science|pmid=17748350|volume=263|issue=5143|pages=64–66|doi=10.1126/science.263.5143.64|bibcode = 1994Sci...263...64S |s2cid=27696504 }} < /ref > 
+ 
+ The '''chromosphere''' is the first layer of the Sun which can be seen, especially during a [[solar eclipse]] when the moon is covering most of the Sun and blocking the brightest light. 
+ 
+ The '''solar transition region''' is the part of the Sun's atmosphere, between the chromosphere and outer part called the [[corona]]. < ref name=MSFC > {{cite web|title=The Transition Region|url=http://solarscience.msfc.nasa.gov/t_region.shtml|work=Solar Physics, NASA Marshall Space Flight Center|publisher=NASA|access-date=2012-12-12|archive-date=2017-01-08|archive-url=https://web.archive.org/web/20170108211927/https://solarscience.msfc.nasa.gov/t_region.shtml|url-status=dead}} < /ref >   It can be seen from [[outer space|space]] using telescopes that can sense [[ultraviolet]] light. The transition is between two very different layers. In the bottom part it touches the photosphere and gravity shapes the features. At the top, the transition layer touches the corona. 
+ 
+ The '''[[corona]]''' is the outer atmosphere of the Sun and is much bigger than the rest of the Sun. The corona continuously expands into space forming the [[solar wind]], which fills all the Solar System. < ref name=Russell2001/ >  The average temperature of the corona and solar wind is about {{cvt|1000000|–|2000000|K|F}}. In the hottest regions it is {{cvt|8000000|–|20000000|K|F}}. < ref name=Erdelyi2007/ >  We do not understand why the corona is so hot. < ref name=Russell2001 > {{Cite book|last=Russell|first=C.T.|title=Space weather (Geophysical Monograph)|year=2001|publisher=American Geophysical Union|chapter=Solar wind and interplanetary magnetic filed: A tutorial|editor=Song, Paul; Singer, Howard J. and Siscoe, George L.|isbn=978-0-87590-984-4|pages=73–88|url=http://www-ssc.igpp.ucla.edu/personnel/russell/papers/SolWindTutorial.pdf|access-date=2012-12-12|archive-date=2018-10-01|archive-url=https://web.archive.org/web/20181001131951/http://www-ssc.igpp.ucla.edu/personnel/russell/papers/SolWindTutorial.pdf|url-status=dead}} < /ref > < ref name=Erdelyi2007 > Erdèlyi R.  &  Ballai I. 2007. Heating of the solar and stellar coronae: a review. ''Astron. Nachr''. '''328''' (8): 726–733 < /ref >  It can be seen during a [[solar eclipse]] or with an instrument called a [[coronagraph]]. 
+ 
+ The '''[[heliosphere]]''' is the thin outer atmosphere of the Sun, filled with the [[solar wind]] [[Plasma (physics)|plasma]]. It extends out past the orbit of [[Pluto]] to the [[Heliopause (astronomy)|heliopause]], where it forms a boundary where it collides with the [[interstellar medium]]. < ref > {{cite press release 
+  |url=http://www.spaceref.com/news/viewpr.html?pid=16394 
+  |title=The distortion of the Heliosphere: our interstellar magnetic compass 
+  |year=2005 
+  |publisher=[[European Space Agency]] 
+  |accessdate=2006-03-22 
+  |archive-date=2020-05-11 
+  |archive-url=https://web.archive.org/web/20200511052656/http://www.spaceref.com/news/viewpr.html?pid=16394 
+  |url-status=dead 
+  }} < /ref > 
+ 
+ == Eclipses == 
+ A solar [[eclipse]] appears when the moon is between the Earth and Sun. The last total solar eclipse occurred on December 26, 2019, and was visible from [[Saudi Arabia]], [[India]], [[Sumatra]] and [[Borneo]], with a partial eclipse visible in [[Australia]] and much of Asia.  
+ 
+ A [[lunar eclipse]] happens when the moon passes through the shadow of the Earth which can only occur during a full moon. The number of lunar eclipses in a single year can range from 0 to 3. Partial eclipses slightly outnumber total eclipses by 7 to 6. < ref > {{Cite web|url=http://www.mreclipse.com/Special/LEprimer.html|title=Lunar Eclipses for Beginners}} < /ref > 
+ 
+ == Fate of the Sun == 
+ [[Astrophysics|Astrophysicists]] say our Sun is a [[G-type main-sequence star]] in the middle of its [[stellar evolution|life]]. In about billion years, increased solar energy will boil away the [[Earth's atmosphere]] and oceans. In a few more billion years, they think the Sun will get bigger and become a [[red giant]] star. The Sun would be up to 250 times its current size, as big as {{convert|1.4|AU|km mi|abbr=in|lk=in}} and swallow up the Earth. 
+ 
+ [[Earth]]'s fate is still unknown. In the long term, the Earth's future depends on the Sun, and the Sun is going to be fairly stable for the next 5 [[billion]] years. < ref > [http://faculty.wcas.northwestern.edu/~infocom/The%20Website/evolution.html The Sun's evolution] < /ref > < ref > Goldsmith D.  &  Owen T. 2001. ''The search for life in the universe''. University Science Books, p. 96. {{ISBN|978-1-891389-16-0}} < /ref >   Calculations suggest that the Earth might move to a wider orbit. This is because about 30% of the Sun's mass will blow away in the [[solar wind]]. However, in the very long term the Earth will probably be destroyed as the Sun increases in size. Stars like the Sun become [[red giant]]s at a later stage. < ref > Schröder K.-P.  &  Smith R.C. 2008. Distant future of the Sun and Earth revisited. ''Monthly Notices of the Royal Astronomical Society'' '''386''' (1): 155–163. [http://mnras.oxfordjournals.org/content/386/1/155] < /ref >  The Sun will expand beyond the orbits of [[Mercury (planet)|Mercury]], [[Venus]], and probably Earth. In any event, the ocean and air would have vanished before the Sun gets to that stage. 
+ 
+ After the Sun reaches a point where it can no longer get bigger, it will lose its layers and form a [[planetary nebula]]. Eventually, the Sun will shrink into a [[white dwarf]]. Then, over several hundred billion or even a trillion years, the Sun would fade into a [[black dwarf]]. 
+ 
+ == More reading == 
+ *{{cite book|first=Kenneth R.|last=Lang|title=The Cambridge Encyclopedia of the Sun|url=https://archive.org/details/cambridgeencyclo0000lang|publisher=Cambridge University Press|date=2001|isbn=9780521780933}} 
+ 
+ == Other Websites == 
+ 
+ [https://g.co/kgs/csqjTV Google's 3D model of the sun.] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Spoken Wikipedia|Sun.ogg|19 July 2006}} 
+ {{commons}} 
+ {{wikijunior|The Sun|Solar System/The Sun}} 
+ {{Solar System}} 
+ 
+ [[Category:Basic English 850 words]] 
+ [[Category:Sun| ]]

@@ -1,0 +1,14 @@
+In [[cryptography]], '''plaintext''' is the information which the sender wants to transmit to the receiver(s).   
+ 
+ Before [[computer]]s, plaintext meant text in the language of the communicating parties.  Since computers, the definition has been expanded. It now includes not only the electronic representation of text, such as [[email]]s and [[word processor]] [[document]]s, but also the computer representation of [[speech]], [[music]], [[picture]]s, [[video]]s, [[Automated teller machine|ATM]] and [[credit card]] transactions, [[sensor]] data, and so forth. That is basically any information which the communicating parties might wish to hide from others.  The plaintext is the normal representation of the data before any action has been taken to hide it. 
+ 
+ The plaintext is used as input to an [[encryption]] [[algorithm]]; the output is termed '''[[ciphertext]]'''.  Some systems, however, use a cascade of layers of encryption (called 'rounds') in which case the ciphertext output of one encryption algorithm becomes the plaintext input to the next. [[Triple DES]] is an example. 
+ 
+ ==Related pages== 
+ * [[Cleartext]] 
+ 
+ 
+ {{-}} 
+ {{tech-stub}} 
+ 
+ [[Category:Cryptography]]

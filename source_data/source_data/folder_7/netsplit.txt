@@ -1,0 +1,47 @@
+{{No footnotes|date=March 2011}} 
+ 
+ In [[Networking technology|computer networking]], mainly [[Internet Relay Chat]] (IRC), '''netsplit''' is the event when two servers disconnect. Because how IRC networks are built, a disconnection between two servers splits the entire network into two parts. This makes it look like people on the other half of the network have quit from IRC. 
+ 
+ {{multiple image | direction = vertical | width = 300 
+ |image1=Netsplit_1.svg 
+ |caption1=A normally functioning network: Bob, Joe and Sara can all see each other. 
+ |image2=Netsplit_2.svg 
+ |caption2=A network on which a netsplit has occurred: Bob sees Joe quitting, Joe sees Sara and Bob quitting. 
+ }} 
+ 
+ ==Appearance of netsplits== 
+ Below is an example of typical netsplit. When two servers split, a user sees this as large number of users quitting. After the servers are reconnected, a user sees the other users rejoining. 
+ [[File:Netsplit.png|thumb|left|400px|A typical netsplit in the X-Chat aqua IRC client.]] 
+ {{clear}} 
+ 
+ ;On GUI IRC clients 
+ < pre > < nowiki > * usera has quit (a.irc.net b.irc.net) 
+ * userb has quit (a.irc.net b.irc.net) 
+ * userc has quit (a.irc.net b.irc.net) 
+ * usera has joined #channel 
+ * userb has joined #channel 
+ * userc has joined #channel < /nowiki > < /pre > 
+ 
+ ;On command-line client irssi 
+ < pre > < nowiki > 00:00 -!- Netsplit a.irc.net  < - >  b.irc.net quits: usera, userb, userc 
+ 00:00 -!- Netsplit over, joins: usera, userb, userc < /nowiki > < /pre > 
+ 
+ ;To a user on a private network 
+ < pre > < nowiki > * usera has quit (*.net *.split) 
+ * userb has quit (*.net *.split) 
+ * userc has quit (*.net *.split) 
+ * usera has joined #channel 
+ * userb has joined #channel 
+ * userc has joined #channel < /nowiki > < /pre > 
+ 
+ ==References== 
+ {{enWiktionary|netsplit}} 
+ * {{cite book| last = Bidgoli| first = Hossein| title = The Internet Encyclopedia| url = https://books.google.com/books?id=3ZfDy4sqQBEC| year = 2004| publisher = John Wiley  &  Sons| isbn = 978-0-471-22204-0 }} 
+ 
+ == Other websites == 
+ * [http://docs.dal.net/docs/netsplits.html ''Netsplit Manual''] (retrieved 2009-12-2) 
+ 
+ {{IRC topics}} 
+ 
+ [[Category:Internet Relay Chat]] 
+ [[Category:Computer networking]]

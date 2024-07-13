@@ -1,0 +1,52 @@
+{{Infobox Software 
+ | name                   = StyleTap 
+ | logo                   =  
+ | screenshot             =  
+ | caption                =  
+ | author                 =  
+ | developer              = StyleTap, Inc. 
+ | released               = April 27, 2005 < ref name= " Release Notes " > [http://styletap.com/release_notes.php Release Notes]. StyleTap, Inc. Retrieved 7 September 2007. < /ref > 
+ | latest release version = 1.1.017 
+ | latest release date    = November 14, 2009 
+ | latest preview version =  
+ | latest preview date    =  
+ | programming language   = 
+ | operating system       = [[Windows Mobile]], [[Windows CE]], [[Symbian OS]], < ref > [http://www.styletap.com/downloads.php?devicetype=symbian StyleTap Platform for Symbian OS], Which Symbian versions does StyleTap Platform for Symbian OS support? It supports smartphones running UIQ3 and S60 3rd Edition < /ref >  [[iOS (Apple)|iOS]], < ref > {{cite web | url=http://www.styletap.com/product_iosretired.php | title=StyleTap Platform – iPhone Product Information }} < /ref >  [[Android OS|Android]] < ref > {{cite web | url=http://www.styletap.com/product_android.php | title=StyleTap Platform – Android Product Information }} < /ref > 
+ | platform               =  
+ | language               =  
+ | genre                  = [[Emulator]] 
+ | license                = [[Shareware]] 
+ | website                = [http://www.styletap.com styletap.com] 
+ }} 
+ '''StyleTap''' is a [[Palm OS]] [[simulator]]/compatibility layer/[[emulator]] for [[Windows Mobile]]/[[Windows CE]], [[Symbian OS]], [[iOS]] and [[Android (operating system)|Android]]. It emulates Palm OS 5.2 and earlier. Applications made for Palm OS work just like applications made for the operating system StyleTap is running on. 
+ 
+ StyleTap works on these platforms: 
+ * Windows Mobile 6 Professional 
+ * Windows Mobile 6 Standard 
+ * Windows Mobile 5 for Pocket PC 
+ * Windows Mobile 5 for Smartphone 
+ * Pocket PC 2003SE (including full VGA support) 
+ * Pocket PC 2003 
+ * Pocket PC 2002 
+ * Pocket PC 2000 
+ * Various OEM customizations of Windows CE 4.2 and later 
+ * [[iOS (Apple)|iOS]] 3.x.x/4 (requires [[Cydia]]) 
+ * [[Android (operating system)|Android]] 
+ 
+ ==Related pages== 
+ *[[Windows Mobile]] 
+ *[[Symbian]] 
+ *[[Palm OS]] 
+ *[[Palm OS Emulator]] 
+ *[[iOS]] 
+ *[[Android (operating system)|Android]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *[http://styletap.com StyleTap] 
+ *[http://perpendox.com/phem/ PHEM: Palm Hardware Emulator] {{Webarchive|url=https://web.archive.org/web/20190920102255/http://perpendox.com/phem/ |date=2019-09-20 }}, a port of [[Palm OS Emulator|POSE]] to Android 
+ *[https://play.google.com/store/apps/details?id=com.perpendox.phem & hl=en PHEM on Google Play] 
+ 
+ [[Category:Software]]

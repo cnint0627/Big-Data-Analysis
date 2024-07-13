@@ -1,0 +1,39 @@
+{{Infobox|name         = SemEval 
+ |bodystyle    =  
+ |title        = SemEval 
+ |titlestyle   =  
+ |headerstyle  = background:#ccf; 
+ |labelstyle   =  
+ |datastyle    =  
+ |header1 = Academics 
+ |label2 = Disciplines: 
+ |data2 = [[Natural Language Processing]]  < br > [[Computational Linguistics]]  < br > [[Semantics]]  
+ |label3 = Umbrella  < br > Organization: 
+ |data3 = [http://www.clres.com/siglex.html ACL-SIGLEX]  
+ |header4 = Workshop Overview 
+ |label5 = Founded: < br > (Origin) 
+ |data5 = 1998 ([http://www.senseval.org/ Senseval]) 
+ |label6 = Latest: 
+ |data6 = [http://semeval2.fbk.eu/semeval2.php Semseval 2]  < br > Summer 2010 (Ended) < br > [http://acl2010.org/ ACL @ Uppsala, Sweden] 
+ |label7 = Upcoming: 
+ |data7 = [http://aclweb.org/aclwiki/index.php?title=Draft_Schedule_for_SemEval_3 Semseval 3]  < br > Summer 2012(tentative)  < br > [[Association for Computational Linguistics|ACL]] @ Jeju Island, Korea 
+ |header8 = History 
+ |label9 = [http://www.itri.brighton.ac.uk/events/senseval/ARCHIVE/index.html Senseval-1] 
+ |data9 =  1998 @ Sussex 
+ |label10 = [http://www.sle.sharp.co.uk/senseval2 Senseval-2]  
+ |data10= 2001 @ Toulouse 
+ |label11 = [http://www.senseval.org/senseval3 Senseval-3] 
+ |data11 = 2004 @ Barcelona 
+ |label12 = [http://nlp.cs.swarthmore.edu/semeval SemEval-1 < br > (Senseval-4)]  
+ |data12 = 2007 @ Prague 
+ |label13= [http://semeval2.fbk.eu/ SemEval-2] 
+ |data13 = 2010 @ Uppsala 
+ |belowstyle = background:#ddf; 
+ |below =  
+ }} 
+ 
+ '''SemEval''' ('''Sem'''antic '''Eval'''uation) is a series of workshops that focus on evaluating computer systems that  interpret the meaning of human language (aka [[Computational Semantics| Computational Semantic]] systems).  
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computers]]

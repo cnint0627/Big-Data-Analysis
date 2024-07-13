@@ -1,0 +1,58 @@
+{{italic title}} 
+ {{Taxobox 
+ | name = ''Nectophrynoides'' 
+ | image = Kihansi Spray Toad1.jpg 
+ | image_caption = [[Kihansi Spray Toad]] (''Nectophrynoides asperginis'') 
+ | regnum = [[Animalia]] 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Amphibia]] 
+ | ordo = [[Anura]] 
+ | familia = [[Bufonidae]] 
+ | genus = '''''Nectophrynoides''''' 
+ | genus_authority = [[Reinhold Wilhelm Buchholz|Buchholz]]  &  [[Wilhelm Peters|Peters]] ''In'' [[Wilhelm Peters|Peters]], 1875 
+ }} 
+ 
+ '''''Nectophrynoides''''' is a [[genus]] of [[Bufonidae|true toads]]. They live in [[Eastern Arc]] forests and wetlands in [[Tanzania]]. < ref name=Channing > Channing and Howell. (2006). ''Amphibians of East Africa.'' Pp. 104-117. {{ISBN|3-930612-53-4}} < /ref >  All but ''[[Nectophrynoides tornieri|N. tornieri]]'' are [[Threatened species|threatened]]. Species of the genus are [[Ovoviviparity|ovoviviparous]]: fertilization is internal, and the females give birth to fully developed, small toadlets. < ref name=Channing/ >  Together with the West Africa ''[[Nimbaphrynoides]]'', they are the only frogs/toads in the world that do not lay eggs. < ref name=Wells > Wells (2007). ''The Ecology and Behavior of Amphibians.'' Pp. 486-487. {{ISBN|978-0-226-89334-1}} < /ref > 
+ 
+ ==Species== 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !Binomial Name and Author!! Common Name 
+ |- 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nectophrynoides asperginis]]'' {{small|Poynton, Howell, Clarke  &  Lovett, 1999}} || Kihansi Spray Toad 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Nectophrynoides cryptus]]'' {{small|Perret, 1971}} ||Secret Tree Toad 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nectophrynoides frontierei]]'' {{small|Menegon, Salvidio  &  Loader, 2004}} || Frontier Forest Toad 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Nectophrynoides laevis]]'' {{small|Menegon, Salvidio  &  Loader, 2004}} || Smooth Forest Toad 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nectophrynoides laticeps]]'' {{small|Channing, Menegon, Salvidio  &  Akker, 2005}} || 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Nectophrynoides minutus]]'' {{small|Perret, 1972}} || Minute Tree Toad 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nectophrynoides paulae]]'' {{small|Menegon, Salvavidio, Ngalason  &  Loader, 2007}} || 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Nectophrynoides poyntoni]]'' {{small|Menegon, Salvidio  &  Loader, 2004}} || Poynton's Forest Toad 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nectophrynoides pseudotornieri]]'' {{small|Menegon, Salvidio  &  Loader, 2004}} || Pseudo Forest Toad 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Nectophrynoides tornieri]]'' {{small|(Roux, 1906)}} || Tornier's Tree Toad || 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nectophrynoides vestergaardi]]'' {{small|Menegon, Salvidio  &  Loader, 2004}} || Vestergaard's Forest Toad 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Nectophrynoides viviparus]]'' {{small|(Tornier, 1905)}} || Morogoro Tree Toad || 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Nectophrynoides wendyae]]'' {{small|Clarke, 1988}} || Uzungwe Scarp Tree Toad 
+ |- 
+ |} 
+ 
+ ==References== 
+ {{reflist}} 
+ * Frost, Darrel R. 2007. Amphibian Species of the World: an Online Reference. Version 5.1 (10 October 2007). Electronic Database accessible at http://research.amnh.org/herpetology/amphibia/index.php. American Museum of Natural History, New York, USA. [http://research.amnh.org/herpetology/amphibia/names.php?taxon= & family= & subfamily= & genus=Nectophrynoides & commname= & authority= & year= & geo=0 & dist= & comment= Nectophrynoides] accessdate=2008-04-14 
+ 
+ {{Commons category|Nectophrynoides}} 
+ 
+ [[Category:Toads]] 
+ [[Category:Frogs of Africa]]

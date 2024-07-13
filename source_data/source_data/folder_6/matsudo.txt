@@ -1,0 +1,106 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > | name                            = {{raise|0.2em|Matsudo}} 
+ | population_as_of                = November 30, 2020 
+ | utc_offset1_DST                 =  < !-- postal codes, area code -- > 
+ | timezone1_DST                   =  
+ | utc_offset1                     = +9 
+ | timezone1                       = [[Japan Standard Time]] 
+ | population_note                 =  < !-- time zone(s) -- > 
+ | population_demonym              =  < !-- demonym, ie. Liverpudlian for someone from Liverpool -- > 
+ | pop_est_as_of                   =  
+ | population_est                  =  
+ | population_density_km2          = auto 
+ | population_total                = 498575 
+ | postal_code                     =  
+ | population_footnotes            =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_m                     =  < !-- population -- > 
+ | elevation_footnotes             =  < !-- for references: use  < ref >  tags -- > 
+ | area_note                       =  < !-- elevation -- > 
+ | area_water_percent              =  
+ | area_water_km2                  =  
+ | area_land_km2                   =  
+ | area_total_km2                  = 61.38 
+ | area_footnotes                  =  < !-- for references: use  < ref >  tags -- > 
+ | postal_code_type                =  
+ | area_code_type                  =  < !-- defaults to: Area code(s) -- > 
+ | unit_pref                       =  < !-- enter: Imperial, to display imperial before metric -- > 
+ < !-- area -- > | blank5_info_sec1                =  
+ | website                         = {{Official|1=http://www.city.matsudo.chiba.jp/}} 
+ | blank1_info_sec2                = 387-5, Nemoto, Matsudo-shi, Chiba-ken 271-8588 
+ | blank1_name_sec2                = Address 
+ | blank_info_sec2                 = 047-366-1111 
+ | blank_name_sec2                 = Phone & nbsp;number 
+ | blank7_info_sec1                =  < !-- blank fields (section 2) -- > 
+ | blank7_name_sec1                =  
+ | blank6_info_sec1                =  
+ | blank6_name_sec1                =  
+ | blank5_name_sec1                =  
+ | area_code                       =  < !-- blank fields (section 1) -- > 
+ | blank4_info_sec1                =  
+ | blank4_name_sec1                =  
+ | blank3_info_sec1                = [[Ural owl]], [[barn swallow]] and [[eastern great egret|white heron]] 
+ | blank3_name_sec1                = - Bird 
+ | blank2_info_sec1                = [[Azalea]], [[hydrangea]] and [[Asteroideae]] 
+ | blank2_name_sec1                = - Flower 
+ | blank1_info_sec1                = [[Castanopsis]], [[eucalyptus]], [[sakura]], [[Pyrus pyrifolia]] 
+ | blank1_name_sec1                = -Tree 
+ | blank_name_sec1                 = City symbols 
+ | area_magnitude                  =  < !-- use only to set a special wikilink -- > 
+ | total_type                      =  < !-- to set a non-standard label for total area and population rows -- > 
+ | native_name                     = {{lower|0.1em|{{nobold|{{lang|ja|松戸市}}}}}} 
+ | seal_alt                        =  
+ | pushpin_map                     = Japan 
+ | map_caption                     = Location of Matsudo in Chiba Prefecture 
+ | map_alt                         =  
+ | image_map                       = Matsudo in Chiba Prefecture Ja.svg 
+ | motto                           =  < !-- maps and coordinates -- > 
+ | nickname                        =  
+ | image_blank_emblem              =  
+ | shield_alt                      =  
+ | image_shield                    =  
+ | image_seal                      = Emblem of Matsudo, Chiba.svg 
+ | pushpin_map_alt                 =  
+ | flag_alt                        =  
+ | image_flag                      = Flag of Matsudo, Chiba.svg 
+ | image_caption                   = 
+ | image_alt                       =  
+ | imagesize                       =  
+ | image_skyline                   = Matsudo montage.jpg 
+ | settlement_type                 = [[Cities of Japan|City]] 
+ < !-- images, nickname, motto -- > | native_name_lang                = ja 
+ | official_name                   =  
+ | pushpin_label_position          =  < !-- position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_map_caption             =  & nbsp; 
+ | leader_name1                    =  < !-- etc., up to leader_title4 / leader_name4 -- > 
+ < !-- display settings  -- > | established_date                =  
+ | leader_title1                   =  
+ | leader_name                     = Kenji Hongoya (since July 2010) 
+ | leader_title                    = Mayor 
+ | leader_party                    =  
+ | government_footnotes            =  < !-- for references: use  < ref >  tags -- > 
+ | seat                            =  < !-- government type, leaders -- > 
+ | seat_type                       =  < !-- defaults to: Seat -- > 
+ | named_for                       =  < !-- seat, smaller parts -- > 
+ | founder                         =  
+ | established_title               =  < !-- Settled -- > 
+ | coordinates                     = {{coord|35|47|15.5|N|139|54|11.4|E|region:JP|display=inline,title}} 
+ | subdivision_name3               =  < !-- established -- > 
+ | subdivision_type3               =  
+ | subdivision_name2               = [[Chiba Prefecture|Chiba]] 
+ | subdivision_type2               = [[Prefectures of Japan|Prefecture]] 
+ | subdivision_name1               = [[Kantō region|Kantō]] 
+ | subdivision_type1               = [[List of regions of Japan|Region]] 
+ | subdivision_name                = Japan 
+ | subdivision_type                = [[List of sovereign states|Country]] 
+ | coordinates_footnotes           =  < !-- for references: use  < ref >  tags -- > 
+ < !-- location -- > | coor_pinpoint                   =  < !-- to specify exact location of coordinates (was coor_type) -- > 
+ | footnotes                       =  
+ }} 
+ [[File:Matsudo_City_Hall_2.jpg|right|thumb|260x260px|Matsudo City Hall]] 
+ {{Nihongo|'''Matsudo'''|松戸市|Matsudo-shi}} is a [[Cities of Japan|city]] in [[Chiba Prefecture]], [[Japan]]. 
+ 
+ {{Authority control}} 
+ 
+ {{Japan-stub}} 
+ 
+ [[Category:Cities in Chiba Prefecture]]

@@ -1,0 +1,17 @@
+{{no footnotes|date=October 2021}} 
+ [[File:Airy-pattern2.jpg|thumb|Diffraction pattern made by light passing through a single pinhole]] 
+ '''Diffraction''' is a [[physics]] concept which occurs when [[Wave (physics)|waves]] bend around small obstacles, or spread out after they pass through small openings. Diffraction occurs with all waves, including [[sound]] waves, [[water]] waves, and [[electromagnetic]] waves such as [[light]] that the eye can see. Diffraction also occurs with as [[electron]]s. 
+ 
+ ==Causes of diffraction== 
+ [[Image:Young Diffraction.png|thumb|center|350px|A sketch of two-slit diffraction. The wave that passed through the slits was diffracted and will interfere with itself.]] 
+ Diffraction is caused by one wave of light being shifted by a diffracting object. This shift will cause the wave to have [[interference]] with itself.  Interference can be either constructive or destructive.  When interference is constructive, the [[intensity (physics)|intensity]] of the wave will increase.  When interference is destructive, the intensity will decrease, sometimes to a point where it is completely destroyed.  These patterns of interference rely on the size of the diffracting object and the size of the wave.  The strongest examples of diffraction occur in waves where the [[wavelength]] is similar to the size of the object causing diffraction. 
+ 
+ ==Uses of diffraction== 
+ Diffraction can be used to separate different wavelengths of light using a diffraction grating.  A diffraction grating can be a series of closely-spaced slits or a [[mirror]] with a series of small grooves.  Diffraction gratings work because different wavelengths of light will constructively interfere at different angles.  Diffraction gratings are used in many [[analytical chemistry]] tools, such as a [[spectrometer]]. 
+ 
+ Diffraction can also be used to look at [[molecule]]s using [[X-ray crystallography]].  In X-ray crystallography, [[X-ray]]s are aimed on a [[crystal]]. The crystal diffracts the X-ray and makes a diffraction pattern.  This pattern is unique to the type of crystal and can be used to identify the molecule that makes the crystal. Diffraction also occurs in a bending movement where the wave becomes more spread out 
+ 
+ ==References== 
+ Skoog, D.A.; Holler, F.J.; Crouch, S.R.  Principles of Instrumental Analysis. (Brooks/Cole, California). {{ISBN|0-495-01201-7}} 
+ http://commons.wikimedia.org/wiki/File:Young_Diffraction.png 
+ [[Category:Wave physics]]

@@ -1,0 +1,72 @@
+{{Infobox settlement 
+ | name                    = Znojmo 
+ | other_name              =  
+ | settlement_type         = [[Obec|Town]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           = Znojmo - panorama od jihu obr1.jpg 
+ | image_caption           = View from the south 
+ | image_flag              = ZNOJMO vlajka města.jpg 
+ | image_shield            = ZNOJMO znak města.png 
+ < !-- location -- > 
+ | subdivision_type        = Country 
+ | subdivision_name        = {{CZE}} 
+ | subdivision_type1       = [[Regions of the Czech Republic|Region]] 
+ | subdivision_name1       = [[South Moravian Region|South Moravia]] 
+ | subdivision_type2       = [[Districts of the Czech Republic|District]] 
+ | subdivision_name2       = [[Znojmo District|Znojmo]] 
+ < !-- maps and coordinates -- > 
+ | image_map               =  
+ | map_caption             =  
+ | pushpin_map             = Czech Republic 
+ | pushpin_relief          = 1 
+ | pushpin_map_caption     = Location in the Czech Republic 
+ | coordinates             = {{coord|48|51|20|N|16|2|56|E|display=inline,title}} 
+ | coordinates_footnotes   =  
+ < !-- government type, leaders -- > 
+ | leader_title            = Mayor 
+ | leader_name             = Jakub Malačka 
+ < !-- established -- > 
+ | established_title       = First mentioned 
+ | established_date        = 1226 
+ < !-- area -- > 
+ | area_footnotes          =  
+ | area_total_km2          = 65.90 
+ < !-- elevation -- > 
+ | elevation_footnotes     =  
+ | elevation_m             = 290 
+ < !-- population -- > 
+ | population_as_of        = 2022-01-01 
+ | population_footnotes    =  < ref > {{cite web |title=Population of Municipalities – 1 January 2022|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2022|publisher=[[Czech Statistical Office]]|date=2022-04-29}} < /ref > 
+ | population_total        = 33370 
+ | population_density_km2  = auto 
+ < !-- time zone(s) -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        = Postal code 
+ | postal_code             = 669 02 
+ | area_code_type          =  
+ | area_code               =  
+ < !-- website, footnotes -- > 
+ | website                 = {{URL|https://www.znojmocity.cz/}} 
+ | footnotes               =  
+ }} 
+ 
+ '''Znojmo''' ({{IPA2|ˈznojmo}}; {{lang-de|Znaim}}) is a town in the [[South Moravian Region]] of the [[Czech Republic]], near the border with [[Lower Austria]]. 
+ 
+ < gallery > 
+ Image:Znojmo-rotunda-svKateřiny2009d.jpg|Znojmo Castle 
+ Image:Znaimer_Altstadt2.jpg|Column commemorating the [[Black Death]] 
+ Image:Znojmo-Town Hall Tower.jpg|Town Hall tower 
+ < /gallery > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{multistub|geo|Europe}} 
+ 
+ [[Category:Cities in the Czech Republic]] 
+ [[Category:South Moravian Region]]

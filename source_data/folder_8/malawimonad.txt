@@ -1,0 +1,58 @@
+{{no sources}} 
+ '''Malawimonada''' (order '''Malawimonadida''') is a [[phylum]] of [[microorganism]]s. They occupy a [[Basal group|basal position]] in the evolutionary tree of [[eukaryotes]]. 
+ 
+ ==Description== 
+ Malawimonada is a group of [[flagellum|biflagellate]], [[free-living]] protozoans in [[freshwater]] or [[soil]]. 
+ 
+ ==Phylogeny== 
+ The malawimonads are similar to < !-- the-- >  ancyromonads. 
+ 
+ (The [[diagram]] below, starts on the left side.) There is no [[consensus]] about where [[Metamonada]] belongs (or should be) on the diagram. 
+ {{Clade 
+ |label1=[[Eukaryota]] 
+ |1={{Clade 
+    |label1=Diphoda/[[Bikonta]] 
+    |1={{Clade 
+       |1={{Clade 
+          |1=[[Diaphoretickes]]/Corticata[[File:Glaucophyte.jpg|60 px]] 
+          |2=[[Hemimastigophora]][[File:Hemimastix_amphikineta.png|60 px]] 
+       }} 
+       |label2=[[Excavata]] 
+       |2={{Clade 
+          |1=[[Discoba]][[File:Euglena_sp.jpg|60 px]] 
+          |2=? < !--[[Metamonada]]?[[File:Giardia_lamblia.jpg|60 px]]-- > 
+       }} 
+    }} 
+    |2=? < !--[[Metamonada]]?[[File:Giardia_lamblia.jpg|60 px]]-- > 
+    |label3=[[Unikonta]] 
+    |3={{Clade 
+       |1='''Malawimonada'''[[File:Malawimonas.jpg|60 px]] 
+       |2={{Clade 
+          |1=[[Ancyromonada]][[File:Ancyromonas.png|60 px]] 
+          |label2=[[Podiata]] 
+          |2={{Clade 
+             |1=[[CRuMs]][[File:Collodictyon_pseudopodoa_(extracted).jpg|60 px]] 
+             |label2=[[Amorphea]] 
+             |2={{Clade 
+                |1=[[Amoebozoa]][[File:Amoeba_proteus_with_many_pseudopodia.jpg|60 px]] 
+                |2=[[Obazoa]]/Crown-group amorphea[[File:Cronoflagelado2.jpg|60 px]] 
+             }} 
+          }} 
+       }} 
+    }} 
+ }} 
+ }} 
+ 
+ ==Related pages== 
+ *[[Eukaryota]], the much larger group in which this group is contained. 
+ 
+ ==External links== 
+ {{wikispecies}} 
+ 
+ {{commons}} 
+ {{taxonbar|from1=Q21224386|from2=Q21224392}} 
+ 
+ [[Category:Eukaryotes]] 
+ 
+ 
+ {{stub}}

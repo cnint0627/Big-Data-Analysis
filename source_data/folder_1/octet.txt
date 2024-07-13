@@ -1,0 +1,15 @@
+{{nosources|date=June 2009}} 
+ 
+ An '''octet''' is a word used to describe the sequence of 8 things in a row. 
+ 
+ In music, an octet is an [[ensemble]] consisting of eight [[Musical instrument|instrument]]s or [[voice]]s, or a composition written for such an ensemble. 
+ 
+ == Technology == 
+ Octets are used in the technology field very often.  For example, the eight binary digits in a [[byte]] has been called an octet.  The term  " octet "  is used to avoid [[wikt:ambiguity|ambiguity]], because some old computers had different numbers of bits per byte.  It is mainly used with describing [[internet protocol|IP addresses]]. An [[IPv4]] address consists of four octets (which can be written as their decimal values 255.255.255.255). 
+ 
+ In [[France]], [[French Canadian|French Canada]] and [[Romania]],  " octet "  is used in common language instead of  " byte "  to talk about 8 bits, for example, a megabyte (MB) is called a megaoctet (Mo). 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Numbers]]

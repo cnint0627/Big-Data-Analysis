@@ -1,0 +1,86 @@
+'''Dodecane/''' '''dihexyl''', '''bihexyl''', '''adakane 12''', or '''duodecane''' is a liquid alkane hydrocarbon with the chemical formula CH < sub > 3 < /sub > (CH < sub > 2 < /sub > ) < sub > 10 < /sub > CH < sub > 3 < /sub >  (or C < sub > 12 < /sub > H < sub > 26 < /sub > ). It has 12 carbon atoms and 26 hydrogen atoms. It has more isomers than the proceeding undecane. It has 355 isomers. < ref > {{Cite web|title=Dodecane {{!}} C12H26 {{!}} ChemSpider|url=http://www.chemspider.com/Chemical-Structure.7890.html|access-date=2021-11-29|website=www.chemspider.com}} < /ref >  Here is diagram, composition and structure of Dodecane.  
+ 
+ {{Distinguish|Dodecahedrane}}{{Chembox 
+ | ImageFile      = Dodecane-2D-Skeletal.svg 
+ | ImageFile1     = DodecaneFull.png 
+ | ImageFile2     = Dodecane 3D ball.png 
+ | ImageSize      = 260 
+ | ImageAlt       = Skeletal formula of dodecane 
+ | ImageFile_Ref  = {{chemboximage|correct|??}} 
+ | ImageSize1     = 260 
+ | ImageAlt1      = Skeletal formula of dodecane with all implicit carbons shown, and all explicit hydrogens added 
+ | ImageFile1_Ref = {{chemboximage|correct|??}} 
+ | ImageSize2     = 260 
+ | ImageAlt2      = Ball and stick model of dodecane 
+ | ImageFile2_Ref = {{chemboximage|correct|??}} 
+ | PIN            = Dodecane < ref > {{Cite web|title=n-dodecane - Compound Summary|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=8182 & loc=ec_rcs|work=PubChem Compound|publisher=National Center for Biotechnology Information|access-date=4 January 2012|location=USA|date=16 September 2004|at=Identification and Related Records}} < /ref > 
+ | Section1       = {{Chembox Identifiers 
+ | CASNo = 112-40-3 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 8182 
+ | ChemSpiderID = 7890 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = 11A386X1QH 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | EINECS = 203-967-9 
+ | DrugBank = DB02771 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | KEGG = C08374 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | MeSHName = n-dodecane 
+ | ChEBI = 28817 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 30959 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS = JR2125000 
+ | Beilstein = 1697175 
+ | Gmelin = 201408 
+ | SMILES = CCCCCCCCCCCC 
+ | StdInChI = 1S/C12H26/c1-3-5-7-9-11-12-10-8-6-4-2/h3-12H2,1-2H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = SNRUBQQJIBEYMU-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ }} 
+ | Section2       = {{Chembox Properties 
+ | C = 12 
+ | H = 26 
+ | Appearance = Colorless liquid 
+ | Odor = Gasoline-like to odorless 
+ | Density = 0.7495 g mL < sup > −1 < /sup >  at 20 & nbsp;°C < ref > {{Cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/dodecane#section=Solubility|title=Dodecane}} < /ref > 
+ | MeltingPtK = 263.2 to 263.8 
+ | BoilingPtK = 487 to 491 
+ | LogP = 6.821 
+ | VaporPressure = 18 Pa (at 25 & nbsp;°C) < ref > {{Cite web|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=8182#x400|title=Dodecane}} < /ref > 
+ | HenryConstant = 1.4 nmol Pa < sup > −1 < /sup >  kg < sup > −1 < /sup > 
+ | RefractIndex = 1.421 
+ | Viscosity = 1.34 mPa s 
+ }} 
+ | Section3       = {{Chembox Thermochemistry 
+ | DeltaHf = −353.5–−350.7 kJ mol < sup > −1 < /sup > 
+ | DeltaHc = −7901.74 kJ mol < sup > −1 < /sup > 
+ | Entropy = 490.66 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ | HeatCapacity = 376.00 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ }} 
+ | Section4       = {{Chembox Hazards 
+ | ExternalSDS = [http://hazard.com/msds/mf/baker/baker/files/d8752.htm hazard.com] 
+ | GHSPictograms = {{GHS health hazard}} 
+ | GHSSignalWord = '''DANGER''' 
+ | HPhrases = {{H-phrases|304}} 
+ | PPhrases = {{P-phrases|301+310|331}} 
+ | NFPA-H = 1 
+ | NFPA-F = 2 
+ | NFPA-R = 0 
+ | FlashPtC = 71 
+ | AutoignitionPtC = 205 
+ | ExploLimits = 0.6% 
+ }} 
+ | Section5       = {{Chembox Related 
+ | OtherFunction_label = alkanes 
+ | OtherFunction = {{Unbulleted list|[[Undecane]]|[[Tridecane]]}} 
+ }} 
+ | Watchedfields  = changed 
+ | verifiedrevid  = 443707553 
+ }} 
+ 
+ == References == 
+ {{reflist}}

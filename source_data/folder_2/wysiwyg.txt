@@ -1,0 +1,24 @@
+'''WYSIWYG''' ({{pronEng|ˈwɪziwɪg}} < ref > Dictionary.com Unabridged (v 1.1). Retrieved November 09, 2007, from Dictionary.com website: [http://dictionary.reference.com/browse/wysiwyg WYSIWUG] < /ref >  or {{IPA|/ˈwɪz < s > ɪ < /s > wɪg/}} < ref > OED < /ref > ), is an [[acronym]] for '''''W'''hat '''Y'''ou '''S'''ee '''I'''s '''W'''hat '''Y'''ou '''G'''et'', used in [[computing]] to describe a system where things you edit on the on-screen editor appear almost the same to the final output, < ref > {{cite web|url=http://www.askoxford.com/concise_oed/wysiwyg?view=uk|title=Compact Oxford English Dictionary: WYSIWYG|publisher=Oxford University Press|access-date=2008-08-22|archive-date=2008-10-18|archive-url=https://web.archive.org/web/20081018220458/http://www.askoxford.com/concise_oed/wysiwyg?view=uk|url-status=dead}} < /ref >  which might be a [[Printing|printed]] document, a [[Webpage|web page]], a [[Microsoft PowerPoint|PowerPoint]] presentation or even the lighting for a [[concert]]. [[Web designers]] often use this word to talk about their work. 
+ 
+ ==Related pages== 
+ *[[GUI]] 
+ *[[Text editor]] 
+ *[[WYSIWYM]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ *[http://geniisoft.com/showcase.nsf/WebEditors Comparison table] - open source and commercial WYSIWYG web-based editors 
+ *ATPM.com's [http://www.atpm.com/4.12/page7.shtml WYSIWYG: Is it What You Want?] 
+ *[http://xml.coverpages.org/taylorWYSIWYG.html What has WYSIWYG done to us?] - Serious article about the negative effects the introduction of WYSIWYG has had as of 1996. 
+ *[http://www.freesoftwaremagazine.com/free_issues/issue_03/practical_applications_xml XML: WYSIWYG to WYSIWYM - A brief look at XML document authoring] {{Webarchive|url=https://web.archive.org/web/20050526001540/http://www.freesoftwaremagazine.com/free_issues/issue_03/practical_applications_xml/ |date=2005-05-26 }} An article on existing XML authoring software (May 2005) 
+ * [http://www.catb.org/~esr/jargon/html/W/WYSIWYG.html The Jargon File entry for WYSIWYG] 
+ *[http://www.younicycle.com/demo.html  Online demonstration WYSIWYG Examples] {{Webarchive|url=https://web.archive.org/web/20090423145905/http://www.younicycle.com/demo.html |date=2009-04-23 }} - Two, online demonstration editors for making web pages or PDFs. 
+ *ATPM.com's [http://www.atpm.com/4.12/page7.shtml WYSIWYG: Is it What You Want?] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Web design]] 
+ [[Category:Acronyms]]

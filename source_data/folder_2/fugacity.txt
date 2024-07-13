@@ -1,0 +1,15 @@
+In [[thermodynamics]], the '''fugacity''' is a [[state function]] of any [[wikt:isothermal|isothermal]] system. The fugacity, which has units of [[pressure]], represents the [[wikt:tendency|tendency]] of a [[fluid]] to escape or expand [[wikt:isothermally|isothermally]]. For [[gas]]es at low pressures where the [[ideal gas law]] holds, fugacity is equal to pressure. The ratio  < math >  \phi = f/P \, < /math >  between fugacity  < math > f\, < /math >  and pressure  < math > P\, < /math >  is called the '''fugacity coefficient'''; therefore,  < math >  \phi = 1 \, < /math >  for an [[ideal gas]]. 
+ 
+ The fugacity  < math >  f\, < /math >  is defined at fixed [[temperature]]  < math >  T\, < /math >  by the following differential relation: 
+ 
+ : < math >  d \ln f = {dG \over RT} = {{V dP} \over RT} \, < /math > 
+ 
+ where  < math > G\, < /math >  is the [[Gibbs free energy]],  < math > R\, < /math >  is the molar gas constant, and  < math > V\, < /math >  is the fluid's [[volume]].  For any two [[wikt:isothermal|isothermal]] physical states, represented by subscripts 1 and 2, the ratio of the two fugacities is as follows: 
+ 
+ : < math >  f_2 / f_1 = exp \left ({1 \over RT} \int_{G_1}^{G_2} dG \right) = exp \left ({1 \over RT} \int_{P_1}^{P_2} V\,dP \right) \, < /math > 
+ 
+ 
+ [[Category:Thermodynamics]] 
+ 
+ 
+ {{physics-stub}}

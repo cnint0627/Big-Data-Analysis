@@ -1,0 +1,37 @@
+{{Infobox OS 
+ | name = OpenZaurus 
+ | logo = Openzaurus-logo.png 
+ | website = [http://www.openzaurus.org www.openzaurus.org] 
+ | family = [[Linux]] 
+ | source_model = [[Open source]] 
+ | latest_release_version = 3.5.4.1 
+ | latest_release_date = [[July 6]], [[2006]] 
+ | kernel_type = [[Monolithic kernel]], [[Linux kernel|Linux]] 
+ | ui = [[Command line interface|Console]], [[X Window System]], [[GPE Palmtop Environment|GPE]], [[OPIE (operating system)|OPIE]] 
+ | license = [[Free software]] licenses < br > (mainly [[GPL]]) 
+ | supported_platforms = [[ARM architecture|ARM]] 
+ | package_manager = [[Ipkg]] 
+ }} 
+ '''OpenZaurus''' is a [[Debian]]-based embedded [[Linux distribution]] for the [[Sharp Corporation|Sharp]] [[Zaurus]] personal mobile tool [[Personal Digital Assistant|PDA]]. 
+ 
+ == Status == 
+ On April 26, 2007, it was announced < ref > {{cite web |url=http://www.openzaurus.org/wordpress/2007/04/26/openzaurus-time-is-over-long-live-angstrom/ |title=OpenZaurus time is over - long live Ångström |accessdate=2007-04-29 |last=Juszkiewicz |first=Marcin |date=2007-04-26 |archive-date=2013-02-28 |archive-url=https://web.archive.org/web/20130228065241/http://www.openzaurus.org/wordpress/2007/04/26/openzaurus-time-is-over-long-live-angstrom/ |url-status=dead }} < /ref >  that the OpenZaurus project was over.  Future development efforts are to focus on the [[Ångström distribution]] for [[embedded systems]]. 
+ 
+ ==Related pages== 
+ * [[Familiar Linux]] 
+ * [[Palm OS]] 
+ * [[Pocket PC]] 
+ * [[Windows Mobile]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://openzaurus.org OpenZaurus project website] 
+ * [http://www.hentges.net/misc/openzaurus/ Hentges.net OZ with updated OPIE releases] {{Webarchive|url=https://web.archive.org/web/20041028031752/http://www.hentges.net/misc/openzaurus/ |date=2004-10-28 }} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux distributions]] 
+ [[Category:Debian-based Linux distributions]]

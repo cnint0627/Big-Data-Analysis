@@ -1,0 +1,59 @@
+{{Automatic taxobox 
+ | image = Sphaenorhynchus lacteus.jpg 
+ | image_caption = ''[[Sphaenorhynchus lacteus]]'' 
+ | taxon = Sphaenorhynchus 
+ | authority = [[Johann Jakob von Tschudi|Tschudi]], 1838 
+ | subdivision = See text. 
+ | synonyms =  
+ * ''Dryomelictes''  < small > Fitzinger, 1843 < /small > 
+ * ''Dryomelictes''  < small > Cope, 1865 < /small > 
+ * ''Hylopsis''  < small > Werner, 1894 < /small > 
+ * ''Sphoenohyla''  < small > Lutz and Lutz, 1938 < /small > 
+ | synonyms_ref =  < ref name=Frost/ > 
+ }} 
+ 
+ '''''Sphaenorhynchus'''''  is a genus of [[frog]]s. They are in the family [[Hylidae]]. < ref name=Frost/ > < ref name=AmphibiaWeb/ >  They are the '''lime treefrogs''' < ref name=Frost/ >  or '''hatchet-faced treefrogs'''. < ref name= " Araujo-Vieira et al. 2015 " / >  They live in the places where water goes into the [[Amazon basin|Amazon]] and [[Orinoco]] Rivers in South America. They live in the [[Guianas]], [[Trinidad]], and [[Brazil]]. < ref name=Frost/ >  Most of them live in Brazil in the [[Atlantic Forest]]. < ref name= " Roberto et al. 2017 " / > 
+ 
+ ==Systematics== 
+ Scientists think the frogs in ''Sphaenorhynchus'' are [[sister taxon|closely related]] to the frogs in  ''[[Scarthyla]]'' and  ''[[Scinax]]''. < ref name=Frost/ >  Faivovich and other scientists (2005) put ''Sphaenorhynchus'' in the [[Tribe (biology)|group]] Dendropsophini. ''[[Dendropsophus]]'', ''[[Lysapsus]]'', ''[[Pseudis]]'', ''Scarthyla'', ''Scinax'', and ''[[Xenohyla]]'' are in Dendropsophini too. < ref name= " Faivovich et al. 2005 " / > 
+ 
+ ==Appearance== 
+ ''Sphaenorhynchus'' are small and middle frogs in size. They are bright green or yellow green in color. Their faces come together to a point. Most frogs have skin flaps on each side of the [[anus|rear end]]. There is some webbed skin on the front feet and more webbed skin on the back feet. Male frogs have a [[vocal sac]] on their necks so they can make sounds. < ref name= " Goin 1957 " / > 
+ 
+ ==Species== 
+ These species are in the genus ''Sphaenorhynchus'': < ref name=Frost/ > < ref name=AmphibiaWeb/ > 
+ {{columns-list|colwidth=35em| 
+ * ''[[Sphaenorhynchus botocudo]]''  < small > (Caramaschi, Almeida, and Gasparini, 2009) < /small > 
+ * ''[[Sphaenorhynchus bromelicola]]''  < small > (Bokermann, 1966) < /small > 
+ * ''[[Sphaenorhynchus cammaeus]]''  < small > (Roberto, Araujo-Vieira, Carvalho-e-Silva, and Ávila, 2017) < /small > 
+ * ''[[Sphaenorhynchus canga]]''  < small > (Araujo-Vieira, Lacerda, Pezzuti, Leite, Assis, and Cruz, 2015) < /small > 
+ * ''[[Sphaenorhynchus caramaschii]]''  < small > (Toledo, Garcia, Lingnau, and Haddad, 2007) < /small > 
+ * ''[[Sphaenorhynchus carneus]]''  < small > (Cope, 1868) < /small > 
+ * ''[[Sphaenorhynchus dorisae]]''  < small > (Goin, 1957) < /small > 
+ * ''[[Sphaenorhynchus lacteus]]''  < small > (Daudin, 1800) < /small > 
+ * ''[[Sphaenorhynchus mirim]]''  < small > (Caramaschi, Almeida, and Gasparini, 2009) < /small > 
+ * ''[[Sphaenorhynchus palustris]]''  < small > (Bokermann, 1966) < /small > 
+ * ''[[Sphaenorhynchus pauloalvini]]''  < small > (Bokermann, 1973) < /small > 
+ * ''[[Sphaenorhynchus planicola]]''  < small > (Lutz and Lutz, 1938) < /small > 
+ * ''[[Sphaenorhynchus platycephalus]]''  < small > (Werner, 1894) < /small > 
+ * ''[[Sphaenorhynchus prasinus]]''  < small > (Bokermann, 1973) < /small > 
+ * ''[[Sphaenorhynchus surdus]]''  < small > (Cochran, 1953) < /small > 
+ }} 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=http://www.amphibiaweb.org/lists/Hylidae.shtml|title=Hylidae |year=2017 |work=AmphibiaWeb |publisher=University of California, Berkeley |accessdate=11 June 2017}} (recently described ''Sphaenorhynchus cammaeus'' not yet included) < /ref > 
+ 
+ < ref name= " Araujo-Vieira et al. 2015 " > {{cite journal |last1=Araujo-Vieira|first1=K.|last2=Lacerda|first2=J. V. A.|last3=Pezzuti|first3=T. L.|last4=Leite|first4=F. S. F.|last5=de Assis|first5=C. L.|last6=Cruz|first6=C. A. G.|title=A new species of Hatchet-faced Treefrog ''Sphaenorhynchus'' Tschudi (Anura: Hylidae) from Quadrilátero Ferrífero, Minas Gerais, southeastern Brazil |journal=Zootaxa |date=21 December 2015 |volume=4059 |issue=1 |pages=96–114 |doi=10.11646/zootaxa.4059.1.5|pmid=26701555}} < /ref > 
+ 
+ < ref name= " Faivovich et al. 2005 " > {{cite journal |last1=Faivovich |first1=Julián |last2=Haddad |first2=Célio F.B. |last3=Garcia |first3=Paulo C.A. |last4=Frost |first4=Darrel R. |last5=Campbell |first5=Jonathan A. |last6=Wheeler |first6=Ward C. |year=2005 |title=Systematic review of the frog family Hylidae, with special reference to Hylinae: phylogenetic analysis and taxonomic revision |journal=Bulletin of the American Museum of Natural History |volume=294 |pages=1–240 |doi=10.1206/0003-0090(2005)294[0001:SROTFF]2.0.CO;2 |citeseerx=10.1.1.470.2967 |hdl=2246/462 |s2cid=83925199 }} < /ref > 
+ 
+ < ref name=Frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Hylidae/Scinaxinae/Sphaenorhynchus |title=''Sphaenorhynchus'' Tschudi, 1838 |author=Frost, Darrel R. |year=2017 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=11 June 2017}} < /ref > 
+ 
+ < ref name= " Goin 1957 " > {{cite journal |last1=Goin |first1=Coleman J. |title=Status of the frog genus ''Sphoenohyla'' with a synopsis of the species |journal=Caldasia |date=1957 |volume=8 |issue=36 |pages=11–31 |url=http://revistas.unal.edu.co/index.php/cal/article/view/32983 |access-date=2022-06-19 |archive-date=2017-12-05 |archive-url=https://web.archive.org/web/20171205165605/https://revistas.unal.edu.co/index.php/cal/article/view/32983 |url-status=dead }} < /ref > 
+ 
+ < ref name= " Roberto et al. 2017 " > {{cite journal |last1=Roberto|first1=Igor Joventino|last2=Araujo-Vieira|first2=Katyuscia|last3=de Carvalho-e-Silva|first3=Sergio Potsch|last4=Ávila|first4=Robson Waldemar |title=A new species of ''Sphaenorhynchus'' (Anura: Hylidae) from northeastern Brazil |journal=Herpetologica |date=June 2017 |volume=73 |issue=2 |pages=148–161 |doi=10.1655/HERPETOLOGICA-D-16-00021|s2cid=91143723}} < /ref > 
+ }} 
+ 
+ {{Taxonbar|from=Q2311063}} 
+ [[Category:Frogs of South America]]

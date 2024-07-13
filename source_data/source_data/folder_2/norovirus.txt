@@ -1,0 +1,42 @@
+{{Infobox medical condition (new) 
+ | name            = Norovirus 
+ | synonyms        = Winter vomiting bug, < ref name=NHS2018/ >  stomach bug 
+ | image           = Norwalk.jpg 
+ | width           = 
+ | alt             = 
+ | caption         = Transmission [[electron microscope]] image of Norwalk virus. The white bar = 50 [[nanometer|nm]] 
+ | pronounce       = 
+ | field           = [[Emergency medicine]], [[pediatrics]] 
+ | symptoms        = [[Diarrhea]], vomiting, stomach pain, headache < ref name=CDC2016Sym/ > 
+ | complications   = [[Dehydration]] < ref name=CDC2016Sym/ > 
+ | onset           = 12 to 48 hours after exposure < ref name=CDC2016Sym/ > 
+ | duration        = 1 to 3 days < ref name=CDC2016Sym/ > 
+ | types           = 
+ | causes          = ''Norovirus'' < ref name=Yel2017/ > 
+ | risks           = 
+ | diagnosis       = Based on symptoms < ref name=Yel2017/ > 
+ | differential    = 
+ | prevention      = [[Hand washing]], disinfection of contaminated surfaces < ref name=CDC2017Pre/ > 
+ | treatment       = Supportive care (drinking sufficient fluids or [[intravenous fluids]]) < ref name=CDC2017Tx/ > 
+ | medication      = 
+ | prognosis       = 
+ | frequency       = 685 million cases per year < ref name=CDC2017Glob/ > 
+ | deaths          = 200,000 per year < ref name=CDC2017Glob/ > < ref name=GBD2017/ > 
+ }} 
+ 
+ '''Norovirus''' (or ''winter vomiting disease'') is a common cause of [[gastroenteritis]]. < ref name=NHS2018 > {{cite web |title=Norovirus (vomiting bug) |url=https://www.nhs.uk/conditions/norovirus/ |website=nhs.uk |access-date=8 June 2018 |date=2017-10-19 |archive-date=2018-06-12 |archive-url=https://web.archive.org/web/20180612143424/https://www.nhs.uk/conditions/norovirus/ |url-status=live }} < /ref > < ref name=CDC2017Glob > {{cite web|title=Norovirus Worldwide|url=https://www.cdc.gov/norovirus/worldwide.html|website=CDC|access-date =29 December 2017|language=en-us|date=15 December 2017|archive-url= https://web.archive.org/web/20181207142756/https://www.cdc.gov/norovirus/worldwide.html|archive-date=7 December 2018|url-status=dead}} < /ref > 
+ 
+ It causes non-bloody [[diarrhea]], [[vomiting]], and [[stomach]] pain. < ref name=CDC2016Sym > {{cite web|title=Norovirus Symptoms|url=https://www.cdc.gov/norovirus/about/symptoms.html|website=CDC|access-date=29 December 2017|language=en-us|date=24 June 2016|archive-url=https://web.archive.org/web/20181206210732/https://www.cdc.gov/norovirus/about/symptoms.html|archive-date=6 December 2018|url-status=dead}} < /ref >  You have to drink lots of water. < ref name=CDC2016Sym/ > 
+ 
+ Risk factors include unsanitary food preparation. < ref name=Yel2017/ >  Diagnosis is generally based on symptoms. < ref name=Yel2017 > {{cite book |last1=Brunette |first1=Gary W. |name-list-style=vanc |title=CDC Yellow Book 2018: Health Information for International Travel |date=2017 |publisher=Oxford University Press |isbn=9780190628611 |page=269 |url=https://books.google.com/books?id=np6PDgAAQBAJ & pg=PA269 |access-date=2020-09-05 |archive-date=2022-10-07 |archive-url=https://web.archive.org/web/20221007190854/https://books.google.com/books?id=np6PDgAAQBAJ & pg=PA269 |url-status=live }} < /ref > 
+ 
+ Wash your hands properly. Disinfect contaminated surfaces. < ref name=CDC2017Pre > {{cite web|title=Preventing Norovirus Infection|url=https://www.cdc.gov/norovirus/preventing-infection.html|website=CDC|access-date=29 December 2017|language=en-us|date=5 May 2017|archive-date=9 December 2017|archive-url=https://web.archive.org/web/20171209085135/https://www.cdc.gov/norovirus/preventing-infection.html|url-status=live}} < /ref >  There is no [[vaccine]] or specific treatment for norovirus. < ref name=CDC2017Pre/ > < ref name=CDC2017Tx > {{cite web|url=https://www.cdc.gov/norovirus/about/treatment.html|title=Norovirus – Treatment|publisher=CDC|access-date=29 December 2017|archive-date=22 December 2017|archive-url=https://web.archive.org/web/20171222151627/https://www.cdc.gov/norovirus/about/treatment.html|url-status=live}} < /ref > 
+ 
+ Norovirus results in about 685 million cases of disease and 200,000 deaths globally a year. < ref name=CDC2017Glob/ > < ref name=GBD2017 > {{cite web|title=Global Burden of Norovirus and Prospects for Vaccine Development|url=https://www.cdc.gov/norovirus/downloads/global-burden-report.pdf|website=CDC|access-date=29 December 2017|page=3|date=August 2015|archive-date=29 December 2017|archive-url=https://web.archive.org/web/20171229231709/https://www.cdc.gov/norovirus/downloads/global-burden-report.pdf|url-status=live}} < /ref >  It is common. < ref name=Yel2017/ > < ref > {{cite journal | vauthors = Nguyen GT, Phan K, Teng I, Pu J, Watanabe T | title = A systematic review and meta-analysis of the prevalence of norovirus in cases of gastroenteritis in developing countries | journal = Medicine | volume = 96 | issue = 40 | pages = e8139 | date = October 2017 | pmid = 28984764 | pmc = 5738000 | doi = 10.1097/MD.0000000000008139 }} < /ref > 
+ 
+ Those under the age of five are most often affected, and in this group it results in about 50,000 deaths in the developing world. < ref name=CDC2017Glob/ >  Norovirus infections occur more commonly during winter months. < ref name=CDC2017Glob/ >  It often occurs in outbreaks, especially among those living in close quarters. < ref name=Yel2017/ >  In the United States, it is the cause of about half of all foodborne disease outbreaks. < ref name=Yel2017/ >  The virus is named after the city of [[Norwalk, Ohio]], US where an outbreak occurred in 1968. < ref > {{cite journal | vauthors = Conly J, Johnston B | title = Norwalk virus – Off and running | journal = The Canadian Journal of Infectious Diseases | volume = 14 | issue = 1 | pages = 11–3 | date = January 2003 | pmid = 18159419 | pmc = 2094906 | doi = 10.1155/2003/702517 | doi-access = free }} < /ref > < ref > {{Cite journal|last=Dance|first=Amber|date=2017-11-09|title=Norovirus: The Perfect Pathogen|url=https://www.knowablemagazine.org/article/health-disease/2017/norovirus-perfect-pathogen|journal=Knowable Magazine|doi=10.1146/knowable-111017-093400|issn=2575-4459|access-date=2018-05-15|archive-date=2020-03-29|archive-url=https://web.archive.org/web/20200329234131/https://www.knowablemagazine.org/article/health-disease/2017/norovirus-perfect-pathogen|url-status=live}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Diseases caused by viruses]]

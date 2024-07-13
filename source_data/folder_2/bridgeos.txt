@@ -1,0 +1,48 @@
+{{DISPLAYTITLE:bridgeOS}} 
+ {{Infobox OS 
+ | name = bridgeOS 
+ | logo =  
+ | logo size =  
+ | logo caption =  
+ | screenshot =  
+ | screenshot_size =  
+ | caption =  
+ | developer = [[Apple Inc.]] 
+ | family = {{flatlist| 
+ [[Unix-like]], [[iOS]] 
+ }} 
+ | working state = Current 
+ | source model = [[Closed source|Closed]], with [[open-source software|open-source]] components 
+ | released = {{Start date and age|2016|10|27}} 
+ | discontinued =  
+ | RTM date =  
+ | GA date =  
+ | marketing target =  
+ | programmed in = {{flatlist| 
+ * [[C (programming language)|C]] 
+ * [[C++]] 
+ * [[Objective-C]] 
+ * [[Swift (programming language)|Swift]] 
+ * [[assembly language]] 
+ }} 
+ | update model = [[Over-the-air programming|FOTA]] {{small|(via [[Macintosh|Mac]] running [[macOS]])}} 
+ | package manager =  < !-- dpkg, rpm, Windows installer, etc. -- > 
+ | supported_platforms = {{plain list| 
+ * [[Apple silicon#T series|T series]] {{small|(2016 MacBook Pro and later)}} 
+ }} 
+ | kernel type =  
+ | userland =  
+ | ui =  
+ | license = [[Proprietary software]] except for open-source components 
+ | succeeded by =  
+ | website =  
+ | support status = Supported with vulnerabilities (checkra1n) 
+ }} 
+ 
+ '''bridgeOS''' is an [[operating system]] created and developed by [[Apple Inc.]] for use exclusively with its hardware. bridgeOS runs on the [[Apple silicon#T series|T series]] [[Apple silicon]] processors and operates the [[OLED]] [[touchscreen]] strip called the  " Touch Bar "  as well as multiple other functions, including managing the [[Data encryption|encrypted data]] in their [[IOS#Secure Enclave|Secure Enclave]] and acting as a gatekeeper and [[video codec]] to the device's cameras. bridgeOS is a heavily modified version of Apple's [[watchOS]]. 
+ 
+ [[Category:Operating systems]] 
+ [[Category:Apple software]] 
+ 
+ 
+ {{tech-stub}}

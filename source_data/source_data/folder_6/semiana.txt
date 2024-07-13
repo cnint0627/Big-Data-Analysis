@@ -1,0 +1,128 @@
+{{Infobox Italian comune 
+ | name                = Semiana 
+ | official_name       = Comune di Semiana 
+ | native_name         =  
+ | image_skyline       =  
+ | imagesize           =  
+ | image_alt           =  
+ | image_caption       =  
+ | image_shield        =  
+ | shield_alt          =  
+ | image_map           =  
+ | map_alt             =  
+ | map_caption         =  
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates         = {{coord|45|8|N|8|44|E|type:city(256)_region:IT|display=inline,title}} 
+ | coordinates_footnotes =  
+ | region              = [[Lombardy]] 
+ | province            = [[Province of Pavia|Pavia]] (PV) 
+ | frazioni            =  
+ | mayor_party         =  
+ | mayor               =  
+ | area_footnotes      =  
+ | area_total_km2      = 9.9 
+ | population_footnotes =  
+ | population_total    = 256 
+ | population_as_of    = Dec. 2004 
+ | pop_density_footnotes =  
+ | population_demonym  =  
+ | elevation_footnotes =  
+ | elevation_m         =  
+ | twin1               =  
+ | twin1_country       =  
+ | saint               =  
+ | day                 =  
+ | postal_code         = 27020 
+ | area_code           = 0384 
+ | website             = {{official website|http://www.comunesemiana.pv.it/}} 
+ | footnotes           =  
+ }} 
+ '''Semiana''' is a ''[[comune]]'' in the [[Province of Pavia]] in the [[Lombardy]] region in [[Italy]]. It is about 50 & nbsp;km southwest of [[Milan]] and about 35 & nbsp;km west of [[Pavia]]. As of 31 December 2004, 256 people lived there. It has an area of 9.9 & nbsp;km². < ref name= " istat " > All demographics and other statistics: Italian statistical institute [[National Institute of Statistics (Italy)|Istat]]. < /ref > 
+ 
+ Semiana is next to these municipalities: [[Lomello]], [[Mede, Lombardy|Mede]], [[Sartirana Lomellina]], [[Valle Lomellina]], [[Velezzo Lomellina]]. 
+ 
+ == Demographic change == 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.8) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize  = width:455 height:303 
+ PlotArea   = left:50 bottom:50 top:30 right:30 
+ DateFormat = x.y 
+ Period     = from:0 till:2000 
+ TimeAxis   = orientation:vertical 
+ AlignBars  = justify 
+ ScaleMajor = gridcolor:darkgrey increment:1000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:200 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+   bar:1861 text:1861 
+   bar:1871 text:1871 
+   bar:1881 text:1881 
+   bar:1901 text:1901 
+   bar:1911 text:1911 
+   bar:1921 text:1921 
+   bar:1931 text:1931 
+   bar:1936 text:1936 
+   bar:1951 text:1951 
+   bar:1961 text:1961 
+   bar:1971 text:1971 
+   bar:1981 text:1981 
+   bar:1991 text:1991 
+   bar:2001 text:2001 
+ 
+ PlotData= 
+   color:barra width:20 align:left 
+ 
+   bar:1861 from: 0 till:1125 
+   bar:1871 from: 0 till:1181 
+   bar:1881 from: 0 till:1359 
+   bar:1901 from: 0 till:1295 
+   bar:1911 from: 0 till:1236 
+   bar:1921 from: 0 till:1078 
+   bar:1931 from: 0 till:976 
+   bar:1936 from: 0 till:911 
+   bar:1951 from: 0 till:939 
+   bar:1961 from: 0 till:701 
+   bar:1971 from: 0 till:455 
+   bar:1981 from: 0 till:336 
+   bar:1991 from: 0 till:257 
+   bar:2001 from: 0 till:256 
+ 
+ PlotData= 
+ 
+   bar:1861 at:1125 fontsize:XS text: 1125 shift:(-8,5) 
+   bar:1871 at:1181 fontsize:XS text: 1181 shift:(-8,5) 
+   bar:1881 at:1359 fontsize:XS text: 1359 shift:(-8,5) 
+   bar:1901 at:1295 fontsize:XS text: 1295 shift:(-8,5) 
+   bar:1911 at:1236 fontsize:XS text: 1236 shift:(-8,5) 
+   bar:1921 at:1078 fontsize:XS text: 1078 shift:(-8,5) 
+   bar:1931 at:976 fontsize:XS text: 976 shift:(-8,5) 
+   bar:1936 at:911 fontsize:XS text: 911 shift:(-8,5) 
+   bar:1951 at:939 fontsize:XS text: 939 shift:(-8,5) 
+   bar:1961 at:701 fontsize:XS text: 701 shift:(-8,5) 
+   bar:1971 at:455 fontsize:XS text: 455 shift:(-8,5) 
+   bar:1981 at:336 fontsize:XS text: 336 shift:(-8,5) 
+   bar:1991 at:257 fontsize:XS text: 257 shift:(-8,5) 
+   bar:2001 at:256 fontsize:XS text: 256 shift:(-8,5) 
+ 
+ TextData= 
+   fontsize:S pos:(20,20) 
+   text:Data from ISTAT 
+ 
+ < /timeline > 
+ 
+ == References == 
+ < references/ > 
+ 
+ {{Province of Pavia}} 
+ {{authority control}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Settlements in Pavia]]

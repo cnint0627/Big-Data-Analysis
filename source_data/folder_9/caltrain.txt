@@ -1,0 +1,48 @@
+{{Infobox public transit 
+ |box_width= 
+ |track_gauge={{track gauge|ussg|allk=on}} 
+ |host=[[Union Pacific]] (Tamien–Gilroy) 
+ |character=commuter railroad with level crossings; limited freight service|vehicles=29 locomotives and 134 passenger cars (in revenue service) < ref name= " fleet " > {{cite web 
+   | url=http://www.caltrain.com/about/statsandreports/commutefleets.html 
+   | title=Caltrain-Commute Fleet 
+   | publisher=Caltrain.com 
+   | access-date=September 27, 2017}} < /ref > 
+ |train_length=1 locomotive, 5 or 6 passenger cars 
+ |headway= 
+ |system_length={{convert|77.2|mi|km|abbr=on}} 
+ |notrack=[[Double-track railway|2]]+ < ref name=schematics > {{CA rail schematics}} < /ref > 
+ |el=''[[25 kV AC railway electrification#25 kV AC at 60 Hz|25 kV 60 Hz AC]] [[overhead line|overhead catenary]] < ref name=Stadler / >  (2024)'' 
+ |operator=[[Southern Pacific]] (1870–1992) < br / > [[Amtrak California]] (1992–2012) < br / > [[TransitAmerica Services]] (2012–present) 
+ |average_speed= < !-- {{convert|0|mph|km/h|abbr=on}} -- > 
+ |top_speed={{convert|79|mph|km/h|abbr=on}} 
+ |marks=JPBX 
+ |began_operation=1985 (as Caltrain) < br / > 1863 (as [[Peninsula Commute]])|name=Caltrain|owner=Peninsula Corridor Joint Powers Board 
+ |image=Caltrain_logo.svg 
+ |alt=Cal in black letters, with train inscribed within a red circle, all letters italicized 
+ |imagesize=150px 
+ |image2=Caltrain JPBX 927 at Palo Alto station.JPG 
+ |alt2=A red and white locomotive at a train station 
+ |imagesize2=300px 
+ |caption2=Southbound train at [[Palo Alto station|Palo Alto]] in 2014 
+ |area served=[[Santa Clara Valley]] < br / > [[San Francisco Peninsula]] 
+ |website=https://www.caltrain.com/main.html 
+ |transit_type=[[Commuter rail]] 
+ |lines=1 
+ |line_number= 
+ |stations=31 ([[List of Caltrain stations|list]]) 
+ |daily_ridership={{ubl|65,095 weekdays|13,954 Saturdays|9,637 Sundays| < small > (February 2018 AMWR) < /small > < ref name=AMWR > In 2018, as explained in the ''Annual Passenger Counts'' report on pages 1  &  2, Caltrain changed the counting methodology for weekdays. Prior to 2018, weekday counts were based on all weekday trains, counted once on each weekday (i.e., each train was counted from Monday to Friday of one week). In 2018, an  " average mid-weekday ridership "  count was computed by counting all weekday trains twice on two of three days in the middle of the week (i.e., each train was counted on Tuesday, Wednesday, and/or Thursday for two weeks). Because Monday and Friday ridership lags the mid-weekdays (for 2013-2017, Monday -1%; Friday -9%), the prior methodology of average weekday ridership gives a passenger count approximately 2% lower than the average mid-weekday ridership. < /ref > < ref name=Stats-Ridership > {{cite web|title=Ridership Reports|url=http://www.caltrain.com/about/statsandreports/Ridership.html|publisher=Caltrain|access-date=17 October 2018}} < /ref > < ref name= " annualridership " > {{cite web|title=Ridership Reports|url=http://www.caltrain.com/Assets/_Marketing/pdf/2018+Annual+Passenger+Counts.pdf|publisher=Caltrain|access-date=17 October 2018|archive-date=20 May 2020|archive-url=https://web.archive.org/web/20200520173552/http://www.caltrain.com/Assets/_Marketing/pdf/2018+Annual+Passenger+Counts.pdf|url-status=dead}} < /ref > }} 
+ |headquarters=[[San Carlos, California]] 
+ }} 
+ 
+ '''Caltrain''' is a [[California]] [[commuter rail]] line. It serves  the [[San Francisco Peninsula]] and [[Santa Clara Valley]] ([[Silicon Valley]]). The southern end of the line is in [[San Jose, California|San Jose]] at [[Tamien station]]. Caltrain has 28 regular stops. < ref name= " annualridership " > {{cite web|title=Ridership Reports|url=http://www.caltrain.com/Assets/_Marketing/pdf/2018+Annual+Passenger+Counts.pdf|publisher=Caltrain|access-date=17 October 2018|archive-date=20 May 2020|archive-url=https://web.archive.org/web/20200520173552/http://www.caltrain.com/Assets/_Marketing/pdf/2018+Annual+Passenger+Counts.pdf|url-status=dead}} < /ref > < ref name= " AMWR " > In 2018, as explained in the ''Annual Passenger Counts'' report on pages 1  &  2, Caltrain changed the counting methodology for weekdays. Prior to 2018, weekday counts were based on all weekday trains, counted once on each weekday (i.e., each train was counted from Monday to Friday of one week). In 2018, an  " average mid-weekday ridership "  count was computed by counting all weekday trains twice on two of three days in the middle of the week (i.e., each train was counted on Tuesday, Wednesday, and/or Thursday for two weeks). Because Monday and Friday ridership lags the mid-weekdays (for 2013-2017, Monday -1%; Friday -9%), the prior methodology of average weekday ridership gives a passenger count approximately 2% lower than the average mid-weekday ridership. < /ref > 
+ 
+ == References == 
+ {{reflist|refs= 
+ 
+ < ref name=Stadler > {{Cite web |url=https://wwwstadlerrailcom-live-01e96f7.s3-eu-central-1.amazonaws.com/filer_public/1d/12/1d127b4f-0b56-44d6-89af-87c17fb6ee4f/2016_0815_medienmitteilung_caltrain_en.pdf |title=Stadler Awarded Contract for 16 Double-Decker Trains by Caltrain |access-date=August 23, 2016 |archive-url=https://web.archive.org/web/20160921015708/https://wwwstadlerrailcom-live-01e96f7.s3-eu-central-1.amazonaws.com/filer_public/1d/12/1d127b4f-0b56-44d6-89af-87c17fb6ee4f/2016_0815_medienmitteilung_caltrain_en.pdf |archive-date=September 21, 2016 |url-status=dead }} < /ref > 
+ 
+ }} 
+ 
+ [[Category:Transport in California]] 
+ [[Category:trains]] 
+ [[Category:San Francisco Bay Area]]

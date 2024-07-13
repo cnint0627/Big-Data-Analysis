@@ -1,0 +1,75 @@
+{{chembox 
+ | Name           =  
+ | ImageFile      =  
+ | ImageFileL1    = Cyclopentane v2.svg 
+ | ImageFileR1    = Cyclopentane3d.png 
+ | ImageSizeL1    = 100px 
+ | ImageAltL1     = Skeletal formula 
+ | ImageFileL1_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeR1    = 110px 
+ | ImageAltR1     = Space-filling model 
+ | OtherNames     = pentamethylene 
+ | PIN            = Cyclopentane 
+ | Section1       = {{Chembox Identifiers 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 8896 
+ | InChI = 1/C5H10/c1-2-4-5-3-1/h1-5H2 
+ | InChIKey = RGSFGYAAUTVSQA-UHFFFAOYAL 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C5H10/c1-2-4-5-3-1/h1-5H2 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = RGSFGYAAUTVSQA-UHFFFAOYSA-N 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo=287-92-3 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = T86PB90RNU 
+ | PubChem=9253 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 23492 
+ | SMILES=C1CCCC1 
+ | RTECS=GY2390000 
+ | EINECS = 206-016-6 
+   }} 
+ | Section2       = {{Chembox Properties 
+ | Formula=C < sub > 5 < /sub > H < sub > 10 < /sub > 
+ | MolarMass=70.1 g/mol 
+ | Appearance=clear, colorless liquid 
+ | Odor = mild, sweet 
+ | Density=0.751 g/cm < sup > 3 < /sup > 
+ | MeltingPtC=-93.9 
+ | BoilingPtC=49.2 
+ | Solubility=156 mg·l < sup > −1 < /sup >  (25 °C) < ref > {{GESTIS|ZVG=27960|CAS=287-92-3|Name=cyclopentane|Date=28 February 2015}} < /ref > 
+ | SolubleOther = soluble in [[ethanol]], [[acetone]], [[diethyl ether|ether]] 
+ | pKa = ~45 
+ | pKb =  
+ | RefractIndex = 1.4065 
+ | VaporPressure = 45 [[kPa]] (20 °C)  < ref > {{cite web | url=http://www.ilo.org/dyn/icsc/showcard.display?p_version=2 & p_card_id=0353 | title=Icsc 0353 - Cyclopentane }} < /ref > 
+ | MagSus = -59.18·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+   }} 
+ | Section3       = {{Chembox Hazards 
+ | MainHazards=Flammable < ref name=PGCH/ > 
+ | FlashPtC = -37.2 
+ | AutoignitionPtC = 361 
+ | NFPA-H = 1 | NFPA-F = 3 | NFPA-R = 0 
+ | PEL = none < ref name=PGCH > {{PGCH|0171}} < /ref > 
+ | ExploLimits = 1.1%-8.7% < ref name=PGCH/ > 
+ | IDLH = N.D. < ref name=PGCH/ > 
+ | REL = TWA 600 ppm (1720 mg/m < sup > 3 < /sup > ) < ref name=PGCH/ >   
+   }} 
+ | Section4       =  
+ | Section5       =  
+ | Section6       =  
+ | Section8       = {{Chembox Related 
+ | OtherCompounds = [[cyclopropane]], [[cyclobutane]], [[cyclohexane]] 
+   }} 
+ | Watchedfields  = changed 
+ | verifiedrevid  = 444653737 
+ | Verifiedimages = changed 
+ }} 
+ 
+ '''Cyclopentane''' (also called '''C pentane''') has a [[chemical formula]] C < sub > 5 < /sub > H < sub > 10. < /sub >  It is usually formed by cracking [[cyclohexane]] in the presence of high temperature and pressure. < ref > {{cite web | url=https://www.corrosionpedia.com/definition/2728/cyclopentane | title=What is a Cyclopentane? - Definition from Corrosionpedia }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Cycloalkanes|5]]

@@ -1,0 +1,54 @@
+{{chembox 
+ |   Name = Urea 
+ |   ImageFileL1 = Harnstoff.svg 
+ |   ImageSizeL1 = 120px 
+ |   ImageFileR1 = Urea-3D-vdW.png 
+ |   ImageSizeR1 = 100px 
+ |   IUPACName = Aminomethylamide 
+ |   OtherNames = Carbamide 
+ | Section1 = {{Chembox Identifiers 
+ |   SMILES = NC(=O)N 
+ |   CASNo = 57-13-6 
+ |   ChemSpiderID = 1143 
+ |   RTECS = 
+   }} 
+ | Section2 = {{Chembox Properties 
+ |   Formula = (NH < sub > 2 < /sub > ) < sub > 2 < /sub > CO 
+ |   MolarMass = 60.07 g/mol 
+ |   Appearance = white odourless solid 
+ |   Density = 1.33·10³ kg/m³, < ref > [http://webmineral.com/data/Urea.shtml Urea Mineral Data < !-- Bot generated title -- > ] < /ref >  solid 
+ |   Solubility = 108 g/100 ml (20 & nbsp;°C) < br / > 167 g/100 ml (40 & nbsp;°C) < br / > 251 g/100 ml (60 & nbsp;°C) < br / > 400 g/100 ml (80 & nbsp;°C) < br / > 733 g/100 ml (100 & nbsp;°C) 
+ |   MeltingPt = 132.7 & nbsp;°C (406 K) < br / > decomposes 
+ |   BoilingPt = n.a. 
+ |   pKa = 0.18 
+ |   pKb = 13.82 
+   }} 
+ | Section3 = {{Chembox Structure 
+ |   Dipole = 4.56 [[Debye|p/D]] 
+   }} 
+ | Section7 = {{Chembox Hazards 
+ |   ExternalMSDS = [http://www.sciencelab.com/xMSDS-Urea-9927317 ScienceLab.com] 
+ |   FlashPt = 
+ |   NFPA-H = 2 
+ |   NFPA-F = 1 
+ |   NFPA-R = 0 
+   }} 
+ }} 
+ 
+ '''Urea''' is an [[organic compound]]. It was first found in [[urine]] in 1773 by the [[France|French]] [[chemist]] [[Jean Rouelle]]. It is also called Carbamide, and its chemical names are Carbonyl Diamide (used in inorganic chemistry) and Diaminomethanal (used in [[organic chemistry]]). 
+ 
+ In humans, it is a normal component of [[blood]] and many body tissues. It is produced in the [[liver]], where [[ammonia]], a very toxic substance, is changed into urea, which has a very low toxicity, so low in fact, that it is many times less toxic than table salt. Most of the urea produced in this way is not needed by the body, and is removed from the blood in the [[kidneys]] and taken out of the body in [[urine]]. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://www.sciencelab.com/xMSDS-Urea-9927317 MSDS sheet on urea] {{Webarchive|url=https://web.archive.org/web/20110515131737/http://www.sciencelab.com/xMSDS-Urea-9927317 |date=2011-05-15 }} 
+ * [http://www.pburch.net/dyeing/FAQ/urea.shtml Use of urea in hand dyeing] 
+ * use of urea as an automotive reagent to reduce harmful emissions ([https://www.landownerproducts.co.uk/product-category/adblue/ AdBlue]) 
+ * The dispensing and handling of Urea AdBlue ([http://www.fueldump.co.uk/categories/Fuel-transfer-equipment/Adblue-Equipment/ AdBlue] {{Webarchive|url=https://web.archive.org/web/20160630172416/http://www.fueldump.co.uk/categories/Fuel-transfer-equipment/Adblue-Equipment |date=2016-06-30 }}) 
+ 
+ {{chem-stub}} 
+ 
+ {{Herbicides}} 
+ [[Category:Organonitrogen compounds]]

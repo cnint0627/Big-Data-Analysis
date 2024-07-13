@@ -1,0 +1,38 @@
+'''Electronegativity''', symbol χ, is a [[chemical property]] that says how well an [[atom]] can attract [[electron]]s towards itself. < ref name= " definition " > " [http://goldbook.iupac.org/E01990.html Electronegativity.] " , ''IUPAC Compendium of Chemical Terminology'' < /ref >  The electronegativity of an atom is [[wikt:influence|influence]]d by the atom's [[atomic number]] and the distance between the atom's [[valence electron]]s (the outermost electrons that take part in [[chemical bonding]]) and its [[atomic nucleus|nucleus]]. It was first theorised by [[Linus Pauling]] in 1932 as part of his [[valence bond theory]], < ref name= " paulingJACS " > {{cite journal |author= Pauling, L. 
+ |authorlink=Linus Pauling 
+ |year= 1932 
+ |journal= Journal of the American Chemical Society 
+ |volume= 54 
+ |issue= 9 
+ |pages= 3570–3582 
+ |title= The nature of the chemical bond. IV. The energy of single bonds and the relative electronegativity of atoms 
+ |doi= 10.1021/ja01348a011}} < /ref >  and is related to other [[chemical property|chemical properties]]. Generally, electronegativity increases from the bottom-left to the upper-right of the [[periodic table]]; this is known as a [[periodic trend]]. 
+ 
+ There are many ways to calculate the electronegativity of an atom. The most common way of calculation is the one suggested by Linus Pauling, and it gives the relative '''Pauling scale'''. This scale gives elements [[dimensionless quantity|dimensionless quantities]] (values) between 0.7 and 3.98, with hydrogen being at 2.20. 
+ 
+ The opposite of electronegativity is '''electropositivity'''; the measure of how well an atom gives away electrons. 
+ 
+ == Ways to calculate electronegativity == 
+ === Pauling electronegativity === 
+ [[Linus Pauling|Pauling]] suggested the idea of electronegativity in 1932 < ref name= " paulingJACS " / >  to explain why the strength of a covalent bond between two different atoms (A-B) is stronger than the [[average]] of the strengths of the [[covalent bond]]s A-A and B-B. His [[valence bond theory]] said that this stronger bond between different atoms is caused by the ionic effects to the bonding. 
+ 
+ The difference between the electronegativity of atom A and atom B is 
+ 
+ :: < math > \chi_{\rm A} - \chi_{\rm B} = ({\rm eV})^{-1/2} \sqrt{E_{\rm d}({\rm AB}) - [E_{\rm d}({\rm AA}) + E_{\rm d}({\rm BB})]/2} < /math > 
+ 
+ where the [[Bond dissociation energy|dissociation energies]] (that is, the energy needed to break the bond between the atoms), ''E'' < sub > d < /sub > , of A-B, A-A and B-B bonds are given in [[electronvolt]]s, and the [[factor]] (eV) < sup > -½ < /sup >  is added to make sure the final answer [[dimensionless quantity|has no unit]]. With the above formula, we can calculate the difference in elecronegativity between [[hydrogen]] and [[bromine]] to be 0.73. (dissociation energies: H-Br, 3.79 eV; H-H, 4.52 eV; Br-Br, 2.00 eV) 
+ 
+ The above equation only calculates the difference in electronegativity between two elements. To make a [[scale]] from the equation, a reference point has to be chosen. Hydrogen was chosen as a reference point because it bonds covalently with many elements. Hydrogen's electronegativity was first fixed at 2.1, < ref name= " paulingJACS " / >  but was later changed to 2.20. < ref name= " Allred " > {{cite journal 
+ |author= Allred A.L. 1961|journal= Journal of Inorganic and Nuclear Chemistry|volume= 17|issue= 3–4|pages= 215–221|title= Electronegativity values from thermochemical data|year= 1961|doi= 10.1016/0022-1902(61)80142-5}} < /ref >  Another thing that need to be known to make an electronegativity scale is which element is more electronegative than the reference point, which is hydrogen. This is often done with the so-called  " chemical [[wikt:intuition|intuition]] " : in the above example, [[hydrogen bromide]] (H-Br) dissolves in water and breaks into H < sup > + < /sup >  [[cation]] and Br < sup > - < /sup >  [[anion]]. So, it can be assumed that bromine is more electronegative than hydrogen. 
+ 
+ To calculate Pauling electronegativity for an element, the data on the dissociation energies of at least two types of covalent bonds created by the element is needed. In 1961, A. L. Allred improved Pauling's original data to include the [[thermodynamics|thermodynamic]] data that is much more available. < ref name= " Allred "  / >  These  " revised Pauling "  electronegativity values are used more often. 
+ 
+ == Electropositivity == 
+ '''Electropositivity''' is a measure of an element's ability to donate [[electrons]], and form positive [[ions]]. 
+ 
+ Mainly, this is an attribute of [[metals]]. The [[alkali metal]]s have a single electron in their outer shell and it is easily lost. These metals have low [[ionization energy|ionization energies]]. < ref > [https://www.webcitation.org/5kwpIKRbL?url=http://au.encarta.msn.com/encyclopedia_781538810/Electropositivity.html Electropositivity]. Microsoft Encarta Online Encyclopedia 2009. (Archived 2009-10-31). < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Chemical bonding]]

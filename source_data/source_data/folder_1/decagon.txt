@@ -1,0 +1,78 @@
+[[File:Regular decagon.svg|thumb|A decagon]] 
+ A '''decagon''' is a [[Polygon|shape]] with 10 sides and 10 [[Vertex (geometry)|corner]]s. 
+ 
+ ==Regular decagon== 
+ All sides of a '''regular decagon''' are the same length. Each corner is 144°. All corners added together equal 1440°. 
+ 
+ ===Area=== 
+ 
+ The amount of space a regular decagon takes up is 
+ 
+ : < math > \text{Area} = \frac{5}{2} a^2\sqrt{5+2\sqrt{5}}. < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ An alternative formula is  < math > A = 2.5dt < /math >  where ''d'' is the distance between parallel sides, or the height when the decagon stands on one side as base. < br > 	  
+ By simple trigonometry  < math > d = 2t(\cos{54^\circ} + \cos{18^\circ}) < /math > . 
+ 
+ ==Sides== 
+ The side of a regular decagon inscribed in a unit circle is  < math > \tfrac{-1+\sqrt{5}}{2}=\tfrac{1}{\phi} < /math > , where '' & #x03D5;'' is the [[golden ratio]],  < math > \tfrac{1+\sqrt{5}}{2} < /math > . 
+ 
+ ==Dissection of regular decagon== 
+ [[Coxeter]] states that every parallel-sided 2''m''-gon can be divided into ''m''(''m''-1)/2 rhombs. For the ''regular decagon'', ''m''=5, and it can be divided into 10 rhombs, with examples shown below. This decomposition can be seen as 10 of 80 faces in a [[Petrie polygon]] projection plane of the [[5-cube]]. A dissection is based on 10 of 30 faces of the [[rhombic triacontahedron]]. < ref > [[Coxeter]], Mathematical recreations and Essays, Thirteenth edition, p.141 < /ref >  The list [http://oeis.org/A006245 A006245] defines the number of solutions as 62, with 2 orientations for the first symmetric form, and 10 orientations for the other 6. 
+ {| class=wikitable 
+ |+ Regular decagon dissected into 10 rhombi 
+ |- align=center valign=top 
+ |[[File:5-cube t0.svg|100px]] < BR > [[5-cube]] 
+ |[[File:Sun_decagon.svg|100px]] 
+ |[[File:Sun2_decagon.svg|100px]] 
+ |[[File:Dart2 decagon.svg|100px]] 
+ |[[File:Halfsun_decagon.svg|100px]] 
+ |[[File:Dart decagon.svg|100px]] 
+ |[[File:Dart decagon ccw.svg|100px]] 
+ |[[File:Cartwheel_decagon.svg|100px]] 
+ |} 
+ 
+ == Skew decagon== 
+ {| class=wikitable align=right width=300 
+ |+ 3 regular skew zig-zag decagons 
+ !{5}#{ } 
+ ! {5/2}#{ } 
+ ! {5/3}#{ } 
+ |- 
+ |[[File:Regular skew polygon in pentagonal antiprism.png|100px]] 
+ |[[File:Regular skew polygon in pentagrammic antiprism.png|100px]] 
+ |[[File:Regular skew polygon in pentagrammic crossed-antiprism.png|100px]] 
+ |- 
+ |colspan=3|A regular skew decagon is seen as zig-zagging edges of a [[pentagonal antiprism]], a [[pentagrammic antiprism]], and a [[pentagrammic crossed-antiprism]]. 
+ |} 
+ A '''skew decagon''' is a [[skew polygon]] with 10 vertices and edges but not existing on the same plane. The interior of such an decagon is not generally defined. A ''skew zig-zag decagon'' has vertices alternating between two parallel planes. 
+ 
+ A '''[[regular skew decagon]]''' is [[vertex-transitive]] with equal edge lengths. In 3-dimensions it will be a zig-zag skew decagon and can be seen in the vertices and side edges of a [[pentagonal antiprism]], [[pentagrammic antiprism]], and [[pentagrammic crossed-antiprism]] with the same D < sub > 5d < /sub > , [2 < sup > + < /sup > ,10] symmetry, order 20. 
+ 
+ These can also be seen in these 4 convex polyhedra with [[icosahedral symmetry]]. The polygons on the perimeter of these projections are regular skew decagons. 
+ {| class=wikitable width=500 
+ |+ Orthogonal projections of polyhedra on 5-fold axes 
+ |- align=center valign=top 
+ |[[File:Dodecahedron petrie.png|100px]] < br > [[Dodecahedron]] 
+ |[[File:Icosahedron petrie.svg|100px]] < br > [[Icosahedron]] 
+ |[[File:Dodecahedron t1 H3.png|100px]] < br > [[Icosidodecahedron]] 
+ |[[File:Dual dodecahedron t1 H3.png|100px]] < BR > [[Rhombic triacontahedron]] 
+ |} 
+ 
+ ==Related pages== 
+ *[[Decagonal number]] and [[centered decagonal number]], [[figurate number]]s modeled on the decagon 
+ *[[Decagram (geometry)|Decagram]], a [[star polygon]] with the same vertex positions as the regular decagon 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *{{MathWorld |urlname=Decagon |title=Decagon}} 
+ *[http://www.mathopenref.com/decagon.html Definition and properties of a decagon] With interactive animation 
+ 
+ {{Polygons}} 
+ 
+ [[Category:Polygons|10]] 
+ 
+ {{math-stub}}

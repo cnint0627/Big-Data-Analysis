@@ -1,0 +1,65 @@
+{{other uses}} 
+ [[File:Cetonia aurata take off composition 05172009.jpg|thumb|A [[beetle]] moving through the air]] 
+ 
+ '''Movement''', or '''motion''', is the [[state]] of changing something's [[position]] or changing where something is. A [[bird]] that is flying is '''moving'''. So is a [[person]] who is walking. This is, because they change where they are. They  " move "  from one place to another. There are many forms of [[science]] and [[mathematics]] that are related to movement. 
+ 
+ Because of the work of [[scientist]]s including [[Galileo Galilei|Galilei]] and [[Isaac Newton|Newton]], we know that ''position'' is [[Theory of relativity|relative]]. This means that an object's position depends on where it exists in relation to other objects. For example, a ball can be {{convert|5|ft|cm|abbr=on}} away from a [[box]], {{convert|3|ft|cm|abbr=on}} from a [[chair]] and {{convert|1|ft|cm|abbr=on}}away from a [[Table (furniture)|table]]. Here, the box, chair and the table helped to define the position of the ball. They acted as the reference points for the observation of the ball. By telling someone how far the ball was from other objects, they were told its relative position. 
+ 
+ The motion of an object is also relative. It depends on how its position changes in relation to other objects. For example: 
+ 
+ A person is sitting inside a train (Train A). The train has not started moving yet. When that person looks out the window, they see another train (Train B) . Both trains are facing the same direction. If Train B moves backwards, it appears to the person on Train A that they are moving toward Train B. If a reference point it added this can be changed. If the person can also see a pole next to the trains they will see that train A did not move and train B moved backwards. 
+ 
+ From this, it is shown that what the movement is can not bo known without a frame of reference. In this example the pole is the frame of reference. 
+ 
+ The study of motion without considering its cause is called [[kinematics]]. Kinematics deals with terms like [[speed]], [[velocity]], and [[acceleration]]. [[Dynamics]] is the branch of [[physics]] that focuses on the causes and effects of motion. It deals with [[force]], [[inertia]], [[Work (physics)|work]], [[energy]] and [[momentum]]. 
+ 
+ == Animal movement == 
+ The movement of [[animal]]s is controlled by the [[nervous system]], especially the [[brain]] and [[spinal cord]]. 
+ 
+ The [[muscle]]s that control the [[eye]] are driven by the [[optic tectum]] in the midbrain. All the [[voluntary muscles]] in the body are controlled by [[motor neuron]]s in the [[spinal cord]] and [[Rhombencephalon|hindbrain]]. < ref name= " Kandel 2000 " / > < !--Ch 34-- >  Spinal motor neurons are controlled by neural circuits of the spinal cord, and by inputs from the brain. The spinal circuits do many [[reflex]] responses, and also do rhythmic movements such as walking or swimming. The descending connections from the brain give more sophisticated control. < ref name= " Kandel 2000 " > Kandel, Eric R; Schwartz, James Harris  &  Jessell, Thomas M. 2000. ''Principles of neural science''. New York: McGraw-Hill. {{ISBN|978-0-8385-7701-1}} [] < /ref > < !--Ch. 36 and 37-- > 
+ 
+ The brain has several areas that project directly to the spinal cord. At the highest level is the [[primary motor cortex]]. This is a strip of [[tissue]] at the back of the [[frontal lobe]]. This tissue sends a massive projection directly to the spinal cord, through the [[pyramidal tract]]. This allows for precise voluntary control of the fine details of movements. There are other brain areas which affect movement. Among the most important secondary areas are the [[premotor cortex]], [[basal ganglia]], and [[cerebellum]]. < ref name= " Kandel 2000 " / > < !--Ch. 33-- > 
+ 
+ {| class= " wikitable "  style= " margin: 1em auto 1em auto; " 
+ |+ Areas of the brain used un the control of movement 
+ |- 
+ ! Area 
+ ! width= " 100 "  | Location 
+ ! Function 
+ |- 
+ ! scope=row style= " text-align:left "  | [[Anterior horn of spinal cord|Ventral horn]] 
+ | style= " background: tan "  | Spinal cord || style= " background:#ffdead "  | Contains motor neurons that directly activate muscles < ref > {{cite web |last=Dafny |first=N |title=Anatomy of the spinal cord |publisher=Neuroscience Online |url=http://neuroscience.uth.tmc.edu/s2/chapter03.html |accessdate=2011-10-10 |archive-date=2011-10-08 |archive-url=https://web.archive.org/web/20111008172218/http://neuroscience.uth.tmc.edu/s2/chapter03.html |url-status=dead }} < /ref > 
+ |- 
+ ! scope=row style= " text-align:left "  | [[Oculomotor nucleus|Oculomotor nuclei]] 
+ | style= " background: tan "  | Midbrain || style= " background:#ffdead "  | Contains motor neurons that directly activate the eye muscles < ref > {{cite web |last=Dragoi |first=V |title=Ocular motor system |publisher=Neuroscience Online |url=http://neuroscience.uth.tmc.edu/s3/chapter07.html |accessdate=2011-10-10 |archive-date=2011-11-17 |archive-url=https://web.archive.org/web/20111117070343/http://neuroscience.uth.tmc.edu/s3/chapter07.html |url-status=dead }} < /ref > 
+ |- 
+ ! scope=row style= " text-align:left "  | [[Cerebellum]] 
+ | style= " background: tan "  | Hindbrain || style= " background:#ffdead "  | Calibrates precision and timing of movements < ref name= " Kandel 2000 " / > < !--Ch. 42-- > 
+ |- 
+ ! scope=row style= " text-align:left "  | [[Basal ganglia]] 
+ | style= " background: tan "  | Forebrain || style= " background:#ffdead "  | Action selection on the basis of motivation < ref > {{cite journal| last1 = Gurney| first1 = K| year = 2004| title = Computational models of the basal ganglia: from robots to membranes| url = https://archive.org/details/sim_trends-in-neurosciences_2004-08_27_8/page/453| journal = Trends in Neurosciences| volume = 27| pages = 453–459| pmid = 15271492| doi = 10.1016/j.tins.2004.06.003| last2 = Prescott| first2 = TJ| last3 = Wickens| first3 = JR| last4 = Redgrave| first4 = P| issue = 8| s2cid = 2148363}} < /ref > 
+ |- 
+ ! scope=row style= " text-align:left "  | [[Motor cortex]] 
+ | style= " background: tan "  | Frontal lobe || style= " background:#ffdead "  | Direct cortical activation of spinal motor circuits 
+ |- 
+ ! scope=row style= " text-align:left "  | [[Premotor cortex]] 
+ | style= " background: tan "  | Frontal lobe || style= " background:#ffdead "  | Groups elementary movements into coordinated patterns < ref name= " Kandel 2000 " / > < !--Ch. 38-- > 
+ |- 
+ ! scope=row style= " text-align:left "  | [[Supplementary motor area]] 
+ | style= " background: tan "  | Frontal lobe || style= " background:#ffdead "  | Sequences movements into temporal patterns < ref > {{Cite journal| last1 = Shima |first1=K| last2 = Tanji |first2=J | year = 1998| url = http://jn.physiology.org/cgi/content/abstract/80/6/3247| title = Both supplementary and presupplementary motor areas are crucial for the temporal organization of multiple movements| journal = Journal of Neurophysiology| volume = 80| pages = 3247–3260| pmid = 9862919| issue = 6|doi=10.1152/jn.1998.80.6.3247}} < /ref > 
+ |- 
+ ! scope=row style= " text-align:left "  | [[Prefrontal cortex]] 
+ | style= " background: tan "  | Frontal lobe || style= " background:#ffdead "  | Planning and other [[executive functions]] < ref > {{cite journal |last1=Miller |first1=EK |last2=Cohen |first2=JD |title=An integrative theory of prefrontal cortex function |journal=Annual Review of Neuroscience |volume=24 |issue=1 |pages=167–202 |year=2001 |pmid=11283309 |doi=10.1146/annurev.neuro.24.1.167 }} < /ref > 
+ |} 
+ 
+ In addition, the brain and spinal cord controls the [[autonomic nervous system]]. this system works by secreting [[hormone]]s and by modulating the  " smooth "  muscles of the gut. < ref name= " Kandel 2000 " / > < !--ch49-- >  The autonomic nervous system affects [[heart rate]], [[digestion]], [[respiration]] rate, [[salivation]], [[perspiration]], [[urination]], [[sexual arousal]] and several other processes. Most of its functions are not under direct voluntary control. Several of them, such as respiration, can be controlled directly as well. 
+ 
+ == Related pages == 
+ * [[Newton's laws of motion]] 
+ * [[Transportation]] 
+ * [[Navigation]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Mechanics]]

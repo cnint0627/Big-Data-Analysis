@@ -1,0 +1,36 @@
+{{Taxobox 
+ | name = Apterygota 
+ | fossil_range = {{Fossil range|Devonian|Recent}} < ref name=IIBD1 > {{cite book |author= Hoell, H.V., Doyen, J.T.  &  Purcell, A.H. |year=1998 |title=Introduction to Insect Biology and Diversity, 2nd ed. |publisher= Oxford University Press |page= 320|isbn= 0-19-510033-6}} < /ref > 
+ | image = Archaeognatha.jpg 
+ | image_caption = ''Petrobius maritimus'' < br / > ([[Archaeognatha]]: Machilidae) 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Arthropod]]a 
+ | classis = [[Insect]]a 
+ | subclassis = '''Apterygota'''[[Paraphyletic|†]] 
+ | subdivision_ranks = Orders 
+ | subdivision =  
+ *[[Archaeognatha]] 
+ *[[Thysanura]] 
+ *Monura ''(extinct)''  
+ }} 
+ 
+ The '''Apterygota''' are a small [[Subclass (biology)|subclass]] of primitive [[insect]]s. 
+ 
+ They are insects which have never had [[wing]]s at any time in their [[evolution]]ary history. Their first known occurrence in the fossil record is in the [[Rhynie chert]] of the [[Devonian]] period, ~400 million years ago. While some other insects, such as [[flea]]s, also lack wings, these are descended from winged insects, and have lost them during the course of evolution. By contrast, the apterygotes are a primitive group of insects that diverged from other orders before wings evolved. 
+ 
+ They have some other primitive [[trait]]s (features). 
+ The [[nymph (biology)|nymphs]] (younger stages) go through little or no [[metamorphosis]], so they look like the adults. They continue to [[moult]] throughout life, with multiple [[instar]]s (stages) after reaching sexual maturity. All other insects have only a single sexually mature adult stage. Their skin is thin, making them appear translucent. Males deposit [[sperm]] packages rather than fertilising the female internally. < ref name=IIBD > {{cite book |author= Hoell, H.V., Doyen J.T.  &  Purcell A.H. |year=1998 |title=Introduction to insect biology and diversity |publisher= 2nd ed, Oxford University Press |pages= 333–340|isbn= 0-19-510033-6}} < /ref > 
+ 
+ Currently, no [[species]] are listed as being at conservation risk. 
+ 
+ == History of the group == 
+ The classification of the Apterygota changed over time. By the mid 20th century, the subclass included four orders ([[Collembola]], [[Protura]], [[Diplura]], and [[Thysanura]]). With the advent of a more rigorous [[cladistic]] methodology, the subclass turned out to be [[paraphyletic]]. The first three groups formed a monophyletic group, the [[Entognatha]]. The Thysanura is more closely related to [[Pterygota|winged insects]]. < ref > [http://www.uoguelph.ca/debu/STEVEweb/html/Thysanura.htm Orders {{ndash}} Thysanura  &  Archaeognatha] < /ref >  thus rendering even the amyocerate apterygotes paraphyletic. 
+ 
+ Some think the Collembola are no longer insects at all, but their position is not yet clear. < ref > {{cite journal |author=Frédéric Delsuc, Matthew J. Phillips  &  David Penny |year=2003 |title=Comment on ''Hexapod origins: monophyletic or paraphyletic?'' |journal=Science |volume=301 |issue=5639 |pages=1482 |doi=10.1126/science.1086558 |pmid=12970547 |s2cid=43942720 |url=http://www.sciencemag.org/cgi/reprint/301/5639/1482d.pdf }} < /ref > < ref > {{cite journal |author=Francesco Nardi, Giacomo Spinsanti, Jeffrey L. Boore, Antonio Carapelli, Romano Dallai  &  Francesco Frati |year=2003 |title=Hexapod origins: monophyletic or paraphyletic? |journal=Science |volume=299 |issue=5614 |pages=1887–1889 |doi=10.1126/science.1078607 |pmid=12649480|s2cid=38792657 }} < /ref > < ref > {{cite journal |author=Francesco Nardi, Giacomo Spinsanti, Jeffrey L. Boore, Antonio Carapelli, Romano Dallai  &  Francesco Frati |year=2003 |title=Response to comment on ''Hexapod origins: monophyletic or paraphyletic?'' |journal=Science |volume=301 |issue=5639 |pages=1482 |doi=10.1126/science.1087632 |s2cid=82407120 |url=http://www.sciencemag.org/cgi/reprint/301/5639/1482e.pdf }} < /ref > < ref name= " Gao " > {{cite journal |author=Yan Gao, Yun Bu  &  Yun-Xia Luan |year=2008 |title=Phylogenetic relationships of basal hexapods reconstructed from nearly complete 18S and 28S rRNA gene sequences |journal=Zoological Science |volume=25 |issue=11 |pages=1139–1145 |doi=10.2108/zsj.25.1139 |pmid=19267625 |s2cid=10783597 |url=http://decapoda.nhm.org/pdfs/31595/31595.pdf }} < /ref > < ref > {{cite journal |author=Alexandre Hassanin |year=2006 |title=Phylogeny of Arthropoda inferred from mitochondrial sequences: strategies for limiting the misleading effects of multiple changes in pattern and rates of substitution |journal=Molecular Phylogenetics and Evolution |volume=38 |issue=1 |pages=100–116 |doi=10.1016/j.ympev.2005.09.012 |pmid=16290034 |url=http://www.csulb.edu/~dlunderw/entomology/Arthropodphylogeny2006.pdf |access-date=2012-11-28 |archive-date=2012-10-09 |archive-url=https://web.archive.org/web/20121009005719/http://www.csulb.edu/~dlunderw/entomology/Arthropodphylogeny2006.pdf |url-status=dead }} < /ref > 
+ 
+ == Sources == 
+ {{reflist}} 
+ 
+ * ''Firefly Encyclopedia of Insects and Spiders'', edited by Christopher O'Toole, {{ISBN|1-55297-612-2}}, 2002 
+ 
+ [[Category:Insects]]

@@ -1,0 +1,39 @@
+{{Infobox OS 
+ | name                   = NepaLinux 
+ | logo                   =  
+ | screenshot             =  
+ | caption                =  
+ | website                = [http://www.nepalinux.org www.nepalinux.org] 
+ | developer              = Madan Puraskar Pustakalaya (http://www.mpp.org.np) 
+ | family                 = [[GNU/Linux]] 
+ | source_model           = [[Open source]] 
+ | license                = [[Free software]] licenses < br > (mainly [[GPL]]) 
+ | released               = {{birth year and age|2005}} 
+ | latest_release_version = 3.0 
+ | latest_release_date    = {{release date|2008|05|25}} 
+ | kernel_type            = [[Monolithic kernel|Monolithic]] ([[Linux kernel|Linux]]) 
+ | ui                     = [[GNOME]] 
+ | supported_platforms    = [[i386]] 
+ | updatemodel            = [[Advanced Packaging Tool|APT]] 
+ | package_manager        = [[dpkg]] 
+ | working_state          = Current 
+ }} 
+ 
+ '''NepaLinux''' is a [[Debian]] and [[Morphix]] based [[Linux distribution]] focused on [[Desktop computer|desktop]] usage in [[Nepali language]] computing.  
+ 
+ It contains applications for desktop users like [[OpenOffice.org]], Nepali [[GNOME]] and [[KDE]] desktops, and a way for people to type [[Nepali language|Nepali]] text. 
+ The development and distribution of NepaLinux is done by [[Madan Puraskar Pustakalaya]].  Version 1.0 was produced as part of the [[PAN Localization Project]], with the support of the [[International Development Research Centre]] (IDRC) of [[Canada]]. NepaLinux is an effort of promoting [[Free and Open Source Software]] in [[Nepal]]. 
+ 
+ In October 2007, NepaLinux was the joint recipient of the [[Association for Progressive Communications]]' annual APC FOSS prize. < ref > {{Cite web |url=http://www.iosn.net/south-asia/countries/nepal/news/APC-ChrisNicol-FOSSPrize07 |title=NepaLinux and Free Geek jointly awarded APC Chris Nicol FOSS Prize 2007 |access-date=2008-06-16 |archive-date=2012-02-07 |archive-url=https://web.archive.org/web/20120207230302/http://www.iosn.net/south-asia/countries/nepal/news/APC-ChrisNicol-FOSSPrize07 |url-status=dead }} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.nepalinux.org The official site for NepaLinux] 
+ * [http://www.kantipuronline.com/kolnews.php?nid=60963 ''A look into NepaLinux'']{{Dead link|date=January 2022 |bot=InternetArchiveBot |fix-attempted=yes }}, Kantipur daily newspaper, Kathmandu, Nepal 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux distributions]] 
+ [[Category:Debian-based Linux distributions]]

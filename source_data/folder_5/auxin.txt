@@ -1,0 +1,37 @@
+{{multiple image 
+  | align     = right 
+  | direction = vertical   
+  | header_align = center 
+  | header    = Native auxins 
+  | image1    = Indol-3-ylacetic acid.svg 
+  | width1    = 180 
+  | alt1      =  
+  | caption1  = '''indole-3-acetic acid''' (IAA) is the most abundant and the basic auxin. There are three more native — endogenous auxins. < ref > Simon S.  &  Petrášek P. 2011. Why plants need more than one type of auxin. ''Plant Science'' '''180''' (3): 454–460. [http://www.sciencedirect.com/science/article/pii/S0168945210003444] < /ref >  All auxins are compounds with aromatic ring and a carboxylic acid group: < ref name= " Taiz " > {{cite book |last1=Taiz |first1=L. |last2=Zeiger |first2=E. |title=Plant Physiology |publisher=Sinauer Associates |location=Massachusetts |year=1998 |edition=2nd}} < /ref > 
+  | image2    = 4-Cl-IAA.svg 
+  | width2    = 140 
+  | alt2      =  
+  | caption2  = 4-Chloroindole-3-acetic acid (4-CI-IAA) 
+  | image3    = Kwas fenylooctowy.svg 
+  | width3    = 140 
+  | alt3      =  
+  | caption3  = 2-phenylacetic acid (PAA) 
+  | image4    = Indole-3-butyric acid.svg 
+  | width4    = 140 
+  | alt4      =  
+  | caption4  = Indole-3-butyric acid (IBA)}} 
+ 
+ '''Auxins''' are a class of [[plant hormone]]s (or plant growth substances) with some [[morphogenesis|morphogen]]-like characteristics. Auxins have a main role in coordination of many growth and behavioral processes in the plant's [[life cycle]]. they are essential for plant body development.  
+ 
+ Auxins and their role in plant growth were first described by the Dutch scientist [[Frits Warmolt Went]]. [[Kenneth V. Thimann]] isolated auxin and found its chemical structure to be '''indole-3-acetic acid''' (IAA). Went and Thimann co-authored a book on plant hormones, ''Phytohormones'', in 1937. 
+ 
+ There are synthetic auxins, and in big doses they can be used as [[herbicide]]s. [[Agent Orange]] is a mixture of synthetic auxins. 
+ 
+ == References == 
+ {{reflist}} 
+ {{Herbicides}} 
+ 
+ [[Image:Auxin.jpg|thumb|left|A healthy ''[[Arabidopsis thaliana]]'' plant (left) next to an auxin signal-transduction mutant]] 
+ [[Image:Agrobacteriumgall.jpg|thumb|left|[[Gall|Crown galls]] are caused by ''[[Agrobacterium tumefaciens]]'' [[bacteria]]; they produce and excrete auxin and [[cytokinin]], which interfere with normal [[cell division]] and cause [[tumor]]s.]] 
+ 
+ [[Category:Plant physiology]] 
+ [[Category:Organic compounds]]

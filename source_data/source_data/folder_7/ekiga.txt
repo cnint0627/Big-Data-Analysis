@@ -1,0 +1,62 @@
+{{Infobox Software  
+ | name                   = Ekiga  
+ | logo                   = Ekigaweblogo.png 
+ | screenshot             = Ekiga screenshot.png 
+ | caption                = Ekiga on [[Ubuntu]] 
+ | developer              = [[Damien Sandras]]  
+ | latest_release_version = 3.0.2 
+ | latest_release_date    = {{release date|2009|1|12}} 
+ | platform               = [[Linux]], beta support for [[Microsoft Windows|Windows]]  
+ | genre                  = [[VoIP]] [[Video conferencing]]  
+ | license                = [[GNU General Public License]] 
+ | website                = http://www.ekiga.org 
+ }} 
+ '''Ekiga''' (formerly called '''GnomeMeeting''') is a [[free software|free]] and [[open source software|open source]] [[VoIP]] and [[video conferencing]] computer application for [[GNOME]] and [[Microsoft Windows|Windows]]. Ekiga supports both the [[Session Initiation Protocol|SIP]] and [[H.323]] (based on [[OpenH323]]) protocols and is fully interoperable with any other SIP compliant application and with [[Microsoft]] [[NetMeeting]]. It supports many high-quality audio and video [[codec]]s. 
+ 
+ Ekiga was initially made by [[Damien Sandras]] in order to graduate from the [[Université catholique de Louvain]]. It is currently developed by a community-based team led by Sandras. The logo was designed based on his concept by [http://www.kwiat.org/ Andreas Kwiatkowski], an open source enthusiast and a friend of his. 
+ 
+ == Features == 
+ === Integration === 
+ * [[Lightweight Directory Access Protocol|LDAP]] and [[Internet Locator Service|ILS]] directories registration and browsing 
+ * Integration with [[Novell Evolution]] so that contacts are shared between both programs 
+ * [[ZeroConf]] ([[Bonjour (software)|Apple Bonjour]]) support 
+ * External configuration with [[GConf]], including ability for administrators to block certain settings 
+ * Device auto-detection, including: 
+ ** [[ALSA (Linux)|ALSA]] and legacy [[Open Sound System|OSS]] soundcard support, through plugins 
+ ** [[Video4linux]] and [[FireWire camera]] support, through plugins 
+ 
+ === User interface === 
+ * Addressbook with speed dials 
+ * [[Session Initiation Protocol|SIP]] [[Uniform Resource Locator|URL]]s and [[H.323]]/callto 
+ * Dialpad 
+ * Advanced call history 
+ * Full-screen videoconferencing 
+ * In call Instant-Apply support for settings 
+ * Auto Answer and Do Not Disturb modes 
+ 
+ === Technical === 
+ * [[Call forwarding]] on busy, no answer, always (SIP and H.323) 
+ * [[Call transfer]] (SIP and H.323) 
+ * Call Hold (SIP and H.323) 
+ * [[Dual-tone multi-frequency|DTMFs]] support (SIP and H.323) 
+ * Basic Instant Messaging (SIP) 
+ * Text Chat (SIP and H.323) 
+ * Possibility to register to several registrars (SIP) and gatekeepers (H.323) 
+ * Possibility to use an outbound proxy (SIP) or a gateway (H.323) 
+ * [[Message Waiting Indicator|Message Waiting Indications]] (SIP) 
+ * Audio AND Video (SIP and H.323) 
+ * [[STUN]] support (SIP and H.323) 
+ * [[Lightweight Directory Access Protocol|LDAP]] support 
+ 
+ ===  Incoming new features === 
+ *[[SIMPLE]] 
+ *[[Secure Real-time Transport Protocol|SRTP]] 
+ *[[ZRTP]] 
+ *[[H263]], [[H264]] 
+ 
+ [http://wiki.ekiga.org/index.php/Roadmap_to_3.00 Roadmap] {{Webarchive|url=https://web.archive.org/web/20081203181845/http://wiki.ekiga.org/index.php/Roadmap_to_3.00 |date=2008-12-03 }} 
+ 
+ == Notes == 
+ < references / > 
+ 
+ [[Category:Linux software]]

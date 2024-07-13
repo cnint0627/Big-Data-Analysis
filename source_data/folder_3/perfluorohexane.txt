@@ -1,0 +1,56 @@
+{{chembox 
+ | ImageFile      = perfluorohexane.png 
+ | ImageFile2     = Perfluorohexane-3D-vdW.png 
+ | ImageSize      =  
+ | ImageSize2     =  
+ | OtherNames     = FC-72, < br > Fluorinert FC-72, < br > Flutec PP1, < br > Perfluoro-compound FC-72 
+ | PIN            = Tetradecafluorohexane 
+ | Section1       = {{Chembox Identifiers 
+ | Abbreviations = PFH 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 9262 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = FX3WJ41CMX 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = D05437 
+ | InChI = 1/C6F14/c7-1(8,3(11,12)5(15,16)17)2(9,10)4(13,14)6(18,19)20 
+ | InChIKey = ZJIJAJXFLBMLCK-UHFFFAOYAE 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C6F14/c7-1(8,3(11,12)5(15,16)17)2(9,10)4(13,14)6(18,19)20 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = ZJIJAJXFLBMLCK-UHFFFAOYSA-N 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo=355-42-0 
+ | PubChem=9639 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 39427 
+ | SMILES = FC(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F 
+ }} 
+ | Section2       = {{Chembox Properties 
+ | Formula=C < sub > 6 < /sub > F < sub > 14 < /sub > 
+ | MolarMass=338.041845 
+ | Appearance= Clear, colorless 
+ | Odor = Odorless 
+ | Density= 1,680 kg/m < sup > 3 < /sup >  (Liquid) 
+ | MeltingPtC=-90 
+ | BoilingPtC=56 
+ | Solubility= 
+ | ThermalConductivity = 0.057 W/m-K 
+ | VaporPressure= 30.9kPa @ 25 °C 
+ | Viscosity = 0.64{{nbsp}}cP 
+   }} 
+ | Section3       = {{Chembox Hazards 
+ | MainHazards= 
+ | FlashPt= 
+ | AutoignitionPt = 
+   }} 
+ | verifiedrevid  = 464198888 
+ }} 
+ 
+ '''Perfluorohexane''' ({{chem2|C6F14}}), or '''tetradecafluorohexane''', is a [[fluorocarbon]]. It is a derivative of [[hexane]] in which all of the [[hydrogen]] [[Atom|atoms]] are replaced by [[fluorine]] atoms. < ref > John A. Gladysz and Markus Jurisch  " Structural, Physical, and Chemical Properties of Fluorous Compounds "  in István T. Horváth (Ed.) Topics in Current Chemistry 2011  " Fluorous Chemistry "  {{doi|10.1007/128_2011_282}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ {{chem-stub}} 
+ 
+ [[Category:Organofluorides]]

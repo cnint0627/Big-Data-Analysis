@@ -1,0 +1,253 @@
+{{Infobox Settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |official_name          = Assam 
+ |other_name             =  
+ |native_name            =  অসম < !-- for cities whose native name is not in English -- > 
+ |nickname               =  
+ |settlement_type        = State of [[India]] 
+ |motto                  =  
+ < !-- images and maps  ----------- > 
+ |image_skyline          =  
+ |imagesize              =  
+ |image_caption          =  
+ |image_flag             =  
+ |flag_size              =  
+ |flag_link              =  
+ |image_seal             = Seal of Assam.png 
+ |seal_size              =  
+ |seal_link              =  
+ |image_shield           =  
+ |shield_size            =  
+ |shield_link            =  
+ |city_logo              =  
+ |citylogo_size          =  
+ |logo_link              =  
+ |image_map              = IN-AS.svg 
+ |mapsize                =  
+ |map_caption            = Location of Assam in the Republic of India 
+ |image_map1             = India Assam location map.svg 
+ |mapsize1               =  
+ |map_caption1           = Map of Assam 
+ |image_dot_map          =  
+ |dot_mapsize            =  
+ |dot_map_caption        =  
+ |dot_x =  |dot_y =  
+ |pushpin_map            =  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ |pushpin_map_caption    =  
+ |pushpin_mapsize        =  
+ < !-- Location ------------------ > 
+ | subdivision_type        = Country 
+ | subdivision_name        = {{flag|India}} 
+ | subdivision_type1       = [[Regions of India|Region]] 
+ | subdivision_name1       = [[North-east India]]  
+ |subdivision_type3      =  
+ |subdivision_name3      =  
+ |subdivision_type4      =  
+ |subdivision_name4      =  
+ < !-- Politics ----------------- > 
+ |government_footnotes   =  
+ |government_type        =  
+ | leader_title            = [[Governors of Assam|Governor]]  
+ | leader_name             =  
+ | leader_title1           = [[Chief Ministers of Assam|Chief & nbsp;Minister]] 
+ | leader_name1            =  
+ | leader_title2           = [[Legislature of Assam|Legislature]] 
+ | leader_name2            = [[Unicameral]] ({{ref|leg|*}} seats) 
+ |leader_title3          =  
+ |leader_name3           =  
+ |leader_title4          =  
+ |leader_name4           =  
+ | established_title       = Established  
+ | established_date        =  
+ |established_title2     =  < !-- Incorporated (town) -- > 
+ |established_date2      =  
+ |established_title3     =  < !-- Incorporated (city) -- > 
+ |established_date3      =  
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref              =  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes         =  
+ |area_total_km2         = 78438  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ |area_land_km2          =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ |area_water_km2         =  
+ |area_total_sq_mi       =  
+ |area_land_sq_mi        =  
+ |area_water_sq_mi       =  
+ |area_water_percent     =  
+ |area_urban_km2         =  
+ |area_urban_sq_mi       =  
+ |area_metro_km2         =  
+ |area_metro_sq_mi       =  
+ |area_blank1_title      =  
+ |area_blank1_km2        =  
+ |area_blank1_sq_mi      =  
+ < !-- Population   ----------------------- > 
+ |population_as_of                = 2011 
+ |population_footnotes            =  
+ |population_note                 =  
+ |population_total                =  31,169,272 
+ 
+ |population_density_km2          =  
+ |population_density_sq_mi        =  
+ |population_metro                =  
+ |population_density_metro_km2    =  
+ |population_density_metro_sq_mi  =  
+ |population_urban                =  
+ |population_density_urban_km2    =  
+ |population_density_urban_sq_mi  =  
+ |population_blank1_title         =  
+ |population_blank1               =  
+ |population_density_blank1_km2   =  
+ |population_density_blank1_sq_mi = 
+ |population_demonym              =         
+ < !-- General information  --------------- > 
+ |timezone                = [[Indian Standard Time|IST]] 
+ |utc_offset              = +05:30  
+ |timezone_DST            =  
+ |utc_offset_DST          =  
+ |coordinates             = {{coord|26.244156|92.537842|type:city|display=inline,title}} 
+ |coordinates_footnotes   = 
+ |elevation_footnotes     =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m             =  
+ |elevation_ft            =  
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            =  
+ |area_code              =  
+ |blank_name             = Official languages 
+ |blank_info             = [[Assamese language|Assamese]]{{,}}[[English language|English]] 
+ |blank1_name            =  
+ |blank1_info            =  
+ |website                =  
+ |footnotes              = {{note|leg|*}}  
+ }} 
+ 
+ '''Assam''' ({{lang-as|অসম}}) is a [[States of India|state]] in the [[North-east India|north eastern region]] of [[India]]. It has an area of 78,438 [[km²]] (30,285 [[square mile|mi²]]). It is bigger than [[Panama]] but smaller than the [[Czech Republic]]. There is one major river ([[Brahmaputra River|Brahamputra]]) that flows through the length of the state. The state lies on the foothills of the [[Himalayas]]. There are two international borders touched by Assam: [[Bhutan]] and [[Bangladesh]]. In traditional Indian geography it falls under the [[North-east India]]n zone. 
+ 
+ == Demography == 
+ {{Pie chart  
+ |thumb = right  
+ |caption = Religion in Assam (2021 survey) < ref name= " Can BJP survive the demographic disadvantage in Assam?  - India Today Insight News " > {{cite web | url=https://www.indiatoday.in/india-today-insight/story/can-bjp-survive-the-demographic-disadvantage-in-assam-1784851-2021-03-29 | title=Can BJP survive the demographic disadvantage in Assam? }} < /ref > 
+ |label1 = [[Hinduism]] 
+ |value1 = 55 
+ |color1 = orange 
+ |label2 = [[Islam]] 
+ |value2 = 40 
+ |color2 = green 
+ |label3 = [[Christianity]] 
+ |value3 = 4 
+ |color3 = blue 
+ |label4 = others  
+ |value4 = 1 
+ |color4 = yellow}} 
+ 
+ According to a 2021 survey, < ref name= " census2011 " > {{cite web|title=Population by religion community – 2011|url=http://www.censusindia.gov.in/2011census/C-01/DDW00C-01%20MDDS.XLS|website=Census of India, 2012|publisher=The Registrar General  &  Census Commissioner, India|archive-url=https://web.archive.org/web/20150825155850/http://www.censusindia.gov.in/2011census/C-01/DDW00C-01%20MDDS.XLS|archive-date=25 August 2015}} < /ref > < ref > {{cite web|url=http://www.hindustantimes.com/india-news/census-2011-religion-data-rekindles-demographic-invasion-fear-in-assam/article1-1384347.aspx|title=Census 2011 data rekindles 'demographic invasion' fear in Assam|access-date=2019-04-22|archive-date=2015-09-05|archive-url=https://web.archive.org/web/20150905104547/http://www.hindustantimes.com/india-news/census-2011-religion-data-rekindles-demographic-invasion-fear-in-assam/article1-1384347.aspx|url-status=dead}} < /ref >  about 55% of the people are [[Hinduism|Hindus]]. About 40% are [[Islam|Muslim]]. < ref name= " Can BJP survive the demographic disadvantage in Assam?  - India Today Insight News "  / > < ref > {{cite news | url=https://www.thehindu.com/news/national/other-states/assamese-muslims-plan-mini-nrc/article34292248.ece | title=Assamese Muslims plan 'mini NRC' | newspaper=The Hindu | date=10 April 2021 }} < /ref >   There is a small (4%) [[Christianity|Christian]] minority. Others (1%) consists of ([[Buddhism]], [[Sikhism]], [[Jainism]], and [[Animism]]). 
+ 
+ {| class= " wikitable " 
+ |+ ''Assam religious diversity as per (2021 survey)'' < ref name= " Can BJP survive the demographic disadvantage in Assam?  - India Today Insight News "  / > 
+ |- 
+ ! Religion 
+ ! Population 
+ ! Percentage 
+ |- 
+ | [[Hindus]] [[File:Om.svg|15px]] 
+ | 20,101,243    
+ | 55% 
+ |- 
+ | [[Muslims]] [[File:Star and Crescent.svg|18px]] 
+ | 14,619,086 
+ | 40% 
+ |- 
+ | [[Christians]] [[File:ChristianitySymbol.svg|17px]] 
+ | 1,461,908 
+ | 4% 
+ |- 
+ | Other's 
+ | 365,477 
+ | 1% 
+ |- 
+ | Total 
+ | 36,547,715 
+ | 100% 
+ |} 
+ Assam has a population of 36.5 million as per the 2021 population survey. < ref name= " ReferenceA " > Assam Population Sex Ratio in Assam Literacy rate data 2011-2021 < /ref > 
+ 
+ ===Language=== 
+ {{Pie chart  
+ |thumb = right  
+ |caption = Languages in Assam (2021 survey) < ref name= " Can BJP survive the demographic disadvantage in Assam?  - India Today Insight News " > {{cite web | url=https://www.indiatoday.in/india-today-insight/story/can-bjp-survive-the-demographic-disadvantage-in-assam-1784851-2021-03-29 | title=Can BJP survive the demographic disadvantage in Assam? }} < /ref > 
+ |label1 = [[Assamese]] 
+ |value1 = 46 
+ |color1 = pink 
+ |label2 = [[Bengali]] 
+ |value2 = 35 
+ |color2 = orange  
+ |label3 = [[hindi]]  
+ |value3 = 7 
+ |color3 = yellow 
+ |label4 = [[Bodo]] 
+ |value4 = 5 
+ |color4 = blue 
+ |label5 = [[Adivasi]]  
+ |value5 = 4 
+ |color5 = purple 
+ |label6 = others  
+ |value6 = 3 
+ |color6 = red 
+ }} 
+ 
+ {| class= " wikitable " 
+ |+ ''Assam linguistic diversity as per (2021 survey)'' < ref name= " Can BJP survive the demographic disadvantage in Assam?  - India Today Insight News "  / > 
+ |- 
+ ! Language 
+ ! Population 
+ ! Percentage 
+ |- 
+ | [[Assamese]]  
+ | 16,811,948    
+ | 46% 
+ |- 
+ | [[Bengali]]  
+ | 12,791,700 
+ | 35% 
+ |- 
+ | [[Hindi]]  
+ | 2,558,340 
+ | 7% 
+ |- 
+ | [[Bodo]] 
+ | 1,827,385 
+ | 5% 
+ |- 
+ | [[Adivasi]] 
+ | 1,461,908 
+ | 4% 
+ |- 
+ | Others 
+ | 1,096,431 
+ | 3% 
+ |- 
+ | Total 
+ | 36,547,715 
+ | 100% 
+ |} 
+ Assam has a population of 36.5 million as per the 2021 population survey. < ref name= " ReferenceA " / > 
+ 
+ ==Related pages== 
+ * [[List of rivers of Assam]] 
+ * [[Hinduism in Assam]] 
+ 
+ ==References== 
+ {{commonscat}} 
+ {{reflist}} 
+ 
+ {{India}} 
+ 
+ {{authority control}} 
+ 
+ 
+ {{asia-stub}} 
+ 
+ [[Category:Assam]]

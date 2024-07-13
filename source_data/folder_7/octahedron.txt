@@ -1,0 +1,187 @@
+[[File:Octahedron.svg|thumb|right|An octahedron]] 
+ [[File:Fluorite octahedron.jpg|right|thumb|Fluorite]]An '''octahedron''' is a [[polyhedron]] made of eight faces. In the case of the regular octahedron, these faces are [[Triangle|triangles]]. The octahedron looks like two pyramids, which share the same base. [[File:BluePlatonicDice.jpg|thumb|right|Dice: The one in the middle is an Octahedron.]] 
+ In [[chemistry]], octahedra are common: [[Diamond|diamonds]] and [[fluorite]] are examples of [[Crystal|crystals]] that are octahedra. 
+ 
+ == Regular octahedron == 
+ 
+ ===Dimensions=== 
+ If the edge length of a regular octahedron is ''a'', the [[radius]] of a circumscribed [[sphere]] (one that touches the octahedron at all vertices) is 
+ : < math > r_u = \frac{a}{2} \sqrt{2} \approx 0.707 \cdot a < /math > 
+ 
+ and the radius of an inscribed sphere ([[tangent]] to each of the octahedron's faces) is 
+ : < math > r_i = \frac{a}{6} \sqrt{6}  \approx 0.408\cdot a < /math > 
+ 
+ while the midradius, which touches the middle of each edge, is 
+ : < math > r_m = \frac{a}{2} = 0.5\cdot a < /math > 
+ 
+ ===Orthogonal projections=== 
+ The ''octahedron'' has four special [[orthogonal projection]]s, centered, on an edge, vertex, face, and normal to a face. The second and third correspond to the B < sub > 2 < /sub >  and A < sub > 2 < /sub >  [[Coxeter plane]]s. 
+ {|class=wikitable width=480 
+ |+ Orthogonal projections 
+ |- 
+ !Centered by 
+ !Edge 
+ !Face < BR > Normal 
+ !Vertex 
+ !Face 
+ |- 
+ !Image 
+ |[[File:Cube t2 e.png|100px]] 
+ |[[File:Cube t2 fb.png|100px]] 
+ |[[File:3-cube t2 B2.svg|100px]] 
+ |[[File:3-cube t2.svg|100px]] 
+ |- align=center 
+ !Projective < BR > symmetry 
+ |[2] 
+ |[2] 
+ |[4] 
+ |[6] 
+ |} 
+ 
+ ===Spherical tiling=== 
+ The octahedron can also be represented as a [[spherical tiling]], and projected onto the plane via a [[stereographic projection]]. This projection is [[Conformal map|conformal]], preserving angles but not areas or lengths. Straight lines on the sphere are projected as circular arcs on the plane. 
+ {|class=wikitable 
+ |- align=center valign=top 
+ |[[File:Uniform tiling 432-t2.png|160px]] 
+ |[[File:Octahedron stereographic projection.svg|160px]] 
+ |- 
+ ![[Orthographic projection]] 
+ !colspan=1|[[Stereographic projection]] 
+ |} 
+ 
+ ===Cartesian coordinates=== 
+ 
+ An octahedron with edge length {{sqrt|2}} can be placed with its center at the origin and its vertices on the coordinate axes; the [[Cartesian coordinates]] of the vertices are then 
+ : ( ±1, 0, 0 ); 
+ : ( 0, ±1, 0 ); 
+ : ( 0, 0, ±1 ). 
+ 
+ In an ''x''–''y''–''z'' [[Cartesian coordinate system]], the octahedron with center [[Coordinate system|coordinates]] (''a'', ''b'', ''c'') and radius ''r'' is the set of all points (''x'', ''y'', ''z'') such that 
+ : < math > \left|x - a\right| + \left|y - b\right| + \left|z - c\right| = r. < /math > 
+ 
+ ===Area and volume=== 
+ The surface area ''A'' and the [[volume]] ''V'' of a regular octahedron of edge length ''a'' are: 
+ : < math > A=2\sqrt{3}a^2 \approx 3.464a^2 < /math > 
+ : < math > V=\frac{1}{3} \sqrt{2}a^3 \approx 0.471a^3 < /math > 
+ 
+ Thus the volume is four times that of a regular [[tetrahedron]] with the same edge length, while the surface area is twice (because we have 8 rather than 4 triangles). 
+ 
+ If an octahedron has been stretched so that it obeys the equation 
+ : < math > \left|\frac{x}{x_m}\right|+\left|\frac{y}{y_m}\right|+\left|\frac{z}{z_m}\right| = 1, < /math > 
+ 
+ the formulas for the surface area and volume expand to become 
+ : < math > A=4 \, x_m \, y_m \, z_m \times \sqrt{\frac{1}{x_m^2}+\frac{1}{y_m^2}+\frac{1}{z_m^2}}, < /math > 
+ : < math > V=\frac{4}{3}\,x_m\,y_m\,z_m. < /math > 
+ 
+ Additionally the inertia tensor of the stretched octahedron is 
+ : < math > 
+ I = 
+ \begin{bmatrix} 
+   \frac{1}{10} m (y_m^2+z_m^2)  &  0  &  0 \\ 
+   0  &  \frac{1}{10} m (x_m^2+z_m^2)  &  0 \\  
+   0  &  0  &  \frac{1}{10} m (x_m^2-y_m^2) 
+ \end{bmatrix}. 
+ < /math > 
+ 
+ These reduce to the equations for the regular octahedron when 
+ : < math > x_m=y_m=z_m=a\,\frac{\sqrt{2}}{2}. < /math > 
+ 
+ ===Geometric relations=== 
+ [[File:Compound of two tetrahedra.png|left|thumb|The octahedron represents the central intersection of two tetrahedra]] 
+ The interior of the [[polyhedral compound|compound]] of two dual [[Tetrahedron|tetrahedra]] is an octahedron, and this compound, called the [[stella octangula]], is its first and only [[stellation]]. Correspondingly, a regular octahedron is the result of cutting off from a regular tetrahedron, four regular tetrahedra of half the linear size (i.e. [[Rectification (geometry)|rectifying]] the tetrahedron). The vertices of the octahedron lie at the midpoints of the edges of the tetrahedron, and in this sense it relates to the tetrahedron in the same way that the [[cuboctahedron]] and [[icosidodecahedron]] relate to the other Platonic solids. One can also divide the edges of an octahedron in the ratio of the [[golden ratio|golden mean]] to define the vertices of an [[icosahedron]]. This is done by first placing vectors along the octahedron's edges such that each face is bounded by a cycle, then similarly partitioning each edge into the golden mean along the direction of its vector. There are five octahedra that define any given icosahedron in this fashion, and together they define a ''regular compound''. 
+ 
+ [[Tetrahedral-octahedral honeycomb|Octahedra and tetrahedra]] can be alternated to form a vertex, edge, and face-uniform [[tessellation of space]], called the [[octet truss]] by [[Buckminster Fuller]]. This is the only such tiling save the regular tessellation of [[cube]]s, and is one of the 28 [[convex uniform honeycomb]]s. Another is a tessellation of octahedra and [[Cuboctahedron|cuboctahedra]]. 
+ 
+ The octahedron is unique among the Platonic solids in having an even number of faces meeting at each vertex. Consequently, it is the only member of that group to possess mirror planes that do not pass through any of the faces. 
+ 
+ Using the standard nomenclature for [[Johnson solid]]s, an octahedron would be called a ''square bipyramid''. Truncation of two opposite vertices results in a [[square bifrustum]]. 
+ 
+ The octahedron is [[k-vertex-connected graph|4-connected]], meaning that it takes the removal of four vertices to disconnect the remaining vertices. It is one of only four 4-connected [[simplicial polytope|simplicial]] [[well-covered graph|well-covered]] polyhedra, meaning that all of the [[maximal independent set]]s of its vertices have the same size. The other three polyhedra with this property are the [[pentagonal dipyramid]], the [[snub disphenoid]], and an irregular polyhedron with 12 vertices and 20 triangular faces. < ref > {{Cite journal |last1=Finbow |first1=Arthur S. |last2=Hartnell |first2=Bert L. |last3=Nowakowski |first3=Richard J. |last4=Plummer |first4=Michael D. |author4-link=Michael D. Plummer |doi=10.1016/j.dam.2009.08.002 |issue=8 |journal=Discrete Applied Mathematics |mr=2602814 |pages=894–912 |title=On well-covered triangulations. III |volume=158 |year=2010}} < /ref > 
+ 
+ ===Uniform colorings and symmetry=== 
+ There are 3 [[uniform coloring]]s of the octahedron, named by the triangular face colors going around each vertex: 1212, 1112, 1111. 
+ 
+ The octahedron's [[symmetry group]] is O < sub > h < /sub > , of order 48, the three dimensional [[hyperoctahedral group]].  This group's [[subgroup]]s include D < sub > 3d < /sub >  (order 12), the symmetry group of a triangular [[antiprism]]; '''D < sub > 4h < /sub > ''' (order 16), the symmetry group of a square [[bipyramid]]; and T < sub > d < /sub >  (order 24), the symmetry group of a [[Octahedron#Tetratetrahedron|rectified tetrahedron]]. These symmetries can be emphasized by different colorings of the faces. 
+ {| class=wikitable 
+ !Name 
+ !Octahedron 
+ ![[Rectification (geometry)|Rectified]] [[tetrahedron]] < BR > (Tetratetrahedron) 
+ !Triangular [[antiprism]] 
+ !Square [[bipyramid]] 
+ !Rhombic fusil 
+ |- align=center 
+ !Image < BR > (Face coloring) 
+ |[[File:Uniform polyhedron-43-t2.png|100px]] < BR > (1111) 
+ |[[File:Uniform polyhedron-33-t1.png|100px]] < BR > (1212) 
+ |[[File:Trigonal antiprism.png|100px]] < BR > (1112) 
+ |[[File:Square bipyramid.png|100px]] < BR > (1111) 
+ |[[File:Rhombic_bipyramid.png|100px]] < BR > (1111) 
+ |- align=center 
+ ![[Coxeter diagram]] 
+ |{{CDD|node_1|3|node|4|node}} 
+ |{{CDD|node_1|3|node|4|node_h0}} = {{CDD|node_1|split1|nodes}} 
+ |{{CDD|node_h|2x|node_h|6|node}} < BR > {{CDD|node_h|2x|node_h|3|node_h}} 
+ |{{CDD|node_f1|2x|node_f1|4|node}} 
+ |{{CDD|node_f1|2x|node_f1|2x|node_f1}} 
+ |- align=center 
+ ![[Schläfli symbol]] 
+ |{3,4} 
+ |r{3,3} 
+ |s{2,6} < BR > sr{2,3} 
+ |ft{2,4} < BR > { } + {4} 
+ |ftr{2,2} < BR > { } + { } + { } 
+ |- align=center 
+ ![[Wythoff symbol]] 
+ | 4  & #124; 3 2 
+ | 2  & #124; 4 3 
+ | 2  & #124; 6 2  < BR >   & #124; 2 3 2 
+ | || 
+ |- align=center 
+ ![[List of spherical symmetry groups|Symmetry]] 
+ |O < sub > h < /sub > , [4,3], (*432) 
+ |T < sub > d < /sub > , [3,3], (*332) 
+ |D < sub > 3d < /sub > , [2 < sup > + < /sup > ,6], (2*3) < BR > D < sub > 3 < /sub > , [2,3] < sup > + < /sup > , (322) 
+ |D < sub > 4h < /sub > , [2,4], (*422) 
+ |D < sub > 2h < /sub > , [2,2], (*222) 
+ |- align=center 
+ ![[Group order|Order]] 
+ |48 
+ |24 
+ |12 < BR > 6 
+ |16 
+ |8 
+ |} 
+ 
+ ===Nets=== 
+ It has eleven arrangements of [[net (polyhedron)|nets]]. 
+ 
+ ===Dual=== 
+ The octahedron is the [[dual polyhedron]] to the [[cube]]. 
+ :[[File:Dual Cube-Octahedron.svg|240px]] 
+ 
+ ===Faceting=== 
+ The uniform [[tetrahemihexahedron]] is a [[tetrahedral symmetry]] [[faceting]] of the regular octahedron, sharing [[edge arrangement|edge]] and [[vertex arrangement]]. It has four of the triangular faces, and 3 central squares. 
+ {| class= " wikitable "  style= " vertical-align:top;text-align:center " 
+ | [[File:Uniform polyhedron-33-t1.png|100px]] < br > Octahedron 
+ | [[Image:tetrahemihexahedron.png|100px]] < br > [[Tetrahemihexahedron]] 
+ |} 
+ 
+ ==Related pages== 
+ *[[Truncated octahedron]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *{{cite EB1911|wstitle=Octahedron |volume=19 |short=x}} 
+ *{{mathworld |urlname=Octahedron |title=Octahedron}} 
+ *[http://www.dr-mikes-math-games-for-kids.com/polyhedral-nets.html?net=1S2GJRuqXD7blH9ixbn1mPoTSPo6vkjWddm7xoNxFj & name=Octahedron#applet Editable printable net of an octahedron with interactive 3D view] 
+ *[http://www.software3d.com/Octahedron.php Paper model of the octahedron] 
+ *[http://www.kjmaclean.com/Geometry/GeometryHome.html K.J.M. MacLean, A Geometric Analysis of the Five Platonic Solids and Other Semi-Regular Polyhedra] 
+ *[http://www.mathconsult.ch/showroom/unipoly/ The Uniform Polyhedra] 
+ *[http://www.georgehart.com/virtual-polyhedra/vp.html Virtual Reality Polyhedra] The Encyclopedia of Polyhedra 
+ **[http://www.georgehart.com/virtual-polyhedra/conway_notation.html Conway Notation for Polyhedra] Try: dP4 
+ 
+ {{Math-stub}} 
+ {{shapes}} 
+ [[Category:Platonic solids]]

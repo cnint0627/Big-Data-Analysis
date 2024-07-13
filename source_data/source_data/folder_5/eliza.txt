@@ -1,0 +1,36 @@
+[[File:GNU Emacs ELIZA example.png|thumb|325px|Example of ELIZA in [[GNU Emacs|Emacs]].]] 
+ '''ELIZA''' is an early [[natural language processing|program able to process natural language]]. ELIZA operated by processing users' responses to ''scripts''. The most famous script was called '''DOCTOR'''. It was a simulation of a [[Rogerian psychotherapy|Rogerian psychotherapist]]. Eliza didn't know much about thought or emotion. However, DOCTOR sometimes provided [[wikt:conversation|conversation]] like a [[human]]. ELIZA was written at [[MIT]] by [[Joseph Weizenbaum]] between 1964 and 1966. 
+ 
+ When the person used words that were not in the very small list, 
+ DOCTOR might say, for example, responding to  " My head hurts " ,  " Why do you say your head hurts? "  The response to  " My mother hates me "  might be  " Who else in your family hates you? "  ELIZA was programmed using simple [[pattern matching]] techniques, but was taken seriously by several of its users, even after Weizenbaum explained to them how it worked. It was one of the first [[chatterbot]]s in existence. 
+ 
+ ==Implementations== 
+ * Using [[Java (programming language)|Java]], and based very closely on Weizenbaum's published description of the program: [http://www.chayden.net/eliza/Eliza.html http://www.chayden.net/eliza/Eliza.html] 
+ * Using [[z80#The Z80 assembly language|z80 Assembly]] on the [[TI-83#TI-83 Plus|TI-83 Plus]]: [http://www.ticalc.org/archives/files/fileinfo/354/35463.html ticalc.org] 
+ * Trans-Tex Software has released shareware versions for Classic Mac OS and Mac OS X: [http://www.tex-edit.com/index.html#Eliza Trans-Tex Software] 
+ *  < code > doctor.el < /code >  (circa 1985) in [[Emacs lisp]]: [http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/classics/eliza/emacs/0.html http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/classics/eliza/emacs/0.html]. 
+ * Source code in [[Tcl]]: [http://wiki.tcl.tk/9235 http://wiki.tcl.tk/9235] 
+ * Source code in [[BASIC]]: http://www.atariarchives.org/bigcomputergames/showpage.php?page=22 
+ 
+ ==Related pages== 
+ * [[20Q]] 
+ * [[Artificial intelligence]] 
+ * [[Chatterbot]] 
+ * [[Loebner prize]] 
+ * [[Turing test]] 
+ 
+ == Notes == 
+ {{reflist}} 
+ 
+ ==References== 
+ * {{Citation | last = Weizenbaum | first = Joseph | authorlink = Joseph Weizenbaum | title = ELIZA & nbsp;— A Computer Program For the Study of Natural Language Communication Between Man And Machine | journal = [[Communications of the ACM]] | volume = 9| issue = 1 | date = January 1966 | pages = 36–45 | url= | doi = 10.1145/365153.365168 | s2cid = 1896290 }} 
+ * {{cite book|last=Weizenbaum|first=Joseph|authorlink=Joseph Weizenbaum|year=1976|title=[[Computer Power and Human Reason|Computer power and human reason: from judgment to calculation]]|isbn=0-7167-0463-3|publisher=[[W.H. Freeman|W. H. Freeman and Company]]}} 
+ * {{Citation | last = Whitby | first = Blay | authorlink = Blay Whitby | year = 1996 | contribution = The Turing Test: AI's Biggest Blind Alley? | title = Machines and Thought: The Legacy of Alan Turing | volume = 1 | publisher = [[Oxford University Press]] | pages = 53–62 | isbn = 0-19-823876-2 | url = http://www.cogs.susx.ac.uk/users/blayw/tt.html | accessdate = 2010-06-01 | archive-date = 2008-06-19 | archive-url = https://web.archive.org/web/20080619033628/http://www.cogs.susx.ac.uk/users/blayw/tt.html | url-status = dead }} 
+ 
+ == Other websites == 
+ * [http://www.stanford.edu/group/SHR/4-2/text/dialogues.html dialogues with colorful personalities of early AI] {{Webarchive|url=https://web.archive.org/web/20070711204557/http://www.stanford.edu/group/SHR/4-2/text/dialogues.html |date=2007-07-11 }}, a collection of dialogues between ELIZA and various conversants, such as a company vice president and [[PARRY]] (a simulation of a paranoid schizophrenic) 
+ * [http://www.ilmarefilm.org/W_E_1.htm Weizenbaum. Rebel at work] - Peter Haas, Silvia Holzinger, Documentary movie with Joseph Weizenbaum and ELIZA. 
+ * [http://questsin.net/Avatar.asp Questsin] - MSN Messenger implementation of ELIZA 
+ * [http://maedanaoki.moggy.jp/eng/countercounseling/index.html CounterCounseling] {{Webarchive|url=https://web.archive.org/web/20100117033512/http://maedanaoki.moggy.jp/eng/countercounseling/index.html |date=2010-01-17 }} - Source code in [[C (programming language)]], [[Microsoft Windows|Windows]] 
+ 
+ [[Category:Software]]

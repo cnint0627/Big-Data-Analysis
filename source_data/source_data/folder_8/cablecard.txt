@@ -1,0 +1,60 @@
+
+ [[File:Motorola_CableCARD.jpg|link=//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Motorola_CableCARD.jpg/220px-Motorola_CableCARD.jpg|thumb|A Motorola CableCARD ]] 
+ '''CableCARD''' is a special PC Card device. It allows consumers in the United States to view and record digital cable television channels on digital video recorders and  [[Personal computer|personal computers]].  
+ 
+ It is also done in television sets on equipment such as a [[set-top box]] not provided by a [[cable television]] company. The card is generally provided by the local cable operator, typically for a nominal monthly fee. 
+ 
+ A 2020 FCC decision removed the requirement for cable companies to provide CableCARDs. However they are still required to provide consumer access options via  " separable security " . < ref name= " :0 " > {{Cite web|last=September 2020|first=Gary Arlen 10|date=2020-09-10|title=FCC Abandons CableCARD, Navigation Devices Rule Review|url=https://www.nexttv.com/news/fcc-abandons-cablecard-navigation-devices-rule-review|access-date=2021-07-31|website=Multichannel News|language=en}} < /ref > 
+ 
+ == Technical overview == 
+ ''CableCARD'' is a term [[Trademark|trademarked]] by CableLabs for the Point of Deployment (POD) module defined by standards including SCTE 28, SCTE 41, CEA-679 and others. The physical CableCARD is inserted into a slot in the host (typically a [[digital television]] set or a set-top box) in order to identify and authorize the customer.  
+ 
+ It is also to provide decoding of the [[Encryption|encrypted]] digital cable signal without the need for a proprietary [[set-top box]]. The cable tuner, QAM demodulator, and [[Moving Picture Experts Group|MPEG]] decoder are part of the host equipment. . 
+ 
+ Interactive features such as video on demand depends on the CableCARD Host device being an OpenCable Host Device. They have nothing to do with the physical card. This makes the common use of the phrase  " CableCARD 2.0 "  as a requirement for video on demand misleading. < ref name= " opencable1 " / > 
+ 
+ === Physical CableCARDs === 
+ {{Multiple image 
+ | direction = vertical 
+ | image1 = Cable-card-cropped.jpg 
+ | caption1 = A [[Scientific Atlanta]] (now [[Cisco Systems|Cisco]]) multi-stream CableCARD or  " M-card " 
+ | image2 = Cable-card-cropped-rear.jpg 
+ | caption2 = The backside of the same card 
+ }} 
+ The physical CableCARD is a PC Card type II. It handles [[Encryption|decryption]] of video. It also ensures that only authorized subscribers may view it. This is also known as a  " conditional-access module "  function. 
+ 
+ No actual M-Cards were released before the introduction of CableCARD 2.0, which combined and enhanced the CableCARD 1.0 and Multi-Stream standards. < ref name= " opencable1 " > {{Cite web|title=CableCARD Primer|url=http://www.opencable.com/primer/cablecard_primer.html|access-date=2009-09-16|publisher=OpenCable|archive-date=2009-09-29|archive-url=https://web.archive.org/web/20090929090609/http://www.opencable.com/primer/cablecard_primer.html|url-status=dead}} < /ref > 
+ 
+ === CableCARDs with personal computers === 
+ Integrated cable set-top boxes perform four basic functions: 
+ 
+ * Enable receiving and selecting digital and analog cable channels 
+ * Uniquely identify the customer and authorize the features to which they have subscribed 
+ * Decode scrambled digital channels and premium programming such as movie channels 
+ * Provide interactive two-way communications for electronic program guides, [[pay-per-view]], video on demand, or switched video streams 
+ 
+ New [[Digital television|digital televisions]] and other devices that are labeled ''DCR'' (Digital cable ready) contain: 
+ 
+ * Built-in support for receiving digital cable channels (via an internal QAM tuner) 
+ * A slot for the current version of CableCARD, which allows decryption of encrypted digital channels 
+ 
+ 
+ == Adoption outside in US == 
+ CableCARDs were adopted outside the United States, only in South Korea, in pair with Nagravision and VideoGuard conditional access (CA) systems. < ref > {{Cite web|title=Products - CableCARD|url=http://www.smardtv.com/index.php/products/for-television-and-set-top-boxes/cablecard|archive-url=https://web.archive.org/web/20120424132857/http://www.smardtv.com/index.php/products/for-television-and-set-top-boxes/cablecard|archive-date=2012-04-24|access-date=2021-11-26|website=SmarDTV S.A. ([[Kudelski Group]])|language=en}} < /ref >  U.S. adoptions of CableCARD were mostly paired with [[Cisco Systems|Cisco's]] ''PowerKEY'' (originally developed by Scientific Atlanta) and [[Motorola]]'s (now Arris) ''MediaCipher'' CA systems. 
+ 
+ == References == 
+ {{Reflist|30em}} 
+ 
+ == Further reading == 
+ 
+ * {{cite web|date=2007-06-22|title=CableCARD 2.0 is ready|url=http://www.engadgethd.com/2007/06/22/cablecard-2-0-is-ready/|access-date=2007-07-06|publisher=engadgethd|archive-date=2007-07-01|archive-url=https://web.archive.org/web/20070701093726/http://www.engadgethd.com/2007/06/22/cablecard-2-0-is-ready/|url-status=dead}} 
+ * {{cite web|date=2007-06-18|title=CableCARD 2_0 What's the hold up & nbsp;— Engadget HD|url=http://www.engadgethd.com/2007/06/18/cablecard-2-0-whats-the-hold-up|access-date=2007-07-06|publisher=engadgethd|archive-date=2007-06-20|archive-url=https://web.archive.org/web/20070620201917/http://www.engadgethd.com/2007/06/18/cablecard-2-0-whats-the-hold-up/|url-status=dead}} 
+ * {{cite web|date=2007-06-15|title=There is no CableCARD 2.0|url=http://www.engadgethd.com/2007/06/15/there-is-no-cablecard-2-0/|access-date=2007-07-06|publisher=engadgethd|archive-date=2007-06-18|archive-url=https://web.archive.org/web/20070618000336/http://www.engadgethd.com/2007/06/15/there-is-no-cablecard-2-0/|url-status=dead}} 
+ * {{cite web|date=2005-01-20|title=FAQ: CableCARD? What's that?|url=http://news.cnet.com/FAQ+CableCARD+Whats+that/2100-1041_3-5542400.html|access-date=2006-06-08|publisher=CNET}} 
+ * {{cite news|last=Taub|first=Eric A.|date=2006-07-03|title=A CableCARD That Hasn't Been Able to Kill the Set-Top Box|work=The New York Times|url=https://www.nytimes.com/2006/07/03/technology/03cable.html|access-date=2006-07-03}} 
+ 
+ == Other websites == 
+ * {{Commons category-inline|CableCARD}} 
+ 
+ [[Category:Cable television]] 
+ [[Category:History of technology]]

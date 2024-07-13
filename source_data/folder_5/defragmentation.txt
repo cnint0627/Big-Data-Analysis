@@ -1,0 +1,13 @@
+{{Complex}}[[File:FragmentationDefragmentation.gif|thumb|Defragmentation happening]] 
+ '''Defragmentation''' is a process that happens with digital files. Files are usually stored in one part. When a disk drive fills up, finding an empty space that is large enough becomes more difficult. When this happens, the file is split into different parts, and each part is stored on a different place in the disk. That process is known as [[Fragmentation (computer)|fragmentation]]. Fragmentation happens because different parts of a file are not stored next to each other. When the file is read, the different parts must be assembled. Fragmented files are take longer to assemble. Files that are stored in one part can be read faster. Defragmentation reverses fragmentation and puts the file into one piece. 
+ 
+ == The process == 
+ '''Defragmentation''' is the process of rearranging the different parts, so that they are stored next to each other. This is usually done by copying them to a different place on the disk. Defragmentation is relevant to file systems on electromechanical disk drives. To read each part,  the head of the [[hard disk]] needs to reposition itself to the area where the part is stored. 
+ 
+ The problem of defragmentation is that it  is takes a long time and in some cases, the file system cannot be changed while it is in progress. For that reason, defragmentation should not be done, when it can be avoided. 
+ 
+ There are different kinds of files, some of them are modified more often. It is often a good practice to put them on different partitions, as most [[Unix-like|Unix-like operating systems]] do. Also, the design of hard drives has changed over time, which will make the effects of defragmentation less visible. 
+ 
+ Media that uses [[flash memory]], such as [[solid-state disk]]s, do not benefit from defragmentation, as there are no moving parts than need to be re-positioned. 
+ 
+ [[Category:Computing]]

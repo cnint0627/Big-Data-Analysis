@@ -1,0 +1,50 @@
+{{Taxobox 
+ | name = Cyanobacteria 
+ | fossil range = 3500 mya {{ndash}} Recent 
+ | image = 20100422_235222_Cyanobacteria.jpg 
+ | image_width = 250px 
+ | image_caption = ''Oscillatoria'' sp 
+ | domain = [[Bacteria]] 
+ | phylum = '''Cyanobacteria''' 
+ | subdivision_ranks = Orders 
+ | subdivision = 
+ The taxonomy is under revision < ref name= " Cyanophyceae cladistics " > {{cite journal|title=Cyanophyceae|url=http://www.accessscience.com/content/Cyanophyceae/175300|publisher=Access Science|doi=10.1036/1097-8542.175300 |accessdate=21 April 2011}} < /ref > < ref > 
+ {{cite journal 
+ |author=Ahoren Oren 
+ |year=2004 
+ |title=A proposal for further integration of the cyanobacteria under the Bacteriological Code 
+ |journal=Int. J. Syst. Evol. Microbiol. 
+ |volume=54 
+ |pages=1895–1902 
+ |doi=10.1099/ijs.0.03008-0 
+ |pmid=15388760 
+ |issue=Pt 5 
+ }} 
+ < /ref > 
+ *Unicellular forms: [[Chroococcales]] (suborders ''Chamaesiphonales'' and ''Pleurocapsales'') 
+ *Filamentous (colonial) forms: [[Nostocales]] (= Hormogonales or Oscillatoriales) 
+ *True-branching (budding over multiple axes): [[Stigonematales]]}} 
+ [[File:Cyanobacterium.svg|thumb|right|250px|Structure of a cyanobacterium]] 
+ [[File:Oxygenation-atm-2.svg|thumb|right|250px|O < sub > 2 < /sub >  build-up in the [[Earth's atmosphere]]. Red and green lines represent the range of the estimates while time is measured in [[billion]]s of years ago.]] 
+ [[File:CyanobacteriaInPool.jpg|thumb| " [[Algal bloom|Bloom]] "  of cyanobacteria, in a [[pond]]]] 
+ 
+ '''Cyanobacteria''' are a [[taxon]] of [[bacteria]] which conduct [[photosynthesis]]. They are not [[algae]], though they were once called '''blue-green algae'''. It is a [[phylum]] of [[bacteria]], with about 1500 [[species]]. In [[endosymbiont]] theory, [[chloroplasts]] (plastids) are descended from cyanobacteria. Their [[DNA]] profile is evidence for this. < ref > Sapp J. 1994. ''Evolution by association: a history of symbiosis''. Oxford. < /ref > < ref > Giovannoni S.J. ''et al'' 1988. Evolutionary relationships among cyanobacteria and green chloroplasts. ''J Bacteriol.'' '''170''': 3584–3592. < /ref > < ref > Gupta, Radhey S. ''et al'' 2003. Molecular signatures in protein sequences that are characteristic of cyanobacteria and plastidhomologues. ''International Journal of Systematic and Evolutionary Microbiology''. '''53''', 1833-1842. [http://ijs.sgmjournals.org/cgi/reprint/53/6/1833.pdf Gupta, R]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ Cyanobacteria have an extremely long [[fossil]] record, starting  at least 3,500 million years ago. They were the main organisms in the [[stromatolite]]s of the [[Archaean]] and [[Proterozoic]] [[eon]]s. < ref > Knoll, Andrew H. 2004. ''Life on a young planet: the first three billion years of evolution on Earth''. Princeton, N.J. {{ISBN|0-691-12029-3}} < /ref > 
+ 
+ The ability of cyanobacteria to perform oxygenic [[photosynthesis]] is highly significant. The early [[Earth's atmosphere|atmosphere on Earth]] was largely [[reducing agent|reducing]], that is, without [[oxygen]]. The cyanobacteria in stromatolites were the first known organisms to photosynthesise and produce free [[oxygen]]. After about a [[billion]] years, the effect of this photosynthesis began a huge change in the atmosphere. The process, called the [[Great Oxygenation Event]], took a long time. Eventually, it killed off most of the organisms which could not live in oxygen, and led to the kinds of environment we know today, where most organisms use and need oxygen. < ref > Frei R. ''et al'' 2009. Fluctuations in Precambrian atmospheric oxygenation recorded by chromium isotopes. ''Nature'' '''461''' (7261): 250–253. Abstract: [http://adsabs.harvard.edu/abs/2009Natur.461..250F] < /ref > < ref > Holland, Heinrich D. 2006. The oxygenation of the atmosphere and oceans. ''Phil. Trans. R. Soc.'' B, '''361''', p. 903–915. [http://rstb.royalsocietypublishing.org/content/361/1470/903.full.pdf] < /ref > 
+ 
+ == Light detection == 
+ Cyanobacteria have a way of detecting light. Conrad Mullineaux, of Queen Mary University of London, said,  " It has a way of detecting where the light is; we know that because of the direction that it moves " . < ref name=BBC > Webb, Jonathan 2016. Bacteria 'see' like tiny eyeballs. ''BBC News''  Science  &  Environment. [https://www.bbc.co.uk/news/science-environment-35502310] < /ref > 
+ : " In a single-celled [[pond]] [[slime]], they observed how incoming rays are bent by the bug's [[spherical]] surface and focused in a spot on the far side of the cell. By shuffling along in the opposite direction to that bright spot, the microbe moves towards the light " . < ref name=BBC/ > 
+ 
+ ==Related pages== 
+ * [[Ice algae]] 
+ 
+ == References == 
+ {{Reflist}} 
+ {{Plankton}} 
+ 
+ [[Category:Gram-negative bacteria]] 
+ [[Category:Cell biology]] 
+ [[Category:Photosynthesis]]

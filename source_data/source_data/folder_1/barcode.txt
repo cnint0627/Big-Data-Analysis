@@ -1,0 +1,56 @@
+[[File:UPC A.svg|thumb|A UPC-A barcode symbol]] 
+ 
+ A '''barcode''' is a way of storing numbers printed in a way that a computer can easily read. The first barcodes stored the numbers using lines (bars). 
+ 
+ [[File:Wikipedia barcode 128.svg|thumb|300px|right|The word ''Wikipedia'' represented in a barcode]] 
+ The first use of barcodes was to label railroad [[rolling stock]]. They became a big success when they were used in supermarket checkout systems. The first product that used a barcode was a pack of Wrigley's Juicy Fruit Gum sold on June 26, 1974. < ref > {{cite news|title=Alan Haberman|newspaper=The New York Times|date=16 June 2011|url=https://www.nytimes.com/2011/06/16/business/16haberman.html|access-date=2013-02-10|last1=Fox|first1=Margalit}} < /ref >  It was invented by [[IBM]] engineer [[George J. Laurer]]. Barcodes are now used for many purposes. 
+ 
+ == History == 
+ [[Norman Joseph Woodland]] and  [[Bernard Silver]] developed the modern barcode, and were granted a [[patent]] for it in 1952.  The idea was to make the checkout of articles easier, using a code which was inspired by [[Morse code]].  In 1959, David Collins developed a system for tracking railroad carriages which used barcodes.  This system was unreliable, because of dirt on the barcodes.  In the 1970s, the system was abandoned, but in the 1980s, a similar system which used [[RFID|radio tags]] was introduced. < ref > {{cite journal |last=Graham-White|first=Sean |date=August 1999|title=Do You Know Where Your Boxcar Is?|url=https://archive.org/details/sim_trains_1999-08_59_8/page/48|journal=Trains |volume=59 |issue=8 |pages=48–53 |publisher=Kalmbach Publishing }} < /ref > 
+ 
+ ==Design== 
+ 
+ There are different barcode types, which use different designs: 
+ * The first designs used the width and spacing of lines; these types are known as one-dimensional barcodes. Examples are the [[European Article Number]] or the [[Universal Product Code]]. 
+ * Some designs use two dimensional codes. In these codes, dots that are either white or black are used. Such codes can store more information than one-dimensional codes. Examples are the [[SQR codes|Secure Quick Response Code]], [[Aztec Code]], [[BeeTagg]] or [[RMS4CC]]. 
+ The standard barcode uses changes in lines and spaces to store numbers in a [[code]] that computers can read.  The lines are read by a scanner and changed into numbers. It is designed that it can be read forwards or backwards, so the user does not have to be careful how a product is put in front of the reader.  A [[laser]] line can be used to scan (read) the changes.  The laser scanners are also called barcode readers.  Since this laser line scans in one direction (left or right), this is called a 1D barcode. 
+ 
+ Newer 2D systems use symbols other than bars and can hold more information, but they are also called barcodes. They need to be scanned left or right, and up or down (two directions). QR codes were invented in 1994 to use in factories to track parts and products. People use them for many purposes in the 21st century. Special software can read QR from an image. [[Smartphones]] can have an app to show and read them. This is becoming increasingly popular as more apps are able to use such features to help the user obtain access to websites and special resources, such as being used in 'digital cities', such as [[Bordeaux]]. < ref > {{cite news|url=http://news.bbc.co.uk/1/hi/programmes/click_online/9459014.stm|work=Click|title=Bordeaux's digital drive to get citizens online|date=15 April 2011|publisher=BBC News}} < /ref >  Many kinds of [[Ticket (admission)|tickets]], including those for transport, have a QR code. 
+ 
+ ==Uses== 
+ 
+ Barcodes — especially the Universal Product Code, UPC — have slowly become an important part of modern life. They are used in many places, and the technology is constantly improving. Some modern uses of barcodes are: 
+ *Almost everything bought in a store has a [[Stock-Keeping Unit]] using a UPC barcode. This greatly helps in keeping track of a large number of items in a store. 
+ *They are used to identify patients in a hospital, helping doctors and nurses track patients and their medical history. 
+ *The tracking of things that move, including rental cars, airline luggage, railroad cars, nuclear waste, and mail. 
+ *Since 2005, airlines have used a 2D barcode on boarding passes. 
+ *Entertainment tickets can have barcodes to enter sports arenas, cinemas, theatres, fairgrounds, etc. 
+ 
+ ==Benefits== 
+ 
+ In sales, the use of barcodes can provide up-to-date information to help the business. For example: 
+ *Things that are sold can be ordered before the store runs out of them. 
+ *Changes in price can be updated one time in the computer, so the cashier doesn't need to look it up or remember what's on sale. 
+ *Products can be tracked over time, to predict seasonal changes in demand. 
+ *When used on a company card used by shoppers, the company can track the buying patterns of shoppers. 
+ *barcodes can also be used to store data from machines  
+ 
+ ===Example images=== 
+ 
+ < gallery caption= " Barcode Samples " > 
+ File:UPC-A-036000291452.png|GTIN-12 number encoded in UPC-A barcode symbol 
+ File:EAN-13-5901234123457.svg|EAN-13 (GTIN-13) number encoded in EAN-13 barcode symbol 
+ File:Code93.png| " Wikipedia "  encoded 
+ File:Wikipedia barcode 128.svg| " Wikipedia "  encoded 
+ File:Lorem Ipsum.png|[[Lorem ipsum]] boilerplate text as four segment [[Data matrix]] 
+ File:Azteccodeexample.svg| " This is an example Aztec symbol for Wikipedia "  encoded in Aztec code [[data matrix]] 
+ File:WikiQRCode.svg|The QR Code for the Wikipedia URL.  " Quick Response " 
+ File:Shotcode.png|ShotCode sample 
+ File:Sardinendose_K_Barcode_Art_valid_IMG11829.jpg|The fish on this can of fish contains a valid barcode 
+ < /gallery > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Data input]] 
+ [[Category:Barcodes| ]]

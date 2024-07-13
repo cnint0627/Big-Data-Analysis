@@ -1,0 +1,38 @@
+{{otheruses}} 
+ 
+ In [[arithmetic]], the result of the [[Operation (mathematics)#Division|division]] of two [[integer]]s usually cannot be expressed with an integer [[quotient]], unless a '''remainder—'''an amount  " left over "  after the division—is also accepted. 
+ 
+ == The remainder for natural numbers == 
+ Given a [[natural number]]  < math > a < /math >  and a non-zero natural number  < math > d < /math > , it can be shown that there exist unique integers  < math > q < /math >  and  < math > r < /math > , such that  < math > a=qd+r < /math >  and  < math > 0\leq r < d < /math > . The number  < math > q < /math >  is called the ''quotient'', while  < math > r < /math >  is called the ''remainder''. < ref > {{Cite web|last=|first=|date=2019-02-24|title=The Definitive Higher Math Guide to Long Division and Its Variants — for Integers|url=https://mathvault.ca/long-division/#Euclidean_Division_%E2%80%94_Terminology|archive-url=|archive-date=|access-date=2020-08-27|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=The quotient remainder theorem (article) {{!}} Khan Academy|url=https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-quotient-remainder-theorem|access-date=2020-08-27|website=Khan Academy|language=en}} < /ref > 
+ 
+ ==The case of general integers == 
+ If  < math > a < /math >  and  < math > d < /math >  are integers with  < math > d < /math >  being non-zero, then a remainder is an integer  < math > r < /math >  such that  < math > a=qd+r < /math >  for some integer  < math > q < /math > , and with  < math > 0\leq|r| < |d| < /math > . 
+ 
+ When defined this way, there are two possible remainders. For example, the division of -42 by -5 can be expressed as either 
+ 
+ : < math > -42=9\times-5+3 < /math > 
+ 
+ or 
+ 
+ : < math > -42=8\times-5+-2 < /math > . 
+ 
+ So the remainder is then either 3 or -2. 
+ 
+ This ambiguity in the value of the remainder is not very serious; in the case above, the negative remainder is obtained from the positive one just by subtracting 5, which is  < math > d < /math > . This holds in general. When dividing by  < math > d < /math > , if the positive remainder is  < math > r_1 < /math > , and the negative one is  < math > r_2 < /math > , then 
+ 
+ : < math > r_1=r_2+d < /math > . 
+ 
+ == The remainder for real numbers== 
+ When  < math > a < /math >  and  < math > d < /math >  are [[real number]]s, with  < math > d < /math >  being non-zero, then  < math > a < /math >  can be divided by  < math > d < /math >  without remainder, with the quotient being another real number. If the quotient is constrained to being an integer, however, the concept of remainder is still necessary. It can be proven that there exists a unique integer quotient  < math > q < /math >  and a unique real remainder  < math > r < /math >  such that  < math > a=qd+r < /math >  with  < math > 0\leq r < |d| < /math > . Similar to the case of division of integers, the remainder could be required to be negative, that is,   < math > -|d| < r\leq0 < /math > .  
+ 
+ Extending the definition of remainder for real numbers, as described above, is not of theoretical importance in mathematics; however, many [[programming language]]s implement this definition—see [[Operation (mathematics)#Modulation|modulation]] for more. 
+ 
+ ==Related pages== 
+ *[[Divisor]], a number which evenly divides another 
+ *[[Long division]] 
+ *[[Modular arithmetic]] 
+ *[[Operation (mathematics)#Modulation|Modulation]] 
+ 
+ == References == 
+ < references / > 
+ [[Category:Arithmetics]]

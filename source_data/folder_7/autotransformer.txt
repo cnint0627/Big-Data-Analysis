@@ -1,0 +1,21 @@
+[[File:Tapped autotransformer.svg|thumb|{{center|[[Schematic]] of an autotransformer}}]] 
+ [[File:Variable Transformer 01.jpg|thumb|{{center| A variable autotransformer}}]] 
+ An '''Autotransformer''' (sometimes called '''''autostep down transformer''''') < ref > Paul Horowitz and Winfield Hill, ''The Art of Electronics Second Edition'', Cambridge University Press, Cambridge MA, 1989, {{ISBN|0-521-37095-7}}, page 58 < /ref >  is a [[transformer]] which has only one [[Electromagnetic coil|winding]]. The  " [[wiktionary:auto-|auto]] "  ([[Greek language|Greek]] for  " self " ) prefix refers to the single [[Electromagnetic coil|coil]] acting on itself and not to any kind of [[Automation|automatic mechanism]]. The winding acts as both primary winding and secondary winding in a normal transformer. Since part of the winding does  " double duty " , autotransformers have the advantages of often being smaller, lighter, < ref > John Winders, ''Power Transformers: Principles and Applications'' (New York; Basel: Marcel Dekker, Inc., 2002), p. 132 < /ref >  and cheaper than typical dual-winding transformers. The disadvantage of an autotransformer include not providing [[Galvanic isolation|electrical isolation]] between the [[Transformer|primary winding]] and the [[Transformer|secondary winding]]. < ref name=Ghosh101 > Smarajit Ghosh, ''Electrical Machines'', Second Edition (Delhi: Pearson, 2012), p. 101 < /ref >  There is also a higher possibility of [[short circuit]]s due to low [[Electrical impedance|impedance]]. < ref name=Ghosh101/ > 
+ 
+ ==Usage== 
+ Autotransformers are used in [[power transmission]], [[Electric power distribution|power distribution]], [[Sound recording|audio]], [[rail transport]], [[etc.]] Autotransformers are often used to step up (increase) or step down (decrease) [[voltage]]s in the 110–120 [[V]] range and in the 220–240 V range. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{commons}} 
+ * [http://ecmweb.com/content/basics-autotransformers The Basics of Autotransformers] 
+ * [https://www.gstransformers.com/technical/difference-between-isolation-transformers-and-autotransformers.html Difference between Isolation Transformers and Autotransformers] 
+ < br > 
+ 
+ 
+ {{science-stub}} 
+ 
+ [[Category:Electricity]] 
+ [[Category:Electrical wiring]]

@@ -1,0 +1,9 @@
+In [[algebra]], '''Binomials''' are [[polynomials]] that contains two terms that are [[Monomial|monomials]] being either added or subtracted together. 
+ 
+ == Notable binomials == 
+ 
+ * The '''[[difference of two squares]]''' is a binomial that contains a [[Square (algebra)|squared]] [[variable]] that is being subtracted by another squared variableː  < math > x^2-y^2 < /math > . This binomial is also the product of two [[Linear function|linear]] binomials  < math > a+b < /math >  and  < math > a-b < /math > . 
+ {{Polynomials}}{{Math-stub}} 
+ [[Category:Mathematics]] 
+ 
+ [[Category:Algebra]]

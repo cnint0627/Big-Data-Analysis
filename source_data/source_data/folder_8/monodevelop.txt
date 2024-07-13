@@ -1,0 +1,13 @@
+'''MonoDevelop''' is an '''[[Integrated Development Environment]]''' (IDE) developed by [[Unity (game engine)|Unity]] technologies for '''[[C Sharp (programming language)|c# programming]].''' 
+ {{Infobox programming language 
+ |title=MonoDevelop 
+ |designer=[[Unity technologies]] 
+ |developer=[[Unity technologies]] 
+ |platform=pc 
+ |file_ext=.exe 
+ }} 
+ 
+ [[Category:Free software]] 
+ [[Category:GNOME]] 
+ [[Category:IDEs]] 
+ [[Category:Microsoft Windows software]]

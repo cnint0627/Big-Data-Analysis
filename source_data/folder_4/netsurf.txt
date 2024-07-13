@@ -1,0 +1,7 @@
+[[File:NetSurf 3.11-dev CI Windows frontend.png|thumb|Netsurf screenshot on windows 11]] 
+ '''Netsurf''' is [[Web browser|browser]] which uses homemade [[browser engine]]. The browser's goal is to be fast and small. The browser was created in [[2002]] for [[Risc os|RISK OS]] because the OS's browsers were unable to load some web pages. < ref > {{cite web|date=April 2002|title=Web browsers|url=http://www.iconbar.com/forums/viewthread.php?threadid=374|access-date=2001-02-15|publisher=The Icon Bar forums}} < /ref >  Later they added [[Macos]], and [[Linux]] support to the browser along with [[Amiga]] support. < ref > {{Cite web|title=redox-os / netsurf|url=https://gitlab.redox-os.org/redox-os/netsurf|access-date=2021-08-15|website=GitLab|language=en}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Web browsers]]

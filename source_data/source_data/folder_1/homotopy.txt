@@ -1,0 +1,11 @@
+{{Orphan|date=May 2009}} 
+ 
+ [[File:Mug and Torus morph.gif|thumb|right|250px|A homotopy of a coffee cup into a donut ([[torus]]).]] 
+ '''Homotopies''' are studied in a branch of [[mathematics]] known as [[Algebraic Topology]]. A homotopy is a [[wikt:deformation|deformation]] (change of [[form]]) of one thing into another without [[cutting]] it. For example, if we imagine a stretchy object, then all the shapes we can stretch or twist it into are  " [[Homotopy equivalence|homotopy equivalent]] " . One famous example is the homotopy equivalence of a [[coffee cup]] and a [[donut]]. To a [[topologist]], these two shapes are the same. 
+ [[File:Homotopy.gif|thumb|Homotopy between two functions in the plane.]] 
+ The first example of a homotopy that a topology student is introduced to is a homotopy between functions. A homotopy between two functions  < nowiki > ''f'' and ''g''  provides a collection of functions that start at ''f'' and eventually become ''g''. What this means is that this homotopy takes a parameter and gives a function, and there is a possible parameter that gives ''f'' and one that gives ''g'' < /nowiki > . Typically, we choose the [[Interval (mathematics)|interval]]  < nowiki > '' < /nowiki > [0, 1] < nowiki > '' < /nowiki >  because this has a starting and ending point, and numbers are allowed to vary smoothly within  < nowiki > '' < /nowiki > [0, 1] < nowiki > '' < /nowiki > . To output a function, this means that the homotopy takes a second parameter, which is the argument of the output function. That is, if  < nowiki > '' < /nowiki > f < nowiki > '' < /nowiki >  takes a number in the interval and outputs pairs of real numbers, the homotopy takes a number in the interval as the parameter and another number in the interval for  < nowiki > '' < /nowiki > f < nowiki > '' < /nowiki > . The homotopy then outputs the interpolated function evaluated at the given pair. That is, if  < nowiki > '' < /nowiki > H < nowiki > '' < /nowiki >  is a homotopy from  < nowiki > '' < /nowiki > f < nowiki > '' < /nowiki >  to  < nowiki > '' < /nowiki > g < nowiki > '' < /nowiki > , then we know  < math > H: [0,1]\times [0, 1]\to\mathbb{R}^2 < /math > where  < math > H(p, 0)=f(p) < /math > and  < math > H(p, 1)=g(p) < /math > .  
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Topology]]

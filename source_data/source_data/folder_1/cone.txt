@@ -1,0 +1,20 @@
+[[File:Cone (geometry).svg|thumb|upright|A cone, marked with its height (h) and [[radius]] (r)]] 
+ In common speaking and [[geometry]], a '''cone''' is a solid object that one gets when one rotates a [[right triangle]] around one of its two short sides, the cone's [[Axis (mathematics)|axis]]. The disk made by the other short side is called the [[base (geometry)|base]], and the point of the axis which is not on the base is the cone's ''apex'' or ''vertex''. An object that is shaped like a cone is ''conical''. 
+ 
+ In more technical terms, a cone is formed by a set of line segments, half-lines, or lines connecting a common point, the apex, to all of the points on a base that is in a plane that does not contain the apex. Depending on the author, the base may be restricted to be a circle, any one-dimensional quadratic form in the plane, any closed one-dimensional figure, or any of the above plus all the enclosed points. If the enclosed points are included in the base, the cone is a solid object; otherwise it is a two-dimensional object in three-dimensional space. In the case of a solid object, the boundary formed by these lines or partial lines is called the lateral surface; if the lateral surface is unbounded, it is a conical surface. 
+ 
+ In the case of line segments, the cone does not extend beyond the base, while in the case of half-lines, it extends infinitely far. In the case of lines, the cone extends infinitely far in both directions from the apex, in which case it is sometimes called a double cone. Either half of a double cone on one side of the apex is called a nappe.  The [[volume]]  < math > < /math >  of a cone is one third of the product of the area of the base  < math > A_B < /math >  and the height  < math > h < /math > < ref name= " :0 " > {{Cite book|url=https://books.google.com/books?id=EN_KAgAAQBAJ|title=Elementary Geometry for College Students|last1=Alexander|first1=Daniel C.|last2=Koeberlein|first2=Geralyn M.|date=2014-01-01|publisher=Cengage Learning|isbn=9781285965901|language=en}} < /ref > 
+ :  < math > V = \frac{1}{3}A_B h. < /math > 
+ 
+ ==Related pages== 
+ *[[Conic section]] 
+ *[[Cylinder]] 
+ 
+ ==References== 
+ {{Commons category|Cones|cones}} 
+ {{reflist}} 
+ 
+ {{shapes}} 
+ {{Math-stub}} 
+ 
+ [[Category:Three-dimensional shapes]]

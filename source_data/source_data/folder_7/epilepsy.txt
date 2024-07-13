@@ -1,0 +1,87 @@
+{{Infobox medical condition (new) 
+ | name            = Epilepsy 
+ | synonyms        = Seizure disorder 
+ | image           = Spike-waves.png 
+ | alt             = The electroencephalogram recording of a person with childhood absence epilepsy showing a seizure. The waves are black on a white background. 
+ | caption         = Generalized 3 & nbsp;Hz [[spike-and-wave]] discharges on an [[electroencephalogram]] 
+ | field           = [[Neurology]] 
+ | symptoms        = Periods of vigorous shaking, nearly undetectable spells < ref name= " WHO2016 " > {{cite web|title=Epilepsy Fact sheet|url=https://www.who.int/mediacentre/factsheets/fs999/en/|website=WHO|access-date=4 March 2016|date=February 2016|url-status=live|archive-url=https://web.archive.org/web/20160311001129/http://www.who.int/mediacentre/factsheets/fs999/en/|archive-date=11 March 2016}} < /ref > 
+ | complications   = 
+ | onset           = 
+ | duration        = Long term < ref name= " WHO2016 " / > 
+ | causes          = Unknown, [[brain injury]], [[stroke]], [[brain tumor]]s, infections of the brain, [[birth defect]]s < ref name= " WHO2016 " / > < ref name= " Ham2010 " > {{cite book| last1 = McPhee| first1 = Stephen J.| last2 = Hammer| first2 = Gary D.| editor1-last = Hammer| editor1-first = Gary D.| editor2-last = McPhee| editor2-first = Stephen J.| title = Pathophysiology of disease : an introduction to clinical medicine| edition = 6th| year = 2010| publisher = McGraw-Hill Medical| location = New York| isbn = 978-0-07-162167-0| chapter = 7| name-list-style = vanc }} < /ref > < ref name= " Gol2013 " > {{cite journal | vauthors = Goldberg EM, Coulter DA | title = Mechanisms of epileptogenesis: a convergence on neural circuit dysfunction | journal = Nature Reviews. Neuroscience | volume = 14 | issue = 5 | pages = 337–49 | date = May 2013 | pmid = 23595016 | pmc = 3982383 | doi = 10.1038/nrn3482 }} < /ref > 
+ | risks           = 
+ | diagnosis       = Electroencephalogram, ruling out other possible causes < ref name= " Longo2012 " > {{cite book| last1 = Longo| first1 = Dan L| last2 = Fauci| first2 = Anthony S.| last3 = Harrison| first3 = Tinsley Randolph| last4 = Kasper| first4 = Dennis L.| last5 = Hauser| first5 = Stephen L.| last6 = Jameson| first6 = J. Larry| last7 = Loscalzo| first7 = Joseph| title = Harrison's principles of internal medicine| edition = 18th| year = 2012| publisher = McGraw-Hill| isbn = 978-0-07-174887-2| page = 3258| chapter = 369 Seizures and Epilepsy| name-list-style = vanc }} < /ref > 
+ | differential    = [[Syncope (medicine)|Fainting]], [[alcohol withdrawal]], [[electrolyte problems]] < ref name= " Longo2012 " / > 
+ | prevention      = 
+ | treatment       = Medication, [[surgery]], [[neurostimulation]], dietary changes < ref name= " Bergey2013 " > {{cite journal | vauthors = Bergey GK | title = Neurostimulation in the treatment of epilepsy | journal = Experimental Neurology | volume = 244 | pages = 87–95 | date = June 2013 | pmid = 23583414 | doi = 10.1016/j.expneurol.2013.04.004 | s2cid = 45244964 }} < /ref > < ref name= " Mar2018 " > {{cite journal|last1=Martin-McGill|first1=Kirsty J.|last2=Jackson|first2=Cerian F.|last3=Bresnahan|first3=Rebecca|last4=Levy|first4=Robert G.|last5=Cooper|first5=Paul N.|date=7 November 2018|title=Ketogenic diets for drug-resistant epilepsy|journal=The Cochrane Database of Systematic Reviews|volume=11|issue=11 |pages=CD001903|doi=10.1002/14651858.CD001903.pub4|issn=1469-493X|pmc=6517043|pmid=30403286}} < /ref > 
+ | medication      = 
+ | prognosis       = Controllable in 69% < ref name= " Ead2012 " > {{cite journal | vauthors = Eadie MJ | title = Shortcomings in the current treatment of epilepsy | journal = Expert Review of Neurotherapeutics | volume = 12 | issue = 12 | pages = 1419–27 | date = December 2012 | pmid = 23237349 | doi = 10.1586/ern.12.129 | s2cid = 207221378 }} < /ref > 
+ | frequency       = 39 million / 0.5% (2015) < ref name= " GBD2015 " > {{cite journal|last1=Vos|first1=Theo|last2=Allen|first2=Christine|last3=Arora|first3=Megha|last4=Barber|first4=Ryan M.|last5=Bhutta|first5=Zulfiqar A.|last6=Brown|first6=Alexandria|last7=Carter|first7=Austin|last8=Casey|first8=Daniel C.|last9=Charlson|first9=Fiona J.|last10=Chen|first10=Alan Z.|last11=Coggeshall|first11=Megan|display-authors=29|date=October 2016|title=Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015|journal=Lancet|volume=388|issue=10053|pages=1545–1602|doi=10.1016/S0140-6736(16)31678-6|pmc=5055577|pmid=27733282|last26=Hay|last23=Goldberg|first23=Ellen M.|last24=Graetz|first24=Nicholas|last25=Haagsma|first25=Juanita A.|last28=Kassebaum|first26=Simon I.|last27=Johnson|first27=Catherine O.|last22=Gething|first28=Nicholas J.|last29=Kawashima|first29=Toana|last30=Kemmer|first30=Laura|first22=Peter W.|last20=Forouzanfar|first21=Nancy|last16=Erskine|last12=Cornaby|first12=Leslie|last13=Dandona|first13=Lalit|first14=Daniel J.|last15=Dilegge|first15=Tina|first16=Holly E.|last21=Fullman|last17=Ferrari|first17=Alize J.|last18=Fitzmaurice|first18=Christina|last19=Fleming|first19=Tom|first20=Mohammad H.|last14=Dicker}} < /ref > 
+ | deaths          = 125,000 (2015) < ref name= " GBD2015De " > {{cite journal | title = Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015 | journal = Lancet | volume = 388 | issue = 10053 | pages = 1459–1544 | date = October 2016 | pmid = 27733281 | pmc = 5388903 | doi = 10.1016/s0140-6736(16)31012-1 | last1 = Wang | first1 = Haidong | last2 = Naghavi | first2 = Mohsen | last3 = Allen | first3 = Christine | last4 = Barber | first4 = Ryan M. | last5 = Bhutta | first5 = Zulfiqar A. | last6 = Carter | first6 = Austin | last7 = Casey | first7 = Daniel C. | last8 = Charlson | first8 = Fiona J. | last9 = Chen | first9 = Alan Zian | last10 = Coates | first10 = Matthew M. | last11 = Coggeshall | first11 = Megan | last12 = Dandona | first12 = Lalit | last13 = Dicker | first13 = Daniel J. | last14 = Erskine | first14 = Holly E. | last15 = Ferrari | first15 = Alize J. | last16 = Fitzmaurice | first16 = Christina | last17 = Foreman | first17 = Kyle | last18 = Forouzanfar | first18 = Mohammad H. | last19 = Fraser | first19 = Maya S. | last20 = Fullman | first20 = Nancy | last21 = Gething | first21 = Peter W. | last22 = Goldberg | first22 = Ellen M. | last23 = Graetz | first23 = Nicholas | last24 = Haagsma | first24 = Juanita A. | last25 = Hay | first25 = Simon I. | last26 = Huynh | first26 = Chantal | last27 = Johnson | first27 = Catherine O. | last28 = Kassebaum | first28 = Nicholas J. | last29 = Kinfu | first29 = Yohannes | last30 = Kulikoff | first30 = Xie Rachel | display-authors = 29 }} < /ref > 
+ }} 
+ [[File:Epilpesia.ogv|thumb|A video of a seizure]] 
+ [[File:Bittentongue.JPG|thumb|Someone who has bitten the tip of their tongue while having a seizure]] 
+ '''Epilepsy''' is a [[chronic]] [[condition]] of the [[neurology|brain]]. It is characterized by [[seizure]]s that do not seem to have an obvious cause. < ref name= " PMID8330566 " > {{cite journal| author = Commission on Epidemiology and Prognosis, International League Against Epilepsy| title = Guidelines for epidemiologic studies on epilepsy. Commission on Epidemiology and Prognosis, International League Against Epilepsy| journal = Epilepsia| volume = 34| issue = 4| pages = 592–6| year = 1993| pmid = 8330566| url = http://doi.org/10.1111/j.1528-1157.1993.tb00433.x | doi = 10.1111/j.1528-1157.1993.tb00433.x| s2cid = 3264819}} < /ref > < ref name= " PMID11580774 " > {{cite journal| author = Blume W, Lüders H, Mizrahi E, Tassinari C, van Emde Boas W, Engel J| title = Glossary of descriptive terminology for ictal semiology: report of the ILAE task force on classification and terminology| journal = Epilepsia| volume = 42| issue = 9| pages = 1212–8| year = 2001| pmid = 11580774| url = http://doi.org/10.1046/j.1528-1157.2001.22001.x | doi = 10.1046/j.1528-1157.2001.22001.x| s2cid = 10894926}} < /ref >  To the outside viewer, these seizures show as  episodes of heavy shaking. < ref name= " WHO2012 " > {{cite web | url=http://www.who.int/mediacentre/factsheets/fs999/en/ | title = Epilepsy | series = Fact Sheets |date =October 2012 | accessdate = January 24, 2013 | publisher = [[World Health Organization]]}} < /ref >  Depending on the seizure, the shaking may be short and difficult to detect or it may be longer. 
+ 
+ People with epilepsy are sometimes called ''epileptic'', but it is the fit or seizure that is  " epileptic " . 
+ 
+ Many people have died from seizures. 
+ 
+ == Different forms == 
+ There are many different forms of seizures, and there are also many different forms of epilepsy. Most forms of epilepsy cannot be cured. In most cases, [[drug]]s can make life easier for those suffering from it. In very few  cases, (which are difficult to treat), [[surgery]] may help. In some cases, only eating special things (called a [[diet]]) may help. A special diet has been developed; it is called [[Ketogenic diet]]. When it was developed, it was mainly used to treat certain children with epilepsy, before good drugs became available. Today, it is used to treat certain cases where drugs do not seem to help. 
+ 
+ Certain forms of the disease disappear after a time, they do for example only occur in childhood. Epilepsy is not ''one'' condition. Rather, it  stands for a number of health problems that all show in the same ways. 
+ 
+ == Occurrence == 
+ The condition is very [[:wikt:common|common]]; about one percent of people worldwide (65 & nbsp;million) have epilepsy. < ref name= " Thur2011 " > {{cite journal|title=Standards for epidemiologic studies and surveillance of epilepsy.|journal=Epilepsia|date=September 2011|volume=52 Suppl 7|pages=2–26|pmid=21899536|doi=10.1111/j.1528-1167.2011.03121.x|s2cid=8505004|last1=Thurman|first1=David J.|last2=Beghi|first2=Ettore|last3=Begley|first3=Charles E.|last4=Berg|first4=Anne T.|last5=Buchhalter|first5=Jeffrey R.|last6=Ding|first6=Ding|last7=Hesdorffer|first7=Dale C.|last8=Hauser|first8=W. Allen|last9=Kazis|first9=Lewis|last10=Kobau|first10=Rosemarie|last11=Kroner|first11=Barbara|last12=Labiner|first12=David|last13=Liow|first13=Kore|last14=Logroscino|first14=Giancarlo|last15=Medina|first15=Marco T.|last16=Newton|first16=Charles R.|last17=Parko|first17=Karen|last18=Paschal|first18=Angelia|last19=Preux|first19=Pierre-Marie|last20=Sander|first20=Josemir W.|last21=Selassie|first21=Anbesaw|last22=Theodore|first22=William|last23=Tomson|first23=Torbjörn|last24=Wiebe|first24=Samuel|author25=ILAE Commission on Epidemiology}} < /ref >  Nearly eighty percent of all cases occur in [[developing country|developing countries]]. < ref name= " WHO2012 "  / >  Epilepsy becomes more common as people age. < ref > {{cite journal|title=Epilepsy in later life|journal=Lancet Neurology|date=November 2009|volume=8|issue=11|pages=1019–30|pmid=19800848|doi=10.1016/S1474-4422(09)70240-6|s2cid=14318073|last1=Brodie|first1=Martin J.|last2=Elder|first2=Andrew T.|last3=Kwan|first3=Patrick}} < /ref > < ref name= " Holmes2008 " > {{cite book| last1 = Browne| first1 = Thomas R.| last2 = Holmes| first2 = Gregory L.| title = Handbook of epilepsy| url = https://books.google.com/books?id=gLOv8XZ5u48C & pg=PA7| edition = 4th| year = 2008| publisher = Lippincott Williams  &  Wilkins| location = Philadelphia| isbn = 978-0-7817-7397-3| page = 7 }} < /ref >  In the developed world, [[wikt:onset|onset]] of new cases occurs most frequently in [[infant]]s and the elderly. < ref > {{cite book| last1 = Wyllie| first1 = Elaine| last2 = Cascino| first2 = Gregory D.| last3 = Gidal| first3 = Barry E.| title = Wyllie's treatment of epilepsy : principles and practice| url = https://books.google.com/books?id=mxE2FYWoY0wC & pg=PA291| edition = 5th| year = 2010| publisher = Wolters Kluwer/Lippincott Williams  &  Wilkins| location = Philadelphia| isbn = 978-1-58255-937-7 }} < /ref >  In the developing world this is in older children and young adults. < ref name= " Poor2012 " > {{cite journal|last=Newton|first=CR|title=Epilepsy in poor regions of the world.|journal=Lancet|date=29 September 2012|volume=380|issue=9848|pages=1193–201|doi=10.1016/S0140-6736(12)61381-6|pmid=23021288|s2cid=13933909|url=http://elartu.tntu.edu.ua/handle/lib/29589}} < /ref >  Between five and ten percent of all people will have an unprovoked seizure by the age of eighty. < ref name= " AFP2012 " > {{cite journal|last=Wilden|first=JA|author2=Cohen-Gadol, AA|title=Evaluation of first nonfebrile seizures.|journal=American Family Physician|date=15 August 2012|volume=86|issue=4|pages=334–40|pmid=22963022}} < /ref >  The chance of having a second seizure is between forty and fifty percent. < ref name= " Berg2008 " > {{cite journal |last=Berg |first=AT|title=Risk of recurrence after a first unprovoked seizure |journal=Epilepsia |volume=49 Suppl 1 |issue= |pages=13–8|year=2008 |pmid=18184149 |doi=10.1111/j.1528-1167.2008.01444.x|s2cid=28114460}} < /ref > 
+ 
+ == Common things == 
+ The condition has many forms, but generally the following is true: 
+ * People get muscular seizures or convulsions. 
+ * People lose control over their body. Feces may be released in the process. They may fall to the floor and hurt themselves when they are standing or walking. 
+ * People may become unconscious. 
+ * Those affected are not aware of the seizure going on. People do not remember or know what happened to them. 
+ * In some cases, people may sense that a seizure is about to occur. This special feeling is called [[Aura (symptom)|aura]]. Afterwards, people may remember the aura, but not the seizure itself. 
+ * Most seizures only last a short time, the exception to this is called [[status epilepticus]]. Such a status epilepticus can last over five minutes. 
+ * [[Reflex]]es do not work while people are having a seizure; they may also stop breathing. 
+ * People are tired after a seizure. They may be confused. 
+ * Epilepsy is not a [[mental illness]]. 
+ ==  Treatment == 
+ The condition is very common, and has been studied a lot.  Doctors only say someone has epilepsy, if that person has had at least two seizures, for which the immediate cause cannot be seen. There are also seizures which are not caused by epilepsy. There are [[drug]]s for many forms of epilepsy that make life better for those affected. In about two thirds of the cases, taking one drug alone can make the seizures go away. The remaining third is more difficult to treat, but in many cases, a combination of drugs can at least reduce the number of seizures. 
+ 
+ In most cases, epilepsy is caused by [[scar]]s in the brain. Some forms of the condition are caused by [[genetic disorders]], which may be passed on from the [[parent]]s to the children. Very often, the actual cause for an epileptic seizure is lack of [[sleep]], too much [[alcohol]], or other things that cause [[wikt:stress|stress]]. 
+ 
+ Many countries in the world say there are special rules for people who have epilepsy. They need to be without a seizure for some time before they may drive a car. They also need to take [[drug]]s to treat their illness. In many countries, such people may not drive [[bus]]es, [[taxi]]s or [[truck]]s. 
+ 
+ == Problems == 
+ People having an epileptic seizure face a number of problems. The most common ones are: 
+ * They hurt themselves during the seizure. This includes broken bones, and wounds resulting from biting or hitting an object. 
+ * They produce an [[accident]] during the seizure. This includes falling off a ladder, car accidents, and drowning while swimming. 
+ * In some cases, people stop breathing. In such cases, the brain will be damaged, if the seizure lasts for a longer time, or there are multiple such seizures in a row. 
+ * During the seizure, [[neurotransmitters]] are released in the brain. If their [[concentration]] is too high, the brain will take damage. 
+ 
+ == Risk factors == 
+ In many cases, risky behaviour can provoke seizures. Such [[Risk factor|risk factors]] include 
+ * [[Stress (biology)|Stress]] 
+ * Lack of [[sleep]] 
+ * [[Alcoholic drink|Alcohol]], and other drugs 
+ In many cases,a person who is able to cope with stress, who sleeps enough, and who does not drink too much can reduce the risk of having a seizure. 
+ 
+ == Famous people with epilepsy == 
+ < gallery > 
+ File:Jacques-Louis_David_017.jpg|[[Napoleon Bonaparte]] 
+ File:Pius ix.jpg|[[Pope Pius IX]] 
+ File:Dostoevsky 1872.jpg|[[Fjodor Dostoevski]] 
+ File:Rudi.jpg|[[Rudi Dutschke|Rudi Dutschke, Student leader]] 
+ File:George Gershwin 1937.jpg|[[George Gershwin]] 
+ |[[Vladimir Lenin]] 
+ File:Prince by jimieye.jpg|[[Prince (musician)|Prince]] 
+ < /gallery > 
+ 
+ == Notes == 
+ {{Commons category|Epilepsy}} 
+ {{reflist}} 
+ {{Central nervous system disease}} 
+ 
+ [[Category:Diseases and disorders of the nervous system]]

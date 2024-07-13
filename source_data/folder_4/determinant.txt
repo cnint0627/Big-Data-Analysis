@@ -1,0 +1,63 @@
+The '''determinant''' of a [[square matrix]] is a [[scalar]] (a number) that indicates how that [[Matrix (mathematics)|matrix]] behaves. It can be calculated from the numbers in the matrix. 
+ 
+ The determinant of the matrix  < math > A < /math >  is written as  < math > \det(A) < /math >  or  < math > |A| < /math >  in a formula. < ref > {{Cite web|date=2020-03-25|title=Comprehensive List of Algebra Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/|access-date=2020-09-09|website=Math Vault|language=en-US}} < /ref > < ref name= " :0 " > {{Cite web|last=Weisstein|first=Eric W.|title=Determinant|url=https://mathworld.wolfram.com/Determinant.html|access-date=2020-09-09|website=mathworld.wolfram.com|language=en}} < /ref >  Sometimes, instead of  < math > \det\left(\begin{bmatrix}a & b\\c & d\end{bmatrix}\right) < /math >  and  < math > \left|\begin{bmatrix}a & b\\c & d\end{bmatrix}\right| < /math > , one simply writes  < math > \det\begin{bmatrix}a & b\\c & d\end{bmatrix} < /math >  and  < math > \left|\begin{matrix}a & b\\c & d\end{matrix}\right| < /math > . 
+ 
+ ==Interpretation== 
+ There are a few ways to understand what the determinant says about a matrix. 
+ 
+ ===Geometric interpretation=== 
+ [[File:Area parallellogram as determinant.svg|thumb|right|For a  < math > 2 \times 2 < /math >  matrix  < math > \begin{bmatrix}a & c\\b & d\end{bmatrix} < /math > , the determinant is the area of a parallellogram. (The area is equal to  < math > ad-bc < /math > .)]] 
+ 
+ An  < math > n \times n < /math >  matrix can be seen as describing a [[linear map]] in  < math > n < /math >  dimensions. In which case, the determinant indicates the [[factor (mathematics)|factor]] by which this matrix [[scale (ratio)|scale]]s (grows or shrinks) a region of  < math > n < /math > -dimensional space. < p > For example, a  < math > 2 \times 2 < /math >  matrix  < math > A < /math > , seen as a linear map, will turn a square in 2-dimensional space into a [[parallelogram]]. That parallellogram's area will be  < math > \det(A) < /math >  times as big as the square's area. < /p > < p > In the same way, a  < math > 3 \times 3 < /math >  matrix  < math > B < /math > , seen as a linear map, will turn a [[cube]] in 3-dimensional space into a [[parallelepiped]]. That parallelepiped's volume will be  < math > \det(B) < /math >  times as big as the cube's volume. 
+ 
+ The determinant can be negative or zero. A linear map can stretch and scale a volume, but it can also reflect it over an [[Axis (mathematics)|axis]]. Whenever this happens, the [[sign (mathematics)|sign]] of the determinant changes from positive to negative, or from negative to positive. A negative determinant means that the volume was mirrored over an [[odd number]] of axes. 
+ 
+ === " System of equations "  interpretation=== 
+ One can think of a matrix as describing a [[system of linear equations]]. That system has a unique non-trivial solution ''exactly'' when the determinant is not 0 < ref name= " :0 "  / >  (''non-trivial'' meaning that the solution is not just all zeros). 
+ 
+ If the determinant is zero, then there is either no unique non-trivial solution, or there are [[infinite]]ly many. 
+ 
+ ==Singular matrices== 
+ A matrix has an [[matrix (mathematics)#Inverse matrix|inverse matrix]] exactly when the determinant is not 0. For this reason, a matrix with a non-zero determinant is called '''invertible'''. If the determinant is 0, then the matrix is called '''non-invertible''' or '''singular'''. < ref name= " :0 "  / > 
+ 
+ Geometrically, one can think of a singular matrix as  " flattening "  the parallelepiped into a parallelogram, or a parallelogram into a line. Then the volume or area is 0, which means that there is no linear map that will bring the old shape back. 
+ 
+ ==Calculating a determinant== 
+ There are a few ways to calculate a determinant. 
+ 
+ ===Formulas for small matrices=== 
+ [[File:Sarrus rule vertical.svg|thumb|right|The  < math > 3 \times 3 < /math >  determinant formula is a sum of products. Those products go along diagonals that  " wrap around "  to the top of the matrix. This trick is called the Rule of Sarrus.]] 
+ 
+ *For  < math > 1 \times 1 < /math >  and  < math > 2 \times 2 < /math >  matrices, the following simple formulas hold: < ref name= " :0 "  / > < p > < math > \det\begin{bmatrix}a\end{bmatrix} = a,\qquad\det\begin{bmatrix}a & b\\c & d\end{bmatrix} = ad-bc. < /math > < /p > 
+ 
+ *For  < math > 3 \times 3 < /math >  matrices, the formula is: < ref > {{Cite web|title=Determinant of a Matrix|url=https://www.mathsisfun.com/algebra/matrix-determinant.html|access-date=2020-09-09|website=www.mathsisfun.com}} < /ref > < p > < math > {\det\begin{bmatrix}a & b & c\\d & e & f\\g & h & i\end{bmatrix} = {\color{blue}{aei}+{dhc}+{gbf}}{\color{OrangeRed}{}-{gec}-{ahf}-{dbi}}} < /math > < /p > < p > One can use the [[Rule of Sarrus]] (see image) to remember this formula. < /p > 
+ 
+ ===Cofactor expansion=== 
+ For larger matrices, the determinant is harder to calculate. One way to do it is called '''cofactor expansion'''. 
+ 
+ Suppose that we have an  < math > n \times n < /math >  matrix  < math > A < /math > . First, we choose any row or column of the matrix. For each number  < math > a_{ij} < /math >  in that row or column, we calculate something called its '''[[Cofactor (mathematics)|cofactor]]'''  < math > C_{ij} < /math > . Then  < math > \det(A) = \sum a_{ij} C_{ij} < /math > . < ref name= " :0 "  / > 
+ 
+ To compute such a cofactor  < math > C_{ij} < /math > , we erase row  < math > i < /math >  and column  < math > j < /math >  from the matrix  < math > A < /math > . This gives us a smaller  < math > (n-1)\times(n-1) < /math >  matrix. We call it  < math > M < /math > . The cofactor  < math > C_{ij} < /math >  then equals  < math > (-1)^{i+j} \det(M) < /math > . 
+ 
+ Here is an example of a cofactor expansion of the left column of a  < math > 3 \times 3 < /math >  matrix: 
+ 
+ < math > \begin{align} 
+ \det \begin{bmatrix}{\color{red}1} & 3 & 2\\{\color{red}2} & 1 & 1\\{\color{red}0} & 3 & 4\end{bmatrix} 
+ & = {\color{red}1} \cdot C_{11} + {\color{red}2} \cdot C_{21} + {\color{red}0} \cdot C_{31} 
+ \\  & = \left( {\color{red}1} \cdot (-1)^{1+1} \det\begin{bmatrix}1 & 1\\3 & 4\end{bmatrix} \right) 
+ + \left( {\color{red}2} \cdot (-1)^{2+1} \det\begin{bmatrix}3 & 2\\3 & 4\end{bmatrix} \right) 
+ + \left( {\color{red}0} \cdot (-1)^{3+1} \det\begin{bmatrix}3 & 2\\1 & 1\end{bmatrix} \right) 
+ \\  & = ({\color{red}1} \cdot 1 \cdot 1) + ({\color{red}2} \cdot (-1) \cdot 6) + {\color{red}0} 
+ \\  & = -11. 
+ \end{align} < /math > 
+ 
+ As illustrated above, one can simplify the computation of determinant by choosing a row or column that has many zeros; if  < math > a_{ij} < /math >  is 0, then one can skip calculating  < math > C_{ij} < /math >  altogether. 
+ 
+ ==Related pages== 
+ *[[Invertible matrix]] 
+ *[[Volume]] 
+ 
+ == References == 
+ < references / > 
+ {{authority control}} 
+ [[Category:Linear algebra]]

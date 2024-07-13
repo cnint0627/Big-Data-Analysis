@@ -1,0 +1,26 @@
+[[File:Torus.png|thumb|A ring torus]] 
+ A '''torus''' (plural: '''tori''' or '''toruses''') is a tube [[shape]] that is similar to the surface of a [[doughnut]] or an [[inner tube]]. In [[geometry]], a torus is obtained by rotating a [[circle]] in [[3D|three dimensional]] space. To make a torus, the circle is [[rotation|rotated]] around a line (called the [[axis of rotation]]) that is in the same [[Plane (mathematics)|plane]] as the circle. Usually the line does not touch the [[circle]], so the torus has a hole through the center, and the torus is called a '''ring torus'''. For a ring torus, the axis of rotation passes through the center of the hole.  
+ 
+ In [[topology]], sizes don't matter, and a torus is any shape that has one hole through it.  
+ 
+ The '''ring torus''' is the most well-known type of torus, but other types exist. If the line the circle rotates around is [[Tangent (geometry)|tangent]] to the circle, then it becomes a horn '''torus''', and if it passes through the circle then it is a '''spindle torus.''' A [[Toroid (geometry)|toroid]] is a surface made by rotating any shape around a line, so a torus is one kind of toroid.  
+ 
+ If the torus is filled to make a [[solid]] shape, it is called a '''solid torus'''. A solid torus is often simply called a torus. A solid torus is made by rotating a [[disk]] (a filled-in circle) around a line. Common objects that have the shape of a solid torus are a [[doughnut]], a [[bagel]] and an [[O-ring]]. 
+ 
+ A torus is like a tube that is bent into a circle so it connects to itself. The [[radius]] of the tube or circle is called the ''minor radius'', write < math > r < /math > . The distance from the center of the tube to the center of the torus is called the ''major radius'', write  < math > R < /math > .  
+ 
+ The [[surface area]] of a torus is given by  
+ : < math > \begin{align} 
+ A  & = \left( 2\pi r \right) \left(2 \pi R \right) = 4 \pi^2 R r  
+ \end{align} < /math > . 
+ This area is the same as the area of a straight tube that has a radius  < math > r < /math >  and length  < math > 2\pi R < /math > . 
+ 
+ The [[volume]] of a solid torus is given by  
+ : < math > \begin{align} 
+ V  & = \left ( \pi r ^2 \right ) \left( 2 \pi R \right) = 2 \pi^2 R r^2 
+ \end{align} < /math > . 
+ This volume is the same as the volume of a straight rod that has a  radius  < math > r < /math >  and length  < math > 2\pi R < /math > . 
+ {{shapes}} 
+ [[Category:Three-dimensional shapes]] 
+ 
+ {{math-stub}}

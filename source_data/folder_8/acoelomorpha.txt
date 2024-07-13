@@ -1,0 +1,39 @@
+{{taxobox 
+ | name = Acoelomorphs 
+ | image = Waminoa on Plerogyra.jpg 
+ | image_width = 200px 
+ | image_caption = ''[[Waminoa]]'' (orange-yellow) sp. on ''[[Plerogyra]]'' sp.. 
+ | regnum = [[Animal]]ia 
+ | subregnum = [[Eumetazoa]] 
+ | superphylum = [[Deuterostomia]] 
+ | phylum = [[Xenacoelomorpha]] 
+ | subphylum = '''Acoelomorpha''' 
+ | subdivision_ranks = Classes 
+ * [[Acoela]] 
+ * [[Nemertodermatida]]}} 
+ 
+ The '''Acoelomorpha''' are a group of [[animal]]s with features that were once put in the [[phylum]] [[Flatworm|Platyhelminthes]] (flatworms). 
+ 
+ In 2004 [[sequence analysis|molecular studies]] showed this was wrong. < ref name= " Wallberg " > {{cite journal |last1=Wallberg |first1=Andreas |last2=Curini-Galletti |first2=Marco |last3=Ahmadzadeh |first3=Afsaneh |last4=Jondelius |first4=Ulf |title=Dismissal of Acoelomorpha: Acoela and Nemertodermatida are separate early bilaterian clades |journal=Zoologica Scripta |date=September 2007 |volume=36 |issue=5 |pages=509–523 |doi=10.1111/j.1463-6409.2007.00295.x|s2cid=85599100 }} < /ref > < ref name= " Jaume " > {{cite journal |last1=Baguñà |first1=Jaume |last2=Riutort |first2=Marta |title=Molecular phylogeny of the Platyhelminthes |journal=Canadian Journal of Zoology |date=1 February 2004 |volume=82 |issue=2 |pages=168–193 |doi=10.1139/z03-214}} < /ref > 
+ 
+ Now it is clear that their closest relatives are the [[Xenoturbellida]], and the two groups make up the proposed new phylum, the [[Xenacoelomorpha]]. < ref name= " Philippe " > {{cite journal |last1=Philippe |first1=Hervé |last2=Brinkmann |first2=Henner |last3=Copley |first3=Richard R. |last4=Moroz |first4=Leonid L. |last5=Nakano |first5=Hiroaki |last6=Poustka |first6=Albert J. |last7=Wallberg |first7=Andreas |last8=Peterson |first8=Kevin J. |last9=Telford |first9=Maximilian J. |title=Acoelomorph flatworms are deuterostomes related to Xenoturbella |journal=Nature |pages=255–258 |language=en |doi=10.1038/nature09676 |date=February 2011|volume=470 |issue=7333 |pmid=21307940 |pmc=4025995 }} < /ref > 
+ 
+ Most researchers believe them to be [[basal]] among the [[bilateria]], slightly more derived than the [[Cnidaria]]. Recent results suggest that they (along with ''[[Xenoturbella]]'') may lie near the base of the [[deuterostomes]]. < ref name= " Philippe "  / >  An ongoing collaborative research project has  " the researchers ... confident that they can reach an agreement about where acoels fit in evolutionary history " . < ref name= " Maxmen " > {{cite journal |last1=Maxmen |first1=Amy |title=Evolution: A can of worms |journal=Nature |date=February 2011 |volume=470 |issue=7333 |pages=161–162 |doi=10.1038/470161a|pmid=21307912 |s2cid=205062118 }} < /ref > 
+ 
+ : " The results show that the two groups constitute a newly classified phylum... which the authors name the ’Xenacoelomorpha’. The xenacoelomorph phylum joins the three known phyla of deuterostomes: vertebrates (including humans), echinoderms (e.g., starfish), and hemichordates (acorn worms) " . < ref name= " GEE " > {{cite web |title=GEE: Simple marine worms distantly related to humans |url=https://www.ucl.ac.uk/biosciences/biosciences-news-publication/News95 |website=University College London |publisher=University College London |archiveurl=https://web.archive.org/web/20150914132808/https://www.ucl.ac.uk/biosciences/biosciences-news-publication/News95 |archivedate=14 September 2015 |date=10 February 2011}} < /ref > 
+ 
+ Acoels are almost entirely [[Ocean|marine]], living between grains of [[sediment]], swimming as [[plankton]], or crawling on [[algae]]. Acoels have a [[statocyst]], which presumably helps them orient to gravity. Their soft bodies make them difficult to classify. < ref name= " Petrov " > {{cite journal |last1=Petrov |first1=Anatoly |last2=Hooge |first2=Matthew |last3=Tyler |first3=Seth |title=Comparative morphology of the bursal nozzles in acoels (Acoela, Acoelomorpha) |journal=Journal of Morphology |date=May 2006 |volume=267 |issue=5 |pages=634–648 |doi=10.1002/jmor.10428|pmid=16485278 |s2cid=32595353 }} < /ref > 
+ 
+ == References == 
+ {{Reflist|2}} 
+ {{commonscat}} 
+ {{wikispecies|Acoelomorpha}} 
+ 
+ 
+ {{taxonbar|from=Q131486}} 
+ {{authority control}} 
+ 
+ [[Category:Xenacoelomorpha]] 
+ 
+ 
+ {{biology-stub}}

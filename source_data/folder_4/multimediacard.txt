@@ -1,0 +1,25 @@
+{{Infobox media 
+ | name = MultiMediaCard 
+ | logo = 
+ | image = [[Image:Kingston Multi Media Card 32MB front 20040702.jpg|150px|]] 
+ | caption = 32 [[megabyte|MB]] MultiMediaCard 
+ | type = [[Memory card]] 
+ | encoding = 
+ | capacity = Up to 128GB (Highest currently sold) 
+ | read = 
+ | write = 
+ | standard = 
+ | owner = [[JEDEC]] 
+ | use = Portable devices 
+ | dimensions = Standard: 32 & nbsp;× & nbsp;24 & nbsp;× & nbsp;1.4 & nbsp;mm 
+ | weight = Standard: ~2.0 g 
+ | extended from = 
+ | extended to = [[Secure Digital|Secure Digital (SD)]] 
+ }} 
+ 
+ The '''MultiMediaCard''' ('''MMC''') is a [[flash memory|flash]] [[memory card]] standard. It was developed by [[SanDisk]] and [[Siemens AG]] for use in the consumer market. The card is about the size of a [[postage stamp]]: 24 & nbsp;mm × 32 & nbsp;mm × 1.4 & nbsp;mm. 
+ 
+ [[Category:Storage devices]] 
+ 
+ 
+ {{tech-stub}}

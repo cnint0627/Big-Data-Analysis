@@ -1,0 +1,11 @@
+{{no sources|date=November 2022}} 
+ {{distinguish|Dissection}} 
+ {{for multi|the bisection theorem in measure theory|Ham sandwich theorem|the root-finding method|Bisection method}} 
+ 
+ In [[geometry]], '''bisection''' is the [[Division (mathematics)|division]] of something into two [[Congruent polygons|equal]] parts. This is usually done by a [[Line (geometry)|line]], which we will call the  " bisector " . The most known types are the ''segment bisector'' (a line that passes through the middle of a given [[Line segment|segment]]) and the ''angle bisector'' (a line that passes through the [[Apex (Geometry)|apex]] of an [[angle]], that divides it into two equal angles.  
+ 
+ In [[three-dimensional space]], bisection is usually done by a [[Plane (geometry)|plane]], which is also called the bisector or bisecting plane. 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Geometry]]

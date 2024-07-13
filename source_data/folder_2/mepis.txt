@@ -1,0 +1,49 @@
+{{Infobox OS 
+ | name = SimplyMEPIS  
+ | screenshot = SimplyMepis-7.0.png  
+ | caption = SimplyMEPIS 7.0 default desktop 
+ | developer = [[Warren Woodford]]  
+ | family = [[Linux]]  
+ | source_model = [[Closed source#Encumbered code|encumbered code]]  
+ | working_state = Current  
+ | latest_release_version = 11.0  < !-- If you update this, don't forget to update [[Comparison of Linux distributions]]-- >   
+ | latest_release_date = {{release date|2011|05|03}} 
+ | kernel_type = [[Monolithic kernel]] 
+ | ui = [[KDE]] 
+ | license = Various 
+ | website = [http://www.mepis.org/ mepis.org]  
+ }} 
+ 
+ '''MEPIS''' (pronunciation: meh-pis) is a set of [[Linux Distributions]] distributed as [[Live CD]]s. The most popular of these distributions is SimplyMEPIS. MEPIS distributions are based on [[Debian]], some of them indirectly. For example, SimplyMEPIS 7.0 is based mainly on [[Debian]], with additional [[source code]] from [[Ubuntu (operating system)|Ubuntu]] (which is also based on Debian). MEPIS distributions are created by [[Warren Woodford]]. 
+ 
+ It can either be installed onto a [[Hard disk|hard drive]] or used as a [[Live CD]], which makes it a boot disc for troubleshooting many operating systems. It includes [[KDE]], the K [[Desktop environment|Desktop Environment]]. 
+ 
+ == History == 
+ MEPIS was designed as an alternative to [[SUSE Linux]], [[Red Hat Linux]], and [[Mandriva Linux]] (formerly Mandrake) which, in the creator Warren Woodford's opinion, were too difficult for the average user. MEPIS's first official release was on May 10, 2003. 
+ 
+ ==Distributions== 
+ The most popular MEPIS distribution, SimplyMEPIS, is designed for everyday desktop and laptop computing. SimplyMEPIS 7.0 contains several new packages and features. It contains Linux 2.6.22 and OpenOffice.org 2.3.0. It was released on [[2007-12-23]]. < ref > {{cite web|url=http://www.mepis.org/node/14187|title=A Holiday Present for Everybody: MEPIS 7.0 is Released|date=2007-12-23|accessdate=2007-12-23|archive-date=2007-12-24|archive-url=https://web.archive.org/web/20071224173327/http://www.mepis.org/node/14187|url-status=dead}} < /ref > 
+ 
+ ==Related pages== 
+ * [[NeXT]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.mepis.org/ Official site] 
+ * [http://forum.mepiscommunity.org/ MEPIS Community Forum] {{Webarchive|url=https://web.archive.org/web/20110129080655/http://forum.mepiscommunity.org/ |date=2011-01-29 }}, main community site 
+ * [http://antix.mepis.org/ antiX] {{Webarchive|url=https://web.archive.org/web/20080828212407/http://antix.mepis.org/ |date=2008-08-28 }}, a fast, lightweight and easy to install Linux distribution live CD based on MEPIS 
+ 
+ ===Reviews=== 
+ *[http://www.linux.com/feature/124919 SimplyMEPIS 7.0 is a keeper] 
+ *[http://www.raiden.net/?cat=2 & aid=371 Review: SimplyMepis 7.0] {{Webarchive|url=https://web.archive.org/web/20080207075015/http://www.raiden.net/?cat=2 & aid=371 |date=2008-02-07 }} 
+ *[http://adventuresinopensource.blogspot.com/2007/11/another-day-another-distro-part-8.html SimplyMEPIS 7.0 Beta 6] 
+ *[http://www.junauza.com/2007/11/antix-fat-free-mepis.html antiX M-7, The Fat-free Mepis] 
+ *[http://kmandla.wordpress.com/2007/09/21/mepis-antix-on-450mhz-k6-2-256mb/ MEPIS AntiX on 450MHz K6-2, 256Mb] 
+ 
+ [[Category:Live CD]] 
+ [[Category:Ubuntu (operating system) derivatives]] 
+ [[Category:X86-64 Linux distributions]] 
+ [[Category:Linux distributions]] 
+ [[Category:Debian-based Linux distributions]]

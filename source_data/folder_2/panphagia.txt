@@ -1,0 +1,51 @@
+{{italic title}} 
+ {{Speciesbox 
+ | fossil_range = [[Carnian]] < br / > ~{{fossil range|231}} 
+ | image = Panphagia fossil DSC 6168.jpg 
+ | image_caption = Reconstruction of the fossil specimen 
+ | display_parents = 3 
+ | taxon = Panphagia protos 
+ | parent_authority = Martínez  &  Alcober 2009 
+ | authority = Martínez  &  Alcober 2009 
+ }} 
+ '''''Panphagia''''' is a [[sauropodomorpha|sauropodomorph]] [[dinosaur]]. It was described in 2009. It lived around 231 million years ago, during the [[Late Triassic]] period in [[Argentina]]. < ref name=OARM2010 > {{cite journal |last=Alcober |first=Oscar A. |author2=Martinez, Ricardo N. |year=2010 |title=A new herrerasaurid (Dinosauria, Saurischia) from the Upper Triassic Ischigualasto Formation of northwestern Argentina |journal=ZooKeys |pages=55–81 |doi=10.3897/zookeys.63.550 |pmid=21594020 |pmc=3088398 |issue=63|doi-access=free }} < /ref >  The name ''Panphagia'' comes from the [[Greek language|Greek]] words ''pan'', meaning  " all " , and ''phagein'', meaning  " to eat " . It was given that name because scientists think it was [[omnivirous]]. ''Panphagia'' is one of the earliest known dinosaurs. It is an important find which may mark the change of diet in early sauropodomorph dinosaurs. 
+ 
+ ==Classification== 
+ {{main|Early dinosaurs}} 
+ {|style= " margin-left: 1em;; margin-bottom: 0.5em; width: 248px; border: #99B3FF solid 1px; background-color: #FFFFFF; color: #000000; float: left;  " 
+ |{{clade|style=font-size:75% 
+ |label1= & nbsp;[[Saurischia]] & nbsp; 
+ |1={{clade 
+    |label1= & nbsp; & nbsp; & nbsp; & nbsp; 
+    |1={{clade 
+       |1=''[[Herrerasaurus]]'' 
+       |2=''[[Staurikosaurus]]'' 
+       }} 
+    |label2= & nbsp; & nbsp; & nbsp; & nbsp; 
+    |2={{clade 
+       |1=''[[Eoraptor]]'' 
+       |label2= & nbsp; & nbsp; & nbsp; & nbsp; 
+       |2={{clade 
+          |1=[[Theropoda]] 
+          |label2=[[Sauropodomorpha]] 
+          |2={{clade 
+             |1=''Panphagia'' 
+             |label2= & nbsp; & nbsp; & nbsp; & nbsp; 
+             |2={{clade 
+                |1=''[[Saturnalia (dinosaur)|Saturnalia]]'' 
+                |2=Other sauropodomorphs 
+                }} 
+             }} 
+          }} 
+       }} 
+    }} 
+ }} 
+ |} 
+ {{-}} 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{commons cat-inline}} 
+ 
+ [[Category:Sauropodomorphs]]

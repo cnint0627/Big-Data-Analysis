@@ -1,0 +1,63 @@
+[[File:Gregor Reisch, Margarita Philosophica, Typus Logice.jpg|thumb|250px|[[Gregor Reisch]], ''Logic presents its main themes''. ''[[Margarita Philosophica]]'', 1503 or 1508. In the engraving, two dogs named ''veritas'' (truth) and ''falsitas'' (falsehood) chase a rabbit named ''problema'' (problem). Logic runs behind the dogs, armed with the sword ''syllogismus'' (syllogism). In the bottom left corner, the philosopher [[Parmenides of Elea|Parmenides]] can be seen in a cave.]] 
+ 
+ '''Logic''' is the study of [[Reason|reasoning]]. The rules of logic let [[philosophers]] make valid logical [[Deduction|deductions]] about the world. Logic helps [[wikt:people|people]] decide whether something is [[true]] or [[false]].  
+ 
+ Logic is often written in [[Syllogism|syllogisms]], which are one type of logical proof. A syllogism is made from a collection of statements used to logically prove the final statement, called the conclusion. One popular example of a logical [[syllogism]] was written by the [[Classical Greece|Classical Greek]] [[philosopher]] [[Aristotle]]: 
+ 
+ # All men are mortal. 
+ # Socrates is a man. 
+ # Therefore, Socrates is mortal. 
+ 
+ The conclusion is the final statement. This syllogism connects the first two statements to make a logical deduction: Socrates is mortal. 
+ 
+ The syllogism is made from three logical [[Proposition|statements or propositions]]. These statements are short sentences describing a small step in a logical argument. The small statements make up the argument, the same way atoms make up molecules. When logic is correct, the statements are said to  " follow "  from each other.  
+ 
+ Statements have a [[truth value]], meaning they can be proved to be true ''or'' false, but not both. Illogical statements or mistakes in logic are called [[Fallacy|logical fallacies]]. 
+ 
+ == Symbolic logic == 
+ Logical statements can be written in a special type of short hand writing, which includes the symbols of the '''symbolic logic'''. These symbols are used to describe logical reasoning in an abstract way. For example: < ref name= " :0 " > {{Cite web|date=2020-04-06|title=Comprehensive List of Logic Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/logic-symbols/|access-date=2020-10-08|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Logic symbols - RapidTables.com|url=https://www.rapidtables.com/math/symbols/Logic_Symbols.html|access-date=2020-10-08|website=www.rapidtables.com}} < /ref > 
+ 
+ *  < math > \land < /math >  is read like  " [[Logical conjunction|and]] " , meaning both statements apply. 
+ *  < math > \lor < /math >  is read like  " [[Or (logic)|or]] " , meaning at least one of the statements applies. 
+ *  < math > \rightarrow < /math >  is read like  " [[Implication (logic)|implies]] " ,  " are, "  or  " If ... then ... " . It represents the result of a logical statement. 
+ *  < math > \lnot < /math >  is read like  " not " , or  " it is not the case that ... " .  
+ *  < math > \therefore   < /math >  is read like  " therefore " , which is used to mark the conclusion a logical argument. 
+ *  < math > () < /math >  is read like  " parentheses " . They group logical statements together. Statements in parentheses should always be considered first, following the [[Order of operations|order of logical operations]].  
+ 
+ Here is the previous syllogism written in symbolic logic. 
+ 
+ : < math > \rm((human\rightarrow mortal)\land(Aristotle\rightarrow human))\rightarrow(Aristotle\rightarrow mortal) < /math > 
+ 
+ By replacing the English words with letters, one can make the syllogism even simpler.  
+ 
+ : < math > ((a\rightarrow b)\land(c\rightarrow a))\rightarrow(c\rightarrow b) < /math > 
+ 
+ Similar to mathematical symbols for [[Operation (mathematics)|operations]] like addition and subtraction, symbolic logic separates [[Abstraction|abstract]] logic from the English-language meaning of the original statements. With these abstract symbols, people can study pure logic without the use of a specific written language. 
+ 
+ The syllogism is now written in the most abstract and simple way possible. Any distracting elements, such as English language words, have been removed. Anyone who understands logical symbolism can understand this argument. 
+ 
+ == Logical proof == 
+ A logical proof is a list of statements put in a specific order to prove a logical point.  Each statement in the proof is either an assumption made for the sake of argument, or has been proven to follow from earlier statements in the proof. All proofs must start with some assumptions, such as  " men exist "  in the above syllogism. A proof shows that one statement, the conclusion, follows from the starting assumptions. With a proof, we can prove that  " Aristotle is mortal "  logically follows from  " Aristotle is a man "  and  " All men are mortal " . 
+ 
+ Some statements are always true. That kind of statement is called [[Tautology (logic)|tautology]]''.'' One popular classical tautology, credited to the philosopher [[Parmenides|Parmenides of Elea]], says  " That which is, is. That which is not, is not. "  This essentially means that true statements are true and false statements are false. Due to their simple nature, tautologies may not always be helpful in building logical arguments.  
+ 
+ A tautology is represented in symbolic logic as  < math > (a \lor \lnot a) < /math > , meaning  " Either ''a'' or not ''a''. "  Assuming that there are no unmentioned possibilities, this covers every possible case. Another symbol used to represent a tautology is  < math > \top < /math > . < ref name= " :0 "  / > 
+ 
+ == Uses == 
+ Because logic is a tool used to think more rationally, it can be used in countless ways. [[Symbolic logic]] is employed far and wide, from philosophical treatises to complicated [[Equation|mathematical equations]]. Computers use the rules of logic to run [[algorithm|algorithms]], which let computer programs make decisions based on data.  
+ 
+ Logic is critical to [[mathematics|pure mathematics]], [[statistics]], and data analysis. Logic is also studied in [[philosophy]]. People who study math create [[Mathematical proof|proofs]] that use logical rules to show that [[Mathematical theorem|mathematical theorems]] are correct. There is an area of mathematics called [[mathematical logic]] that studies logic using [[mathematics]]. 
+ 
+ == Related pages == 
+ *[[Predicate logic]] 
+ *[[Propositional logic]] 
+ *[[Proposition]] 
+ *''[[Principia Mathematica]]'' 
+ 
+ == References == 
+ < references / > 
+ 
+ {{Philosophy topics}} 
+ {{Mathematical logic}} 
+ 
+ [[Category:Logic| ]]

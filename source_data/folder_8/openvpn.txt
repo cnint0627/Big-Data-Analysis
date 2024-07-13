@@ -1,0 +1,16 @@
+[[File:OpenVPN_logo.svg|thumb|250x250px|OpenVPN logo]] 
+ '''OpenVPN''' is a [[Virtual private network]] protocol that is [[Open source|open-source]]. This means the [[source code]] is openly available for anyone to access and develop.  It creates secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. < ref > {{Cite web|last=Day|first=Brittany|title=OpenVPN: An Introduction and Interview with Founder, James Yonan {{!}} ...|url=https://linuxsecurity.com/features/openvpn-an-introduction-and-interview-with-founder-james-yonan|access-date=2023-11-17|website=linuxsecurity.com|language=en-gb}} < /ref > 
+ 
+ An active community has formed around the OpenVPN project, which has kept it up-to-date and provided regular security audits to ensure it’s viability. 
+ 
+ It is particularly known for its security and [[privacy]] as well as its adjustability. 
+ 
+ OpenVPN typically works on any port and has five encryption [[algorithms]] to such as [[Secure_Sockets_Layer|SSL]], [[IPsec|IPSec]] or [[SSH]]. AES 256-bit [[encryption]] is  the best security and privacy as it is essentially unbreakable. A [[Network_port|TCP 443 port]]  will make a connection similar to an [[Hypertext Transfer Protocol|http]] < nowiki/ > s connection. It is essentially a secure connection which can help prevent website blocking and bypass censorship. 
+ 
+ For greater speed, it is recommended to use UDP ports, using the default, [[Blowfish (cipher)|Blowfish-128 cipher]].  This isn’t the absolute highest level of security, but for most people, it will suffice and will operate significantly faster than AES 256 on TCP. 
+ 
+ ==References== 
+ 
+ {{reflist}} 
+ 
+ [[Category:Software]]

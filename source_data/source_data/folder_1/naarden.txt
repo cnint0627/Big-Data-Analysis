@@ -1,0 +1,79 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Naarden 
+ | settlement_type         = Former [[List of municipalities of the Netherlands|municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Naarden kl.JPG 
+ | image_alt               =  
+ | image_caption           =  
+ | image_flag              = Naarden vlag.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Coat of arms of Naarden.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 0425 (2009).svg 
+ | map_alt                 = Highlighted position of Naarden in a municipal map of North Holland 
+ | map_caption             = Location in North Holland 
+ | coordinates             = {{coord|52|17|43|N|05|09|44|E|region:NL-NH|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|North Holland}} 
+ | subdivision_type2       = [[List of municipalities of the Netherlands|Municipality]] 
+ | subdivision_name2       = [[Gooise Meren]] 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Naarden}} 
+ | area_land_km2           = {{Dutch municipality land area|Naarden}} 
+ | area_water_km2          = {{Dutch municipality water area|Naarden}} 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web  
+  |url = http://www.ahn.nl/postcodetool 
+  |title = Postcodetool for 1411EC 
+  |language = nl 
+  |author =  < !--Staff writer(s); no by-line.-- >   
+  |work = Actueel Hoogtebestand Nederland 
+  |publisher = Het Waterschapshuis 
+  |access-date = 19 March 2014}} < /ref > 
+ | elevation_m             = 3 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Naarden}} 
+ | population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|Naarden}}  < !-- For automatic calculation: auto-- > 
+ | population_demonym      = Naardenees, Naardenaar 
+ < !-- Other information -- > 
+ | timezone                = [[Central European Time|CET]] 
+ | utc_offset              = +1 
+ | timezone_DST            = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST          = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 1410–1414 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 035 
+ | website                 = {{URL|1=http://www.naarden.nl}} 
+ | footnotes               = 
+ }} 
+ '''Naarden''' was a [[List of municipalities of the Netherlands|municipality]] in the [[Netherlands|Dutch]] [[Provinces of the Netherlands|province]] of [[North Holland]]. Since 2016, it has been part of the new [[Gooise Meren]] municipality. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:21st-century disestablishments in the Netherlands]] 
+ [[Category:Cities in North Holland]] 
+ [[Category:Former municipalities of North Holland]] 
+ [[Category:Gooise Meren]]

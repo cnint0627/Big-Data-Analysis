@@ -1,0 +1,24 @@
+< mapframe latitude= " 57.582556 "  longitude= " -3.866844 "  zoom= " 13 "  width= " 422 "  height= " 227 "  align= " right " > 
+ { 
+    " type " :  " FeatureCollection " , 
+    " features " : [ 
+     { 
+        " type " :  " Feature " , 
+        " properties " : {}, 
+        " geometry " : { 
+          " type " :  " Point " , 
+          " coordinates " : [ 
+           -3.8686752328067096, 
+           57.58445780182236 
+         ] 
+       } 
+     } 
+   ] 
+ } 
+ < /mapframe > 
+ '''Nairn''' is a town in [[Highland (council area)|Highlands]], [[Scotland]]. 
+ 
+ 
+ {{UK-stub}} 
+ {{authority control}} 
+ [[Category:Towns in Highland]]

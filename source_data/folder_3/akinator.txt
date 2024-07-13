@@ -1,0 +1,41 @@
+{{Infobox video game 
+ |title       = Akinator 
+ |image       = Akinator.svg 
+ |developer   = Elokence 
+ |engine      = Limule   
+ |platforms   = {{Plainlist| 
+ *[[Web browser]] 
+ *[[iOS]] 
+ *[[Android (operating system)|Android]] 
+ *Fire OS 
+ *[[Windows Phone]]}} 
+ |released    = 2007 
+ |genre       = Twenty questions 
+ |modes       = [[Single-player video game|Single-player]] 
+ |director    =  
+ |designer    =  
+ |composer    = 
+ }} 
+ '''''Akinator''''' is a [[video game]] made by a French company called Elokence. The player thinks of a character, object, or animal and a genie asks questions to find it out, like ''[[Twenty Questions]]''. The genie learns future answers using [[artificial intelligence]]. 
+ 
+ ==Gameplay== 
+ The player chooses an character, object, or animal. < ref name= " Vice " > {{cite news|title=Warum kann der  " Akinator "  noch immer unsere Gedanken lesen?|author=Franz Lichtenegger|url=https://www.vice.com/de/article/vbmz7m/warum-kann-der-akinator-auch-10-jahre-spater-noch-unsere-gedanken-lesen|website=[[Vice (magazine)|Vice]]|date=July 12, 2017|access-date=August 22, 2021|language=de}} < /ref >  Akinator asks questions with  " Yes " ,  " No " ,  " Probably " ,  " Probably not "  and  " Don't know "  answers to try to find the answer. < ref name= " :0 " > {{cite news|author=Chaney|first=Jen|date=August 3, 2010|title=Summer time-waster: Stumping the Akinator|newspaper=[[The Washington Post]]|url=http://voices.washingtonpost.com/celebritology/2010/08/summer_time_waster_stumping_th.html|url-status=dead|access-date=June 23, 2011|archive-url=https://web.archive.org/web/20121015070757/http://voices.washingtonpost.com/celebritology/2010/08/summer_time_waster_stumping_th.html|archive-date=2012-10-15}} < /ref > < ref > {{cite news |title=Akinator, el genio que leerá tu mente |url=http://www.mediotiempo.com/tecnologia/noticias/2010/10/19/akinator-el-genio-que-leera-tu-mente |newspaper=Medio Tiempo |date=October 19, 2010 |access-date=June 23, 2011 |language=es}} < /ref >  A guess is made if a likely answer is found before 25 questions are asked. If a few wrong guesses are made, the player is asked the answer. < ref name= " Vice " / > 
+ 
+ ==Development== 
+ The game uses a program called Limule and an algorithm, both made by Elokence. < ref name= " Vice " / > 
+ 
+ ==Reception== 
+ ''L'Express'' gave Akinator a 5 out of 5 on their list of [[iPhone]] [[Mobile app|Apps]] of the Week for September 9, 2009. < ref > {{cite news |title=Paybuddy, Stand o'food et Akinator |url=http://www.lexpress.fr/actualite/high-tech/paybuddy-stand-o-food-et-akinator_785566.html |newspaper=L'Express |date=September 9, 2009 |access-date=June 23, 2011 |language=fr}} < /ref >  ''[[Excite (web portal)|Excite France]]'' liked the game's interactivity and that it was  " revolutionary, attractive, and entertaining " . < ref > {{cite news |title=Akinator, vraiment le plus fort! |url=http://digital.excite.fr/akinator-vraiment-le-plus-fort-N2784.html |newspaper=Excite France |date=November 23, 2008 |access-date=June 23, 2011 |language=fr |archive-date=August 18, 2020 |archive-url=https://web.archive.org/web/20200818142441/http://digital.excite.fr/akinator-vraiment-le-plus-fort-N2784.html |url-status=dead }} < /ref > 
+ 
+ The game's most popular year in [[Europe]] was 2009. < ref name= " :0 "  / > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * {{official website|https://en.akinator.com}} 
+ 
+ [[Category:2007 video games]] 
+ [[Category:Artificial intelligence]] 
+ [[Category:IOS games]] 
+ [[Category:Android (operating system) games]]

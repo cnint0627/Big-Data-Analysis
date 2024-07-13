@@ -1,0 +1,54 @@
+{{Infobox settlement 
+ | name                    = Westerveld 
+ | native_name             =  
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           =  
+ | imagesize               = 265px 
+ | image_caption           =  
+ | image_flag              = Westerveld gemeentevlag.svg 
+ | image_seal              = Coat of arms of Westerveld.svg 
+ < !-- maps and coordinates -- > 
+ | pushpin_map             = Netherlands 
+ | pushpin_mapsize         = 265px 
+ | pushpin_label_position  =  
+ | pushpin_relief          = yes 
+ | coordinates             = {{coord|52|51|32.6|N|6|18|34.2|E}} 
+ < !-- location -- > 
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{NED}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|Drenthe}} 
+ < !-- government type, leaders -- > 
+ | leader_title            = Mayor 
+ | leader_name             = Henderikus Jager 
+ < !-- area -- > 
+ | area_total_km2          = 278.4 
+ < !-- population -- > 
+ | population_total        = 18,943 
+ | population_as_of        = January 1, 2001 
+ | population_density_km2  = 68.04 
+ < !-- time zone(s) -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +01:00 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        = Postal & nbsp;code 
+ | postal_code             = 7970–7999, 8350–8354, < br > 8380–8387, 8437–8439 
+ | area_code_type          = Area code 
+ | area_code               = 0521, 0561 
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec2         = [[ISO 3166-2:NL|ISO 3166 code]] 
+ | blank_info_sec2         =  
+ | blank1_name_sec2        = Address 
+ | blank1_info_sec2        =  
+ < !-- website, footnotes -- > 
+ | website                 = {{Official|1=https://www.gemeentewesterveld.nl/}} 
+ }} 
+ 
+ '''Westerveld''' is a municipality in the province of [[Drenthe]], the [[Netherlands]]. In 2019, 19,348 people lived there. 
+ 
+ {{Drenthe Province}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Municipalities of Drenthe]]

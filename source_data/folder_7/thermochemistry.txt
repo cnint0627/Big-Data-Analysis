@@ -1,0 +1,59 @@
+'''Thermochemistry''' is the study of the [[energy]] and [[heat]] to do with [[chemical reaction]]s and physical transformations (physical changes). Physical transformations are when a [[state of matter]] (a [[solid]] or [[liquid]], for example) changes to another state. Examples of transformations include [[melting]] (when a solid becomes a liquid) and [[boiling]] (when a liquid becomes a [[gas]]). 
+ 
+ A reaction gives out or takes in energy. A physical transformation also gives out or takes in energy. Thermochemistry looks at these energy changes, particularly on a [[system]]'s energy exchange with its [[surroundings]]. Thermochemistry is useful in [[predict|predicting]] reactant and product quantities at all times during a given reaction. Thermochemists do this by using data, including [[entropy]] determinations. Thermochemists will tell if a reaction is [[Spontaneity (chemistry)|spontaneous or non-spontaneous]], favorable or unfavorable.   
+ 
+ [[Endothermic reaction]]s take in heat.  [[Exothermic reaction]]s give out heat.  Thermochemistry combines the concepts of [[thermodynamics]] with the idea of energy in the form of [[chemical bond]]s. It includes calculations of such quantities as [[heat capacity]], [[heat of combustion]], [[heat of formation]], [[enthalpy]], [[entropy]], [[thermodynamic potential|free energy]], and [[calorie]]s. 
+ [[Image:Ice-calorimeter.jpg|250px|right|thumb|The world’s first ice-calorimeter, used in the winter of 1782-83, by [[Antoine Lavoisier]] and [[Pierre-Simon Laplace]]. It was used to find the [[heat]] evolved in various [[chemical change]]s. These calculations were based on [[Joseph Black]]’s earlier discovery of [[latent heat]].  These experiments started thermochemistry.]] 
+ 
+ ==History== 
+ Thermochemistry started with two ideas: < ref > {{cite book | last=Perrot| first=Pierre | title=A to Z of Thermodynamics | publisher=Oxford University Press | year=1998 | isbn= 9780198565529|edition=First}} < /ref > 
+ 
+ #Lavoisier and Laplace’s law (1780): The energy change for any transformation is equal and opposite to energy change for the reverse process. < ref > {{cite book|first=Frederick Hutton|last=Getman|title=Outlines of Theoretical Chemistry|page=290|url=https://archive.org/stream/outlitheochem00getmrich#page/290/mode/2up|date=1918|edition=Second|publisher=John Wiley and Sons}} < /ref > 
+ #Hess' law (1840): The energy change for any transformation is the same whether it goes in one step or many. 
+ 
+ These discoveries came before the [[first law of thermodynamics]] (1845). They helped [[scientist]]s understand this law. 
+ 
+ Edward Diaz and Hess investigated [[specific heat]] and [[latent heat]]. [[Joseph Black]] developed the concept of latent energy changes. 
+ 
+ [[Gustav Kirchhoff]] showed in 1858 that change in the heat of reaction is given by the difference in [[heat capacity]] between products and reactants:  < math > {{\partial \Delta H}\over\partial T} = \Delta C_p < /math > . [[Integral|Integrating]] this equation allows the [[wikt:evaluation|evaluation]] of the heat of reaction at one temperature from measurements at another temperature. < ref > {{cite book|first1=Keith J.|last1=Laidler|first2=J. H.|last2=Meiser|title=Physical Chemistry|url=https://archive.org/details/studentsolutions0000laid|publisher=Benjamin-Cummings|date=1982|page=[https://archive.org/details/studentsolutions0000laid/page/62 62]|isbn=9780805356830|edition=First}} < /ref > < ref > {{cite book|first1=Peter|last1=Atkins|first2=Julio|last2=De Paula|title=Atkins' Physical Chemistry|url=https://archive.org/details/atkinsphysicalch00atki|edition=Eighth|publisher=Oxford University Press|date=2006|page=[https://archive.org/details/atkinsphysicalch00atki/page/56 56]|isbn=9780198700722}} < /ref > 
+ 
+ ==Calorimetry== 
+ The measurement of heat changes is called [[calorimetry]]. It measures the heat of chemical reactions or physical changes. A [[calorimeter]], a device for calorimetry, is usually a closed in chamber. 
+ 
+ Calorimetry has these steps: [[Chemist]]s make the change happen inside the chamber. The temperature of the chamber is measured either using a [[thermometer]] or [[thermocouple]]. The [[temperature]] is plotted against time to give a graph. Chemists use the graph to calculate fundamental quantities.  
+ 
+ Modern calorimeters have small [[computer]]s that measure the temperature and give the calculated data quickly. One example is a [[differential scanning calorimeter]] (DSC). 
+ 
+ ==Systems== 
+ Several thermodynamic definitions are very useful in thermochemistry. A  " system "  is the specific section of the [[universe]] that is being studied. Everything outside the system is considered the surrounding or [[environment]]. A system may be:  
+ * an [[isolated system]] — when it cannot exchange energy or matter with the surroundings, as with an insulated [[bomb]] calorimeter; 
+ * a [[closed system]] — when it can exchange energy but not matter with the surroundings, as with a [[steam]] [[radiator]]; 
+ * an [[Thermodynamic_system#Open_system|open system]] — when it can exchange both matter and energy with the surroundings, a pot of [[boiling]] water, for example. 
+ 
+ ==Processes== 
+ A system undergoes a  " process "  when one or more of its properties (characteristics) changes. A process relates (connects) to the change of [[state of matter|state]]. An [[isothermal process|isothermal]] (same temperature) process happens when the temperature of the system stays the same. An [[isobaric process|isobaric]] (same pressure) process happens when the pressure of the system stays the same. An [[adiabatic process|adiabatic]] (no heat exchange) process happens when no heat moves around. 
+ 
+ ==Related pages== 
+ *[[List of important publications in chemistry#Thermochemistry|Important publications in thermochemistry]] 
+ *[[Isodesmic reaction]] 
+ *[[Principle of maximum work]] 
+ *[[Reaction Calorimeter]] 
+ *[[Thomsen-Berthelot principle]] 
+ *[[Julius Thomsen]] 
+ *[[Thermodynamic databases for pure substances]] 
+ *[[Calorimetry]] 
+ *[[Thermal physics]] 
+ 
+ ==References== 
+ < references/ > 
+ 
+ ==Other websites== 
+ *{{cite web|url=http://www.1911encyclopedia.org/Thermochemistry|title=Thermochemistry|publisher=1911 Classic Encyclopedia|accessdate=2011-10-02}} 
+ *{{cite web|url=http://chemistry.about.com/od/physicalchemistrythermo/a/thermochemlaws.htm|title=Laws of Thermochemistry: Understanding Enthalpy and Thermochemical Equations|publisher=About.com|accessdate=2011-10-02|archive-date=2011-09-05|archive-url=https://web.archive.org/web/20110905050849/http://chemistry.about.com/od/physicalchemistrythermo/a/thermochemlaws.htm|url-status=dead}} 
+ *{{cite web|url=http://www.science.uwaterloo.ca/~cchieh/cact/c120/thermosum.html|title=Thermochemistry|publisher=University of Waterloo|accessdate=2011-10-02|archive-date=2011-10-02|archive-url=https://web.archive.org/web/20111002212954/http://www.science.uwaterloo.ca/~cchieh/cact/c120/thermosum.html|url-status=dead}} 
+ *{{cite web|url=http://www.chemteam.info/Thermochem/Thermochem.html|title=Thermochemistry|publisher=ChemTeam|accessdate=2011-10-02}} 
+ {{BranchesofChemistry}} 
+ 
+ {{Use American English}} 
+ {{authority control}} 
+ [[Category:Physical chemistry]]

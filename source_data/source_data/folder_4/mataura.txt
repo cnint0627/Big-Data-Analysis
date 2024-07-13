@@ -1,0 +1,118 @@
+{{Infobox settlement 
+ < !--See Template:Infobox Settlement for additional fields that may be available-- > 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |name                   =  Mataura 
+ |official_name          =  
+ |other_name             = 
+ |native_name            =  
+ |nickname               =  
+ |settlement_type        =  < !-- e.g. Town, Village, City, etc.-- > 
+ |total_type             = Territorial  < !-- to set a non-standard label for total area and population rows -- > 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          =  
+ |imagesize              =  
+ |image_caption          =  
+ |image_flag             =  
+ |flag_size              = 
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           =  
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              = {{infobox mapframe|coord={{coord|46|11|S|168|52|E}}|zoom=10}} 
+ |mapsize                =  
+ |map_caption            = Location of Mataura 
+ |image_map1             =  
+ |mapsize1               =  
+ |map_caption1           =  
+ |image_dot_map          = 
+ |pushpin_map            =  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ |pushpin_map_caption    = 
+ |pushpin_mapsize        = 
+ < !-- Location ------------------ > 
+ |subdivision_type       = [[List of sovereign states|Country]] 
+ |subdivision_name       = New Zealand 
+ |subdivision_type1      = [[List of regions in New Zealand|Region]] 
+ |subdivision_name1      = [[Southland, New Zealand|Southland]] 
+ |subdivision_type2      = [[Territorial authority]] 
+ |subdivision_name2      = [[Gore District, New Zealand|Gore District]] 
+ |subdivision_type4      = Ward 
+ |subdivision_name4      = Mataura Ward 
+ |leader_title           = Regional council 
+ |leader_name            = [[Southland Regional Council]] 
+ |leader_title2          = Territorial Authority 
+ |leader_name2           = [[Gore District Council]] 
+ |leader_title3          = [[Community boards in New Zealand|Community board]] 
+ |leader_name3           = Mataura Community Board < ref > {{cite web |title=Elected Representatives - Gore District Council |url=https://www.goredc.govt.nz/council/about-us/elected-representatives |website=www.goredc.govt.nz |publisher=Gore District Council |access-date=11 July 2022}} < /ref > 
+ 
+ < !-- Smaller parts (e.g. boroughs of a city) and seat of government -- > 
+ |seat_type              = 
+ |seat                   = 
+ |parts_type             = 
+ |parts_style            =  < !-- =list (for list), coll (for collapsed list), para (for paragraph format) 
+                                Default is list if up to 5 items, coll if more than 5-- > 
+ |parts                  =  < !-- parts text, or header for parts list -- > 
+ |p1                     = 
+ |p2                     =  < !-- etc. up to p50: for separate parts to be listed-- >   
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |established_title      =  
+ |established_date       =  
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref                =  < !--Enter: Imperial, to display imperial  before metric-- > 
+ |area_footnotes           =  < ref name= " Area " > {{Cite web|title=ArcGIS Web Application|url=https://statsnz.maps.arcgis.com/apps/webappviewer/index.html?id=6f49867abe464f86ac7526552fe19787| access-date=6 February 2022|website=statsnz.maps.arcgis.com}} < /ref > 
+ |area_total_km2           = 5.33 
+ |area_land_km2            =  
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ < !-- Elevation -------------------------- > 
+ |elevation_footnotes    =   < !--for references: use  < ref >  tags-- > 
+ |elevation_m            =  
+ |elevation_ft           = 
+ |elevation_max_m            =  
+ |elevation_max_ft           = 
+ |elevation_min_m            =  
+ |elevation_min_ft           = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               = {{NZ population data 2018|||y}} 
+ |population_footnotes           =  
+ |population_total               = {{formatnum:{{NZ population data 2018|Mataura|y}}|R}} 
+ |population_density_km2         = auto 
+ |population_urban               = {{formatnum:{{NZ population data 2018|Mataura|y}}|R}} 
+ |population_density_sq_mi       = 
+ < !-- General information  --------------- > 
+ |timezone=[[Time in New Zealand|NZST]] 
+ |utc_offset=+12 
+ |timezone_DST=NZDT 
+ |utc_offset_DST=+13 
+ |coor_pinpoint         = < !-- can be used to specify exactly where/what the coordinates refer to -- > 
+ |coordinates            = {{coord|46|11|S|168|52|E|display=inline}} 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       = Postcode(s) 
+ |postal_code            =  
+ |area_code              = 03 
+ |website                =  
+ |blank_name             = Local [[iwi]] 
+ |blank_info             = [[Ngāi Tahu]] 
+ |footnotes              =  
+ }} 
+ '''Mataura''' is a town in the [[Southland, New Zealand|Southland]] region of [[South Island]], [[New Zealand]]. It has a meat processing plant and until 2000, it had a paper mill. It has a primary school. It is located 13 kilometers southwest of [[Gore, New Zealand|Gore]] and 53 kilometers northeast of [[Invercargill]] on State Highway 1. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Gore District, New Zealand}} 
+ {{geo-stub}} 
+ 
+ [[Category:Towns in Southland Region]] 
+ [[Category:Gore District]]

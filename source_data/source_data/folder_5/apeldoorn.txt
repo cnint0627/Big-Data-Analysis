@@ -1,0 +1,90 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Apeldoorn 
+ | settlement_type         = [[Cities of the Netherlands|City]] and [[List of municipalities of the Netherlands|Municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Apeldoorn Raadhuis.JPG 
+ | image_alt               =  
+ | image_caption           = Former town hall in 2012 
+ | image_flag              = Apeldoorn vlag.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Coat of arms of Apeldoorn.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 0200 (2009).svg 
+ | map_alt                 = Highlighted position of Apeldoorn in a municipal map of Gelderland 
+ | map_caption             = Location in Gelderland 
+ | coordinates             = {{coord|52|13|N|5|58|E|region:NL|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = Country 
+ | subdivision_name        = [[Netherlands]] 
+ | subdivision_type1       = Province 
+ | subdivision_name1       = [[Gelderland]] 
+ | government_footnotes    =  < ref name= " mayor_now " > {{cite web  
+  |url = http://www.apeldoorn.nl/ter/politiekenorganisatie/politiekenorganisatie-College-van-burgemeester-en-wethouders/politiekenorganisatie-College-van-burgemeester-en-wethouders-Kennismaking-Burgemeester-John-Berends.html 
+  |title = Burgemeester John Berends 
+  |trans-title=Mayor John Berends 
+  |language = nl 
+  |publisher = Gemeente Apeldoorn 
+  |access-date = 11 June 2014}} < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = [[Christian Democratic Appeal|CDA]] 
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[John Berends]] 
+ < !-- Geographic information -- > 
+ | total_type              = Municipality 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Apeldoorn}} 
+ | area_land_km2           = {{Dutch municipality land area|Apeldoorn}} 
+ | area_water_km2          = {{Dutch municipality water area|Apeldoorn}} 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web  
+  |url = http://www.ahn.nl/postcodetool 
+  |title = Postcodetool for 7311LG 
+  |language = nl 
+  |author =  < !--Staff writer(s); no by-line.-- >   
+  |work = Actueel Hoogtebestand Nederland 
+  |publisher = Het Waterschapshuis 
+  |access-date = 11 June 2014}} < /ref > 
+ | elevation_m             = 16 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > < ref > {{Dutch municipality population urbanmetro|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Apeldoorn}} 
+ | population_as_of        = Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}} 
+ | population_density_km2  = {{Dutch municipality population density|Apeldoorn}}  < !-- For automatic calculation: auto-- > 
+ | population_urban        = {{Dutch municipality population urbanmetro|Apeldoorn Urban}} 
+ | population_metro        = {{Dutch municipality population urbanmetro|Apeldoorn Metro}} 
+ | population_demonym      = Apeldoornaar, Apeldoorner, Apeldorenaar 
+ < !-- Other information -- > 
+ | timezone                = [[Central European Time|CET]] 
+ | utc_offset              = +1 
+ | timezone_DST            = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST          = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 3888, 7300–7381 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 055, 0577 
+ | website                 = {{URL|1=http://www.apeldoorn.nl}} 
+ | footnotes               = 
+ }} 
+ '''Apeldoorn''' is a city in [[Gelderland]] in the [[Netherlands]]. It has about 160,000 [[inhabitant]]s. The [[Het Loo Palace]] is in Apeldoorn. This was summer home of the Dutch Royal family. < ref > {{cite web |url=https://www.veterans.gc.ca/eng/feature/netherlands/history/apeldoorn |title=Apeldoorn - History - The Liberation Of The Netherlands - Anniversaries And Features - Veterans Affairs Canada |work=veterans.gc.ca |year=2014 |access-date=26 January 2014 |archive-date=7 January 2012 |archive-url=https://web.archive.org/web/20120107152330/http://www.veterans.gc.ca/eng/feature/netherlands/history/apeldoorn |url-status=dead }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Gelderland Province}} 
+ 
+ 
+ {{eu-stub}} 
+ 
+ [[Category:Apeldoorn| ]]

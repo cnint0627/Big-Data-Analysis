@@ -1,0 +1,32 @@
+[[File:Intel 8742 153056995.jpg|right|thumb|230px|The [[integrated circuit]] from an [[Intel]] 8742, an 8-bit microcontroller that includes a [[CPU]] running at 12 MHz, 128 bytes of [[RAM]], 2048 bytes of [[EPROM]], and [[Input/output|I/O]] in the same chip.]] 
+ 
+ A '''microcontroller''' ([[Abbreviation|abbreviated]] '''MCU''' or '''µC''') is a [[computer]] system on a [[Integrated circuit|chip]] that does a job. It contains an integrated [[processor]], [[Computer memory|memory]] (a small amount of RAM, program memory, or both), and programmable [[input/output]] [[peripheral]]s, which are used to interact with electronic components connected to the chip. < ref > " Embedded Systems Dictionary "  by Jack Ganssle and Mike Barr, p.173 < /ref >  A '''microcontroller''' is different than a [[microprocessor]], which only contains a [[CPU]] (the kind used in a [[PC|Personal Computer]]). < ref > {{cite web|url=https://electronics.howstuffworks.com/microcontroller.htm|title=How Microcontrollers Work|date=1 April 2000|website=HowStuffWorks}} < /ref > 
+ 
+ First released in 1971 by the [[Intel]] company, microcontrollers began to become popular in their first few years. The extremely useful Intel 8008 microprocessor was then released, but it was still impractical because of high cost for each chip. These first microcontrollers combined different types of computer [[Computer memory|memory]] on one unit. < ref > " Microcontrollers: Theory and Applications "  by Ajay V Deshmukh, p.6 < /ref >  After people began to see how useful they were, micro controllers were constantly being upgraded, with people trying to find new ways to make them better. Cost was reduced over time and by the early [[2000s]], microcontrollers were widely used across the world. 
+ 
+ Other terms for a microcontroller are [[embedded system]] and embedded controller, because the microcontroller and its support circuits are often built into, or embedded in, a single chip. < ref > {{cite web|url=https://www.webopedia.com/TERM/M/microcontroller.html|title=What is Microcontroller? Webopedia Definition|first=Vangie|last=Beal|website=www.webopedia.com|date=8 September 1997 }} < /ref > 
+ 
+ In addition to the usual [[Arithmetic logic unit|arithmetic and logic elements]] of a general microprocessor, the microcontroller also has additional elements such as [[RAM]] for data storage, [[read-only memory]] for program storage, [[flash memory]] for permanent data storage, and other devices ([[peripheral]]s). < ref > {{cite web|url=http://www.mikroe.com/ebooks/architecture-and-programming-of-8051-mcus/what-are-microcontrollers-and-what-are-they-used-for|title=Architecture and programming of 8051 MCUs (Ebook) 1.1|website=MikroElektronika}} < /ref > 
+ 
+ Microcontrollers often operate at very low speed compared to microprocessors used in [[smartphone]] < nowiki/ > s and [[personal computer]] < nowiki/ > s. Clock speeds may be as little as 32 & nbsp;kHz, but this is useful for typical applications. They consume very little power (milliwatts or even micro watts). < ref > {{cite web|url=https://www.engineersgarage.com/tutorials/difference-between-microprocessor-and-microcontroller|title=Difference between Microprocessor and Microcontroller|last=EngineersGarage|website=www.engineersgarage.com}} < /ref > 
+ 
+ Microcontrollers are used in automatic products and [[device]]s, such as car [[engine]] systems, [[remote control]]s, [[machine]]s, [[appliance]]s, power [[tool]]s, and [[toy|toys.]] These are called [[embedded system]]s. Microcontrollers can also be found at work in solar power and energy harvesting, anti-lock braking systems in cars, and have many uses in the medical field as well. < ref >  http://www.ti.com/lsds/ti/microcontrollers_16-bit_32-bit/applications.page < /ref > 
+ 
+ Like other integrated circuits, microcontrollers are designed on special masks, and are later treated with [[ultraviolet]] light, which creates special traces (usually made out of [[silicon]]) that build up different parts of the integrated circuit.  Modern microcontrollers may use technology producing silicon traces as small as 2µm. < ref > citation needed < /ref > 
+ 
+ ==Related pages== 
+ * [[Arduino]] 
+ * [[Atmel AVR]] 
+ * [[Intel]] 
+ * [[Microprocessor]] 
+ * [[CPU]] 
+ *Texas Instruments 
+ 
+ == References == 
+ 
+ < references/ > 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Computer hardware]]

@@ -1,0 +1,29 @@
+{{distinguish|website}} 
+ {{Infobox Website 
+ | name           = WebCite 
+ | logo           = WebCite.svg 
+ | screenshot     = 
+ | caption        = 
+ | url            = {{URL|https://webcitation.org/}} 
+ | commercial     = No 
+ | type           = 
+ | language       = English 
+ | registration   = 
+ | owner          = [[University of Toronto]] 
+ | author         = [[Gunther Eysenbach]] 
+ | launch_date    = {{Start date and age|1997}} 
+ | current_status = Online 
+ | revenue        = 
+ }} 
+ '''WebCite''' is a service that [[wikt:archive|archives]] [[web page]]s. A user asks WebCite to archive a certain [[Uniform Resource Locator|URL]], and then WebCite will make a copy of what the page looks like at that time. [[Author]]s use this when writing [[cite|citations]]. If the webpage changes or is removed ( " [[link rot]] " ), there is still a copy on WebCite. This is very important when writing papers for [[academic]] journals or for school. Using the WebCite service is free (it costs no money.) 
+ 
+ WebCite saves many kinds of internet content. Some of these are: 
+ * [[HTML]] web pages 
+ * [[PDF]] files 
+ * [[Cascading Style Sheets|CSS]] [[style sheet (web development)|style sheets]] 
+ * [[JavaScript]] 
+ * [[digital images]] (pictures) 
+ 
+ It also saves some [[information]] ( " [[metadata]] " ) about the original content. This information includes the time it was saved, the [[MIME type]], and how long it is. This information is useful because it can prove that the archive version is [[Authentication|authentic]]. 
+ 
+ [[Category:Websites]]

@@ -1,0 +1,35 @@
+[[File:Protoplasts Petunia sp.jpg|thumb|right|Protoplasts of cells from a petunia's leaf]] 
+ [[File:Physcomitrella protoplasts.jpg|thumb|Protoplasts of ''Physcomitrella patens'']] 
+ 
+ '''Protoplast''' in modern [[biology]], is what is left of a cell when the cell wall is dissolved. That leaves the cell's [[Cell nucleus|nucleus]] and the surrounding [[protoplasm]]ic materials. 
+ 
+ Definition: a protoplast is a [[plant]], [[bacterium|bacteria]]l or [[fungus|fungal]] cell that had its [[cell wall]] completely or partially removed using either mechanical or [[enzyme|enzymatic]] means. 
+ 
+ Because cell walls are made differently in the different [[kingdom (biology)|kingdoms]], different enzymes are used to remove them. 
+ 
+ ==Enzymes for the preparation of protoplasts== 
+ Cell walls are made of a variety of [[polysaccharide]]s.  Protoplasts can be made by degrading cell walls with a mixture of the appropriate polysaccharide-degrading [[enzyme]]s: 
+ {| border= " 1 "  cellpadding= " 2 " 
+ !Type of cell 
+ !Enzyme 
+ |- 
+ | [[Plant cell]]s 
+ |[[Cellulase]], [[pectinase]], [[xylanase]] 
+ |- 
+ | [[Gram-positive]] bacteria  
+ | [[Lysozyme]] (+[[EDTA]]) 
+ |- 
+ | [[Fungus|Fungal]] cells 
+ | [[Chitinase]] 
+ |} 
+ 
+ The reason for removing the cell walls is to allow many different experimental techniques to be used. 
+ 
+ Protoplasts are widely used for [[DNA]] [[Transformation (genetics)|transformation]] (for making [[genetically modified organism]]s), since the cell wall would otherwise block the passage of DNA into the cell. < ref > {{cite journal |authors=Davey M.R. ''et al'' 2005 |title=Plant protoplasts: status and biotechnological perspectives |journal=Biotechnol. Adv. |year=2005 |volume=23 |issue=2 |pages=131–71  |pmid=15694124 |doi=10.1016/j.biotechadv.2004.09.008}} < /ref >  In the case of plant cells, protoplasts can be regenerated into whole plants. < ref > {{cite journal |doi=10.1007/s12033-007-0031-3 |author=Thorpe T.A. 2007 |title=History of plant tissue culture |journal=Mol. Biotechnol. |year=2007 |volume=37 |issue=2 |pages=169–80  |pmid=17914178|s2cid=25641573 }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Genetic engineering]] 
+ [[Category:Research methods]] 
+ [[Category:Plant physiology]]

@@ -1,0 +1,27 @@
+'''Branching''' is a term in [[linguistics]]. It refers to the way a [[phrase]] or [[sentence]] is made up. There is a '''head word''' and various other words to make the phrase or sentence. 
+ 
+ ==Examples== 
+ Most languages make phrases with a head word and dependents (modifiers). These examples show the phrase heads in bold.  
+ 
+ Examples of left-branching phrases (= head-final phrases): 
+ ::the '''house'''  < small > - Noun phrase (NP) < /small > 
+ ::very '''happy'''  < small > - Adjective phrase (AP) < /small > 
+ ::too '''slowly'''  < small > - Adverb phrase (AdvP) < br > < /small > 
+ 
+ Examples of right-branching phrases (= head-initial phrases): 
+ ::'''laugh''' loudly  < small > - Verb phrase (VP) < /small > 
+ ::'''with''' luck  < small > - Prepositional phrase (PP) < /small > 
+ ::'''that''' it happened  < small > - Subordinator phrase (SP = subordinate clause) < /small > 
+ 
+ Example of phrases that contain both left- and right-branching (= head-medial phrases): 
+ ::the '''house''' there  < small > - Noun phrase (NP) < /small > 
+ ::very '''happy''' with it  < small > - Adjective phrase (AP) < /small > 
+ ::only '''laugh''' loudly  < small > - Verb phrase (VP) < /small > 
+ 
+ Most structures in English are, however, not completely left- or completely right-branching, but rather they combine both. The following trees show a combination of left- and right-branching in English: 
+ 
+ :::[[File:Branching6.jpg|Branching picture 6]] 
+ 
+ There are more right-branching structures than left-branching structures in English. This means that trees usually grow down to the right. 
+ 
+ [[Category:Linguistics]]

@@ -1,0 +1,55 @@
+{{Automatic taxobox 
+ | name = Dracohors 
+ | fossil_range =  
+ | image =  
+ | image_upright = 1.3 
+ | image_caption =  
+ | taxon = Dracohors 
+ | authority =  
+ | subdivision_ranks = Major groups 
+ | subdivision = *[[Dinosauria]] 
+ *{{extinct}}[[Silesaur]] 
+ | synonyms = Dinosauromorpha 
+ }} 
+ 
+ '''Dracohors''' is a group in [[taxonomy]], the system scientists use to put living things in groups.  It is below a [[phylum]] but above an [[order (biology)|order]].  It is a [[clade]].  The clade Dracohors contains [[dinosaurs]], [[birds]] and [[Siledauridae]]. < ref name= > {{cite journal|title=PATHOLOGICAL BONE TISSUE IN A LATE TRIASSIC NEOTHEROPOD FIBULA, WITH IMPLICATIONS FOR THE INTERPRETATION OF MEDULLARY BONE|author1=Christopher T. Griffin|url=https://www.researchgate.net/publication/332844977|publisher=NEW JERSEY STATE MUSEUM INVESTIGATIONS|volume= 6|year= 2018|access-date=August 25, 2020}} < /ref > 
+ 
+ The name ''dracohors'' comes from [[Latin language|Latin]]: ''draco'' for  " dragon "  and ''hors'' for  " group "  or  " circle. " < ref name=cau2018 > {{Cite journal |author=Andrea Cau |year=2018 |title=The assembly of the avian body plan: a 160-million-year long process |journal=Bollettino della Società Paleontologica Italiana |volume=57 |issue=1 |pages=1–25 |doi=10.4435/BSPI.2018.01 |url=http://paleoitalia.org/media/u/archives/01_Cau_2018_BSPI_571.pdf |access-date=August 25, 2020 |archive-date=July 1, 2021 |archive-url=https://web.archive.org/web/20210701020747/http://paleoitalia.org/media/u/archives/01_Cau_2018_BSPI_571.pdf |url-status=dead }} < /ref >   
+ 
+ 
+ {{clade| style=font-size:100%; line-height:100% 
+ |label1=Dracohors 
+ |1={{clade 
+    |1=†[[Silesaur]] (including ''[[Pisanosaurus]]'' < ref name=Pisanosaurus2017 > {{cite journal|last1=Agnolín|first1=Federico L.|last2=Rozadilla|first2=Sebastián|title=Phylogenetic reassessment of ''Pisanosaurus mertii'' Casamiquela, 1967, a basal dinosauriform from the Late Triassic of Argentina|journal=Journal of Systematic Palaeontology|date=2017|volume=16|issue=10|pages=853–879|doi=10.1080/14772019.2017.1352623|s2cid=90655527|url=https://figshare.com/articles/journal_contribution/5277811 }} < /ref > < ref name=cau2018 / >  )[[File:Silesaurus opolensis flipped.jpg|80 px]] 
+    |label2=[[Dinosauria]] 
+    |2={{clade 
+       |1={{Clade 
+       |label1=†[[Herrerasauridae|Herrerasauria]] 
+       |1={{Clade 
+          |1=†[[Herrerasauridae]] [[File:Herrerasaurus ischigualastensis Illustration.jpg|80 px]] 
+          |2={{Clade 
+             |1=†''[[Tawa hallae|Tawa]]''[[File:Tawa hallae dino 01.JPG|80 px]] 
+             |2=†''[[Daemonosaurus]]''[[File:Daemonosaurus chauliodus.jpg|80 px]] }} }} }}  
+       |2={{Clade 
+       |1={{Clade 
+          |1=†[[Sauropodomorpha]][[File:Diplodocus carnegii.jpg|80 px]] 
+          |2={{Clade 
+             |1=†''[[Eodromaeus]]''[[File:Eodromaeus 400 AJV.png|80 px]] 
+             |2={{Clade 
+                |label1=[[Ornithoscelida]] 
+                |1={{Clade 
+                   |1=†[[Ornithischia]][[File:Triceratops by Tom Patker.png|80 px]] 
+                   |2=[[Theropoda]][[File:Megalosaurus dinosaur.png|80 px]]}} }} }} }} }} }} }} }} 
+ 
+ ==Related pages== 
+ *[[Dinosaurs]] 
+ *[[List of dinosaurs]] 
+ *[[Dinosaur brains and intelligence]] 
+ *[[K/T extinction event]] 
+ 
+ ==References== 
+ {{reflist}} 
+ {{biology-stub}} 
+ 
+ [[Category:Dinosaurs| ]] 
+ [[Category:Taxonomy]]

@@ -1,0 +1,141 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > | official_name            = Neyshabur 
+ | other_name               =  
+ | native_name              = نیشابور 
+ | nickname                 =  
+ | settlement_type          =  < !--For Town or Village (Leave blank for the default City)-- > 
+ | motto                    =  < !-- images and maps  ----------- > 
+ | image_skyline            = {{Photomontage 
+ | photo1a=Mausoleum of Omar Khayyám.jpg 
+ | photo2b=َAttar tomb.jpg 
+ | photo2a= Abbasi Karvansaray in Neyshabur.jpg 
+ | photo3a=Plaster tile Louvre MET 40-170-166.jpg 
+ |photo4a = Imam Zadeh Mahroogh in Early Morning Mist.jpg 
+ | photo5a=Planetarium of Omar Khayyam - Nishapur 28.JPG| photo5b=295A4380.jpg 
+ | photo6b =Ligna moskeo ĉe Nejŝaburo (Irano) 001.jpg 
+ | photo6a =Tomb of Kamal-ol-Molk (Neyshabur) 003.jpg 
+ | size    = 260  
+ | foot_montage =  < div style= " background:#fee8ab; " >  ''' From top to bottom and from left to right:''' < br/ > [[Mausoleum of Omar Khayyám]], [[Shah Abbasi Caravansarai, Nishapur|Shah Abbasi Caravansarai]], [[Mausoleum of Attar of Nishapur]], An archeological discovery of Nishapur, [[Persian gardens|Imamzadeh Mohammad Mahrouq and Khayyam's garden]], [[Dome]] of [[Khayyam]] [[Planetarium]], [[Amin Eslami Mansion]], [[Tomb of Kamal-ol-molk|Kamal Al-Molk Tomb]] and the [[Wooden Mosque|Wooden Mosque of Nishapur]].}} < /div > 
+ | imagesize                =  
+ | image_caption            =  
+ | image_flag               =  
+ | flag_size                =  
+ | flag_link                =  
+ | image_seal               =  
+ | seal_size                =  
+ | seal_link                =  
+ | image_shield             =  
+ | shield_size              =  
+ | shield_link              =  
+ | city_logo                =  
+ | citylogo_size            =  
+ | logo_link                =  
+ | image_map                =  
+ | mapsize                  =  
+ | map_caption              =  
+ | image_map1               =  
+ | mapsize1                 =  
+ | map_caption1             =  
+ | image_dot_map            =  
+ | dot_mapsize              =  
+ | dot_map_caption          =  
+ | dot_x                    =  
+ | dot_y                    =  
+ | pushpin_map              = Iran  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | pushpin_label_position   =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_map_caption      =  
+ | pushpin_mapsize          =  < !-- Location ------------------ > 
+ | subdivision_type         = Country  < !--Country-- > 
+ | subdivision_name         = {{IRN}}   < !--the name of the country-- > 
+ | subdivision_type1        = [[Provinces of Iran|Province]] 
+ | subdivision_name1        = [[Razavi Khorasan Province|Razavi Khorasan]] 
+ | subdivision_type2        = [[Counties of Iran|County]] 
+ | subdivision_name2        = [[Nishapur County]] 
+ | subdivision_type3        =  
+ | subdivision_name3        =  
+ | subdivision_type4        =  
+ | subdivision_name4        =  < !-- Politics ----------------- > 
+ | government_footnotes     =  
+ | government_type          =  
+ | leader_title             =  
+ | leader_name              =  
+ | leader_title1            =  < !-- for places with, say, both a mayor and a city manager -- > 
+ | leader_name1             =  
+ | leader_title2            =  
+ | leader_name2             =  
+ | leader_title3            =  
+ | leader_name3             =  
+ | leader_title4            =  
+ | leader_name4             =  
+ | established_title        =  < !-- Settled -- > 
+ | established_date         =  
+ | established_title2       =  < !-- Incorporated (town) -- > 
+ | established_date2        =  
+ | established_title3       =  < !-- Incorporated (city) -- > 
+ | established_date3        =  < !-- Area    --------------------- > 
+ | area_magnitude           =  
+ | unit_pref                =  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_footnotes           =  
+ | area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ | area_water_km2           =  
+ | area_total_sq_mi         =  
+ | area_land_sq_mi          =  
+ | area_water_sq_mi         =  
+ | area_water_percent       =  
+ | area_urban_km2           =  
+ | area_urban_sq_mi         =  
+ | area_metro_km2           =  
+ | area_metro_sq_mi         =  
+ | area_blank1_title        =  
+ | area_blank1_km2          =  
+ | area_blank1_sq_mi        =  < !-- Population   ----------------------- > 
+ | population_as_of         = 2005 
+ | population_footnotes     =  
+ | population_note          = Census 
+ | population_total         = 270972 
+ | population_density_km2   =  
+ | population_density_sq_mi =  
+ | population_metro         =  
+ | population_density_metro_km2 =  
+ | population_density_metro_sq_mi =  
+ | population_urban         =  
+ | population_density_urban_km2 =  
+ | population_density_urban_sq_mi =  
+ | population_blank1_title  =  
+ | population_blank1        =  
+ | population_density_blank1_km2 =  
+ | population_density_blank1_sq_mi =  
+ | population_demonym       =  < !-- General information  --------------- > 
+ | timezone                 = [[Iran Standard Time|IRST]] 
+ | utc_offset               = +3:30 
+ | timezone_DST             =  
+ | utc_offset_DST           =  
+ | coordinates              = {{coord|36|12||N|058|48||E||display=title}} 
+ | elevation_footnotes      =  < !--for references: use  < ref >   < /ref >  tags-- > 
+ | elevation_m              = 1250 
+ | elevation_ft             =  < !-- Area/postal codes  &  others -------- > 
+ | postal_code_type         =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | postal_code              =  
+ | area_code                =  
+ | blank_name               =  
+ | blank_info               =  
+ | blank1_name              =  
+ | blank1_info              =  
+ | website                  =  
+ | footnotes                =  
+ | name                     = Nishapur 
+ }} 
+   
+ '''Nishapur''' is a historial city in northeast [[Iran]] and the cultural capital of the Khorasan region. In 2005, about 270,940 people lived there. < ref > [http://www.mongabay.com/igapo/2005_world_city_populations/Iran.html Cities in Iran] < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ {{Commonscat}} 
+ 
+ 
+ {{Asia-stub}} 
+ 
+ [[Category:Cities in Iran]] 
+ [[Category:Razavi Khorasan Province]]

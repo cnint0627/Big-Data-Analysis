@@ -1,0 +1,9 @@
+'''SuperCollider''' is a programming language designed especially for sound and music. Artists and musicians use it to create pieces of music, or interactive sound sculptures, or other computer-based audio things. < ref name= " sc1996 " > J. McCartney, [http://www.audiosynth.com/icmc96paper.html SuperCollider: A new real time synthesis language] {{Webarchive|url=https://web.archive.org/web/20130810034531/http://www.audiosynth.com/icmc96paper.html |date=2013-08-10 }}, in Proc. International Computer Music Conference (ICMC’96), 1996, pp. 257–258. < /ref > < ref name= " sc2002 " > J. McCartney, [https://dx.doi.org/10.1162/014892602320991383 Rethinking the computer music language: SuperCollider], Computer Music Journal, 26 (2002), pp. 61–68. < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Programming languages]]

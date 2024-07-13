@@ -1,0 +1,5 @@
+'''Headway''' is the distance or duration between vehicles in a [[Transport|transit system]] measured in space or time. The ''minimum headway'' is the shortest such distance or time got by a system without a reducing the speed of vehicles. The exact meaning depends on the application, but it is most commonly measured as the distance from the tip (front end) of one vehicle to the tip of the next one behind it. It can be shown as the distance between vehicles, or as time it will take for the drifting vehicle to cover that distance. A  " shorter "  headway marks closer space between the vehicles. 
+ 
+ {{Transport-stub}} 
+ 
+ [[Category:Transport]]

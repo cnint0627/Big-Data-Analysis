@@ -1,0 +1,92 @@
+[[File:Jaguar head shot.jpg|thumb|right|Light-morph [[Jaguar]] (typical)]] 
+ [[File:Black jaguar.jpg|thumb|right|Dark-morph or [[Melanism|melanistic]] Jaguar (about 6% of the South American population)]] 
+ [[File:Hugorme.jpg|right|thumb|250px|The [[adder]] ''Viperus berus'': normal and melanistic colour patterns]] 
+ 
+ '''Polymorphism'''  < ref > {{lang-el|πολύ}} = many, and ''μορφή'' = form, figure, silhouette < /ref >  in biology is when two or more clearly different [[phenotype]]s exist in the same population of a species. < ref name=Ford1975/ >  The words ''forms'' or ''morphs'' are sometimes used. < ref > Polymorphism as described here involves morphs of the [[phenotype]]. The term is also used somewhat differently by molecular biologists to describe certain point mutations in the [[genotype]], such as [[single nucleotide polymorphism|SNPs]] (see also [[RFLP]]s). This usage is not discussed on this page. < /ref > 
+ 
+ Polymorphism is common in nature. The most common example is [[sexual dimorphism]], which occurs in many organisms.  
+ Another example is [[sickle-cell anaemia]]. 
+ 
+ In order to be classified as such, morphs must occupy the same habitat at the same time and belong to a population with [[random mating]]. < ref name=Ford1965 > [[E.B. Ford|Ford E.B.]] 1965. ''Genetic polymorphism''. Faber  &  Faber, London. < /ref > 
+ 
+ == The switch == 
+ The mechanism which decides which of several morphs an individual displays is called the ''switch''. This switch may be genetic, or it may be environmental. Taking sex determination as the example, in man the determination is genetic, by the XY [[sex determination]] system. In [[Hymenoptera]] ([[ants]], [[bees]] and [[wasp]]s), sex determination is by haplo-diploidy: the females are all [[diploid]], the males are [[haploid]]. 
+ 
+ However, in some animals an environmental trigger determines the sex: [[alligator]]s are a good example. In ants the distinction between workers and guards is environmental, by the feeding of the grubs. Polymorphism with an environmental trigger is called [[polyphenism]]. 
+ 
+ The polyphenic system does have a degree of environmental flexibility not present in the genetic polymorphism. However, such environmental triggers are the less common of the two methods. 
+ 
+ == Genetic polymorphism == 
+ Since all polymorphism has a genetic basis, ''genetic polymorphism'' has a particular meaning: 
+ * Genetic polymorphism: two or more distinct forms at the same time and place. The proportion of the rarest form must be above [[mutation]] rate (and so it is supported by selection of some kind). < ref name=Ford1965/ > {{rp|11}} < ref name=Ford1940 > Ford E.B. 1940.  " Polymorphism and taxonomy " . In [[Julian Huxley]] (ed) ''The New Systematics''. Oxford: Clarendon Press, 493–513. {{ISBN|1-930723-72-5}} < /ref > 
+ 
+ The definition has three parts: a) [[sympatry]]: one interbreeding population; b) discrete forms; and c) not maintained just by mutation. 
+ 
+ Genetic polymorphism is actively and steadily maintained in populations by [[natural selection]]. This contrasts with ''transient polymorphisms'' where a form is progressively replaced by another. < ref name=Begon > Begon, Townsend, Harper. 2006. ''Ecology: from individuals to ecosystems''. 4th ed, Blackwell, Oxford. {{ISBN|1-4051-1117-8}} < /ref > {{rp|6-7}} 
+ 
+ By definition, genetic polymorphism relates to a balance or equilibrium between morphs. The mechanisms that conserve it are types of [[balancing selection]]. 
+ 
+ === Balancing selection === 
+ *[[Heterosis]] (or [[heterozygote advantage]]):  " Heterosis: the [[Heterozygous|heterozygote]] at a [[Locus (genetics)|locus]] is fitter than either [[Homozygous|homozygote]] " . < ref name=Ford1975/ > < ref name=Ford1965/ > < ref name=Smith1998/ > {{rp|65}} 
+ *[[Frequency dependent selection]]: The fitness of a particular phenotype is dependent on its frequency relative to other phenotypes in a given population. Example: [[prey switching]], where rare morphs of prey are actually fitter due to predators concentrating on the more frequent morphs. < ref name=Ford1975/ > < ref name=Begon/ > 
+ *[[Fitness]] varies in time and space. Fitness of a genotype may vary greatly between larval and adult stages, or between parts of a habitat range. < ref name=Ford1965/ > {{rp|26}} 
+ *[[Natural selection|Selection]] acts differently at different levels. The fitness of a genotype may depend on the fitness of other genotypes in the population: this covers many natural situations where the best thing to do (from the point of view of survival and reproduction) depends on what other members of the population are doing at the time. < ref name=Smith1998/ > {{rp|17+ch7}} 
+ 
+ == Examples == 
+ === Humans === 
+ ==== Sickle-cell anaemia ==== 
+ Such a balance is seen more simply in [[Sickle-cell disease|sickle-cell anaemia]], which is found mostly in tropical populations in [[Africa]] and [[India]]. 
+ 
+ An individual [[homozygous]] for the [[recessive]] sickle [[haemoglobin]], HgbS, has a short expectancy of life. < ref > {{cite journal |author=Platt OS, Brambilla DJ, Rosse WF |display-authors = etal |title=Mortality in sickle cell disease: life expectancy and risk factors for early death |journal=N. Engl. J. Med. |volume=330 |issue=23 |pages=1639–44 |date=June 1994  |pmid=7993409 |url=http://content.nejm.org/cgi/content/full/330/23/1639 |doi=10.1056/NEJM199406093302303 |issn=0028-4793}} < /ref >  The life expectancy of the standard haemoglobin (HgbA) homozygote and also the [[heterozygote]] is normal (though heterozygote individuals will suffer periodic problems). 
+ 
+ The sickle-cell variant survives in the population ''because the heterozygote is resistant to [[malaria]]'' and the [[Plasmodium|malarial parasite]] kills a huge number of people each year. 
+ 
+ This is [[heterozygote advantage]], a  kind of balance between fierce selection against homozygous sickle-cell sufferers, and selection against the standard HgbA homozygotes by malaria. The heterozygote has a permanent advantage (a higher fitness) so long as malaria exists; and it has existed as a human [[parasite]] for a long time. Because the heterozygote survives, so does the HgbS [[allele]] survive at a rate much higher than the [[mutation]] rate. < ref > Allison A.C. 1956. The sickle-cell and Haemoglobin C genes in some African populations. ''Ann. Human Genet.'' '''21''', 67-89. < /ref > < ref > Ford E.B. 1973 [1942]. ''Genetics for medical students''. 7th ed,  London: Chapman  &  Hall. < /ref > 
+ 
+ ==== Lactase persistence ==== 
+ [[Mammal]]s normally produce [[lactase]] only as long as the mother has milk. Then the enzyme lactase is cut off. Modern humans are different. 
+ 
+ The human ability to drink [[milk]] during adult life is supported by a [[lactase]] mutation. Human populations have a high proportion of this mutation wherever milk is important to the diet. The spread of milk tolerance is promoted by natural selection: it helps people survive where milk is available. 
+ 
+ Genetic studies suggest that the oldest [[mutation]]s associated with [[lactase persistence]] only reached appreciable levels in human populations in the last ten thousand years. < ref name= " CoehloEtal2002 " > Coelho M. ''et al.'' 2002. Microsatellite variation and evolution of human lactase persistence. ''Human Genetics'' '''117'''(4): 329–339. < /ref > < ref name= " BersaglieriEtal2004 " > Bersaglieri T. ''et al.'' 2004. Genetic signatures of strong recent positive selection at the lactase gene. ''American Journal of Human Genetics'' '''74'''(6): 1111–20. < /ref >  Therefore, lactase persistence is often cited as an example of [[Human evolution#Recent and current human evolution|recent human evolution]]. < ref name= " Wade2006 " > Wade N. 2006. [https://www.nytimes.com/2006/12/10/science/10cnd-evolve.html Study detects recent instance of human evolution]. ''The New York Times''. December 10, 2006. < /ref > < ref name= " Swaminathan2006 " > Swaminathan, N. 2006. [http://www.scientificamerican.com/article.cfm?id=african-adaptation-to-dig African adaptation to digesting milk is  " strongest signal of selection ever " ]. ''Scientific American'' December 11, 2006. < /ref >  As lactase persistence is genetic, but animal husbandry a cultural trait, this is [[gene]]–[[culture]] [[coevolution]]. < ref name= " Aoki2001 " > Aoki K. 2001. Theoretical and empirical aspects of gene–culture coevolution. ''Theoretical Population Biology'' '''59'''(4): 253–261. < /ref > 
+ 
+ === Ants === 
+ [[Ant]]s exhibit a range of polymorphisms. First, there is their characteristic haplodiploid [[sex determination]] system, whereby all males are [[haploid]], and all females are [[diploid]]. 
+ 
+ Second, there is differentiation based mostly on feeding of [[larvae]]. This determines, for example, whether the adult is capable of reproduction. 
+ 
+ Lastly, there is differentiation of size and 'duties' (particularly of females), which are usually controlled by feeding and/or age, but which may sometimes be genetically controlled. Thus the order exhibits both genetic polymorphism and extensive polyphenism. < ref > Wilson E.O. 1953. The origin and evolution of polymorphism in ants. ''Quarterly Review of Biology'', '''28'''(2):136–156. DOI:10.1086/399512. < /ref > < ref > Rossa K.G.; Kriegera M.J. B.; Shoemaker D.D. 2003. Alternative genetic foundations for a key social polymorphism in Fire Ants. ''Genetics'', '''165''':1853–1867. < /ref > 
+ 
+ === Heterostyly === 
+ [[Image:Distyly primula.jpg|thumb|left|180px|Dissection of thrum and pin flowers of ''[[Primula vulgaris]]'']] 
+ 
+ An example of a botanical genetic polymorphism is heterostyly, in which flowers occur in different forms with different arrangements of the [[pistil]]s and the [[stamen]]s. 
+ 
+ Pin and thrum heterostyly occurs in dimorphic species of ''[[Primula]]'', such as ''[[Primula vulgaris|P. vulgaris]]''. There are two types of flower. The '''pin''' flower has a long style bearing the stigma at the mouth and the stamens half-way down; and the '''thrum''' flower has a short style, so the stigma is half-way up the tube and the stamens are at the mouth. 
+ 
+ So when an insect in search of nectar inserts its proboscis into a long-style flower, the pollen from the stamens stick to the proboscis in exactly the part that will later touch the stigma of the short-styled flower, and vice versa. < ref > [[Charles Darwin|Darwin, Charles]] 1862. On the two forms, or dimorphic condition, in the species of ''Primula'', and on their remarkable sexual relations. ''Journal of the Proceedings of the Linnaean Society (Botany)'' '''6''', 77–96. < /ref > < ref > Darwin, Charles.  1877. ''The different forms of flowers on plants of the same species''. London: Murray. < /ref > 
+ 
+ Another most important property of the heterostyly system is physiological. If thrum pollen is placed on a thrum stigma, or pin pollen on a pin stigma, the reproductive cells are incompatible and relatively little seed is set. Effectively, this ensures [[outcrossing]], as described by Darwin. Quite a lot is now known about the underlying genetics; the system is controlled by a set of closely [[Genetic linkage|linked]] genes; < ref > 'closely linked' means close on the same [[chromosome]]. < /ref >  these act as a single unit, a so-called super-gene. < ref name=Ford1975 > Ford E.B. 1975. ''Ecological genetics''. 4th ed, London: Chapman  &  Hall. < /ref > < sup > ch10 < /sup > < ref name=Smith1998 > Maynard Smith, John 1998. ''Evolutionary genetics''. 2nd ed, Oxford: Oxford U. Pr. < /ref > < sup > p86 < /sup > < ref name=Sheppard > Sheppard, Philip M. 1975. Natural selection and heredity. 4th ed, London: Hutchinson. 
+ < /ref > 
+ 
+ All sections of the genus ''Primula'' have heterostyle species, altogether 354 species out of 419. < ref > Bruun H.G. 1938. Studies on heterostyle plants 2. ''Svensk. Bot. Tidskr.'' '''32''', 249-260. < /ref >  Since heterostyly is characteristic of nearly all races or species, the system is at least as old as the genus. < ref > Darlington C. 1958. ''Evolution of genetic systems'', 2nd ed, p120 et seq: The genetic promotion of crossing. Oliver  &  Boyd, London. < /ref > 
+ 
+ Between 1861 and 1863, Darwin found the same kind of structure in other groups, such as [[flax]] (''Linum'') and in Purple Loosestrife and other species of ''[[Lythrum]]''. < ref > Darwin, Charles. 1977 (collection).  Barrett P.H. (ed) ''The collected papers of Charles Darwin''.  [[Chicago, Illinois|Chicago]]: Chicago University Press. < /ref > 
+ 
+ Heterostyly is known in at least 51 genera of 18 families of Angiosperms. < ref > Darlington C. 1971. The evolution of polymorphic systems. In Creed R. (ed) ''Ecological genetics and evolution''. Blackwell, Oxford. < /ref > < ref > Charlesworth B  &  D. 1979. The evolutionary genetics of sexual systems in flowering plants. ''Proc Royal Soc B'' '''205''', 513-30. < /ref > 
+ 
+ === ''Drosophila'' === 
+ Studies over many years have shown that natural populations of ''[[Drosophila]]'' are polymorphic for [[chromosome]] inversions. < ref > When a part of a chromosome gets reversed end to end, so the genes run in the opposite direction to before. < /ref >  The inversions are so common that they must be kept in the population by natural selection. < ref > Dobzhansky, Theodosius 1981. ''Dobzhansky's Genetics of natural populations''. Lewontin R.C.; Moore J.A.; Provine W.B.; Wallace B. (eds) New York: Columbia University Press. < /ref > < ref > Krimbas C.B.  &  Powell J.R. (eds) 1992. ''Drosophila inversion polymorphism''. CRC Press, Boca Raton, FL. < /ref > 
+ 
+ == Related pages == 
+ *[[Evolution]] 
+ *[[Adaptation]] 
+ *[[Mimicry]] 
+ *[[Genetics]] 
+ *[[Leaf-cutter ant]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Evolutionary biology]] 
+ [[Category:Classical genetics]]

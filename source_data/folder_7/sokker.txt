@@ -1,0 +1,94 @@
+{{Infobox VG 
+ | title = Sokker Manager < ref > [http://website.informer.com/online.sokker.org Website Informer, 28 November 2011] < /ref > 
+ | image =  
+ | developer = Sokker Developers  
+ * Known by their Sokker usernames - greg, damian, rysio, Julius, rym3k, Arnau and grzbak 
+ | engine = [[HTML]], [[PHP]], [[MySQL]] 
+ | version = 0.69 (match engine)` 
+ | released = 2004 
+ | genre = online manager, football manager 
+ | modes = [[MMOG]] 
+ | platforms = Computer, Mobile 
+ | requirements = Web Browser, Internet, [[Adobe Flash Player|Adobe Flash Player 11]] 
+ | input = [[Keyboard (computing)|Keyboard]], [[Mouse (computing)|mouse]] 
+ }} 
+ 
+ '''Sokker Manager''' is a realistic, [[browser|browser-based]] online football manager game ([[MMOG]]) with an exclusive [[3D]] match engine and a [[2D]] match engine. The game, developed in [[Poland]], began in early 2004 and currently has 98 [[FIFA]] countries which users can register to, and as of February 2012, there were over 52,000 registered users world-wide. Each month, Sokker is voted one of the best sports game on the internet, out of the top 50 sports game. < ref > {{Cite web |url=http://worldonlinegames.com/genre/sports-games/Default.aspx |title=WorldOnlingGames, Top 50 sports games |access-date=2012-06-01 |archive-date=2012-06-02 |archive-url=https://web.archive.org/web/20120602100015/http://www.worldonlinegames.com/genre/sports-games/Default.aspx |url-status=dead }} < /ref > < ref > {{Cite web |url=http://internetgames.about.com/od/freegames/tp/soccergames.htm |title=About.com Articles, Top Free Online Soccer Games |access-date=2012-06-01 |archive-date=2011-10-27 |archive-url=https://web.archive.org/web/20111027173102/http://internetgames.about.com/od/freegames/tp/soccergames.htm |url-status=dead }} < /ref > 
+ 
+ The game is [[free software|free]] to play, however there is an optional  " Plus "  service which will give users access to additional in-game tools that can help them progress as a manager. < ref name=plus > [http://www.sokker.org/ www.sokker.org  > >  Plus] < /ref >  As a manager, you are in complete control of a team, where you must select players and use strategic tactics in order to defeat the opponent. 
+ 
+ ==Gameplay== 
+ The basic idea of Sokker is to manage your own [[football]] team, trying to promote yourself without going financially bankrupt. To do this, you must buy and sell players, optimizing your teams performance while making money to improve the club. You will also have to be able to use the tactical editor to take advantage of your players skills. However, this all depends on the playing style of a user, each have their own. Whether you play to train up players, or to try to beat your friend, you will encounter many economical and tactical barriers that will force you to expand your knowledge as a manager. Sokker is different to many other soccer management games, due to it having a [[2D]] Flash match viewer and as from 2012, a new exclusive [[3D]] Flash Match Viewer. This enables users to watch their managerial skills in action through the comfort of an animated football match. < ref > [http://www.onlinesportmanagers.com/game-profile/soccer-6-sokker/ OnlineSportsManagers, Sokker Profile and Description] < /ref > 
+ 
+ ===Players=== 
+ Each player has 8 main skills, which will define them where they play on the pitch. These are; 
+ 
+ :'''Stamina''' - This skill indicates how long a player can play before becoming fatigued. 
+ :'''Pace''' - Determines how fast the player is. 
+ :'''Technique''' - This skill affects the technical ability a player will have, such as skill of controlling a pass, chance of mis-kicking, pace of dribbling, skill of passing a [[Defender (football)|defender]]. Technique is highly valued in most positions on the field. 
+ :'''Passing''' - This skill determines the accuracy of player’s passes (both kicks and headers). The accuracy means both the right direction and power, so that the team-mate will be able to receive the ball as easily as possible. 
+ :'''Keeper''' - This skill is only useful for keepers. It determines effectiveness of saves and their quality. The higher the skill, the more often the keepers catch the ball or clears it cleverly (away from the strikers). 
+ :'''Defender''' - The higher the defending skill, the greater the chance of tackling an opponent, and the greater the distance from the opponent that a defender will be able to make a tackle. This is the skill most desirable for defenders but can be helpful for midfielders and attackers. Also, technique effects the defending skills, the greater their technique, the more chance they have of dribbling past the player. 
+ :'''Playmaking''' - Players with high playmaking skill make their decisions who to pass to quicker, as well as choosing the best positioned player to pass the ball to. 
+ :'''Striker''' - Determines the accuracy and the force of kicks. 
+ 
+ There are also several other parameters that will affect a player during a game and their career; < br / > 
+ : 
+ :'''Form''' - Determines whether the player can take advantage of his skills in full. Players that are out of form will perform worse than they would if they were in a higher level of form. 
+ :'''Team Discipline''' - It reflects how accurately the player will follow the tactic during the match. Tactical Discipline is based on two subskills: Experience and Team-work. 
+ :'''Talent''' - Hidden ability of the player to enhance his skills. Determines the efficiency of training for both a first team player and a junior training in the sub junior school. 
+ :'''Age''' - After each season your players get older by one year. Younger players enhance their skills faster. As a player approaches his 30's, his skills may begin to gradually deteriorate. The older a player the faster the deterioration. 
+ :'''Height''' - Taller players will have better chances to win aerial duels when heading the ball. However, shorter players will be quicker in speeding up from a standing start.. 
+ :'''Weight''' - If a player is too light, they will speed up slower, as they have a lower muscle mass. In addition a player with a high weight will speed up slower, as they are too heavy. Heavy players will tire more quickly, compared to lighter players. 
+ 
+ ===Juniors System=== 
+ 
+ On Sokker, you can choose whether your club will have a youth school or not. This is where young players are coached. The juniors are young players with too little experience or skills to play in official matches. In a youth school, you can occupy up to a maximum of 30 occupants to train. The juniors will stay in the youth school for a set number of weeks, during that time, they will increase in skills as they are coached. For your youths to train however, you will need to assign a Junior Coach. His general appraisal will determine how quickly the juniors will improve their skills. He will also decide when a player is ready for testing in the first team line-up. Your junior coach’s general skill decides on how accurately the general skill of each junior is estimated. The higher the coach level, the more exact the junior level determined. Also, the more matches your junior plays, the more adequately the coach knows his total skill and shows it to you. You are only shown an overall skill of the junior and will not see their individual skills until you contract them when they leave the youth school. However, by playing them in youth matches, managers can use that to estimate their skills and positions. 
+ 
+ ===Training=== 
+ In order for player's skills to increase, players must be properly trained. Most types of training demand that the player played in the selected position during the week, in the friendly/cup game and/or the league game. A player who played in the same position (i.e., as a def) twice during the week will train better than one who played in only one game. Similarly, a player who played in an official match will train better than one who just played in a friendly. If a player played in two different positions during the week, the last match counts. Each player will train at different speeds based up to their hidden individual talent and the coach training them. If a player has a high talent, he is more likely to train faster than a player with a lower talent. When selecting a coach, the feature that counts most is his individual skills; his general appraisal does not influence the effectiveness of training. Select a head coach who has a high ability in training the skill you have chosen for the individual training. 
+ 
+ ===Tactical Editor=== 
+ The Tactics Editor is used to create your tactics and formations for future matches. You can find it by going to the match orders page of any future match and then clicking on the [Edit] link underneath the pitch image. Or alternatively, you can go to the training page, then at the top, click on “Tactics”. There are default tactics that can be used during the match, however users are able to create their own tactic. It is the Tactical Editor, that for many users, defines Sokker from all other online soccer manager games. There are 35 squares in the tactics editor, making the number of tactics you could create limitless, and allowing the user to select where they would like to put a player. However, there is a maximum of 100 tactics you could save. The tactics you create and choose could ultimately be the decider whether a football match is won or lost. 
+ 
+ ===Stadium=== 
+ Every team has a stadium to host their home games. Optimizing the stadium size, stand types and ticket prices is very important to keep the team's financial health, as revenue coming from tickets is one of the main sources of income of every team. 
+ 
+ There are four stand types: 
+ :'''Grass (standing)''': In each sector with grass, only 100 standing spectators are allowed by the sideline. 
+ :'''Terraces''': Standing places made of concrete. It is the second cheapest type of stand. There are certain regulations imposed by [[the Football Association]], restricting the size of stands with terraces. Your stadium cannot be solely made up of terraces. 
+ :'''Benches''': A stand with sitting places but not as comfortable as seats. 
+ :'''Seats''': The more expensive and luxurious stand. Building seats is more expensive than building benches, but they can bring more spectators to see the matches as some of them expect seats to sit in when watching their team. 
+ 
+ There are many factors which will affect the attendance at a match, some of these include supporter mood, match type, size of supporters club, ticket prices, weather and stand preferences. It is possible to change the ticket prices from a range of 1 £ to 150 £. However, there are also a default price for stand types: 
+ 
+ ===Grass and Field=== 
+ In June 2012, Sokker introduced a new modification to grass the playing field. A new aspect, implemented in 2012, includes modifications and implementations around Grass and the Field. These features include; 
+ 
+ : " '''Grass Type''' - This feature allows you to choose what type of grass you would like to have in your stadium. There are different qualities of grass, each will have a different optimum condition depending on the quality of the grass. (see below). 
+ :'''Grass Mow''' - You can customise what you would like your field to look like. There are many options for you to choose from, for example you could choose to have a field with no specific mow, or you might want the grass to be mowed diagonally to produce diagonal lines of different colour gradient. Plus users will also be able to place their team logos with selected position and size. 
+ :'''Grass Condition''' - The condition of the grass will gradually get weaker each match and will need time to recover. The recovery rate of the grass will depend on the weather; it will grow best when it is not too hot and not too wet. There is though, a new feature that allows for a quicker recovery, through spending money on pitch maintenance. This will be available in the arena section. The other solution of pitch recovery is to lay new grass of the selected type. Also, different types of grass will have a different maximum condition. For example, garden grass will not reach much more than 50% of condition, so it will not be as good. On the pitch, in an area of weak condition, the ball may bounce in an unpredictable direction due to the unevenness of the grass, and also may jump in a direction a player didn't want when dribbling. The probability of injury will be higher on a pitch with poor condition and lower on a pitch with better condition (higher than 50% condition). 
+ :'''Pitch Size''' - On Sokker, you have the ability to change the size of your pitch, to how big (or small), you desire. This new feature may benefit how you use your tactics. The pitch modification will cost depending on the type of grass you have, and which grass mow you have. " < ref > [http://www.sokker.org www.sokker.org  > >  News] < /ref > 
+ 
+ ===Plus features=== 
+ Although Sokker is entirely free to play, the game also has a premium feature called Plus. The purchase of Plus unlocks additional features that helps managers with their career, it does not however, give any unfair advantage over other users; '' " They just get more fun from the game - if you are not a subscriber, you have the same chance to achieve your goals in Sokker, as those with Plus. " '' < ref name=plus/ >  Match kits, Training effects monitoring, graphs, unlimited access to watch all matches, are just few of the features gained when you subscribe to plus. 
+ 
+ ==Community== 
+ The community of Sokker has expanded the enjoyment far beyond the Sokker.org website. There are many supplemented websites and third party add-ons that enhance the Sokker experience.  
+ Also, forum exists in many formats. There are international forums, national forums, division forums, friendly league forums, association forums, private forums and many more that enhance the communication between the Sokker users, enhancing the game enjoyment. 
+ 
+ ===Third Party Tools=== 
+ Programs and scripts, both standalone and browser-based are welcomed by Sokker as they enhance the experience of Sokker users. Sokker data can be downloaded through XML-files provided on the sokker.org website. Applications and programs take many forms. Managers Assistants such as oSokker < ref > {{Cite web |url=http://www.sokker.cz/cs/osokker?pg=15 |title=oSokker, Version 1.29 |access-date=2012-06-01 |archive-date=2013-01-21 |archive-url=https://web.archive.org/web/20130121114600/http://www.sokker.cz/cs/osokker?pg=15 |url-status=dead }} < /ref >  and Android Application for Androids < ref > [https://play.google.com/store/apps/details?id=com.lv.sokkermanager Android Sokker Manager, Version 1.0.7]{{Dead link|date=September 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  and Blackberry playbook generally help managers by organizing various team data and displaying it graphically and/or archiving it. There are also other tools, such as NT Database, designed specifically for NT managers that help NT managers organize the NT players. 
+ 
+ ==References== 
+ < references/ > 
+ 
+ ==Other websites== 
+ # [http://www.sokker.org Sokker Official Website] 
+ # [http://www.sokkeritalia.org/ Sokker Italian Website and Forum] 
+ # [http://ntdb.sokker.cz/ NT Database] {{Webarchive|url=https://web.archive.org/web/20120626153858/http://ntdb.sokker.cz/ |date=2012-06-26 }} 
+ 
+ [[Category:Association football]] 
+ [[Category:Online games]] 
+ [[Category:Sports video games]] 
+ [[Category:2004 video games]]

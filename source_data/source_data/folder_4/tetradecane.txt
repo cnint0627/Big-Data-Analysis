@@ -1,0 +1,77 @@
+{{chembox 
+ | ImageFile      = Tetradecane.svg 
+ | ImageFile1     = Tetradecane 3D ball.png 
+ | ImageSize      = 270 
+ | ImageAlt       = Structural formula of tetradecane 
+ | ImageFile_Ref  = {{chemboximage|correct|??}} 
+ | ImageSize1     = 270 
+ | ImageAlt1      = Ball-and-stick model of the tetradecane molecule 
+ | ImageFile1_Ref = {{chemboximage|correct|??}} 
+ | PIN            = Tetradecane < ref > {{cite web|title=tridecane - Compound Summary|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=12389 & loc=ec_rcs|work=PubChem Compound|publisher=National Center for Biotechnology Information|accessdate=2018-08-23|location=USA|date=16 September 2004|at=Identification}} < /ref > 
+ | Section1       = {{Chembox Identifiers 
+ | CASNo = 629-59-4 
+ |  EINECS = 292-448-0 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 03LY784Y58 
+ |  PubChem = 12389 
+ |  ChemSpiderID = 11883 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | KEGG =  
+ | KEGG_Ref = {{keggcite|changed|kegg}} 
+ | MeSHName = tetradecane 
+ |  ChEBI = 41253 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL =  
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS =  
+ | Beilstein =  
+ | SMILES = CCCCCCCCCCCCCC 
+ | StdInChI = 1S/C14H30/c1-3-5-7-9-11-13-14-12-10-8-6-4-2/h3-13H2,1-2H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ |  StdInChIKey = BGHCVCJVXZWKCC-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ }} 
+ | Section2       = {{Chembox Properties 
+ | C=14 | H=30  
+ | Appearance = Colourless liquid 
+ | Odor = Gasoline-like to odorless 
+ | Density = 0.762 g mL < sup > −1 < /sup > 
+ | MeltingPtK = 277 to 279 
+ | BoilingPtK = 526 to 530 
+ | LogP =  
+ | VaporPressure =  
+ | HenryConstant =  
+ | RefractIndex =  
+ }} 
+ | Section3       = {{Chembox Thermochemistry 
+ | DeltaHf =  45.07 kJ mol < sup > −1 < /sup > 
+ | DeltaHc = -9.46466 to -9.39354 MJ mol < sup > −1 < /sup > < ref > Prosen, E. J.,  &  Rossini, F. D. (1945). HEATS OF COMBUSTION AND FORMATION OF THE PARAFFIN HYDROCARBONS AT 25 C. Journal of Research of the National Bureau of Standards, 34, 263-269. < /ref > 
+ | HeatCapacity = J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ }} 
+ | Section4       = {{Chembox Hazards 
+ | GHSPictograms = {{gHS exclamation mark}} 
+ | GHSSignalWord = '''WARNING''' 
+ | HPhrases =  
+ | PPhrases =  
+ | FlashPtC = 99 
+ | LD50 = g kg < sup > −1 < /sup >   < small > (intravenous, mouse) < /small > 
+ }} 
+ | Section5       = {{Chembox Related 
+ | OtherFunction_label = alkanes 
+ | OtherFunction = {{unbulleted list|[[Tridecane]]|[[Pentadecane]]}} 
+ }} 
+ | Verifiedfields = changed 
+ | verifiedrevid  = 470613912 
+ }} 
+ '''Tetradecane''' is an alkane hydrocarbon with the chemical formula CH < sub > 3 < /sub > (CH < sub > 2 < /sub > ) < sub > 12 < /sub > CH < sub > 3 < /sub > . 
+ 
+ It has 14 carbon atoms and 30 hydrogen atoms. It has more isomers than other homologous series behind it. < ref > {{Cite web|last=PubChem|title=Tetradecane|url=https://pubchem.ncbi.nlm.nih.gov/compound/12389|access-date=2021-11-30|website=pubchem.ncbi.nlm.nih.gov|language=en}} < /ref >   
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Alkanes]] 
+ 
+ 
+ {{chem-stub}}

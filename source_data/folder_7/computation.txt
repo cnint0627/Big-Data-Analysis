@@ -1,0 +1,14 @@
+'''Computation''' is the act of [[wikt:determine|determining]] (working out) something by [[Information processing|processing]] [[information]]. It involves using specific [[Protocol|rules]], either [[Mathematics|mathematical]] or [[logic]]al. It may or may not involve using [[number]]s; the computation of numbers and [[arithmetic]] is generally called ''[[wikt:calculation|calculation]]''. < ref > {{cite web|url=http://science.jrank.org/pages/7536/Calculation-Computation.html|title=Calculation and Computation - Premodern, Early Modern, Non-western, Late Modern Period, Contemporary Period, Bibliography|publisher=Net Industries|access-date=25 January 2014}} < /ref >  The study of computation is called [[computer science]]. 
+ 
+ The [[theory of computation]] involves determining whether a certain problem can be solved by computation. 
+ 
+ == Related pages == 
+ * [[Algorithm]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Theoretical computer science]] 
+ 
+ 
+ {{sci-stub}}

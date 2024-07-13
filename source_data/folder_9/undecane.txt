@@ -1,0 +1,79 @@
+{{Chembox 
+ | ImageFile      = Undecane-2D-Skeletal.svg 
+ | ImageFile1     = UndecaneFull.png 
+ | ImageFile2     = Undecane 3D ball.png 
+ | ImageSize      = 255 
+ | ImageAlt       = Structural formula of undecane 
+ | ImageFile_Ref  = {{chemboximage|correct|??}} 
+ | ImageSize1     = 255 
+ | ImageAlt1      = Skeletal formula of undecane with all implicit carbons shown, and all explicit hydrogens added 
+ | ImageFile1_Ref = {{chemboximage|correct|??}} 
+ | ImageSize2     = 255 
+ | ImageAlt2      = Ball-and-stick model of the undecane molecule 
+ | ImageFile2_Ref = {{chemboximage|correct|??}} 
+ | PIN            = Undecane < ref > {{Cite web|title=undecane - Compound Summary|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=14257 & loc=ec_rcs|work=PubChem Compound|publisher=National Center for Biotechnology Information|access-date=5 January 2012|location=USA|date=16 September 2004|at=Identification and Related Records}} < /ref > 
+ | Section1       = {{Chembox Identifiers 
+ | CASNo = 1120-21-4 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 14257 
+ | ChemSpiderID = 13619  
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = JV0QT00NUE 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | EINECS = 214-300-6 
+ | UNNumber = 2330 
+ | MeSHName = undecane 
+ | ChEBI = 46342 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 132474 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS = YQ1525000 
+ | Beilstein = 1697099 
+ | SMILES = CCCCCCCCCCC 
+ | StdInChI = 1S/C11H24/c1-3-5-7-9-11-10-8-6-4-2/h3-11H2,1-2H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = RSJKGSCJYJTIGS-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ }} 
+ | Section2       = {{Chembox Properties 
+ | C=11 | H=24  
+ | Appearance = Colorless liquid 
+ | Odor = Gasoline-like to Odorless 
+ | Density = 740 mg mL < sup > −1 < /sup > 
+ | MeltingPtK = 246.6 to 248.2 
+ | BoilingPtK = 466 to 470 
+ | LogP = 6.312 
+ | VaporPressure = 55 Pa (at 25 °C) < ref name= " Yaws " > {{cite book |last1=Yaws |first1=Carl L.|title= Chemical Properties Handbook|url=https://archive.org/details/chemical-properties-handbook-physical-thermodynamics-engironmental-transport-saf |year= 1999|publisher= McGraw-Hill|location= New York|isbn= 0-07-073401-1|pages= [https://archive.org/details/chemical-properties-handbook-physical-thermodynamics-engironmental-transport-saf/page/159 159]-179}} < /ref > 
+ | HenryConstant = 5.4 nmol Pa < sup > −1 < /sup >  kg < sup > −1 < /sup > 
+ | RefractIndex = 1.417 
+ | MagSus = -131.84·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+ }} 
+ | Section3       = {{Chembox Thermochemistry 
+ | DeltaHf = −329.8–−324.6 kJ mol < sup > −1 < /sup > 
+ | DeltaHc = −7.4339–−7.4287 MJ mol < sup > −1 < /sup > 
+ | Entropy = 458.15 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ | HeatCapacity = 345.05 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ }} 
+ | Section4       = {{Chembox Hazards 
+ | GHSPictograms = {{GHS skull and crossbones}} {{GHS health hazard}} 
+ | GHSSignalWord = '''DANGER''' 
+ | HPhrases = {{H-phrases|304|315|319|331|335}} 
+ | PPhrases = {{P-phrases|261|301+310|305+351+338|311|331}} 
+ | FlashPtC = 62.0 
+ }} 
+ | Section5       = {{Chembox Related 
+ | OtherFunction_label = alkanes 
+ | OtherFunction = {{Unbulleted list|[[Decane]]|[[Dodecane]]}} 
+ }} 
+ | Watchedfields  = changed 
+ | verifiedrevid  = 470619567 
+ }} 
+ '''Undecane'''/'''hendecane''' is a liquid alkane hydrocarbon with the chemical formula CH < sub > 3 < /sub > (CH < sub > 2 < /sub > ) < sub > 9 < /sub > CH < sub > 3 < /sub > .  It has eleven carbon and 24 hydrogen atoms. It has more isomers than decane and nonane, it has over 159 isomers. Here is the implicit diagram of Undecane. < ref > {{Cite web|title=Undecane|url=https://webbook.nist.gov/cgi/cbook.cgi?ID=C1120214 & Mask=4|access-date=2021-11-29|website=webbook.nist.gov|language=en}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Alkanes]] 
+ 
+ 
+ {{chem-stub}}

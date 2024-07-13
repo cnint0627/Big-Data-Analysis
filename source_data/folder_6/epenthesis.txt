@@ -1,0 +1,56 @@
+'''Epenthesis''' is a term in [[phonology]]. It refers to adding one or more sounds to a word.  
+ 
+ If it is added at the beginning, it is called ''prothesis''. If added at the end of the word, it is called ''paragoge''. There are two types of epenthesis:  when a [[consonant]] is added, and  when a [[vowel]] is added. The opposite process where one or more sounds are removed is called '''elision'''. 
+ 
+ == Uses == 
+ Epenthesis can happen for many reasons. The rules of how sounds are placed in a language may not allow vowels next to each other, but in different syllables. Some consonant clusters may not be allowed. In this situation a consonant or vowel can be added to make pronunciation easier. Epenthesis may be shown in writing or may happen in spoken language. 
+ 
+ === Separating vowels === 
+ A consonant can be added to separate spoken vowels in hiatus. This happens with linking and intrusive R, which is a rule that puts an 'r' in a place where it doesn't normally happen. 
+ 
+ * ''drawing'' →  ''draw'''r'''ing'' (in speech). 
+ 
+ === Linking consonant clusters === 
+ A consonant can be placed between consonants in a consonant cluster where the [[place of articulation]] is different (e.g.,  where one consonant is [[Labial consonant|labial]] (pronounced with the lips) and the other is [[Alveolar consonant|alveolar]].  
+ 
+ * ''something'' → ''some'''p'''thing'' (but not in standard English). 
+ 
+ === Breaking consonant clusters === 
+ A vowel can be placed between consonants to separate them. 
+ 
+ * ''Hamtramck''  →  ''Hamtram'''i'''ck'' 
+ 
+ Regular examples in English are ''-i-'', used in making words from [[Latin language|Latin]] such as ''equ'''i'''distant'', and ''-o-'', used in making words from [[Greek language|Greek]] roots or general [[compound words]], as in ''speed'''o'''meter''. 
+ 
+ === Sound change in history === 
+ * [[Latin]] {{Lang|la|tremulare}}  >  French {{Lang|fr|trembler}} ( " to tremble " ) 
+ * [[Old English]] {{Lang|ang|thunor}}  >  English ''thunder'' 
+ * French {{Lang|fr|messager}}, {{Lang|fr|passager}}  >  English ''messenger'', ''passenger'' 
+ * French {{Lang|fr|message}}, {{Lang|fr|messager}}  >  Portuguese {{Lang|pt|mensagem}}, {{Lang|pt|mensageiro}} 
+ * Latin {{Lang|la|homine(m)}}  >  ''homne''  >  ''homre''  >  [[Spanish language|Spanish]] {{Lang|es|hom'''b'''re}} ( " man " ) 
+ 
+ === Rules in present-day languages === 
+ In [[French language|French]], {{IPA|/t/}} is placed in inverted [[interrogative]] [[Phrase|phrases]] between a verb that ends in a vowel and a [[pronoun]] that begins with a vowel: {{Lang|fr|il a}} ('he has')  >  {{Lang|fr|a-t-il}} ('has he?').  Because the {{Lang|fr|a-t}} come from Latin {{Lang|la|habet}} ('he has') there is no epenthesis from the point of view of history. This is because the {{Lang|fr|t}} is the original third-person [[verb]] [[inflection]]. However it is correct to call it epenthesis in the modern language because the modern basic form of the verb is {{Lang|fr|a}}, so the way the process works in the mind is to add a {{Lang|fr|t}} to the basic form. 
+ 
+ A similar example is the [[English language|English]] [[Article (grammar)|indefinite article]] ''a'', which becomes ''an'' before a vowel. It comes from [[Old English]] ''ān'' ( " one, a, an " ), which kept an ''n'' in all positions. From a diachronic (historical) analysis, the original ''n'' disappears, except if a following vowel needs for it to stay: ''an''  >  ''a''. However, with a synchronic analysis people can also see it as epenthesis: ''a''  >  ''an''. This is how most native speakers see it. 
+ 
+ In [[Dutch language|Dutch]], when the suffix ''-er'' (which has several meanings) is placed after a word which already ends in ''-r'', another {{Lang|nl|-d-}} is put in the middle. For example, the comparative form (the form people use to compare things) of the adjective ''zoet'' ( " sweet " ) is ''zoeter'', but the comparative of ''zuur'' ( " sour " ) is ''zuur'''d'''er'' and not the expected *{{Lang|nl|zurer}}. The same happens with the agent (someone who does something) noun form of ''verkopen'' ( " to sell " ) which is ''verkoper'' ( " salesperson " ), but the agent noun of ''uitvoeren'' ( " to perform " ) is ''uitvoer'''d'''er'' ( " performer " ). 
+ 
+ === Variable rule === 
+ In English, people often add a [[stop consonant]] in nasal + fricative combinations: 
+ 
+ * English  < span > ''hamster ''/ˈhæmstər/ < /span > '' ''often pronounced with an added ''p'' sound, [[General American|GA]]: {{IPA|[ˈhɛəmpstɚ]}} or [[Received Pronunciation|RP]]: {{IPA|[ˈhampstə]}} 
+ * English ''warmth''  /ˈwɔːrmθ/  often pronounced with an added ''p'' sound, GA: {{IPA|[ˈwɔɹmpθ]}} or RP: {{IPA|[ˈwoːmpθ]}} 
+ * English ''fence'' /ˈfɛns/  often pronounced {{IPA|[ˈfɛnts]}} 
+ 
+ == Sources == 
+ 
+ * Crowley, Terry. (1997) ''An Introduction to Historical Linguistics.'' 3rd edition. Oxford University Press. 
+ 
+ == Other websites == 
+ * [https://web.archive.org/web/20041028064427/http://humanities.byu.edu/rhetoric/Figures/E/epenthesis.htm Definition at BYU] 
+ 
+ 
+ 
+ [[Category:Figures of speech]] 
+ [[Category:Linguistics]]

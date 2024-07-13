@@ -1,0 +1,18 @@
+[[Image:Iron carbon phase diagram.svg|thumb|right|250px|Iron-carbon phase diagram, showing the conditions under which '''austenite''' (γ) is stable in carbon steel.]] 
+ [[File:IronAlfa & IronGamma.svg|thumb|Allotropes of iron; alpha iron and gamma iron]] 
+ 
+ '''Austenite''' is iron but in a metallic form. It is one of the [[allotropes of iron]], which means its physical form is different from iron, but its chemical form is the same. < ref > {{Cite web|url=http://www.dictionary.com/browse/allotrope|title=Dictionary.com|website=Dictionary|access-date=May 18, 2016}} < /ref > < ref name=Reed-Hill > {{cite book |author=Reed-Hill R, Abbaschian R |title=Physical Metallurgy Principles, 3rd Edition |publisher=PWS-Kent Publishing |location=Boston |year=1991 |isbn=0-534-92173-6 }} < /ref >  It is named after Sir [[William Chandler Roberts-Austen]] (1843–1902). < ref name=Gove > {{cite book |editor=Gove PB |title=Webster's Seventh New Collegiate Dictionary |publisher=G  &  C Merriam Company |location=Springfield, Massachusetts, USA |year=1963 |page=58 }} < /ref > 
+ 
+ ==Austenitization== 
+ 
+ '''Austenitization''' means to heat iron, iron-based metal, or steel to a high temperature. At that temperature, the crystal structure of the metal changes from ferrite to austenite, < ref > {{cite web |author=Nichols R |title=Quenching and tempering of welded carbon steel tubulars |date=Jul 2001 |url=http://www.thefabricator.com/TubePipeFabrication/TubePipeFabrication_Article.cfm?ID=237 }} < /ref > < ref name=Lambers > {{cite journal |author=Lambers HG, Tschumak S, Maier HJ, Canadinc D |title=Role of Austenitization and Pre-Deformation on the Kinetics of the Isothermal Bainitic Transformation |journal=Metal Mater Trans A. |date=Apr 2009 |doi=10.1007/s11661-009-9827-z |bibcode=2009MMTA..tmp...74L |volume=40 |issue=6 |pages=1355–1366 |s2cid=136882327 }} < /ref >  which can dissolve more carbon. 
+ 
+ For some irons, iron-based metals, and steels, the presence of carbides may occur during this austenitization step. The term commonly used for this is '''two-phase austenitization'''. < ref name=smnm > {{cite web |title=Austenitization |url=http://asmcommunity.asminternational.org/portal/site/www/AsmStore/ProductDetails/?vgnextoid=39c04ef322e18110VgnVCM100000701e010aRCRD }} < /ref > 
+ 
+ ==References== 
+ {{reflist|2}} 
+ 
+ ==Other websites== 
+ *[http://www.sv.vt.edu/classes/MSE2094_NoteBook/96ClassProj/examples/kimcon.html Fe-Fe < sub > 3 < /sub > C phase diagram] {{Webarchive|url=https://web.archive.org/web/20080216023642/http://www.sv.vt.edu/classes/MSE2094_NoteBook/96ClassProj/examples/kimcon.html |date=2008-02-16 }} 
+ 
+ [[Category:Iron]]

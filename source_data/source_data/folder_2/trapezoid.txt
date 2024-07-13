@@ -1,0 +1,24 @@
+[[Image:Trapezoid.svg|right|]] 
+ In [[geometry]], A '''trapezoid''' (in North America) or '''trapezium''' (in Britain and elsewhere) is a [[quadrilateral]], which is defined as a [[shape]] with four sides. This shape has two [[parallel (geometry)|parallel]] sides which are called the ''bases'' of the trapezoid, and another two sides called its ''legs''. In North America, the term   " trapezium "  is used for what is elsewhere called an [[irregular quadrilateral]], which has no parallel sides.''' < ref > {{cite web|title=1913 American definition of trapezium|url=http://www.merriam-webster.com/dictionary/trapezium|access-date=2007-12-10|work=Merriam-Webster Online Dictionary}} < /ref > ''' 
+ 
+ == Special cases == 
+ Some trapezoids are special cases where they have at least one noteworthy feature: 
+ 
+ * '''Isosceles trapezoids''': These have legs that are of the same length, and because of that, this trapezoid has a pair of [[Angle|angles]] of the same wideness ([[Congruence|congruent]]). 
+ * '''[[Parallelogram|Parallelograms]]'''ː This is a trapezoid where two pairs of its sides are [[Parallel (geometry)|parallel]] to each other. As a result, there are two pairs of [[Vertex|vertices]] in a parallelogram that are congruent. 
+ * '''Tangential trapezoids'''ː These are trapezoids whose sides can be tangent to a circle placed inside of them, to which the circle is called an incircle. 
+ 
+ ==Calculating area== 
+ To calculate the area of a trapezoid, you must add the two parallel sides together, divide that by 2, then times that by its height. 
+ 
+ : < math > A = \frac{a + b}{2} \cdot h < /math > 
+ 
+ == Other websites == 
+ * [http://mathworld.wolfram.com/Trapezoid.html  " Trapezoid " ] on ''MathWorld'' 
+ * [http://www.mathopenref.com/trapezoid.html Trapezoid definition]  & nbsp; [http://www.mathopenref.com/trapezoidarea.html Area of a trapezoid]  & nbsp; [http://www.mathopenref.com/trapezoidmedian.html Median of a trapezoid] With interactive animations 
+ * [http://www.elsy.at/kurse/index.php?kurs=Trapezoid+%28North+America%29 & status=public Trapezoid (North America)] at elsy.at: Animated course (construction, circumference, area) 
+ 
+ == References == 
+ {{Reflist}}{{Math-stub}} 
+ {{shapes}} 
+ [[Category:Polygons]]

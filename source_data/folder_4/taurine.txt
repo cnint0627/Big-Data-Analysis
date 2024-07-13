@@ -1,0 +1,90 @@
+{{chembox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 413848354 
+ | ImageFile_Ref = {{chemboximage|correct|??}} 
+ | ImageFile = Taurine.svg 
+ | ImageAlt = Skeletal formula of taurine 
+ | ImageFile1 = Taurine zwitterion ball.png 
+ | ImageSize1 = 180 
+ | ImageAlt1 = Ball-and-stick model of the taurine zwitterion 
+ | ImageFile2 = Taurine zwitterion spacefill.png 
+ | ImageSize2 = 180 
+ | ImageAlt2 = Space-filling model of the taurine zwitterion 
+ | ImageSize = 
+ | PIN = 2-Aminoethane-1-sulfonic acid 
+ | OtherNames = 2-Aminoethanesulfonic acid < br / > Tauric acid 
+ |Section1={{Chembox Identifiers 
+ | Abbreviations = 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 1EQV5MLY3D 
+ | InChI = 1/C2H7NO3S/c3-1-2-7(4,5)6/h1-3H2,(H,4,5,6) 
+ | InChIKey = XOAAWQZATWQOTB-UHFFFAOYAA 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 239243 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C2H7NO3S/c3-1-2-7(4,5)6/h1-3H2,(H,4,5,6) 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = XOAAWQZATWQOTB-UHFFFAOYSA-N 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo = 107-35-7 
+ | EINECS = 
+ | PubChem = 1123 
+ | IUPHAR_ligand = 2379 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 1091 
+ | DrugBank_Ref = {{drugbankcite|changed|drugbank}} 
+ | DrugBank = DB01956 
+ | SMILES = O=S(=O)(O)CCN 
+ | RTECS = 
+ | MeSHName = 
+ | ChEBI_Ref = {{ebicite|changed|EBI}} 
+ | ChEBI = 15891 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = 
+ }} 
+ |Section2={{Chembox Properties 
+ | C=2 | H=7 | N=1 | O=3 | S=1 
+ | MolarMass = 125.14 g/mol 
+ | Appearance = 
+ | Density = 1.734 & nbsp;g/cm < sup > 3 < /sup >  (at −173.15 & nbsp;°C) 
+ | MeltingPtC = 305.11 
+ | MeltingPt_notes =  
+ | BoilingPt = 
+ | BoilingPt_notes =  
+ | Solubility = 
+ | SolubleOther = 
+ | Solvent = 
+ | pKa =  < 0, 9.06 
+ | pKb = 
+ | IsoelectricPt = 
+ | LambdaMax = 
+ | Absorbance = 
+ | SpecRotation = 
+ | RefractIndex = 
+ | Viscosity = 
+ | Dipole = }}}} 
+ 
+ '''Taurine''' is an [[organic compound]]. It is up to 0.1% of total human body weight, and is a main constituent of [[bile]]. Taurine is essential for the heart, the [[skeletal muscle|skeletal muscles]], the [[retina]], and the [[nerve|nerves]]. The body makes it from the [[amino acid]] [[cysteine]]. 
+ 
+ Taurine comes from the Latin /taurus/ which means [[bull]] or ox. It was first extracted from [[ox]] bile in 1827. < ref > {{cite journal|title=Einige neue Bestandtheile der Galle des Ochsen|author=F. Tiedemann, L. Gmelin|journal=Annalen der Physik|volume=85|issue=2|pages=326–37|year=1827|doi=10.1002/andp.18270850214|bibcode = 1827AnP....85..326T |last2=Gmelin|url=https://zenodo.org/record/1423514}} < /ref > 
+ 
+ ==Food== 
+ Taurine is in fish and meat. < ref name=Bouckenooghe2006 > {{cite journal|vauthors=Bouckenooghe T, Remacle C, Reusens B |title=Is taurine a functional nutrient?|journal=Current Opinion in Clinical Nutrition and Metabolic Care|volume=9|issue=6|pages=728–33|year=2006|pmid=17053427|doi=10.1097/01.mco.0000247469.26414.55|s2cid=24064647}} < /ref > < ref name=Brosnan2006 > {{cite journal|vauthors=Brosnan J, Brosnan M |title=The sulfur-containing amino acids: an overview|journal=J Nutr|volume=136|issue=6 Suppl|pages=1636S–40S|year=2006|doi=10.1093/jn/136.6.1636S|pmid=16702333}} < /ref > < ref > {{cite journal | author = Huxtable RJ | year = 1992 | title = Physiological actions of taurine | url = https://archive.org/details/sim_physiological-reviews_1992-01_72_1/page/101 | journal = Physiol Rev | volume = 72 | pages = 101–163 | pmid = 1731369 | issue = 1| doi = 10.1152/physrev.1992.72.1.101 }} < /ref >  The daily intake is around 58 mg (range from 9 to 400 mg). It is low or negligible from a strict vegan diet. Taurine intake is generally less than 200 mg/day. < ref > {{cite web|title=Opinion on Caffeine, Taurine and D-Glucurono & nbsp;— g -Lactone as constituents of so-called  " energy "  drinks|publisher=Directorate-General Health and Consumers, European Commission, European Union|date=1999-01-21|url=http://ec.europa.eu/food/fs/sc/scf/out22_en.html}} < /ref > 
+ 
+ ===Energy drinks=== 
+ Synthetic taurine is used to make some  " energy drinks " .  Many contain 1000 & nbsp;mg per serving, < ref > rockstar69.com [http://www.rockstar69.com/productIngredients.php?pdt=1 Original Rockstar Ingredients] {{Webarchive|url=https://web.archive.org/web/20071103154507/http://www.rockstar69.com/productIngredients.php?pdt=1 |date=2007-11-03 }} < /ref >  and some as much as 2000 & nbsp;mg. < ref > {{cite web|url=http://energyfanatics.com/2008/05/03/nos-energy-drink-review/|title=Nos Energy Drink & nbsp;– Review|author=Chang, PL|date=2008-05-03|publisher=energyfanatics.com|access-date=2010-05-21|archive-date=2008-06-17|archive-url=https://web.archive.org/web/20080617092917/http://energyfanatics.com/2008/05/03/nos-energy-drink-review/|url-status=dead}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://gmd.mpimp-golm.mpg.de/Spectrums/6154d00d-dd57-40a7-86b7-a591f6f91dd6.aspx Taurine MS Spectrum] 
+ * [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=TAU Taurine bound to proteins] in the [[Protein Data Bank|PDB]] 
+ 
+ {{Dietary supplement}} 
+ {{Neurotransmitters}} 
+ 
+ [[Category:Physiology]] 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:Organosulfur compounds]]

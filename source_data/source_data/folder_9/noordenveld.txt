@@ -1,0 +1,54 @@
+{{Infobox settlement 
+ | name                    = Noordenveld 
+ | native_name             =  
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           =  
+ | imagesize               = 265px 
+ | image_caption           =  
+ | image_flag              = Flag of Noordenveld.svg 
+ | image_seal              = Coat of arms of Noordenveld.svg 
+ < !-- maps and coordinates -- > 
+ | pushpin_map             = Netherlands 
+ | pushpin_mapsize         = 265px 
+ | pushpin_label_position  =  
+ | pushpin_relief          = yes 
+ | coordinates             = {{coord|53|08|13.9|N|6|26|00.7|E}} 
+ < !-- location -- > 
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{NED}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|Drenthe}} 
+ < !-- government type, leaders -- > 
+ | leader_title            = Mayor 
+ | leader_name             = Klaas Smid 
+ < !-- area -- > 
+ | area_total_km2          = 199.4 
+ < !-- population -- > 
+ | population_total        = 30,958 
+ | population_as_of        = January 1, 2001 
+ | population_density_km2  = 155.3 
+ < !-- time zone(s) -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +01:00 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        = Postal & nbsp;code 
+ | postal_code             = 9300–9349, 9749 
+ | area_code_type          = Area code 
+ | area_code               = 050, 0516, 0592, 0594 
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec2         = [[ISO 3166-2:NL|ISO 3166 code]] 
+ | blank_info_sec2         =  
+ | blank1_name_sec2        = Address 
+ | blank1_info_sec2        =  
+ < !-- website, footnotes -- > 
+ | website                 = {{Official|1=https://www.noordenveld.nl/}} 
+ }} 
+ 
+ '''Noordenveld''' is a municipality in the province of [[Drenthe]], the [[Netherlands]]. In 2019, 31,290 people lived there. 
+ 
+ {{Drenthe Province}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Municipalities of Drenthe]]

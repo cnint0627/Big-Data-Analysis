@@ -1,0 +1,38 @@
+{{complex|date=January 2019}} 
+ [[File:Superpermutation_distribution.png|thumb|Where the permutations are in superpermutation with three different symbols.]] 
+ In [[Combinatorics|combinatorial]] [[Mathematics|math]], a '''superpermutation''' is a list of numbers that contains each different arrangement of symbols it is made up of inside of it. While superpermutations can simply be made up of every arrangement listed side by side, it can also be shorter. Sometimes, the arrangements may overlap. For example, when there are 2 different symbols, the superpermutation 1221 contains all possible arrangements, 12 and 21. The list 121 also contains both permutations, 12 at the beginning and 21 at the end. 
+ 
+ As the number of symbols increases, the length of the superpermutation increases, too. The superpermutation with only 1 symbol is only 1 long (1), while the 2nd superpermutation is 3 long (121). The 3rd superpermutation is 9 long (123121321), and the 4th one is 33 long (123412314231243121342132413214321). The length of the superpermutation with 5 symbols is 153, and it looks like this: < ref > Nathaniel Johnston. (2013). [https://arxiv.org/pdf/1303.4150.pdf Non-Uniqueness of Minimal Superpermutations.] Retrieved 28 January, 2019. < /ref > 
+ 
+ 123451234152341253412354123145231425314235142315423124531243512431 
+ 52431254312134521342513421534213542132451324153241352413254132145 
+ 3214352143251432154321 
+ 
+ So far, [[Mathematician|mathematicians]] have not been able to find the smallest length superpermutation that uses 6 or more symbols. They are slowly getting closer to finding it out. 
+ 
+ == Six or more symbol superpermutations == 
+ Right now, mathematicians do not know what the smallest superpermutation is when there are six or more symbols. However, over time the choices of what they could be have narrowed considerably from both above and below. 
+ 
+ In September 2011, an unknown person on the internet forum [[4chan]] showed people that there was definitely a smallest superpermutation for any superpermutation with more than 1 symbol. On the website, it was called  " The Haruhi Problem " , from a Japanese [[anime]] called ''[[The Melancholy of Haruhi Suzumiya]].'' It was phrased like this: what would be the shortest amount of episodes that you would need to watch in order to guarantee that you watched every episode of a show? In October 2018, mathematician Robin Houston [[Twitter|tweeted]] about it. < ref > {{Cite web|url=https://www.theverge.com/2018/10/24/18019464/4chan-anon-anime-haruhi-math-mystery|title=An anonymous 4chan post could help solve a 25-year-old math mystery|last=Griggs|first=Mary Beth|website=The Verge}} < /ref > < ref > {{Cite web|url=https://twitter.com/robinhouston/status/1054637891085918209|title=A curious situation. The best known lower bound... (1054637891085918209)|last=Houston|first=Robin|website=Twitter|language=en|access-date=27 October 2018}} < /ref >   
+ 
+ On October 25, 2018, Robin Houston, Jay Pantone, and Vince Vatter made the unknown person's proof better and posted it to the mathematics community. 
+ 
+ On October 20 2018, [[Greg Egan]] found smaller superpermutations for ones with six or more symbols than there had ever been. < ref name= " Greg Egan " > {{Cite web|url=http://www.gregegan.net/SCIENCE/Superpermutations/Superpermutations.html|title=Superpermutations|last=Egan|first=Greg|year=20 October 2018|access-date=27 October 2018}} < /ref >  This shows that smallest superpermutation must be at most that size.  
+ 
+ As time goes on, people think that the smallest and largest possible lengths for these superpermutations will be narrowed down further. There is only one definite smallest superpermutation for each number of symbols. 
+ 
+ == Related pages == 
+ * [[Combination (mathematics)]] 
+ * [[Graph theory]] 
+ * [[Permutation]] 
+ * [[Travelling salesman problem]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.njohnston.ca/2013/04/the-minimal-superpermutation-problem/ The Minimal Superpermutation Problem - Nathaniel Johnston's blog] 
+ * {{Cite web|url=https://www.youtube.com/watch?v=wJGE4aEWc28|title=Superpermutations - Numberphile|last=Grime|first=James|website=YouTube|publisher=[[Brady Haran]]|format=video|access-date=1 February 2018}} 
+ 
+ [[Category:Pages with unreviewed translations]] 
+ [[Category:Combinatorics]]

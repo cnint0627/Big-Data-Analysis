@@ -1,0 +1,28 @@
+In [[recreational math]], a '''repdigit''' or a '''monodigit''' < ref name= " beiler " > {{cite book|url=https://archive.org/details/recreationsinthe0000beil|title=Recreations in the Theory of Numbers: The Queen of Mathematics Entertains|last1=Beiler|first1=Albert|date=1966|publisher=Dover Publications|isbn=978-0-486-21096-4|edition=2|location=New York|page=[https://archive.org/details/recreationsinthe0000beil/page/83 83]|url-access=registration}} < /ref >  is a type of [[natural number]]. It is only made of the same repeated [[Numerical digit|digit]]. The word is a [[portmanteau]] of '''rep'''eated and '''digit'''. Examples can be numbers like [[11 (number)|11]], [[666 (number)|666]], 4444, and 999999. Repdigits are palindromic numbers (read the same forwards and backwards) and are [[Multiple|multiples]] of repunits (a number that only has 1 in it). 
+ 
+ Repdigits are the written in [[Radix|base]]  < math > B < /math >  of the number  < math > x\frac{B^y -1}{B-1} < /math >  where ''x'' is the [[digit]] that is repeated ( < math > 0 < x < B < /math > ), and  < math > 1 < y < /math >  is how many times that number repeats. For example, the repdigit 77777 in base 10 is  < math > 7\times\frac{10^5-1}{10-1} < /math > . 
+ 
+ '''Brazilian numbers''' are another way of making repdigits. These are numbers that can be written as a repdigit in any [[Base (mathematics)|base]]. A Brazilian Number can't be the repdigit 11 and it can't be a number with only one [[digit]]. [[27 (number)|27]] would be a Brazilian number because 27 is the repdigit 33 in [[base 8]]. [[9 (number)|9]] is not a Brazilian number because its only repdigit is 11 < sub > 8 < /sub > . < ref name= " schott " > {{cite journal|last=Schott|first=Bernard|date=March 2010|title=Les nombres brésiliens|url=https://oeis.org/A125134/a125134.pdf|journal=Quadrature|language=fr|issue=76|pages=30–38|doi=10.1051/quadrature/2010005}} < /ref >  The first twenty Brazilian numbers are 
+ 
+ : 7, 8, 10, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 30, 31, 32, 33, ... {{OEIS|id=A125134}}. 
+ 
+ == History == 
+ Repdigits were studied since 1974. < ref > {{cite journal|last=Trigg|first=Charles W.|year=1974|title=Infinite sequences of palindromic triangular numbers|url=https://www.mathstat.dal.ca/FQ/Scanned/12-2/trigg.pdf|journal=The Fibonacci Quarterly|volume=12|pages=209–212|mr=354535}} < /ref >  In {{harvtxt|Beiler|1966}}, it was originally called  " monodigit numbers " . < ref name= " beiler "  / >  Brazilian numbers were created later in 1994 in the 9th Iberoamerican Mathematical Olympiad. It took place in [[Fortaleza]], Brazil. The first problem in this [[competition]], proposed by Mexico, was this: < ref > {{cite book|title=Hypermath|author=Pierre Bornsztein|year=2001|location=Paris|page=7, exercice a35 < !--endif p.totales-- > |agency=Vuibert}} < /ref >   
+ < blockquote > 
+ " A number {{nowrap|''n''  >  0}} is called  " Brazilian "  if there exists an integer ''b'' such that {{nowrap|1  <   ''b''  <  ''n'' – 1}} for which the representation of ''n'' in base ''b'' is written with all equal digits. Prove that 1994 is Brazilian and that 1993 is not Brazilian. " 
+ < /blockquote > 
+ 
+ == Related pages == 
+ *[[Repunit]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ 
+ * {{MathWorld|urlname=Repdigit|title=Repdigit}} 
+ * [https://www.oei.es/historico/oim/ixoim.htm Problemas IX Olimpíada Iberoamericana de Matemática] 
+ 
+ {{Classes of natural numbers}} 
+ 
+ [[Category:Integer sequences]]

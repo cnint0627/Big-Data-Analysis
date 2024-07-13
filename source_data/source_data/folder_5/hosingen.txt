@@ -1,0 +1,49 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Hosingen 
+ | native_name             = Housen 
+ | native_name_lang        = lb < !-- ISO 639-2 code e.g.  " lb "  for Luxembourgish -- > 
+ | settlement_type         = Former [[List of communes of Luxembourg|commune]] 
+ | image_skyline           = Hosingen, Fernblick.jpg 
+ | image_alt               =  
+ | image_caption           = Hosingen 
+ | image_shield            = Coat of arms hosingen luxbrg.png 
+ | shield_alt              =  
+ | shield_size             = 100x80px 
+ | image_map               = Map Hosingen.PNG 
+ | map_alt                 =  
+ | mapsize                 = 200px 
+ | map_caption             = Map of Luxembourg with Hosingen highlighted in orange, and the canton in dark red 
+ | coordinates             = {{coord|3=region:LU_type:adm3rd|display=inline,title}} 
+ | coor_pinpoint           =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Luxembourg}} 
+ | subdivision_type1       = [[Cantons of Luxembourg|Canton]] 
+ | subdivision_name1       = [[Clervaux (canton)|Clervaux]] 
+ | established_title       =  
+ | established_date        =  
+ | leader_party            =  
+ | leader_title            = Mayor 
+ | unit_pref               = Metric < !-- or US or UK -- > 
+ | area_footnotes          =  
+ | elevation_footnotes     =  
+ | population_footnotes    =  
+ | population_as_of        = {{Luxembourg communes statistics year}} 
+ | population_density_km2  = auto 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | blank_name_sec1         = [[Local administrative unit|LAU 2]] 
+ | website                 = [http://www.hosingen.lu hosingen.lu] 
+ | footnotes               =  
+ }} 
+ '''Hosingen''' ({{Lang-lb|Housen}}) is a small village and a former [[Communes of Luxembourg|commune]] in northern [[Luxembourg]]. It was part of the [[Clervaux (canton)|canton of Clervaux]] 
+ 
+ On 1 January 2012, the commune was merged with [[Consthum]] and [[Hoscheid]] to form the new commune of [[Parc Hosingen]]. 
+ 
+ 
+ {{Multistub|geo|Europe}} 
+ 
+ [[Category:Former communes in Luxembourg]] 
+ [[Category:Canton of Clervaux]]

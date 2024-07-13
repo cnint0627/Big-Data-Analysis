@@ -1,0 +1,21 @@
+[[Image:Diameter.png|thumb|Diameter of a circle]] 
+ In [[geometry]], the '''diameter''' of a [[circle]] is a line from one side directly to the opposite side through the center. It can also be defined as the longest chord of a circle. The same explanations can be also used to describe the diameter in a sphere. 
+ 
+ The letter ''d'' or the symbol '''⌀''' are often used as a symbol for the diameter. < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-24|website=Math Vault|language=en-US}} < /ref >  The diameter's length is often called the diameter itself. 
+ 
+ The diameter's length is twice the [[radius]], < ref > {{Cite web|title=Basic information about circles (Geometry, Circles)|url=https://www.mathplanet.com/education/geometry/circles/basic-information-about-circles|access-date=2020-09-24|website=Mathplanet|language=en}} < /ref >  and therefore the relationship between the diameter's length and [[radius]] can be shown with the equations: < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Circle|url=https://mathworld.wolfram.com/Circle.html|access-date=2020-09-24|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ < math > d = 2r < /math >    and    < math > r = \frac{d}{2} < /math > 
+ 
+ == Related pages == 
+ 
+ * [[Circumference]] 
+ * [[Pi]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Geometry]]

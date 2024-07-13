@@ -1,0 +1,23 @@
+'''Scalars''' are simple [[number]]s. They are used for [[measurement|measuring]] things. Many things can be measured, and the measure can be explained by only giving the number. 
+ 
+ Suppose we are measuring a [[rod]]. We could give the measured [[length]] as 2 [[metre]]s or 3 cm—depending on the length of the rod under observation. Here, only the figure 2 or 3 along with the [[unit]] of measure is enough to transmit information about the rod. 
+ 
+ Other examples of scalars are:  
+ *Unit of [[mass]] ([[Kilogram]]s) 
+ *Unit of measuring [[luminosity]] ([[Candela]]) 
+ *Unit of length (Metres) 
+ 
+ In other words, mass is measured by scalars, just like [[distance]]s are measured by scalars. 
+ 
+ In [[mathematics]], scalars are distinguished from more complex mathematical objects such as [[Vector|vectors]] and [[Matrix (mathematics)|matrices]] in that they consist of only one number. A scalar  < math > k < /math >  can also be multiplied to a vector  < math > \mathbf{v} < /math >  or a matrix  < math > A < /math > , resulting in the vector  < math > k\mathbf{v} < /math >  and the matrix  < math > kA < /math > , respectively. < ref > {{Cite web|date=2020-03-25|title=Comprehensive List of Algebra Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/|access-date=2020-09-06|website=Math Vault|language=en-US}} < /ref >  For vectors, scalar multiplication produces a new vector of different length in the same or opposite direction of the original vector. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Scalar Multiplication|url=https://mathworld.wolfram.com/ScalarMultiplication.html|access-date=2020-09-06|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[Dot product]], a scalar quantity 
+ * [[Scalar (physics)]] 
+ 
+ == References == 
+ < references / > 
+ {{Math-stub}} 
+ [[Category:Measurement]] 
+ [[Category:Basic physics ideas]]

@@ -1,0 +1,38 @@
+'''Genes''' are parts of [[DNA]]. DNA is a [[molecule]] inside a [[cell]] that carries the instructions for making the [[protein]]s the cell will need. Each gene contains a single set of instructions. These instructions usually [[code]] for a particular protein. Humans have about 20,000 genes that code proteins and many more that are non-coding. Half of a person's genes come from the mother. The other half come from the father. 
+ 
+ == The definition == 
+ Originally: a hereditary unit which occupies a specific position (''[[allele|locus]]'') on a [[chromosome]]. < ref > Carlson E.A. 1989. ''The gene: a critical history''. Iowa State reprint. {{ISBN|978-0813814063}} < /ref >  Other definitions are ways the gene showed itself:  
+ :1. A unit which has one or more specific effects on the [[phenotype]] of an organism;  
+ :2. A unit that can [[mutation|mutate]] to various [[allele]]s;  
+ :3. A unit which [[Crossing over|recombines]] with other such units. 
+ 
+ Modern definitions must take note of later discoveries. < ref > Keller, Evelyn Fox 2000. ''The century of the gene''. Harvard. < /ref >  There are now two classes of genes: < ref > King R.C. Stansfield W.D.  &  Mulligan P.K. 2006. ''A dictionary of genetics'', 7th ed. Oxford. < /ref > < sup > p173 < /sup > 
+ :1. genes that are [[Transcription (genetics)|transcribed]] into [[RNA]]s and are [[Translation (genetics)|translated]] into [[polypeptide]] chains. 
+ :2. genes whose transcripts ([[tRNA]]s, [[rRNA]]s, [[snRNA]]s) are used directly. These are operators which serve as 'regulatory sequences' during transcription and translation of the DNA. " The building blocks of life. " 
+ 
+ == What genes do? == 
+ Genes are passed on from [[parent]] to child and are an important part of what decides how children look and act (their [[Phenotype|biological properties]]). Genes affect the way our bodies work, including how we look. Our eye, hair and skin color are decided by genes. It is said that genes cause ''genetic'' effects in our bodies. 
+ 
+ A gene may be ''dominant'' or ''[[recessive]]''. < ref > These are not the only possibilities: see [[Allele#Dominance]]. < /ref >  These terms refer to the effect a gene has on the offspring who carry it in their [[genome]]. 
+ 
+ For example, let's say a mother only has genes for brown hair and a father only has genes for red hair. The child will [[Heredity|inherit]] – receive – genes for red hair (from her father) and brown hair (from her mother). The brown hair gene is 'dominant' to the red hair gene. This means the child will have brown hair even though she has genes for both red and brown hair. This means only one dominant gene is needed for the child to receive that particular trait, while two recessive genes are needed for one. 
+ 
+ A recessive [[Phenotype|trait]] might stay hidden for many [[generation]]s. Let us use the child from the last example. We will call her  " Mary " . Mary has brown hair but has genes for both red and brown hair. Let us say Mary grew up and married Tom. Tom also has brown hair, but like Mary one of his parents had red hair. This means Tom has genes for both red and brown hair. Mary and Tom would each have a chance of passing either brown or red hair genes to their children. This means that the children of Mary and Tom could have either red or brown hair. This explains why a person might look different from their parents, but look like their [[grandparents]] or great-grandparents. 
+ 
+ == Structure and function == 
+ The structure of a gene has many elements: the actual protein coding sequence is only a small part. There are DNA regions that are not transcribed as well as untranslated regions of the RNA. < ref > Alberts B. ''et al'' 2002. ''Molecular biology of the cell''. 4th ed, New York: Garland Science. {{ISBN|978-0-8153-3218-3}} < /ref > < ref > See also [[transcription (genetics)]] < /ref > 
+ [[File:Gene structure eukaryote 2 annotated.svg|thumb|center|600px|The structure of a eukaryotic protein-coding gene.]] 
+ 
+ ==Related pages== 
+ *[[Allele#Dominance]] 
+ *[[Sequence analysis]] 
+ *[[Genetics]] 
+ *[[ENCODE]], the complete analysis of the human genome 
+ *[[Gene therapy]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Cell biology]] 
+ [[Category:DNA]] 
+ [[Category:Classical genetics]]

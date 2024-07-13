@@ -1,0 +1,98 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |name                   = Khost 
+ |native_name            = خوست 
+ |settlement_type        = City 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = View of Khost, Afghanistan.jpg 
+ |imagesize              = 
+ |image_caption          = View in Khost, [[Afghanistan]] 
+ |image_flag             = 
+ |flag_size              = 
+ |image_seal             = 
+ |seal_size              = 
+ |image_shield           = 
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              =  
+ |mapsize                =  
+ |map_caption            =  
+ |pushpin_map            = Afghanistan 
+ |pushpin_label_position = above 
+ |pushpin_mapsize        =  
+ |pushpin_map_caption    = Location in Afghanistan 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = {{flag|Afghanistan}} 
+ |subdivision_type1      = [[Provinces of Afghanistan|Province]] 
+ |subdivision_name1      = [[Khost Province]] 
+ |subdivision_type2      = [[Districts of Afghanistan|District]] 
+ |subdivision_name2      = [[Khost District]] 
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            = 
+ |established_title      = 
+ |established_date       =  
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref              =  
+ |area_footnotes         = 
+ | area_total_km2 =  
+ < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ |area_metro_km2           = 
+ |area_metro_sq_mi         = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               = 2006 
+ |population_footnotes           =  < ref > {{Cite web |url=http://www.mrrd.gov.af/nabdp/Provincial%20Profiles/Khost%20PDP%20Provincial%20profile.pdf |title= " Khost " , The National Area-Based Development Program (NABDP), Ministry of Rural Rehabilitation and Development |access-date=2012-04-17 |archive-date=2010-01-06 |archive-url=https://web.archive.org/web/20100106021200/http://www.mrrd.gov.af/nabdp/Provincial%20Profiles/Khost%20PDP%20Provincial%20profile.pdf |url-status=dead }} < /ref > 
+ |population_note                =  
+ |population_total               = 160,214 
+ |population_density_km2         = 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_urban               =106,083  < ref > {{cite web|title=The State of Afghan Cities report2015 |url=http://unhabitat.org/books/soac2015/ |ref=UN-Habitat |url-status=dead |archiveurl=https://web.archive.org/web/20151031111515/http://unhabitat.org/books/soac2015/ |archivedate=2015-10-31 }} < /ref > 
+ |population_density_urban_km2   = 
+ |population_density_urban_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               = Afghanistan Standard Time 
+ |utc_offset             = +4:30 
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ |coordinates            = {{coord|33|19|59|N|69|55|01|E|region:AF|display=inline,title}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            = 1225 
+ |elevation_ft           = 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             = 
+ |blank_info             = 
+ |blank1_name            = 
+ |blank1_info            = 
+ |website                =  
+ |footnotes              = 
+ }} 
+ '''Khost''' ({{lang-ps|خوست}}) is a city in eastern [[Afghanistan]]. It is the capital of [[Khost Province]]. There are about 160,000 people in the city.  Khost is located about 150 kilometers south of [[Kabul]]. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Cities in Afghanistan]] 
+ 
+ 
+ {{asia-stub}}

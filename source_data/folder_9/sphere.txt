@@ -1,0 +1,77 @@
+[[File:Sphere wireframe 10deg 3r.svg|right|thumb|A Sphere]] 
+ 
+ A '''sphere''' is a [[shape]] in space that is like the [[surface]] of a [[ball]]. Usually, the words ''ball'' and ''sphere'' mean the same thing. But in [[mathematics]], a sphere is the surface of a ball, which is given by all the points in [[3D|three dimensional]] space that are located at a fixed distance from the center. The distance from the center is called the [[radius]] of the sphere. When the sphere is filled in with all the points inside, it is called a ball. 
+ 
+ Common things that have the shape of a sphere are basketballs, superballs, and playground balls. The [[Earth]] and the [[Sun]] are nearly ''spherical'', meaning sphere-shaped.  
+ 
+ A sphere is the three-dimensional [[Analogy|analog]] of a circle. 
+ 
+ == Calculating measures of a sphere == 
+ 
+ === Surface area === 
+ 
+ Using the circumference:  < math > A=\frac{c^2}{\pi}=\frac{2c^2}{\tau} < /math > 
+ 
+ Using the diameter:  < math > A=\pi d^2=\frac{\tau d^2}{2} < /math > 
+ 
+ Using the radius:  < math > A=2\tau r^2=4\pi r^2 < /math > 
+ 
+ Using the volume:  < math > A=\sqrt[3]{3\tau V^2}=\sqrt[3]{6\pi V^2} < /math > 
+ 
+ === Circumference === 
+ 
+ Using the surface area:  < math > c=\sqrt{\pi A}=\sqrt{\frac{\tau A}{2}} < /math > 
+ 
+ Using the diameter:  < math > c=\pi d=\frac{\tau d}{2} < /math > 
+ 
+ Using the radius:  < math > c=\tau r=2\pi r < /math > 
+ 
+ Using the volume:  < math > c=\sqrt[3]{6\pi^2 V}=\sqrt[3]{\frac{3\tau^2 V}{2}} < /math > 
+ 
+ === Diameter === 
+ 
+ Using the surface area:  < math > d=\sqrt{\frac{A}{\pi}}=\sqrt{\frac{2A}{\tau}} < /math > 
+ 
+ Using the circumference:  < math > d=\frac{c}{\pi}=\frac{2c}{\tau} < /math > 
+ 
+ Using the radius:  < math > d=2r < /math > 
+ 
+ Using the volume:  < math > d=\sqrt[3]{\frac{6V}{\pi}}=\sqrt[3]{\frac{12V}{\tau}} < /math > 
+ 
+ === Radius === 
+ 
+ Using the surface area:  < math > r=\sqrt{\frac{A}{2\tau}}=\sqrt{\frac{A}{4\pi}} < /math > 
+ 
+ Using the circumference:  < math > r=\frac{c}{\tau}=\frac{c}{2\pi} < /math > 
+ 
+ Using the diameter:  < math > r=\frac{d}{2} < /math > 
+ 
+ Using the volume:  < math > r=\sqrt[3]{\frac{3V}{2\tau}}=\sqrt[3]{\frac{3V}{4\pi}}\approx\frac{\sqrt[3]{15V}}{4} < /math > 	(more simple but less precise) 
+ 
+ === Volume === 
+ 
+ Using the surface area:  < math > V=\sqrt{\frac{A^3}{18\tau}}=\sqrt{\frac{A^3}{36\pi}} < /math > 
+ 
+ Using the circumference:  < math > V=\frac{c^3}{6\pi^2}=\frac{2c^3}{3\tau^2} < /math > 
+ 
+ Using the diameter:  < math > V=\frac{\pi d^3}{6}=\frac{\tau d^3}{12} < /math > 
+ 
+ Using the radius:  < math > V=\frac{2\tau r^3}{3}=\frac{4\pi r^3}{3} < /math > 
+ 
+ == Equation of a sphere == 
+ 
+ In [[Cartesian coordinate system|Cartesian coordinates]], the equation for a sphere with a center at ( < math > x_0 < /math > ,  < math > y_0 < /math > ,  < math > z_0 < /math > ) is as follows: 
+ 
+ : < math > (x-x_0)^2 + (y-y_0)^2 + (z-z_0)^2 = r^2 < /math > 
+ 
+ where  < math > r < /math >  is the radius of the sphere. 
+ 
+ ==Related pages== 
+ 
+ * [[Circle]] 
+ * [[Pi]] 
+ * [[Tau]] 
+ 
+ {{Math-stub}} 
+ {{shapes}} 
+ [[Category:Three-dimensional shapes]]

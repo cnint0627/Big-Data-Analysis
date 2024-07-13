@@ -1,0 +1,27 @@
+{{for|the bone in the foot|cuboid bone}} 
+ [[File:Cuboid.png|thumb|A rectangular cuboid]] 
+ A '''cuboid''' is a [[3D]] [[shape]]. cuboids have six faces. These faces form a [[convex]] [[polyhedron]]. The faces of the cuboid can be any [[quadrilateral]]. The most common cuboids are the rectangular cuboids. They are made from 6 rectangles that are placed at right angles to each other. A cuboid that uses all [[Square (geometry)|square]] faces is a [[cube]]. The cuboid can also be called a right rectangular prism. 
+ 
+ == Properties == 
+ The properties of a cuboid include: 
+ * cuboids have 12 edges 
+ * They have 8 corners or vertices 
+ * They have 6 faces. 
+ {| class= " wikitable " 
+ |Symmetry group 
+ |''D < sub > 2h < /sub > '', [2,2], (*222), ord 
+ |} 
+ {| class= " wikitable " 
+ |symbol 
+ |{ } × { } × { } 
+ |} 
+ The difference between a rectangle and a cuboid is that a rectangle  is a 2D shape and a cuboid is a 3D shape. 
+ 
+ A cube is a cuboid where all six faces have the same [[height]] and [[Width|widths]]. Each face of a cube is a  square.  
+ 
+ Where L= length, w= width and h= height: 
+ * Total [[Surface area|Surface Area]] of Cuboid = 2( (L×w) + (w×h) + (h×L) )  
+ * [[Volume]] of Cuboid = L * w * h 
+ 
+ {{shapes}}{{Science-stub}} 
+ [[Category:Polyhedra]]

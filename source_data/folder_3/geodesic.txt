@@ -1,0 +1,4 @@
+In [[mathematics]], a '''geodesic''' is the shortest path between 2 points over a curved surface. For example, an aeroplane takes the shortest path to go from one destination to the next. However the earth is not flat, it has the shape of a sphere. Displayed on a map you would see a curved line. Paths on a [[sphere]] are also called [[great circle]]s, such that in this case, two points are joined by two distinct geodesics. A '''minimal geodesic''' (or '''segment''') is a particular case where the geodesic joining two distant points has the shortest length. 
+ 
+ {{Math-stub}} 
+ [[Category:Geometry]]

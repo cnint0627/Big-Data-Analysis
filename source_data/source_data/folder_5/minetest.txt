@@ -1,0 +1,51 @@
+{{Use mdy dates|date=June 2020}} 
+ {{Italic title}} 
+ {{Infobox software 
+ | name                   = Minetest 
+ | logo                   = Minetest logo.svg 
+ | logo alt               = Minetest Logo 
+ | released               = 0.0.1 / {{Start date and age|2010|11|02}} 
+ | latest release version = {{wikidata|property|preferred|references|edit|Q722334|P348|P548=Q2804309}} 
+ | latest release date    = {{wikidata|qualifier|preferred|single|Q722334|P348|P548=Q2804309|P577}} 
+ | latest preview version = {{wikidata|property|preferred|references|edit|Q722334|P348|P548=Q51930650}} 
+ | latest preview date    = {{wikidata|qualifier|preferred|single|Q722334|P348|P548=Q51930650|P577}} 
+ | author                 = Perttu Ahola 
+ | developer              = [https://www.minetest.net/credits/ ''Minetest'' team] 
+ | repo                   = {{url|https://github.com/minetest/minetest}} 
+ | engine                 = [[Irrlicht_Engine|Irrlicht]] 
+ | programming language   = [[C++]], [[Lua (programming language)|Lua]] 
+ | platform               = [[Linux]], [[FreeBSD]], [[Microsoft Windows]], [[MacOS]], [[Android (operating system) | Android]] 
+ | genre                  = [[Sandbox game|Sandbox]], [[Survival game|survival]] 
+ | license                = 2013: [[GNU Lesser General Public License|LGPL-2.1-or-later]] < ref name= " LICENSE.txt " > {{cite web|url=https://github.com/minetest/minetest/blob/master/LICENSE.txt|title=LICENSE.txt " |website=[[GitHub]]|date=October 25, 2021}} < /ref > < ref name= " 2013-lgpl " > {{cite web|url=https://github.com/minetest/minetest/commit/f0edd88dff26f408db895046b9411248ff3d51dd|title=Remove doc/gpl-2.0.txt, add doc/lgpl-2.1.txt|website=[[GitHub]]|date=2013-09-28}} < /ref > < br / > 2010: [[GNU General Public License|GPL-2.0-or-later]] < ref name= " 2012-lgpl-gpl " > {{cite web|url=https://github.com/minetest/minetest/commit/037b2591971d752e67fa7d47095b996b3f56da5a|title= Switch the license to be LGPLv2/later, with small parts still remaining as GPLv2/later, by agreement of major contributors|website= [[GitHub]]|date=2012-06-05}} < /ref > < ref name= " 2010-gpl " > {{cite web|url=https://github.com/minetest/minetest/commit/24c4b7c68d283a4d1de72a3eb68f1268f1fe34e3|title=Working version before block send priorization update|website=[[GitHub]]|date=2010-11-27}} < /ref > < br / > Original: [[Proprietary software|Proprietary]] < ref name= " 2010-proprietary " > {{cite web|url=https://github.com/minetest/minetest/commit/4e249fb3fbf75f0359758760d88e22aa5b14533c|title=Initial files|website=[[GitHub]]|date=2010-11-26}} < /ref > 
+ | website                = https://www.minetest.net/ 
+ }} 
+ '''Minetest''' is a [[free and open-source software|free and open-source]] game, created by Perttu Ahola. It is just like [[Minecraft]] but it can be freely played. < ref > {{Cite journal |last=Saunders |first=Mike |date=November 2017 |title=Minetest |url=https://www.linux-magazine.com/Issues/2017/204/Minetest |url-status=live |journal=Linux Magazine |issue=204/2017 |archive-url=https://web.archive.org/web/20210203071242/https://www.linux-magazine.com/Issues/2017/204/Minetest |archive-date=February 3, 2021 |access-date=July 30, 2020}} < /ref >  The original author of ''Minetest'' simply described it as a  " ''Minecraft'' [[Clone (video game)|clone]] " . 
+ 
+ In the default game of ''Minetest'', Minetest Game (MTG for short), players explore a [[3D computer graphics|3D]] world made from cubic blocks. Players may discover and extract raw materials, [[Crafting (gaming)|craft]] tools and items, and build structures and [[Landscape|landscapes]]. Players can change the game settings to fight computer-controlled  " [[Mob (video games)|mobs]] " , as well as cooperate with or compete against other players in the same world.  The game can be played with [[Mod (video games)|mods]], which edits the gameplay. 
+ 
+ As the game developed over the years, ''Minetest'' has been praised and is a popular game. < ref name= " OSS#1 " > {{Cite web |last=Muilwijk |first=Robin |date=December 30, 2015 |title=Best open source games of 2015 |url=https://opensource.com/life/15/12/top-5-open-gaming |url-status=live |archive-url=https://web.archive.org/web/20190501235454/https://opensource.com/life/15/12/top-5-open-gaming |archive-date=May 1, 2019 |access-date=February 16, 2019 |website=[[Opensource.com]] |language=en}} < /ref > < ref name= " OSS#2 " > {{Cite web |last=Baker |first=Jason |date=October 12, 2017 |title=10 open source alternatives to Minecraft |url=https://opensource.com/alternatives/minecraft |url-status=live |archive-url=https://web.archive.org/web/20191030202103/https://opensource.com/alternatives/minecraft |archive-date=October 30, 2019 |access-date=October 12, 2019 |website=[[Opensource.com]] |language=en}} < /ref > < ref name= " PCMAG " > {{Cite journal |last=Cohen |first=Jason |date=August 28, 2019 |title=The Best Sandbox Creation Games for Minecraft Fans |url=https://www.pcmag.com/feature/369999/the-best-sandbox-creation-games-for-minecraft-fans |url-status=live |archive-url=https://web.archive.org/web/20191217072855/https://www.pcmag.com/feature/369999/the-best-sandbox-creation-games-for-minecraft-fans |archive-date=December 17, 2019 |access-date=December 17, 2019}} < /ref >  Since November 2013, ''Minetest'' has been downloaded over 1.4 million times from [[GitHub]], and the Android version of ''Minetest'' has over 500 thousand downloads on the [[Google Play]] store. 
+ 
+ ==Gameplay== 
+ {{Expand section|date=September 2022}} 
+ [[File:Minetest Game Version 5.1.0.jpg|thumb|Gameplay of Minetest, a game similar to Minecraft]] 
+ 
+ ''Minetest'' is set in a world full of blocks shaped like cubes. [[Gameplay]] is in the first-person camera for normal, but players also have the option for third-person camera. The game world is composed of in-game 3D objects, many of them are just simple cubes, commonly called nodes. Different in-game nodes (blocks) represent different materials, such as dirt, stone, ores, tree trunks, water, and lava. The core gameplay revolves around picking up and placing these objects, one node at a time. Nodes are arranged in a 3D grid, while players can move smoothly around the world. Players can mine blocks and then place them somewhere else, granting the permission to them to change (modify) the game world. Players can also craft a wide variety of hand-held tools to help them with the world change. Pickaxes allow players to dig rocky nodes, shovels speed up the digging of dirt and sand, water buckets allow to pick up water nodes, etc. A player controls a 3D character known as Sam, which is first-letter [[acronym]] for  " Sam ain't [[Minecraft]] " . 
+ [[File:Minetest-5.3.0-snow-ice-biomes.jpg|thumb|Snowy conifer biome at the edge of the ice plains]]As players explore the world, new areas are [[Procedural generation|officially generated]] by using a map seed randomly or choosed by the player. A new game puts the player in the center of a voxel cube 62 thousand blocks across, so the player can travel 31 thousand blocks in any direction like sideways, up, or down < ref > {{Cite web|title=Minetest - Open source voxel game engine|url=https://www.minetest.net/|access-date=2022-11-07|website=www.minetest.net}} < /ref >  before reaching the [[Invisible wall (video game)|invisible wall]] (the barrier) at the end of the world. 
+ 
+ The world is divided into [[Biome|biomes]] ranging from deserts to jungles to snowfields; the [[terrain]] includes plains, mountains, forests, caves, and various lava and water bodies. The in-game time system follows a day and night cycle, and one full cycle lasts 20 real-time minutes just like Minecraft. 
+ 
+ Minetest provides only two basic game mode options: Enable Damage and Creative Mode which affect how players interact with the world and use items. Creative Mode is meant to provide players with infinite resources, while toggling the damage setting decides whether the players can take damage from environmental hazards and other players. 
+ 
+ === Multiplayer === 
+ [[File:Minetest-5.5.0-join-game-screen.png|thumb|Built-in server browser to play with other players or friends]]Minetest has a built-in [[client-server]] [[architecture]], and can be played solo or multiplayer. A player starting a new game can choose between playing in a [[Single-player video game|single-player]] mode, or hosting a [[Game server|server]] to which other Minetest players can connect. 
+ 
+ === Customizations === 
+ [[File:Minetest-5.3.0-caverealms-mod.jpg|thumb|Crystal cave biome generated by Underground Realms mod]]The full source code of Minetest, and all of its artistic assets such as [[Texture mapping|textures]] and sounds, are distributed under a variety of [[Free software|free]] licenses, making it easier to create changed versions and [[derivatives]]. The base version of Minetest provides an interface for games and mods written in [[Lua]]. Games define the basic rules of the game world, and are a core feature of Minetest. Most games feature sandbox gameplay focused on construction, mining, and creativity. Mods are used to further customize different parts of gameplay, and are an permanent part of Minetest. Mods are server-side and work out of the box when playing on Internet servers, with no manual installation needed. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *{{Commonscat inline|Minetest}} 
+ 
+ [[Category:Android (operating system) games]]

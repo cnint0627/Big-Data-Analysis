@@ -1,0 +1,41 @@
+:''For the second operand of a division, see [[division (mathematics)]].'' 
+ 
+ In [[mathematics]], a '''divisor''' of an [[integer]] ''n'', also known as a 6th grade math factor of ''n'', is an integer which divides ''n'' without leaving a [[remainder]]. The statement  " ''m'' is a divisor of ''n'' "  can be written as  < math > m \mid n < /math > . < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-09-20|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Divisor|url=https://mathworld.wolfram.com/Divisor.html|access-date=2020-09-20|website=mathworld.wolfram.com|language=en}} < /ref >  Any number is always divisible by 1 and itself, which are two of the divisors. A [[prime number]] is a number with no other divisors. The positive divisors of a number ''n'', other than ''n'' itself, are the '''proper divisors''' of ''n''. < ref > {{Cite web|last=Caldwell|first=Chris|date=|title=Divisor|url=https://primes.utm.edu/glossary/page.php?sort=Divisor|archive-url=|archive-date=|access-date=September 20, 2020|website=Prime Glossary}} < /ref > 
+ 
+ Finding one or more factors of a given number is called [[factorization]]. 
+ __TOC__ 
+ == Explanation == 
+ 
+ For example, 7 is a divisor of 42 because 42÷7 = 6. We also say that  " 42 is '''divisible''' by 7 " ,  " 42 is a '''multiple''' of 7 " ,  " 7 '''divides''' 42 " , or  " 7 is a '''factor''' of 42 " , and we usually write 7 | 42. For example, the positive divisors of 42 are 1, 2, 3, 6, 7, 14, 21, 42. 
+ 
+ In general, we say that ''m'' divides ''n'' for non-zero integers ''m'' and ''n'', [[if and only if]] there exists an integer ''k'' such that ''n'' = ''km''.  Thus, divisors can be [[negative number|negative]] as well as positive, although we often restrict our attention to positive divisors. (For example, there are six divisors of four, 1, 2, 4, -1, -2, -4, but one would usually mention only the positive ones, 1, 2, and 4.)  
+ 
+ 1 and -1 divide (are divisors of) every integer, every integer is a divisor of itself, and every integer is a divisor of 0, except by convention 0 itself (see also [[Division by zero]]). Numbers divisible by 2 are called [[even number|even]], and numbers not divisible by 2 are called [[odd number|odd]]. 
+ 
+ A divisor of ''n'' that is not 1, -1, ''n'' or -''n'' is known as a '''non-trivial divisor'''; numbers with non-trivial divisors are known as [[composite number]]s, while [[prime number]]s have no non-trivial divisors. 
+ 
+ The name comes from the [[arithmetic]] operation of [[division (mathematics)|division]]: if ''a÷b'' = ''c'', then ''a'' is the [[Division (mathematics)|dividend]], ''b'' the '''divisor,''' and ''c'' the [[quotient]]. 
+ 
+ == Spotting divisors == 
+ There are [[divisibility rule|properties]] which allow one to recognize certain divisors of a number from the number's digits. Those properties can be used as  " math tricks "  to quickly spot some divisors of a number. 
+ 
+ For example, if the last digit is even (0, 2, 4, 6 or 8), then 2 is a divisor. If the last digit is 0 or 5, then 5 is a divisor. If the digits add up to a [[multiple]] of 3, then 3 is a divisor. For the number 340, ending in  " 0 "  then both 2 and 5 are divisors, plus 2×5 = 10 is also a divisor. Dividing by 10, 340/10 = 34, as finally 2×17. Combining all the smaller numbers, the 12 divisors of 340 are: 
+ * Divisors of 340:  1, 2, 4, 5, 10, 17, 20, 34, 68, 85, 170, 340. 
+ Note that any number is always evenly divisible by 1 and itself. 
+ 
+ == Related pages == 
+ 
+ * [[Coprime]] 
+ * [[Euclid's lemma]] 
+ 
+ == References == 
+ < references / > 
+ 
+ == Other websites == 
+ 
+ * [http://www.numberempire.com/numberfactorizer.php Online Number Factorizer] Instantly factors numbers up to 17 digits long 
+ * [http://www.farfarfar.com/math/calculators/factoring/ Factoring Calculator] {{Webarchive|url=https://web.archive.org/web/20050404215938/http://www.farfarfar.com/math/calculators/factoring/ |date=2005-04-04 }} -- Factoring calculator that displays the prime factors and the prime and non-prime divisors of a given number. 
+ 
+ [[Category:Arithmetics]] 
+ [[Category:Number theory]] 
+ {{Divisor classes}}

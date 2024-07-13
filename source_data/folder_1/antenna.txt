@@ -1,0 +1,20 @@
+{{about|a radio antenna|the usage in biology|Antenna (biology)}} 
+ [[File:Antenna.jpg|thumbnail]] 
+ [[File:1989 CPA 6117.jpg|thumb|[[Alexander Stepanovich Popov|Popov]] invention- an antenna, as commemorated on Russian postage]] 
+ An '''antenna''' or '''aerial''' is a metal device made to send or receive [[radio wave]]s. Many electronic devices like [[radio]], [[television]], [[radar]], [[wireless LAN]], [[cell phone]], and [[GPS]] need antennas to do their job. Antennas work both in air and [[outer space]]. < ref > {{Cite book|url=https://www.worldcat.org/oclc/40675210|title=Modern dictionary of electronics|last=Graf|first=Rudolf F.|date=1999|publisher=Newnes|isbn=0-7506-9866-7|edition=7th ed., rev. and updated|location=Boston|oclc=40675210}} < /ref > 
+ 
+ The word ''''antenna'''' is from [[Guglielmo Marconi]]'s test with wireless equipment in 1895. For the test, he used a 2.5 meter long pole antenna with a tent pole called ' ''l'antenna centrale'' ' in Italian. So his antenna was simply called ' ''l'antenna'' '.  After that, the word 'antenna' became popular among people and had the meaning it has today. The plural of antenna is either ''antennas'' or ''antennae'' (U.S. and Canada tends to use ''antennas'' more than other places). < ref > {{cite web|title=Antennae vs. antennas|date=31 May 2011 |url=http://grammarist.com/usage/antennae-antennas/|publisher=Grammarist|access-date=8 June 2013}} < /ref > 
+ 
+ == Types of antennas == 
+ Each one is made to work for a specific [[frequency]] range. The antenna's length or size usually depends on the [[wavelength]] (1/frequency) it uses. < ref > {{Cite book|url=https://www.worldcat.org/oclc/18452496|title=The ARRL antenna book|date=1988|publisher=American Radio Relay League|others=Gerald L. Hall, American Radio Relay League|isbn=0-87259-206-5|edition=15th|location=Newington, Conn.|oclc=18452496}} < /ref > 
+ 
+ Different kinds of antenna have different purposes. For example, the [[isotropic radiator]] is an imaginary antenna that sends signals equally in all directions. The [[dipole antenna]] is simply two wires with one end of each wire connected to the radio and the other end standing free in space. It sends or receives signals in all directions except where the wires are pointing. Some antennas are more directional. [[Horn]] is used where high gain is needed, the wavelength is short. [[Satellite television]] and [[radio telescope]]s mostly use [[dish antenna]]s. 
+ {{Commons category|Antennas}} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Radio antennas]]

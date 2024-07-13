@@ -1,0 +1,23 @@
+'''Spyware''' is a category of [[software]] for [[computer]]s. Spyware is [[malware]] that collects some data, usually without the computer users' [[knowledge]]. < ref name= " FTC-REPORT-2005 " > FTC Report  (2005).  " [http://www.ftc.gov/os/2005/03/050307spywarerpt.pdf] " < /ref >  Very often, this data is then sent over the [[internet]] to someone else.  Very often, this is used for [[marketing]].  Spyware can also be used to steal data from computers.  One kind is a [[keylogger]] which can see whatever you are typing.  Keyloggers can steal important information like [[password]]s that you type.  
+ 
+ The best protection is to get a program that protects against spyware. However, many websites that claim to have them are actually spyware, not something to protect against it. This method of installing spyware is called a [[Trojan horse (computing)|Trojan horse]] which looks like a normal program, but when it runs, it collects information to use against you. Spyware tracks your computer and uses some of the things on it. This includes your files, your downloads, and usernames/passwords for websites and programs. With this, the trojan operator can log into your accounts.  
+ 
+ There are spyware applications that are designed to enable users to spy on themselves rather than others. This is called '''myware'''. < ref > Erick Schonfeld: [http://money.cnn.com/2006/01/19/technology/futureboy/index.htm “Spy on yourself online”], CNNMoney.com, January 19th 2006. Retrieved on 2009-08-24 < /ref >  The term myware has mainly been applied to software applications in three areas: [[social networking]], [[marketing]] and [[time tracking]]. < ref > Al Arthur: [http://itc.conversationsnetwork.org/shows/detail727.html “The Musical Myware”], ConversationsNetwork.org, March 7th 2006. Retrieved on 2009-08-24 < /ref > < ref > WorkingProgram Ltd: [http://www.workingprogram.com/qlockwork.html “Spyware vs Myware”], Page second heading, 2007. Retrieved on 2009-08-24 < /ref > 
+ 
+ == Related pages == 
+ * [[Malware]]  
+ * [[Phishing]] 
+ * [[Spyware removal software]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.microsoft.com/security/pc-security/spyware-whatis.aspx What Is Spyware?] from Microsoft 
+ == Need a blog to remove Santivirus == 
+ * [https://techrisings.blogspot.com/2020/11/SAntivirus%20removal.html Remove the Spyware?] {{Webarchive|url=https://web.archive.org/web/20201205144103/https://techrisings.blogspot.com/2020/11/SAntivirus%20removal.html |date=2020-12-05 }}  
+ 
+ [[Category:Spyware| ]] 
+ 
+ 
+ {{tech-stub}}

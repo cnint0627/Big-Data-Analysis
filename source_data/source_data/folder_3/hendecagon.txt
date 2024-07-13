@@ -1,0 +1,17 @@
+[[File:Regular hendecagon.svg|thumb|A hendecagon]] 
+ A '''hendecagon''' or '''11-gon''' is a [[Polygon|shape]] with 11 sides and 11 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular hendecagon == 
+ All sides of a '''regular hendecagon''' are the same length. Each corner is 147. < span style= " text-decoration: overline " > 27 < /span > °. All corners added together equal 1619. < span style= " text-decoration: overline " > 97 < /span > °. 
+ 
+ === Area === 
+ The amount of space a regular hendecagon takes up is 
+ 
+ :  < math >  \alpha = \frac{(n - 2)}{n} \cdot 180^\circ = \frac{9}{11} \cdot 180^\circ \approx 147{,}273^\circ < /math > 
+ : < math > A = \frac{11}{4}a^2 \cot \frac{\pi}{11} \approx 9,36564a^2 \, < /math > 
+ ''a'' is the length of one of its sides. 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ 
+ [[Category:Polygons|11]]

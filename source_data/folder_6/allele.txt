@@ -1,0 +1,75 @@
+An '''allele''' is a form of a [[gene]] at a particular position ('''locus''') on a [[chromosome]]. < ref name=dict > King R.C. Stansfield W.D.  &  Mulligan P.K. 2006. ''A dictionary of genetics'', 7th ed. Oxford. < /ref > < sup > 15 < /sup >  It is the bit of coding [[DNA]] at that place. < ref name=popgen > Gillespie, John H. 2004. ''Population genetics: a concise guide'', 2nd ed. Johns Hopkins University Press, Baltimore. < /ref > < sup > p6 < /sup > 
+ 
+ Typical plants and animals have two sets of chromosomes, one set inherited from each parent. < ref name=dict/ > < sup > 123 < /sup >  These organisms are called [[diploid]]. Since such organisms have two sets of chromosomes, they have (except on the [[sex chromosome]]s) two alleles at each gene '''locus'''. < ref name=popgen/ > < sup > p6 < /sup > 
+ 
+ If the two alleles are identical, the individual is called a '''homozygote''' and is said to be '''homozygous'''. If instead the two alleles are different, the individual is a '''heterozygote''' and is '''heterozygous'''. < ref name=dict/ > < sup > 205 < /sup > 
+ 
+ == Dominance == 
+ In a heterozygote the effect of one allele may completely ‘mask’ the other. That is, the [[phenotype]] produced by the two alleles in heterozygous combination is identical to that produced by one of the two homozygous genotypes. < ref name=dict/ > < sup > 212 < /sup >   
+ 
+ The allele that masks the other is said to be '''dominant''' to the latter, and the alternative allele is said to be '''recessive''' to the former. This idea originates in the work of [[Gregor Mendel]], the founder of [[genetics]]. 
+ 
+ In other cases, both alleles contribute to the phenotype. 
+ 
+ === Example === 
+ The inheritance of alleles, and their dominance, can be represented in a [[Genetics#Punnett squares|Punnett square]]. 
+ 
+ An example is the gene for blossom colour in many species of [[flower]]. A single gene controls the colour of the [[petal]]s, but there may be several different versions (or alleles) of the gene. 
+ 
+ In this example, parents have the genotype '''Bb''' (capital letters show dominant alleles and lower-case letters to show recessive alleles). If '''B''' (capital) is found in their genotype, the flower will be red. Therefore, the only time a flower is not red is when the genotype is '''bb''' (there are no capital 'B's). 
+ {| class= " wikitable "  style= " text-align:center; width:25% " 
+ |- 
+ !colspan= " 2 "  rowspan= " 2 " | !!colspan= " 2 " |Maternal 
+ |- 
+ ! B !! b  
+ |- 
+ ! rowspan= " 2 " |Paternal!! B  
+ | BB || Bb  
+ |- 
+ ! b 
+ | Bb || bb 
+ |} 
+ 
+ The probability of the flowers having different genotypes are: '''BB''' is 25%, '''Bb''' is 50%, and '''bb''' is 25%. The [[phenotype]] of the flower will always be red if a dominant '''B''' is in the genotype. Therefore, there is a 25% chance of getting a flower which is not red, and 75% chance of getting a flower which is red. 
+ 
+ === Recessive === 
+ [[File:Autorecessive.svg|thumb|right|230px|Inheritance of recessive genes]] 
+ 
+ The pattern of inheritance of recessive genes is quite simple. If they are heterozygous with a dominant allele, the appearance ([[phenotype]]) is the same as a dominant homozygote. Only if both alleles are recessive does the recessive allele show in the phenotype b. 
+ 
+ === Incomplete dominance === 
+ This is when the dominant allele is not completely dominant over the recessive allele. This means both the alleles have a degree of phenotypic expression in the hybrids. In this case the functional product formed is a little different or is intermediate between the product produced by to the dominant allele and the recessive allele. 
+ 
+ For example: ''Mirabilis jalapa''. The heterozygote of this plant produces flowers in the F1 generation of the colour pink in contrast to the red (dominant) and white (recessive) homozygotes. 
+ 
+ == Sex linkage == 
+ Genes on the [[sex chromosome]]s are said to be '''sex linked'''. In the XY [[sex determination]] system of [[mammal]]s, the X chromosomes carry a full set of genes, but the Y chromosomes carry few genes. Alleles or genes which are not sex-linked are called '''autosomal'''. 
+ 
+ == Different alleles at a locus == 
+ There are three ways alleles at a locus may differ. < ref name=popgen/ > < sup > p6 < /sup >  They are: 
+ #By origin. Alleles differ by origin if they come from the same locus on different chromosomes. Thus, for example, the two alleles at a particular locus in a diploid individual are ''always'' different by origin. They sit on different chromosomes. 
+ #By state. Alleles are different by state if they have different [[Sequence analysis|DNA sequences]]. This idea can be adjusted to need. For example, we may judge them as different only if the difference changes the [[amino acid]] sequence of a [[protein]]. < ref > Some amino acids are coded by two or more different triplets of DNA base pairs. < /ref > 
+ #By descent. Alleles are different by descent if they do not share a common ancestor. Of course, all alleles have a common ancestor if one goes back far enough. What is meant is they share a fairly recent ancestor.  
+ 
+ Two alleles different by descent may or may not be of different state. For example, one may carry a mutation, so making its DNA sequence different. 
+ 
+ == Terms introduced == 
+ * Allele 
+ * Locus 
+ * Homozygote 
+ * Heterozygote 
+ * Dominant 
+ * Recessive 
+ * Dominance (genetics) 
+ * Punnett square 
+ * Sex linkage 
+ * Autosomal 
+ 
+ == Related pages == 
+ *[[Allele frequency]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ [[Category:Chromosomes]]

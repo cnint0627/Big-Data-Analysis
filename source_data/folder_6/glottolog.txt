@@ -1,0 +1,16 @@
+'''Glottolog''' is the database of all [[languages]] in the [[world]]. 
+ 
+ == Examples == 
+ 
+ * stan1288 - [[Spanish language|Spanish]] 
+ * stan1289 - [[Catalan language|Catalan]] 
+ * stan1290 - [[French language|French]] 
+ * stan1293 - [[English language|English]] 
+ * stan1295 - [[German language|German]] 
+ * stan1306 - [[Malay language|Malay]] 
+ * stan1318 - [[Arabic language|Arabic]] 
+ 
+ [[Category:Databases]] 
+ [[Category:Language]] 
+ 
+ {{tech-stub}}

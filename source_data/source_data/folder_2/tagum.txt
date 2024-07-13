@@ -1,0 +1,189 @@
+{{Infobox settlement 
+ | name                            = {{PH wikidata|name}} 
+ | image_skyline                   = Tagumcity highway.jpg 
+ | image_caption                   = Tagum in 2009 
+ | image_flag                      =  
+ | flag_size                       = 120x80px 
+ | image_seal                      =  
+ | seal_size                       = 100x80px 
+ | image_map                       = {{PH wikidata|image_map}} 
+ | map_caption                     = {{PH wikidata|map_caption}} 
+ | image_map1                      = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}} 
+ | pushpin_map                     = Philippines 
+ | pushpin_label_position          = left 
+ | pushpin_map_caption             = Location within the {{PH wikidata|country}} 
+ | coordinates                     = {{PH wikidata|coordinates}} 
+ | settlement_type                 = {{PH wikidata|settlement_type}} 
+ | subdivision_type                = [[List of sovereign states|Country]] 
+ | subdivision_name                = {{PHL}} 
+ | subdivision_type1               = [[Regions of the Philippines|Region]] 
+ | subdivision_name1               = {{PH wikidata|region}} 
+ | subdivision_type2               = [[Provinces of the Philippines|Province]] 
+ | subdivision_name2               = {{PH wikidata|province}} 
+ | official_name                   = {{PH wikidata|official_name}} 
+ | other_name                      = Magugpo 
+ | etymology                       =  < !--origin of name-- > 
+ | named_for                       =  < !--named after (if person or place)-- > 
+ | nickname                        = {{plainlist| 
+ * ''Palm City of the Philippines'' 
+ * ''City of Festivals'' 
+ * ''Music Capital of the South'' 
+ * ''Marching Show Band Capital of the Philippines'' 
+ * ''City of Golden Opportunities'' 
+ * ''City of Perfect Harmony'' 
+ }} 
+ | anthem                          = ''Tagum Mabuhay Ka!'' (Long Live, Tagum) 
+ | subdivision_type3               = [[House of Representatives of the Philippines#District representation|District]] 
+ | subdivision_name3               = {{PH legislative district}} 
+ | established_title               = [[Date of establishment|Founded]] 
+ | established_date                = June 23, 1941 
+ | established_title3              = Cityhood 
+ | established_date3               = March 7, 1998 
+ | parts_type                      = [[Barangay]]s 
+ | parts_style                     = para 
+ | p1                              = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]]) 
+ | leader_title                    = {{PH wikidata|leader_title}}  < !--mayor-- > 
+ | leader_name                     = Rey T . Uy ([[Hugpong ng Pagbabago|HNP]]) 
+ | leader_title1                   = [[Vice Mayor]] 
+ | leader_name1                    =   [[Allan L. Rellon]] ([[Partido para sa Demokratikong Reporma|Reporma]]) 
+ | leader_title2                   = [[House of Representatives of the Philippines#Current composition|Representative]]  < !--congressman or congresswoman -- > 
+ | leader_name2                    = Pantaleon D. Alvarez 
+ | leader_title3                   = [[Sangguniang Panlungsod|City Council]] 
+ | leader_name3           = {{PH Town Council 
+  | 1 =  < div style= " border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps; " > < /div > 
+  | 2=Ester L. Angoy 
+  | 3=Alderson L. Rellon 
+  | 4=Ronald S. Eliot 
+  | 5=Joel A. Padoran 
+  | 6=Macario A. Bermudez II 
+  | 7=Jose Joedel T. Caasi 
+  | 8=Jan Dmitri S. Sator 
+  | 9=Rey Cyril T. Alba 
+  | 10=Joseph C. Cabrera 
+  | 11=Renante S. Robles 
+ }} 
+ | leader_title4                   = [[Elections in the Philippines#Qualification|Electorate]] 
+ | leader_name4                    = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]]) 
+ | government_type                 = {{PH wikidata|government_type}} 
+ | government_footnotes            = {{thinsp}} < ref > {{DILG detail}} < /ref > 
+ | elevation_m                     = {{PH wikidata|elevation_m}} 
+ | elevation_max_m                 = 1167 
+ | elevation_min_m                 = 0 
+ | elevation_max_rank              = 
+ | elevation_min_rank              = 
+ | elevation_footnotes             = {{PH wikidata|elevation_footnotes}} 
+ | elevation_max_footnotes         =  
+ | elevation_min_footnotes         =   
+ | area_rank                       =  
+ | area_footnotes                  = {{PH area}} 
+ | area_total_km2                  = {{PH wikidata|area}} 
+ | population_footnotes            = {{PH census|current}} 
+ | population_total                = {{PH wikidata|population_total}} 
+ | population_as_of                = {{PH wikidata|population_as_of}} 
+ | population_density_km2          = auto 
+ | population_blank1_title         = [[Household]]s 
+ | population_blank1               = {{PH wikidata|household}}  
+ | population_blank2_title         =  
+ | population_blank2               =  
+ | population_demonym              = Tagumeño, Tagumenyo 
+ | population_rank                 =  
+ | population_note                 =  
+ | timezone                        = [[Philippine Standard Time|PST]] 
+ | utc_offset                      = +8 
+ | postal_code_type                = [[List of ZIP codes in the Philippines|ZIP code]] 
+ | postal_code                     = {{PH wikidata|postal_code}} 
+ | postal2_code_type               = {{PSGCstyle}} 
+ | postal2_code                    = {{PSGC detail}} 
+ | area_code_type                  = {{areacodestyle}} 
+ | area_code                       = {{PH wikidata|area_code}} 
+ | website                         = {{PH wikidata|website}} 
+ | demographics_type1     = [[Economy of the Philippines|Economy]] 
+ | demographics1_title1   = {{PH wikidata|income_class_title}} 
+ | demographics1_info1    = {{PH wikidata|income_class}} 
+ | demographics1_title2   = [[Measuring poverty|Poverty incidence]] 
+ | demographics1_info2    = {{PH wikidata|poverty_incidence}}% ({{PH wikidata|poverty_incidence_point_in_time}}){{PH wikidata|poverty_incidence_footnotes}} 
+ | demographics1_title3   = [[Revenue]] 
+ | demographics1_info3    = {{PH wikidata|revenue}} {{PH wikidata|revenue_point_in_time}}  
+ | demographics1_title4   = Revenue rank 
+ | demographics1_info4    =  
+ | demographics1_title5   = [[Asset]]s 
+ | demographics1_info5    = {{PH wikidata|assets}} {{PH wikidata|assets_point_in_time}}  
+ | demographics1_title6   = Assets rank 
+ | demographics1_info6    =  
+ | demographics1_title7   = [[Internal Revenue Allotment|IRA]] 
+ | demographics1_info7    =   
+ | demographics1_title8   = IRA rank 
+ | demographics1_info8    =  
+ | demographics1_title9   = [[Expenditure]] 
+ | demographics1_info9    = {{PH wikidata|expenditure}} {{PH wikidata|expenditure_point_in_time}}  
+ | demographics1_title10  = [[Liability (financial accounting)|Liabilities]] 
+ | demographics1_info10   = {{PH wikidata|liabilities}} {{PH wikidata|liabilities_point_in_time}} 
+ | demographics_type2     = Service provider 
+ | demographics2_title1   = [[List of electric distribution utilities in the Philippines|Electricity]] 
+ | demographics2_info1    = {{PH electricity distribution | {{wikidata|label|raw}} }}  
+ | demographics2_title2   = Water 
+ | demographics2_info2    =   
+ | demographics2_title3   = Telecommunications 
+ | demographics2_info3    =  
+ | demographics2_title4   = Cable TV 
+ | demographics2_info4    = 
+ | demographics2_title5   =  
+ | demographics2_info5    = 
+ | demographics2_title6   =  
+ | demographics2_info6    = 
+ | demographics2_title7   =  
+ | demographics2_info7    = 
+ | demographics2_title8   =  
+ | demographics2_info8    = 
+ | demographics2_title9   =  
+ | demographics2_info9    = 
+ | demographics2_title10  =  
+ | demographics2_info10   = 
+ | blank_name_sec1        = {{PH wikidata|climate_title}} 
+ | blank_info_sec1        = {{PH wikidata|climate_type}} 
+ | blank1_name_sec1       = [[Languages of the Philippines|Native languages]] 
+ | blank1_info_sec1       = {{PH wikidata|language}} 
+ | blank2_name_sec1       = [[Crime index]] 
+ | blank2_info_sec1       =  
+ | blank3_name_sec1       = Sister localities 
+ | blank3_info_sec1       = 
+ | blank4_name_sec1       =  
+ | blank4_info_sec1       =  
+ | blank5_name_sec1       =  
+ | blank5_info_sec1       =  
+ | blank6_name_sec1       =  
+ | blank6_info_sec1       =  
+ | blank7_name_sec1       = Numbered highways 
+ | blank7_info_sec1       = {{plainlist| 
+ *{{Jct|country=PHL|AH|N1|name1=Maharlika Highway}} 
+ *{{Jct|country=PHL|N|74|name1=Apokon Road|nolink1=yes}} 
+ *{{Jct|country=PHL|N|909|nolink1=yes}} 
+ }} 
+ | blank1_name_sec2       = Major religions 
+ | blank1_info_sec2       =  
+ | blank2_name_sec2       = Feast date 
+ | blank2_info_sec2       =  
+ | blank3_name_sec2       = Catholic diocese 
+ | blank3_info_sec2       = 
+ | blank4_name_sec2       = Patron saint  
+ | blank4_info_sec2       =  
+ | blank5_name_sec2       =  
+ | blank5_info_sec2       =  
+ | blank6_name_sec2       =  
+ | blank6_info_sec2       =  
+ | blank7_name_sec2       =  
+ | blank7_info_sec2       = 
+ | short_description      = 
+ | footnotes              = 
+ }} 
+ '''Tagum''', officially the '''City of Tagum''' ({{lang-ceb|Dakbayan sa Tagum}}; {{lang-fil|Lungsod ng Tagum}}) is a city in the [[Philippines]]. It is the capital of the province of [[Davao del Norte]]. In 2020, 296,202 people lived there.{{PH census|current}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{asia-stub}} 
+ 
+ [[Category:Cities in the Philippines]] 
+ [[Category:Provincial capitals of the Philippines]] 
+ [[Category:Davao Region]]

@@ -1,0 +1,100 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Limpopo < br / > {{lang|nr|ILimpopo}} {{in lang|nr}} 
+ | native_name             =  
+ | settlement_type         = [[Provinces of South Africa|Province of South Africa]] 
+ < !-- images, nickname, motto --- > 
+ | image_flag =  
+ | image_shield            =  
+ | motto                   = Peace, Unity and Prosperity 
+ < !-- maps and coordinates ------ > 
+ | image_map               = Limpopo in South Africa.svg 
+ | mapsize                 =  
+ | map_alt                 = Map showing the location of Limpopo in the northern part of South Africa 
+ | map_caption             = Location of Limpopo in South Africa 
+ < !-- location ------------------ > 
+ | subdivision_type        = Country 
+ | subdivision_name        = [[South Africa]] 
+ < !-- established --------------- > 
+ | established_title       = Established 
+ | established_date        = 27 April 1994 
+ < !-- seat, smaller parts ------- > 
+ | seat_type               = Capital 
+ | seat                    = [[Polokwane]] 
+ | parts_type              = [[Districts of South Africa|Districts]] 
+ | p1                      = [[Mopani District Municipality|Mopani]] 
+ | p2                      = [[Vhembe District Municipality|Vhembe]] 
+ | p3                      = [[Capricorn District Municipality|Capricorn]] 
+ | p4                      = [[Waterberg District Municipality|Waterberg]] 
+ | p5                      = [[Sekhukhune District Municipality|Sekhukhune]] 
+ < !-- government type, leaders -- > 
+ | government_footnotes    =  < !-- for references: use < ref >  tags -- > 
+ | government_type         = [[Parliamentary system]] 
+ | leader_party            = [[African National Congress|ANC]] 
+ | leader_title            = [[Premier of Limpopo|Premier]] 
+ | leader_name             = [[Stanley Mathabatha]] 
+ < !-- area ---------------------- > 
+ | area_footnotes          =  < ref name= " cib2011 " > {{cite book |title=Census 2011: Census in brief |url=http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |publisher=Statistics South Africa |location=Pretoria |year=2012 |isbn=9780621413885 |archive-url=https://web.archive.org/web/20150513171240/http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |archive-date=13 May 2015 |url-status=live}} < /ref > {{rp|9}} 
+ | area_total_km2          = 125754 
+ | area_rank               = [[List of South African provinces by area|5th in South Africa]] 
+ < !-- elevation ----------------- > 
+ | elevation_max_footnotes =  < !-- for references: use < ref >  tags -- > 
+ | elevation_max_m         = 2126 
+ | elevation_min_footnotes =  < !-- for references: use < ref >  tags -- > 
+ | elevation_min_m         =  
+ < !-- population ---------------- > 
+ | population_footnotes    =  < ref name= " cib2011 "  / > {{rp|18}} < ref > {{cite report |title=Mid-year population estimates, 2018 |publisher=Statistics South Africa |date=31 July 2018 |page=3 |url=http://www.statssa.gov.za/publications/P0302/P03022018.pdf |access-date=29 July 2018}} < /ref > 
+ | population_total        = 5404868 
+ | population_as_of        = 2011 
+ | population_density_km2  = auto 
+ | population_est          = 5797300 
+ | pop_est_as_of           = 2018 
+ | population_rank         = [[List of South African provinces by population|5th in South Africa]] 
+ | population_density_rank = [[List of South African provinces by population density|5th in South Africa]] 
+ | population_demonym      =  < !-- demonym, ie. Liverpudlian for someone from Liverpool -- > 
+ | population_note         =  
+ < !-- demographics (section 1) -- > 
+ | demographics_type1      = Population groups 
+ | demographics1_footnotes =  < ref name= " cib2011 "  / > {{rp|21}} 
+ | demographics1_title1    = [[Black people|Black African]] 
+ | demographics1_info1     = 96.7% 
+ | demographics1_title2    = [[White South African|White]] 
+ | demographics1_info2     = 2.6% 
+ | demographics1_title3    = [[Indian South African|Indian]] or [[Asian South African|Asian]] 
+ | demographics1_info3     = 0.3% 
+ | demographics1_title4    = [[Coloured]] 
+ | demographics1_info4     = 0.3% 
+ < !-- demographics (section 2) -- > 
+ | demographics_type2      = Languages 
+ | demographics2_footnotes =  < ref name= " cib2011 "  / > {{rp|25}} 
+ | demographics2_title1    = [[Northern Sotho language|Northern & nbsp;Sotho]] 
+ | demographics2_info1     = 52.9% 
+ | demographics2_title2    = [[Tsonga language|Tsonga]] 
+ | demographics2_info2     = 17.0% 
+ | demographics2_title3    = [[Venda language|Venda]] 
+ | demographics2_info3     = 16.7% 
+ | demographics2_title4    = [[Afrikaans]] 
+ | demographics2_info4     = 2.6% 
+ | demographics2_title5    = [[Tswana language|Tswana]] 
+ | demographics2_info5     = 2.0% 
+ | demographics2_title6    = [[Southern Ndebele language|Southern & nbsp;Ndebele]] 
+ | demographics2_info6     = 2.0% 
+ < !-- time zone(s) -------------- > 
+ | timezone1               = [[South African Standard Time|SAST]] 
+ | utc_offset1             = +2 
+ < !-- postal codes, area code --- > 
+ | iso_code                = ZA-LP 
+ < !-- website, footnotes -------- > 
+ | website                 = [http://www.limpopo.gov.za/ www.limpopo.gov.za] 
+ | footnotes               =  
+ }} 
+ '''Limpopo Province''' is one of the nine [[Provinces of South Africa|South African provinces]]. It borders three countries namely [[Zimbabwe]], [[Mozambique]] and [[Botswana]]. < ref > [https://www.bbc.com/news/world-africa-44736772   South African boy of three drowns in Limpopo toilet -] BBC News < /ref > < ref > [https://www.bbc.com/news/av/world-africa-36225502/why-are-south-africans-burning-schools-in-limpopo   Why are South Africans burning schools in Limpopo? -] BBC News < /ref >  It was started in 1994 with the name of Northern [[Transvaal]] but was renamed for the [[Limpopo River]]. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ {{geo-stub}} 
+ {{authority control}} 
+ [[Category:Limpopo| ]] 
+ [[Category:1994 establishments in South Africa]]

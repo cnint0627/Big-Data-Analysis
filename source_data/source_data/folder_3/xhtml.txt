@@ -1,0 +1,55 @@
+{{Infobox file format 
+ | name = XHTML 
+ | icon                   = 
+ | logo                   = 
+ | caption                = 
+ | extension = .xhtml, .xht, < br / >  .xml, .html, .htm 
+ | mime = application/xhtml+xml 
+ | type code              = 
+ | uniform type           = 
+ | magic                  = 
+ | owner = [[World Wide Web Consortium]] 
+ | released               = {{Start date|2000|01|26|df=yes}} 
+ | latest release version = 5.0 
+ | latest release date    = {{Start date and age|2014|10|28|df=yes}} 
+ | creatorcode            = 
+ | genre                  = [[Markup language]] 
+ | screenshot             =  
+ | container for          = 
+ | contained by           = 
+ | extended from          = [[XML]], [[HTML]] 
+ | extended to            = 
+ | free                   = Yes 
+ | standard               = [http://www.w3.org/TR/html5/ W3C HTML5 (Recommendation)] 
+ | url                    =  
+ }} 
+ '''XHTML''' stands for '''eXtensible HyperText Markup Language'''. It is markup used to design [[website]]s and [[webpage]]s. 
+ 
+ XHTML is much more strict than ordinary [[HTML]], and is based on both [[XML]] and HTML. Due to the lax nature of HTML, different [[web browser]]s can sometimes display websites incorrectly since there is more than one way to interpret poorly written HTML. The strict and formal nature of XHTML, once fully adopted will allow for [[web browser]]s to display the same page correctly between them. Proper XHTML is also easier to read for humans. 
+ 
+ For example, the below code shows one of the differences between HTML and XHTML: 
+ 
+ Incorrect, HTML version: 
+ < syntaxhighlight lang= " html4strict " > 
+ < br > 
+ < /syntaxhighlight > 
+ 
+ Correct, XHTML version: 
+ < syntaxhighlight lang= " html4strict " > 
+ < br / > 
+ < /syntaxhighlight > 
+ 
+ The line break tag in HTML does not have a closing tag, you just type it once and it creates a line break. In XHTML the rule is that tags that do not have an closing tag must close themselves within the initial tag. These tags are called  " empty tags. "  Another empty tag is  < tt > < span style= " color:green " > & lt; < /span > '''hr''' & nbsp; < span style= " color:green; " > / & gt; < /span > < /tt >  which inserts a  " horizontal rule "  or dividing line. 
+ 
+ == JavaScript Differences == 
+ In XHTML, using  < code > innerHTML < /code >  is not  " allowed " .  
+ XHTML also should not be used together with the JavaScript  < code > document.write < /code >  command. 
+ 
+ ==Related pages== 
+ * [[HTML]] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer file formats]] 
+ [[Category:Web design]]

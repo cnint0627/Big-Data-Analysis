@@ -1,0 +1,32 @@
+'''Apoptosis''' is the [[wikt:control|controlled]] [[death]] of a [[Cell (biology)|cell.]] < ref name= " aptref " > {{cite book |title= Edexcel AS Biology Students' Book |url= https://archive.org/details/edexcelasbiology0000unse |last= Fullick |first= Ann |year= 2008 |isbn= 978-1-4058-9632-0 |pages= [https://archive.org/details/edexcelasbiology0000unse/page/143 143] }} < /ref >  It is an important part of [[tissue]] development. For example, during [[limb]] development in a [[Fetus|foetus]], apoptosis allows digits (fingers and toes) to separate from each other. The process is quite common until [[puberty]] begins. Apoptosis is a  regulated and controlled process which works throughout an organism's life cycle. The rate of apoptosis is balanced by the rate of cell production by [[mitosis]]. < ref > Jiang, Lijing 2012. History of Apoptosis Research. eLS. doi:10.1002/9780470015902.a0023954. ISBN 978-0470016176 < /ref > 
+ 
+ == Discovery == 
+ The phenomenon of programmed cell death was first described by [[Carl Vogt]] in 1842. In 1885, anatomist [[Walther Flemming]] gave a more precise description of the process. 
+ 
+ The average adult human loses between 50 and 70 [[1,000,000,000|billion]] cells each day due to apoptosis. The average human adult has more than 13 trillion cells  of which at most only 70 billion die each day. That is, about 5 out of every 1,000 cells (0.5%) die each day due to apoptosis. For an average human child between the ages of 8 and 14, approximately 20–30 billion cells die per day. < ref > {{cite book |last=Karam|first=Jose A. | name-list-style = vanc |title=Apoptosis in Carcinogenesis and Chemotherapy|year=2009|publisher=Springer|location=Netherlands|isbn=978-1-4020-9597-9}} < /ref > 
+ 
+ ==Sequence of events in apoptosis== 
+ When a cell dies by apoptosis, surrounding tissue is not harmed.  < br > 
+ 1. [[Enzyme]]s break down the [[cytoskeleton]] of the cell. < br > 
+ 2. [[Cytoplasm]] becomes [[Density|dense]], with [[organelle]]s tightly packed. < br > 
+ 3. [[Cell membrane|Cell surface membrane]] forms  " blebs " . < br > 
+ 4. [[Chromatin]] condenses and the [[Nuclear membrane|nuclear envelope]] breaks. [[DNA]] breaks into fragments. < br > 
+ 5. The cell breaks down into [[vesicle]]s, taken up by [[phagocytosis]]. < ref > Kerr JF, Wyllie AH, Currie AR 1972. Apoptosis: a basic biological phenomenon with wide-ranging implications in tissue kinetics. ''Br J Cancer''. '''26''' (4): 239–57. doi:10.1038/bjc.1972.33. PMC 2008650. PMID 4561027 < /ref > 
+ 
+ == Controlling the cell cycle == 
+ Apoptosis is the normal end of a cell's life. At any point in time, there may be too many cells in one area, and the DNA 
+ [[Genetic code|coding]] for apoptosis will activate in some of those cells and they will die safely. This is important to the overall [[wikt:function|functioning]] of the [[organism]]. If, for example, the making of [[liver]] cells were to speed up and they never died, the liver would no longer function properly. The liver cells would eventually take over the organism's body. Apoptosis takes place by the help of [[lysosome]]s. [[Lysosome]]s rupture when the cell is old or damaged, this lets out digestive enzymes all over the cell and digests it, therefore killing the cell. < ref name= " aptref " / > 
+ 
+ == Cancer == 
+ [[Cancer]]ous cells do not undergo apoptosis, which is why they are such a problem. They continuously multiply until the host [[Organ (anatomy)|organ]] or the organism's body cannot function anymore. This occurs because the apoptosis coding has [[Mutation|mutated]] and so has other coding. This causes rapid [[Mitosis|mitotic]] division of the unwanted cells. This is a cancerous growth. 
+ 
+ == Nobel Prize == 
+ The Nobel Prize in Physiology or Medicine 2002 was awarded jointly to Sydney Brenner, H. Robert Horvitz and John E. Sulston  " for their discoveries concerning genetic regulation of organ development and programmed cell death'. " < ref > The Nobel Prize in Physiology or Medicine 2002. NobelPrize.org. Nobel Media AB 2020. Sun. 1 Nov 2020. https://www.nobelprize.org/prizes/medicine/2002/summary < /ref >  [[Sydney Brenner]], Sir [[John Sulston]] and [[Robert Horvitz]] received the Nobel Prize for their work on the genome and cells of the [[roundworm]] ''Caenorhabditis elegans''. C. elegans was the first animal to have its complete genome sequenced. < ref > Sulston, John  &  Ferry, Georgina 2002. ''The common thread: a story of science, politics, ethics, and the human genome''. Washington D.C. Joseph Henry Press. < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Related pages == 
+ *[[Hayflick limit]] 
+ 
+ [[Category:Cell biology]]

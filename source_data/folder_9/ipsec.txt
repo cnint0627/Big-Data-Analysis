@@ -1,0 +1,61 @@
+{{IPstack}} 
+ '''Internet Protocol Security''' ('''IPsec''') is a way of making [[Internet]] [[communication]]s more secure and private. 
+ 
+ IPsec is a collection of [[protocol]]s for securing [[Internet Protocol]] (IP) communications by [[authentication|authenticating]] (and optionally [[encryption|encrypting]]) each [[packet (information technology)#Example: IP packets|IP packet]] of a [[data stream]]. IPsec also includes protocols for establishing [[mutual authentication]] between agents at the beginning of the session and negotiation of [[Key (cryptography)|cryptographic keys]] to be used during the session. IPsec can be used to protect data flows between a pair of hosts (e.g. [[User (computing)|computer users]] or [[Server (computing)|servers]]), between a pair of security gateways (e.g. [[router]]s or [[firewall]]s), or between a security gateway and a host. [[Rfc:2406|RFC 2406]] 
+ 
+ IPsec is an end-to-end security solution and operates at the [[Internet Layer]] of the [[Internet Protocol Suite]], comparable to [[network layer|Layer 3]] in the [[OSI model]]. Other Internet security protocols in widespread use, such as [[Secure Sockets Layer|SSL]], [[Transport Layer Security|TLS]] and [[Secure Shell|SSH]], operate in the [[Upper layer protocol|upper layers]] of these models. This makes IPsec more flexible, as it can be used for protecting all the higher level protocols, because applications do not need to be designed to use IPsec, whereas the use of TLS/SSL or other higher-layer protocols must be built-in the application. 
+ 
+ The term  " IPsec "  is officially defined by the [[Internet Engineering Task Force]] (IETF). This definition includes the form of capitalization used for the term; it is often incorrectly spelled ''IPSec''. 
+ 
+ ==Related pages== 
+ * [[Virtual private network]] 
+ 
+ == Other websites == 
+ * [http://www.ietf.org/html.charters/OLD/ipsec-charter.html IP Security Protocol Official Charter], Internet Engineering Task Force (IETF) 
+ * [https://datatracker.ietf.org/public/idindex.cgi?command=show_wg_id & id=1091 IPsec WG still has important active drafts] 
+ * [http://www.ietf.org/html.charters/wg-dir.html#Security%20Area All IETF active security WGs] 
+ * [http://www.ietf.org/html.charters/btns-charter.html IETF BTNS WG (chartered to work on unauthenticated IPsec, IPsec APIs, connection latching)] 
+ * [http://www.windowsecurity.com/articles/Securing_Data_in_Transit_with_IPSec.html Securing Data in Transit with IPsec] {{Webarchive|url=https://web.archive.org/web/20081013035743/http://www.windowsecurity.com/articles/Securing_Data_in_Transit_with_IPSec.html |date=2008-10-13 }} 
+ * [http://search.dmoz.org/cgi-bin/search?search=ipsec IPsec]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} at the [[Open Directory Project]] 
+ * [http://www.microsoft.com/downloads/details.aspx?FamilyID=1d4c292c-7998-42e4-8786-789c7b457881 & displaylang=en Microsoft IPsec Diagnostic Tool] 
+ * [http://www.unixwiz.net/techtips/iguide-ipsec.html An Illustrated Guide to IPsec] 
+ * [http://www.ict.tuwien.ac.at/skripten/datenkomm/infobase/L97-IPsec_v4-7.pdf Data Communication Lectures of Manfred Lindner - Part IPsec] {{Webarchive|url=https://web.archive.org/web/20110531195037/http://www.ict.tuwien.ac.at/skripten/datenkomm/infobase/L97-IPsec_v4-7.pdf |date=2011-05-31 }} 
+ 
+ === Standards === 
+ * [[Rfc:2367|RFC 2367]]: PF_KEY Interface 
+ * [[Rfc:2401|RFC 2401]]: Security Architecture for the Internet Protocol (IPsec overview) 
+ * [[Rfc:2403|RFC 2403]]: The Use of HMAC-MD5-96 within ESP and AH 
+ * [[Rfc:2404|RFC 2404]]: The Use of HMAC-SHA-1-96 within ESP and AH* [[Rfc:2367|RFC 2367]]: PF_KEY Interface 
+ * [[Rfc:2405|RFC 2405]]: The ESP DES-CBC Cipher Algorithm With Explicit IV 
+ * [[Rfc:2409|RFC 2409]]: The Internet Key Exchange 
+ * [[Rfc:2410|RFC 2410]]: The NULL Encryption Algorithm and Its Use With IPsec 
+ * [[Rfc:2411|RFC 2411]]: IP Security Document Roadmap 
+ * [[Rfc:2412|RFC 2412]]: The OAKLEY Key Determination Protocol 
+ * [[Rfc:2451|RFC 2451]]: The ESP CBC-Mode Cipher Algorithms 
+ * [[Rfc:2857|RFC 2857]]: The Use of HMAC-RIPEMD-160-96 within ESP and AH 
+ * [[Rfc:3526|RFC 3526]]: More Modular Exponential (MODP) Diffie-Hellman groups for Internet Key Exchange (IKE) 
+ * [[Rfc:3706|RFC 3706]]: A Traffic-Based Method of Detecting Dead Internet Key Exchange (IKE) Peers 
+ * [[Rfc:3715|RFC 3715]]: IPsec-Network Address Translation (NAT) Compatibility Requirements 
+ * [[Rfc:3947|RFC 3947]]: Negotiation of NAT-Traversal in the IKE 
+ * [[Rfc:3948|RFC 3948]]: UDP Encapsulation of IPsec ESP Packets 
+ * [[Rfc:4106|RFC 4106]]: The Use of Galois/Counter Mode (GCM) in IPsec Encapsulating Security Payload (ESP) 
+ * [[Rfc:4301|RFC 4301]]: Security Architecture for the Internet Protocol 
+ * [[Rfc:4302|RFC 4302]]: IP Authentication Header 
+ * [[Rfc:4303|RFC 4303]]: IP Encapsulating Security Payload 
+ * [[Rfc:4304|RFC 4304]]: Extended Sequence Number (ESN) Addendum to IPsec Domain of Interpretation (DOI) for Internet Security Association and Key Management Protocol (ISAKMP) 
+ * [[Rfc:4306|RFC 4306]]: Internet Key Exchange (IKEv2) Protocol 
+ * [[Rfc:4307|RFC 4307]]: Cryptographic Algorithms for Use in the Internet Key Exchange Version 2 ([[IKEv2]]) 
+ * [[Rfc:4308|RFC 4308]]: Cryptographic Suites for IPsec 
+ * [[Rfc:4309|RFC 4309]]: Using Advanced Encryption Standard (AES) CCM Mode with IPsec Encapsulating Security Payload (ESP) 
+ * [[Rfc:4478|RFC 4478]]: Repeated Authentication in Internet Key Exchange (IKEv2) Protocol 
+ * [[Rfc:4543|RFC 4543]]: The Use of Galois Message Authentication Code (GMAC) in IPsec ESP and AH 
+ * [[Rfc:4555|RFC 4555]]: IKEv2 Mobility and Multihoming Protocol (MOBIKE) 
+ * [[Rfc:4621|RFC 4621]]: Design of the IKEv2 Mobility and Multihoming (MOBIKE) Protocol 
+ * [[Rfc:4718|RFC 4718]]: IKEv2 Clarifications and Implementation Guidelines 
+ * [[Rfc:4806|RFC 4806]]: Online Certificate Status Protocol (OCSP) Extensions to IKEv2 
+ * [[Rfc:4809|RFC 4809]]: Requirements for an IPsec Certificate Management Profile 
+ * [[Rfc:4835|RFC 4835]]: Cryptographic Algorithm Implementation Requirements for Encapsulating Security Payload (ESP) and Authentication Header (AH) 
+ * [[Rfc:4945|RFC 4945]]: The Internet IP Security PKI Profile of IKEv1/ISAKMP, IKEv2, and PKIX 
+ 
+ [[Category:Internet protocols]] 
+ [[Category:Cryptography]]

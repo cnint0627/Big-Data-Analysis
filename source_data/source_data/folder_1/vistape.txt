@@ -1,0 +1,47 @@
+{{Orphan|date=May 2009}} 
+ 
+ {{Infobox Software 
+ | name                   = VistaPE 
+ | logo                   =  
+ | screenshot             =  
+ | caption                =  
+ | collapsible            =  
+ | author                 =  
+ | developer              =  
+ | released               = December 1, 2006 
+ | latest release version =  
+ | latest release date    =  
+ | latest preview version = 12 RC1 
+ | latest preview date    = {{release date|2008|10|21}} 
+ | frequently updated     =  
+ | programming language   =  
+ | operating system       =  
+ | platform               = the Live CD should run on any x86 computer 
+ | size                   =  
+ | language               =  
+ | status                 = beta 
+ | genre                  =  
+ | license                =  
+ | website                = [http://www.vistape.net/ www.vistape.net] 
+ }} 
+ '''VistaPE''' is a is a project (set of scripts) for [[WinBuilder]] to create a [[Live CD]] based on the kernel of [[Windows Vista]].  < br > 
+ VistaPE uses technology and is similar to [[WinPE]] 2.0 (from Microsoft), but has a graphical interface, more support for devices and functions, and can run almost any Windows program. 
+ 
+ ==Features== 
+ * Possibility to either fully or partially load VistaPE at startup into memory (boot.wim) 
+ * Support for a large number of SATA/RAID/SCSI/NIC drivers 
+ * Capable to read and write on NTFS/FAT32/FAT/Ext2/Ext3 partitions 
+ * Full networking support 
+ * Automatic hardware detection (PnP) 
+ * Booting from CD/HDD/UFD/Network 
+ * Compatibility with [[Microsoft Windows]] Vista 
+ * A wide range of programs and shells (Explorer, LiteStep, BS Explorer ...) 
+ * No limits regarding the maximum number of open processes 
+ * Automatic creation shortcuts for programs 
+ * Ability to remove VistaPE boot media while VistaPE is running (using boot.wim) 
+ * Full multilanguage support 
+ 
+ == Other websites == 
+ *[http://hacktolive.org/wiki/Create_a_VistaPE_Live_CD How to create a VistaPE Live CD] {{Webarchive|url=https://web.archive.org/web/20080901155502/http://hacktolive.org/wiki/Create_a_VistaPE_Live_CD |date=2008-09-01 }} 
+ 
+ [[Category:Live CD]]

@@ -1,0 +1,47 @@
+{{Short description|Genus of amphibians}} 
+ {{Automatic taxobox 
+ | image = Crossodactylus03.jpg 
+ | image_caption = An unidentified ''Crossodactylus'' species 
+ | taxon = Crossodactylus 
+ | authority = [[André Marie Constant Duméril|Duméril]] and [[Gabriel Bibron|Bibron]], 1841 
+ | type_species = ''[[Crossodactylus gaudichaudii]]'' 
+ | type_species_authority = Duméril and Bibron, 1841 
+ | subdivision_ranks = Species 
+ | subdivision = 14 species (see [[#Species|text]]) 
+ }} 
+ 
+ '''''Crossodactylus''''' is a [[genus|group]] of [[frog]]s in the [[Family (biology)|family]] [[Hylodidae]]. < ref name=Frost/ > < ref name=AmphibiaWeb/ >  These frogs live in Brazil, southern Paraguay, and northern Argentina. These frogs are sometimes known as ''Limnocharis'', ''Tarsopterus'', ''Calamobates,'' and by the [[common name|English-language name]] '''spinythumb frogs'''. < ref name=Frost/ > < ref > {{Cite web|title=ITIS Standard Report Page: ''Crossodactylus ''|url=https://www.itis.gov/servlet/SingleRpt/SingleRpt;jsessionid=61521BA61E7C64F70E7A474B1B1AF5E3?search_topic=TSN & search_value=207893#null|access-date=2020-08-17|website=www.itis.gov}} < /ref >  They typically inhabit streams in mountainous areas in the [[Atlantic Forest]] or in montane [[savanna]]. < ref name= " Pimenta et al. 2015 " / > 
+ 
+ ==Species== 
+ There are 14 species: < ref name=Frost/ > < ref name=AmphibiaWeb/ > 
+ {{Columns-list|colwidth=25em| 
+ * ''[[Crossodactylus aeneus]]''  < small > [[Johannes Peter Müller|J. Müller]], 1924 < /small > 
+ * ''[[Crossodactylus boulengeri]]''  < small > ([[Gaston-François de Witte|de Witte]], 1930) < /small > 
+ * ''[[Crossodactylus caramaschii]]''  < small > [[species:Rogério Pereira Bastos|Bastos]]  &  [[species:José Perez Pombal Júnior|Pombal]], 1995 < /small > 
+ * ''[[Crossodactylus cyclospinus]]''  < small > [[species:Luciana Barrett Nascimento|Nascimento]], [[species:Carlos Alberto Gonçalves da Cruz|Cruz]]  &  [[species:Renato Neves Feio|Feio]], 2005 < /small > 
+ * ''[[Crossodactylus dantei]]''  < small > [[species:Luiz Claudio Carcerelli|Carcerelli]]  &  [[Ulisses Caramaschi|Caramaschi]], 1993 < /small > 
+ * ''[[Crossodactylus dispar]]''  < small > [[Adolfo Lutz|A. Lutz]], 1925 < /small > 
+ * ''[[Crossodactylus franciscanus]]''  < small > [[species:Bruno Vergueiro Silva Pimenta|Pimenta]], Caramaschi  &  Cruz, 2015 < /small > 
+ * ''[[Crossodactylus gaudichaudii]]''  < small > [[André Marie Constant Duméril|A.M.C. Duméril]]  &  [[Gabriel Bibron|Bibron]], 1841 < /small > 
+ * ''[[Crossodactylus grandis]]''  < small > [[Bertha Lutz|B. Lutz]], 1951 < /small > 
+ * ''[[Crossodactylus lutzorum]]''  < small > Carcerelli  &  Caramaschi, 1993 < /small > 
+ * ''[[Crossodactylus schmidti]]''  < small > [[species:José María Alfonso Félix Gallardo|Gallardo]], 1961 < /small > 
+ * ''[[Crossodactylus timbuhy]]''  < small > Pimenta, Cruz  &  Caramaschi, 2014 < /small > 
+ * ''[[Crossodactylus trachystomus]]''  < small > ([[Johannes Theodor Reinhardt|Reinhardt]]   &  [[Christian Frederik Lütken|Lütken]], 1862) < /small > 
+ * ''[[Crossodactylus werneri]]''  < small > Pimenta, Cruz  &  Caramaschi, 2014 < /small > 
+ < !--Bot notice: new species go here-- > 
+ }} 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=https://amphibiaweb.org/lists/Hylodidae.shtml |title=Hylodidae |year=2020 |work=AmphibiaWeb |publisher=University of California, Berkeley |accessdate=4 August 2020}} < /ref > 
+ 
+ < ref name=Frost > {{cite journal |url=https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylodidae/Crossodactylus |title=''Crossodactylus'' Duméril and Bibron, 1841 |author=Frost, Darrel R. |author-link=Darrel R. Frost |year=2020 |journal=Amphibian Species of the World: An Online Reference. Version 6.1 |publisher=American Museum of Natural History |doi=10.5531/db.vz.0001 |accessdate=4 August 2020}} < /ref > 
+ 
+ < ref name= " Pimenta et al. 2015 " > {{cite journal |last1=Pimenta |first1=Bruno V.S. |author1-link=species:Bruno Vergueiro Silva Pimenta |last2=Caramaschi |first2=Ulisses |author2-link=species:Ulisses Caramaschi |last3=Cruz |first3=Carlos Alberto Gonçalves |author3-link=species:Carlos Alberto Gonçalves Cruz |year=2015 |title=Synonymy of ''Crossodactylus bokermanni'' Caramaschi  &  Sazima, 1985 with ''Crossodactylus trachystomus'' (Reinhardt  &  Lütken, 1862) and description of a new species from Minas Gerais, Brazil (Anura: Hylodidae) |journal=Zootaxa |volume=3955 |issue=1 |pages=65–82 |doi=10.11646/zootaxa.3955.1.3 |pmid=25947837}} < /ref > 
+ }} 
+ 
+ {{Taxonbar|from=Q1959866}} 
+ 
+ [[Category:Frogs of South America]] 
+ {{biology-stub}}

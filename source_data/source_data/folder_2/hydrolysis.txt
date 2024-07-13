@@ -1,0 +1,12 @@
+'''Hydrolysis''' is a [[chemical reaction]] or process where a [[chemical compound]] reacts with [[water (molecule)|water]]. < ref > Compendium of Chemical Terminology, [http://goldbook.iupac.org/H02902.html hydrolysis], accessed 2007-01-23. < /ref > < ref > Compendium of Chemical Terminology, [http://goldbook.iupac.org/S05762.html solvolysis], accessed 2007-01-23. < /ref >  This is the type of reaction that is used to break down [[polymer]]s into many smaller units. In this reaction, water is always added to the chemical compound. 
+ 
+ == Hydrolysis of metal salts == 
+ 
+ Hydrolysis of metal salts is more commonly known as hydration.  Many metal ions are strong [[Lewis acid]]s, and in water they may undergo hydrolysis to form ''basic salts''.  Such salts contain a [[hydroxyl]] group that is directly bound to the metal ion in place of a water [[ligand]]. The positive charge on metal ions creates an attraction to water, a [[Lewis base]] with a non-binding electron pair on the [[oxygen]] atom, and alters the water [[molecule]]'s electron density. This in turn increases the [[Chemical polarity|polarity]] of the O-H bond, which now acts as a proton donor under [[Brønsted-Lowry acid-base theory]] to release the hydrogen as a H+ ion, increasing the acidity of the solution. For example, [[aluminium chloride]] undergoes extensive hydrolysis in water with the solution being very acidic. 
+ : < chem title= " Hydrolysis of a hydrated Al3+ ion " > [Al(H2O)6]^3+ + H2O  < = >  [Al(OH)(H2O)5]^2+ + H3O+ < /chem > 
+ 
+ This implies that [[hydrogen chloride]] is lost in the [[evaporation]] of AlCl < sub > 3 < /sub >  solutions and the residue is a basic salt (in this case an ''oxychloride'') in place of AlCl < sub > 3 < /sub > . This type of reaction is also seen with other metal chlorides such as [[zinc chloride|ZnCl < sub > 2 < /sub > ]], [[Tin(II) chloride|SnCl < sub > 2 < /sub > ]], [[Iron(III) chloride|FeCl < sub > 3 < /sub > ]] and [[lanthanide]] halides such as [[Dysprosium(III) chloride|DyCl < sub > 3 < /sub > ]]. With some compounds such as [[titanium tetrachloride|TiCl < sub > 4 < /sub > ]], the hydrolysis may go to completion and form the pure [[hydroxide]] or [[oxide]], in this case [[Titanium dioxide|TiO < sub > 2 < /sub > ]]. 
+ 
+ ==References== 
+ < references/ > 
+ [[Category:Chemical reactions]]

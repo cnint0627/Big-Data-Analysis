@@ -1,0 +1,16 @@
+In [[mathematics]], a '''tuple''' is a [[finite]] [[sequence]] of objects. Sometimes, the finite sequence is also called an ''ordered list''. This means that the order of the objects matter. In a tuple, the objects are either enclosed within parentheses (such as  < math > (1, 2) < /math > ), < ref > {{Cite web|date=2020-03-17|title=List of Arithmetic and Common Math Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/common-math-symbols/|access-date=2020-09-23|website=Math Vault|language=en-US}} < /ref >  or within angle [[Bracket|brackets]] (such as  < math > \langle 1, 2 \rangle < /math > ). < ref > {{Cite web|title=Tuple - Encyclopedia of Mathematics|url=https://encyclopediaofmath.org/wiki/Tuple|access-date=2020-09-23|website=encyclopediaofmath.org}} < /ref >   Each of the objects in the list has a certain type. A tuple consisting of ''n'' entries is called an '''n-tuple'''. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=n-Tuple|url=https://mathworld.wolfram.com/n-Tuple.html|access-date=2020-09-23|website=mathworld.wolfram.com|language=en}} < /ref >  Tuples are used to describe mathematical objects that are made of certain, well-defined components. They are also used very frequently with [[database]]s.  
+ Tuples are different from [[set]]s: 
+ *A certain element can be in a tuple more than once. 
+ *The order in which the elements appear in a tuple is important. 
+ 
+ In other words, tuples are like ordered [[multiset]]s. 
+ 
+ == Related pages == 
+ 
+ * [[Relation (mathematics)]] 
+ 
+ == References == 
+ < references / > 
+ {{math-stub}} 
+ 
+ [[Category:Set theory]]

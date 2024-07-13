@@ -1,0 +1,29 @@
+In [[algebra]], the '''discriminant''', sometimes represented by the symbol  < math > \Delta < /math > , is an algebraic expression used to determine the number of roots a [[polynomial]] have. < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-16|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Discriminant review (article)|url=https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/a/discriminant-review|access-date=2020-08-16|website=Khan Academy|language=en}} < /ref >    
+ 
+ For example, the discriminant of the quadratic polynomial  
+ : < math > ax^2+bx+c\, < /math >   & nbsp; & nbsp; & nbsp; & nbsp; & nbsp; is  & nbsp; & nbsp; & nbsp; & nbsp; & nbsp;  < math > \,b^2-4ac < /math > . < ref name= " :0 " > {{Cite web|title=Discriminant {{!}} mathematics|url=https://www.britannica.com/science/discriminant|access-date=2020-08-16|website=Encyclopedia Britannica|language=en}} < /ref > 
+ 
+ If the discriminant is larger than zero, then the polynomial has two (distinct) [[real number]]s as roots.  
+ 
+ If the discriminant is equal to zero, then the polynomial has two repeating [[real numbers]] as roots (i.e., exactly one real root). 
+ 
+ If the discriminant is smaller than zero, then the polynomial has two (purely) [[complex number]]s as roots (i.e., zero real root). < ref > {{Cite web|title=Definition of Discriminant|url=https://www.mathsisfun.com/definitions/discriminant.html|access-date=2020-08-16|website=www.mathsisfun.com}} < /ref > 
+ 
+ Apart for quadratic polynomials, discriminants can be defined for cubic polynomials, general conic equations, and other mathematical entities such as differential equations and quadratic forms as well. < ref name= " :0 "  / > 
+ 
+ == Related pages == 
+ 
+ * [[Equation solving]] 
+ * [[Quadratic equation]] 
+ 
+ == References == 
+ < references / > 
+ 
+ {{Polynomials}} 
+ 
+ [[Category:Algebra]] 
+ [[Category:Number theory]] 
+ [[Category:Algebraic geometry]] 
+ 
+ 
+ {{Math-stub}}

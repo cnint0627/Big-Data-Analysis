@@ -1,0 +1,120 @@
+{{Infobox drug 
+ | drug_name =  
+ | type =  < !-- empty -- > 
+ | IUPAC_name = 2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol 
+ | image = Thiamin.svg 
+ | width =  
+ | alt =  
+ | caption = Skeletal formula and ball-and-stick model of the cation in thiamine 
+ < !-- Clinical data -- > | image2 = Thiamine cation 3D ball.png 
+ | width2 =  
+ | alt2 =  
+ | imageL =  
+ | widthL =  
+ | altL =  
+ | widthR =  
+ | imageR =  
+ | altR =  
+ | pronounce = {{IPAc-en|ˈ|θ|aɪ|.|ə|m|ᵻ|n}} {{respell|THY|ə-min}} 
+ | tradename =  
+ | Drugs.com = {{Drugs.com|monograph|thiamine-hydrochloride}} 
+ | MedlinePlus =  
+ | licence_EU =  < !-- EMA requires brand name -- > 
+ | licence_US = Thiamine 
+ | DailyMedID = Thiamine 
+ | pregnancy_AU =  < !-- A/B1/B2/B3/C/D/X -- > 
+ | pregnancy_AU_comment =  
+ | pregnancy_category =  
+ | legal_AU =  < !-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-- > 
+ | legal_AU_comment =  
+ | legal_CA =  < !-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -- > 
+ | legal_CA_comment =  
+ | legal_DE =  < !-- Anlage I, II, III or Unscheduled-- > 
+ | legal_DE_comment =  
+ | legal_NZ =  < !-- Class A, B, C -- > 
+ | legal_NZ_comment =  
+ | legal_UK =  < !-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -- > 
+ | legal_UK_comment =  
+ | legal_US = OTC 
+ | legal_UN =  < !-- N I, II, III, IV / P I, II, III, IV-- > 
+ | legal_US_comment =  
+ | legal_UN_comment =  
+ | legal_status =  < !--For countries not listed above-- > 
+ < !-- Pharmacokinetic data -- > | dependency_liability =  
+ | addiction_liability =  
+ | routes_of_administration = by mouth, IV, IM < ref name=NIH2016/ > 
+ | bioavailability = 3.7% to 5.3% {{medical citation needed|date=January 2021}} 
+ | protein_bound =  
+ | metabolism =  
+ | metabolites =  
+ | onset =  
+ | elimination_half-life = 1.8d < ref name= " pmid1618256 " > {{cite journal | vauthors = Royer-Morrot MJ, Zhiri A, Paille F, Royer RJ | title = Plasma thiamine concentrations after intramuscular and oral multiple dosage regimens in healthy men | url = https://archive.org/details/sim_european-journal-of-clinical-pharmacology_1992-02_42_2/page/219 | journal = European Journal of Clinical Pharmacology | volume = 42 | issue = 2 | pages = 219–22 | date = 1992 | pmid = 1618256 | doi = 10.1007/BF00278489 | s2cid = 19924442 }} < /ref > {{better source needed|reason=Conflicting data with other sources (from 1 and 3 weeks in PMID 32933220 to 96-154 minutes in PMID 31295356). Reliable primary sources are needed.|date=January 2021}} 
+ | duration_of_action =  
+ | excretion =  < !-- Identifiers -- > 
+ | CAS_number = 70-16-6 
+ | CAS_number_Ref = {{cascite|correct|CAS}} 
+ | CAS_supplemental =  < br > {{CAS|67-03-8}}(Cl < sup > - < /sup > .HCl) 
+ | ATCvet =  
+ | ATC_prefix = A11 
+ | ATC_suffix = DA01 
+ | ATC_supplemental =  
+ | PubChem = 1130 
+ | IUPHAR_ligand =  
+ | DrugBank = DB00152 
+ | ChemSpiderID = 1098 
+ | UNII = 4ABT0J945J 
+ | KEGG = C00378 
+ | ChEBI = 18385 
+ | ChEMBL = 1547 
+ | NIAID_ChemDB =  
+ | synonyms = Vitamin B < sub > 1 < /sub > , aneurine, thiamin 
+ < !-- Chemical and physical data -- > | chemical_formula =  
+ | C = 12 
+ | H = 17 
+ | N = 4 
+ | O = 1 
+ | S = 1 
+ | charge = + 
+ | SMILES = Cc2ncc(C[n+]1csc(CCO)c1C)c(N)n2 
+ | StdInChI = 1S/C12H17N4OS/c1-8-11(3-4-17)18-7-16(8)6-10-5-14-9(2)15-12(10)13/h5,7,17H,3-4,6H2,1-2H3,(H2,13,14,15)/q+1 
+ | StdInChIKey = JZRWCGZRTZMZEH-UHFFFAOYSA-N 
+ < !--| InChIKey1 = MYVIATVLJGTBFV-UHFFFAOYSA-M 
+ | InChIKey2 = DPJRMOMPQZCRJU-UHFFFAOYSA-M 
+  StdInChI and key are for cation, extra Inchikey for Cl- salt and Cl-.HCl, so search engines will find this page. Source=CAS  -- > | density =  
+ | density_notes =  
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | melting_point =  
+ | melting_high =  
+ | melting_notes =  
+ | boiling_point =  
+ | boiling_notes =  
+ | solubility =  
+ | specific_rotation =  
+ | INN =  
+ | Jmol =  
+ | PubChemSubstance2 = 6042 
+ | class = [[vitamin]] 
+ | UNII2 = X66NSO3N35 
+ | UNII2_Ref = {{fdacite|correct|FDA}} 
+ | CAS_number2 = 59-43-8  
+ | CAS_number2_Ref = {{cascite|correct|CAS}} 
+ | index2_label = Cl < sup > - < /sup >  salt 
+ | index_label = cation 
+ }} 
+ 
+ '''Thiamine''' (or thiamin) is '''vitamin B < sub > 1 < /sub > '''. It is a water-soluble [[vitamin]] of the [[B vitamin complex|B complex]]. Its [[phosphate]] derivatives take part in many cellular processes. Thiamine pyrophosphate (TPP) is a [[coenzyme]] in the [[catabolism]] of [[sugars]] and [[amino acids]].  
+ 
+ also it can be found in Food and Manufactured [[Dietary supplement|Dietary supplements]] also in [[Medication|Medications]] < ref name= " NIH2016 " > {{cite web|title=Thiamin Fact Sheets for Health Professionals|url=https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/|website=Office of Dietary Supplements|access-date=30 December 2016|date=11 February 2016|url-status=live|archive-url=https://web.archive.org/web/20161230231520/https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/|archive-date=30 December 2016}} < /ref > < ref name= " medline " > {{cite web|title=Thiamine: MedlinePlus Drug Information|url=https://medlineplus.gov/druginfo/meds/a682586.html|website=medlineplus.gov|access-date=30 April 2018}} < /ref >  Foods that provide Thiamine include [[Whole grain|whole grains]], [[Legume]] < ref name= " NIH2016 "  / >   
+ 
+ Lack of thiamine causes [[beriberi]]. 
+ 
+ {{-}} 
+ 
+ == References == 
+ < references / > {{biology-stub}} 
+ 
+ {{Vitamins}} 
+ 
+ [[category:B vitamins]] 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:Organosulfur compounds]]

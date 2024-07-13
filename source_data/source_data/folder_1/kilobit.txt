@@ -1,0 +1,16 @@
+A '''kilobit''' is [[kilo-|1000 (kilo-)]], as in [[International System of Units|SI]], [[bit]]s. < ref name= " nist " > {{cite web|url=http://physics.nist.gov/cuu/Units/binary.html |title=Definitions of the SI units: The binary prefixes |publisher=Physics.nist.gov |accessdate=2011-11-29}} < /ref >   A bit is either 0 (off) or 1 (on). The kilobit is usually written as kbit or kb. < ref name= " nist "  / > < ref > {{cite web |url=http://www.unc.edu/~rowlett/units/dictK.html |title=Units: K |publisher=Unc.edu |date=2002-10-01 |accessdate=2011-11-29 |archive-date=2011-11-16 |archive-url=https://web.archive.org/web/20111116205434/http://www.unc.edu/~rowlett/units/dictK.html |url-status=dead }} < /ref >   [[Kibibit]] is similar, except it has 1024 ([[power of two]]) bits instead of 1000.  They are sometimes confused. 
+ 
+ == Related pages == 
+ * [[Kilobyte]] 
+ * [[Kibibit]] 
+ * [[Kilo-]] 
+ * [[Bit]] 
+ * [[International System of Units|SI]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{math-stub}} 
+ {{tech-stub}} 
+ 
+ [[Category:Units of information]]

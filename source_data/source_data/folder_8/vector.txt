@@ -1,0 +1,103 @@
+{{About|a mathematical concept||Vector (biology)}} 
+ [[Image:Vector.svg|right|A vector]] 
+ 
+ A '''vector''' is a [[mathematical]] [[wikt:object|object]] that has a [[size]], called the ''magnitude'', and a [[direction]]. It is often represented by boldface letters (such as  < math > \mathbf{u} < /math > ,  < math > \mathbf{v} < /math > ,  < math > \mathbf{w} < /math > ), or as a line segment from one point to another (as in  < math > \overrightarrow{AB} < /math > ). < ref > {{Cite web|date=2020-03-25|title=Comprehensive List of Algebra Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/|access-date=2020-08-19|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Vector|url=https://mathworld.wolfram.com/Vector.html|access-date=2020-08-19|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ For example, a vector would be used to show the [[distance]] and direction something moved in. When asking for directions, if one says  " Walk one kilometer towards the North " , that would be a vector, but if they say  " Walk one kilometer " , without showing a direction, then that would be a [[scalar]]. 
+ 
+ We usually draw vectors as [[arrow]]s. The length of the arrow is [[Proportionality|proportional]] to the vector's magnitude. The direction in which the arrow points to is the vector's direction. < ref name= " :0 " > {{Cite web|title=Vectors|url=https://www.mathsisfun.com/algebra/vectors.html|access-date=2020-08-19|website=www.mathsisfun.com}} < /ref > 
+ 
+ ==Examples of vectors== 
+ * John walks [[north]] 20 [[meters]]. The direction  " north "  together with the distance  " 20 meters "  is a vector. 
+ * An [[apple]] [[Falling|falls]] [[down]] at 10 meters per [[second]]. The direction  " down "  combined with the [[speed]]  " 10 meters per second "  is a vector. This kind of vector is also called [[velocity]]. 
+ 
+ ==Examples of scalars== 
+ * The distance between two places is 10 [[kilometer]]s. This distance is not a vector because it does not contain a direction. 
+ * The [[number]] of [[fruit]] in a [[box]] is not a vector. 
+ * A person pointing is not a vector because there is only a direction. There is no magnitude (the distance from the person's finger to a building, for example). 
+ * The [[length]] of an object. 
+ * A car drives at 100 kilometers per hour. This does not describe a vector, as there is only a magnitude, but no direction. 
+ 
+ ==More examples of vectors== 
+ * [[Displacement vector|Displacement]] is a vector. Displacement is the distance that something moves ''in a certain direction''. A measure of distance alone is a scalar. 
+ * [[Force (physics)|Force]] that includes direction is a vector. < ref name= " :0 "  / > 
+ * [[Velocity]] is a vector, because it is a [[speed]] in a certain direction. < ref name= " :0 "  / > < ref > {{Cite web|title=vector {{!}} Definition  &  Facts|url=https://www.britannica.com/science/vector-mathematics|access-date=2020-08-19|website=Encyclopedia Britannica|language=en}} < /ref > 
+ * [[Acceleration]] is the rate of change of velocity. An object is accelerating if it is changing speed or changing direction. 
+ 
+ ==How to add vectors== 
+ ===Adding vectors on paper using the head to tail method=== 
+ [[File:Head-to-tail Addition.png|thumb|Head-to-tail Addition]] 
+ The Head to Tail method of adding vectors is useful for doing an estimate on paper of the result of adding two vectors. To do it: 
+ * Each vector is drawn as an arrow with an amount of length behind it, where each unit of length on the paper represents a certain magnitude of the vector. 
+ * Draw the next vector, with the tail(end) of the second vector at the head(front) of the first vector. 
+ * Repeat for all further vectors: Draw the tail of the next vector at head of the previous one. 
+ * Draw a line from the tail of the first vector to the head of the last vector - that's the resultant(sum) of all the vectors. 
+ 
+ It's called the  " Head to Tail "  method, because each head from the previous vector leads in to the tail of the next one. 
+ 
+ ===Using component form=== 
+ {{Clarify|reason=We haven’t explained component form}} 
+ 
+ Using the component form to add two vectors literally means adding the components of the vectors to create a new vector. < ref > {{Cite web|date=2013-11-07|title=1.1: Vectors|url=https://math.libretexts.org/Bookshelves/Calculus/Supplemental_Modules_(Calculus)/Vector_Calculus/1%3A_Vector_Basics/1.1%3A_Vectors|access-date=2020-08-19|website=Mathematics LibreTexts|language=en}} < /ref >  For example, let ''' < big > a < /big > ''' and ''' < big > b < /big > ''' be two two-[[Dimension|dimensional]] vectors. These vectors can be written in terms of their components. 
+ 
+ < math > \mathbf{a} = ( a_x, a_y ) < /math > 
+ 
+ < math > \mathbf{b} = ( b_x, b_y ) < /math > 
+ 
+ Suppose ''' < big > c < /big > ''' is the [[sum]] of these two vectors, so that ''' < big > c < /big > ''' = ''' < big > a < /big > ''' + ''' < big > b < /big > '''. This means that  < math > \mathbf{c} = ( a_x + b_x, a_y + b_y ) < /math > . 
+ 
+ Here is an example of [[addition]] of two vectors, using their component forms: 
+ 
+ < math > \mathbf{a} = ( 3, -1 ) < /math > 
+ 
+ < math > \mathbf{b} = ( 2, 2 ) < /math > 
+ 
+ < math > \begin{align}\mathbf{c}  &  = \mathbf{a} + \mathbf{b} \\  &  = ( a_x + b_x, a_y + b_y ) \\  &  = ( 3 + 2, -1 + 2 ) \\  &  = ( 5, 1 ) \end{align} < /math > 
+ 
+ This method works for all vectors, not just two dimensional ones. 
+ 
+ ==How to multiply vectors== 
+ ===Using the dot product=== 
+ The [[dot product]] is one method to multiply vectors. It produces a scalar. It uses component form: 
+ 
+ < math > \begin{align}\mathbf{a}  &  = (2, 3)\\  
+ \mathbf{b}  &  = (1, 4) \\ 
+ \mathbf{a} \cdot \mathbf{b}  &  = (2,3)\cdot(1,4) \\ 
+ &  = (2\cdot 1)+(3\cdot 4) \\ 
+ &  = 2+12 \\  & = 14 
+ \end{align} < /math > 
+ 
+ ===Using the cross product=== 
+ The [[cross product]] is another method to multiply vectors. Unlike dot product, it produces a vector. Using component form: 
+ 
+ < math > \mathbf{a}\times\mathbf{b}=|\mathbf{a}||\mathbf{b}|\sin(\theta) \mathbf{n} < /math > 
+ 
+ Here,  < math > |\mathbf{a}| < /math >  means the length of  < math > \mathbf{a} < /math > , and  < math > \mathbf{n} < /math >  is the [[unit vector]] at [[right angles]] to both  < math > \mathbf{a} < /math >  and  < math > \mathbf{b} < /math > . 
+ 
+ ===Multiplying by a scalar=== 
+ To multiply a vector by a [[scalar]] (a normal number), you multiply the number by each component of the vector: 
+ 
+ < math > c\,\mathbf{x} = (c\,x_1,c\,x_2,...,c\,x_n) < /math > 
+ 
+ An example of this is 
+ 
+ < math > \begin{align}c  &  = 5\\ 
+ \mathbf{x}  &  = (3,4)\\ 
+ c\,\mathbf{x}  &  = (5\cdot3, 5\cdot4)\\ 
+ &  = (15, 20) 
+ \end{align} < /math > 
+ 
+ ==Related pages== 
+ * [[Analytic geometry]] 
+ * [[Null vector]] 
+ * [[Unit vector]] 
+ * [[Vector field]] 
+ * [[Vector graphics]] 
+ * [[Vector space]] 
+ * [[Vector subspace]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Vectors| ]] 
+ [[Category:Basic physics ideas]]

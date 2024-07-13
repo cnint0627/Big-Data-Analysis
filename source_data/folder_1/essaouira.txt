@@ -1,0 +1,77 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > | name                     = Essaouira 
+ | other_name               = Sidi Megdoul 
+ | native_name              =  < !-- for cities whose native name is not in English -- > 
+ | nickname                 =  
+ | settlement_type          = City and [[Wilaya]] 
+ | motto                    =  < !-- images and maps  ----------- > 
+ | image_skyline            = Ramparts_of_Essaouira.JPG 
+ | imagesize                = 300px 
+ | image_caption            =  
+ | image_flag               =  
+ | flag_size                =  
+ | image_seal               =  
+ | seal_size                =  
+ | image_shield             =  
+ | shield_size              = 57px 
+ < !-- Location ------------------ > | subdivision_type         = Country 
+ | subdivision_name         = {{flag|Morocco}} 
+ | subdivision_type1        = [[Regions of Morocco|Region]] 
+ | subdivision_name1        = [[Marrakesh-Safi]] 
+ | subdivision_type2        = [[Provinces of Morocco|Province]] 
+ | subdivision_name2        =  
+ | subdivision_type3        =  
+ | subdivision_name3        = | < !-- Politics ----------------- > 
+ | government_footnotes     =  
+ | government_type          =  
+ | leader_title             = Mayor 
+ | leader_name              = [[Asma Chaâbi]] 
+ | leader_title1            =  < !-- for places with, say, both a mayor and a city manager -- > 
+ | leader_name1             =  
+ | established_title        =  < !-- Settled -- > 
+ | established_date         =  < !-- Area    --------------------- > 
+ | area_magnitude           =  
+ | unit_pref                = Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_footnotes           =  
+ | area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ < !-- Population   ----------------------- > | population_as_of         = 2004 
+ | population_footnotes     =  
+ | population_note          =  
+ | population_total         = 70,000 
+ | population_density_km2   =  
+ | population_density_sq_mi =  
+ | population_metro         =  
+ | population_density_metro_km2 =  
+ | population_density_metro_sq_mi =  
+ | population_blank1_title  = Ethnicities 
+ | population_blank1        =  
+ | population_density_blank1_km2 =  
+ | population_density_blank1_sq_mi =  < !-- General information  --------------- > 
+ | timezone                 = [[Western European Time|WET]] 
+ | utc_offset               = +0 
+ | timezone_DST             = [[Western European Summer Time|WEST]] 
+ | utc_offset_DST           = +1 
+ | coordinates              = {{coord|31|30|47|N|9|46|11|W||display=inline,title}} 
+ | elevation_footnotes      =  < !--for references: use  < ref >   < /ref >  tags-- > 
+ | elevation_m              =  
+ | elevation_ft             =  < !-- Area/postal codes  &  others -------- > 
+ | postal_code_type         =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | postal_code              =  
+ | area_code                =  
+ | blank_name               =  
+ | blank_info               =  
+ | blank1_name              =  
+ | blank1_info              =  
+ | website                  =  
+ | footnotes                =  
+ }} 
+ [[File:Entangled boats.jpg|thumb|left|Blue fishing boats in harbour]] 
+ [[File:Essaouira MAROC MDEINA.jpg|thumb|left|Souvenirs shops in Medina]] 
+ '''Essaouira''' ({{lang-ar|الصويرة}}), formerly known as '''Mogador''', is a [[city]] in western [[Morocco]] on the [[Atlantic Ocean]]. 
+ 
+ 
+ {{geo-stub}} 
+ {{authority control}} 
+ [[Category:Cities in Morocco]]

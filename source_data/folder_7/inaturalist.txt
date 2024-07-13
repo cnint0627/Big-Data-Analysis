@@ -1,0 +1,45 @@
+{{Infobox Company 
+ | company_name    = iNaturalist 
+ | company_logo    =File:INaturalist text logo.svg 
+ | company_type    = Joint initiative of the California Academy of Sciences and the National Geographic Society. 
+ | foundation      = 2008, [[California]], [[United States]] 
+ | location        =  
+ | key_people      = Ken-ichi Ueda  < br / >  Scott Loarie  < br / >  Patrick Leary  < br / >  Alex Shepard 
+ | industry        = [[conservation biology|conservation]] 
+ | products        = 
+ | revenue         =  
+ | num_employees   =  
+ | homepage        = {{url|http://www.inaturalist.org/}} 
+ }} 
+ 
+ '''iNaturalist''' is an American website where people post scientific information about plants, animals and other living things.  Usually, they send photographs of which living things they saw and say where and when they saw them. < ref name= " iN " > {{cite web|publisher=iNaturalist|access-date=August 26, 2020|title=About|url=https://www.inaturalist.org/pages/about}} < /ref > 
+ 
+ iNaturalist works by [[crowdsourcing]], by asking many, many people to work on the project.  Some of the people who send information to iNaturalist are professional scientists and some are [[citizen science|citizen scientists]], ordinary people who want to help scientific projects.  iNaturalist sends information to [[International Union for the Conservation of Nature]] and other projects that watch endangered animals and other populations. < ref name= " iN "  / >  iNaturalist users can help park rangers and other people who work in forests find and identify [[invasive species]], for example [[kudzu]].  According to one park ranger from the [[Great Smoky Mountains National Park]] in the United States, rangers usually already know an invasive plant is in their park, but iNaturalist and programs like it help them find out exactly where it is.  Then they can gather people to remove it. < ref name= " Sierra " > {{cite news|publisher=Sierra Club|url=https://www.sierraclub.org/sierra/inaturalist-does-more-id-plants|access-date=August 28, 2020|author=Korrin L. Bishop|title= iNaturalist Does More Than ID Plants: The citizen science app also helped one user find meaning during the pandemic|date=August 3, 2020}} < /ref > 
+ 
+ Parks, conservation programs and research teams in many countries have used iNaturalist, for example the United States, Canada and New Zealand. < ref name= " OurA " > {{cite web|url=https://ourauckland.aucklandcouncil.govt.nz/articles/events/2020/08/invertebrate-monitoring-in-kaip%C4%81tiki-conservation-week-2020/|access-date=August 28, 2020|publisher=Our Auckland|title=Invertebrate Monitoring in Kaipātiki – Conservation Week 2020}}{{Dead link|date=July 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > < ref name= " Halifax " > {{cite news|publisher=Halifax Today|url=https://www.halifaxtoday.ca/local-news/the-role-of-social-media-in-identifying-exotic-looking-insects-2654400|access-date=August 28, 2020|date=August 22, 2020|title=The role of social media in identifying exotic-looking insects|author1=Paul Manning|author2=Morgan Jackson}} < /ref > 
+ 
+ ==History== 
+ 
+ Students at the [[University of California, Berkeley|University of California at Berkeley]] founded iNaturalist in 2008.  It was a [[Master's degree|master's thesis]] project.  Since 2014, the [[California Academy of Sciences]] and the [[National Geographic Society]] have run iNaturalist together. < ref name= " iN "  / > 
+ 
+ ==Platform== 
+ 
+ People use their [[smart phones]] to look at or send information to iNaturalist, usually photographs.  Then other users on the website figure out what the is in the picture. < ref name= " Halifax "  / > 
+ 
+ ==Seek== 
+ 
+ In 2020, iNaturalist launched a smaller program called Seek.  Users with Seek can point their phones at a plant or animal and the program will try to tell them its name.  According to iNature's Tony Iwane,  " Seek's machine-learning model is based entirely on observations from . . the iNaturalist community, so it's really the hard work of thousands and thousands of people on iNaturalist that enables Seek to function. " < ref name= " Seek " > {{cite news|publisher=Irish Times|access-date=August 28, 2020|url=https://www.irishtimes.com/news/science/seek-and-ye-shall-mostly-find-the-detail-of-nature-s-treasure-trove-1.4328491|title=Seek and ye shall (mostly) find the detail of nature's treasure trove|author1=Paddy Woodworth|date=August 20, 2020}} < /ref > 
+ 
+ ==Related pages== 
+ *[[AmphibiaWeb]] 
+ *[[IUCN]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Science websites]] 
+ [[Category:Scientific organizations based in the United States]] 
+ [[Category:Citizen science organizations]]

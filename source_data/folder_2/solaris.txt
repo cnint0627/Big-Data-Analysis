@@ -1,0 +1,41 @@
+{{Infobox OS 
+ | name                   = Solaris 
+ | logo                   =  
+ | screenshot             =  
+ | developer              = [[Oracle Corporation]] 
+ | family                 = [[Unix]] 
+ | source_model           = Mixed [[open source software|open source]] / [[proprietary software|closed source]] 
+ | released               = June 1992 
+ | working_state          = Current 
+ | latest_release_version = 11.1 < ref > {{cite web | title= Oracle Announces Availability of Oracle Solaris 11.1 and Oracle Solaris Cluster 4.1 | url= http://www.oracle.com/us/corporate/press/1867937 | date= 26 October 2012 | accessdate= 15 December 2012 | archive-date= 2 January 2013 | archive-url= https://web.archive.org/web/20130102215617/http://www.oracle.com/us/corporate/press/1867937 | url-status= dead }} < /ref > 
+ | latest_release_date    = {{Release date and age|2012|10|26}} 
+ | marketing_target       = [[Computer workstation|Workstation]], [[Server (computing)|Server]] 
+ | programmed_in          = [[C (programming language)|C]] 
+ | prog_language          = [[C (programming language)|C]] 
+ | language               = [[English language|English]] 
+ | kernel_type            = [[Monolithic kernel|Monolithic]] 
+ | ui                     = [[OpenSolaris Desktop]] or [[Common Desktop Environment|CDE]] or [[GNOME]] 
+ | license                = Various 
+ | supported_platforms    = [[SPARC]], [[IA-32]], [[x86-64]], [[PowerPC]] (Solaris 2.5.1 only) 
+ | website                = [http://www.oracle.com/solaris Oracle Solaris] 
+ }} 
+ 
+ '''Solaris''' is an [[operating system]] created by [[Sun Microsystems]] in 1992. It was created to run on their [[workstation]]s (but it can be used on most modern PCs) and is still developed today. It used to be called '''SunOS''' until it was renamed to Solaris in 1992. As of 2010, it is one of the main commercial [[UNIX]] variants (The others are [[HP-UX]], [[AIX]], and [[z/OS]]). Solaris is ultimately based on [[UNIX System V]]. With version 10, released in 2009, most parts of it were made [[Open Source]], and released as [[OpenSolaris]]. Solaris 10 runs on [[SPARC]] processors, as well as the 32-bit and 64-bit [[Intel]] and [[AMD]] processors. [[Oracle Corporation]] acquired Sun Microsystems in January 2010. Oracle continued developing Solaris, but it stopped developing OpenSolaris. OpenSolaris was later forked into the [[illumos]] kernel and the [[OpenIndiana]] distribution. 
+ 
+ It is mostly used in advanced [[servers]] like the ones that run the [[Internet]], on some [[workstation]]s, and for [[programming]] in languages like [[Java programming language|Java]], having advanced features for programmers. 
+ {{clear}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [https://www.oracle.com/solaris/solaris11/index.html Solaris Operating System] 
+ * [https://www.openindiana.org/ OpenIndiana (a fork of OpenSolaris)] 
+ 
+ {{Operating systems}} 
+ {{tech-stub}} 
+ 
+ [[Category:Operating systems]] 
+ [[Category:Unix]] 
+ [[Category:Sun Microsystems]] 
+ [[Category:Oracle Corporation]]

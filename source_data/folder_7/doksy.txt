@@ -1,0 +1,72 @@
+{{Infobox settlement 
+ | name                    = Doksy 
+ | native_name             =  
+ | other_name              =  
+ | settlement_type         = [[Town]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           = Doksy.jpg 
+ | image_caption           = Town square 
+ | image_flag              = Doksy_CL_CZ_flag.png 
+ | image_shield            = Doksy CL CZ CoA.jpg 
+ | etymology               =  
+ < !-- location -- > 
+ | subdivision_type        = Country 
+ | subdivision_name        = {{CZE}} 
+ | subdivision_type1       = [[Regions of the Czech Republic|Region]] 
+ | subdivision_name1       = [[Liberec Region|Liberec]] 
+ | subdivision_type2       = [[Districts of the Czech Republic|District]] 
+ | subdivision_name2       = [[Česká Lípa District|Česká Lípa]] 
+ < !-- maps and coordinates -- > 
+ | image_map               =  
+ | map_caption             =  
+ | pushpin_map             = Czech Republic 
+ | pushpin_relief          = 1 
+ | pushpin_map_caption     = Location in the Czech Republic 
+ | coordinates             = {{coord|50|33|53|N|14|39|20|E|display=inline,title}} 
+ | coordinates_footnotes   =  
+ < !-- government type, leaders -- > 
+ | leader_title            = Mayor 
+ | leader_name             = Eva Burešová 
+ < !-- established -- > 
+ | established_title       = First mentioned 
+ | established_date        = 1293 
+ < !-- area -- > 
+ | area_footnotes          =  
+ | area_total_km2          = 74.93 
+ < !-- elevation -- > 
+ | elevation_footnotes     =  
+ | elevation_m             = 266 
+ < !-- population -- > 
+ | population_as_of        = 2020-01-01 < ref > {{cite web |title=Population of Municipalities – 1 January 2020|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2019|publisher=Czech Statistical Office|date=2020-04-30}} < /ref > 
+ | population_footnotes    =  
+ | population_total        = 5186 
+ | population_density_km2  = auto 
+ < !-- time zone(s) -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        = Postal code 
+ | postal_code             = 472 01 
+ | area_code_type          =  
+ | area_code               =  
+ < !-- website, footnotes -- > 
+ | website                 = [http://www.doksy.com www.doksy.com] 
+ | footnotes               =  
+ }} 
+ '''Doksy''' ({{lang-de|Hirschberg am See}}) is a town of the [[Česká Lípa District]] in the [[Liberec Region]] of the [[Czech Republic]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{Commonscat}} 
+ * [http://www.doksy.com Official website] {{in lang|cs}} 
+ 
+ {{authority control}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Towns in the Czech Republic]] 
+ [[Category:Liberec Region]]

@@ -1,0 +1,8 @@
+The '''loopback address''' is a [[computing]] term that is a special [[IP address]] of a [[computer|computer's]] [[ethernet|ethernet network]]. It is used to allow [[software]] on a computer to send [[information]] to the same computer using the [[TCP/IP|TCP/IP stack]]. The special IP address is known as 127.0.0.1 (IPv4) or 0:0:0:0:0:0:0:1 (::1, IPv6). < ref > {{cite web|last=Posey|first=Brien|title=10 Things you should know about IPv6 Addressing|url=http://www.techrepublic.com/blog/10-things/10-things-you-should-know-about-ipv6-addressing/|access-date=3 January 2016}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer networking]]

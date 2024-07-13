@@ -1,0 +1,163 @@
+{{Infobox French commune 
+ |name                    = Blaye 
+ |commune status          = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image flag              =  
+ |image flag size         =  
+ |image coat of arms      = Blason fr ville Blaye (Gironde).svg 
+ |image coat of arms size =  
+ |city motto              =  
+ |image                   = Vue sur Blaye.jpg 
+ |caption                 = View of the city from the [[Citadel]]. 
+ |map                     =  
+ |adjustable map          =  
+ |time zone               =  
+ |coordinates             = {{coord|45.1286|-0.6611|format=dms|display=inline,title}} 
+ |arrondissement          = Blaye 
+ |canton                  = L'Estuaire 
+ |subdivisions entry      =  
+ |subdivisions            =  
+ |intercommunality        = Blaye 
+ |mayor                   = Denis Baldès < ref > {{cite web |url=http://www.blaye.fr/mairie/equipe-municipale/ |title=Equipe Municipale |publisher=Ville de Blaye |language=French |accessdate=18 May 2017 |date= }} < /ref > 
+ |party                   =  
+ |term                    = 2014 & ndash;2020 
+ |elevation m             = 21 
+ |elevation min m         = 0 
+ |elevation max m         = 41 
+ |area km2                = 6.42 
+ |population demonym      = Blayais 
+ |population              = 4769 
+ |population ranking      =  
+ |population date         = 2014 
+ |urban area km2          =  
+ |urban area date         =  
+ |urban pop               =  
+ |urban pop date          =  
+ |metro area km2          =  
+ |metro area date         =  
+ |metro area pop          =  
+ |metro area pop date     =  
+ |INSEE                   = 33058 
+ |postal code             = 33390 
+ |website                 = [http://www.blaye.fr/ www.blaye.fr] 
+ }} 
+ '''Blaye''' ({{lang-oc|Blaia}}) is a [[Communes of France|commune]] in the [[Gironde]] [[Departments of France|department]] in [[Nouvelle-Aquitaine]] [[Regions of France|region]] in southwestern [[France]]. It is one of the five [[Prefectures in France|sub-prefecture]]s of the department. 
+ 
+ ==Geography== 
+ Blaye is on the right bank of the [[Gironde estuary]] (which is some {{convert|3|km|mi|abbr=on}} wide at this point), {{Convert|56|km|mi|0|abbr=on }} to the southeast of [[Bordeaux]]. 
+ 
+ The ''commune'' has an area of {{Convert|6.4|km2|sqmi|abbr=on }}, < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-33058 |title=Commune de Blaye (33058) |work=Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=18 May 2017 |date= }} < /ref >  and its average [[altitude]] is {{Convert|21|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|8|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Blaye-33390/ |title=Blaye |publisher=Map-France.com |language= |accessdate=18 May 2017 |date= }} < /ref > 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Blaye and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 33058.png|350px|Map of the ''commune'' of Blaye]] 
+ |} 
+ < /center > 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Blaye 
+ |North     = [[Saint-Genès-de-Blaye]] 
+ |Northeast = [[Saint-Martin-Lacaussade]] 
+ |East      = [[Saint-Martin-Lacaussade]], < br / >  [[Cars, Gironde|Cars]] 
+ |Southeast = [[Plassac, Gironde|Plassac]] 
+ |South     = [[Plassac, Gironde|Plassac]] 
+ |Southwest = [[Lamarque]], < br / >  '''Gironde estuary''' 
+ |West      = [[Cussac-Fort-Médoc]], < br / >  [[Lamarque]], < br / >  '''Gironde estuary''' 
+ |Northwest = [[Cussac-Fort-Médoc]], < br / >  '''Gironde estuary''' 
+ }} 
+ 
+ ===Climate=== 
+ The climate of Blaye is [[Oceanic climate|Marine West Coast Climate]] ([[Köppen climate classification]]: '''Cfb'''), with mild winters and warm summers. < ref name= " annuaire " > {{cite web |work=Annuaire-Mairie.fr |publisher= |title=Blaye |url=http://www.annuaire-mairie.fr/ville-blaye.html |language=French |accessdate=18 May 2017}} < /ref > 
+ 
+ ==Population== 
+ The inhabitants of Blaye are known, in [[French language|French]], as ''Blayais'' (women: ''Blayaises''). < ref > {{cite web|url=https://www.habitants.fr/gironde-33 |title= Gironde |publisher=habitants.fr |language=French |accessdate=18 May 2017 |date= }} < /ref > 
+ 
+ With a population of 4,769, < ref name=insee > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep33.pdf |title=Régions, départements, arrondissements, cantons et communes  |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=French |accessdate=18 May 2017|date= }} < /ref >  Blaye has a [[population density]] of {{Pop density|4769|6.42|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Blaye''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:5000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:1000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:500 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2006 text:2006 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 4355 
+  bar:1975 from:0 till: 4051 
+  bar:1982 from:0 till: 4559 
+  bar:1990 from:0 till: 4286 
+  bar:1999 from:0 till: 4666 
+  bar:2006 from:0 till: 4687 
+  bar:2014 from:0 till: 4769 
+ 
+ PlotData= 
+  bar:1968 at: 4355 fontsize:S text: 4,355 shift:(-12,5) 
+  bar:1975 at: 4051 fontsize:S text: 4,051 shift:(-13,5) 
+  bar:1982 at: 4559 fontsize:S text: 4,559 shift:(-13,5) 
+  bar:1990 at: 4286 fontsize:S text: 4,286 shift:(-13,5) 
+  bar:1999 at: 4666 fontsize:S text: 4,666 shift:(-13,5) 
+  bar:2006 at: 4687 fontsize:S text: 4,687 shift:(-13,5) 
+  bar:2014 at: 4769 fontsize:S text: 4,769 shift:(-13,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Administration== 
+ Blaye is a [[Prefectures in France|sub-prefecture]] of the [[Gironde]] department. It is also the capital of the ''arrondissement'' of [[Arrondissement of Blaye|Blaye]] and the [[administrative centre]] ({{lang-fr|chef-lieu}}) of the ''canton'' of [[Canton of L'Estuaire|L'Estuaire]] with 41,046 inhabitants  < small > (2014) < /small > . < ref name=insee1 > {{cite web|url=https://www.insee.fr/fr/metadonnees/cog/communes/COM33227-langon |title=Commune de Langon (33227) |work= Géographie administrative et d’étude |publisher=Institut national de la statistique et des études économiques - INSEE |language=French |accessdate=18 May 2017 |date= }} < /ref > 
+ 
+ It is part of the [[Communes of France|intercommunality]] ''Blaye'' ({{lang-fr|Communauté de communes de Blaye}}). 
+ 
+ === Twin towns === 
+ Blaye is [[Twin town|twinned]] with: 
+ * {{flagicon|GER}} [[Penzberg]], [[North Rhine-Westphalia]], [[Germany]] 
+ * {{flagicon|ESP}} [[Tàrrega]], [[Province of Lleida|Lleida]], [[Spain]] 
+ * {{flagicon|ROM}} [[Măcin]], [[Romania]] 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Blaye 001.jpg|[[Citadel]] of Blaye. 
+ File:Ville de Blaye3.jpg|[[Esplanade]] of the citadel, Blaye. 
+ File:La ville et le vignoble de Blaye depuis la citadelle.jpg|Town and [[vineyard]] of Blaye from the citadel. 
+ File:Blaye (Gironde) mairie.JPG|[[City and town halls|Town hall]] of Blaye. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Blaye]] 
+ * [[Communes of the Gironde department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Blaye}} 
+ * [http://www.blaye.fr/ Ville de Blaye - Official site] {{in lang|fr}} 
+ * [http://www.gironde.fr/ Departamental Council of Gironde] {{Webarchive|url=https://web.archive.org/web/20080329045415/http://www.gironde.fr/ |date=2008-03-29 }} {{in lang|fr}} 
+ * [http://www.gironde.gouv.fr/ Prefecture official website] {{in lang|fr}} 
+ * [https://web.archive.org/web/20110204064443/http://www.tourisme-gironde.fr/ Agence de Développement Touristique de la Gironde] {{Webarchive|url=https://web.archive.org/web/20110204064443/http://www.tourisme-gironde.fr/ |date=2011-02-04 }} {{in lang|fr}} 
+ * [https://www.nouvelle-aquitaine.fr/ Région Nouvelle-Aquitaine] {{in lang|fr}} 
+ 
+ [[Category:Subprefectures in France]] 
+ [[Category:Communes in Gironde]]

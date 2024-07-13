@@ -1,0 +1,40 @@
+In  [[computer graphics]] and [[photography]], the '''gamut''', or '''color gamut''' {{IPAc-en|ˈ|ɡ|æ|m|ə|t}}, is a certain ''[[subset]]'' of [[color]]s. Most often it is a subset of colors, which can be [[Accuracy and precision|accurately]] represented by some [[output device]]. 
+ 
+ Another sense refers to the complete [[set]] of colors found within an image.  
+ 
+ ==Introduction== 
+ The term ''gamut'' was adopted from music, where in middle age [[Latin]]  " gamut "  meant the entire range of [[musical note]]s of which musical [[Melody|melodies]] are composed. In the 1850s, the term was used for a range of [[color]]s or [[hue]], for example by [[Thomas De Quincey]], who wrote  " [[Porphyry (geology)|Porphyry]], I have heard, runs through as large a gamut of hues as [[marble]]. " < ref > {{cite book | title = De Quincey's works | author = Thomas De Quincey | url = https://archive.org/details/dequinceysworks06quingoog | page = [https://archive.org/details/dequinceysworks06quingoog/page/n46 36] | quote = gamut-of-hues 0-1856. | publisher = James R. Osgood | year = 1854}} < /ref > 
+ 
+ In [[color theory]], the gamut of a device is the portion of the [[color space]] that it can show. 
+ 
+ When certain colors cannot be presented within a particular [[color model]], those colors are said to be ''out of gamut''.  
+ 
+ While processing a [[Image processing|digital image]], an image is usually recorded in [[RGB color model]]. When printing such image has to be converted from an original RGB color space to the printer's [[CMYK color model|CMYK color space]]. During this process, the colors, which are out of printer's gamut are [[Conversion of units|converted]] to the in-gamut colors. So, the final image is an [[approximation]] of the original one.  
+ 
+ ==Representation of gamuts== 
+ [[File:Colorspace.png|thumb|right|A comparison of the colors enclosed by some color spaces.]] 
+ 
+ Gamuts are commonly represented as areas in the full visible range of colors. The full range of colors is usually shown as [[CIE 1931 chromaticity diagram]] shaped like a [[horseshoe]]. 
+ 
+ The gamut depends on the [[Luminosity|brightness]]. So a full gamut is represented in [[3D]] space. 
+ 
+ ==Comparison of gamut of some devices== 
+ 
+ The list contains some typical devices, wich show pictures, ranging from large to small color gamut: 
+ 
+ * [[Laser video projector]] uses three [[laser|lasers]] to produce the broadest gamut available today. Because lasers produce truly [[Monochrome|monochromatic]] [[primary color|primaries]]. More than three lasers can be used together to increase the gamut range. 
+ * [[Photographic film]] can reproduce a larger color gamut than typical television or computer. < ref > {{cite web | url = http://www.gamutvision.com/docs/camera_scanner.html | title = Film gamut, apples, and oranges | access-date = 2007-04-26 | archive-url = https://web.archive.org/web/20080917062631/http://www.gamutvision.com/docs/camera_scanner.html | archive-date = 2008-09-17 | url-status = dead }} < /ref > 
+ * [[cathode ray tube|CRT]] displays have a roughly triangular color gamut, which covers a large portion of the visible color space. In CRTs, the limitations are due to the [[phosphor]]s in the screen which produce red, green, and blue light. 
+ * [[Printing]] typically uses the [[CMYK color model|CMYK]] color space ([[cyan]], [[magenta]], [[yellow]], and [[black]]). Efforts have been made to expand the gamut of the printing process by adding [[ink]]s of non-primary colors. 
+ * A [[monochrome]] display's color gamut is a one-dimensional curve in color space. < ref > {{Cite book|url=https://books.google.com/books?id=OQffvaCaZlgC & dq=A+monochrome+display+color+gamut+is+a+one-dimensional+curve+in+color+space. & pg=PA137|title=Image Processing for Computer Graphics and Vision|last1=Velho|first1=Luiz|last2=Frery|first2=Alejandro C.|last3=Gomes|first3=Jonas|date=2009-04-29|publisher=Springer Science  &  Business Media|isbn=9781848001930|language=en}} < /ref > 
+ 
+ ==References== 
+ {{Reflist|30em}} 
+ 
+ ==Other websites== 
+ * [http://brucelindbloom.com/ChromaticityGamuts.html Using the Chromaticity Diagram for Color Gamut Evaluation] by Bruce Lindbloom. 
+ * [http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470030321.html Color Gamut Mapping] book by Jan Morovic. 
+ * [https://web.archive.org/web/20090511062058/http://www.imaging.org/store/epub.cfm?abstrid=507 Quantifying Color Gamut] by William D. Kappele 
+ * Stanford University CS 178 [http://graphics.stanford.edu/courses/cs178/applets/gamutmapping.html interactive Flash demo ] explaining color gamut mapping. 
+ 
+ [[Category:Color model]]

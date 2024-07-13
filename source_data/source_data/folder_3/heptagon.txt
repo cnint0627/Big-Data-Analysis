@@ -1,0 +1,17 @@
+[[File:Heptagon.svg|thumb|A heptagon]] 
+ A '''heptagon/septagon'''/'''7-gon''' is a [[Polygon|shape]] with 7 sides and 7 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular heptagon == 
+ All sides of a '''regular heptagon''' are the same length. Each corner is 147. < span style= " text-decoration: overline " > 27 < /span > °. All corners added together equal 6840°. 
+ 
+ === Area === 
+ The amount of space a regular heptagon takes up is 
+ 
+ : < math > A = \frac{7}{4}a^2 \cot \frac{\pi}{7} \simeq 3.634 a^2. < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ 
+ [[Category:Polygons|7]]

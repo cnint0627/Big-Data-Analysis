@@ -1,0 +1,62 @@
+{{Automatic taxobox 
+ | image = Clostridium botulinum.jpg| 
+ | image_caption = ''[[Clostridium botulinum]]'' 
+ | taxon = Clostridia 
+ | authority = Rainey 2010 
+ | subdivision_ranks = Orders 
+ | subdivision =  
+ *Clostridiales 
+ **[[Caldicoprobacteraceae]] 
+ **[[Catabacteriaceae]] 
+ **[[Christensenellaceae]] 
+ **[[Clostridiaceae]] 
+ **[[Defluviitaleaceae]] 
+ **[[Eubacteriaceae]] 
+ **[[Gracilibacteraceae]] 
+ **[[Heliobacteriaceae]] 
+ **[[Hungateiclostridiaceae]] 
+ **[[Lachnospiraceae]] 
+ **[[Oscillospiraceae]] 
+ **[[Peptococcaceae]] 
+ **[[Peptostreptococcaceae]] 
+ **[[Proteinivoraceae]] 
+ **[[Ruminococcaceae]] 
+ **[[Symbiobacteriaceae]] 
+ **[[Syntrophomonadaceae]] 
+ **[[Vallitaleaceae]] 
+ *[[Halanaerobiales]] 
+ **[[Halanaerobiaceae]] 
+ **[[Halobacteroidaceae]] 
+ *[[Natranaerobiales]] 
+ **[[Natranaerobiaceae]] 
+ *[[Thermoanaerobacteriales]] 
+ **[[Thermoanaerobacteraceae]] 
+ **[[Thermodesulfobiaceae]] 
+ * " [[Candidatus Borkfalkiales|''Ca.'' Borkfalkiales]] " 
+ ** " [[Candidatus Borkfalkiaceae|''Ca.'' Borkfalkiaceae]] " 
+ }} 
+ 
+ The '''Clostridia''' are a class of [[Firmicutes]], including ''[[Clostridium]]'' and other similar genera. 
+ 
+ The Clostridia are [[obligate anaerobe]]s. They lack [[aerobic respiration]], and [[oxygen]] is [[toxic]] to them. [[Species]] of the [[genus]] ''Clostridium'' are all [[Gram-positive]] and can form [[spores]]. 
+ 
+ Studies show they are not a [[monophyly|monophyletic]] group. In fact, they are highly [[polyphyletic]]. Their relationships are not certain. Most are put in the Clostridiales, but is not a natural group. It is likely to be redefined in the future. < ref > {{cite web |author = Sayers | display-authors = etal| url=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Tree & id=186801 & lvl=3 & p |title=Clostridia |access-date=2011-06-05 |publisher=National Center for Biotechnology Information (NCBI) taxonomy database}} < /ref > < ref > All-Species Living Tree Project.{{cite web | url=http://www.arb-silva.de/fileadmin/silva_databases/living_tree/LTP_release_106/LTPs106_SSU_tree.pdf | title=16S rRNA-based LTP release 106 (full tree) | publisher=Silva Comprehensive Ribosomal RNA Database | access-date=2011-11-17 | archive-date=2012-05-07 | archive-url=https://web.archive.org/web/20120507191840/http://www.arb-silva.de/fileadmin/silva_databases/living_tree/LTP_release_106/LTPs106_SSU_tree.pdf | url-status=dead }} < /ref > 
+ 
+ Most species of the genus ''Clostridium'' are [[saprophyte|saprophytic]] organisms found in many places, most notably the [[soil]]. However, the genus does contain some human [[pathogens]]. 
+ The [[toxin]]s produced by some members of the ''Clostridium'' genus are among the most dangerous known. Examples are [[tetanus]] toxin (known as [[tetanospasmin]]) produced by ''C. tetani'' and [[botulinum]] toxin produced by ''C. botulinum''. 
+ 
+ Notable species of this class include: 
+ *''[[Clostridium perfringens]]''  ([[Gangrene]], [[food poisoning]]) 
+ *''[[Clostridium difficile]]''    ([[Pseudomembranous colitis]]) 
+ *''[[Clostridium tetani]]''       ([[Tetanus]]) 
+ *''[[Clostridium botulinum]]''    ([[Botulism]]) 
+ *''[[Clostridium acetobutylicum]]'' 
+ *''[[Clostridium haemolyticum]]'' 
+ *''[[Clostridium novyi]]'' 
+ *''[[Clostridium novyi|Clostridium oedematiens]]'' 
+ [[Heliobacteria]] are also members of the class Clostridia. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Gram-positive bacteria]]

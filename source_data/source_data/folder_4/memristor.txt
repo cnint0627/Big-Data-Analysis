@@ -1,0 +1,25 @@
+[[File:Memristor-Symbol.svg|thumb|285x285px|Symbol.]] 
+ A '''memristor''', or '''memory resistor''', is described as one of the basic elements (resistor, capacitor, inductor) of electronic circuits, because it can’t be replaced by any combination of these elements. This element can change its resistivity according to the voltage, but even after disconnection it remembers resistivity for unlimited time. It can work like analog memory or a resistive switch, which can have an infinite number of states. 
+ 
+ ==History== 
+ Professor Leon Chua mathematically described this [[element]]{{cn}} in 1971. 
+ In 2008 scientists from HP labs described a material that appeared to be a good candidate to construct the hypothetical memristor. 
+ 
+ ==How it works== 
+ The fourth element can change its conductivity by the voltage, and after power interruption the amount of the resistivity stays the same. No combination of the other three circuit elements can replace a memristor. Only the memristor allows reconfiguring properties so it allows changing a whole electronic circuit. Analogy behaviour is similar to [[synapse]]s in the brain. 
+ 
+ ==Future usage== 
+ Memristors have great potential for use in computers. For example, [[computer]]s today have to [[booting|boot]] from [[hard drive]]s because the data is erased from operating memory immediately after shutting down the computer. The process of booting takes much time and energy. Memristors could be used for loading data quicker because it remembers data even after power interruption. Therefore, Memristors could be used to speed the booting process. 
+ 
+ The first products using Memristor technology are expected to become available in 2013. < ref > [http://www.technologyreview.com/computing/25018/?a=f Memristor Memory Readied for Production - Technology Review < !-- Bot generated title -- > ]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ ==References== 
+ < references/ > 
+ ==Further reading== 
+ * YAN Kun(2011). [http://www.nature.ac.cn/papers/paper-pdf/ConnectionEquation-pdf.pdf Nonlinstor-An electronic circuit element based on the form of the nonlinear differential equation] (Brief annotation of the connection equation(R)), Xi'an: Xi'an Modern Nonlinear Science Applying Institute. 
+ 
+ 
+ {{tech-stub}} 
+ {{Emerging technologies}} 
+ 
+ [[Category:Electronic components]]

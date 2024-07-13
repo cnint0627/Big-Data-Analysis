@@ -1,0 +1,7 @@
+An '''iteration''' is a step where some action is repeated again and again. In everyday life, an iteration is simply a repeated action, for example when someone says,  " Do I have to re''iterate'' myself? " . In this case, the re''iteration'' is what the person said and might say again. In [[computer science]], an iteration is one run through a block of code that is repeated multiple times. In [[fractal geometry]], an iteration is one application of the set of rules of the [[fractal]] to create another stage of the fractal. it is also used in computer [[programming]]. 
+ 
+ == Related pages == 
+ *[[Recursion]] 
+ {{tech-stub}} 
+ 
+ [[Category:Computer programming]]

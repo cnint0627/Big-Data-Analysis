@@ -1,0 +1,49 @@
+{{taxobox 
+ | name = Chromalveolates 
+ | image = 
+ | image_width = 220px 
+ | image_caption = ''[[Ceratium hirundinella]]'', a [[dinoflagellate]] 
+ | image2 = Chromista collage 2.jpg 
+ | image2_width = 300px 
+ | image2_caption = Clockwise from top-left: a [[haptophyte]], some [[diatom]]s, an [[oomycete]], a [[cryptomonad]], and ''Macrocystis'', a [[Brown algae|phaeophyte]] 
+ | domain = [[Eukaryota]] 
+ | unranked_regnum = [[Bikonta]] 
+ | regnum = [[ < !--linked to enable colour-- > Chromalveolate|Chromalveolata]] 
+ | regnum_authority = Cavalier-Smith 1998 
+ | subdivision_ranks = Phyla 
+ | subdivision = *[[Heterokont]]ophyta 
+ *[[Haptophyte|Haptophyta]] 
+ *[[Cryptomonad|Cryptophyta]] 
+ *'''[[Alveolata]]''' (superphylum) 
+ **[[Ciliophora]] 
+ **[[Apicomplexa]] 
+ **[[Dinoflagellata]] 
+ }} 
+ 
+ '''Chromalveolata''' is a [[eukaryote]] supergroup first proposed by Thomas Cavalier-Smith as a refinement of his [[Kingdom (biology)|kingdom]] '''Chromista''', which was first proposed in 1981. 
+ 
+ The origin of the Chromalveolata was thought to be a secondary [[endosymbiosis]] between a bikont (cell with two [[flagella]]) and a [[red alga]]. < ref name= " pmid19335769 " > {{cite journal |author=Keeling P.J. |title=Chromalveolates and the evolution of plastids by secondary endosymbiosis |journal=J. Eukaryot. Microbiol. |volume=56 |issue= 1|pages=1–8 |year=2009 |pmid=19335769 |doi=10.1111/j.1550-7408.2008.00371.x |s2cid=34259721 |url=https://dx.doi.org/10.1111/j.1550-7408.2008.00371.x}} < /ref >  This union led to [[plastid]]s containing [[chlorophyll]] c. In Cavalier-Smith's classification, the Chromalveolata was one of the six major groups within the eukaryotes. < ref name=Adl2005 > 
+  {{citation 
+  | last = Adl, Sina M. '' &  al'' 
+  | title = The new higher level classification of eukaryotes with emphasis on the taxonomy of protists 
+  | journal = Journal of Eukaryotic Microbiology 
+  | year=2005 | volume=52 | issue= 5| pages=399–451 
+  |url=http://doi.org/10.1111/j.1550-7408.2005.00053.x 
+  | doi = 10.1111/j.1550-7408.2005.00053.x 
+ | pmid = 16248873 
+  | s2cid = 8060916 
+  }} 
+ < /ref > 
+ 
+ The classification has been challenged. < ref name=Burki2008a > {{Citation |last1=Burki |first1=Fabien |last2=Shalchian-Tabrizi |first2=Kamran |last3=Pawlowski |first3=Jan |year=2008 |title=Phylogenomics reveals a new 'megagroup' including most photosynthetic eukaryotes |journal=Biology Letters |volume=4 |issue=4 |pages=366–369 |doi=10.1098/rsbl.2008.0224 |pmid=18522922 |pmc=2610160 |name-list-style=amp }} < /ref > < ref name=KimGraham2008 > {{cite journal | doi = 10.1371/journal.pone.0002621 |date=Jul 2008  | author = Kim, E; Graham, LE | title = EEF2 analysis challenges the monophyly of Archaeplastida and Chromalveolata. | volume = 3 | issue = 7 | pages = e2621 | pmid = 18612431 | pmc = 2440802 | journal = PLOS ONE |doi-access=free }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ {{wikispecies}} 
+ 
+ {{Taxonbar|from=Q477950}} 
+ 
+ [[Category:Algae]] 
+ [[Category:Protista]] 
+ [[Category:Eukaryotes]]

@@ -1,0 +1,105 @@
+{{Starbox begin 
+ | name=α Ursae Majoris 
+ }} 
+ {{Starbox image 
+  | image = 
+ {{Location mark 
+ |image=Ursa Major constellation map.svg|alt=|float=center|width=280 
+ |label=|position=right 
+ |mark=Red circle.svg|mark_width=12|mark_link=Alpha Ursae majoris|x=555|y=343 
+ }} 
+  | caption = Location of α Ursae Majoris (circled) 
+ }} 
+ {{Starbox observe 
+  | epoch        = J2000 
+  | ra           = {{RA|11|03|43.67152}} < ref name=aaa474_2_653/ > 
+  | dec          = {{DEC|+61|45|03.7249}} < ref name=aaa474_2_653/ > 
+  | appmag_v     = 1.79 < ref name=clpl4_99/ > 
+  | constell     = [[Ursa Major]] 
+ }} 
+ {{Starbox character 
+  | class        = K0III < ref name=guenther/ >  + F0V < ref name=msc/ > 
+  | b-v          = +1.07 < ref name=clpl4_99/ > 
+  | u-b          = +0.93 < ref name=clpl4_99/ > 
+  | variable     = Suspected < ref name=gcvs > {{cite journal|bibcode=2009yCat....102025S|title=VizieR Online Data Catalog: General Catalogue of Variable Stars (Samus+ 2007-2013)|journal=VizieR On-line Data Catalog: B/GCVS. Originally Published in: 2009yCat....102025S|volume=1|display-authors=etal|last1=Samus|first1=N. N.|last2=Durlevich|first2=O. V.|year=2009}} < /ref > 
+ }} 
+ {{Starbox astrometry 
+  | radial_v     = {{val|−9.4|0.3}} < ref name=Gontcharov2006/ > 
+  | prop_mo_ra   = {{nowrap|–134.11}} < ref name=aaa474_2_653/ > 
+  | prop_mo_dec  = {{nowrap|–34.70}} < ref name=aaa474_2_653/ > 
+  | parallax     = 26.54 
+  | p_error      = 0.48 
+  | parallax_footnote =  < ref name=aaa474_2_653/ > 
+  | absmag_v     = {{val|−1.10|0.04}} < ref name=aj135_3_892/ > 
+ }} 
+ {{Starbox detail 
+  | component1   = α UMa A 
+  | source       =  < ref name=Baines_et_al_2017/ > 
+  | mass         = {{val|3.44|0.11}} 
+  | radius       = {{val|17.03|0.13}} 
+  | luminosity   = {{val|165.1|8.3}} 
+  | temperature  = {{val|5012|65|fmt=commas}} 
+  | gravity      = 2.20 
+  | metal_fe     = {{val|−0.20|0.07}} < ref name=ajss74_1075/ > 
+  | rotational_velocity = {{val|2.6|1.0}} < ref name=aj135_3_892/ > 
+  | age_myr      = {{val|280|30}} 
+  | component2   = α UMa B 
+  | mass2        = ~1.6 < ref name=guenther/ > 
+ }} 
+ {{Starbox catalog 
+  | names = {{odlist | name=Dubhe | name2=Ak | B=α & nbsp;Ursae Majoris, α & nbsp;UMa, Alpha & nbsp;UMa | F=50 & nbsp;UMa | ADS=8035 | BD=+62°1161 | CCDM=J11037+6145AB | FK5=417 | GC=15185 | HD=95689 | HIP=54061 | HR=4301 | PPM=17705 | SAO=15384 | WDS=J11037+6145AB | NSV=5070 }} < ref name=SIMBAD/ > 
+ }} 
+ {{Starbox reference 
+ | Simbad=HD+95689 
+ }} 
+ {{Starbox end}} 
+ '''Dubhe''' or '''Alpha Ursae Majoris''' is a [[red giant]] [[star]] in the [[constellation]] of [[Ursa Major]]. It is 27 times wider than the [[Sun]]. 
+ 
+ ==References== 
+ {{reflist|30em|refs= 
+ 
+ < ref name=aaa474_2_653 > {{cite journal | first=F. | last=van Leeuwen |date=November 2007 | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A & A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 | s2cid=18759600 }} < /ref > 
+ 
+ < ref name=ajss74_1075 > {{citation | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants. I - Stellar atmosphere parameters and abundances | journal=Astrophysical Journal Supplement Series | volume=74 | pages=1075–1128 |date=December 1990 | doi=10.1086/191527 | bibcode=1990ApJS...74.1075M }} < /ref > 
+ 
+ < ref name=clpl4_99 > {{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | pages=99 | year=1966 | bibcode=1966CoLPL...4...99J }} < /ref > 
+ 
+ < ref name=SIMBAD > {{citation | title=DUBHE -- Spectroscopic binary | work=SIMBAD | publisher=[[Centre de Données astronomiques de Strasbourg]] | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Ursae+Majoris | access-date=2011-12-23 }} < /ref > 
+ 
+ < ref name=aj135_3_892 > {{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 |date=March 2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 | s2cid=2756572 }} < /ref > 
+ 
+ < !-- < ref name=kaler > {{citation | first1=James B. | last1=Kaler | title=DUBHE (Alpha Ursae Majoris) | work=Stars | publisher=[[University of Illinois]] | url=http://stars.astro.illinois.edu/sow/dubhe.html | access-date=2011-12-23 }} < /ref > -- > 
+ 
+ < ref name=aj135_3_892 > {{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 |date=March 2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 | s2cid=2756572 }} < /ref > 
+ 
+ < !-- < ref name=SimbadB > {{citation | title=DUBHE B | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%40486368 & Name=BD%2b62%20%201161B | access-date=2013-09-26}} < /ref > -- > 
+ 
+ < ref name= " msc " > {{cite journal | bibcode=1997A & AS..124...75T | title=MSC - a catalogue of physical multiple stars | journal=Astronomy and Astrophysics Supplement Series | volume=124 | pages=75–84 | last1=Tokovinin | first1=A. A. | year=1997 | doi=10.1051/aas:1997181 | doi-access=free }} < /ref > 
+ 
+ < ref name=guenther > {{cite journal | bibcode=2000ApJ...530L..45G | title=Evolutionary Model and Oscillation Frequencies for α Ursae Majoris: A Comparison with Observations | journal=The Astrophysical Journal | volume=530 | issue=1 | pages=L45–L48 | display-authors=1  
+  | last1=Guenther | first1=D. B. | last2=Demarque | first2=P. | last3=Buzasi | first3=D. | last4=Catanzarite | first4=J. | last5=Laher | first5=R. | last6=Conrow | first6=T. | last7=Kreidl | first7=T. | year=2000 | doi=10.1086/312473 | pmid=10642202 | url=http://library2.smu.ca/xmlui/handle/01/25941 | doi-access=free }} < /ref > 
+ 
+ < ref name=Baines_et_al_2017 > {{cite journal 
+  | title=Fundamental Parameters of 87 Stars from the Navy Precision Optical Interferometer 
+  | display-authors=1 | last1=Baines | first1=E. 
+  | last2=Schmitt | first2=H. R. | last3=Zavala | first3=R. T. 
+  | last4=Hutter | first4=D. | last5=van Belle | first5=G. T. 
+  | journal=The Astronomical Journal 
+  | volume=155 | issue=1 | pages=30 | year=2017 
+  | bibcode=2018AJ....155...30B | doi=10.3847/1538-3881/aa9d8b 
+  | arxiv=1712.08109 | s2cid=119427037 | doi-access=free }} < /ref > 
+ 
+ < ref name=Gontcharov2006 > {{cite journal 
+  | title=Pulkovo Compilation of Radial Velocities for 35 495 Hipparcos stars in a common system 
+  | first=G. A. | last=Gontcharov 
+  | journal=Astronomy Letters 
+  | date=November 2006 | volume=32 | issue=11 | pages=759–771 
+  | bibcode=2006AstL...32..759G | s2cid=119231169 
+  | doi = 10.1134/S1063773706110065 | arxiv=1606.08053 }} < /ref > 
+ 
+ 
+ }} 
+ 
+ [[Category:Stars]] 
+ 
+ {{sci-stub}}

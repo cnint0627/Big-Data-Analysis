@@ -1,0 +1,8 @@
+{{no sources|date=July 2023}} 
+ [[File:Pentagonal_frustum.svg|thumb|Pentagonal Frustum]] 
+ A '''frustum''' is a geometric shape that is formed by cutting off the top of a cone or pyramid parallel to the base. It is the portion of a solid that lies between two parallel planes cutting this solid. In the case of a pyramid, the base faces are polygonal and the side faces are trapezoidal. A right frustum is a right pyramid or a right cone truncated perpendicularly to its axis; otherwise, it is an oblique frustum. In the aerospace industry, a frustum is the fairing between two stages of a multistage rocket, which is shaped like a truncated cone. The viewing frustum in 3D computer graphics is a virtual photographic or video camera's usable field of view modeled as a pyramidal frustum. 
+ {{shapes}} 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Three-dimensional shapes]]

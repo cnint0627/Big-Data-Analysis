@@ -1,0 +1,23 @@
+{{italictitle}} 
+ {{Taxobox 
+ | name = Megavirus 
+ | image = Megavirus.jpg 
+ | virus_group = i 
+ | ordo = 
+ | unranked_familia = [[Nucleocytoplasmic large DNA viruses]]  < !-- ref Virus Research 117: 52-67, 2006 -- > 
+ | familia = ''[[Megaviridae]]'' 
+ | genus = [[Megavirus]] 
+ | subdivision_ranks = Species 
+ | subdivision = ''Megavirus chilensis'' 
+ }} 
+ '''''Megavirus''''' is a [[virus]] with a single identified species, ''Megavirus chilensis'' (MGVC). < ref name= " Doipnas " > {{cite journal |doi=10.1073/pnas.1110889108 |title=Distant Mimivirus relative with a larger genome highlights the fundamental features of Megaviridae |year=2011 |last=Arslan D. |display-authors = etal |journal=Proceedings of the National Academy of Sciences |volume=108 |issue=42 |pages=17486–91 |pmid=21987820 |pmc=3198346|bibcode=2011PNAS..10817486A |doi-access=free }} < /ref >  It is [[phylogeny|phylogenetically]] related to or [[Mimivirus]] (APMV). < ref name= " Raoult2004 " > {{cite journal |pages=1344–50 |doi=10.1126/science.1101485 |title=The 1.2-megabase genome sequence of ''Mimivirus'' |year=2004 |last=Raoult D. |display-authors = etal |journal=Science |volume=306 |issue=5700 |pmid=15486256 |bibcode=2004Sci...306.1344R |s2cid=84298461 }} < /ref >   
+ 
+ MGVC is usually referred to as just “Megavirus”. Until the discovery of [[pandoravirus]]es in 2013 it had the largest [[capsid]] diameter of all known viruses, and the largest and most complex [[genome]] among all known viruses. < ref name= " Doipnas " / > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Giant viruses]] 
+ 
+ 
+ {{biology-stub}}

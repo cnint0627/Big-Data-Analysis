@@ -1,0 +1,75 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ | name                     = Rajkot 
+ | native_name              = {{lang-gu|રાજકોટ}} 
+ | settlement_type          = [[City]] 
+ |photo1a =  
+ |photo2a =  
+ |photo2b =  
+ |photo3a = 
+ |photo3b =  
+ |size    =  
+ |border  =  
+ | image_caption            =  
+ | image_flag               =  
+ | image_seal               =  
+ | image_shield             =  
+ | image_map                =  
+ | map_caption              =  
+ | pushpin_map              = India#Asia 
+ | pushpin_label_position   = above 
+ | pushpin_mapsize          = 300 
+ | pushpin_map_caption      =  
+ | pushpin_relief           = 1 
+ | coordinates              = {{coord|22.3039|N|70.8022|E|region:IND|display=inline,title}} 
+ | subdivision_type         = Country 
+ | subdivision_name         = {{Flag|India}} 
+ | subdivision_type1        = [[States of India|State]] 
+ | subdivision_name1        = [[Gujarat]] 
+ | subdivision_type2        =  
+ | subdivision_name2        =  
+ | established_title        =  
+ | established_date         =  
+ | government_type          = [[Municipality]] 
+ < !-- Politics ----------------- > 
+ | government_footnotes     =  
+ | leader_title             = Mayor 
+ | leader_name              = Pradip Dav 
+ < !-- Area    --------------------- > 
+ | area_footnotes           =  
+ | area_total_km2           = 686 
+ < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > | area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ | area_water_km2           =  
+ | area_metro_km2           =  
+ | elevation_footnotes      =  < !--for references: use < ref >   < /ref >   tags-- > 
+ | elevation_m              = 1791 
+ < !-- Population ------------ > | population_footnotes     =  
+ | population_total         = 1,286,678 
+ | population_as_of         = 2011 
+ | population_density_km2   = auto 
+ | population_urban         =  
+ | population_metro         =  
+ | population_density_metro_km2 =  
+ | population_note          =  
+ | population_demonym       = Rajkoti 
+ < !-- General information  --------------- > 
+ | timezone                 = [[Indian Standard Time|IST]] 
+ | utc_offset               = +05:30 
+ | timezone_DST             =  
+ | utc_offset_DST           =  < !-- Area/postal codes  &  others -------- > 
+ | postal_code_type         = Postal code < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | postal_code              =  
+ | area_code                =  
+ | blank_name               = [[Köppen climate classification|Climate]] 
+ | blank_info               = [[Semi-arid climate#Cold semi-arid climates|BSk]] 
+ | website                  = {{url|https://www.rmc.gov.in/}} 
+ }} 
+ '''Rajkot''' is a city in [[Gujarat]] state of [[India]].  It has a population of over a million and the fourth largest city in the state.  It used to be the capital of the [[princely state]] of [[Saurashtra]]. < ref > {{cite web | url=https://www.gujarattourism.com/saurashtra/rajkot.html | title=Rajkot }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Cities in Gujarat]] 
+ 
+ {{asia-stub}}

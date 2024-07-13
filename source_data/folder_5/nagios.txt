@@ -1,0 +1,34 @@
+{{Infobox Software 
+ | name = Nagios 
+ | logo =  
+ | author = Ethan Galstad 
+ | developer =  
+ | released = May 10, 2002 
+ | latest release version = 3.2.3 
+ | latest release date = [[October 3]], [[2010]] < ref > {{cite web|url=https://www.nagios.org/projects/nagios-core/history/3x/|title=Nagios Core 3.x Version History|publisher=}} < /ref > 
+ | operating system = [[Unix-like]] 
+ | platform =  
+ | language =  
+ | genre = [[Network monitoring]] 
+ | license = [[GNU General Public License]] 
+ | website = [http://www.nagios.org/ www.nagios.org] 
+ }} 
+ '''Nagios''' ({{IPAEng|ˈnɑːdʒioʊs}}) is a popular [[open source]] [[computer system]] and [[network monitoring]] [[application software]]. It watches [[node (networking)|host]]s and services which the owner specifies, alerting the owner when things go bad and again when they get better. 
+ 
+ Nagios, originally created under the name [http://www.netsaint.org NetSaint] {{Webarchive|url=https://web.archive.org/web/20080509094628/http://www.netsaint.org/ |date=2008-05-09 }}, was written and is currently maintained by Ethan Galstad, along with a group of [[Software developer|developer]]s actively maintaining both official and unofficial [[plugin]]s. 
+ 
+ Nagios was originally designed to run under [[Linux]], but also runs well on other [[Unix]] variants. 
+ 
+ Nagios is [[free software]] licensed under the terms of the [[GNU General Public License]] version 2 as published by the [[Free Software Foundation]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ *[http://www.nagios.org Official website] 
+ *[http://support.nagios.com/ Nagios support forums] 
+ *[http://nagios.com/ Nagios Company website] 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Network management]]

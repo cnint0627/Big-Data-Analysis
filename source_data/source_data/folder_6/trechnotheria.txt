@@ -1,0 +1,76 @@
+{{automatic Taxobox 
+ | name = Trechnotheria 
+ | fossil_range = [[Late Triassic]] - [[Holocene]], {{fossilrange|216.5|0}} 
+ | image = Kangaroo and joey03.jpg 
+ | image_caption = [[Kangaroo]] with her [[Joey (marsupial)|joey]] 
+ | taxon = Trechnotheria 
+ | authority = [[Malcolm McKenna|McKenna]], [[1975 in paleontology|1975]] 
+ | subdivision_ranks = Subgroups 
+ | subdivision_ref =  < ref name =  " Luo et al. 2002 " / > 
+ | subdivision = *†[[Spalacotheriida]] 
+ **†[[Spalacotheriidae]] 
+ **†[[Zhangheotheriidae]]	 
+ *[[Cladotheria]]  
+ **†[[Dryolestida]] 
+ **[[Zatheria]] (including modern [[theria]]ns) 
+ }} 
+ 
+ '''Trechnotheria''' is a group of [[mammal]]s that includes the [[theria]]ns and some [[fossil]] mammals from the [[Mesozoic]] Era. In the [[Jurassic]] through [[Cretaceous]] periods, the group was only found in the area which is  now modern [[Asia]] and [[Africa]]. < ref name =  " PBDB " / > 
+ 
+ When the group Trechnotheria was first defined, it was said to be a  " superlegion " . Since then it has been given many different ranks. < ref name =  " McKenna  &  Bell 1997 " / >  Later, a definnition based on nodes was created for Trechnotheria. This [[clade]] was imcluded the last common [[ancestor]] of ''[[Zhangheotherium]]'' and living [[theria]]n mammals and all of its [[wikt:descentant|descentants]]. < ref name =  " Kielan-Jaworowska et al. 2004 " / > 
+ 
+ == Characteristics == 
+ Like most mammal groups from the Mesozoic Era, early trechnotherians are known mainly from their [[Tooth|teeth]]. One of the features of this group which is the most noticable is their large teeth.  The features of the [[Scapula|shoulder blade]], [[tibia]], [[humerus]], and [[ankle |ankle joint]] are also used to define which animals are in this clade. < ref name =  " Luo et al. 2002 " / > 
+ 
+ ==Related pages== 
+ *[[Allotheria]] 
+ 
+ ==References== 
+ {{Reflist|refs= 
+ 
+ < ref name =  " PBDB " > 
+ {{cite web 
+  | title = Trechnotheria - Mammalia 
+  | work = Paleobiology Database 
+  | url = http://paleodb.org/cgi-bin/bridge.pl?action=checkTaxonInfo & taxon_no=64369 & is_real_user=1  
+  | access-date = 2009-10-21 
+ }} < /ref > 
+ 
+ < ref name =  " McKenna  &  Bell 1997 " > 
+ {{cite book 
+  |last1=McKenna |first1=Malcolm C. |last2=Bell |first2=Susan K. 
+  |year = 1997 
+  |title = Classification of Mammals: Above the Species Level 
+  |publisher = Columbia University Press 
+  |url=https://books.google.com/books?id=zS7FZkzIw-cC & pg=PA43 
+  |page = 43 
+ |isbn=9780231528535 }} < /ref > 
+ 
+ < ref name =  " Kielan-Jaworowska et al. 2004 " > 
+ {{cite book 
+  | author = Kielan-Jaworowska, Zofia |author2= Cifelli, Richard |author3=Luo Zhe-Xi 
+  | title = Mammals from the age of dinosaurs: origins, evolution, and structure 
+  | date = 5 February 2005 
+  | publisher = Columbia University Press 
+  | page = 366 
+  | isbn = 978-0-231-11918-4 
+ }} < /ref > 
+ 
+ < ref name =  " Luo et al. 2002 " > 
+ {{cite journal 
+  | author = Luo, Z.−X. |author2= Kielan−Jaworowska, Z. |author3= and Cifelli, R.L. 
+  | year = 2002 
+  | title = In quest for a phylogeny of Mesozoic mammals 
+  | journal = Acta Palaeontologica Polonica 
+  | volume = 47 | issue = 1 | pages = 1–78 
+  | url = http://www.app.pan.pl/archive/published/app47/app47-001.pdf 
+ }} < /ref > 
+ 
+ }} 
+ 
+ {{Taxonbar|from=Q2141770}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Mammals]]

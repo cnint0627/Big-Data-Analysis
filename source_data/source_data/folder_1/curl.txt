@@ -1,0 +1,16 @@
+In [[vector calculus]], the '''curl''' is a vector operator that describes the infinitesimal rotation of a [[vector field]] in three-dimensional [[Euclidean space]]. At every point in the field, the curl of that point is represented by a vector. Curl is an extension of torque.  
+ 
+ Given a vector field  < math > \mathbf{F} < /math > , the curl of  < math > \mathbf{F} < /math >  can be written as  < math > \operatorname{curl}\mathbf{F} < /math >  or  < math > \nabla \times \mathbf{F} < /math > , where  < math > \nabla < /math >  is the [[gradient]] and  < math > \times < /math >  is the [[cross product]] operation. < ref > {{Cite web|date=2020-05-11|title=List of Calculus and Analysis Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/|access-date=2020-10-14|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Calculus III - Curl and Divergence|url=https://tutorial.math.lamar.edu/classes/calciii/curldivergence.aspx|access-date=2020-10-14|website=tutorial.math.lamar.edu}} < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[Divergence]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Calculus]] 
+ [[Category:Mathematical analysis]]

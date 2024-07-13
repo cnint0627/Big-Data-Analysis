@@ -1,0 +1,133 @@
+[[File:NautilusCutawayLogarithmicSpiral.jpg|thumb|An opened [[nautilus]] shell. Its chambers make a logarithmic spiral]] 
+ '''Logarithms''' or '''logs''' are a part of [[mathematics]]. They are related to [[exponential function]]s. A logarithm tells what exponent (or power) is needed to make a certain number, so logarithms are one of the inverse operations of [[Operation (mathematics)#Exponentiation|exponentiation]] (the other one being [[Operation (mathematics)#Roots|root]]s). Historically, they were useful in multiplying or dividing large numbers. 
+ 
+ An example of a logarithm is  < math > \log_2 8=3 < /math > . In this logarithm, the base is 2, the power is 8 and the answer is 3. In this case, the exponentiation function would be: 
+ 
+ < math > 2^3=2\times2\times2=8 < /math > 
+ 
+ The most common types of logarithms are '''common logarithms''', where the base is 10, '''binary logarithms''', where the base is 2, and '''natural logarithms''', where the base is [[e (mathematical constant)| < math > e < /math > ]] & nbsp; < math > \approx2.71828 < /math > . < ref name= " :0 " > {{Cite web|date=2016-05-08|title=The Ultimate Guide to Logarithm — Theory  &  Applications|url=https://mathvault.ca/logarithm-theory/|access-date=2020-08-29|website=Math Vault|language=en-US}} < /ref > < ref name= " :1 " > {{Cite web|title=logarithm {{!}} Rules, Examples,  &  Formulas|url=https://www.britannica.com/science/logarithm|access-date=2020-08-29|website=Encyclopedia Britannica|language=en-US}} < /ref > 
+ 
+ ==History== 
+ Logarithms were first used in [[India]] in the 2nd century BCE. The first to use logarithms in modern times was the German mathematician [[Michael Stifel]] (around 1487{{ndash}}1567). In 1544, he wrote down the following [[equation]]s:  < math > q^m q^n=q^{m+n} < /math >  and  < math > \frac{q^m}{q^n}=q^{m-n} < /math > . This is the basis for understanding logarithms. For Stifel,  < math > m < /math >  and  < math > n < /math >  had to be [[integer|whole number]]s. [[John Napier]] (1550–1617) did not want this restriction, and wanted a range for the exponents. 
+ [[File:John Napier.jpg|thumb|right|John Napier worked on logarithms]] 
+ According to Napier, logarithms express ratios:  < math > a < /math >  has the same ratio to  < math > b < /math > , as  < math > c < /math >  to  < math > d < /math >  if the difference of their logarithms matches. Mathematically:  < math > \log a-\log b=\log c-\log d < /math > . At first, base [[e (mathematical constant)| < math > e < /math > ]] was used (even though the number had not been named yet). [[Henry Briggs]] proposed to use 10 as a base for logarithms, as such logarithms are very useful in [[astronomy]]. < ref name= " :1 "  / > 
+ 
+ == Relationship with exponential functions == 
+ A logarithm tells what exponent is needed to make a certain number, so logarithms are one of the inverse operations of [[Operation (mathematics)#Exponentiation|exponentiation]]. 
+ 
+ Just as an exponential function has three parts, a logarithm has three parts as well: a base, a power and an answer (also called exponent). 
+ 
+ The following is an example of an exponential function:  
+ : < math > 2^3=8 < /math > 
+ In this function, the base is 2, the power is 3 and the answer is 8. 
+ 
+ This exponential equation has an inverse, its logarithmic equation: 
+ : < math > \log_2 8=3 < /math > 
+ 
+ In this equation, the base is 2, the power is 8 and the answer is 3. 
+ 
+ == Difference to roots == 
+ Addition has one inverse operation: subtraction. Also, multiplication has one inverse operation: division. However, exponentiation actually has ''two'' inverse operations: the [[Operation (mathematics)#Roots|root]] and the logarithm. The reason why this is the case has to do with the fact that exponentiation is not [[commutative]]. 
+ 
+ The following example illustrates this: 
+ * If  < math > x+2=3 < /math > , then one can use subtraction to find out that  < math > x=3-2 < /math > . This is the same if  < math > 2+x=3 < /math > : one also gets  < math > x=3-2 < /math > . This is because  < math > x+2 < /math >  is the same as  < math > 2+x < /math > . 
+ * If  < math > x\cdot2=3 < /math > , then one can use division to find out that  < math > x=\frac32 < /math > . This is the same if  < math > 2\cdot x=3 < /math > : one also gets  < math > x=\frac32 < /math > . This is because  < math > x\cdot2 < /math >  is the same as  < math > 2\cdot x < /math > . 
+ * If  < math > x^2=3 < /math > , then one can use the square [[Operation (mathematics)#Roots|root]] to find out that  < math > x=\sqrt3 < /math > . However, if  < math > 2^x=3 < /math > , then one ''cannot'' use the root to find out  < math > x < /math > . Rather, one has to use the binary logarithm to find out that  < math > x=\log_2 3 < /math > . 
+ 
+ This is because  < math > 2^x < /math >  usually is not the same as  < math > x^2 < /math >  (for example,  < math > 2^5=32 < /math >  but  < math > 5^2=25 < /math > ). 
+ 
+ == Uses == 
+ Logarithms can make multiplication and division of large numbers easier, because adding logarithms is the same as multiplying, and subtracting logarithms is the same as dividing. 
+ 
+ Before calculators became popular and common, people used logarithm tables in books to multiply and divide. < ref name= " :1 "  / >  The same information in a logarithm table was available on a [[slide rule]], a tool with logarithms written on it. 
+ 
+ Aside from computations, logarithm also has many other real-life applications: 
+ 
+ * [[Logarithmic spiral]]s are common in nature. Examples include the shell of a [[nautilus]], or the arrangement of seeds on a [[sunflower]]. 
+ * In [[chemistry]], the negative of the base 10 logarithm of the [[Activity (chemistry)|activity]] of [[hydronium]] ions (H < sub > 3 < /sub > O < sup > + < /sup > , the form H < sup > + < /sup >  takes in water) is the measure known as [[pH]]. The activity of hydronium ions in neutral [[water]] is 10 < sup > −7 < /sup >  mol/L at 25 & nbsp;°C, hence a pH of 7. (This is a result of the [[equilibrium constant]], the product of the concentration of hydronium ions and hydroxyl ions, in water solutions being 10 < sup > −14 < /sup >  M < sup > 2 < /sup > .) 
+ * The [[Richter magnitude scale|Richter scale]] measures [[earthquake]] intensity on a base 10 [[logarithmic scale]]. < ref name= " :0 "  / > 
+ * In [[astronomy]], the [[apparent magnitude]] measures the brightness of [[star]]s logarithmically, since the eye also responds logarithmically to brightness. 
+ * [[Interval (music)|Musical intervals]] are measured logarithmically as [[semitone]]s. The interval between two notes in semitones is the base  < math > 2^{\frac{1}{12}} < /math >  logarithm of the frequency ratio (or equivalently, 12 times the base 2 logarithm). Fractional semitones are used for non-equal temperaments. Especially to measure deviations from the equal tempered scale, intervals are also expressed in [[Cent (music)|cents]] (hundredths of an equally-tempered [[semitone]]). The interval between two notes in cents is the base  < math > 2^{\frac{1}{1200}} < /math >  logarithm of the frequency ratio (or 1200 times the base 2 logarithm). In [[MIDI]], notes are numbered on the semitone scale (logarithmic absolute nominal pitch with middle C at 60). For microtuning to other tuning systems, a logarithmic scale is defined filling in the ranges between the semitones of the equal tempered scale in a compatible way. This scale corresponds to the note numbers for whole semitones. (see [http://www.midi.org/about-midi/tuning.shtml microtuning in MIDI] {{Webarchive|url=https://web.archive.org/web/20080212074520/http://www.midi.org/about-midi/tuning.shtml |date=2008-02-12 }}). 
+ 
+ == Common logarithms == 
+ Base 10 Logarithms are called common logarithms. They are usually written without the base. For example: 
+ : < math > \log100=2 < /math > 
+ This is true because: 
+ : < math > 10^2=100 < /math > 
+ 
+ == Natural logarithms == 
+ Logarithms to base  < math > e < /math >  are called natural logarithms. The number [[e (mathematical constant)| < math > e < /math > ]] is nearly 2.71828, and is also called the Eulerian constant after the mathematician [[Leonhard Euler]]. 
+ 
+ The natural logarithms can take the symbols  < math > \log_e x < /math >  or, more commonly,  < math > \ln x < /math > . < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Natural Logarithm|url=https://mathworld.wolfram.com/NaturalLogarithm.html|access-date=2020-08-29|website=mathworld.wolfram.com|language=en}} < /ref >  Some authors prefer the use of natural logarithms as  < math > \log x < /math > , < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-29|website=Math Vault|language=en-US}} < /ref >  (and usually mention it on preface pages), thought this notation is incorrect. 
+ 
+ == Common bases for logarithms == 
+ {| class=wikitable 
+ ! base !! abbreviation !! Comments  
+ |- 
+ |   2  ||  < math > \operatorname{ld} < /math >  ||Very common in [[computer science]] ([[binary]]) 
+ |- 
+ |    < math > e < /math >   ||  < math > \ln < /math >  || The base of this is the [[Leonhard Euler|Eulerian]] constant [[e (mathematical constant)| < math > e < /math > ]]. This is the most common logarithm used in pure mathematics.  
+ |- 
+ |  10  ||  < math > \log_{10} < /math >  or  < math > \log < /math >  (sometimes also written as  < math > \lg < /math > ) || Used in some sciences like [[chemistry]] and [[biology]]. 
+ |- 
+ |  any number  < math > n < /math > ||  < math > \log_n < /math >  || This is the general way to write logarithms 
+ |- 
+ |} 
+ 
+ == Properties of logarithms == 
+ Logarithms have many properties. For example: 
+ 
+ ===Properties from the definition of a logarithm=== 
+ This property is straight from the definition of a logarithm: 
+ : < math > \log_n(n^a)=a < /math > 
+ 
+ For example 
+ : < math > \log_2(2^3)=3 < /math > , and 
+ : < math > \log_2(\frac12)=-1 < /math > , because  < math > \frac12=2^{-1} < /math > . 
+ 
+ The logarithm to base  < math > b < /math >  of a number  < math > a < /math > , is the same as the logarithm of  < math > a < /math >  divided by the logarithm of  < math > b < /math > . That is, 
+ : < math > \log_b a=\frac{\log a}{\log b} < /math > 
+ For example, let  < math > a < /math >  be 6 and  < math > b < /math >  be 2. With calculators we can show that this is true (or at least very close): 
+ : < math > \log_2 6=\frac{\log 6}{\log 2} < /math > 
+ : < math > \log_2 6\approx2.584962 < /math > 
+ : < math > 2.584962\approx\frac{0.778151}{0.301029}\approx2.584970 < /math > 
+ The results above had a small error, but this was due to the [[rounding]] of numbers. 
+ 
+ Since it is hard to picture the natural logarithm, we find that, in terms of a base ten logarithm: 
+ : < math > \ln x=\frac{\log x}{\log e}\approx\frac{\log x}{0.434294} < /math > , where 0.434294 is an approximation for the logarithm of  < math > e < /math > . 
+ ===Operations within logarithm powers=== 
+ Logarithms which multiply inside their power can be changed as follows: 
+ : < math > \log ab=\log a+\log b < /math > 
+ For example, 
+ : < math > \log1000=\log(10\cdot10\cdot10)=\log10+\log10+\log10=1+1+1=3 < /math > 
+ Similarly, logarithm which divides inside the argument can be turned into a difference of logarithm (because it is the ''inverse operation'' of multiplication): 
+ : < math > \log(\frac ab)=\log a-\log b < /math > 
+ ===Logarithm tables, slide rules, and historical applications=== 
+ Before electronic computers, logarithms were used every day by scientists. Logarithms helped scientists and engineers in many fields such as [[astronomy]]. 
+ 
+ Before computers, the ''table of logarithms'' was an important tool. < ref > {{Citation | last1=Campbell-Kelly | first1=Martin | title=The history of mathematical tables: from Sumer to spreadsheets | publisher=[[Oxford University Press]] | series=Oxford scholarship online | isbn=978-0-19-850841-0 | year=2003}}, section 2 < /ref >  In 1617, [[Henry Briggs (mathematician)|Henry Briggs]] printed the first logarithm table. This was soon after Napier's basic invention. Later, people made tables with better scope and precision. These tables listed the values of  < math > log_b x < /math >  and  < math > b^x < /math >  for any number  < math > x < /math >  in a certain range, at a certain precision, for a certain base  < math > b < /math >  (usually {{nowrap begin}} < math > b=10 < /math > {{nowrap end}}). For example, Briggs' first table contained the common logarithms of all integers in the range 1–1000, with a precision of 8 digits.  
+ 
+ Since the function  < math > f(x)=b^x < /math >  is the inverse function of  < math > log_b x < /math > , it has been called the antilogarithm. < ref > {{Citation|editor1-last=Abramowitz|editor1-first=Milton|editor2-last=Stegun|editor2-first=Irene A.|title=Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables|publisher=Dover Publications|location=New York|isbn=978-0-486-61272-0|edition=10th|year=1972}}, section 4.7., p. 89 < /ref >  People used these tables to multiply and divide numbers. For example, a user looked up the logarithm in the table for each of two positive numbers. Adding the numbers from the table would give the logarithm of the product. The antilogarithm feature of the table would then find the product based on its logarithm. 
+ 
+ For manual calculations that need precision, performing the lookups of the two logarithms, calculating their sum or difference, and looking up the antilogarithm is much faster than performing the multiplication by earlier ways. 
+ 
+ Many logarithm tables give logarithms by separately providing the characteristic and [[common logarithm|mantissa]] of  < math > x < /math > , that is to say, the [[integer part]] and the [[fractional part]] of  < math > log_{10}x < /math > . < ref > {{Citation | last1=Spiegel | first1=Murray R. | last2=Moyer | first2=R.E. | title=Schaum's outline of college algebra | publisher=McGraw-Hill | location=New York | series=Schaum's outline series | isbn=978-0-07-145227-4 | year=2006}}, p. 264 < /ref >  The characteristic of  < math > 10\cdot x < /math >  is one plus the characteristic of  < math > x < /math > , and their significands are the same. This extends the scope of logarithm tables: given a table listing  < math > log_10 x < /math >  for all integers  < math > x < /math >  ranging from 1 to 1000, the logarithm of 3542 is approximated by 
+ : < math > \log_{10}3542=\log_{10}(10\cdot354.2)=1+\log_{10}354.2\approx1+\log_{10}354 < /math > 
+ 
+ Another critical application was the [[slide rule]], a pair of logarithmically divided scales used for calculation, as illustrated here: 
+ 
+ [[Image:Slide rule example2 with labels.svg|center|thumb|550px|Schematic depiction of a slide rule. Starting from 2 on the lower scale, add the distance to 3 on the upper scale to reach the product 6. The slide rule works because it is marked such that the distance from 1 to  < math > x < /math >  is proportional to the logarithm of  < math > x < /math > .|alt=A slide rule: two rectangles with logarithmically ticked axes, arrangement to add the distance from 1 to 2 to the distance from 1 to 3, indicating the product 6.]] 
+ 
+ Numbers are marked on sliding scales at distances proportional to the differences between their logarithms. Sliding the upper scale appropriately amounts to mechanically adding logarithms. For example, adding the distance from 1 to 2 on the lower scale to the distance from 1 to 3 on the upper scale yields a product of 6, which is read off at the lower part. Many engineers and scientists used slide rules until the 1970s. Scientists can work faster using a slide rule than using a logarithm table. < ref > Maor, Eli (2009), ''E: The Story of a Number'', Princeton University Press, {{ISBN|978-0-691-14134-3}}, sections 1, 13 < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[e (mathematical constant)|Euler's number]] 
+ * [[Prime number theorem]] 
+ 
+ ==References== 
+ {{commonscat}}{{reflist}} 
+ 
+ 
+ [[Category:Logarithms]] 
+ [[Category:Functions and mappings]]

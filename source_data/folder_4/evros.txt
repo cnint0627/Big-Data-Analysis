@@ -1,0 +1,81 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Evros  
+ | native_name             = {{flatlist| 
+ * Περιφερειακή ενότητα 
+ * Έβρου}} 
+ | native_name_lang        = el 
+ | settlement_type         = [[regional units of Greece|Regional unit]] 
+ | image_skyline           = 2010 Dimi Evrou numbered.svg 
+ | image_alt               =  
+ | image_caption           = Municipalities of Evros: 3 Orestiada 
+ | imagesize = 150px 
+ | image_flag              =  
+ | flag_alt                =  
+ | image_seal              =  
+ | seal_alt                =  
+ | image_shield            =  
+ | shield_alt              =  
+ | nickname                =  
+ | motto                   =  
+ | image_map               = Nomos Evrou.png 
+ | map_alt                 =  
+ | map_caption             = Evros within Greece 
+ | pushpin_map             =  
+ | pushpin_label_position  =  
+ | pushpin_map_alt         =  
+ | pushpin_map_caption     =  
+ | coordinates             = {{coord|41|10|N|26|05|E|display=inline,title}} 
+ | coor_pinpoint           =  
+ | coordinates_footnotes   =  
+ | subdivision_type        = Country 
+ | subdivision_name        = [[Greece]] 
+ | subdivision_type1       = [[modern regions of Greece|Region]] 
+ | subdivision_name1       = [[East Macedonia and Thrace]] 
+ | established_title       =  
+ | established_date        = 2011 
+ | founder                 =  
+ | seat_type               = Capital 
+ | seat                    = [[Alexandroupoli]] 
+ | government_footnotes    =  
+ | leader_party            =  
+ | leader_title            =  
+ | leader_name             =  
+ | unit_pref               = Metric 
+ | area_footnotes          =  
+ | area_total_km2          = 4242  
+ | area_land_km2           =  
+ | area_water_km2          =  
+ | area_water_percent      =  
+ | area_note               =  
+ | elevation_footnotes     =  
+ | elevation_m             =  
+ | population_footnotes    =  
+ | population_total        = 147530 < ref > {{cite web | url = http://www.statistics.gr/portal/page/portal/ver-1/ESYE/BUCKET/General/A1602_SAM01_DT_DC_00_2011_01_F_EN.pdf | title = Publication of provisional results of the 2011 Population Census | publisher = National Statistical Service of Greece | page = 3 | access-date = 2015-07-03 | archive-url = https://web.archive.org/web/20150924123303/http://www.statistics.gr/portal/page/portal/ver-1/ESYE/BUCKET/General/A1602_SAM01_DT_DC_00_2011_01_F_EN.pdf | archive-date = 2015-09-24 | url-status = dead }} < /ref > 
+ | population_as_of        = 2011 
+ | population_density_km2  = auto 
+ | population_demonym      =  
+ | population_note         =  
+ | timezone               = [[Eastern European Time|EET]] 
+ | utc_offset              = +2 
+ | timezone1_DST           = [[EEST]] 
+ | utc_offset1_DST         = +3 
+ | postal_code_type        = [[Postal codes in Greece|Postal codes]]  
+ | postal_code             = 68x xx 
+ | area_code_type          = [[Telephone numbers in Greece|Area codes]] 
+ | area_code               = 255x0 
+ | blank_name              = [[Vehicle registration plates of Greece|Car plates]] 
+ | blank_info              = ΕΒ, ΟΡ 
+ | iso_code                = GR-71 
+ | website                 =  < !-- {{URL|www..gr}} -- > 
+ | footnotes               =  
+ }} 
+ 
+ '''Evros''' is one of 51 [[prefecture]]s of [[Greece]].  The capital of Evros is [[Alexandroupoli]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:Prefectures of Greece]]

@@ -1,0 +1,22 @@
+'''Binary''' is [[Base (mathematics)|base]] 2 [[Base (mathematics)|number system]]. It is base 2 because it uses two possible numbers: 0 and 1. Decimal, the system most of the world uses for daily life, is a base 10 system – it uses 10 characters (0–9). When binary numbers are written, a subscript  " (2) "  is added to distinguish them from the same number in base 10. 
+ 
+ [[Computer]]s work in binary, because wires can store information in two different ways: by being powered, or not being powered. Sets of binary numbers can be used to represent any information, such as text, audio, or video.  
+ 
+ == Number system == 
+ {{main|Binary numeral system}} 
+ When being introduced to binary numbers, it helps to go back and think about how base 10 or [[decimal]] numbers work. Consider the number 1101 < sub > (10) < /sub >  (base 10). We identify this number as one-thousand, one-hundred, one because it has a 1 in the thousands place, a 1 in the hundreds place, and a 1 in the ones place. But since the places represent 8, 4, 2, and 1 in binary, instead of 1000, 100, 10, and 1, the value converted to decimal (base 10) would be 8 + 4 + 1 = 13 < sub > (10) < /sub > .  
+ 
+ [[File:Decimal vs. Binary.png|thumb|center|800px|How decimal and binary numbers are interpreted]] 
+ 
+ For another example, the binary number 101 < sub > (2) < /sub >  is 5 in decimal. The bit on the right is 1 and has a value of 1 (2^0). The middle bit has a value of 2 (2^1 or just 2), but it is a 0, so it is not added. The bit on the left is 1 and has a value of 4 (2^2 or 2 * 2). The bits that are 1s have values of 1 and 4. 1 + 4 = '''5'''. 
+ 
+ == Computers == 
+ All computers use binary at the [[machine code|lowest level]]. Most [[hard memory]], like [[compact disc]]s and [[DVD]]s, use binary to represent large [[Computer file|files]]. 
+ 
+ With computers, eight binary bits together is called a ''[[byte]]''. The size of files is commonly [[measure]]d in ''[[kilobyte]]s'' or ''[[megabyte]]s'' (sometimes in ''[[gigabyte]]s''). A kilobyte is 1000 bytes. A megabyte is 1000 kilobytes, a gigabyte is 1000 megabytes and a terabyte is 1000 gigabytes. Sometimes, it is easier to measure bytes in groups of 1024, since 1024 is a [[Exponentiation|power]] of 2. There are 1024 bytes in a ''[[kibibyte]]'', 1024 kibibytes in a ''[[mebibyte]]'', and 1024 mebibytes in a ''[[gibibyte]]''.  
+ 
+ {{Commonscat}} 
+ 
+ [[Category:Computer science]] 
+ [[Category:Mathematics]] 
+ [[Category:Encodings]]

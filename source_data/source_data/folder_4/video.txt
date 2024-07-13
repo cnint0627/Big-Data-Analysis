@@ -1,0 +1,87 @@
+'''Video''' is a [[technology]]. It records moving [[image]]s onto some [[Storage medium|medium]]. The recorder may be a separate machine such as a [[videocassette recorder]] (also called a VCR) or built into something else such as a [[video camera]]. A popular 20th century [[videotape]] format was [[VHS]]. It was used by many people to record [[television programme]]s onto [[Videotape|cassettes]]. This is usually an [[analog signal|analog]] format. In the 21st century [[digital recording]] is used more often than analog recording. By extension, a [[video clip]] is a short [[movie]]. A [[music video]] usually [[Movie star|stars]] someone who recorded an (audio) [[album]]. One purpose is to [[Promotion|promote]] the album. 
+ 
+ == Making and showing video == 
+ 
+ Video is made using a [[video camera]]. A camera is an [[electronic device]] that takes [[light]] from the real world and makes it into pictures. A video camera is like a camera, but takes many pictures very very fast to make it a video. 
+ 
+ Video is shown with a screen. A screen can either be a [[Computer monitor|monitor]], a [[projector]], or a [[television]]. The purpose of a screen is to turn video information into light. 
+ 
+ == History == 
+ 
+ === Analog video === 
+ 
+ When video technology was first made, it was made for [[televisions]]. At first, it was for [[mechanical television]]s, but then [[cathode-ray tube]] televisions became more common. The technology was [[analog]]. 
+ 
+ === Digital video === 
+ 
+ [[Digital]] video came after analog video. At first, the digital video was not useful because the [[bitrate]] (how quick a picture moves through a [[wire]]) was too high. After [[data compression]] was made, digital video became more useful than analog video. 
+ 
+ == Properties of video == 
+ 
+ === Frames per second === 
+ 
+ Frames per second is a number which means how quick a picture is shown to a person watching the video. Videos are just pictures shown one by one, but very very fast. So the frame rate is the number of pictures that are shown in 1 second. 
+ 
+ === Interlaced and progressive === 
+ 
+ A video can be interlaced or progressive. When a picture is shown in a video, it is divided into many lines. 
+ 
+ In a progressive video, The [[Computer monitor|screen]] will draw each line one by one from the top of the picture until the bottom of the picture. 
+ 
+ But in an interlaced video, the screen will only draw the [[odd number|odd]] lines at first. So the screen will draw 1, 3, 5, 7, until it touches the bottom. When it does, the screen will go to the second line, and draw the [[even number|even]] lines. 
+ 
+ === Aspect ratio === 
+ 
+ [[File:Aspect_ratios.svg|right|thumb|Different kinds of aspect ratio. When the left number is bigger, the video becomes longer.]] 
+ A video has an  < em > aspect ratio < /em > . An aspect ratio gives the [[shape]] of a video. The video can either be a [[square]] or a [[rectangle]]. To get the aspect ratio, you divide the width by the height. Then you write it as a [[ratio]]. 
+ 
+ A video shaped like a square has an aspect ratio of 1, because the [[width]] and [[height]] are the same number. 
+ 
+ A video which is a rectangle has an aspect ratio that is not 1. A video that is tall has an aspect ratio where the right side of the ratio is bigger. But a video that is wide has an aspect ratio where the left number is bigger. 
+ 
+ Common aspect ratios are 16:9 and 4:3. 
+ 
+ === Color information === 
+ 
+ The pictures in a video have color information. For every [[pixel]] in the picture, which is a small box which is part of the picture, there is a color. This color can be put inside the video using a  < em > color model < /em > 
+ 
+ == Uses of video == 
+ 
+ Many people now use videos everyday. 
+ 
+ Types of videos: 
+ * [[Movies]] 
+ * [[Television show]]s 
+ * [[Online video]]s 
+ 
+ == Video cables == 
+ 
+ A video [[cable]] is a cable used to move video information from one [[electronic device]] to another one. 
+ 
+ === Analog video cables === 
+ 
+ < gallery > 
+ File:Composite-video-cable.jpg|[[Composite video|Composite]] 
+ File:Close-up_of_S-video_female_connector.jpg|[[S-Video]] 
+ File:Component-cables.jpg|[[Component video|Component]] (YP < sub > b < /sub > P < sub > r < /sub > ) 
+ File:SCART_20050724_002.jpg|[[SCART]] 
+ File:Vga-cable.jpg|[[VGA]] 
+ < /gallery > 
+ 
+ === Digital video cables === 
+ 
+ < gallery > 
+ File:Dvi-cable.jpg|[[DVI]] 
+ File:HDMI-Connector.jpg|[[HDMI]] 
+ File:Displayport-cable.jpg|[[Displayport]] 
+ < /gallery > 
+ 
+ == Related pages == 
+ * [[Closed circuit television]] 
+ * [[Video editing]] 
+ * [[Data compression]] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Technology]]

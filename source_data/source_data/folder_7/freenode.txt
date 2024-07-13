@@ -1,0 +1,40 @@
+{{Infobox IRC network 
+ |name = Freenode 
+ |image = [[File:freenode logo.png|240px]] 
+ |founded_on = {{start date and age|1995}} < br / > as irc.linpeople.org 
+ |located_in = [[Asia]], [[Pacific Rim]], [[Europe]], [[United States]] 
+ |based_in = [[United Kingdom]] 
+ |website_url = http://freenode.net/ 
+ |primary_dns = irc://chat.freenode.net/ 
+ |average_users = {{IRC NQNS link|freenode|90,000–100,000}} 
+ |average_channels= {{IRC NQNS link|freenode|50,000}} 
+ |average_servers = {{IRC NQNS link|freenode|12}} 
+ |main_content = Public / unrestricted 
+ }} 
+ '''freenode''' (known before as '''Open Projects Network'''), is an [[Internet Relay Chat|IRC]] [[computer network|network]]. It is used to discuss peer-directed projects. < ref > Mutton, Paul. ''IRC Hacks: 100 Industrial-Strength Tips  &  Tools''. Cambridge: [[O'Reilly Media]] 2004. {{ISBN|0-596-00687-X}} < /ref >  The freenode servers can all be used from the [[Domain name system|domain name]] [irc://chat.freenode.net chat.freenode.net]. This automatically switches the user to one of the actual servers in use.  As of 2010, it was the largest [[free and open source software]]-focused IRC network. It had more than 70,000 users and 40,000 channels. < ref > {{cite web |author=Andreas Gelhausen |url=http://irc.netsplit.de/networks/details.php.en?net=freenode & submenu=weeks |title=Network statistics over the last two weeks |publisher=irc.netsplit.de |accessdate=2010-05-28 |archive-date=2014-02-21 |archive-url=https://web.archive.org/web/20140221091850/http://irc.netsplit.de/networks/details.php.en?net=freenode & submenu=weeks |url-status=dead }} < /ref > < ref > {{cite web |author=Peer-Directed Projects Center |url=http://freenode.net/project |title=Freenode history statistics |publisher=freenode.net |accessdate=2011-02-08 |archive-date=2016-03-26 |archive-url=https://web.archive.org/web/20160326204045/http://freenode.net/project |url-status=dead }} < /ref > 
+ 
+ == History == 
+ [[File:Map of freenode servers.svg|thumb|left|There are 24 freenode server locations around the world {{as of|2010|10|lc=on}}.]] 
+ {{Anchor|ratbert}}  < !-- Redirect target from [[Ratbert (freenode)]] -- > 
+ 
+ freenode began as a 4-person [[Linux]] support channel called #LinPeople on [[EFnet]]. EFnet was another IRC network. By 1995 it had moved from being just a channel to its own network, irc.linpeople.org. In early 1998 it changed to Open Projects Net (OPN0). It had about 200 users and under 20 channels. 
+ 
+ On June 24, 2006, a user with the nickname  " ratbert "  managed to get the staff rights of [[Rob Levin]] ( < tt > lilo < /tt > ) and took control of the network. It is believed that around 25 user passwords were stolen because of this. < ref > {{cite web|url=http://it.slashdot.org/comments.pl?sid=189470 & cid=15603568 |title=Freenode Network Hijacked, Passwords Compromised? |publisher=It.slashdot.org |date=2006-06-26 |accessdate=2009-05-12}} < /ref >  This user [[K-line]]d many freenode staff members. Most freenode servers went down for several hours because of this. < ref > [http://www.theinquirer.net/?article=32634 Freenode IRC Network hacked]{{Dead link|date=July 2021 |bot=InternetArchiveBot |fix-attempted=yes }} [[The Inquirer]] article about NickServ hack < /ref > 
+ 
+ == Channels == 
+ The network focuses on supporting peer-directed and open source projects. Channels which are not related to these things are off-topic on freenode. They are encouraged to find a home somewhere else. To support this, channels are divided. On-topic channels begin with a single #. Groups who want to use one of these channels must officially register with freenode. Off-topic channels begin with ##. These can be used without a group registration. < ref > {{cite web|url=http://freenode.net/policies#channel-ownership|title=freenode naming scheme|accessdate=2016-05-08|archive-date=2016-03-26|archive-url=https://web.archive.org/web/20160326204040/http://freenode.net/policies#channel-ownership|url-status=dead}} < /ref > 
+ 
+ == References == 
+ 
+ {{reflist|2}} 
+ 
+ == Other websites == 
+ {{commons category}} 
+ * {{official|http://freenode.net/}} 
+ 
+ {{IRC networks}} 
+ {{IRC footer}} 
+ 
+ {{lowercase}} 
+ 
+ [[Category:Internet Relay Chat]]

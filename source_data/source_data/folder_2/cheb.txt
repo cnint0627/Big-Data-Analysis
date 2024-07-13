@@ -1,0 +1,71 @@
+{{Infobox settlement 
+ | name                    = Cheb 
+ | other_name              =  
+ | settlement_type         = [[Town]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           = Cheb Eger Egerer Stöckl Špalíček-0219.jpg 
+ | image_caption           = [[George of Poděbrady|Jiřího z Poděbrad]] Square 
+ | image_flag              = Cheb_flag.svg 
+ | image_shield            = Cheb_coat_of_arms.svg 
+ < !-- location -- > 
+ | subdivision_type        = Country 
+ | subdivision_name        = {{CZE}} 
+ | subdivision_type1       = [[Regions of the Czech Republic|Region]] 
+ | subdivision_name1       = [[Karlovy Vary Region|Karlovy Vary]] 
+ | subdivision_type2       = [[Districts of the Czech Republic|District]] 
+ | subdivision_name2       = [[Cheb District|Cheb]] 
+ < !-- maps and coordinates -- > 
+ | image_map               =  
+ | map_caption             =  
+ | pushpin_map             = Czech Republic 
+ | pushpin_relief          = 1 
+ | pushpin_map_caption     = Location in the Czech Republic 
+ | coordinates             = {{coord|50|4|46|N|12|22|14|E|display=inline,title}} 
+ | coordinates_footnotes   =  
+ < !-- government type, leaders -- > 
+ | leader_title            = Mayor 
+ | leader_name             = Antonín Jalovec 
+ | leader_party            = {{polparty|Czech Republic|STAN}} 
+ < !-- established -- > 
+ | established_title       = First mentioned 
+ | established_date        = 1061 
+ < !-- area -- > 
+ | area_footnotes          =  
+ | area_total_km2          = 96.36 
+ < !-- elevation -- > 
+ | elevation_footnotes     =  
+ | elevation_m             = 459 
+ < !-- population -- > 
+ | population_as_of        = 2022-01-01 
+ | population_footnotes    =  < ref > {{cite web |title=Population of Municipalities – 1 January 2022|url=https://www.czso.cz/csu/czso/population-of-municipalities-1-january-2022|publisher=[[Czech Statistical Office]]|date=2022-04-29}} < /ref > 
+ | population_total        = 30420 
+ | population_density_km2  = auto 
+ < !-- time zone(s) -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        = Postal code 
+ | postal_code             = 350 02 
+ | area_code_type          =  
+ | area_code               =  
+ < !-- website, footnotes -- > 
+ | website                 = {{URL|https://www.mestocheb.cz/}} 
+ | footnotes               =  
+ }} 
+ '''Cheb''' ({{lang-de|Eger}}) is a town in the [[Karlovy Vary Region]] of the [[Czech Republic]]. It is the capital of the [[Cheb District]]. About 30,000 people live there. It is on the river [[Ohře]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{Commonscat}} 
+ * [https://www.mestocheb.cz/ Official website] {{in lang|cs}} 
+ 
+ {{authority control}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Towns in the Czech Republic]] 
+ [[Category:Karlovy Vary Region]]

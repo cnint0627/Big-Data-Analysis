@@ -1,0 +1,70 @@
+{{Infobox river 
+ | name               = Viskan 
+ | name_native        =  
+ | name_native_lang   =  
+ | name_other         =  
+ | name_etymology     =  
+ < !---------------------- IMAGE  &  MAP -- > 
+ | image              = Viskan.JPG 
+ | image_size         =  
+ | image_caption      = Viskan where it runs through Borås 
+ | map                =  
+ | map_size           =  
+ | map_caption        =  
+ | pushpin_map        =  
+ | pushpin_map_size   =  
+ | pushpin_map_caption=  
+ < !---------------------- LOCATION -- > 
+ | subdivision_type1  = Country 
+ | subdivision_name1  = [[Sweden]] 
+ | subdivision_type2  =  
+ | subdivision_name2  =  
+ | subdivision_type3  = [[Counties of Sweden|Counties]] 
+ | subdivision_name3  = [[Västra Götaland County]], [[Halland County]] 
+ | subdivision_type4  =  
+ | subdivision_name4  =  
+ | subdivision_type5  = City 
+ | subdivision_name5  = [[Borås]] 
+ < !---------------------- PHYSICAL CHARACTERISTICS -- > 
+ | length             = {{convert|140|km|mi|abbr=on}} < ref name=ne > {{cite encyclopedia | title=Viskan | encyclopedia=[[Nationalencyklopedin]] | url=http://www.ne.se/viskan | language=Swedish | accessdate=11 July 2010}} {{Subscription required}} < /ref >   
+ | width_min          =  
+ | width_avg          =  
+ | width_max          =  
+ | depth_min          =  
+ | depth_avg          =  
+ | depth_max          =  
+ | discharge1_location=  
+ | discharge1_min     =  
+ | discharge1_avg     = {{convert|34|m3/s|cuft/s|abbr=on}} < ref name=ne / > 
+ | discharge1_max     =  
+ < !---------------------- BASIN FEATURES -- > 
+ | source1            = [[Tolken]] 
+ | source1_location   = [[Ulricehamn Municipality]], [[Västra Götaland County]], [[Sweden]] 
+ | source1_coordinates= {{coord|57|47|30|N|13|15|00|E|display=inline}} 
+ | source1_elevation  = {{convert|226|m|abbr=on}} < ref name=nf > {{cite encyclopedia | title=Viskan | encyclopedia=[[Nordisk Familjebok]] | language=Swedish | url=http://runeberg.org/nfcl/0451.html | volume=32 | edition=2 | pages=838–839 | year=1921 | accessdate=11 July 2010}} < /ref > 
+ | mouth              = [[Klosterfjorden]], [[Kattegatt]] 
+ | mouth_location     = [[Varberg Municipality]], [[Halland County]], [[Sweden]] 
+ | mouth_coordinates  = {{coord|57|13|30|N|12|12|20|E|display=inline,title}} 
+ | mouth_elevation    = {{convert|0|m|abbr=on}} 
+ | progression        =  
+ | river_system       =  
+ | basin_size         = {{convert|2202.1|km2|abbr=on}} < ref > {{cite web | title=Län och huvudavrinningsområden i Sverige | url=http://www.smhi.se/sgn0102/n0205/lan_haro_huvud.pdf | language=Swedish | publisher=[[Swedish Meteorological and Hydrological Institute]] | accessdate=11 July 2010 | archive-date=28 September 2018 | archive-url=https://web.archive.org/web/20180928202529/http://www.smhi.se/sgn0102/n0205/lan_haro_huvud.pdf | url-status=dead }} < /ref > 
+ | tributaries_left   = [[Häggån]], [[Slottsån]] 
+ | tributaries_right  = [[Munkån]], [[Surteån]] 
+ | custom_label       =  
+ | custom_data        =  
+ | extra              =  
+ }} 
+ '''Viskan'''  is a [[river]] in the [[provinces of Sweden|historical province]] of [[Halland]] in southern [[Sweden]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat-inline|Viskan}} 
+ 
+ {{DEFAULTSORT:Viskan}} 
+ [[Category:Rivers of Sweden]] 
+ 
+ 
+ {{multistub|Europe|geo}}

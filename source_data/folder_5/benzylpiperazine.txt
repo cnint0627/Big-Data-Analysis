@@ -1,0 +1,62 @@
+{{Drugbox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 413890988 
+ | IUPAC_name = 1-Benzylpiperazine 
+ | image = Benzylpiperazine.svg 
+ | image2 = Benzylpiperazine-3D-balls.png 
+ 
+ < !--Clinical data-- > 
+ | tradename = 
+ | legal_DE = Anlage II 
+ | legal_CA = Schedule III 
+ | legal_CA_comment =  < ref > {{cite web|title=Controlled Drugs and Substances Act : Legislative history · Schedule III · Sections 2 to 32: Methylphenidate to BZP and TFMPP. Isomer Design|url=http://isomerdesign.com/Cdsa/schedule.php?schedule=3§ion=2 & structure=C |access-date= 2012-11-24}}{{dead link|date=June 2019|fix-attempted=yes}}  < /ref > < ref > {{cite web|title=Amending Schedule III to the Controlled Drugs and Substances Act (BZP and TFMPP). |work=Canada Gazette|url=http://www.gazette.gc.ca/rp-pr/p2/2012/2012-04-11/html/sor-dors66-eng.html|access-date= 2012-11-24}} < /ref > 
+ | legal_UK = POM 
+ | legal_AU = Schedule 9 
+ | legal_US = Schedule I 
+ | legal_NZ = Class C  
+ | legal_status = 
+ | routes_of_administration = Oral, intravenous, insufflation 
+ 
+ < !--Pharmacokinetic data-- > 
+ | bioavailability = Unknown 
+ | metabolism = [[Liver|Hepatic]] 
+ | elimination_half-life = 5.5 Hours < ref > {{cite journal |vauthors=Antia U, Lee HS, Kydd RR, Tingle MD, Russell BR | title = Pharmacokinetics of 'party pill' drug N-benzylpiperazine (BZP) in healthy human participants | journal = [[Forensic Sci. Int.]] | volume = 186 | issue = 1–3 | pages = 63–7 |date=April 2009 | pmid = 19261399 | doi = 10.1016/j.forsciint.2009.01.015}} < /ref > 
+ | excretion = [[Kidney|Renal]] 
+ 
+ < !--Identifiers-- > 
+ | CAS_number_Ref = {{cascite|correct|??}} 
+ | CAS_number = 2759-28-6 
+ | UNII_Ref = {{fdacite|changed|FDA}} 
+ | UNII = 3UG152ZU0E 
+ | ATC_prefix = none 
+ | PubChem = 75994 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 68493 
+ | ChEBI_Ref = {{ebicite|changed|EBI}} 
+ | ChEBI = 83537 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 113600 
+ 
+ < !--Chemical data-- > 
+ | C=11 | H=16 | N=2 
+ | molecular_weight = 176.258 g/mol 
+ | smiles = C1(CN2CCNCC2)=CC=CC=C1 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C11H16N2/c1-2-4-11(5-3-1)10-13-8-6-12-7-9-13/h1-5,12H,6-10H2 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = IQXXEPZFOOTTBA-UHFFFAOYSA-N 
+ }} 
+ '''Benzylpiperazine''', commonly referred to as '''BZP''' is an [[drug|recreational drug]]. It is also available with trade names such as  " A2 " ,  " Frenzy "  and  " Nemesis " , < ref name= " BLTC " > {{cite web | title = Clubbers snap up new legal high | url= http://www.guardian.co.uk/society/2005/dec/13/drugsandalcohol.drugs | work = The Guardian | author= David McCandless | date= 2005-12-13 | access-date = 2008-05-26}} < /ref >  It is a [[stimulant]] and may cause [[Euphoria]]. People believe it works in a way similar to [[MDMA]]. The effects produced by BZP are comparable to those produced by [[amphetamine]]. [[Side-effect]]s include [[psychosis|acute psychosis]], problems with the [[kidney]]s 
+ Adverse effects have been reported following its use including [[psychosis|acute psychosis]] and [[seizure]]s. It does not appear to be very [[addiction|addictive]] and no deaths have been reported following taking BZP once. There have been at least two deaths  which resulted from the combination of BZP and MDMA. Its sale is banned in a few countries, including the [[United States]], [[Australia]], [[New Zealand]] and in parts of [[Europe]]. < ref > {{cite web | title =Legal dance drug faces ban amid fears over side-effects | author=  Alexandra Topping|work = The Guardian  | date = 2007-06-18 | url =http://www.guardian.co.uk/drugs/Story/0,,2105482,00.html 
+  | access-date = 2008-05-26}} < /ref >  However, its [[legal status]] is currently less restrictive in some other countries such as [[Republic of Ireland|Ireland]] and [[Canada]]. The [[European Union]] is currently changing its laws to regulate this substance more. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{sci-stub}} 
+ 
+ [[Category:Psychoactive drugs]] 
+ [[Category:Organonitrogen compounds]]

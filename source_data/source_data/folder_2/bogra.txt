@@ -1,0 +1,88 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |official_name          = Bogra 
+ |other_name             = Bogra,Rajshahi, Bangladesh 
+ |native_name            =  বগুড়া < !-- for cities whose native name is not in English -- > 
+ |nickname               =  
+ |settlement_type        =  < !--For Town or Village (Leave blank for the default City)-- > 
+ |motto                  = 
+ |image_skyline          = Bogra Sathmatha.jpg 
+ |imagesize              =  
+ |image_caption          = Bogra Sathmatha (Heart of Bogra) 
+ |image_flag             =  
+ |flag_size              = 
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           =  
+ |shield_size            = 
+ |image_map              =  
+ |mapsize                =  
+ |pushpin_map            = Bangladesh  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =bottom 
+ |pushpin_mapsize        = 
+ |pushpin_map_caption    =Location in Bangladesh 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = [[Bangladesh]] 
+ |subdivision_type1      = [[Divisions of Bangladesh|Division]] 
+ |subdivision_name1      = [[Rajshahi Division]] 
+ |subdivision_type2      = [[Districts of Bangladesh|District]] 
+ |subdivision_name2      = [[Bogra District]] 
+ |subdivision_type3      =  
+ |subdivision_name3      =  
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       =  
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref                =Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = 
+ |area_total_km2           = 71.56 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ |area_water_km2           = 
+ |area_urban_km2           = 
+ |area_metro_km2           = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               =2001 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               =210038 
+ |population_density_km2         = 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_urban_km2   = 
+ < !-- General information  --------------- > 
+ |timezone               = [[Bangladesh Standard Time|Bangladesh Time]]  
+ |utc_offset             = +6 
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ |coordinates={{coord|24|51||N|89|22||E|region:BD|display=inline,title}} 
+ |elevation_footnotes    =   < !--for references: use  tags-- > 
+ |elevation_m            =  
+ |elevation_ft           = 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            =5800 
+ |area_code              = 
+ |blank_name             = [[Telephone numbers in Bangladesh|Calling code]] 
+ |blank_info             =051 
+ |website                = http://www.dcbogra.gov.bd 
+ |footnotes              =  
+ }}  
+ '''Bogra''' is one of the oldest towns in northern [[Bangladesh]]. It is a centre of commerce and trade within the [[Bogra District]].  It is under the [[Rajshahi Division]]. They have hosted [[cricket]] [[Test cricket|test matches]] in [[Shaheed Chandu Stadium]]. Bogra is also home to the Western Wing of Bangladesh Highway Police.   
+ 
+ [[Ziaur Rahman]], former president of  Bangladesh, and [[Muhammad Ali Bogra]], a former Prime Minister of Pakistan, were both born in the district. 
+ 
+ Bogra is often called the heart of North-Bengal. 
+ 
+ [[Category:Settlements in Bangladesh]] 
+ [[Category:Rajshahi Division]] 
+ 
+ 
+ {{asia-stub}}

@@ -1,0 +1,18 @@
+[[File:Anatomy of neuron.png|thumb|500px|The neuron contains dendrites that receives information, a cell body called the soma, and an axon that sends information. Schwann cells make activity move faster down axon. Synapses allow neurons to activate other neurons. The dendrites receive a signal, the axon hillock funnels the signal to the initial segment and the initial segment triggers the activity (action potential) that is sent along the axon towards the synapse. Please see [https://www.learnbio.org/neuron.html learnbio.org] for interactive version]] 
+ 
+ '''Dendrites''' are the branches of [[neuron]]s that receive signals from other neurons. The signals go into the cell body (or [[soma]]). 
+ 
+ A cell may have hundreds of dendrites, but may have only one [[axon]]. The dendrites carry signals from other neurons into the soma, and the axon carries a single signal from the soma to the next neuron or to a [[muscle fiber]]. < ref > {{cite web  |first = Eric H. |last = Chudler | name-list-style = vanc |title = Brain Facts and Figures |url = http://faculty.washington.edu/chudler/facts.html |work = Neuroscience for Kids |access-date = 2009-06-20 }} < /ref > 
+ 
+ A dendrite from one neuron and an [[axon]] from another neuron meet at a [[synapse]], which is a very narrow gap between the two cells. When electrical impulses reach the end of an axon, they trigger the release of chemicals called [[neurotransmitters]]. These chemicals cross the synapse to the dendrite, where they trigger the flow of [[ions]] into or out of the cell. 
+ 
+ The movement of the charged ions in the dendrite causes an electrical current, which spreads to the soma briefly before being restored to normal. 
+ 
+ If the dendrites get lots of signals from axons, then it sets off a chain reaction. The chain reaction is a strong electrical current called an [[action potential]] that flows down the axon to the next synapse. 
+ 
+ Fully differentiated neurons do not divide. < ref > {{cite journal | vauthors = Herrup K, Yang Y | title = Cell cycle regulation in the postmitotic neuron: oxymoron or new biology? | journal = Nature Reviews. Neuroscience | volume = 8 | issue = 5 | pages = 368–78 | date = May 2007 | pmid = 17453017 | doi = 10.1038/nrn2124 | s2cid = 12908713 }} < /ref >  However, [[stem cell]]s in the adult brain may regenerate functional neurons throughout the life of an organism. Generally, once born, neurons do not divide. Many will live the whole lifetime of the animal. < ref > {{cite book|last1=Gilbert|first1=Scott F.|last2=College|first2=Swarthmore|last3=Helsinki|first3=the University of|title=Developmental biology|date=2014|publisher=Sinauer|location=Sunderland, Mass.|isbn=978-0878939787|edition=Tenth|url=https://books.google.com/books?id=xf4RA6l3keoC}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Anatomy of the nervous system]]

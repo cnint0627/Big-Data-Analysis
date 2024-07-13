@@ -1,0 +1,149 @@
+{{Infobox Italian comune 
+ | name                = Viterbo 
+ | official_name       = Comune di Viterbo 
+ | native_name         =  
+ | image_skyline       = Palazzo dei Papi Viterbo.jpg 
+ | imagesize           =  
+ | image_alt           = Palazzo del Papi, Viterbo 
+ | image_caption       = ''Palazzo del Papi'', Viterbo 
+ | image_flag          = Flag of Viterbo.svg 
+ | image_shield        = Viterbo-Stemma.svg| shield_size=65px 
+ | shield_alt          =  
+ | image_map           = Map of comune of Viterbo (province of Viterbo, region Lazio, Italy).svg 
+ | map_alt             = Viterbo in the province 
+ | map_caption         = The ''comune'' Viterbo, in red, in its province 
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates = {{coord|42|25||N|12|06||E||display=title}} 
+ | coordinates_footnotes =  
+ | region              = [[Lazio]] 
+ | province            = [[Province of Viterbo|Viterbo]] (VT) 
+ | frazioni            = see [[#Frazioni|list]] 
+ | mayor_party         =  
+ | mayor               = Leonardo Michelini < ref > {{cite web |url=http://www.comune.viterbo.it/viterbo/index.php/amministrazione-trasparente/organizzazione/105-organi-di-indirizzo-politico-amministrativo/sindaco |title=Sindaco |publisher=Comune di Viterbo |language=it |access-date=24 February 2017 |archive-date=10 June 2016 |archive-url=https://web.archive.org/web/20160610040920/http://www.comune.viterbo.it/viterbo/index.php/amministrazione-trasparente/organizzazione/105-organi-di-indirizzo-politico-amministrativo/sindaco |url-status=dead }} < /ref >    
+ | area_footnotes      =  < ref name= " area " > {{cite web|url=http://www.tuttitalia.it/lazio/71-viterbo/ |title=Comune di Viterbo |publisher=Tuttitalia.it |language=it |access-date=24 February 2017}} < /ref > 
+ | area_total_km2      = 406.23 
+ | population_footnotes =  < ref name= " pop " > {{cite web |url=http://demo.istat.it/pop2016/index.html |title=Statistiche demografiche ISTAT |publisher=Demo.istat.it |language=it |access-date=24 February 2017 |archive-date=26 June 2017 |archive-url=https://web.archive.org/web/20170626094728/http://demo.istat.it/pop2016/index.html |url-status=dead }} < /ref > 
+ | population_total    = 67173 
+ | population_as_of    = 24 February 2017 
+ | pop_density_footnotes =  
+ | population_demonym  = Viterbesi 
+ | elevation_footnotes =  < ref name= " area "  / > 
+ | elevation_m         = 326 
+ | elevation_min_m     = 86 
+ | elevation_max_m     = 896 
+ | twin1               =  
+ | twin1_country       =  
+ | saint               = [[Saint Rose of Viterbo]] 
+ | day                 = 4 September 
+ | postal_code         = 01100 
+ | area_code           = 0761 
+ | website             = {{official website|http://www.comune.viterbo.it/}} 
+ | footnotes           =  
+ }} 
+ '''Viterbo'''  is a very old [[city]] and a ''[[comune]]'' in the [[Lazio]] [[Regions of Italy|region]] of [[Central Italy]], the [[Capital city|capital]] of the [[province of Viterbo]]. 
+ 
+ The '''University of Tuscia''', established in 1979, is in the city of Viterbo. 
+ 
+ ==Geography== 
+ The ''comune'' of Viterbo has an area of {{Convert|406.23|km2|sqmi|abbr=on }}, the largest ''comune'' of the province, and its [[altitude]] is {{Convert|326|m|ft|abbr=on}} [[above sea level]]. < ref name= " area "  / > 
+ 
+ The ''comune'' borders with the  ''[[Comune|comuni]]'' [[Bagnoregio]], [[Bomarzo]], [[Canepina]], [[Caprarola]], [[Celleno]], [[Civitella d'Agliano]], [[Graffignano]], [[Marta (Italia)|Marta]], [[Monte Romano]], [[Montefiascone]], [[Ronciglione]], [[Soriano nel Cimino]], [[Tuscania]], [[Vetralla]], [[Vitorchiano]]. < ref > {{cite web|url=http://www.tuttitalia.it/lazio/71-viterbo/85-comuni-limitrofi/ |title=Comuni limitrofi a Viterbo |publisher=Tuttitalia.it |language=it |access-date=24 February 2017}} < /ref > 
+ 
+ ===''Frazioni''=== 
+ The following ''[[Frazione|frazioni]]'' ([[Hamlet (place)|hamlet]]s) are part of the ''comune'' of Viterboː Bagnaia, Fastello, Grotte Santo Stefano, La Quercia, Montecalvello, Ponte di Cetti, Roccalvecce, San Martino al Cimino, Sant'Angelo di Roccalvecce, Tobia, Vallebona. 
+ 
+ ==Population== 
+ {{As of|2016|1|1}}, there are 67,173 persons (32,186 [[male]]s and 34,987 [[female]]s) living in the ''comune'', < ref name=pop / >  for a [[population density]] of {{Pop density|67173|406.23|km2|prec=1|disp=num}} inhabitants/km². 
+ 
+ === Population evolution === 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:450 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:70000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1961 text:1961 
+  bar:1971 text:1971 
+  bar:1981 text:1981 
+  bar:1991 text:1991 
+  bar:2001 text:2001 
+  bar:2011 text:2011 
+  bar:2016 text:2016 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1961 from:0 till: 50047 
+  bar:1971 from:0 till: 54461 
+  bar:1981 from:0 till: 57632 
+  bar:1991 from:0 till: 58380 
+  bar:2001 from:0 till: 59308 
+  bar:2011 from:0 till: 63209 
+  bar:2016 from:0 till: 67173 
+ 
+ PlotData= 
+  bar:1961 at: 50047 fontsize:S text: 50,047 shift:(-12,5) 
+  bar:1971 at: 54461 fontsize:S text: 54,461 shift:(-18,5) 
+  bar:1981 at: 57632 fontsize:S text: 57,632 shift:(-18,5) 
+  bar:1991 at: 58380 fontsize:S text: 58,380 shift:(-18,5) 
+  bar:2001 at: 59308 fontsize:S text: 59,308 shift:(-18,5) 
+  bar:2011 at: 63209 fontsize:S text: 63,209 shift:(-18,5) 
+  bar:2016 at: 67173 fontsize:S text: 67,173 shift:(-18,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Gallery== 
+ < gallery > 
+ File:Palazzo dei Papi (Viterbo) 2022.jpg|The Palace of the Popes. 
+ File:Fontana di Piazza della Rocca 16.Jh Viterbo Lazio Italien Foto Wolfgang Pehlemann DSC00022.jpg|Fontana di Piazza della Rocca in Old Town Viterbo 
+ File:Duomo (Viterbo) - Esterno.jpg|St. Lawrence [[Cathedral]]. 
+ < /gallery > 
+ 
+ ==People from Viterbo== 
+ *[[Rose of Viterbo]], [[patron saint]] of the city 
+ 
+ ==Twinned and partner towns== 
+ Viterbo is [[Twin town|twinned]] with: 
+ 
+ * {{flagicon|New York}} [[Binghamton, New York]], [[United States]] 
+ * {{flagicon|New York}} [[Albany, New York]], [[United States]] 
+ * {{flagicon|São Paulo}} [[Santa Rosa de Viterbo, São Paulo]], [[Brazil]] 
+ * {{flagicon|Italy}} [[Gubbio]], [[Province of Perugia|Perugia]], [[Umbria]], Italy 
+ * {{flagicon|Italy}} [[Palmi]], [[Province of Reggio Calabria|Reggio Calabria]], [[Calabria]], Italy 
+ * {{flagicon|Italy}} [[Nola]], [[Metropolitan City of Naples|Naples]], [[Campania]], Italy 
+ * {{flagicon|Italy}} [[Sassari]], [[Province of Sassari|Sassari]], [[Sardinia]], Italy 
+ * {{flagicon|Italy}} [[Campobasso]], [[Province of Campobasso|Campobasso]], [[Molise]], Italy 
+ * {{flagicon|Massachusetts}} [[Springfield, Massachusetts]], [[United States]] 
+ 
+ ==Related pages== 
+ *[[List of communes of the Province of Viterbo]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Wikivoyage}} 
+ {{Commonscat}} 
+ *[http://www.comune.viterbo.it/ Viterbo official website] {{in lang|it}} 
+ 
+ {{Province of Viterbo}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Capital cities in Italy]] 
+ [[Category:Cities in Lazio]] 
+ [[Category:Settlements in Viterbo]]

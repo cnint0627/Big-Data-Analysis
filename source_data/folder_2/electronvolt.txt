@@ -1,0 +1,15 @@
+The '''electron-volt''' or '''electron volt''', symbol '''eV''', is used to measure [[energy]]. It is defined as the amount of energy an [[electron]] gains after being accelerated by 1 [[volt]] of electricity. [[Joule]]s are used often for energy measurement, but it is sometimes useful to use electron-volts for very small amounts of energy, such as that carried by a single [[subatomic particle]]. To convert joules into electron-volts, divide joules by the charge of an [[electron]], which is about 1.602{{e|−19}} [[coulomb]]. 
+ 
+ E.g. 5 J = 5/1.602{{e|−19}}  < br / >  5 J = 3.121{{e|+19}} eV. 
+ 
+ The electronvolt is often used in [[atomic physics|atomic]], [[Nuclear physics|nuclear]] and [[particle physics]]. For example, the energy of [[photon]]s can be measured by the voltage necessary to overcome their [[photoelectric effect]]. 
+ 
+ == Other websites == 
+ * [http://www.unitconversion.org/energy/joules-to-electron-volts-conversion.html Conversion Tool] 
+ * [http://en.citizendium.org/wiki/Electronvolt Electronvolt] Citizendium 
+ 
+ {{SI units}} 
+ {{physics-stub}} 
+ 
+ [[Category:Units of energy]] 
+ [[Category:Physics]]

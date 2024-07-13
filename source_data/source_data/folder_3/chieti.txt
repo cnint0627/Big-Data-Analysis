@@ -1,0 +1,136 @@
+{{Infobox Italian comune 
+ | name                = Chieti 
+ | official_name       = Città di Chieti 
+ | native_name         =  
+ | image_skyline       = Chieti 01 (RaBoe).jpg 
+ | imagesize           =  
+ | image_alt           = Panorama of Fermo 
+ | image_caption       = View of Fermo. 
+ | image_flag          = Flag of Chieti.svg 
+ | image_shield        = Chieti-Stemma.svg 
+ | shield_alt          =  
+ | image_map           =  
+ | map_alt             =  
+ | map_caption         =  
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates = {{coord|42|21||N|14|10||E||display=title}} 
+ | coordinates_footnotes =  
+ | region              = [[Abruzzo]] 
+ | province            = [[Province of Chieti|Chieti]] (CH) 
+ | frazioni            = see [[#Frazioni|list]] 
+ | mayor_party         =  
+ | mayor               = Umberto Di Primio < ref > {{cite web |url=http://www.comune.chieti.gov.it/index.php/amministrazione/il-sindaco.html |title=Il Sindaco |publisher=Comune di Chieti |language=Italian |accessdate=30 October 2017 |archive-date=22 October 2017 |archive-url=https://web.archive.org/web/20171022031226/http://www.comune.chieti.gov.it/index.php/amministrazione/il-sindaco.html |url-status=dead }} < /ref > 
+ | area_footnotes      =  < ref name= " area " > {{cite web|url=http://www.tuttitalia.it/abruzzo/90-chieti/ |title=Comune di Chieti |publisher=Tuttitalia.it |language=Italian |accessdate=30 October 2017}} < /ref > 
+ | area_total_km2      = 59.57 
+ | population_footnotes =  < ref name= " pop " > {{cite web |url=http://demo.istat.it/pop2017/index.html |title=Statistiche demografiche ISTAT |publisher=Demo.istat.it |language=Italian |accessdate=30 October 2017 |archive-date=3 January 2018 |archive-url=https://web.archive.org/web/20180103163404/http://demo.istat.it/pop2017/index.html |url-status=dead }} < /ref > 
+ | population_total    = 51330 
+ | population_as_of    = 1 January 2017 
+ | pop_density_footnotes =  
+ | population_demonym  = Chietini/Teatini 
+ | elevation_footnotes = < ref name= " area "  / > 
+ | elevation_m         = 330 
+ | elevation_min_m     = 12 
+ | elevation_max_m     = 348 
+ | twin1               =  
+ | twin1_country       =  
+ | saint               = St. [[Justin of Chieti]] 
+ | day                 = 11 May 
+ | postal_code         = 66100 
+ | area_code           = 0871 
+ | website             = {{official website|http://www.comune.chieti.gov.it/}} 
+ | footnotes           =  
+ }} 
+ '''Chieti''' is a city and ''[[comune]]'' in [[Southern Italy]], {{convert|200|km|0|abbr=off}} east by northeast of [[Rome]]. It is the capital of the [[province of Chieti]] in the [[Abruzzo|Abruzzo region]]. 
+ 
+ Chieti is on a hill between the [[Aterno-Pescara]] and the Alento rivers and is near the [[coast]] of the [[Adriatic Sea]] and the [[mountain]]s. 
+ 
+ ==Geography== 
+ Chieti is in the central eastern part of the Abruzzo, at an [[average]] [[altitude]] of {{Convert|330|m|ft|abbr=on}} [[above sea level]]. It is on a [[hill]] that separates the [[Drainage basin|watershed]]s of the [[Aterno-Pescara]] river (to the north) and of the Alentro [[stream]] (to the south). The ''[[comune]]'' has an area of {{Convert|59.57|km2|sqmi|abbr=on }}. < ref name= " area "  / > 
+ 
+ The city is formed by two main parts: 
+ * ''Chieti alta'' is the oldest part of the city and includes the [[History|historical]] centre that is on the hill. 
+ * ''Chieti Scalo'' is the newest part of the city and is in the [[valley]] to the north of the hill, on the right side of the Aterno-Pescara river. 
+ 
+ The ''comune'' is surrounded by the ''comuni'' [[Bucchianico]], [[Casalincontrada]], [[Cepagatti]] (PE), [[Francavilla al Mare]], [[Manoppello]] (PE), [[Pescara]] (PE), [[Ripa Teatina]], [[Rosciano]] (PE), [[San Giovanni Teatino]] and [[Torrevecchia Teatina]]. < ref > {{cite web|url=http://www.tuttitalia.it/abruzzo/90-chieti/92-comuni-limitrofi/ |title=Comuni limitrofi a Chieti |publisher=Tuttitalia.it |language=Italian |accessdate=30 October 2017}} < /ref > 
+ 
+ ===''Frazioni''=== 
+ The following ''[[Frazione|frazioni]]'' ([[Hamlet (place)|hamlet]]s) are part of Chietiː Bascelli, Brecciarola, Buonconsiglio-Fontanella, Carabba, Chieti Scalo, Colle Marcone, Crocifisso, De Laurentis Vallelunga, Fonte Cruciani, Iachini, La Torre, San Martino, San Salvatore, Levante, Tricalle, Sant'Anna, Santa Barbara, Santa Filomena, Selvaiezzi, Vacrone Cascini, Vacrone Colle San Paolo, Vacrone Villa Cisterna, Vallepara, Villa Obletter, Villa Reale. 
+ 
+ ==Population== 
+ The people from Chieti are called ''Chietini'' but also ''Teatini'' after the old name of the city ({{lang-lat|Teate}}). 
+ 
+ {{As of|2017|1|1}}, there are 51,330 persons living in the ''comune'', < ref name=pop / >  for a [[population density]] of {{Pop density|51330|59.57|km2|prec=1|disp=num}} inhabitants/km². 
+ 
+ '''Evolution of the population''' 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:60000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:5000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:2500 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1961 text:1961 
+  bar:1971 text:1971 
+  bar:1981 text:1981 
+  bar:1991 text:1991 
+  bar:2001 text:2001 
+  bar:2011 text:2011 
+  bar:2016 text:2016 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+   bar:1961 from:0 till: 47792 
+   bar:1971 from:0 till: 51436 
+   bar:1981 from:0 till: 54927 
+   bar:1991 from:0 till: 55876 
+   bar:2001 from:0 till: 52486 
+   bar:2011 from:0 till: 51484 
+   bar:2016 from:0 till: 51330 
+ 
+ PlotData= 
+   bar:1961 at: 47792 fontsize:S text: 47,792 shift:(-13,1) 
+   bar:1971 at: 51436 fontsize:S text: 51,436 shift:(-18,5) 
+   bar:1981 at: 54927 fontsize:S text: 54,927 shift:(-18,5) 
+   bar:1991 at: 55876 fontsize:S text: 55,876 shift:(-18,5) 
+   bar:2001 at: 52486 fontsize:S text: 52,486 shift:(-18,4) 
+   bar:2011 at: 51484 fontsize:S text: 51,484 shift:(-18,8) 
+   bar:2016 at: 51330 fontsize:S text: 51,330 shift:(-18,8) 
+ < /timeline > 
+ < /center > 
+ 
+ == Gallery == 
+ < gallery mode= " packed " > 
+ File:Palazzo del Tribunale Chieti.jpg|Justice Palace. 
+ File:Palazzo Fasoli Chieti.jpg|''Palazzo Fasoli''. 
+ File:Museo archeologico nazionale d'Abruzzo 01.jpg|The National Archaeological Museum of Abruzzo. 
+ File:Teatro Marrucino-palco II (Chieti).jpg|Teatro Marrucino. 
+ File:Corso Marrucino, Chieti.JPG|Corso Marrucino, the main street of the old town. 
+ < /gallery > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{commons category|Chieti}} 
+ *{{wikivoyage-inline|Chieti}} 
+ *[http://www.comune.chieti.gov.it/ Chieti official website] {{Webarchive|url=https://web.archive.org/web/20171106013654/http://www.comune.chieti.gov.it/ |date=2017-11-06 }} {{in lang|it}} 
+ {{Province of Chieti}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Chieti| ]] 
+ [[Category:Capital cities in Italy]]

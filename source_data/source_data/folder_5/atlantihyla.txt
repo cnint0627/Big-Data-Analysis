@@ -1,0 +1,40 @@
+{{Automatic taxobox 
+ | image = Ptychohyla spinipollex02.jpeg 
+ | image_caption = ''[[Ceiba stream frog|Atlantihyla spinipollex]]'' 
+ | taxon = Atlantihyla 
+ | authority = Faivovich et al., 2018 < ref name= " Faivovich et al. 2018 " / > 
+ | type_species = ''[[Ceiba stream frog|Hyla spinipollex]]'' 
+ | type_species_authority = [[Karl Patterson Schmidt|K. P. Schmidt]], 1936 
+ | subdivision_ranks = Species 
+ | subdivision = 3 species (see [[#Species|text]]) 
+ }} 
+ 
+ '''''Atlantihyla''''' is a [[genus]] of [[Frog|frogs]] in the family [[Hylidae]]. < ref name=Frost/ > < ref name=AmphibiaWeb/ >  These frogs [[endemic|live in]] [[Honduras]] and [[Guatemala]] in Central America. < ref name=Frost/ >  Scientists named these frogs ''Atlantihyla'' because they live on the east side of the [[isthmus|narrow piece of land]], which is the same side as the Atlantic Ocean. < ref name= " Faivovich et al. 2018 " / >  These frogs are named '''[[Stream frog (disambiguation)|stream frogs]]''' in English. 
+ 
+ ==Taxonomy== 
+ Scientists made the genus using [[molecular data|information about DNA]]. Julián Faivovich and colleagues looked at the subfamily [[Hylinae]] in 2018. They moved two former ''Ptychohyla'' species to ''Atlantihyla'' and four former ''Ptychohyla'' species to  ''[[Quilticohyla]].'' ''Atlantihyla'' is a [[sister group]] with ''[[Bromeliohyla]]'', ''[[Duellmanohyla]]'', and ''Quilticohyla''. < ref name= " Faivovich et al. 2018 " / >  A third ''Atlantihyla'' species was described in 2020. < ref name= " Townsend et al. 2020 " / > 
+ 
+ ==Description== 
+ These frogs only look alike in one way: They have a white stripe on the sides of their bodies and a ridge on their backs. < ref name= " Faivovich et al. 2018 " / >  Adult male frogs are {{convert|30|-|41|mm|in|1|abbr=on}} and adult female frogs are {{convert|31|-|46|mm|in|1|abbr=on}} long [[snout–vent length|from nose to rear end]]. < ref name= " Faivovich et al. 2018 " / > < ref name= " Townsend et al. 2020 " / >  The [[tadpole]]s have large mouth discs. < ref name= " Faivovich et al. 2018 " / > 
+ 
+ == Species == 
+ There are three species in this genus: < ref name=Frost/ > 
+ * ''[[Atlantihyla melissa]]''  < small > Townsend, Herrera-B., Hofmann, Luque-Montes, Ross, Dudek, Krygeris, Duchamp, and Wilson, 2020 < /small > < ref name= " Townsend et al. 2020 " / > 
+ * ''[[Guatemala stream frog|Atlantihyla panchoi]]''  < small > (Duellman and Campbell, 1982) < /small >  – Guatemala stream frog 
+ * ''[[Ceiba stream frog|Atlantihyla spinipollex]]''  < small > (K. P. Schmidt, 1936) < /small >  – Ceiba stream frog 
+ 
+ [[AmphibiaWeb]] says this genus is monotypic, with ''Atlantihyla melissa'' as the only species in it. < ref name=AmphibiaWeb/ > 
+ 
+ == References == 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=http://amphibiaweb.org/lists/Hylidae.shtml |title=Hylidae |year=2020 |work=AmphibiaWeb |publisher=University of California, Berkeley |access-date=21 December 2020}} < /ref > 
+ 
+ < ref name= " Faivovich et al. 2018 " > {{cite journal |last1=Faivovich |first1=Julián |last2=Pereyra |first2=Martín O. |last3=Luna |first3=María Celeste |last4=Hertz |first4=Andreas |last5=Blotto |first5=Boris L. |last6=Vásquez-Almazán |first6=Carlos R. |last7=McCranie |first7=James R. |last8=Sánchez |first8=David A. |last9=Baêta |first9=Délio |last10=Araujo-Vieira |first10=Katyuscia |last11=Köhler |first11=Gunther |last12=Kubicki |first12=Brian |last13=Campbell |first13=Jonathan A. |last14=Frost |first14=Darrel R. |last15=Wheeler |first15=Ward C. |last16=Haddad |first16=Célio F.B. |name-list-style=amp |date=2018 |title=On the monophyly and relationships of several genera of Hylini (Anura: Hylidae: Hylinae), with comments on recent taxonomic changes in hylids |journal=South American Journal of Herpetology |volume=13 |issue=1 |pages=1–32 |doi=10.2994/sajh-d-17-00115.1|hdl=11336/94370 |s2cid=90074090 }} < /ref > 
+ 
+ < ref name=Frost > {{cite web |url=https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Hylinae/Atlantihyla |title=''Atlantihyla'' Faivovich, Pereyra, Luna, Hertz, Blotto, Vásquez-Almazán, McCranie, Sánchez, Baêta, Araujo-Vieira, Köhler, Kubicki, Campbell, Frost, Wheeler, and Haddad, 2018 |author=Frost, Darrel R. |year=2020 |work=Amphibian Species of the World: an Online Reference. Version 6.1 |publisher=American Museum of Natural History |doi=10.5531/db.vz.0001 |access-date=19 December 2020}} < /ref > 
+ 
+ < ref name= " Townsend et al. 2020 " > {{Cite journal|last1=Townsend|first1=Josiah H.|last2=Herrera-B.|first2=Luis A.|last3=Hofmann|first3=Erich P.|last4=Luque-Montess|first4=Ileana R.|last5=Ross|first5=Ayla N.|last6=Dudek Jr.|first6=Daniel|last7=Krygeris|first7=Catherine|last8=Duchamp|first8=Joseph E.|last9=Wilson|first9=Larry David |name-list-style=amp |date=2020|title=A critically endangered new species of polymorphic stream frog (Anura: Hylidae: ''Atlantihyla'') from the montane rainforest of Refugio de Vida Silvestre Texiguat, Honduras |journal=Vertebrate Zoology |volume=70 |issue=4 |pages=731–756 |url=https://www.senckenberg.de/de/wissenschaft/publikationen/wissenschaftliche-zeitschriften/vertebrate-zoology/archiv/vz-70-4-12/ |doi=10.26049/VZ70-4-2020-12}} < /ref > 
+ }} 
+ 
+ {{Taxonbar|from=Q85094556}} 
+ [[Category:Frogs of North America]]

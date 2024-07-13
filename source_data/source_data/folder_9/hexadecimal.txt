@@ -1,0 +1,196 @@
+The '''hexadecimal numeral system''', often shortened to ''' " hex " ''', is a [[numeral system]] made up of 16 symbols ([[base (mathematics)|base]] 16).  The standard numeral system is called [[decimal numeral system|decimal]] (base 10) and uses ten symbols: 0,1,2,3,4,5,6,7,8,9.  Hexadecimal uses the decimal numbers and six extra symbols. There are no numerical symbols that represent values greater than nine, so letters taken from the [[Roman alphabet|English alphabet]] are used, specifically A, B, C, D, E and F.  Hexadecimal A = decimal 10, and hexadecimal F = decimal 15.  
+ 
+ Humans mostly use the decimal (base 10) system where each digit can have one of ten values between zero and ten.  This is probably because humans have ten fingers on their hands. Computers generally represent numbers in [[binary number|binary]] (base 2).  In binary, each  " binary digit "  is called a bit and can only have one of two values: one or zero.   Since a single bit's two possible values represents one fifth the information potentially conveyed by of decimal digit's ten possible values, binary representations of integer values can require many more (binary) bits than decimal digits.    
+ 
+ For example, the three digit decimal value 219 requires eight bits to be represented in binary (11011011).  Humans find reading, remembering, and typing long strings of bits inconvenient. Hexadecimal allows groups of four bits to be more conveniently represented by a single  " hex "  digit, so the eight bit binary value 11011011 only requires two hexadecimal digits  " DB. "   
+ 
+ Computer memory is organized as an array of strings of bits called [[byte]] < nowiki/ > s.   On modern computers, each byte generally contains eight bits, which can be conveniently be represented as two hexadecimal digits.   Engineers and computer scientists frequently refer to each of these four-bit values as a nibble (sometimes spelled nybble, see [[computer jargon]]). 
+ 
+ To avoid confusion with decimal, octal or other numbering systems, hexadecimal numbers are sometimes written with a  " h "  after or  " 0x "  before the number. For example, 63h and 0x63 mean 63 hexadecimal.  
+ 
+ == History == 
+ Unlike modern computers, many early computers had six-bit bytes.   Programmers of those systems typically used an alternate bit grouping scheme called [[octal numeral system|octal]].  Each octal digit efficiently represents three bits, and a six-bit byte can be represented as two octal digits.  Three bits, each being on or off, can represent the eight numbers from 0 to 7: 000 = 0; 001 = 1; 010 = 2; 011 = 3; 100 = 4; 101 = 5; 110 = 6 and 111 = 7. 
+ 
+ == Hexadecimal values == 
+ Hexadecimal is similar to the [[octal]] numeral system (base 8) because each can be easily compared to the [[binary numeral system]]. Hexadecimal uses a four-[[bit]] binary coding. This means that each [[digit]] in hexadecimal is the same as four digits in binary. Octal uses a three-bit binary system.   
+ 
+ In the [[decimal]] system, the first digit is the ''one's'' place, the next digit to the left is the ''ten's'' place, the next is the ''hundred's'' place, etc.  In hexadecimal, each digit can be 16 values, not 10.  This means the digits have the ''one's'' place, the ''sixteen's'' place, and the next one is the ''256's'' place. So 1h = 1 decimal, 10h = 16 decimal, and 100h = 256 in decimal. 
+ 
+ Example values of hexadecimal numbers converted into binary, octal and decimal. 
+ 
+ {|  
+ |valign=top| 
+ {| class=wikitable 
+ !Hex!!Binary!!Octal!!Decimal 
+ |- 
+ |align=right|0||align=right|0||align=right|0||align=right|0 
+ |- 
+ |align=right|1||align=right|1||align=right|1||align=right|1 
+ |- 
+ |align=right|2||align=right|10||align=right|2||align=right|2 
+ |- 
+ |align=right|3||align=right|11||align=right|3||align=right|3 
+ |- 
+ |align=right|4||align=right|100||align=right|4||align=right|4 
+ |- 
+ |align=right|5||align=right|101||align=right|5||align=right|5 
+ |- 
+ |align=right|6||align=right|110||align=right|6||align=right|6 
+ |- 
+ |align=right|7||align=right|111||align=right|7||align=right|7 
+ |- 
+ |align=right|8||align=right|1000||align=right|10||align=right|8 
+ |- 
+ |align=right|9||align=right|1001||align=right|11||align=right|9 
+ |- 
+ |align=right|A||align=right|1010||align=right|12||align=right|10 
+ |- 
+ |align=right|B||align=right|1011||align=right|13||align=right|11 
+ |- 
+ |align=right|C||align=right|1100||align=right|14||align=right|12 
+ |- 
+ |align=right|D||align=right|1101||align=right|15||align=right|13 
+ |- 
+ |align=right|E||align=right|1110||align=right|16||align=right|14 
+ |- 
+ |align=right|F||align=right|1111||align=right|17||align=right|15 
+ |- 
+ |align=right|10||align=right|1 0000||align=right|20||align=right|16 
+ |- 
+ |align=right|11||align=right|1 0001||align=right|21||align=right|17 
+ |- 
+ |align=right|24||align=right|10 0100||align=right|44||align=right|36 
+ |- 
+ |align=right|5E||align=right|101 1110||align=right|136||align=right|94 
+ |- 
+ |align=right|100||align=right|1 0000 0000||align=right|400||align=right|256 
+ |- 
+ |align=right|3E8||align=right|11 1110 1000||align=right|1750||align=right|1000 
+ |- 
+ |align=right|1000||align=right|1 0000 0000 0000 ||align=right|10000||align=right|4096 
+ |- 
+ |align=right|FACE||align=right|1111 1010 1100 1110||align=right|175316||align=right|64206 
+ |} 
+ |} 
+ 
+ == Conversion == 
+ === Binary to hexadecimal === 
+ Changing a number from binary to hex uses a grouping method. The binary number is separated into groups of four digits starting from the right.  These groups are then converted to hexadecimal digits as shown in the chart above for the hexadecimal numbers 0 through F. To change from hexadecimal, the reverse is done. The hex digits are each changed to binary and the grouping is usually removed.    
+ {| class=wikitable 
+ !Binary!!colspan=4|Groupings!!Hex 
+ |- 
+ |align=right|01100101|| || ||0110||0101||align=right|65 
+ |- 
+ |align=right|010010110110|| ||0100 ||1011||0110||align=right|4B6 
+ |- 
+ |align=right|1101011101011010||1101||0111||0101||1010||align=right|D75A 
+ |} 
+ 
+ When the quantity of bits in a binary numbers is not a multiple of 4, it is padded with zeros to make it so. Examples: 
+ 
+ * binary 110 = 0110, which is 6 Hex. 
+ * binary 010010 = 00010010, which is 12 Hex. 
+ 
+ ===Hexadecimal to decimal=== 
+ To convert a number from hexadecimal to decimal, there are two common ways. 
+ 
+ The first method is more commonly done when converting it manually: 
+ 
+ # Use the decimal value for each hexadecimal digit.  For 0-9, it is the same, but A = 10, B = 11, C = 12, D = 13, E = 14, and F = 15. 
+ # Keep a sum of the numbers converted at each step below. 
+ # Start with the least significant hexadecimal digit. That is the digit on the right end. This will be the first item in a sum. 
+ # Take the second-least significant digit. That is next to the digit on the right end. Multiply the decimal value of the digit by 16. Add this to the sum. 
+ # Do the same for the third-least significant digit, but multiply it by 16 < sup > 2 < /sup >  (that is, 16 [[square (mathematics)|squared]], or 256). Add it to the sum. 
+ # Continue for each digit, multiplying each place by another power of 16.  (4096, 65536, etc.) 
+ 
+ {|class=wikitable 
+ !rowspan=2| & nbsp;!!colspan=6|Location 
+ |- align=center 
+ |width=65|6 ||width=65|5 ||width=65|4 ||width=65|3 ||width=65|2 ||width=65|1 
+ |- align=center 
+ !Value 
+ ||1048576 (16 < sup > 5 < /sup > )|| 65536 (16 < sup > 4 < /sup > )|| 4096 (16 < sup > 3 < /sup > )|| 256 (16 < sup > 2 < /sup > )|| 16(16 < sup > 1 < /sup > )||1 (16 < sup > 0 < /sup > ) 
+ |} 
+ 
+ 
+ The next method is more commonly done when converting a number in software.  It does not need to know how many digits the number has before it starts, and it never multiplies by more than 16, but it looks longer on paper. 
+ 
+ # Use the decimal value for each hexadecimal digit.  For 0-9, it is the same, but A = 10, B = 11, C = 12, D = 13, E = 14, and F = 15. 
+ # Keep a sum of the numbers converted at each step below. 
+ # Start with the most significant digit (the digit on the far left).  This is the first item in the sum. 
+ # If another digit exists, multiply the sum by 16 and add the decimal value of the next digit. 
+ # Repeat the above step until there are no more digits. 
+ 
+ 
+ '''Example:''' 5Fh and 3425h to decimal, method 1 
+ {| 
+ |width=20| & nbsp; 
+ | 
+ {| style=  " border: 1px #999 solid " 
+ |+ 5Fh to decimal 
+ |- align=center 
+ !Hex!!!!Decimal 
+ |- 
+ |rowspan=2 valign=top|5Fh ||=|| ( 5 x 16 ) ||+|| ( 15 x 1 ) 
+ |- align=center 
+ |=|| 80 ||+|| 15 
+ |- 
+ |5Fh||=||95 
+ |} 
+ |width=20| & nbsp; 
+ | 
+ {| style=  " border: 1px #999 solid " 
+ |+ 3425h to decimal 
+ |- align=center 
+ !Hex!!!!Decimal 
+ |- 
+ |rowspan=2 valign=top|3425h ||=|| ( 3 x 4096 ) ||+|| ( 4 x 256 ) ||+|| ( 2 x 16) ||+|| ( 5 x 1 ) 
+ |- align=center 
+ |=|| 12288 ||+|| 1024 ||+|| 32 ||+|| 5 
+ |- 
+ |3425h||=||13349 
+ |} 
+ |} 
+ 
+ '''Example:''' 5Fh and 3425h to decimal, method 2 
+ {| 
+ |width=20| & nbsp; 
+ | 
+ {| style=  " border: 1px #999 solid " 
+ |+ 5Fh to decimal 
+ |- align=center 
+ !Hex!!!!Decimal 
+ |- 
+ |rowspan=2 valign=top|sum ||=|| 5|| 
+ |- 
+ |=||(5 x 16) + 15 
+ |- 
+ |sum||=||80 + 15 (no more digits) 
+ |- 
+ |5Fh||=||95 
+ |} 
+ |width=20| & nbsp; 
+ | 
+ {| style=  " border: 1px #999 solid " 
+ |+ 3425h to decimal 
+ |- align=center 
+ !Hex!!!!Decimal 
+ |- 
+ |rowspan=2 valign=top|sum ||=|| 3 
+ |- 
+ |=|| (3 x 16) + 4 = 52 
+ |- 
+ |sum||=|| (52 x 16) + 2 = 834 
+ |- 
+ |sum||=|| (834 x 16) + 5 = 13349 
+ |- 
+ |3425h||=||13349 
+ |} 
+ |} 
+ 
+ ==Related pages== 
+ *[[Binary numeral system]] 
+ *[[Octal numeral system]] 
+ *[[Decimal numeral system]] 
+ 
+ [[Category:Numbering systems]]

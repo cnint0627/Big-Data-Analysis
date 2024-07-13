@@ -1,0 +1,29 @@
+In [[mathematics]], '''integers''' are whole numbers ([[natural numbers]], their negatives and [[zero]]). < ref > Negative numbers have a [[:wikt:minus|minus]] (−) in front of the number. Positive numbers have no sign or a [[:wikt:plus|plus]] (+) sign in front. Zero usually has no sign. < /ref >  Integers can also be shown on a number line like this: 
+ 
+ < math > {...-4, -3, -2, -1, 0, +1, +2, +3, +4,...}\,\! < /math > 
+ 
+ In particular, zero or 0 is an integer that is neither positive nor negative. An integer is a whole number with no fractional or decimal part. 
+ 
+ Integers have no smallest or largest value because for any given integer, there is always a larger and smaller integer. Any integer is either greater than or smaller than any other integer. [[Consecutive integer]]s are integers that come after each other (as in  < math > {1, 2, 3, 4} < /math > ). 
+ 
+ The sum, difference and product of integers is always an integer.(for example, (12 + 2345 × (67 - 8)) × 9 is an integer). An integer divided by an integer is sometimes not an integer (for example, 1 ÷ 2 = 0.5). 
+ 
+ < math > \mathbf{Z} < /math >  or  < math > \mathbb{Z} < /math >  is the name of the [[set]] of integers, and  < math > \mathbb{Z}_+\! < /math >  is the set of positive integers. < ref > {{Cite web|date=2020-03-25|title=Comprehensive List of Algebra Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/|access-date=2020-08-11|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Integer|url=https://mathworld.wolfram.com/Integer.html|access-date=2020-08-11|website=mathworld.wolfram.com|language=en}} < /ref >  ( < math > \mathbf{Z} < /math > , +, 0) is an [[abelian group]]. 
+ 
+ The number of integers is [[infinite]]. The [[cardinal number]] of  < math > \mathbf{Z} < /math >  is  < math > \aleph_0 < /math > . The [[ordinal number]] of  < math > \mathbf{Z} < /math >  is  < math > ^*\omega + \omega < /math > . 
+ 
+ To sum up, an integer is a whole number that has no decimals. 
+ 
+ == In programming                                                                                                                             == 
+ 
+ In some [[programming language]]s, like [[C (programming language)|C]], there are types called  " int "  or  " integer. " 
+ 
+ == Notes                                                                                                                                                                          == 
+ < references/ > 
+ 
+ 
+ {{Math-stub}} 
+ 
+ 
+ [[Category:Number theory]] 
+ [[Category:Integers| ]]

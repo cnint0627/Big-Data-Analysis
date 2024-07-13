@@ -1,0 +1,22 @@
+[[Image:Circle - black simple.svg|thumb|Circumference of a circle]] 
+ In [[geometry]], circumference is the distance around a closed curve; for example, a [[circle]]. It is a special kind of [[perimeter]]. The length of the circumference of a circle is often written as  < math > C < /math > , < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-24|website=Math Vault|language=en-US}} < /ref >  with: < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Circle|url=https://mathworld.wolfram.com/Circle.html|access-date=2020-09-24|website=mathworld.wolfram.com|language=en}} < /ref > < ref > {{Cite web|title=Radius, diameter,  &  circumference {{!}} Circles (article)|url=https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/a/radius-diameter-circumference|access-date=2020-09-24|website=Khan Academy|language=en}} < /ref > 
+ : < math > C= \pi d < /math > 
+ where ''d'' is the [[diameter]] of the circle. 
+ 
+ == Related pages == 
+ 
+ * [[Radius]] 
+ * [[Pi]] 
+ 
+ == References == 
+ < references / > 
+ 
+ == Other websites == 
+ {{wiktionary}} 
+ * [http://www.numericana.com/answer/ellipse.htm#elliptic Numericana - Circumference of an ellipse] 
+ *[http://www.mathopenref.com/circumference.html Circumference of a circle] With interactive applet and animation 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Geometry]]

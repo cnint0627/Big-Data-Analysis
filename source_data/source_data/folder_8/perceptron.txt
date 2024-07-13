@@ -1,0 +1,13 @@
+In [[machine learning]], the '''perceptron''' (or '''McCulloch-Pitts neuron''') is an [[algorithm]] to separate two categories of data with a straight boundary. A list of numbers called the weights describe the boundary. 
+ 
+ == History == 
+ Warren McCulloch and Walter Pitts thought of the perceptron in 1943. < ref > {{Cite journal|last=McCulloch|first=Warren S.|last2=Pitts|first2=Walter|date=December 1943|title=A logical calculus of the ideas immanent in nervous activity|url=http://link.springer.com/10.1007/BF02478259|journal=The Bulletin of Mathematical Biophysics|language=en|volume=5|issue=4|pages=115–133|doi=10.1007/BF02478259|issn=0007-4985}} < /ref >  Frank Rosenblatt built the first perceptron in 1958. < ref > {{Cite web|last=Marcus|first=Gary|date=2013-12-31|title=Hyping Artificial Intelligence, Yet Again|url=https://www.newyorker.com/tech/annals-of-technology/hyping-artificial-intelligence-yet-again|access-date=2023-04-14|website=The New Yorker|language=en-US}} < /ref > 
+ 
+ == Definition == 
+ The algorithm calculates the [[inner product]] of a data point and a list of numbers called the weights and then adds another number called the bias. It will group the negative numbers and the positive numbers separately. The algorithm only works if the two groups can be divided with a straight boundary. The groups of data are on opposite sides of the boundary. < ref > {{Citation|last=Murty|first=M. N.|title=Perceptron|date=2016|url=http://link.springer.com/10.1007/978-3-319-41063-0_3|work=Support Vector Machines and Perceptrons|pages=27–40|place=Cham|publisher=Springer International Publishing|language=en|doi=10.1007/978-3-319-41063-0_3|isbn=978-3-319-41062-3|access-date=2023-04-15|last2=Raghava|first2=Rashmi}} < /ref >   It can be written as  < math > \operatorname{sign}(\textbf{w} \cdot \textbf{x} + b) < /math >  where  < math > \mathbf{w} < /math >  is the weights,  < math > \mathbf{x} < /math >  is the data point, and  < math > b < /math >  is the bias. < ref > {{Citation|last=Vazirani|title=U.C. Berkeley – CS 270: Algorithms – Lecture 8|url=https://people.eecs.berkeley.edu/~satishr/cs270/sp11/rough-notes/perceptron.pdf|language=en|last2=Rao}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ [[Category:Algorithms]] 
+ 
+ {{tech-stub}}

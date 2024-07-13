@@ -1,0 +1,34 @@
+In [[organic chemistry]] and [[biochemistry]], '''substituent''' is the name for a single [[atom]] or for a group of atoms that take the position of another atom in a [[molecule]]. They replace this atom. This [[chemical reaction|reaction]] is called a [[substitution reaction]]. The atom or group of atoms that gets replaced is called the [[leaving group]]. 
+   
+ The terms '''substituent''', '''side chain''', '''group''', '''branch''', or '''[[pendant group]]''' are used in the same way to describe [[branch]]es from a parent [[structure]]. < ref > {{cite book|title=Organic Chemistry Demystified|url=https://books.google.com/books?id=yVPcSIn5xjAC & pg=PT88|author=D.R. Bloch|year=2006| publisher=Mcgraw-hill |isbn = 9780071459204}} < /ref >  These terms have different meanings in [[polymer]] chemistry. < ref > {{cite journal|url=http://goldbook.iupac.org/src_PAC1996682287.html|title=PAC, 1996, 68, 2287. Glossary of basic terms in polymer science (IUPAC Recommendations 1996)|doi=10.1351/pac199668122287|publisher=IUPAC Gold Book|s2cid=98774337}}  This distinguishes a ''pendant group'' as neither oligomeric nor polymeric, whereas a ''pendant chain'' must be oligomeric or polymeric. < /ref >   In [[polymers]], side chains extend from a backbone structure, while they are [[wikt:attach|attached]] to the [[alpha carbon]] atoms of the [[amino acid]] backbone in [[protein]]s.  
+ 
+ Organic chemistry has [[rules]] for naming compounds with substituent groups. The substituent group is listed first with a [[suffix]] to describe how it is attached to the main [[carbon]] chain. The suffix '''-yl''' is used when naming [[organic compound]]s that contain a [[single bond]] replacing one [[hydrogen]]. '''-ylidene''' and '''-ylidyne''' are used for [[double bond]]s and [[triple bond]]s respectively. When naming [[hydrocarbon]]s that contain a substituent, position numbers may be used. These number will indicate which carbon atom the substituent is attached to. One case where this information is needed is that of [[isomer]]s. 
+ 
+ The phrases '''most-substituted''' and '''least-substituted''' are often used to describe molecules and predict their products. For example: 
+ 
+ *  [[Markovnikov's rule]] predicts that the hydrogen adds to the carbon of the [[alkene]] functional group that has the greater number of hydrogen substituents. 
+ *  [[Zaitsev's rule]] predicts that the major reaction product is the alkene with the more highly substituted (more stable) double bond. 
+ == Structures == 
+ In a [[structural formula|structural diagram or formula]], the letters R or X are used to represent a substituent group. An organic substituent such as [[methyl]], [[ethyl group|ethyl]], [[aryl]] can be written as '''R''' (or R < sup > 1 < /sup > , R < sup > 2 < /sup > , etc.)  This is a generic placeholder. The ''R'' derived from ''[[Radical (chemistry)|radical]]'' or ''[[rest]]''. The R can represent as many atoms as the author wants. The first to use this symbol was [[Charles Frédéric Gerhardt]] in 1844. 
+ 
+ The symbol '''X''' can represent [[Electronegativity|electronegative]] substituents such as the [[halides]]. < ref > {{Cite journal 
+ | doi = 10.1021/ed800139p 
+ | title = Why Is  " R "  Used To Symbolize Hydrocarbon Substituents? 
+ | year = 2010 
+ | last1 = Jensen | first1 = W. B. 
+ | journal = Journal of Chemical Education 
+ | volume = 87 
+ | issue = 4 
+ | pages = 360–361  
+ | bibcode = 2010JChEd..87..360J 
+ }} < /ref > 
+ 
+ == Related pages == 
+ *[[Side chain]] 
+ * [[Functional group]]s are a subset of substituents 
+ 
+ ==References== 
+ < references/ > 
+ 
+ [[Category:Organic chemistry]] 
+ [[Category:Chemical nomenclature]]

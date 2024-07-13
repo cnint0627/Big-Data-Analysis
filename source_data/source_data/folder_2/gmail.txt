@@ -1,0 +1,40 @@
+{{Infobox website 
+ | name = Gmail 
+ | logo = Gmail icon (2020).svg 
+ | logo_size = 100 
+ | screenshot = 
+ | screenshot_size = 300 
+ | caption = A screenshot of a Gmail inbox and compose box 
+ | collapsetext = Screenshot 
+ | url = {{Official URL}} 
+ | commercial = Yes 
+ | type = [[Webmail]] 
+ | registration = Required 
+ | language = 105 languages 
+ | num_users = 1.5 billion (October 2019) < ref name= " Petrova " > {{cite web|url=https://www.cnbc.com/2019/10/26/gmail-dominates-consumer-email-with-1point5-billion-users.html|title=Gmail dominates consumer email with 1.5 billion users|last=Petrova|date=October 26, 2019|website=CNBC.com|access-date=November 19, 2019|archive-url=https://web.archive.org/web/20191117070039/https://www.cnbc.com/2019/10/26/gmail-dominates-consumer-email-with-1point5-billion-users.html|archive-date=November 17, 2019|url-status=live}} < /ref > 
+ | content_license = [[Proprietary software|Proprietary]] 
+ | programming_language = [[Java (programming language)|Java]], [[C++]] (back-end), [[JavaScript]] (UI) < ref > {{cite web |first=MG |last=Siegler |title=The Key To Gmail: Sh*t Umbrellas |url=https://techcrunch.com/2010/03/14/key-to-gmail/ |website=[[TechCrunch]] |publisher=[[AOL]] |date=March 14, 2010 |access-date=October 27, 2018 |archive-url=https://web.archive.org/web/20161022023828/https://techcrunch.com/2010/03/14/key-to-gmail/ |archive-date=October 22, 2016 |url-status=live  }} < /ref > 
+ | owner = [[Google]] 
+ | author = [[Paul Buchheit]] 
+ | launch_date = {{Start date and age|2004|4|1}} 
+ | current_status = Active 
+ }} 
+ 
+ '''Gmail''' is a free [[e-mail]] service that is run by [[Google]]. It can be accessed on the [[World Wide Web|web]], by [[POP3]], or by [[IMAP]]. Some of the competitors to Gmail are [[Yahoo|Yahoo! Mail]], [[Hotmail|Hotmail/Windows Live Mail]], and Inbox.Com. The space given to any Gmail member is increased a small amount every second, and as of July 26, 2012, Google provides each account with about 10272 [[Megabyte|MB]] of space. 
+ 
+ == Google Apps == 
+ [[Google Apps]] is a service from Google that was created in February 2006 as Gmail for your domain. It is to allow [[system administrator]]s of a company or organisation to create email accounts for their own domain. 
+ 
+ == Trademark issues == 
+ In the [[United Kingdom]] (UK), the trademark  " Gmail "  was owned by another company before Gmail by Google was started. Thus, the United Kingdom uses a domain of  " googlemail.com "  for their users, and the [[logo]] has the words of  " Google Mail "  instead of the normal  " Gmail " . 
+ 
+ In September 2009 Google began to change the branding of UK accounts back to Gmail following the resolution of the trademark dispute. < ref name= " Bradshaw21Sep09 " > {{cite web |url= http://blogs.ft.com/techblog/2009/09/the-curious-case-of-the-uks-missing-gmail |title= The curious case of the UK's missing Gmail |accessdate= 14 May 2010 |last= Bradshaw |first= Tim |date= September 2009}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [https://mail.google.com/ Gmail Website] 
+ 
+ [[Category:Google|Mail]] 
+ [[Category:E-mail]]

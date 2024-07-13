@@ -1,0 +1,12 @@
+'''MariaDB''' is a free, open source [[database]] management system [[fork (software development)|forked]] from [[Sun Microsystems]]' [[MySQL]]. It was created by MySQL's [[software developer]]s, inluding Monty Widenius. They were [[wikt:concern|concern]]ed about [[Oracle Corporation]]'s acquisition of [[Sun Microsystems]]. < ref > {{cite web |url=http://www.itworld.com/article/2881457/five-years-later-how-is-the-oracle-sun-marriage-working-out.html |title=Five years later, how is the Oracle-Sun marriage working out? |author=Andy Patrizio |date= |website= |publisher=ITWorld |accessdate=24 February 2015 |archive-date=19 February 2015 |archive-url=https://web.archive.org/web/20150219070658/http://www.itworld.com/article/2881457/five-years-later-how-is-the-oracle-sun-marriage-working-out.html |url-status=dead }} < /ref > < ref > Conrad Bessant; Darren Oakley; Ian Shadforth, ''Building Bioinformatics Solutions 2nd Edition'' (Oxford; New York: Oxford University Press, 2014), p. 50 < /ref > 
+ 
+ ==Other websites== 
+ * [https://mariadb.com/ MariaDB Corporation] 
+ * [https://mariadb.org/ MariaDB Foundation] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Databases]]

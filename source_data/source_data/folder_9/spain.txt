@@ -1,0 +1,244 @@
+{{Infobox country 
+ | conventional_long_name = Kingdom of Spain 
+ | native_name            = {{native name|es|Reino de España}} 
+ | common_name            = Spain 
+ | name                   = {{collapsible list 
+ |titlestyle = background:transparent;text-align:center;line-height:normal;font-size:84%; 
+ |title = {{resize|1.0 em|4 other names}}{{efn|name= " es lang " |In Spain, [[Languages of Spain|other languages]] are officially recognised as legitimate [[Indigenous language|autochthonous]] [[regional language|(regional) languages]] under the [[Spanish Constitution]]. In each of these, Spain's conventional long name for international affairs in Spanish laws and the most used ({{lang-es|Reino de España|links=no}}, pronounced: {{IPA-es|ˈrejno ð(e) esˈpaɲa|}}) is as follows: 
+ * {{lang-ca|Regne d'Espanya}}, {{IPA-ca|ˈreŋnə ðəsˈpaɲə|IPA}} 
+ * {{lang-eu|Espainiako Erresuma}}, {{IPA-eu|es̺paɲiako eres̺uma|IPA}} 
+ * {{lang-gl|Reino de España}}, {{IPA-gl|ˈrejnʊ ð(ɪ) esˈpaɲɐ|IPA}} 
+ * {{lang-oc|Reiaume d'Espanha}}, {{IPA-oc|reˈjawme ðesˈpaɲɔ|IPA}}}} 
+ |{{Infobox|subbox=yes|bodystyle=font-size:80%;font-weight:normal; 
+ |rowclass1 =mergedrow|label1=[[Catalan language|Catalan]]:|data1={{lang|ca|Regne d'Espanya}} 
+ |rowclass2 = mergedrow|label2=[[Basque language|Basque]]:|data2={{lang|eu|Espainiako Erresuma}} 
+ |rowclass3 = mergedrow|label3=[[Galician language|Galician]]:|data3={{lang|gl|Reino de España}} 
+ |rowclass4 = mergedrow|label4=[[Occitan language|Occitan]]:|data4={{lang|oc|Reiaume d'Espanha}} 
+ }} 
+ }} 
+ | image_flag             = Bandera de España.svg 
+ | image_coat             = Escudo de España (mazonado).svg 
+ | national_motto         = {{native phrase|la|[[Plus ultra]]}}  < br / >  {{small|(English:  " Further Beyond " )}} 
+ | national_anthem        = {{native name|es|[[Marcha Real]]|icon=yes}} < ref > {{cite web|url=http://www.boe.es/boe/dias/1997/10/11/pdfs/A29594-29600.pdf|title=Real Decreto 1560/1997, de 10 de octubre, por el que se regula el Himno Nacional|author=Presidency of the Government|work=[[Boletín Oficial del Estado]] núm. 244|date=11 October 1997|language=es|url-status=live|archive-url=https://web.archive.org/web/20150924034615/http://www.boe.es/boe/dias/1997/10/11/pdfs/A29594-29600.pdf|archive-date=24 September 2015|author-link=Government of Spain}} < /ref > < br / > {{small|(English:  " Royal March " )}} < br / >   < div style= " display:inline-block;margin-top:0.4em; " > {{center|[[File:Himno Nacional de España.ogg]]}} < /div > 
+ | image_map              = {{Switcher|[[File:EU-Spain (orthographic projection).svg|upright=1.15|frameless]]|Show globe|[[File:EU-Spain.svg|upright=1.15|frameless]]|Show map of Europe|default=2}} 
+ | map_caption            = {{map caption|location_color=dark green|region=Europe|region_color=dark grey|subregion=the [[European Union]]|subregion_color=green}} 
+ | image_map2             =  
+ | capital                = [[Madrid]] 
+ | coordinates            = {{Coord|40|26|N|3|42|W|type:city}} 
+ | largest_city           = [[Madrid]] 
+ | languages_type         = Official language 
+ | languages              = [[Spanish language|Castilian Spanish]] < !--(aka Castilian)-- > {{efn|name=c|The official language of the State is established in the Section 3 of the [[Spanish Constitution of 1978]] to be Castilian. < ref > {{cite web|url=http://www.lamoncloa.gob.es/IDIOMAS/9/Espana/LeyFundamental/index.htm|title=The Spanish Constitution|publisher=Lamoncloa.gob.es|access-date=26 April 2013|url-status=dead|archive-url=https://web.archive.org/web/20130325101204/http://www.lamoncloa.gob.es/IDIOMAS/9/Espana/LeyFundamental/index.htm|archive-date=25 March 2013}} < /ref >  In some [[autonomous communities of Spain|autonomous communities]], [[Catalan language|Catalan]], [[Galician language|Galician]], [[Basque language|Basque]] and [[Occitan language|Occitan]] (locally known as [[Aranese language|Aranese]]) are co-official languages. [[Aragonese language|Aragonese]] and [[Asturian language|Asturian]] have some degree of official recognition.}} {{small|(also in [[national language]])}} 
+ {{infobox|child=yes 
+ |label1 = Nationality {{nobold|(2020)}} 
+ |data1 = {{unbulleted list|84.8% [[Spaniards]]|15.2% [[Immigration to Spain|Others]] < ref name= " ine.es " > {{cite web|url=https://www.ine.es/jaxi/Datos.htm?path=/t20/e245/p08/l0/ & file=01006.px#!tabs-tabla|title=Instituto Nacional de Estadística. Población (españoles/extranjeros) por País de Nacimiento, sexo y año|publisher=[[Instituto Nacional de Estadística (Spain)|Instituto Nacional de Estadística]]|website=ine.es}} < /ref > }} 
+ }} 
+ | ethnic_groups          =  
+ | ethnic_groups_year     =  
+ | ethnic_groups_ref      =  
+ | religion               = {{ublist|item_style=white-space:nowrap; 
+ |57.6% [[Catholicism]] 
+ |37.7% [[Irreligion|No religion]] 
+ |2.9% [[Religion in Spain|Others]] 
+ |1.8% Unanswered 
+  }} 
+ | religion_ref           =  < ref name= " Barómetro de enero 2022 " > [[Centro de Investigaciones Sociológicas|CIS]].[http://datos.cis.es/pdf/Es3347marMT_A.pdf  " Barómetro de Enero de 2022 " ], 3,777 respondents. The question was  " ¿Cómo se define Ud. en materia religiosa: católico/a practicante, católico/a no practicante, creyente de otra religión, agnóstico/a, indiferente o no creyente, o ateo/a? " . < /ref > 
+ | religion_year          = 2022 
+ | demonym                = {{hlist|[[Spaniards|Spanish]]|Spaniard}} 
+ | government_type        = [[Unitary state|Unitary]] & nbsp;[[Parliamentary system|parliamentary]] [[constitutional monarchy]] 
+ | leader_title1          = [[Monarchy of Spain|Monarch]] 
+ | leader_name1           = [[Felipe VI]] 
+ | leader_title2          = [[Prime Minister of Spain|Prime Minister]] 
+ | leader_name2           = [[Pedro Sánchez]] 
+ | legislature            = [[Cortes Generales]] 
+ | upper_house            = [[Senate of Spain|Senate]] 
+ | lower_house            = [[Congress of Deputies]] 
+ | sovereignty_type       = [[History of Spain|Formation]] 
+ | established_event1     = [[Catholic Monarchs of Spain|''De facto'']] 
+ | established_date1      = 20 January 1479 
+ | established_event2     = ''[[Nueva Planta decrees|De jure]]'' 
+ | established_date2      = 9 June 1715 
+ | established_event3     = [[Spanish Constitution of 1812|First constitution]] 
+ | established_date3      = 19 March 1812 
+ | established_event4     = [[Francoist Spain]] 
+ | established_date4      = 1 April 1939–1978 
+ | established_event5     = {{nowrap|[[Spanish transition to democracy|Current democracy]]}} 
+ | established_date5      = [[Spanish Constitution of 1978|29 December 1978]] 
+ | established_event6     = {{nowrap|[[Enlargement of the European Union#Mediterranean enlargements|EEC accession]]}}{{efn|[[European Union]] (EU) since 1993.}} 
+ | established_date6      = 1 January 1986 
+ | area_km2               = 505,990 < ref > {{cite web|title=Anuario estadístico de España 2008. 1ª parte: entorno físico y medio ambiente|url=http://www.ine.es/prodyser/pubweb/anuario08/anu08_01entor.pdf|website=Instituto Nacional de Estadística (Spain)|access-date=14 April 2015|url-status=live|archive-url=https://web.archive.org/web/20150924144913/http://www.ine.es/prodyser/pubweb/anuario08/anu08_01entor.pdf|archive-date=24 September 2015}} < /ref > 
+ | area_rank              = 51st 
+ | area_sq_mi             = 195,364  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | percent_water          = 0.89 (2015) < ref > {{cite web|title=Surface water and surface water change|access-date=11 October 2020|publisher=[[Organisation for Economic Co-operation and Development]] (OECD)|url=https://stats.oecd.org/Index.aspx?DataSetCode=SURFACE_WATER#}} < /ref > 
+ | population_census      = {{IncreaseNeutral}} 47,450,795 < ref > {{cite web|url=https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C & cid=1254736177012 & menu=ultiDatos & idp=1254734710990|title=INEbase / Demografía y población /Padrón. Población por municipios /Estadística del Padrón continuo. Últimos datos datos|website=ine.es|access-date=11 February 2021}} < /ref > < ref name= " cp_2020 " / > {{efn|On 1 January 2020, the Spanish population was 47,330 million, an increase of 392,921. In the same period, the number of citizens with Spanish citizenship reached 42,094,606. The number of foreigners (i.e. immigrants, ex-pats and refugees, without including foreign born nationals with Spanish citizenship) permanently living in Spain was estimated to be at 5,235,375 (11.06%) in 2020. < ref name= " cp_2020 " > {{cite web|url=https://www.ine.es/prensa/cp_e2020_p.pdf|title=Population Figures at 01 January 2019. Migrations Statistics. Year 2019.|date=June 2020|publisher=[[Instituto Nacional de Estadística (Spain)|National Statistics Institute]] (INE)|language=es|url-status=live|archive-url=https://web.archive.org/web/20170628123003/http://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C & cid=1254736176951 & menu=ultiDatos & idp=1254735572981|archive-date=28 June 2017}} < /ref > }} 
+ | population_census_year = 2020 
+ | population_census_rank = 30th 
+ | population_density_km2 = 94 
+ | population_density_sq_mi = 243  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | population_density_rank = 120th 
+ | GDP_PPP                = {{increase}} {{nowrap|$1.942 & nbsp;trillion < ref name= " IMFWEOES " > {{cite web|url=https://www.imf.org/en/Publications/WEO/weo-database/2020/October/weo-report?c=512,914,612,614,311,213,911,314,193,122,912,313,419,513,316,913,124,339,638,514,218,963,616,223,516,918,748,618,624,522,622,156,626,628,228,924,233,632,636,634,238,662,960,423,935,128,611,321,243,248,469,253,642,643,939,734,644,819,172,132,646,648,915,134,652,174,328,258,656,654,336,263,268,532,944,176,534,536,429,433,178,436,136,343,158,439,916,664,826,542,967,443,917,544,941,446,666,668,672,946,137,546,674,676,548,556,678,181,867,682,684,273,868,921,948,943,686,688,518,728,836,558,138,196,278,692,694,962,142,449,564,565,283,853,288,293,566,964,182,359,453,968,922,714,862,135,716,456,722,942,718,724,576,936,961,813,726,199,733,184,524,361,362,364,732,366,144,146,463,528,923,738,578,537,742,866,369,744,186,925,869,746,926,466,112,111,298,927,846,299,582,487,474,754,698, & s=PPPPC, & sy=2020 & ey=2020 & ssm=0 & scsm=1 & scc=0 & ssd=1 & ssc=0 & sic=0 & sort=country & ds=. & br=1=|title=World Economic Outlook Database, October 2020|publisher=[[International Monetary Fund]]|website=IMF.org|access-date=11 February 2021}} < /ref > }} 
+ | GDP_PPP_year           = 2021 
+ | GDP_PPP_rank           = 15th 
+ | GDP_PPP_per_capita     = $41,736 < ref name= " IMFWEOES " / > 
+ | GDP_PPP_per_capita_rank = 32nd 
+ | GDP_nominal            = {{increase}} {{nowrap|$1.450 & nbsp;trillion < ref name= " IMFWEOES " / > }} 
+ | GDP_nominal_year       = 2021 
+ | GDP_nominal_rank       = 13th 
+ | GDP_nominal_per_capita = $31,178 < ref name= " IMFWEOES " / > 
+ | GDP_nominal_per_capita_rank = 26th 
+ | Gini                   = 33.0  < !--Number only-- > 
+ | Gini_year              = 2019 
+ | Gini_change            = decrease 
+ | Gini_ref               =  < ref name=eurogini > {{cite web|url=https://ec.europa.eu/eurostat/tgm/table.do?tab=table & init=1 & language=en & pcode=tessi190 & plugin=1|title=Gini coefficient of equivalised disposable income – EU-SILC survey|publisher=[[Eurostat]]|website=ec.europa.eu|access-date=3 August 2020}} < /ref > 
+ | Gini_rank              = 103rd 
+ | HDI                    = 0.904  < !--Number only-- > 
+ | HDI_year               = 2019  < !--Please use the year to which the data refers, not the publication year-- > 
+ | HDI_change             = increase  < !--Increase/decrease/steady-- > 
+ | HDI_ref                =  < ref name= " UNHDR " > {{cite web|url=http://hdr.undp.org/en/content/latest-human-development-index-ranking|title=Human Development Report 2020|language=en|publisher=[[United Nations Development Programme]]|date=10 December 2019|access-date=10 December 2019|format=PDF}} < /ref > 
+ | HDI_rank               = 25th 
+ | currency               = [[Euro]]{{efn|The [[Spanish peseta|Peseta]] before 2002.}} ([[Euro sign|€]]) 
+ | currency_code          = EUR 
+ | time_zone              = [[Western European Time|WET]] and [[Central European Time|CET]] 
+ | utc_offset             = ⁠±0 to +1  < !--Note: Zero-width non-breaking space results in the infobox displaying  " UTC "  without a specified offset.-- > 
+ | DST_note               = {{small|Note: most of Spain observes CET/CEST, except the [[Canary Islands]] which observe WET/WEST.}} 
+ | time_zone_DST          = [[Western European Summer Time|WEST]] and [[Central European Summer Time|CEST]] 
+ | utc_offset_DST         = +1 to +2 
+ | date_format            = dd/mm/yyyy ([[Common Era|CE]]) 
+ | drives_on              = right 
+ | calling_code           = [[Telephone numbers in Spain|+34]] 
+ | iso3166code            = ES 
+ | cctld                  = [[.es]]{{efn|name=e|The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states. Also, the [[.cat]] domain is used in [[Catalonia]], [[.gal]] in [[Galiza|Galicia]] and [[.eus]] in the [[Basque Country (autonomous community)|Basque-Country]] autonomous regions.}} 
+ | today                  =  
+ }} 
+ 
+ '''Spain''' is a [[country]] in Southern Europe. It is in the [[Iberian Peninsula]]. Spain has borders with [[France]], [[Portugal]], [[Andorra]] and [[Gibraltar]]. [[Ceuta]] and [[Melilla]] border with [[Morocco]] in [[North Africa]]. In Spain's northeast side are the [[Pyrenees mountains]]. 
+ 
+ The people of Spain are called Spaniards. They speak [[Castilian language|Castilian]] or [[Spanish language|Spanish]] (in Spanish,  " < span lang= " es "  dir= " ltr " > Castellano < /span > " , from ''Castilla'', or  " < span lang= " es "  dir= " ltr " > Español < /span > " ).  They speak other languages in some parts of the country.  They are [[Catalan language|Catalan]], [[Basque language|Basque]], and [[Asturian language|Asturian]], [[Galician language|Galician]], [[Leonese Language|Leonese]], [[Aragonese language|Aragonese]], [[Aranese]] [[Occitan language|Occitan]]  and even [[Portuguese language|Portuguese]]. The [[religion]] of about 56% of the population in Spain is [[Roman Catholicism|Roman Catholic]]. 
+ 
+ Since 1975, Spain has had a [[constitutional monarchy]]. The King of Spain is [[Felipe VI of Spain|Felipe VI]]; he only does what the [[constitution]] allows him to.  The parliament is called  " Las Cortes Generales, "  and has two bodies:  " El Congreso "  (The Congress) and  " El Senado "  (The Senate) and it is chosen by the Spanish people by [[vote|voting]].  The [[Prime minister]] is [[Pedro Sánchez]].  The [[government]] and the king's [[palace]] are in [[Madrid]], the [[Capital (city)|capital]] of Spain. 
+ 
+ Spain has more than five hundred thousand [[Square kilometer|square kilometres]] of land.  It is smaller than France, but it is bigger than [[Germany]]. Almost fifty million people live in Spain. Spain is divided into 17 [[autonomous communities of Spain|autonomous communities]] (this means that they can decide upon some affairs themselves). Each community has its own government. 
+ 
+ Spain is known for [[flamenco]] which is usually performed by the [[Caló]]. 
+ 
+ Spain was a predominant [[Colonial Empire]] and had colonies throughout [[South America]], [[Asia]], [[Oceania]] and [[Africa]] with a large hold of European lands. 
+ 
+ Spain was under a dictatorship by  
+ [[Francisco Franco]] from 1939 to 1974. 
+ 
+ ==History of Spain== 
+ {{main|History of Spain}} 
+ ===Early history=== 
+ [[File:Dama de Elche.jpg|thumb|left|180px|[[Lady of Elche]] made by the Iberians]] 
+ People have lived in Spain since the [[Stone Age]].  Later, the [[Roman Empire]] controlled Spain for about five hundred years; then as the Roman Empire broke up, groups of [[Germanic people]] including [[Visigoths]] moved in and took control. 
+ 
+ === Muslim rule === 
+ In 711, many parts of the [[Iberian Peninsula]] became under the control of the [[Muslims|Muslim]] [[Umayyad Caliphate]]. They called the land [[Al-Andalus]]; it was the farthest western point of [[Islamic civilization]]. In 756, the Umayyads were defeated by the [[Abbasid Caliphate|Abbasid]] in the east. The Umayyads ruled the [[Caliphate of Córdoba]], which fell apart in the early [[11th century]]. Muslim rulers sometimes fought each other when they were not fighting the Christians. Muslim Spain was focused on [[learning]]. The greatest [[library]] system outside [[Baghdad]]. 
+ 
+ At first the Muslims ruled most of Spain but the [[reconquista]] slowly forced them out over seven centuries. 
+ 
+ ===Kingdom of León=== 
+ The [[Kingdom of León]], the most important in the early Spanish Middle Ages, was started in 910. This Kingdom developed the first democratic parliament (Cortes de Llión) in Europe in 1188. After 1301, León had the same King as the Kingdom of Castile in [[personal union]].  The various kingdoms remained independent territories until 1833, when Spain was divided into regions and provinces. 
+ 
+ In 1492, the Christians took the last part of Spain that still belonged to the Moors, [[Granada]].  [[Boabdil]], the last Moorish King of [[Granada]], surrendered to King [[Ferdinand II of Aragon]] and [[Isabella I of Castile]] on 2 January 1492.  Ferdinand and Isabella then ruled all of Spain. 
+ 
+ Before this, there were a number of Christian countries in what is now called Spain. Two of these countries, [[Kingdom of Castile|Castile]] and [[Aragon]], came together when Ferdinand II of Aragon married the queen [[Isabella of Castile]].  The King ruled as much as the Queen. 
+ 
+ [[File:Spain Andalusia Cordoba BW 2015-10-27 13-54-14.jpg|thumb|left|200px|Inside of the [[Mezquita]] in [[Córdoba, Andalusia|Córdoba]], a Muslim [[mosque]] which became a Christian [[Mosque–Cathedral of Córdoba|cathedral]].]] 
+ In the same year, 1492, they sent [[Christopher Columbus]] to sail across the [[Atlantic Ocean]].  Columbus found the islands of the [[Caribbean Sea]]. 
+ 
+ When other Europeans explored, like [[Hernán Cortés]] and [[Francisco Pizarro]], they found out that there were two [[continent]]s there - [[North America]] and [[South America]].  Spanish [[conquistador]] < nowiki/ > es took over very large parts of those two continents. This [[empire]] did not make Spain a rich country, for most of the money had to be spent in wars in Italy and elsewhere.  Some of these wars were fought against other European countries who were trying to take over parts of the Americas. 
+ 
+ Meanwhile, at home, the Muslim manuscripts had been either burnt or taken to other countries.  Jews had also been expelled from Spain.  Some Jews remained but they had to become [[Christians]].  Among the few old things kept and respected in Spain were in [[music]]:  [[harmony]] and [[stringed instrument]]s. The buildings that had been built by the Moors were kept, and many Muslim religious buildings ([[mosque]]s) were turned into churches. Some Jewish religious buildings were also turned into churches. Many Arab words became part of the Spanish Language 
+ 
+ === 16th and 17th century === 
+ The grandson of Ferdinand and Isabella was Charles.  When his grandfather died he inherited Castille and Aragon.  He also inherited many territories at the death of his other grandfather, Maximilian I of Austria.  Charles received from Maximilian the Austria state and the territories of Burgundy.  He was named Charles I in Spain, but he was elected as the emperor of the [[Holy Roman Empire]], and was called [[Charles V, Holy Roman Emperor]].  This made the empire bigger than ever.  However, it was not a single country, but a [[personal union]] of  many independent countries with a single King.  At first many Spaniards did not want Charles as their king, so they fought against him. However, he won. 
+ 
+ Charles did not like the [[Protestant Reformation]], and fought against it. 
+ 
+ ===18th century=== 
+ In the 18th century some of the parts of that large empire became their own countries, or were taken over by new countries, such as the [[United States|United States of America]]. 
+ 
+ ===19th century=== 
+ Spain (and other European countries) was invaded by [[Napoleon]] of France. [[Britain]] sent troops to defend the peninsula, since it was so weak. Most of the [[Spanish Empire]] became independent in the following decades. 
+ 
+ ===20th century=== 
+ There was not much peace in Spain during the first part of the [[20th century]]. Some Spaniards tried to set up a government chosen by the people (a [[democracy]]), and they made [[Alfonso XIII of Spain|Alfonso XIII]] leave the country. However, in 1936, two different groups of Spaniards went to war over whether the government should be a democracy, in the [[Spanish Civil War]] (although those on the side of the Republic were largely socialist or anarchist), or take orders from one person. In 1939, those who wanted democracy were defeated, and a nationalist [[dictator]] named [[Francisco Franco]] took over the government. 
+ 
+ Francisco Franco died on 20 November 1975. He had decided that Spain should have a monarchy again, and he chose Juan Carlos, the grandson of Juan of Bourbon who had been forced to leave the country, to be king and [[Adolfo Suárez]] to become its first [[Prime Minister of Spain|Prime Minister]]. But the king and Suárez did not rule as a dictator; instead, they chose to set up a democracy. 
+ 
+ On 23 February 1981 a group of people who had supported the now dead General Franco tried to take control of the [[democratic]] Spanish Parliament by force, they entered the building and fired guns in the air. It was seen live on Spanish television and there was widespread fear that this might be the start of another civil war. However, Juan Carlos I, quickly appeared on television and broadcast to the nation that they should remain calm. The persons responsible for the attempt to take over the country were arrested. 
+ 
+ Now Spain is a modern democratic country, and does business with many countries around the world. It is the eighth largest economy in the world and is an important part of the [[European Union]]. 
+ 
+ ===21st century=== 
+ On 2 June 2014, [[Juan Carlos I]] announced that he would abdicate in favour of his son, [[Felipe VI of Spain|Felipe VI]]. < ref > {{cite news|last1=Goodman|first1=Al|last2=Mullen|first2=Jethro|last3=Levs|first3=Josh|title=Spain's King Juan Carlos I to abdicate|url=http://www.cnn.com/2014/06/02/world/europe/spain-king-abdication/index.html?hpt=hp_t2|access-date=2 June 2014|agency=CNN|date=2 June 2014}} < /ref >  The date of abdication and handover to Felipe occurred on 19 June 2014. He and his wife kept their titles. < ref name= " Telegraph " > {{cite web|title=Spain will have two kings and two queens|url=https://www.telegraph.co.uk/news/worldnews/europe/spain/10898873/Spain-will-have-two-kings-and-two-queens.html|access-date=18 June 2014}} < /ref > 
+ 
+ ==Religion== 
+ Ancient religions in Spain were mostly [[Paganism|pagan]]. Today, however, at least 55 percent of Spain is [[Roman Catholic]]. < ref > {{cite web|url=http://datos.cis.es/pdf/Es3146mar_A.pdf|title=Centro de Investigaciones Sociológicas (Centre for Sociological Research) (October 2017).  " Barómetro de septiembre de 2017 "  (PDF) (in Spanish). p. 41. Archived (PDF) from the original on 28 September 2017. Retrieved 13 October 2017.}} < /ref >  Spanish [[mysticism|mystic]] [[Teresa of Ávila]] is an important figure within [[Catholicism]]. 27 percent of Spaniards are [[Irreligious theism|irreligious]]. 2 percent are from other religions, this include [[Baha'i]] [[Buddhist]]s, [[Jain]], [[Muslim]],[[Unitarian Universalism]] and [[Zoroastrianism]]. 
+ 
+ ==Geography of Spain== 
+ [[File:TeideN1.jpg|thumb|250px|[[Teide National Park]], [[Tenerife]]]] 
+ The middle of Spain is a high, dry, flat land called La Meseta. In La Meseta it can be very hot in the [[summer]] and cold or very cold in the [[winter]]. Spain also has many [[mountain range]]s. The Mount [[Teide]] ([[Tenerife]], [[Canary Islands]]), the highest mountain of Spain and the islands of the Atlantic (it is the third largest volcano in the world from its base). In the north there is a range of mountains called ''Los Picos de Europa'' (The European Peaks). Here it is very cold in winter with a lot of snow but with gentle warm summers. 
+ 
+ In the south-east of the country is a range of mountains called ''[[Sierra Nevada (Spain)|La Sierra Nevada]]'' (The Snowy Mountains). This range of mountains contains the highest mountain in mainland Spain, Mulacen, at 2952 & nbsp;metres. La Sierra Nevada is very popular in winter for [[winter sports]], especially skiing. Snow remains on its peaks throughout the year.  The south coast, has a warm and [[temperate climate]], not very hot or very cold.  Since Spain is in the south of Europe, it is very sunny.  Many people from [[Northern Europe]] take their vacations in Spain, enjoying its [[beach]]es and cities. 
+ 
+ Spain has a border with [[Portugal]] in the west and borders with [[France]] and [[Andorra]] in the North. In the south, it borders [[Gibraltar]], a British territory. The Spanish territories of [[Ceuta]] and [[Melilla]] are in [[North Africa]] and border onto [[Morocco]]. 
+ 
+ ===Regions=== 
+ Spain is divided into Autonomous Communities, which means that they have their own regional [[government]]s. They are [[Andalucía]] (capital city [[Seville]]), [[Aragon]] (capital city [[Zaragoza]]), [[Asturias]] (capital city [[Oviedo]]), [[Balearic Islands]] (capital city [[Palma de Mallorca]]), [[Basque Country]] (capital city [[Vitoria]]), [[Canary Islands]] (capital cities [[Santa Cruz de Tenerife]] and [[Las Palmas]]), [[Cantabria]] (capital city [[Santander, Spain|Santander]]), [[Castilla-La Mancha]] (capital city [[Toledo, Spain|Toledo]]), [[Castile and Leon]] (capital city [[Valladolid]]), [[Catalonia]] (capital city [[Barcelona]]), [[Extremadura]] (capital city [[Merida]]), [[Galicia (Spain)|Galicia]] (capital city [[Santiago de Compostela]]), [[La Rioja]] (capital city [[Logrono]]), [[Madrid]] Community (capital city [[Madrid]]), [[Murcia]] Community (capital city [[Murcia]]), [[Navarra]] (capital city [[Pamplona]]) and the [[Valencia]] Community (capital city [[Valencia]]). 
+ 
+ === Spain, Tapas === 
+ < gallery > 
+ File:Palo Santo Cafe, Aranda de Duero, Spain, Jamón serrano, Tapas Bar  &  Restaurant.jpg|Palo Santo Cafe, Aranda de Duero, Spain, Jamón serrano 
+ File:Tapas Bar  &  Restaurant, Palo Santo Cafe, Aranda de Duero, Jamón serrano.jpg|Jamón serrano served at Palo Santo Cafe, Aranda de Duero 
+ File:Palo Santo Cafe, Aranda de Duero, Spain, Tapas Bar  &  Restaurant.jpg|Anchovies in Spanish Olive OIl 
+ File:Tapas Bar  &  Restaurant, Palo Santo Cafe, Aranda de Duero.jpg|(Spanish Tortilla) 
+ < /gallery > 
+ ===City areas=== 
+ In Spain, many people live in cities or close to cities. The ten biggest city areas are: 
+ 
+ {| class= " wikitable " 
+ |- style= " text-align:right; " 
+ !Pos.|| City area || Region || Prov. || population (city + area) 
+ |- style= " text-align:right; " 
+ | 1 || '''[[Madrid]]''' || [[Madrid]] || Madrid ||5,263,000 
+ |- style= " text-align:right; " 
+ | 2 || '''[[Barcelona]]''' || [[Catalonia]] || Barcelona || 4,251,000 
+ |- style= " text-align:right; " 
+ | 3 || '''[[Valencia]]''' || [[Valencian Community]] || Valencia || 1,499,000 
+ |- style= " text-align:right; " 
+ | 4 || '''[[Sevilla]]''' || [[Andalusia|Andalucia]] || Seville || 1,262,000 
+ |- style= " text-align:right; " 
+ | 5 || '''[[Bilbao]]''' || [[Basque Country (autonomous community)|Basque Country]] || Biscay || 947,000 
+ |- style= " text-align:right; " 
+ | 6 || '''[[Málaga]]''' || [[Andalusia]] || Málaga || 844,000 
+ |- style= " text-align:right; " 
+ | 7 || '''[[Oviedo]]–[[Gijón]]''' || [[Asturias]] || Asturias || 844,000 
+ |- style= " text-align:right; " 
+ | 8 || '''[[Alicante]]–[[Elche]]''' || [[Valencian Community]] || Alicante || 793,000 
+ |- style= " text-align:right; " 
+ | 9 || '''[[Las Palmas de Gran Canaria]]''' || [[Canarias]] || Las Palmas de Gran Canaria || 640,000 
+ |- style= " text-align:right; " 
+ | 10 || '''[[Zaragoza]]''' || [[Aragon]] || Zaragoza || 639,000 
+ |} 
+ 
+ == Languages == 
+ [[File:Spain languages.svg|thumb|Languages of Spain]] 
+ While Spanish is the most spoken language in the country, other languages like [[Catalan language|Catalan]], [[Basque language|Basque]] or [[Galician language|Galician]] are also spoken in a few territories. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ===Notes=== 
+ {{commons|Spain}} 
+ {{Reflist|group=lower-alpha}} 
+ 
+ {{Europe}} 
+ {{European Union}} 
+ {{North Atlantic Treaty Organization (NATO)}} 
+ {{authority control}} 
+ 
+ [[Category:Spain| ]] 
+ [[Category:European Union member states]] 
+ [[Category:Current monarchies]] 
+ [[Category:Spanish-speaking countries]]

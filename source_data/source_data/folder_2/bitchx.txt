@@ -1,0 +1,25 @@
+{{Infobox_Software  
+ | name                   = BitchX  
+ | logo                   =  
+ | screenshot             =  
+ | caption                =  
+ | developer              = Colten Edwards (panasync)  
+ | latest_release_version = 1.1-final  
+ | latest_release_date    = {{release date|2004|05|26}} 
+ | operating_system       =  
+ | genre                  = [[IRC client]]  
+ | license                = [[BSD licenses|Revised BSD license]]  
+ | website                = http://www.bitchx.org 
+ }} 
+ 
+ '''BitchX''' is an [[IRC]] client. The first public release was in 1996. The latest stable version is 1.1 and was updated in 2004. It is free of charge and was written in [[C (programming language)|C]]. Its last version has lots of [[security]] [[software bugs]] and its use is generally discouraged. 
+ 
+ In 2010, people started working on BitchX again under the name of 'BitchX2' 
+ 
+ ==Related pages== 
+ *[[List of IRC clients]] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:IRC clients]]

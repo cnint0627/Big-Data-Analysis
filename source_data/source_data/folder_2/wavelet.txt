@@ -1,0 +1,25 @@
+[[File:Wavelet - Morlet.svg|thumb|Morlet wavelet]] 
+ A '''Wavelet''' is a mathematical [[function (mathematics)|function]] used to write down a function or [[signal processing|signal]] in terms of other functions that are simpler to study. Many [[signal processing]] tasks can be seen in terms of a [[wavelet transform]]. Informally speaking, the signal can be seen under the lens with a magnification given by the [[scale]] of the wavelet. In doing so, we can see only the [[information]] that is determined by the shape of the wavelet used. 
+ 
+ The English term  " wavelet "  was introduced in the early 1980s by French physicists [[Jean Morlet]] and [[Alex Grossman]]. 
+ They used the French word  " ondelette "  (which means  " small wave " ). 
+ Later, this word was brought into English by translating  " onde "  into  " wave "  giving  " wavelet " . 
+ 
+ Wavelet is (complex) function from the [[Hilbert space]]  < math > \psi \in L^{2}(\mathbb{R}) < /math > . For practical applications it should satisfy following conditions. 
+ 
+ It must have finite energy. 
+ : < math > \int_{-\infty}^{\infty}|\psi(t)|^{2}dt  <  \infty < /math > 
+ 
+ It must satisfy an admissibility condition. 
+ : < math > \int_{0}^{\infty} { {|\hat{\psi}(\omega)|^{2}}\over{\omega} }d\omega  <  \infty < /math > , where  < math > \hat{\psi} < /math >  is a [[Fourier transform]] of  < math > \psi\, < /math > 
+ 
+ Zero mean condition implies from admissibility condition. 
+ : < math > \int_{-\infty}^{\infty}\psi(t)dt=0 < /math > 
+ 
+ The function  < math > \psi\, < /math >  is called mother wavelet. Its translated (shifted) and dilated (scaled) normalized versions are defined as following. 
+ : < math > \psi_{a,b}(t) = \frac{1}{\sqrt{a}} \psi\left({{t-b}\over{a}}\right) < /math > 
+ 
+ Original mother wavelet has parameters  < math > a=1 < /math >  and  < math > b=0 < /math > . Translation is described by  < math > b < /math >  parameter and dilatation by  < math > a < /math >  parameter. 
+ 
+ [[Category:Harmonic analysis]] 
+ [[Category:Digital signal processing]]

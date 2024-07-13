@@ -1,0 +1,68 @@
+{{Automatic Taxobox 
+ | name = Primates 
+ | fossil_range = [[Palaeocene]] - Recent 
+ | image = Olive baboon.jpg 
+ | image_width = 250px 
+ | image_caption = Olive [[baboon]], an [[Old World monkey]] 
+ | taxon = Primates 
+ | authority = [[Carolus Linnaeus|Linnaeus]], 1758 
+ | display_parents = 2}} 
+ [[File:Ring_tailed_lemurs.jpg|200px|right|thumb|[[Ring-tailed lemur]], a strepsirrhine primate]] 
+ 
+ '''Primates''' are an [[order (biology)|order]] of [[mammal]]s. It includes all [[lemur]]s, [[monkey]]s and [[ape]]s, including [[human]]s. < ref >  Groves C.P. 2005. Wilson D.E.; Reeder D. M. (eds). ''Mammal species of the world: a taxonomic and geographic reference'' (3rd ed). Baltimore: Johns Hopkins University Press. pp. 111–184. ISBN 0-801-88221-4. OCLC 62265494 < /ref >  Most primates (but not humans) are mainly or entirely [[forest]] dwellers. 
+ 
+ There are about 400 [[species]] of primates. < ref > Silcox, Mary T.; Bloch, Jonathan I.; Boyer, Doug M.; Chester, Stephen G. B.; López‐Torres, Sergi 2017. The evolutionary radiation of plesiadapiforms. ''Evolutionary Anthropology'': Issues, News, and Reviews. '''26''' (2): 74–94. PMID 28429568 < /ref >  All primates are similar to humans in many ways, but [[language]] is an important advantage which only humans have. Other primates have a pattern of calls and gestures, but not language as we know it.  
+ 
+ Primates have hands with five [[finger]]s and flat [[fingernail]]s (most other animals have [[claw]]s or [[hooves]]). All primates are covered with fur (hair), but in humans the body hair is only noticeable in two places: on the head and around the [[genitals]]. 
+ 
+ Primates are split into two groups: [[Strepsirrhini]] and [[Haplorhini]]. Haplorrhini includes larger monkeys such as, [[tarsier]]s and apes including humans. Strepsirrhini includes smaller monkeys such as [[lemur]]s, [[loris]]es, [[galago]]s (also called bush babies) and the [[aye-aye]]. 
+ 
+ Primates are one of the few mammal groups which re-evolved full [[Evolution of color vision|color vision]]. Even so, color vision in birds is better. Color vision was lost in mammals during the long period when [[dinosaurs]] ruled the Earth, and mammals were mainly small [[nocturnal]] animals. < ref >  Macdonald, David 2006. Primates. ''The Encyclopedia of Mammals''. The Brown Reference Group plc. pp. 282–307. ISBN 0-681-45659-0 < /ref > 
+ 
+ Close contact between humans and non-human primates creates opportunities for [[Zoonosis|zoonotic diseases]] to get to humans.  [[Virus]] diseases transmitted to humans include [[Herpes simplex|herpes]], [[measles]], [[Ebola virus|ebola]], [[rabies]], and [[hepatitis]]. 
+ 
+ ==Classification== 
+ *Order Primates 
+ **Suborder [[Strepsirrhini]] 
+ ***[[Lemur]]s 
+ ***[[Loris]]es 
+ **Suborder [[Haplorhini]] 
+ ***[[Tarsier]]s 
+ ***[[Platyrrhini]]: [[New World monkey]]s 
+ ***[[Catarrhini]]: 
+ **** [[Old World monkey]]s 
+ **** [[Ape]]s and [[Homo sapiens|humans]] 
+ 
+ ==Clade== 
+ {{clade 
+ |label1=[[Euarchontoglires]] & nbsp; 
+ | 1={{Clade 
+   | label1= & nbsp;[[Glires]] & nbsp; 
+   | 1={{Clade 
+      | 1= & nbsp;[[Rodentia]] 
+      | 2= & nbsp;[[Lagomorpha]]}} 
+   | label2= & nbsp;[[Euarchonta]] & nbsp; 
+   | 2={{Clade 
+      | 1= & nbsp;[[Scandentia]] 
+      | label2=Primatomorpha 
+      | 2={{Clade 
+         | 1= & nbsp;[[Dermoptera]] 
+         | label2= & nbsp;'''Primates''' & nbsp; 
+         | 2={{Clade 
+            | label1= & nbsp;[[Strepsirrhini]] & nbsp; 
+            | 1= & nbsp;([[lemuriformes]] & nbsp;and & nbsp;[[lorisiformes]]) 
+            | label2= & nbsp;[[Haplorhini]] & nbsp; 
+            | 2={{Clade 
+               | 1= & nbsp;[[Tarsiiformes]] 
+               | 2= & nbsp;[[Simiiformes]] & nbsp;([[platyrrhini]] & nbsp;and & nbsp;[[catarrhini]]) 
+ }} }} }} }} }} }} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ ==Related pages== 
+ {{wikispecies-inline|Primates}} 
+ 
+ 
+ 
+ [[Category:Primates| ]]

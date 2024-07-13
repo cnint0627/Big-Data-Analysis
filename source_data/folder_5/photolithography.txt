@@ -1,0 +1,13 @@
+'''Photolithography''' is the combination of [[photography]] and [[lithography]]. Its uses include the mass [[printing]] of photographs. [[Microphototolithography]] is the use of photolithography to transfer geometric shapes on a [[photomask]] to the surface of a semiconductor wafer for making [[integrated circuit]]s. 
+ 
+ == Manufacturing == 
+ 
+ Photolithography makes [[integrated circuits]] such as memory and [[central processing unit]]s. 
+   
+ A special light-and-shadow pattern is shone through a [[photomask]], onto a sheet or wafer of silicon that had been covered with a material called a [[photoresist]]. The light hardens the photoresist. When the board is dipped into a special [[acid]], the parts that had no light on them are dissolved away.  
+ 
+ Memory chips have thousands or millions of identical cells. Because is much easier to make than a CPU, (a large die with a non-repetitive structure), RAM chips are far less expensive than processors. 
+ 
+ 
+ [[Category:Technology]] 
+ [[Category:Electronics]]

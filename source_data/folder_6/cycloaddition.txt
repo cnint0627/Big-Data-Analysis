@@ -1,0 +1,45 @@
+{{complex|date=December 2011}} 
+ A '''cycloaddition''' is a [[chemical reaction]] between reactants with double bonds that get replaced by a ring [[structure]].  It is a [[pericyclic reaction|pericyclic]] chemical reaction where  " two or more unsaturated molecules (or parts of the same molecule) combine with the formation of a cyclic adduct in which there is a net reduction of the bond multiplicity. " < ref > {{GoldBookRef |title=Cycloaddition |file=C01496}} < /ref >  It is a cyclization reaction: it makes new ring of atoms. 
+ 
+ Cycloadditions are named by the basic size of the [[molecule]]s that are being brought together. This would make the [[Diels–Alder reaction]] a [4 + 2]cycloaddition, and the 1,3-dipolar cycloaddition a [3 + 2]cycloaddition. This type of reaction is a non-polar [[addition reaction]]. 
+ 
+ ==Reaction mechanism== 
+ [[Heat]] can cause the double bonds to form a ring. Thermal cycloadditions usually have (4n + 2) π electrons participating in the starting material, for some whole number ''n''.  Because of orbital symmetry, most cycloadditions are suprafacial-suprafacial. Rarely, they are antarafacial-antarafacial.  There are a few examples of thermal cycloadditions which have 4n π electrons (for example the [2 + 2] cycloaddition). These proceed in a suprafacial-antarafacial sense. For example, the dimerisation of ketene has a orthogonal set of p orbitals. Those p orbitals allow the reaction to proceed using a crossed [[transition state]]. 
+ 
+ [[Light]] can also cause the double bonds to form a ring. Cycloadditions in which 4n π electrons participate can also occur as a result of [[Photochemistry|photochemical]] activation. Here, one component makes an electron move from the  highest occupied molecular orbital ([[HOMO]]) (π bonding) to the lowest unoccupied molecular orbital ([[LUMO]]) (π* antibonding). After the electron is promoted to the higher orbital, orbital symmetry allows the reaction to proceed in a suprafacial-suprafacial manner. An example is the DeMayo reaction. Another example is shown below, the photochemical dimerization of cinnamic acid. < ref > {{cite journal | author = Hein, Sara M. | title = An Exploration of a Photochemical Pericyclic Reaction Using NMR Data | url = https://archive.org/details/sim_journal-of-chemical-education_2006-06_83_6/page/940 | journal = Journal of Chemical Education | volume = 83 |date=June 2006 | issue = 6 | pages = 940–942 | doi = 10.1021/ed083p940 }} < /ref > < ref > The two ''trans'' [[alkene]]s react head-to-tail, and the isolated [[isomer]] is called ''truxillic acid''. < /ref > 
+ 
+ :[[File:CinnamicAcidCycloAddition.png|400px|center|Cinnamic Acid CycloAddition]] 
+ 
+ Note that not all photochemical (2+2) cyclizations are cycloadditions; some are known to operate by radical mechanisms. 
+ 
+ Some cycloadditions instead of π bonds operate through strained [[cyclopropane]] rings; as these have significant π character. For example, an analog for the Diels–Alder reaction is the quadricyclane-DMAD reaction:  
+ 
+ [[File:Qcane.png|500px|center]] 
+ 
+ In the (i+j+...) cycloaddition notation i and j refer to the number of atoms involved in the cycloaddition. In this notation a Diels-Alder reaction is a (4+2)cycloaddition and a 1,3-dipolar addition such as the first step in ozonolysis is a (3+2)cycloaddition. This notation uses parenthesis. The [[IUPAC]] preferred notation however,  with [i+j+...] counts electrons and not atoms. It uses square brackets. In this notation, the Diels–Alder reaction and the dipolar reaction both become a [4+2]cycloaddition. The reaction between norbornadiene and an activated [[alkyne]] is a [2+2+2]cycloaddition. 
+ 
+ ==Types of cycloaddition== 
+ ===Diels-Alder reactions=== 
+ The [[Diels–Alder reaction]] is a [4+2]cycloaddition reaction. 
+ :[[File:Diels-Alder (1,3-butadiene + ethylene) red.svg|300px|Diels-Alder reaction]] 
+ 
+ ===Huisgen cycloadditions=== 
+ The [[Huisgen cycloaddition]] reaction is a [2+3]cycloaddition. 
+ :[[File:Thermal_Huisgen_cycloaddition.png|600px|1,3-cycloaddition]] 
+ 
+ ===Nitrone-olefin cycloaddition=== 
+ The [[nitrone-olefin 3+2 cycloaddition|Nitrone-olefin cycloaddition]] is a [3+2]cycloaddition. 
+ :[[File:NitrGen.png|Nitrone olefin cycloaddition]] 
+ 
+ ==Formal cycloadditions== 
+ Cycloadditions often have [[metal]]-catalyzed and stepwise [[Radical (chemistry)|radical]] analogs, however these are not strictly speaking pericyclic reactions. When charged or radical intermediates are involved in a cycloaddition, or when the cycloaddition result is found in a series of reaction steps, they are sometimes called '''formal cycloadditions''' to make a difference from true pericyclic cycloadditions.  
+ 
+ One example of a formal [3+3]cycloaddition between a cyclic [[enone]] and an [[enamine]] catalyzed by [[N-Butyllithium|''n''-butyllithium]] is a [[Stork enamine reaction|Stork enamine]] / [[nucleophilic addition|1,2-addition]] [[cascade reaction]]: < ref > {{cite journal | last1 = Movassaghi | first1 = Mohammad | first2 = Bin | last2 =Chen | title = Stereoselective Intermolecular Formal [3+3] Cycloaddition Reaction of Cyclic Enamines and Enones | journal = [[Angew. Chem. Int. Ed.]] | volume = 46 | pages = 565–568 | year = 2007 | doi = 10.1002/anie.200603302 | pmid = 17146819 | issue = 4 | pmc = 3510678 }} < /ref > 
+ 
+ [[File:3+3-cycloaddition.svg|center|600px|Intermolecular Formal [3+3] Cycloaddition Reaction]] 
+ 
+ ==References== 
+ {{reflist}} 
+ {{Reaction mechanisms}} 
+ 
+ [[Category:Chemical reactions]]

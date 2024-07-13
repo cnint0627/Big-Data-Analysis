@@ -1,0 +1,263 @@
+{{about|the planet||Saturn (disambiguation)}} 
+ {{vgood}} 
+ {{Infobox planet 
+ | name                   = Saturn 
+ | symbol                 = [[File:Saturn symbol (bold).svg|24px|♄]] 
+ | image                  = [[File:Saturn during Equinox.jpg|300px]] 
+ | caption                = Pictured in natural color approaching [[equinox]], photographed by ''[[Cassini–Huygens|Cassini]]'' in July 2008; the dot in the bottom left corner is [[Titan (moon)|Titan]] 
+ | background             = #f8f9fa 
+ | pronounced             = {{IPAc-en|audio=en-us-Saturn.ogg|ˈ|s|æ|t|ər|n}} < ref name= " walter2003 " / > 
+ | named_after            = [[Saturn (mythology)|Saturn]] 
+ | adjectives             = Saturnian {{IPAc-en|s|ə|ˈ|t|ɜr|n|i|ə|n}}, < ref > {{OED|Saturnian}} < /ref >  Cronian < ref > {{Cite web|url = http://solarsystem.nasa.gov/multimedia/downloads/Small_RPS_Report.pdf|title = Enabling Exploration with Small Radioisotope Power Systems|date = September 2004|access-date = 26 January 2016|publisher = NASA|archive-url = https://web.archive.org/web/20161222125722/http://solarsystem.nasa.gov/multimedia/downloads/Small_RPS_Report.pdf|archive-date = 22 December 2016|url-status = dead}} < /ref >  / Kronian < ref > {{cite journal | last1 = Müller | display-authors = etal | year = 2010 | title = Azimuthal plasma flow in the Kronian magnetosphere | doi = 10.1029/2009ja015122 | journal = Journal of Geophysical Research | volume = 115 | issue = A8 | page = A08203 | bibcode = 2010JGRA..115.8203M | doi-access = free }} < /ref >  {{IPAc-en|'|k|r|ou|n|i|@|n}} < ref > {{OED|Cronian}} < /ref > 
+ | orbit_ref              =  < ref name= " fact "  / > 
+ | epoch                  = [[J2000.0]] 
+ | aphelion               = {{convert|1514.50|e6km|AU|4|abbr=unit}} 
+ | perihelion             = {{convert|1352.55|e6km|AU|4|abbr=unit}} 
+ | time_periastron        = 2032-Nov-29 < ref > {{Cite web|url=https://ssd.jpl.nasa.gov/horizons.cgi?find_body=1 & body_group=mb & sstr=699|title=HORIZONS Web-Interface|website=ssd.jpl.nasa.gov}} < /ref > 
+ | semimajor              = {{convert|1433.53|e6km|AU|4|abbr=unit}} 
+ | eccentricity           = {{val|0.0565}} 
+ | period                 =  
+   {{plainlist | 
+ * {{val|29.4571|u=[[Julian year (astronomy)|yr]]}} 
+ * {{val|fmt=commas|10759.22|u=days}} 
+ * {{val|fmt=commas|24491.07}} Saturnian [[solar day]]s < ref name= " CSeligman "  / > 
+   }} 
+ | synodic_period         = 378.09 days 
+ | avg_speed              = {{convert|9.68|km/s|mi/s|sigfig=3|abbr=unit}} 
+ | mean_anomaly           = {{val|317.020|u=°}} < ref name= " VSOP87 "  / > 
+ | inclination            =  
+   {{plainlist | 
+ * {{val|2.485|u=°}} to [[ecliptic]] < ref name= " VSOP87 "  / > 
+ * {{val|5.51|u=°}} to [[Sun]]'s [[equator]] < ref name= " VSOP87 "  / > 
+ * {{val|0.93|u=°}} to [[invariable plane]] < ref name=Souami_Souchay_2012 / > 
+   }} 
+ | asc_node               = {{val|113.665|u=°}} 
+ | arg_peri               = {{val|339.392|u=°}} < ref name= " VSOP87 "  / > 
+ | satellites             = [[moons of Saturn|145]] in total [[moonlet]]s. < ref name=fact / > 
+ | physical_ref           =  < ref name= " fact "  / > 
+ | mean_radius            = {{convert|58232|km|mi|0|abbr=unit}} < ref group=lower-alpha name=1bar / > 
+ | equatorial_radius      =  
+   {{plainlist | 
+ * {{convert|60268|km|mi|0|abbr=unit}} < ref group=lower-alpha name=1bar > Refers to the level of 1 bar atmospheric pressure < /ref > 
+ * {{val|9.449}} Earths 
+   }} 
+ | polar_radius           =  
+   {{plainlist | 
+ * {{convert|54364|km|mi|0|abbr=unit}} < ref group=lower-alpha name=1bar / > 
+ * {{val|8.552|u=Earths}} 
+   }} 
+ | flattening             = {{val|0.09796}} 
+ | circumference =  
+  {{unbulleted list |class=nowrap 
+  | {{convert|365882.4|km|mi|comma=gaps|abbr=on|disp=x|  < small > [[equator]]ial (|) < /small > }} < ref > {{cite web |title=By the Numbers – Saturn |url=https://solarsystem.nasa.gov/planets/saturn/by-the-numbers/ |website=NASA Solar System Exploration |publisher=[[NASA]] |access-date=5 August 2020 }} < /ref > 
+  }} 
+ | surface_area           =  
+   {{plainlist | 
+ * {{convert|4.27e10|km2|sqmi|abbr=unit}} < ref name= " nasafact "  / > < ref group=lower-alpha name=1bar / > 
+ * {{val|83.703|u=Earths}} 
+   }} 
+ | volume                 =  
+   {{plainlist | 
+ * {{convert|8.2713e14|km3|cumi|abbr=unit}} < ref group=lower-alpha name=1bar / > 
+ * {{val|763.59|u=Earths}} 
+   }} 
+ | mass                   =  
+   {{plainlist | 
+ * {{val|5.6834e26|u=kg}} 
+ * {{val|95.159|u=Earths}} 
+   }} 
+ | density                = {{convert|0.687|g/cm3|lk=on|abbr=unit}} < ref group=lower-alpha name=1bar_b > Based on the volume within the level of 1 bar atmospheric pressure < /ref >  {{small|(less than water)}} 
+ | surface_grav           =  
+   {{plainlist | 
+ * {{convert|10.44|m/s2|lk=on|abbr=unit}} < ref group=lower-alpha name=1bar / > 
+ * 1.065 ''[[g-force|g]]'' 
+   }} 
+ | moment_of_inertia_factor = {{val|0.22|}} < ref name= " Fortney2018 " > {{cite book|last1= Fortney|first1= J.J.|last2= Helled|first2= R.|last3= Nettlemann|first3= N.|last4= Stevenson|first4= D.J.|last5= Marley|first5= M.S.|last6= Hubbard|first6= W.B.|last7= Iess|first7= L.|editor1= Baines, K.H.|editor2= Flasar, F.M.|editor3= Krupp, N.|editor4= Stallard, T.|title= Saturn in the 21st Century|chapter= The Interior of Saturn|chapter-url= https://books.google.com/books?id=p358DwAAQBAJ & pg=PA51 |pages= 44–68|date=6 December 2018|publisher= Cambridge University Press|isbn= 978-1-108-68393-7}} < /ref > 
+ | escape_velocity        = {{convert|35.5|km/s|mi/s|abbr=unit}} < ref group=lower-alpha name=1bar / > 
+ | rotation = 10 h 32 m 36 s  < br/ > ([[synodic day|synodic; solar day]]) < ref name= " CSeligman " / >   
+ | sidereal_day           =  < span class= " nowrap " > {{RA|10|33|38}} {{+-|{{RA||1|52}}|{{RA||1|19}}}} & thinsp; < /span > < ref name= " NASA-20190118 " > {{cite news |last1=McCartney |first1=Gretchen |last2=Wendel |first2=JoAnna |title=Scientists Finally Know What Time It Is on Saturn |url=https://www.jpl.nasa.gov/news/news.php?feature=731 |date=18 January 2019 |work=[[NASA]] |access-date=18 January 2019 |archive-date=29 August 2019 |archive-url=https://web.archive.org/web/20190829054935/https://www.jpl.nasa.gov/news/news.php?feature=731 |url-status=dead }} < /ref > < ref name= " APJ-20190117 " > {{cite journal |author=Mankovich, Christopher |display-authors=etal |title=Cassini Ring Seismology as a Probe of Saturn's Interior. I. Rigid Rotation |date=17 January 2019 |journal=[[The Astrophysical Journal]] |volume=871 |pages=1 |number=1 |doi=10.3847/1538-4357/aaf798 |arxiv=1805.10286 |bibcode=2019ApJ...871....1M |s2cid=67840660 |doi-access=free }} < /ref > 
+ | rot_velocity           = {{convert|9.87|km/s|mi/s km/h|abbr=unit}} < ref group=lower-alpha name=1bar / > 
+ | axial_tilt             = 26.73° {{small|(to orbit)}} 
+ | right_asc_north_pole   = 40.589°; {{RA|2|42|21}} 
+ | declination            = 83.537° 
+ | albedo                 =  
+   {{plainlist | 
+ * 0.342 ([[Bond albedo|Bond]]) < ref name= " Hanel_et_al " / > 
+ * 0.499 ([[Geometric albedo|geometric]]) < ref name= " Mallama_et_al " / > 
+   }} 
+ | temp_name1             = 1 [[bar (unit)|bar]] 
+ | mean_temp_1            = 134 K 
+ | temp_name2             = 0.1 [[bar (unit)|bar]] 
+ | min_temp_2             = 88 K < ref name= " min_max " > {{cite web |title=Saturn's Temperature Ranges |url=https://sciencing.com/saturns-temperature-ranges-7704.html |website=Sciencing}} < /ref > 
+ | mean_temp_2            = 97 K < ref > {{cite web |title=The Planet Saturn |url=https://www.weather.gov/fsd/saturn |website=National Weather Service}} < /ref > 
+ | max_temp_2             = 151 K < ref name= " min_max " / > 
+ | magnitude              = −0.55 < ref name= " Mallama_and_Hilton "  / >  to +1.17 < ref name= " Mallama_and_Hilton " / > 
+ | angular_size           = 14.5″ to 20.1″ (excludes rings) 
+ | atmosphere_ref         =  < ref name= " fact "  / > 
+ | surface_pressure       = 140 & nbsp;kPa < ref > {{cite web |title=On The Atmospheres Of Different Planets |first=Robin |last=Knecht |date=24 October 2005 |url=http://www.tp.umu.se/space/Proj_05/Robin.K.pdf |access-date=14 October 2017 |archive-url=https://web.archive.org/web/20171014234631/http://www.tp.umu.se/space/Proj_05/Robin.K.pdf |archive-date=14 October 2017 |url-status=dead }} < /ref > 
+ | scale_height           = {{convert|59.5|km|mi|abbr=unit}} 
+ | atmosphere_composition = {{aligned table|cols=2 
+ | {{val|96.3|2.4|u=%}} |[[hydrogen]] ({{chem2|H2}}) 
+ | {{val|3.25|2.4|u=%}} |[[helium]] ({{chem2|He}}) 
+ | {{val|0.45|0.2|u=%}} |[[methane]] ({{chem2|CH4}}) 
+ | {{val|0.0125|0.0075|u=%}} |[[ammonia]] ({{chem2|NH3}}) 
+ | {{val|0.0110|0.0058|u=%}} |[[hydrogen deuteride]] (HD) 
+ | {{val|0.0007|0.00015|u=%|fmt=none}} |[[ethane]] ({{chem2|C2H6}}) 
+ }}'''Ices''': 
+ * [[ammonia]] ({{chem2|NH3}}) 
+ * [[water]] ({{chem2|H2O}}) 
+ * [[ammonium hydrosulfide]] ({{chem2|NH4SH}}) 
+ }} 
+ 
+ '''Saturn''' is the sixth [[planet]] from the [[Sun]] in the [[Solar System]].  
+ 
+ Saturn is one of the four [[gas giant]] planets in the Solar System, with [[Jupiter]], [[Uranus]], and [[Neptune]]. It is the second largest planet in the Solar System (Jupiter is larger). < ref > {{Cite web|title=Saturn: Facts|url=https://science.nasa.gov/saturn/facts/|access-date=9 November 2023|website=[[NASA]]|language=en}} < /ref > 
+ 
+ Saturn was named after the [[Roman mythology|Roman god]] [[Saturn (mythology)|Saturn]] He was the Roman equivalent of the [[Greek mythology|Greek god]] [[Kronos]]. < ref > {{cite web |url=http://www.credoreference.com/entry/hfcwd/cronia_kronia |title=Cronia (Kronia) |work=Holidays, Festivals, and Celebrations of the World Dictionary |year=2010 |access-date=July 11, 2011}} < /ref >  Saturn's symbol is ♄ which is the symbol of Saturnus' [[sickle]]. < ref > {{cite web |last=Crystal |first=Ellie |title=Saturn Mythology |url=http://www.crystalinks.com/saturnmyth.html |work=Crystalinks.com |access-date=February 28, 2007}} < /ref > 
+ 
+ Inside Saturn is probably a [[planetary core|core]] of [[iron]], [[nickel]], [[silicon]] and [[oxygen]] compounds, surrounded by a deep layer of [[metallic hydrogen]], then a layer of [[liquid]] [[hydrogen]] and liquid [[helium]] and finally, an outer [[gas]]eous layer. < ref name= " Composition ref " > {{cite web|url=http://www.astrophysicsspectator.com/topics/planets/GiantGaseousPlanets.html| title = Giant gaseous planets| access-date = July 5, 2010| last=Brainerd, Jerome James 2004| publisher = The Astrophysics Spectator}} < /ref > 
+ 
+ Saturn has 145 known [[Natural satellite|moons]] [[orbit]]ing the planet. < ref > {{cite web 
+ |title=Planetary Satellite Discovery Circumstances 
+ |url=https://ssd.jpl.nasa.gov/?sat_discovery 
+ |publisher=NASA 
+ |access-date=December 28, 2019}} < /ref >  The largest moon is [[Titan (moon)|Titan]]. Titan is larger in [[volume]] than the planet [[Mercury (planet)|Mercury]]. It is the second-largest moon in the Solar System. The largest moon is a moon of Jupiter, [[Ganymede (moon)|Ganymede]]. There are also many [[planetary ring|rings]] around Saturn. These rings are made of [[ice]] with some [[minerals|rocks]] and dust. Some people think that that the rings were made by a moon [[Impact event|impact]] or other event. Saturn is about 1,433,000,000 [[kilometer|km]] (870,000,000 [[mile|mi]]) on average from the Sun. Saturn takes 29.6 [[Julian year (astronomy)|Earth years]] to move around the Sun.{{cn}} 
+ 
+ == Physical features == 
+ [[File:Saturn Earth Comparison.png|thumbnail|right|220 px|alt=Saturn compared to Earth|Saturn compared with the size of the [[Earth]]]] 
+ [[File:Saturn Robert Hooke 1666.jpg|thumb|alt=Pen sketch with several labelled rings|Drawing of Saturn by [[Robert Hooke]] in 1666]] 
+ 
+ Saturn is an sphere. This means that it is flattened at the [[Geographical pole|poles]] and wider around the [[equator]]. < ref name=rgo / > In other words, Saturn is FAT! The planet's [[Equator|equatorial]] [[diameter]] is {{convert|120536|km|mi|0|lk=off|abbr=on}}. Its polar diameter (the distance from the north pole to the south pole through the centre) is {{convert|108728|km|mi|0|lk=off|abbr=on}}. This is a 9% difference. < ref > {{cite web |url=http://www.jpl.nasa.gov/news/press_kits/cassini-arrival.pdf |title=Cassini–Huygens Saturn arrival |page=9 |work=Press kit June 2004| publisher=National Aeronautics and Space Administration |access-date=June 25, 2011}} < /ref >  Saturn has a flattened shape because of its very fast [[rotation]]. It rotates once every 10.8 hours. 
+ 
+ Saturn is the only planet in the Solar System that is less [[density|dense]] than [[water]]. Even though the planet's [[planetary core|core]] is very dense, it has a [[Gas|gaseous]] [[atmosphere]]. This makes its average density is 0.69 & nbsp;g/cm < sup > 3 < /sup > . This means if Saturn could be placed in a large pool of water, it would float. < ref > {{cite book |title=Voyager: Exploring the outer planets |url=https://archive.org/details/voyagerexploring00verb |last=Verba |first=Joan Marie |year=1991 |publisher=FTL Publications |isbn=0-9825232-0-3 |page=[https://archive.org/details/voyagerexploring00verb/page/20 20]}} < /ref > 
+ 
+ === Atmosphere === 
+ The outer part of Saturn's atmosphere is made up of about 96% [[hydrogen]], 3% [[helium]], 0.4% [[methane]] and 0.01% [[ammonia]]. There is also some [[acetylene]], [[ethane]] and [[phosphine]]. < ref name= " Mira " > {{cite web |url=http://www.mira.org/fts0/planets/100/text/txt002x.htm |title= Saturn |work=MIRA: field trips to the stars: the Solar System|year=2006 |publisher= Monterey Institute of Research in Astronomy |access-date=June 19, 2011}} < /ref > 
+ [[File:Saturn hexagonal north pole feature.jpg|thumbnail|right|alt=The hexagonal cloud|The north polar [[hexagon]]al cloud first found by [[Voyager 1]] and later by [[Cassini-Huygens|Cassini]]]] 
+ 
+ Saturn's [[cloud]]s show a banded pattern. This is like the cloud bands seen on Jupiter. Saturn's clouds are much [[wikt:faint#Adjective|fainter]] and the bands are wider at the equator. Saturn's lowest cloud layer is made up of water ice. It is about {{convert|10|km|mi|0|lk=off|abbr=on}} thick. < ref name= " Mira "  / >  The [[temperature]] there is quite low, at 250 [[Kelvin|K]] (-10°[[Fahrenheit|F]], -23°[[Celsius|C]]). However, scientists do not all agree on this. The layer above is made up of [[ammonium sulfide|ammonium hydrosulfide]] ice. It is about {{convert|77|km|mi|0|lk=off|abbr=on}} thick. Above it is a layer of ammonia ice clouds which are {{convert|80|km|mi|0|lk=off|abbr=on}} thick. < ref name= " Mira "  / >  The highest layer is made up of hydrogen and helium gases. It goes to between {{convert|200|km|mi|0|lk=off|abbr=on}} and {{convert|270|km|mi|0|lk=off|abbr=on}} above the water cloud tops. [[Aurora]]s can be seen in Saturn in the [[mesosphere]]. < ref name= " Mira "  / >  The temperature at Saturn's cloud tops is very low, at 98 K (-283 & nbsp;°F, -175 & nbsp;°C). The temperatures in the inner layers are much higher than the outside layers because of the [[heat]] made by Saturn's inside. < ref name=heat > {{cite web |url=http://www.nasa.gov/mission_pages/cassini/whycassini/planet.html |title=A gas giant with super-fast winds |work=Cassini: unlocking Saturn's secrets |publisher=National Aeronautics and Space Administration |year=2007 |access-date=June 19, 2011 |archive-date=March 4, 2011 |archive-url=https://web.archive.org/web/20110304152513/http://www.nasa.gov/mission_pages/cassini/whycassini/planet.html |url-status=dead }} < /ref >  Saturn's [[Wind|winds]] are some of the fastest in the Solar System. They can reach 1,800 [[kilometres per hour|km/h]] (1,118 [[miles per hour|mph]]), < ref > {{cite book |title=Probing the new solar system |last=Wilkinson |first=John |year=2009 |publisher=CSIRO Publishing |isbn=978-0-643-09575-5 |page=208 |url=https://books.google.com/books?id=hXmZP40vFksC |access-date=May 23, 2011}} < /ref >  ten times faster than winds on [[Earth]]. < ref > {{cite web |url=http://www.nasa.gov/mission_pages/cassini/whycassini/cassini_storms_on_saturn.html |title=Saturn's storms run rings around Earth's |first=Rosemary |last=Sullivant |work=Cassini: unlocking Saturn's secrets |publisher=National Aeronautics and Space Administration |access-date=May 24, 2011 |archive-date=June 6, 2011 |archive-url=https://web.archive.org/web/20110606043226/http://www.nasa.gov/mission_pages/cassini/whycassini/cassini_storms_on_saturn.html |url-status=dead }} < /ref > 
+ 
+ ==== Storms and spots ==== 
+ Saturn's atmosphere can make oval shaped clouds. This is like the clearer spots seen on Jupiter. These oval spots are cyclonic storms, the same as [[cyclone]]s seen on Earth. In 1990, the [[Hubble Space Telescope]] found a very large white cloud near Saturn's equator. Storms like the one in 1990 were known as [[Great White Spot]]s. These unique storms only exist for a short time and only happen about every 30 Earth years, at the time of the summer [[solstice]] in the [[Northern Hemisphere]]. < ref > {{cite journal |url=http://www.sciencedirect.com/science/article/pii/S0019103505000308 |title=Saturn's cloud structure and temporal evolution from ten years of Hubble Space Telescope images (1994–2003) |last=S. Pérez-Hoyos, A. Sánchez-Lavega, R.G. French, J.F. Rojas. |journal=Icarus |year=2005 |volume=176 |issue=1 |pages=155–174 |doi=10.1016/j.icarus.2005.01.014 |bibcode=2005Icar..176..155P |access-date=June 19, 2011}} < /ref >  Great White Spots were also found in 1876, 1903, 1933, and 1960. 
+ 
+ The [[Voyager 1]] spacecraft found a [[hexagon]]al cloud [[pattern]] near Saturn's north pole at about [[longitude|78°N]]. The [[Cassini−Huygens]] probe later [[wikt:confirm|confirmed]] it in 2006. Unlike the north pole, the south pole does not show any hexagonal clouds. The probe also found a [[hurricane]]-like storm on the south pole that showed an [[eye (cyclone)|eyewall]]. Until this finding, eyewalls had only been seen on Earth. < ref > {{cite web |url=https://www.newscientist.com/article/dn10499 |title=Spectacular storm rages on Saturn's south pole  |first= Maggie|last=McKee |work=New Scientist Magazine |date=2006-11-06 |access-date=April 21, 2011}} < /ref > 
+ 
+ === Interior === 
+ Saturn's inside is similar to Jupiter's inside. It has a small rocky core about the size of the Earth at its [[center]]. < ref name=rgo > {{cite web |url=http://www.oarval.org/section3_11.htm |title=Saturn |work=Information Leaflet No. 42|publisher=[[Royal Observatory, Greenwich|Royal Greenwich Observatory]] |year=2009 |access-date=April 26, 2011}} < /ref >  It is very hot. Its [[temperature]] reaches 15,000 [[Kelvin|K]] ({{convert|26540|F|C|0|lk=off|abbr=on}}). Saturn is so hot that it gives out more [[heat energy]] into space than it gets from the [[Sun]]. < ref name=heat / >  Above it is a thicker layer of metallic hydrogen, about {{convert|30000|km|mi|0|lk=off|abbr=on}} deep. Above that layer is a region of liquid hydrogen and helium. < ref > {{cite web |url=http://www.nmm.ac.uk/explore/astronomy-and-time/astronomy-facts/solar-system/saturn |title=Saturn |work=Solar System |publisher=National Maritime Museum |date=2005-10-04 |access-date=June 19, 2011 |archive-date=June 13, 2011 |archive-url=https://web.archive.org/web/20110613050453/http://www.nmm.ac.uk/explore/astronomy-and-time/astronomy-facts/solar-system/saturn |url-status=dead }} < /ref >  The core is heavy, with about 9 to 22 times more mass than the Earth's core. < ref > {{cite web|url=http://www.sciencemag.org/cgi/content/full/305/5689/1414 |title=Looking into the giant planets |first=Jonathon J. |last=Fortney |work=Science 305 (5689): 1414–1415|year=2004 |access-date= April 30, 2007}} < /ref > 
+ 
+ === Magnetic field === 
+ Saturn has a natural [[magnetic field]] that is weaker than Jupiter's. Like the Earth's, Saturn's field is a magnetic [[dipole]] (it has a North and a South). Saturn's field is unique in that it is perfectly [[symmetrical]], unlike any other known planet. < ref name=sutton / >  This means the field is exactly in line with the planet's [[axis of rotation|axis]]. < ref name=sutton > {{cite web |url=https://books.google.com/books?id=oqqoUMj9-pUC & dq=Saturn+symmetrical+axis & pg=PA509 |title=Saturn yields to Voyager's brief caress |first=Christine |last=Sutton |work=New Scientist Magazine |date=1981-08-27 |access-date=June 19, 2011 }}{{Dead link|date=November 2023 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  Saturn generates [[radio wave]]s, but they are too weak to be detected from Earth. < ref > {{cite journal|last1=Smith|first1=A. G.|last2=Carr|first2=T. D.|title=Radio-Frequency Observations of the Planets in 1957–1958|url=https://archive.org/details/sim_astrophysical-journal_1959-09_130_2/page/641|journal=The Astrophysical Journal|volume=130|pages=641–647|year=1959|doi=10.1086/146753|bibcode=1959ApJ...130..641S|ref=Smith}} < /ref >  The moon Titan orbits in the outer part of Saturn's magnetic field and gives out [[Plasma (physics)|plasma]] to the field from the [[ion]]ised [[Particle|particles]] in Titan's atmosphere. < ref > {{cite encyclopedia |url=http://www-ssc.igpp.ucla.edu/personnel/russell/papers/sat_mag.html |title=Saturn: magnetic field and magnetosphere |last=Russell C.T.; Luhmann J.G. |encyclopedia=Encyclopedia of Planetary Sciences |publisher=Chapman and Hall |location=New York |pages=718–719 |year=1997 |access-date=June 20, 2011 |archive-date=October 5, 2011 |archive-url=https://www.webcitation.org/62DA9rN1s?url=http://www-ssc.igpp.ucla.edu/personnel/russell/papers/sat_mag.html |url-status=dead }} < /ref > 
+ 
+ == Rotation and orbit == 
+ Saturn's average [[distance]] from the Sun is over 1,400,000,000 & nbsp;km (869,000,000 & nbsp;mi). This is about nine times the distance from the Earth to the Sun. It takes 10,759 days, or about 29.8 years, for Saturn to orbit around the Sun. < ref > {{cite web |url=http://www.nasa.gov/topics/nasalife/saturn_time.html |title=NASA image of Saturn featured in Time Magazine's 'Year in Pictures' |work=NASA in your life |publisher=National Aeronautics and Space Administration |date=2009-12-30 |access-date=June 24, 2011 |archive-date=2011-04-17 |archive-url=https://web.archive.org/web/20110417075258/http://www.nasa.gov/topics/nasalife/saturn_time.html |url-status=dead }} < /ref >  This is known as Saturn's ''orbital period''. 
+ 
+ Voyager 1 [[Measurement|measured]] Saturn's rotation as being 10 hours, 14 minutes at the equator, 10 hours, 40 minutes closer to the poles, and 10 hours, 39 minutes, 24 seconds for the planet's inside. < ref name=mira2 > {{cite web |url=http://www.mira.org/fts0/planets/100/text/txt001x.htm#orbital |title= Saturn: orbital and rotational information |work=MIRA: field trips to the stars: the Solar System |publisher= Monterey Institute for Research in Astronomy|year=2006 |access-date=July 6, 2011}} < /ref >  This is known as its ''rotational period''. 
+ 
+ Cassini measured the rotation of Saturn as being 10 hours, 45 minutes, 45 seconds ± 36 seconds. < ref name= " SFTSRPiaP "  / >  That is about six minutes longer than the radio rotational period measured by the Voyager 1 and Voyager 2 [[Spacecraft|spacecrafts]], which flew by Saturn in 1980 and 1981. 
+ 
+ Saturn's rotational period is calculated by the rotation speed of radio waves given off by the planet. The Cassini−Huygens spacecraft found that the radio waves slowed down. This suggested that the rotational period [[wikt:increase|increased]]. < ref name= " SFTSRPiaP " > {{cite web |url=http://www.nasa.gov/mission_pages/cassini/media/cassini-062804.html |title=Scientists find that Saturn's rotation period is a puzzle |first=Carolina |last=Martinez |work=Cassini: unlocking Saturn's secrets |publisher=National Aeronautics and Space Administration |date=2004-06-28 |access-date=June 24, 2011 |archive-date=2011-08-29 |archive-url=https://web.archive.org/web/20110829082445/http://www.nasa.gov/mission_pages/cassini/media/cassini-062804.html |url-status=dead }} < /ref >  Since scientists do not think Saturn's rotation is actually slowing down, the explanation may be that the magnetic field causes the radio waves. < ref name= " SFTSRPiaP "  / > 
+ 
+ == Planetary rings == 
+ {{Main|Rings of Saturn}} 
+ Saturn is best known for its [[planetary rings]] which are easy to see with a [[telescope]]. There are seven named rings: A, B, C, D, E, F, and G. < ref name=cosmos > {{cite journal  
+  |last=Lovett |first=Rick 
+  |date= June 2011 |title=Dance of the rings 
+  |journal=Cosmos |issue=39 |pages=57 
+  |url=http://www.cosmosmagazine.com/ |access-date= June 21, 2011}} < /ref >  They were named in the order they were found, which is different to their order from the planet. From the planet the rings are ordered: D, C, B, A, F, G and E. < ref name=cosmos / > {{rp|57}} 
+ 
+ Some scientists think that the rings are [[material]] left after a moon broke apart. < ref name=cosmos / > {{rp|60}} A new idea says that it was a very large moon, most of which crashed into the planet. This left a large amount of ice to form the rings and some of the moons. This includes [[Enceladus (moon)|Enceladus]], which is thought to be made of ice. < ref name=cosmos / > {{rp|61}} 
+ 
+ === History === 
+ The rings were first found by [[Galileo Galilei]] in 1610, using his telescope. They did not look like rings to Galileo. He called them  " handles " . He thought that Saturn was three different planets that were right next to each other. In 1612, when the rings were facing edge on with the Earth, the rings disappeared, then reappeared again in 1613, further confusing Galileo. < ref name= " history_of_the_rings " > {{cite web |url=http://www2.jpl.nasa.gov/saturn/back.html |title=Historical background of Saturn's rings |first=Ron |last=Baalke |work=www2.jpl.nasa.gov |publisher=National Aeronautics and Space Administration |year=2005 |access-date=July 6, 2011 |archive-date=March 21, 2009 |archive-url=https://web.archive.org/web/20090321071339/http://www2.jpl.nasa.gov/saturn/back.html |url-status=dead }} < /ref >  In 1655, [[Christiaan Huygens]] was the first person to say that Saturn was surrounded by rings. Using a much more powerful telescope than Galilei's, he said that Saturn  " is surrounded by a thin, flat, ring, nowhere touching... " . < ref name= " history_of_the_rings "  / >  In 1675, [[Giovanni Domenico Cassini]] found that the planet's rings were in fact made of smaller rings with gaps. The largest ring gap was later named the [[Rings of Saturn|Cassini Division]]. In 1859, [[James Clerk Maxwell]] showed that the rings cannot be solid, but are made of small particles, each orbiting Saturn on their own. Otherwise, it would become unstable or break apart. < ref > {{cite web |url=http://www-history.mcs.st-andrews.ac.uk/~history/Extras/Maxwell_Saturn.html |title=James Clerk Maxwell on the nature of Saturn's rings |first=James Clerk |last=Maxwell |work=www-history.mcs.st-andrews.ac.uk |year=1859 |access-date=June 19, 2011}} < /ref >  [[James Keeler]] studied the rings using a [[spectrometer|spectroscope]] in 1895 which proved Maxwell's theory. < ref > {{cite web |url=http://www.sil.si.edu/DigitalCollections/HST/Huygens/huygens-introduction.htm |title=Christiaan Huygens and his Systema Saturnium |author=Brashear, Ronald |date=May 1999 |publisher= [[Smithsonian Institution]] Libraries|access-date=April 19, 2011}} < /ref > 
+ 
+ === Physical features === 
+ The rings range from {{convert|6630|km|mi|0|lk=off|abbr=on}} to {{convert|120700|km|mi|0|lk=off|abbr=on}} above the planet's equator. While the equatorial circumference of Saturn is 378,675 km (235,298 miles). As proved by Maxwell, even though the rings appear to be solid and unbroken when viewed from above, the rings are made of small particles of rock and ice. They are only about {{convert|10|m|ft|0|lk=off|abbr=on}} thick; made of [[silicon dioxide|silica]] rock, [[iron oxide]] and ice particles. < ref name=cosmos / > {{rp|55}} The smallest particles are only specks of dust while the largest are the size of a house. The C and D rings also seem to have a  " wave "  in them, like waves in water. < ref name=cosmos / > {{rp|58}} These large waves are {{convert|500|m|ft|0|lk=off|abbr=on}} high, but only moving slowly at about {{convert|250|m|ft|0|lk=off|abbr=on}} each day. < ref name=cosmos / > {{rp|58}} Some scientists believe that the wave is caused by Saturn's moons. < ref > {{cite web |url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn & Display=Rings |title=Saturn: Rings |work=Solar System exploration| publisher=National Aeronautics and Space Administration |date=2011-03-22 |access-date=June 19, 2011}} < /ref >  Another idea is the waves were made by a [[comet]] hitting Saturn in 1983 or 1984. < ref name=cosmos / > {{rp|60}} 
+ 
+ The largest gaps in the rings are the Cassini Division and the [[Rings of Saturn|Encke Division]], both visible from the [[Earth]]. The Cassini Division is the largest, measuring {{convert|4800|km|mi|0|lk=off|abbr=on}} wide. < ref name= " Cassini_Division " > {{cite web |url=http://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/cassini_division.html |title=StarChild: Saturn's Cassini Division |work=The Solar System| publisher= National Aeronautics and Space Administration |year=2011 |access-date=June 19, 2011}} < /ref >  However, when the Voyager spacecrafts visited Saturn in 1980, they discovered that the rings are a complex structure, made out of thousands of thin gaps and ringlets. Scientists believe this is caused by the [[gravity|gravitational force]] of some of Saturn's moons. The tiny moon [[Pan (moon)|Pan]] orbits inside Saturn's rings, creating a gap within the rings. Other ringlets keep their structure due to the gravitational force of [[shepherd satellite]]s, such as [[Prometheus (moon)|Prometheus]] and [[Pandora (moon)|Pandora]]. Other gaps form due to the gravitational force of a large moon farther away. The moon [[Mimas (moon)|Mimas]] is responsible for clearing away the Cassini gap. < ref name= " Cassini_Division "  / > 
+ 
+ Recent data from the Cassini spacecraft has shown that the rings have their own atmosphere, free from the planet's atmosphere. The rings' atmosphere is made of oxygen gas, and it is produced when the Sun's [[ultraviolet]] light breaks up the water ice in the rings. [[Chemical reaction|Chemical reactions]] also occur between the ultraviolet light and the water [[molecule]]s, creating hydrogen gas. The oxygen and hydrogen atmospheres around the rings are very widely spaced. < ref > {{cite news |url=http://news.bbc.co.uk/2/hi/science/nature/4640641.stm |title=Saturn rings have own atmosphere |first=Paul |last=Rincon |work=[[BBC News]] |date=July 1, 2005 |publisher=[[BBC]] |location=London |access-date=June 19, 2011}} < /ref >  As well as oxygen and hydrogen gas, the rings have a thin atmosphere made of [[hydroxide]] (a combination of oxygen and hydrogen called an anion), which was discovered by the Hubble Space Telescope. < ref > {{cite journal |url=http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006ApJ...644L.137J & amp;db_key=AST & amp;data_type=HTML & amp;format= & amp;high=42bf06f4d906731%20The%20Enceladus%20and%20OH%20Tori%20at%20Saturn |title=The Enceladus and OH Tori at Saturn |first= R.E.|last=Johnson |journal=SAO/NASA ADS Astronomy Abstract Service |year=2006 |volume=644 |issue=2 |pages=L137–L139 |doi=10.1086/505750 |bibcode=2006ApJ...644L.137J |s2cid=37698445 |access-date=June 19, 2011}} < /ref > 
+ 
+ === Spokes === 
+ [[File:Voyager 2 - Saturn Rings - 3085 7800 2.png|thumb|right|alt=The spokes in Saturn's rings|The spokes in Saturn's rings, photographed by Voyager 2]] 
+ 
+ The Voyager space probe discovered features shaped like [[ray]]s, called spokes. < ref name=malik > {{cite web |url=http://www.space.com/1554-cassini-probe-spies-spokes-saturn-rings.html |title=Cassini Probe spies spokes in Saturn's rings |first=Tariq |last=Malik |work=space.com |date=2005-09-15 |access-date=April 26, 2011}} < /ref >  These were also seen later by the Hubble telescope. The Cassini probe [[photograph]]ed the spokes in 2005. < ref name=malik / >  They appear dark when lit by sunlight, and appear light against the unlit side of the planet. At first it was thought the spokes were made of microscopic dust particles, but new evidence shows that they are made of ice. < ref > {{cite web |url=http://www.nasa.gov/mission_pages/cassini/media/cassini-070204.html |title=Cassini exposes puzzles about ingredients in Saturn's rings |work=Cassini: unlocking Saturn's secrets |publisher=National Aeronautics and Space Administration |date=2009-06-02 |access-date=May 24, 2011 |archive-date=2010-12-24 |archive-url=https://web.archive.org/web/20101224112125/http://www.nasa.gov/mission_pages/cassini/media/cassini-070204.html |url-status=dead }} < /ref > 
+ They rotate at the same rate as the planet's [[magnetosphere]], therefore, it is believed that they have a connection with [[electromagnetism]]. However, what causes the spokes to form is still unknown. They appear to be [[season]]al, disappearing during [[solstice]] and appearing again during [[equinox]]. < ref > {{cite web |url=http://apod.nasa.gov/apod/ap090602.html |title=Spoke's reappear on Saturn's rings |work=Astronomy Picture Of The Day| publisher=National Aeronautics and Space Administration |date=2009-06-02 |access-date=April 26, 2011}} < /ref > 
+ 
+ == Moons == 
+ 
+ Saturn has [[List of Saturn's moons|53 named moons]], and another 29 which are still being studied. < ref > {{cite web |url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn & Display=Moons |title=Saturn: Moons |work=Solar System exploration: planets |publisher=National Aeronautics and Space Administration |year=2011 |access-date=April 21, 2011 |archive-date=March 16, 2011 |archive-url=https://web.archive.org/web/20110316014904/http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn & Display=Moons |url-status=dead }} < /ref >  Many of the moons are very small: 33 are less than {{convert|10|km|mi|0|lk=off|abbr=on}} in diameter and 13 moons are less than {{convert|50|km|mi|0|lk=off|abbr=on}}. < ref > {{cite web |url=http://saturn.jpl.nasa.gov/science/moons/ |title=About Saturn and its moons |work=Cassini Solstice Mission| publisher= National Aeronautics and Space Administration |year=2011 |access-date=June 25, 2011}} < /ref >  Seven moons are large enough to be a near perfect [[sphere]] caused by their own [[gravity]]. These moons are [[Titan (moon)|Titan]], [[Rhea (moon)|Rhea]], [[Iapetus (moon)|Iapetus]], [[Dione (moon)|Dione]], [[Tethys (moon)|Tethys]], [[Enceladus (moon)|Enceladus]] and Mimas. < ref name= " SpaceStottCarole " > {{cite book |last= Stott |first=Carole |author2= Robert Dinwiddle, David Hughes and Giles Sparrow |title= Space |url=https://books.google.com/books?id=PA0Zj07An30C |publisher=DK Books |year=2010 |isbn=978-0-7566-6738-2 |page=161 |access-date= June 20, 2011}} < /ref >  Titan is the largest moon, larger than the planet Mercury, and it is the only moon in the Solar System to have a thick, dense atmosphere. < ref > {{cite web |url=http://www.astrobio.net/index.php?option=com_retrospection & task=detail & id=1755 |title=Titan: a moon with atmosphere |first=Chris |last=McKay |work=Astrobiology Magazine |date=2005-10-27 |access-date= June 20, 2011}} < /ref > < ref name=Zubrin > {{cite book |author=Zubrin, Robert |title= Entering space: creating a spacefaring civilization |url=https://archive.org/details/enteringspacecre0000zubr |location=Section: Titan |pages=[https://archive.org/details/enteringspacecre0000zubr/page/163 163]–166 |publisher=Tarcher/Putnam |year=1999 |isbn= 978-1-58542-036-0}} < /ref >  [[Hyperion (moon)|Hyperion]] and [[Phoebe (moon)|Phoebe]] are the next largest moons, larger than {{cvt|200|km|mi|0}} in diameter. 
+ 
+ Between December 2004 and January 2005 a man-made satellite called the Cassini−Huygens probe took lots of close photos of Titan. One part of this satellite, known as the Huygens probe, landed on Titan, on land. Named after the Dutch astronomer Christiaan Huygens, it was the first spacecraft to land in the outer Solar System. < ref name= " hug " > {{cite web |url=http://solarsystem.nasa.gov/missions/profile.cfm?Sort=Target & Target=Saturn & MCode=Huygens |title=Huygens |work=Solar System exploration |publisher=National Aeronautics and Space Administration |year=2011 |access-date=April 22, 2011 |archive-date=August 8, 2011 |archive-url=https://web.archive.org/web/20110808211722/http://solarsystem.nasa.gov/missions/profile.cfm?Sort=Target & Target=Saturn & MCode=Huygens |url-status=dead }} < /ref >  The probe was designed to float in case it landed in liquid. < ref name= " hug "  / >  Its batteries lasted about 3 hours. Enceladus, the sixth largest moon, is about {{cvt|500|km|mi|0}} in diameter. It is one of the few outer solar system objects that shows [[volcano|volcanic]] activity. < ref name= " lloyd " > {{cite web |url=http://www.cosmosmagazine.com/news/4251/footprint-detected-one-saturns-moons |title=Footprint detected from one of Saturn's moons |first=James |last=Lloyd |work=cosmosmagazine.com |date=2011-04-21 |access-date=April 21, 2011 |archive-date=July 4, 2011 |archive-url=https://web.archive.org/web/20110704210340/http://www.cosmosmagazine.com/news/4251/footprint-detected-one-saturns-moons |url-status=dead }} < /ref >  In 2011, scientists discovered an electric link between Saturn and Enceladus. This is caused by [[ionization|ionised]] particles from volcanos on the small moon interacting with Saturn's magnetic fields. < ref name= " lloyd "  / >  Similar interactions cause the [[aurora|northern lights]] on Earth. < ref > {{cite web |url=https://www.bbc.co.uk/news/science-environment-13131537 |title=Aurora from Saturn moon 'circuit' |work=BBC News |publisher=BBC |date=2011-04-21 |access-date=July 6, 2011}} < /ref > 
+ 
+ == Exploration == 
+ [[File:Saturn from Cassini Orbiter (2007-01-19).jpg|thumbnail|right|alt=Saturn from Cassini orbiter|Saturn as seen from the Cassini spacecraft in 2007]] 
+ Saturn was first explored by the [[Pioneer 11]] spacecraft in September 1979. It flew as close as {{convert|20000|km|mi|0|lk=off|abbr=on}} above the planet's cloud tops. It took photographs of the planet and a few of its moons, but were low in [[wikt:resolution|resolution]]. It discovered a new, thin ring called the F ring. It also discovered that the dark ring gaps appear bright when viewed towards the [[Sun]], which shows the gaps are not empty. The spacecraft measured the temperature of the moon Titan. < ref > {{cite web |url=http://spaceprojects.arc.nasa.gov/Space_Projects/pioneer/PN10 & 11.html |title=The Pioneer 10  &  11 Spacecraft |archive-url=https://web.archive.org/web/20060130100401/http://spaceprojects.arc.nasa.gov/Space_Projects/pioneer/PN10%2611.html |publisher=Ames Research Center, NASA |date=October 8, 2005 |archive-date=January 30, 2006 |access-date=September 13, 2020 |url-status=dead }} Mission Descriptions. Retrieved July 5, 2007. < /ref > 
+ 
+ In November 1980, Voyager 1 visited Saturn and took higher resolution photographs of the planet, rings, and moons. These photos showed some of the surface features of the moons. Voyager 1 went close to Titan and gained much information about its atmosphere. In August 1981, [[Voyager 2]] continued to study the planet. Photos taken by the space probe showed that changes were happening to the rings and atmosphere. The Voyager spacecraft discovered a number of moons orbiting close to Saturn's rings, as well as discovering new ring gaps. 
+ 
+ [[File:Cassini Saturn Orbit Insertion.jpg|thumbnail|right|Drawing of Cassini in orbit around Saturn]] 
+ 
+ On July 1, 2004, the Cassini−Huygens probe entered into orbit around Saturn. Before then, it flew close to [[Phoebe (moon)|Phoebe]], taking very high-resolution photos of its surface and collecting data. On December 25, 2004, the Huygens probe separated from the Cassini probe before moving towards Titan's surface and landed on January 14, 2005. It landed on a dry surface, but it found that large bodies of liquid exist on the moon. The Cassini probe continued to collect data from Titan and a number of the icy moons. It found evidence that the moon Enceladus had water erupting from its [[geyser]]s. < ref > {{cite web |url=http://science.nasa.gov/science-news/science-at-nasa/2006/09mar_enceladus/ |title=Radical! Liquid water on Enceladus |work=Science News |publisher=National Aeronautics and Space Administration |date=2006-03-09 |access-date=June 20, 2011 |archive-date=2011-06-23 |archive-url=https://web.archive.org/web/20110623093434/http://science.nasa.gov/science-news/science-at-nasa/2006/09mar_enceladus/ |url-status=dead }} < /ref >  Cassini also proved, in July 2006, that Titan had [[Lakes of Titan|hydrocarbon lakes]], located near its north pole. In March 2007, it discovered a large hydrocarbon lake the size of the [[Caspian Sea]] near its north pole. < ref > {{cite news |url=http://news.bbc.co.uk/2/hi/science/nature/6449081.stm |title=Probe reveals seas on Saturn moon |first=Paul |last=Rincon|work=BBC News |date=March 14, 2007 |publisher=BBC |location=London|access-date=June 20, 2011}} < /ref > 
+ 
+ Cassini observed [[lightning]] occurring in Saturn since early 2005. The power of the lightning was measured to be 1,000 times more powerful than lightning on Earth. Astronomers believe that the lightning observed in Saturn is the strongest ever seen. < ref > {{cite web |url=http://www.sciencedaily.com/releases/2006/02/060215090726.htm |title=Astronomers find giant lightning storm at Saturn |work=sciencedaily.com |date=2006-02-15  |access-date=June 20, 2011}} < /ref > 
+ 
+ == Notes == 
+ *{{note label|1bar|a|a}}Refers to the level of one bar [[atmospheric pressure]] 
+ *{{note label|B_Center|b|b}}Orbital information is based on the [[barycentre]] of the Saturn system, the centre of [[mass]], not the [[geometry|geometric centre]]. Barycentre measurements are used because they are not changed by the daily movement of the moons. < ref > {{cite book 
+ |first1=James H. 
+ |last1=Shirley 
+ |first2=Rhodes W. 
+ |last2=Fairbridge 
+ |date=1997 
+ |title=Encyclopedia of Planetary Sciences 
+ |publisher=Springer 
+ |location=New York 
+ |page=62 
+ |url=https://books.google.com/books?id=dw2GadaPkYcC & dq=Barycenter & pg=PA62 
+ |isbn=978-0-412-06951-2}} < /ref > 
+ 
+ == Related pages == 
+ * [[List of planets]] 
+ 
+ == References == 
+ {{reflist 
+ | refs = 
+ 
+ < ref name= " CSeligman " > {{cite web |url=http://cseligman.com/text/sky/rotationvsday.htm |title=Rotation Period and Day Length |last=Seligman |first=Courtney |access-date=13 August 2009 |archive-url=https://web.archive.org/web/20110728200555/http://cseligman.com/text/sky/rotationvsday.htm |archive-date=28 July 2011 |url-status=live }} < /ref > 
+ 
+ < ref name=Souami_Souchay_2012 > {{cite journal 
+  | title=The solar system's invariable plane 
+  | last1=Souami | first1=D. | last2=Souchay | first2=J. 
+  | journal=Astronomy  &  Astrophysics 
+  | volume=543 | id=A133 | pages=11 | date=July 2012 
+  | doi=10.1051/0004-6361/201219011 | bibcode=2012A & A...543A.133S | doi-access=free }} < /ref > 
+ 
+ < ref name= " nasafact " > {{cite web |url=http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn & Display=Facts |title=NASA: Solar System Exploration: Planets: Saturn: Facts  &  Figures |publisher=Solarsystem.nasa.gov |date=22 March 2011 |access-date=8 August 2011 |archive-url=https://web.archive.org/web/20110902084432/http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn & Display=Facts |archive-date=2 September 2011 |url-status=dead }} < /ref > 
+ 
+ < ref name= " fact " > {{cite web |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html |title=Saturn Fact Sheet |publisher=NASA |last=Williams |first=David R. |access-date=12 October 2017 |date=23 December 2016 |archive-url=https://web.archive.org/web/20170717071200/https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html |archive-date=17 July 2017 |url-status=dead }} < /ref > 
+ 
+ < ref name=walter2003 > {{cite book |first=Elizabeth |last=Walter |date=21 April 2003 |title=Cambridge Advanced Learner's Dictionary |publisher=Cambridge University Press |edition=Second |isbn=978-0-521-53106-1}} < /ref > 
+ 
+ < ref name=VSOP87 > {{cite journal |title=Numerical expressions for precession formulae and mean elements for the Moon and planets |journal=Astronomy and Astrophysics |volume=282 |issue=2 |pages=663–683 |date=February 1994 |last1=Simon |first1=J.L. |last2=Bretagnon |first2=P. |last3=Chapront |first3=J. |last4=Chapront-Touzé |first4=M. |last5=Francou |first5=G. |last6=Laskar |first6=J. |bibcode=1994A & A...282..663S}} < /ref > 
+ 
+ < ref Name= " Mallama_and_Hilton " > {{cite journal |author=Mallama, A. |author2=Hilton, J.L. |title=Computing Apparent Planetary Magnitudes for The Astronomical Almanac |journal=Astronomy and Computing |volume=25 | pages=10–24 |date=2018 |doi=10.1016/j.ascom.2018.08.002 |bibcode=2018A & C....25...10M|arxiv=1808.01973 |s2cid=69912809 }} < /ref > 
+ 
+ < ref name= " Hanel_et_al " > {{cite journal |title=Albedo, internal heat flux, and energy balance of Saturn |first1=R.A. |last1=Hanel |display-authors=etal |journal=Icarus |volume=53 |issue=2 |pages=262–285 |date=1983 |doi=10.1016/0019-1035(83)90147-1 |bibcode=1983Icar...53..262H }} < /ref > 
+ 
+ < ref name= " Mallama_et_al " > {{cite journal |title=Comprehensive wide-band magnitudes and albedos for the planets, with applications to exo-planets and Planet Nine |journal=Icarus |first1=Anthony |last1=Mallama |first2=Bruce |last2=Krobusek |first3=Hristo |last3=Pavlov |volume=282 |pages=19–33 |date=2017 |doi=10.1016/j.icarus.2016.09.023 |bibcode=2017Icar..282...19M |arxiv=1609.05048 |s2cid=119307693 }} < /ref > 
+ }} 
+ '''Notes''' 
+ {{Reflist|group=lower-alpha}} 
+ 
+ == Further reading == 
+ {{sisterlinks|Saturn|commonscat=yes|commons=Saturn (planet)}} 
+ * {{cite web |url=http://www.spacetelescope.org/images/?search=SATURN |title=Images of Saturn |work=spacetelescope.org |year=2011 |access-date=June 19, 2011}} 
+ * {{cite web |url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html |title=Saturn Earth comparison |work=Saturn fact Sheet| publisher=NASA |year=2011 |access-date=June 19, 2011}} 
+ * {{cite web |url=http://www.affs.org/html/studies_on_the_rings_of_saturn.html |title=Studies on the Rings of Saturn |last=Vladimir V. Tchernyi, Andrew Ju. Pospelov, Serge V. Girich |work=The Academy for Future Science |year=2009 |access-date=June 19, 2011 |archive-date=June 11, 2016 |archive-url=https://web.archive.org/web/20160611212635/http://www.affs.org/html/studies_on_the_rings_of_saturn.html |url-status=dead }} Theoretical description of the rings of Saturn. 
+ *{{cite web |url=http://www.nasa.gov/mission_pages/cassini/multimedia/pia07966.html |title=Eerie sounds of Saturn's radio emissions |work=Cassini: unlocking Saturn's secrets |publisher=NASA |year=2008 |access-date=June 19, 2011 |archive-date=March 28, 2023 |archive-url=https://web.archive.org/web/20230328102645/https://www.nasa.gov/mission_pages/cassini/multimedia/pia07966.html |url-status=dead }} A [[WAV]] file of radio emissions from Saturn. 
+ * {{cite web |url=http://www.jpl.nasa.gov/news/news.cfm?release=2007-034 |title=Bizarre hexagon on Saturn |work=News and Features |publisher=NASA |year=2011 |access-date=June 19, 2011 |archive-date=December 16, 2009 |archive-url=https://web.archive.org/web/20091216231717/http://www.jpl.nasa.gov/news/news.cfm?release=2007-034 |url-status=dead }} 
+ 
+ {{Solar System}} 
+ {{authority control}} 
+ 
+ [[Category:Saturn| ]]

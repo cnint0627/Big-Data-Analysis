@@ -1,0 +1,42 @@
+{{Infobox OS 
+ | name                   = Xubuntu 
+ | logo                   = Xubuntu logo and wordmark.svg 
+ | screenshot             = File:Xubuntu 21.10 Desktop en.png 
+ | caption                = Xubuntu 21.10  " Impish Indri " 
+ | developer              = Community 
+ | family                 = [[Linux]] ([[Unix-like]]) 
+ | source_model           = [[Open-source software|Open source]] 
+ | released               = {{Start date and age|df=yes|2006|06|23}} 
+ | latest_release_version = 21.10 
+ | latest_release_date    = {{Start date and age|2021|10|14|df=yes}} 
+ | latest preview version =  
+ | language               = Multilingual 
+ | kernel_type            = [[Monolithic kernel|Monolithic]] ([[Linux kernel|Linux]]) 
+ | userland               = [[GNU Core Utilities|GNU]] 
+ | ui                     = [[Xfce]] 
+ | update model           = [[Advanced Packaging Tool|APT]] ([[Software Updater]], [[Ubuntu Software Center]]) 
+ | package manager        = [[dpkg]] 
+ | license                = [[Free software]] licenses < br > (mainly [[GPL]]) 
+ | working_state          = Current 
+ | website                = {{Official URL}} 
+ }} 
+ 
+ '''Xubuntu''' is a [[free software|free]] [[Linux]] distribution based on [[Ubuntu]]. It uses the [[Xfce]] [[desktop environment]]. 
+ 
+ ==Related pages== 
+ [[List of Linux distributions]] 
+ 
+ == Other websites == 
+ {{Commons|Xubuntu}} 
+ * [http://www.xubuntu.org Xubuntu Official Website] 
+ * [http://www.xubuntu.info Xubuntu Community Website (Unofficial)] {{Webarchive|url=https://web.archive.org/web/20070106081736/http://www.xubuntu.info/ |date=2007-01-06 }} 
+ * [http://wiki.ubuntu.com/Xubuntu Xubuntu at the Ubuntu Wiki] 
+ * [http://xubuntu.wordpress.com Xubuntu Tips  &  Tricks Blog] 
+ 
+ == Sources == 
+ {{Reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Ubuntu (operating system) derivatives]] 
+ [[Category:X86-64 Linux distributions]]

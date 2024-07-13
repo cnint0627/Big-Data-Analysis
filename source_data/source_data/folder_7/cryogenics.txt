@@ -1,0 +1,39 @@
+[[File:Liquidnitrogen.jpg|thumb|[[Liquid nitrogen]]]] 
+ [[File:ISIM 3 logical region.jpg|thumb|The [[James Webb Space Telescope]] needs a cold mirror and instruments. Its [[MIRI (Mid-Infrared Instrument)|MIRI (Mid-Infrared Instrument]]) in Region 1 needs to be even colder, so it has a cryocooler in the warmer region 3 of the spacecraft. ]] 
+ [[File:Liquid Nitrogen Tank.JPG|thumb|A medium-sized dewar is being filled with liquid nitrogen by a larger cryogenic storage tank. Note the ice covering the cold piping. This is because air is condensing and freezing out of the air onto the supercold metal pipes.]] 
+ In [[physics]], '''cryogenics''' is the production and behaviour of materials at very low [[temperature]]s. 
+ 
+ It is not well defined at what point on the temperature scale [[refrigeration]] ends and cryogenics begins. A gas may be cryogenic if it can be liquefied at or below {{convert|-150|°C|K °F|0|lk=on}}. < ref name= " saturn " > {{cite book|author=Bilstein, Roger E. 
+ |title=Stages to Saturn: A Technological History of the Apollo/Saturn Launch Vehicles (NASA SP-4206) (The NASA History Series) 
+ |publisher=NASA History Office 
+ |year=1996 
+ |pages=[https://archive.org/details/bub_gb_JnoZTbVLx0MC/page/n109 89]–91 
+ |isbn=978-0-7881-8186-3 
+ |url=https://archive.org/details/bub_gb_JnoZTbVLx0MC 
+ |quote=Cryogenics. 
+ }} < /ref >   
+ 
+ The U.S. [[National Institute of Standards and Technology]] considers cryogenics as involving temperatures below {{convert|-180|°C|K °F|0}}. The normal [[boiling point]]s of [[helium]], [[hydrogen]], [[neon]], [[nitrogen]], [[oxygen]], and normal [[Earth's atmosphere|air]] are below −180 & nbsp;°C.  
+ 
+ The [[Freon]] refrigerants, [[hydrocarbon]]s, and other common refrigerants have boiling points above −180 & nbsp;°C. < ref > {{Cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/dichlorodifluoromethane#section=Chemical-and-Physical-Properties|title=DICHLORODIFLUOROMETHANE at Pubchem|last=|first=|date=|website=|archive-url=|archive-date=|access-date=}} < /ref > < ref > {{Cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/propane#section=Boiling-Point|title=PROPANE at Pubchem|last=|first=|date=|website=|archive-url=|archive-date=|access-date=}} < /ref > 
+ 
+ Discovery of [[superconducting]] materials has raised interest in reliable, low cost methods of producing high temperature cryogenic refrigeration. The term  " high temperature cryogenic "  means temperatures from above the boiling point of liquid nitrogen, {{convert|-195.79|°C|K °F|2}}, up to {{convert|-50|°C|K °F|0}}. < ref > J. M. Nash 1991. Vortex expansion devices for high temperature cryogenics. ''Proc. of the 26th Intersociety Energy Conversion Engineering Conference'', '''4''', pp. 521–525. < /ref > 
+ 
+ Cryogenicists use the [[Kelvin scale|Kelvin]] or [[Rankine scale|Rankine]] temperature scale, both of which measure from [[absolute zero]], rather than more usual scales such as [[Celsius scale|Celsius]] which measures from the freezing point of water at sea level or [[Fahrenheit scale|Fahrenheit]] with its zero at an arbitrary temperature. 
+ 
+ == Uses == 
+ *[[Magnetic resonance imaging]] is an important machine for hospital diagnosis. It shows internal damage to soft tissues, and is very important in brain surgery. 
+ *[[Nuclear magnetic resonance]] is used for the physical and chemical properties of atoms. 
+ *[[Rocket]] cryogenic fuel is used as a propellant. 
+ *Cryogenics create the temperatures needed to store or transport large amounts of [[food]] without it deteriorating. 
+ *Many physical experiments need cryogenic temperatures. 
+ *Underground cables transmitting [[electricity]] are made much more efficient if they are cooled to cryogenic temperatures. 
+ 
+ == Related pages == 
+ 
+ *[[SpaceX_Starship#Hops|Cryogenic proof test at Space X]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Cryogenics| ]]

@@ -1,0 +1,24 @@
+{{cleanup|date=April 2023}} 
+ In [[computer science]], a '''nondeterministic algorithm''' is an [[algorithm]] that does not give the same result each time it is used. 
+ 
+ Even for the same input, it may show different behaviors on different runs. This may be contrasted with a deterministic algorithm. 
+ The projection of an automaton almost always results in nondeterminism. 
+ 
+ Exhibiting nondeterminism; involving choices between indistinguishable possibilities. 
+ 
+ Being nondeterministic; involving arbitrary choices; necessitating the choice between various indistinguishable possibilities. 
+ 
+ Dependence on factors other than initial state and input. 
+ 
+ Moving from a single-processor to a multi-processor system often exposes hidden nondeterminism due to invalid assumptions about scheduling.   
+ 
+ There are several ways an algorithm may behave differently from run to run. Referring to the inability to objectively predict an outcome or result of a process due to lack of knowledge of a cause and effect relationship or the inability to know initial conditions. 
+ 
+ '''Non-deterministic definitions'''  
+ 
+ Non-predictive. Referring to the inability to objectively predict an outcome or result of a process due to lack of knowledge of a cause and effect relationship or the inability to know initial conditions. 
+ 
+ In telecommunications switching and routing, the unpredictability of a path between nodes. See also node, path, route, and switch. 
+ 
+ [[Category:Computer science]] 
+ [[Category:Algorithms]]

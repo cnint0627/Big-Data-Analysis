@@ -1,0 +1,33 @@
+{{Automatic taxobox 
+ | image =  
+ | image_caption =  
+ | taxon = Mesostigmatophyceae 
+ | authority = Marin  &  Melkonian < ref name=AB_t113391/ > 
+ | type_species = ''Mesostigma viride''  < small > Lauterborn < /small > 
+ }} 
+ The '''Mesostigmatophyceae''' is a type of basal [[green algae]]. They are usually found in [[fresh water]]. < ref name= " LeliaertVerbruggen2011 " > {{cite journal|last1=Leliaert|first1=Frederik|last2=Verbruggen|first2=Heroen|last3=Zechman|first3=Frederick W.|year=2011|title=Into the deep: New discoveries at the base of the green plant phylogeny|journal=BioEssays|volume=33|issue=9|pages=683–692|doi=10.1002/bies.201100035|issn=0265-9247|pmid=21744372|s2cid=40459076}} < /ref > < ref name= " ReferenceA " > {{Cite journal|last1=Sánchez-Baracaldo|first1=Patricia|last2=Raven|first2=John A.|last3=Pisani|first3=Davide|last4=Knoll|first4=Andrew H.|date=2017-09-12|title=Early photosynthetic eukaryotes inhabited low-salinity habitats|journal=Proceedings of the National Academy of Sciences|volume=114|issue=37|pages=E7737–E7745|doi=10.1073/pnas.1620089114|pmc=5603991|pmid=28808007|doi-access=free}} < /ref > < ref > [https://books.google.com/books?id=lE6r5q5op94C & dq=%22Mesostigma+is+a+flagellate+covered+with+diverse+organic+scales+and+is+found+in+freshwater+habitats%22 & pg=PA73 Genomic Insights Into the Biology of Algae] < /ref >  Mesostigmatophyceae can be be a [[sister group]] to all [[green algae]], or as sister to all [[Streptophyta]]. < ref > {{cite journal|author2-link=Michael Melkonian|vauthors=Marin B, Melkonian M|year=1999|title=Mesostigmatophyceae, a new class of streptophyte green algae revealed by SSU rRNA sequence comparisons|journal=Protist|volume=150|issue=4|pages=399–417|doi=10.1016/S1434-4610(99)70041-6|pmid=10714774}} < /ref > < ref > {{cite journal|author=Jeffrey D. Palmer|author2=Douglas E. Soltis|author3=Mark W. Chase|year=2004|title=The plant tree of life: an overview and some points of view|journal=American Journal of Botany|volume=91|issue=10|pages=1437–45|doi=10.3732/ajb.91.10.1437|pmid=21652302|doi-access=free|name-list-style=amp}} < /ref > < ref > {{cite journal|author=Andreas Simon|author2=Gernot Glöckner|author3=Marius Felder|author4=Michael Melkonian|author4-link=Michael Melkonian|author5=Burkhard Becker|year=2006|title=EST analysis of the scaly green flagellate Mesostigma viride (Streptophyta): Implications for the evolution of green plants (Viridiplantae)|journal=BMC Plant Biology|volume=6|pages=2|doi=10.1186/1471-2229-6-2|pmc=1413533|pmid=16476162|name-list-style=amp |doi-access=free }} < /ref > 
+ ==Categorization== 
+ There are many ways to place the Mesostigmatophyceae into a category. One popular to place it is to have the category have only one [[genus]], the ''Mesostigma''. < ref name= " AB_t113391 " > {{AlgaeBase taxon|name=Mesostigmatophyceae|id=113391}} < /ref > < ref name= " Algaebase " > {{cite web|url=http://www.algaebase.org/browse/taxonomy/?id=4343|publisher=AlgaeBase version 4.2 World-wide electronic publication, National University of Ireland, Galway|access-date=2007-09-23|title=Class: Mesostigmatophyceae taxonomy browser|author1=Guiry, M.D.|author2=Guiry, G.M.|name-list-style=amp|year=2007}} < /ref >  A different way to categorize is to put it into two [[clade]]s; ''Chlorokybus'' and ''Spirotaenia''. < ref name= " ReferenceA " / > < ref name= " lemieux " > {{cite journal|vauthors=Lemieux C, Otis C, Turmel M|year=2007|title=A clade uniting the green algae Mesostigma viride and Chlorokybus atmophyticus represents the deepest branch of the Streptophyta in chloroplast genome-based phylogenies|journal=BMC Biol.|volume=5|pages=2|doi=10.1186/1741-7007-5-2|pmc=1781420|pmid=17222354 |doi-access=free }} < /ref > < ref name= " BeckerMarin2009 " > {{Cite journal|last1=Becker|first1=B.|last2=Marin|first2=B.|year=2009|title=Streptophyte algae and the origin of embryophytes|journal=Annals of Botany|volume=103|issue=7|pages=999–1004|doi=10.1093/aob/mcp044|pmc=2707909|pmid=19273476|name-list-style=amp}} < /ref > < ref > {{Cite journal|last1=Gitzendanner|first1=Matthew A.|last2=Soltis|first2=Pamela S.|last3=Wong|first3=Gane K.-S.|last4=Ruhfel|first4=Brad R.|last5=Soltis|first5=Douglas E.|date=2018|title=Plastid phylogenomic analysis of green plants: A billion years of evolutionary history|journal=American Journal of Botany|language=en|volume=105|issue=3|pages=291–301|doi=10.1002/ajb2.1048|issn=0002-9122|pmid=29603143|doi-access=free}} < /ref > < ref > {{Cite journal|last1=Turmel|first1=Monique|last2=Otis|first2=Christian|last3=Lemieux|first3=Claude|date=2000|title=Ancestral chloroplast genome in Mesostigma viride reveals an early branch of green plant evolution|journal=Nature|language=en|volume=403|issue=6770|pages=649–652|bibcode=2000Natur.403..649L|doi=10.1038/35001059|issn=1476-4687|pmid=10688199|doi-access=free}} < /ref > < ref > {{Cite journal|last1=Cheng|first1=Shifeng|last2=Xian|first2=Wenfei|last3=Fu|first3=Yuan|last4=Marin|first4=Birger|last5=Keller|first5=Jean|last6=Wu|first6=Tian|last7=Sun|first7=Wenjing|last8=Li|first8=Xiuli|last9=Xu|first9=Yan|date=2019-11-14|title=Genomes of Subaerial Zygnematophyceae Provide Insights into Land Plant Evolution|journal=Cell|language=en|volume=179|issue=5|pages=1057–1067.e14|doi=10.1016/j.cell.2019.10.019|pmid=31730849|doi-access=free|last10=Zhang|first10=Yu|last11=Wittek|first11=Sebastian}} < /ref >  It is also common to put ''Chlorokybus'' in a different class as Chlorokybophyceae. < ref name= " IrisDariProsFurs21 " > {{Citation|mode=cs1|last6=de Vries|doi=10.1098/rspb.2021.2168|page=20212168|issue=1963|volume=288|journal=Proceedings of the Royal Society B: Biological Sciences|title=Unexpected cryptic species among streptophyte algae most distant to land plants|date=2021|first6=Jan|first5=Mahwash|last1=Irisarri|last5=Jamy|first4=Janine M. R.|last4=Fürst-Jansen|first3=Thomas|last3=Pröschold|first2=Tatyana|last2=Darienko|first1=Iker|pmid=34814752|pmc=8611356|name-list-style=amp}} < /ref >  Below is a common way to sort the categories. 
+ 
+ {{clade|label1='''Streptophyta'''/|sublabel1='''[[charophyta]]'''|{{clade 
+   |label1=Mesostigmatophyceae 
+   |1={{clade 
+     |1=''[[Mesostigma viride]]'' 
+     |2={{clade 
+       |1=''[[Spirotaenia]]'' 
+       |2=[[Chlorokybophyceae]] 
+        }} 
+      }} 
+    }}|style=font-size:80%;line-height:80%}} 
+ 
+ == References == 
+ {{Reflist|1}} 
+ 
+ == Other Websites == 
+ * {{AlgaeBase taxon|id=W93238b5bbbf9bb74|name=Mesostigmatophyceae}} 
+ * [https://web.archive.org/web/20070928163719/http://www.algaterra.org/ATDB/Names/NamesMain.cfm AlgaTerra database] 
+ * [http://botany.si.edu/ing/index.cfm Index Nominum Genericorum] 
+ 
+ {{Taxonbar|from=Q1048929}} 
+ 
+ [[Category:Algae]]

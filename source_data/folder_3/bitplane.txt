@@ -1,0 +1,27 @@
+{{Infobox company 
+ | name = Bitplane 
+ | logo = Bitplane Logo.png 
+ | type = [[Public company|Public]] 
+ | foundation = 1992 
+ | location = Belfast, United Kingdom 
+ | products = Imaris: Software for 3D and 4D Imaging 
+ | parent = [[Andor Technology]] 
+ | homepage = [http://www.bitplane.com  www.bitplane.com] 
+ }} 
+ '''Bitplane''' is software developed of Andor Technology company for 3D and 4D image analysis. It was founded in December 1992. Bitplane works in Zürich, Belfast, and South Windsor. < ref > {{Cite web|title=News - Andor|url=https://www.oxinst.com/news/|access-date=2022-07-23|website=Oxford Instruments|language=en}} < /ref > 
+ 
+ == Overview == 
+ Bitplane got investments in 2000. After an investment with Endeavour, Bitplane started to growing in North America. After the internet bubble in 2001, Bitplane started slowly and continuously grew in sales and profitability 
+ 
+ == Product == 
+ '''Imaris''' is Bitplane's main product. It helps in visualization, segmentation and interpretation of 3D and 4D images. Imaris visualize images in a real time in an interactive manner so everyone can see visual assessments of experiments with 3D and 4D images. Imaris has a lot of image segmentation options and tools to segment large datasets to find, divide, and visualize various objects. 
+ 
+ In order to explore the 3D capabilities of the confocal microscope, the instrument still had to be combined with high-end graphics computers. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Software]] 
+ 
+ 
+ {{tech-stub}}

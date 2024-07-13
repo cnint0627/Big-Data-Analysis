@@ -1,0 +1,32 @@
+There are two different meanings of the word '''cryptosystem'''.  
+ * One is used by the [[Cryptography|cryptographic]] community. 
+ * The other is a general meaning which is how the word '''cryptosystem''' is understood by the public. 
+ 
+ == General meaning == 
+ 
+ In this meaning, the term cryptosystem is used as [[shorthand]],  or as an [[abbreviation]] for  " cryptographic system " . A cryptographic system is any [[computer system]] that involves [[cryptography]]. Such systems include for instance, a system for secure [[e-mail|electronic mail]] which might include methods for [[digital signature]]s, [[cryptographic hash function]]s, [[key management]] [[technique]]s, and so on.  
+ 
+ == Meaning in the cryptographic community == 
+ 
+ In this meaning, a cryptosystem refers to a set of [[algorithm]]s needed to implement a method of [[encryption]] and [[decryption]]. < ref > {{cite book|last1=Menezes|first1=A.|last2=Oorschot|first2=P. van|last3=Vanstone|first3=S.|title=Handbook of Applied Cryptography|year=1997|publisher=CRC Press|isbn=0-8493-8523-7|edition=5th|url-access=registration|url=https://archive.org/details/handbookofapplie0000mene}} < /ref >   
+ 
+ Typically, a cryptosystem consists of three algorithms:  
+ # [[key (cryptography)|Key]] generation algorithm. 
+ # [[Encryption]] algorithm. 
+ # [[Decryption]] algorithm.   
+ 
+ The term ''cipher'' (sometimes ''cypher'') is often used to refer to a pair of (encryption/decryption) algorithms. Therefore, the term  " cryptosystem "  is most often used when the [[key generation]] algorithm is important.  For this reason, the term  " cryptosystem "  is commonly used to refer to [[Public-key cryptography|public key]] techniques; however both  " [[Cypher|cipher]] "  and  " cryptosystem "  are used for [[Symmetric-key algorithm|symmetric key]] techniques. 
+ 
+ ==  " Cryptographic system "  vs.  " cryptosystem "  == 
+ 
+ The ''Internet Security Glossary'' [[Rfc:2828|RFC 2828]] advises against using the term  " cryptosystem " , giving the following definitions. 
+ ;cryptosystem 
+ :(D) [[Internet standard|ISD]]s SHOULD NOT use this term as an [[abbreviation]] for cryptographic system. (For justification, see: crypto.) 
+ ;crypto 
+ :[[Internet standard|ISD]]s SHOULD NOT use this abbreviated term because it may be misunderstood. Instead, use  " cryptography "  or  " cryptographic " . 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{math-stub}} 
+ [[Category:Cryptography]]

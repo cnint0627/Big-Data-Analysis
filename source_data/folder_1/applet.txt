@@ -1,0 +1,4 @@
+An '''applet''' is a [[computer program]] that can be run  inside a [[web browser]]. Most of the time, applets are written in [[Java (programming language)|Java]]. They are used to display a scrolling menu on a website, for example, the applet is also used to show some applications. In Java, there is a [[Object-oriented programming|class]] called  " Applet, "  which is extended when writing applets. 
+ {{tech-stub}} 
+ 
+ [[Category:Software]]

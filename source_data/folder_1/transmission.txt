@@ -1,0 +1,39 @@
+[[Image:Epicyclic gear ratios.png|thumb|''Epicyclic gearing'' or planetary gearing]] 
+ 
+ In [[mechanics]], a '''transmission''' or '''gearbox''' means gears working together. The most common transmission is the transmission in a car. 
+ 
+ In a car, the engine makes the [[crankshaft]] spin. The crankshaft makes the transmission's gears spin, which spin some more parts, which make the wheels spin. But the wheels do not spin as fast as the engine makes the crankshaft spin. That is because the gears are made to slow down the spinning. The gears also give the spinning more force (or to be more scientifically exact, more [[torque]]), so the wheels can make the entire car move. Most transmissions have a breather [[wikt:vent|vent]] to let hot air escape. < ref > Ron Sessions, ''The Turbo Hydra-Matic 350 Handbook'' (Tucson, AZ: HPBooks, 1985), p. 96 < /ref > 
+ 
+ == Transmission gears == 
+ A transmission has some gears that change the torque more than other gears. That is why a transmission has a first gear, second gear, third gear, and sometimes more gears. There is also a reverse gear and neutral. An '''automatic transmission''' shifts between gears by itself (except reverse gear, and a parking gear). A '''manual transmission''' needs the driver to decide when to shift gears. Manual transmission is also called standard transmission. This is confusing because almost all cars in the U.S. have automatic transmission. In other words, since the late 20th century  " standard "  transmission has been unusual. A manual transmission usually has a clutch pedal, which the driver must press while shifting gears. An automatic transmission has a fluid coupling called a [[torque converter]] instead of a clutch. Some cars have a  " clutchless "  manual (semi-automatic) transmission, which has an automatic clutch (no clutch pedal), but does not shift gears by itself. 
+ 
+ == Layshaft == 
+ A layshaft is the middle shaft within a gearbox (transmission). When the clutch is engaged, the layshaft turns constantly. < ref name=CB > {{cite web |url=http://www.carbibles.com/transmission_bible.html |title=The Transmission Bible |author= |website= |publisher=Car Bibles |accessdate=28 November 2015 |archive-date=4 March 2012 |archive-url=https://web.archive.org/web/20120304041219/http://www.carbibles.com/transmission_bible.html |url-status=dead }} < /ref >  All gears on the layshaft turn at the same rate and are permanently attached. < ref name=CB/ >  It carries gears but does not transfer the primary drive of the gearbox in of the gearbox or out of the gearbox. < ref name= " Setright, Anatomy of the Motor Car, Gearbox "   > {{Cite book 
+   |title=Anatomy of the Motor Car 
+   |chapter=Gearbox 
+   |last=Setright |first=L. J. K. 
+   |authorlink=L. J. K. Setright 
+   |editor=Ian Ward 
+   |publisher=Orbis 
+   |year=1976 
+   |isbn=0-85613-230-6 
+   |ref={{harvid|Setright|Anatomy of the Motor Car}} 
+   |page=88 
+ }} < /ref > < ref > {{cite book 
+   |title=Autocar Handbook 
+   |author=The Autocar   |authorlink=:en:The Autocar 
+   |year=c. 1935  
+   |publisher=Iliffe  &  Sons.  |location=London 
+   |edition=Thirteenth 
+   |chapter= 
+   |pages= 
+ }} < /ref >  Layshafts are mostly known through their use in car gearboxes. < ref > {{cite web|title=Car manual|url=http://www.manualload.com/d.php/b3/623074105|publisher=www.manualload.com|accessdate=24 October 2015|archive-date=5 March 2016|archive-url=https://web.archive.org/web/20160305094950/http://www.manualload.com/d.php/b3/623074105|url-status=dead}} < /ref >  The oil level in a gearbox is set to layshaft height. That way the spinning gears distribute oil to all the gears. < ref >  Victor Albert Walter Hillier; Peter Coombes, ''Hillier's Fundamentals of Motor Vehicle Technology'', Book 1 (Cheltenham: Nelson Thornes, 2004), p. 283 < /ref > 
+ 
+ == Other types == 
+ Not all transmissions are in cars. For example, bicycles have transmissions. You can see the gears, so it is easier to see how it works. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Engineering]] 
+ [[Category:Mechanics]]

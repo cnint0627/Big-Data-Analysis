@@ -1,0 +1,64 @@
+{{Infobox programming language 
+ | name                   = Perl 
+ | logo                   =  
+ | paradigm               = [[multi-paradigm]]: [[Functional programming|functional]], [[Imperative programming|imperative]], [[Object-oriented programming|object-oriented]] ([[Class-based programming|class-based]]), [[Reflective programming|reflective]], [[Procedural programming|procedural]], [[Event-driven programming|Event-driven]], [[Generic programming|generic]] 
+ | year                   = 1987 
+ | designer               = [[Larry Wall]] 
+ | developer              = Larry Wall 
+ | latest_release_version = 5.24.0 < ref > {{cite web | url = http://www.nntp.perl.org/group/perl.perl5.porters/2016/05/msg236242.html | title = Perl 5.24.0 is now available! | accessdate = 2016-05-25 | publisher = perl.org }} < /ref > 
+ | latest_release_date    = {{release date|mf=yes|2016|05|09}} 
+ | latest preview version = 5.23.2 < ref > {{cite web | url = http://www.nntp.perl.org/group/perl.perl5.porters/2015/08/msg230298.html | title = perl-5.23.2 is now available | accessdate = 2015-09-30 | publisher = perl.org}} < /ref > 
+ | latest preview date    = {{release date|mf=yes|2015|08|20}} 
+ | turing-complete        = Yes 
+ | influenced_by          = [[AWK (programming language)|AWK]], [[Smalltalk 80]], [[Lisp (programming language)|Lisp]], [[C (programming language)|C]], [[C++]], [[sed]], [[Unix shell]], [[Pascal (programming language)|Pascal]] 
+ | influenced             = [[Python (programming language)|Python]], [[PHP]], [[Ruby (programming language)|Ruby]], [[ECMAScript]]/[[Javascript]], [[LPC (programming language)|LPC]], [[Windows PowerShell]], [[Falcon (programming language)|Falcon]], [[Perl 6]], [[Qore (programming language)|Qore]], [[Julia (programming language)|Julia]] < !--2012-- > 
+ | programming_language   = [[C (programming language)|C]] 
+ | operating_system       = [[Cross-platform]] 
+ | license                = [[GNU General Public License]] or [[Artistic License]] < ref name='licensing' > {{cite web | url = http://dev.perl.org/licenses | title = Perl Licensing | accessdate = 2011-01-08 | publisher = dev.perl.org}} < /ref > 
+ | website                = {{url|https://www.perl.org}} 
+ | file_ext               = .pl .pm .t .pod 
+ | wikibooks              = Perl Programming 
+ }} 
+ '''Perl''' is a [[programming language]] invented by Larry Wall to process text. The programming language has been changed many times to do some other things. Some of these things are tasks like making web pages show information in a better way than before, or take information and show it in a way that makes more sense to people.  Perl code is written using some [[symbol]]s besides [[letter]]s and [[number]]s. 
+ 
+ == Usage == 
+ Perl is very good at searching through text looking for patterns, which lets people find words that they may be looking for, or also let people find words they are looking for, and change them with different words much more quickly than they would if they had to do it one word at a time. 
+ 
+ Perl is also a [[high-level programming language]]. A high-level language has advanced features which let the programmer tell the computer what to do without having to worry about how the computer is going to do it as compared to [[Low-level programming language|low-level programming languages]] which often require more programmer effort.  
+ 
+ == Example == 
+ An example [[Hello World]] program in Perl: 
+ 
+ < syntaxhighlight lang= " perl " > 
+ say 'Hello World!' 
+ < /syntaxhighlight > 
+ You can use variables in Perl. 
+ 
+ A variable is a box where you can put items. In Perl, some variables starts with their own sigil. A sigil is the way to tell the Perl interpreter about what type of variable you are using. Variables can be scalar, array, hash, handle, regular expression, typeglob or subroutine. 
+ 
+ For example: 
+ < syntaxhighlight lang= " perl " > 
+ my $a_scalar = 2; 
+ my $b = 5.29 ; 
+ my $c =  " a string " ; 
+ my $d = 'another'; 
+ my @e = ($b,3,4,$c,$d); 
+ my %f = ('a'= > $b,'cad'= > 'pqr',$c= > $d); 
+ < /syntaxhighlight > 
+ 
+ == Perl packages == 
+ The Comprehensive Perl Archive Network, aka CPAN, hosts a large number of extensions to Perl which may be downloaded for free. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.perl.org Perl.org] 
+ * [http://www.cpan.org/ CPAN] 
+ * [http://www.perlfoundation.org/ The Perl Foundation] 
+ 
+ {{Tech-stub}} 
+ {{authority control}} 
+ [[Category:Object-oriented programming languages]] 
+ [[Category:Cross-platform software]] 
+ [[Category:Functional languages]]

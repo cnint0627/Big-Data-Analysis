@@ -1,0 +1,93 @@
+{{Automatic taxobox 
+ | name = Lessemsaurids 
+ | fossil_range =  < br / > [[Late Triassic]]-[[Early Jurassic]], {{fossilrange|215|190}} 
+ | image=Lessemsaurus Senckenberg.jpg 
+ | image_caption = Skeletal mount of ''[[Lessemsaurus]]'' 
+ | taxon = Lessemsauridae 
+ | authority = Apaldetti ''et al.'', [[2018 in paleontology|2018]] 
+ | subdivision_ranks = [[Genus|Genera]] 
+ | subdivision =  
+ * {{extinct}}''[[Antetonitrus]]'' 
+ * {{extinct}}''[[Ingentia]]'' 
+ * {{extinct}}''[[Ledumahadi]]'' 
+ * {{extinct}}''[[Lessemsaurus]]'' 
+ }} 
+ '''Lessemsauridae''' is a [[clade]] of early [[sauropod]] [[dinosaurs]] that lived in the [[Triassic]] and [[Jurassic]] of [[Argentina]] and [[South Africa]]. 
+ 
+ The phylogenetic analysis performed by Apaldetti and colleagues is shown below: < ref > {{Cite journal |last1=Apaldetti |first1=Cecilia |last2=Martínez |first2=Ricardo N. |last3=Cerda |first3=Ignatio A. |last4=Pol |first4=Diego |last5=Alcober |first5=Oscar |year=2018 |title=An early trend towards gigantism in Triassic sauropodomorph dinosaurs |url=https://www.nature.com/articles/s41559-018-0599-y |journal=Nature Ecology  &  Evolution |volume=2 |issue=8 |pages=1227–1232 |doi=10.1038/s41559-018-0599-y|pmid=29988169 |hdl=11336/89332 |s2cid=49669597 }} < /ref > 
+ 
+ {{Clade |style=font-size:85%; line-height:85% 
+ |label1=[[Sauropodiformes]] 
+ |1={{clade 
+  |1=''[[Mussaurus]]'' 
+  |2={{clade 
+   |1=''[[Aardonyx]]'' 
+   |2=''[[Sefapanosaurus]]'' 
+   |3={{clade 
+    |1={{clade 
+    |label1=[[Melanorosauridae]] 
+    |1={{clade 
+     |1=''[[Camelotia]]'' 
+     |2=''[[Melanorosaurus]]'' }} }} 
+    |2={{clade 
+    |label1=[[Sauropoda]] 
+    |1={{clade 
+     |1={{clade 
+     |label1='''Lessemsauridae''' 
+     |1={{clade 
+      |1=''[[Antetonitrus]]'' 
+      |2={{clade 
+       |1=''[[Ingentia]]'' 
+       |2=''[[Lessemsaurus]]'' }} }} }} 
+     |2={{clade 
+      |1=''[[Blikanasaurus]]'' 
+      |2={{clade 
+       |1=''[[Gongxianosaurus]]'' 
+       |2={{clade 
+        |1=''[[Pulanesaura]]'' 
+        |2=[[Gravisauria]] }} }} }} }} }} }} }} }} }} 
+ 
+ ==Species== 
+ 
+ ===''Antetonitrus''=== 
+ someone please add info for antetonitrus 
+ 
+ ===''Ingentia''=== 
+ ''Not to be confused with the [[nematode]] Ingenia'' 
+ 
+ '''''Ingentia''''' is an early sauropod dinosaur from the Late Triassic of Argentina. The type specimen of Ingentia, PVSJ 1086, was discovered in the Quebrada del Barro Formation of northwestern Argentina. The only species, ''Ingentia prima'', meaning  " first huge one " , as the taxon was one of the first very large sauropodomorphs to evolve, along with its close relative Lessemsaurus. A second specimen, PVSJ 1087, was referred, containing five tail vertebrae, both the [[radius]] and [[ulna]], a left calfbone and a right foot. 
+ 
+ ===''Ledumahadi''=== 
+ [[File:Ledumahadi_NT.jpg|thumb|250px|''Ledumahadi'']] 
+ 
+ '''''Ledumahadi''''' (meaning  " a giant thunderclap "  in [[Sesotho language]]) is a [[sauropodomorph]] [[dinosaur]] from the [[Early Jurassic]]. A quadruped, it was one of the first giant sauropodomorphs, reaching a weight of around {{convert|12|tonne|lbs}}, despite not having evolved columnar limbs like its later huge relatives. < ref name=mcphee2018 > {{cite journal | url=https://linkinghub.elsevier.com/retrieve/pii/S096098221830993X | title=A giant dinosaur from the earliest Jurassic of South Africa and the transition to quadrupedality in early sauropodomorphs |last1=McPhee |first1=Blair W. |last2=Benson |first2=Roger B.J. |last3=Botha-Brink |first3=Jennifer |last4=Bordy |first4=Emese M. |last5=Choiniere |first5=Jonah N. |name-list-style=amp | journal=Current Biology | year=2018 | volume=28 | issue=19 | pages=3143–3151.e7 | doi=10.1016/j.cub.2018.07.063| pmid=30270189 | s2cid=52890502 }} < /ref > 
+ 
+ ===''Lessemsaurus''=== 
+ {{speciesbox 
+ | name = ''Lessemsaurus'' 
+ | fossil_range = [[Norian]] < br / > ~{{fossilrange|228|208.5}} 
+ | image =  
+ | genus = Lessemsaurus 
+ | parent_authority = [[Jose Bonaparte|Bonaparte]] 1999 
+ | species = sauropoides 
+ | authority = [[Jose Bonaparte|Bonaparte]] 1999 
+ }} 
+ [[File:Lessemsaurus mount.jpg|thumb|250px|Exhibit in Singapore]] 
+ 
+ '''''Lessemsaurus''''' is an [[extinct]] [[genus]] of [[sauropod]] [[dinosaur]] from the [[Triassic]] period. It is unusual because it lived about 30 million years before the long-necked plant-eaters ''[[Diplodocus]]'' and ''[[Brachiosaurus]]'' lived. 
+ 
+ The [[type species]], ''L. sauropoides'', was formally described by [[José Bonaparte]] in 1999. It was found in the [[Los Colorados Formation]] of [[La Rioja Province, Argentina]]. < ref name= " triassicdistribution " > Weishampel, David B; ''et al.'', 2004.  " Dinosaur distribution (Late Triassic, South America). "  In: Weishampel, David B.; Dodson, Peter; and Osmólska, Halszka (eds.): The Dinosauria, 2nd, Berkeley: University of California Press. Pp. 527–528. {{ISBN|0-520-24209-2}}. < /ref > 
+ 
+ This dinosaur was around {{convert|9|m|ft}} long and was discovered in strata dating to the [[Norian]] [[faunal stage|stage]], around 210 million years ago. < ref name=bonaparte1999 > {{cite journal|url=http://www.ameghiniana.org.ar/index.php/ameghiniana/article/view/2480|title=Evolución de las vértebras presacras en Sauropodomorpha|author=Bonaparte, J. F.|author-link=José Bonaparte|year= 1999|journal=[[Ameghiniana]]|volume=36|pages= 115–187}} < /ref > < ref name=pol2007 > {{cite journal|author1=Pol, D.  |author2=Powell, J. E. |year=2007|url=https://www.researchgate.net/publication/230213248|title= New information on ''Lessemsaurus sauropoides'' (Dinosauria: Sauropodomorpha) from the Upper Triassic of Argentina|journal=Special Papers in Palaeontology|volume=77|pages=223–243}} < /ref > < ref name= " apaldetti2018 " > {{Cite journal |last1=Apaldetti |last2=Martínez |first2=Ricardo N. |last3=Cerda |first3=Ignatio A. |last4=Pol |first4=Diego |last5=Alcober |first5=Oscar |year=2018 |title=An early trend towards gigantism in Triassic sauropodomorph dinosaurs |url=https://www.nature.com/articles/s41559-018-0599-y |journal=Nature Ecology  &  Evolution |volume=2 |issue=8 |pages=1227–1232 |doi=10.1038/s41559-018-0599-y|pmid=29988169 |hdl=11336/89332 |s2cid=49669597 }} < /ref > 
+ 
+ Steve Brusatte of the [[University of Edinburgh]] said: 
+ : " What is really unexpected is that the lessemsaurids achieved their huge bodies independently of the gigantic sauropods like ''Brontosaurus'' and ''Diplodocus'', which did indeed evolve later during the Jurassic. The development of huge size wasn't just a one-off event for the sauropods, but rather different types of dinosaurs were able to become colossal " . < ref > [https://www.bbc.co.uk/news/science-environment-44744153 ''BBC News'' Science  &  Environment] < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Sauropods]] 
+ [[Category:Triassic dinosaurs]] 
+ [[Category:Jurassic dinosaurs]] 
+ [[Category:Dinosaurs of South America]] 
+ [[Category:Dinosaurs of Africa]]

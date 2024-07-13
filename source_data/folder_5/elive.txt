@@ -1,0 +1,74 @@
+{{infobox OS 
+ | name = Elive 
+ | logo =  
+ | screenshot = Elive 3 8 4.png 
+ | caption = Screenshot Elive 3.8.4 
+ | developer = Samuel F. Baggen 
+ | website = http://www.elivecd.org/ 
+ | source_model = [[Shared source]] 
+ | family = [[Debian GNU/Linux]] 
+ | latest_release_version = 3.8.7 
+ | latest_release_date = {{release date|2020|17|02}} 
+ | kernel_type = [[Monolithic kernel]] 
+ | ui = [[Enlightenment (window manager)|Enlightenment]] 
+ | license = Various 
+ | supported_platforms = [[IA-32]], [[i386]], [[AMD64]] 
+ | working_state = Current 
+ }} 
+ 
+ '''Elive''' is a [[Linux distribution]] based on [[Debian]] 10 Buster both for legacy (old) and new hardware. Elive uses the desktop environment [[Enlightenment (Window Manager)|Enlightenment]]. Elive is a [[Linux Distribution]] with a [[Live CD]] and Persistent USB Image that allows the user to try Elive before installing it on the system and not lose any work. 
+ 
+ == History == 
+ Elive was born in Belgium prior to 2005 as a private experiment by its founder to customize a [[Knoppix]] Live CD running the Enlightenment < ref > {{Cite news|url=https://hub.packtpub.com/enlighten-your-desktop-elive/|title=Interview with the Founder}} < /ref >  and with the designs based in the Evil Entity [[Distribution|distro]], it was called Tezcatlipotix, < ref > {{Cite web|url=https://www.youtube.com/watch?v=UJ_zCnK4bMY & gl=US & hl=en|title=Thanatermesis - tezcatlipotix|website=Youtube}} < /ref >  since the result was better than expected the desire to create a public version started. 
+ 
+ Two months later the first public version with the name of Elive appeared publicly, appearing directly in [[Slashdot]]. 
+ 
+ == Description == 
+ Elive has access to online repositories of Debian (Buster for beta, Wheezy for old stable) and uses its own repositories with more than 2500 packages that includes own specific software for Elive, extra software, or packages that replaces the default ones provided by Debian, improving the overall system and integrity. Elive comes with a complete set of included software to fit any needs for example free programs as: [[LibreOffice]], [[Chromium (web browser)|Chromium]], [[Mozilla Firefox|Firefox]], [[Mozilla Thunderbird|Thunderbird]], [[VLC media player]], [[GIMP]], [[Inkscape]], [[Blender (program)|Blender]], [[Skype]], [[VirtualBox|Virtual box]], [[Shotwell]],... 
+ 
+ Elive old stable has 3D effects without need of an accelerated graphic card (though is suggested), thanks tot he integration between E17 and [[Compiz]] (Ecomorph). The Beta version supports the newest [[linux kernel]] and is available both for [[X86|i686]] and [[X86-64|amd64]] architectures, though it drops the support to E17 (not compatible with the latest Debian Stable release) in favor of E16, which, despite being older, is way more stable and well supported by modern distributions. It is fairly easy to upgrade to E23, which is considered the future [[Desktop environment|Desktop Environment]] of this OS. 
+ 
+ == Releases == 
+ At the moment 3 supported releases are available:  
+ 
+ * (old) stable, the version 3.0.3, which is based on Debian Wheezy and E17. It works with anything from [[Pentium|i586 (Pentium)]] architecture and above. Despite the old software and repositories, this version is still widely used and appreciated due to the incredible 3d graphical effects that make using it a joy and a graphics experience. 
+ * Beta, which is divided into a 32 and a 64 bit release. The 64 bit release brings all the perks of a 64 bits build, among theme better modern hardware support and better software experience (like [[Steam (software)|Steam]] working perfectly). Apart from this, there is essentially no difference apart the ram consumption. The beta version uses the latest Linux Kernel and is based upon Debian 10 Buster. E17 is too old now so E16 is the new default environment. The basic configuration includes Cairo Dock and conky, plus a compositor allowing transparency. 
+ 
+ All the old releases are available on the official website and shared through Torrent. < ref > {{Cite web|url=https://www.elivecd.org/download/old-versions/|title=Elive Old Releases}} < /ref > 
+ 
+ == System requirements == 
+ The  " minimum hardware requirements "  for running Elive (32 bit) are: 
+ 
+ *300 & nbsp;MHz CPU ([[Pentium Pro]] and above, due to the limit of I686 architecture) 
+ *256 MB of RAM 
+ *At least 5 GB of disk space (for full installation and swap space) 
+ *[[VGA connector|VGA]] graphics card capable of 640x480 resolution 
+ *[[CD-ROM]] drive 
+ 
+ The  " minimum recommended hardware requirements "  are: 
+ 
+ *1000 & nbsp;MHz (Athlon 1100 like) 
+ *512 Mb of RAM 
+ *At least 10 GB of disk space (for full installation and swap space) 
+ *VGA graphics card capable of hardware acceleration  
+ *CD-ROM drive 
+ 
+ The basic setup to get a daily usable device could be a [[Pentium 4|Pentium 4 HT]] (or equivalent), 2gb ram, 30gb 7200 rpm sata hard disk and a graphic acceleration capable graphics card; the previous recommended requirements would still give a snappy  system, but they would not meet modern web browsing requirements (so the experience with Firefox or Chromium may not be the best), which is out of the os control: for that reason Elive also ships some low resources browsers like [[Netsurf]] and [[Links2]], though they are unable to visualize every website correctly.  
+ 
+ == References == 
+ < references / > 
+ ==Related pages== 
+ * [[List of Linux distributions]] 
+ *[[Enlightenment (Window Manager)|Enlightenment (window manager)]] 
+ 
+ == Other websites == 
+ * [http://www.elivecd.org/ Elive home page] 
+ * [http://www.linux-mag.com/id/2647/ Linux Magazine article on Elive] {{Webarchive|url=https://web.archive.org/web/20081003110341/http://www.linux-mag.com/id/2647 |date=2008-10-03 }} 
+ * [http://distrowatch.com/weekly.php?issue=20070709#feature DistroWatch.com Feature] 
+ * [http://news.softpedia.com/news/Elive-Are-You-Ready-For-a-New-Linux-Experience-58810.shtml Softpedia.com Review] 
+ * [http://distrocenter.linux.com/article.pl?sid=07/01/24/1424218 Distrocenter.linux.com Review]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} 
+ * [http://www.tuxmachines.org/node/8915 Tuxmachines.org Review] 
+ 
+ [[Category:Linux distributions]] 
+ [[Category:Live CD]] 
+ [[Category:Debian-based Linux distributions]]

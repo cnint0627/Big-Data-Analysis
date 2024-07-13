@@ -1,0 +1,10 @@
+A '''seismogram''' is a record of an [[earthquake]] induced [[motion]] at a measuring station as a function of time. Seismograms are usually taken by ''[[seismometer]]s''. ''Seisometers'' record motions in three cartesian axes (x, y, and z), with the z axis perpendicular to the Earth's surface and the x- and y- axes parallel to the surface.[[File:Sylmar085-Input in fractions of 'g'.jpg|thumb|220px|Seismogram of [[w:en:1971 San Fernando earthquake|Sylmar085 earthquake]] in fractions of gravity acceleration, [[w:en:UCSD|UCSD]].]] 
+ 
+ Historically, seismograms were recorded on paper attached to rotating [[drum]]s.  Some used pens on ordinary paper. Others used light beams to expose ''photosensitive paper''.  Today, almost all seismograms are recorded digitally to make analysis by computer easier.  Seismograms are very important for measuring earthquakes using the [[Richter scale]]. 
+ 
+ == Other websites == 
+ *[http://www.thetech.org/exhibits/online/quakes/grams/ An example seismogram] {{Webarchive|url=https://web.archive.org/web/20080518170933/http://www.thetech.org/exhibits/online/quakes/grams/ |date=2008-05-18 }} 
+ *[http://rev.seis.sc.edu REV, the Rapid Earthquake Viewer] {{Webarchive|url=https://web.archive.org/web/20060112160736/http://rev.seis.sc.edu/ |date=2006-01-12 }} Seismograms recorded around the world from recent earthquakes (weeks old) as well as larger earthquakes from the past.  
+ 
+ [[Category:Earthquakes]] 
+ [[Category:Earthquake engineering]]

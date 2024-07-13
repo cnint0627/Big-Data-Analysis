@@ -1,0 +1,24 @@
+{{Infobox software 
+ | name                 = Konversation 
+ | logo                 = Konversation Oxygen.svg 
+ | screenshot           = Konversation1.png 
+ | caption              = Konversation connected to [[freenode]] 
+ | developer            = The Konversation Team 
+ | status               = Active 
+ | programming language = [[C++]] ([[Qt (software)|Qt]]) 
+ | operating system     =  
+ | platform             = [[Microsoft Windows]], < ref > {{cite web|url=https://techbase.kde.org/Projects/KDE_on_Windows/Installation|title=Getting Started/Build/Historic/KDE4 Windows - KDE TechBase|website=techbase.kde.org}} < /ref >  [[Linux]] 
+ | size                 =  
+ | language             =  
+ | genre                = [[IRC client]] 
+ | license              = [[GNU GPL]] version 2 
+ | website              = {{URL|http://konversation.kde.org}} 
+ }} 
+ '''Konversation''' is an [[Internet Relay Chat]] (IRC) [[IRC client|client]]. It is built on the [[KDE]] Platform. < ref > {{cite web|url=https://lwn.net/Articles/216456|title=The Grumpy Editor's Guide to graphical IRC clients|access-date=13 October 2009|author=corbet|date=16 January 2007|work=The LWN Grumpy Editor series|publisher=[[LWN.net]]}} < /ref >  It is [[free software]] released under the terms of the [[GNU General Public License]]. < ref > {{cite web|url=http://www.linuxlinks.com/article/20080407161916432/Konversation.html|title=Konversation|access-date=13 October 2009|date=13 September 2009|work=10 of the Best Free Linux IRC Clients|publisher=LinuxLinks|archive-date=17 May 2008|archive-url=https://web.archive.org/web/20080517034259/http://www.linuxlinks.com/article/20080407161916432/Konversation.html|url-status=dead}} < /ref > < ref > {{cite web|url=http://extragear.kde.org/apps/konversation|title=Konversation|access-date=13 October 2009|publisher=KDE Extragear}} < /ref > < ref > {{cite web|url=http://extragear.kde.org/home/about.php|title=About KDE Extragear|access-date=13 October 2009|publisher=KDE Extragear}} < /ref >  It is the default IRC client in many [[Linux distribution]]s, such as [[openSUSE]], < ref > {{cite book|url=https://books.google.com/books?id=wt1kydI_ePEC & dq=konversation+kde & pg=PA320|title=Jetzt lerne ich openSUSE 10.3|last=Teufel|first=Stefanie|publisher=[[Pearson PLC|Pearson Deutschland GmbH]]|year=2007|isbn=9783827242464|access-date=5 August 2011}} < /ref >  the KDE spin of [[Fedora (operating system)|Fedora]], and [[Kubuntu]]. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{IRC footer}} 
+ 
+ [[Category:IRC clients]]

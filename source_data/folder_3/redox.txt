@@ -1,0 +1,57 @@
+{{Image frame 
+ |content =  < div style= " text-align:center; " > 
+ 	Reduction < br / > 
+ 	Oxidant + e < sup > & ndash; < /sup >   & xrarr; Product < br / > 
+ 	(Electrons '''gained'''; oxidation number '''decreases''') < br / > 
+ 	 < br / > 
+ 	Oxidation < br / > 
+ 	Reductant  & xrarr; Product + e < sup > & ndash; < /sup > < br / > 
+ 	(Electrons '''lost'''; oxidation number '''increases''') 
+ < /div > 
+ |caption = The two parts of a redox reaction 
+ |width   = 300 
+ |align   = right 
+ }} 
+ 
+ [[Image:Rust03102006.JPG|thumb|250px|Rusting iron]] 
+ [[Image:Large bonfire.jpg|thumb|250px|A bonfire. Combustion consists of redox reactions involving [[Radical (chemistry)|free radicals]].]] 
+ {{TopicTOC-Chemistry}} 
+ 
+ '''Redox''' (shorthand for '''reduction/oxidation''') describes all [[chemical reaction]]s in which atoms have an increase or decrease in [[oxidation number]] ([[oxidation state]]). < ref > This can be a simple redox process, such as the [[oxidation]] of [[carbon]] to yield [[carbon dioxide]], the reduction of carbon by [[hydrogen]] to yield [[methane]] (CH < sub > 4 < /sub > ), or a complex process such as the oxidation of sugar in the human body, through a series of very complex [[electron transfer]] processes. < /ref > 
+ 
+ An oxidation number is a number assigned to an [[element]] in chemical combination that represents the number of electrons lost (or gained, if the number is negative), by an atom of that element in the compound. 
+ 
+ The term ''redox'' comes from the two concepts of '''red'''uction and '''ox'''idation. It can be explained in simple terms: 
+ *'''''Oxidation''''' describes the '''''loss''''' of [[electron]]s by a [[molecule]], [[atom]] or [[ion]] 
+ *'''''Reduction''''' describes the '''''gain''''' of electrons by a molecule, atom or ion 
+ 
+ Whether an electron is gained or lost can be easily memorised by the abbreviation OIL RIG, which stands for,  " Oxidation Is Loss, "  or losing electrons, and  " Reduction Is Gain, "  or gaining electrons. Redox reactions can also happen by sharing electrons to form a product by [[covalent bond|covalent bonding]].   
+ 
+ In an oxidation reduction reaction, the cation gives an electron to the anion because both ions will have a different charge to attract each other with. In an oxidation reduction reaction, the oxidizing [[reagent]] pulls an electron from the other atom to have a net positive charge. The reducing reagent gives an electron to have a net negative charge. However, there are exceptions. < ref > Oxidation and reduction properly refer to ''a change in oxidation number'' – the actual transfer of electrons may never occur. Thus, oxidation is better defined as an ''increase in oxidation number'', and reduction as a ''decrease in oxidation number''. In practice, the transfer of [[electrons]] will always cause a change in oxidation number, but there are many reactions which are classed as  " redox "  even though no electron transfer occurs (such as those involving [[covalent]] bonds). < /ref >   
+ 
+ == Chemical process == 
+ Redox is a chemical process. It can be described in [[chemical formula]] < nowiki/ > s. This example describes the process that occurs in a [[blast furnace]], where [[iron]] (Fe) reacts with carbon (C): 
+ : < math > \mathrm{1) \ C + O_2 \longrightarrow CO_2} < /math > 
+ 
+ : < math > \mathrm{2) \ CO_2 + C \rightleftharpoons 2 \ CO} < /math > 
+ 
+ : < math > \mathrm{3) \ Fe_2O_3 + 3 \ CO \longrightarrow 3 \ CO_2 + 2 \ Fe} < /math > 
+ : < small > Now elementary iron has been processed. < /small > 
+ 
+ ==Related pages== 
+ * [[Electrochemistry]] 
+ 
+ == Notes == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{wikibooks|General Chemistry/Redox Reactions}} 
+ * [http://www.shodor.org/UNChem/advanced/redox/redoxcalc.html Redox reactions calculator] 
+ * [http://www.chemguide.co.uk/inorganic/redox/definitions.html#top Redox reactions at Chemguide] 
+ * [http://www.webqc.org/balance.php Online redox reaction equation balancer, balances equations of any half-cell and full reactions] 
+ 
+ {{Basic reaction mechanisms}} 
+ 
+ 
+ {{chem-stub}} 
+ [[Category:Chemical reactions]]

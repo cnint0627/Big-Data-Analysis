@@ -1,0 +1,233 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Rotterdam 
+ | settlement_type         = [[List of cities in the Netherlands by province|City]] and [[List of municipalities of the Netherlands|municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = {{Photomontage|position=center 
+    | photo1a = Erasmusbrug seen from Euromast.jpg 
+    | photo2a = Laurenskerk, Rotterdam.jpg 
+    | photo2b = Rotterdam zadkine monument.jpg 
+    | photo2c = Overzicht - Rotterdam - 20358120 - RCE.jpg 
+    | photo3a = 2003-03-04 rotterdam 15 cubic houses.JPG 
+    | photo3b = Rotterdam feyenoord stadion 1.jpg 
+    | photo4a = Rotterdam stadhuis.jpg 
+    | photo4b = Schielandshuis Rotterdam cropped.jpg 
+    | photo4c = Rotterdam hotel newyork.jpg 
+    | photo5a = Rotterdam aelbrechtskolk wallekant.jpg 
+    | photo5b = Maasvlakte, containeropslag foto1 2014-03-09 11.12.jpg 
+    | size = 260 
+    | spacing = 2 
+    | color = #FFFFFF 
+    | border = 0 
+    | foot_montage = From top down, left to right: Rotterdam at dusk, < br > {{nobreak|[[Grote of Sint-Laurenskerk (Rotterdam)|Lawrence Church]], ''[[The Destroyed City]]'' sculpture, [[Euromast]],}} < br > [[Cube house#Rotterdam|Cube houses]], [[De Kuip]]; stadium of [[Feyenoord]], < br > {{nobreak|[[:nl:Stadhuis van Rotterdam|City Hall of Rotterdam]], [[:nl:Het Schielandshuis|Schieland House]], [[Hotel New York (Rotterdam)|Hotel New York]],}} < br > Historic town centre of [[Delfshaven]], [[Port of Rotterdam]] 
+ }} 
+ | image_alt               =  
+ | image_caption           =  
+ | image_flag              = Flag_of_Rotterdam.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Rotterdam wapen.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ | nickname                = Rotown, Roffa, Rotjeknor, Nultien 
+ | motto                   = Sterker door strijd ''(Stronger through struggle)'' 
+ < !-- Maps, coordinates -- > 
+ | image_map               = LocatieRotterdam-2010.png 
+ | map_alt                 = Highlighted position of Rotterdam in a municipal map of South Holland 
+ | map_caption             = Location in South Holland 
+ | coordinates             = {{coord|51|55|N|4|30|E|region:NL|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = Country 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = Province 
+ | subdivision_name1       = {{flag|South Holland}} 
+ | parts_type              = Districts 
+ | parts_style             = coll 
+ | parts                   = Fourteen 
+ |p1=[[Rotterdam Centrum|Centrum]] 
+ |p2=[[Charlois]] 
+ |p3=[[Delfshaven]] 
+ |p4=[[Feijenoord district|Feijenoord]] 
+ |p5=[[Hillegersberg-Schiebroek]] 
+ |p6=[[Hoogvliet]] 
+ |p7=[[Hook of Holland]] 
+ |p8=[[IJsselmonde, Rotterdam|IJsselmonde]] 
+ |p9=[[Kralingen-Crooswijk]] 
+ |p10=[[Noord, Rotterdam|Noord]] 
+ |p11=[[Overschie]] 
+ |p12=[[Pernis, Netherlands|Pernis]] 
+ |p13=[[Prins Alexander]] 
+ |p14=[[Rozenburg]] 
+ | government_footnotes    =  < ref name= " mayor_now " > {{cite web 
+  |url = http://www.rotterdam.nl/collegebenw 
+  |title = College van b en w 
+  |trans-title=Board of mayor and aldermen 
+  |language = Dutch 
+  |author =  
+  |publisher = Gemeente Rotterdam 
+  |accessdate = 10 December 2014}} < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = [[Labour Party (Netherlands)|PvdA]] 
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[Ahmed Aboutaleb]] 
+ | leader_title1           = [[College van burgemeester en wethouders|Aldermen]] 
+ | leader_name1            = {{Collapsible list 
+   |title=List 
+   |1= Judith Bokhove 
+   |2= Arno Bonte 
+   |3= Arjan van Gils 
+   |4= Michiel Grauss 
+   |5= Said Kasmi 
+   |6= Barbara Kathmann 
+   |7= Bas Kurvers 
+   |8= Sven de Langen 
+   |9= Richard Moti 
+   |10= Bert Wijbenga 
+  }} 
+ < !-- Geographic information -- > 
+ | total_type              = Municipality < !-- to set a non-standard label for total area and population rows -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > < ref name= " tno_randstad " > {{cite techreport 
+  |author1=Anita Bouman–Eijs 
+  |author2=Thijmen van Bree 
+  |author3=Wouter Jonkhoff 
+  |author4=Olaf Koops 
+  |author5=Walter Manshanden 
+  |author6=Elmer Rietveld 
+  |url=http://www.zuidvleugel.nl/sites/www.zuidvleugel.nl/files/article/downloads/top_20_europese_grootstedelijke_regios_1995_2011_tno_2012_r11155.pdf 
+  |title=De Top 20 van Europese grootstedelijke regio's 1995–2011; Randstad Holland in internationaal perspectief 
+  |language=Dutch 
+  |trans-title=Top 20 of European metropolitan regions 1995–2011; Randstad Holland compared internationally 
+  |date=17 December 2012 
+  |publisher=[[Netherlands Organisation for Applied Scientific Research|TNO]] 
+  |place=Delft 
+  |accessdate=25 July 2013 
+  |archive-date=3 March 2014 
+  |archive-url=https://web.archive.org/web/20140303212054/http://www.zuidvleugel.nl/sites/www.zuidvleugel.nl/files/article/downloads/top_20_europese_grootstedelijke_regios_1995_2011_tno_2012_r11155.pdf 
+  |url-status=dead 
+  }} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Rotterdam}} 
+ | area_land_km2           = {{Dutch municipality land area|Rotterdam}} 
+ | area_water_km2          = {{Dutch municipality water area|Rotterdam}} 
+ | area_blank1_title       = [[Randstad]] 
+ | area_blank1_km2         = 3043 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web 
+  |url = http://www.ahn.nl/postcodetool 
+  |title = Postcodetool for 3011AD 
+  |trans-title=|language = Dutch 
+  |author =  < !--Staff writer(s); no by-line.-- > 
+  |work = Actueel Hoogtebestand Nederland 
+  |publisher = Het Waterschapshuis 
+  |accessdate = 20 August 2013}} < /ref > 
+ | elevation_m             = 0 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref name= " tno_randstad " / > < ref > {{Dutch municipality population|dataref}} < /ref > < ref > {{Dutch municipality population urbanmetro|dataref}} < /ref > < ref > {{cite news|title=Over de Metropoolregio Rotterdam Den Haag|url=http://mrdh.nl/over-mrdh|publisher=MRDH.nl|quote=De Metropoolregio Rotterdam Den Haag is het gebied dat nu de huidige stadregio’s Rotterdam en Haaglanden omvat. Binnen dat gebied gaan de 24 gemeenten hun krachten bundelen in het samenwerkingsverband Metropoolregio Rotterdam Den Haag om de internationale concurrentiepositie van de regio te versterken. De Metropoolregio regio heeft 2,2 miljoen inwoners.|date=2014|accessdate=7 October 2014}} < /ref > 
+ | population_total        = {{Dutch municipality population|0599}} 
+ | population_as_of        = Municipality, {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{YEAR|{{Dutch municipality population|popbaseyear}}}}; Urban and Metro, {{MONTHNAME|{{Dutch municipality population urbanmetro|popbasemonth}}}} {{YEAR|{{Dutch municipality population urbanmetro|popbaseyear}}}}; Randstad, 2011 
+ | population_density_km2  = {{Dutch municipality population density|Rotterdam}}  < !-- For automatic calculation: auto-- > 
+ | population_urban        = {{Dutch municipality population urbanmetro|Rotterdam Urban}} 
+ | population_metro        = {{Dutch municipality population urbanmetro|Rotterdam Metro}} 
+ | population_blank1_title = {{nobreak|[[Rotterdam The Hague Metropolitan Area|Metropolitan region]]}} 
+ | population_blank1       = 2261844 
+ | population_blank2_title = [[Randstad]] 
+ | population_blank2       = 8,219,380 
+ | population_demonym      = Rotterdammer 
+ < !-- Other information -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 3000–3099 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 010 
+ | website                 = {{URL|1=http://www.rotterdam.nl}} 
+ | footnotes               = 
+ }} 
+ '''Rotterdam''' is the second-largest [[city]] in the [[Netherlands]]. There are about 653,000 people (2021) living in Rotterdam. It has the biggest port in [[Europe]]. The city is on several [[river]]s, most notably the [[Maas]]. Rotterdam, like all of the Netherlands, has an [[oceanic climate]] (''Cfb'' in the [[Koeppen climate classification]]). 
+ 
+ It hosts also a university: the [[Erasmus University Rotterdam]]. 
+ 
+ On 18 March 2010, [[Rozenburg]] became a part of the municipality of Rotterdam. 
+ 
+ == Sea level == 
+ Rotterdam is built mostly behind [[levee|dikes]] because large parts of the Rotterdam are below [[sea level]]. The Prins Alexander Polder in the northeast of Rotterdam extends 6 metres (20 ft) below sea level. The lowest point in the Netherlands (6.76 metres (22.2 ft) below NAP) is just to the east of Rotterdam. This kind of engineering may be needed in many countries as sea level rises. 
+ 
+ == History == 
+ A [[dam]] was built in 1260 across the river [[Rotte (river)|Rotte]] where the Hoogstraat is now. The name ''Rotterdam'' comes from this dam. The settlement was a regular fishing village at first, but became a thriving trading port pretty soon. The city got [[city rights]] in 1340 and [[city wall]]s in 1360. Rotterdam became an important city in [[Holland]] in the middle of the [[15th century]], when it won little wars against [[Delft]] and [[Gouda (town)|Gouda]]. From 1449 until 1525 a [[Gothic]] church (''Laurenskerk'') was built. The city then hold about 10,000 people. The city revolted against [[Spain|Spanish occupation]] in 1573, becoming one of the main city's of the [[Eighty Years' War]]. The port of Rotterdam grew a lot in the late [[16th century]] and early 17th century. In the end of the [[17th century]], the city hold almost 50,000 people. But the city had not built outside of the city walls. The city became very crowded. 
+ 
+ The port of Rotterdam became bigger and bigger in the [[19th century]], when several new canals were dug. These were: ''Nieuwe Waterweg'' (lit: New Waterway), and ''Voornse Kanaal''. The city grew quickly due to the enormous amount of work in the port. The population grew from 160,000 people in 1880 to 315,000 in 1900. Various new districts were built, including ''Cool'', ''Crooswerk'', and ''Nieuwe Westen''. Neighbouring places also became part of Rotterdam. In 1920, the city held more than 500,000 people for the first time in its history 
+ 
+ === Second World War === 
+ [[File:Rotterdam, Laurenskerk, na bombardement van mei 1940.jpg|left|thumb|Rotterdam after the bombardment around the Laurenskerk]] 
+ [[File:Rotterdambrandgrens02.jpg|left|thumb|Project ''Brandgrens'' (fire-border) in the night of May 15th 2007]] 
+ [[Nazi Germany]] attacked the Netherlands in [[May]] 1940.  The [[Battle of the Netherlands]] brought heavy fighting in Rotterdam. In the Blitz of Rotterdam, the Germans [[bombardment|bombarded]] Rotterdam on May 14, 1940. The damage was huge; 24,000 buildings were destroyed in only 15 minutes, and there was virtually nothing left of the old centre of Rotterdam. 800 people died instantly, and 80,000 were homeless. The bombardment also destroyed the Willemsbrigde, one of the two brigdes across the Maas at that time. The Germans repaired the bridge quickly, as it was of vital importance for the city. During the German occupation, the neighbouring places of Hillegersberg, Schiebroek, Overschie, Kralingseveer and Ijsselmonde are annexed (put by) by Rotterdam. On November 11th, 1944, a large [[razzia]] took place. About 50,000 men from 17 to 40 years old from Rotterdam were deported into working camps. The city also lost many people in the [[famine]] of 1944 (''hongerwinter'' (lit: Winter of hunger)). 
+ 
+ === After the war === 
+ [[File:Rotterdam Erasmusbrug bij avond vanaf hoek Veerhaven-Westerkade.jpg|thumb|Erasmusbrigde as seen from the old harbor]] 
+ Rotterdam was quickly rebuilt after the war, but [[modernization]] led to the fact that many old buildings were not repaired, but replaced by totally new ones. This has led to the fact that the centre of Rotterdam is composed of new buildings, a thing not common in [[Europe]]an cities. The ports of Rotterdam grew even more during the latter part of the [[20th century]]. New areas, built right on the sea, are ''Botlek'', ''Maasvlakte'', and ''Europoort''. The [[Euromast]] (185 [[m]] high) became an icon of Rotterdam. The [[metro]] of Rotterdam opened in 1968, which was the first metro in the [[Netherlands]]. The 1990s saw more skyscrapers being built. The ''Delftse Poort'', which was ready in 1991, was the highest [[skyscraper]] in the Netherlands, with 151 m high, until the ''Maastoren'' became the highest building in 2009 with 165 m. The new [[Erasmusbridge]], which was ready in 1996, gave Rotterdam a new symbol. 
+ 
+ == Districts == 
+ The city of Rotterdam is split up into 14 districts, each with a number of neighbourhoods. The districts are: 
+ 
+ # Rotterdam Centrum 
+ # Charlois 
+ # Delfshaven 
+ # Feijenoord 
+ # Hillegersberg-Schiebroek 
+ # Hoek van Holland 
+ # Hoogvliet 
+ # IJsselmonde 
+ # Kralingen-Crooswijk 
+ # Noord 
+ # Overschie 
+ # Pernis 
+ # Prins Alexander 
+ # [[Rozenburg]] 
+ 
+ == Notable people from Rotterdam == 
+ * [[Hans van Baalen]] 
+ * [[Leo Beenhakker]] 
+ * [[Thea Beckman]] 
+ * [[Pascal Bosschaart]] 
+ * [[Giovanni van Bronckhorst]] 
+ * [[Willem Pieterszoon Buytewech]] 
+ * [[Ferry Corsten]] 
+ * [[Jules Deelder]] 
+ * [[Bean (character)|Julian  " Bean "  Delphiki]] (literary character) 
+ * [[Edsger Dijkstra]] 
+ * [[Royston Drenthe]] 
+ * [[André van Duijn|André van Duin]] 
+ * [[Desiderius Erasmus]] 
+ * [[Pim Fortuyn]] 
+ * [[Ida Gerhardt]] 
+ * [[Jacobus van 't Hoff]] 
+ * [[Marianne Heemskerk]] 
+ * [[Bep van Klaveren]] 
+ * [[Rem Koolhaas]] 
+ * [[Kruimeltje]] (literary character) 
+ * [[Ruud Lubbers]] 
+ * [[Paul de Leeuw]] 
+ * [[Rie Mastenbroek]] 
+ * [[Robin van Persie]] 
+ * [[Hendrik Martenszoon Sorgh]] 
+ * [[Ron Steens]] 
+ * [[Marten Toonder]] 
+ 
+ == References == 
+ {{commonscat}} 
+ {{reflist}} 
+ 
+ {{South Holland Province}} 
+ 
+ {{Authority control}} 
+ 
+ [[Category:Rotterdam| ]]

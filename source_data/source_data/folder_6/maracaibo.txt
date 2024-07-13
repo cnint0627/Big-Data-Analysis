@@ -1,0 +1,172 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Maracaibo 
+ | official_name           =  
+ | native_name             =  < !-- if different from the English name -- > 
+ | native_name_lang        =  < !-- ISO 639-2 code e.g.  " fr "  for French. If more than one, use {{lang}} instead -- > 
+ | other_name              = 
+ | settlement_type         = City 
+ < !-- images, nickname, motto --- > 
+ | image_skyline           =  
+ | imagesize               = 
+ | image_alt               = 
+ | image_caption           =  
+ | image_flag              = Bandera de Maracaibo.svg 
+ | flag_size               = 
+ | flag_alt                = 
+ | flag_link               = 
+ | image_seal              = ESC-V-Maracaibo.svg 
+ | seal_size               = 
+ | seal_alt                = 
+ | seal_link               = 
+ | image_blank_emblem      = 
+ | blank_emblem_type       =  < !-- defaults to Logo -- > 
+ | blank_emblem_size       = 
+ | blank_emblem_alt        = 
+ | blank_emblem_link       = 
+ | nickname                =  " La Tierra del Sol Amada " < br / > ({{lang-en| " The Beloved Land of the Sun " }}) 
+ | motto                   =  " ''Muy noble y leal'' " < br / > (English:  " Very noble and loyal " ) 
+ | anthem                  = 
+ < !-- maps and coordinates ------ > 
+ | image_map               = 
+ | mapsize                 = 
+ | map_alt                 = 
+ | map_caption             = 
+ | image_map1              = 
+ | mapsize1                = 
+ | map_alt1                = 
+ | map_caption1            = 
+ | image_dot_map           = 
+ | dot_mapsize             = 
+ | dot_map_base_alt        = 
+ | dot_map_alt             = 
+ | dot_map_caption         = 
+ | dot_x = |dot_y = 
+ | pushpin_map             = Venezuela 
+ | pushpin_label_position  =  < !-- position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_label           =  < !-- only necessary if  " name "  or  " official_name "  are too long -- > 
+ | pushpin_map_alt         = 
+ | pushpin_mapsize         = 
+ | pushpin_map_caption     = 
+ | pushpin_map1            = 
+ | pushpin_label_position1 = 
+ | pushpin_label1          =  < !-- only necessary if  " name "  or  " official_name "  are too long -- > 
+ | pushpin_map_alt1        = 
+ | pushpin_mapsize1        = 
+ | pushpin_map_caption1    = 
+ | coordinates={{coord|10|39||N|71|38||W|region:VE-A|display=inline,title}} 
+ | coor_pinpoint           =  < !-- to specify exact location of coordinates (was coor_type) -- > 
+ | coordinates_footnotes   =  < !-- for references: use  < ref >  tags -- > 
+ < !-- location ------------------ > 
+ | subdivision_type        = Country 
+ | subdivision_name        = [[Venezuela]] 
+ | subdivision_type1       = [[States of Venezuela|State]] 
+ | subdivision_name1       = [[Zulia]] 
+ | subdivision_type2       = [[Municipalities of Venezuela|Municipality]] 
+ | subdivision_name2       = Maracaibo 
+ < !-- established --------------- > 
+ | established_title       = Founded 
+ | established_date        = (1) 8 September 1529, (2) 1569, (3) 1574 
+ | established_title1      =  < !-- Incorporated (town) -- > 
+ | established_date1       = 
+ | established_title2      =  < !-- Incorporated (city) -- > 
+ | established_date2       = 
+ | established_title3      = 
+ | established_date3       = 
+ | extinct_title           = 
+ | extinct_date            = 
+ | founder                 = [[Ambrosio Alfínger]] (1529), Captain [[Alonso Pacheco]] (1569), Captain Pedro Maldonado (1574) 
+ | named_for               = 
+ < !-- government type, leaders -- > 
+ | government_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | government_type         = [[Mayor-council government|Mayor-council]] 
+ | governing_body          = Alcaldía de Maracaibo 
+ | leader_party            = [[A New Era|UNT]] 
+ | leader_title            = [[Mayor]] 
+ | leader_name             = [[Eveling Trejo de Rosales]] 
+ | leader_title1           = 
+ | leader_name1            =  < !-- etc., up to leader_title4 / leader_name4 -- > 
+ < !-- display settings  --------- > 
+ | total_type              =  < !-- to set a non-standard label for total area and population rows -- > 
+ | unit_pref               =  < !-- enter: Imperial, to display imperial before metric -- > 
+ < !-- area ---------------------- > 
+ | area_footnotes          =  < !-- for references: use  < ref >  tags -- > 
+ | area_total_km2          = 
+ | area_land_km2           = 
+ | area_water_km2          = 
+ | area_water_percent      = 
+ | area_urban_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | area_urban_km2          = 
+ | area_metro_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | area_metro_km2          = 1393 
+ | area_rank               = 
+ | area_blank1_title       = 
+ | area_blank1_km2         = 
+ | area_blank2_title       = 
+ | area_blank2_km2         = 
+ | area_note               = 
+ < !-- elevation ----------------- > 
+ | elevation_footnotes     =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_m             = 6 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- population ---------------- > 
+ | population_footnotes    = 
+ | population_as_of        = 2010 
+ | population_rank         = 2nd 
+ | pop_est_as_of           = 2010 
+ | population_urban        = 1,495,199 
+ | population_urban_footnotes=  < ref name= " urban "  / > 
+ | population_metro = 2,108,404 
+ | population_metro_footnotes=  < ref name= " metro "  / > 
+ | population_density_metro_km2   = 
+ | population_density      = 
+ | population_density_rank = 
+ | population_blank1_title = 
+ | population_blank1       = 
+ | population_density_blank1_km2  = 
+ | population_blank2_title = 
+ | population_blank2       = 
+ | population_density_blank2_km2  = 
+ | population_demonym      = Marabino(a), Maracaibero(a), Maracucho(a) 
+ | population_note         = 
+ < !-- time zone(s) -------------- > 
+ | timezone1               = [[Venezuelan Standard Time Zone|VST]] 
+ | utc_offset1             = -04:30 
+ | timezone1_DST           = not observed 
+ | utc_offset1_DST         = -04:30 
+ | timezone2               = 
+ | utc_offset2             = 
+ | timezone2_DST           = 
+ | utc_offset2_DST         = 
+ < !-- postal codes, area code --- > 
+ | postal_code_type        = Postal coded 
+ | postal_code             = 4001, 4002, 4003, 4004, 4005 
+ | area_code_type          = [[Telephone numbers in Venezuela|Area code]] 
+ | area_code               = 261 
+ | geocode                 = 
+ | iso_code                = VE-A 
+ | registration_plate      = 
+ < !-- website, footnotes -------- > 
+ | website                 = [http://www.alcaldiademaracaibo.gob.ve/ Alcaldía de Maracaibo] {{in lang|es}} 
+ | footnotes               = The area and population figures are for the municipality. 
+ }} 
+ 
+ '''Maracaibo''' is a city in northwestern [[Venezuela]]. It is the second-largest city in the country and the capital of [[Zulia]] State. The population of the city is approximately 1,495,200  < ref name= " urban " > {{Cite web |title=Proyecciones Estados |url=http://www.ine.gov.ve/seccion/poblacion/magnitudestructura/Trabajo.asp?CodigoEstado=24 & TipoPublicacion=Proyecciones & AreaDePublicacion=poblacion & AnoBaseCenso=2001 & CodigoCuadro=Cuadro_06 & ControlHref=14 & strHref=MunicipioMaracaibo & strMunicipioX=Municipio$Maracaibo |access-date=2013-10-02 |archive-date=2009-11-14 |archive-url=https://web.archive.org/web/20091114075110/http://www.ine.gov.ve/seccion/poblacion/magnitudestructura/Trabajo.asp?CodigoEstado=24 & TipoPublicacion=Proyecciones & AreaDePublicacion=poblacion & AnoBaseCenso=2001 & CodigoCuadro=Cuadro_06 & ControlHref=14 & strHref=MunicipioMaracaibo & strMunicipioX=Municipio$Maracaibo |url-status=dead }} < /ref >  with the [[metropolitan area]] at 2,108,404 as of 2010. < ref name= " metro " > {{Cite web |title=Archived copy |url=http://www.ine.gov.ve/seccion/poblacion/magnitudestructura/MenuMagnitud.asp?Codigo_Estado=24 & Publicacion=Proyecciones & AnoBaseCenso=2001 & AreaDepublicacion=poblacion & seccion=2 & nedo=24 |access-date=2013-10-02 |archive-date=2009-11-14 |archive-url=https://web.archive.org/web/20091114000814/http://www.ine.gov.ve/seccion/poblacion/magnitudestructura/MenuMagnitud.asp?Codigo_Estado=24 & Publicacion=Proyecciones & AnoBaseCenso=2001 & AreaDepublicacion=poblacion & seccion=2 & nedo=24%23 |url-status=dead }} < /ref > 
+ Maracaibo is nicknamed '''''La Tierra del Sol Amada''''' ( " The Beloved Land of the Sun " ). 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{geo-stub}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Cities in Venezuela]] 
+ [[Category:Capitals of Venezuelan states]] 
+ [[Category:1529 establishments]] 
+ [[Category:16th-century establishments in Venezuela]] 
+ [[Category:Zulia]]

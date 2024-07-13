@@ -1,0 +1,75 @@
+{{Infobox settlement 
+ < !-- Basic info-- > 
+ | official_name          = Schwamendingen 
+ | native_name            = District of the city of [[Zürich]] 
+ | other_name             = 
+ | settlement_type        = District 
+ < !-- images-- > 
+ | image_skyline          = 
+ | image_caption          = 
+ | image_flag             = 
+ | image_seal             = Schwamendingen-blazon.svg 
+ | image_shield           = 
+ | nickname               = 
+ | motto                  = 
+ | image_map              = Karte Zürcher Stadtkreis 12.png 
+ | map_caption            = 
+ | pushpin_map            =  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | pushpin_label_position =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_map_caption    = 
+ < !-- Location-- > 
+ | coordinates            = {{coord|47.406|N|8.572|E|source:dewiki|display=inline,title}} 
+ | subdivision_type       = Country 
+ | subdivision_name       = [[Switzerland]] 
+ | subdivision_type1      = [[Cantons of Switzerland|Canton]] 
+ | subdivision_name1      = [[Canton of Zürich|Zürich]] 
+ | subdivision_type2      = City 
+ | subdivision_name2      = [[Zürich]] 
+ | established_title      =  < !-- Settled -- > 
+ | established_date       = 
+ | government_type        = 
+ < !-- Politics -- > 
+ | government_footnotes   = 
+ | leader_title           = 
+ | leader_name            = 
+ < !-- Area and population -- > 
+ | area_footnotes         = 
+ | area_total_km2         = 5.97 
+ | area_land_km2          =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ | area_water_km2         = 
+ | area_water_percent     = 
+ | elevation_footnotes    =  < !--for references: use < ref >   < /ref >   tags-- > 
+ | elevation_m            = 
+ | population_footnotes   = 
+ | population_total       = 28314 
+ | population_as_of       = 31. Dec. 2005 
+ | population_density_km2 = 4743 
+ | population_note        = 
+ < !-- AGeneral information -- > 
+ | timezone               = 
+ | utc_offset             = 
+ | timezone_DST           = 
+ | utc_offset_DST         = 
+ < !-- Area codes  &  related -- > 
+ | postal_code_type       =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | postal_code            = 
+ | area_code              = 
+ | blank_name             = District Number 
+ | blank_info             = 12 
+ | blank1_name            = Quarters 
+ | blank1_info            = [[Schwamendingen Mitte]] < br > [[Saatlen]] < br > [[Hirzenbach]] 
+ | website                = 
+ | footnotes              = 
+ }} 
+ [[File:Schwamendingen03.jpg|thumb|250px|Church of Schwamendingen]] 
+ '''Schwamendingen''' is a [[quarter]] in [[Zürich]], [[Switzerland]]. It is District number 12. 
+ 
+ The district has the quarters [[Schwamendingen Mitte]], [[Saatlen]] and [[Hirzenbach]]. 
+ 
+ Until 1934 it was a municipality on its own. It was then [[Municipal corporation|incorporated]] into [[Zürich]]. 
+ 
+ {{Commonscat}} 
+ {{Switzerland-stub}} 
+ 
+ [[Category:Former municipalities of Zürich]] 
+ [[Category:Quarters of Zürich]]

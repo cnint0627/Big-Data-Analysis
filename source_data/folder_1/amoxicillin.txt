@@ -1,0 +1,118 @@
+{{Infobox drug 
+ | Watchedfields = changed 
+ | verifiedrevid = 455343638 
+ | drug_name =  
+ | INN =  
+ | type =  < !-- empty -- > 
+ | image = Amoxicillin.svg 
+ | width =  
+ | alt =  
+ | caption =  
+ | image2 = Amoxicillin-from-xtal-3D-bs-17.png 
+ | width2 =  
+ | alt2 =  
+ | AAN = Amoxycillin 
+ 
+ < !-- Clinical data -- > 
+ | pronounce = {{IPAc-en|ə|ˌ|m|ɒ|k|s|ᵻ|ˈ|s|ɪ|l|ᵻ|n}} 
+ | tradename = Hundreds of names < ref name=brands > {{cite web|title=International brand names for amoxicillin|url=https://www.drugs.com/international/amoxicillin.html|website=www.drugs.com|publisher=Drugs.com|access-date=15 November 2016|url-status=live|archive-url=https://web.archive.org/web/20160529051432/http://www.drugs.com/international/amoxicillin.html|archive-date=29 May 2016}} < /ref > 
+ | Drugs.com = {{drugs.com|monograph|amoxicillin}} 
+ | MedlinePlus = a685001 
+ | licence_CA =  < !-- Health Canada may use generic or brand name (generic name preferred) -- > 
+ | licence_EU =  
+ | DailyMedID = Amoxicillin 
+ | licence_US =  
+ | pregnancy_AU = A 
+ | pregnancy_AU_comment =  
+ | pregnancy_category =  
+ | routes_of_administration = [[Oral administration|By mouth]], [[intravenous therapy|intravenous]] 
+ | class = [[β-lactam]] antibiotic 
+ | ATC_prefix = J01 
+ | ATC_suffix = CA04 
+ | ATC_supplemental = {{ATCvet|G51|AA03}} 
+ 
+ < !-- Legal status -- > 
+ | legal_AU = S4 
+ | legal_AU_comment =  
+ | legal_BR =  < !-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F -- > 
+ | legal_BR_comment =  
+ | legal_CA =  < !-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -- > 
+ | legal_CA_comment =  
+ | legal_DE =  < !-- Anlage I, II, III or Unscheduled -- > 
+ | legal_DE_comment =  
+ | legal_NZ =  < !-- Class A, B, C -- > 
+ | legal_NZ_comment =  
+ | legal_UK = POM 
+ | legal_UK_comment =  
+ | legal_US = Rx-only 
+ | legal_US_comment =  
+ | legal_UN =  < !-- N I, II, III, IV / P I, II, III, IV -- > 
+ | legal_UN_comment =  
+ | legal_status = Rx-only 
+ 
+ < !-- Pharmacokinetic data -- > 
+ | bioavailability = 95% by mouth 
+ | protein_bound =  
+ | metabolism = less than 30% biotransformed in [[liver]] 
+ | metabolites =  
+ | onset =  
+ | elimination_half-life = 61.3 minutes 
+ | duration_of_action =  
+ | excretion = [[Kidneys]] 
+ 
+ < !-- Identifiers -- > 
+ | CAS_number_Ref = {{cascite|correct|??}} 
+ | CAS_number = 26787-78-0 
+ | CAS_supplemental =  
+ | PubChem = 33613 
+ | IUPHAR_ligand =  
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB01060 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 31006 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 9EM05410Q9 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = D07452 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 2676 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 1082 
+ | NIAID_ChemDB =  
+ | PDB_ligand =  
+ | synonyms = Amoxycillin, amox 
+ 
+ < !-- Chemical and physical data -- > 
+ | IUPAC_name = (2''S'',5''R'',6''R'')-6-{[(2''R'')-2-Amino-2-(4-hydroxyphenyl)acetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid 
+ | C = 16 | H = 19 | N = 3 | O = 5 | S = 1 
+ | SMILES = O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccc(O)cc1)N)[C@H]3SC2(C)C 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C16H19N3O5S/c1-16(2)11(15(23)24)19-13(22)10(14(19)25-16)18-12(21)9(17)7-3-5-8(20)6-4-7/h3-6,9-11,14,20H,17H2,1-2H3,(H,18,21)(H,23,24)/t9-,10-,11+,14-/m1/s1 
+ | StdInChI_comment =  
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = LSQZJLSUYDQPKJ-NJBDSQKTSA-N 
+ | density = 1.6±0.1  < ref name= " chemsrc " > {{Cite web|url=https://www.chemsrc.com/en/cas/26787-78-0_946616.html|title=Amoxicillin|website=www.chemsrc.com}} < /ref > 
+ | density_notes =  
+ | melting_point =  
+ | melting_high =  
+ | melting_notes =  
+ | boiling_point =  
+ | boiling_notes =  
+ | solubility =  
+ | sol_units =  
+ | specific_rotation =  
+ }} 
+ '''Amoxicillin''' is an [[antibiotic]] used to treat some [[bacteria]]l [[infection]]s. < ref name= " AHFS2015 "  / >  It is one of the most common antibiotics given to children. < ref > {{cite book| vauthors = Kelly D |title=Diseases of the liver and biliary system in children|date=2008|publisher=Wiley-Blackwell|location=Chichester, UK|isbn=978-1-4443-0054-3|page=217|edition=3|url=https://books.google.com/books?id=z7nO3OrNXckC & pg=PA217|url-status=live|archive-url=https://web.archive.org/web/20170908135935/https://books.google.com/books?id=z7nO3OrNXckC & pg=PA217|archive-date=8 September 2017}} < /ref > 
+ 
+ It may be given for middle [[ear infection]], [[strep throat]], [[pneumonia]], [[cellulitis|skin infections]], and [[urinary tract infection]]s among others. < ref name=AHFS2015/ >  It is taken by mouth, or less commonly by injection. < ref name=AHFS2015 > {{cite web|title=Amoxicillin|url=https://www.drugs.com/monograph/amoxicillin.html|work=The American Society of Health-System Pharmacists|access-date=1 August 2015|url-status=live|archive-url=https://web.archive.org/web/20150905150500/http://www.drugs.com/monograph/amoxicillin.html|archive-date=5 September 2015}} < /ref > < ref > {{cite web|title=Amoxicillin Sodium for Injection|url=https://www.medicines.org.uk/emc/medicine/5359|website=EMC|access-date=26 October 2016|date=10 February 2016|url-status=live|archive-url=https://web.archive.org/web/20161027054630/https://www.medicines.org.uk/emc/medicine/5359|archive-date=27 October 2016}} < /ref > 
+ 
+ Common bad [[side effect]]s are [[nausea]] and a [[rash]]. < ref name=AHFS2015/ >  It can also make [[candidiasis|yeast infections]] more likely. When taken with [[clavulanic acid]], it can cause [[diarrhea]]. < ref name= " Common harms from amoxicillin: a sy " > {{cite journal | vauthors = Gillies M, Ranakusuma A, Hoffmann T, Thorning S, McGuire T, Glasziou P, Del Mar C | title = Common harms from amoxicillin: a systematic review and meta-analysis of randomized placebo-controlled trials for any indication | journal = CMAJ | volume = 187 | issue = 1 | pages = E21–E31 | date = January 2016| pmid = 25404399 | pmc = 4284189 | doi = 10.1503/cmaj.140848 }} < /ref >  It should not be used on someone [[allergy|allergic]] to [[penicillin]].  < ref name=AHFS2015/ >  It can be used for people with [[kidney]] problems, but less should be given than normal. < ref name=AHFS2015/ >  It may be used on [[pregnant]] women or women who are [[breastfeeding]]. < ref name=AHFS2015/ >   
+ 
+ Amoxicillin was discovered in 1958 and its use started in 1972. < ref > {{cite book| vauthors = Fischer J, Ganellin CR |title=Analogue-based Drug Discovery|date=2006|publisher=John Wiley  &  Sons|isbn=978-3-527-60749-5|page=490|url=https://books.google.com/books?id=FjKfqkaKkAAC & pg=PA490|language=en|url-status=live|archive-url=https://web.archive.org/web/20170908135935/https://books.google.com/books?id=FjKfqkaKkAAC & pg=PA490|archive-date=8 September 2017}} < /ref > < ref > {{cite book| vauthors = Roy J |title=An introduction to pharmaceutical sciences production, chemistry, techniques and technology|date=2012|publisher=Woodhead Pub.|location=Cambridge|isbn=978-1-908818-04-1|page=239|url=https://books.google.com/books?id=0IdmAgAAQBAJ & pg=PA239|url-status=live|archive-url=https://web.archive.org/web/20170908135935/https://books.google.com/books?id=0IdmAgAAQBAJ & pg=PA239|archive-date=8 September 2017}} < /ref >  It is on the (WHO) [[WHO Model List of Essential Medicines|World Health Organization's List of Essential Medicines]]. < ref name= " WHO21st " > {{cite book | vauthors = ((World Health Organization)) | title = World Health Organization model list of essential medicines: 21st list 2019 | year = 2019 | hdl = 10665/325771 | author-link = World Health Organization | publisher = World Health Organization | location = Geneva | id = WHO/MVP/EMP/IAU/2019.06. License: CC BY-NC-SA 3.0 IGO | hdl-access=free }} < /ref >   
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Antibiotics]] 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:Organosulfur compounds]]

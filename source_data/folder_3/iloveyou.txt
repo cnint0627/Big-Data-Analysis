@@ -1,0 +1,12 @@
+'''ILOVEYOU''' was a [[computer worm]] that first appeared on May 5, 2000. < ref > {{cite web|url=http://www.symantec.com/security_response/writeup.jsp?docid=2000-121815-2258-99|title=VBS.LoveLetter.Var|publisher=Symantec|accessdate=April 15, 2015}} < /ref >  The worm was sent by [[email]] using the subject  " ILOVEYOU " , with the worm attached. The worm would look like a text file, until it was opened. The file would be called ''LOVE-LETTER-FOR-YOU.txt.vbs''. Because of [[Microsoft Windows]]' [[wikt:default|default]] options, the user would not see the  " .vbs "  extension, and mistake it for a harmless [[text file]] which cannot execute code. < ref > {{cite web|archiveurl=https://web.archive.org/web/20110814114849/http://www.wired.com/science/discoveries/news/2000/05/36119|title=Now That Was a Nasty Worm|publisher=Wired|url=https://www.wired.com/science/discoveries/news/2000/05/36119|date=May 5, 2000|archivedate=April 15, 2015|accessdate=April 15, 2015|last=Finley|first=Michelle}} < /ref > 
+ 
+ Many of the files on the computer would be replaced by the worm. < ref > {{cite web|archiveurl=https://web.archive.org/web/20081208011813/http://news.zdnet.com/2100-9595_22-107318.html?legacy=zdnn|title='ILOVEYOU' e-mail worm invades PCs|publisher=ZDNet|date=May 4, 2000|url=http://news.zdnet.com/2100-9595_22-107318.html?legacy=zdnn|archivedate=April 15, 2015|accessdate=April 15, 2015|last=Kane|first=Margaret}} < /ref >  Depending on what version was run, the payload would be different, because the worm could be changed so easily. The worm was written in [[Visual Basic|Visual Basic Script]], and used [[Microsoft Outlook]] to spread. It infected over 45 million computers and caused $10 billion in damages 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ 
+ [[Category:Malware]] 
+ 
+ 
+ {{tech-stub}}

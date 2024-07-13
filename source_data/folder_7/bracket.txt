@@ -1,0 +1,47 @@
+{{hatnote|For [https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(technical_restrictions)#Forbidden_characters technical reasons],  " { " ,  " } " ,  " [ " , and  " ] "  do not redirect here.}} 
+ [[File:Brackets.svg|thumb|100px|The different types of brackets. From top to bottom: square brackets, braces, parentheses, chevrons, and inequality signs.]] 
+ 
+ '''Brackets''' are tall [[punctuation]] marks used in matched pairs within [[text]]. They are used in [[Mathematical notation|mathematics]] and in [[literature]] (written language). They are sometimes used to set apart or interject other parts of the text. They are noted as left/right: the ''left bracket'' is  " [ "  and the ''right bracket'' is  " ] " . 
+ 
+ In the [[American English]],  " bracket "  usually refers specifically to the  " square "  or  " box "  type. < ref > [http://foldoc.org/index.cgi?query=bracket & action=Search Free Online Dictionary of Computing]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  In [[British English]],  " bracket "  normally refers to the  " round "  type, which is called a  " parenthesis "  mark in American usage. 
+ 
+ Parentheses are the curved brackets  " ( & nbsp; & nbsp;) " . They are also called ''round brackets'', ''curved brackets'', ''oval brackets'', or, colloquially, ''parens''. 
+ 
+ Parentheses have several different meanings, such as: 
+ * noting optional text: & nbsp;  " (this is optional) " ; 
+ * showing other [[word]] endings: & nbsp;  " vote(s) "  or  " quick(ly) " 
+ * adjusting the meaning: & nbsp;  " There are some (many) pages " . 
+ * adding humor: & nbsp;  " They sell pre-owned (read:  " used " ) cars " . 
+ * indicating a [[negative number]]: & nbsp; $90 - $100 = ($10) 
+ * grouping terms in a calculation: & nbsp; 6 x (2 + 3) = 30. 
+ * showing emphasis for attention: & nbsp;  " (((wow))) " . 
+ There are also other uses for parentheses. 
+ 
+ Parentheses enclose text which could be left out, without destroying or altering the meaning of a sentence. In most writing, overuse of parentheses is usually a sign of a badly structured [[text]]. A milder effect may be obtained by using a pair of commas around the text, although if the sentence contains commas for other uses, then visual confusion may result. 
+ 
+ Parentheses may be used in formal writing to add more information, such as in: 
+ :  " Sen. John McCain (R., Arizona) spoke at length " 
+ They can also note  " either singular or plural "  for [[noun]]s, such as in the word  " claim(s) " . 
+ 
+ In mathematics, various brackets are used for various purposes. These include, in particular: < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-25|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Brackets (Parentheses)|url=https://www.mathsisfun.com/algebra/brackets.html#:~:text=Brackets%20are%20symbols%20used%20in,or%20%22curly%20brackets%22%20%7B%20%7D|access-date=2020-08-25|website=www.mathsisfun.com}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Square Bracket|url=https://mathworld.wolfram.com/SquareBracket.html|access-date=2020-08-25|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ * The use of parenthesis in [[Ordered pair|ordered pairs]] and [[Tuple|tuples]] (as in  < math > (3, 5, 12) < /math > ) 
+ * The use of square brackets in [[Interval (mathematics)|intervals]] (as in  < math > (3, 4] < /math > ) 
+ * The use of braces in set-builder notation (as in  < math > \{\pi, e, i \} < /math > ) 
+ * The use of angle brackets in inner products (as in  < math > \langle a, b \rangle < /math > ) 
+ 
+ ==Related pages== 
+ * [[Emoticon]] 
+ * [[Order of operations]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Bibliography== 
+ {{wiktionary|parentheses}} 
+ * {{cite book |last=Lennard |first=John |title=But I Digress: The Exploitation of Parentheses in English Printed Verse |year=1991 |isbn=0-19-811247-5 |publisher= Clarendon Press |location= Oxford}} 
+ * {{cite book |last=Turnbull | display-authors = etal |title=The Graphics of Communication |publisher=Holt |location=New York |year=1964}} States that what are depicted as brackets above are called braces and braces are called brackets. This was the terminology in US printing prior to computers. 
+ 
+ [[Category:Punctuation]] 
+ [[Category:Mathematical notation]] 
+ [[Category:Typography]]

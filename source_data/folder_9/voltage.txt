@@ -1,0 +1,40 @@
+[[File:20030230-01 Connecting High Voltage Cable - Bonny Nigeria.jpg|thumb|Connecting a high voltage cable]] 
+ '''Voltage''' is what makes electric [[Charged particle|charges]] move.  It is the 'push' that causes charges to move in a wire or other [[electrical conductor]].  It can be thought of as the force that pushes the charges, but it is not a [[force]]. Voltage can cause charges to move, and since moving charges is a current, voltage can cause a [[Electric current|current]]. 
+ 
+ Electric Potential Difference is the true scientific term but is commonly called Voltage. Informally, voltage or electric potential difference is sometimes called  " Potential Difference " . Voltage is also called, in certain circumstances, electromotive force (EMF). 
+   
+ Voltage is an electrical potential difference, the difference in [[electric potential]] between two places.  The unit for electrical potential difference, or voltage, is the [[volt]]. The volt is named in memory of [[Alessandro Volta]]. One volt equals one [[joule]] per [[coulomb]].  The [[symbol]] for the unit volt is written with an uppercase V as in (9V).  According to the rules of the [[International System of Units]], the symbol for a unit with a name derived from the proper name of a person is uppercase. 
+ 
+ Please note that the '''[[volt]]''' and '''voltage''' are two different things. The volt is a [[Unit of measurement|unit]] by which we measure something. Both electric potential and voltage are things we measure and the volt is the unit of measure for both. The [[symbol]] for the unit volt is written with a V (9 volts or 9 V). When voltage is used in a formula, it can be typeset in italics, e.g.,  < math > V=9\,\text{V} < /math > , or written in cursive. If there is only a single letter symbol to go by, a lowercase v may be used, e.g.,  < math > \text{voltage} = \text{current} \times \text{resistance} < /math >  or  < math > \text{v} = \text{ir} < /math > . Electrical engineers use the symbol  < math > e < /math >  for voltage, e.g.,  < math > e=ir < /math > , to make the difference between voltage and volts very clear. 
+ 
+ Technically, the voltage is the difference in [[electric potential]] between two points and is always measured between two points.  e.g. between the positive and negative ends of a battery, between a wire and the [[Ground (electricity)|ground]], or between a wire or a point of a circuit and a point in another part of the circuit.  In everyday use with household electricity in the U.S. the voltage is most often 120V. This voltage is measured from the electric wire to the ground. 
+ 
+ Note that there must be both voltage ''and'' current to transfer power (energy). For example, a wire can have a high voltage on it, but unless it is connected, nothing will happen. Birds can land on high voltage lines such as 12kV and 16kV without dying, because the current does not flow through the bird. 
+ 
+ There are two types of voltage, [[direct current|DC]] voltage and [[Alternating current|AC]] voltage. The DC voltage (direct current voltage) always has the same polarity (positive or negative), such as in a battery. The AC voltage (alternating current voltage) alternates between positive and negative. For example, the voltage from the wall socket changes polarity 60 times per second (in America) or 50 times per second (UK and Europe). The DC is typically used for electronics and the AC for motors. 
+ 
+ ==  Definition == 
+ Voltage is the change in Electric Potential between two places  < br > 
+ or the change in Electric Potential Energy per coulomb between two places. 
+ :  < math > V =\Delta(EPE/q) = (EPE/q)_2 - (EPE/q)_1 < /math > 
+ Where ''V''=Voltage, EPE=Electric Potential Energy, ''q''=charge, ∆=difference in. 
+ 
+ == Ground voltage == 
+ Voltage is always measured between two points, and one of them is often called the  " ground " , or the zero volt (0V) point. In most AC electrical installations there is a connection to the earth. A connection is made to the real ground through a water pipe, a ground rod buried or driven into the earth, or a convenient metallic conductor (not a gas pipe) buried underground.  This connection is made at the point of entry of the electric system into a building, at every pole where there is a transformer at the street (often on an electric pole), and other places in the system. The whole planet Earth is used as a reference point for measuring voltage. In a building this ground is carried to each electrical device on two wires. One is the 'grounding conductor' (the green or bare wire) and is used as a safety ground to connect metal parts of equipment to the earth.  The other is used as one of the electric conductors in the circuits of the system and is called the 'neutral conductor'. This wire which is at the ground potential completes all the circuits by carrying the current from any electric equipment back to the systems entry point into the buildings and then to the transformer usually at the street.  In many places outside the buildings it becomes unnecessary to have a wire to complete the circuits and carry the current from the buildings to the generators.  The return path that carries all the current back is the earth itself. 
+ 
+ In DC circuits, the negative end of a generator or battery is often called the  " ground "  or zero volt (0V) point, even though there may or may not be a connection to the earth. There can be several grounds on the same printed circuit board (PCB), for example with sensitive analog circuits, that part of the circuit can use an  " analog ground " , and the digital part, have a  "  digital ground " .  
+ 
+ In electrical equipment the 0 volt point can be the metal chassis called a chassis ground or a connection to the actual ground called an earth ground, each with their own symbol used in electrical schematic drawings (circuit drawings). 
+ 
+ == Measuring tools == 
+ Some of the tools for measuring the voltage are the [[voltmeter]] and the [[oscilloscope]]. 
+ 
+ The voltmeter measures the voltage between two points and can be set to the DC mode or the AC mode. The voltmeter can measure the DC voltage of a battery for example (typically 1.5V or 9V), or the AC voltage from the power socket on the wall (typically 120V). 
+ 
+ For more complex signals, an oscilloscope can be used the measured the DC and/or AC voltage, for example to measure the voltage across a speaker. 
+ 
+ == Potential difference == 
+ The voltage, or potential difference from point a to point b is the amount of energy in [[joules]] (as a result of electric field) required to move 1 [[coulomb]] of positive charge from point a to point b. A negative voltage between points a and b is one in which 1 coulomb of energy is required to move a negative charge from point a to b. If there is a uniform [[electric field]] about a charged object, negatively charged objects will be pulled towards higher voltages, and positively charged objects will be pulled towards lower voltages. The potential difference/Voltage between two points is independent of the path taken to get from point a to b. Thus, the voltage from a to b + the voltage from b to c will always equal the voltage from a to c. 
+ 
+ [[Category:Energy]] 
+ [[Category:Electricity]]

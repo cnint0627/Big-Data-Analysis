@@ -1,0 +1,18 @@
+{{about|the computer science word|an actual handshake|Handshake}} 
+ '''Handshaking''' is the [[connection]] between the computer and a device. Handshaking is required in order to allow both the computer and device to send [[protocol]]s to each other.  During a handshake, the two devices make sure that they know certain connection requirements of each other. For instance, they will need to find out a suitable [[bit rate]] and [[latency]] for each other.  
+ 
+ Examples of [[Device driver|devices]] that use this [[Method (computer science)|method]] include a [[modem]] or another computer. Normally, handshaking happens between two devices. Although, a [[TCP]] three-way handshake is a special type of handshake that involves sending a connection from one computer to another, just done three times. 
+ 
+ ==Examples== 
+ ===TCP three-way handshake=== 
+ This method is used to connect two [[Host (network)|host]]s on a [[computer network]] together, each host known as the [[Client (computing)|client]] (the main host) and the [[server]] (a distant host), respectively. Once the client wants to make a connection to the server, the client can start a [[TCP]] three-way handshake with the server. This will allow the client computer (the main device) to send and receive messages to and from the server (a distant device) once the process is complete. Starting a normal TCP connection requires three separate steps: 
+ 
+ # The first host (Alice) sends the second host (Bob) a  " synchronize "  (SYN) message with its own sequence number  < math > x < /math > . Bob will then receives Alice's sequence number. 
+ # Bob replies with a synchronize-acknowledgment ([[SYN-ACK]]) message with its own sequence number  < math > y < /math >  and acknowledgement number  < math > x + 1 < /math > . Alice will then receive Bob's message, which contains both his sequence number and his modified acknowledgement number. 
+ # Alice replies with an acknowledgment (ACK) message with acknowledgement number  < math > y + 1 < /math > . Bob will receive this message, but at this stage he doesn't need to reply. 
+ In this setup, a synchronize message will request a server to make a connection with each other, while the acknowledgement messages return to the requesting server to let it know the message was received. Letting both hosts send synchronize messages to each other will allow the two hosts to connect with each other in both directions. Each acknowledgement message sent to each other ensures they are still connected with each other. 
+ 
+ [[Category:Telecommunications]] 
+ [[Category:Computer networking]] 
+ 
+ {{tech-stub}}

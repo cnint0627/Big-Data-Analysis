@@ -1,0 +1,9 @@
+An '''actuator''' is a type of [[motor]] that either pushes, pulls, or [[Rotation|rotates]]. 
+ 
+ ==Linear Actuators== 
+ Linear actuators are actuators that move in a straight line. They can be made to move by electricity, or by pushing water or air very hard. When water (or oil or another [[liquid]]) is used, it is called [[hydraulic]], and when air is used, it is called [[Pneumatics|pneumatic]]. Hydraulic systems are used for moving very heavy things, like in [[crane (machine)|cranes]], [[excavator]]s, or [[bulldozer]]s. 
+ 
+ [[Category:Machines]] 
+ 
+ 
+ {{tech-stub}}

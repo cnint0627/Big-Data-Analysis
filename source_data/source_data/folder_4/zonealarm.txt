@@ -1,0 +1,71 @@
+{{complex|date=December 2011}} 
+ {{Infobox Software 
+ | name = ZoneAlarm 
+ | logo = 
+ | screenshot = 
+ | caption = ZoneAlarm Internet Security Suite 2009 
+ | developer = [[Check Point]] 
+ | released = 2.0.26 / [[February 16]], [[2000]] 
+ | latest release version = 10.2.073.000 
+ | latest release date = {{release date and age|2012|08|2}} 
+ | operating system = [[Microsoft Windows]] 
+ | platform = 
+ | language = [[Multilingual]] 
+ | genre = [[Firewall (computing)|Firewall]] 
+ | license = [[Freeware]] / [[Commerce|Commercial]] 
+ | website = [http://www.zonealarm.com/ www.ZoneAlarm.com] 
+ }} 
+ 
+ '''ZoneAlarm''' is a [[Firewall (networking)|software firewall]] originally developed by [[Zone Labs]], which was acquired in March 2004 by Check Point. < ref > {{cite news |last1=Weiss |first1=Todd R. |title=Check Point Software buying firewall vendor Zone Labs |url=https://www.computerworld.com/article/2573926/check-point-software-buying-firewall-vendor-zone-labs.html |work=Computerworld |date=16 December 2003 |language=en}} < /ref >  It includes an inbound intrusion detection system, as well as the ability to control which programs can create outbound connections—the latter not available in the [[Windows XP]] Service Pack 2 firewall. {{As of|2009|alt=As of early 2009}}, the newest release is ZoneAlarm Internet Security Suite 2009. ZoneAlarm was formerly known as Zone Labs, the usage of which is declining. < ref > {{Cite web |url=http://www.zonealarm.com/store/content/company/aboutUs/pressroom/graphicResources.jsp?dc=34std & ctry= & lang=en |title=Graphic Resources: ZoneAlarm® by Check Point® |access-date=2009-03-10 |archive-date=2008-04-13 |archive-url=https://web.archive.org/web/20080413085132/http://www.zonealarm.com/store/content/company/aboutUs/pressroom/graphicResources.jsp?dc=34std & ctry= & lang=en |url-status=dead }} < /ref > 
+ 
+ == Features == 
+ In ZoneAlarm, program access is controlled by way of  " zones " , into which all Computer networking connections are divided. The  " trusted zone "  generally includes the user's [[local area network]] and can share resources such as files and printers, while the  " Internet zone "  includes everything not in the trusted zone. The user can specify which  " permissions "  (trusted zone client, trusted zone server, Internet zone client, Internet zone server) to give to a program before it attempts to access the Internet (e.g. before running it for the first time) or, alternatively, ZoneAlarm will ask the user to give the program permission on its first access attempt. 
+ 
+ === True Vector Internet Monitor === 
+ " True Vector Internet Monitor " , also known as  " TrueVector Security Engine " , is the core of ZoneAlarm. It is a Windows service which runs as  " vsmon.exe "  in the processes list. This Monitors internet traffic and generates alerts for disallowed access. 
+ 
+ === Operating System Firewall === 
+ Operating System Firewall, OSFirewall for short, is a feature in ZoneAlarm paid versions only. This monitors programs and generates alerts when they perform suspicious behaviors. 
+ 
+ === SmartDefense Advisor === 
+ SmartDefense Advisor is a service only available in premium versions of ZoneAlarm that helps the user with certain types of alerts. This utilizes a large database of trusted program signatures in order to provide the user with further advice upon requests from the program in regards to allowing or denying access to the Internet. 
+ 
+ == Versions == 
+ 
+ 64-bit versions of the ZoneAlarm product line will be made available for Windows Vista in the first half of 2009. < ref name= " DailyTech " > {{cite news 
+ | url=http://www.dailytech.com/Check+Point+Software+Close+to+Release+of+64bit+ZoneAlarm+Extreme/article14256.htm 
+ | first=Jansen 
+ | last=Ng 
+ | title=Check Point Software Close to Release of 64-bit ZoneAlarm Extreme 
+ | date=13 February 2009 
+ | publisher=[[DailyTech]] 
+ | accessdate=2009-02-13 
+ | archive-date=2009-02-15 
+ | archive-url=https://web.archive.org/web/20090215224044/http://www.dailytech.com/Check+Point+Software+Close+to+Release+of+64bit+ZoneAlarm+Extreme/article14256.htm 
+ | url-status=dead 
+ }} < /ref > 
+ 
+ *'''ZoneAlarm Extreme''': A comprehensive version of Internet Security Suite that includes ForceField. It is currently in undergoing beta testing, but is available for download. < ref name= " DailyTech "  / > 
+ *'''ZoneAlarm''': A [[freeware]] version which includes a web and local network [[firewall]] with outbound program control and port stealthing. 
+ *'''ZoneAlarm Pro''': This offers a OS Firewall identity protection, pop-up ad blocker, [[adware]] detection, cookie blocker. It does not have Antivirus features. 
+ *'''ZoneAlarm Anti-Spyware''': Includes all the features of ZoneAlarm Pro, as well as privacy and identity theft features. 
+ *'''ZoneAlarm Antivirus''': Includes ZoneAlarm firewall and [[antivirus software|antivirus]] protection provided by Kaspersky Labs. 
+ *'''ZoneAlarm Internet Security Suite''': Includes all the features of every product with additional IM security and an anti-spam filter engine provided by MailFrontier and a parental control. It is the most expensive ZoneAlarm product. < ref > {{cite web|title=ZoneAlarm product comparison|url=http://www.zonealarm.com/store/content/catalog/products/znalm/comparison.jsp|publisher=zonealarm.com|accessdate=2008-04-29|archive-date=2008-11-11|archive-url=https://web.archive.org/web/20081111125647/http://www.zonealarm.com/store/content/catalog/products/znalm/comparison.jsp|url-status=dead}} < /ref > 
+ 
+ *'''ZoneAlarm Force Field''': A virtualization engine that shields the computer and personal data from Internet and computer-based threats. It includes several layers of protection to combat phishing, spyware and dangerous file downloads. < ref > {{cite web|title=ForceField feature summary|url=http://download.zonealarm.com/bin/free/beta/forcefield/about.html|publisher=zonealarm.com|accessdate=2008-04-17}} < /ref > 
+ 
+ === Discontinued versions === 
+ *'''ZoneAlarm Plus''': Discontinued from late 2004 for having fewer features than ZoneAlarm Pro but selling for almost the same price. 
+ *'''ZoneAlarm Wireless Security''': Discontinued on October 19, 2005, because its functions were included in all paid versions of ZoneAlarm from version 6 onwards. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ *[http://www.zonealarm.com/ Official ZoneAlarm Site] {{Webarchive|url=https://web.archive.org/web/20081012180546/http://www.zonealarm.com/ |date=2008-10-12 }} 
+ *[http://blog.zonealarm.com/ Official ZoneAlarm Blog] 
+ *[http://forums.zonealarm.org/zonelabs/ Official ZoneAlarm User Forum] {{Webarchive|url=https://web.archive.org/web/20090310002741/http://forums.zonealarm.org/zonelabs/ |date=2009-03-10 }} 
+ *[http://www.alixaxel.com/wordpress/2007/06/21/zonealarm-firewall-sucks/ ZoneAlarm Bugs] {{Webarchive|url=https://web.archive.org/web/20090324090521/http://www.alixaxel.com/wordpress/2007/06/21/zonealarm-firewall-sucks/ |date=2009-03-24 }} 
+ 
+ [[Category:Software]] 
+ [[Category:Antivirus software]]

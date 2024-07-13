@@ -1,0 +1,61 @@
+[[File:Contiki.png|thumb|300px|right|C128 port with 80 indications]] 
+ '''Contiki''' is a small, [[open source]] free [[operating system]].  It was developed to be used in [[8-bit]] computers and [[embedded]] systems.  It has a Graphical User Interface and the full installation needs about 30 & nbsp;kilobytes of RAM.{{Citation needed|date=February 2007}} 
+ 
+ The name ''Contiki'' comes from [[Thor Heyerdahl]]'s famous [[Kon-Tiki]] raft. 
+ 
+ The basic [[kernel (computer science)|kernel]] and most of the core functions were developed by [[Adam Dunkels]] at the Networked Embedded Systems group at the [[Swedish Institute of Computer Science]]. 
+ 
+ == Features == 
+ 
+ A full installation of Contiki includes the following features: 
+ * [[Multitasking]] kernel 
+ * Optional per-application [[pre-emptive multithreading]] 
+ * [[Protothreads]] 
+ * [[TCP/IP]] [[computer network|networking]] 
+ * [[Windowing system]] and GUI 
+ * Networked remote display using [[Virtual Network Computing]] 
+ * A [[web browser]] (claimed to be the world's smallest) 
+ * Personal [[server|web server]] 
+ * Simple [[telnet]] client 
+ * [[Screensaver]] 
+ 
+ More applications planned include: 
+ * an [[email program]] 
+ * an [[Internet Relay Chat]] client 
+ 
+ == Ports == 
+ 
+ The Contiki operating system has been or is being [[porting|ported]] to the following systems: 
+ * Computers: 
+ ** [[Apple II family]]* 
+ ** [[Atari 8-bit family|Atari 8-bit]]* 
+ ** [[Atari ST]] 
+ ** [[Atari Portfolio]] 
+ ** [[Casio Pocketview]] 
+ ** [[Commodore PET]]* 
+ ** [[Commodore VIC 20]]* 
+ ** [[Commodore 64]]* 
+ ** [[Commodore 128]]* 
+ ** [[GP32]] 
+ ** [[PC-6001]] 
+ ** [[Sharp Wizard]] 
+ ** [[x86]]-based [[Unix-like]] systems, on top of [[GTK+]] as well as directly using the [[X Window System]] < ref > {{Cite web |url=http://hstein.trix.net/contiki |title=Running Contiki under Windows |access-date=2007-07-13 |archive-date=2006-08-10 |archive-url=https://web.archive.org/web/20060810164541/http://hstein.trix.net/contiki/ |url-status=dead }} < /ref > 
+ < nowiki > * < /nowiki >  [[cc65]] based development 
+ * Video game consoles: 
+ ** [[PC Engine]] 
+ ** [[Sega Dreamcast]] 
+ ** [[Sony PlayStation]] 
+ * Handheld game consoles: 
+ ** [[Nintendo Game Boy]] 
+ ** [[Nintendo Game Boy Advance]] 
+ * Microcontrollers: 
+ ** [[Atmel AVR]] 
+ ** [[TI MSP430]] 
+ 
+ ==Related pages== 
+ {{Commons category-inline|Contiki}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:BSD]]

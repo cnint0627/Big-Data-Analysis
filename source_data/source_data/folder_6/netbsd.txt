@@ -1,0 +1,42 @@
+{{Infobox OS 
+ | name = NetBSD 
+ | logo =  
+ | screenshot = NetBSD desktop.png 
+ | caption =  
+ | developer = The NetBSD Foundation 
+ | family = [[Unix-like]] 
+ | released = {{Start date and age|df=yes|1993|04|19}} 
+ | source model = [[Open-source software|Open source]] 
+ | latest release version = {{wikidata|property|edit|reference|P348}} 
+ | latest release date = {{release date and age|df=yes|{{wikidata|qualifier|P348|P577}}}} 
+ | latest preview version = 9.99.x < ref name= " HEAD " > [http://nycdn.netbsd.org/pub/NetBSD-daily/HEAD/latest/ Daily Release Engineering Builds] < /ref > 
+ | latest preview date = Daily builds 
+ | kernel type = [[Monolithic kernel|Monolithic]] with [[loadable kernel module|dynamically loadable modules]], [[rump kernel]] 
+ | userland = [[BSD]] 
+ | ui = [[Unix shell]] 
+ | license = [[Simplified BSD License|2-clause BSD license]] 
+ | working state = Current 
+ | supported platforms = [[DEC Alpha|Alpha]], [[ARM architecture|ARM]], [[x86]] ([[x86-32]] and [[x86-64]]), [[PA-RISC]], [[68k]], [[MIPS architecture|MIPS]], [[PowerPC]], [[SuperH|SH3]], [[SPARC]], [[RISC-V]], [[VAX]] 
+ | package_manager = [[pkgsrc]] 
+ | website = {{URL|//netbsd.org/}} 
+ }} 
+ 
+ '''NetBSD''' is an [[open source]] version of the [[Unix]]-[[derivative]] [[Berkeley Software Distribution|BSD]] computer [[operating system]]. 
+ 
+ NetBSD is known for being very portable (able to work with a many kinds of computers), such as a small [[ARM architecture|ARM]] or big [[amd64]] [[Opteron]] computers. It is also seen as being fast (does things quickly), secure (hard for people to do bad things to) and stable (does not break often). 
+ 
+ When people use NetBSD, like most [[software]], they must agree to a license.  The BSD license, which NetBSD uses, allows everyone to use, change, give away or sell NetBSD, as long as they do not take away the copyright notice and license text. This means people can make new things from NetBSD without having to give people the [[source code]] (information for the computer to make the program run). 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Related pages== 
+ *[[FreeBSD]] 
+ *[[OpenBSD]] 
+ 
+ == Other websites == 
+ *[http://www.netbsd.org/ NetBSD homepage] 
+ 
+ [[Category:Free software]] 
+ [[Category:Operating systems]] 
+ [[Category:BSD]]

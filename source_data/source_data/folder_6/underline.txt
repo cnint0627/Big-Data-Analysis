@@ -1,0 +1,15 @@
+To make a text '''underlined''' means to add a straight line below the text. It is commonly used to emphasize the text. However, it is usually not used. 
+ 
+ == Usage == 
+ Both [[HTML]] and [[Wikitext]] uses the same way in making  < u > underlined < /u >  text. They both use the  < code > < nowiki > < u > < /nowiki > < /code >  and the  < code > < nowiki > < /u > < /nowiki > < /code >  tags to produce an underlined text. < ref > [http://www.w3schools.com/tags/tag_u.asp W3Schools tutorial] < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Related pages == 
+ * [[Bold (formatting)|Bold]] 
+ * [[Italic]] 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Typography]]

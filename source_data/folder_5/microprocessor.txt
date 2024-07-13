@@ -1,0 +1,36 @@
+[[File:80486dx2-large.jpg|thumb|right|The 80486 microprocessor, a kind of [[CPU]] from the 1990s]] 
+ [[File:KL TI TMS1100.jpg|thumb|The TMS1100, by Texas instruments came out in 1974, and has been used for many applications, such as doorbells or light switches.]] 
+ A '''microprocessor''' is an [[electronic component]] that is used by a [[computer]] to do its work. It is a [[central processing unit]] on a single [[integrated circuit]] chip containing millions of very small components including [[transistor]]s, [[resistor]]s, and [[diode]]s that work together. Some microprocessors in the 20th century required several chips. Microprocessors help to do everything from controlling [[elevator]]s to searching the [[internet|Web]]. Everything a computer does is described by instructions of [[computer program]]s, and microprocessors carry out these instructions many millions of times a second.  < ref > {{cite web |url=http://computer.howstuffworks.com/microprocessor.htm 
+  |title=How Microprocessors Work 
+  |author=Marshall Brain |date=2015 |publisher=InfoSpaceLLC |accessdate=27 May 2015}}  < /ref > 
+ 
+ Microprocessors were invented in the 1970s for use in [[embedded system]]s.  The majority are still used that way, in such things as [[mobile phone]]s, [[car]]s, military [[weapon]]s, and [[home appliance]]s.  Some microprocessors are [[microcontroller]]s, so small and inexpensive that they are used to control very simple products like flashlights and greeting cards that play music when opened.  A few especially powerful microprocessors are used in [[personal computer]]s. 
+ 
+ == Microprocessor operation == 
+ Like other [[central processing unit]]s, microprocessors use three steps commonly called Fetch, Decode, and [[Execution|Execute]]. In the Fetch step, an [[Instruction (computer science)|instruction]] is copied from the [[computer memory]] into the microprocessor. In the Decode step, the microprocessor figures out what operation the instruction is meant to do. In the Execute step, this operation is performed.  Different computers can have different [[instruction set]] < nowiki/ > s. 
+ 
+ == Facts and figures == 
+ * [[Transistor]]s in a microprocessor can be less than one [[micrometer]] wide—one millionth of a meter. By comparison, a single hair can be over 100 micrometers wide. 
+ * The transistors are mostly [[MOSFET]]s 
+ * Modern microprocessors run billions of instructions every second. 
+ * Microprocessors are made from [[silicon]], [[quartz]], [[metal]]s, and other [[Chemical substance|chemicals]].  
+ * From start to finish, it takes about 2 months to make a microprocessor. 
+ * Microprocessors are classified by the size of their [[data bus]] or [[address bus]]. They are also grouped into [[CISC]] and [[RISC]] types. 
+ 
+ == Brief history == 
+ * 1823	Baron [[Jöns Jacob Berzelius]] discovers silicon (Si), which today is the basic component of [[electronics]]. 
+ * 1903	Nikola Tesla patents electrical logic circuits called  " gates "  or  " switches " . 
+ * 1947	John Bardeen, Walter Brattain, and William Shockley invent the first transistor at the Bell Laboratories on December 23, 1947. 
+ * 1956	John Bardeen, Walter Brattain, and William Shockley are awarded the [[Nobel Prize]] in physics for their work on the transistor. 
+ * 1958	The first [[integrated circuit]]s are developed by [[Robert Noyce]] and Jack Kilby.  
+ * 1960	IBM develops the first automatic mass-production facility for transistors in New York. 
+ * 1971  [[Intel 4004]], first commercially available [https://codingwithrohit.com/microprocessor-introduction/ microprocessor] {{Webarchive|url=https://web.archive.org/web/20201112215607/https://codingwithrohit.com/microprocessor-introduction/ |date=2020-11-12 }}. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other page == 
+ *[[Moore's law]] 
+ 
+ [[Category:Electronic components]] 
+ [[Category:Microprocessor design]]

@@ -1,0 +1,34 @@
+{{Taxobox 
+ | regnum = [[Animalia]] 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Amphibia]] 
+ | ordo = [[Anura]] 
+ | familia = ''[[Bufonidae]]'' 
+ | genus = '''''Altiphrynoides''''' 
+ | genus_authority = Dubois, 1987 
+ | species =  
+ See text 
+ }} 
+ 
+ '''''Altiphrynoides''''' is a [[genus]] of [[toad]]s.  They are commonly called '''Ethiopian toads'''. They only live in the highlands of south-central [[Ethiopia]] in the [[Arsi Province|Arussi]], [[Bale Province, Ethiopia|Bale]], and [[Sidamo Province|Sidamo]] provinces. Both species are [[Threatened species|threatened]] by [[habitat loss]]. < ref name=threatened > Stuart ''et al.'', eds. (2008). ''Threatened Amphibians of the World.'' [[IUCN]]. Pp. 156 and 204. {{ISBN|978-84-96553-41-5}} < /ref >  They used to be included in ''[[Nectophrynoides]]''.  Now they are separate because they lay eggs, while ''Nectophrynoides'' give birth to fully developed young. 
+ 
+ ==Species== 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !Binomial Name and Author!!Common name 
+ |-style= " background:#EEEEEE; " 
+ |''[[Altiphrynoides malcolmi]]'' {{small|(Grandison, 1978)}} || Malcolm's Ethiopia Toad 
+ |-style= " background:#FFFDFF; " 
+ |''[[Altiphrynoides osgoodi]]'' {{small|(Loveridge, 1932)}} || Osgood's Ethiopian Toad 
+ |- 
+ |} 
+ 
+ ==References== 
+ {{Reflist}} 
+ * {{cite web| title=Amphibian Species of the World 5.1 - Altiphrynoides |url=http://research.amnh.org/herpetology/amphibia/names.php?taxon= & family= & subfamily= & genus=Altiphrynoides & commname= & authority= & year= & geo=0 & dist= & comment=| access-date=2008-04-10}} 
+ * ITIS report [https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN & search_value=661448 Altiphrynoides] 
+ * amphibiaweb.org [http://amphibiaweb.org/cgi/amphib_query?query_src=aw_lists_genera_ & where-genus=Altiphrynoides & where-species=malcolmi Altiphrynoides malcolmi] 
+ 
+ [[Category:Toads]] 
+ [[Category:Ethiopia]] 
+ [[Category:Frogs of Africa]]

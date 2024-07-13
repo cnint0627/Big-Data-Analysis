@@ -1,0 +1,58 @@
+[[Image:Schéma de principe du synchrotron.jpg|thumb|300px|Here, the synchrotron is the circular track, off which the beamlines branch.]] 
+ [[Image:Beamline at Brookhaven National Laboratory.jpg|thumb|right|220px|Beamline at [[Brookhaven National Laboratory]].]] 
+ In [[particle physics]], a '''beamline''' is the path in a [[particle accelerator]] of the particles. 
+ 
+ In [[materials science]], [[physics]], [[chemistry]], and [[molecular biology]], a '''beamline''' leads to the experimental endstation utilizing [[particle beam]]s from a particle accelerator, [[Synchrotron light source|synchrotron light]] obtained from a [[synchrotron]], or [[neutrons]] from a [[spallation source]] or [[research reactor]]. 
+ 
+ ==Beamline in a particle accelerator== 
+ [[Image:LINAC.jpg|thumb|right|220px|It is impossible to see the beam pipe on this beamline. However the section of the '''big beam pipe''' is used with a grid system for alignment with a [[laser]], known as the laser pipe. This particular ''beamline'' is approximately 3 kilometers long.]] 
+ In [[particle accelerator|particle accelerators,]] the beamline is usually housed in a tunnel and/or underground, cased inside a cement housing. The beamline is usually cylindrical metal. Typical names include, ''beam pipe'', and/or a blank section called a ''drift tube''. This entire section must be under a good [[vacuum]] in order to have the beam travel for a long distance. 
+ 
+ A [[Surveying|survey]] and alignment crew carefully align the beamline segments by using a [[laser tracker]]. All beamlines must be within [[micrometre]] tolerance. Good alignment helps to prevent beam loss, and beam from colliding with the pipe walls, which creates [[secondary emission]]s and/or [[radiation]]. 
+ 
+ ==Synchrotron radiation beamline== 
+ [[Image:Aust.-Synchrotron-Soft-X-ray-Beamline-Experimental-Station,-14.06.2007.jpg|right|220px|thumb|The exposed workings of a soft x-ray beamline and endstation at the [[Australian Synchrotron]]]] 
+ [[Image:Aust.-Synchrotron,-eVBL-Experimental-Station,-14.06.2007.jpg|right|220px|thumb|Inside the Optical Diagnostic Beamline (ODB) hutch at the [[Australian Synchrotron]]; the beamline terminates at the small aperture in the back wall]] 
+ Regarding [[synchrotron]]s, a '''beamline''' is the instrumentation that carries beams of [[synchrotron radiation]] to an experimental end station, which uses the radiation produced by the [[bending magnet]]s and [[insertion device]]s in the [[storage ring]] of a [[synchrotron light source]]. A typical application for this kind of beamline is [[crystallography]]. Scientists also use [[synchrotron light]] in many other ways. 
+ 
+ A large synchrotron laboratory will have many beamlines, each optimized for a particular field of research. < ref > {{cite web|url=http://xdb.lbl.gov/Section2/Sec_2-2.html|title=History of Synchrotron Radiation Sources|publisher=Lawrence Berkeley Laboratory|author=Arthur L. Robinson|access-date=December 24, 2011}} < /ref >  The differences will depend on the type of [[insertion device]] (which, in turn, determines the intensity and spectral distribution of the radiation); the beam conditioning equipment; and the experimental end station. 
+ A typical beamline at a modern synchrotron will be 25 to 100 m (82 ft to  328 ft) long from the [[storage ring]] to the end station, and may cost up to millions of US dollars. For this reason, a synchrotron facility is often built in stages, with the first few beamlines at the start of operation, and other beamlines being added later as the funding permits. 
+ 
+ The beamline elements are in radiation shielding enclosures, called [[hutch]]es, which are the size of a small room (cabin). A typical beamline consists of two hutches, an optical hutch for the beam conditioning elements and an experimental hutch, which houses the experiment. Between hutches, the beam travels in a transport tube. People are not allowed to enter hutches when the beam shutter is open and radiation can enter the hutch. Hutches have complex safety systems with redundant [[Interlock (engineering)| interlocking functions]] to make sure that no one is inside the hutch when the radiation is turned on. The safety system will also shut down the radiation beam if the door to the hutch is accidentally opened when the beam is on. In this case, the beam is turned off by dumping the electron beam circulating in the synchrotron. So, opening one door will shut down all of the beamlines in the facility. 
+ 
+ Experimenters use the following elements that are used in beamlines for conditioning the radiation beam between the storage ring and the end station: 
+ 
+ *Windows - thin sheets of metal, often [[beryllium]], which transmit almost all of the beam, but protect the vacuum within the storage ring from contamination 
+ *Slits - which control the physical width of the beam and its angular spread 
+ *Focusing mirrors - one or more mirrors, which may be flat, bent-flat, or [[toroid (geometry)|toroid]]al, which helps to [[collimator|collimate]] (focus) the beam 
+ *[[Monochrome|Monochromator]]s - devices based on [[diffraction]] by crystals which select particular [[wavelength]] bands and absorb other wavelengths, and which are sometimes tunable to varying [[wavelength]]s, and sometimes fixed to a particular wavelength 
+ *Spacing tubes - vacuum maintaining tubes which provide the proper space between optical elements, and shield any scattered radiation 
+ *Sample stages - for mounting and manipulating the sample under study and subjecting it to various external conditions, such a varying temperature, pressure etc. 
+ *[[Radiation detector]]s - for measuring the radiation which has interacted with the sample 
+ 
+ The combination of beam conditioning devices controls the [[thermal load]] (heating caused by the beam) at the end station; the spectrum of radiation incident at the end station; and the [[focus]] or [[collimated light|collimation]] of the beam. Devices along the beamline which absorb significant power from the beam may need to be actively cooled by water, or [[liquid nitrogen]]. The entire length of a beamline is normally kept under [[ultra high vacuum]] conditions. 
+ 
+ ==Neutron beamline== 
+ An experimental end station in a neutron facility is called a neutron beamline. Superficially, neutron beamlines differ from synchrotron radiation beamlines mostly by the fact that they use neutrons from a [[research reactor]] or a [[spallation source]] instead of photons. The experiments usually measure [[neutron scattering]] from the sample under study. 
+ 
+ ==Related pages== 
+ * [[Accelerator physics]] 
+ * [[Cyclotron]] 
+ * [[Ion beam]] 
+ * [[:Category:Neutron facilities]] 
+ * [[Klystron]] 
+ * [[Particle accelerator]] 
+ * [[Particle beam]] 
+ * [[Particle physics]] 
+ * [[Quadrupole magnet]] 
+ * [[Waveguide]] 
+ 
+ ==References== 
+ < references/ > 
+ 
+ ==Other websites== 
+ * [http://icarus.csrri.iit.edu/itp/itpmacro.html  Macromolecular Crystallography at Synchrotrons: An Historical Introduction] {{Webarchive|url=https://web.archive.org/web/20060622153802/http://icarus.csrri.iit.edu/itp/itpmacro.html |date=2006-06-22 }} 
+ 
+ [[Category:Nuclear physics]] 
+ [[Category:Synchrotron instrumentation]] 
+ [[Category:Materials science]]

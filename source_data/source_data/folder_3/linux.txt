@@ -1,0 +1,156 @@
+{{two other uses|operating systems that use the [[Linux kernel]]|a list of such operating systems|Linux distributions|}} 
+ {{Use mdy dates|date=April 2020}} 
+ {{Infobox OS 
+ | name                   = Linux (no automatically included version)  < !-- this  " hack "  unties the infobox from the separate template that lists latest Linux kernel versions – this article is about Linux and not about Linux kernel so listing kernel versions introduces confusion -- > 
+ | title                  = Linux 
+ | logo                   = Tux.svg 
+ | logo caption           = [[Tux]] the penguin, mascot of Linux < ref name= " LinuxOnLine2008 " > {{cite web | url = http://www.linux.org/info/logos.html | title = Linux Logos and Mascots |accessdate=August 11, 2009 | last = Linux Online | year = 2008 | archiveurl = https://web.archive.org/web/20100815085106/http://www.linux.org/info/logos.html | archivedate = August 15, 2010 }} < /ref > {{br}}{{br}} 
+ | logo_size              = 150px 
+ | logo_alt               = Tux the penguin 
+ | family                 = [[Unix-like]] 
+ | developer              = Community 
+ | source model           = Mainly [[open source]], [[proprietary software]] also available 
+ | latest release version =  < !-- There's no  " version "  of Linux, and including Linux kernel versions just introduces confusion -- > 
+ | latest release date    = 
+ | latest preview version =  < !-- There's no  " version "  of Linux, and including Linux kernel versions just introduces confusion -- > 
+ | latest preview date    = 
+ | marketing target       = Personal computers, [[mobile device]]s, [[embedded device]]s, [[Server (computing)|servers]], [[Mainframe computer|mainframes]], [[supercomputer]]s 
+ | kernel type            = [[Monolithic kernel|Monolithic]] ([[Linux kernel]]) 
+ | ui                     = Many 
+ | released               = {{start date and age|1991}} 
+ | programmed in          = Primarily [[C (programming language)|C]] and [[Assembly language|assembly]] 
+ | prog language          = Many 
+ < !-- [[Userland]] is currently readlinked, and either way this is maybe not too helpful: | userland               = Various-- > 
+ < !--| supported platforms    = [[DEC Alpha|Alpha]], [[Synopsys ARC|ARC]], [[ARM architecture|ARM]], [[AVR32]], [[Blackfin]], [[C6x]], [[ETRAX CRIS]], [[FR-V]], [[H8/300]], [[Qualcomm Hexagon|Hexagon]], [[Itanium]], [[M32R]], [[m68k]], [[Imagination META|META]], [[Microblaze]], [[MIPS architecture|MIPS]], [[MN103]], [[Nios II]], [[OpenRISC]], [[PA-RISC]], [[PowerPC]], [[s390]], [[S+core]], [[SuperH]], [[SPARC]], [[TILE64]], [[Unicore32]], [[x86]], [[Xtensa]]  -- Please do not include 64-bit extensions of 32-bit ISAs, e.g. sparc64, ppc64, x86-64, etc. -- > 
+ | license                = [[GNU GPL|GPLv2]] < ref > {{cite web |url=https://www.kernel.org/category/faq.html |title=The Linux Kernel Archives: Frequently asked questions |website=kernel.org |date=September 2, 2014 |accessdate=September 4, 2015}} < /ref >  and other free and open-source licenses, except for the  " Linux "  trademark{{Efn| " Linux "  trademark is owned by [[Linus Torvalds]] < ref name= " US_trademark " > {{cite web |url = http://assignments.uspto.gov/assignments/q?db=tm & rno=1916230 |title = U.S. Reg No: 1916230 |publisher = United States Patent and Trademark Office |accessdate=April 1, 2006}} < /ref >  and administered by the [[Linux Mark Institute]].}} 
+ | language               = Multilingual 
+ | updatemodel            = 
+ | working state          = Current 
+ | year                   = 1991 
+ }} 
+ 
+ '''Linux''' or '''GNU/Linux''' is a [[Unix-like]] [[operating system]] (or family of) for computers. The [[Linux kernel]] (the basis of the operating system) is [[free software]], meaning people can use it, see how it works, change it, or share it. 
+ 
+ There is a lot of software for Linux and—like Linux itself—a lot of the software for Linux is free software. 
+ 
+ The defining component of Linux is the [[Linux kernel]], < ref > {{ cite book | last = Eckert | first = Jason W. | year = 2012 | title = Linux+ Guide to Linux Certification | edition = Third | publisher = Cengage Learning | place = Boston, Massachusetts | page = 33 | isbn = 978-1111541538 | url = https://books.google.com/books?id=EHLH4S78LmsC & pg=PA33 | accessdate=April 14, 2013 | quote = The shared commonality of the kernel is what defines Linux; the differing [[Open-source software|OSS]] applications that can interact with the common kernel are what differentiate [[Linux distribution]]s. }} < /ref > < ref > {{ cite newsgroup | title = Free minix-like kernel sources for 386-AT | author = Linus Benedict Torvalds | date = October 5, 1991 | newsgroup = comp.os.minix |message-id= | url = http://groups.google.com/group/comp.os.minix/msg/2194d253268b0a1b?pli=1 |accessdate=September 30, 2011}} < /ref > < ref > {{cite web | title = What Is Linux: An Overview of the Linux Operating System | url = https://www.linux.com/learn/resource-center/376-linux-is-everywhere-an-overview-of-the-linux-operating-system | publisher = Linux Foundation | date = April 3, 2009 |accessdate=August 15, 2011}} < /ref >  an [[Kernel (computing)|operating system kernel]] that [[Linus Torvalds]] developed, at first alone. < ref > {{cite web | title = Twenty Years of Linux according to Linus Torvalds | url = http://www.zdnet.com/article/twenty-years-of-linux-according-to-linus-torvalds/ | publisher = ZDNet | date = April 13, 2011 | accessdate = 2016-09-19 | url-status = live | archiveurl = https://web.archive.org/web/20160919232940/http://www.zdnet.com/article/twenty-years-of-linux-according-to-linus-torvalds/ | archivedate = September 19, 2016 | df = mdy-all }} < /ref > < ref > {{ cite newsgroup | title = Free minix-like kernel sources for 386-AT | author = Linus Benedict Torvalds | date = October 5, 1991 | newsgroup = comp.os.minix |message-id= | url = https://groups.google.com/group/comp.os.minix/msg/2194d253268b0a1b?pli=1 |accessdate=September 30, 2011}} < /ref > < ref > {{cite web | title = What Is Linux: An Overview of the Linux Operating System | url = https://www.linux.com/learn/resource-center/376-linux-is-everywhere-an-overview-of-the-linux-operating-system | publisher = Linux Foundation | date = April 3, 2009 | accessdate = August 15, 2011 | url-status = live | archiveurl = https://web.archive.org/web/20110813130524/http://www.linux.com/learn/resource-center/376-linux-is-everywhere-an-overview-of-the-linux-operating-system | archivedate = August 13, 2011 | df = mdy-all }} < /ref >  Linux is typically [[Package management system|packaged]] in a [[Linux distribution]] (or ''distro'' for short). Distributions also include supporting [[system software]] and [[library (computer science)|libraries]], many of which are provided by the [[GNU Project]]. 
+ 
+ Popular Linux distributions < ref > {{cite web|url=http://distrowatch.com/dwres.php?resource=major |title=DistroWatch.com: Put the fun back into computing. Use Linux, BSD. |last=DistroWatch |website=distrowatch.com |access-date=2016-12-30 |url-status=dead |archiveurl=https://web.archive.org/web/20130402195650/http://distrowatch.com/dwres.php?resource=major |archivedate=April 2, 2013 }} < /ref > < ref > {{Cite news|url=http://www.cio.com/article/3023349/linux/best-linux-distros-of-2016-something-for-everyone.html|title=Best Linux distros of 2016: Something for everyone|last=Bhartiya|first=Swapnil|newspaper=CIO|access-date=2016-12-30|url-status=live|archiveurl=https://web.archive.org/web/20161231170119/http://www.cio.com/article/3023349/linux/best-linux-distros-of-2016-something-for-everyone.html|archivedate=December 31, 2016|df=mdy-all}} < /ref > < ref > {{cite web|url=http://www.tecmint.com/top-best-linux-distributions-2016/|title=10 Top Most Popular Linux Distributions of 2016|website=www.tecmint.com|access-date=2016-12-30|url-status=live|archiveurl=https://web.archive.org/web/20161230141717/http://www.tecmint.com/top-best-linux-distributions-2016/|archivedate=December 30, 2016|df=mdy-all}} < /ref >  include [[Debian]], [[Fedora (operating system)|Fedora]], and [[Ubuntu (operating system)|Ubuntu]]. Commercial distributions include [[Red Hat Enterprise Linux]] and [[SuSE Linux]] Enterprise Server. Desktop Linux distributions include a [[windowing system]] such as [[X11]] or [[Wayland (display server protocol)|Wayland]], and a [[desktop environment]] such as [[GNOME]] or [[KDE Plasma]]. Distributions intended for [[server (computing)|servers]] may omit [[computer graphics|graphics]] altogether, and include a [[solution stack]] such as [[LAMP (software bundle)|LAMP]]. Anyone may create a distribution for any purpose. 
+ 
+ Linux was originally developed for personal computers.  < !-- based on the [[Intel x86]] architecture, but has since been ported to more platforms than any other operating system. < ref > {{cite news |author=Barry Levine |title=Linux' {{sic|22|th|nolink=yes}} Birthday Is Commemorated - Subtly - by Creator |url=http://www.cmswire.com/cms/information-management/linux-22th-birthday-is-commemorated-subtly-by-creator-022244.php |accessdate=10 May 2015 |publisher=Simpler Media Group, Inc |date=26 August 2013 |quote= " Originally developed for Intel x86-based PCs, Torvalds’ “hobby” has now been released for more hardware platforms than any other OS in history. " }} < /ref > -- >   Linux is the leading operating system (OS) on [[server (computing)|server]]s  < !--and other big iron systems-- >  such as [[mainframe computer]]s, and the only OS used on [[supercomputer]]s < ref > {{cite web | title = IBM's newest mainframe is all Linux | url = http://www.computerworld.com/s/article/9142007/IBM_s_newest_mainframe_is_all_Linux_ | last = Computerworld | first = Patrick Thibodeau | accessdate = February 22, 2009 | archive-date = November 11, 2016 | archive-url = https://web.archive.org/web/20161111053745/http://www.computerworld.com/article/2521639/computer-hardware/ibm-s-newest-mainframe-is-all-linux.html | url-status = dead }} < /ref >  (at least on the TOP500 list, since November 2017). It is used by around 2.3% of desktop computers. The [[Chromebook]], which runs [[Chrome OS]] based on the Linux kernel, dominates the US [[K–12]] education market and represents nearly 20% of sub-$300 notebook sales in the U.S. 
+ 
+ Linux also runs on [[embedded system]]s, which are devices whose operating system is typically built into the [[firmware]] and is highly tailored to the system; this includes mobile phones (especially [[smartphone]]s), < ref > {{cite web | url = http://www.linuxfordevices.com/c/a/News/Trolltech-rolls-complete-Linux-smartphone-stack/ | title = Trolltech rolls  " complete "  Linux smartphone stack | accessdate = September 29, 2009 | last = Linux Devices | date = January 2010 | archiveurl = https://archive.today/20120525231448/http://www.linuxfordevices.com/c/a/News/Trolltech-rolls-complete-Linux-smartphone-stack/ | archivedate = May 25, 2012 | url-status = live }} < /ref >  [[tablet computer]]s, network [[router (computing)|router]]s, facility automation controls, televisions, < ref > {{cite web | title = Sony Open Source Code Distribution Service | url = http://products.sel.sony.com/opensource/ | publisher = Sony Electronics |accessdate=October 8, 2011}} < /ref > < ref > {{cite web | title = Sharp Liquid Crystal Television Instruction Manual | url = http://files.sharpusa.com/Downloads/ForHome/HomeEntertainment/LCDTVs/Manuals/Archive/tel_man_LC32_37_42HT3U.pdf | publisher = Sharp Electronics |accessdate=October 8, 2011 | page=24}} < /ref >  [[digital video recorder]]s, [[video game console]]s and [[smartwatch]]es. < ref name= " LinuxDevices " > {{cite web | url = http://researcher.watson.ibm.com/researcher/view_group.php?id=6101 | title = Linux Watch (WatchPad) | accessdate = June 18, 2015 | last = [[IBM]] | date = October 2001 | archive-date = June 18, 2015 | archive-url = https://web.archive.org/web/20150618153004/http://researcher.watson.ibm.com/researcher/view_group.php?id=6101 | url-status = dead }} < /ref >  In fact, the [[Android (operating system)|Android]] operating system, a [[mobile operating system]] built on top of the Linux kernel, has the largest installed base of all general-purpose operating systems. < ref name= " marketshare.hitslink.com " > {{cite web|url=http://marketshare.hitslink.com/operating-system-market-share.aspx?qprid=8 & qpcustomd=1 & qptimeframe=M|title=NetMarketShare:Mobile/Tablet Operating System Market Share}} < /ref >  In March 2017, it was reported that there were more users on Android than on [[Microsoft Windows]], which is not based on Linux. < ref > {{Cite news|url=http://www.zdnet.com/article/sorry-windows-android-is-now-the-most-popular-end-user-operating-system/|title=Sorry Windows, Android is now the most popular end-user operating system {{!}} ZDNet|last=Vaughan-Nichols|first=Steven J.|date=April 3, 2017|work=ZDNet|access-date=2018-03-04|language=en}} < /ref > 
+ 
+ Linux is an example of [[free and open-source software]] collaboration. The [[source code]] may be used, modified and distributed—commercially or non-commercially—by anyone under the terms of its respective licenses, such as the [[GNU General Public License]]. 
+ 
+ == How Linux was made == 
+ In the 1980s, many people liked to use an operating system called [[Unix]]. But because it restricted the user from sharing and improving the system, some people made a new operating system that would work like Unix but which anybody could share or improve. [[MINIX]], similar to Unix, was used as a teaching tool for university students to learn how operating systems worked. MINIX also restricted its sharing and improvement by its users. 
+ 
+ A group of people called the [[GNU]] Project wrote different parts of a new operating system called G.N.U., but it did not have all the parts an operating system needs to work. In 1991 [[Linus Torvalds]] began to work on a replacement for MINIX that would be free to use, and which would not cost anything. Linus started the project when he was attending the [[University of Helsinki]]. < ref > {{ cite newsgroup | title = What would you like to see most in minix? | newsgroup = comp.os.minix |message-id= 1991Aug25.205708.9541@klaava.Helsinki.FI | url = http://groups.google.com/group/comp.os.minix/msg/b813d52cbc5a044b | last = Torvalds | first = Linus | accessdate = 2008-08-18 }} < /ref > < ref > {{Cite web |url=http://www.linuxinthechannel.com/minix.php |title=All about Linux |access-date=2009-06-06 |archive-date=2009-07-04 |archive-url=https://web.archive.org/web/20090704224445/http://linuxinthechannel.com/minix.php |url-status=dead }} < /ref >  This eventually became the [[Linux kernel]]. 
+ 
+ Linus Torvalds shared the Linux kernel on some internet groups for [[MINIX]] users. Linus first called the operating system  " Freax " . The name Freax came from joining up the English words  " free "  and  " freak " , and adding an X to the name because Unix has an X in its name. Ari Lemmke, who worked with Linus at the university, was responsible for the [[server]]s that Freax was stored on. Ari did not think Freax was a good name, so he called the project  " Linux "  without asking Linus. Later, Linus agreed that Linux was a better name for his project. 
+ 
+ Linux relied on software code from MINIX at first. But, with code from the G.N.U. system available for free, he decided it would be good for Linux if it could use that code, instead of code from MINIX, because MINIX did not let people share or change it how they wanted. The G.N.U. General Public License is a software license that lets people change any part of the code they want to, as long as they share any changes they make with the people they give their software to and allow them to redistribute it for free or for a price . The software from G.N.U. was all licensed under the G.N.U. General Public License, so Linus and the other people who worked on Linux could use it. 
+ 
+ To make the Linux kernel suitable for use with the code from the G.N.U. Project, Linus Torvalds started a switch from his original license (which did not allow people to sell it) to the G.N.U. [[GPL]]. < ref > {{ cite web | title = RELEASE NOTES FOR LINUX v0.12 | first = Linus | last = Torvalds | url = http://www.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.12 | authorlink = Linus Torvalds | date = January 5, 1992 | accessdate = 2007-07-23 | publisher = Linux Kernel Archives | quote = The Linux copyright will change: I've had a couple of requests to make it compatible with the GNU copyleft, removing the  " you may not distribute it for money "  condition. I agree. I propose that the copyright be changed so that it confirms to GNU ─ pending approval of the persons who have helped write code. I assume this is going to be no problem for anybody: If you have grievances ( " I wrote that code assuming the copyright would stay the same " ) mail me. Otherwise The GNU copyleft takes effect as of the first of February. If you do not know the gist of the GNU copyright ─ read it. }} < /ref >  Linux and G.N.U. developers worked together to integrate G.N.U. code with Linux to make a free operating system. 
+ 
+ Since 1991, thousands of [[programmer]]s and [[company|companies]] have worked on Linux, including [[Google]]. 
+ 
+ == Tux the penguin == 
+ [[File:Tux.svg|thumb|100px|right|Tux the penguin]] 
+ The mascot of Linux is a [[cartoon]] penguin named  " [[Tux]] " . When a person sees the penguin on software and [[computer hardware|hardware]], it means that it will work with Linux, and sometimes all systems that are like Unix. 
+ 
+ The idea of the penguin came from the creator of Linux, Linus Torvalds. The image was made by a man named Larry Ewing in a competition to create a logo. The image, Tux, did not win, but it was picked as a mascot later. 
+ 
+ Tux has now become a symbol for Linux, and sometimes even for open source. He can be seen in many different places and often, when people refer to Linux, they often think about Tux. Tux has even been included in many [[video games]], such as Super Tux ([[parody]] of [[Super Mario Bros.]]), Tux Racer (where players race Tux down an icy hill) and Pingus (like [[Lemmings (video game)|Lemmings]]). 
+ 
+ == Uses == 
+ === Desktop use === 
+ Although there are only a few Linux versions for some [[Mac OS X]] and [[Microsoft Windows]] programs in areas like [[desktop publishing]] < ref > {{cite web|url=http://www.freeos.com/articles/2540/ |title=Microsoft Office for Linux? |accessdate=2008-08-18 |last=Advani |first=Prakash |date=October 27, 2000 |work=FreeOS |publisher=FreeOS Technologies (I) Pvt. Ltd. }} < /ref >  and professional [[audio]] and video < ref > {{cite web|url=https://arstechnica.com/guides/tweaks/linux-audio.ars |title=Editing audio in Linux |accessdate=2008-08-18 |last=Smith-Heisters |first=Ian |date=October 11, 2005 |work=Ars Technica |publisher=Ars Technica, LLC }} < /ref > < ref > {{cite web|url=http://www.keyboardmag.com/article/linux-its-not/apr-07/27458 |title=Linux: It's Not Just For Computer Geeks Anymore |accessdate=2008-02-03 |last=Lumma |first=Carl |date=April 2007 |work=Keyboard Magazine |publisher=New Bay Media, LLC. }} < /ref > < ref > {{cite web|url=http://www.soundonsound.com/sos/feb04/articles/mirrorimage.htm |title=Using Linux For Recording  &  Mastering |accessdate=2008-02-03 |last=James |first=Daniel |date=February 2004 |work=Sound on Sound |publisher=SOS Publications Group }} < /ref >  there are programs that are comparatively similar in quality compared to those available for Mac and Windows. < ref > {{ cite web | title = The table of equivalents/replacements/analogs of Windows software in Linux | url = http://www.linuxrsp.ru/win-lin-soft/table-eng.html }} < /ref > 
+ 
+ Many [[free software]] programs that are popular on Windows, such as [[Pidgin (software)|Pidgin]], [[Mozilla Firefox]], [[LibreOffice]], [[Google Chrome|Chromium]], [[VLC media player|VLC]] and [[GIMP]], are available for Linux. A growing amount of [[Proprietary software|proprietary]] desktop software can also be used under Linux, such as < ref > {{cite web | url = http://www.iist.unu.edu/globaldesktop/ | title = The Global Desktop Project, Building Technology and Communities | accessdate = 2008-08-18 | archive-date = 2006-04-26 | archive-url = https://web.archive.org/web/20060426223603/http://www.iist.unu.edu/globaldesktop/ | url-status = dead }} < /ref >  [[Steam (service)|Steam]], [[Spotify]] and [[Skype]]. [[CrossOver]] is a proprietary solution based on the [[open source]] [[Wine (software)|Wine]] project that supports running Windows applications such as [[Microsoft Office]] and [[Adobe Photoshop]] under Linux. 
+ 
+ < div align=center > 
+ {|class= " toc "  cellpadding=0 cellspacing=2 width=600px style= " float:center; margin: 0.5em 0.5em 0.5em 1em; padding: 0.5e text-align:left;clear:all; margin-left:3px; font-size:90% " 
+ |colspan=5 style= " background:#black; color:white; font-size:120% "  align=center bgcolor= " black " |'''KDE and GNOME''' 
+ |- 
+ |align=center valign=center bgcolor= " white " |[[File:KDE plasma 5.png|200px]] 
+ |align=center valign=center bgcolor= " white " |[[File:GNOME Shell.png|200px]] 
+ |- 
+ |style= " background:#e9e9e9; "  align=center|[[KDE]] 
+ |style= " background:#e9e9e9; "  align=center|[[GNOME]] 
+ |- 
+ |} 
+ < /div > 
+ 
+ === Servers and supercomputers === 
+ [[File:Roadrunner supercomputer HiRes.jpg|thumb|right|Roadrunner, the world's fastest [[supercomputer]] (as of 2009), which runs Linux]] 
+ Linux has mainly been used as a [[Server (computing)|server]] operating system, and has risen to be known by a lot of people in that area; [[Netcraft]] reported in February 2008 that five of the ten best internet hosting companies run Linux on their [[server|web servers]]. < ref > {{ cite web | title = Tiscali Italia is the Most Reliable Hosting Company in February 2008 | url = http://news.netcraft.com/archives/2008/03/04/tiscali_italia_is_the_most_reliable_hosting_company_in_february_2008.html | publisher = Netcraft | date = March 4, 2008 | accessdate = 2008-04-03}} < /ref >  This is because of its stability and uptime, and the fact that desktop software with a [[GUI|graphical user interface]] for servers is often unneeded. 
+ 
+ Linux is commonly used as an operating system for [[supercomputer]]s. As of November 2017, all of the top 500 fastest supercomputers run Linux. < ref > {{cite web|url=http://www.top500.org/statistics/details/osfam/1|title=OPERATING SYSTEM FAMILY / LINUX|website=Top 500|accessdate=December 25, 2018}} < /ref > 
+ 
+ == Pronunciation == 
+ In 1992, Torvalds explained how he pronounces the word ''Linux'': 
+ 
+ {{cquote|'li' is pronounced with a short [ee] sound: compare prInt, mInImal etc.  'nux' is also short, non-diphthong, like in pUt. It's partly due to minix: linux was just my working name for the thing, and as I wrote it to replace minix on my system, the result is what it is...  linus' minix became linux.|Linus Torvalds|comp.os.linux newsgroup < ref > {{ cite newsgroup | newsgroups = comp.os.linux | title = Re: How to pronounce  " Linux " ? |message-id= 1992Apr23.123216.22024@klaava.Helsinki.FI | date = April 23, 1992 | accessdate = 2007-01-09 }} < /ref > }} 
+ < !-- The above is an exact quote from the Usenet post. Do not copyedit it. -- > 
+ 
+ Torvalds has made available an audio sample which indicates his own pronunciation, in English and Swedish. < ref > {{ cite web | url = http://www.paul.sladen.org/pronunciation/ | title = Howto pronounce Linux? | accessdate = 2008-08-18 }} < /ref > < ref > {{cite web|url=http://www.kernel.org/pub/linux/kernel/SillySounds/|title=Linus pronouncing Linux in English and Swedish|accessdate=2008-08-18}} < /ref > 
+ 
+ Some English speakers pronounce the name as lee-narks or lee-nix or lie-nix. According to Torvalds, that is incorrect pronunciation. {{fact|date=July 2010}} 
+ 
+ == Code size == 
+ A 2001 study of [[Red Hat Linux]] 7.1 found this [[Linux distribution|distribution]] had 30 million lines of code. The study showed that Red Hat 7.1 required about 8,000 years of time to develop. The study also said that if all this software had been made by [[proprietary software|proprietary]] means, it would have cost about $1.08 billion to make in the United States. < ref name =  " estimating_size " > {{cite web | first = David A | last = Wheeler | date = July 29, 2002 | url = http://www.dwheeler.com/sloc/redhat71-v1/redhat71sloc.html | title = More Than a Gigabuck: Estimating GNU/Linux's Size | accessdate = 2008-08-18 | archive-date = 2020-04-28 | archive-url = https://web.archive.org/web/20200428111826/https://dwheeler.com/sloc/redhat71-v1/redhat71sloc.html | url-status = dead }} < /ref >  As of March 7, 2011, Linux kernel would cost about $3 billion. < ref > {{Cite web|url=http://www.dwheeler.com/essays/linux-kernel-cost.html|title=The Linux Kernel: It's Worth More!|first=David|last=Wheeler|website=|access-date=2016-10-23|archive-date=2011-08-21|archive-url=https://www.webcitation.org/616XYjg7d?url=http://www.dwheeler.com/essays/linux-kernel-cost.html|url-status=dead}} < /ref > 
+ 
+ Version 3.10 of the Linux kernel, released in June 2013, has 15 million lines of code, < ref > {{Cite web|url=http://www.h-online.com/open/features/What-s-new-in-Linux-3-10-1902270.html|title=What's new in Linux 3.10|website=}} < /ref >  while the version 4.1, released in June 2015, has grown to over 19.5 million lines of code by almost 14,000 programmers. < ref > {{Cite web|url=https://www.phoronix.com/scan.php?page=news_item & px=Linux-19.5M-Stats|title=Linux Kernel at 19.5 Million Lines of Code, Continues Rising|website=}} < /ref > 
+ 
+ Most of the code (around 71%) was written in the [[C (programming language)|C]] [[computer programming|programming]] [[programming language|language]], and many other languages were used, including [[C++]], [[assembly language]], [[Perl]], [[Python (programming language)|Python]], [[Fortran]], and various [[shell script]]ing languages. A little more than half of all lines of code were licensed under the GPL. 
+ 
+ == Different Linux versions == 
+ {{main|Linux distribution}} 
+ [[File:Fedora.png|thumb|[[Fedora (Linux)|Fedora]], a Linux distribution]] 
+ People can [[download]] Linux from a [[website]] on the internet or buy it from a store. Sometimes books and magazines about Linux have a CD. or DVD. with Linux on it. Any certain version of Linux is called a  " distribution " , or  " distro " . A Linux version has the Linux kernel, G.N.U. software, and some extra [[computer program|programs]] that might not be a part of G.N.U. Different versions include different extra programs. The versions used by the most people include: 
+ 
+ * [[Linux Mint]] 
+ * [[Ubuntu]] 
+ * [[Arch Linux]] 
+ * [[CentOS]] 
+ * [[Debian]] 
+ * [[Fedora (Linux)|Fedora]] 
+ * [[Gentoo Linux|Gentoo]] 
+ * [[Slackware]] 
+ * [[openSUSE]] 
+ * [[Mageia]] 
+ 
+ People might pay some money for a version, so they can have a CD-ROM or DVD and to help the company to make their versions better. Usually when someone pays, it is so the company will help the user after they install it, which is called  " support " . 
+ 
+ Software for Linux includes: 
+ 
+ * The Kernel and the Shell. 
+ * [[Apache HTTP Server|Apache]] allows users to run their own website. 
+ * [[KDE]] and [[GNOME]] are [[desktop environment]]s. 
+ * [[LibreOffice]] is for office work. 
+ * [[Mozilla Firefox]] is a [[web browser]]. 
+ * [[GIMP]], [[Inkscape]] and [[Blender (program)|Blender]] help people work with pictures. 
+ * Games such as [[Tux Racer]]. 
+ * The [[GCC]] [[compiler]]. 
+ 
+ == Licensing, trademark, and naming == 
+ The Linux kernel and most GNU software are [[software license|licensed]] under the [[GNU General Public License]] (GPL). The GPL requires that anyone who distributes the Linux kernel must make the source code (and any modifications) available to the recipient under the same terms. In 1997, Linus Torvalds said,  " Making Linux GPL'd was definitely the best thing I ever did " . < ref > {{cite web | url = http://kde.sw.com.sg/food/linus.html | title = Linus Torvalds interview | accessdate = 2008-08-18 |archiveurl=https://web.archive.org/web/20070311190841/http://kde.sw.com.sg/food/linus.html |archivedate=March 11, 2007}} < /ref >  Other key components of a Linux system may use other licenses; many libraries use the [[GNU Lesser General Public License]] (LGPL), a type of the GPL that is less restricted, and the [[X Window System]] uses the [[MIT License]].  " Linux "  is a trademark of Linus Torvalds. 
+ 
+ == Related pages == 
+ * [[List of Linux distributions]] 
+ 
+ == Notes == 
+ {{Notelist}} 
+ 
+ == References == 
+ {{reflist|2}} 
+ 
+ < !-- dead link anyway.. Could use archive.org? == Other websites == 
+ * [http://www.skeysource.com/pluggable-authentication-modules/linux.html Linux History  &  Distributions] 
+ -- > 
+ {{Operating systems}} 
+ 
+ [[Category:Linux]] 
+ [[Category:Free software]]

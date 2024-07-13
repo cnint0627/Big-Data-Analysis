@@ -1,0 +1,26 @@
+In [[computer science]], '''backtracking''' is a [[recursion|recursive]] approach for finding solutions to some computational problems. Backtracking gradually finds candidate solutions and abandons candidates, i.e.,  " backtracks "  when a candidate cannot be a good solution. 
+ 
+ ==Pseudocode== 
+ [[File:Sudoku solved by bactracking.gif|thumb|A [[Sudoku]] solved by backtracking.]] 
+ To apply backtracking to a problem, one must give the data ''P'' for an instance of the problem that is to be solved, and six procedures, ''root'', ''abandon'', ''accept'', ''first'', ''next'', and ''save''. These procedures should take the instance data ''P'' as a variable and should do the following: 
+ # ''root''(''P''):  return the partial candidate at the root of the search tree. 
+ # ''abandon''(''P'',''c''):  return ''true'' only if the partial candidate ''c'' is not worth completing. 
+ # ''accept''(''P'',''c''): return ''true'' if ''c'' is a solution of ''P'', and ''false'' otherwise. 
+ # ''first''(''P'',''c''): generate the first extension of candidate ''c''. 
+ # ''next''(''P'',''s''): generate the next alternative extension of a candidate, after the extension ''s''. 
+ # ''save''(''P'',''c''):  use the solution ''c'' of ''P'' 
+ 
+ The backtracking algorithm reduces the problem to the call ''backtrack''(''root''(''P'')), where ''backtrack'' is the following recursive procedure: 
+ 
+  '''procedure''' backtrack(c) '''is''' 
+      '''if''' abandon(P, c) '''then''' return 
+      '''if''' accept(P, c) '''then''' save(P, c) 
+      s ← first(P, c) 
+      '''while''' s ≠ NULL '''do''' 
+          backtrack(s) 
+          s ← next(P, s) 
+ 
+ 
+ {{sci-stub}} 
+ 
+ [[Category:Algorithms]]

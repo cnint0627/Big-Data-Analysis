@@ -1,0 +1,32 @@
+{{nosources|date=November 2021}} 
+ '''Chromatography''' is a method for separating the parts of a mixture for chemical analysis and identification.  It works by using differences in the speed at which the mixed substances move through special ''media'', or chemical substances.  It uses a ''stationary phase'' (a solid) and a ''mobile phase'' (a liquid or a gas).  The fluid mobile phase flows through the stationary phase.  Chromatography is much used in [[biochemistry]] and [[analytical chemistry]]. 
+ 
+ == Flat-plane chromatography == 
+ The stationary phase is a flat plane, such as paper, or a substance on glass.  
+ 
+ === Paper chromatography === 
+ {{main|Paper chromatography}} 
+ [[File: Chromatography_tank.png|thumb|right|230px| Chromatography jar]] 
+ 
+ ''Paper chromatography'' is an old technique for separating and identifying mixtures that are (or can be) coloured.  It has been largely replaced by ''thin layer chromatography'', but is still a powerful teaching tool. ''Double-way paper chromatography'', also called 'two-dimensional chromatography', uses two [[solvent]]s and rotates the paper 90° in between.  It is useful for separating complex mixtures of compounds having similar polarity, for example, [[amino acids]].  The compounds used initially ensures you to know whether the colour is pure, (one substance only) or mixtures (multiple substances.) 
+ 
+ === Thin layer chromatography === 
+ {{main|Thin layer chromatography}} 
+ Thin layer chromatography (TLC) is a common laboratory technique similar to paper chromatography. Instead of a stationary phase of paper, it uses a  thin layer of [[adsorption|adsorbent]] like [[silica]] [[gel]], [[alumina]], or [[cellulose]] on a flat substrate. Compared to paper, it has the advantage of faster runs, better separations, and the choice between different adsorbents. For even better resolution and to allow for quantification, high-performance TLC can be used. 
+ 
+ == Column chromatography == 
+ ''Column chromatography'' separates [[Chemical compound|compounds]] using many chemical actions between the chemical being tested and the chromatography column (a rod with a blending of special chemicals). The column is run using either [[gravity]] or a [[pump]]. 
+ 
+ The mixed substance to be tested is added in a small amount and is slowed by certain chemical or physical activity with the chemicals in the chromatography column. The amount of slowing depends on the type of chemicals in the substance being tested and the different phases. The time at which a certain [[chemical]] [[elutes]] (comes out of the end of the column) is called the  " retention time "  and there is thought to be only one for one chemical.  
+ [[File:RP HPLC.PNG|thumb|right|230px|High-performance liquid chromatography results]] 
+ 
+ The most common stationary phase for column chromatography is [[silica]] gel, followed by [[alumina]]. [[Cellulose]] powder has been used in the past. The mobile phase is either a pure [[solvent]] or a mixture of solvents. It is chosen to  
+ make the time and amount of solvent used as little as possible, while still clearly separating the chemicals being tested. 
+ 
+ == HPLC == 
+ ''High-[[performance]] liquid chromatography (HPLC)'' is also sometimes referred to as high-[[pressure]] liquid chromatography. It is column chromatography run under pressure to raise the speed of the process.  
+ 
+ Common [[solvent|solvents]] used in HPLC are mixes of water or various [[organic chemistry|organic]] liquids (the most common are [[methanol]], [[ethanol]] or [[acetonitrile]]). 
+ 
+ [[Category:Laboratory techniques]] 
+ [[Category:Analytical chemistry]]

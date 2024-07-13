@@ -1,0 +1,60 @@
+{{Infobox OS 
+ |name = [[Image:Baltix-logo-happy.svg|126px|Baltix GNU/Linux logo]]  GNU/Linux 
+ |screenshot = Baltix-14.04-GNOME-Overview-screenshot-LT-1024.png 
+ |caption = Baltix 14.04 screenshot ([[GNOME]] GUI) 
+ |developer = Open Source for Lithuania / Mantas Kriaučiūnas 
+ |family = [[Linux]] 
+ |source_model = [[Open source]] 
+ |latest_release_version = 20.04.2 
+ |latest_release_date    = {{Start date and age|2021|03|20|df=yes}} 
+ |kernel_type = [[Monolithic kernel|Monolithic]] 
+ |license = [[Free software]] licenses < br > (mainly [[GNU GPL]]) 
+ |working_state = In production / development 
+ |website = [http://baltix.eu/ baltix.eu] 
+ |}} 
+ 
+ '''''Baltix GNU/Linux''''' is a [[Linux distribution]] aimed to be a complete, user-friendly operating system for Lithuanian and Latvian people, based on [[Debian]] and [[Ubuntu (operating system)|Ubuntu]]. Supported languages include Lithuanian, Latvian, Estonian, Russian, English, Norwegian and others near and around the [[Baltic region]]. The main language is [[Lithuanian language|Lithuanian]]. 
+ 
+ It uses the [[GNOME]] desktop environment and is distributed as an installable [[Live CD]]. 
+ 
+ The first public versions of Baltix GNU/Linux were released in 2003 and were based on [[Knoppix]] [[Live CD]] and [[Debian]] software packages, < ref > {{Cite web |url=https://lists.akl.lt/pipermail/baltix-knoppix/2003-May/000000.html |title=Announce of Baltix-Knoppix |access-date=2008-06-14 |archive-date=2011-07-22 |archive-url=https://web.archive.org/web/20110722150120/https://lists.akl.lt/pipermail/baltix-knoppix/2003-May/000000.html |url-status=dead }} < /ref >  and later, on the [[Ubuntu (operating system)|Ubuntu operating system]]. 
+ 
+ == Additional software == 
+ Baltix has software packages not present in Ubuntu: 
+ 
+ * Educational software for kids and adults, including [[GCompris]], [[TuxPaint]], [[Atomix]], etc. 
+ * Interesting and funny games, including ''[[Doctor Eggman|Pingus]]'', [[Chess]], [[PlanetPenguin Racer]] 
+ * Vector graphic, [[CAD]] and diagram drawing software, including [[Inkscape]], [[QCAD]] and [[Dia]] 
+ * Support for most video and audio formats, including DVD, DivX, AVI, MPEG, Xvid, Theora, Ogg Vorbis, MP3 
+ * Lightweight Desktop Environment - [[LXDE]] + [[PCManFM]] (older versions had [[IceWM]] as lightweight Window Manager) 
+ * Possibility to run lots of software, compiled for [[Microsoft Windows|MS Windows]] OS (through [[Wine (software)|Wine]] compatibility layer) < ref > {{Cite web |url=http://baltix.akl.lt/english |title=About Baltix GNU/Linux |access-date=2008-06-14 |archive-date=2008-04-03 |archive-url=https://web.archive.org/web/20080403072222/http://baltix.akl.lt/english |url-status=dead }} < /ref > 
+ * Clipart, CAD and office documents templates 
+ * Lots of other packages, which are useful for Lithuanians and other [[Baltic States|Baltic people]], including  
+ ** universal dictionary software [[OpenDict]] 
+ ** various spelling and hyphenation dictionaries, etc. 
+ 
+ Baltix can run directly from its live-usb, without installation to a computer's permanent storage (hard disk, solid state drive, etc.), but also can be installed into a computer's Linux or Windows partition(s). 
+ 
+ == Baltix Goals == 
+ * Easy and right away ready for majority of Lithuanian, Latvian and Russian home/office users (no need to install additional software for multimedia support or office work, e.g. spelling dictionaries or templates) 
+ * Possibility to run software, compiled for most popular operating systems, like Windows 
+ * Possibility to work comfortably on older computers (starting from 64 MB RAM and 200 MHz CPU), little resources consuming desktop environment is included (currently LXDE) 
+ * Comfortable for computer manufacturers (Baltix 0.8.x, 1.x and 20.04) has a noninteractive automatic installation (autoinstall) feature - OS can be installed into computer in about 10 minutes without user intervention. < ref > [https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Baltix#head-e64121dc11072c9ff5d36f98919636b6913b2227 Baltix Goals (Ubuntu wiki)] < /ref > < ref > [https://launchpad.net/bugs/29194 Baltix Goals (in Lithuanian language)] < /ref > 
+ 
+ ==Related pages== 
+ * [[GNU/Linux]] 
+ * [[Debian]] 
+ *[[List of Linux distributions]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://baltix.eu/ Official website] 
+ * [http://launchpad.net/distros/baltix/ Developers project] 
+ 
+ [[Category:Linux distributions]] 
+ [[Category:Debian-based Linux distributions]] 
+ [[Category:Baltic states]] 
+ [[Category:Latvia]] 
+ [[Category:Lithuania]]

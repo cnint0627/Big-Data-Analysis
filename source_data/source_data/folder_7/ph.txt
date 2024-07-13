@@ -1,0 +1,107 @@
+{{Acids and Bases}} 
+ {{lowercase}} 
+ '''pH''' is a [[scale]] of acidity from 0 to 14. It tells how [[acid]]ic or [[alkali]]ne a substance is.  
+ More acidic solutions have lower pH. More alkaline solutions have higher pH. Substances that aren't acidic or alkaline (that is, neutral solutions) usually have a pH of 7. 
+ [[Acid]]s have a pH that is less than 7. [[Alkali]]s have a pH that is greater than 7. 
+ 
+ pH is a measure of the [[:en:Concentration|concentration]] of [[proton]]s (H < sup > + < /sup > ) in a [[solution]]. [[:en:S. P. L. Sørensen|S.P.L. Sørensen]] introduced this [[concept]] in the year [[1909]]. The p stands for the [[German language|German]] ''potenz'', meaning power or concentration, and the H for the [[hydrogen]] [[ion]] (H < sup > + < /sup > ). 
+ 
+ The most common [[formula]] for calculating pH is: 
+ 
+ : < math > \mbox{pH} = -\log_{10} \left[ \mbox{H}^+ \right] < /math > 
+ 
+ [H < sup > + < /sup > ] indicates the concentration of H < sup > + < /sup >  ions (also written [H < sub > 3 < /sub > O < sup > + < /sup > ], < ref name=explan/ >  the equal concentration of [[:en:Hydronium|hydronium]] ions), measured in [[mole (unit)|moles]] per [[litre]] (also known as [[molarity]]). 
+ 
+ However, the correct equation is actually: 
+ 
+ : < math > \mbox{pH} = -\log_{10} \left[ a_{\mathrm{H^+}} \right] < /math > 
+ 
+ where  < math > a_{\mathrm{H^+}} < /math >  indicates the activity of H < sup > + < /sup >  ions. < ref > {{Cite journal|last=Hawkes|first=Stephen J.|date=2000-09-01|title=Easy Derivation of pH Is Approximately Equal To (pKa1 + pKa2) / 2 Using Autoprotolysis of HA-: Doubtful Value of the Supposedly More Rigorous Equation|url=https://doi.org/10.1021/ed077p1183|journal=Journal of Chemical Education|volume=77|issue=9|pages=1183|doi=10.1021/ed077p1183|issn=0021-9584}} < /ref >  But, this equation in most cases provides the same value as the more common formula, so in introductory chemistry the previous equation is given as the definition of pH. 
+ 
+ Most [[substance]]s have a pH in the range of 0 to 14, although ''extremely'' acidic or alkaline substances may have pH  <  0, or pH  >  14. 
+ 
+ Alkaline substances have, instead of hydrogen ions, a concentration of [[hydroxide]] ions (OH < sup > - < /sup > ). 
+ 
+ == pH indicators == 
+ Certain dyes change colour depending on whether they are in an acid solution or an alkaline solution . '''pH indicator''' is a chemical compound added in small amounts to a solution so the pH (acidity or basicity) of the solution can be seen. The pH indicator is a chemical detector for hydronium ions (H < sub > 3 < /sub > O < sup > + < /sup > ) or hydrogen ions (H < sup > + < /sup > ). < ref name=explan > These are two different ways of representing hydrogen ion concentration. < /ref >  Normally, the indicator causes the colour of the solution to change depending on the pH. 
+ 
+ Typical indicators are [[:en:Phenolphthalein|phenolphthalein]], [[:en:Methyl orange|methyl orange]], [[:en:Methyl red|methyl red]], [[:en:Bromothymol blue|bromothymol blue]], and [[:en:Thymol blue|thymol blue]]. They each change colour at different points on the pH scale, and can be used together as a [[universal indicator]]. < ref > {{cite encyclopedia |url=http://www.iscid.org/encyclopedia/Universal_Indicator |title=Universal Indicator |encyclopedia=ISCID Encyclopedia of Science and Philosophy |url-status=dead |archiveurl=https://web.archive.org/web/20060925035727/http://www.iscid.org/encyclopedia/Universal_Indicator |archivedate=September 25, 2006 |access-date=August 4, 2016 }} < /ref > 
+ 
+ Another way is to use [[litmus paper]], which is based on a natural pH indicators. The paper can tell you how strong the chemical is, whether it is a stronger acid or a stronger [[base (chemistry)|base]]. 
+ 
+ == Some common pH values == 
+ [[File:216 pH Scale-01.jpg|thumb|right|300px|pH values of some common substances]] 
+ 
+ {| 
+ | || '''pH''' 
+ |- 
+ | Battery acid ||0.8 < ref > {{Cite web|last=Bell-Young|first=Lucy|date=2020-12-02|title=What Is Battery Acid? {{!}} The Chemistry Blog|url=https://www.chemicals.co.uk/blog/what-is-battery-acid|access-date=2022-06-23|website=ReAgent Chemicals|language=en-GB}} < /ref > 
+ |- 
+ | Gastric acid || 1.0 
+ |- 
+ | [[Lemon]] juice || 2.4 
+ |- 
+ | Cola || 2.5 
+ |- 
+ | Oxygenated water || 2.5 - 3.0 
+ |- 
+ | Vinegar ||3.0 
+ |- 
+ | orange (fruit)|Orange or apple juice || 3.0 
+ |- 
+ | Beer || 4.5 
+ |- 
+ | Coffee || 5.0 
+ |- 
+ | Milk || 6.6 
+ |- 
+ | [[Water|Pure water]] || 7.0 
+ |- 
+ | Blood || 7.35 - 7.45 
+ |- 
+ | Plain shampoo || 8.0 
+ |- 
+ | [[Sea water]] || 8.0 
+ |- 
+ | Permanent wave || 8.5 - 9.2 
+ |- 
+ | Hand [[soap]] || 9.0 - 10.0 
+ |- 
+ | [[Hair dye]] || 9.5 - 10.5 
+ |- 
+ | Magic straight || 11.5 
+ |- 
+ | Household [[ammonia]] || 11.5 
+ |- 
+ | Bleach || 12.3 
+ |- 
+ | Sodium hydroxide|Caustic soda || 12.7 
+ |- 
+ | Household [[lye]] || 13.5 
+ |- 
+ |Drain Cleaner 
+ |14 
+ |} 
+ 
+ == Neutralization == 
+ Neutralization can be summed up by the [[chemical equation|equation]]: 
+ 
+ :{{chem|H|+}} + {{chem|OH|-}} → {{chem|H|2|O}} 
+ ([[acid]] + [[Base (chemistry)|base]] → [[water]]) 
+ 
+ ==Related pages== 
+ * [[Acid]] 
+ * [[Base (chemistry)|Base]] 
+ * [[Alkali]] 
+ * [[Titration]] 
+ * [[Transpiration]] 
+ 
+ == Notes == 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [http://theoprax-research.com/pool.html pH-Spectra Database] {{Webarchive|url=https://web.archive.org/web/20160911185347/http://theoprax-research.com/pool.html |date=2016-09-11 }} í 
+ * [https://www.informationcivil.online/2020/08/ph-of-water.html pH Test] {{Webarchive|url=https://web.archive.org/web/20201202071209/https://www.informationcivil.online/2020/08/ph-of-water.html |date=2020-12-02 }} 
+ * [http://www.aqion.onl pH Calculator] 
+ 
+ [[Category:Chemistry]]

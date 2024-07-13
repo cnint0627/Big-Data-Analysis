@@ -1,0 +1,10 @@
+A '''gigabyte''' ('''GB'''), sometimes abbreviated as a ''gig'', is a [[unit of measurement]] in [[computer]]s and similar [[Electronics|electronic devices]]. At first it meant exactly 1 [[1,000,000,000|billion]] [[byte]]s, usually referring to the number of bytes in a [[computer]] [[hard drive]]. Its meaning gradually changed over time, so that today it is often used to mean 1,073,741,824 (2 < sup > 30 < /sup > ) [[byte]]s, especially when referring to the random access memory ([[RAM]]) of a modern computer. Now international standards bodies say a gigabyte should only be used to mean exactly 1 billion [[byte]]s, and that [[gibibyte]] is a better name for 1,073,741,824 bytes. In everyday use, people use ''gigabyte'' to mean 1,073,741,824 bytes when talking about computer memory and 1,000,000,000 bytes when talking about computer disk space. 
+ 
+ One thousand gigabytes make one [[terabyte]]. 
+ 
+ == Uses == 
+ This [[measurement]] is often used when measuring the capacity of [[Random access memory|computer memory]], [[hard drive]]s, or other storage [[device]]s. 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Units of information]]

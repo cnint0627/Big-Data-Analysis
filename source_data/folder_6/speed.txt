@@ -1,0 +1,98 @@
+{{use mdy dates}} 
+ {{other uses}} 
+ '''Speed''' is a [[measure]]. 
+ It is [[velocity]] but without the direction. < ref name= " columbia " / > < ref name= " britannica " / > < ref name= " phtb " / > < ref name= " difference " / > 
+ 
+ == Finding speed == 
+ Speed is the [[distance]] an [[wikt:object|object]] moves in a given amount of [[time]]. < ref name= " columbia " / > < ref name= " britannica " / > < ref name= " phtb " / > 
+ The distance is never [[negative]]. < ref name= " dd " / > 
+ If a train takes 1 hour to travel 100 kilometers, it has a speed of {{convert|100|kph|mph|sp=us}}. 
+ In fact this is the ''average speed''. < ref name= " phtb " / > 
+ During this one hour, the train may become slower and faster, it may even drive backwards. < ref name= " phtb " / > 
+ The '''average speed''' of an object in a certain time is the distance the object traveled [[Division (mathematics)|divided]] by the time. < ref name= " columbia " / > < ref name= " phtb " / > < ref name= " dd " / > 
+ The '''instantaneous speed''' is the average speed when the time is very small, almost [[zero]]. < ref name= " phtb " / > 
+ 
+ == Units == 
+ There are many [[Unit of measurement|units of measurement]]. 
+ Since the 20th century following units were widely used by humans: 
+ 
+ * [[miles]] per [[hour]] (mph), 
+ * [[kilometre|kilometers]] per hour (km/h), and 
+ * [[metre|meters]] per [[second]] (m/s), which is the [[SI|SI-unit]] for speed. 
+ 
+ Different units are used for different applications. 
+ People controlling planes and ships frequently use [[Knot (speed)]]. < ref name= " phtb " / > 
+ Sometimes a [[Mach number]] is used. 
+ 
+ == Range == 
+ The smallest speed is {{convert|0|m/s|kph mph|sp=us}}. 
+ A “negative speed” would be in fact a velocity. 
+ The biggest speed is the [[speed of light]]. < ref name= " sw_sol " / > 
+ You can write bigger speeds, but they are not possible in this universe. 
+ 
+ == Read also == 
+ {{wiktionary}} 
+ {{wikiquote|Speed}} 
+ * [[Orbital speed]] 
+ * [[Speedometer]] – a thing showing speed 
+ * [[Speed limit]] – a law telling people a maximum speed 
+ * [[Speed of sound]] 
+ * [[Wind speed]] 
+ 
+ == Sources == 
+ < references > 
+ < ref name= " britannica " > {{cite web 
+ | title           = velocity 
+ | url             = https://www.britannica.com/science/velocity 
+ | date            = 2022-11-03 
+ | quote           = The magnitude of the velocity (i.e., the speed) is the time rate at which the point is moving along its path. 
+ | work            = Encyclopaedia Britannica 
+ | access-date     = 2022-12-19 
+ }} < /ref > 
+ < ref name= " difference " > {{cite web 
+ | title           = What's the Difference Between Speed and Velocity? 
+ | author          = Kara Rogers 
+ | url             = https://www.britannica.com/story/whats-the-difference-between-speed-and-velocity 
+ | date            = 2016-12-07 
+ | work            = Encyclopaedia Britannica 
+ | access-date     = 2022-12-19 
+ }} < /ref > 
+ < ref name= " columbia " > {{cite web 
+ | title           = speed 
+ | url             = https://www.infoplease.com/encyclopedia/science/physics/concepts/speed 
+ | date            = 2017-01-24 
+ | work            = The Columbia Electronic Encyclopedia 
+ | edition         = 6th 
+ | publisher       = Columbia University Press 
+ | access-date     = 2022-12-19 
+ }} < /ref > 
+ < ref name= " dd " > {{cite web 
+ | title           = speed 
+ | author          = David Darling 
+ | url             = https://www.daviddarling.info/encyclopedia/S/speed.html 
+ | date            = 2021-08-31 
+ | work            = Encyclopedia of Science 
+ | access-date     = 2022-12-19 
+ }} < /ref > 
+ < ref name= " phtb " > {{cite web 
+ | title           = Speed and Velocity 
+ | author          = Glenn Elert 
+ | url             = https://physics.info/velocity/ 
+ | date            = 2021 
+ | work            = The Physics Hypertextbook 
+ | access-date     = 2022-12-19 
+ }} < /ref > 
+ < ref name= " sw_sol " > {{cite web 
+ | title            = The cosmic speed limit: Why can’t we travel at light speed? 
+ | url            = https://www.scienceworld.ca/stories/cosmic-speed-limit-why-cant-we-travel-light-speed/ 
+ | date            = 2015-07-08 
+ | work            = Science World 
+ | access-date            = 2022-12-19 
+ | archive-date            = 2022-12-19 
+ | archive-url            = https://web.archive.org/web/20221219205516/https://www.scienceworld.ca/stories/cosmic-speed-limit-why-cant-we-travel-light-speed/ 
+ | url-status            = dead 
+ }} < /ref > 
+ < /references > 
+ 
+ [[Category:Measurement]] 
+ [[Category:Physical quantity]]

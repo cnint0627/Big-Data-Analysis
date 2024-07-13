@@ -1,0 +1,24 @@
+A '''favicon''' is small image (known as an icon) that is used to identify a [[website]] or webpage. 
+ 
+ [[File:Favicon.ico.png|thumb|16px| A 16x16 pixel favicon.]] 
+ 
+ [[File:Favicon.ico.png|thumb|32px|A 32x32 pixel favicon.]] 
+ 
+ [[File:Favicon.ico.png|thumb|64px|A 64x64 pixel favicon.]] 
+ 
+ This type of icon (also known as a '''favorite icon''' or '''favorites icon''') is usually a square image that is only 16 pixels in height and 16 pixels in width. However, modern browsers, especially those installed on smartphones, can display bigger favicons that are 32 pixels or 64 pixels in size. And when a favicon is included in a webpage it can be seen next to a [[browser]]'s address bar, inside a browser's tab or in the browser's Favorites' or Bookmarks' list. 
+ 
+ ==Related pages== 
+ * [[GIMP]] 
+ * [[Internet Explorer]] 
+ * [[Mozilla Firefox]] 
+ * [[Web]] 
+ * [[Internet]] 
+ 
+ == Other websites == 
+ * [http://www.w3.org/2005/10/howto-favicon/ How to Add a Favicon to your Site] {{Webarchive|url=https://web.archive.org/web/20090505062608/http://www.w3.org/2005/10/howto-favicon |date=2009-05-05 }} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Web design]]

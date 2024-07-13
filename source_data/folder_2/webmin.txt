@@ -1,0 +1,26 @@
+{{Infobox Software 
+ | name                   = Webmin 
+ | latest release version = 2.013 
+ | latest release date    = [[19 January]] [[2023]] 
+ | latest preview version = 
+ | latest preview date    = 
+ | developer              = Jamie Cameron and the Webmin community. < ref name= " intro " > [http://www.webmin.com/intro.html Introduction to Webmin]. Official Webmin website. Accessed 11-Feb-2007. < /ref > 
+ | released               = [[October 5]], [[1997]] (version 0.1) 
+ | programming language   = Perl 
+ | operating system       =  " The best supported systems at the moment are Solaris, Linux (Red Hat in particular) and FreeBSD " < ref > [http://www.webmin.com/support.html Supported Operating Systems]. Official Webmin website. Accessed 11-Feb-2007. < /ref >  and [http://www.webmin.com/support.html other supported OSes]. 
+ | language               = English, Catalan 99%, German 96%, Dutch 92% [http://www.webmin.com/lang.html partial translations] 
+ | genre                  = [[Control panel (Web hosting)|Control panel]] 
+ | license                = BSD-like licence 
+ | website                = http://www.webmin.com/ 
+ }} 
+ '''Webmin''' is a [[World Wide Web|web]]-based system configuration tool for [[OpenSolaris]], [[Linux]] and other [[Unix-like]] systems. It can configure many operating system internals, such as users, disk quotas, services, configuration files, as well as modify and control many [[opensource]] applications, such as the [[Apache HTTP Server]], [[PHP]] and [[MySQL]]. 
+ 
+ Webmin is largely based on [[Perl]], running as its own process and [[server|web server]]. It defaults to [[Transmission Control Protocol|TCP]] port 10000 for communicating, and can be configured to use [[Secure Sockets Layer|SSL]] if [[OpenSSL]] is installed with extra required [[Perl]] Modules. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Unix]] 
+ [[Category:Web server software]]

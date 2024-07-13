@@ -1,0 +1,28 @@
+{{Infobox Software 
+ | name                   = DHIS 
+ | logo                   =  
+ | screenshot             =  
+ | caption                =  
+ | collapsible            =  
+ | author                 =  
+ | developer              = [[Health Information Systems Programme]] 
+ | released               =  
+ | latest release version =  
+ | latest release date    =  
+ | latest preview version =  
+ | latest preview date    =  
+ | programming language   =  
+ | operating system       =  
+ | platform               =  
+ | size                   =  
+ | language               =  
+ | genre                  = [[Health management information system]] 
+ | license                = DHIS 1 (1.4): GPL  < br > DHIS 2: [[BSD license|BSD]] 
+ | website                = http://www.dhis2.org/, http://hisp.org/, http://www.dhispb.com, http://www.dhiskp.gov.pk 
+ }} 
+ '''District Health Information Software''' (DHIS) is an open-source software to compile reports and do analysis of health related data. 
+ 
+ ==History== 
+ It was developed by Health Information Systems Programme with the coordination of the Department of Informatics at the [[University of Oslo]]. It is globally supported by a number of organizations including NORAD, PEPFAR, The Global Fund to Fight AIDS, Tuberculosis and Malaria, UNICEF and the University of Oslo. 
+ 
+ [[Category:Software]]

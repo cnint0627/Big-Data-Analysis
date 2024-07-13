@@ -1,0 +1,47 @@
+{{for|the U.S. building|The Pentagon}} 
+ [[File:Regular polygon 5 annotated.svg|thumb|A regular pentagon]] 
+ A '''pentagon''' is a [[polygon]] with five edges. It is defined by five points, which are all on a [[Plane (mathematics)|plane]]. If all the edges have the same length and the [[Angle|angles]] at the corners are all [[Degree (angle)|108°]], the pentagon is called ''regular''. If the pentagon intersects itself, it is called a [[pentagram]]. 
+ 
+ Pentagons also occur in [[nature]]: [[Fruit]]s of the [[Okra]] are pentangular. The [[flower]]s of [[Ipomoea]] are pentagular. In [[chemistry]], many [[Cyclic compound]]s are pentangles: [[Cyclopentane]] and [[Furan]] are examples for this. In architecture, many [[bastion]]s are pentangular: [[Bourtange]], in the [[Netherlands]] has been completely restored, and is a pentangle.  The [[Citadel of Lille]], [[Nyenschantz]], near [[St. Petersburg]], or the [[Citadel of Pamplona]] are . The [[Villa Farnese]] is a [[palace]] in the form of a pentagon, so is the [[castle]] of [[Nowy Wiśnicz]]. The [[Pilgrimage Church of Saint John of Nepomuk]] near [[Žďár nad Sázavou]]  also uses a pentangular design. 
+ 
+ == Formulas == 
+ ''Note: these formulas only work for regular pentagons.'' 
+ 
+ < math > \text{Height} = \frac{\sqrt{5+2\sqrt{5}}}{2} \cdot \text{Side}\approx 1.539 \cdot \text{Side}, < /math > 
+ 
+ < math > \text{Width} = \text{Diagonal}= \frac{1+\sqrt5}{2} \cdot \text{Side}\approx 1.618 \cdot \text{Side}, < /math > 
+ 
+ < math > \text{Width} = \sqrt{2-\frac{2}{\sqrt{5}}} \cdot \text{Height}\approx 1.051 \cdot \text{Height}, < /math > 
+ 
+ < math > \text{Diagonal} = R\ {\sqrt { \frac {5+\sqrt{5}}{2}} } = 2R\cos 18^\circ = 2R\cos\frac{\pi}{10} \approx 1.902 R, < /math > 
+ 
+ ''R'' is the [[radius]] of the [[circumcircle]]. 
+ 
+ ==Examples of pentagons== 
+ 
+ ===Plants=== 
+ < gallery > 
+ File:BhindiCutUp.jpg|Pentagonal cross-section of [[okra]]. 
+ File:Morning Glory Flower.jpg|[[Morning glories]], like many other flowers, have a pentagonal shape. 
+ File:Sterappel dwarsdrsn.jpg|The [[gynoecium]] of an [[apple]] contains five carpels, arranged in a [[:en:Five-pointed_star|five-pointed star]] 
+ File:Carambola Starfruit.jpg|[[carambola|Starfruit]] is another fruit with fivefold symmetry. 
+ < /gallery > 
+ 
+ ===Animals=== 
+ < gallery > 
+ Image:Oreaster reticulatus201905mx.jpg|A [[sea star]]. Many [[echinoderms]] have fivefold radial symmetry. 
+ Image:Haeckel_Ophiodea.jpg|An illustration of [[brittle stars]], also echinoderms with a pentagonal shape. 
+ < /gallery > 
+ 
+ ===Artificial=== 
+ < gallery > 
+ Image:The Pentagon January 2008.jpg|[[The Pentagon]], headquarters of the [[United States Department of Defense]]. 
+ Image:Home base of baseball field in Třebíč, Třebíč District.jpg|[[Home plate]] of a [[baseball field]] 
+ File:Fortbourtange.jpg|Fort Bourtange,in the Netherlands 
+ < /gallery > 
+ 
+ 
+ {{math-stub}} 
+ {{shapes}} 
+ {{Polygons}} 
+ [[Category:Polygons|5]]

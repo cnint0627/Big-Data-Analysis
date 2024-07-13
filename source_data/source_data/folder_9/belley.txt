@@ -1,0 +1,173 @@
+{{Infobox French commune 
+ |name                    = Belley 
+ |native name             =  
+ |image flag              =  
+ |image flag size         =  
+ |image coat of arms      = Blason ville fr Belley (Ain).svg 
+ |image coat of arms size =  
+ |city motto              =  
+ |image                   = Belley_Terreaux.JPG 
+ |caption                 = Place des Terreaux, Belley 
+ |map                     =  
+ |adjustable map          =  
+ |time zone               =  
+ |coordinates             = {{coord|45.7667|5.6833|format=dms|display=inline,title}} 
+ |arrondissement          = Belley 
+ |canton                  = Belley 
+ |subdivisions entry      =  
+ |subdivisions            =  
+ |intercommunality        = Communauté de communes Bugey Sud 
+ |mayor                   = Pierre Berthet 
+ |party                   =  
+ |term                    = 2015 - 2020 
+ |elevation m             = 306 
+ |elevation min m         = 220 
+ |elevation max m         = 392 
+ |area km2                = 22.42 
+ |population              = 8983 
+ |population ranking      =  
+ |population date         = 2014 
+ |urban area km2         =  
+ |urban area date        =  
+ |urban pop              =  
+ |urban pop date         =  
+ |metro area km2         =  
+ |metro area date        =  
+ |metro area pop         =  
+ |metro area pop date    =  
+ |INSEE                  = 01034 
+ |postal code            = 01300 
+ |website                = [http://www.belley.fr/ www.belley.fr] 
+ }} 
+ '''Belley''' is a  [[Communes of France|commune]] in the [[Ain]] [[Departments of France|department]]. It is found in the [[Auvergne-Rhône-Alpes]] [[Regions of France|region]] in  the east of [[France]]  and is the [[Capital (city)|capital]] of the ''arrondissement'' of [[Arrondissement of Belley|Belley]]. 
+ 
+ ==History== 
+ It was the capital of [[Bugey]] (''Pagus Bellicensis''), a historical region in [[Ain]] between [[Lyon]] and [[Geneva]]. 
+ 
+ ==Geography== 
+ Belley has an area of {{Convert|22.4|km2|sqmi|0|abbr=on }}. < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-01034 |title=Commune de Belley (01034) |work=Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=17 September 2017 }} < /ref >  Its average [[altitude]] is {{Convert|306|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|209|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Belley-01300/ |title=Belley |publisher=Map-France.com |access-date=14 May 2016 }} < /ref > 
+ 
+ The distances from Belley to other cities are: < ref name= " mairie " > {{cite web |url=http://www.annuaire-mairie.fr/ville-belley.html |title=La ville de Belley |publisher=Annuaire-Mairie.fr |language=fr  |access-date=17 September 2017 }} < /ref > 
+ 
+ * [[Paris]], the national capital - {{Convert|512|km|mi|abbr=on }}; 
+ * [[Lyon]], the regional capital - {{Convert|100|km|mi|abbr=on }}; 
+ * [[Reims]] - {{Convert|520|km|mi|abbr=on }}; 
+ * [[Bordeaux]] - {{Convert|656|km|mi|abbr=on }}; 
+ * [[Toulouse]] - {{Convert|611|km|mi|abbr=on }}; 
+ * [[Montpellier]] - {{Convert|372|km|mi|abbr=on }}; 
+ * [[Strasbourg]] - {{Convert|492|km|mi|abbr=on }}; 
+ * [[Nantes]] - {{Convert|753|km|mi|abbr=on }}; 
+ * [[Marseille]] - {{Convert|387|km|mi|abbr=on }}. 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Belley and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 01034.png|350px|Map of the ''commune'' de Belley]] 
+ |} 
+ < /center > 
+ 
+ {{Geographic location|width=auto 
+ |Centre    =  Belley 
+ |North     = [[Chazey-Bons]] 
+ |Northeast = [[Magnieu]] 
+ |East      = [[Parves]] < br > [[Virignin]] 
+ |Southeast =  
+ |South     = [[Brens, Ain|Brens]] 
+ |Southwest =  
+ |West      =  [[Arboys-en-Bugey]] 
+ |Northwest = [[Andert-et-Condon]] 
+ }} 
+ 
+ ===Climate=== 
+ The climate of Belley, in the [[Köppen climate classification]], is '''Cfb''' - [[Oceanic climate]] with template summers. < ref name= " mairie "  / > 
+ 
+ ==Population== 
+ The inhabitants of Belley are known, in [[French language|French]], as ''Belleysans'' (women: ''Belleysannes''). < ref > {{cite web|url=http://www.habitants.fr/ain-01 |title=Habitants du départment Ain |publisher=habitants.fr |language=fr |access-date=14 May 2016 }} < /ref > 
+ 
+ Belley has a population, in 2014, of 8,983, < ref name=insee > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep01.pdf |title=Régions, départements, arrondissements, cantons et communes |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=fr |access-date=16 September 2017}} < /ref >  and its [[population density]] is of {{Pop density|8983|22.42|km2|prec=1|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Belley''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:10000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:2000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:1000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2006 text:2006 
+  bar:2011 text:2011 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 7049 
+  bar:1975 from:0 till: 7583 
+  bar:1982 from:0 till: 7981 
+  bar:1990 from:0 till: 7807 
+  bar:1999 from:0 till: 8004 
+  bar:2006 from:0 till: 8466 
+  bar:2011 from:0 till: 8761 
+  bar:2014 from:0 till: 8983 
+ 
+ PlotData= 
+  bar:1968 at: 7049 fontsize:S text: 7,049 shift:(-12,5) 
+  bar:1975 at: 7583 fontsize:S text: 7,583 shift:(-18,5) 
+  bar:1982 at: 7981 fontsize:S text: 7,981 shift:(-18,5) 
+  bar:1990 at: 7807 fontsize:S text: 7,807 shift:(-18,5) 
+  bar:1999 at: 8004 fontsize:S text: 8,004 shift:(-18,5) 
+  bar:2006 at: 8466 fontsize:S text: 8,466 shift:(-18,5) 
+  bar:2011 at: 8761 fontsize:S text: 8,761 shift:(-18,5) 
+  bar:2014 at: 8983 fontsize:S text: 8,983 shift:(-18,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Administration== 
+ Belley is a [[Prefectures in France|subprefecture]] of the Ain department and the capital of the [[arrondissement of Belley]] in the same department. It is also the capital of the canton of [[Canton of Belley|Belley]], formed by 34 ''communes'' (24,216 inhabitants)  < small > (2014) < /small > 
+ 
+ It is part of the [[Communes of France|intercommunality]] ''Bugey Sud''. 
+ 
+ ==Economy== 
+ The local [[economy]] is mostly based around [[commerce]]. [[Cheese]] production is also important. The commune produces a cheese called the ''Tomme de Belley''. 
+ 
+ ==Sites of interest== 
+ The most important [[monument]]s in the commune are the Saint-Jean-Baptiste [[cathedral]] and the ''Palais Episcopal'' of Belley, both listed as ''[[monuments historiques]]''. 
+ 
+ == Gallery == 
+ < gallery mode= " packed " > 
+ File:Cathedrale Belley Int.JPG|The inside of the Belley [[cathedral]]. 
+ File:Belley Grande Rue 4.JPG|Street in Belley. 
+ File:Palais épiscopal de Belley.jpg|''Palais Episcopal''. 
+ File:Maire de Belley.JPG|[[City and town halls|Town hall]] of Belley. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Belley]] 
+ * [[Communes of the Ain department]] 
+ 
+ ==References== 
+ {{Commons category|Belley}} 
+ {{Reflist}} 
+ 
+ {{Ain communes}} 
+ 
+ [[Category:Subprefectures in France]] 
+ [[Category:Communes in Ain]]

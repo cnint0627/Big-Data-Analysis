@@ -1,0 +1,35 @@
+'''Subtraction''' is the [[arithmetic]] operation for finding the [[:wikt:difference|difference]] between two [[number]]s, though it can also be generalized to other mathematical objects such as [[vector]]s and [[Matrix (mathematics)|matrices]]. < ref > {{Cite web|date=2020-03-25|title=Comprehensive List of Algebra Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/|access-date=2020-08-26|website=Math Vault|language=en-US}} < /ref >  The names of the numbers in a subtraction expression are:  < math > \textrm{minuend}-\textrm{subtrahend}=\textrm{difference} < /math > . < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Subtraction|url=https://mathworld.wolfram.com/Subtraction.html|access-date=2020-08-26|website=mathworld.wolfram.com|language=en-US}} < /ref > < ref > {{Cite web|title=Subtraction|url=http://www.mathisfun.com/numbers/subtraction|access-date=2020-08-26|website=www.mathsisfun.com|language=en-US}} < /ref >  For example, the expression  < math > 7-4=3 < /math >  can be read as  " [[7 (number)|seven]] minus [[4 (number)|four]] equals [[3 (number)|three]] " ,  " seven take away four leaves three " , or  " four from seven leaves three " . 
+ 
+ If the minuend is less than the subtrahend, the difference will be a [[negative number]]. For example,  < math > 17-25=-8 < /math > . This can be read as  " seventeen minus twenty-five equals negative eight " . 
+ 
+ Subtraction is how [[cash register]]s determine the [[Change (money)|change]] a buyer receives, when the buyer pays with more money than the purchase cost.  
+ 
+ ==Properties== 
+ ===Anti-commutativity=== 
+ Subtraction is anti-commutative, meaning that swapping the numbers around the minus sign will give a number with the same [[Operation (mathematics)#Absolute value|magnitude]], but the opposite [[Sign (mathematics)#Sign of a number|sign]] ([[Operation (mathematics)#Additive inverses (opposites)|opposite number]]): 
+ : < math > a-b=-(b-a) < /math > 
+ 
+ ===Non-associativity=== 
+ Subtraction is 'not' [[associativity|associative]], which comes up when one tries to define repeated subtraction. In general, the expression 
+ : < math > a-b-c < /math > 
+ means  < math > (a-b)-c < /math >   or  < math > a-(b-c) < /math > , but these two possibilities lead to different answers. To resolve this issue, one must establish an [[order of operations]], with different orders yielding different results. 
+ 
+ === Algebraic subtraction === 
+ Subtraction in [[algebra]] is different than normal arithmetic because you add negative numbers to a value instead of simply subtracting two [[Positive number|positive numbers]]. Both numbers can also be placed inside parentheses. This is usually to make reading the equation easier. 
+ 
+ < math > (a) + (-b) < /math > 
+ 
+ ===Predecessor=== 
+ In the context of integers, subtraction of [[one]] also plays a special role: for any integer  < math > a < /math > , the integer  < math > a-1 < /math >  is the largest integer that is smaller than  < math > a < /math > , also known as the predecessor of  < math > a < /math > . 
+ 
+ ==Related pages==  
+ * [[Operation (mathematics)#Addition|Addition]] 
+ * [[Operation (mathematics)#Division|Division]] 
+ * [[Negative number]] 
+ * [[Order of operations]] 
+ 
+ == References == 
+ < references / > 
+ {{math-stub}} 
+ 
+ [[Category:Arithmetics]]

@@ -1,0 +1,6 @@
+'''Underclocking''' is the process of configuring a [[Central processing unit|computer processor]] or other electronic circuit to operate at a lower speed than usual. This will reduce the speed of the computer, but it will usually make the [[battery]] last longer and the computer will produce less [[heat]]. Some computers automatically underclock themselves when the system is not doing a lot of work. For even further battery and heat savings a computer can be undervolted, where the processor is operated at a lower [[voltage]] than usual. Other devices such as [[video card]]s and [[smartphone]]s can also be underclocked. The opposite of underclocking is called [[overclocking]], and it is used to increase the speed of the computer but at the cost of battery life (if there is a battery) and heat output. 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer hardware]] 
+ [[Category:Computer processors]]

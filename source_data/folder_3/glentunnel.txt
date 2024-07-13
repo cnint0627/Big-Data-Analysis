@@ -1,0 +1,72 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Glentunnel 
+ | native_name             =   
+ | native_name_lang        =  < !-- ISO 639-2 code e.g.  " fr "  for French. If more than one, use {{lang}} instead -- > 
+ | settlement_type         = Village 
+ | image_skyline           = Glentunnel Church.JPG 
+ | imagesize               =  
+ | image_alt               =  
+ | image_caption           = Glentunnel Chapel, November 2011 
+ | image_map               = {{infobox mapframe|coord={{coord|43|29|S|171|56|E}}|zoom=8}} 
+ | map_alt                 =  
+ | map_caption             =  
+ | pushpin_map             =  
+ | pushpin_label_position  =  
+ | pushpin_map_alt         =  
+ | pushpin_map_caption     =  
+ | coordinates             = {{coord|43|29|S|171|56|E|display=inline,title}} 
+ | coor_pinpoint           =  
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = [[New Zealand]] 
+ | subdivision_type1       = [[Regions of New Zealand|Region]] 
+ | subdivision_type2       = [[Territorial authorities of New Zealand|Territorial authority]] 
+ | subdivision_name1       = [[Canterbury Regional Council|Canterbury]] 
+ | subdivision_name2       = [[Selwyn District]] 
+ | subdivision_type3       = Ward 
+ | subdivision_name3       = Malvern 
+ | seat_type               = Electorates 
+ | seat                    = [[Selwyn (New Zealand electorate)|Selwyn]] < br > [[Te Tai Tonga]] 
+ | established_title       =  
+ | established_date        =  
+ | elevation_footnotes     =  
+ | elevation_m             = 260 
+ | elevation_ft            =  
+ | area_footnotes          =  < ref name= " Area " > {{Cite web|title=ArcGIS Web Application|url=https://statsnz.maps.arcgis.com/apps/webappviewer/index.html?id=6f49867abe464f86ac7526552fe19787|access-date=17 October 2021|website=statsnz.maps.arcgis.com}} < /ref >   
+ | area_total_km2          = 0.21 
+ | population_footnotes    =  < ref name= " Census 2018 " > {{NZ census 2018|7026688 (7026688)|7026688|7026688}} < /ref > 
+ | population_total        = 162 
+ | population_as_of        = 2018 Census 
+ | population_density_km2  = auto 
+ | timezone1               = [[Time in New Zealand|New Zealand Standard Time]] 
+ | utc_offset1             =  +12 
+ | timezone1_DST           = [[Time in New Zealand|New Zealand Daylight Time]] 
+ | utc_offset1_DST         =  +13 
+ | postal_code_type        = [[Postcodes in New Zealand|Postcode]] 
+ | postal_code             = 7673 
+ | area_code               = 03 
+ | area_code_type          =  
+ | website                 =  
+ | footnotes               =  
+ | image_dot_map           =  
+ | dot_mapsize             =  
+ | dot_map_base_alt        =  
+ | dot_map_alt             =  
+ | dot_map_caption         =  
+ | dot_x =  
+ | dot_y =  
+ }} 
+ 
+ [[File:St Andrews of the Glen, Glentunnel.jpg|thumb|right|St Andrews of the Glen]] 
+ 
+ '''Glentunnel''' is a small town in the [[Selwyn District]], [[New Zealand]]. It is situated 14.5 kilometers west of [[Darfield, New Zealand|Darfield]] and 50 kilometers west of [[Christchurch]] on State Highway 77. It has a primary school. It suffered from damages in the [[2010 Canterbury earthquake]] and was flooded in May 2021 when the [[Selwyn River / Waikirikiri|Selwyn River]] burst its banks. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{Selwyn District, New Zealand}} 
+ {{Selwyn}} 
+ [[Category:Settlements in Canterbury Region]] 
+ [[Category:Selwyn District]] 
+ {{geo-stub}}

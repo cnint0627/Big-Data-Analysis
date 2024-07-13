@@ -1,0 +1,59 @@
+{{Infobox OS 
+ | name                   = Symbian OS 
+ | logo                   =  
+ | logo_caption           =  
+ | screenshot             =  
+ | caption                = 
+ | developer              = [[Symbian Ltd.]] (1998–2008) < br / > [[Symbian Foundation]] (2008–11) < br / > [[Nokia]] (2010–11) < br / > [[Accenture]] on behalf of [[Nokia]] (2011–13) < ref name= " accenture " > [http://newsroom.accenture.com/news/nokia-and-accenture-finalize-symbian-software-development-and-support-services-outsourcing.htm Nokia and Accenture Finalize Symbian Software Development and Support Services Outsourcing Agreement] < /ref > 
+ | source_model           = [[Closed source software|Closed source]], < ref name= " ArsTechnica " > [https://arstechnica.com/gadgets/2011/04/nokia-transitions-symbian-source-to-non-open-license/ Nokia transitions Symbian source to non-open license]. Ars Technica. Retrieved 12 June 2014. < /ref >  previously [[Open-source software|open source]] (2010–11) 
+ | kernel_type            = Real-time [[microkernel]], [[EKA2]] 
+ | supported_platforms    = [[ARM architecture|ARM]], [[x86]] < ref > Lee Williams {{cite web |url=http://blog.symbian.org/2009/04/16/symbian-on-intels-atom/ |title=Symbian on Intel's Atom architecture |accessdate=31 March 2010 |url-status=bot: unknown |archiveurl=https://web.archive.org/web/20090419214755/http://blog.symbian.org/2009/04/16/symbian-on-intels-atom/ |archivedate=19 April 2009 |df=dmy-all }}. blog.symbian.org. 16 April 2009 < /ref > 
+ | ui                     = [[S60 (software platform)|S60]] (from 2009) 
+ | family                 = [[RTOS]] 
+ | released               = {{start date and age|df=yes|1997|6|5}} (as EPOC32) 
+ | latest_release_version = Nokia Belle Feature Pack 2 
+ | latest_release_date    = 2 October 2012 
+ | working_state          = Discontinued 
+ | license                = [[Proprietary software|Proprietary]], < ref name= " ofb " > {{cite web|url=http://symbian.nokia.com/blog/2011/04/04/open-source-just-open-for-business/|title=Not Open Source, just Open for Business |publisher=symbian.nokia.com |date=4 April 2011 |accessdate=23 August 2014}}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}} < /ref >  previously licensed under [[Eclipse Public License|EPL]] 
+ | marketing_target       = 
+ | programmed_in          = [[C++]] < ref > {{cite web |url=http://www.lextrait.com/Vincent/implementations.html |title=The Programming Languages Beacon, v10.0 |first=Vincent |last=Lextrait |date=January 2010 |accessdate=5 January 2010}} < /ref > 
+ | prog_language          =  
+ | language               = Multi-lingual  
+ | Flagship               = [[Nokia 808 PureView]] (2012) 
+ | updatemodel            = 65 
+ | package_manager        = [[.sis]], [[.sisx]], [[.jad]], [[.jar]] 
+ | website                = {{URL|http://symbian.nokia.com/}} (defunct as of May 2014), {{URL|http://symbian.org/}} (defunct as of 2009–10)}} 
+ '''Symbian OS''' is an [[operating system]] for [[mobile device]]s.  It is designed for [[smartphone]]s.  
+ 
+ == History == 
+ [[Nokia]], [[Motorola]], [[Ericsson]], [[Psion]] and others joined to create [[Symbian association]]. This let them promote using [[EPOC]] designed for mobile phones.  Symbian is a follower of EPOC system.  It is used in pocket PC Psion, running on the [[ARM processor]]s.  This operating system has had many changes since it was first created.  Nokia smartphones are the major users of Symbian OS. 
+ 
+ == Versions == 
+ 
+ {| class=wikitable 
+ |- 
+ |{{nowrap|Symbian 6.0 / 6.1}}|| 
+ The first usable version of Symbian. It was used on Nokia 9210 communicator. Nokia sold over 500 000pcs of this type. Basic changes were: add [[bluetooth]] support, [[VGA]] [[camera]]. 
+ |- 
+ |Symbian 7.0 / 7.1|| 
+ Very important version of Symbian OS. Developers add support of [[EDGE technology]] and [[IPv6]]. Change from [[pJava]] to [[Java ME]]. A [[computer virus|virus]], spread by bluetooth, caused problems with this version. 
+ |- 
+ |Symbian 8.0 / 8.1|| 
+ Safer version of Symbian (because of the first virus), with [[CDMA]], [[3G]], [[DVB-H]] and [[OpenGL]] support. 
+ |- 
+ |Symbian 9.0|| 
+ There was only few changes, mostly for developers. 
+ |- 
+ |Symbian 9.x 
+ ||Version 9.1 was released in 2005. Nokia added support of Bluetooth 2.0, but some developers were angry because of the new security changes.  
+ |} 
+ 
+ A new version came out every year after 2005. Because of fast [[technology]] research, mobile phones and operation systems made very large improvement quickly. The most recent Symbian OS is designed for [[touch phone]]s and the newest technologies. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[category:Operating systems]] 
+ [[category:Mobile phones]]

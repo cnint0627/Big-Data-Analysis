@@ -1,0 +1,29 @@
+[[File:Scramjet operation en.svg|thumb|310x310px|A diagram of a scramjet in operation. Note the lack of large moving parts.|alt=Incoming air is compressed by the shape of the engine, combusted with fuel, and expelled as exhaust. All of this takes place at supersonic speeds.]] 
+ A '''scramjet''' ('''supersonic''' '''combustion''' '''ramjet''') is a special type of [[ramjet]] [[jet engine]] where fuel combustion takes place while the air in the engine is moving faster than the speed of sound. < ref > {{Cite web|last=LaRC|first=Bob Allen|title=NASA - How Scramjets Work|url=https://www.nasa.gov/centers/langley/news/factsheets/X43A_2006_5.html|access-date=2022-11-03|website=www.nasa.gov|language=en|archive-date=2022-12-02|archive-url=https://web.archive.org/web/20221202230846/http://www.nasa.gov/centers/langley/news/factsheets/X43A_2006_5.html|url-status=dead}} < /ref >  In a ramjet, air is slowed to subsonic (slower than the speed of sound) speeds before fuel is burned. Unlike ramjets, scramjets do not use shock cones to compress incoming air; instead, shock waves from inside the engine compress the air by slowing it down very quickly. This means that scramjets can operate very efficiently at extremely high speeds. However, a scramjet relies on the aircraft moving much faster than the speed of sound in order to work; scramjets do not work at subsonic, or even low supersonic, speeds. 
+ 
+ As of November 2022, scramjets are still experimental. This means that they have not been used on [[Airliner|commercial airliners]] or in active military scenarios. Successful scramjet tests have been conducted, however. 
+ 
+ == Advantages and disadvantages == 
+ 
+ === Advantages === 
+ 
+ # Does not need to carry [[Oxidizing agent|oxidizer]] 
+ # No complex parts makes it easy to build 
+ # Has a higher [[specific impulse]] than a [[rocket engine]] 
+ # Could provide [[Single-stage-to-orbit|easy access to space]] in the future due to high top speed 
+ 
+ === Disadvantages === 
+ 
+ # Difficult and expensive [[Research and development|testing/development]] 
+ # Needs a separate engine to get it up to speed 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ {{physics-stub}} 
+ {{Emerging technologies}} 
+ 
+ [[Category:Mechanics]] 
+ 
+ [[de:Staustrahltriebwerk#Überschallverbrennung im Scramjet]]

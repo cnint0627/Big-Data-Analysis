@@ -1,0 +1,38 @@
+{{Drugbox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 447920554 
+ | IUPAC_name = (''R,S'')-2-(2-oxo-4-phenylpyrrolidin-1-yl)acetamide 
+ | image = Phenylpiracetam.svg 
+ | width = 125 
+ | image2 = Phenylpiracetam.png 
+ | width2 = 125 
+ | chirality = [[Racemic mixture]] 
+ 
+ < !--Clinical data-- > 
+ | tradename = Phenotropil; Carphedon 
+ 
+ < !--Chemical data-- > 
+ | C=12 | H=14 | N=2 | O=2 
+ | smiles = C1=CC=CC=C1C2CN(C(C2)=O)CC(=O)N 
+ | boiling_point = 486.4 
+ }} 
+ '''Phenylpiracetam''' is an [[Structural analog|analog]] of the [[drug]] [[piracetam]]. 
+ 
+ [[Research]] on animals has given some [[indication]] that phenylpiracetam may have [[amnesia|anti-amnesic]], [[antidepressant]], [[anticonvulsant]], [[anxiolytic]], and [[memory]] [[enhancement]] [[effect]]s. < ref name = malykh/ > < ref name = pmid21689376 > {{ cite journal |vauthors=Zvejniece L, Svalbe B, Veinberg G, Grinberga S, Vorona M, Kalvinsh I, Dambrova M | title = Investigation into stereoselective pharmacological activity of phenotropil. | journal = Basic  &  Clinical Pharmacology  &  Toxicology | year = 2011 | volume = 109 | issue = 5 | pages = 407–12 | pmid = 21689376 | doi=10.1111/j.1742-7843.2011.00742.x}} < /ref > 
+ ==Doping in sport== 
+ Phenylpiracetam is on the lists of [[stimulant]]s banned for in-competition use by the [[World Anti-Doping Agency]]. This list is [[application|applicable]] in all [[Olympic Games|Olympic]] sports. < ref > https://www.wada-ama.org/sites/default/files/resources/files/2016-09-29_-_wada_prohibited_list_2017_eng_final.pdf Page-6 < /ref > 
+ < !--The analog is in the [[phenyl group]] (see [[phenyl]]).-- > 
+ ==Related pages== 
+ *[[List of chemicals in doping cases in sport]] 
+ 
+ ==References== 
+ {{reflist|refs= 
+ 
+ < ref name = malykh > {{cite journal | vauthors = Malykh AG, Sadaie MR | title = Piracetam and piracetam-like drugs: from basic science to novel clinical applications to CNS disorders | journal = Drugs | volume = 70 | issue = 3 | pages = 287–312 | date = February 2010 | pmid = 20166767 | doi = 10.2165/11319230-000000000-00000 | s2cid = 12176745 }} < /ref > 
+ 
+ }} 
+ 
+ {{chem-stub}} 
+ [[Category:Doping in sport]] 
+ [[Category:Organonitrogen compounds]]

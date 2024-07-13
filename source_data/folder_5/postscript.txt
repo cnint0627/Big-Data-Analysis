@@ -1,0 +1,23 @@
+'''Postscript''' is a [[programming language]]. It was developed by [[Adobe]], in 1984. It is a standard used by many [[computer printer]]s. There are three different versions of it, Postscript Level 1, Level 2, and Level 3. 
+ 
+ The [[Portable Document Format]] is another standard, also from Adobe. It is better adapted to printing. Many things computer languages have, have been dropped to develop PDF. 
+ 
+ == " Hello world " == 
+ And finally, a [[Hello World program]], the customary way to show a small example of a complete program in a given language, might look like this in Postscript: 
+  %!PS 
+  /Courier findfont 
+  20 scalefont 
+  setfont 
+  72 500 moveto 
+  (Hello world!) show 
+  showpage 
+ 
+ or if the output device has a console 
+ 
+  %!PS 
+  (Hello world!) = 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Programming languages]]

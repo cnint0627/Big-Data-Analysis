@@ -1,0 +1,44 @@
+{{Infobox OS 
+ | name = Digita Operating Environment 
+ | logo =  < !-- DigitaOS logo.jpg -- > 
+ | logo size =  
+ | logo caption =  
+ | logo alt =  
+ | screenshot =  < !-- Filename only: no wikilink, Image: or File: -- > 
+ | screenshot_alt =  
+ | caption =  
+ | developer = Flashpoint Technology, Inc 
+ | programmed in = [[C (programming language)|C]] 
+ | working state = Discontinued 
+ | source model = Closed-source 
+ | released = {{Start date and age|1998|05|20}} 
+ | discontinued = {{End date|2001}} 
+ | latest release version = 1.5 
+ | latest release date = {{Start date and age|1999|11|18}} < ref > {{Cite web|title=DigitaOS memorial page|url=http://lisas.de/digita/|website=lisas.de|access-date=2020-05-13}} < /ref > 
+ | marketing target = [[Digital cameras]] 
+ | website = {{webarchive |url=https://web.archive.org/web/20010814080824/http://www.digitadev.com:80/home.emm |title=digitadev.com |date=2001-08-14}} 
+ }} 
+ '''DigitaOS''' is a [[operating system]] for [[digital camera]]s made by Flashpoint Technology. < ref > {{Cite web|title=digitacamera.com: home|url=http://www.digitacamera.com/|date=2001-02-02|archive-url=https://web.archive.org/web/20010202063300/http://www.digitacamera.com/ |access-date=2020-05-13|archive-date=2001-02-02 }} < /ref > < ref > {{Cite web|title=DIGITA OS|url=http://mesh.brown.edu/en193s08-2003/refs/digita.html|website=mesh.brown.edu|access-date=2020-05-13}} < /ref > < ref name= " dpreview.com " > {{Cite web|title=Pentax to release a range of digital cameras?|url=https://www.dpreview.com/articles/1835430953/flashpntpentax|website=DPReview|access-date=2020-05-13}} < /ref >  The first device to use it is the [[Kodak DC Series|Kodak DC220]], released on {{Date|1998-05-20|}}. < ref > {{Cite web|title=Kodak DC220: Digital Photography Review|url=https://www.dpreview.com/products/kodak/compacts/kodak_dc220|website=www.dpreview.com|access-date=2020-05-13}} < /ref > < ref name= " :0 " > {{Cite web|title=MAMED! - Camera Info|url=http://digita.mame.net/reviews.htm|date=2007-12-15|archive-url=https://web.archive.org/web/20071215020402/http://digita.mame.net/reviews.htm |access-date=2020-05-13|archive-date=2007-12-15 }} < /ref > < ref > {{Cite web|last=OUT!|first=Froyo Tam 💽 Ferrite Core DX|date=2019-07-06|title=DigitaOS was abandoned after 2001, with digicams reaching their end of life after just 1 year. The promise of upgradeable digicams quickly burst. The millennium vision of smart devices came to pass, but it wasn't until a decade later the vision was fully realized with Android.|url=https://twitter.com/FroyoTam/status/1147594168606191618|archive-url=|archive-date=|access-date=2020-05-13|website=@FroyoTam|language=en}} < /ref >  It was known for being able to run third party software, < ref > {{Cite web|title=Global smartphones reaching peak sales point|url=https://thedeadpixelssociety.com/as-digital-camera-struggle-global-smartphones-reaching-peak-sales-point/|date=2019-06-07|website=The Dead Pixels Society|language=en-US|access-date=2020-05-13}} < /ref >  which was not common until ones running [[Android (operating system)|Android]] came out in the early 2010s. < ref > {{Cite web|title=Did you know: Android was originally designed for digital cameras not phones|url=https://www.androidauthority.com/android-history-digital-cameras-1111795/|date=2020-05-02|website=Android Authority|language=en-US|access-date=2020-05-13}} < /ref > < ref > {{Cite web|title=Samsung announces EK-GC100 Galaxy Camera with Android Jelly Bean, massive 4.8-inch display, 21x zoom, WiFi and 4G connectivity (hands-on)|url=https://www.engadget.com/2012-08-29-samsung-ek-gc100-galaxy-camera-hands-on.html|website=Engadget|language=en|access-date=2020-05-13}} < /ref > 
+ 
+ [[Computer program|Programs]] can be written in a [[scripting language]] named Digita Script, which is [[Just-in-time compilation|JIT compiled]], < ref > {{Cite web|last=Flashpoint Technology|date=1999-11-08|title=Script Guide Digita™ Operating Environment|url=http://lisas.de/digita/Script%20Guide.PDF|archive-url=|archive-date=|access-date=2020-05-13|website=DigitaOS memorial page}} < /ref > < ref > {{Cite web|last=Flashpoint Technology|date=1999-12-07|title=Script Reference Digita™ Operating Environment|url=http://lisas.de/digita/Script%20Reference.PDF|archive-url=|archive-date=|access-date=2020-05-13|website=DigitaOS memorial page}} < /ref >  or [[compiler|compiled]], written in [[C (programming language)|C]] < ref > {{Cite web|title=Dr. Dobb's {{!}} Good stuff for serious developers: Programming Tools, Code, C++, Java, HTML5, Cloud, Mobile, Testing|url=http://www.drdobbs.com/embedded-systems/sourcecode/the-digita-os-an-extensible-imaging-pl/30202222|website=Dr. Dobb's|access-date=2020-05-13|archive-date=2020-10-21|archive-url=https://web.archive.org/web/20201021103651/https://www.drdobbs.com/embedded-systems/sourcecode/the-digita-os-an-extensible-imaging-pl/30202222|url-status=dead}} < /ref >  using an official [[Software development kit|SDK]]. < ref > {{Cite web|title=DigitaDev.com for Digita application developers|url=http://www.digitadev.com:80/home.emm|date=2001-08-14|archive-url=https://web.archive.org/web/20010814080824/http://www.digitadev.com:80/home.emm |access-date=2020-05-13|archive-date=2001-08-14 }} < /ref >  [[Abstraction]] is used so programs can run on most cameras, despite any camera model differences. < ref name= " :1 " > {{Cite web|title=The Digita OS: An Extensible Imaging Platform|url=http://www.drdobbs.com/embedded-systems/the-digita-os-an-extensible-imaging-pl/184404353|last1=Vidales|first1=Carlos E.|last2=Farrelly|first2=Eugene M.|website=Dr. Dobb's|access-date=2020-05-13}} < /ref >  DigitaOS runs the GUI and basic camera functionality. < ref name= " :1 "  / > 
+ 
+ [[Doom (1993 video game)|Doom]] < ref > {{Citation|title=DOOM on a Digital Camera from 1998!|url=https://www.youtube.com/watch?v=7gCZZkBATSc|language=en|access-date=2020-05-13}} < /ref >  and [[MAME]] < ref > {{Cite web|title=MAMED!|url=http://digita.mame.net:80/|date=2009-02-19|archive-url=https://web.archive.org/web/20090219123954/http://digita.mame.net:80/ |access-date=2020-05-13|archive-date=2009-02-19 }} < /ref >  are the best known ports. 
+ 
+ == Cameras == 
+ * Kodak DC220 
+ * Kodak DC260 
+ * Kodak DC265 
+ * Kodak DC290 
+ * Minolta Dimage 1500 EX 
+ * Minolta 1500 3D 
+ * HP C500 Photosmart 
+ * HP C618 Photosmart 
+ * HP C912 Photosmart 
+ * PENTAX EI-200 
+ * PENTAX EI-2000 < ref name= " :0 "  / > < ref > {{Cite web|title=HP and Pentax announce two new Digital Cameras|url=https://www.dpreview.com/articles/4302985751/hpdigicams|website=DPReview|access-date=2020-05-13}} < /ref > < ref name= " dpreview.com " / > 
+ 
+ == References == 
+ 
+ < references / > 
+ 
+ [[Category:Operating systems]]

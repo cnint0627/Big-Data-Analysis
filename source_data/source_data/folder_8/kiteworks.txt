@@ -1,0 +1,28 @@
+{{Infobox company 
+ | name = Kiteworks 
+ | logo = Kiteworks logo.svg 
+ | type = Private 
+ | industry = Security software 
+ | foundation = {{1999}} in [[Singapore]] 
+ | location = [[Palo Alto, California]], United States 
+ | key_people = {{unbulleted list|Jonathan Yaron ([[Chief executive officer|CEO]])|Michael Lee ([[Chief financial officer|CFO]])|Kurt Michael ([[Chief revenue officer|CRO]])|Tim Freestone ([[Chief marketing officer|CMO]])|Yaron Galant (CPO)|Frank Balonis (CISO)}} 
+ | num_employees =  
+ | homepage = {{URL|https://www.kiteworks.com/}} 
+ }} 
+ 
+ '''Kiteworks''' is an American technology company based in [[San Mateo, California]] that provides secure content communication solutions for [[email]], file transfer, web forms, and application programming interfaces.  
+ 
+ == History == 
+ The company was founded in 1999 in Singapore as Accellion, initially focused on distributed file storage and later shifted focus on secure file transmission. < ref name= " journal2 " > {{cite news|author=Deborah Gage|date=January 27, 2014|title=Accellion Targets Box, Dropbox on Secure File Sharing|newspaper=The Wall Street Journal|url=https://blogs.wsj.com/venturecapital/2014/01/27/accellion-targets-box-dropbox-on-secure-file-sharing/|accessdate=January 30, 2014}} < /ref >   
+ 
+ In 2016, Accellion started to create integrations with major cybersecurity independent software vendors (ISVs). < ref > {{Cite web|title=Accellion and FireEye Collaborate to Prevent Cyber Attacks From Crippling Critical Business Operations|url=https://finance.yahoo.com/news/accellion-fireeye-collaborate-prevent-cyber-120000169.html|website=finance.yahoo.com}} < /ref > 
+ 
+ In 2020, Accellion was rebranded as Kiteworks. The Kiteworks Private Content Network is a consolidated platform for file and email data communications, designed to reduce data privacy exposure risk and demonstrate compliance with regulations. < ref > {{Cite web|date=October 12, 2021|title=Accellion's Brand Name is Now Kiteworks|url=https://www.kiteworks.com/kiteworks-news/accellions-brand-name-is-now-kiteworks/}} < /ref >  In late 2020, a zero-day exploit on a legacy product led to data breaches of dozens of government and private organizations in multiple countries. < ref > {{Cite web|title=Email Protection Gateway|url=https://www.kiteworks.com/platform/simple/email-protection-gateway/}} < /ref >  The company's products are used by over 3,800 organizations worldwide. < ref name= " auto " > {{Cite web|title=About Kiteworks|url=https://www.kiteworks.com/company/}} < /ref > 
+ 
+ In January 2022, Kiteworks acquired totemo, an email encryption gateway provider based in [[Zurich]], [[Switzerland]]. < ref > {{Cite web|last=Bei|first=Jerome|date=January 7, 2022|title=Kiteworks Acquisition of Leading Email Encryption Gateway Company totemo Bolsters Kiteworks Content Communications Protection, Compliance, and Governance|url=https://www.kiteworks.com/kiteworks-news/kiteworks-acquisition-of-leading-email-encryption-gateway-company-totemo-bolsters-kiteworks-content-communications-protection-compliance-and-governance/}} < /ref > 
+ 
+ == References == 
+ < references / > 
+ 
+ [[Category:1999 establishments in the United States]] 
+ [[Category:American software companies]]

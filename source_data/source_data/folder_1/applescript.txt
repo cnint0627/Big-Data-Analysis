@@ -1,0 +1,38 @@
+{{Infobox programming language 
+ |name = AppleScript 
+ |logo =  < !-- Deleted image removed: [[Image:AppleScript Editor.png|AppleScript icon]] -- > 
+ |caption = AppleScript editor icon 
+ |developer = [[Apple Inc.]] 
+ |latest_release_version = 2.4.2 
+ |latest_release_date = {{release date|2012|02|01}} 
+ |operating_system = [[System 7]], [[Mac OS 8]], [[Mac OS]] [[Mac OS 9|9]], [[Mac OS X]] 
+ |genre = [[Scripting language]] 
+ |license = Apple [[EULA]] (parts available under [[Apple Public Source License|APSL]])  
+ |file_ext = .scpt, .AppleScript 
+ |website = https://www.apple.com/applescript/ 
+ }} 
+ 
+ '''AppleScript''' is a way for people to write commands and actions on their [[Apple Macintosh]] platform. It is a simple [[Programming language|language]], like [[English language|English]], and is made by [[Apple Inc.]] since the year [[1993]].  The AppleScript program came from the [[HyperCard]] program. 
+ 
+ ==Example== 
+ An example of the different ways to write a [[Hello World]] [[Computer program|program]] in AppleScript: 
+ < syntaxhighlight lang= " AppleScript " > 
+ display dialog  " Hello World! "  -- a modal window with  " Ok "  and  " Cancel "  buttons 
+ -- or 
+ display alert  " Hello World! "   -- a modal window with a single  " Ok "  button 
+ -- or 
+ say  " Hello World! "  -- an audio message using a synthesized computer voice 
+ < /syntaxhighlight > 
+ 
+ ==Other websites== 
+ ===Official=== 
+ * [https://www.apple.com/applescript/ AppleScript] – Official page at [[Apple Computer|Apple]].com 
+ ** [https://www.apple.com/applescript/resources.html AppleScript Resources] 
+ * [https://developer.apple.com/AppleScript/ AppleScript] {{Webarchive|url=https://web.archive.org/web/20101211121348/http://developer.apple.com/AppleScript/ |date=2010-12-11 }} at [[Apple Developer Connection]] 
+ * [https://www.apple.com/applescript/uiscripting/ GUI Scripting] Gives AppleScript scripts the ability to control otherwise non-scriptable applications. AppleScript scripts can select menu items, click buttons, enter text into text fields, and generally control the interfaces of most Mac OS X 10.x applications. 
+ 
+ ===Others=== 
+ * {{dmoz|Computers/Systems/Apple/Macintosh/Development/Languages/Scripting/AppleScript/|AppleScript}} 
+ 
+ {{Tech-stub}} 
+ [[Category:Programming languages]]

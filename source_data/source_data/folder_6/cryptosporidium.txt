@@ -1,0 +1,27 @@
+{{Italictitle}} 
+ {{taxobox 
+ | name = ''Cryptosporidium parvum'' 
+ | image = Cryptosporidium parvum 01.jpg 
+ | image_width = 240px 
+ | image_caption = Image of ''C. parvum'' oocysts. 
+ | regnum = [[Protista]] 
+ | phylum = [[Apicomplexa]] 
+ | classis = [[Conoidasida]] 
+ | subclassis = [[Coccidia]]sina  
+ | ordo = [[Eucoccidiorida]] 
+ | familia = [[Cryptosporidiidae]] 
+ | genus = ''Cryptosporidium''}} 
+ 
+ '''''Cryptosporidium''''' is a [[protozoa]]n [[parasite]] which causes  outbreaks of [[diarrhea]].  
+ 
+ A number of species of ''Cryptosporidium'' can infect [[mammals]]. The most common species to infect man is ''Cryptosporidium parvum''. The diarrhea can become severe in children, and in people whose [[immune system]] is weakened. It is often found in [[HIV]] patients who have diarrhea. In healthy adults, the infection is usually brief. 
+ 
+ It is difficult to identify in the [[laboratory]]. The oocytes can be seen under a microscope, but they may be confused. < ref name=Lab_Dx > {{cite journal |last1=Casemore D.P; Armstrong M.  &  Sands R.L 1985. |title=Laboratory diagnosis of cryptosporidiosis |journal=Journal of Clinical Pathology |year=1985 |volume=38 |issue=12 |pages=1337–41 |pmid=2416782 |pmc=499488 |doi=10.1136/jcp.38.12.1337 }} < /ref >  Most cryptosporidia are 3-6 μm in size, but some reports have described larger cells. < ref name=Lab_Dx / >  New real-time monitoring can detect ''Cryptosporidium'' better than the older spot testing and batch testing methods. 
+ 
+ If ''Cryptosporidium'' is suspected in the water, the safest option is to boil water used for drinking. < ref > {{Cite news|date=2008-09-02|title=Boil water warning 'precaution'|language=en-GB|url=http://news.bbc.co.uk/2/hi/uk_news/wales/7589839.stm|access-date=2022-09-06}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ [[Category:Apicomplexa]]

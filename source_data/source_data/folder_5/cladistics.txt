@@ -1,0 +1,78 @@
+[[File:Myriapoda phylogeny.svg|thumb|right|300px|A clade in tree form: Progoneata is a clade of [[Millipede|millipides]] including Symphyla, Pauropoda and Diplopoda]] 
+ '''Cladistics''' is the method of classifying [[organism]]s into groups called '''clades'''. 
+ 
+ A clade ([[Greek language|Greek]] = branch) is a group of [[organism]]s with a common [[ancestor]] and all its [[wikt:descendant|descendant]]s (and nothing else). Such a clade is [[Monophyly|monophyletic]]. < ref name=Hennig > Hennig, Willi 1979. ''Phylogenetic systematics''. Urbana: University of Illinois Press. {{ISBN|0-252-06814-9}}. < /ref >  The term 'clade' was coined by English biologist [[Julian Huxley]]. 
+ 
+ ==Examples== 
+ [[Bird]]s, [[dinosaur]]s, [[crocodile]]s, and all other descendants (living or extinct) of their most recent common ancestor form a clade. < ref > [http://evolution.berkeley.edu/evolibrary/glossary/glossary_popup.php?word=clade Glossary entry  " clade " ] {{Webarchive|url=https://web.archive.org/web/20150213233433/http://evolution.berkeley.edu/evolibrary/glossary/glossary_popup.php?word=clade |date=2015-02-13 }} Understanding Evolution. 2010. University of California Museum of Paleontology. < /ref >  In the terms of [[systematics|biological systematics]], a clade is a single branch on the [[Tree of life (biology)|tree of life]], a [[monophyletic]] group. [[Biological classification]] needs such a natural group of organisms to be put together and given a [[Taxonomy|taxonomic]] name. 
+ 
+ This brings classification in line with [[phylogeny]] (how living things [[Evolution|evolved]]). In cladistics, clades are the only acceptable units. 
+ 
+ [[File:Clade-grade II.png|thumb|center|350 px|Cladogram (family tree) of a biological group. The red and blue boxes represent ''clades'', i.e. complete branches. The green box is not a clade, but rather represent an ''evolutionary grade'', an incomplete group: the blue clade descends from the same ancestor but is not included in it.]] 
+ Some versions of cladistics have been the subject of controversy. < ref name=Mayr > Mayr, Ernst 1982. ''The growth of biological thought: diversity, evolution and inheritance''. Cambridge, MA: Harvard University Press. {{ISBN|0-674-36446-5}}. < /ref > < sup > p226 < /sup > < ref > Patterson, Colin 1982. Morphological characters and [[homology]]. In Joysey, Kenneth A.  &  Friday A.E. (eds) ''Problems in phylogenetic reconstruction''. Systematics Association Special Volume 21, London: Academic Press. {{ISBN|0-12-391250-4}} < /ref > < ref name=Ridley > Ridley, Mark 1986. ''Evolution and classification: the reformation of cladism''. Longman, London. {{ISBN|0-582-44497-7}} < /ref > 
+ 
+ ==History of cladistics== 
+ The term ''clade'' was introduced in 1958 by [[Julian Huxley]], ''cladistic'' by Cain and Harrison in 1960, and ''cladist'' (for an adherent of Hennig's school) by Mayr in 1965. < ref > Dupuis, Claude 1984. Willi Hennig's impact on taxonomic thought. ''Annual Review of Ecology and Systematics'' '''15''': 1–24. ISSN 0066-4162 < /ref >  Hennig referred to his own approach as ''phylogenetic systematics''. < ref name=Hennig/ >  From the time of his original formulation until the end of the 1980s cladistics remained a minority approach to classification. 
+ 
+ In the 1990s it rapidly became the dominant method of classification in [[evolutionary biology]]. [[Computer]]s made it possible to process large quantities of [[Information|data]] about organisms and their characteristics ([[Trait (biology)|traits]]). At about the same time the development of effective [[sequence analysis]] techniques made it possible to apply cladistic methods of analysis to [[biochemical]] and [[Molecular biology|molecular]] features of organisms as well as to anatomical ones. < ref > Baron C.  &  Høeg J.T. 2005. Gould, Scharm and the paleontological perspective in evolutionary biology. In Koenemann S.  &  Jenner R.A. ''Crustacea and arthropod relationships''. CRC Press, 3–14. {{ISBN|978-0-8493-3498-6}} [https://books.google.com/books?id=LalmQ4346O0C & q=Nielsen,+C.+2001+%22Animal+evolution%22+Chelicerata] retrieved 2008-10-15 < /ref > 
+ 
+ For some decades in the mid to late twentieth century, a commonly used methodology was [[numerical taxonomy]]. < ref name=Mayr/ > < sup > p221 < /sup >  This made no attempt to resolve [[phylogeny]], only similarities. The weakness of this approach was that it left out the connection between classification and evolution. < ref name=Ridley/ > 
+ 
+ ==Phylogenetic nomenclature== 
+ Phylogenetic nomenclature is a way of giving names to the groups (clades) that have been decided on by cladistic methods. It differs in many ways from Linnaean nomenclature. < ref > {{Citation|last=Hennig|first=Willi|title='Cladistic analysis or cladistic classification': a reply to Ernst Mayr|journal=Systematic Zoology|volume=24|issue=2|pages=244–256|year=1975|postscript=.|doi=10.2307/2412765|jstor=2412765|authorlink=}} The paper to which he was responding is reprinted in Mayr, Ernst 1976. ''Evolution and the diversity of life: selected essays''. Cambridge, MA: Harvard University Press, {{ISBN|0-674-27105-X}} < /ref >  Critics of phylogenetic nomenclature include Ashlock, < ref > {{Citation|last=Ashlock|first=Peter D.|title=Monophyly and associated terms|journal=Systematic Zoology|volume=20|issue=1|pages=63–69|year=1971|postscript=.|doi=10.2307/2412223|jstor=2412223}} 
+ 
+ * {{Citation|last=Ashlock|first=Peter D.|title=Monophyly again|journal=Systematic Zoology|volume=21|issue=4|pages=430–438|year=1972|postscript=.|doi=10.2307/2412435|jstor=2412435}} 
+ * {{Citation|last=Ashlock|first=Peter D.|title=The uses of cladistics|journal=Annual Review of Ecology and Systematics|volume=5|pages=81–99|year=1974|postscript=.|doi=10.1146/annurev.es.05.110174.000501|issn=0066-4162}} 
+ * {{Citation|last=Ashlock|first=Peter D.|title=An evolutionary systematist's view of classification|journal=Systematic Zoology|volume=28|issue=4|pages=441–450|year=1979|postscript=.|doi=10.2307/2412559|jstor=2412559}} 
+ < /ref >  Mayr, < ref > {{Citation|last=Mayr|first=Ernst|title=Cladistic analysis or cladistic classification?|url=http://courses.cit.cornell.edu/jdv55/teaching/systematics/mayr%2074%20-%20cladistic%20analysis%20or%20cladistic%20classification.pdf|journal=Zeitschrift fűr Zoologische Systematik und Evolutionforschung|volume=12|pages=94–128|year=1974|doi=10.1111/j.1439-0469.1974.tb00160.x|accessdate=2010-12-14}},  
+ 
+ * {{Citation|last=Mayr|first=Ernst|title=Origin and history of some terms in systematic and evolutionary biology|journal=Systematic Zoology|volume=27|issue=1|pages=83–88|year=1978|postscript=.|doi=10.2307/2412818|jstor=2412818}}, 
+ * {{Citation|last1=Mayr|first1=E|title=Classifications and other ordering systems|journal=Journal of Zoological Systematics and Evolutionary Research|volume=40|issue=4|pages=169–194|year=2002|doi=10.1046/j.1439-0469.2002.00211.x|name-list-style=amp|last2=Bock|first2=WJ}} < /ref >  and Williams. < ref > {{Citation |last=Williams |first=P.A. |year=1992 |title=Confusion in cladism |journal=Synthese |volume=01 |issue=1–2 |pages=135–132 |doi=10.1007/BF00484973 |s2cid=46974048 }} < /ref > 
+ {| border= " 1 "  cellpadding= " 2 " 
+ |-valign= " top " 
+ |width= " 40% "  style= " background:#ffcd9c; "  |'''Phylogenetic Nomenclature''' 
+ |width= " 40% "  style= " background:#ddffdd; "  |'''Linnaean Nomenclature''' 
+ |-valign= " top " 
+ |bgcolor= " #ffefbe "  |Handles arbitrarily deep trees. 
+ |bgcolor= " #eeffee "  |Biased towards trees about 4 to 12 levels deep. 
+ |-valign= " top " 
+ |bgcolor= " #ffefbe " |Primary goal is to reflect the process of evolution, as currently understood 
+ |bgcolor= " #eeffee " |Primary goal is to group organisms in a clear and useful way 
+ |-valign= " top " 
+ |bgcolor= " #ffefbe " |Assumes that the shape of the tree will change frequently with new discoveries 
+ |bgcolor= " #eeffee " |New discoveries may require releveling of Genera, Classes, Orders, and Kingdoms 
+ |-valign= " top " 
+ |bgcolor= " #ffefbe " |Limited to entities related by evolution or ancestry 
+ |bgcolor= " #eeffee " |Supports groupings when evolution or ancestry are not fully known 
+ |-valign= " top " 
+ |bgcolor= " #ffefbe " |Does not include a process for naming species 
+ |bgcolor= " #eeffee " |Includes a process for giving unique names to species 
+ |-valign= " top " 
+ |bgcolor= " #ffefbe " |Ignores established paraphyletic groups such as [[reptiles]] 
+ |bgcolor= " #eeffee " |Permits well-known groups such as [[reptiles]] 
+ |-valign= " top " 
+ |bgcolor= " #ffefbe " |Limited to organisms that evolved by inherited traits; not applicable to hybrid organisms, or when [[Horizontal gene transfer|lateral transfer]] has happened 
+ |bgcolor= " #eeffee " |Applicable to all organisms, regardless of evolutionary mechanism 
+ |} 
+ 
+ ==Monophyly and paraphyly== 
+ Monophyly is defined differently in [[evolutionary biology]] and cladistics. In evolutionary biology, the term [[monophyletic]] refers to a group of organisms descended from its most recent common ancestor. < ref > Mayr E.  &  Ashlock P.D. 1991. ''Principles of systematic zoology''. 2nd ed, McGraw-Hill. < /ref >  A monophyletic group may include all or only a part of the descendants of the common ancestor. The ancestor may be a [[taxon]] of various ranks. 
+ 
+ In cladistics, by contrast, a monophyletic group is a group consisting of all the inferred descendants of an ancestral species. < ref name=Hennig/ > < ref > Judd W.S. ''et al'' 2002. ''Plant systematics; a phylogenetic approach''. 2nd ed, Sunderland MA: Sinauer. < /ref > 
+ 
+ In cladistics, a group that includes only some of the descendants of the ancestral species is not monophyletic but [[paraphyletic]]. The objective of cladistics is to block out monophyletic clades. Therefore, the elements of a paraphyletic group must be rearranged so that they do form one or several clades. Degree of similarity is not a criterion in grouping organisms into clades. 
+ 
+ == A distinction == 
+ [[Cladogram]]s show who's related to what, and [[evolutionary]] trees show which evolved from whom. 
+ 
+ ==Related pages== 
+ * [[Genealogy]] 
+ * [[Monophyly]] 
+ * [[Paraphyly]] 
+ * [[Polyphyly]] 
+ 
+ ==References== 
+ {{commonscat|Cladistics}} 
+ {{Reflist}} 
+ 
+ [[Category:Cladistics| ]]

@@ -1,0 +1,93 @@
+{{Infobox software 
+ | name                   = OpenGL 
+ | screenshot             = Linux kernel and OpenGL video games.svg 
+ | author                 = [[Silicon Graphics]] 
+ | developer              = [[Khronos Group]] < br/ > (formerly [[OpenGL Architecture Review Board|ARB]]) 
+ | released               = {{start date and age|1992|06|30}} 
+ | latest release version = 4.6 
+ | latest release date    = {{start date and age|2017|07|31}} 
+ | programming language   = [[C (programming language)|C]] < ref > {{cite web|url=http://www.lextrait.com/Vincent/implementations.html |title=The Programming Languages Beacon, v10.0 |first=Vincent |last=Lextrait |date=January 2010 |accessdate=March 14, 2010 |url-status=dead |archiveurl=https://archive.today/20120530/http://www.lextrait.com/Vincent/implementations.html |archivedate=May 30, 2012 }} < /ref > 
+ | genre                  = 3D graphics [[Application programming interface|API]] 
+ | website                = {{URL|https://opengl.org}} 
+ }} 
+ 
+ '''OpenGL''' ('''Open Graphics Library''') is a programming interface for [[3D]] [[graphics]] which helps [[computer]] programmers make their [[3D]] graphics perform better and faster by running parts of their programs on a video card ([[GPU]]) rather than just the central processor ([[CPU]]). Programming interfaces like OpenGL are usually called an  " [[API]], "  which stands for  " Application Programming Interface " . 
+ 
+ OpenGL is often compared to [[Direct3D]], an API for 3D graphics on Windows. [[Programming]] for Direct3D is different in some ways because the APIs use different naming schemes for talking to a computer's graphics driver, which means that programmers need to write different code for OpenGL and Direct3D to do the same things. 
+ 
+ OpenGL is owned by the [[Khronos Group]], and is an example of [[open source]] software. This means that all of OpenGL's programming, and the explanations for how the programming all works, can be viewed, copied, revised, and re-released by anyone. 
+ ==References== 
+ {{reflist}} 
+ ==Further reading== 
+ * {{cite book | first1=Dave | last1=Shreiner | first2=Graham | last2=Sellers | first3=John M. | last3=Kessenich | first4=Bill | last4=Licea-Kane | display-authors=2 | title=OpenGL Programming Guide: The Official Guide to Learning OpenGL | url=https://archive.org/details/openglprogrammin0000unse_c8c2 | version=Version 4.3 | edition=8th | publisher=Addison-Wesley | date=March 30, 2013 | isbn=978-0-321-77303-6}} 
+ * {{cite book | first1=Graham | last1=Sellers | first2=Richard S. | last2=Wright | first3=Nicholas | last3=Haemel | title=OpenGL SuperBible: Comprehensive Tutorial and Reference | edition=6th | publisher=Addison-Wesley | date=July 31, 2013 | isbn=978-0-321-90294-8}} 
+ * {{cite book | first=Randi J. | last=Rost | title=OpenGL Shading Language | edition=3rd | publisher=Addison-Wesley | date=July 30, 2009 | isbn=978-0-321-63763-5}} 
+ * {{cite book | first=Eric | last=Lengyel |  title=The OpenGL Extensions Guide | publisher=Charles River Media | isbn=1-58450-294-0 | year=2003 | url=https://archive.org/details/openglextensions0000leng }} 
+ * {{cite book | author1=OpenGL Architecture Review Board  | first2=Dave | last2=Shreiner | title=OpenGL Reference Manual: The Official Reference Document to OpenGL | url=https://archive.org/details/openglreferencem0000unse  | version=Version 1.4 | publisher=Addison-Wesley | isbn=0-321-17383-X| year=2004 }} 
+ * {{cite book | author1=OpenGL Architecture Review Board  | first2=Dave | last2=Shreiner | first3=Mason | last3=Woo | first4=Jackie | last4=Neider | first5=Tom | last5=Davis | display-authors=2 | title=OpenGL Programming Guide: The Official Guide to Learning OpenGL | year=2006 | version=Version 2 | edition=5th | publisher=Addison-Wesley | isbn=0-321-33573-2 | url-access=registration | url=https://archive.org/details/openglprogrammin0000unse }} 
+ 
+ ==Other websites== 
+ {{Commons category}} 
+ {{wikibooks|OpenGL Programming}} 
+ 
+ * [https://www.glfw.org/ GLFW] -- Library for creating OpenGL contexts. 
+ * [http://glew.sourceforge.net/ GLEW] -- Extension wrangler library for newer OpenGL features. 
+ 
+ * {{Official website}} 
+ * [https://www.khronos.org/opengl/ OpenGL Overview] and [https://www.khronos.org/opengl/wiki/ OpenGL.org's Wiki] with more information on OpenGL Language bindings 
+ * [https://web.archive.org/web/20161112121902/http://www.sgi.com/tech/opengl/ SGI's OpenGL website] 
+ * {{curlie|Computers/Programming/Graphics/Libraries/OpenGL|OpenGL}} 
+ * [https://www.khronos.org/ Khronos Group, Inc.] 
+ * {{cite web|last1=Angel|first1=Edward|last2=Shreiner|first2=Dave|name-list-style=amp|date=2013|url=https://www.youtube.com/watch?v=6-9XFm7XAT8|publisher=SIGGRAPH University|title=An Introduction to OpenGL Programming|work=[[YouTube]]}} 
+ 
+ ==Version history== 
+ {| class= " wikitable " 
+ |- 
+ ! Version !! Released !! [[AMD (GPU)|Radeon]] Graphics Cards!! [[Nvidia (GPU)|Nvidia]] Graphics Cards 
+ |- 
+ | 4.6 || 31 July 2017 || AMD Radeon GCN || GeForce 400 and newer 
+ |- 
+ | 4.5 || 11 August 2014 ||  || GeForce 400, 500, 600 and 700 Series 
+ |- 
+ | 4.4 || 22 July 2013 || HD 5000, 6000, 7000, 8000 and Rx 200 Series || GeForce 400, 500, 600 and 700 Series 
+ |- 
+ | 4.3 || 6 August 2012 || HD 5000, 6000, 7000 and 8000 Series || GeForce 400, 500 and 600 Series 
+ |- 
+ | 4.2 || 8 August 2010 || HD 5000, 6000 and 7000 Series || GeForce 400, 500, and 600 Series  
+ |- 
+ | 4.1 || 26 July 2010 || HD 5000, 6000 and 7000 Series || GeForce 400 and 500 Series 
+ |- 
+ | 4.0 || 11 March 2010 || HD 5000, 6000 and 7000 Series || GeForce 400 and 500 Series 
+ |- 
+ | 3.3 || 11 March 2010 ||  || GeForce 8, 9, 100, 200 and 300 Series 
+ |- 
+ | 3.2 || 3 August 2009 ||  ||  
+ |- 
+ | 3.1 || 24 March 2009 ||  ||  
+ |- 
+ | 3.0 || 11 August 2008 ||  ||  
+ |- 
+ | 2.1 || 2 July 2006 ||  ||  
+ |- 
+ | 2.0 || 7 September 2004 ||  || GeForce 4, 5(FX), 6, and 7 Series 
+ |- 
+ | 1.5 || 29 July 2003 ||  ||  
+ |- 
+ | 1.4 || 24 July 2002 ||  ||  
+ |- 
+ | 1.3 || 14 August 2001 ||  ||  
+ |- 
+ | 1.2.1 || 14 October 1998 ||  ||  
+ |- 
+ | 1.2 || 6 March 1998 ||  ||  
+ |- 
+ | 1.1 || 4 March 1994 ||  ||  
+ |- 
+ | 1.0 || January 1992 ||  ||  
+ |} 
+ 
+ {{tech-stub}} 
+ 
+ {{DEFAULTSORT:Opengl}} 
+ [[Category:Free software]] 
+ [[Category:Graphics software]]

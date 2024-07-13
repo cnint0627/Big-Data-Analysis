@@ -1,0 +1,51 @@
+{{Infobox settlement 
+ | name                    = Blumenau 
+ | native_name             =  
+ | settlement_type         = Municipality 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           = Blumenau vista.jpg 
+ | imagesize               = 265px 
+ | image_caption           = View of Blumenau 
+ | image_flag              = Flag of Blumenau.svg 
+ | image_seal              = Coat of arms of Blumenau.svg 
+ < !-- maps and coordinates -- > 
+ | pushpin_map             = Brazil 
+ | pushpin_mapsize         = 265px 
+ | map_caption             = '''Blumenau''' in [[Brazil]] 
+ | coordinates             = {{coord|26|56|S|49|3|W}} 
+ < !-- location -- > 
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{BRA}} 
+ | subdivision_type1       = State 
+ | subdivision_name1       = {{flag|Santa Catarina}} 
+ < !-- government type, leaders -- > 
+ | leader_title            = Mayor 
+ | leader_name             = Mário Hildebrandt 
+ < !-- area -- > 
+ | area_total_km2          = 519.8 
+ < !-- population -- > 
+ | population_total        = 363,340 
+ | population_as_of        = August 1, 2022 
+ | population_density_km2  = 699.0 
+ < !-- time zone(s) -- > 
+ | timezone1               =  
+ | utc_offset1             = −03:00 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        = Postal code 
+ | postal_code             = 89000-000 
+ | area_code_type          = Area code 
+ | area_code               = +55 47 
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec2         = [[ISO 3166-2:BR|ISO 3166 code]] 
+ | blank_info_sec2         =  
+ | blank1_name_sec2        = Address 
+ | blank1_info_sec2        =  
+ < !-- website, footnotes -- > 
+ | website                 = {{Official|1=https://www.blumenau.sc.gov.br/}} 
+ }} 
+ 
+ '''Blumenau''' is a city of the [[Santa Catarina (state)|Santa Catarina]] state, in [[Brazil]], with 363,340 inhabitants. 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:Cities in Santa Catarina]]

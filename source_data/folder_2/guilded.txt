@@ -1,0 +1,26 @@
+{{Infobox software 
+ | logo = Guilded Logomark Wordmark Black.svg 
+ | caption = Screenshot of Guilded 
+ | developer = Guilded, Inc.  < !-- Roblox owns the company but it is stated to remain independent from Roblox itself -- > 
+ | released = {{Start date and age|2017|03|17}} 
+ | latest release version =  
+ | latest preview version =  
+ | latest preview date =  
+ | programming language =  
+ | operating system = {{Unbulleted list|[[Windows]]|[[Linux]]|[[macOS]]|[[iOS]]|[[Android (operating system)|Android]]}} 
+ | language =  
+ | language count =  
+ | genre = [[VoIP]] communications, [[instant messaging]], [[content delivery]], and [[social media]] 
+ | license = [[Proprietary license|Proprietary]] 
+ | website = {{URL|https://guilded.gg}} 
+ }} 
+ 
+ '''Guilded''' is a [[Voice over IP|VoIP]], [[instant messaging]] and [[digital distribution]] platform made and owned by Guilded, Inc. < ref > {{Cite web|date=2021-08-16|title=Roblox Acquires Guilded, a Platform to Connect Gaming Communities|url=https://www.businesswire.com/news/home/20210816005389/en/Roblox-Acquires-Guilded-a-Platform-to-Connect-Gaming-Communities|access-date=2021-08-16|website=www.businesswire.com|language=en}} < /ref >  Users can talk by using [[Voice over IP|voice calls]], [[Videotelephony|video calls]], [[text messaging]], media and files in private chats or as part of communities called  " guilds " . < ref name= " crunch " > {{Cite web|title=Guilded raises $7 million for its competitive gaming-focused chat app|url=https://social.techcrunch.com/2020/05/01/guilded-raises-7-million-for-its-competitive-gaming-focused-chat-app/|access-date=2021-05-30|website=TechCrunch|language=en-US|archive-date=2021-08-17|archive-url=https://web.archive.org/web/20210817144843/https://techcrunch.com/2020/05/01/guilded-raises-7-million-for-its-competitive-gaming-focused-chat-app/|url-status=dead}} < /ref >  Guilded runs on [[Windows]], [[Linux]], [[macOS]], [[Android (operating system)|Android]] and [[iOS]]. Guilded is mainly focused on [[competitive gaming]] and [[esports]]. < ref name= " crunch "  / >  Guilded says that unlike their competitor [[Discord (software)|Discord]], they prioritize gaming over general communities, Guilded is made by Guilded, Inc. which has been bought by the [[Roblox|Roblox Corporation]] since August 16, 2021. < ref > {{Cite web|date=2021-03-22|title=If you like Discord then you're going to LOVE Guilded|url=https://www.windowscentral.com/guilded-discord-alternative-you-didnt-know-you-needed|access-date=2021-05-30|website=Windows Central}} < /ref > 
+ 
+ == References == 
+ {{Reflist|colwidth=30em}} 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Software]] 
+ [[Category:Websites]]

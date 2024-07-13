@@ -1,0 +1,22 @@
+In [[probability theory]] and [[statistics]], the '''variance''' is a way to measure how far a [[set]] of numbers is spread out. 
+ Variance describes how much a [[random variable]] differs from its [[expected value]]. The variance is defined as the average of the [[Square (mathematics)|squares]] of the differences between the individual (observed) and the expected value. This means that it is always positive. A variance is often represented by the symbol  < math > \sigma^2 < /math > , if the data is the entire population, and  < math > s^2 < /math > , if the data is from a sample. < ref > {{Cite web|date=2020-04-26|title=List of Probability and Statistics Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/|access-date=2020-09-11|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Variance|url=https://mathworld.wolfram.com/Variance.html|access-date=2020-09-11|website=mathworld.wolfram.com|language=en}} < /ref > < ref > {{Cite web|title=Standard Deviation and Variance|url=https://www.mathsisfun.com/data/standard-deviation.html|access-date=2020-09-11|website=www.mathsisfun.com}} < /ref > 
+ 
+ In practice, variance is a measure of how much something changes. For example, temperature has more variance in [[Moscow]] than in [[Hawaii]]. 
+ 
+ The variance is not simply the average difference from the expected value. The [[standard deviation]], which is the [[square root]] of the variance and comes closer to the average difference, is also not simply the average difference. Variance and standard deviation are used because it makes the mathematics easier—when adding two random variables together. 
+ 
+ In [[accountancy]], a variance refers to the difference between the [[budget]] for a cost, and the actual cost. 
+ 
+ == History == 
+ [[Karl Pearson]], the father of [[Biometrics|biometry]], first used the term variance as follows: < blockquote > " ''It is here attempted to (show) the biometrical properties of a population of a more general type that has (..) been examined, inheritance in which follows this scheme. It is hoped that in this way it will be possible to make a more exact analysis of the causes of human variability. The great body of available statistics shows us that the deviations of a human measurement from its mean follow very closely the Normal Law of Errors, and that  therefore, the variablility may be uniformly measured by the standard deviation, corresponding to the square root of the mean square error.'' " < ref > [[Ronald Aylmer Fisher]]: [http://digital.library.adelaide.edu.au/dspace/bitstream/2440/15097/1/9.pdf ''The correlation between relatives on the supposition of Mendelian inheritance.''], Trans. Roy. Soc. Edinb. '''52''': 399-433, 1918. < /ref > < /blockquote > 
+ 
+ == Related pages == 
+ 
+ * [[Normal distribution]], with variance and [[Mean (Statistics)|mean]] as parameters 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Statistics]]

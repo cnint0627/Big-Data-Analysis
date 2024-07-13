@@ -1,0 +1,11 @@
+{{split-apart}} 
+ '''Inference''' is a process of deriving new knowledge, given existing knowledge, and a number of rules. In [[logic]], there are three different forms: 
+ *[[Deduction]]. Given some facts, and some rules, derive new knowledge. The best known case of this are [[syllogism]]s: All men are mortal, [[Socrates]] is a man, therefore Socrates is mortal. This is usually called deduction. 
+ *[[Induction]]. In a car, the brake is used; the car slows down; therefore: using the brake will slow down the car. This is called induction. 
+ *[[Abduction (logic)|Abduction]]. Using the brake in a car will slow down the car; the car slows down; probably, the brake was used. This is called abduction. 
+ 
+ == In other fields == 
+ *[[Inference (grammar)|Inference]] in language, the opposite of [[implication (grammar)]] 
+ *[[Inference (statistics)]] means to draw conclusions from data 
+ 
+ [[Category:Logic]]

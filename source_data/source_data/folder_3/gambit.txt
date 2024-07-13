@@ -1,0 +1,62 @@
+A '''gambit''' is a [[chess opening]] involving a [[List of chess terms#S|sacrifice]], usually a pawn. The player, usually White, sacrifices (gives away) a pawn or more to develop faster and get an attack against the king. Gambits are also used to control the center of the chess board for better development of pieces. The player who plays the Gambit hopes for a development advantage against the opponent. There are a few gambits that require more valuable pieces for a better chance of winning. An example: 
+ 
+ == Evans Gambit == 
+ {{Chess diagram small 
+ | tright 
+ | Evans Gambit 
+ |rd|  |bd|qd|kd|  |nd|rd 
+ |pd|pd|pd|pd|  |pd|pd|pd 
+ |  |  |nd|  |  |  |  |  
+ |  |  |bd|  |pd|  |  |  
+ |  |pl|bl|  |pl|  |  |  
+ |  |  |  |  |  |nl|  |  
+ |pl|  |pl|pl|  |pl|pl|pl 
+ |rl|nl|bl|ql|kl|  |  |rl 
+ }} 
+ 
+ 
+ 
+ :1.e4 e5 
+ :2.Nf3 Nc6 
+ :3.Bc4 Bc5 
+ :4.'''b4''' Bxb4 
+ :5.c3 Ba5 
+ :6.d4 exd4 
+ :7.0-0 dxc3 
+ :8.Qb3 and White has a serious attack for the pawns. 4.b4 is the '''Evans Gambit'''. 
+ 
+ 
+ 
+ 
+ == Benko Gambit == 
+ In modern times gambits are usually not for direct attacks on the king. They aim at 'positional' advantages, such as freer play for the pieces. A well-known example is the '''Benko Gambit''':  
+ 
+ 
+ {{Chess diagram small 
+ | tright 
+ | Benko Gambit 
+ |rd|nd|bd|qd|kd|bd|  |rd 
+ |pd|  |  |pd|pd|pd|pd|pd 
+ |  |  |  |  |  |nd|  |   
+ |  |pd|pd|pl|  |  |  |   
+ |  |  |pl|  |  |  |  |   
+ |  |  |  |  |  |  |  |   
+ |pl|pl|  |  |pl|pl|pl|pl 
+ |rl|nl|bl|ql|kl|bl|nl|rl 
+ }} 
+ 
+ :1.d4 Nf6 
+ :2.c4 c5 
+ :3.d5 '''b5''' 
+ :4.cxb5 '''a6''' 
+ :5.bxa6 Bxa6 
+ :6.Nc3 d6 
+ :7.Nf3 g6 
+ :8.g3 Bg7 
+ :9.Bg2 0-0 
+ 
+ In return for his pawn, Black gets open lines for his bishops and his rook on a8. 
+ 
+ {{Chess}} 
+ 
+ [[Category:Chess openings]]

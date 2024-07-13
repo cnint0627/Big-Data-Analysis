@@ -1,0 +1,88 @@
+{{Chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 443853887 
+ | ImageFile = Heptane-2D-Skeletal.svg 
+ | ImageFile_Ref = {{chemboximage|correct|??}} 
+ | ImageAlt = Skeletal formula of heptane 
+ | ImageFile1 = HeptaneFull.png 
+ | ImageFile1_Ref = {{chemboximage|correct|??}} 
+ | ImageAlt1 = Skeletal formula of heptane of all implicit carbons shown, and all explicit hydrogens added 
+ | ImageFile2 = Heptane 3D ball.png 
+ | ImageFile2_Ref = {{chemboximage|correct|?}} 
+ | ImageAlt2 = Ball-and-stick model of the heptane molecule 
+ | IUPACName = Heptane < ref > {{Cite web|title=n-heptane – Compound Summary|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=8900 & loc=ec_rcs|work=PubChem Compound|publisher=National Center for Biotechnology Information|access-date=2 January 2012|location=USA|date=16 September 2004|at=Identification and Related Records}} < /ref > 
+ | OtherNames = Septane < ref > {{cite journal|url=http://rspl.royalsocietypublishing.org/content/15/54|title=I. On the action of trichloride of phosphorus on the salts of the aromatic monamines|first=August Wilhelm Von|last=Hofmann|date=1 January 1867|journal=Proceedings of the Royal Society of London|volume=15|pages=54–62|access-date=3 April 2018|via=rspl.royalsocietypublishing.org|doi=10.1098/rspl.1866.0018|s2cid=98496840}} < /ref > 
+ |Section1={{Chembox Identifiers 
+ | CASNo = 142-82-5 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 8900 
+ | ChemSpiderID = 8560 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = 456148SDMJ 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | EINECS = 205-563-8 
+ | UNNumber = 1206 
+ | MeSHName = n-heptane 
+ | ChEBI = 43098 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 134658 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS = MI7700000 
+ | Beilstein = 1730763 
+ | Gmelin = 49760 
+ | SMILES = CCCCCCC 
+ | StdInChI = 1S/C7H16/c1-3-5-7-6-4-2/h3-7H2,1-2H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = IMNFDUFMRHMDMM-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ }} 
+ |Section2 = {{Chembox Properties 
+ | C=7 | H=16 
+ | Appearance = Colourless liquid 
+ | Odor = Petrolic 
+ | Density = 0.6795 g cm < sup > −3 < /sup > < ref name=b92/ > 
+ | MeltingPtC = -90.549 < ref name=b92 > {{RubberBible92nd|page=3.290}} < /ref > 
+ | BoilingPtC = 98.38 < ref name=b92/ > 
+ | LogP = 4.274 
+ | VaporPressure = 5.33 kPa (at 20.0 & nbsp;°C) 
+ | HenryConstant = 12 nmol Pa < sup > −1 < /sup >  kg < sup > −1 < /sup > 
+ | RefractIndex = 1.3855 < ref name=b92/ > 
+ | Viscosity = 0.386 mPa·s 
+ | Dipole = 0.0 D 
+ | Solubility = 0.0003% (20 & nbsp;°C) < ref name=PGCH/ > 
+ | MagSus = -85.24·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+ }} 
+ |Section3 = {{Chembox Thermochemistry 
+ | DeltaHf = −225.2–−223.6 kJ mol < sup > −1 < /sup > 
+ | DeltaHc = −4.825–−4.809 MJ mol < sup > −1 < /sup > 
+ | Entropy = 328.57 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ | HeatCapacity = 224.64 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ }} 
+ |Section4 = {{Chembox Hazards 
+ | GHSPictograms = {{GHS flame}} {{GHS exclamation mark}} {{GHS health hazard}} {{GHS environment}} 
+ | GHSSignalWord = '''DANGER''' 
+ | HPhrases = {{H-phrases|225|304|315|336|410}} 
+ | PPhrases = {{P-phrases|210|261|273|301+310|331}} 
+ | NFPA-H = 1 
+ | NFPA-F = 3 
+ | NFPA-R = 0 
+ | FlashPtC = −4.0 
+ | AutoignitionPtC = 223.0 
+ | ExploLimits = 1.05–6.7% 
+ | PEL = TWA 500 ppm (2000 mg/m < sup > 3 < /sup > ) < ref name=PGCH > {{PGCH|0312}} < /ref > 
+ | IDLH = 750 ppm < ref name=PGCH/ > 
+ | REL = TWA 85 ppm (350 mg/m < sup > 3 < /sup > ) C 440 ppm (1800 mg/m < sup > 3 < /sup > ) [15-minute] < ref name=PGCH/ > 
+ | LCLo = 16,000 ppm (human) < br/ > 15,000 ppm (mouse, 30 min) < ref name=IDLH > {{IDLH|142825|n-Heptane}} < /ref > 
+ | LC50 = 17,986 ppm (mouse, 2 hr) < ref name=IDLH/ > 
+ }} 
+ |Section5 = {{Chembox Related 
+ | OtherFunction_label = alkanes 
+ | OtherFunction = {{Unbulleted list|[[Hexane]]|[[Octane]]}} 
+ }} 
+ }} 
+ '''Heptane''' is an [[organic compound]] with the [[chemical formula]] {{chem|[[Carbon|C]]|7|[[Hydrogen|H]]|16}}. It is an [[alkane]] with seven carbon [[atom]]s. It is used in [[fuel]]s and is in [[gasoline]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Alkanes|7]]

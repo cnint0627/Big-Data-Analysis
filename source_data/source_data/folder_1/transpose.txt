@@ -1,0 +1,63 @@
+{{about|the transpose of a matrix|other uses|Transposition (disambiguation)}} 
+ 
+ The '''transpose''' of a [[matrix (mathematics)|matrix]] '''A''' is another matrix where the rows of '''A''' are written as columns. [[Vectors]] can be transposed in the same way. We can write the transpose of '''A''' using different symbols such as '''A''' < sup > T < /sup > , < ref > {{Cite web|date=2020-03-25|title=Comprehensive List of Algebra Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/|access-date=2020-09-08|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Nykamp|first=Duane|date=|title=The transpose of a matrix|url=https://mathinsight.org/matrix_transpose|archive-url=|archive-date=|access-date=September 8, 2020|website=Math Insight}} < /ref >  '''A''' & prime;  < ref name= " :0 " > {{Cite web|last=Weisstein|first=Eric W.|title=Transpose|url=https://mathworld.wolfram.com/Transpose.html|access-date=2020-09-08|website=mathworld.wolfram.com|language=en}} < /ref >  '''A''' < sup > tr < /sup >  and '''A''' < sup > t < /sup > .   
+ 
+ == Examples == 
+ Here is the vector  < math > \begin{bmatrix} 
+ 1  &  2  \end{bmatrix} < /math >  being transposed: 
+ * < math > \begin{bmatrix} 
+ 1  &  2  \end{bmatrix}^{\mathrm{T}} \!\! \;\! 
+ = \, 
+ \begin{bmatrix} 
+ 1   \\ 
+ 2  \end{bmatrix}. 
+ < /math > 
+ 
+ Here are a few matrices being transposed: 
+ * < math > \begin{bmatrix} 
+ 1  &  2  \\ 
+ 3  &  4 \end{bmatrix}^{\mathrm{T}} \!\! \;\! 
+ = \, 
+ \begin{bmatrix} 
+ 1  &  3  \\ 
+ 2  &  4 \end{bmatrix}. 
+ < /math > 
+ 
+ *  < math > 
+ \begin{bmatrix} 
+ 1  &  2 \\ 
+ 3  &  4 \\ 
+ 5  &  6 \end{bmatrix}^{\mathrm{T}}  \!\! \;\! 
+ = \, 
+ \begin{bmatrix} 
+ 1  &  3  &  5\\ 
+ 2  &  4  &  6 \end{bmatrix}. \; 
+ < /math > 
+ 
+ *  < math > 
+ \begin{bmatrix} 
+ 1  &  2  &  8 \\ 
+ 3  &  4  &  3 \\ 
+ 5  &  6  &  1 \end{bmatrix}^{\mathrm{T}}  \!\! \;\! 
+ = \, 
+ \begin{bmatrix} 
+ 1  &  3  &  5\\ 
+ 2  &  4  &  6\\ 
+ 8  &  3  &  1 \end{bmatrix}. \; 
+ < /math > 
+ 
+ == Properties == 
+ Given two matrices '''A''' and '''B''', the following properties related to the transpose are true: < ref name= " :0 "  / > 
+ 
+ *  < math > (A^T)^{-1} = (A^{-1})^T < /math > 
+ *  < math > (AB)^T = B^T A^T < /math > 
+ 
+ == Related pages == 
+ 
+ * [[Invertible matrix]] 
+ 
+ == References == 
+ < references / > 
+ {{math-stub}} 
+ 
+ [[Category:Linear algebra]]

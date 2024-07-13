@@ -1,0 +1,12 @@
+'''Overclocking''' is the process of configuring a [[Central processing unit|computer processor]] or other electronic circuit to run faster than it was designed to. Overclocking allows a computer to be faster and more responsive. Overclocked processors tend to use more [[electricity]] and make more [[heat]] than those running at their intended speed. It is often necessary to install a better [[heat sink]] to avoid overheating the processor. If a processor is overclocked too high, it can damage the processor or make the computer unstable. Increasing the [[voltage]] to the processor can allow it to be run at even higher speeds where it would otherwise be unstable, but this carries an especially high risk of damaging the processor. 
+ 
+ Overclocking is usually done in the computer's BIOS setup utility. Most brand-name computers such as [[Dell]], [[Hewlett-Packard|HP]], and others do not allow overclocking in the [[BIOS]] setup utility, but custom-built computers usually do. It is also possible to do the opposite, called [[underclocking]], where the processor is run at a lower speed than intended. This may be done to extend battery life and reduce heat output. Underclocking will not usually damage a processor and may in fact make it last longer. Some processors automatically underclock themselves when the computer is not doing a lot of work. 
+ 
+ == Overclocking of other components == 
+ Many other digital circuits with a clock signal can be overclocked (or underclocked). This includes [[video card]]s, [[smartphone]]s, and even graphing [[calculator]]s. Even some sound cards can be overclocked to record or play at a higher sample rate than usual. Overclocking has become popular with [[Android (operating system)|Android]] users. < ref > {{Cite web|url=https://www.tested.com/tech/smartphones/444-the-risks-and-rewards-of-overclocking-android-phones/|title=The Risks and Rewards of Overclocking Android Phones - Tested.com|website=Tested|language=en|access-date=2019-12-15|archive-date=2019-12-15|archive-url=https://web.archive.org/web/20191215205900/https://www.tested.com/tech/smartphones/444-the-risks-and-rewards-of-overclocking-android-phones/|url-status=dead}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Computer hardware]] 
+ [[Category:Computer processors]]

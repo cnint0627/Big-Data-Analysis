@@ -1,0 +1,107 @@
+{{Infobox settlement 
+ | name               = {{PH wikidata|name}} 
+ | image_skyline      = {{Photomontage 
+ | photo1a      = 
+ | photo2a      = Cathedral Kalibo.jpg{{!}}San Juan Cathedral 
+ | photo2b      = Bakhawan Eco-Park - panoramio (3) (cropped).jpg{{!}}Mangroves at the Bakhawan Eco-Park 
+ | photo3a      = A Parade-Goer At The Kalibo Ati-Atihan Festival in the Philippines.jpg 
+ | photo3b      = Museo It Akean (cropped).jpg 
+ | size         = 265 
+ | position     = center 
+ | spacing      = 2 
+ | color        = transparent 
+ | border       = 0 
+ | foot_montage = From top, left to right: {{hlist | [[Kalibo Cathedral]] | [[Bakhawan Eco-Park]] | [[Ati-Atihan Festival]] reveler | Museo It Akean}} 
+ }} 
+ | image_flag         = Kalibo_flag.png 
+ | flag_size          = 120x80px 
+ | image_seal         = KaliboAklanSeal.jpg 
+ | seal_size          = 100x80px 
+ | image_map          = {{PH wikidata|image_map}} 
+ | map_caption        = {{PH wikidata|map_caption}} 
+ | image_map1         = {{hidden begin|title=OpenStreetMap|ta1=center}}{{Infobox mapframe|frame-width=250}}{{hidden end}} 
+ | pushpin_map        = Philippines 
+ | pushpin_label_position = left 
+ | pushpin_map_caption = Location within the {{PH wikidata|country}} 
+ | coordinates        = {{PH wikidata|coordinates}} 
+ | settlement_type    = {{PH wikidata|settlement_type}} 
+ | subdivision_type   = [[List of sovereign states|Country]] 
+ | subdivision_name   = [[Philippines]] 
+ | subdivision_type1  = [[Regions of the Philippines|Region]] 
+ | subdivision_name1  = {{PH wikidata|region}} 
+ | subdivision_type2  = [[Provinces of the Philippines|Province]] 
+ | subdivision_name2  = {{PH wikidata|province}} 
+ | official_name      = {{PH wikidata|official_name}} 
+ | nickname           = ''Ati-Atihan Town'' 
+ | subdivision_type3  = [[House of Representatives of the Philippines#District representation|District]] 
+ | subdivision_name3  = {{PH legislative district}} 
+ | established_title  = [[Date of establishment|Founded]] 
+ | established_date   = November 3, 1571 
+ | parts_type         = [[Barangay]]s 
+ | parts_style        = para 
+ | p1                 = {{PH barangay count | {{wikidata|label|raw}} }}  (see [[#Barangays|Barangays]]) 
+ | leader_title       = {{PH wikidata|leader_title}}  < !--mayor-- > 
+ | leader_name        = Juris B. Sucro 
+ | leader_title1      = [[Vice Mayor]] 
+ | leader_name1       = Cynthia C. Dela Cruz 
+ | leader_title2      = [[House of Representatives of the Philippines#Current composition|Representative]]  < !--congressman or congresswoman -- > 
+ | leader_name2       = [[Carlito S. Marquez]] 
+ | leader_title3      = [[Sangguniang Bayan|Municipal Council]] 
+ | leader_name3       = {{PH Town Council 
+ | 1 =  < div style= " border-style:solid none;border-width:thin;border-color:Gainsboro;background-color:#e6e6e6;text-align:center;width:95%;font-variant:small-caps; " > < /div > 
+  | 2=Mark Ace L. Bautista 
+  | 3=Mark V. Quimpo 
+  | 4=Phillip Y. Kimpo Jr. 
+  | 5=Daisy S. Briones 
+  | 6=Buen Joy V. French 
+  | 7=Matt Aaron P. Guzman 
+  | 8=Ketchie F. Luces 
+  | 9=Augusto C. Tolentino 
+ }} 
+ | leader_title4      = [[Elections in the Philippines#Qualification|Electorate]] 
+ | leader_name4       = {{PH wikidata|electorate}} voters ([[Philippine general election, {{PH wikidata|electorate_point_in_time}}|{{PH wikidata|electorate_point_in_time}}]]) 
+ | government_type    = {{PH wikidata|government_type}} 
+ | government_footnotes = {{thinsp}} < ref > {{DILG detail}} < /ref > 
+ | elevation_m        = {{PH wikidata|elevation_m}} 
+ | elevation_max_m    = 54 
+ | elevation_min_m    = -1 
+ | elevation_footnotes = {{PH wikidata|elevation_footnotes}} 
+ | area_footnotes     = {{PH area}} 
+ | area_total_km2     = {{PH wikidata|area}} 
+ | population_footnotes = {{PH census|current}} 
+ | population_total   = {{PH wikidata|population_total}} 
+ | population_as_of   = {{PH wikidata|population_as_of}} 
+ | population_density_km2 = auto 
+ | population_blank1_title = [[Household]]s 
+ | population_blank1  = {{PH wikidata|household}} 
+ | population_demonym = Kalibonhon 
+ | timezone           = [[Philippine Standard Time|PST]] 
+ | utc_offset         = +8 
+ | postal_code_type   = [[List of ZIP codes in the Philippines|ZIP code]] 
+ | postal_code        = {{PH wikidata|postal_code}} 
+ | postal2_code_type  = {{PSGCstyle}} 
+ | postal2_code       = {{PSGC detail}} 
+ | area_code_type     = {{areacodestyle}} 
+ | area_code          = {{PH wikidata|area_code}} 
+ | website            = {{Official URL}} 
+ | demographics_type1 = [[Economy of the Philippines|Economy]] 
+ | demographics1_title1 = {{PH wikidata|income_class_title}} 
+ | demographics_type2 = Service provider 
+ | demographics2_title1 = [[List of electric distribution utilities in the Philippines|Electricity]] 
+ | demographics2_info1 = {{PH electricity distribution | {{wikidata|label|raw}} }} 
+ | blank_name_sec1    = {{PH wikidata|climate_title}} 
+ | blank_info_sec1    = {{PH wikidata|climate_type}} 
+ | blank1_name_sec1   = [[Languages of the Philippines|Native languages]] 
+ | blank1_info_sec1   = {{PH wikidata|language}} 
+ }} 
+ '''Kalibo''', officially the '''Municipality of Kalibo''' ([[Aklanon language|Aklanon]]: ''Banwa it Kalibo''; [[Hiligaynon language|Hiligaynon]]: ''Banwa sang Kalibo''; {{lang-tgl|Bayan ng Kalibo}}), is a [[1st class city|1st class]] [[municipality of the Philippines|municipality]] and [[Capital city|capital]] of the [[Philippine Province|Province]] of [[Aklan]], [[Philippines]]. In the 2020 census,  89,127 people lived there.{{PH census|current}} 
+ 
+ Kalibo is in the north-west of [[Panay]]. It is the main [[Transport|transportation]] hub for the [[Resort town|resort]] [[island]] of [[Boracay]]. The municipality is known for the [[Ati-Atihan festival]], the award winning [[mangrove]] [[forest]], the [[Bakhawan Eco-Park]] and [[piña]]-weaving. In February 2018, the government of Aklan, began the process of nominating Kalibo piña-weaving in the [[UNESCO Intangible Cultural Heritage Lists]]. The [[Ati-atihan festival]] is also nominated for the same list. < ref > {{Cite web |title=Invest in Aklan {{!}} The Official Website of Aklan Province |url=https://aklan.gov.ph/economy-and-investment/ |access-date=July 27, 2022 |language=en-US}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ {{asia-stub}} 
+ 
+ [[Category:Provincial capitals of the Philippines]] 
+ [[Category:Aklan]]

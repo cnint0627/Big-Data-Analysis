@@ -1,0 +1,36 @@
+An '''experiment''' is a test of an [[idea]] or a [[wiktionary:method|method]]. It is often used by [[scientist]]s and [[engineer]]s. An experiment is used to see how well the idea matches the real world. Experiments have been used for many years to help people understand the world around them. Experiments are part of [[scientific method]]. Many experiments are '''controlled experiments''' or even [[blind experiment]]s. Many are done in a [[laboratory]]. But [[thought experiment]]s are done in [[mind]]. 
+ 
+ Experiments can tell us if a theory is false, or if something does not work. They cannot tell us if a theory is true. When [[Einstein]] said that [[gravity]] could affect [[light]], it took a few years before [[astronomers]] could test it. [[General relativity]] predicts that the path of light is bent in a [[gravitational field]]; light passing a massive body is deflected towards that body. This effect has been confirmed by observing the light of stars or distant [[quasar]]s being deflected as it passes the [[Sun]]. < ref > Kennefick, Daniel 2005. Astronomers test general relativity: light-bending and the solar redshift. In Renn, Jürgen (ed) ''One hundred authors for Einstein''. Wiley-VCH, pp. 178–181. {{ISBN|3-527-40574-7}} < /ref > < ref > Shapiro S.S. ''et al'' 2004. Measurement of the solar gravitational deflection of radio waves using geodetic very-long-baseline interferometry data, 1979–1999. ''Phys. Rev. Lett'. '''92''' (12): 121101. [http://prl.aps.org/abstract/PRL/v92/i12/e121101] < /ref > 
+ 
+ Now, a hundred years or so after Einstein published his ideas, there have been many tests, all of which have been consistent with Einstein's predictions. But, one day, we might find the theory has some limits beyond which it does not work. What we test are [[Implication (grammar)|implication]]s of the theory, because the theory itself is too large and complicated to test all at once. 
+ 
+ : " The universe does not tell us when we are right, only when we are wrong " . – [[Karl Popper]] 
+ 
+ ==Controlled experiments== 
+ A controlled experiment is a kind of comparison. It often compares the results from experimental samples against control samples. Control samples are the same as the experimental sample, except for one difference. This difference is the one thing whose effect is being tested (the [[independent variable]]). A good example would be a drug trial. The sample or group receiving the drug would be the experimental group (treatment group); and the one receiving the [[placebo]] or an older treatment would be the [[Control group|control]] group. 
+ 
+ ==Difference with observational study== 
+ An [[observation]]al study is used when an experiment would be difficult, unethical, or expensive. Observational studies are not experiments. Experiments can control for other variables, and it allows the researchers to change something. Observational studies often do not have random samples, and they often have many variables. 
+ 
+ == Famous experiments == 
+ * [[Galileo Galilei]] did some experiments about [[free fall]] (1623) 
+ * [[Benjamin Franklin]] showed that [[lightning]] is a form of [[electricity]] (1752) 
+ * The [[Michelson–Morley experiment]] proved a flaw in old [[physics]], and prompted [[Einstein]]'s work (1887) 
+ * [[Ivan Pavlov]] did some experiments about the [[classical conditioning]] of [[dog]]s (1927) 
+ * The [[Avery–MacLeod–McCarty experiment]] proved DNA was the [[molecule]] which caused [[heredity]] (1944) 
+ * [[Stanley Milgram]] showed that people follow orders; this became known as the [[Milgram experiment]] (1961) 
+ 
+ == References == 
+ {{reflist}} 
+ * Shadish, William R; Cook, Thomas D.  &  Campbell, Donald T. 2002. ''Experimental and quasi-experimental designs for generalized causal inference''. Boston: Houghton Mifflin. {{ISBN|0-395-61556-9}} 
+ 
+ == Related pages == 
+ *[[Experimental physics]] 
+ *[[Experimental psychology]] 
+ 
+ {{-}} 
+ 
+ [[Category:Experiments| ]] 
+ 
+ 
+ {{Sci-stub}}

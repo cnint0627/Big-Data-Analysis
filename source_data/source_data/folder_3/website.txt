@@ -1,0 +1,44 @@
+[[File:Www.wikipedia screenshot (2021).png|thumb|250px|This is a screenshot of a website. The website in this picture is [http://www.wikipedia.org wikipedia.org].]] 
+ 
+ A '''website''' is a set of [[webpage]]s that are joined. People look at websites with a [[computer]] of some kind, sometimes including the computer inside [[mobile phone]]s and [[television]]s. The websites are kept on computers called [[server|web servers]]. 
+ 
+ == Overview == 
+ There is almost always a single [[homepage]] which has [[link]]s to other pages that are part of that  " site " . Sometimes it has links to pages that are part of other  " sites "  as well. (Note that [[net jargon]] uses the word [[site]], which also means a physical place in the real world, to mean a [[World Wide Web|web]] [[URL]]). A home page serves as the [[wikt:introduction|introduction]] page of a website. 
+   
+ Websites can be used to [[advertise]] or sell things. They can also be used to talk to other people. A [[blog]] is a website where the location of the material is less relevant than who writes it, and which is more focused on dialogue. Very often the people who use blogs dislike the word  " site "  since it implies a controlled place. Sites are good for looking up [[information]] on the computer. 
+ 
+ == Types == 
+ There are many different types of website based on their purpose and the type of organisation they are created for. < ref > {{Cite web|date=2022-01-08|title=13 Types of Websites SMEs Can Use to Grow Their Business|url=https://emerge360.co/website-types/|access-date=2022-02-25|website=emerge360.co|language=en-GB}} < /ref > 
+ * [[Weblog]] ''(also known as blog)''. < ref > {{cite web |url=http://www.computerhope.com/jargon/w/weblog.htm |title=Weblog |author= |website= |publisher=Computer Hope |accessdate=3 April 2016}} < /ref > 
+ * [[Wiki]] ''(A website where anyone can edit the pages)''. < ref > {{cite web |url=https://net.educause.edu/ir/library/pdf/ELI7004.pdf |title=7 things you should know about... Wikis |author= |website= |publisher=EDUCAUSE |accessdate=3 April 2016 |archive-date=9 March 2016 |archive-url=https://web.archive.org/web/20160309215223/http://net.educause.edu/ir/library/pdf/ELI7004.pdf |url-status=dead }} < /ref > 
+ * Content Management System ''(Software that can edit web pages through a [[WYSIWYG]] editor)''. 
+ * [[Search engine]] ''(A website like [[Google Search|Google]], [[Bing (search engine)|Bing]] and [[DuckDuckGo]] which you can use to search the web)''. < ref > {{cite web |url=http://www.bbc.co.uk/webwise/0/22562913 |title=What is a search engine? |author= |date=6 June 2013 |website= |publisher=BBC |accessdate=3 April 2016 |archive-date=30 November 2016 |archive-url=https://web.archive.org/web/20161130065215/http://www.bbc.co.uk/webwise/0/22562913 |url-status=dead }} < /ref > 
+ * [[Social networking]] sites ''(Like [[Facebook]], [[Twitter]] and [[Instagram]] which allows you to interact with people on the internet)''. < ref > {{cite web |url=http://www.dictionary.com/browse/social-networking 
+  |title=social networking |author= |website=The Free Dictionary |publisher=Farlex |accessdate=3 April 2016}} < /ref > 
+ * Quiz websites like Quotev, Buzzfeed, Allthetests and GoToQuiz are websites used to look at Quizzes, fan-fictions and Surveys about Television, Radio and Music and other things done in Society. 
+ * Video Websites like [[YouTube]] exist to look at Videos of people and things. 
+ * Online forum, discussion, Q & A, and community website. 
+ * Membership website 
+ * Application Websites, ''Nowadays simply known as Apps'' are Websites that are Square shaped and require more difficulty to access and usually ask you to [[download]] their App to access specific things. 
+ * .org websites are websites that are organisations. 
+ * .uk, .au and .us are types of websites that are only available in the [[United Kingdom]], Australia and the United States, but some can be used outside of these countries. 
+ * .io websites are usually online game websites that run on an internet thing called an IO, which has some kind of meaning, but they can be accessed like any other website through the internet. 
+ * There are other types of websites that aren't available to the public that end in a . followed by random letters but there are too many to list. 
+ 
+ == Access == 
+ Users can access any website by using a [[URL]]. This is the website address which is shown near the top of the [[web browser]]. The homepage and the rest of the site usually have the same words at the start of the URL — for example, pages at the Simple English Wikipedia always start  " http://simple.wikipedia.org/... "  but are different after that. However, if a person does not buy a [[domain name]], the website could be an [[IP Address]]. An example of an IP address is [http://172.217.13.228 172.217.13.228]{{Dead link|date=November 2023 |bot=InternetArchiveBot |fix-attempted=yes }}. 
+ 
+ == Appearance == 
+ Web sites are usually shown in [[HTML]] (Hyper Text Markup Language) but are not always written or kept that way - some use WAP and others use [[XML]]. 
+ 
+ Website builder [[software]] is usually a collection of software tools that allow the construction of websites without manual code editing. < ref name=Peri251 > Peri Pakroo; Marcia Stewart, ''Small Business Start-Up Kit, The: A Step-by-Step Legal Guide'' (Berkeley, CA: Nolo, 2014), p. 251 < /ref >  Several hosted website services have website builder software built-in. < ref name=Peri251/ > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{wiktionary|web site}} 
+ 
+ [[Category:Websites| ]] 
+ 
+ 
+ {{Tech-stub}}

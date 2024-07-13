@@ -1,0 +1,38 @@
+{{Automatic taxobox 
+ | name = Sphenacodonts 
+ | fossil_range = Late [[Pennsylvanian (geology)|Pennsylvanian]]-[[Holocene|Recent]], {{Fossil range|304|0}} 
+ | image = Dimetrodon grandis 3D Model Reconstruction.png 
+ | image_upright = 1.1 
+ | image_caption = 3D restoration of ''[[Dimetrodon|Dimetrodon grandis]]'' 
+ | image2 = 
+ | image2_caption = Restoration of the [[Gorgonopsia|gorgonopsid]] therapsid ''[[Inostrancevia]]'' feasting on the carcass of a young ''[[Scutosaurus]]'' (a [[Pareiasaur|pareiasaurid]] parareptile) 
+ | taxon = Sphenacodontia 
+ | authority = [[Alfred Romer|Romer]]  &  [[Llewellyn Ivor Price|Price]], 1940 
+ | subdivision_ranks = Subgroups 
+ | subdivision = * {{extinct}}''[[Haptodus]]'' 
+ * {{extinct}}''[[Hypselohaptodus]]'' 
+ * '''Pantherapsida''' {{Small|Spindler, 2016}} < ref name= " Spindler " > Spindler, F. 2016. Morphological description and taxonomic status of Palaeohatteria and Pantelosaurus (Synapsida: Sphenacodontia). Freiberger Forschungshefte C550(23): 1–57. https://www.researchgate.net/publication/321129043_Morphological_description_and_taxonomic_status_of_Palaeohatteria_and_Pantelosaurus_Synapsida_Sphenacodontia < /ref > 
+ ** {{extinct}}''[[Kenomagnathus]]'' 
+ ** {{extinct}}''[[Tetraceratops]]'' 
+ ** {{extinct}}[[Palaeohatteriidae]] 
+ ** [[Sphenacodontoidea]] 
+ *** {{extinct}}''[[Shashajaia]]'' 
+ *** {{extinct}}[[Sphenacodontidae]] 
+ *** [[Therapsida]] 
+ }} 
+ '''Sphenacodontia''' is a [[suborder]] of the [[Pelycosaur|Pelycosaurs]]. Sphenacodonts include [[Sphenacodontoid|Sphenacodontoids]], [[Varanopid|Varanopids]] and [[Ophiacodontid|Ophiacodontids]]. Sphenacodontia's sister taxon is [[Caseasaur|Caseasauria]]. 
+ 
+ == Classification == 
+ {{clade 
+ |label1='''Sphenacodontia''' 
+ |1={{clade 
+  |1={{clade 
+   |1=''[[Sphenacodontidae]]''              
+    |2={{extinct}}''[[Edaphosauridae]]'' 
+    |3=''[[Varanopidae]]''  
+    |4=''[[Ophiacodontidae]]''}}}} }} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Pelycosaurs]]

@@ -1,0 +1,35 @@
+
+ A '''shape''' is a [[geometry|geometric]] [[wikt:figure|figure]] that can be made with [[mathematics]]. Shapes are sorted into kinds based on how the shape looks, and what the shape is made of. For example, shapes can be classified by how many [[dimension]]s they use. 
+ 
+ [[Two-dimensional]] shapes will fit into a flat [[Plane (mathematics)|plane]]. [[Three-dimensional]] objects will not fit inside a plane, because they are not flat. Shapes made from other shapes of any dimension are called [[polytope]]s. 
+ 
+ Two shapes are said to be equal, if one can be changed into the other by [[rotation|turning]], moving, growing, shrinking, or more than one of these at once. Geometry is a section of mathematics which involves many shapes and sizes of different figures and their properties. 
+ 
+ == 2D shapes == 
+ 
+ These are [[2D|two-dimension]]al shapes or flat [[Plane (mathematics)|plane]] geometry shapes. Their [[side]]s are made of straight or curved lines. They can have any [[number]] of [[side]]s. Plane figures made of lines are called [[polygon]]s. Triangles and squares are examples of polygons. 
+ 
+ * [[circle]] 
+ * [[polygon]] 
+ **[[triangle]] 
+ **[[quadrilateral]] 
+ ***[[square (geometry)|square]] 
+ ***[[rectangle]] 
+ 
+ == 3D shapes == 
+ These are [[3D|three-dimension]]al shapes. Their [[side]]s are made of flat or [[curve]]d [[surface]]s. 3D shapes are most often made of polygon faces. These 3D shapes are called [[polyhedra]]. 
+ 
+ * [[sphere]] 
+ * [[tetrahedron]] 
+ * [[cube]] 
+ * [[cone]] 
+ * [[pyramid (geometry)|pyramid]] 
+ * [[hemisphere]] 
+ * [[cuboid]] 
+ * [[cylinder]] 
+ * [[Prism (geometry)|prism]] 
+ 
+ == 4D shapes == 
+ [[4D|Four-dimensional]] shapes made of polyhedra are called [[Polychoron|polychorons]]. These shapes cannot be fully shown in the real world, but they are important ideas in geometry. 
+ [[Category:Geometry]] 
+ [[Category:Shapes]]

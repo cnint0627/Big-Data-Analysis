@@ -1,0 +1,72 @@
+'''Zugzwang''' is a [[List of chess terms|chess term]]. It  means a situation where any move by a player will weaken the player's position. < ref > Hoope D.  &  Whyld K. 1992. ''The Oxford companion to chess''. Oxford University Press. {{ISBN|978-0-19-280049-7}} < /ref >   The fact that the player is compelled to move means that their position will become significantly weaker. 
+ 
+ For example... 
+ 
+ {{Chess diagram small 
+ | tright 
+ | Example of zugzwang 
+ |__|__|kd|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|pl|kl|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ | 
+ }} 
+ 
+ ;Black to play 
+ '''1. ...  Kd7''' and White cannot win: 
+ 
+ '''2. c6+  Kc7''' 
+ 
+ '''3. Kc5  Kc8''' 
+ 
+ '''4. Kd6  Kd8''' (opposing the king) 
+ 
+ '''5. c7+  Kc8 
+ 
+ '''6. Kc6''' is [[List of chess terms#S|stalemate]] 
+ 
+ ;White to play 
+ 
+ But if it is White to play in the original position, he can win by zugzwang: 
+ 
+ '''1. Kc6!''' and now Black must move his king, for example 
+ 
+ '''1.....  Kd8''' 
+ 
+ '''3. Kb7'''  and queens the pawn. 
+ 
+ == Mutual zugzwang == 
+ 
+ {{Chess diagram small 
+ | tright 
+ | Either player to move loses 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |  |  |  |pd|kl|  |  |   
+ |  |  |kd|pl|  |  |  |   
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ |__|__|__|__|__|__|__|__ 
+ | 
+ }} 
+ 
+ There are positions where either player to move will lose. 
+ 
+ On the following diagram, Whichever king moves, he loses his pawn and the opponent will win the game. 
+ 
+ == History == 
+ The concept of zugzwang was known in the old forms of chess, like [[shatranj]]. We know this because there are some [[Arabic chess]] problems which use the idea. 
+ 
+ The term itself comes from the 19th century in a German chess magazine. Its first use in English was in the early 20th century. < ref > [http://www.chesshistory.com/winter/extra/zugzwang.html Winter, Edward 1997. ''Zugzwang''.  www.chesshistory.com] < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{-}} 
+ {{Chess}} 
+ 
+ [[Category:Chess]]

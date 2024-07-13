@@ -1,0 +1,6 @@
+{{lowercase}} 
+ '''dpkg''' is the name of a [[computer]] [[package management]] system. It is the primary package manager of the [[Debian]] [[GNU]]/[[Linux]] operating system. It was written in the C programming language, and started in 1993. 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Debian]]

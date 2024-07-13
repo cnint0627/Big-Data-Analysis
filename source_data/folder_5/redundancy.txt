@@ -1,0 +1,9 @@
+[[File:Redundant second railing additional to historic unstable fence in Marburg above Wilhelm-Roser-Strasse, Grassenberg 2016-03-05.JPG|thumb|A second redundant railing has been installed at a dangerous road in [[Marburg|Marburg, Germany]]. ]] 
+ In [[information theory]], '''redundancy''' means that a message is [[encoding|encoded]] and transmitted using more [[bit]]s that are necessary to encode the message. If a piece of information is redundant, it can be left out, without loss of information.  Redudant information such as [[checksum]] < nowiki/ > s can be used to detect and correct errors in transmission or storage. 
+ 
+ Operations like [[data compression]] reduce redundancy. This can be good, as the data can be sent more quickly and take less space.  It can also be bad, if an error can no longer be corrected automatically. 
+ 
+ When using [[database]]s, redundancies must be avoided, as they can lead to inconsistencies. In this case, the process is called [[Database normalisation|normalisation]].  
+ 
+ {{tech-stub}} 
+ [[Category:Computer science]]

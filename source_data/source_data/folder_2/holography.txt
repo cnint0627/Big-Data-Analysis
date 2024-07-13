@@ -1,0 +1,62 @@
+[[File:Holomouse2.jpg|thumb|Two photographs of a single hologram taken from different viewpoints]] 
+ '''Holography''' is a way of making [[three-dimensional]] picture with a [[laser]]. It allows the holographer to make a more exact image than with [[photography]]. The holograph seems to move and change slightly to look as if it were three-dimensional.  Holography uses the [[wave]] aspect of [[light]]. 
+ 
+ ==How a hologram is made== 
+ 
+ Holograms are made with light flashed onto a plate or screen, almost like how [[photography|photos]] are made. To make a hologram instead of a photograph, some of the light, called a  " reference beam, "  has to go directly to the screen. The light has to be a [[laser]] because lasers are more accurate and have a [[wavelength]] that does not change the way the wavelengths of light from other sources does, like light from [[lightbulb]]s. To stop other light from ruining the hologram, holograms are usually taken in the dark. Because even the tiniest [[vibration]] can stop the hologram from forming properly, the tables upon which that the holographer places the equipment may be built with [[shocks]] or inflated chambers to stop vibrations from the floor. 
+ 
+ ==Holograms vs. photographs== 
+ [[File:Holographic recording.jpg|thumb|Close-up photograph of a hologram's surface. This is a hologram of a toy car.]] 
+ Holograms can be compared to photos. Holography records  the intensity of light, like photography, but also records the difference in the [[phase of light]]. Holography records all of information from the light that the object reflects. 
+ 
+ * A hologram records the light that comes from many places, so a person looking at it can see it from many angles. 
+ * A photo can be made with normal light, like light from the [[sun]] or a lightbulb, but holograms can only be made with [[laser]]s. 
+ * A hologram needs a second laser (the reference beam) to go onto the plate or screen where the hologram is being made. 
+ * When a photo is cut in half, each piece shows half of the photo. When a hologram is cut in half, the entire holograph is shown in each piece. This is because each piece of a photo shows only that part of the photo, but ''each point'' on a hologram shows light from all over. 
+ * Close up, holographs look like a random bunch of bumps. 
+ 
+ == Functionality == 
+ Holography uses a reference wave (which goes onto the plate) and an exposure wave (object wave, which comes from the object). The reference wave can save the phase information as patterns of light and dark on a film. The object wave and reference wave must have the same [[wavelength]] in order to save the phase information and they usually come from the same laser. 
+ 
+ == History == 
+ 
+ The most famous person in the history of holography is the physician [[Dennis Gabor]], the inventor of the hologram. In 1947, he was trying to improve [[Microscope|microscopes]], and he figured out how to display three-dimensional objects. 
+ 
+ ; Important dates 
+ * 1920: [[Mieczysław Wolfke]] proposes principle of wave field reconstruction by diffraction on diffraction patterns  
+ * 1947: Dennis Gábor develops the principle of holography 
+ * 1960: [[Theodor Maiman]] invents the laser (Light Amplification by Stimulated Emission of Radiation) 
+ * 1963: [[Emmeth Leith]] and [[Juris Upatnieks]] improve the recording technique 
+ * 1964: Production of the first hologram by Leith and Upatnieks ( " Train and Bird " ). 
+ * 1965: [[Juri Nikolajewitsch Denisjuk]] invents white-light-holography 
+ * 1967: The first hologram of a person 
+ * 1968: [[Stephen A. Benton]] invents the rainbow-transmission holography 
+ * 1971: Award of the Nobel Prize of physics goes to Dennis Gábor for the invention of holography 
+ 
+ == Physical details == 
+ 
+ === Recording === 
+ 
+ Holograms need laser beams. A dispersing lens makes the beam bigger and then it goes through a special mirror. Only a piece of this laser beam can go through the mirror. Then this beam becomes the reference wave, and it is recorded on the film. The other piece of the laser beam is reflected off of the mirror. This piece becomes the exposure wave at the object. The object reflects this wave on the film. 
+ 
+ [[Image:Holography-record.png|center|Image on center]] 
+ 
+ === Reconstruction === 
+ 
+ Making a hologram is very similar to making a photograph, and it needs chemicals. To look at a hologram the film must be lit up with the reference wave. These waves are reflected on the film (hologram) and create a virtual picture of the recorded object, even if that picture can only be seen from a specific angle. 
+ 
+ [[File:Holography-reconstruct.png|center|Image on center]] 
+ 
+ == Applications == 
+ 
+ === Measurement === 
+ 
+ Industries use holograms to measure things. In the car industry, cars are measured using holography so engineers can see bulges and vibration characteristics. Phase-shift holography is one kind of holography used to make cars. 
+ 
+ The first step in making a hologram is to examine the ground level state of the object, then overload the object through heat or mechanical pressure. Covering the original hologram and the modified hologram can produce interference fringes. By measuring the interference fringes, engineers learn how big the deformation or other problem is. Engineers can measure tiny terminal expansions or vibrations in mechanical systems. This needs two reference waves. 
+ 
+ === Data storage === 
+ 
+ There are holographic storage machines for analog pictures and digital data. Digital information will be affiliated by a two-dimensional bit-pattern. 
+ 
+ [[Category:Light]]

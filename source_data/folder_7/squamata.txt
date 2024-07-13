@@ -1,0 +1,74 @@
+{{automatic taxobox 
+ | name = Squamata 
+ | image = Squamata-01.jpg 
+ | image_caption =  
+ | fossil_range =  < br / > [[Early Jurassic]] – [[Holocene|Present]], {{fossilrange|199|0|ref=}} 
+ | taxon = Squamata 
+ | authority = [[Nicolaus Michael Oppel|Oppel]], 1811 
+ | subdivision_ranks = Subgroups < ref name=wiensetal2012 > {{cite journal | last1 = Wiens | first1 = J. J. | last2 = Hutter | first2 = C. R. | last3 = Mulcahy | first3 = D. G. | last4 = Noonan | first4 = B. P. | last5 = Townsend | first5 = T. M. | last6 = Sites | first6 = J. W. | last7 = Reeder | first7 = T. W. | year = 2012 | title = Resolving the phylogeny of lizards and snakes (Squamata) with extensive sampling of genes and species | journal = Biology Letters | volume = 8 | issue = 6| pages = 1043–1046 | doi=10.1098/rsbl.2012.0703 | pmid=22993238 | pmc=3497141}} < /ref > 
+ | subdivision = 
+ * [[Dibamidae]] 
+ * [[Gekkota]] 
+ * [[Scincomorpha|Scinciformata]] 
+ * [[Laterata]] 
+ * [[Toxicofera]] 
+ ** [[Anguimorpha]] 
+ ** [[Iguania]] 
+ ** [[Pythonomorpha]] 
+ }} 
+ 
+ '''Squamata''' ( " scaled reptiles " ) is the order of reptiles which includes [[lizard]]s and [[snake]]s, and the [[Amphisbaenia]].  
+ 
+ Their skins have overlapping horny [[Scale (zoology)|scales]]. They also have movable [[quadrate]] bones, which make it possible to move the upper jaw relative to the braincase. This is particularly visible in snakes, which are able to open their mouths very wide to accommodate comparatively large prey.  
+ 
+ They are the most variably-sized order of reptiles, ranging from the 16 & nbsp;mm (0.63 in.) Dwarf [[gecko]] (''Sphaerodactylus ariasae'') to the 8 & nbsp;m (26 & nbsp;ft.) Green [[Anaconda]] (''Eunectes murinus''). 
+ 
+ This is the only living reptile group which has both [[viviparous]] and [[ovoviviparous]] [[species]], as well as the usual [[oviparous]] (egg-laying) reptiles. 
+ 
+ The Squamata does not include the [[Tuatara]]s from [[New Zealand]]. They are a sister group to the squamates. The [[Crocodilia]] are much more distantly related. 
+ 
+ == Evolution == 
+ Squamates are a [[monophyletic]] group that is a sister group to the [[tuatara]]. The squamates and tuatara together are a sister group to [[crocodile]]s and [[bird]]s, the living [[archosaur]]s.  
+ 
+ Squamate [[fossil]]s first appear in the early [[Jurassic]], but a mitochondrial phylogeny suggests that they evolved in the late [[Permian]]. The evolutionary relationships within the squamates are not yet completely worked out, with the relationship of snakes to other groups being most problematic.  
+ 
+ From [[Morphology (biology)|morphological]] data, Iguanid lizards have been thought to have diverged from other squamates very early, but recent [[phylogeny|molecular phylogenies]], both from [[mitochondria]]l and [[nuclear DNA]], do not support this early divergence. < ref name= " Kumazawa " > {{cite journal | last =Kumazawa  | first = Yoshinori  | title =Mitochondrial genomes from major lizard families suggest their phylogenetic relationships and ancient radiations  | journal = Gene| volume = 388  | issue =  1–2| pages = 19–26 |year=2007  | doi =10.1016/j.gene.2006.09.026 | pmid =17118581}} < /ref >  Because snakes have a faster [[molecular clock]] than other squamates, < ref name= " Kumazawa " / >  and there are few early snake and snake ancestor fossils, < ref > {{cite web  | title = Lizards  &  snakes alive!  | publisher = American Museum of Natural History  | url = http://www.amnh.org/exhibitions/lizards/snakes/world.php  | accessdate = 2007-12-25  | archive-date = 2008-01-28  | archive-url = https://web.archive.org/web/20080128101606/http://www.amnh.org/exhibitions/lizards/snakes/world.php  | url-status = dead  }} < /ref >  it is difficult to resolve the relationship between snakes and other squamate groups. 
+ 
+ == Evolution of venom == 
+ Recent research suggests that the evolutionary origin of venom lies deep in the squamate [[phylogeny]]. 60% of squamates are venomous [[Toxicofera]].   
+ 
+ [[Venom]] in the families [[Caenophidia]], [[Anguimorpha]], and [[Iguania]] evolved once, then the three families diverged. All three lineages share nine common toxins. < ref name=Fry06 > Fry B.G. ''et al.'' 2006. Early evolution of the venom system in lizards and snakes. ''Nature'' '''439''':584-588. < /ref >  The fossil record shows that the divergence between anguimorphs, iguanians, and advanced snakes dates back roughly 200 MYA to the [[Upper Triassic]]/[[Lower Jurassic]]. < ref name=Fry06/ > 
+ 
+ Snake venom evolved by the duplication of a [[gene]] encoding for a normal regulatory or bioactivity protein. Then the copy was expressed in the venom gland. < ref name=Fry09 > Fry B.G. ''et al.'' 2009. Evolution and diversification of the toxicofera reptile venom system. ''Journal of Proteomics'' '''72''':127-136. < /ref >   
+ 
+ Different toxins have been recruited from different proteins and are diverse as the functions themselves. < ref name=Fry05 > Fry B.G. 2005. From genome to  " venome " : molecular origin and evolution of the snake venom proteome inferred from phylogenetic analysis of toxin sequences and related body proteins. ''Genome Research'' '''15''':403-420. < /ref >   
+ 
+ [[Natural selection]] has driven the diversification of the toxins to counter the defences of the prey. Venom genes form large [[multigene families]], and evolve by protein evolution. < ref name=Fry > Fry B.G. ''et al.'' 2008. Evolution of an arsenal. ''Molecular  &  Cellular Proteomics'' '''7''':215-246. < /ref >  This leads to a diversification of toxins that let [[Ambush predator|sit-and-wait predators]] attack a wide range of prey. < ref name=Calvete > Calvete J.J. et al. 2009. Venoms, venomics, antivenomics. ''Febs Letters'' '''583''':1736-1743. < /ref >   
+ 
+ The rapid evolution and diversification is the result of a prey/predator [[evolutionary arms race]] where each adapts to counter the other. < ref name=Barlow > Barlow A; C.E. Pook; R.A. Harrison and W. Wuster 2009. [[Coevolution]] of diet and prey-specific venom activity supports the role of selection in snake venom evolution. ''Proceedings of the Royal Society B-Biological Sciences'' '''276''':2443-2449. < /ref > 
+ 
+ == Taxonomy == 
+ Classically, the order is divided into three suborders: 
+ 
+ * [[Lacertilia]], the lizards; 
+ * [[Serpentes]], the snakes; 
+ * [[Amphisbaenia]], the worm lizards. 
+ 
+ Of these, the lizards form a [[paraphyletic]] group.  In newer classifications the name [[Sauria]] is used for reptiles and birds in general, and the Squamata are divided differently: 
+ 
+ < !-- Zoological Journal of the Linnean Society (1998), 124: 235–265. -- > 
+ * Suborder [[Iguania]] (the [[iguana]]s and [[chameleon]]s) 
+ * Suborder [[Scleroglossa]] 
+ ** Infraorder [[Gekkota]] (the [[gecko]]s) 
+ ** Infraorder [[Anguimorpha]] (the [[monitor lizard|monitors]], [[Gila monster]], and [[slow-worm]]s) 
+ ** Infraorder [[Scincomorpha]] ([[skink]]s, [[whiptail lizard]]s and common European lizards) 
+ * Suborder [[Serpentes]] (the [[snake]]s) 
+ ** Infraorder [[Alethinophidia]] ([[Viperidae|vipers]], [[Boidae|boas]], [[Naja|cobras]], etc.) 
+ ** Infraorder [[Scolecophidia]] (blind snakes) 
+ * Suborder [[Amphisbaenia]] 
+ 
+ == References == 
+ {{wikispecies|Squamata}} 
+ {{Reflist}} 
+ 
+ [[Category:Scaled reptiles| ]]

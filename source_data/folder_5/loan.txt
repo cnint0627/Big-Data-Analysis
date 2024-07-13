@@ -1,0 +1,70 @@
+A '''loan''' is a type of [[debt]]. The borrower agrees to repay the lender the sum of [[money]] loaned, at a particular time. It is often paid part by part over time, in order to clear the debt. 
+ 
+ Acting as a provider of loans is one of the main tasks for [[financial institution]]s. For other institutions, issuing of debt contracts such as [[Bond (finance)|bonds]] is a main source of funding. [[Bank]] loans and credit are one way to increase the money supply. 
+ 
+ ==Important components of a loan== 
+ A loan can be broadly described by the following terms.  
+ 
+ ===Deposit or Down-payment=== 
+ The [[deposit]] or down-payment is an amount of money that the borrower is required to pay, as the first contribution towards clearing the debt, so that the loan deal can be finalized. The deposit is usually higher than the monthly contribution towards the loan. Some loans require a deposit while some do not. The deposit is usually a fraction, typically a percentage, of the total amount that is loaned out. 
+ 
+ ===Installments=== 
+ An Installment is money that is a monthly payment towards the loan. It may not be necessarily paid monthly but it has to be paid from time to time over throughout the loan deal. Installments are paid according to a loan rate. 
+ 
+ ===Interest=== 
+ Interest is a charge on top of the value of the loan, that acts as a cost of the loan. Interest is paid according to a rate called an interest rate. The interest rate varies from loan to loan and from lender to lender. 
+ 
+ ==Loan payment== 
+ The most typical loan payment type is the fully amortizing payment in which each monthly rate has the same value over time. < ref > {{cite news| url=https://www.washingtonpost.com/wp-dyn/content/article/2007/10/05/AR2007100501165.html | newspaper=The Washington Post | title=The Math Behind Your Home Loan | first=Jack | last=Guttentag | date=October 6, 2007 | access-date=May 11, 2010}} < /ref > 
+ 
+ The fixed monthly payment ''P'' for a loan of ''L'' for ''n'' months and a monthly interest rate ''c'' is: 
+ 
+ : < math > P = L \cdot \frac{c\,(1 + c)^n}{(1 + c)^n - 1} < /math > 
+ 
+ 
+ ==Types of loan== 
+ Loans can be broadly classified as either secured or unsecured loans. 
+ 
+ === Secured and unsecured loans=== 
+ Secured loans are loans for which the borrower is required to guarantee repayment, by pledging with [[property]], for instance a [[car]], a [[house]] etc. This property is called security or collateral. Because of the pledging, secured loans are given in larger amounts and have lower interest rates. However, there is a risk of losing the property used as security, in the event that the loan is not paid off. 
+ 
+ An example of a secured loan is a mortgage. 
+ 
+ Unsecured loans are loans that are given without pledges of repayment. This means that the borrower is not required to provide security to get the loan. 
+ Because of the high risk involved, unsecured loans are given out in smaller amounts and have higher interest rates. The lenders raise the interest rates in an effort to recover their money as quickly as possible. Most personal loans are unsecured loans. 
+ 
+ ===Personal loans=== 
+ A personal loan is a 'small expense' loan that is mostly used by people to  
+ finance their day to day emergencies. They come in smaller amounts and 
+ therefore, just like most unsecured loans, they are easily approved. 
+ 
+ ===Home loans=== 
+ Home loans are loans that are taken for the purpose of buying a house. 
+ Home loans are secured loans. The house acts as a collateral or security 
+ to the loan. 
+ 
+ ===Payday loans=== 
+ Payday loans  are signature loans or cash advances that requires no security. This means that it is possible to get a payday loan even with a bad credit status or no credit at all. Payday loans are given on the basis of [[employment]] and income. 
+ 
+ However, payday loans have a high interest rate especially when the paying schedule is not followed. The high interest rates are a cost of convenience. Interest could run as high as 2000%, for this reason, it is not a good idea to take a payday loan if you don't expect to earn enough to repay it. 
+ 
+ ===Auto loans=== 
+ Auto loans are loans given out by financial institutions or car dealerships, for the purpose of buying an automobile. Due to the nature of automobiles to lose value with time, Auto loans usually have high interest rates. The shorter the time an auto loan is paid, the lower the overall cost of the loan will be. 
+ 
+ ===Mortgage=== 
+ [[Mortgage]] is a loan that is used specifically to purchase a house. Usually, a mortgage is given to you by a mortgage company or any financial institution, after evaluation of your potential to pay back the loan in full. A mortgage is a secured loan, therefore, providing collateral is necessary. Mortgage can be further classified into long-term and short-term mortgages, depending on the length of time required for the mortgage to be paid. Short-term mortgages usually have a term of 15 years while long–term mortgages have a 30-year term. < ref > {{Cite web|title=Mortgage - Definition, Overview, Examples, Types  &  Payments|url=https://corporatefinanceinstitute.com/resources/knowledge/finance/mortgage/|access-date=2021-05-18|website=Corporate Finance Institute|language=en-US}} < /ref > 
+ 
+ ===Credit card loans=== 
+ When you get a [[credit card]], you have taken a loan. This is a credit card loan, and just like any other loan, it comes with [[interest]] and [[fee]]s. Credit card loans are given out by credit companies and most banks today. The interest rates on credit card loans are higher than that on most personal loans, often around 15%. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [http://www.loanconsolidation.ed.gov/ Federal Direct Consolidation Loans Information Center of the U.S. Government] {{Webarchive|url=https://web.archive.org/web/20050913175136/http://www.loanconsolidation.ed.gov/ |date=2005-09-13 }} 
+ * [http://www.ed.gov/offices/OSFAP/DirectLoan/index.html William D. Ford] Federal Direct Loan Program 
+ * [https://www.securedfuture.co.uk UK Information about extending your borrowing] {{Webarchive|url=https://web.archive.org/web/20200626071819/https://www.securedfuture.co.uk/ |date=2020-06-26 }} 
+ * [http://www.consumerreports.org/cro/money/credit-loan/negotiating-with-your-creditors/overview/negotiating-with-your-creditors-ov.htm Debt Settlement Advice from ''Consumer Reports'' magazine] 
+ 
+ [[Category:Finance]] 
+ [[Category:Money]]

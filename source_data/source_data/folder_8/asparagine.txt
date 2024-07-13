@@ -1,0 +1,84 @@
+{{chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 443663559 
+ | Name = {{sm|l}}-Asparagine 
+ | ImageFile = L-Asparagin - L-Asparagine.svg 
+ | ImageSize = 200px 
+ | ImageAlt = Skeletal formula of L-asparagine 
+ | ImageCaption = [[Skeletal formula]] of  < small > L < /small > -asparagine 
+ | ImageFile1 = L-Asparagin phys.svg 
+ | ImageSize1 = 220 
+ | ImageAlt1 = Ball-and-stick model of the L-asparagine molecule as a zwitterion 
+ | ImageFileL2 = Asparagine-from-xtal-3D-bs-17.png 
+ | ImageSizeL2 = 100 
+ | ImageCaptionL2 = [[Ball-and-stick model]] 
+ | ImageFileR2 = Asparagine-from-xtal-3D-sf.png 
+ | ImageSizeR2 = 110 
+ | ImageCaptionR2 = [[Space-filling model]] 
+ | IUPACName = Asparagine 
+ | OtherNames = 2-Amino-3-carbamoylpropanoic acid 
+ |Section1={{Chembox Identifiers 
+ | IUPHAR_ligand = 4533 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 6031 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 5Z33R5TKO7 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 58832 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = C00152 
+ | InChI = 1/C4H8N2O3/c5-2(4(8)9)1-3(6)7/h2H,1,5H2,(H2,6,7)(H,8,9)/t2-/m0/s1 
+ | InChIKey = DCXYFEDJOCDNAF-REOHCLBHBD 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C4H8N2O3/c5-2(4(8)9)1-3(6)7/h2H,1,5H2,(H2,6,7)(H,8,9)/t2-/m0/s1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = DCXYFEDJOCDNAF-REOHCLBHSA-N 
+ | CASNo = 70-47-3 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | EC_number = 200-735-9 
+ | PubChem = 236 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 17196 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB03943 
+ | SMILES = O=C(N)C[C@H](N)C(=O)O 
+ | SMILES1 = O=C(N)C[C@H]([NH3+])C(=O)[O-] 
+ | SMILES1_Comment = [[Zwitterion]] 
+ }} 
+ |Section2={{Chembox Properties 
+ | C=4 | H=8 | N=2 | O=3 
+ | Appearance = white crystals 
+ | Density = 1.543 g/cm < sup > 3 < /sup > 
+ | MeltingPtC = 234  
+ | BoilingPtC = 438 
+ | Solubility = 2.94 g/100 mL 
+ | SolubleOther = soluble in [[acids]], [[Base (chemistry)|bases]], negligible in [[methanol]], [[ethanol]], [[diethyl ether|ether]], [[benzene]]   
+ | pKa = {{Unbulleted list 
+  | 2.1 (carboxyl; 20 & nbsp;°C, H < sub > 2 < /sub > O) 
+  | 8.80 (amino; 20 & nbsp;°C, H < sub > 2 < /sub > O) < ref name= " CRC97 " > {{cite book | veditors = Haynes WM | year = 2016 | title = CRC Handbook of Chemistry and Physics | edition = 97th | publisher = CRC Press | isbn = 978-1498754286 | pages=[https://archive.org/details/crchandbookofche0000unse_k6n5/page/n435 5]–89 | title-link = CRC Handbook of Chemistry and Physics }} < /ref > 
+ }} 
+ | LogP = −3.82 
+ | MagSus = -69.5·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+   }} 
+ |Section3={{Chembox Structure 
+ | CrystalStruct = orthorhombic 
+  }} 
+ |Section4={{Chembox Thermochemistry 
+ | DeltaHf = −789.4 kJ/mol 
+   }} 
+ |Section7={{Chembox Hazards 
+ | ExternalSDS = [https://www.sigmaaldrich.com/US/en/sds/sigma/a0884 Sigma-Alrich] 
+ | NFPA-H = 1 | NFPA-F = 0 | NFPA-R = 0 
+ | FlashPtC = 219 
+ | AutoignitionPtC =  
+   }} 
+ }} 
+ 
+ 
+ '''Asparagine''' is an non-[[essential amino acid]]. Our bodies can make it. It is used in the [[biosynthesis]] of [[Protein biosynthesis|proteins]]. 
+ 
+ == References == 
+ {{reflist}} 
+ {{Proteinogenic amino acids}} 
+ 
+ [[Category:Amino acids]]

@@ -1,0 +1,152 @@
+{{Infobox Italian comune 
+ | name                = Frosinone 
+ | official_name       = Comune di Frosinone 
+ | native_name         =  
+ | image_skyline       = Panorama Frosinone edit.jpg 
+ | imagesize           =  
+ | image_alt           = Overview of Frosinone 
+ | image_caption       = Overview of Frosinone 
+ | image_flag          =  
+ | image_shield        = Frosinone-Stemma.png | shield_size=65px 
+ | shield_alt          =  
+ | image_map           = Map of comune of Frosinone (province of Frosinone, region Lazio, Italy).svg 
+ | map_alt             = Frosinone in the province 
+ | map_caption         = The ''comune'' Frosinone, in red, in its province 
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates = {{coord|41|38||N|13|21||E||display=title}} 
+ | coordinates_footnotes =  
+ | region              = [[Lazio]] 
+ | province            = [[Province of Frosinone|Frosinone]] (FR) 
+ | frazioni            = see [[#Frazioni|list]] 
+ | mayor_party         =  
+ | mayor               =  Nicola Ottaviani < ref > {{cite web|url=http://www.comune.frosinone.it/pagina6_sindaco.html |title=Sindaco |publisher=Comune di Frosinone |language=it |access-date=10 September 2017 }} < /ref >    
+ | area_footnotes      =  < ref name= " area " > {{cite web|url=http://www.tuttitalia.it/lazio/67-frosinone/ |title=Comune di Frosinone |publisher=Tuttitalia.it |language=it |access-date=10 September 2017}} < /ref > 
+ | area_total_km2      = 46.85 
+ | population_footnotes =  < ref name= " pop " > {{cite web |url=http://demo.istat.it/pop2017/index.html |title=Statistiche demografiche ISTAT |publisher=Demo.istat.it |language=it |access-date=10 September 2017 |archive-date=3 January 2018 |archive-url=https://web.archive.org/web/20180103163404/http://demo.istat.it/pop2017/index.html |url-status=dead }} < /ref > 
+ | population_total    = 46120 
+ | population_as_of    = 1 January 2017 
+ | pop_density_footnotes =  
+ | population_demonym  = Frusinati 
+ | elevation_footnotes =  < ref name= " area "  / > 
+ | elevation_m         = 291 
+ | elevation_min_m     = 131 
+ | elevation_max_m     = 320 
+ | twin1               =  
+ | twin1_country       =  
+ | saint               = Saints [[Pope Silverius|Silverius]] and [[Pope Hormisdas|Hormisdas]] 
+ | day                 = 20 June 
+ | postal_code         = 03100 
+ | area_code           = 0775 
+ | website             = {{official website|http://www.comune.frosinone.it/}} 
+ | footnotes           =  
+ }} 
+ '''Frosinone'''  is a [[city]] and a ''[[comune]]'' in the [[Lazio]] [[Regions of Italy|region]] of [[Central Italy]], the [[Capital city|capital]] of the [[province of Frosinone]]. The city is about {{Convert|75|km|mi|0|abbr= }} southeast of [[Rome]]. 
+ 
+ ==Geography== 
+ The ''comune'' of Frosinone has an area of {{Convert|46.85|km2|sqmi|abbr=on }} and its [[altitude]] is {{Convert|291|m|ft|abbr=on}} [[above sea level]]. < ref name= " area "  / > 
+ 
+ The ''comune'' borders with the  ''[[Comune|comuni]]'' [[Alatri]], [[Arnara]], [[Ceccano]], [[Ferentino]], [[Patrica]], [[Supino]], [[Torrice]], [[Veroli]]. < ref > {{cite web|url=http://www.tuttitalia.it/lazio/67-frosinone/45-comuni-limitrofi/ |title=Comuni limitrofi a Frosinone |publisher=Tuttitalia.it |language=it |access-date=10 September 2017}} < /ref > 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Frosinone 
+ |North     = [[Alatri]] 
+ |Northeast = [[Veroli]] 
+ |East      = [[Torrice]] 
+ |Southeast = [[Arnara]] 
+ |South     = [[Ceccano]] 
+ |Southwest = [[Patrica]] 
+ |West      = [[Supino]] 
+ |Northwest = [[Ferentino]] 
+ }} 
+ 
+ ===''Frazioni''=== 
+ The following ''[[Frazione|frazioni]]'' ([[Hamlet (place)|hamlet]]s) are part of the ''comune'' of Frosinoneː Capo Barile Nicolia, Cerreto, Cinque Vie, Colle Cannuccio, Farnito, Fontana Grande, Impratessa, La Cervona, Lago Maniano, Le Noci, Le Pignatelle, Le Rase, Pratillo, San Liberatore, Selva Dei Muli, Valle Contessa, Vetiche I. 
+ 
+ ==Population== 
+ {{As of|2017|1|1}}, there are 46,120 persons (22,004 [[male]]s and 24,116 [[female]]s) living in the ''comune'', < ref name=pop / >  for a [[population density]] of {{Pop density|46120|46.85|km2|prec=1|disp=num}} inhabitants/km². 
+ 
+ === Population evolution === 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:450 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:50000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1961 text:1961 
+  bar:1971 text:1971 
+  bar:1981 text:1981 
+  bar:1991 text:1991 
+  bar:2001 text:2001 
+  bar:2011 text:2011 
+  bar:2017 text:2017 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1961 from:0 till: 31155 
+  bar:1971 from:0 till: 39028 
+  bar:1981 from:0 till: 44644 
+  bar:1991 from:0 till: 45815 
+  bar:2001 from:0 till: 48636 
+  bar:2011 from:0 till: 46649 
+  bar:2017 from:0 till: 46120 
+ 
+ PlotData= 
+  bar:1961 at: 31155 fontsize:S text: 31,155 shift:(-12,5) 
+  bar:1971 at: 39028 fontsize:S text: 39,028 shift:(-18,5) 
+  bar:1981 at: 44644 fontsize:S text: 44,644 shift:(-18,5) 
+  bar:1991 at: 45815 fontsize:S text: 45,815 shift:(-18,5) 
+  bar:2001 at: 48636 fontsize:S text: 48,636 shift:(-18,5) 
+  bar:2011 at: 46649 fontsize:S text: 46,649 shift:(-18,5) 
+  bar:2017 at: 46120 fontsize:S text: 46,120 shift:(-18,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Gallery== 
+ < gallery > 
+ File:OrmisdasquareFrosinone.jpg|Piazza Sant'Ormisda 
+ File:Porta romana a Frosinone.jpg|Porta Romana 
+ File:ViaAldoMoro-Frosinone.jpg|Via Aldo Moro 
+ File:Frosinone (old city).jpg|Via Garibaldi 
+ File:FontanaCorsoDellaRepubblica-Frosinone.jpg|[[Fountain]] in ''Corso della Repubblica'' 
+ < /gallery > 
+ 
+ ==Twinned and partner towns== 
+ Frosinone is [[Twin town|twinned]] with: 
+ 
+ *{{Flagicon|USA}} [[Elmwood Park, Illinois|Elmwood Park]], [[United States]] 
+ *{{Flagicon|CAN}} [[Tecumseh, Ontario|Tecumseh]], [[Canada]] 
+ *{{Flagicon|ITA}} [[Nocera Umbra]], Italy 
+ *{{flagicon|ITA}} [[Ponza]], Italy 
+ 
+ ==Related pages== 
+ * [[List of communes of the Province of Frosinone]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Frosinone}} 
+ *[http://www.comune.frosinone.it/ Frosinone official website] {{in lang|it}} 
+ * [http://www.provincia.fr.it/ Province of Frosinone official website] {{in lang|it}} 
+ * [http://www.regione.lazio.it/ Lazio Region Official site] {{in lang|it}} 
+ 
+ {{Province of Frosinone}} 
+ 
+ [[Category:Capital cities in Italy]] 
+ [[Category:Cities in Lazio]] 
+ [[Category:Province of Frosinone]]

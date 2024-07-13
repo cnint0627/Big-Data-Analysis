@@ -1,0 +1,48 @@
+{{Taxobox 
+ | name = ''Werneria'' 
+ | regnum = [[Animalia]] 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Amphibia]] 
+ | ordo = [[Anura]] 
+ | familia = [[Bufonidae]] 
+ | genus = '''''Werneria''''' 
+ | genus_authority = [[Franz Poche|Poche]], 1903 
+ | subdivision_ranks = Species 
+ | subdivision = 
+ 6 species; see table. 
+ }} 
+ 
+ '''''Werneria''''' ('''smalltongue toads''') is a [[genus]] of [[Bufonidae|true toads]].  They live in [[Cameroon]] and Equatorial [[Guinea]]. 
+ 
+ ==Species== 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !Binomial Name and Author!! Common Name 
+ |- 
+ |-style= " background:#EEEEEE; "   
+ | ''[[Werneria bambutensis]]'' {{small|(Amiet, 1972)}} || Bamboutos Smalltongue Toad 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Werneria iboundji]]'' {{small|Rödel, Schmitz, Pauwels  &  Böhme, 2004}} ||  
+ |-style= " background:#EEEEEE; " 
+ | ''[[Werneria mertensiana]]'' {{small|Amiet, 1976}} || Mertens' Smalltongue Toad 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Werneria preussi]]'' {{small|(Matschie, 1893)}} || Buea Smalltongue Toad 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Werneria submontana]]'' {{small|Rödel, Schmitz, Pauwels  &  Böhme, 2004}} ||  
+ |-style= " background:#FFFDFF; " 
+ | ''[[Werneria tandyi]]'' {{small|(Amiet, 1972)}} || Tandy's Smalltongue Toad 
+ |- 
+ |} 
+ 
+ ==References== 
+ * {{aut|Mark-Oliver Rödel, Andreas Schmitz, Olivier S.G. Pauwels,  &  Wolfgang Böhme}}, 2004 Revision of the genus Werneria Poche, 1903, including the descriptions of two new species from Cameroon and Gabon (Amphibia: Anura: Bufonidae) ''Zootaxa'' '''720''': 1–28 [http://www.mapress.com/zootaxa/2004f/z00720f.pdf] 
+ 
+ ==Other websites== 
+ * {{aut|Frost, Darrel R}}. 2007. Amphibian Species of the World: an Online Reference. Version 5.1 (October 10, 2007). [http://research.amnh.org/herpetology/amphibia/names.php?taxon= & family= & subfamily= & genus=Werneria & commname= & authority= & year= & geo=0 & dist= & comment= ''Werneria'']. Electronic Database accessible at http://research.amnh.org/herpetology/amphibia/index.php. American Museum of Natural History, New York, USA. (Accessed: May 8, 2008).  
+ * {{aut|AmphibiaWeb: Information on amphibian biology and conservation.}} [web application]. 2008. Berkeley, California: [http://amphibiaweb.org/cgi-bin/amphib_query?query_src=aw_lists_genera_ & table=amphib & where-genus=Werneria & where-species= ''Werneria'']. AmphibiaWeb, available at http://amphibiaweb.org/. (Accessed: May 8, 2008).  
+ * {{aut|eol – Encyclopedia of Life}} taxon [http://www.eol.org/taxa/16203243 ''Werneria''] at http://www.eol.org. 
+ * {{aut|ITIS – Integrated Taxonomic Information System on-line database}} Taxon [https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN & search_value=207271 ''Werneria''] at https://www.itis.gov/index.html. (Accessed: May 8, 2008). 
+ * {{aut|GBIF – Global Biodiversity Information Facility}} Taxon [http://data.gbif.org/species/13245204/ ''Werneria''] at http://data.gbif.org/welcome.htm {{Webarchive|url=https://web.archive.org/web/20080501142231/http://data.gbif.org/welcome.htm |date=2008-05-01 }}  
+ 
+ [[Category:Toads]] 
+ [[Category:Frogs of Africa]]

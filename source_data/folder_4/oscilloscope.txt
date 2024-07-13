@@ -1,0 +1,43 @@
+[[File:CRT oscilloscope.png|right|thumb|300px|Illustration showing the interior of a cathode ray tube for use in an oscilloscope. Numbers in the picture indicate: < br / > 
+ < ol > 
+ < li > Deflection voltage electrodes < /li > 
+ < li > Electron gun < /li > 
+ < li > Electron beam < /li > 
+ < li > Focusing coil < /li > 
+ < li > Phosphor-coated inner side of the screen < /li > 
+ < /ol > 
+ ]] 
+ [[image:Tektronix Oscilloscope 475A.jpg|right|thumb|300px|A [[Tektronix]] model 475A portable analogue oscilloscope, typical of the late [[1970s]]. 
+ This dual-trace, dual-sweep instrument had a horizontal bandwidth of 250 [[Megahertz|MHz]], a maximum vertical sensitivity of 5 [[Volt|mV]] per division, and maximum (unmagnified) horizontal sweep speed of 10 [[nanosecond|ns]] per division. The vertical controls are on the left with Channel 1 above and Channel 2 below. The horizontal sweep controls are on the right with the Main Trigger above and the Delayed Trigger below. The [[Cathode ray tube|CRT]] controls are below the screen. The metal loop to the lower right of the screen provided a calibration signal for voltage and current [[Test probe|probes]].]] 
+ 
+ An '''oscilloscope''' (sometimes abbreviated '''CRO''', for [[cathode ray]] oscilloscope, or commonly just '''scope''' or '''O-scope''') is a piece of [[Electronics|electronic]] equipment that lets you see changes in signal [[voltage]]. For example, if you want to see the signal a small electronic [[timer]] was producing, you could connect it to an oscilloscope and see. 
+ 
+ Usually, it shows a two-dimensional graph of one or more electrical [[potential difference]]s on the vertical axis. These graphs are plotted with time or  some other voltage along horizontal axis. 
+ 
+ == Description == 
+ [[File:Oscilloscope diagram.png|left|222px|]] 
+ 
+ A typical oscilloscope is usually box shaped with a display screen, numerous input connectors, control knobs and buttons on the front panel.  To aid [[measurement]], a grid called the ''graticule'' is drawn on the face of the screen.  Each square in the graticule is known as a ''division''. 
+ 
+ == Other websites == 
+ 
+ {{Commonscat|Oscilloscopes|Oscilloscope}} 
+ * [http://68.1911encyclopedia.org/O/OS/OSCILLOGRAPH.htm Oscillograph] 1911 Encyclopædia. 
+ * [http://www.virtual-oscilloscope.com Online oscilloscope simulation] 
+ * [https://www.cs.tcd.ie/courses/baict/bac/jf/labs/scope/oscilloscope.html Oscilloscope Tutorial] {{Webarchive|url=https://web.archive.org/web/20071125220721/https://www.cs.tcd.ie/courses/baict/bac/jf/labs/scope/oscilloscope.html |date=2007-11-25 }} 
+ * [http://www.crtsite.com/page3.html The Cathode Ray Tube site] 
+ * [https://www.tiepie.com/articles/digital-data-acquisition Digital Storage Oscilloscope measurement basics] 
+ * [http://www.qsl.net/wd1v/scopefaq/ Oscilloscope FAQ] 
+ * [http://www.oscilloscopes-online.info/ Oscilloscope Articles  &  Resources] 
+ * [http://www.doctronics.co.uk/scope.htm Using a Common Oscilloscope] {{Webarchive|url=https://web.archive.org/web/20101222065117/http://www.doctronics.co.uk/scope.htm |date=2010-12-22 }} 
+ * [http://www.amperis.com/en/products/oscilloscopes/ Features of handheld Oscilloscope] 
+ * [http://www.bbaba.altervista.org/tecnica/oscilloscope.php Quick and easy tutorial to learn concepts and use. Technical terms explained in clear and simple way.] 
+ 
+ 
+ == References == 
+ {{reflist}}{{LaboratoryEquipment}} 
+ 
+ [[Category:Laboratory equipment]] 
+ [[Category:Electronics]] 
+ [[Category:Measuring tools]] 
+ [[Category:Machines]]

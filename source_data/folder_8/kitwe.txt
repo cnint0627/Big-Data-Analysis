@@ -1,0 +1,142 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |official_name          = Kitwe 
+ |other_name             = 
+ |native_name            =  < !-- for cities whose native name is not in English -- > 
+ |nickname               = 
+ |settlement_type        = City 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = Kitwe.jpg 
+ |imagesize              = 250px 
+ |image_caption          = View towards the City of Kitwe, Zambia 
+ |image_flag             = 
+ |flag_size              = 
+ |image_seal             = 
+ |seal_size              = 
+ |image_shield           = 
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              = 
+ |mapsize                = 
+ |map_caption            = 
+ |image_map1             = 
+ |mapsize1               = 
+ |map_caption1           = 
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            =  
+ |pushpin_label_position = bottom 
+ |pushpin_map_caption    =  
+ |subdivision_type       = Country 
+ |subdivision_name       = [[File:Flag of Zambia.svg|25px]] [[Zambia]] 
+ |subdivision_type1      = [[Provinces of Zambia|Province]] 
+ |subdivision_name1      = [[Copperbelt Province]] 
+ |subdivision_type2      = [[Districts of Zambia#Copperbelt Province|District]] 
+ |subdivision_name2      = [[Kitwe District]] 
+ |subdivision_type3      = 
+ |subdivision_name3      = 
+ |subdivision_type4      = 
+ |subdivision_name4      = 
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            = 
+ |leader_title1          =   < !-- for places with, say, both a mayor and a city manager -- > 
+ |leader_name1           = 
+ |leader_title2          = 
+ |leader_name2           = 
+ |leader_title3          = 
+ |leader_name3           = 
+ |leader_title4          = 
+ |leader_name4           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       = 
+ |established_title2     =   < !-- Incorporated (town) -- > 
+ |established_date2      = 
+ |established_title3     =   < !-- Incorporated (city) -- > 
+ |established_date3      = 
+ < !-- Area    --------------------- > 
+ |area_magnitude         = 
+ |unit_pref                =Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = 
+ |area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ |area_urban_km2           = 
+ |area_urban_sq_mi         = 
+ |area_metro_km2           = 
+ |area_metro_sq_mi         = 
+ |area_blank1_title        = 
+ |area_blank1_km2          = 
+ |area_blank1_sq_mi        = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               =2010 census 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               = 504194 
+ |population_density_km2         = 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_urban               = 
+ |population_density_urban_km2   = 
+ |population_density_urban_sq_mi = 
+ |population_blank1_title        =Ethnicities 
+ |population_blank1              = 
+ |population_blank2_title        =Religions 
+ |population_blank2              = 
+ |population_density_blank1_km2 = 
+ |population_density_blank1_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               = [[Central Africa Time|CAT]] 
+ |utc_offset             = +2 
+ |timezone_DST           = 
+ |utc_offset_DST         = 
+ |coordinates            = {{coord|12|49|S|28|12|E|region:ZM|display=inline}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            = 
+ |elevation_ft           = 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             = [[Köppen climate classification|Climate]] 
+ |blank_info             = [[Humid subtropical climate|Cwa]] 
+ |blank1_name            = 
+ |blank1_info            = 
+ |website                = 
+ |footnotes              = 
+ }} 
+ < !-- Infobox ends -- > 
+ '''Kitwe''' is the second largest city in size and population in the [[country]] [[Zambia]]. 
+ Kitwe has a population of 504,194 (2010 [[census]]). Kitwe was found in 1936 as the [[Rhodesia Railways|railway line]] was being built by [[Cecil Rhodes]]' company. 
+ The city is home to a number of mining operations including the Mopani Copper Mines. 
+ 
+ ==Twin towns – sister cities== 
+ Kitwe's has five Twin towns and sister cities: 
+ * {{flagicon|ROU}} - [[Baia Mare]], [[Romania]] 
+ * {{flagicon|SRB}} - [[Bor, Serbia|Bor]], [[Serbia]] 
+ * {{flagicon|UK}} - [[Sheffield]], [[South Yorkshire]], [[England]], [[United Kingdom]] 
+ * {{flagicon|USA}} - [[Detroit, Michigan|Detroit]], [[Michigan]], [[United States]] 
+ * {{flagicon|BRA}} - [[Ponta Grossa]], [[Paraná (state)|Paraná]], [[Brasil]] 
+ 
+ == Other websites == 
+ * [http://www.greatnorthroad.org/maps/nkana_kitwe/ Historical, vector-based map of Nkana-Kitwe, 1961] {{Webarchive|url=https://web.archive.org/web/20070928043522/http://www.greatnorthroad.org/maps/nkana_kitwe/ |date=2007-09-28 }} 
+ 
+ ==Reference== 
+ 
+ {{geo-stub}} 
+ [[Category:Cities in Zambia]] 
+ [[Category:Copperbelt]]

@@ -1,0 +1,32 @@
+{{Infobox software 
+ | name = Zipeg 
+ | logo = Zipeg-128x128.png 
+ | screenshot = Zipeg.2.9.2.mac.png 
+ | caption = Zipeg running under [[Mac OS X]] and [[Windows XP]] 
+ | developer = Leo Kuznetsov 
+ | latest_release_version = 2.9.4.1316 
+ | latest_release_date = Jul 26, 2012 
+ | operating_system = [[Microsoft Windows]], [[Mac OS X]] 
+ | genre = [[File archiver]] 
+ | license = [[BSD License]] 
+ | website = [http://www.zipeg.com/ Main Zipeg Site] 
+ }} 
+ '''Zipeg'''  is an [[open source]] [[free software]]. Zipeg unpacks files from [[ZIP (file format)|ZIP]], [[RAR]] and other archives. Zipeg works on [[Mac OS X]] and [[Microsoft Windows|Windows]]. Zipeg can preview files and photographs. It is not capable of compressing files. Zipeg is able to extract compressed files. Zipeg supports RAR, ZIP and other formats. Zipeg is built on top of the [[7-Zip]] backend. Zipeg user interface is implemented in Java and is open source. 
+ 
+ Zipeg automatically detects filenames in national alphabets (code pages). Zipeg correctly translates filenames from national alphabet to Unicode. Zipeg reads EXIF thumbnails from JPEG digital photographs. Zipeg uses thumbnails for  " tool tip "  style preview and item icons. 
+ 
+ == References == 
+ {{Refs}} 
+ * [http://download.cnet.com/Zipeg/3000-2250_4-10638987.html Zipeg review from c|net] 
+ * [http://www.macworld.com/article/134286/2009/05/zipeg.html Zipeg review] by [[Macworld]] 
+ 
+ ==Other websites== 
+ * [http://www.zipeg.com/ Zipeg main site http://www.zipeg.com/] {{Webarchive|url=https://web.archive.org/web/20130209011837/http://www.zipeg.com/ |date=2013-02-09 }} 
+ * [http://zipeg.googlecode.com/ Zipeg source code http://zipeg.googlecode.com/]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} 
+ * [https://www.apple.com/downloads/macosx/system_disk_utilities/zipeg.html Zipeg at apple.com downloads] 
+ 
+ 
+ {{science-stub}} 
+ 
+ [[Category:Microsoft Windows software]] 
+ [[Category:Free software]]

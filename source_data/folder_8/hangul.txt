@@ -1,0 +1,157 @@
+'''Hangeul''' ({{lang-ko|한글}}) (formerly '''Hangul''' 한굴) is the [[alphabet]] (or alphabetic [[syllable|syllabary]]) used for the [[Korean language]]. < ref name= " :1 " > {{Cite book|url=https://www.worldcat.org/oclc/851828930|title=Processing of Visible Language|last=Kolers|first=Paul A.|date=1979|publisher=Springer US|others=Merald E. Wrolstad, Herman Bouma|isbn=978-1-4684-0994-9|location=Boston, MA|pages=67–82|oclc=851828930}} < /ref > < ref > {{cite journal |last1=Pae |first1=Hye K. |title=Is Korean a syllabic alphabet or an alphabetic syllabary |journal=Writing Systems Research |date=1 January 2011 |volume=3 |issue=2 |pages=103–115 |doi=10.1093/wsr/wsr002 |url=http://www.tandfonline.com/doi/abs/10.1093/wsr/wsr002 |accessdate=17 October 2017 |issn=1758-6801 }} < /ref > 
+ 
+ It was made by [[Sejong the Great]], the 4th King of the [[Joseon|Joseon Dynasty]] in 1443. It is still being used now. When Hangeul was spreading, King Sejong published ''Hunminjeong'eum Haeryebon'' (훈민정음 해례본). It was picked as the 'Memory of the World' by [[UNESCO]] in 1997.  
+ 
+ In this book, the design ideas of Hangeul and information about its use were written down in detail. The book ''Hunminjeong'eum Haeryebon'' states the two design ideas of Hangeul. The first one is that the consonants of Hangeul look like vocal organs. The second one is that the vowels of Hangeul are based on Cheonji'in (천지인). Cheonji'in refers to the three [[The Elements of Style|elements]] of [[philosophy]] which are sky (천), earth (지) and human (인). Because of these ideas, Hangeul is well known for being easy to learn. 
+ 
+ Although it was only used by the lower classes at first, Hangeul became the official writing script of Korea in the late 19th century. Today it is the most used writing system of both North Korea and South Korea. [[North Korea]] abolished the use of [[Hanja]], and today North Koreans write only in Hangeul. In [[South Korea]], people write mostly in Hangeul, but sometimes Hanja is still used. 
+ 
+ == Vowels == 
+ Vowels are letters like A, E, O and so on 
+ 
+ There are 21 letters for vowels in Hangul. 
+ * 10 simple ones,   < big > ㅏㅓㅣㅑㅕ  < /big >  and   < big > ㅗㅜㅡㅛㅠ < /big > . 
+ * 11 more complicated combinations:   < big > ㅐㅒㅔㅖ < /big >  and  < big > ㅘㅙㅚㅝㅞㅟㅢ < /big > . 
+ 
+ Meaning: 
+ 
+ {| 
+ |----- 
+ | ㅏ || ㅓ || ㅣ || ㅑ || width= " 40 "  | ㅕ || ㅗ || ㅜ || ㅡ 
+ | ㅛ || width= " 40 "  | ㅠ || ㅐ || ㅒ 
+ | ㅔ || width= " 40 "  | ㅖ || ㅘ || ㅙ || ㅚ || ㅝ 
+ | ㅞ || ㅟ 
+ < td > ㅢ 
+ |----- 
+ | a || eo || i || ya || yeo || o || u || eu 
+ | yo || yu || ae || yae || e || ye || wa || wae || oe || wo 
+ | we || wi 
+ < td > eui 
+ |----- 
+ |} 
+ Those with two small lines are pronounced with an extra  " y "  first. 
+ 
+ == Consonants == 
+ Consonants are letters like B, G, L, M, N, S and so on. < br > There are 14 simple consonants:  < big > ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ < /big > < br > They can be written two next to each other. Meaning: 
+ 
+ {| class= " wikitable "  style= " text-align: center; " 
+ ! rowspan= " 2 "  |letter 
+ ! colspan= " 2 "  |sound 
+ |- 
+ !before < br > vowel 
+ !after < br > vowel 
+ |- 
+ |ㄱ 
+ |g 
+ |k 
+ |- 
+ |ㄴ 
+ | colspan= " 2 "  |n 
+ |- 
+ |ㄷ 
+ |d 
+ |t 
+ |- 
+ |ㄹ 
+ |r 
+ |l 
+ |- 
+ |ㅁ 
+ | colspan= " 2 "  |m 
+ |- 
+ |ㅂ 
+ |b 
+ |p 
+ |- 
+ |ㅅ 
+ |s 
+ |t 
+ |- 
+ |ㅇ 
+ | - 
+ |ng 
+ |- 
+ |ㅈ 
+ |j 
+ |t 
+ |- 
+ |ㅊ 
+ |ch 
+ |t 
+ |- 
+ |ㅋ 
+ | colspan= " 2 "  |k 
+ |- 
+ |ㅌ 
+ | colspan= " 2 "  |t 
+ |- 
+ |ㅍ 
+ | colspan= " 2 "  |p 
+ |- 
+ |ㅎ 
+ |h 
+ |t 
+ |- 
+ |ㄲ 
+ |kk 
+ |k 
+ |- 
+ |ㄸ 
+ |tt 
+ |t 
+ |- 
+ |ㅃ 
+ |pp 
+ |p 
+ |- 
+ |ㅆ 
+ |ss 
+ |t 
+ |- 
+ |ㅉ 
+ |jj 
+ |t 
+ |----- 
+ |} 
+ 
+ The consonants the Korean language uses written in Latin letters are: 
+ B, D, G, H, J, K, L, M, N, P, R, S, T, W, Y. 
+ 
+ == Blocks == 
+ The consonants and vowels are combined into blocks of syllables. A syllable means one vowel and a few consonants, like  " han "  and  " geul " . 
+ 
+ The blocks look like these examples:  < font size= " +2 " > 서울 한글 평양 < /font > 
+ 
+ == Examples == 
+ 
+ [[File:Hangeul.svg|thumb|350px|The word ''Hangeul'' (한글) written in Hangul]] 
+ 
+ {| style= " text-align: center; " 
+ |colspan=5|Seoul  < big > 서울 < /big > 
+ |width=50|  & nbsp; 
+ |colspan=6|Hangeul  < big > 한글 < /big > 
+ |width=50|  & nbsp; 
+ |colspan=8|Pyongyang  < big > 평양 < /big > 
+ |- 
+ |ㅅ||ㅓ||ㅇ||ㅜ||ㄹ|| 
+ |ㅎ||ㅏ||ㄴ||ㄱ||ㅡ||ㄹ|| 
+ |ㅍ||ㅕ||ㅇ||ㅇ||ㅑ||ㅇ 
+ |- 
+ |s||eo||-||u||l|| 
+ |h||a||n||g||eu||l|| 
+ |p||yeo||ng||-||ya||ng 
+ |} 
+ {{-}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ 
+ * {{Commonscat-inline|Hangul}} 
+ 
+ [[Category:Alphabets]] 
+ [[Category:Korea]] 
+ [[Category:1443 establishments]] 
+ [[Category:15th-century establishments in Asia]] 
+ [[Category:Korean language]]

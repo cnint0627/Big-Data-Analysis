@@ -1,0 +1,19 @@
+In [[economics]], the term '''volatility''' is used to measure how much the [[price]] or value of an economic [[Good (economics)|good]] or service changes over time. Goods or services where the price changes a lot are said to have a ''high volatility'', those that don't have a ''low volatility''. The word come from the Latin verb  " volare "  meaning  " to fly " . 
+ 
+ In the securities markets, volatility is often associated with big swings in either direction. For example, when the [[stock market]] rises and falls more than one percent over a sustained period of time, it is called a  " volatile "  market. An asset's volatility is a key factor when pricing options contracts. In statistical terms, volatility is the [[standard deviation]] of a market or security’s annualised returns over a given period - essentially the rate at which its price increases or decreases. Historical volatility is calculated using a series of past market prices, while implied volatility looks at expected future volatility, using the market price of a market-traded derivative like an option. < ref > {{Cite web|title=How changes to Implied Volatility impacts option prices|url=https://www.optionsprofitcalculator.com/blog/how-changes-to-implied-volatility-impacts-option-prices|access-date=2021-09-11|website=www.optionsprofitcalculator.com|language=en}} < /ref > 
+ 
+ == Causes of volatility == 
+ Market volatility is caused by a host of several factors < ref > {{Cite web|title=What causes volatility in the market?|url=https://capital.com/what-causes-volatility-in-the-market|access-date=2021-09-11|website=capital.com|language=en}} < /ref > 
+ 
+ * Political and economic factors 
+ * Industry and sector factors 
+ * Company performance 
+ * Volatility overseas 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{stub}} 
+ 
+ [[Category:Finance]]

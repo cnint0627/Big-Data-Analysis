@@ -1,0 +1,19 @@
+An '''integron''' is a type of [[transposon]], a [[mobile genetic element]]. < ref > King R.C; Stansfield W.D.  &  Mulligan P.K. 2006. ''A dictionary of genetics''. 7th ed, Oxford University Press, p233. {{ISBN|0-19-530-761-5}} < /ref >  It is a two-part [[genetic]] system found in [[bacteria]], and maybe more widely. It is the way [[antibiotic resistance]] is passed on so rapidly. It is found in [[plasmid]]s and [[chromosomes]]. Although the first [[Function (biology)|function]] discovered was antibiotic resistance, other bacterial functions ([[Trait (biology)|traits]]) can be transferred by integrons. 
+ 
+ Transposons are the [[gene]]  " capture and expression elements "  which put  the small mobile elements known as '''gene cassettes''' in place and make them work. < ref > Partridge S.R. ''et al'' 2009. Gene cassettes and cassette arrays in mobile resistance integrons. ''FEMS Microbiology Reviews'', '''33''' (4) 757{{ndash}}784. [http://onlinelibrary.wiley.com/doi/10.1111/j.1574-6976.2009.00175.x/full] < /ref >  Usually, 
+ each cassette has only a single gene and a specific 
+ recombination site. The cassettes carry the DNA coding (= 'a gene') for antibiotic resistance (for example). Typically, the DNA would code for an [[enzyme]] which cleaves (cuts) the antibiotic molecule up. 
+ 
+ The first part of an integron is a [[gene]] which codes for an [[enzyme]] which captures cassettes. The second is a site on the [[genome]] where the cassettes are inserted, and a promoter which drives [[gene expression|expression]] of cassette-associated genes.  " Integron "  describes such structures both when no cassettes are present and when there are integrated cassettes. < ref > Hall R.M.  &  Collis C.M. 1995. Mobile gene cassettes and integrons: capture and spread of genes by site-specific recombination. ''Mol Microbiol'' '''15''', 593–600. [https://www.ncbi.nlm.nih.gov/pubmed/7783631?dopt=Abstract]  
+ < /ref >  Cassettes can be inserted at the site, they can be cut out, and they can undergo [[horizontal gene transfer]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Further reading == 
+ *Hall R.M. 2002. Integrons. In '' Encyclopedia of Genetics'', S. Brenner  &  J.H. Miller (eds), vol 2. London: Academic Press. 
+ *Hall R.M. 2002. Gene cassettes and integrons; moving single genes. In ''Horizontal Gene Transfer'', pp. 19–28. M. Syvanan  &  C. Kado (eds). London: Harcourt. 
+ *Recchia G.D.  &  Hall R.M. 1995. Gene cassettes: a new class of mobile element. ''Microbiology'' '''141''', 3015–3027. FREE Full Text [http://mic.sgmjournals.org/content/141/12/3015.full.pdf+html?ijkey=3da375b13e01aa5800920b7f43fe244837e654e5 & keytype2=tf_ipsecsha]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} 
+ 
+ [[Category:Horizontal gene transfer]] 
+ [[Category:Bacteria]]

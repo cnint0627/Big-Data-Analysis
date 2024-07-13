@@ -1,0 +1,35 @@
+{{italictitle}} 
+ {{Speciesbox 
+ |fossil_range =  [[Middle Jurassic]] < br / > ~{{Fossil range|166|164}} 
+ |image = Piatnitzkysaurus mount japan.jpg 
+ |image_caption = Skeleton cast 
+ | genus = Piatnitzkysaurus 
+ | parent_authority = Bonaparte [[1979 in paleontology|1979]] 
+ | species = floresi 
+ | authority = [[Jose Bonaparte|Bonaparte]] 1979 
+ }} 
+ '''''Piatnitzkysaurus''''' (meaning  " Piatnitzky's lizard " ) is a [[genus]] of [[theropod]] [[dinosaur]]. It lived about 166 to 164 million years ago in the middle [[Jurassic|Jurassic Period]]. Its remains were found in [[Argentina]]. The animal was a fairly large, lightly built, [[Bipedalism|bipedal]], land-based [[carnivore]]. It grew up to {{Convert|6.6|m|ft|1|abbr=on}} long. 
+ 
+ == Classification == 
+  {{clade|{{clade 
+  |1={{clade  
+   |1=''[[Xuanhanosaurus]]'' 
+   |2={{clade 
+    |1=''[[Marshosaurus]]''[[File:Marshosaurus restoration.jpg|80 px]] 
+    |2={{clade 
+     |1=''[[Condorraptor]]''[[File:Condorraptor.jpg|80 px]] 
+     |2=''Piatnitzkysaurus''[[File:Piatnitzkysaurus floresi by Paleocolour.jpg|80 px]] }} }} }} 
+  |2={{clade 
+   |1={{clade 
+    |1=''[[Chuandongocoelurus]]'' 
+    |2=''[[Monolophosaurus]]'' [[File:Monolophosaurus jiangi jmallon (flipped).jpg|80 px]]}} 
+   |label2=[[Megalosauria]] 
+   |2={{clade 
+    |1=[[Spinosauridae]] [[File:Spinosaurus by Joschua Knüppe.png|80 px]] 
+    |2=[[Megalosauridae]] [[File:Torvosaurus tanneri Reconstruction (Flipped).png|80 px]] }} }} }}|style=font-size:100%;line-height:85%|label1='''Megalosauroidea'''}} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ [[Category:Jurassic dinosaurs]]

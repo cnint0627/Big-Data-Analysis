@@ -1,0 +1,230 @@
+[[File:Leavessnipedale.jpg|thumb|Chlorophyll gives leaves their green color and absorbs light that is used in photosynthesis.]] 
+ [[File:Clorofila 3.jpg|thumb|Chlorophyll is found in high concentrations in [[chloroplast]]s of plant cells.]] 
+ [[File:Chlorofilab.png|thumb|Absorption maxima of chlorophylls against the spectrum of white light.{{Citation needed|date=May 2010}}]] 
+ [[File:AYool SEAWIFS annual.png|thumb|[[SeaWiFS]]-derived average sea surface '''chlorophyll''' for the period 1998 to 2006.]] 
+ 
+ '''Chlorophyll''' is a pigment that gives [[plant]]s their green colour. Chlorophyll is a chemical in the [[chloroplasts]] of plants. It allows plants to absorb and use light. Energy from the light is used in [[photosynthesis]] to make [[glucose]]. This contains lots of stored energy which the plant needs to release. It does this through [[respiration]]. This energy is then used when the plant grows or repairs damage. Chlorophyll also makes the stem and leaf of the plant green. 
+ 
+ Chlorophyll is a green [[pigment]] in almost all [[plant]]s, [[alga]]e, and [[cyanobacteria]]. It absorbs light most strongly in the blue portion of the [[electromagnetic spectrum]], followed by the red portion. However, it is a poor absorber of green and near-green portions of the spectrum. < ref > 
+ {{cite web 
+ | author = Speer, Brian R. 
+ | year = 1997 
+ | title = Photosynthetic pigments 
+ | work = UCMP Glossary (online) 
+ | publisher = University of California Museum of Paleontology 
+ | url = http://www.ucmp.berkeley.edu/glossary/gloss3/pigments.html 
+ | access-date = 2010-07-17 
+ }} < /ref >  Chlorophyll was first isolated in 1817. < ref > 
+ {{cite journal 
+ | author = Delépine, Marcel 
+ | author-link = :fr:Marcel Delépine 
+ |date=September 1951 
+ | title = Joseph Pelletier and Joseph Caventou 
+ | journal = Journal of Chemical Education 
+ | volume = 28 
+ | issue = 9 
+ | page = 454 
+ | issn = 0021-9584 
+ | doi = 10.1021/ed028p454 
+ | bibcode = 1951JChEd..28..454D 
+ | url = http://pubs.acs.org/doi/abs/10.1021/ed028p454 
+ }} < /ref > 
+ 
+ == Chlorophyll and photosynthesis == 
+ Chlorophyll is necessary for [[photosynthesis]], which allows plants to obtain energy from light. 
+ 
+ Chlorophyll molecules are arranged in and around the membranes of [[chloroplast]]s. It serves two main functions. The function of most chlorophyll (up to several hundred molecules per photosystem) is to absorb light and transfer that light energy to reaction centres. < ref > Green, 1984 < /ref >  These pigments are named after the wavelength (in [[nanometer]]s) of their red-peak absorption maximum. < ref name= " Marker1972 " > 
+ {{Cite journal 
+ | last = Marker 
+ | first = A.F.H. 
+ | year = 1972 
+ | title = The use of acetone and methanol in the estimation of chlorophyll in the presence of phaeophytin 
+ | journal = Freshwater Biology 
+ | volume = 2 
+ | issue = 4 
+ | page = 361 
+ | doi = 10.1111/j.1365-2427.1972.tb00377.x 
+ }} < /ref > < ref name= " Jeffrey1969 " > 
+ {{Cite journal 
+ | last = Jeffrey 
+ | first =  S.W. 
+ | author2 = Shibata, Kazuo 
+ |date=February 1969 
+ | title = Some spectral characteristics of Chlorophyll c from Tridacna crocea Zooxanthellae 
+ | url = https://archive.org/details/sim_biological-bulletin_1969-02_136_1/page/54 
+ | journal = Biological Bulletin 
+ | publisher = Marine Biological Laboratory 
+ | volume = 136 
+ | issue = 1 
+ | pages = 54–62 
+ | doi = 10.2307/1539668| jstor = 1539668 
+ }} < /ref > < ref > {{cite web 
+ | author = Gilpin, Linda 
+ | date = 21 March 2001 
+ | title = Methods for analysis of benthic photosynthetic pigment 
+ | publisher = School of Life Sciences, Napier University 
+ | url = http://www.lifesciences.napier.ac.uk/teaching/MB/benchl01.html 
+ | access-date = 2010-07-17 
+ | archive-date = 2008-04-14 
+ | archive-url = https://web.archive.org/web/20080414215124/http://www.lifesciences.napier.ac.uk/teaching/MB/benchl01.html 
+ | url-status = dead 
+ }} < /ref >  These chlorophyll pigments can be separated in a simple paper [[chromatography]] experiment. 
+ 
+ The function of the reaction center chlorophyll is to use the energy transferred to it from the other chlorophyll pigments to undergo a specific [[redox]] reaction. In this reaction the chlorophyll gives an [[electron]] to an [[electron transport chain]]. This reaction is how photosynthetic organisms such as plants produce O < sub > 2 < /sub >  gas, and is the source for practically all the O < sub > 2 < /sub >  in Earth's atmosphere. Photosystem I typically works in series with Photosystem II. 
+ 
+ The electron flow produced by the reaction center chlorophyll pigments is used to shuttle H < sup > + < /sup >  ions across the membrane, setting up a chemi[[Osmosis|osmotic]] potential used mainly to produce [[Adenosine triphosphate|ATP]] chemical energy; and those electrons ultimately reduce NADP < sup > + < /sup >  to [[NADPH]], a universal [[redox|reductant]] used to reduce CO < sub > 2 < /sub >  into sugars as well as for other biosynthetic reductions. 
+ 
+ A green sea slug, ''[[Elysia chlorotica]]'', has been found to use the chlorophyll it has eaten to perform photosynthesis for itself. This process is known as [[kleptoplasty]], and no other animal has been found to have this ability. 
+ 
+ === Why green and not black? === 
+ [[File:Black Pearl Plant.jpg|thumb|right|Black plants can absorb more radiation, and yet most plants are green]] 
+ It still is unclear exactly why plants have mostly evolved to be green. Green plants reflect mostly green and near-green light rather than absorbing it. Other parts of the system of [[photosynthesis]] still allow green plants to use the green light spectrum (e.g. through a light-trapping [[leaf]] structure, [[carotenoid]]s, etc.). Green plants do not use a large part of the visible spectrum as efficiently as possible. A black plant can absorb more radiation, and this could be very useful, notwitstandanding the problems of disposing of this extra heat (e.g. some plants must close their openings, called [[stoma]], on hot days to avoid losing too much water). More precisely, the question becomes why the only light absorbing molecule used for power in plants is green and not simply black. 
+ 
+ The biologist John Berman has said that [[evolution]] is not an engineering process, so it often has limits that an [[engineer]] or other designer does not. Even '''''if''''' black leaves were better, evolution's limitations can prevent species from becoming as efficient as possible. Berman wrote that achieving pigments that work better than chlorophyll could be very difficult. In fact, all higher plants ([[embryophyte]]s) are believed to have evolved from a common ancestor that is a sort of [[green algae]] – so chlorophyll has evolved only once ([[common ancestor]]). 
+ < ref name= " JohnBerman " > {{cite web|url=http://www.askabiologist.org.uk/answers/viewtopic.php?id=3837|title=Why did plants evolve green, not black? (Page 1) - Plants  &  Fungi - Ask a Biologist Q & A|website=www.askabiologist.org.uk|access-date=2011-10-17|archive-date=2011-10-06|archive-url=https://web.archive.org/web/20111006053639/http://www.askabiologist.org.uk/answers/viewtopic.php?id=3837|url-status=dead}} < /ref > 
+ 
+ Shil DasSarma, a microbial geneticist at the [[University of Maryland]], has pointed out that species of [[archaea]] use another light-absorbing molecule, [[retinal]], to get power from the green spectrum. Some scientists believe that green-light-absorbing archae were once the most common in the earth environment. This could have left open a  " niche "  for green organisms which would absorb the other wavelengths of sunlight. This is just a possibility, and Berman wrote that scientists are still not convinced of any one explanation. < ref > {{cite web|url=https://www.livescience.com/1398-early-earth-purple-study-suggests.html|title=Early Earth Was Purple, Study Suggests|first1=Ker Than |last1=April 10|first2=2007 06:41am|last2=ET|website=Live Science|date=10 April 2007}} < /ref > 
+ 
+ ==Chemical structure== 
+ [[File:Chlorophyll-a-3D-vdW.png|thumb|Space-filling model of the chlorophyll a molecule]] 
+ Chlorophyll is a [[chlorin]] pigment, which is structurally similar to and produced through the same metabolic pathway as other [[porphyrin]] pigments such as [[haem]]. At the center of the chlorin ring is a [[magnesium]] [[ion]]. For the structures depicted in this article, some of the [[ligand]]s attached to the Mg < sup > 2+ < /sup >  center are omitted for clarity. The chlorin ring can have several different side chains, usually including a long [[phytol]] chain. There are a few different forms that occur naturally, but the most widely distributed form in terrestrial plants is chlorophyll ''a''. The general structure of chlorophyll ''a'' was worked out by [[Hans Fischer]] in 1940. By 1960, when most of the stereochemistry of chlorophyll ''a'' was known, [[Robert Burns Woodward]] published a total synthesis of the molecule. < ref > 
+ {{cite journal|author=Woodward RB|last2=Ayer WA|last3=Beaton JM|date=July 1, 1960|title=The total synthesis of chlorophyll|url=http://pubs.acs.org/doi/abs/10.1021/ja01499a093|journal=Journal of the American Chemical Society|volume=82|issue=14|pages=3800–3802|doi=10.1021/ja01499a093}} < /ref >  In 1967, the last remaining stereochemical elucidation was completed by [[Ian Fleming (chemist)|Ian Fleming]], < ref > 
+ {{cite journal 
+ | author = Fleming, Ian 
+ | author-link = Ian Fleming 
+ | date = 14 October 1967 
+ | title = Absolute configuration and the structure of chlorophyll 
+ | journal = Nature 
+ | volume = 216 
+ | pages = 151–152 
+ | url = http://www.nature.com/nature/journal/v216/n5111/abs/216151a0.html 
+ | doi = 10.1038/216151a0 
+ | issue=5111 
+ | bibcode = 1967Natur.216..151F 
+ | s2cid = 4262313 
+ }} < /ref >  and in 1990 Woodward and co-authors published an updated synthesis. < ref > 
+ {{cite journal 
+ | author = Robert Burns Woodward | display-authors = etal 
+ | year = 1990 
+ | title = The total synthesis of chlorophyll a 
+ | journal = Tetrahedron 
+ | volume = 46 
+ | issue = 22 
+ | pages = 7599–7659 
+ | doi = 10.1016/0040-4020(90)80003-Z 
+ | url = http://media.iupac.org/publications/pac/1961/pdf/0203x0383.pdf 
+ | format = PDF, 0.5 & nbsp;MB 
+ }} < /ref >  In 2010, a near-[[infrared]]-light photosynthetic pigment called [[chlorophyll f]] might have been discovered in [[cyanobacteria]] and other oxygenic microorganisms that form [[stromatolites]]. < ref > {{Cite web|url=http://www.scientificamerican.com/article.cfm?id=new-form-chlorophyll|title = A New Form of Chlorophyll?|website = [[Scientific American]]}} < /ref > < ref > {{cite web|url=https://www.newscientist.com/article/dn19338-infrared-chlorophyll-could-boost-solar-cells/|title=Infrared chlorophyll could boost solar cells|first=Kate|last=McAlpine|website=New Scientist}} < /ref > 
+ 
+ The different structures of chlorophyll are summarized below: 
+ 
+ {| class= " wikitable " 
+ | 
+ ! [[Chlorophyll a]] 
+ ! [[Chlorophyll b]] 
+ ! [[Chlorophyll c1]] 
+ ! [[Chlorophyll c2]] 
+ ! [[Chlorophyll d]] 
+ ! [[Chlorophyll f]] 
+ |- 
+ | [[Molecular formula]] 
+ | C < sub > 55 < /sub > H < sub > 72 < /sub > O < sub > 5 < /sub > N < sub > 4 < /sub > Mg 
+ | C < sub > 55 < /sub > H < sub > 70 < /sub > O < sub > 6 < /sub > N < sub > 4 < /sub > Mg 
+ | C < sub > 35 < /sub > H < sub > 30 < /sub > O < sub > 5 < /sub > N < sub > 4 < /sub > Mg 
+ | C < sub > 35 < /sub > H < sub > 28 < /sub > O < sub > 5 < /sub > N < sub > 4 < /sub > Mg 
+ | C < sub > 54 < /sub > H < sub > 70 < /sub > O < sub > 6 < /sub > N < sub > 4 < /sub > Mg 
+ | C < sub > 55 < /sub > H < sub > 70 < /sub > O < sub > 6 < /sub > N < sub > 4 < /sub > Mg 
+ |- 
+ | C2 group 
+ | [[methyl group|-CH < sub > 3 < /sub > ]] 
+ | -CH < sub > 3 < /sub > 
+ | -CH < sub > 3 < /sub > 
+ | -CH < sub > 3 < /sub > 
+ | -CH < sub > 3 < /sub > 
+ | -CHO 
+ |- 
+ | C3 group 
+ | [[vinyl|-CH=CH < sub > 2 < /sub > ]] 
+ | -CH=CH < sub > 2 < /sub > 
+ | -CH=CH < sub > 2 < /sub > 
+ | -CH=CH < sub > 2 < /sub > 
+ | [[formyl|-CHO]] 
+ | -CH=CH < sub > 2 < /sub > 
+ |- 
+ | C7 group 
+ | -CH < sub > 3 < /sub > 
+ | -CHO 
+ | -CH < sub > 3 < /sub > 
+ | -CH < sub > 3 < /sub > 
+ | -CH < sub > 3 < /sub > 
+ | -CH < sub > 3 < /sub > 
+ |- 
+ | C8 group 
+ | [[ethyl group|-CH < sub > 2 < /sub > CH < sub > 3 < /sub > ]] 
+ | -CH < sub > 2 < /sub > CH < sub > 3 < /sub > 
+ | -CH < sub > 2 < /sub > CH < sub > 3 < /sub > 
+ | -CH=CH < sub > 2 < /sub > 
+ | -CH < sub > 2 < /sub > CH < sub > 3 < /sub > 
+ | -CH < sub > 2 < /sub > CH < sub > 3 < /sub > 
+ |- 
+ | C17 group 
+ | -CH < sub > 2 < /sub > CH < sub > 2 < /sub > COO-Phytyl 
+ | -CH < sub > 2 < /sub > CH < sub > 2 < /sub > COO-Phytyl 
+ | [[2-carboxyethenyl group|-CH=CHCOOH]] 
+ | -CH=CHCOOH 
+ | -CH < sub > 2 < /sub > CH < sub > 2 < /sub > COO-Phytyl 
+ | -CH < sub > 2 < /sub > CH < sub > 2 < /sub > COO-Phytyl 
+ |- 
+ | C17-C18 bond 
+ | Single < br > (chlorin) 
+ | Single < br > (chlorin) 
+ | Double < br > (porphyrin) 
+ | Double < br > (porphyrin) 
+ | Single < br > (chlorin) 
+ | Single < br > (chlorin) 
+ |- 
+ | Occurrence 
+ | Universal 
+ | Mostly plants 
+ | Various algae 
+ | Various algae 
+ | Cyanobacteria 
+ | Cyanobacteria 
+ |} 
+ 
+ == Measuring chlorophyll == 
+ [[File:Chlorophyll fluorescence.tif|thumb|alt=The absorption spectrum of chlorophyll, showing the transmittance wavelength (nm) that is measured by a Chlorophyll Content Meter to calculate the relative chlorophyll content|The absorption spectrum of chlorophyll, showing the transmittance band measured by a CCM200 Chlorophyll Meter to calculate the relative chlorophyll content]]Chlorophyll Content meters measure the optical absorption of a leaf to estimate its chlorophyll content. Chlorophyll molecules absorb in the blue and red bands, but not the green and infra-red bands. Chlorophyll content meters measure the amount of absorption at the red band to estimate the amount of chlorophyll present in the leaf. To compensate for varying leaf thickness, Chlorophyll Meters also measure absorption at the infrared band which is not significantly affected by chlorophyll. 
+ The chlorophyll content of leaves can be non-destructively measured using hand-held, battery-powered meters. The measurements made by these devices are simple, quick and relatively inexpensive. They now have large data storage capacity, averaging and graphical displays. < ref name= " CCM200 " > {{Cite web|title=CCM-200 plus Chlorophyll Content Meter|url=http://www.adc.co.uk/Products/CCM-200_plus_Chlorophyll_Content_Meter|url-status=dead|archive-url=https://web.archive.org/web/20111120021826/http://www.adc.co.uk/Products/CCM-200_plus_Chlorophyll_Content_Meter|archive-date=2011-11-20|access-date=2011-10-17}} < /ref > 
+ 
+ === Spectrophotometry === 
+ [[File:Chlorophyll ab spectra-en.svg|thumb|[[Absorbance]] spectra of free chlorophyll ''a'' ( < span style= " color:green; " > green < /span > ) and ''b'' ( < span style= " color:red; " > red < /span > ) in a solvent. The spectra of chlorophyll molecules are slightly modified ''in vivo'' depending on specific pigment-protein interactions.]] 
+ 
+ Measurement of the absorption of light is complicated by the solvent used to extract it from plant material, which affects the values obtained, 
+ * In [[diethyl ether]], chlorophyll ''a'' has approximate absorbance maxima of 428 & nbsp;nm and 660 & nbsp;nm, while chlorophyll ''b'' has approximate maxima of 453 & nbsp;nm and 642 & nbsp;nm. < ref > Gross, 1991 < /ref > 
+ * The absorption peak of chlorophyll ''a'' is at 666 & nbsp;nm. 
+ 
+ ==Biosynthesis== 
+ In [[Angiosperm]]s, the last step in the synthesis of chlorophyll is light-dependent. Such plants are pale ([[etiolation|etiolated]]) if grown in the darkness. [[Non-vascular plant]]s and [[green alga]]e have an additional light-independent enzyme and grow green in the darkness instead. 
+ 
+ [[Chlorosis]] is a condition in which [[leaf|leaves]] do not make enough chlorophyll, so they become yellow. Chlorosis can be caused by a not having enough [[iron]]—called iron chlorosis—or by not having enough [[magnesium]] or [[nitrogen]]. Soil pH sometimes affects these kinds of chlorosis. Many plants are adapted to grow in soils with specific pH levels and their ability to absorb nutrients from the soil can depend on this. < ref > 
+ {{cite web 
+ | author = Duble, Richard L. 
+ | title = Iron chlorosis in turfgrass 
+ | publisher = Texas A & M University 
+ | url = http://plantanswers.tamu.edu/turf/iron.html 
+ | access-date = 2010-07-17 
+ }} < /ref >  Chlorosis can also be caused by pathogens including viruses, bacteria and fungal infections, or sap-sucking insects. 
+ 
+ ==Related pages== 
+ * [[Xanthophyll]] 
+ 
+ == References == 
+ {{Reflist}} 
+ {{Tetrapyrroles}} 
+ 
+ [[Category:Molecular biology]] 
+ [[Category:Pigments]] 
+ [[Category:Nitrogen compounds]] 
+ [[Category:Organic compounds]] 
+ [[Category:Photosynthesis]] 
+ [[Category:Plant anatomy]]

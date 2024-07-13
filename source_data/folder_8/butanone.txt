@@ -1,0 +1,106 @@
+{{chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 443491626 
+ | Reference =  < ref > ''[[Merck Index]]'', 11th Edition, '''5991'''. < /ref > 
+ | Name = Butanone 
+ | ImageFile = Butanone-skeletal-structure.svg 
+ | ImageSize = 160px 
+ | ImageName = Skeletal formula of butanone 
+ | ImageFileL1 = Butanone-3D-balls.png 
+ | ImageNameL1 = Ball-and-stick model of butanone 
+ | ImageFileR1 = Butanone-3D-vdW.png 
+ | ImageNameR1 = Space-filling model of butanone 
+ | ImageFile2 = Methyl ethyl ketone 45ml.jpg 
+ | ImageName2 = methyl ethyl ketone 
+ | PIN = Butan-2-one < ref name=iupac2013 > {{cite book | title =  Nomenclature of Organic Chemistry : IUPAC Recommendations and Preferred Names 2013 (Blue Book) | publisher = [[Royal Society of Chemistry|The Royal Society of Chemistry]] | date = 2014 | location = Cambridge | page = 725 | doi = 10.1039/9781849733069-FP001 | isbn = 978-0-85404-182-4}} < /ref > 
+ | SystematicName =  
+ | OtherNames = {{ubl 
+  | Ethyl methyl ketone < ref name=iupac2013 / > 
+  | Ethylmethylketone 
+  | Methyl ethyl ketone (MEK; [[deprecated]] < ref name=iupac2013 / > ) 
+  | Methylpropanone 
+  | Methylacetone 
+  }} 
+ | IUPACName =  
+ | Section1 = {{Chembox Identifiers 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 28398 
+ | SMILES = O=C(C)CC 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 15849 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 6321 
+ | PubChem = 6569 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 6PT9KLV9IO 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = C02845 
+ | InChI = 1/C4H8O/c1-3-4(2)5/h3H2,1-2H3 
+ | InChIKey = ZWEHNKRNPOVVGH-UHFFFAOYAW 
+ | SMILES1 = CCC(=O)C 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C4H8O/c1-3-4(2)5/h3H2,1-2H3 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = ZWEHNKRNPOVVGH-UHFFFAOYSA-N 
+ | CASNo = 78-93-3 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | RTECS = EL6475000 
+ | Gmelin = 25656 
+ | Beilstein = 741880 
+   }} 
+ | Section2 = {{Chembox Properties 
+ | C=4 | H=8 | O=1 
+ | Appearance = Colorless liquid 
+ | Odor = Mint or acetone-like < ref name=PGCH/ > 
+ | Density = 0.8050{{nbsp}}g/mL 
+ | Solubility = 27.5{{nbsp}}g/100{{thinsp}}mL 
+ | MeltingPtC = −86 
+ | BoilingPtC = 79.64 
+ | pKa = 14.7 
+ | Viscosity = 0.43{{nbsp}}[[Poise (unit)|cP]] 
+ | RefractIndex = 1.37880 
+ | VaporPressure = 78{{nbsp}}mmHg (20{{nbsp}}°C) < ref name=PGCH/ > 
+ | MagSus = −45.58·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+ | LogP = 0.37 < ref name= " chemsrc " > {{Cite web|url=https://www.chemsrc.com/en/cas/78-93-3_1101392.html|title=butan-2-one_msds}} < /ref > 
+   }} 
+ | Section3 = {{Chembox Structure 
+ | MolShape = 
+ | Dipole = 2.76{{nbsp}}[[Debye|D]] 
+   }} 
+ | Section4 =  
+ | Section5 =  
+ | Section6 =  
+ | Section7 = {{Chembox Hazards 
+ | EUClass = Flammable ('''F''') < br / > Irritant ('''Xi''') 
+ | NFPA-H = 1 
+ | NFPA-F = 3 
+ | NFPA-R = 0 
+ | RPhrases = {{R11}} {{R36}} {{R66}} {{R67}} 
+ | SPhrases = {{S2}} {{S9}} {{S16}} 
+ | FlashPtC = −9 
+ | AutoignitionPtC = 505 
+ | LD50 = {{ubl 
+  | 2737{{nbsp}}mg/kg (oral, rat) 
+  | 4050{{nbsp}}mg/kg (oral, mouse) < ref name=IDLH/ > 
+  }} 
+ | PEL = TWA 200{{nbsp}}ppm (590{{nbsp}}mg/m < sup > 3 < /sup > ) < ref name=PGCH > {{PGCH|0069}} < /ref > 
+ | ExploLimits = 1.4–11.4% < ref name=PGCH/ > 
+ | IDLH = 3000{{nbsp}}ppm < ref name=PGCH/ > 
+ | REL = TWA 200{{nbsp}}ppm (590{{nbsp}}mg/m < sup > 3 < /sup > ) ST 300{{nbsp}}ppm (885{{nbsp}}mg/m < sup > 3 < /sup > ) < ref name=PGCH/ >   
+ | LC50 = {{ubl 
+  | 12667{{nbsp}}ppm (mammal) 
+  | 13333{{nbsp}}ppm (mouse, 2{{nbsp}}hr) 
+  | 7833{{nbsp}}ppm (rat, 8{{nbsp}}hr) < ref name=IDLH > {{IDLH|78933|2-Butanone}} < /ref > 
+  }} 
+   }} 
+ | Section8 = {{Chembox Related 
+ | OtherFunction_label = [[ketone]]s 
+ | OtherFunction = [[Acetone]]; [[3-Pentanone|3-pentanone]]; [[3-Methylbutanone|3-methylbutanone]] 
+   }} 
+ }} 
+ '''Butanone''', also called '''methyl ethyl ketone''' ('''MEK'''), is an [[organic compound]] with the [[chemical formula]] [[Carbon|C]][[Hydrogen|H]] < sub > 3 < /sub > C([[Oxygen|O]])CH < sub > 2 < /sub > CH < sub > 3 < /sub > . It is a simple [[ketone]] with four carbon [[atom]]s. It [[Odor|smells]] sharp and [[Taste#Sweetness|sweet]], like [[butterscotch]] and [[acetone]] mixed. It is [[solubility|soluble]] in [[water]] and is used as a [[solvent]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Ketones|4]]

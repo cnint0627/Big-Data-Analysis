@@ -1,0 +1,55 @@
+{{Infobox company 
+ | name = Yandex N.V. 
+ | native_name = Яндекс 
+ | logo = [[Image:Yandex Logo 2021.png|200px]] 
+ | image = [[Image:Yandex main office.jpg|225px]] 
+ | image_caption = Yandex headquarters in Moscow 
+ | type = [[Public company]] 
+ | traded_as = {{NASDAQ|YNDX}}, {{MCX|YNDX}} 
+ | foundation = {{start date and age|1997}} (Yandex search launched by CompTek) < BR > 2000 (Yandex company founded) 
+ | location = ul. Lva Tolstogo, 16, [[Moscow]], [[Russia]], 119021 
+ | founder = [[Arkady Volozh]] < BR > Arkady Borkovsky < BR > [[Ilya Segalovich]] 
+ | area_served = [[Russia]], [[Turkey]], [[Kazakhstan]], [[Belarus]], [[Uzbekistan]], [[Azerbaijan]], [[Georgia (country)|Georgia]], [[Armenia]], [[Israel]] and [[Estonia]] 
+ | key_people = [[Arkady Volozh]] ([[Chief executive officer|CEO]]) 
+ | revenue = {{wikidata revenue|revenue|USD}}{{wikidata revenue|revenue|ref}} 
+ | revenue_year = {{wikidata revenue|revenue|year}} 
+ | operating_income = {{wikidata revenue|operating_income|USD}}{{wikidata revenue|operating_income|ref}} 
+ | income_year = {{wikidata revenue|operating_income|year}} 
+ | net_income = {{wikidata revenue|net_income|USD}}{{wikidata revenue|net_income|ref}} 
+ | net_income_year = {{wikidata revenue|net_income|year}} 
+ | assets = {{wikidata revenue|assets|USD}}{{wikidata revenue|assets|ref}} 
+ | assets_year = {{wikidata revenue|assets|year}} 
+ | equity = {{wikidata revenue|equity|USD}}{{wikidata revenue|equity|ref}} 
+ | equity_year = {{wikidata revenue|equity|year}} 
+ | num_employees = 8,854 (2018) 
+ | industry = [[Internet]] < BR > [[Search engine]] 
+ | products = [[Alisa (virtual assistant)]] < BR > [[Yandex Search|Yandex.Search]] < BR > [[Yandex.Direct]] < BR > [[Yandex.Disk]] < BR > [[Yandex.Mail]] < BR > [[Yandex.Browser]] < BR > [[Yandex.Maps]] < BR > [[Yandex.Market]] < BR > [[Yandex.Eda]] < BR > [[Yandex.Metro]] < BR > [[Yandex.News]] < BR > [[Yandex.Video]] < BR > [[Yandex.Map editor]] < BR > [[Yandex.Money]] < BR > [[Yandex.Music]] < BR > [[Yandex.Afisha]] < BR > [[Yandex.Panoramas]] < BR > [[Yandex.Timetable]] < BR > [[Yandex.Traffic]] < BR > [[Yandex.Translate]] < BR > [[Yandex.Taxi]] < BR > [[Ya.ru]] < BR > 
+ | homepage = {{URL|https://yandex.ru/}}, {{URL|https://yandex.com/}} 
+ | footnotes =  < ref > {{cite press release | url=https://ir.yandex/releasedetail.cfm?ReleaseID=1057604 | title=Yandex Announces Fourth Quarter and Full-Year 2017 Financial Results | publisher=Yandex | date=February 15, 2018}} < /ref > 
+ }} 
+ '''Yandex N.V.''' ({{IPAc-en|ˈ|j|ʌ|n|d|ɛ|k|s}}; {{lang-ru|link=no|Яндекс|p=ˈjandəks}}) is a [[Russia]]n [[internet]] company and [[search engine]]. It is the most popular search engine in the [[Russian language]]. The website has gone through many changes like being just a searching browser, an entire email and becoming into a multi-service website. The company was originally founded in 2000 by [[Arkady Volozh]] but the website didn't start until 2006. Currently headquartered in [[Moscow]], [[Russia]]. 
+ 
+ ==Other programs== 
+ 
+ ===Yandex Translate=== 
+ Yandex runs Yandex Translate, a [[machine translation]] program.  It uses computer [[software]] to [[translation|translate]] text or speech from [[Russian language|Russian]] into either [[English language|English]] or [[Ukrainian language|Ukrainian]] or back.  Yandex Translate started in 2011.  The team that built it read thousands of documents and their translations and built a dictionary for Yandex Translate. < ref name= " TC " > {{cite web|url=https://techcrunch.com/2011/03/16/anyone-speak-russian-yandex-rolls-out-yandex-translate/|publisher=TechCrunch|access-date=August 7, 2020|title=Anyone speak Russian? Yandex rolls out Yandex.Translate|author=Steve O'Hear|date=March 16, 2011}} < /ref > 
+ 
+ In 2020, the [[Mozilla Firefox]] web browser added a tool to that could translate webpages.  That tool can use only [[Google Translate]] and Yandex Translate. < ref name= " Ghack " > {{cite web|title=Translate Web Pages brings Chrome-like translate functionality to Firefox|author1= Martin Brinkmann|date=August 4, 2020|access-date=August 7, 2020|url=https://www.ghacks.net/2020/08/04/translate-web-pages-brings-chrome-like-translate-functionality-to-firefox/|publisher=GHacks}} < /ref > < ref name= " TWC " > {{cite news|title=Firefox add-on brings Google Chrome-like built-in translation capabilities|access-date=August 7, 2020|url=https://news.thewindowsclub.com/firefox-add-on-brings-google-chrome-like-built-in-translation-capabilities-102075/|publisher=TWCN Technology News|date=August 3, 2020}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{Commonscat}} 
+ * [http://www.ya.ru www.ya.ru] {{in lang|ru}} 
+ * [http://www.yandex.com/ www.yandex.com] {{in lang|en}} 
+ 
+ 
+ {{tech-stub}} 
+ {{authority control}} 
+ 
+ [[Category:Web browsers]] 
+ [[Category:Search engines]] 
+ [[Category:Companies based in Moscow]] 
+ [[Category:Companies listed on NASDAQ]] 
+ [[Category:Technology companies of Russia]]

@@ -1,0 +1,39 @@
+{{no sources|date=October 2019}} 
+ {{Infobox Unit 
+ | bgcolour = blue 
+ | name = Kelvin 
+ | standard = [[SI base unit]] 
+ | quantity = [[Temperature]] 
+ | symbol = K 
+ | namedafter = [[William Thomson, 1st Baron Kelvin]] 
+ }} 
+ The '''Kelvin scale''' (symbol: K) is the [[SI]] unit of [[temperature]]. It is named in honour of the [[physicist]] [[William Thomson]], the first [[Lord Kelvin]] (1824–1907). 
+ 0 degree Celsius = 273 kelvin 
+ 
+ == Definition == 
+ [[File:Lord Kelvin gravure.jpg |thumb|Lord Kelvin]] 
+ The Kelvin scale is defined by a specific relationship between the pressure of a gas and the temperature. This says that  " the pressure of the gas is directly proportional to the temperature in Kelvin " . This means that Kelvin is an absolute temperature scale, and scientists use this scale more than any other. 
+ 
+ The kelvin is a base SI unit of measurement, since 2018 defined by setting the fixed numerical value of the [[Boltzmann constant]] ''k'' to 1.380649×10 < sup > −23 < /sup >  J⋅K < sup > −1 < /sup > . < ref > {{Cite journal|last=|date=2018-05-15|title=Kelvin: Boltzmann Constant|url=https://www.nist.gov/si-redefinition/kelvin/kelvin-boltzmann-constant|journal=NIST|language=en|access-date=2021-02-16}} < /ref > 
+ 
+ The temperature of the [[triple point]] of water is a hundredth of a degree [[Celsius]] above the freezing point, or 0.01 & nbsp;°C. The coldest possible temperature is called [[absolute zero]] and is equal to -273.15 & nbsp;degrees & nbsp;Celsius, or zero & nbsp;kelvin (0 & nbsp;K). By writing temperatures in kelvins one does not need to use [[negative number]]s. 
+ 
+ The [[absolute temperature]] scale was designed so that a change in temperature of 1 & nbsp;kelvin is equal to a change of 1 & nbsp;degree & nbsp;Celsius. This means that it is easy to convert a temperature from degrees Celsius to kelvin. 
+ * To change a temperature in degrees Celsius into Kelvins you must add 273.15 & nbsp;units. For example, 0 & nbsp;degrees & nbsp;Celsius (0 & nbsp;°C), which is the temperature at which [[water]] [[freeze]]s, is 273.15 & nbsp;kelvins (273.15 & nbsp;K). 
+ * To change a temperature in Kelvins into degrees Celsius you must subtract 273.15 & nbsp;units. For example, 310 & nbsp;kelvins is 36.85 & nbsp;degrees & nbsp;Celsius, which is roughly the normal temperature of a [[human body]]. 
+ 
+ It is important to notice that the name of this unit is simply ''kelvin'' (with a lowercase initial), not  " degree Kelvin " . In English, it undergoes normal [[plural]] [[inflection]] as ''kelvins''. For example, the boiling point of liquid nitrogen is 77 & nbsp;kelvins. 
+ 
+ In everyday use, the kelvin is most commonly used to measure very low or very high temperatures, such as the temperature of liquid nitrogen or the temperature of a light bulb filament. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Related pages== 
+ * [[Temperature]] 
+ * [[Celsius]] 
+ 
+ {{SI units}} 
+ 
+ [[Category:SI units]] 
+ [[Category:Units of temperature]]

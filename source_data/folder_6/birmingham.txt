@@ -1,0 +1,314 @@
+{{Use dmy dates|date=May 2018}} 
+ {{about|the UK city|the US city|Birmingham, Alabama|other uses|Birmingham (disambiguation)}} 
+ {{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info ---------------- > 
+  | official_name                   = Birmingham 
+  | native_name                     =  < !-- for cities whose native name is not in English -- > 
+  | etymology                       = [[Old English]] ''Beormingahām'' (home or settlement of the ''[[Beormingas]]'') 
+  | nickname = {{Flatlist| 
+ * Brum 
+ * Brummagem 
+ * Second city 
+ * City of a thousand trades 
+ * Workshop of the world 
+ * Venice of the north 
+  }} 
+  | settlement_type                 = [[City status in the United Kingdom|City]] and [[metropolitan borough]] 
+  | motto                           = Forward 
+  | population_demonym              = Brummie 
+ 
+ < !-- images and maps --------------- > 
+  | image_skyline = {{Photomontage 
+    | photo1a = Birmingham-Skyline-from-Edgbaston-crop.jpg {{!}}Birmingham City Centre from the south 
+    | photo2a = Library-of-Birmingham-oblique-crop.jpg{{!}}Library of Birmingham 
+    | photo2b = Birmingham Town Hall from Chamberlain Square crop.jpg{{!}}Birmingham Town Hall 
+    | photo3a = St Philips Cathedral, Birmingham from the east.jpg{{!}}St Philip's Cathedral 
+    | photo3b = Old Joe and University of Birmingham from Bournbrook crop.jpg{{!}}University of Birmingham 
+    | photo3c = BirminghamBullRingFromNorth.jpg{{!}}St Martin's church and Selfridges department store in the Bull Ring 
+    | size = 280 
+    | color_border = 
+    | color =  
+    | spacing = 2 
+    | foot_montage = 
+  }} 
+  | imagesize                       = 
+  | image_caption                   = Clockwise, from top: the [[Birmingham city centre|city centre]] from the south, [[Birmingham Town Hall]], [[St Martin in the Bull Ring|St Martin's church]] and the [[Selfridges Building, Birmingham|Selfridges Building]] in the [[Bull Ring, Birmingham|Bull Ring]], the [[University of Birmingham]], [[St Philip's Cathedral, Birmingham|St Philip's Cathedral]], and the [[Library of Birmingham]] 
+  | image_flag                      = Flag of Birmingham, United Kingdom.svg 
+  | flag_link                       = Flag of Birmingham (England) 
+  | flag_size                       = 150px 
+  | image_seal                      = 
+  | seal_size                       = 
+  | image_shield                    = Coat of arms of Birmingham.svg 
+  | shield_size                     = 
+  | image_blank_emblem              = 
+  | blank_emblem_type               = 
+  | blank_emblem_size               = 
+  | blank_emblem_link               = 
+ 
+  | image_map                       = Birmingham UK locator map.svg 
+  | mapsize                         = 
+  | map_caption                     = Birmingham shown in the [[West Midlands (county)|West Midlands county]] 
+ 
+  | image_map1         = 
+  | mapsize1           = 
+  | map_caption1       = 
+ 
+  | image_dot_map                   = 
+  | pushpin_map_caption          = Location in England##Location in the United Kingdom##Location in Europe  
+  | pushpin_map             = England#United Kingdom#Europe 
+  | pushpin_label_position          = right 
+  | pushpin_relief                = 1 
+ 
+ < !-- Location ------------------ > 
+  | subdivision_type   = [[List of sovereign states|Sovereign state]] 
+  | subdivision_name   = {{flag|United Kingdom}} 
+ 
+  | subdivision_type1  = {{nowrap|[[Countries of the United Kingdom|Constituent country]]}} 
+  | subdivision_name1  = {{flag|England}} 
+ 
+  | subdivision_type2  = [[Regions of England|Region]] 
+  | subdivision_name2  = [[West Midlands (region)|West Midlands]] 
+ 
+  | subdivision_type3  = [[Ceremonial counties of England|Ceremonial county]] 
+  | subdivision_name3  = {{flag|West Midlands}} 
+ 
+  | subdivision_type4  = [[historic counties of England|Historic county]] 
+  | subdivision_name4  = {{flag|Warwickshire}} 
+ 
+ < !-- Politics ----------------- > 
+  | government_footnotes = 
+  | government_type    = [[Metropolitan borough]] 
+  | governing_body     = [[Birmingham City Council]] 
+ 
+  | leader_title       = [[Executive arrangements#Leader and cabinet|Leadership]] 
+  | leader_name        = [[Local Government Act 2000#Options for council executive forms|Leader and cabinet]] 
+ 
+  | leader_title1      = [[Political make-up of local councils in the United Kingdom#Unitary authorities|Executive]] 
+  | leader_name1       = {{English district control|GSS=E08000025}} 
+ 
+  | leader_title2      = Leader 
+  | leader_name2       = Vacant (Deputy Leader Ian Ward, acting) 
+ 
+  | leader_title3      = [[Lord Mayor of Birmingham|Lord Mayor]] 
+  | leader_name3       = Anne Underwood 
+ 
+  | leader_title4      = Chief Executive (Interim) 
+  | leader_name4       = Stella Manzie [[Companion of the Order of the British Empire|CBE]] 
+ 
+  | established_title  = Settlement 
+  | established_date   = c. 600 
+ 
+  | established_title1 = {{nowrap|[[Seigneurial borough]]}} 
+  | established_date1  = 1166 
+ 
+  | established_title2 = [[Municipal borough]] 
+  | established_date2  = 1838 
+ 
+  | established_title3 = [[City status in the United Kingdom|City status]] 
+  | established_date3  = [[List of cities in the United Kingdom|14 January 1889]] 
+ 
+  | established_title4 = [[Metropolitan borough]] 
+  | established_date4  = [[Local Government Act 1972|1 April 1974]] 
+ 
+  | seat_type          = Administrative HQ 
+  | seat = [[Council House, Birmingham|The Council House]], < br/ > [[Victoria Square, Birmingham|Victoria Square]] 
+ 
+ < !-- Area --------------------- > 
+  | area_magnitude                  = 
+  | unit_pref                       = UK  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+  | total_type                      = City 
+  | area_footnotes                  = 
+  | area_total_km2                  = {{English district area|GSS=E08000025}} 
+  | area_land_km2                   =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+  | area_water_km2                  = 
+  | area_rank                       = [[List of English districts by area|{{English district area rank|GSS=E08000025}}]] 
+  | area_total_sq_mi                = 
+  | area_land_sq_mi                 = 
+  | area_water_sq_mi                = 
+  | area_water_percent              = 
+  | area_urban_km2                  = 598.9 
+  | area_urban_sq_mi                = 
+  | area_metro_km2                  = 
+  | area_metro_sq_mi                = 
+ 
+  | area_blank1_title               = 
+  | area_blank1_km2                 = 
+  | area_blank1_sq_mi               = 
+ 
+ < !-- Population ----------------------- > 
+  | population_as_of                = {{English statistics year}} 
+  | population_total                = {{English district population|GSS=E08000025}} 
+  | population_footnotes            = 
+  | population_rank                 = [[List of English districts by population|{{English district rank|GSS=E08000025}}]] 
+  | population_density_km2          = {{English district density|GSS=E08000025}} 
+  | population_density_sq_mi        = 
+  | population_urban                = 2,440,986 ([[List of urban areas in the United Kingdom|3rd]]) 
+  | population_density_urban_km2    = 
+  | population_density_urban_sq_mi  = 
+  | population_metro                = 4,332,629 ([[List of metropolitan areas in Europe]]) 
+  | population_density_metro_km2    = 
+  | population_density_metro_sq_mi  = 
+  | population_blank1_title         = 
+  | population_blank1 = 
+ 
+  | population_density_blank1_km2   = 
+  | population_density_blank1_sq_mi = 
+ 
+  | population_blank2_title         = 
+  | population_blank2 = 
+  | population_density_blank2_km2   = 
+  | population_density_blank2_sq_mi = 
+ 
+ < !-- General information --------------- > 
+  | timezone                        = [[Greenwich Mean Time]] 
+  | utc_offset                      = +0 
+  | timezone_DST                    = [[British Summer Time]] 
+  | utc_offset_DST                  = +1 
+  | coordinates                     = {{coord|52|28|59|N|1|53|37|W|region:GB_type:city|display=inline,title}} 
+  | elevation_footnotes             =  < !--for references: use tags-- > 
+  | elevation_m                     = 140 
+  | elevation_ft                    = 
+ 
+ < !-- Area/postal codes  &  others -------- > 
+  | postal_code_type                = Postcode 
+  | postal_code = [[B postcode area|B]] 
+  | area_code                       = 0121 
+  | iso_code                        = [[ISO 3166-2:GB|GB-BIR]] 
+ 
+  | blank_name_sec1    = [[Government Statistical Service|GSS]] code 
+  | blank_info_sec1    = E08000025 
+ 
+  | blank1_name_sec1   = [[NUTS of the United Kingdom|NUTS 3 code]] 
+  | blank1_info_sec1   = UKG31 
+ 
+  | blank2_name_sec1   = [[ONS coding system|ONS code]] 
+  | blank2_info_sec1   = 00CN 
+ 
+  | blank3_name_sec1   = [[Ordnance Survey National Grid|OS grid reference]] 
+  | blank3_info_sec1   = {{gbmappingsmall|SP066868}} 
+ 
+  | blank4_name_sec1   = [[List of motorways in the United Kingdom|Motorways]] 
+  | blank4_info_sec1   = [[M6 motorway|M6]] < br > [[M6 Toll]] < br > [[M5 motorway|M5]] < br > [[M42 motorway|M42]] < br > [[A38(M) motorway|A38(M)]] 
+ 
+  | blank5_name = Ethnicity < br/ > < small > (2011 Census)  < ref name=2011censusdemo > [http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks201ew.xls  " 2011 Census: Key Statistics for Local Authorities in England and Wales " ]. [[Office for National Statistics|ONS]]. Retrieved 25 December 2012 < /ref >   < /small > 
+  | blank5_info = {{Plainlist| 
+ * 57.9% White (53.1% White British) 
+ * 26.6% Asian 
+ * 8.9% Black 
+ * 4.4% Mixed Race 
+ * 2.0% Other 
+  }} 
+ 
+  | blank6_name_sec1        = [[List of airports in the United Kingdom and the British Crown Dependencies|International airports]] 
+  | blank6_info_sec1        = [[Birmingham Airport|Birmingham]] ([[International Air Transport Association airport code|BHX]]) 
+ 
+  | blank7_name_sec1        = [[UK railway stations|Major railway stations]] 
+  | blank7_info_sec1        = [[Birmingham New Street railway station|Birmingham New Street]] ([[United Kingdom railway station categories|A]]) < br > [[Birmingham Moor Street railway station|Birmingham Moor Street]] ([[United Kingdom railway station categories|B]]) < br > [[Birmingham Snow Hill railway station|Birmingham Snow Hill]] ([[United Kingdom railway station categories|C1]]) 
+ 
+  |blank_name_sec2          = [[Gross domestic product|GDP]] 
+  |blank_info_sec2          = [[United States dollar|US$]] 121.1 & nbsp;billion < ref name= " brookingsgdp " > {{cite web|url=http://www.brookings.edu/research/interactives/global-metro-monitor-3 |title=Global city GDP 2014 |publisher=Brookings Institution |accessdate=18 November 2014 |url-status=dead |archiveurl=https://www.webcitation.org/6H7Jql2A9?url=http://www.brookings.edu/research/interactives/global-metro-monitor-3 |archivedate=4 June 2013 |df=dmy }} < /ref >  ([[List of metropolitan economies in the United Kingdom|2nd]]) 
+ 
+  |blank1_name_sec2         = – Per capita 
+  |blank1_info_sec2         = [[American dollar|US$]] 31,572 < ref name= " brookingsgdp " / > 
+ 
+  |blank2_name_sec2         = Councillors 
+  |blank2_info_sec2         = 120 
+ 
+  |blank3_name_sec2         = [[List of MPs elected in the United Kingdom general election, 2015|MPs]] 
+  |blank3_info_sec2         = {{Collapsible list 
+  | title       = List 
+ |1=[[Richard Burden]] [[Labour Party (UK)|(L)]] 
+ |2=[[Liam Byrne]] [[Labour Party (UK)|(L)]] 
+ |3=[[Jack Dromey]] [[Labour Party (UK)|(L)]] 
+ |4=[[Roger Godsiff]] [[Labour Party (UK)|(L)]] 
+ |5=[[Khalid Mahmood (British politician)|Khalid Mahmood]] [[Labour Party (UK)|(L)]] 
+ |6=[[Shabana Mahmood]] [[Labour Party (UK)|(L)]] 
+ |7=[[Steve McCabe (politician)|Steve McCabe]] [[Labour Party (UK)|(L)]] 
+ |8=[[Andrew Mitchell]] [[Conservative Party (UK)|(C)]] 
+ |9=[[Jess Phillips (politician)|Jess Phillips]] [[Labour Party (UK)|(L)]] 
+ |10=[[Preet Gill]] [[Labour Party (UK)|(L)]] 
+  }} 
+  | website            = [http://www.birmingham.gov.uk/ www.birmingham.gov.uk] 
+  | footnotes          = 
+ }} 
+ '''Birmingham''' ({{IPAc-en|audio=en-uk-Birmingham.ogg|ˈ|b|ɜːr|m|ɪ|ŋ|ə|m}} < ref > {{cite web |url=http://www.wordreference.com/enit/birmingham |title=Birmingham |publisher=Wordreference.com}} < /ref >  {{respell|BUR|ming|əm}}) is a [[city]] and [[metropolitan borough]] in the [[West Midlands (region)|West Midlands]], [[England]]. It is the second-largest [[metropolitan area]] and [[city]] in the [[United Kingdom]].  
+ 
+ About 1.1 million people live in Birmingham. Around 4.3 million people live in its metropolitan area. < ref name= " CDBir " > {{cite web |title=POPULATION OF BIRMINGHAM 2017 (UK) |url=https://countrydigest.org/population-of-birmingham/ |publisher=Country Digest |accessdate=2 October 2018 |archive-date=2 October 2018 |archive-url=https://web.archive.org/web/20181002141806/https://countrydigest.org/population-of-birmingham/ |url-status=dead }} < /ref > < ref > {{cite web |url=http://www.birmingham.gov.uk/cs/Satellite?c=Page & childpagename=Planning-and-Regeneration%2FPageLayout & cid=1223096353755 & pagename=BCC%2FCommon%2FWrapper%2FWrapper |title=Population and Census |publisher=Birmingham City Council |date=7 July 2014 |archiveurl=https://web.archive.org/web/20151126101950/http://www.birmingham.gov.uk/cs/Satellite?c=Page & childpagename=Planning-and-Regeneration%2FPageLayout & cid=1223096353755 & pagename=BCC%2FCommon%2FWrapper%2FWrapper |archivedate=26 November 2015 |url-status=dead}} < /ref > < ref name= " ONS-2001-2011_census " > {{cite web|url=http://www.ons.gov.uk/ons/rel/census/2011-census/population-and-household-estimates-for-england-and-wales---unrounded-figures-for-the-data-published-16-july-2012/rft-1-2-ew-fact-file.xls|title=2011 Census: Population and household estimates fact file, unrounded estimates, local authorities in England and Wales (Excel sheet 708Kb)|accessdate=30 December 2013|date=24 September 2012|format=xls|publisher=Office for National Statistics}} < /ref >  Many people call it the  " second city "  of the United Kingdom. < ref > {{cite web |title=England's second city: Birmingham |date=24 May 2013 |url=http://www.britain-magazine.com/carousel/birmingham-englands-second-city/ |publisher=Britain Magazine |accessdate=11 June 2018}} < /ref > < ref > {{cite web |title=Nation's 'second city', Birmingham, is UK's fastest growing regional tourist destination, according to figures |date=24 October 2015 |url=http://www.thisismoney.co.uk/money/smallbusiness/article-3287741/Nation-s-second-city-Birmingham-UK-s-fastest-growing-regional-tourist-destination-according-figures.html |publisher=This is Money |accessdate=11 June 2018}} < /ref > < ref > {{cite web |title=An ode to Birmingham: how can the UK's second city fix its image problem? |url=https://www.theguardian.com/uk-news/2014/jul/12/ode-to-birmingham-britain-second-city |work=The Guardian|date=12 July 2014 |accessdate=11 June 2018}} < /ref > 
+ 
+ == History == 
+ [[File:Bell Edison Telephone Building.jpg|thumb|right|250px|A [[Victorian architecture|Victorian]] building in Birmingham, faced with [[terracotta]] [[tiles]]]] 
+ 
+ Birmingham began as a small town in 1166.  
+ [[Victoria of the United Kingdom|Queen Victoria]] gave city status to Birmingham in 1889. 
+ 
+ Many [[industry|industries]] were developed in Birmingham during the 18th and 19th centuries. These included making [[weapon]]s and food. 
+ 
+ Birmingham manufacturing industry played a big role in the war effort in [[World War I]] and [[World War II]]. The WWII [[spitfire]] aeroplane was made in Birmingham. In 2000, a statue of [[Sentinel (sculpture)|stylised spitfires]] was erected next to the old factory site. The factory now makes Jaguar cars. 
+ Birmingham had a large car making industry. It has declined since the 1980s. It remains the home town for [[Jaguar (car)|Jaguar]] and [[Land Rover]] cars. 
+ 
+ In 1974, twenty-one people were killed in the [[Birmingham pub bombings]]. < ref > {{Cite web|title=The Birmingham bombings 40 years on: what can we learn from IRA terror?|url=https://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/11245150/The-Birmingham-bombings-40-years-on-what-can-we-learn-from-IRA-terror.html|access-date=2021-02-08|website=The Telegraph|language=en-GB}} < /ref > 
+ 
+ == Transport == 
+ 
+ === Grand Union Canal === 
+ Birmingham was an important stagine-post in the Victorian industrial [[canal]] system. Today it is the northern terminus of the [[Grand Union Canal]] to [[London]]. Heavy goods (as coal surely is) are most economically moved on water. No other form of transport is so efficient.  
+ 
+ === Motorways === 
+ [[File:Spaghetti-Junction-Crop.jpg|thumb|[[Gravelly Hill Interchange|Spaghetti Junction]]]]The [[M40 motorway]] connects to London via [[Oxford]]. The [[M6 motorway]] also connects Birmingham to London (via the [[M1 motorway|M1]]) and to the north-west of England and Scotland. Junction 6 of the M6 is also one of Birmingham's landmarks, and probably the most notable motorway junction in the UK, [[Gravelly Hill Interchange|Spaghetti Junction]], officially called the Gravelly Hill Interchange. Other motorways are:  
+ * The [[A38 road|A38(M)]] which links Spaghetti Junction to the city centre 
+ *The [[M5 motorway|M5]], connecting Birmingham to the south-west of England 
+ *The [[M42 motorway|M42]], which connects Birmingham to [[Tamworth, Staffordshire|Tamworth]] and the [[East Midlands]] 
+ *The [[M6 Toll]], which enables through traffic on the M6 to bypass Birmingham and [[Wolverhampton]]. 
+ 
+ Birmingham, unlike London and [[Manchester]], does not have a single orbital motorway. Instead, three motorways form a box which surrounds most of the city. These are: 
+ *The [[M42 motorway|M42]] to the south and east. In the middle, the [[M40 motorway|M40]] ends. It has priority for traffic going from the M40 to the M42 west. The M40 goes off south to [[Warwick]], [[Oxford]], [[High Wycombe]], [[Uxbridge]] and London. 
+ *The [[M5 motorway|M5]] which forms the western section. 
+ *The [[M6 motorway|M6]] which forms the northern section. The M5 ends on the M6. 
+ [[File:A38(M) Aston Expressway.jpg|thumb|The [[A38(M) motorway|A38(M) Aston Expressway]]]] 
+ Other major roads passing through Birmingham include: 
+ *The [[A34 road (England)|A34]] from [[Manchester]] to [[Winchester, Hampshire|Winchester]] 
+ *The [[A38 road|A38]] from [[Mansfield]] to [[Bodmin]] 
+ *The [[A41 road|A41]] from London to [[Birkenhead]] 
+ *The [[A45 road|A45]] from Birmingham to [[Thrapston]] (formerly to [[Felixstowe]]) 
+ *The [[A47 road|A47]] from Birmingham to [[Great Yarmouth]] 
+ *The [[A4540 road|A4540]] 'Middleway' ring road 
+ *The [[A4040 road|A4040]] Outer Ring Road 
+ 
+ == Famous people from Birmingham == 
+ * [[Gabriel Agbonlahor]], footballer 
+ * [[Geoff Bunn]], artist 
+ * [[Geezer Butler]], musician and [[Black Sabbath]] member 
+ * [[Jasper Carrott]], comedian 
+ * [[Tony Iommi]], musician and [[Black Sabbath]] member 
+ * [[Jeff Lynne]], musician and [[record producer]], co-founder of [[Electric Light Orchestra]] 
+ * [[Bill Oddie]], television personality 
+ * [[Ozzy Osbourne]], singer, and [[Black Sabbath]] member 
+ * [[James and Oliver Phelps]], actors, famous for playing Fred and George Weasley in the [[Harry Potter]] film series 
+ * [[J.R.R. Tolkien]], author 
+ * [[Julie Walters]], actor 
+ * [[Steve Winwood]], musician 
+ * [[Richard Hammond]] - Motoring journalist, TV presenter 
+ 
+ == Famous pop and rock groups from Birmingham == 
+ * [[Black Sabbath]], heavy metal rock group 
+ * [[Dexys Midnight Runners]], pop group 
+ * [[Duran Duran]], pop group 
+ * [[Electric Light Orchestra]] 
+ * [[Judas Priest]], rock group 
+ * [[Moody Blues]], pop group 
+ * [[Ocean Colour Scene]] 
+ * [[The Move]], pop group 
+ * [[UB40]], pop group 
+ * [[Wizzard]], pop group 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.birmingham.gov.uk Birmingham City Council] 
+ * [http://www.birmingham.org.uk Birmingham tourism site] 
+ 
+ {{English Cities|nocat=yes}} 
+ {{authority control}} 
+ [[Category:Birmingham| ]]

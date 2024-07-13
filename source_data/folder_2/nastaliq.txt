@@ -1,0 +1,781 @@
+'''Nastaliq''' is a modified version of the Perso-Arabic Alphabet. 
+ 
+ === Varieties of Nastaliq (Alphabets) === 
+ 
+ ==[[Persian language|Persian]]== 
+ 
+ {| class= " wikitable "  style= " text-align:center " 
+ ! Letter !! Romanization !! [[International Phonetic Alphabet|IPA]] 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ا}}}} || ā, a, (e), o, - || {{IPA|/ɑ/}}, {{IPA|/ə/}}, {{IPA|/e/}}, {{IPA|/o/}}, {{IPA|/∅/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ب}}}} || b || {{IPA|/b/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|پ}}}} || p || {{IPA|/p/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ت}}}} || t || {{IPA|/t/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ث}}}} || (s) || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ج}}}} || j || {{IPA|/d͡ʒ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|چ}}}} || č || {{IPA|/t͡ʃ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ح}}}} || (h) || {{IPA|/h/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|خ}}}} || x || {{IPA|/x/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|د}}}} || d || {{IPA|/d/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ذ}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ر}}}} || r || {{IPA|/ɾ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ز}}}} || z || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ژ}}}} || c/ts || {{IPA|/ʒ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|س}}}} || s || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ش}}}} || š || {{IPA|/ʃ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ص}}}} || (s) || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ض}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ط}}}} || (t) || {{IPA|/t/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ظ}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ع}}}} || (ā), (a), (e), (o), (-) || {{IPA|/ɑ/}}, {{IPA|/ə/}}, {{IPA|/e/}}, {{IPA|/o/}}, {{IPA|/∅/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|غ}}}} || ǧ || {{IPA|/ʁ~ɢ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ف}}}} || f || {{IPA|/pʰ~f/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ق}}}} || q || {{IPA|/q/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ک}}}} || k || {{IPA|/k/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|گ}}}} || g || {{IPA|/ɡ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ل}}}} || l || {{IPA|/l/}}, ({{IPA|/ɭ/}}), ({{IPA|/ɫ/}}) 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|م}}}} || m || {{IPA|/m/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ن}}}} || n || {{IPA|/n/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|و}}}} || w, u || {{IPA|/w/}}, {{IPA|/u/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|fa|{{nq|ه‎}}}} || h || {{IPA|/h/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|bft|{{nq|ی}}}} || y, i || {{IPA|/j/}}, {{IPA|/i/}} 
+ |- 
+ |} 
+ 
+ ==[[Urdu]]== 
+ 
+ {| class= " wikitable "  style= " text-align:center " 
+ ! Letter !! Romanization !! [[International Phonetic Alphabet|IPA]] 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ا}}}} || ā, a, (e), o, - || {{IPA|/ɑ/}}, {{IPA|/ə/}}, {{IPA|/e/}}, {{IPA|/o/}}, {{IPA|/∅/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ب}}}} || b || {{IPA|/b/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|پ}}}} || p || {{IPA|/p/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ت}}}} || t || {{IPA|/t/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ٹ}}}} || ṭ || {{IPA|/ʈ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ث}}}} || (s) || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ج}}}} || j || {{IPA|/d͡ʒ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|چ}}}} || č || {{IPA|/t͡ʃ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ح}}}} || (h) || {{IPA|/h/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|خ}}}} || x || {{IPA|/x/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|د}}}} || d || {{IPA|/d/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ڈ}}}} || ḍ || {{IPA|/ɖ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ذ}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ر}}}} || r || {{IPA|/ɾ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ڑ}}}} || ṛ || {{IPA|/ɽ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ز}}}} || z || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ژ}}}} || ž || {{IPA|/ʒ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|س}}}} || s || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ش}}}} || š || {{IPA|/ʃ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ص}}}} || (s) || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ض}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ط}}}} || (t) || {{IPA|/t/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ظ}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ع}}}} || (ā), (a), (e), (o), (-) || {{IPA|/ɑ/}}, {{IPA|/ə/}}, {{IPA|/e/}}, {{IPA|/o/}}, {{IPA|/∅/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|غ}}}} || ǧ || {{IPA|/ʁ~ɢ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ف}}}} || f || {{IPA|/pʰ~f/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ق}}}} || q || {{IPA|/q/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ک}}}} || k || {{IPA|/k/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|گ}}}} || g || {{IPA|/ɡ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ل}}}} || l || {{IPA|/l/}}, ({{IPA|/ɭ/}}), ({{IPA|/ɫ/}}) 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|م}}}} || m || {{IPA|/m/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ن}}}} || n || {{IPA|/n/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ں}}}} || nun ǧunna || {{IPA|/◌̃/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|و}}}} || w, u || {{IPA|/w/}}, {{IPA|/u/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ہ}}}} || h || {{IPA|/h/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ھ}}}} || _h || {{IPA|/◌ʰ/}}, {{IPA|/◌ʱ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ی}}}} || y, i || {{IPA|/j/}}, {{IPA|/i/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ur|{{nq|ے}}}} || e/ay || {{IPA|/e/}} 
+ |} 
+ 
+ ==[[Punjabi language|Punjabi (Shahmukhi)]]== 
+ 
+ {| class= " wikitable "  style=text-align:center 
+ |- 
+ |- 
+ !No. 
+ !colspan= " 2 " |Name{{sfn|Delacy|2003|p=XV–XVI}} 
+ ![[International Phonetic Alphabet|IPA]] 
+ !Final glyph 
+ !Medial glyph 
+ !Initial glyph 
+ !Isolated glyph 
+ ![[Gurmukhi]] 
+ |- 
+ | 1 
+ | {{Nastaliq|الف}} 
+ | ''alif'' 
+ | {{IPA|/ɑː,äː, ʔ, ∅/}} 
+ |{{Nq|ـا}} 
+ |{{Nq|ـا}} 
+ |{{Nq|ا}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ا]]}}}} 
+ |'''ਅ''', '''ਆ''' {{Small|(medial)}} 
+ |- 
+ | 2 
+ | {{Nastaliq|بے}} 
+ | ''bē'' 
+ | {{IPA|/b/}} 
+ |{{Nq|ـب}} 
+ |{{Nq|ـبـ}} 
+ |{{Nq|بـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ب]]}}}} 
+ |'''ਬ''' 
+ |- 
+ | 3 
+ | {{Nastaliq|پے}} 
+ | ''pē'' 
+ | {{IPA|/p/}} 
+ |{{Nq|ـپ}} 
+ |{{Nq|ـپـ}} 
+ |{{Nq|پـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[پ]]}}}} 
+ |'''ਪ''' 
+ |- 
+ | 4 
+ | {{Nastaliq|تے}} 
+ | ''tē'' 
+ | {{IPA|/t/}} 
+ |{{Nq|ـت}} 
+ |{{Nq|ـتـ}} 
+ |{{Nq|تـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ت]]}}}} 
+ |'''ਤ''' 
+ |- 
+ | 5 
+ | {{Nastaliq|ٹے}} 
+ | ''ṭē'' 
+ | {{IPA|/ʈ/}} 
+ |{{Nq|ـٹ}} 
+ |{{Nq|ـٹـ}} 
+ |{{Nq|ٹـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ٹ]]}}}}  
+ |'''ਟ''' 
+ |- 
+ | 6 
+ | {{Nastaliq|ثے}} 
+ | ''s̱ē'' 
+ | {{IPA|/s/}} 
+ |{{Nq|ـث}} 
+ |{{Nq|ـثـ}} 
+ |{{Nq|ثـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ث]]}}}} 
+ |'''ਸ''' 
+ |- 
+ | 7 
+ | {{Nastaliq|جيم}} 
+ | ''jīma'' 
+ | {{IPA|/d͡ʒ/}} 
+ |{{Nq|ـج}} 
+ |{{Nq|ـجـ}} 
+ |{{Nq|جـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ج]]}}}} 
+ |'''ਜ''' 
+ |- 
+ | 8 
+ | {{Nastaliq|چے}} 
+ | ''cē'' 
+ | {{IPA|/t͡ʃ/}} 
+ |{{Nq|ـچ}} 
+ |{{Nq|ـچـ}} 
+ |{{Nq|چـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[چ]]}}}} 
+ |'''ਚ''' 
+ |- 
+ | 9 
+ | {{Nastaliq|وڈّی حے}} 
+ | ''waḍḍi ḥē'' 
+ | {{IPA|/ɦ/}} 
+ |{{Nq|ـح}} 
+ |{{Nq|ـحـ}} 
+ |{{Nq|حـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ح]]}}}} 
+ |'''ਹ''' 
+ |- 
+ | 10 
+ | {{Nastaliq|خے}} 
+ | ''k͟hē'' 
+ | {{IPA|/x/}} 
+ |{{Nq|ـخ}} 
+ |{{Nq|ـخـ}} 
+ |{{Nq|خـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[خ]]}}}} 
+ |'''ਖ਼''' 
+ |- 
+ | 11 
+ | {{Nastaliq|دال}} 
+ | ''dāla'' 
+ | {{IPA|/d/}} 
+ |{{Nq|ـد}} 
+ |{{Nq|ـد}} 
+ |{{Nq|د}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[د]]}}}} 
+ |'''ਦ''' 
+ |- 
+ | 12 
+ | {{Nastaliq|ڈال}} 
+ | ''ḍāla'' 
+ | {{IPA|/ɖ/}} 
+ |{{Nq|ـڈ}} 
+ |{{Nq|ـڈ}} 
+ |{{Nq|ڈ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ڈ]]}}}} 
+ |'''ਡ''' 
+ |- 
+ | 13 
+ | {{Nastaliq|ذال}} 
+ | ''ẕāla'' 
+ | {{IPA|/z/}} 
+ |{{Nq|ـذ}} 
+ |{{Nq|ـذ}} 
+ |{{Nq|ذ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ذ]]}}}} 
+ |'''ਜ਼''' 
+ |- 
+ | 14 
+ | {{Nastaliq|رے}} 
+ | ''rē'' 
+ | {{IPA|/r/}} 
+ |{{Nq|ـر}} 
+ |{{Nq|ـر}} 
+ |{{Nq|ر}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ر]]}}}} 
+ |'''ਰ''' 
+ |- 
+ | 15 
+ | {{Nastaliq|ڑے}} 
+ | ''ṛē'' 
+ | {{IPA|/ɽ/}} 
+ |{{Nq|ـڑ}} 
+ |{{Nq|ـڑ}} 
+ |{{Nq|ڑ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ڑ]]}}}} 
+ |'''ੜ''' 
+ |- 
+ | 16 
+ | {{Nastaliq|زے}} 
+ | ''zē'' 
+ | {{IPA|/z/}} 
+ |{{Nq|ـز}} 
+ |{{Nq|ـز}} 
+ |{{Nq|ز}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ز]]}}}} 
+ |'''ਜ਼''' 
+ |- 
+ | 17 
+ | {{Nastaliq|ژے}} 
+ | ''zhē'' 
+ | {{IPA|/ʒ/}} 
+ |{{Nq|ـژ}} 
+ |{{Nq|ـژ}} 
+ |{{Nq|ژ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ژ]]}}}} 
+ |'''-''' 
+ |- 
+ | 18 
+ | {{Nastaliq|سین}} 
+ | ''sīna'' 
+ | {{IPA|/s/}} 
+ |{{Nq|ـس}} 
+ |{{Nq|ـسـ}} 
+ |{{Nq|سـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[س]]}}}} 
+ |'''ਸ''' 
+ |- 
+ | 19 
+ | {{Nastaliq|شین}} 
+ | ''shīna'' 
+ | {{IPA|/ʃ/}} 
+ |{{Nq|ـش}} 
+ |{{Nq|ـشـ}} 
+ |{{Nq|شـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ش]]}}}} 
+ |'''ਸ਼''' 
+ |- 
+ | 20 
+ | {{Nastaliq|صاد}} 
+ | ''ṣwāda'' 
+ | {{IPA|/s/}} 
+ |{{Nq|ـص}} 
+ |{{Nq|ـصـ}} 
+ |{{Nq|صـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ص]]}}}}  
+ |'''ਸ''' 
+ |- 
+ | 21 
+ | {{Nastaliq|ضاد}} 
+ | ''ẓwāda'' 
+ | {{IPA|/z/}} 
+ |{{Nq|ـض}} 
+ |{{Nq|ـضـ}} 
+ |{{Nq|ضـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ض]]}}}} 
+ |'''ਜ਼''' 
+ |- 
+ | 22 
+ | {{Nastaliq|طوۓ}} 
+ | ''t̤o{{hamza}}ē'' 
+ | {{IPA|/t/}} 
+ |{{Nq|ـط}} 
+ |{{Nq|ـطـ}} 
+ |{{Nq|طـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ط]]}}}}  
+ |'''ਤ''' 
+ |- 
+ | 23 
+ | {{Nastaliq|ظوۓ}} 
+ | ''z̤o{{hamza}}ē'' 
+ | {{IPA|/z/}} 
+ |{{Nq|ـظ}} 
+ |{{Nq|ـظـ}} 
+ |{{Nq|ظـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ظ]]}}}} 
+ |'''ਜ਼''' 
+ |- 
+ | 24 
+ | {{Nastaliq|عین}} 
+ | ''{{okina}}aina'' 
+ | {{IPA|/ə,ɑː,ɪ,iː,u,uː,oː,ɔː,eː,ɛː, ʔ, ∅/}} 
+ |{{Nq|ـع}} 
+ |{{Nq|ـعـ}} 
+ |{{Nq|عـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ع]]}}}} 
+ |'''ਅ,ਆ,ਇ,ਈ,ਉ,ਊ,ਏ,ਐ,ਓ,ਔ''' 
+ |- 
+ | 25 
+ | {{Nastaliq|غین}} 
+ | ''g͟haina'' 
+ | {{IPA|/ɣ/}} 
+ |{{Nq|ـغ}} 
+ |{{Nq|ـغـ}} 
+ |{{Nq|غـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[غ]]}}}} 
+ |'''ਗ਼''' 
+ |- 
+ | 26 
+ | {{Nastaliq|فے}} 
+ | ''fē'' 
+ | {{IPA|/f/}} 
+ |{{Nq|ـف}} 
+ |{{Nq|ـفـ}} 
+ |{{Nq|فـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ف]]}}}} 
+ |'''ਫ਼''' 
+ |- 
+ | 27 
+ | {{Nastaliq|قاف}} 
+ | ''qāfa'' 
+ | {{IPA|/q/}} 
+ |{{Nq|ـق}} 
+ |{{Nq|ـقـ}} 
+ |{{Nq|قـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ق]]}}}} 
+ |'''ਕ਼''' 
+ |- 
+ | 28 
+ | {{Nastaliq|کاف}} 
+ | ''kāfa'' 
+ | {{IPA|/k/}} 
+ |{{Nq|ـک}} 
+ |{{Nq|ـکـ}} 
+ |{{Nq|کـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[Kāf|ک]]}}}} 
+ |'''ਕ''' 
+ |- 
+ | 29 
+ | {{Nastaliq|گاف}} 
+ | ''gāfa'' 
+ | {{IPA|/ɡ/}} 
+ |{{Nq|ـگ}} 
+ |{{Nq|ـگـ}} 
+ |{{Nq|گـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[گ]]}}}} 
+ |'''ਗ''' 
+ |- 
+ | 30 
+ | {{Nastaliq|لام}} 
+ | ''lāma'' 
+ | {{IPA|/l/}} 
+ |{{Nq|ـل}} 
+ |{{Nq|ـلـ}} 
+ |{{Nq|لـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ل]]}}}} 
+ |'''ਲ''' 
+ |- 
+ | 31 < ref name= " :4 " > Rarely used in literature, except when a distinction between the pronunciation of the non-retroflex character is needed < /ref > 
+ | {{Nastaliq|لؕام}} 
+ | ''ḷāma'' 
+ | {{IPA|/ɭ/}} 
+ |{{Nq|ـلؕ}} 
+ |{{Nq|ـلؕـ}} 
+ |{{Nq|لؕـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ࣇ|لؕ]]}}}} 
+ |'''ਲ਼''' 
+ |- 
+ | 32 
+ | {{Nastaliq|میم}} 
+ | ''mīma'' 
+ | {{IPA|/m/}} 
+ |{{Nq|ـم}} 
+ |{{Nq|ـمـ}} 
+ |{{Nq|مـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[م]]}}}} 
+ |'''ਮ''' 
+ |- 
+ | 33 
+ | {{Nastaliq|نون}} 
+ | ''nūna'' 
+ | {{IPA|/n, ɲ/}} 
+ |{{Nq|ـن}} 
+ |{{Nq|ـنـ}} 
+ |{{Nq|نـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ن]]}}}} 
+ |'''ਨ''' 
+ |- 
+ | 34 < ref name= " :4 "  / > 
+ | {{Nastaliq|ݨون}} 
+ | ''ṇūṇa'' 
+ | {{IPA|/ɳ/}} 
+ |{{Nq|ـݨ}} 
+ |{{Nq|ـݨـ}} 
+ | {{Nq|ݨـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ݨ]]}}}} 
+ |'''ਣ''' 
+ |- 
+ | 35 
+ | {{Nastaliq|نون غنّہ}} 
+ | ''nūn ġunnah'' 
+ | {{IPA|/[[Nasal vowel|◌̃]], ŋ/}} 
+ |{{Nq|ـں}} 
+ |{{Nq|ـن٘ـ}} 
+ |{{Nq|ن٘ـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ں]]}}}} 
+ {{Small|{{Nastaliq|(ن٘)}}}} 
+ < br / > 
+ |'''ੰ''', '''ਂ''' 
+ |- 
+ | 36 
+ | {{Nastaliq|واؤ}} 
+ | ''wā{{hamza}}oa'' 
+ | {{IPA|/ʋ, uː, ʊ, oː, ɔː/}} 
+ |{{Nq|ـو}} 
+ |{{Nq|ـو}} 
+ |{{Nq|و}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[و]]}}}} 
+ |'''ੳ''', '''ਵ''' 
+ |- 
+ | 37 
+ | {{Nastaliq|نکی ہے}} < br > {{Nastaliq|گول ہے}} 
+ | ''choṭī hē'' < br > ''gol hē'' 
+ |{{IPA|/ɦ, ɑː, e:/}} 
+ |{{Nq|ـہ}} 
+ |{{Nq|ـہـ}} 
+ |{{Nq|ہـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ہ]]}}}} 
+ |'''ਹ''' 
+ |- 
+ | 38 
+ | {{Nastaliq|دو چشمی ہے}} 
+ | ''do-cashmī hē'' 
+ | {{IPA|/ʰ/}} or {{IPA|/ʱ/}} 
+ |{{Nq|ـھ}} 
+ |{{Nq|ـھـ}} 
+ |{{Nq|ھ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ھ]]}}}} 
+ |'''varied''' / '''੍ਹ''' 
+ |- 
+ | 39 
+ | {{Nastaliq|ہمزہ}} 
+ | ''hamzah'' 
+ | {{IPA|/ʔ/}}, {{IPA|/∅/}} 
+ |{{Nq|ء}} 
+ |{{Nq|ء}} 
+ |{{Nq|ء}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  |{{lang|pa|{{Nastaliq|[[ء]]}}}} 
+ |'''-''' 
+ |- 
+ | 40 
+ |{{Nastaliq|چھوٹی يے}} 
+ |''choṭī yē'' 
+ |{{IPA|/j, iː/}} 
+ |{{Nq|ـی}} 
+ |{{Nq|ـیـ}} 
+ |{{Nq|یـ}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  |{{lang|pa|{{Nastaliq|[[ی]]}}}} 
+ |'''ੲ''', '''ਯ''' 
+ |- 
+ | 41 
+ |{{Nastaliq|وڈّی يے}} 
+ |''waḍḍi yē'' 
+ |{{IPA|/ɛː, eː/}} 
+ |{{Nq|ـے}} 
+ |{{Nq|ـے}} 
+ |{{Nq|ے}} 
+ | style= " height:150%;padding:10px;font-size: 160%; "  | {{lang|pa|{{Nastaliq|[[ے]]}}}} 
+ |'''ੇ''', '''ੈ''' 
+ |} 
+ 
+ ==[[Pashto]]== 
+ 
+ {| class= " wikitable "  style= " text-align:center " 
+ ! Letter !! Romanization !! [[International Phonetic Alphabet|IPA]] 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ا}}}} || ā, a, (e), o, - || {{IPA|/ɑ/}}, {{IPA|/ə/}}, {{IPA|/e/}}, {{IPA|/o/}}, {{IPA|/∅/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ب}}}} || b || {{IPA|/b/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|پ}}}} || p || {{IPA|/p/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ت}}}} || t || {{IPA|/t/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ټ}}}} || ṭ || {{IPA|/ʈ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ث}}}} || (s) || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ج}}}} || j || {{IPA|/d͡ʒ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|چ}}}} || č || {{IPA|/t͡ʃ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ح}}}} || (h) || {{IPA|/h/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|خ}}}} || x || {{IPA|/x/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|څ}}}} || ṡ || {{IPA|/t͡s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ځ}}}} || ż || {{IPA|/d͡z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|د}}}} || d || {{IPA|/d/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ډ}}}} || ḍ || {{IPA|/ɖ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ذ}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ر}}}} || r || {{IPA|/ɾ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ړ}}}} || ṛ || {{IPA|/ɽ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ز}}}} || z || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ژ}}}} || ž || {{IPA|/ʒ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|س}}}} || s || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ش}}}} || š || {{IPA|/ʃ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ص}}}} || (s) || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ض}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ط}}}} || (t) || {{IPA|/t/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ظ}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ع}}}} || (ā), (a), (e), (o), (-) || {{IPA|/ɑ/}}, {{IPA|/ə/}}, {{IPA|/e/}}, {{IPA|/o/}}, {{IPA|/∅/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|غ}}}} || ǧ || {{IPA|/ʁ~ɢ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ف}}}} || f || {{IPA|/pʰ~f/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ق}}}} || q || {{IPA|/q/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ک}}}} || k || {{IPA|/k/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ګ}}}} || g || {{IPA|/ɡ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ل}}}} || l || {{IPA|/l/}}, ({{IPA|/ɭ/}}), ({{IPA|/ɫ/}}) 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|م}}}} || m || {{IPA|/m/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ن}}}} || n || {{IPA|/n/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ڼ}}}} || ṇ || {{IPA|/ɳ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ں}}}} || ṉ || {{IPA|/ ̃/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|و}}}} || w, u || {{IPA|/w/}}, {{IPA|/u/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ه}}}} || h || {{IPA|/h/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ۀ}}}} || ə || {{IPA|/ə/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ی}}}} || y, i || {{IPA|/j/}}, {{IPA|/i/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ې}}}} || e || {{IPA|/e/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ے}}}} || ay || {{IPA|/ai/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ۍ}}}} || ạy || {{IPA|/əi/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ps|{{nq|ئ}}}} || y || {{IPA|/əi/}} 
+ |} 
+ 
+ ==[[Kashmiri language|Kashmiri]]== 
+ 
+ {| class= " wikitable "  style= " text-align:center " 
+ ! Letter !! Romanization !! [[International Phonetic Alphabet|IPA]] 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ا}}}} || ā, a, (e), o, - || {{IPA|/ɑ/}}, {{IPA|/ə/}}, {{IPA|/e/}}, {{IPA|/o/}}, {{IPA|/∅/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ب}}}} || b || {{IPA|/b/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|پ}}}} || p || {{IPA|/p/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ت}}}} || t || {{IPA|/t/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ٹ‎}}}} || ṭ || {{IPA|/ʈ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ث}}}} || (s) || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ج}}}} || j || {{IPA|/d͡ʒ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|چ}}}} || č || {{IPA|/t͡ʃ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ح}}}} || (h) || {{IPA|/h/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|خ}}}} || x || {{IPA|/x/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|د}}}} || d || {{IPA|/d/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ڈ‎}}}} || ḍ || {{IPA|/ɖ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ذ}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ر}}}} || r || {{IPA|/ɾ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ڑ‎}}}} || ṛ || {{IPA|/ɽ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ز}}}} || z || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ژ}}}} || ž || {{IPA|/ts/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|س}}}} || s || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ش}}}} || š || {{IPA|/ʃ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ص}}}} || (s) || {{IPA|/s/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ض}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ط}}}} || (t) || {{IPA|/t/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ظ}}}} || (z) || {{IPA|/z/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ع}}}} || (ā), (a), (e), (o), (-) || {{IPA|/ɑ/}}, {{IPA|/ə/}}, {{IPA|/e/}}, {{IPA|/o/}}, {{IPA|/∅/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|غ}}}} || ǧ || {{IPA|/ʁ~ɢ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ف}}}} || f || {{IPA|/pʰ~f/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ق}}}} || q/k || {{IPA|/q/}}, {{IPA|/k/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ک}}}} || k || {{IPA|/k/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|گ‎}}}} || g || {{IPA|/ɡ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ل}}}} || l || {{IPA|/l/}}, ({{IPA|/ɭ/}}), ({{IPA|/ɫ/}}) 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|م}}}} || m || {{IPA|/m/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ن}}}} || n || {{IPA|/n/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ں}}}} || ṇ || {{IPA|/ ̃/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|و}}}} || w, u || {{IPA|/w/}}, {{IPA|/u/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ۆ‎}}}} || v || {{IPA|/v/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ۄ}}}} || o || {{IPA|/o/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ہ}}}} || h || {{IPA|/h/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ھ‎}}}} || _h || {{IPA|/◌ʰ/}}, {{IPA|/◌ʱ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ی}}}} || y || {{IPA|/j/}}, {{IPA|/i/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ؠ}}}} || 'y || {{IPA|/ʲa/}}, {{IPA|/ʲ/}} 
+ |- 
+ | style= " font-size:150% "  | {{lang|ks|{{nq|ے}}}} || e || {{IPA|/e/}} 
+ |} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{Commons category|Nastaliq}} 
+ * [https://web.archive.org/web/20160304133208/http://rumicode.com/greetings-info-fa.html Rumicode]: Online Service For {{transl|fa|Nastaliq}} Calligraphy 
+ * [http://www.nastaliqonline.ir/ Nastaliq Online]: Online Service For {{transl|fa|Nastaliq}} Calligraphy 
+ * [http://www.sil.org/computing/catalog/show_software.asp?id=32 Nastaliq Writer] for Macintosh by [[SIL International|SIL]] 
+ * [http://www.faiznastaliq.com/ Faiz Nastaliq]: Official Faiz {{transl|fa|Nastaliq}} site 
+ * [https://web.archive.org/web/20100928182912/http://www.wegoiran.com/iran-information/iran-culture/nastaliq-script-persian-calligraphy.htm Nastaliq Script | Persian Calligraphy] 
+ * [http://software.sil.org/awami/ Awami Nastaliq]: A Nastaliq font by SIL International 
+ 
+ {{authority control}} 
+ 
+ [[Category:Alphabets]]

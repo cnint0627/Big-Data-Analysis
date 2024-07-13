@@ -1,0 +1,143 @@
+'''Bytecode''', also termed '''portable code''' or '''p-code''', is a form of [[instruction set]] designed for efficient execution by a [[software]] interpreter. Unlike human-readable source code, bytecodes are compact numeric codes, constants, and references (normally numeric addresses) that encode the result of compiler parsing and performing semantic analysis of things like type, scope, and nesting depths of program objects. 
+ {| class= " wikitable " 
+ !Program execution 
+ |- 
+ !General concepts 
+ |- 
+ | 
+ * Code 
+ * Translation 
+ ** Compiler 
+ *** Compile-time 
+ ** Optimizing compiler 
+ * Intermediate representation (IR) 
+ * Execution 
+ ** Runtime system 
+ *** Runtime 
+ ** Executable 
+ ** Interpreter 
+ ** Virtual machine 
+ |- 
+ !Types of code 
+ |- 
+ | 
+ * Source code 
+ * Object code 
+ * Bytecode 
+ * Machine code 
+ * Microcode 
+ |- 
+ !Compilation strategies 
+ |- 
+ | 
+ * Just-in-time (JIT) 
+ ** Tracing just-in-time 
+ * Ahead-of-time (AOT) 
+ * Transcompilation 
+ * Recompilation 
+ |- 
+ !Notable runtimes 
+ |- 
+ | 
+ * Android Runtime (ART) 
+ * Common Language Runtime (CLR)  &  Mono 
+ * crt0 
+ * HHVM 
+ * Java virtual machine (JVM) 
+ * Objective-C 
+ * V8 
+ ** Node.js 
+ * PyPy 
+ * Zend Engine 
+ |- 
+ !Notable compilers  &  toolchains 
+ |- 
+ | 
+ * GNU Compiler Collection (GCC) 
+ * LLVM 
+ ** Clang 
+ |- 
+ | 
+ *  < abbr > v < /abbr > 
+ *  < abbr > t < /abbr > 
+ *  < abbr > e < /abbr > 
+ |} 
+ {| class= " wikitable " 
+ | 
+ |Look up '''''bytecode''''' in Wiktionary, the free dictionary. 
+ |} 
+ The name bytecode stems from instruction sets that have one-byte opcodes followed by optional parameters. Intermediate representations such as bytecode may be output by programming language implementations to ease interpretation, or it may be used to reduce hardware and [[operating system]] dependence by allowing the same code to run cross-platform, on different devices. Bytecode may often be either directly executed on a virtual machine (a p-code machine i.e., interpreter), or it may be further compiled into [[machine code]] for better performance. 
+ 
+ Since bytecode instructions are processed by software, they may be arbitrarily complex, but are nonetheless often akin to traditional hardware instructions: virtual stack machines are the most common, but virtual register machines have been built also. Different parts may often be stored in separate files, similar to object modules, but dynamically loaded during execution. 
+ 
+ == Contents == 
+ 
+ * 1Execution 
+ * 2Examples 
+ * 3See also 
+ * 4Notes 
+ * 5References 
+ 
+ == Execution == 
+ A bytecode program may be executed by parsing and ''directly'' executing the instructions, one at a time. This kind of ''bytecode interpreter'' is very portable. Some systems, called dynamic translators, or ''just-in-time'' (JIT) compilers, translate bytecode into machine code as necessary at runtime. This makes the virtual machine hardware-specific but does not lose the portability of the bytecode. For example, Java and Smalltalk code is typically stored in bytecode format, which is typically then JIT compiled to translate the bytecode to machine code before execution. This introduces a delay before a program is run, when the bytecode is compiled to native machine code, but improves execution speed considerably compared to interpreting source code directly, normally by around an order of magnitude (10x). 
+ 
+ Because of its performance advantage, today many language implementations execute a program in two phases, first compiling the source code into bytecode, and then passing the bytecode to the virtual machine. There are bytecode based virtual machines of this sort for [[Java (programming language)|Java]], Raku, [[Python]], [[PHP]], Tcl, mawk and Forth (however, Forth is seldom compiled via bytecodes in this way, and its virtual machine is more generic instead). The implementation of [[Perl]] and Ruby 1.8 instead work by walking an abstract syntax tree representation derived from the [[source code]]. 
+ 
+ More recently, the authors of V8 and Dart have challenged the notion that intermediate bytecode is needed for fast and efficient VM implementation. Both of these language implementations currently do direct JIT compiling from source code to machine code with no bytecode intermediary. 
+ 
+ == Examples == 
+   > > >  import dis #  " dis "  - Disassembler of Python byte code into mnemonics. 
+   > > >  dis.dis('print( " Hello, World! " )') 
+    1           0 LOAD_NAME                0 (print) 
+                2 LOAD_CONST               0 ('Hello, World!') 
+                4 CALL_FUNCTION            1 
+                6 RETURN_VALUE 
+ 
+ * ActionScript executes in the ActionScript Virtual Machine (AVM), which is part of Flash Player and AIR. ActionScript code is typically transformed into bytecode format by a compiler. Examples of compilers include one built into Adobe Flash Professional and one built into Adobe Flash Builder and available in the Adobe Flex SDK. 
+ * Adobe Flash objects 
+ * BANCStar, originally bytecode for an interface-building tool but used also as a language 
+ * Berkeley Packet Filter 
+ * Byte Code Engineering Library 
+ * C to Java virtual machine compilers 
+ * CLISP implementation of Common Lisp used to compile only to bytecode for many years; however, now it also supports compiling to native code with the help of GNU lightning 
+ * CMUCL and Scieneer Common Lisp implementations of Common Lisp can compile either to native code or to bytecode, which is far more compact 
+ * Common Intermediate Language executed by Common Language Runtime, used by [[.NET Framework]] languages such as [[C Sharp (programming language)|C#]] 
+ * Dalvik bytecode, designed for the [[Android (operating system)|Android platform]], is executed by the Dalvik virtual machine 
+ * Dis bytecode, designed for the Inferno (operating system), is executed by the Dis virtual machine 
+ * EiffelStudio for the Eiffel programming language 
+ * EM, the Amsterdam Compiler Kit virtual machine used as an intermediate compiling language and as a modern bytecode language 
+ * [[GNU Emacs]] is a text editor with most of its functions implemented by Emacs Lisp, its built-in dialect of Lisp. These features are compiled into bytecode. This architecture allows users to customize the editor with a high level language, which after compiling into bytecode yields reasonable performance. 
+ * Embeddable Common Lisp implementation of Common Lisp can compile to bytecode or C code 
+ * Ericsson implementation of Erlang uses BEAM bytecodes 
+ * Icon and Unicon programming languages 
+ * Infocom used the Z-machine to make its software applications more portable 
+ * Java bytecode, which is executed by the Java virtual machine 
+ ** ASM 
+ ** BCEL 
+ ** Javassist 
+ ** JMangler 
+ * KEYB, the MS-DOS/PC DOS keyboard driver with its resource file KEYBOARD.SYS containing layout information and short p-code sequences executed by an interpreter inside the resident driver. 
+ * LSL, a scripting language used in virtual worlds compiles in bytecode running on a virtual machine. Second Life has the original Mono version, Inworldz developed the Phlox version. 
+ * [[Lua (programming language)|Lua language]] uses a register-based bytecode virtual machine 
+ * m-code of the [[MATLAB]] language 
+ * Multiplan 
+ * O-code of the BCPL programming language 
+ * OCaml language optionally compiles to a compact bytecode form 
+ * p-code of UCSD Pascal implementation of the Pascal language 
+ * Parrot virtual machine 
+ * Pick BASIC also referred to as Data BASIC or MultiValue BASIC 
+ * The R environment for statistical computing offers a bytecode compiler through the compiler package, now standard with R version 2.13.0. It is possible to compile this version of [[R (programming language)|R]] so that the base and recommended packages exploit this. 
+ * Pyramid 2000 adventure game 
+ * Scheme 48 implementation of Scheme using bytecode interpreter 
+ * Bytecodes of many implementations of the Smalltalk language 
+ * The Spin interpreter built into the Parallax Propeller microcontroller 
+ * The SQLite database engine translates [[SQL]] statements into a bespoke byte-code format. 
+ * SWEET16 
+ * Tcl 
+ * Tiny BASIC 
+ * Visual FoxPro compiles to bytecode 
+ * WebAssembly 
+ * YARV and Rubinius for [[Ruby (programming language)|Ruby]] 
+ 
+ [[Category:Computer programming]] 
+ [[Category:Programming languages]]

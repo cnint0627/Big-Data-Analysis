@@ -1,0 +1,68 @@
+{{Merge from | Exponent |date=February 2021 }} 
+ 
+ In [[mathematics]], '''exponentiation''' ('''power''') is an arithmetic operation on [[number]]s. It can be thought of as repeated [[multiplication]], just as multiplication can be thought of as repeated [[addition]].  
+ 
+ In general, given two numbers  < math > x < /math >  and  < math > y < /math > , the exponentiation of  < math > x < /math >  and  < math > y < /math >  can be written as  < math > x^y < /math > , and read as  " < math > x < /math >  raised to the power of  < math > y < /math > " , or  " < math > x < /math >  to the  < math > y < /math > th power " . < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-28|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Power|url=https://mathworld.wolfram.com/Power.html|access-date=2020-08-28|website=mathworld.wolfram.com|language=en}} < /ref >  Other methods of [[mathematical notation]] have been used in the past. When the upper index cannot be written, people can write powers using the  < tt > ^ < /tt >   or ** signs, so that  < tt > 2^4 or < /tt >  2**4 means  < math > 2^4 < /math > . 
+ 
+ Here, the number  < math > x < /math >  is called '''base''', and the number  < math > y < /math >  is called '''exponent'''. For example, in  < math > 2^4 < /math > , 2 is the base and 4 is the exponent. 
+ 
+ To calculate  < math > 2^4 < /math > , one simply multiply 4 copies of 2. So  < math > 2^4=2 \cdot 2 \cdot 2 \cdot 2 < /math > , and  the result is  < math > 2 \cdot 2 \cdot 2 \cdot 2=16 < /math > . The [[equation]] could be read out loud as  " 2 raised to the power of 4 equals 16. " 
+ 
+ More examples of exponentiation are: 
+ * < math > 5^3=5\cdot{} 5\cdot{} 5=125 < /math > 
+ * < math > x^2=x\cdot{} x < /math > 
+ * < math > 1^x = 1 < /math >  for every number ''x'' 
+ 
+ If the exponent is equal to 2, then the power is called '''square''', because the [[area]] of a [[square (geometry)|square]] is calculated using  < math > a^2 < /math > . So 
+ : < math > x^2 < /math >  is the square of  < math > x < /math > 
+ 
+ Similarly, if the exponent is equal to 3, then the power is called '''cube''', because the [[volume]] of a [[cube]] is calculated using  < math > a^3 < /math > . So 
+ : < math > x^3 < /math >  is the cube of  < math > x < /math > 
+ 
+ If the exponent is equal to -1, then the power is simply the [[reciprocal]] of the base. So 
+ : < math > x^{-1}=\frac{1}{x} < /math > 
+ If the exponent is an [[integer]] less than 0, then the power is the reciprocal raised to the opposite exponent. For example: 
+ : < math > 2^{-3}=\left(\frac{1}{2}\right)^3=\frac{1}{8} < /math > 
+ If the exponent is equal to  < math > \tfrac{1}{2} < /math > , then the result of exponentiation is the [[square root]] of the base, with  < math > x^{\frac{1}{2}}=\sqrt{x}. < /math >  For example: 
+ : < math > 4^{\frac{1}{2}}=\sqrt{4}=2 < /math > 
+ Similarly, if the exponent is  < math > \tfrac{1}{n} < /math > , then the result is the [[nth root]], where: 
+ : < math > a^{\frac{1}{n}}=\sqrt[n]{a} < /math > 
+ If the exponent is a [[rational number]]  < math > \tfrac{p}{q} < /math > , then the result is the ''q''th root of the base raised to the power of ''p'': 
+ : < math > a^{\frac{p}{q}}=\sqrt[q]{a^p} < /math > 
+ In some cases, the exponent may not even be rational. To raise a base ''a'' to an irrational ''x''th power, we use an [[infinity|infinite]] sequence of [[rational number]]s (''x < sub > n < /sub > ''), whose [[Limit (mathematics)|limit]] is x: 
+ : < math > x=\lim_{n\to\infty}x_n < /math > 
+ like this: 
+ : < math > a^x=\lim_{n\to\infty}a^{x_n} < /math > 
+ 
+ There are some rules which make the calculation of exponents easier: < ref > {{Cite web|last=Nykamp|first=Duane|date=|title=Basic rules for exponentiation|url=https://mathinsight.org/exponentiation_basic_rules|archive-url=|archive-date=|access-date=August 27, 2020|website=Math Insight}} < /ref > 
+ *  < math > \left(a\cdot b\right)^n = a^n\cdot{}b^n < /math > 
+ *  < math > \left(\frac{a}{b}\right)^n = \frac{a^n}{b^n},\quad b\neq 0 < /math > 
+ *  < math > a^r \cdot{} a^s = a^{r+s} < /math > 
+ *  < math > \frac{a^r}{a^s} = a^{r-s},\quad a\neq 0 < /math > 
+ *  < math > a^{-n} = \frac{1}{a^n},\quad a\neq 0 < /math > 
+ *  < math > \left(a^r\right)^s = a^{r\cdot s} < /math > 
+ *  < math > a^0 = 1 < /math > 
+ 
+ It is possible to calculate exponentiation of [[matrix (mathematics)|matrices]]. In this case, the matrix must be square. For example,  < math > I^2=I \cdot I=I < /math > . 
+ 
+ == Commutativity == 
+ Both addition and multiplication are [[Commutative property|commutative]]. For example, 2+3 is the same as 3+2, and 2 · 3 is the same as 3 · 2. Although exponentiation is repeated multiplication, it is not commutative. For example, 2³=8, but 3²=9. 
+ 
+ == Inverse Operations == 
+ Addition has one inverse operation: [[subtraction]]. Also, multiplication has one inverse operation: division. 
+ 
+ But exponentiation has two inverse operations: The root and the [[logarithm]]. This is the case because the exponentiation is not commutative. You can see this in this example: 
+ * If you have x+2=3, then you can use subtraction to find out that x=3−2. This is the same if you have 2+x=3: You also get x=3−2. This is because x+2 is the same as 2+x. 
+ * If you have x · 2=3, then you can use division to find out that x= < math display= " inline " > \frac{3}{2} < /math > . This is the same if you have 2 · x=3: You also get x= < math display= " inline " > \frac{3}{2} < /math > . This is because x · 2 is the same as 2 · x 
+ * If you have x²=3, then you use the (square) [[Root (mathematics)|root]] to find out x: you get the result that x =  < math display= " inline " > \sqrt[2]{3} < /math > .  However, if you have 2 < sup > x < /sup > =3, then you can not use the root to find out x. Rather, you have to use the (binary) [[logarithm]] to find out x: you get the result that x=log < sub > 2 < /sub > (3). 
+ 
+ == Related pages == 
+ * [[Exponent]] 
+ * [[Exponential function]] 
+ * [[Exponentiation by squaring]] 
+ * [[Tetration]] 
+ 
+ == References == 
+ < references / > 
+ [[Category:Mathematics]] 
+ [[Category:Hyperoperations]]

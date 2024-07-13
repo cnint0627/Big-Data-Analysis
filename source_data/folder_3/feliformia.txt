@@ -1,0 +1,86 @@
+{{Automatic Taxobox 
+ | name = Feliformia 
+ | fossil_range = [[Eocene]] to Recent 
+ | image = Panthera tigris tigris edited2.jpg 
+ | image_width = 200px 
+ | image_caption = [[Tiger]] (''Panthera tigris'') 
+ | taxon = Feliformia 
+ | authority = [[Kretzoi]], 1945 
+ }} 
+ 
+ '''Feliformia''' is a [[suborder]] in the [[mammal]] [[Order (biology)|order]] [[Carnivora]]. It contains all the [[Felidae]], which are cat-like animals. The suborder also contains the relatives of the cats, which includes [[hyaena]]s, [[civet]]s, [[Asiatic linsang]]s, and more. There are six [[taxonomy|families]], twelve [[taxonomy|subfamilies]], 56 [[taxonomy|genera]] and 114 [[species]] in the Feliformia suborder now. 
+ 
+ [[DNA sequence|Molecular phylogeny]] shows the Feliformia is monophyletic. < ref > Eizirik E. ''et al'' 2010. Pattern and timing of the diversification of the mammalian order Carnivora inferred from multiple nuclear gene sequences. ''Molecular Phylogenetics and Evolution'' '''56''': 49-63. {{doi|10.1016/j.ympev.2010.01.033}} 
+ < /ref >  The other suborder of Carnivora is the dog-like [[Caniformia]]. 
+ 
+ == Taxonomy == 
+ * Suborder '''Feliformia''' ( " cat-like " ) 
+ ** Family [[Eupleridae]]: ''Fossa'' and others 
+ ** Family [[Felidae]]: Cats 
+ *** Subfamily [[Felinae]] 
+ *** Subfamily [[Pantherinae]] 
+ ** Family [[Nandiniidae]]: 
+ *** Genus ''Nandinia'': [[African palm civet]] 
+ ** Family [[Viverridae]]: [[Civet cat]]s, [[Genet]]s etc. 
+ ** Family [[Hyaena|Hyaenidae]]: Hyaenas 
+ *** Subfamily [[Hyaeninae]] 
+ *** Subfamily [[Protelinae]] 
+ ** Family [[Herpestidae]]: [[Mongoose]]s 
+ ** Family [[Primodontidae]]: [[Asiatic linsang]] 
+ ** Family [[Eupleridae]]: Varied group, [[endemic]] to [[Madagascar]] 
+ 
+ * †[[Barbourofelidae]]: [[Miocene]]  " false "  sabre-tooths  < ref > " true "  sabre-tooths are in the Felidae. < /ref > 
+ * †[[Nimravidae]]:  " false "  sabre-tooths, from [[Eocene]] to end Miocene. 
+ * †[[Stenoplesictidae]]: Civet-like animals 
+ * †[[Percrocutidae]]: hyaena-like forms from the Miocene to later [[Pliocene]] 
+ 
+ === Cladogram === 
+ {{clade | style=font-size:85%;line-height:85% 
+ | label1 =  & nbsp; & nbsp; & nbsp;'''Feliformia''' & nbsp; & nbsp; & nbsp; 
+ | 1 = {{clade 
+   | 1 = [[Nimravidae]]† 
+   | 2 = {{clade 
+     | 1 = [[Stenoplesictidae]]† 
+     | 2 = [[Percrocutidae]]† 
+     }} 
+   | 3 = [[Nandiniidae]] 
+   | 4 = {{clade 
+     | 1 = {{clade 
+       | 1 = [[Prionodontidae]] 
+       | 2 = {{clade 
+         | 1 = [[Barbourofelidae]]† 
+         | 2 = [[Felidae]] 
+         }} 
+       }} 
+     | 2 = {{clade 
+       | 1 = [[Viverridae]] 
+       | 2 = {{clade 
+         | 1 = [[Hyaenidae]] 
+         | 2 = {{clade 
+           | 1 = [[Herpestidae]] 
+           | 2 = [[Eupleridae]] 
+           }} 
+         }} 
+       }} 
+     }} 
+   }} 
+ }} 
+ 
+ == References == 
+ {{Reflist}} 
+ < span id= " ExRefs " > < /span > 
+ :1. Taxonomic references extant species (a); supporting descriptive information and pictures: [http://animaldiversity.ummz.umich.edu/site/accounts/classification/Feliformia.html#Feliformia|Animal Diversity Web (online) - Feliformia]. 
+ :2. Taxonomic references extant species (b): [[ITIS]] [https://www.itis.gov Integrated Taxonomic Information System] 
+ :3. Fossil record data (with taxonomic references) extant and extinct species: [http://paleodb.org The Paleaobiology Database] 
+ :4. Supporting taxonomic references extant and extinct species: [http://www.taxonomy.nl/Main/Classification/103312.htm Systema Naturae 2000 / Classification - Suborder Feliformia] {{Webarchive|url=https://web.archive.org/web/20070926211934/http://www.taxonomy.nl/Main/Classification/103312.htm |date=2007-09-26 }} 
+ :5. Gina D. Wesley-Hunt and John J. Flynn 2005: [http://journals.cambridge.org/action/displayAbstract?fromPage=online & aid=285902 Phylogeny of The Carnivora] 
+ :6a. Anne D. Yoder and John J. Flynn 2003: [http://research.yale.edu/yoderlab/pdfs/ipYoderFlynnNHMad.pdf Origin of Malagasy Carnivora] {{Webarchive|url=https://web.archive.org/web/20050824202058/http://research.yale.edu/yoderlab/pdfs/ipYoderFlynnNHMad.pdf |date=2005-08-24 }} 
+ :6b. Yoder, A., M. Burns, S. Zehr, T. Delefosse, G. Veron, S. Goodman, J. Flynn. 2003: [http://www.biology.duke.edu/yoderlab/pdfs/2003YoderBurnsNature.pdf Single origin of Malagasy Carnivora from an African ancestor – Letters to Nature] 
+ :7. Philippe Gaubert, W. Chris Wozencraft, Pedro Cordeiro-Estrela and Géraldine Veron. 2005 - Mosaics of Convergences and Noise in Morphological Phylogenies: What's in a Viverrid-Like Carnivoran? 
+ 
+ == Other websites == 
+ {{commonscat|Feliformia}} 
+ {{wikispecies}} 
+ 
+ 
+ [[Category:Feliformia| ]]

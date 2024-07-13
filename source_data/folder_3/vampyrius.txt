@@ -1,0 +1,124 @@
+{{Italic title}} 
+ {{Use dmy dates|date=June 2020}} 
+ {{Speciesbox 
+ | name = Vampire tree frog 
+ | image =  
+ | image_caption =  
+ | status = EN 
+ | status_system = IUCN3.1 
+ | status_ref =  < ref name= " iucn status 20 November 2021 " > {{cite iucn |author=IUCN SSC Amphibian Specialist Group |date=2020 |title=''Rhacophorus vampyrus'' |volume=2020 |page=e.T47143971A177130806 |doi=10.2305/IUCN.UK.2020-3.RLTS.T47143971A177130806.en |access-date=20 November 2021}} < /ref > 
+ | parent_authority = Dubois, Ohler, and Pyron, 2021 
+ | display_parents = 2 
+ | taxon = Vampyrius vampyrus 
+ | authority = ([[Jodi Rowley|Rowley]], Le, Tran, Stuart, and Hoang, 2010) 
+ | synonyms = ''Rhacophorus vampyrus''  < small > Rowley, Le, Tran, Stuart, and Hoang, 2010 < /small > 
+ }}[[File:Location map of Vietnam (South Vietnamese claim).png|thumb|Southern Vietnam Map]] < mapframe latitude= " 12.86536 "  longitude= " 108.116455 "  zoom= " 2 "  text= " Map of Vietnam, with rectangles showing approximate range of R. Vampyrus. "  width= " 200 "  height= " 100 " > 
+ { 
+    " type " :  " FeatureCollection " , 
+    " features " : [ 
+     { 
+        " type " :  " Feature " , 
+        " properties " : {}, 
+        " geometry " : { 
+          " type " :  " Polygon " , 
+          " coordinates " : [ 
+           [ 
+             [ 
+               107.983747, 
+               11.512334 
+             ], 
+             [ 
+               107.983747, 
+               12.332061 
+             ], 
+             [ 
+               108.425924, 
+               12.332061 
+             ], 
+             [ 
+               108.425924, 
+               11.512334 
+             ], 
+             [ 
+               107.983747, 
+               11.512334 
+             ] 
+           ] 
+         ] 
+       } 
+     }, 
+     { 
+        " type " :  " Feature " , 
+        " properties " : {}, 
+        " geometry " : { 
+          " type " :  " Polygon " , 
+          " coordinates " : [ 
+           [ 
+             [ 
+               107.204729, 
+               10.582204 
+             ], 
+             [ 
+               107.204729, 
+               11.266875 
+             ], 
+             [ 
+               107.569582, 
+               11.266875 
+             ], 
+             [ 
+               107.569582, 
+               10.582204 
+             ], 
+             [ 
+               107.204729, 
+               10.582204 
+             ] 
+           ] 
+         ] 
+       } 
+     } 
+   ] 
+ } 
+ < /mapframe > 
+ '''Rhacophorus vampyrus''' ('''''Vampyrius vampyrus''''') is a [[Rhacophorus|flying frog]].  It lives in [[Vietnam]].  It is the only frog species in its [[genus]]. < ref name= " IUCN Red List of Threatened Species-2014 " > {{Cite journal |date=2014-01-20 |title=Rhacophorus vampyrus: IUCN SSC Amphibian Specialist Group |url=http://dx.doi.org/10.2305/iucn.uk.2020-3.rlts.t47143971a177130806.en |access-date=2022-09-30 |website=IUCN Red List of Threatened Species|doi=10.2305/iucn.uk.2020-3.rlts.t47143971a177130806.en }} < /ref > < ref name= " Rowley " > {{cite journal | title = A new tree frog of the genus ''Rhacophorus'' (Anura: Rhacophoridae) from southern Vietnam | journal = Zootaxa | year = 2010 | volume = 2727 | pages = 45–55 | url = http://www.mapress.com/zootaxa/2010/f/zt02727p055.pdf | author = Jodi J. L. Rowley | author2 = Le Thi Thuy Duong | author3 = Tran Thi Anh Dao| author4 = Bryan L. Stuart | author5 = Hoang Duc Huy | name-list-style=amp}} < /ref > < ref > {{Cite web |title=Vampyrius vampyrus (Rowley, Le, Thi, Stuart, and Hoang, 2010) {{!}} Amphibian Species of the World |url=https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Rhacophoridae/Rhacophorinae/Vampyrius/Vampyrius-vampyrus |access-date=2022-09-12 |website=amphibiansoftheworld.amnh.org}} < /ref >  People also call it the '''[[vampire]] tree frog''' < ref name= " Rowley "  / >  or '''vampire flying frog'''. < ref > {{cite web |url= http://www.abc.net.au/news/stories/2011/01/06/3107721.htm |title= Vampire flying frog found in Vietnam |date= 6 January 2011 |publisher= ABC News |access-date=9 January 2011}} < /ref > < ref name= " age " > {{cite news |title= Frog's scary name is worse than its bite |author= Ben Cubby |url= http://www.theage.com.au/environment/animals/frogs-scary-name-is-worse-than-its-bite-20110106-19hn1.html |newspaper= The Age |date= 7 January 2011 |access-date=9 January 2011}} < /ref > < ref name= " geographic " > {{cite web |url= http://news.nationalgeographic.com/news/2010/11/110107-new-species-vampire-flying-frog-tadpoles-fangs-science-animals/ |title=  " Vampire Flying Frog "  Found; Tadpoles Have Black Fangs  |author= Charles Choi |date= 7 January 2011 |work= National Geographic |access-date=9 January 2011}} < /ref >  This is because the tadpoles have two black hooks in their mouths that look like [[fang|vampire teeth]]. < ref name= " geographic "  / >  Its [[Vietnamese language|Vietnamese]] name is ''Ếch cây ma cà rồng''. < ref name= " Rowley "  / > 
+ 
+ This frog lives in [[evergreen forests]]  [[montane|on mountains]] at 1470–2004 meters above sea level. < ref name= " Rowley "  / >  It [[Arboreal locomotion|lives in trees]]. It can use the webbed skin on its feet to glide between trees. < ref name= " Stephen Luntz-2011 "  / > < ref name= " Aaron Smith-2011 "  / >  This is why it is called a flying frog. 
+ 
+ Scientists call this frog both ''Rhacophorus vampyrus'' and ''Vampyrius vampyrus'' in the articles they write. 
+ 
+ == Taxonomy == 
+ The first specimen was discovered in 2008 by [[Jodi Rowley]] of the [[Australian Museum]] at [[Sydney]], Australia, and her student Le Thi Thuy Duong from [[Ho Chi Minh City University of Science]]. They found more in 2009 and 2010, and their team wrote the first paper about the species in the journal ''[[Zootaxa]]'' in 2010. They called it ''Rhacophorus vampyrus''. < ref name= " Stephen Luntz-2011 " > {{cite web|author= Stephen Luntz|title= Flying Vampire Frog Alert|date= March 2011|url= http://www.australasianscience.com.au/article/issue-march-2011/flying-vampire-frog-alert.html|work= Australasian Science|publisher= Control Publications|access-date= 20 November 2013|archive-date= 5 September 2014|archive-url= https://web.archive.org/web/20140905214803/http://www.australasianscience.com.au/article/issue-march-2011/flying-vampire-frog-alert.html|url-status= dead}} < /ref > < ref name= " Aaron Smith-2011 " > {{cite web |author= Aaron Smith |title= Vampire flying frog discovered |date= 13 January 2011 |url= http://www.australiangeographic.com.au/journal/vampire-flying-frog-discovered.htm |work= Australian Geographic |access-date= 20 November 2013 |archive-date= 14 December 2013 |archive-url= https://web.archive.org/web/20131214130216/http://www.australiangeographic.com.au/journal/vampire-flying-frog-discovered.htm |url-status= dead }} < /ref >  In 2012, scientists said this species should be called ''Rhacophorus calcaneus'' because of the shapes of the adult frogs' bodies; < ref name= " Kropachev-2022 " > {{Cite journal |last1=Kropachev |first1=Ivan I. |last2=Evsyunin |first2=Alexey A. |last3=Orlov |first3=Nikolai L. |last4=Nguyen |first4=Tao Thien |date=2022-03-22 |title=A New Species of  & lt;i & gt;Rhacophorus & lt;/i & gt; Genus (Anura: Rhacophoridae: Rhacophorinae) from Lang Son Province, Northern Vietnam |url=http://dx.doi.org/10.30906/1026-2296-2022-29-1-35-46 |journal=Russian Journal of Herpetology |volume=29 |issue=1 |pages=35–46 |doi=10.30906/1026-2296-2022-29-1-35-46 |s2cid=247612765 |issn=1026-2296}} < /ref >  however, in 2014 the species was reclassified as ''R. vampyrus'' through phylogenic research. < ref name= " Kropachev-2022 " / >  In 2021, a phylogenetic study found the species to fall far outside ''[[Rhacophorus]]'', and instead be the sister genus to ''[[Gracixalus]]'', so scientists gave it its own genus, ''Vampyrius''. < ref > {{Cite web |title=Vampyrius Dubois, Ohler, and Pyron, 2021 {{!}} Amphibian Species of the World |url=https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Rhacophoridae/Rhacophorinae/Vampyrius |access-date=2022-09-12 |website=amphibiansoftheworld.amnh.org}} < /ref > < ref > {{Cite journal |last1=Dubois |first1=Alain |last2=Ohler |first2=Annemarie |last3=Pyron |first3=R. Alexander |date=2021-02-26 |title=New concepts and methods for phylogenetic taxonomy and nomenclature in zoology, exemplified by a new ranked cladonomy of recent amphibians (Lissamphibia) |url=https://www.mapress.com/mt/article/view/megataxa.5.1.1 |journal=Megataxa |language=en |volume=5 |issue=1 |pages=1–738–1–738 |doi=10.11646/megataxa.5.1.1 |s2cid=236674452 |issn=2703-3090}} < /ref > < ref > {{Cite web |title=AmphibiaWeb - Rhacophorus vampyrus |url=https://amphibiaweb.org/species/7611 |access-date=2022-09-12 |website=amphibiaweb.org}} < /ref > 
+ 
+ ==Appearance== 
+ ''R. vampyrus'' can grow to 4.5 & nbsp;cm. < ref name= " age "  / >  There is webbed skin between the toes, so it can glide between trees. < ref name= " Aaron Smith-2011 "  / > < ref name= " Kropachev-2022 "  / >  The skin of the frog's back is copper-brown in color with fainter, dark-brown [[Mottle|mottlin]] < nowiki/ > g.  The chest and belly are white, with a some black marks at the edge of the chest.  The upper surfaces of the arms and legs are copper brown with some dark brown marks.  The upper surfaces of the front and back feet are copper brown in color which fades to pinkish-cream or grey at the toes.  The lower surfaces of the front and back feet are a pale grey color.  The upper surface of webbing of the hands and feet is dark grey to black in color.  The lower surfaces of the species are grey.  ''R. vampyrus'' has pale yellow/gold [[Iris (anatomy)|irises]] with a small rim of blue. < ref name= " Rowley "  / >  There is also a pointed piece sticking out at tibiotarsal articulation. < ref name= " Rowley "  / >  Tadpoles have black hooks on their mouths made of [[keratin]], which is the same thing fingernails are made of. < ref > {{Cite web |title=AmphibiaWeb - Rhacophorus vampyrus |url=https://amphibiaweb.org/species/7611 |access-date=2022-09-21 |website=amphibiaweb.org}} < /ref >  The tadpoles have long bodies and long tails.  They are dark brown in color, but sometimes the tail fins have no color. < ref name= " Nikolay A. Poyarkov Jr.-2013 "  / >  The tadpoles' eyes are black. The iris of the eye has gold specks. < ref name= " Nikolay A. Poyarkov Jr.-2013 "  / > 
+ 
+ ==Home== 
+ So far, people have only found ''R. vampyrus'' in southern Vietnam. < ref name= " iucn status 20 November 2021 "  / >  The first specimens were found in [[Bidoup Núi Bà National Park]], but scientists think they may also live in many parts of the [[Langbian Plateau]] (specifically in [[Chư Yang Sin National Park]] and [[Phước Bình National Park]]). < ref name=Rowley/ >  Later, scientists found them in Ta Dung Nature reserve, [[Dak Glong District]]. < ref name=Rowley2012/ >  The area that ''R. vampyrus'' extends is approximately 2,082 & nbsp;km < sup > 2 < /sup > . < ref name= " IUCN Red List of Threatened Species-2014 "  / >   The two places where ''R. vampyrus'' lives are far apart. The space in between has low elevation, which would make it hard for the frog to live there or travel. < ref name= " IUCN Red List of Threatened Species-2014 "  / >  Scientists think it used to live in more places, but [[habitat loss|human beings changed the places where it lives]]. < ref name= " IUCN Red List of Threatened Species-2014 "  / > < ref name= " IUCN Red List of Threatened Species-2014 "  / > 
+ 
+ == Life cycle == 
+ ''R. vampyrus'' lays its eggs in small, water-filled holes in trees during the rainy seasons, generally 0.3–1.2 m above the ground. It lays eggs mostly from July to May, producing [[Clutch (eggs)|clutches]] of 250 eggs or fewer. < ref name= " IUCN Red List of Threatened Species-2014 "  / >  The eggs are laid in foam nests on the wall of the tree hole, where nests are usually about 30–120 & nbsp;cm above the ground. The [[larva]]e fall into a hollow basin filled with water. < ref name= " IUCN Red List of Threatened Species-2014 "  / >  Tadpoles develop from the colorless eggs, but fertilized and unfertilized eggs are the same size. < ref name= " Nikolay A. Poyarkov Jr.-2013 "  / >  The eggs are white in color, with a thin transparent covering on the outside shell of each egg, with diameters between 0.70 and 1.29 & nbsp;mm. < ref name= " Nikolay A. Poyarkov Jr.-2013 "  / >  The tadpoles are long and dark-brown in color. Their tails are about three times as long as their bodies. Younger tadpoles are pale white or gray in color and they become darker over time. < ref name= " Nikolay A. Poyarkov Jr.-2013 "  / >   The tadpoles have dark hooks on their lower [[jaw]]s that look like fanged teeth.  This is the only frog or toad that has fangs like these.  There is also a hard arch on the upper jaw. The two hooks go forward. < ref name=Rowley/ >  The species is named after these  " fangs. " < ref name=geographic/ > [[File:Rhacophorus arboreus Eggｓ in Mount Ryu 2011-09-29.jpg|thumb|Example of Rhacophorus Frog Eggs]] 
+ 
+ === Food === 
+ The hooks on the tadpoles' mouths show that they [[oophagy|eat eggs and only eggs]]. The mother frog lays extra unfertilized eggs ([[trophic egg|to feed them]]). This is an example of advanced [[Parental investment|parental care]]. < ref name= " Rowley2012 " > {{cite journal |doi= 10.1080/00222933.2012.732622 |title= The strangest tadpole: The oophagous, tree-hole dwelling tadpole of ''Rhacophorus vampyrus'' (Anura: Rhacophoridae) from Vietnam |year= 2012 |last1= Rowley |first1= J.J.L. |last2= Tran |first2= D.T.A. |last3= Le |first3= D.T.T. |last4= Hoang |first4= H.D. |last5= Altig |first5= R. |journal= Journal of Natural History |volume= 46 |issue= 47–48 |pages= 2969–2978|s2cid= 84414631 }} < /ref > < ref name= " Nikolay A. Poyarkov Jr.-2013 " > {{cite journal |author1=Anna B. Vassilieva |author2=Eduard A. Galoyan |author3=Nikolay A. Poyarkov Jr.  |name-list-style=amp |year=2013  |title= ''Rhacophorus vampyrus'' (Anura: Rhacophoridae) reproductive biology: A new type of oophagous tadpole in Asian treefrogs|journal= Journal of Herpetology |volume=47 |issue=4 | pages=607–614 |doi= 10.1670/12-180|s2cid=83859555 }} < /ref >  The tadpoles can open their mouths very wide, so they can eat large things, for examples eggs with a jelly coating still on. < ref name= " Rowley2012 "  / >  The tadpoles' intestine pouches can also stretch very wide to hold many eggs. It shrinks when the tadpole does not eat. < ref name= " Rowley2012 "  / > 
+ 
+ == Conservation == 
+ 
+ === Threats === 
+ In 2014, the [[IUCN Red List]] named ''Rhacophorus vampyrus'' [[Endangered species|endangered]]. < ref name= " IUCN Red List of Threatened Species-2014 " / >  ''R. vampyrus'' has two main populations and they live far away from each other because the land in between is not a good [[habitat]] for this frog. < ref name= " IUCN Red List of Threatened Species-2014 "  / >  Scientists think the frogs in the two groups cannot mate with each other unless human beings [[species translocation|take frogs from place to place]], but no one has tried this yet. < ref > AArk/ASG Assessment Workshop. 2012. Conservation Needs Assessment for Rhacophorus vampyrus, Viet Nam.  < nowiki > https://www.conservationneeds.org/Assessment/AssessmentResults?assessmentId=2405 & countryId=141 & speciesId=5387 < /nowiki > . Accessed 30 Sep 2022 < /ref >   ''R. vampyrus'' needs to live in moist and dense [[Montane ecosystems|mountain]] rainforests. < ref name= " Rowley2012 "  / >  Threats such as [[Deforestation|cutting down forests]], road building, farming, and [[aquaculture|water farming]] can changes the area. < ref > {{Cite journal |last1=Thinh |first1=Phung Ba |last2=Quang |first2=Nguyen Hao |last3=Quyet |first3=Le Khac |last4=Duc |first4=Hoang Minh |date=2012-08-06 |title=A survey on avifauna of Bidoup - Nui Ba national park, Lam Dong province |journal=Tap Chi Sinh Hoc |url=http://dx.doi.org/10.15625/0866-7160/v34n3se.1765 |volume=34 |issue=3se |doi=10.15625/0866-7160/v34n3se.1765 |issn=0866-7160}} < /ref >  There are fewer of these frogs than there were. < ref name= " IUCN Red List of Threatened Species-2014 "  / > < ref name= " Rowley2012 "  / > < ref > {{Cite journal |last1=Vogelmann |first1=James E. |last2=Khoa |first2=Phung Van |last3=Lan |first3=Do Xuan |last4=Shermeyer |first4=Jacob |last5=Shi |first5=Hua |last6=Wimberly |first6=Michael C. |last7=Duong |first7=Hoang Tat |last8=Huong |first8=Le Van |date=July 2017 |title=Assessment of Forest Degradation in Vietnam Using Landsat Time Series Data |journal=Forests |language=en |volume=8 |issue=7 |pages=238 |doi=10.3390/f8070238 |issn=1999-4907|doi-access=free }} < /ref >  including ''R. vampyrus''.  
+ [[File:Phá rừng01.JPG|thumb|Deforestation in Vietnam]] 
+ 
+ === Efforts === 
+ The two places where scientists found this frog are already protected: Bidoup-Nui National Park and Ta Dung Nature Reserve. < ref name= " IUCN Red List of Threatened Species-2014 "  / >  ''R. vampyrus'' may live in other areas, for example [[Chư Yang Sin National Park|Chu Yang Sin National Park]] and [[Phước Bình National Park|Phuoc Binh National Park]]. < ref name= " Rowley "  / >  Scientists do not know as much as they want to know about this frog, < ref name= " IUCN Red List of Threatened Species-2014 "  / >  which may make it harder to protect it. < ref name= " IUCN Red List of Threatened Species-2014 "  / > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==External links== 
+ {{Wikispecies}} 
+ *[http://amphibiaweb.org/species/7611 Profile ''Rhacophorus vampyrus'' at Amphibia Web] 
+ *[http://carnivoraforum.com/topic/9333638/1/ Vampire Flying (Tree) Frog - ''Rhacophorus vampyrus'' - Profile at Carnovira] {{Webarchive|url=https://web.archive.org/web/20150610211820/http://carnivoraforum.com/topic/9333638/1/ |date=2015-06-10 }} 
+ *[https://www.uniprot.org/taxonomy/932925 Taxonomy - Rhacophorus vampyrus (vampire flying frog) at Uniprot] 
+ * {{YouTube|id=KieIj9rGsP4|title=Dr Jodi Rowley - Talking the Vampire Frog}} discussing about discovery of ''Rhacophorus vampyrus'' 
+ {{Taxonbar|from=Q1937069}} 
+ [[Category:Frogs of Asia]]

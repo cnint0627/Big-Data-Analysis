@@ -1,0 +1,42 @@
+'''Forestle''' was a [[search engine]], or [[website]] for finding all kinds of [[information]] on the [[internet]]. Forestle gave money to save the [[rainforest|rain forest]] and reduce the total [[carbon dioxide]] (CO < sub > 2 < /sub > ) production. It also offered special features, for example a preview of the websites found during a search. It was invented in 2008. 
+ 
+ Forestle was discontinued and redirected to a similar search engine [[Ecosia]] on January 1, 2011. < ref > [http://forestle.org/_files/switch_forestle_ecosia_en.pdf Why is Forestle being redirected to Ecosia from January 1 2011 ?] < /ref > 
+ 
+ == Helping the environment == 
+ 
+ Forestle saved 0.1 square meters (about 0.1 square yards) of [[rainforest|rain forest]] per search. It earned money from showing advertisements along with the websites found, and Forestle guarantees to donate 90% of this money to buy areas of rain forest through its partner organization '''The Nature Conservancy'''.  As of October 2009, about  1,991,055 square meters of rain forest have been saved. < ref name=proof > {{cite web  
+ | url = http://forestle.org/_lang/en/about_forestle.php#proof  
+ | title = Monthly report of donations: areas of rain forest actually saved until today  
+ | accessdate = 2009-02-07  
+ | date = 2009-02-02  
+ | publisher = Forestle.org and The Nature Conservatory  
+ | archive-date = 2008-09-12  
+ | archive-url = https://web.archive.org/web/20080912124101/http://forestle.org/_lang/en/about_forestle.php#proof  
+ | url-status = dead  
+ }} < /ref > 
+ 
+ For searching the web using Forestle was also essentially '''CO < sub > 2 < /sub > -neutral''': Of course the server computers used by Forestle, the connection network, and the computer of the searching users need [[electricity|electric energy]] and thus create [[emission]]s of carbon-dioxide; but Forestle purchased an equivalent amount of [[renewable energy]] certificates. < ref name=proofCO2 > {{cite web | url = http://www.co2stats.com/certpro.php?s=1342 & ref=http://www.forestle.org | title = ''CO < sub > 2 < /sub >  offset certified by renewable energy certificates'' | accessdate = 2009-02-17 | publisher = CO2stats.com | archive-date = 2016-03-04 | archive-url = https://web.archive.org/web/20160304130522/http://www.co2stats.com/certpro.php?s=1342 & ref=http%3A%2F%2Fwww.forestle.org | url-status = dead }} < /ref >  The certificates are purchased from a part of the 10% of money left after buying rain forest. This makes Forestle one of the few web search sites that are  " green certified " . 
+ 
+ The number of search requests on Forestle.org grew significantly: < ref name=proof/ >  There were 4000 search requests per day on average in December 2008, about 10000 per day in January 2009 and as of March 6, 2009 there were more than 20000 requests per day. 
+ 
+ Forestle thus offered a simple alternative form of searching the web in a way that helps the environment. 
+ 
+ How large the effects of using such a 'green' search method actually are is discussed. < ref name=degreeOfImpact > {{cite web|url = http://www.businessgreen.com/vnunet/analysis/2235354/analysis-impact-eco-friendly | title = Analysis: The impact of eco-friendly search engines - Can using a 'green' search engine save the planet? | accessdate = 2009-02-23 | date = 2009-01-29 | publisher = businessGreen}} < /ref > 
+ 
+ ==Special properties== 
+ 
+ Forestle offered a '''website preview''' that showed small versions of the websites found in each search. The search page offered by Forestle was very simple and only contains a window to type in words to be searched for, the search results, and a few links to check related services (for example [[Google Maps]]) as well as explanations about how Forestle works. Forestle meanwhile also provided several browser plugins, could be added to iGoogle and could be used in English and German (full versions) as well as in Spanish and Dutch (details partially in English). < ref name=thumbnail > {{cite web|url=https://arstechnica.com/web/news/2009/01/forestle-eco-friendly-search-engine-returns-via-yahoo.ars|title = Forestle eco-friendly search engine returns via Yahoo | accessdate = 2009-02-23 | date = 2009-01-21 | publisher = Ars Technica}} < /ref > 
+ 
+ ==Forestle search engine partners== 
+ 
+ Forestle used the search services of [[Google]] until Google forbid them to do that after four days of service; the reasons was that Google and Forestle had a fight: it was not clear whether Forestle broke the terms of service fixed in the contract between them. < ref name=google > {{cite web | url = http://www.webpronews.com/topnews/2008/09/02/google-youre-not-saving-the-rain-forests-that-way | title = Google: You're Not Saving the Rain Forests That Way! | accessdate = 2009-02-07 | date = 2008-09-02 | publisher = WebProNews | archive-date = 2009-02-27 | archive-url = https://web.archive.org/web/20090227095645/http://www.webpronews.com/topnews/2008/09/02/google-youre-not-saving-the-rain-forests-that-way | url-status = dead }} < /ref >  Forestle.org states that Google did not actually give reasons for stopping their service. < ref name=forestlevsgoogle > {{cite web | url = http://forestle.org/_lang/en/faq.php#13 | title = Why has Forestle not partnered with Google instead of Yahoo? | accessdate = 2009-02-07 | publisher = Forestle.org, FAQs | archive-date = 2011-07-26 | archive-url = https://web.archive.org/web/20110726062255/http://forestle.org/_lang/en/faq.php#13 | url-status = dead }} < /ref >  The action by Google to not support Forestle any more immediately drew international attention. < ref 
+ name=immediateattentionInquirer > {{cite web | url = http://www.theinquirer.net/inquirer/news/448/1036448/google-dumps-forestle | title = Google Dumps Forestle | accessdate = 2009-02-23 | date = 2008-09-02 | publisher = The Inquirer | archive-date = 2009-01-02 | archive-url = https://web.archive.org/web/20090102093603/http://www.theinquirer.net/inquirer/news/448/1036448/google-dumps-forestle | url-status = dead }} < /ref >   < ref name=immediateattentionSoftPedia > {{cite web| url = http://news.softpedia.com/news/Startup-Claims-that-Google-Is-Jealous-on-It-92823.shtml | title = Startup Claims Google Is Jealous | accessdate = 2009-02-23 | date = 2008-09-02 | publisher=Softpedia}} < /ref >  Details about the conflict between Google and Forestle are debated. < ref name=discussion > {{cite web| url = https://arstechnica.com/old/content/2008/09/google-pulls-the-plug-on-eco-friendly-search-engine-forestle.ars | title = Google pulls the plug on eco-friendly search engine Forestle | accessdate = 2009-02-08 | date = 2008-09-01 | publisher=Ars Technica}} < /ref >  Forestle then became associated with [[Yahoo]]. < ref name=thumbnail/ > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *[http://forestle.org Forestle.org] 
+ *[http://forestle.org/_lang/en/about_forestle.php#proof Proof for Saving Rain Forest] {{Webarchive|url=https://web.archive.org/web/20080912124101/http://forestle.org/_lang/en/about_forestle.php#proof |date=2008-09-12 }} 
+ *[http://www.co2stats.com/certpro.php?s=1342 & ref=http://www.forestle.org Proof of reducing CO < sub > 2  < /sub >  production] {{Webarchive|url=https://web.archive.org/web/20160304130522/http://www.co2stats.com/certpro.php?s=1342 & ref=http%3A%2F%2Fwww.forestle.org |date=2016-03-04 }} 
+ [[Category:Search engines]]

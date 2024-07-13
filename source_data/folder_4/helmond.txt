@@ -1,0 +1,88 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Helmond 
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Kubuswoningen Speelhuisplein Helmond.jpg 
+ | image_alt               =  
+ | image_caption           =  
+ | image_flag              = Helmond vlag.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Helmond wapen.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 0794 (2009).svg 
+ | map_alt                 = Highlighted position of Helmond in a municipal map of North Brabant 
+ | map_caption             = Location in North Brabant 
+ | coordinates             = {{coord|51|29|N|5|39|E|region:NL|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|North Brabant}} 
+ | government_footnotes    =  < ref name= " mayor_now " > {{cite web  
+  |url = http://www.helmond.nl/burgemeester 
+  |title = Mw. Elly Blanksma- Van den Heuvel 
+  |language = nl 
+  |publisher = Gemeente Helmond 
+  |access-date = 28 May 2014}} < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = [[Christian Democratic Appeal|CDA]] 
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[Elly Blanksma-van den Heuvel]] 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Helmond}} 
+ | area_land_km2           = {{Dutch municipality land area|Helmond}} 
+ | area_water_km2          = {{Dutch municipality water area|Helmond}} 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web 
+  |url=http://www.ahn.nl/postcodetool  
+  |title=Postcodetool for 5707BX  
+  |language=nl  
+  |work=Actueel Hoogtebestand Nederland  
+  |publisher=Het Waterschapshuis  
+  |access-date=28 May 2014  
+  |archive-url=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool  
+  |archive-date=21 September 2013  
+ }} < /ref > 
+ | elevation_m             = 18 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Helmond}} 
+ | population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|Helmond}}  < !-- For automatic calculation: auto-- > 
+ | population_demonyms      = Helmondenaar, Helmonder, Helmonter 
+ < !-- Other information -- > 
+ | timezone                = [[Central European Time|CET]] 
+ | utc_offset              = +1 
+ | timezone_DST            = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST          = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 5700–5709 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 0492 
+ | website                 = {{URL|1=http://www.helmond.nl}} 
+ | footnotes               = 
+ }} 
+ '''Helmond''' is a [[List of municipalities of the Netherlands|municipality]] in the [[Netherlands|Dutch]] [[Provinces of the Netherlands|province]] of [[North Brabant]]. In 2019, 91,524 people lived there. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{North Brabant Province}} 
+ 
+ {{europe-stub}} 
+ {{authority control}} 
+ [[Category:Cities in North Brabant]] 
+ [[Category:Municipalities of North Brabant]]

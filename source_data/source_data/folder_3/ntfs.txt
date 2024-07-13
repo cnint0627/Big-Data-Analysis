@@ -1,0 +1,10 @@
+'''NTFS''' is a [[file system]] developed by [[Microsoft]]. NTFS stands for '''New Technology File System'''. A file system is a way of storing computer files. Microsoft introduced it with the [[Windows NT]] [[operating system]].  
+ 
+ It was made to replace the old file-system used by earlier versions of Windows, like [[Windows 95]], Windows 98, and Windows 98SE. That file system was also used by [[MS-DOS]] and is called [[File Allocation Table|FAT]]. 
+ 
+ A newer version of NTFS (v3.1) was used in [[Windows XP]], [[Windows Server 2003]], [[Windows Vista]], and the most recent version of operating system, [[Windows 10]]. NTFS can be accessed from non-Windows operating systems such as [[Linux]] using the [[NTFS-3G]] driver. 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Software]] 
+ [[Category:Microsoft]]

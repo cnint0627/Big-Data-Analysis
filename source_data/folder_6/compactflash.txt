@@ -1,0 +1,10 @@
+[[File:SANDISK Ultra CompactFlash card 4GB 30 MBs.jpg|thumb|A CompactFlash card]] 
+ '''CompactFlash''' is a name of a standard used for a [[mass storage]] device, which is mostly used in [[digital camera]]s. Today, most CompactFlah devices use [[flash memory]]. Since most CompactFlash cards have no movable parts, they are also used in [[embedded system]]s. Compact flash cards are 36.4mm by 42.8mm in size, and either 3.3mm or 5mm thick. The 3.3mm type is known as Type I, the 5mm type is known as Type II. Most type II devices are small [[hard disk|hard disks]]. The transfer speed is often given as an x rating, where the base is 150kB/s for 1x speed, which was also the base speed for reading [[compact discs]]. 
+ 
+ In many cases, reading is faster than writing, often by a factor of two to three. That way, a speed of  " 133x "  is roughly that of 20MB/sec. When the speed is given as a rate, usually in MB/s, this speed is the maximum speed that can be obtained reading from the device. 
+ 
+ There are ComactFlash devices of different capacities. 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Storage devices]]

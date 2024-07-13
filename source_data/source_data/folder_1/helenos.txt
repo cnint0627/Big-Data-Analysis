@@ -1,0 +1,36 @@
+{{Infobox OS 
+ | name                   = HelenOS 
+ | caption                = 
+ | family                 = Multiserver operating systems 
+ | latest_release_version = 0.8.0 
+ | latest_release_date    = {{release date|2018|12|19}} 
+ | kernel_type            = [[Microkernel]] 
+ | supported_platforms    = [[IA-32]], [[x86-64|AMD64]], [[Itanium|IA-64]], [[ARM architecture|ARM]], [[MIPS architecture|MIPS]], [[PowerPC]], [[SPARC]] V9 
+ | license                = [[BSD licenses|BSD]] 
+ | working_state          = 
+ | website                = {{url|http://www.helenos.org}} 
+ | source_model           = [[Open source]] 
+ }} 
+ [[Image:Helenos-bdsh.png|thumb|Brain dead shell - default user interface of HelenOS.]] 
+ '''HelenOS''' is an [[operating system]]. It is made by staff and students of the [[Mathematical and Physical Faculty]] of [[Charles University in Prague]]. It is running on some architectures. 
+ 
+ == Technical overview == 
+ HelenOS is a [[microkernel]] operating system, which supports [[multitasking]], [[memory management]], [[inter-process communication]] and [[symmetric multiprocessing]]. [[File system]], [[device driver]]s and other services are implemented like user processes. It can run on some architectures like [[IA-32]], [[x86-64]], [[SPARC V9]], [[IA-64]], [[Power PC]], [[ARM]] and [[MIPS]]. 
+ 
+ License of the [[source code]] is [[BSD license]]. 
+ 
+ == History == 
+ Jakub Jermář made HelenOS as a student project at the University. A few years later worked on the HelenOS [[Kernel (computer science)|kernel]] group of students and some students are using it for self-education of programming until now. In 2011 the project HelenOS took part on [[Google Summer of Code]]. < ref > [http://www.root.cz/clanky/helenos-nikdy-nebude-dokonceny-rika-jeho-autor-jakub-jermar/ Interview with Jakub Jermář on root.cz] < /ref > 
+ 
+ ==Related pages== 
+ *[[GNU Hurd]] < !-- Another multiserver, microkernel-based system -- > 
+ *[[MINIX]] < !-- Another multiserver, microkernel-based operating system -- > 
+ *[[QNX]] < !-- Another multiserver, microkernel-based operating system -- > 
+ 
+ == References == 
+ < references/ > 
+ 
+ == Other websites == 
+ * [http://www.helenos.org/ HelenOS official website] 
+ 
+ [[Category:Operating systems]]

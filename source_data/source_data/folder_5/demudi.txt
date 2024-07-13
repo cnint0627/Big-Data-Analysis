@@ -1,0 +1,30 @@
+{{ infobox OS 
+ | name = DeMuDi 
+ | family = [[Debian]] 
+ | source_model = [[Open source]] 
+ | working_state = Defunct 
+ | kernel_type = [[Monolithic kernel]] 
+ | license = [[Free software]] licenses < br > (mainly [[GNU GPL]]) 
+ | website = [http://www.demudi.org/ www.demudi.org] 
+ }} 
+ 
+ '''DeMuDi''' (''Debian Multimedia Distribution'') was a [[Linux distribution]] based on [[Debian]] with improvements for music, sound and video production.  
+ 
+ DeMuDi was developed by the [[AGNULA]] Project, a [[European Union]] funded project to improve access to multimedia software, and was also known as A/DeMuDi, with A standing for Agnula. 
+ 
+ When funding stopped volunteers continued to work on the project for a short time, but now it is part of the [[Debian Multimedia Project]]. 
+ 
+ ==Related pages== 
+ * [[Debian]] 
+ * [[Ubuntu Studio]] 
+ 
+ == Other websites == 
+ * [http://www.demudi.org/ DeMuDi website] 
+ * [http://wiki.debian.org/DebianMultimedia Debian Multimedia Project] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Linux distributions]] 
+ [[Category:Debian-based Linux distributions]]

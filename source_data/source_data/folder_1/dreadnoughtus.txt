@@ -1,0 +1,81 @@
+{{italic title}} 
+ {{speciesbox 
+ | fossil_range = [[Late Cretaceous]], {{fossilrange|84|66}} 
+ | image = Dreadnoughtus_Published_Reconstruction_(Version_2).jpg 
+ | image_caption = Skeletal restoration showing known elements 
+ | display_parents = 2 
+ | genus = Dreadnoughtus 
+ | species = schrani 
+ | parent_authority = [[Kenneth Lacovara|Lacovara]] ''et al.'', 2014 
+ | authority = Lacovara ''et al.'', 2014 
+ }} 
+ 
+ '''''Dreadnoughtus'''''  < ref > meaning  " fearing nothing "  and a [[dreadnought|type of warship]] < /ref >  is a [[genus]] of giant [[titanosaur]]ian [[dinosaur]]. Its fossilised [[skeleton]] was found in the [[Upper Cretaceous]] of [[Santa Cruz Province, Argentina|Santa Cruz province, Argentina]]. These rocks date from 84–66 million years ago (mya). 
+ 
+ This is one of the largest of all known terrestrial vertebrates. It has the greatest [[mass]] ([[weight]]) of any land animal that has been calculated. < ref name= " Lacovara et al., 2014 " > {{cite journal|last=Lacovara|first=Kenneth J. |display-authors = etal |title=A gigantic, exceptionally complete titanosaurian sauropod dinosaur from southern Patagonia, Argentina |journal=Scientific Reports|date= 2014|volume=4 |page=6196 |doi=10.1038/srep06196|pmid=25186586 |pmc=5385829 |url=https://dx.doi.org/10.1038/srep06196}} < /ref >  They used using limb bone measurements for the calculation. < ref name= " Bensonetal2014 " > {{cite journal |last=Benson |first= Roger B.J. |display-authors = etal |title=Rates of dinosaur body mass evolution indicate 170 million years of sustained ecological innovation on the avian stem lineage |journal=PLOS Biology|date=2014 |volume= 12 |issue= 5 |pages= e1001853 |doi= 10.1371/journal.pbio.1001853 |pmid= 24802911 |pmc= 4011683 }} < /ref > < ref name= " Campione and Evans 2012 " > {{cite journal|last1=Campione|first1=Nicolás E.|last2=Evans|first2=David C.|title=A universal scaling relationship between body mass and proximal limb bone dimensions in quadrupedal terrestrial tetrapods|journal=BMC Biology |date=2012|volume=10|page=15|doi=10.1186/1741-7007-10-60|pmid=22781121|pmc=3403949}} < /ref > 
+ 
+ ''Dreadnoughtus schrani'' is the most complete skeleton of a large titanosaurian sauropod dinosaur. < ref name= " Lacovara et al., 2014 "  / >  Types of bones is the most important statistic. The completeness [[statistics]] for ''Dreadnoughtus schrani'' are as follows: 
+ *116 bones out of ~256 in the entire skeleton (including the skull) = 45.3% complete 
+ *115 bones out of ~196 in the skeleton (excluding the skull) = 58.7% complete 
+ *100 types of bones out of ~142 types in the skeleton (excluding the skull) = 70.4% complete 
+ 
+ The specimen was probably not fully grown at the time of its death. The [[histology]] of its [[humerus]], shows a lack of an outer layer of bone found only in fully-grown [[vertebrates]]. There is a lot of fast-deposited or still-growing bone tissue. Therefore, the specimen was still growing at the time of its death. < ref name= " Lacovara et al., 2014 "  / > < ref name= " Schroeter et al., 2011 " > {{cite journal|last1=Schroeter|first1=Elena|last2=Boles|first2=Zachary|last3=Lacovara|first3=Kenneth|title=The histology of a massive titanosaur from Argentina and implications for maximum size|journal=Journal of Vertebrate Paleontology|date=2011|issue=Program and Abstracts Supplement|page=189|url=http://vertpaleo.org/PDFS/24/243c77ce-dbdd-44d5-ba84-a4cc52ea6c56.pdf|access-date=2014-09-06|archive-date=2013-10-07|archive-url=https://web.archive.org/web/20131007105831/http://vertpaleo.org/PDFS/24/243c77ce-dbdd-44d5-ba84-a4cc52ea6c56.pdf|url-status=dead}} < /ref >  It is unknown how large this individual would have grown if it had lived a full life. 
+ 
+ == Estimates == 
+ As a matter of basic science, the estimates of dimensions such as the mass (weight) of extinct animals are very rough figures. To avoid the pretence of spurious accuracy. we only give rounded figures here. Moreover. all the skeletons are incomplete, which means that even length (the easiest dimension to estimate) cannot be given exactly. Published estimates by scientists are just that: ''estimates''. Estimation is an approximation given when information is not clear or is incomplete. It is like making an educated guess. 
+ 
+ It is usual for estimates of mass (weight) to vary between experts. Using the same basic data, the weight of ''Dreadnoughtus'' has been estimated as: 
+ 
+ #About 59.3 metric tons (65.4 short tons), or 59,291 kilograms. < ref name= " Lacovara et al., 2014 "  / >   
+ #Between 35 and 40 metric tons (39 to 44 short tons), < ref name= " SVPOW " > {{cite web|url=http://svpow.com/2014/09/11/how-massive-was-dreadnoughtus/|title= How massive was ''Dreadnoughtus''?|date=11 September 2014|accessdate=11 September 2014|work=svpow|author=Matt Wedel}} < /ref >   
+ #About 30 metric tons (33 short tons), based on a 20% shorter torso. < ref name= " svpow " > {{cite web|url=http://svpow.com/2014/09/15/how-long-was-the-torso-of-dreadnoughtus/|title= How long was the torso of ''Dreadnoughtus''?|date=15 September 2014|accessdate=15 September 2014|work=svpow|author=Matt Wedel}} < /ref > 
+ 
+ There is a ~x2 difference between the heaviest and lightest estimates, and that is not at all unusual for this type of calculation. 
+ 
+ === Size === 
+ {| class= " wikitable " 
+ |+ Dreadnoughtus dimensions  < ref name= " Lacovara et al., 2014 "  / > 
+ ! scope= " col "  | Dimension 
+ ! scope= " col "  | metric 
+ ! scope= " col "  | imperial 
+ |- align= " center " 
+ | Mass || {{convert|59300|kg|t}} || {{convert|65.4|ST|lb}} 
+ |- align= " center " 
+ | Total length || 26 m || 85 & nbsp;ft 
+ |- align= " center " 
+ | Head and neck length || 12.2 m || 40 & nbsp;ft 
+ |- align= " center " 
+ | Neck-only length || 11.3 m || 37 & nbsp;ft 
+ |- align= " center " 
+ | Torso and hip length || 5.1 m || 17 & nbsp;ft 
+ |- align= " center " 
+ | Tail length || 8.7 m || 29 & nbsp;ft 
+ |- align= " center " 
+ | Shoulder height || ~ 2 stories (6 m) || ~ 2 stories (20 & nbsp;ft) 
+ |} 
+ 
+ === Comparisons === 
+ 
+ {| class= " wikitable " 
+ |- 
+ ! Sauropod !! Group !! metric tons !! short tons 
+ |- 
+ | ''Dreadnoughtus schrani'' || [[Titanosaur]]ia || 59.3  < ref name= " Lacovara et al., 2014 "  / >  || 65.4 
+ |- 
+ | ''[[Brachiosaurus|Brachiosaurus altithorax]]'' || [[Brachiosauridae]] || 56.3  < ref name= " Bensonetal2014 " / >  || 62.1 
+ |- 
+ | ''[[Turiasaurus|Turiasaurus riodevensis]]'' || [[Turiasauria]] || 50.9  < ref name= " Bensonetal2014 " / >  || 56.1 
+ |- 
+ | ''[[Elaltitan|Elaltitan lilloi]]'' || [[Titanosaur]]ia || 42.8  < ref name= " Bensonetal2014 " / >  || 47.2 
+ |- 
+ | ''[[Futalognkosaurus|Futalognkosaurus dukei]]'' || [[Titanosaur]]ia || 38.1  < ref name= " Bensonetal2014 " / >  || 42 
+ |- 
+ | ''[[Giraffatitan|Giraffatitan brancai]]'' || [[Brachiosauridae]] || 34  < ref name= " Bensonetal2014 " / >  || 37.5 
+ |- 
+ | ''[[Diplodocus|Diplodocus longus]]'' || [[Diplodocid]]ae || 14.8  < ref name= " Bensonetal2014 " / >  || 16.3 
+ |} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Titanosaurs]]

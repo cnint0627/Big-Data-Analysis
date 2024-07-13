@@ -1,0 +1,25 @@
+'''LineageOS''' is a free and open-source software operating system for smartphones, tablets and computers. < ref > {{Cite web|title=LineageOS|url=https://github.com/LineageOS|access-date=2021-07-27|website=GitHub|language=en}} < /ref > {{Infobox OS 
+ | name = LineageOS 
+ | logo = LineageOS Wordmark.svg 
+ | logo_size = 200 
+ | screenshot = 
+ | screenshot_size = 250px 
+ | caption = LineageOS 17.1 default homescreen 
+ | developer = LineageOS open-source community 
+ | programmed_in = [[C (programming language)|C]] (core), [[C++]] (some third party libraries), [[Java (programming language)|Java]] and [[Kotlin (programming language)|Kotlin]] ([[User interface|UI]]) 
+ | family = [[Unix-like]] 
+ < !-- Not really a release 
+ | released               = {{Start date and age|df=yes|2016|12|24}} 
+ -- > | working_state = Current 
+ | source_model = [[Open-source software|Open source]] with [[proprietary software|proprietary]] components 
+ | latest release version =  < nowiki > {{plainlist| < /nowiki > 
+ * LineageOS 18.1,  based on [[Android 11]] 
+ | marketing_target = [[Firmware]] replacement for [[Android (operating system)|Android]] mobile 
+ }} 
+ 
+ == References == 
+ {{reflist}} 
+ {{tech-stub}} 
+ 
+ [[Category:Operating systems]] 
+ [[Category:Free software]]

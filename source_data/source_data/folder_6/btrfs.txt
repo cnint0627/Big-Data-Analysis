@@ -1,0 +1,7 @@
+'''Btrfs''' ('''B-tree filesystem''') is a [[filesystem]] for [[Linux]]. It is currently considered beta (unfinished) software, but is reasonably feature complete and the on-disk format is finalized. It has many features that [[ext4]] lacked, such spreading one filesystem over multiple hard drives ([[RAID]]), and transparent compression, which compresses files without the user having to decompress them manually. 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux]] 
+ [[Category:Files]]

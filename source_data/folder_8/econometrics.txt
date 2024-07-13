@@ -1,0 +1,15 @@
+'''Econometrics''' is a branch of [[economics]]. It is the use of [[statistical]] and [[mathematical]] methods to describe the relation between economic forces such as [[Capital (economics)|capital]] (any of the tools, work, or other things needed to make something useful), [[interest rates]] (the price of borrowing money), and [[Labour (economics)|labor]]. 
+ 
+ Much of econometrics is making [[Mathematical model|model]]s which are simple pictures of the real world. These models then can be used to predict what will happen in the real world. 
+ 
+ An example of econometrics would be looking at the prices of [[house]]s in a town. An [[economist]] (someone who studies economics) can try to make a simple picture of the house prices in the town. This picture might show that houses close to the market are worth more. An economist could then say that if a new market is made in another part of the town, home prices there might go up. [[The Economist|The economist]] also might say that the new market could make prices less than before near the old one, because the new market will make it so that more houses are near a market. This would make the people who sell houses near a market sell them for less, since there could be more sellers than buyers. 
+ 
+ ==Basic model: linear regression== 
+ [[File:Okuns law differences 1948 to mid 2011.png|thumb|right|Okun's law showing the relationship between GDP growth and the unemployment rate. The fitted line is found using regression analysis.]] 
+ A basic tool for econometrics is the [[linear regression|multiple linear regression]] model. < ref name= " Greene Econometrics – multiple linear regression model "  / >  In modern econometrics, other statistical tools are often used, but linear regression is still the most used starting point for an analysis. < ref name= " Greene Econometrics – multiple linear regression model " > {{cite book|author=Greene, William|title=Econometric Analysis|date=2012|publisher=Pearson Education|isbn=9780273753568|pages=47–48|edition=7th|chapter=Chapter 1: Econometrics | quote = Ultimately, all of these will require a common set of tools, including, for example, the multiple regression model, the use of moment conditions for estimation, instrumental variables (IV) and maximum likelihood estimation. With that in mind, the organization of this book is as follows: The first half of the text develops fundamental results that are common to all the applications. The concept of multiple regression and the linear regression model in particular constitutes the underlying platform of most modeling, even if the linear model itself is not ultimately used as the empirical specification.}} < /ref >  Estimating a linear regression on two variables can be shown by drawing a line through data points representing paired numbers of [[The Independent|the independent]] and dependent variables. 
+ 
+ ==References== 
+ {{reflist}} 
+ {{Statistics}} 
+ 
+ [[Category:Subfields of economics]]

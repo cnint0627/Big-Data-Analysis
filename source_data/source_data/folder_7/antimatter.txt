@@ -1,0 +1,39 @@
+{{Antimatter}} 
+ 
+ '''Antimatter''' is a term in [[particle physics]]. Antimatter is a material composed of [[antiparticle]]s. These have the same [[mass]] as particles of ordinary matter but have opposite [[Electric charge|charge]] and properties, such as [[lepton]] and [[baryon]] number. 
+ 
+ Encounters between a particle and an antiparticle led to both of them being destroyed. This gives rise to high-energy [[photons]] ([[gamma rays]]), [[neutrino]]s, and lower-mass particle–antiparticle pairs. 
+ 
+ == What is it made of? == 
+ In [[physics]], all the [[elementary particle]]s, or the basic building blocks of the things we can touch, come in pairs. Each [[particle]] has what is called an [[antiparticle]]. This may look and act just like the regular particle, except for one major difference. An example is the [[electron]] and the [[positron]]. 
+ 
+ Other antimatter particles are the same way, where they have the same weight, and look and act the same as regular particles, but their electrical charge is the opposite of regular particles. [[Antihydrogen]], for example, has the positron, which is positively charged, [[orbit]]ing around an [[antiproton]], which is negatively charged, which is the opposite way regular [[hydrogen]] looks, which has the electron ([[negative charge]]), orbiting around a proton ([[positive charge]]). 
+ 
+ == Annihilation == 
+ [[Albert Einstein]] found a formula that can show how much [[energy]] a certain amount of something has, whether it is [[matter]] or antimatter. This formula is  < math > E=mc^2 < /math > , and is one of the most well known equations. In simple terms, if you take the [[mass]] of something and then [[multiplication|multiply]] it by the [[speed of light]], and then multiply it by the speed of light again, you will get how much pure energy a given piece of something has. Since the speed of light is such a big number, this means that even a small amount of matter can have a lot of energy (it has been projected to be 4 times more effective per mass than nuclear fission). 
+ 
+ In 1928, the physicist [[Paul Dirac]] was looking for an equation that would predict how very fast particles should behave. There was already another equation that could describe slow-moving particles, the [[Schrödinger equation]], but Einstein's theory of [[special relativity]] said that fast particles could be very different from slow particles. Dirac knew that particles like electrons were usually moving very fast. He realized the old equation would not make good predictions for fast particles. So he came up with a new equation that could describe particles moving close to the speed of light. < ref > {{Cite journal|last=Dirac|first=P. A. M.|date=1928-02-01|title=The Quantum Theory of the Electron|url=http://rspa.royalsocietypublishing.org/cgi/doi/10.1098/rspa.1928.0023|journal=Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences|language=en|volume=117|issue=778|pages=610–624|doi=10.1098/rspa.1928.0023|issn=1364-5021}} < /ref > 
+ 
+ For fast particles, it is no longer true that the energy is  < math > E=mc^2 < /math > . Instead, Dirac's new equation worked for particles where the energy was given by  < math > E^2=m^2c^4 + \vec{p}^2 c^2 < /math > . In the new equation for energy, the symbol  < math > \vec{p} < /math > is called the momentum, and it measures how fast the particle is going and how hard it is to stop. This equation says that very fast particles have more energy, so they are different from slow particles. You can take the [[square root]] of each side of this equation, since both sides are equal. However, any real square root has two answers,  < math > E=+\sqrt{m^2c^4 + \vec{p}^2 c^2} < /math > and  < math > E=-\sqrt{m^2c^4 + \vec{p}^2 c^2} < /math > . You can think of the answer with negative energy as being antimatter. < ref > {{Cite book|url=http://worldcat.org/oclc/858962936|title=Studyguide for Introduction to elementary particles by Griffiths, David, 2nd edition|last=Griffiths, David J.|date=2013|publisher=Cram101|isbn=978-1490226439|oclc=858962936}} < /ref > 
+ 
+ The reason this is important to understand antimatter is because scientists found that when [[matter]] and antimatter touch each other, the amount of energy that is released comes very close to the amount of energy  < math > E=mc^2 < /math >  says should be all together in those two pieces. The reason is that each particle of matter, when it touches its [[antiparticle]] in the antimatter world, both change over into pure energy, or annihilate each other. This release of such a high amount of energy is why a lot of [[science fiction]] [[writer]]s use antimatter for fuel in their stories. For example, author Dan Brown uses antimatter in  " Angels and Demons "  as a very powerful weapon. It is also being looked at as a fuel source for real-life missions to [[outer space]] in the future. 
+ 
+ == Where is all of the antimatter? == 
+ Many [[scientist]]s think that in the first few moments after the [[Big Bang]], which created the [[universe]] a very long time ago, both [[matter]] and antimatter mixed together. If the Big Bang made equal amounts of matter and antimatter, then the two would annihilate and become energy. After a long time, there would be no matter and no antimatter left, just energy. But our universe today looks like it is almost all matter and hardly any antimatter. Physicists do not yet know for sure that equal amounts of matter and antimatter were created, and because of this, they are also wondering where the antimatter went, and if any was left over from the beginning of the universe. 
+ 
+ One explanation is that there was just a little bit more matter than antimatter in the beginning, so that whatever was left over after most of the matter and antimatter annihilated into energy became the mostly-matter universe we see today.  Another theory is that there is lots of antimatter on the other side of the universe, hidden far beyond our vision. They could have formed their own galaxies and solar systems too. 
+ 
+ == Uses == 
+ Because antimatter can make so much energy, it can be used for a lot of things, such as [[fuel]] for going into [[outer space]], or in our [[car]]s. The problem is that antimatter is very expensive to make, and is almost as expensive to store, since it cannot touch regular [[matter]]. It takes several hundred million dollars to make less than one-millionth of a gram of antimatter. In fact, it is the most expensive and the rarest substance on Earth. Since it is so expensive, this means that antimatter is not practical to use as a [[weapon]] or as an energy source, because so little of it is obtainable. 
+ 
+ Recently, however, scientists have trapped antimatter for over 16 minutes (1000 seconds total). 
+ 
+ It does have a use in medicine, because a special kind of scanner called the PET, which stands for positron emission tomography, uses positrons to go into the human body. Doctors can look at the way the positron changes into energy inside a person's body, and be able to tell if something is wrong inside a person. This kind of machine works differently than an [[X-ray]] machine or a [[magnetic resonance imaging]] (MRI) machine, and can help doctors see things that those other machines cannot see. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{States of matter}} 
+ 
+ [[Category:Antimatter| ]] 
+ [[Category:Matter]]

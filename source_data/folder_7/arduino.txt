@@ -1,0 +1,39 @@
+{{update|date=November 2022}} 
+ '''Arduino''' is a small popular electronic [[machine]] that makes it very easy for people to make electronic things. It has two parts: a [[Printed circuit board|circuit board]] and a [[Computer program|program]] that lets people tell the circuit board what to do. As of 2011, more than 300,000 Arduinos had been sold. < ref > {{cite web | url=http://www.adafruit.com/blog/2011/05/15/how-many-arduinos-are-in-the-wild-about-300000/ | title=How many Arduinos are  " in the wild? "  About 300,000 | publisher=[[Adafruit Industries]] | date=May 15, 2011 | access-date=2013-05-26}} < /ref > 
+ 
+ ==The machine== 
+ The machine part is [[open source]], which means that anybody can make their own version of an Arduino machine for free. An official Arduino costs around US$30. < ref > {{cite web|url=https://spectrum.ieee.org/geek-life/hands-on/the-making-of-arduino|title=The Making of Arduino|first=David|last=Kushner|date=26 October 2011|website=IEEE Spectrum: Technology, Engineering, and Science News}} < /ref >  The original Arduino is made by a company in [[Italy]] called  " Smart Projects " < ref > {{Cite web |url=http://smartprj.com/catalog/index.php |title=smartprj, Electronics |access-date=2013-11-11 |archive-date=2013-11-06 |archive-url=https://web.archive.org/web/20131106125700/http://www.smartprj.com/catalog/index.php |url-status=dead }} < /ref >  but other types of Arduino boards have been designed by SparkFun [[Electronics]], an American company.{{Citation needed|date=November 2013}} 
+ 
+ == " Shields " == 
+ Sometimes, people will make other machines that go on top of an Arduino board and let the board do more things. These are called  " Arduino shields " . They can do different things, like let an Arduino machine connect to the internet, or add a [[touchscreen]], or let an Arduino use [[GPS]] to figure out where it is. Shields can also combine and stack on top of each other. 
+ 
+ ==Telling the Arduino what to do== 
+ Arduinos are programmed in [[C (programming language)|C]] or [[C++]], using a program also called Arduino. An example program to blink a light ([[LED]]) could look like this: 
+ < syntaxhighlight lang= " c " > 
+ #define LED_PIN 13 
+ 
+ void setup () { 
+   pinMode (LED_PIN, OUTPUT); // Enable pin 13 for digital output 
+ } 
+ 
+ void loop () { 
+   digitalWrite (LED_PIN, HIGH); // Turn on the LED 
+   delay (1000); // Wait one second (1000 milliseconds) 
+   digitalWrite (LED_PIN, LOW); // Turn off the LED 
+   delay (1000); // Wait one second 
+ } 
+ < /syntaxhighlight > 
+ 
+ First, the code after  " void setup() { "  runs. This tells the Arduino that pin 13 is going to be sending data out. Most Arduino boards have an LED attached to pin 13. Then, the code after the  " void loop () { "  runs. When it reaches the bottom, the code after the  " void loop "  runs again, until the Arduino is turned off. This code makes the Arduino tell the LED to turn on, wait a second, then turn off and wait another second. Since it repeats, this code will turn the LED on and off again and again. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ [[Category:Computer hardware]] 
+ [[Category:2005 establishments]] 
+ [[Category:Free software]] 
+ [[Category:IDEs]] 
+ 
+ 
+ {{tech-stub}}

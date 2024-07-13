@@ -1,0 +1,111 @@
+{{Use dmy dates|date=October 2019}} 
+ {{Infobox German location 
+ |image_coa  =  
+ |coordinates = {{coord|48|27|06|N|10|05|52|E|format=dms|display=inline,title}} 
+ |image_plan = Elchingen in NU.svg 
+ |image_photo = Elchingen2.jpeg 
+ |image_caption = [[Elchingen Monastery]] 
+ |state = Bayern 
+ |region = Schwaben 
+ |district = Neu-Ulm 
+ |elevation = 465 
+ |area = 24.87 
+ |postal_code = 89275 
+ |area_code = 0731, 07308 
+ |licence = NU 
+ |Gemeindeschlüssel = 09 7 75 139 
+ |divisions = 3 [[Ortsteil]]e 
+ |website = [https://elchingen.de/ elchingen.de] 
+ |mayor = Joachim Eisenkolb < ref > [https://www.statistik.bayern.de/wahlen/kommunalwahlen/bgm/ Liste der ersten Bürgermeister/Oberbürgermeister in kreisangehörigen Gemeinden], [[Bayerisches Landesamt für Statistik]], 15 July 2021. < /ref > 
+ |leader_term       = 2020 & ndash;26 
+ |party = Ind 
+ }} 
+ [[File:Elchingen 1619.jpg|thumb|Elchingen in 1619]] 
+ [[File:Unterthalfingen-1903.jpg|thumb|Unter-Thalfingen in 1903]] 
+ 
+ '''Elchingen''' is a [[municipality]] about 7 & nbsp;km east of [[Ulm]]–[[Neu-Ulm]] in [[Neu-Ulm (district)|Neu-Ulm]] in [[Bavaria]], [[Germany]]. 
+ 
+ Municipality parts: 
+ * Thalfingen: 4 & nbsp;211 residents, 8.83 & nbsp;km² 
+ * Oberelchingen: 3 & nbsp;024 residents, 7.31 & nbsp;km² 
+ * Unterelchingen: 2 & nbsp;863 residents, 8.76 & nbsp;km² 
+ 
+ ==Number of residents== 
+ < timeline > 
+ Colors= 
+  id:lightgrey value:gray(0.9) 
+  id:darkgrey value:gray(0.7) 
+  id:sfondo value:rgb(1,1,1) 
+  id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width: 620 height:200 
+ PlotArea = left:50 bottom:50 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:10000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:2500 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:500 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:2001 text:2001 
+  bar:2002 text:2002 
+  bar:2003 text:2003 
+  bar:2004 text:2004 
+  bar:2005 text:2005 
+  bar:2006 text:2006 
+  bar:2007 text:2007 
+  bar:2008 text:2008 
+  bar:2009 text:2009 
+  bar:2010 text:2010 
+  bar:2011 text:2011 
+ 
+ PlotData= 
+  color:barra width:40 align:center 
+ 
+  bar:2001 from:0 till: 9336 
+  bar:2002 from:0 till: 9320 
+  bar:2003 from:0 till: 9326 
+  bar:2004 from:0 till: 9294 
+  bar:2005 from:0 till: 9232 
+  bar:2006 from:0 till: 9213 
+  bar:2007 from:0 till: 9239 
+  bar:2008 from:0 till: 9244 
+  bar:2009 from:0 till: 9185 
+  bar:2010 from:0 till: 9187 
+  bar:2011 from:0 till: 9164 
+ 
+ PlotData= 
+ 
+  bar:2001 at: 9336 fontsize:S text: 9.336 fontsize:S shift: (2,5) 
+  bar:2002 at: 9320 fontsize:S text: 9.320 fontsize:S shift: (2,5) 
+  bar:2003 at: 9326 fontsize:S text: 9.326 fontsize:S shift: (2,5) 
+  bar:2004 at: 9294 fontsize:S text: 9.294 fontsize:S shift: (2,5) 
+  bar:2005 at: 9232 fontsize:S text: 9.232 fontsize:S shift: (2,5) 
+  bar:2006 at: 9213 fontsize:S text: 9.213 fontsize:S shift: (2,5) 
+  bar:2007 at: 9239 fontsize:S text: 9.239 fontsize:S shift: (2,5) 
+  bar:2008 at: 9244 fontsize:S text: 9.244 fontsize:S shift: (2,5) 
+  bar:2009 at: 9185 fontsize:S text: 9.185 fontsize:S shift: (2,5) 
+  bar:2010 at: 9187 fontsize:S text: 9.187 fontsize:S shift: (2,5) 
+  bar:2011 at: 9164 fontsize:S text: 9.164 fontsize:S shift: (2,5) 
+ 
+ < /timeline > 
+ 
+ ==Literature== 
+ *Franz Willbold: ''Napoleons Feldzug um Ulm. Die Schlacht von Elchingen 1805'' {{ISBN|3-7995-8027-1}} 
+ *Alfred Krauss: ''1805 – Der Feldzug von Ulm.'' Vienna 1912 (Maps from this at [http://www.napoleon-online.de/html/1805karten.html napoleon-online.de] {{Webarchive|url=https://web.archive.org/web/20130328113539/http://www.napoleon-online.de/html/1805karten.html |date=2013-03-28 }}:  [https://web.archive.org/web/20060720011847/http://www.napoleon-online.de/Feldzug1805_Krauss14.jpg Battle near Elchingen] und [https://web.archive.org/web/20060720145620/http://www.napoleon-online.de/Feldzug1805_Krauss15.jpg Situation at the evening of 14 October]) 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commons|Kloster Elchingen}} 
+ * {{Official website}} {{in lang|de}} 
+ {{Commons category}} 
+ 
+ {{Cities and towns in Neu-Ulm (district)}} 
+ 
+ {{Authority control}} 
+ 
+ [[Category:Neu-Ulm (district)]]

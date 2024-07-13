@@ -1,0 +1,24 @@
+{{Infobox identifier 
+ | name          = Bibcode 
+ | image         =  
+ | image_size    =  
+ | image_caption =  
+ | image_alt     =  
+ | image_border  =  
+ | full_name     = Bibliographic code 
+ | acronym       =  
+ | number        =  
+ | start_date    = 1990s < !-- {{Start date|YYYY|MM|DD|df=y}} -- > 
+ | organisation  =  
+ | digits        = 19 
+ | check_digit   = none 
+ | example       = 1924MNRAS..84..308E 
+ | website       =  < !-- {{URL|example.org}} -- > 
+ }} 
+ The '''bibcode''' (also known as the '''refcode''') is a compact identifier used by several [[astronomy|astronomical]] data systems to uniquely specify literature references. 
+ 
+ [[Category:Reference works]] 
+ [[Category:Identifiers]] 
+ 
+ 
+ {{science-stub}}

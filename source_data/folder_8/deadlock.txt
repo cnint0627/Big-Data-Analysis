@@ -1,0 +1,15 @@
+A '''deadlock'''  is a situation where in two or more competing actions are waiting for the other to finish. As a consequence,  neither ever does. It is often seen in a [[paradox]] like the  " [[chicken or the egg]]. " 
+ 
+ {{cquote2|When two trains approach each other at a crossing, both shall come to a full stop and neither shall start up again until the other has gone. 
+ |Illogical [[statute]] passed by the [[Kansas Legislature]] < ref > A Treasury of Railroad Folklore, B.A. Botkin  &  A.F. Harlow, p. 381 < /ref > }} 
+ 
+ In computer science, '''deadlock'''  refers to a specific condition when two or more processes are each waiting for each other to release a resource. It can also be that more than two processes are waiting for a number of resources. Deadlock is a common problem in [[multiprocessing]] where many processes share a specific type of mutually exclusive resource known as a ''[[lock (computer science)|software lock]]'' or ''soft lock''. Computers intended for the ''[[time-sharing]]'' or ''[[real-time computing|real-time]]'' markets often have a ''hardware lock'' (or ''hard lock'') which guarantees ''[[Read/write lock pattern|exclusive access]]'' to processes. This forces the prforcing serialized access.  Deadlocks are particularly troubling because there is no ''general'' solution to avoid (soft) deadlocks. 
+ 
+ A similar situation is when two people are drawing diagrams, but they have only one pencil and one ruler. If one person takes the pencil and the other takes the ruler, a deadlock occurs when the person with the pencil needs the ruler and the person with the ruler needs the pencil to finish his work with the ruler. Both requests can't be satisfied, so a deadlock occurs. 
+ 
+ The telecommunications description of deadlock is a little stronger: deadlock occurs when none of the processes meet the condition to move to another state (as described in the process's [[finite state machine]]) ''and'' all the communication channels are empty. The second condition is often left out on other systems but is important in the telecommunication context. 
+ 
+ ==References== 
+ {{reflist}} 
+ {{Tech-stub}} 
+ [[Category:Computer science]]

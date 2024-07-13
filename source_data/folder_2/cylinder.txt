@@ -1,0 +1,86 @@
+{{other uses}} 
+ [[File:Cylinder_geometry.svg|thumb|right|A right circular cylinder]] 
+ A '''cylinder''' is one of the most basic curved three dimensional [[geometric]] shapes, with the [[surface]] formed by the points at a fixed distance from a given [[line segment]], known as the '''axis''' of the cylinder. The shape can be thought of as a [[Circle|circular]] [[Prism (geometry)|prism]]. Both the surface and the solid shape created inside can be called a ''cylinder''. The [[surface area]] and the [[volume]] of a cylinder have been known since ancient times. 
+ 
+ In differential [[geometry]], a cylinder is defined more broadly as a ruled surface which is spanned by a one-parameter family of [[parallel]] lines. A cylinder whose [[Cross section (geometry)|cross section]] is an [[ellipse]], [[parabola]], or [[hyperbola]] is called an '''elliptic cylinder''', '''parabolic cylinder''', or '''hyperbolic cylinder''' respectively. 
+ 
+ ==Common use== 
+ In common use a ''cylinder'' is taken to mean a finite section of a '''''right circular cylinder''''', i.e., the cylinder with the generating lines perpendicular to the bases, with its ends closed to form two circular surfaces, as in the figure (right). If the cylinder has a [[radius]]  < math > r < /math >  and length (height) ''h'', then its [[volume]] is given by: 
+ 
+ : < math > V=\pi r^2h < /math > 
+ 
+ and its [[surface area]] is: 
+ * the area of the top ( < math > \pi r^2 < /math > )+ 
+ * the area of the bottom ( < math > \pi r^2 < /math > )+ 
+ * the area of the side ( < math > 2\pi rh < /math > ). 
+ 
+ Therefore, without the top or bottom (lateral area), the surface area is: 
+ : < math > A=2\pi rh < /math > . 
+ 
+ With the top and bottom, the surface area is: 
+ : < math > A=2\pi r^2+2\pi rh=2\pi r(r+h) < /math > . 
+ 
+ For a given volume, the cylinder with the smallest surface area has  < math > h=2r < /math > . For a given surface area, the cylinder with the largest volume has  < math > h=2r < /math > , i.e. the cylinder fits in a cube (height = diameter). 
+ 
+ ==Volume== 
+ Having a right circular cylinder with a height  < math > h < /math >  units and a base of radius  < math > r < /math >  units with the coordinate axes chosen so that the origin is at the center of one base and the height is measured along the positive x-axis. A plane section at a distance of  < math > x < /math >  units from the origin has an area of  < math > A(x) < /math >  square units where 
+ 
+ :: < math > A(x)=\pi r^2 < /math > 
+ or 
+ :: < math > A(y)=\pi r^2 < /math > 
+ 
+ An element of volume, is a right cylinder of base area  < math > Aw^i < /math >  square units and a thickness of  < math > \Delta_ix < /math >  units. Thus if ''V'' cubic units is the volume of the right circular cylinder, by [[Riemann sums]], 
+ 
+ :: < math > \mathrm{Volume\;of\;cylinder}=\lim_{||\Delta\to0||}\sum_{i=1}^n A(w_i)\Delta_ix < /math > 
+ ::: < math > =\int_0^h A(y)^2\,dy < /math > 
+ ::: < math > =\int_0^h\pi r^2\,dy < /math > 
+ ::: < math > =\pi\,r^2\,h\, < /math > 
+ 
+ Using cylindrical coordinates, the volume can be calculated by integration over 
+ ::: < math > =\int_0^h\int_0^{2\pi}\int_0^rs\,\,ds\,d\phi\,dz < /math > 
+ ::: < math > =\pi\,r^2\,h\, < /math > 
+ 
+ ==Cylindric section== 
+ Cylindric sections are the intersections of cylinders with planes. For a right circular cylinder, there are four possibilities. A plane tangent to the cylinder, meets the cylinder in a single straight line. Moved while parallel to itself, the plane either does not intersect the cylinder or intersects it in two parallel lines. All other planes intersect the cylinder in an ellipse or, when they are perpendicular to the axis of the cylinder, in a circle. < ref > {{cite web | title=MathWorld: Cylindric section| url=http://mathworld.wolfram.com/CylindricSection.html}} < /ref > 
+ 
+ ==Other types of cylinders== 
+ [[File:Elliptic_cylinder.png|thumb|right|An elliptic cylinder]] 
+ 
+ An '''elliptic cylinder''', or cylindroid, is a quadric surface, with the following equation in [[Cartesian coordinates]]: 
+ 
+ : < math > (\frac xa)^2+(\frac yb)^2=1. < /math > 
+ 
+ This equation is for an '''elliptic cylinder''', a generalization of the ordinary, '''circular cylinder''' ( < math > a=b < /math > ). Even more general is the '''generalized cylinder''': the [[Cross section (geometry)|cross-section]] can be any curve. 
+ 
+ The cylinder is a ''degenerate quadric'' because at least one of the coordinates (in this case  < math > z < /math > ) does not appear in the equation. 
+ 
+ An '''oblique cylinder''' has the top and bottom surfaces displaced from one another. 
+ 
+ There are other more unusual types of cylinders. These are the ''imaginary elliptic cylinders'': 
+ 
+ : < math > (\frac xa)^2+(\frac yb)^2=-1 < /math > 
+ 
+ the ''hyperbolic cylinder'': 
+ 
+ : < math > (\frac xa)^2-(\frac yb)^2=1 < /math > 
+ 
+ and the ''parabolic cylinder'': 
+ 
+ : < math > x^2+2ay=0.\, < /math > 
+ [[File:Canterra Tower-Calgary.JPG|thumb|In [[projective geometry]], a cylinder is simply a cone whose [[apex (geometry)|apex]] is at infinity, which corresponds visually to a cylinder in perspective appearing to be a cone towards the sky.]] 
+ 
+   
+ == References == 
+ {{reflist|2}} 
+ 
+ ==Other websites== 
+ {{commons|Cylinder (geometry)}} 
+ {{Wikisource1911Enc|Cylinder}} 
+ * [http://www.mathguide.com/lessons/SurfaceArea.html#cylinders Surface area of a cylinder] at MATHguide 
+ * [http://www.mathguide.com/lessons/Volume.html#cylinders Volume of a cylinder] at MATHguide 
+ * [http://www.mathsisfun.com/geometry/cylinder.html Spinning Cylinder] at Math Is Fun 
+ * [http://www.mathopenref.com/cylindervolume.html Volume of a cylinder] Interactive animation at Math Open Reference 
+ * [http://www.cut-the-knot.org/Curriculum/Geometry/CutCylinder.shtml Cut a Cylinder] Interactive demonstrations of the intersection of a plane and a cylinder 
+ * [https://www.matheretter.de/calc/cylinder Cylinder Calculator 3D] Specify only two cylinder values and all others are immediately calculated, plus interactive 3D visualization in fullscreen. 
+ {{shapes}} 
+ [[Category:Three-dimensional shapes]]

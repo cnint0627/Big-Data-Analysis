@@ -1,0 +1,192 @@
+'''Genetics''' is a discipline of [[biology]]. < ref > The word comes from the [[Ancient Greek]] for ''origin'' < /ref >  It is the [[science]] of [[heredity]]. This includes the study of [[genes]], and the [[Heredity|inheritance]] of [[Variation (biology)|variation]] and [[Trait (biology)|traits]] of living [[organism]]s. < ref name= " King " > King R.C. Stansfield W.D.  &  Mulligan. P.K. 2006. ''A dictionary of genetics'', 7th ed. Oxford. < /ref > < ref name= " griffiths2000 " > Griffiths A.J.H. et al (eds) 2000. ''An introduction to genetic analysis''. 7th ed, Freeman, New York. {{ISBN|0-7167-3520-2}} [https://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=iga.section.60] < /ref > < ref name=Hartl_and_Jones > Hartl D.  &  Jones E. 2005. ''Genetics: analysis of genes and genomes''. 6th ed, Jones  &  Bartlett. {{ISBN|0-7637-1511-5}}. < /ref >  In the [[laboratory]], genetics works by mating carefully selected organisms, and analysing their offspring. More informally, genetics is the study of how parents pass some of their characteristics to their children. It is an important part of [[biology]], and gives the basic rules on which [[evolution]] acts. 
+ 
+ The fact that living things inherit [[trait]]s from their parents has been known since [[prehistoric]] times. It is used to improve [[crop]] plants and animals by [[selective breeding]]. The modern science of genetics tries to understand the process of inheritance. This began with the work of [[Gregor Mendel]] in the mid-nineteenth century. < ref name=Weiling > Weiling F. {{cite journal |pmid=1887835| doi=10.1002/ajmg.1320400103 |year=1991 |last1=Weiling |first1=F |title=Historical study: Johann Gregor Mendel 1822-1884 |volume=40 |issue=1 |pages=1–25; discussion 26 |journal=American Journal of Medical Genetics}} < /ref > < ref > The earlier ideas of [[Imre Festetics]] were completely forgotten for many years. < /ref >  Although he did not know the physical basis for heredity, Mendel saw that organisms inherit traits via [[Countable set|discrete]] units of inheritance, now called [[gene]]s. 
+ 
+ Modern genetics has expanded beyond inheritance. It studies the way genes work. 
+ 
+ == DNA == 
+ [[image:DNA Overview2.png|thumb|right|100px|A model of a DNA molecule.]] 
+ Living things are made of millions of tiny self-contained components called [[cell]]s. Inside each cell are long and complex [[molecule]]s called [[deoxyribonucleic acid]], known for short as DNA. < ref > There are a few exceptions to this – red blood cells, for instance, lose their DNA and most of their other structures before going into the blood. < /ref >  Some [[DNA]] stores [[information]] for making [[protein]]s. The bits of DNA which do this are known as [[gene]]s. People look different from each other mainly because they have different versions of the human set of genes.  
+ 
+ However, a large part of DNA (more than 98% for humans) is [[non-coding DNA]]. These sections do not serve as patterns for protein sequences. < ref name=Nature489p57 > {{cite journal | author = The ENCODE Project Consortium | title = An integrated encyclopedia of DNA elements in the human genome | journal = Nature | volume = 489 | issue = 7414 | pages = 57–74 | date = 2012 | pmid = 22955616 | pmc = 3439153 | doi = 10.1038/nature11247 | bibcode = 2012Natur.489...57T }}. < /ref >  What it does is code for important non-protein information. Examples are various important [[RNA]] molecules, and  " scaffolding "  bits and pieces like [[centromeres]] and [[telomere]]s. < ref name= " extent functionality " >  Mattick J.S. 2013. The extent of functionality in the human genome. ''The HUGO Journal'' '''7''', 1. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4685169/] < /ref > < ref name= " Morris Epigenetics " > {{cite book | veditors = Morris K |title=Non-coding RNAs and epigenetic regulation of gene expression: drivers of natural selection |date=2012 |publisher=Caister Academic Press |location=Norfolk, UK |isbn=978-1904455943}} < /ref >   
+ 
+ Every cell in the same living thing has the same DNA, but only some of it is used in each cell. For instance, some genes that tell how to make parts of the [[liver]] are switched off in the [[brain]]. What genes are used can also change over time. For instance, a lot of genes are used by a child early in pregnancy that are not used later. 
+ 
+ A person has two copies of each gene, one from their mother, and one from their father. < ref > Some types of living things only have one parent. Also, some living things have only one copy of each gene (bacteria, for example) and some plants have an extra set. Some genes come from only one parent, like genes on the human [[Y chromosome]] which is passed only from father to son. < /ref >  There can be several types of a single gene, which give different instructions: one version might cause a person to have blue eyes, another might cause them to have brown. These different versions are known as ''[[allele]]s'' of the gene. 
+ 
+ Since a living thing has two copies of each gene, < ref > This applies only to [[eukaryote]]s and not, for example, to bacteria. < /ref >  it can have two different alleles of it at the same time. Often, one allele will be ''[[Allele#Dominance|dominant]]'', meaning that the living thing looks and acts as if it had only that one allele. The unexpressed allele is called ''[[recessive]]''. In other cases, you end up with something in between the two possibilities. Both alleles are expressed. 
+ 
+ Most of the characteristics that you can see in a living thing have more than one gene which influences them. And many genes have multiple effects on the body, because their function will not have the same effect in each tissue. The multiple effects of a single gene is called ''[[pleiotropism]]''. The whole set of genes is called the ''[[genotype]]'', and the total effect of genes on the body is called the ''[[phenotype]]''. These are key terms in genetics. < ref name=King/ > 
+ 
+ == History of genetics == 
+ === Pre-Mendelian ideas === 
+ We know that man started breeding domestic animals from early times, probably before the invention of [[agriculture]]. We do not know when heredity was first appreciated as a scientific problem. The Greeks, and most obviously [[Aristotle]], studied living things, and proposed ideas about [[reproduction]] and [[heredity]]. < ref > Stubbe, Hans 1972. ''History of genetics: from prehistoric times to the rediscovery of Mendel's laws'', transl. by T.R.W. Waters. MIT Press, Cambridge, MA. Chapter 2. < /ref > 
+ 
+ [[Imre Festetics]], who published work in [[German language|German]] in the first part of the 19th century, was totally forgotten until recently. < ref > Poczai P; Bell N.  &  Hyvönen J 2014. Imre Festetics and the Sheep Breeders' Society of Moravia: Mendel's forgotten  " research network " . ''PLOS Biology''. '''12''' (1): [https://pubmed.ncbi.nlm.nih.gov/24465180/] < /ref >  He described several rules of genetic inheritance in his work  ''Die genetische Gesätze der Natur'', 1819 (The genetic law of nature). His second law is the same as Mendel. In his third law, he developed the basic principles of [[mutation]]. None of the histories of genetics published in the 20th century mentions him. 
+ 
+ Probably the most publicized idea before Mendel was that of [[Charles Darwin]], whose idea of ''pangenesis'' had two parts. The first, that persistent hereditary units were passed on from one generation to another, was quite right. The second was his idea that they were replenished by 'gemmules' from the somatic (body) tissues. This was entirely wrong, and plays no part in science today. < ref > Olby, Robert 1985. ''Origins of Mendelism''. 2nd ed, Chicago: University of Chicago Press. p84–85 {{ISBN|0-226-62591-5}}. < /ref >  Darwin was right about one thing: whatever happens in evolution must happen by means of heredity, and so an accurate science of genetics is fundamental to the theory of evolution. This 'mating' between genetics and evolution took many years to organise. It resulted in the [[modern evolutionary synthesis]]. 
+ 
+ === Mendelian genetics === 
+ [[Image:Gregor Mendel.png|thumb|right|150px|Gregor Mendel, father of modern genetics.]] 
+ 
+ The basic rules of genetics were discovered by [[Imre Festetics]], a landowner (1764{{ndash}}1847), and a [[monk]] named [[Gregor Mendel]] around 1865. For thousands of years people had noticed how some traits in parents are passed to their children. However, Mendel's work was different because he designed his experiments very carefully. 
+ 
+ In his experiments, Mendel studied how traits were passed on in [[pea]] plants. He started his crosses with plants that bred true, and counted characters that were either/or in nature (either ''tall'' or ''short''). He bred large numbers of plants, and expressed his results numerically. He used test crosses to reveal the presence and proportion of [[recessive]] characters. < ref > Mendel, Gregor 1866. Versuche über Pflanzen-Hybriden. ''Verhandlungen des naturforschenden Vereins''. Brünn. Published in English as Experiments on Plant Hybridization. ''Journal of the Royal Horticultural Society''. '''26''': 1–30. 1901. [http://www.mendelweb.org/Mendel.html] < /ref > 
+ 
+ Mendel explained the results of his experiment using two [[scientific law]]s: 
+ * '''1'''. Factors, later called genes, normally occur in pairs in ordinary body cells, yet separate during the formation of sex cells. These factors determine the organism's traits, and are inherited from its parents. When [[gamete]]s are produced by [[meiosis]], the two factors separate. A gamete only receives one or the other. This Mendel called the ''Law of segregation''. 
+ * '''2'''. Alleles of different genes separate independently of one another when gametes are formed. This he called the ''Law of Independent Assortment''. So Mendel thought that different traits are inherited independently of one another. We now know this is only true if the genes are not on the same [[chromosome]], in which case they are not [[Genetic linkage|linked]] to each other. 
+ 
+ Mendel's laws helped explain the results he observed in his pea plants. Later, geneticists discovered that his laws were also true for other living things, even humans. Mendel's findings from his work on the garden pea plants helped to establish the field of genetics. His contributions were not limited to the basic rules that he discovered. Mendel's care towards controlling experiment conditions along with his attention to his numerical results set a standard for future experiments. Over the years, scientists have changed and improved Mendel's ideas. However, the science of genetics would not be possible today without the early work of Gregor Mendel. < ref > Peters, James Arthur 1959. ''Classic papers in genetics''. Prentice-Hall. < /ref > < ref > Linder, Patrick; Shore, David; Hall, Michael N. eds. 2004. ''Landmark papers in yeast biology''. Woodbury N.Y.: Cold Spring Harbor Laboratory Press. ISBN 978-0-87969-643-6 < /ref > 
+ 
+ === Between Mendel and modern genetics === 
+ Between Mendel's work and 1900 the foundations of [[cytology]], the study of cells, was developed. The facts discovered about the nucleus and [[cell division]] were essential for Mendel's work to be properly understood. < ref name= " Harris " > Harris, Henry 1995. ''The cells of the body: a history of somatic cell genetics'' Cold Spring Harbor Laboratory, Plainview N.Y. < /ref > 
+ 
+ :1832: [[Barthélémy Dumortier]], the first to observe cell division in a multicellular organism. < ref name=Harris/ > < ref > Dumortier B. 1832. Researches sur la structure comparée et le développement des animaux et des végétaux. ''Nova Acta Phys.-Med. Acad. Caesar. Leopold.-Carolinae Nat. Curios.'', part 1. '''16''', 217–311. < /ref > 
+ :1841, 1852: [[Robert Remak]]  (1815–1865), a [[Jewish]] [[Poland|Polish]]–[[Germany|German]] [[physiologist]], was the first person to state the foundation of [[cell biology]]: that cells only derive from other cells. This was later popularized by the German [[Medical doctor|doctor]] [[Rudolf Virchow]] (1821–1902), who used the famous phrase ''omnis cellula e cellula'', meaning, all cells from other cells. 
+ :1865: Gregor Mendel's paper, ''Experiments on plant hybridization'' was published. 
+ :1876: [[Meiosis]] was discovered and described for the first time in [[sea urchin]] [[egg (biology)|egg]]s, by German biologist [[Oscar Hertwig]] (1849–1922). 
+ :1878–1888: [[Walther Flemming]] and [[Eduard Strasburger]] describe chromosome behaviour during [[mitosis]]. < ref > Flemming, Walther 1882. ''Beitrage zur Kenntnis der Zelle und ihrer Lebenserscheinungen''. Vogel, Leipzig. < /ref > < ref > Strasburger, Eduard 1880. ''Zellbildung und Zelltheilung''. Dabis, Jena. < /ref > 
+ :1883: Meiosis was described at the level of chromosomes, by [[Belgium|Belgian]] zoologist [[Edouard van Beneden]] (1846–1910), in ''[[Ascaris]]'' (roundworm) eggs. 
+ :1883: German zoologist [[Wilhelm Roux]] (1850–1924) realised the significance of the linear structure of chromosomes. Their splitting into two equal longitudinal halves meant each daughter cell got the same chromosome complement. Therefore, chromosomes were the bearers of heredity. < ref > Roux W. 1883. ''Uber die Bedeutung der Kerntheilungsfiguren''. Engelmann, Leipzig. < /ref > 
+ :1889: Dutch botanist [[Hugo de Vries]] suggests that  " inheritance of specific traits in organisms comes in particles " , naming such particles ''(pan)genes''. < ref name= " pangen " > Vries H. de 1889. ''Intracellular Pangenesis'' [http://www.esp.org/books/devries/pangenesis/facsimile/] ( " pan-gene "  definition on page 7 and 40 of this 1910 translation) < /ref > 
+ :1890: The significance of meiosis for reproduction and inheritance was described in 1890 by [[Germany|German]] biologist [[August Weismann]] (1834–1914). He noted that two cell divisions were necessary to turn one [[diploid]] cell into four [[haploid]] cells if the number of chromosomes was to be maintained. 
+ :1902–1904: [[Theodor Boveri]] (1862–1915), a German biologist, in a series of papers, drew attention to the correspondence between the behaviour of chromosomes and the results obtained by Mendel. < ref > Boveri T. 1904. ''Ergebnisse uber die Konstitution der chromatischen Substanz des Zellkerns''. Fischer, Jena. < /ref >  He said that chromosomes were  " independent entities which keep their independence even in the resting nucleus... What comes out of the nucleus is what goes into it " . 
+ :1903: [[Walter Sutton]] suggested that chromosomes, which segregate in a Mendelian fashion, are hereditary units. < ref name=100years > {{cite journal | author=Ernest W. Crow and James F. Crow| title=100 Years Ago: Walter Sutton and the chromosome theory of heredity| journal=Genetics| date=2002| volume=160| url=http://www.genetics.org/cgi/content/full/160/1/1| pages=1–4| pmid=11805039 | issue=1| doi=10.1093/genetics/160.1.1| pmc=1461948}} < /ref >  [[Edmund B. Wilson]] (1856–1939), Sutton's teacher, was the author of one of the most famous text-books in biology. < ref > Wilson E.B. 1896; 1900; 1925. ''The cell''. Macmillan, London. The third edition ran to 1232 pages. < /ref >  Wilson called this idea the ''Sutton–Boveri hypothesis''. 
+ 
+ At this point, discoveries in cytology merged with the rediscovered ideas of Mendel to make a fusion called '''[[cytogenetics]]''', (cyto = cell; genetics = heredity) which has continued to the present day. 
+ 
+ === Rediscovery of Mendel's work === 
+ During the 1890s several biologists began doing experiments on breeding. and soon Mendel's results were duplicated, even before his papers were read. [[Carl Correns]] and [[Hugo de Vries]] were the main rediscoverers of Mendel's writings and laws. Both acknowledged Mendel's priority, although it is probable that de Vries did not understand his own results until after reading Mendel. < ref name=pb > {{cite book |author=Bowler, Peter J. |title=Evolution: the history of an idea |url=https://archive.org/details/evolutionhistory0000bowl_n7y8 |publisher=University of California Press |location=Berkeley |year=2003 |pages= |isbn=0-520-23693-9 |oclc= |doi= |accessdate=}} < /ref >  Though [[Erich von Tschermak]] was originally also credited with rediscovery, this is no longer accepted because he did not understand Mendel's laws. < ref > {{cite book| author=Mayr E. |authorlink=Ernst Mayr |year=1982 |title=The growth of biological thought |location=Cambridge |publisher=The Belknap Press of Harvard University Press |isbn=0-674-36446-5 |pages=730}} < /ref >  Though de Vries later lost interest in Mendelism, other biologists built genetics into a science. < ref name=pb/ > 
+ 
+ Mendel's results were replicated, and [[genetic linkage]] soon worked out. [[William Bateson]] perhaps did the most in the early days to publicise Mendel's theory. The word ''genetics'', and other terminology, originated with Bateson. < ref > Bateson W. 1906. ''The progress of genetic research''. Report of the Third International Conference 1906 on Genetics: W. Wilks, ed. London, England: Royal Horticultural Society. pp. 90–97. From p. 91:  "  …  I suggest for the consideration of this Congress the term Genetics, which sufficiently indicates that our labours are devoted to the elucidation of the phenomena of heredity and variation: in other words, to the physiology of Descent, with implied bearing on the theoretical problems of the evolutionist and the systematist, and application to the practical problems of breeders, whether of animals or plants " . < /ref > 
+ 
+ Mendel's experimental results were later the object of some debate. Fisher analysed the results of the F2 (second filial) ratio and found them to be implausibly close to the exact ratio of 3 to 1. < ref > Fisher R.A. 1936. Has Mendel's work been rediscovered? ''Annals of Science'' '''1''':115-137. < /ref >  It is sometimes suggested that Mendel may have censored his results, and that his seven traits each occur on a separate chromosome pair, an extremely unlikely occurrence if they were chosen at random. In fact, the genes Mendel studied occurred in only four linkage groups, and only one gene pair (out of 21 possible) is close enough to show deviation from [[Genetic linkage|independent assortment]]; this is not a pair that Mendel studied. < ref > Carlson E.A. 2004. ''Mendel's legacy''. Cold Spring Harbor Laboratory. < /ref > 
+ 
+ == Tools of genetics == 
+ === Mutations === 
+ {{Main|Mutation}} 
+ [[Image:Gene-duplication.png|thumb|upright|Gene duplication allows diversification by providing redundancy: one gene can mutate and lose its original function without harming the organism.]] 
+ 
+ During the process of [[DNA replication]], errors sometimes occur. These errors, called [[mutation]]s, can have an effect on the [[phenotype]] of an organism. In turn, that usually has an effect on the organism's [[fitness]], its ability to live and reproduce successfully. 
+ 
+ Error rates are usually very low—1 error in every 10–100 & nbsp;million bases—due to the  " proofreading "  ability of [[DNA polymerase]]s. < ref name=griffiths > Griffiths A.J.F; Miller J.H.  &  Suzuki D.T. (eds) 2000. ''An introduction to genetic analysis''.  New York: W.H. Freeman. ISBN 0-7167-3520-2  < /ref > < ref > Freisinger E. and others. 2004. Lesion (in)tolerance reveals insights into DNA replication fidelity. ''The EMBO journal'' '''23''', 1494–505. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC391067/]  < /ref >  Error rates are a thousandfold higher in many viruses. Because they rely on DNA and RNA polymerases which lack proofreading ability, they get higher mutation rates. 
+ 
+ Processes that increase the rate of changes in DNA are called [[mutagen]]ic. Mutagenic chemicals increase errors in DNA replication, often by interfering with the structure of base-pairing, while [[UV]] [[radiation]] induces mutations by causing damage to the DNA structure. < ref name=griffiths/ >  Chemical damage to DNA occurs naturally as well, and cells use [[DNA repair]] mechanisms to repair mismatches and breaks in DNA—nevertheless, the repair sometimes fails to return the DNA to its original sequence. 
+ 
+ In organisms which use chromosomal [[crossover]]s to exchange DNA and recombine genes, errors in alignment during [[meiosis]] can also cause mutations. < ref name=griffiths/ >  Errors in crossover are especially likely when similar sequences cause partner chromosomes to adopt a mistaken alignment; this makes some regions in genomes more prone to mutating in this way. These errors create large structural changes in DNA sequence—[[gene duplication|duplications]], [[Chromosome inversion|inversions]] or [[Deletion (genetics)|deletions]] of entire regions, or the accidental exchanging of whole parts between different chromosomes (called [[Translocation (genetics)|translocation]]). 
+ 
+ === Punnett squares === 
+ Developed by [[Reginald Punnett]], Punnett squares are used by biologists to determine the probability of offspring having a particular [[genotype]]. 
+ 
+ {| class= " wikitable "  style= " text-align:center; width:25% " 
+ |- 
+ !colspan= " 2 "  rowspan= " 2 " | !!colspan= " 2 " |Maternal 
+ |- 
+ ! B !! b 
+ |- 
+ ! rowspan= " 2 " |Paternal!! B  
+ | BB || Bb 
+ |- 
+ ! b 
+ | Bb || bb 
+ |} 
+ 
+ If B represents the allele for having black hair and b represents the allele for having white hair, the offspring of  two Bb parents would have a 25% probability of having two white hair alleles (bb), 50% of having one of each (Bb), and 25% of having only black hair alleles (BB). 
+ 
+ === Pedigree chart === 
+ [[Image:Pedigree-chart-example.svg|thumb|left|250px|An example of a pedigree chart.]] 
+ Geneticists ([[biologist]]s who study genetics) use pedigree charts to record traits of people in a family.  Using these charts, geneticists can study how a trait is inherited from person to person. 
+ 
+ Geneticists can also use pedigree charts to predict how traits will be passed to future children in a family.  For instance, genetic counselors are professionals who work with families who might be affected by genetic diseases. As part of their job, they create pedigree charts for the family, which can be used to study how the disease might be inherited. 
+ 
+ === Twin studies === 
+ Since human beings are not bred experimentally, human genetics must be studied by other means. One recent way is by studying the [[human genome]]. Another way, older by many years, is to study twins. 
+ [[Identical twins]] are natural [[clone]]s. They carry the same genes, they may be used to investigate how much [[heredity]] contributes to individual people. Studies with twins have been quite interesting. If we make a list of characteristic [[Trait (biology)|traits]], we find that they vary in how much they owe to heredity. For example: 
+ *[[Eye]] colour: entirely inherited 
+ *[[Weight]], [[height]]: partly inherited, partly environmental 
+ *Which [[language]] a person speaks: entirely environmental. 
+ 
+ The way the studies are done is like this. Take a group of identical twins and a group of fraternal twins. Measure them for various traits. Do a [[Statistics|statistical]] analysis (such as [[analysis of variance]]). This tells you to what extent the trait is inherited. Those traits which are partly inherited will be significantly more similar in identical twins. Studies like this may be carried further, by comparing identical twins brought up together with identical twins brought up in different circumstances. That gives a handle on how much circumstances can alter the outcomes of genetically identical people. 
+ 
+ The person who first did twin studies was [[Francis Galton]], [[Charles Darwin|Darwin]]'s half-cousin, who was a founder of [[statistics]]. His method was to trace twins through their life-history, making many kinds of measurement. Unfortunately, though he knew about mono and dizygotic twins, he did not appreciate the real genetic difference. < ref > Bulmer M. 2000. ''Francis Galton, pioneer of heredity and biometry''. Johns Hopkins, Baltimore MD. p67 < /ref > < ref > Galton F. 1875. The history of twins, as a criterion of the relative powers of nature and nurture. ''J. Anthropological Inst.'' '''5''', 329–348. < /ref >  Twin studies of the modern kind did not appear until the 1920s. 
+ 
+ == Genetics of prokaryotes and viruses == 
+ The genetics of [[bacteria]], [[archaea]] and [[virus]]es is a major field of research. Bacteria mostly divide by asexual cell division, but do have a kind of sex by [[horizontal gene transfer]]. [[Bacterial conjugation]], [[Transduction (genetics)|transduction]] and [[Transformation (genetics)|transformation]] are their methods. In addition, the complete [[DNA sequence]] of many bacteria, archaea and viruses is now known. 
+ 
+ Although many bacteria were given generic and specific names, like ''[[Staphylococcus aureus]]'', the whole idea of a [[species]] is rather meaningless for an organism which does not have sexes and [[crossing-over]] of [[chromosomes]]. < ref > This is because species descend in evolution by normal vertical inheritance. < /ref >  Instead, these organisms have '''strains''', and that is how they are identified in the [[laboratory]]. 
+ 
+ == Genes and development == 
+ === Gene expression === 
+ [[Gene expression]] is how the [[heritable]] information in a [[gene]], the sequence of [[DNA]] base pairs, is made into a functional gene [[Product (chemistry)|product]], such as [[protein]] or [[RNA]]. The basic idea is that DNA is [[Transcription (genetics)|transcribed]] into RNA, which is then [[Translation (genetics)|translated]] into proteins. Proteins make many of the structures and all the [[enzyme]]s in a [[Cell (biology)|cell]] or [[organism]]. 
+ 
+ Several steps in the gene expression process may be modulated (tuned). This includes both the transcription and translation stages, and the final folded state of a protein. Gene regulation switches genes on and off, and so controls [[cell differentiation]], and [[morphogenesis]]. Gene regulation may also serve as a basis for evolutionary change: control of the timing, location, and amount of gene expression can have a profound effect on the development of the organism. The expression of a gene may vary a lot in different tissues. This is called [[pleiotropism]], a widespread phenomenon in genetics. 
+ 
+ [[Alternative splicing]] is a modern discovery of great importance. It is a process where ''from a single gene a large number of variant proteins can be assembled''. One particular ''[[Drosophila]]'' gene (DSCAM) can be alternatively spliced into 38,000 different [[mRNA]] molecules. < ref name=Schmucker2000 > {{cite journal| author = Schmucker D | display-authors = etal| year = 2000| title = Drosophila Dscam is an axon guidance receptor exhibiting extraordinary molecular diversity| journal = Cell| volume = 101| issue = 6| pages = 671–684| pmid = 10892653| doi = 10.1016/S0092-8674(00)80878-8| s2cid = 13829976}} < /ref > 
+ 
+ === Epigenetics  &  control of development === 
+ [[Epigenetics]] is the study of changes in [[gene]] activity which are ''not'' caused by changes in the [[DNA]] sequence. < ref > By  " DNA sequence "  we mean the sequence of [[nucleotide]] [[base pairs]] in an '''[[exon]]''', which is the part of a gene which determines the sequence of [[amino acids]] in the coded protein. < /ref >  It is the study of [[gene expression]], the way genes bring about their [[phenotype|phenotypic]] effects. < ref > King R.C. Stansfield W.D.  &  Mulligan P.K. 2006. ''A dictionary of genetics'', 7th ed. Oxford. p146 < /ref > < ref > Carey, Nessa 2011. ''The epigenetics revolution: how modern biology is rewriting our understanding of genetics, disease and inheritance''. London: Icon Books. ISBN 978-184831347-7 < /ref > 
+ 
+ These changes in gene activity may stay for the remainder of the [[cell]]'s life and may also last for many generations of cells, through [[mitosis|cell divisions]]. However, there is no change in the underlying DNA sequence of the organism. < ref > {{cite journal|author=Adrian Bird|year=2007|title=Perceptions of epigenetics|journal=Nature|volume=447|issue=7143|pages=396–398|bibcode=2007Natur.447..396B|doi=10.1038/nature05913|pmid=17522671|s2cid=4357965}} PMID 17522671 < /ref >  Instead, non-hereditary factors cause the organism's genes to behave (express themselves) differently. < ref > {{Cite web |url=http://www.prospect-magazine.co.uk/article_details.php?id=10140 |title=Special report: 'What genes remember' by Philip Hunter {{!}} Prospect Magazine May 2008 issue 146 < !-- Bot generated title -- >  |access-date=2013-01-15 |archive-date=2008-05-01 |archive-url=https://web.archive.org/web/20080501094940/http://www.prospect-magazine.co.uk/article_details.php?id=10140 |url-status=dead }} < /ref > 
+ 
+ [[Hox genes]] are a complex of [[gene]]s whose [[protein]]s bind to the regulatory regions of target genes. The target genes then activate or repress [[cell]] processes to direct the final development of the organism. < ref > Lewis E.B. 1995. The ''bithorax'' complex: the first fifty years. [[Nobel Prize]] lecture. Repr. in Ringertz N. (ed) 1997. ''Nobel lectures, Physiology or Medicine''. World Scientific, Singapore. < /ref > < ref > Lawrence P. 1992. ''The making of a fly''. Blackwell, Oxford. < /ref > < ref name=Gehring > Gehring, Walter J. 1998. ''Master control genes in development and evolution''. Yale University Press. ISBN 0-300-07409-3 < /ref > 
+ 
+ === Extranuclear inheritance === 
+ There are some kinds of heredity which happen outside the cell nucleus. Normal inheritance is from both parents via the chromosomes in the nucleus of a fertilised egg cell. There are some kinds of inheritance other than this. < ref > Klug W.S. ''et al'' 2012. ''Concepts of genetics''. 10th ed, Pearson, chapter 9. {{ISBN|978-0-321-79578-6}} < /ref > 
+ 
+ ==== Organelle heredity ==== 
+ [[Mitochondria]] and [[chloroplasts]] carry some DNA of their own. Their make-up is decided by genes in the chromosomes and genes in the [[organelle]]. [[Carl Correns]] discovered an example in 1908. The four o'clock plant, ''Mirabilis jalapa'', has leaves which may be white, green or variegated. Correns discovered the pollen had no influence on this inheritance. The colour is decided by genes in the chloroplasts. 
+ 
+ ==== Infectious heredity ==== 
+ This is caused by a [[symbiotic]] or [[parasitic]] relationship with a [[microorganism]]. 
+ 
+ ==== Maternal effect ==== 
+ In this case nuclear genes in the female [[gamete]] are [[transcription|transcribed]]. The products accumulate in the egg [[cytoplasm]], and have an effect on the early development of the fertilised egg. The coiling of a [[snail]], ''Limnaea peregra'', is determined like this. Right-handed shells are [[genotype]]s ''Dd'' or ''dd'', while left-handed shells are ''dd''. 
+ 
+ The most important example of maternal effect is in ''[[Drosophila melanogaster]]''. The protein product maternal-effect genes activate other genes, which in turn activate still more genes. This work won the [[Nobel Prize in Physiology or Medicine]] for 1995. < ref name=Gehring/ > 
+ 
+ == Aspects of modern genetics == 
+ Much modern research uses a mixture of genetics, [[cell biology]] and [[molecular biology]]. Topics which have been the subject of [[Nobel Prize]]s in either [[Nobel Prize in Chemistry|chemistry]] or [[Nobel Prize in Physiology or Medicine|physiology]]  include: 
+ *[[Alternative splicing]], where one gene codes for a variety of related protein products. 
+ *[[Genomics]], the sequence and analysis the function and structure of genomes.  
+ *[[Genetic engineering]], the changing of an organism's genome using biotechnology. 
+ *[[Mobile genetic elements]], types of DNA which can change position in the genome. 
+ *[[Horizontal gene transfer]], where an organism gets genetic material from another organism without being the offspring of that organism. 
+ *[[Epigenetics]], the study of changes in gene activity which are ''not'' caused by changes in the DNA sequence. 
+ *[[CRISPR]]: In 2012, [[Jennifer Doudna]] and [[Emmanuelle Charpentier]] suggested that CRISPR-[[Cas9]] (enzymes from bacteria which control microbial immunity) could be used to edit [[genomes]]. This has been called one of the most significant discoveries in the history of biology. < ref name= " NYT-20150511 " > {{cite news |last=Pollack |first=Andrew |title=Jennifer Doudna, a pioneer who helped simplify genome editing |url=https://www.nytimes.com/2015/05/12/science/jennifer-doudna-crispr-cas9-genetic-engineering.html |date=May 11, 2015 |work=[[The New York Times]] |access-date=May 12, 2015 }} < /ref > < ref name= " :4 " > Jennifer A. Doudna and Samuel H. Sternberg. 2017. ''A crack in creation: gene editing and the unthinkable power to control evolution''. New York: Houghton Mifflin Harcourt. < /ref >  The two scientists shared the 2020 [[Nobel Prize in Chemistry]]. 
+ 
+ === Genetics of human behaviour === 
+ Many well-known disorders of human behaviour have a genetic component. This means that their inheritance partly causes the behaviour, or makes it more likely the problem would occur. Examples include: < ref name=Plom > Plomin, Robert ''et al'' 2001. ''Behavioral genetics''. 4th ed, New York: Worth, Overview, 1{{ndash}}5. {{ISBN|0-7167-5159-3}} < /ref > 
+ *[[Autism]] 
+ *[[ADHD]] (attention deficit disorder) 
+ *[[Drug addiction|Drug]] use and abuse 
+ *[[Risk]] taking 
+ *[[Schizophrenia]] 
+ 
+ Also, normal behaviour is also heavily influenced by [[heredity]]: 
+ *[[Learning]] and cognitive ability 
+ *[[Personality]]. < ref > Ghost in your genes. [https://www.pbs.org/wgbh/nova/transcripts/3413_genes.html NOVA, PBS] < /ref > 
+ 
+ == Related pages == 
+ *[[ENCODE]]: the complete analysis of the human [[genome]] 
+ *[[Gene therapy]] 
+ *[[Epigenetics]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ === Standard works === 
+ *Alberts B, Bray D, Hopkin K, Johnson A, Lewis J, Raff M, Roberts K, Walter P. 2013. ''Essential cell biology'', 4th Edition. Garland Science. ISBN 978-1-317-80627-1. 
+ *Griffiths A.J.H.  &  others 2000. ''An introduction to genetic analysis''. 7th ed, Freeman, New York. {{ISBN|0-7167-3520-2}} [https://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=iga.section.60] 
+ *Hartl D.  &  Jones E. 2005. ''Genetics: analysis of genes and genomes''. 6th ed, Jones  &  Bartlett. {{ISBN|0-7637-1511-5}}. 
+ *King R.C;  Mulligan P.K.  &  Stansfield W.D. 2013. ''A dictionary of genetics''. 8th ed, [[Oxford University Press]]. {{ISBN|978-0-19-976644-4}} 
+ *Klug, William S. ''et al'' 2012. ''Concepts of genetics''. 10th ed, Pearson. {{ISBN|0-321-79578-4}}. 
+ *Lodish H, Berk A, Zipursky LS, Matsudaira P, Baltimore D, Darnell J(2000. Molecular Cell Biology. 4th ed, New York: Scientific American Books. ISBN 978-0-7167-3136-8 
+ 
+ ==== Works on genetic manipulation ==== 
+ *Jennifer A. Doudna and Samuel H. Sternberg. 2017. ''A Crack in Creation: gene editing and the unthinkable power to control evolution''. Houghton Mifflin Harcourt. ISBN 978-1-847-92382-0 
+ *Carey, Nessa 2011. ''The epigenetics revolution: how modern biology is rewriting our understanding of genetics, disease and inheritance''. London: Icon Books. ISBN 978-184831347-1 
+ *Carey, Nessa 2019. ''Hacking the code of life: how gene editing will write our futures''. London: Icon Books. ISBN 978-1-78578-625-9 
+ 
+ {{authority control}} 
+ [[Category:Genetics| ]]

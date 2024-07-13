@@ -1,0 +1,33 @@
+{{Infobox OS 
+ | name                   = VxWorks 
+ | logo                   = VxWorks symbol by Wind River Systems.png 
+ | logo_size              = 65px 
+ | screenshot             = File:VxWorks_7_Bootup_Screen.png 
+ | screenshot_size        = 200px 
+ | caption                = VxWorks 7 Boot up Screen 
+ | developer              = [[Wind River Systems|Wind River]] (a wholly owned subsidiary of [[TPG Capital]]) 
+ | source_model           = 
+ | kernel_type            = [[Monolithic kernel|Monolithic]] 
+ | supported_platforms    = [[x86]] (including [[Intel Quark]]), [[x86-64]], [[MIPS architecture|MIPS]], [[PowerPC]], [[SuperH|SH-4]], [[ARM architecture|ARM]] 
+ | ui                     = 
+ | family                 = [[Real-time operating system]]s 
+ | released               = {{start date and age|1987}} 
+ | latest_release_version = 7 
+ | latest_release_date    = {{start date and age|2014|03}} 
+ | latest_test_version    =  
+ | latest_test_date       = 
+ | marketing_target       = [[Embedded system]]s 
+ | updatemodel            = 
+ | package_manager        = 
+ | license                = Proprietary 
+ | working state          = Current 
+ | website                = {{URL|https://www.windriver.com/products/vxworks/}} 
+ |date=August 2014}} 
+ '''vxWorks''' is the real-time [[operating system]] which based on real time constraint. 
+ 
+ ==Other websites== 
+ * {{official website|http://www.windriver.com/products/vxworks/}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Operating systems]]

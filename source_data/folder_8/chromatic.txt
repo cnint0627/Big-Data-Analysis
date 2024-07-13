@@ -1,0 +1,54 @@
+A '''chromatic scale''', also known as a '''dodecatonic scale''', is a musical [[scale (music)|scale]] which uses every [[note (music)|note]] as it goes up or down i.e. it goes up and down in [[semitone]]s (half tones). To play a chromatic scale on the [[piano]] every note is played: both white and black notes (e.g. C, C sharp, D, D sharp, E, F etc.). A chromatic scale can start on any note. 
+   
+ ==Meaning of the word “chromatic”== 
+ 
+ The word “chromatic” comes from the [[Ancient Greek language|Greek]] word “chromos” meaning “[[color]]”. [[Pipe organ|Organists]] in the [[16th century|16th]] and [[17th century|17th centuries]] such as [[Jan Pieterszoon Sweelinck|Sweelinck]] liked to write “Chromatic Fantasias”. These were pieces based on tunes which were chromatic. In those days, because of the [[musical tuning|tuning systems]] used, not all the semitones were exactly the same size. Going up a chromatic scale would have been like walking up a staircase with steps which were slightly larger or smaller in depth. This made chromatic scales very interesting and “colourful” which is why they were called “chromatic”. 
+ 
+ ==Chromatic harmony== 
+ 
+ '''Chromatic harmony''' means harmony ([[chord]]s) that use notes which do not belong to the [[tonality|key]] the music is in (they are not in the [[key signature]]). Although [[Johann Sebastian Bach|Bach]] in the [[18th century]] used chromatic harmony, it was 19th century composers who used it more and more. [[Richard Wagner|Wagner]] wrote music which was very chromatic: there were lots of [[Sharp (music)|sharps]] and [[Flat (music)|flats]] and it kept modulating to different key areas. The chord at the beginning of his [[opera]] ''[[Tristan und Isolde|Tristan and Isolde]]'' is so famous that it is known as the ''Tristan chord''. It is very chromatic. The music is full of [[tension]] because it leaves us wondering which key the music is in. 
+ 
+ < score > 
+ \new PianoStaff { 
+     \time 6/8 
+      < < 
+     \context Staff =  " up "  { 
+       \clef treble 
+         \set Staff.midiInstrument = # " acoustic grand " 
+         #(set-accidental-style 'modern) 
+         \partial 8 
+         \relative c''{ 
+            < <   { s8 
+           s2. 
+           \override Slur #'attachment = #'(stem . stem) 
+           gis4.~( gis4 a8 ais b4~ b8) } 
+           \\ 
+           { a,8( 
+           f'4.~ f4 e8 
+           dis2.)( d4.)~ d8 }  > > 
+             r8 r 
+         } 
+     } 
+     \context Staff =  " down "  { 
+       \clef bass 
+         \set Staff.midiInstrument = # " acoustic grand " 
+         \partial 8 
+         \relative c{ 
+           r8 
+           R2. 
+            < f b > 2.( 
+            < e gis > 4.)~  < e gis > 8 r r 
+         } 
+     } 
+      > > 
+   } 
+ < /score > 
+ 
+ ==Related pages== 
+ *[[Scale (music)]] 
+ *[[Tonality]] 
+ *[[Serialism]] 
+ 
+ {{music theory}} 
+ 
+ [[Category:Music theory]]

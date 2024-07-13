@@ -1,0 +1,68 @@
+{{Automatic taxobox 
+ | fossil_range = [[Early Jurassic]] - [[Late Cretaceous]], {{fossilrange|Toarcian|Maastrichtian}} 
+ | image = Pachycormus bollensis - Naturmuseum Senckenberg - DSC02210 (cropped).JPG 
+ | image_caption = Skeleton of ''[[Pachycormus (fish)|Pachycormus]]'' 
+ | image2 = Orthocormus cornutus 1.JPG 
+ | image2_caption = Skeleton of ''[[Orthocormus]]'' 
+ | display_parents = 2 
+ | parent_authority = Berg 1937 
+ | taxon = Pachycormidae 
+ | authority = Woodward, 1895 
+ | type_genus = ''[[Pachycormus (fish)|Pachycormus]]'' 
+ | type_genus_authority = Agassiz, 1833 
+ | subdivision_ranks = Genera 
+ | subdivision = See text 
+ | synonyms_ref =  < ref name= " van der Laan2018 " > {{cite journal |last1=van der Laan |first1=R. |title=Family-group names of fossil fishes |journal=European Journal of Taxonomy |date=2018 |issue=466 |doi=10.5852/ejt.2018.466|doi-access=free }} < /ref > 
+ | synonyms = 
+ * Diphyodontidae  < small > Jordan, 1923 < /small > 
+ * Erisichtheidae  < small > Cope, 1877b < /small > 
+ * Microlepidoti  < small > Zittel, 1887 < /small > 
+ * Pelecopteridae  < small > Cope, 1875 < /small > 
+ * Protosphyraenidae  < small > Lydekker, 1889 < /small > 
+ * Sauropsidae  < small > Cope, 1877a < /small > 
+ * Saurotomini [Saurostomini]  < small > Bonaparte, 1846 corrig. Bonaparte 1850a < /small > 
+ }} 
+ '''Pachycormiformes''' is an extinct [[Order (biology)|order]] of marine [[ray-finned fish]]. They lived in the  the early [[Jurassic period]] to the end of the [[Cretaceous]]. It only includes a single family, the '''[[Pachycormidae]]'''. They were characterized by having serrated [[pectoral fin]]s (though more recent studies demonstrated that fin shape diversity in this group was high < ref > {{Cite journal|last1=Liston|first1=Jeff J.|last2=Maltese|first2=Anthony E.|last3=Lambers|first3=Paul H.|last4=Delsate|first4=Dominique|last5=Harcourt-Smith|first5=William E. H.|last6=Heteren|first6=Anneke H. van|date=2019-11-07|title=Scythes, sickles and other blades: defining the diversity of pectoral fin morphotypes in Pachycormiformes|journal=PeerJ|language=en|volume=7|pages=e7675|doi=10.7717/peerj.7675|pmid=31720097|pmc=6842561|issn=2167-8359}} < /ref > ), reduced pelvic fins and a bony [[snout|rostrum]]. 
+ 
+ == Relationships == 
+ Pachycormiformes were probably members of the [[Neopterygii|Teleosteomorpha]]. This was a group which includes all fish more closely related to modern teleosts than to [[Holostei]]. This is a group which includes the [[bowfin]] and [[Gar|gars]]. 
+ 
+ == Taxonomy == 
+ 
+ * ''[[Euthynotus]]''  < small > Wagner, 1860 < /small > 
+ * ''[[Haasichthys]]''  < small > Delsate, 1999 < /small > 
+ * ''[[Notodectes]]''  < small > Dolgopol de Saez, 1949 < /small > 
+ * ''[[Pseudoasthenocormus]]'' 
+ * ''[[Sauropsis]]''  < small > Agassiz, 1843 < /small > 
+ * '''Hypsocorminae'''  < small > Vetter, 1881 < /small > 
+ ** ''[[Australopachycormus]]''  < small > Kear, 2007 < /small > 
+ ** ''[[Hypsocormus]]''  < small > Wagner, 1860 < /small > 
+ ** ''[[Kaykay]]''  < small > Gouiric-Cavalli  &  Arratia, 2022 < /small > 
+ ** ''[[Orthocormus]]''  < small > Weitzel, 1930 < /small > 
+ ** ''[[Protosphyraena]]''  < small > Leidy, 1857 < /small > 
+ ** ''[[Simocormus]]''  < small > Maxwell ''et al.'', 2020 < /small > 
+ * '''Asthenocorminae'''  < small > Cooper ''et al.'', 2022 < /small > 
+ ** ''[[Germanostomus]]''  < small > Cooper ''et al.'', 2022 < /small > 
+ ** ''[[Ohmdenia]]''  < small > Hauff, 1953 < /small > 
+ ** ''[[Pachycormus (fish)|Pachycormus]]''  < small > Agassiz, 1833 < /small > 
+ ** ''[[Saurostomus]]''  < small > Agassiz, 1843 < /small > 
+ ** Suspension-feeding clade 
+ *** ''[[Asthenocormus]]''  < small > Woodward, 1895 < /small > 
+ *** ''[[Bonnerichthys]]''  < small > Friedman ''et al.'', 2010 < /small > 
+ *** ''[[Leedsichthys]]''  < small > Woodward, 1889 < /small > 
+ *** ''[[Martillichthys]]''  < small > Liston, 2008 < /small > 
+ *** ''[[Rhinconichthys]]''  < small > Friedman ''et al.'', 2010 < /small > 
+ 
+ == Related pages == 
+ 
+ * [[Leedsichthys]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ *[[:en:Pachycormiformes|Pachycormiformes]] on English Wikipedia 
+ {{Taxonbar|from=Q1227671}} 
+ 
+ [[Category:Ray-finned fish]] 
+ [[Category:Extinct fish]]

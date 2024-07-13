@@ -1,0 +1,128 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = {{raise|0.2em|Kimitsu}} 
+ | native_name             = {{lower|0.1em|{{nobold|{{lang|ja|君津市}}}}}} 
+ | official_name           =  
+ | native_name_lang        = ja 
+ | settlement_type         = [[Cities of Japan|City]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           = Kimitsu Montage.jpg 
+ | imagesize               =  
+ | image_alt               =  
+ | image_caption           =  < table style= " width:280px; margin:2px auto; border-collapse:collapse " > 
+ < tr > < td style= " width:100% "  colspan= " 2 " > [[Nippon Steel]] [[Kimitsu Steel Works]] < /tr > 
+ < tr > < td style= " vertical-align:middle " > [[Kururi Castle]] < td > Kururi springs < /tr > 
+ < tr > < td style= " vertical-align:middle " > Kururi Castle waterwheel < td style= " vertical-align:middle " > Kameya no Iwaya < /tr > 
+ < /tr > 
+ < tr > < td style= " vertical-align:middle " > Mount Kano < td style= " vertical-align:middle " > Kameyama Dam < /tr > 
+ < /table > 
+ | image_flag              = Flag of Kimitsu, Chiba.svg 
+ | flag_alt                =  
+ | image_seal              = Emblem of Kimitsu, Chiba.svg 
+ | seal_alt                =  
+ | image_shield            =  
+ | shield_alt              =  
+ | image_blank_emblem      =  
+ | nickname                =  
+ | motto                   =  
+ < !-- maps and coordinates -- > 
+ | image_map               = Kimitsu in Chiba Prefecture Ja.svg 
+ | map_alt                 =  
+ | map_caption             = Location of Kimitsu in Chiba Prefecture 
+ | pushpin_map             = Japan 
+ | pushpin_label_position  =  < !-- position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_map_alt         =  
+ | pushpin_map_caption     =  & nbsp; 
+ | coordinates             = {{coord|35|19|49.62|N|139|54|9.64|E|region:JP|display=inline,title}} 
+ | coor_pinpoint           =  < !-- to specify exact location of coordinates (was coor_type) -- > 
+ | coordinates_footnotes   =  < !-- for references: use  < ref >  tags -- > 
+ < !-- location -- > 
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = Japan 
+ | subdivision_type1       = [[List of regions of Japan|Region]] 
+ | subdivision_name1       = [[Kantō region|Kantō]] 
+ | subdivision_type2       = [[Prefectures of Japan|Prefecture]] 
+ | subdivision_name2       = [[Chiba Prefecture|Chiba]] 
+ | subdivision_type3       =  
+ | subdivision_name3       =  
+ < !-- established -- > 
+ | established_title       =  < !-- Settled -- > 
+ | established_date        =  
+ | founder                 =  
+ | named_for               =  
+ < !-- seat, smaller parts -- > 
+ | seat_type               =  < !-- defaults to: Seat -- > 
+ | seat                    =  
+ < !-- government type, leaders -- > 
+ | government_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | leader_party            =  
+ | leader_title            = Mayor 
+ | leader_name             = Hiroko Ishii (since November 2018) 
+ | leader_title1           =  
+ | leader_name1            =  
+ < !-- display settings  -- > 
+ | total_type              =  < !-- to set a non-standard label for total area and population rows -- > 
+ | unit_pref               =  < !-- enter: Imperial, to display imperial before metric -- > 
+ < !-- area -- > 
+ | area_magnitude          =  < !-- use only to set a special wikilink -- > 
+ | area_footnotes          =  < !-- for references: use  < ref >  tags -- > 
+ | area_total_km2          = 318.83 
+ | area_land_km2           =  
+ | area_water_km2          =  
+ | area_water_percent      =  
+ | area_note               =  
+ < !-- elevation -- > 
+ | elevation_footnotes     =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_m             =  
+ < !-- population -- > 
+ | population_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | population_total        = 83058 
+ | population_as_of        = November 2020 
+ | population_density_km2  = auto 
+ | population_est          =  
+ | pop_est_as_of           =  
+ | population_demonym      =  < !-- demonym, ie. Liverpudlian for someone from Liverpool -- > 
+ | population_note         =  
+ < !-- time zone(s) -- > 
+ | timezone1               = [[Japan Standard Time]] 
+ | utc_offset1             = +9 
+ | timezone1_DST           =  
+ | utc_offset1_DST         =  
+ < !-- postal codes, area code -- > 
+ | postal_code_type        =  
+ | postal_code             =  
+ | area_code_type          =  < !-- defaults to: Area code(s) -- > 
+ | area_code               =  
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec1         = City Symbols 
+ | blank1_name_sec1        = - Tree 
+ | blank1_info_sec1        = Kyaraboku  < small > ([[Taxus cuspidata]] Sieb. et Zucc. var.nana Hort. ex Rehder) < /small > 
+ | blank2_name_sec1        = - Flower 
+ | blank2_info_sec1        = Mitsubatsutsuji  < small > ([[Rhododendron]] dilatatum) < /small > 
+ | blank3_name_sec1        = - Bird 
+ | blank3_info_sec1        =  
+ | blank4_name_sec1        =  
+ | blank4_info_sec1        =  
+ | blank5_name_sec1        =  
+ | blank5_info_sec1        =  
+ | blank6_name_sec1        =  
+ | blank6_info_sec1        =  
+ | blank7_name_sec1        =  
+ | blank7_info_sec1        =  
+ < !-- blank fields (section 2) -- > 
+ | blank_name_sec2         = Phone & nbsp;number 
+ | blank_info_sec2         =0439-56-1581 
+ | blank1_name_sec2        = Address 
+ | blank1_info_sec2        = 2-13-1 Kubo, Kimitsu-shi, Chiba-ken 299-1192 
+ < !-- website, footnotes -- > 
+ | website                 = {{Official|1=http://www.city.kimitsu.lg.jp/}} 
+ | footnotes               =  
+ }} 
+ {{Nihongo|'''Kimitsu'''|君津市|Kimitsu-shi}} is a [[Cities of Japan|city]] located in [[Chiba Prefecture]], [[Japan]]. < ref name= " Kimitsu-hp " > {{cite web |url=https://www.city.kimitsu.lg.jp |title= Kimitsu city official statistics|location= Japan|language= ja}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Japan-stub}} 
+ 
+ [[Category:Cities in Chiba Prefecture]]

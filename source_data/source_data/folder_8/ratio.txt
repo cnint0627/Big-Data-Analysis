@@ -1,0 +1,20 @@
+A '''ratio''' between two or more [[quantity|quantities]] is a way of measuring their sizes compared to each other. A ratio can be indicated using [[Colon (punctuation)|colon]] ( " : " ) as a separator (as in 1:4:9), < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-22|website=Math Vault|language=en-US}} < /ref >  or it can be simply expressed as a [[Fraction (mathematics)|fraction]] (as in  < math > \tfrac{2}{3} < /math > ). < ref > {{Cite web|title=Ratios|url=https://www.mathsisfun.com/numbers/ratio.html|access-date=2020-08-22|website=www.mathsisfun.com}} < /ref > < ref name= " :0 " > {{Cite web|last=Stapel|first=Elizabeth|title=Ratios|url=https://www.purplemath.com/modules/ratio.htm|access-date=2020-08-22|website=Purplemath}} < /ref >   
+ 
+ For example, if a school has 20 teachers and 500 pupils, then the ratio of teachers to students is written as 20:500 (and pronounced as  " 20 to 500 " ). As another example, if a cake mix asks for 100 [[gram]]s of flour, 300 grams of butter and 25 grams of sugar, then the ratio of flour to butter to sugar is written as 100:300:25 (and pronounced as  " 100 to 300 to 25 " ).  
+ 
+ The first term of a ratio is called antecedent, and the second term is called consequent. This type of ratio has no units. If different quantities are compared, this special type of ratio is called a [[Rate (mathematics)|rate]] and it has units. < ref name= " :0 "  / >    
+ 
+ Ratios can be simplified. In the school example, there were 20 teachers to 500 pupils. If we divided the children up into equally sized classes, then each of the 20 teachers' classes would have 25 pupils. That means that for each teacher there are 25 pupils, or alternatively, the teacher-to-pupil ratio is 1:25. Another way to work this out is to divide both sides of the ratio 20:500 by 20. Note that 20:500 is the same as 1:25. Just like there are different ways of writing a fraction (for example {{nowrap|1=2/1 = 10/5}}), there are different ways of writing one ratio.  
+ 
+ == Related page == 
+ 
+ * [[Dimensionless quantity]] 
+ * [[Golden ratio]] 
+ * [[Scale (ratio)]] 
+ * [[Surface area to volume ratio]] 
+ 
+ == References == 
+ < references / > 
+ {{math-stub}} 
+ 
+ [[Category:mathematics]]

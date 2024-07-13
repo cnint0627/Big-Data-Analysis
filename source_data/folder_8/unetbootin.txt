@@ -1,0 +1,49 @@
+{{Infobox Software 
+ | name                   = UNetbootin 
+ | logo                   =  
+ | screenshot             = Unetbootin on Ubuntu.png 
+ | caption                = UNetbootin on [[Ubuntu]] 
+ | author                 = Geza Kovacs 
+ | developer              =  
+ | released               =  
+ | latest release version = release 243 
+ | latest release date    = {{release date and age|2008|07|21}} 
+ | programming language   =  
+ | operating system       = [[Microsoft Windows|Windows]], [[Linux]] 
+ | language               =  
+ | status                 = Size 2.9 M 
+ | genre                  = Linux installer 
+ | license                = [[GNU General Public License]] 
+ | website                = [http://unetbootin.sourceforge.net/ unetbootin.sourceforge.net] 
+ }} 
+ 
+ '''UNetbootin''' (Universal Netboot Installer) is a [[cross-platform]] utility that can create Linux [[Live USB]] drives and can load a variety of system utilities or install various [[Linux distribution]]s and other [[operating system]]s without a CD. < ref > SourceForge.net, [http://sourceforge.net/apps/trac/unetbootin/wiki/builtin-distributions UNetbootin distributions with built-in support]; retrieved 2012-6-7. < /ref > 
+ 
+ ==Development== 
+ UNetbootin is an [[open-source software]] project.  It has 130,000+ weekly downloads. < ref > SourceForge.net, [http://sourceforge.net/directory/system-administration/softwaredist/os:windows/freshness:recently-updated/ Unetbootin download stats]; retrieved 2012-6-7. < /ref > 
+ 
+ For Windows, Mac OS X and Linux systems, UNetbootin may make it possible to do without the [[hard drive]]. < ref > Dörner, Stephan. [https://www.handelsblatt.com/technologie/it-tk/it-internet/kommentar-warum-virenscanner-versagen/6706962.html   " ''So bleibt der PC garantiert virenfrei'' " ] {{Webarchive|url=https://web.archive.org/web/20120826220006/http://www.handelsblatt.com/technologie/it-tk/it-internet/kommentar-warum-virenscanner-versagen/6706962.html |date=2012-08-26 }} (Ensuring the Viruc-free PC), ''Handelsblatt'' (Germany). June 4, 2012; excerpt, ''Für Windows, Mac OS X und Linux gibt es dafür das kostenlose Tool UNetbootin, ... [b]esonderer Vorteil der Live-Distribution: Sie kommt ohne Festplatte aus''; retrieved 2012-6-7. < /ref > 
+ 
+ ==Packages == 
+ UNetbootin is part of many official software package repositories, < ref > ArchLinux.org, [https://wiki.archlinux.org/index.php/Official_Repositories   " Official repositories, " ] excerpt,  " A software repository is a storage location from which software packages may be retrieved and installed on a computer " ; retrieved 2012-6-7. < /ref >  including [[Debian]], < ref > Debian, [http://packages.debian.org/search?keywords=unetbootin Package unetbootin]; retrieved 2012-6-7. < /ref >  [[Ubuntu]], < ref > Unbuntu, [http://packages.ubuntu.com/search?keywords=unetbootin Package unetbootin]; retrieved 2012-6-7. < /ref >  [[Fedora (operating system)|Fedora]], < ref > Fedora, [http://lists.fedoraproject.org/pipermail/package-announce/2012-February/073040.html Package unetbootin]; retrieved 2012-6-7. < /ref >  [[OpenSUSE]], < ref > openSUSE, [http://software.opensuse.org/package/unetbootin?search_term=unetbootin  Package unetbootin] {{Webarchive|url=https://web.archive.org/web/20140212234902/http://software.opensuse.org/package/unetbootin?search_term=unetbootin |date=2014-02-12 }}; retrieved 2012-6-7. < /ref >  [[Gentoo Linux]], < ref > Gentoo, [http://packages.gentoo.org/package/sys-boot/unetbootin  Package unetbootin];retrieved 2012-6-7. < /ref >  and others. 
+ 
+ ==Related pages== 
+ * [[List of tools to create Live USB systems]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Further reading== 
+ * Biersdorfer, J.D. (2009). [https://books.google.com/books?id=EFFiVaD3Hd8C & dq=unetbootin & pg=PA297   " UNetbootin " ] at ''NetBooks: The Missing Manual.'' Sebastopol, California: O'Reilly Media. {{ISBN|9780596802233}}; [https://www.worldcat.org/oclc/435462743  OCLC 435462743] 
+ * Ciampa, Mark. (2011). [https://books.google.com/books?id=CIHYWBrg9JQC & dq=unetbootin & pg=PA153   " UNetbootin " ] at ''Security+ Guide to Network Security Fundamentals.'' Boston, Massachusetts: Course Technology. {{ISBN|9781111640125}}; [https://www.worldcat.org/oclc/707969716  OCLC 707969716] 
+ 
+ == Other websites == 
+ {{Commons category-inline|UNetbootin}} 
+ *[http://unetbootin.sourceforge.net UNetbootin Official Website] 
+ *[http://unetbootin.wiki.sourceforge.net/ UNetbootin Official Wiki] 
+ *[http://launchpad.net/unetbootin UNetbootin Launchpad Development Page] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux software]]

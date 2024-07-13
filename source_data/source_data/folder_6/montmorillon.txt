@@ -1,0 +1,171 @@
+{{Infobox French commune 
+ |name                    = Montmorillon 
+ |commune status          = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image flag              =  
+ |image flag size         =  
+ |image coat of arms      = Blason ville fr Montmorillon (Vienne).svg 
+ |image coat of arms size =  
+ |city motto              =  
+ |image                   = Hôtel de ville de Montmorillon.jpg 
+ |caption                 = The [[City and town halls|town hall]] in Montmorillon 
+ |map                     =  
+ |adjustable map          =  
+ |time zone               =  
+ |coordinates             = {{coord|46.4269|0.8717|format=dms|display=inline,title}} 
+ |arrondissement          = Montmorillon 
+ |canton                  = Montmorillon 
+ |subdivisions entry      =  
+ |subdivisions            =  
+ |intercommunality        = Montmorillonnais 
+ |mayor                   = Yves Bouloux 
+ |party                   =  
+ |term                    = 2014-2020 
+ |elevation m             = 125 
+ |elevation min m         = 82 
+ |elevation max m         = 168 
+ |area km2                = 57.00 
+ |population demonym      = Montmorillonnais 
+ |population              = 6155 
+ |population ranking      =  
+ |population date         = 2014 
+ |urban area km2          =  
+ |urban area date         =  
+ |urban pop               =  
+ |urban pop date          =  
+ |metro area km2          =  
+ |metro area date         =  
+ |metro area pop          =  
+ |metro area pop date     =  
+ |INSEE                   = 86165 
+ |postal code             = 86500 
+ |website                 = [http://www.montmorillon.fr/ www.montmorillon.fr] 
+ }} 
+ '''Montmorillon''' is a [[Communes of France|commune]] in the [[Vienne]] [[Departments of France|department]], in the [[Nouvelle-Aquitaine]] [[Regions of France|region]], in central-western [[France]]. The [[clay]] [[mineral]] [[montmorillonite]] (a [[silicate]]) was named after Montmorillon when it was discovered there in 1847. 
+ 
+ It is one of the two [[Prefectures in France|subprefectures]] of the Vienne department and the [[Capital city|capital]] of the [[Cantons in France|canton]] of [[Canton of Montmorillon|Montmorillon]]. 
+ 
+ Montmorillon is well known for its [[macaron]]s, and has a museum dedicated to it. 
+ 
+ ==Geography== 
+ Montmorillon is along the [[Gartempe]] river. The city is at {{Convert|50|km|mi|abbr=on }} to the southeast of [[Poitiers]] and at {{Convert|90|km|mi|abbr=on }} to the nortwest of [[Limoges]]. 
+ 
+ It has an area of {{Convert|57|km2|sqmi|abbr=on }} and its average [[altitude]] is {{Convert|125|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|90|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Montmorillon-86500/ |title='Montmorillon |publisher=Map-France.com |access-date=30 July 2016 }} < /ref > 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Montmorillon and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 86165.png|350px|Map of the ''commune'' of Montmorillon]] 
+ |} 
+ < /center > 
+ 
+ The ''communes'' that are around Montmorillon are [[Saulgé]], [[Jouhet]], [[Sillars]], [[Journet]], [[Saint-Léomer]], [[Bourg-Archambault]], [[Lathus-Saint-Rémy]] and [[Pindray]]. 
+ 
+ {{Geographic location| width=auto 
+ |Centre    = Montmorillon 
+ |North     = [[Jouhet]] 
+ |Northeast = [[Journet]] 
+ |East      = [[Saint-Léomer]] 
+ |Southeast = [[Bourg-Archambault]]  &   < br > [[Lathus-Saint-Rémy]] 
+ |South     = [[Saulgé]] 
+ |Southwest = [[Saulgé]] 
+ |West      = [[Sillars]] 
+ |Northwest = [[Pindray]] 
+ }} 
+ 
+ ===Climate=== 
+ The climate of Montmorillon, in the [[Köppen climate classification]], is '''Cfb''' - [[Oceanic climate]] with template summers. < ref > {{cite web |work=Annuaire-Mairie.fr |title=La ville de Montmorillon |url=http://www.annuaire-mairie.fr/ville-montmorillon.html |language=fr |access-date=29 July 2016}} < /ref > 
+ 
+ ==Population== 
+ The inhabitants of Montmorillon are known, in [[French language|French]], as ''Montmorillonnais'' (women: ''Montmorillonnaises''). < ref > {{cite web|url=http://www.habitants.fr/vienne-86 |title=Vienne (86) |publisher=habitants.fr |language=fr |access-date=30 July 2016 }} < /ref > 
+ 
+ With a population of 6,155, < ref name=insee2 > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep86.pdf |title=Régions, départements, arrondissements, cantons et communes  |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=fr |access-date=17 April 2017}} < /ref >  Confolens has a [[population density]] of {{Pop density|6155|57|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Montmorillon''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:8000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:2000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:1000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2008 text:2008 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 6034 
+  bar:1975 from:0 till: 6685 
+  bar:1982 from:0 till: 6954 
+  bar:1990 from:0 till: 6667 
+  bar:1999 from:0 till: 6898 
+  bar:2008 from:0 till: 6443 
+  bar:2014 from:0 till: 6155 
+ 
+ PlotData= 
+  bar:1968 at: 6034 fontsize:S text: 6,034 shift:(-12,5) 
+  bar:1975 at: 6685 fontsize:S text: 6,685 shift:(-13,5) 
+  bar:1982 at: 6954 fontsize:S text: 6,954 shift:(-13,5) 
+  bar:1990 at: 6667 fontsize:S text: 6,667 shift:(-13,5) 
+  bar:1999 at: 6898 fontsize:S text: 6,898 shift:(-13,5) 
+  bar:2008 at: 6443 fontsize:S text: 6,443 shift:(-13,5) 
+  bar:2014 at: 6155 fontsize:S text: 6,155 shift:(-13,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Administration== 
+ Montmorillon is a subprefecture of the Vienne department since 1800. It is also the capital of the canton of [[Canton of Montmorillon|Montmorillon]]. < ref name=insee1 > {{cite web|url=http://www.insee.fr/fr/methodes/nomenclatures/cog/cog.asp?nivgeo=arr & codgeo=862 |title=Liste des cantons de l'arrondissement de Montmorillon |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=30 July 2016 }} < /ref > 
+ 
+ [[File:Montmorillon pano.jpg|thumb|center|upright 2.3|View of Montmorillon from the left side of the [[Gartempe]] river]] 
+ 
+ ==People from Montmorillon== 
+ *[[Étienne de Vignolles]], called [[La Hire]] (1390-1443), [[France|French]] military commander during the [[Hundred Years' War]] 
+ *[[Paul de Ladmirault]] (1808-1898) French general and senator, 
+ *[[Joseph Carré]] (1870-1941), architect 
+ *[[Régine Deforges]] (1935-2014), novelist  
+ *[[Simon Pagenaud]] (1984-), Champion [[Indycar]] Driver 
+ 
+ ==Twin cities== 
+ [[File:Panneau jumelage Montmorillon.jpg|thumb|Twinning of Montmorrillon]] 
+ Montmorillon is a [[twin town]] of: < ref > {{cite web |url=http://www.montmorillon.fr/index.php/decouvrir/194-jumelages |title=Jumelage |publisher=Ville de Montmorillon |language=fr |access-date=30 July 2016 |archive-date=16 June 2016 |archive-url=https://web.archive.org/web/20160616043624/http://www.montmorillon.fr/index.php/decouvrir/194-jumelages |url-status=dead }} < /ref > 
+ * {{Flagicon|GER}} [[Wadern]], [[Germany]], since 1968 
+ * {{Flagicon|ESP}} [[Medina del Campo]], [[Spain]], since 1994 
+ * {{Flagicon|BFA}} [[Safané]], [[Burkina Faso]], since 1997 
+ * {{Flagicon|POL}} [[Gościno]], [[Poland]], since 2003 
+ * {{Flagicon|ROU}} [[Putna]], [[Romania]], since 2013 
+ 
+ Montmorillon is also partner withː 
+ * {{Flagicon|UK}} [[Guildford]], [[United Kingdom]], since 1964 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Montmorillon]] 
+ * [[Communes of the Vienne department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat}} 
+ * [http://www.montmorillon.fr/ Ville de Montmorillon - official website] {{in lang|fr}} 
+ * [http://www.tourisme-montmorillon.fr/ Office or Tourisme website] {{in lang|fr}} 
+ 
+ [[Category:Subprefectures in France]] 
+ [[Category:Communes in Vienne]]

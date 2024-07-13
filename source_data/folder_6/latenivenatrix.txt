@@ -1,0 +1,21 @@
+{{italictitle}} 
+ {{Automatic taxobox 
+ | fossil_range = [[Campanian]], {{fossilrange|75.5}} 
+ | image = Latenivenatrix skull.jpg 
+ | image_caption = Hind part of assigned skull TMP 1982.019.0023, [[Royal Tyrrell Museum]] 
+ | taxon = Latenivenatrix 
+ | type_species = '''''Latenivenatrix mcmasterae''''' 
+ | type_species_authority = van der Reest and Currie, 2017 
+ }} 
+ [[File:Latenivenatrix.png|thumb|right|Life restoration with human to scale]] 
+ '''''Latenivenatrix''''' (meaning  " hiding hunter " ) is a genus of [[Troodontidae|troodontid]]. It was previously identified as ''[[Troodon]]''.  
+ 
+ ''Latenivenatrix'' has an estimated skull length of {{convert|18|cm}} and a size {{convert|3|-|3.5|m}}. This makes it the largest troodontid known. < ref name= " desc " > {{cite journal|last1=van der Reest|first1=A. J.|last2=Currie|first2=P. J.|title=Troodontids (Theropoda) from the Dinosaur Park Formation, Alberta, with a description of a unique new taxon: implications for deinonychosaur diversity in North America|journal=Canadian Journal of Earth Sciences|date=2017|volume=54|issue=9|pages=919–935|doi=10.1139/cjes-2017-0031|bibcode=2017CaJES..54..919V|hdl=1807/78296 |url=http://www.nrcresearchpress.com/doi/abs/10.1139/cjes-2017-0031#.WYnhUlGGOUm}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Coelurosaurs]] 
+ [[Category:Cretaceous dinosaurs]]

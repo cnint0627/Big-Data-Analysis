@@ -1,0 +1,15 @@
+The '''hypotenuse''' is the [[side]] opposite the 90 [[degree (geometry)|degrees]] [[angle]] in a [[right triangle]]. It is always the longest side. 
+ 
+ For example: 
+   
+ [[Image:Rtriangle.svg|A right triangle]] 
+ 
+ In this triangle, if angle C is 90 degrees, then the opposite side,  " c " , is the hypotenuse. The hypotenuse is important in [[trigonometry]], where it is used to calculate many [[function (mathematics)|functions]]. 
+ 
+ The length of the hypotenuse can be calculated if the other two sides are known, using [[Pythagoras' Theorem]].  In fact, the length of any side of a right triangle can be calculated if the other two sides are known, using this theorem. 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Geometry]] 
+ [[Category:Trigonometry]]

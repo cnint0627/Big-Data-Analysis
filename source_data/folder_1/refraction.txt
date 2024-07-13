@@ -1,0 +1,25 @@
+[[File:Rays_of_light_through_a_different_medium_(labelled).svg|thumb|270px|Diagram of refraction]] 
+ [[File:Optical refraction at water surface.jpg|thumb|upright|When viewing at a certain angle, the straw appears to bend, due to refraction of light as it moves into the air]] 
+ [[File:Refraction photo.png|thumb|A [[ray (optics)|ray]] of light being refracted in a plastic block.|alt=refer to caption]] 
+ '''Refraction''' is the change in direction of a [[Wave (physics)|wave]], caused by the change in the wave's  [[speed]]. Examples of waves include [[sound|sound waves]] and [[light|light waves]]. Refraction is seen most often when a wave passes from one transparent [[transmission medium|medium]] to another transparent medium. Different types of medium include [[air]] and [[water]].  
+ 
+ When a wave passes from one transparent medium to another transparent medium, the wave will change its speed and its direction. For example, when a light wave travels through air and then passes into water, the wave will slow and change direction. In this property when the light is transmitted through a medium, polarisation of electrons take place, which in turn reduces the speed of light, thus changing the direction of light. 
+ 
+ As light goes into a medium which is denser, the light ray will 'bend' toward the normal. < ref > 'Normal' in geometry means [[perpendicular]] to a surface or object. < /ref >  When it goes back into the less dense medium (with a lower [[refractive index]]), it will bend back through the same angle as when it came in (if the surface at exit is parallel to the surface at entry). 
+ 
+ An example of how refraction works is placing a straw in a cup of water, with part of the straw in the water. When looking at a certain angle, the straw appears to bend at the water's surface. This is because of the change in density of the medium and thus, bending of light rays as they move from the air to water. 
+ 
+ A good and simple way to understand how light works is to think of it like a car. When the car hits the gravel surface (this is the medium) on an angle, the tire that hits it first will slow, causing it to turn in that direction. Therefore, if light hits a medium on the right having a greater refractive index, it will bend right. The amount of bending is given by [[Snell's law]] and [[:en:Corpuscular_theory_of_light|corpuscular theory of light]]. [[Lens (optics)|Lenses]] work by refraction. 
+ 
+ When light refracts in a [[prism (optics)|prism]], it splits into colours of the [[rainbow]] because some [[wavelength]]s bend more than others.  
+ 
+ In [[optics]] the '''refractive index''' or '''index of refraction''' ''n'' of a substance is a [[dimensionless quantity|dimensionless number]] that describes how [[light]], or other [[radiation]], goes through that medium. < ref > " medium "  = transmission medium or optical medium. Material through which electromagnetic waves pass or  " propagate " . < /ref >  It is defined as  
+ : < math > n = \frac{\mathrm{c}}{v}, < /math > 
+ where c is the [[speed of light]] in a [[vacuum]] and ''v'' is the ''[[phase velocity]]'' of light in the medium. [[Snell's law]] uses refractive indexes to calculate the amount of refraction. 
+ 
+ == Notes == 
+ {{commons}} 
+ {{reflist}} 
+ 
+ 
+ [[Category:Wave physics]]

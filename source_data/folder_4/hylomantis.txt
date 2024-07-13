@@ -1,0 +1,31 @@
+{{Automatic taxobox 
+ | name = Rough leaf frogs 
+ | image = Perereca - verde - Agalychnis aspera.jpg 
+ | image_caption = ''[[Hylomantis aspera]]'' 
+ | taxon = Hylomantis 
+ | authority = [[Wilhelm Peters|Peters]], 1873 
+ | subdivision = See text. 
+ }} 
+ 
+ '''''Hylomantis''''' is a genus of [[tree frog]]s.  Some scientists say they are in the family [[Hylidae]] and other scientists say they are in the family [[Phyllomedusidae]]. They are called '''rough leaf frogs''' in English.  They live in the [[Atlantic forest]] in eastern [[Brazil]]. There are two species in this genus.  Scientists used to say there were more, but now they think those frogs are really in the genus ''[[Agalychnis]]''. < ref > {{Cite journal|title = The phylogenetic relationships of the charismatic poster frogs, Phyllomedusinae (Anura, Hylidae)|journal = Cladistics|date = 2010|issn = 1096-0031|pages = 227–261|volume = 26|issue = 3|doi = 10.1111/j.1096-0031.2009.00287.x|first1 = Julián|last1 = Faivovich|first2 = Célio F. B.|last2 = Haddad|first3 = Délio|last3 = Baêta|first4 = Karl-Heinz|last4 = Jungfer|first5 = Guilherme F. R.|last5 = Álvares|first6 = Reuber A.|last6 = Brandão|first7 = Christopher|last7 = Sheil|first8 = Lucas S.|last8 = Barrientos|first9 = César L.|last9 = Barrio-Amorós|pmid = 34875782|s2cid = 54613356}} < /ref > < ref name=ASW6 > {{BioRef|ASW6 |genus=Hylomantis|year=2020 |access-date=27 March 2020}} < /ref > 
+ 
+ ==Species== 
+ {|style= " text-align:left; border:1px solid #999999; width: 70% " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !style= " width: 60%;  " | Binomial name and Author!!style= " width: 40%;  " |Common name 
+ |- 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Hylomantis aspera]]'' {{small|(Peters, 1873)}} || Rough leaf frog 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Hylomantis granulosa]]'' {{small|(Cruz, 1989)}} || Granular leaf frog 
+ |-style= " background:#EEEEEE; " 
+ |- 
+ |} 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ {{Taxonbar|from=Q2600366}} 
+ 
+ [[Category:Frogs of South America]] 
+ {{biology-stub}}

@@ -1,0 +1,39 @@
+'''Ferungulata''' is a group of [[mammal]]s containing [[pholidota]], [[carnivora]], [[ungulata]], and their extinct relatives 
+ 
+ {{Clade 
+ |label1=[[Laurasiatheria]] 
+ |1={{Clade 
+ |1=[[Eulipotyphla]] 
+ |label2=[[Scrotifera]] 
+ |2={{Clade 
+ |1=[[Chiroptera]] 
+ |label2='''Ferungulata''' 
+ |2={{Clade 
+ |label1=[[Ungulata]] 
+ |1={{Clade 
+ |1=[[Perissodactyla]] 
+ |label2=[[Cetartiodactyl]]a 
+ |2={{Clade 
+ |1={{Clade 
+ |1=[[Hippopotamidae]] 
+ |2=[[Cetacea]] 
+ }} 
+ |2=[[Artiodactyl]]a 
+ }} 
+ }} 
+ |label2=[[Ferae]] 
+ |2={{Clade 
+ |1=[[Pholidota]] 
+ |2=[[Carnivoramorpha]] 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ 
+ ==Related pages== 
+ *[[Laurasiatheria]] 
+ 
+ [[Category:Mammals]] 
+ 
+ {{biology-stub}}

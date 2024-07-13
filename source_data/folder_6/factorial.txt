@@ -1,0 +1,41 @@
+The '''factorial''' of a whole number  < math > n < /math > , written as  < math > n! < /math > < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-09-09|website=Math Vault|language=en-US}} < /ref >  or  < span style= " border-bottom: 1px #000 solid; border-left: 1px #000 solid; display: inline; line-height: 1em; padding: 0 0.25em; " > < math > n < /math > < /span > , < ref > {{cite book|title=Understanding ISC Mathematics Class XI|volume=I|first=M.L.|last=Aggarwal|publisher=Arya Publications (Avichal Publishing Company)|location=Industrial Area, Trilokpur Road, Kala Amb-173030, Distt. Simour (H.P.)|isbn=978-81-7855-743-4|year=2021|chapter=8. Permutations and Combinations|page=A-400}} < /ref >  is found by multiplying  < math > n < /math >  by all the whole numbers less than it. For example, the factorial of 4 is 24, because  < math > 4 \times 3 \times 2 \times 1 = 24 < /math > . Hence one can write  < math > 4! = 24 < /math > . For some technical reasons,  < math > 0! < /math >  is equal to  < math > 1 < /math > . < ref name= " :0 " > {{Cite web|last=Weisstein|first=Eric W.|title=Factorial|url=https://mathworld.wolfram.com/Factorial.html|access-date=2020-09-09|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ Factorials can be used to find out how many possible ways there are to arrange  < math > n < /math >  objects. < ref name= " :0 "  / > 
+ 
+ For example, if there are 3 letters (A, B, and C), they can be arranged as ABC, ACB, BAC, BCA, CAB, and CBA. That is be 6 choices because A can be put in 3 different places, B has 2 choices left after A is placed, and C has only one choice left after A and B are placed. In other words,  < math > 3 \times 2 \times 1 = 6 < /math >  choices. 
+ 
+ The factorial function is a good example of [[recursion]] (doing things over and over), as  < math > 3! < /math >  can be written as  < math > 3 \times 2! < /math > , which can be written as  < math > 3 \times 2 \times 1! < /math >  and finally as  < math > 3 \times 2 \times 1 \times 0! < /math > . Because of this,  < math > n! < /math >  can also be defined as  < math > n \times (n-1)! < /math > , < ref name= " :1 " > {{Cite web|title=Factorial Function !|url=https://www.mathsisfun.com/numbers/factorial.html|access-date=2020-09-09|website=www.mathsisfun.com}} < /ref >  with  < math > 0! = 1 < /math > < ref name= " :0 "  / > 
+ 
+ The factorial function grows very fast. There are  < math > 10! = 3,628,800 < /math >  ways to arrange 10 items. < ref name= " :1 "  / > 
+ 
+ == Applications == 
+ 
+ The earliest uses of the factorial function involve counting [[permutations]]: there are  < math > n! < /math >  different ways of arranging  < math > n < /math >  distinct objects into a sequence. < ref name= " ConwayGuy1998 " > {{Cite book|title=The Book of Numbers|last1=Conway|first1=John H.|last2=Guy|first2=Richard|publisher=Springer Science  &  Business Media|year=1998|isbn=978-0-387-97993-9|pages=55–56|language=en|contribution=Factorial numbers|author-link=John Horton Conway|author-link2=Richard K. Guy}} < /ref >  Factorials appear more broadly in many formulas in [[combinatorics]], to account for different orderings of objects. For instance the [[Binomial coefficient|binomial coefficients]]  < math > \tbinom{n}{k} < /math >  count the {{nowrap| < math > k < /math > -element}} [[Combination|combinations]] (subsets of {{nowrap| < math > k < /math >  elements)}} from a set with {{nowrap| < math > n < /math >  elements,}} and can be computed from factorials using the formula{{sfn|Graham|Knuth|Patashnik|1988|p=156}} 
+ < math display= " block " > \binom{n}{k}=\frac{n!}{k!(n-k)!}. < /math > 
+ == Related sequences and functions == 
+ {{main|List of factorial and binomial topics}} 
+ Several other integer sequences are similar to or related to the factorials: 
+ 
+ ; Alternating factorial 
+ : The [[alternating factorial]] is the absolute value of the [[alternating sum]] of the first  < math > n < /math >  factorials, {{nowrap| < math display=inline > \sum_{i = 1}^n (-1)^{n - i}i! < /math > .}} These have mainly been studied in connection with their primality; only finitely many of them can be prime, but a complete list of primes of this form is not known. < ref > {{harvnb|Guy|2004}}.  " B43: Alternating sums of factorials " . pp. 152–153. < /ref > 
+ 
+ == Notes == 
+ Factorials are not defined for [[negative number|negative]] [[integer]]s. However, the related [[gamma function]] ( < math > \Gamma(x) < /math > ) is defined over the [[real numbers|real]] and [[complex numbers|complex]] numbers (except for negative integers). < ref name= " :0 "  / > 
+ 
+ == Related pages == 
+ * [[Exclamation mark]] 
+ * [[Permutation]] 
+ 
+ == References == 
+ < references / > 
+ 
+ ==Other websites== 
+ * [http://www.elektro-energetika.cz/new/calculations/faktorial.php?language=english Calculation of Factorial (0≤N≤40000)] 
+ 
+ [[Category:Recursion]] 
+ [[Category:Mathematics]] 
+ [[Category:Combinatorics]] 
+ [[Category:Integer sequences]] 
+ 
+ 
+ {{math-stub}}

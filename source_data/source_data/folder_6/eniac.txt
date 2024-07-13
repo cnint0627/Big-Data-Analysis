@@ -1,0 +1,26 @@
+[[File:ENIAC Penn2.jpg|thumb|200px|Detail of the back of a section of ENIAC, showing [[vacuum tube]]s]] 
+ 
+ '''ENIAC''' (which meant  " '''E'''lectronic '''N'''umerical '''I'''ntegrator '''A'''nd '''C'''omputer " ) < ref name=ENIACstory > {{cite web |author=Weik, Martin H. |url=http://ftp.arl.mil/~mike/comphist/eniac-story.html |title=The ENIAC Story |work=O R D N A N C E |publisher=Ftp.arl.mil |date=January–February 1961 |accessdate=2010-10-06 |archive-date=2011-08-14 |archive-url=https://web.archive.org/web/20110814181522/http://ftp.arl.mil/~mike/comphist/eniac-story.html |url-status=dead }} < /ref >  was a [[computer]] built between 1943 and 1946. It was designed by two people called John Mauchly and J. Presper Eckert. The machine was built out of nearly 17,500 [[vacuum tube]]s, < ref name=kilbylecture > {{Cite journal| title=Turning Potential into Realities: The Invention of the Integrated Circuit 
+ |journal = ChemPhysChem | author = St. Clair Kilby, Jack |page=483 |volume=2 |issue=8–9 
+ |date=17 September 2001|url= http://onlinelibrary.wiley.com/doi/10.1002/1439-7641(20010917)2:8/9%3C482::AID-CPHC482%3E3.0.CO;2-Y/pdf |publisher=Wiley Online Library |doi = 10.1002/1439-7641(20010917)2:8/9 < 482::AID-CPHC482 > 3.0.CO;2-Y |pmid = 23686985 |accessdate=2010-10-05|format=pdf}} < /ref >  7,200 [[diode]]s and many miles of [[wire]]. < ref > {{cite web|url=http://ed-thelen.org/comp-hist/BRL-e-h.html|title=Ballistic Research Laboratories Report № & nbsp;971 & nbsp;— A Survey of Domestic Electronic Digital Computing Systems & nbsp;— page 41|author=Weik, Martin H. |publisher=US Department of Commerce|date=December 1955|accessdate=2010-10-05}} < /ref >  It took up {{convert|1800|sqft|m2|lk=on}} of space, which is the size of a large room. < ref name=BRLreport > {{cite web|author=Weik, Martin H.|url=http://ed-thelen.org/comp-hist/BRL-e-h.html|title=Ballistic Research Laboratories Report № & nbsp;971 & nbsp;— A Survey of Domestic Electronic Digital Computing Systems & nbsp;— page 41|publisher=US Department of Commerce|date=December 1955|accessdate=2009-04-16}} < /ref > 
+ == Background == 
+ The history of computers is complex, and many machines have been identified as the  " first computer " . ENIAC's claim is based on the fact that it was more programmable than previous ones. 
+ 
+ Because the computer was built out of vacuum tubes, it often broke. This meant that someone had to find the failed tube (which was ''not'' an easy job), take the bad tube out and put a working tube in. 
+ 
+ Making [[computer programs|programs]] for the computer was difficult. Making the computer ready for one single program could take many days or even weeks. This was because the [[programming]] had to be done by pulling wires from one place to another. This was not hard for small programs, but if a large program was wanted, it was very hard work. Programming by pulling wires was used until 1948, when a special type of memory was added (called [[Read-only memory|Read Only Memory]] (ROM), because the computer could read it but not write it). After that, [[programming]] was done by using [[switch]]es, which only took hours instead of days. 
+ 
+ == History == 
+ The ENIAC was first designed to print firing tables for U.S. Army [[artillery]], but [[World War II|the war]] ended before the machine was completed. Instead, its first real job (not test) was to calculate how [[neutron]]s would go through various materials. This was needed in making a [[Nuclear weapon|hydrogen bomb]]. ENIAC took 70 hours to work out [[Pi (mathematical constant)|pi]] to 2000 decimal places. A modern PC with a [[CPU]] of the size of 2x2 cm is much faster than ENIAC, which used up a whole room of space. For an example, a modern PC can work out a million (1,000,000) decimal places of pi in about ten seconds. 
+ 
+ ENIAC was shut down forever on October 2, [[1955]]. < ref name=ENIACstory/ >  Now, only about 10 panels of the 40 exist. Although the original is shut down, programs written for the ENIAC can still be run on a modern computer using an [[emulator]]. 
+ 
+ ==Sources== 
+ {{Reflist}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Historical computers‎]] 
+ 
+ 
+ {{Tech-stub}}

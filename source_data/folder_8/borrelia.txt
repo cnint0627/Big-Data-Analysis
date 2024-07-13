@@ -1,0 +1,21 @@
+{{italictitle}} 
+ {{taxobox 
+ | name = ''Borrelia'' 
+ | image = Borrelia burgdorferi (CDC-PHIL -6631) lores.jpg 
+ | regnum = [[Bacteria]] 
+ | phylum = [[Spirochaete]]s 
+ | order = [[Spirochaete|Spirochaetales]] 
+ | familia = [[Spirochaetaceae]] 
+ | genus = '''''Borrelia'''''}} 
+ 
+ '''''Borrelia''''' is a [[Spirochaetaceae|spirochaete]] [[bacterium]] which causes [[Lyme disease]].  
+ 
+ Today, 36 species of ''Borrelia'' are known. 12 of these cause [[borreliosis]], a [[zoonosis|zoonotic]], [[Vector (biology)|vector]]-borne disease transmitted primarily by [[tick]]s or [[louse|lice]]. The vector of transmission is dependent on the species of ''Borrelia''. < ref name= " SamuelsRadolf " > {{cite book|url=https://archive.org/details/borreliamolecula0000unse|title=''Borrelia'': molecular biology, host interaction and pathogenesis|publisher=Caister Academic Press|year=2010|isbn=978-1-904455-58-5|editor-last=Samuels DS|editor-last2=Radolf JD}} < /ref >  Borreliosis is also known as Lyme disease. ''[[Borrelia burgdorferi]]'' and ''[[Borrelia afzelii]]'' are among the species that cause Lyme disease. Other species such as ''[[Borrelia hermsii]]'' or ''[[Borrelia parkeri]]'' cause [[relapsing fever]]. In this case, the vector are ticks, which are spread by [[rodent]]s. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Gram-negative bacteria]]

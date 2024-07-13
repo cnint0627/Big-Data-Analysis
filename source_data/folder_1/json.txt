@@ -1,0 +1,66 @@
+'''JSON''' ('''[[JavaScript]] [[object oriented programming|Object]] [[wikt:notation|Notation]]''') is a way of [[wikt:express|express]]ing [[information]]. < ref name= " rfc4627 " > {{cite web|url=http://datatracker.ietf.org/doc/rfc4627/?include_text=1 |title=RFC 4627 |publisher=Datatracker.ietf.org |date=2011-10-26 |accessdate=2011-10-31}} < /ref >   JSON is usually easy to understand.  It can express information like [[XML]]. < ref > {{Cite web|date=2022-07-30|title=What is the JSON format? {{!}} Data Basecamp|url=https://databasecamp.de/en/data/json-en|access-date=2022-08-11|language=en-US}} < /ref >   It is based on JavaScript's notation for object literals. < ref name= " jsonorg " > {{cite web|url=http://www.json.org/ |title=JSON |publisher=JSON |accessdate=2011-10-31}} < /ref >   However, JSON is stricter. < ref name= " jsonorg "  / >    
+ 
+ JSON and XML are both often used in [[AJAX]]. < ref > {{cite web |url=http://ajaxonomy.com/2010/xml/json-beats-xml-or-ajaj-vs-ajax |title=JSON Beats XML, or Ajaj vs Ajax |publisher=Ajaxonomy |date=2010-12-07 |accessdate=2011-10-31 |archive-date=2011-10-14 |archive-url=https://web.archive.org/web/20111014101740/http://ajaxonomy.com/2010/xml/json-beats-xml-or-ajaj-vs-ajax |url-status=dead }} < /ref >  Even though JSON is named after JavaScript, it can be used in other [[programming language]]s, such as [[Python (programming language)|Python]] ([[:en:PHP|PHP]], etc.) < ref > {{cite web|url=http://docs.python.org/library/json.html |title=18.2. json — JSON encoder and decoder — Python v2.7.2 documentation |publisher=Docs.python.org |accessdate=2011-10-31}} < /ref > 
+ 
+ == Example == 
+ This is an example of JSON: 
+ < syntaxhighlight lang= " javascript " > 
+ { 
+       " firstName " :  " John " , 
+       " lastName "  :  " Smith " , 
+       " age "       : 25, 
+       " address "   : 
+      { 
+           " streetAddress " :  " 21 2nd Street " , 
+           " city "          :  " New York " , 
+           " state "         :  " NY " , 
+           " postalCode "    :  " 10021 " 
+      }, 
+       " phoneNumber " : 
+      [ 
+          { 
+             " type "   :  " " , 
+             " number " :  " 212 555-1234 " 
+          }, 
+          { 
+             " type "   :  " fax " , 
+             " number " :  " 646 555-4567 " 
+          } 
+      ] 
+  } 
+ < /syntaxhighlight > 
+ 
+ '''JSON Encoding and Decoding in Python''' 
+ 
+ Encoding: 
+ < syntaxhighlight lang= " python " > 
+ import json 
+ 
+ sampleDict = { 
+    " firstName " :  " John " , 
+    " lastName "  :  " Smith " 
+ } 
+ 
+ sampleJson = json.dumps(sampleDict, indent=4) 
+ < /syntaxhighlight > 
+ 
+ Decoding: 
+ < syntaxhighlight lang= " python " > 
+ import json 
+ 
+ # A JSON string or can be a JSON response 
+ sampleJson =  " " " {  " firstName " :  " John " ,  " lastName "  :  " Smith " } " " " 
+ 
+ sampleDict = json.loads(sampleJson) 
+ print(sampleDict['firstName']) 
+ print(sampleDict['lastName']) 
+ < /syntaxhighlight > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://json.org JSON website] 
+ 
+ {{tech-stub}} 
+ [[Category:JavaScript]]

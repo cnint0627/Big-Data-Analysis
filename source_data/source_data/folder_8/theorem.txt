@@ -1,0 +1,22 @@
+[[File:Pythagorean Proof (3).PNG|thumb|200px|right|The [[Pythagorean theorem]] has at least 370 known proofs. < ref name='Loomis' > For full text of 2nd edition of 1940, see {{cite web|url=http://www.eric.ed.gov/ERICDocs/data/ericdocs2sql/content_storage_01/0000019b/80/32/54/86.pdf|author=Elisha Scott Loomis |title=The Pythagorean proposition: its demonstrations analyzed and classified, and bibliography of sources for data of the four kinds of proofs |accessdate=2010-05-04 |work=[[Education Resources Information Center]] |publisher=[[Institute of Education Sciences]] (IES) of the [[U.S. Department of Education]] }} Originally published in 1940 and reprinted in 1968 by National Council of Teachers of Mathematics. < /ref > ]] 
+ A '''theorem''' is a proven idea in [[mathematics]]. Theorems are proved using [[logic]] and other theorems that have already been proved. A minor theorem that one must prove to prove a major theorem is called a [[lemma]]. < ref > {{Cite web|date=2019-08-01|title=The Definitive Glossary of Higher Mathematical Jargon|url=https://mathvault.ca/math-glossary/|access-date=2020-10-10|website=Math Vault|language=en-US}} < /ref >  Theorems are made of two parts: [[hypothesis|hypotheses]] and conclusions.  
+ 
+ Theorems use [[deduction]], in contrast to [[theory|theories]] which are [[Empiricism|empirical]]. < ref > However, both theorems and theories are investigations. See {{harvnb|Heath|1897}} Introduction, The terminology of [[Archimedes]], p. clxxxii: " theorem (θεὼρνμα) from θεωρεἳν to investigate " < /ref > 
+ 
+ Some theorems are trivial, since they directly follow from the propositions. Other theorems are called  " deep " , because their proof is long and difficult. Sometimes, such proofs involve other areas of mathematics or show connections between different areas. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Deep Theorem|url=https://mathworld.wolfram.com/DeepTheorem.html|access-date=2020-10-10|website=mathworld.wolfram.com|language=en}} < /ref >  A theorem might be simple to state and yet be deep. An excellent example is [[Fermat's Last Theorem]], and there are many other examples of simple yet deep theorems in [[number theory]] and [[combinatorics]] (among other areas).  
+ 
+ There are other theorems for which a proof is known, but cannot be easily written down. Among the best examples are the [[four color theorem]] and the [[Kepler conjecture]]. Both of these theorems are only known to be true by reducing them to a computational search which is then verified by a computer program. At first, many mathematicians did not accept this form of proof, but it has become more widely accepted over the years. The mathematician [[Doron Zeilberger]] has even gone so far as to claim that these are possibly the only nontrivial results that mathematicians have ever proved. < ref > {{Cite web|title=Doron Zeilberger's 51st Opinion|url=https://sites.math.rutgers.edu/~zeilberg/Opinion51.html|access-date=2020-10-10|website=sites.math.rutgers.edu}} < /ref >  Many mathematical theorems can be reduced to simpler computations, including polynomial identities, [[Trigonometric Identities|trigonometric identities]] and hypergeometric identities. < ref > Petkovsek et al. 1996. < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[Proposition]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Books== 
+ * {{Citation|authorlink=Archimedes|title=The works of Archimedes|last=Heath|first=Sir Thomas Little|publisher=Dover|year=1897|url=https://books.google.com/books?id=FIY5AAAAMAAJ & q=theorem|accessdate=2009-11-15}} 
+ * {{cite book|title = The Man Who Loved Only Numbers: The Story of Paul Erdős and the Search for Mathematical Truth|author = Hoffman, P.|publisher = Hyperion, New York| year = 1998}} 
+ * {{Cite book|url=https://www.worldcat.org/oclc/1129744105|title=A = B|last=Petkovsek|first=Marko|date=2019|publisher=AK Peters|isbn=978-0-367-44871-4|oclc=1129744105}} 
+ 
+ [[Category:Mathematical theorems| ]]

@@ -1,0 +1,46 @@
+{{Regular polygon db|Regular polygon stat table|p50}} 
+ In [[geometry]], a '''pentacontagon''' or '''pentecontagon''' or 50-gon is a fifty-sided [[polygon]]. < ref > {{cite book| last = Gorini| first = Catherine A.| title = The Facts on File Geometry Handbook| url = https://books.google.com/books?id=PlYCcvgLJxYC & pg=PA120| year = 2003| publisher = Infobase Publishing| isbn = 978-1-4381-0957-2| page = 120 }} < /ref > < ref > {{cite book| last = Peirce| first = Charles Sanders| title = The New Elements of Mathematics: Algebra and geometry| url = https://books.google.com/books?id=wALvAAAAMAAJ| year = 1976| publisher = Mouton Publishers| page = 298 | isbn = 9780391006126}} < /ref >  The sum of any pentacontagon's interior angles is 8640 degrees. 
+ 
+ == Regular pentacontagon == 
+ A ''[[regular polygon|regular]] pentacontagon'' is represented by [[Schläfli symbol]] {50} and can be constructed as a quasiregular [[Truncation (geometry)|truncated]] icosipentagon, t{25}, which alternates two types of edges. 
+ 
+ === Area === 
+ One interior angle in a regular pentacontagon is 172{{frac|4|5}}°, meaning that one exterior angle would be 7{{frac|1|5}}°. 
+ 
+ The [[area]] of a regular pentacontagon is (with {{nowrap|''t'' {{=}} edge length}}) 
+ : < math > A = \frac{25}{2}t^2 \cot \frac{\pi}{50} < /math > 
+ 
+ and its [[inradius]] is 
+ : < math > r = \frac{1}{2}t \cot \frac{\pi}{50} < /math > 
+ 
+ The [[circumradius]] of a regular pentacontagon is 
+ 
+ : < math > R = \frac{1}{2}t \csc \frac{\pi}{50} < /math > 
+ 
+ Since 50 = 2 × 5 < sup > 2 < /sup > , a regular pentacontagon is not [[constructible polygon|constructible]] using a [[compass and straightedge]], < ref > [http://mathworld.wolfram.com/ConstructiblePolygon.html Constructible Polygon] < /ref >  and is not constructible even if the use of an [[angle trisector]] is allowed. < ref name= " Eekhoff " > {{cite web |url=http://www.math.iastate.edu/thesisarchive/MSM/EekhoffMSMSS07.pdf |title=Archived copy |access-date=2015-02-19 |url-status=dead |archive-url=https://web.archive.org/web/20150714082609/http://www.math.iastate.edu/thesisarchive/MSM/EekhoffMSMSS07.pdf |archive-date=2015-07-14 }} < /ref > 
+ 
+ == Dissection== 
+ [[File:50-gon rhombic dissection-size2.svg|thumb|50-gon with 1200 rhombs]] 
+ [[Coxeter]] states that every [[zonogon]] (a 2''m''-gon whose opposite sides are parallel and of equal length) can be dissected into ''m''(''m''-1)/2 parallelograms. < ref > [[Coxeter]], Mathematical recreations and Essays, Thirteenth edition, p.141 < /ref > 
+ In particular this is true for regular polygons with evenly many sides, in which case the parallelograms are all rhombi. For the ''regular pentacontagon'', ''m''=25, it can be divided into 300: 12 sets of 25 rhombs. This decomposition is based on a [[Petrie polygon]] projection of a [[25-cube]]. 
+ 
+ {| class=wikitable 
+ |+ Examples 
+ |[[File:50-gon rhombic dissection.svg|160px]] 
+ |[[File:50-gon-dissection-star.svg|160px]] 
+ |[[File:50-gon rhombic dissection2.svg|160px]] 
+ |[[File:50-gon rhombic dissectionx.svg|160px]] 
+ |} 
+ 
+ ==References== 
+ {{reflist}} 
+ * {{Mathworld|title=Pentacontagon|urlname=Pentacontagon}} 
+ * [http://mathforum.org/dr.math/faq/faq.polygon.names.html Naming Polygons and Polyhedra] 
+ * {{cite book| last = Finkel| first = Benjamin Franklin| title = A Mathematical Solution Book Containing Systematic Solutions to Many of the Most Difficult Problems: Taken from the Leading Authors on Arithmetic and Algebra, Many Problems and Solutions from Geometry, Trigonometry and Calculus, Many Problems and Solutions from the Leading Mathematical Journals of the United States, and Many Original Problems and Solutions| url = https://books.google.com/books?id=ugBDAAAAIAAJ| year = 1888| publisher = Kibler}} 
+ 
+ {{Polygons}} 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Polygons|50]]

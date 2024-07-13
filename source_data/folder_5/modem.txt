@@ -1,0 +1,22 @@
+[[Image:fax modem antigo.jpg|thumb|A 14,400 baud dial-up modem made by USRobotics (1994)|alt=]] 
+ A '''modem''' (comes from: '''mo'''dulator '''dem'''odulator) is a piece of [[computer hardware]]. It is used to [[communicate]] between distant computers. Two modems, one on each computer, are required to make a connection, and each modem can send and receive [[Information|data]] to and from the other modem.  
+ 
+ * Modulation is changing the [[digital]] data from a computer to [[analog signal|analog]] data ([[Audio signal|audio]] tones or [[sound]]s) to be sent over [[telephone]] lines. < ref name=ms  > {{cite book|title=The Internet Made Simple|first=P. K.|last=McBride|edition=Second|date=1999|publisher=Made Simple|page=18|isbn=9780750645768}} < /ref > 
+ * Demodulation is changing the analog data which is received over the telephone lines to digital data to be used by the computer. < ref name=ms / > 
+     
+ Modems are classified by the amount of data they can send in a given time, normally measured in bits per second (bit/s, bps, or baud). They are also classified by their connection method. [[Dial-up]] modems were the usual kind in the [[20th century]], and [[DSL]] modems and [[Cable TV]] modems are now more used.  
+ 
+ Modems that connect to the computer by a cable are called external modems. Modems that go inside the computer are internal modems. Some internal modems are part of the [[motherboard]]; others are inserted into the computer on a PC card. Most DSL and cable modems are external. 
+ 
+ Many modems are used to connect to the [[Internet]] through [[telephone]] service or [[cable television]] service. Slow telephone service is called [[dial-up]] (maximum 56,000 bits per second). Faster telephone service is called [[DSL]] and is usually more than ten times faster. Cable modems connect through [[cable television]], and are similarly fast.  
+ 
+ A Consumer Electronics Association study in 2006 found that dial-up Internet access is on a decline in the [[United States]]. In 2000, dial-up Internet connections accounted for 74% of all U.S. residential Internet connections. This decline has been more or less mirrored in Canada and Australia. 
+ 
+ Dial-up modem use in the US dropped to 60% by 2003, and in 2006 stood at 36%. Voiceband modems were once the most popular means of [[Internet]] access in the U.S. But as more homes adopted faster ways of accessing the Internet, the traditional 56K modem is losing popularity. 
+ 
+ ==References== 
+ < references / > 
+ 
+ 
+ [[Category:Computer hardware]] 
+ [[Category:Telecommunications]]

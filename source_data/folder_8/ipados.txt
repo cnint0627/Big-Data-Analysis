@@ -1,0 +1,65 @@
+{{lowercase title}} 
+ {{Infobox OS 
+ | name = iPadOS 
+ | logo = IPadOS wordmark.svg 
+ | logo size = 200px 
+ | logo caption = Logo 
+ | screenshot =  
+ | screenshot_size =  
+ | screenshot_alt =  
+ | caption =  
+ | developer = [[Apple Inc.]] 
+ | programmed_in = [[C (programming language)|C]], [[C++]], [[Objective-C]], [[Swift (programming language)|Swift]], [[assembly language]] 
+ | family = [[Unix-like]], < !--Although not considered functional or branded UNIX, iOS is still genetic UNIX-- >  based on [[Darwin (operating system)|Darwin]] ([[Berkeley Software Distribution|BSD]]), [[iOS]] 
+ | working_state = Current 
+ | source_model = [[Proprietary software|Closed source]] 
+ | released = {{Start date and age|2019|09|24}} < ref > {{cite web|url=https://www.apple.com/ipados/|title=iPadOS|website=[[Apple Inc.]]}} < /ref > 
+ | marketing_target = [[Tablet computer]]s 
+ | language count =  
+ | language footnote =  
+ | language = 40 languages < ref > {{cite web |url=https://www.apple.com/ipad-pro/specs/ |title=Apple – iPad Pro – Specs |publisher=[[Apple Inc.]] |access-date=January 4, 2019 |archive-url=https://web.archive.org/web/20190104051324/https://www.apple.com/ipad-pro/specs/ |archive-date=January 4, 2019 |url-status=live  }} < /ref > < ref > {{cite web |url=https://www.apple.com/ipad-mini-4/specs/ |title=Apple – iPad mini 4 – Specs |publisher=[[Apple Inc.]] |access-date=October 24, 2015 |archive-url=https://web.archive.org/web/20151024031402/http://www.apple.com/ipad-mini-4/specs/ |archive-date=October 24, 2015  }} < /ref > < ref > {{cite web|url=https://www.apple.com/ipad-air-2/specs/|title=Apple – iPad Air 2 – Technical Specifications|publisher=[[Apple Inc.]]|access-date=October 24, 2015|archive-url=https://web.archive.org/web/20151026051534/http://www.apple.com/ipad-air-2/specs/|archive-date=October 26, 2015}} < /ref > < ref > {{cite web|url=https://www.apple.com/iphone-xs/specs/|title=Apple – iPhone XS – Technical Specifications|publisher=[[Apple Inc.]]|access-date=January 4, 2019|archive-url=https://web.archive.org/web/20190104041336/https://www.apple.com/iphone-xs/specs/|archive-date=January 4, 2019}} < /ref > 
+ | updatemodel = [[Over-the-air programming|OTA]], Software Update, [[App Store (iOS)|App Store]] 
+ | supported_platforms = {{plain list| 
+ * [[iPad Air 2]] 
+ * [[iPad Air (2019)|iPad Air (3rd generation)]] 
+ * [[iPad Air (2020)|iPad Air (4th generation)]] 
+ * [[iPad Air (2022)|iPad Air (5th generation)]] 
+ * [[iPad (2017)|iPad (5th generation)]] 
+ * [[iPad (2018)|iPad (6th generation)]] 
+ * [[iPad (2019)|iPad (7th generation)]] 
+ * [[iPad (2020)|iPad (8th generation)]] 
+ * [[iPad (2021)|iPad (9th generation)]] 
+ * [[iPad Mini 4]] 
+ * [[iPad Mini (5th generation)]] 
+ * [[iPad Mini (6th generation)]] 
+ * [[iPad Pro|iPad Pro 9.7-inch]] 
+ * [[iPad Pro|iPad Pro 10.5-inch]] 
+ * [[iPad Pro|iPad Pro 11-inch (2018) (1st generation)]] 
+ * [[iPad Pro|iPad Pro 11-inch (2020) (2nd generation)]] 
+ * [[iPad Pro|iPad Pro 11-inch (2021) (3rd generation)]] 
+ * [[iPad Pro|iPad Pro 12.9-inch (2015) (1st generation)]] 
+ * [[iPad Pro|iPad Pro 12.9-inch (2017) (2nd generation)]] 
+ * [[iPad Pro|iPad Pro 12.9-inch (2018) (3rd generation)]] 
+ * [[iPad Pro|iPad Pro 12.9-inch (2020) (4th generation)]] 
+ * [[iPad Pro|iPad Pro 12.9-inch (2021) (5th generation)]] 
+   }} 
+ | kernel_type = [[Hybrid kernel|Hybrid]] ([[XNU]]) 
+ | ui = [[Cocoa Touch]] ([[multi-touch]], [[graphical user interface|GUI]]) 
+ | license = [[Proprietary software]] except for open-source components 
+ | website = {{URL|https://www.apple.com/ipados/}} 
+ | support_status = Supported 
+ | other articles = [[iOS 13]] (comes from) 
+ | bodystyle = width:315px; 
+ | preceded_by = [[iOS 12]] 
+ }} 
+ '''iPadOS''' is a [[mobile operating system]] made by [[Apple Inc.]] for [[iPad]] [[tablet computer]]s. It was released on September 24, 2019. It replaced [[iOS 12]]. < ref name = AppleInsider > {{Cite web|url=https://appleinsider.com/articles/19/06/03/apple-supplements-ios-13-with-new-tablet-specific-ipad-os-branch|title=Apple unveils iPadOS, adding features specifically to iPad|first=Mike |last = Wuerthele|date=June 3, 2019|website=[[AppleInsider]]|access-date=June 3, 2019 }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:IPad]] 
+ [[Category:Apple software]] 
+ [[Category:Operating systems]]

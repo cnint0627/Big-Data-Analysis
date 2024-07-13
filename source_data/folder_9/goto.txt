@@ -1,0 +1,26 @@
+{{lowercase title}} 
+ '''goto''' is a [[statement]] in many [[programming language]]s. It is a combination of the English words ''[[wiktionary:go|go]]'' and ''[[wiktionary:to|to]]''. It is a way to jump to another line of code. 
+ 
+ Many languages support the  < tt > goto < /tt >  statement, and many do not. In [[Java (programming language)|Java]],  < tt > goto < /tt >  is a [[reserved word]], but cannot be used. < ref > {{cite web |quote= The keywords const and goto are reserved, even though they are not currently used. This may allow a Java compiler to produce better error messages if these C++ keywords incorrectly appear in programs. |title= The Java Language Specification, Third Edition |url= http://java.sun.com/docs/books/jls/third_edition/html/lexical.html#3.9 }} < /ref > < ref > {{cite web |quote= Unlike C and C++, the Java programming language has no goto statement; identifier statement labels are used with break (§14.15) or continue (§14.16) statements appearing anywhere within the labeled statement. |title= The Java Language Specification, Third Edition |url= http://java.sun.com/docs/books/jls/third_edition/html/statements.html#14.7 }} < /ref >  (A ''reserved word'' is a word that is a ''part'' of the programming language and cannot be used for other things like naming [[variable]]s.) 
+ 
+ In [[Computer Science]], there is a theory called the [[structured program theorem]]. This theory says that any program can be written in such a way that things are done with ''[[function]]s'' and ''[[Method (computer science)|method]]s'' (smaller sub-programs) instead of in one very big program and ''goto'' statements. The theory proves that the  < tt > goto < /tt >  statement is not needed to write programs. 
+ 
+ == Use == 
+ A goto statement is usually used with a ''label''. A label is a word that identifies a place in a piece of code. A goto statement in code usually looks like this: 
+ 
+  '''goto''' ''LABEL'' 
+ 
+ In this example, the computer would jump to the location of ''LABEL''. 
+ 
+ Many times the goto statement is, [[combine]]d with the [[if statement]]. In this case, the computer will only jump to another place in the code if something is true. For example: 
+ 
+  '''IF''' ''condition'' '''THEN goto''' ''LABEL'' 
+ 
+ This can be read as  " if ''some condition is true'', then go to the location of ''LABEL''. " 
+ 
+ Different programming languages have different [[restriction]]s or limits on the use of goto statements. For example, the [[C programming language]] does not allow a goto to jump to a location inside of another function (subprogram). 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Computer programming]]

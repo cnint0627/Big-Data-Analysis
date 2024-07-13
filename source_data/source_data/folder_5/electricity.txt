@@ -1,0 +1,72 @@
+{{Electromagnetism}} 
+ '''Electricity''' is the presence and flow of [[electric charge|electric current]]. Using electricity, we can transfer energy in ways that allow us to do simple chores. < ref > {{Cite web|url = http://www.merriam-webster.com/dictionary/electricity|title = Full Definition of electricity|first = |last = |access-date = January 12, 2016|website = Merriam-Webster Dictionary|publisher = Merriam-Webster}} < /ref >  Its best-known form is the flow of [[electrons]] through conductors such as [[copper]] [[wire]]s. 
+ 
+ The word  " electricity "  is sometimes used to mean  " electrical [[energy]] " . They are not the same thing: electricity is a [[transmission medium]] for electrical energy, like sea water is a transmission medium for wave energy. An item which allows electricity to move through it is called a [[electrical conductor|conductor]]. [[Copper]] wires and other metal items are good conductors, allowing electricity to move through them and transmit electrical energy. Plastics are a poor conductor (they are [[insulator]]s) and don't allow much electricity to move through them. They stop the transmission of electrical energy. 
+ 
+ Electrical energy can be made naturally (such as [[lightning]]), or by people (such as in a [[generator]]). It can be used to power [[machine]]s and [[Electronics|electrical devices]]. When electrical charges are not moving, electricity is called [[static electricity]]. When the charges are moving they are an [[electric current]], sometimes called 'dynamic electricity'. Lightning is the most known - and dangerous - kind of electric current in [[nature]], but sometimes static electricity causes things to stick together in nature as well. 
+ 
+ Electricity can be dangerous, especially around [[water]] because water is a form of good conductor as it has impurities like [[salt]] in it. Salt can help electricity flow. Since the nineteenth century, electricity has been used in every part of our lives. Until then, it was just a curiosity seen in the lightning of a [[thunderstorm]]. 
+ 
+ Electrical energy can be created if a [[magnet]] passes close to a metal wire. This is the method used by a [[generator]]. The biggest generators are in [[power station]]s. Electrical energy can also be released by combining [[chemicals]] in a jar with two different kinds of [[metal]] rods. This is the method used in a [[battery]]. [[Static electricity]] can be created through the friction between two materials - for instance a wool cap and a plastic ruler. This may make a [[spark]]. Electrical energy can also be created using energy from the sun, as in [[photovoltaic]] cells. 
+ 
+ Electrical energy arrives at homes through [[wire]]s from the places where it is made. It is used by [[electric lamp]]s, electric [[heating|heater]]s, etc. Many [[appliance]]s such as [[washing machine]]s and electric cookers use electricity. In factories, electrical energy powers [[machine]]s. People who work with electricity and electrical devices in homes and factories are called  " [[electrician]]s " . 
+ 
+ == History == 
+ The idea of electricity, or the fact that amber acquires the power to attract light objects when rubbed, may have been known to the Greek philosopher [[Thales|Thales of Miletus]], who lived about 600 B.C. 
+ 
+ Another Greek philosopher, [[Theophrastus]], stated in a treatise that this power is possessed by other substances. 
+ 
+ The first scientific study of electrical and magnetic happenings, however, did not appear until A.D. 1600, from research done by the English physician William Gilbert. Gilbert was the first to apply the term ''electric'' (Greek, ''elektron'',  " amber " ) to the force that substances exerted after being rubbed. He also distinguished between magnetic and electric action. 
+ 
+ [[Benjamin Franklin|Ben Franklin]] spent much time in electrical research. His famous kite experiment proved that the atmospheric electricity (that causes the phenomena of lightning and thunder) is identical with the electrostatic charge on a Leyden jar. Franklin developed his theory that electricity is a single  " fluid "  existing in all matter, and that its effects can be explained by excesses and shortages of this fluid. 
+ 
+ == How electricity works == 
+ There are two types of electric charges that push and pull on each other: positive charges and negative charges. Electric charges push or pull on each other if they are not touching. This is possible because each charge makes an '''[[electric field]]''' around itself. An electric field is an area that surrounds a charge. At each point near a charge, the electric field points in a certain direction. If a positive charge is put at that point, it will be pushed in that direction. If a negative charge is put at that point, it will be pushed in the exact opposite direction. 
+ 
+ It works like [[magnet]]s, and in fact, electricity creates a [[magnetic field]], in which similar charges repel each other and opposite charges attract. This means that if you put two negatives close together and let them go, they would move apart. The same is true for two positive charges. But if you put a positive charge and a negative charge close together, they would pull towards each other. A short way to remember this is the phrase '''opposites attract, likes repel.''' 
+ 
+ All the matter in the [[universe]] is made of tiny [[particles]] with positive, negative or [[neutral]] charges. The positive charges are called [[proton]]s, and the negative charges are called [[electron]]s. Protons are much heavier than electrons, but they both have the same amount of electric charge, except that protons are positive and electrons are negative. Because  " opposites attract, "  protons and electrons stick together. A few protons and electrons can form bigger particles called [[atom]]s and [[molecule]]s. Atoms and molecules are still very tiny. They are too small to see. Any large object, like your finger, has more atoms and molecules in it than anyone can count. We can only [[estimate]] how many there are.  < !-- Is the paragraph necessary in this context? -- > 
+ 
+ Because negative electrons and positive protons stick together to make big objects, all big objects that we can see and feel are electrically neutral. ''Electrically'' is a word meaning  " describing electricity " , and ''neutral'' is a word meaning  " balanced. "  That is why we do not feel objects pushing and pulling on us from a distance, as they would if everything was electrically charged. All big objects are electrically neutral because there is the same amount of positive and negative charge in the world. We could say that the world is exactly balanced, or neutral. Scientists still do not know why this is so. 
+ 
+ == Electric current == 
+ [[File:Ampe ke.gif|thumb|upright|A drawing of an [[electrical circuit]]: the current (I) flows from + round the circuit back to -]] 
+ [[File:Electric wiring near Helsinki.JPG|thumb|Electricity is sent on wires.]] 
+ 
+ The electrons can move all around the material. Protons never move around a solid object because they are so heavy, at least compared to the electrons. A material that lets electrons move around is called a '''conductor.''' A material that keeps each electron tightly in place is called an '''[[Insulator (electricity)|insulator]].''' Examples of conductors are copper, aluminum, silver, and gold. Examples of insulators are rubber, plastic, and wood. [[Copper]] is used very often as a conductor because it is a very good conductor and there is so much of it in the world. Copper is found in electrical wires. But sometimes, other materials are used. 
+ 
+ Inside a conductor, [[electrons]] bounce around, but they do not keep going in one direction for long. If an electric field is set up inside the conductor, the electrons will all start to move in the direction opposite to the direction the field is pointing (because electrons are negatively charged). A battery can make an electric field inside a conductor. If both ends of a piece of wire are connected to the two ends of a battery (called the ''electrodes''), the loop that was made is called an '''[[electrical circuit]].''' Electrons will flow around and around the circuit as long as the battery is making an electric field inside the wire. This flow of electrons around the circuit is called '''electric current.''' 
+ 
+ A conducting wire used to carry electric current is often wrapped in an insulator such as rubber. This is because wires that carry current are very dangerous. If a person or an animal touched a bare wire carrying current, they could get hurt or even die depending on how strong the current was and how much electrical energy the current is transmitting. You should be careful around electrical sockets and bare wires that might be carrying current. 
+ 
+ It is possible to connect an electrical device to a circuit so that electrical current will flow through a device. This current will transmit electrical energy to make the device do something that we want it to do. Electrical devices can be very simple. For example, in a [[light bulb]], current carries energy through a special wire called a filament, which makes it glow. Electrical devices can also be very complicated. Electrical energy can be used to drive an [[electric motor]] inside a tool like a drill or a pencil sharpener. Electrical energy is also used to power modern electronic devices, including [[telephones]], computers, and televisions. 
+ 
+ === Some terms related to electricity === 
+ Here are a few terms that a person can come across when studying how electricity works. The study of electricity and how it makes electrical circuits possible is called [[electronics]]. There is a field of [[engineering]] called [[electrical engineering]], where people come up with new things using electricity. All of these terms are important for them to know. 
+ * [[Electric current|Current]] is the amount of electric charge that flows. When 1 [[coulomb]] of electricity moves past somewhere in 1 second, the current is 1 [[ampere]]. To measure current at one point, we use an [[ammeter]]. 
+ * [[Electric voltage|Voltage]], also called  " potential difference " , is the  " push "  behind the current. It is the amount of work per electric charge that an electric source can do. When 1 coulomb of electricity has 1 [[joule]] of energy, it will have 1 [[volt]] of electric potential. To measure voltage between two points, we use a [[voltmeter]]. 
+ * [[Electrical resistance|Resistance]] is the ability of a substance to  " slow "  the flow of the current, that is, to reduce the rate at which the charge flows through the substance. If an electric voltage of 1 volt maintains a current of 1 ampere through a wire, the resistance of the wire is 1 [[ohm]] - this is called [[Ohm's law]]. When the flow of current is opposed, energy gets  " used up "  which means it is converted to other forms (such as light, heat, sound or [[movement]]) 
+ * [[Electrical energy]] is the ability to do work by means of electric devices. Electric energy is a  " conserved "  property, meaning that it behaves like a substance and can be moved from place to place (for example, along a transmission medium or in a battery). Electric energy is measured in [[joules]] or [[kilowatt]]-hours (kWh). 
+ * [[Electric power]] is the rate at which electric energy is being used, stored, or transferred. Flow of electrical energy along [[power line]]s are measured in [[watt]]s. If the electric energy is being converted to another form of energy, it is measured in watts. If some of it is converted and some of it is stored, it is measured in [[volt-ampere]]s, or if it is stored (as in electric or magnetic fields), it is measured in volt-ampere reactive. 
+ * [[File:Switch box.jpg|thumb|domestic switch]]Switch:the switch is a device that aid in the flow of electriicity.When the switch  is turn on, electrical current flow and when its turn of the electrical current stop flowing. The switch can be small for domestic purposes and large switch for industrial purpose for the various substations 
+ 
+ [[File:Dornbirn-Kaco-DC-switch-01ASD.jpg|thumb|example of electrical switch]] 
+ 
+ == Generating electrical energy == 
+ [[File:Edison Central Station Dynamos and Engine.jpg|thumb|Steam engine in center drives two generators at its sides, late 19th century]] 
+ Electrical energy is mostly generated in places called [[power station]]s. Most power stations use heat to boil water into [[steam]] which turns a [[steam engine]]. The steam engine's [[turbine]] turns a machine called a '[[generator]]'. Coiled wires inside the generator are made to spin in a [[magnetic field]]. This causes electricity to flow through the wires, carrying electrical energy. This process is called [[electromagnetic induction]]. [[Michael Faraday]] discovered how to do this. 
+ 
+ Many sources of heat can be used to boil water for generators. Heat sources may use [[renewable energy]] resources in which the supply of heat energy never runs out and [[non-renewable resource|non-renewable energy resources]] in which the supply will be eventually used up. 
+ 
+ Sometimes a natural flow, such as [[wind power]] or [[Hydropower|water power]], can be used directly to turn a generator so no heat is needed. 
+ 
+ ==References== 
+ {{commonscat}} 
+ {{reflist}} 
+ {{authority control}} 
+ 
+ == Other websites == 
+ * [https://en.citizendium.org/wiki/Electricity Electricity] -Citizendium 
+ 
+ [[Category:Basic English 850 words]] 
+ [[Category:Electricity| ]]

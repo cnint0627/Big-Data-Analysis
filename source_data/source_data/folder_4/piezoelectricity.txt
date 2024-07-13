@@ -1,0 +1,13 @@
+'''Piezoelectric''' material generates a small electrical voltage, when its shape is deformed. This can be by as little as a 0.09% change, and can produce 12mAh worth of electricity at 230V (standard power output). It is important to note that the actual values of a piezoelectric material's volume or surface area do not change, as only the ratios of each axis (x, y and z) that are altered. E.g. a cuboid with 20 meters cubed volume can have the normal dimensions 1 meter by 2 meters by 10 meters, and the deformed dimensions 2 meters by 2.5 meters by 4 meters; the volume would remain the same, {{convert|20|m3}}. 
+ 
+ When processed, the piezoelectric crystal become sharper as they get refined through heating and cooling. This process makes the material much more sensitive to changes in pressure, as well as increases their resistance to compressive stress that would impede its ability to function. 
+ 
+ ==Sources== 
+ 
+ {{cite book |series=Andy Boyce |last5=Roberts |first5=David |last4=Cooke |first4=Ernie |last3=Jones |first3=Robert |last2=Mantovani |first2=Bill |last1=Weatherill |first1=Bryan |year=2010 |title=Engineering Level 3, BTEC National |isbn=978-1-84690-724-1 |publisher= Pearson}} 
+ 
+ == Related pages == 
+ *[[Crystal oscillator]] 
+ *[[Pierre Curie]] 
+ 
+ [[Category:Electricity]]

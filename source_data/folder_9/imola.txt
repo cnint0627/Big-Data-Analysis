@@ -1,0 +1,56 @@
+{{Infobox settlement 
+ | name                    = Imola 
+ | native_name             =  
+ | settlement_type         = ''[[Comune]]'' 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           = BOCV  " Rocca Sforzesca di Imola " .jpg 
+ | imagesize               = 265px 
+ | image_caption           = Rocca Sforzesca 
+ | image_flag              = Flag of Imola.svg 
+ | image_seal              = Imola-Stemma.svg 
+ < !-- maps and coordinates -- > 
+ | pushpin_map            = Italy 
+ | pushpin_mapsize        = 265px 
+ | pushpin_label_position =  
+ | pushpin_relief         = yes 
+ | coordinates            = {{coord|44|21|11.8|N|11|42|51.2|E}} 
+ < !-- location -- > 
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{ITA}} 
+ | subdivision_type1       = [[Regions of Italy|Region]] 
+ | subdivision_name1       = {{flag|Emilia-Romagna}} 
+ | subdivision_type2       = [[Provinces of Italy|Province]] 
+ | subdivision_name2       = [[Province of Bologna|Bologna]] 
+ < !-- government type, leaders -- > 
+ | leader_title            = Mayor 
+ | leader_name             = Marco Panieri 
+ < !-- area -- > 
+ | area_total_km2          = 205.0 
+ < !-- population -- > 
+ | population_total        = 67,892 
+ | population_as_of        = October 9, 2011 
+ | population_density_km2  = 331.2 
+ < !-- time zone(s) -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +01:00 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        = Postal code 
+ | postal_code             = 40026 
+ | area_code_type          = Area code 
+ | area_code               = 037032 
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec2         = [[ISO 3166-2:IT|ISO 3166 code]] 
+ | blank_info_sec2         =  
+ | blank1_name_sec2        = Address 
+ | blank1_info_sec2        =  
+ < !-- website, footnotes -- > 
+ | website                 = {{Official|1=https://www.comune.imola.bo.it/}} 
+ }} 
+ 
+ '''Imola''' is an [[Italy|Italian]] city in [[Emilia-Romagna]]. It has about 70,000 people. 
+ 
+ {{Metropolitan City of Bologna}} 
+ 
+ {{europe-stub}} 
+ {{authority control}} 
+ [[Category:Cities in the Metropolitan City of Bologna]]

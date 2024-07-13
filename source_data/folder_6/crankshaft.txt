@@ -1,0 +1,13 @@
+[[Image:Cshaft.gif|300px|thumb|Crankshaft (red), pistons (gray) in their cylinders (blue), and flywheel (black)]] 
+ The '''crankshaft''', sometimes casually called the ''crank'', is the part of an [[engine]] which changes the up and down motion of the [[piston]]s into [[rotation]]. To convert the motion, the crankshaft has one or more offset shafts. The pistons are connected to the crankshaft by these shafts. When the piston moves up and down, it pushes the offset shaft. This in turn rotates the crankshaft. 
+ 
+ The pistons cause a pulsing affect in the rotation. A crankshaft usually connects to a [[flywheel]]. The flywheel smooths out the rotation. Sometimes there is a [[Torsion (twist)|torsion]] or [[vibration]] damper on the other end of the crankshaft. This helps reduce vibrations of the crankshaft.  
+ 
+ Large engines usually have several cylinders. This helps to reduce pulsations from individual firing [[stroke (engines)|strokes]]. For some engines it is necessary to provide counterweights. The [[counterweight]] is used to offset the piston and improve balance. While counterweights add a lot of weight to the crankshaft, it provides a smoother running engine. This allows higher RPMs to be reached and more power produced. 
+ 
+ == Other websites == 
+ *[http://techni.tachemie.uni-leipzig.de/otto/otto_g0_eng.html The FOUR-STROKE CYCLE / OTTO CYCLE] {{Webarchive|url=https://web.archive.org/web/20150629085832/http://techni.tachemie.uni-leipzig.de/otto/otto_g0_eng.html |date=2015-06-29 }} 
+ *[http://kmoddl.library.cornell.edu/index.php Kinematic Models for Design Digital Library (KMODDL)] - Movies and photos of hundreds of working mechanical-systems models at [[Cornell University]]. Also includes an [http://kmoddl.library.cornell.edu/e-books.php e-book library] of classic texts on mechanical design and engineering. 
+ {{Commonscat|Crankshafts}} 
+ 
+ [[Category:Motors]]

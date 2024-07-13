@@ -1,0 +1,42 @@
+'''Geochronology''' is the science of finding the ages of [[rocks]], [[fossils]] and [[sediments]]. It uses a number of methods. < ref > Renne P.R; Ludwig K.R. &  Karner D.B. 1998. Progress and challenges in geochronology. ''Science Progress'', '''83''', 107–121 [https://www.ncbi.nlm.nih.gov/pubmed/10800377] < /ref > < ref > Noller J.S; Sowers J.M. &  Lettis W.R., 2000. ''Quaternary geochronology: methods and applications''. ''American Geophysical Union'',  AGU Reference Shelf 4. < /ref > < ref > Colman S.M; Pierce K.L. &  Birkeland P.W. 1987. Suggested terminology for Quaternary dating methods. ''Quaternary Research'', '''28''', 314–319. < /ref >  Geochronology is the main tool used to get absolute age dates for all fossil assemblages, and for the history of the Earth and other bodies. 
+ 
+ == Dating methods == 
+ === Radiometric dating === 
+ {{main|Radiometric dating}} 
+ By measuring the amount of [[radioactive decay]] of a [[radioactive]] [[isotope]] with a known [[half-life (element)|half-life]], geologists can establish the absolute age of the parent material. A number of radioactive isotopes are used for this purpose, and depending on the rate of decay, are used for dating different geological periods. More slowly decaying isotopes are useful for longer periods of time, but less accurate in absolute years. With the exception of the [[radiocarbon dating|radiocarbon method]], most of these techniques are actually based on measuring an increase in the abundance of a [[radiogenic]] isotope, which is the decay-product of the radioactive parent isotope. < ref > Dickin A.P. 1995. ''Radiogenic isotope geology''. Cambridge University Press. {{ISBN|0-521-59891-5}} < /ref > < ref > Faure G. 1986. ''Principles of isotope geology''. Cambridge University Press. {{ISBN|0-471-86412-9}} < /ref > < ref > Faure G.  &  Mensing D. 2005. ''Isotopes - principles and applications''. 3rd ed, Wiley. {{ISBN|0-471-38437-2}} < /ref >  Two or more radiometric methods can be used in concert to achieve more robust results. < ref > Dalrymple G.B. ''et al'' 1999. Age and thermal history of the Geysers plutonic complex (felsite unit), Geysers geothermal field, California: a  < sup > 40 < /sup > Ar/ < sup > 39 < /sup > Ar and U–Pb study. ''Earth and Planetary Science Letters'', '''173''', 285–298. [https://dx.doi.org/10.1016/S0012-821X(99)00223-X] < /ref >  Most radiometric methods are suitable for geological time only, but some such as the radiocarbon method and the  < sup > 40 < /sup > Ar/ < sup > 39 < /sup > Ar dating method can be extended into the time of early human life < ref > Ludwig K.R. &  Renne P.R. 2000. Geochronology on the paleoanthropological time scale. ''Evolutionary Anthropology'', '''9''', 101-110. [http://www3.interscience.wiley.com/journal/72000094/abstract?CRETRY=1 & SRETRY=0] {{Webarchive|url=https://archive.today/20130105085933/http://www3.interscience.wiley.com/journal/72000094/abstract?CRETRY=1 & SRETRY=0 |date=2013-01-05 }} < /ref >  and into recorded history. < ref > Renne P.R. ''et al'' 1997.  < sup > 40 < /sup > Ar/ < sup > 39 < /sup > Ar dating into the historical realm: Calibration against Pliny the Younger. ''Science'', '''277''', 1279-1280. [http://www.pereplet.ru/gorm/dating/vesuvius.pdf] < /ref > 
+ 
+ Some of the commonly used techniques are: 
+ * [[Radiocarbon dating]]. This technique measures the decay of [[carbon-14]] in organic material and can be best applied to samples younger than about 60,000 years. < ref > {{cite journal |last=Plastino W. 2001. |title=Cosmic background reduction in the radiocarbon measurement by scintillation spectrometry at the underground laboratory of Gran Sasso |journal=Radiocarbon |volume=43 |issue=2A |pages=157–161 |doi=10.1017/S0033822200037954 |s2cid=56275122 |id= |url=https://digitalcommons.library.arizona.edu/objectviewer?o=http%3A%2F%2Fradiocarbon.library.arizona.edu%2Fvolume43%2Fnumber2A%2Fazu_radiocarbon_v43_n2a_157_161_v.pdf|accessdate= |quote= }} < /ref > 
+ * [[Uranium-lead dating]].  This technique measures the ratio of two lead [[isotopes]] (lead-206 and lead-207) to the amount of uranium in a mineral or rock.  Often applied to the trace mineral [[zircon]] in [[igneous]] rocks, this method is one of the two most commonly used (along with [[argon-argon dating]]) for geologic dating.  Uranium-lead dating is applied to samples older than about 1 million years. 
+ * [[Uranium-thorium dating]]. This technique is used to date [[speleothem]]s, [[coral]]s, [[carbonate]]s, and fossil [[bone]]s.  Its range is from a few years to about 700,000 years. 
+ * [[Potassium-argon dating]] and argon-argon dating. These techniques  date [[Metamorphic rock|metamorphic]], [[igneous]] and [[volcanic]] rocks. They are also used to date [[volcanic ash]] layers within or overlying human [[anthropology]] sites.  The younger limit of the argon-argon method is a few thousand years. 
+ * [[Electron spin resonance]] (ESR) dating 
+ 
+ === Cosmogenic nuclides === 
+ A series of techniques to find the age when a surface was created or exposed. Exposure dating uses the concentration of [[nuclide]]s like   < sup > 10 < /sup > Be,  < sup > 26 < /sup > Al,  < sup > 36 < /sup > Cl. They are produced by [[cosmic rays]] interacting with Earth materials. The [[data]] show when a surface, such as an [[alluvial fan]], was created. Burial dating uses the [[radioactive decay]] of two elements to find the age when a sediment was buried away from cosmic rays. 
+ 
+ === Luminescence dating === 
+ [[Luminescence]] dating techniques use 'light' emitted from materials such as quartz, diamond, feldspar, and calcite. Many types of luminescence techniques are used in geology and in archaeology. 
+ 
+ === Incremental dating === 
+ Incremental dating techniques let us build year-by-year annual chronologies.  
+ * [[Dendrochronology]] 
+ * [[Ice core]]s 
+ * [[Lichen]]ometry 
+ * [[Varve]]s 
+ 
+ === Paleomagnetic dating === 
+ The pattern of magnetisation in a rock formation can be used to help find its date. < ref > Hnatyshin D.  &  Kravchinsky V.A. 2014. Paleomagnetic dating: methods, MATLAB software, example. ''Tectonophysics'', doi: 10.1016/j.tecto.2014.05.013.  [https://dx.doi.org/10.1016/j.tecto.2014.05.013] < /ref > 
+ 
+ === Stratigraphy === 
+ [[File:Icelandic tephra.JPG|250px|thumb|right|Tephra horizons in south-central [[Iceland]]]] 
+ 
+ Marker horizons are [[Stratigraphy|stratigraphic]] units of the same age, with distinctive composition and appearance. So, though they are in different geographic sites, there is certainty about their age-equivalence. Fossil [[fauna]] < nowiki/ > l and [[flora]] < nowiki/ > l [[fossil|assemblage]]s, marine and terrestrial, make for distinctive marker horizons. < ref > Demidov I.N. 2006. Identification of marker horizon in bottom sediments of the Onega periglacial lake. ''Doklady Earth Sciences'', '''407''', 213-216. [http://www.springerlink.com/content/m157212n413t5257/] {{Webarchive|url=https://web.archive.org/web/20200708133047/http://www.springerlink.com/content/m157212n413t5257/ |date=2020-07-08 }} < /ref >  [[Volcanic ash]] (tephra) has a geochemical fingerprint. Tephra is often used as a dating tool in [[archaeology]], because the dates of some [[volcanic eruption]]s are well-established. 
+ 
+ == Related pages == 
+ *[[Age of the Earth]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Dating methods]]

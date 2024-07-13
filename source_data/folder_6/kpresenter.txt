@@ -1,0 +1,28 @@
+{{Infobox Software  
+ | name                   = KPresenter  
+ | logo                   = koffice-kpresenter.png  
+ | screenshot             = Kpresenter-screen.png  
+ | caption                = Kpresenter screenshot  
+ | developer              = The KPresenter Team  
+ | latest_release_version = 1.6.3  
+ | latest_release_date    = {{release date and age|2007|6|7}} 
+ | operating_system       = [[Cross-platform]]  
+ | genre                  = [[Presentation Program]]  
+ | license                = [[GNU Lesser General Public License]]  
+ | website                = [http://www.koffice.org/kpresenter/ www.koffice.org/kpresenter] 
+ }} 
+ '''KPresenter''' is a free [[presentation program]] that is part of [[KOffice]], an office suite for the [[KDE]] [[Desktop Environment]]. 
+ 
+ KPresenter's native format is [[XML]], compressed with [[ZIP file format|ZIP]]. KPresenter is also able to load presentations from [[Microsoft PowerPoint]], [[MagicPoint]] and [[OpenOffice.org Impress]] documents. < ref > [http://www.koffice.org/filters/1.6/ Status of Supported File Formats] {{Webarchive|url=https://web.archive.org/web/20080513125754/http://koffice.org/filters/1.6/ |date=2008-05-13 }}. Retrieved on 2007-04-19 < /ref > 
+ 
+ ==Related pages== 
+ *[[KOffice]] 
+ 
+ == References == 
+ < references/ > 
+ 
+ == Other websites == 
+ *[http://www.koffice.org/kpresenter/ KPresenter homepage] {{Webarchive|url=https://web.archive.org/web/20081011051814/http://koffice.org/kpresenter |date=2008-10-11 }} 
+ 
+ [[Category:KOffice]] 
+ [[Category:Presentation software]]

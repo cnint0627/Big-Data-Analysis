@@ -1,0 +1,51 @@
+[[File:Quark structure pion.svg|thumbnail|300px|right|One [[up quark]] (u) and one [[down quark|down antiquark]] are one combination to make a pion]]A '''pion''' or '''[[Pi (letter)|π]] meson''' is a [[meson]], which is a [[subatomic particle]] made of one [[quark]] and one [[Antimatter|antiquark]]. 
+ 
+ There are six types of quark (called ''flavours'') but only two ''flavours'' go together to make a pion. These flavours are called [[up quark|up]] and [[down quark|down]]. Quarks have [[electric charge|charge]], so two quarks of the same flavour (both up or both down) make a [[neutral]] pion. But when the two quarks have different flavours (up and down), the pion will have a charge. This charge is [[positive charge|positive]] when an up quark pairs with a down antiquark. The charge is [[negative charge|negative]] when a down quark pairs with an up antiquark. 
+ 
+ Pions do not exist for a long time. ([[mean lifetime|On average]], charged pions exist for around 26 [[nanosecond]]s; neutral pions last a tiny fraction of this). Pions are significant to our lives because they are one of the ways for [[strong force]] [[force|interaction]]s to take place between [[nucleon]]s like the [[proton]]s and [[neutron]]s of ordinary [[matter]]. These interactions hold the [[Nucleus (physics)|nucleus]] together. 
+ 
+ Pions are the lightest [[hadron]]s (particles made up of quarks) and pions with a positive or negative charge are the mesons with the longest ''mean lifetime'' (the average time that passes before they ''decay'' into [[lepton]]s). 
+ 
+ == Three Types of Pions == 
+ The three types of pion have the Greek letter [[pi]] in their symbols:  
+ ::π < sup > + < /sup >  for the positively charged pion 
+ ::π < sup > – < /sup >  for the negatively charged pion, and  
+ ::π < sup > 0 < /sup >  for the neutral pion.  
+ The ([[superscript]])  < sup > + < /sup > ,  < sup > – < /sup > , or  < sup > 0 < /sup >  simply refers to the [[electromagnetism|(electromagnetic) charge]] of the pion. 
+ 
+ < !--π < sup > + < /sup >  are made of one [[up quark]] and one [[down quark|down antiquark]]. π < sup > − < /sup >  are made of one down quark and one up antiquark. Since antiparticles have the opposite charge,  
+ -- > 
+ Up quarks have a charge of +{{fraction|2|3}} and down antiquarks have a charge of +{{fraction|1|3}}, so π < sup > + < /sup >  has charge of +1 (like a proton). 
+ 
+ Antiparticles have charge opposite to their particles, so up antiquarks have a charge of −{{fraction|2|3}} and down quarks have a charge of −{{fraction|1|3}}. This means that π < sup > − < /sup >  has charge of −1 (like an [[electron]]). 
+ 
+ Because π < sup > 0 < /sup >  pairs quarks of the same flavour with their antiquarks, both up quark (+{{fraction|2|3}}) paired with up antiquark (−{{fraction|2|3}}) and down quark (+{{fraction|1|3}}) paired with down antiquark (−{{fraction|1|3}}) leave it with zero charge (like a neutron). 
+ 
+ Quarks and antiquarks also have a different kind of charge called ''color'', unrelated to electromagnetic charge. This comes from the [[strong interaction]] that holds the quarks together. As in all mesons, the color charges in a pion must be equal and opposite: ''blue'' with ''anti-blue'', ''green'' with ''anti-green'', or ''red'' with ''anti-red''. The effect of these color–anticolor pairings is that the pion's color charge is ''colorless'' (like a neutron is neutral). At the smallest distances, typically within an atomic nucleus, a small effect of the color charge remains and acts as the [[nuclear force]] that holds the nucleus together. Within the nucleus, then, [[boson|''virtual'' pion]]s (and other ''virtual'' mesons) are exchanged between [[nucleon]]s (protons and neutrons), pulling them together. 
+ 
+ Antiquarks are antimatter, so they will [[Annihilation|annihilate]] a quark of the same ''flavour'' that is near enough < !--Is this sentence relevant?-- > . This means that the quark and the antiquark will turn one another into [[energy]] < !--they annihilate one another...explains previous sentence (if relevant)-- > . 
+ 
+ == Force Carriers == 
+ [[Force-carrier]]s are [[particle]]s that are responsible for the action of [[fundamental force|force]]s, such as [[electromagnetism]]. Just as photons are responsible for electromagnetic [[force]], so mesons are responsible for some of the lower energy (''residual'') [[strong force]] interactions that occur between nucleons. (Strong force is also known as [[nuclear force]] or ''residual strong force'' when its action is between nucleons.) At an even smaller level, [[gluon]]s are responsible for the strong force interactions between quarks. 
+ 
+ < !--However, because they are made of the lightest quarks (up and down), pions are the lightest mesons. This means that (with exception of π < sup > 0 < /sup > ) they are also some of the longest-living mesons. However, like all mesons, they will quickly decay, or break down.-- > 
+ 
+ == Pion Decay == 
+ Decay of charged pions always produces [[lepton]]s, like [[electron]]s.  
+ ::π < sup > + < /sup >  almost always decays into one [[muon]], and one [[muon antineutrino]].   
+ ::π < sup > – < /sup >  almost always decays into one [[muon|antimuon]] and one [[muon neutrino]]. 
+ 
+ A neutral pion, π < sup > 0 < /sup > , will usually decay into two highly energized [[photon]]s. 
+ 
+ === Other Forms of Pion Decay === 
+ However, there is some probability (from  < 0.1% to 1.2%) involved with the decay of some pions, as they can also decay into different forms. For π < sup > + < /sup > , the second most likely decay product is one [[positron]] (an anti-electron) and one electron [[electron neutrino|neutrino]]. π < sup > – < /sup >  will sometimes decay into one electron and one electron antineutrino. π < sup > 0 < /sup >  will sometimes decay into one highly energized photon, one electron, and one positron. (Keep in mind that positrons and electrons can annihilate each other, and this annihilation produces highly energized photons). 
+ 
+ === Decay Due to Weak Force === 
+ Since the decay of pions is due to [[weak force]], yet another force carrier is introduced. During the decay, a [[W boson|W < sup > + < /sup >  boson]] is created, which lasts for 3x10 < sup > −25 < /sup >  seconds. After this incredibly short amount of time, the W < sup > + < /sup >  boson will decay into the leptons that the pion would naturally decay to. However, it is important to draw this distinction, as it includes weak force. 
+ 
+ {{elementary}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Subatomic particles]]

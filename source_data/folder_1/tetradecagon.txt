@@ -1,0 +1,38 @@
+{{Regular polygon db|Regular polygon stat table|p14}} 
+ A '''tetradecagon''' or '''14-gon''' is a [[Polygon|shape]] with 14 sides and 14 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular tetradecagon == 
+ A ''[[regular polygon|regular]] tetradecagon'' has Schläfli symbol {14} and can be constructed as a quasiregular truncated heptagon, t{7}, which alternates two types of edges. 
+ 
+ === Area === 
+ The amount of space a regular tetradecagon takes up is 
+ 
+ The [[area]] of a [[Regular polygon|regular]] tetradecagon of side length ''a'' is given by 
+ : < math > \begin{align}A  & = \frac{14}{4}a^2\cot\frac{\pi}{14}=\frac{14}{4}a^2\left(\frac{\sqrt{7}+4\sqrt{7}\cos\left({\frac{2}{3}\arctan{\frac{\sqrt{3}}{9}}}\right)}{3}\right)\\ 
+ & \simeq 15.3345a^2\end{align} < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ == Dissection== 
+ [[Coxeter]] states that every parallel-sided 2''m''-gon can be divided into m(m-1)/2 rhombs. For the ''regular tetradecagon'', ''m''=7, and it can be divided into 21: 3 sets of 7 rhombs. This decomposition is based on a [[Petrie polygon]] projection of a [[7-cube]], with 21 of 672 faces.  < ref > [[Coxeter]], Mathematical recreations and Essays, Thirteenth edition, p.141 < /ref >  The list [http://oeis.org/A006245 A006245] defines the number of solutions as 24698, including up to 14-fold rotations and chiral forms in reflection. 
+ {| class=wikitable 
+ |+ Dissection into 21 rhombs 
+ |- align=center valign=top 
+ |[[File:7-cube_graph.svg|160px]] 
+ |[[File:14-gon-dissection.svg|160px]] 
+ |} 
+ 
+ ==Numismatic use== 
+ The regular tetradecagon is used as the shape of some commemorative gold and silver [[Malaysia]]n coins, the number of sides representing the 14 states of the Malaysian Federation. < ref > ''The Numismatist'', Volume 96, Issues 7-12, Page 1409, American Numismatic Association, 1983. < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *{{MathWorld|title=Tetradecagon|urlname=Tetradecagon}} 
+ 
+ {{Polygons}} 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Polygons|14]]

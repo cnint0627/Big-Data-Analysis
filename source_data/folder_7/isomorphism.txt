@@ -1,0 +1,18 @@
+In [[mathematics]] (particularly in [[abstract algebra]]), two [[Structure (mathematics)|mathematical structures]] are isomorphic when they are the same in some sense. More specifically, an '''isomorphism''' is a [[Function (mathematics)|function]] between two structures that preserves the relationships between the parts. To indicate isomorphism between two structures  < math > \mathcal{A} < /math >   and  < math > \mathcal{B} < /math > , one often writes  < math > \mathcal{A} \cong \mathcal{B} < /math > . < ref > {{Cite web|date=2020-03-25|title=Comprehensive List of Algebra Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/|access-date=2020-10-12|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Isomorphism|url=https://mathworld.wolfram.com/Isomorphism.html|access-date=2020-10-12|website=mathworld.wolfram.com|language=en}} < /ref >    
+ 
+ Using the language of [[category theory]], this means that [[Morphism|morphisms]] map to morphisms without breaking composition. An isomorphism is also a [[homomorphism]] that is one-to-one. < ref > {{Cite web|title=Definition of ISOMORPHISM|url=https://www.merriam-webster.com/dictionary/isomorphism|access-date=2020-10-12|website=www.merriam-webster.com|language=en}} < /ref >    
+ 
+ As an example, one can consider the operation of adding [[integers]] '''Z'''. The doubling function φ(x) = 2x maps elements of '''Z''' to elements of the even integers '''2Z'''. Since φ(a+b) = 2(a+b) = 2a+2b = φ(a)+φ(b), adding in '''Z''' is structurally identical as adding in '''2Z''' (which makes this an example of isomorphism). 
+ 
+ == Related pages == 
+ 
+ * [[Automorphism]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ [[Category:Abstract algebra]] 
+ [[Category:Functions and mappings]] 
+ 
+ {{math-stub}}

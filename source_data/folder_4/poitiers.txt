@@ -1,0 +1,170 @@
+{{Infobox French commune 
+ |name                   = Poitiers 
+ |commune status         = [[Prefectures in France|Prefecture]] and [[Communes of France|commune]] 
+ |image coat of arms     = Blason ville fr Poitiers (Vienne).svg 
+ |image                  = Poitiers hill.jpg 
+ |caption                = The old town center. 
+ |arrondissement         = Poitiers 
+ |canton                 = Capital of 5 cantons 
+ |INSEE                  = 86194 
+ |postal code            = 86000 
+ |mayor                  = Alain Claeys < ref > {{cite web |publisher=Ville de Poitiers |title=Le Maire et ses adjoints |url=https://www.poitiers.fr/c__71_271__Le_Maire_et_ses_adjoints.html |language=French |accessdate=18 April 2017}} < /ref > 
+ |term                   = 2014 & ndash;2020 
+ |intercommunality       = Grand Poitiers 
+ |coordinates            = {{coord|46.3555|0.2010|format=dms|display=inline,title}} 
+ |elevation m            = 105 
+ |elevation min m        = 65 
+ |elevation max m        = 144 
+ |area km2               = 42.11 
+ |population demonym     = Poitevins 
+ |population             = 87435 
+ |population date        = 2014 
+ |website                = [http://www.poitiers.fr/ www.poitiers.fr] 
+ }} 
+ '''Poitiers''' is a city in [[France]], the [[Prefectures in France|prefecture]] of the [[Vienne]] [[Departments of France|department]] in the [[Nouvelle-Aquitaine]] [[Regions of France|region]]. The town is picturesque; and its streets are interesting for their remains of ancient architecture, especially of the [[Romanesque]] period, and the memories of great historical events. 
+ 
+ The city itself is very old. It already existed as a [[Gaul]]ish fort in the time when [[Julius Caesar]] came to Gaul. It was the capital of the [[Pictones]] [[tribe]]. 
+ 
+ == Geography == 
+ Poitiers is in the centre of the Vienne department, between the [[valley]]s of the Boivre and the [[Clain]] [[river]]s. The old town is on the [[:wikt:slope|slopes]] and the [[summit]] of a [[plateau]] which rises 130 feet (40 m) above the [[stream]]s which surround it on three sides. 
+ 
+ Poitiers is at about {{Convert|220|km|mi|abbr=on }} from [[Bordeaux]], {{Convert|340|km|mi|abbr=on }} from [[Paris]], {{Convert|130|km|mi|abbr=on }} from [[Limoges]] and {{Convert|180|km|mi|abbr=on }} from [[Nantes]]. 
+ 
+ The ''commune'' has an area of {{Convert|42.1|km2|sqmi|abbr=on }}. < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-86194 |title=Commune de Poitiers (86194) |work=Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=18 April 2017 |date= }} < /ref >  Its average [[altitude]] is {{Convert|105|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|116|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Poitiers-86000/ |title=Poitiers |publisher=Map-France.com |language= |accessdate=18 April 2017 |date= }} < /ref > 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 86194.png|350px|Map of the ''commune'' of Poitiers]] 
+ |} 
+ < /center > 
+ 
+ The ''commune'' of Poitiers is surrounded by the ''communes'': 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Poitiers 
+ |North     = [[Jaunay-Clan]] < br / > [[Chasseneuil-du-Poitou]] < br / > [[Buxerolles, Vienne|Buxerolles]]  
+ |Northeast = [[Montamisé]] 
+ |East      = [[Bignoux]] < br / > [[Sèvres-Anxaumont]] 
+ |Southeast = [[Mignaloux-Beauvoir]] 
+ |South     = [[Saint-Benoît, Vienne|Saint-Benoît]] < br / > [[Ligugé]] 
+ |Southwest = [[Croutelle]] < br / > [[Fontaine-le-Comte]] 
+ |West      = [[Biard]] < br / > [[Vouneuil-sous-Biard]]  
+ |Northwest = [[Migné-Auxances]] < br / > [[Vouneuil-sous-Biard]] 
+ }} 
+ 
+ ===Climate=== 
+ The climate of Poitiers, in the [[Köppen climate classification]], is '''Cfb''' - [[Oceanic climate]] with template summers. < ref name= " annuaire " > {{cite web |work=Annuaire-Mairie.fr |publisher= |title=Ville de Poitiers |url=http://www.annuaire-mairie.fr/ville-poitiers.html |language=French  |accessdate=18 April 2017}} < /ref > 
+ 
+ == Population == 
+ The inhabitants of Poitiers are known, in [[French language|French]], as ''Pictaviens'' (women: ''Pictaviennes''). < ref > {{cite web|url=http://www.habitants.fr/vienne-86 |title=Vienne (86) |publisher=habitants.fr |language=French |accessdate=18 April 2017 |date= }} < /ref > 
+ 
+ With a population of 87,435, < ref name=insee2 > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep86.pdf |title=Régions, départements, arrondissements, cantons et communes  |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |language=French |accessdate=18 April 2017|date= }} < /ref >  Poitiers has a [[population density]] of {{Pop density|87435|42.11|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Poitiers''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:95000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5000 start:0 
+ BackgroundColors = canvas:sfondo  
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2006 text:2006 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 70681 
+  bar:1975 from:0 till: 81313 
+  bar:1982 from:0 till: 79350 
+  bar:1990 from:0 till: 78894 
+  bar:1999 from:0 till: 83448 
+  bar:2006 from:0 till: 88776 
+  bar:2014 from:0 till: 87435 
+ 
+ PlotData= 
+  bar:1968 at: 70681 fontsize:S text: 70,681 shift:(-12,5) 
+  bar:1975 at: 81313 fontsize:S text: 81,313 shift:(-13,5) 
+  bar:1982 at: 79350 fontsize:S text: 79,350 shift:(-13,5) 
+  bar:1990 at: 78894 fontsize:S text: 78,894 shift:(-13,5) 
+  bar:1999 at: 83448 fontsize:S text: 83,448 shift:(-13,5) 
+  bar:2006 at: 88776 fontsize:S text: 88,776 shift:(-13,5) 
+  bar:2014 at: 87435 fontsize:S text: 87,435 shift:(-13,5) 
+ < /timeline > 
+ < /center > 
+ 
+ Poitiers forms, with seven other ''communes'', the [[urban area]] of Poitiers with a population of 128,111 inhabitants (2013) and an area of {{Convert|172.3|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=UU2010-86601 |title=Unité urbaine de Poitiers (86601) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=18 April 2017|date= }} < /ref >  This urban area is the centre of the [[metropolitan area]] of Poitiers, formed by 97 ''communes'', with a population of 257,233 inhabitants (2013) and an area of {{Convert|2303.4|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=AU2010-039 |title=Aire urbaine de Poitiers (039) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=18 April 2017|date= }} < /ref > 
+ 
+ == Administration == 
+ Poitiers is the [[Prefectures in France|prefecture]] of the Vienne department, the capital of the ''arrondissement'' of [[Arrondissement of Poitiers|Poitiers]] and the [[administrative centre]] ({{lang-fr|chef-lieu}}) of five [[Cantons of France|canton]]: 
+ * [[Canton of Poitiers-1|Poitiers-1]], with 23,086 inhabitants  < small > (2014) < /small > . 
+ * [[Canton of Poitiers-2|Poitiers-2]], with 25,371 inhabitants  < small > (2014) < /small > . 
+ * [[Canton of Poitiers-3|Poitiers-3]], with 26,843 inhabitants  < small > (2014) < /small > . 
+ * [[Canton of Poitiers-4|Poitiers-4]], with 20,756 inhabitants  < small > (2014) < /small > . 
+ * [[Canton of Poitiers-5|Poitiers-5]], with 22,170 inhabitants  < small > (2014) < /small > . 
+ 
+ It is part of the [[Communes of France|intercommunality]] ''Grand Poitiers'' ({{lang-fr|Communauté d'agglomération Grand Poitiers}}). 
+ 
+ === Sister cities === 
+ Poitiers is twinned with: < ref > {{cite web |url=https://www.poitiers.fr/c__70_208__Poitiers_et_ses_villes_jumelles.html |title=Poitiers et ses villes jumelles  |publisher=Ville de Poitiers |language=French |accessdate=18 April 2017 |date= }} < /ref > 
+ * {{Flagicon|UK}} [[Northampton]], [[UK]] 
+ * {{Flagicon|GER}} [[Marburg]], [[Germany]] 
+ * {{Flagicon|USA}} [[Lafayette, Louisiana|Lafayette]], [[USA]] 
+ * {{Flagicon|POR}} [[Coimbra]], [[Portugal]] 
+ * {{Flagicon|RUS}} [[Yaroslavl]], [[Russia]] 
+ * {{Flagicon|CHA}} [[Moundou]], [[Chad]] 
+ * {{Flagicon|ROM}} [[Iaşi]], [[Romania]] 
+ 
+ ==Notable people== 
+ This is a list of people of interest who were born or resided in Poitiers: 
+ *[[René Descartes]] studied law at the University of Poitiers 
+ *[[Michel Foucault]], French [[philosopher]] 
+ *[[Jean-Pierre Thiollet]], French author 
+ *[[Brian Joubert]], French [[ice skating]] champion 
+ 
+ ==Gallery== 
+ < center > 
+ < gallery widths=180px > 
+ File:Poitiers Cathédrale Saint Pierre.jpg|[[Cathedral]] of St. Peter, west side. 
+ File:PoitiersEglise Notre Dame.JPG|''Notre-Dame-La Grande'' [[church]]. 
+ File:PA00105619poitiers-hotel-deville2.JPG|Poitiers [[City and town halls|town hall]]. 
+ File:PA00105586poitiers-cathedrale-saint-pierre2.JPG|Saint Pierre de Poitiers cathedral. 
+ < /gallery > 
+ < /center > 
+ 
+ == Related pages == 
+ * [[Arrondissement of Poitiers]] 
+ * [[Communes of the Vienne department]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ {{commonscat|Poitiers}} 
+ * [http://www.mairie-poitiers.fr/ City council website] {{Webarchive|url=https://web.archive.org/web/20210618135346/https://www.mairie-poitiers.fr/ |date=2021-06-18 }} (in French) 
+ * [http://france-for-visitors.com/atlantic/poitiers/index.html Visiting Poitiers] (in English) 
+ * [http://www.tourisme-vienne.com/poitiers.php Tourisme Poitiers] {{Webarchive|url=https://web.archive.org/web/20071225180917/http://www.tourisme-vienne.com/poitiers.php |date=2007-12-25 }} (official site, in French) 
+ * [http://en.tourisme-vienne.com/poitiers.php Tourism Poitiers] {{Webarchive|url=https://web.archive.org/web/20081225225737/http://en.tourisme-vienne.com/poitiers.php |date=2008-12-25 }} (official site, in English). 
+ 
+ {{Préfectures of départements of France}} 
+ {{authority control}} 
+ [[Category:Poitiers| ]] 
+ [[Category:Former regional capitals in France]]

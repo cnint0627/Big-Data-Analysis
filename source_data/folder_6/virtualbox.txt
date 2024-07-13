@@ -1,0 +1,39 @@
+{{Infobox software 
+ | name                   = VirtualBox 
+ | logo                   = Virtualbox logo.png 
+ | logo caption           = VirtualBox logo since 2010 
+ | screenshot             = VirtualBox 6.1.16 with Ubuntu 20.10 20210128 10 03 15.png 
+ | caption                = Running [[Ubuntu|Ubuntu 20.10]] with [[Oracle Corporation|Oracle]] VM VirtualBox on [[Windows 10]] 
+ | collapsible            = 
+ | author                 = Innotek 
+ | developer              = [[Oracle Corporation]] 
+ | released               = {{Start date and age|2007|01|17|df=yes}} 
+ | discontinued           = 
+ | latest release version = 6.1.30 < ref > {{cite web 
+  | title       = Changelog-6.1 
+  | url         = https://www.virtualbox.org/wiki/Changelog-6.1#v30 
+  | access-date = 2021-11-23 
+  | website     = www.virtualbox.org}} < /ref > 
+ | latest release date    = {{Start date and age|2021|11|22|df=yes}} 
+ | latest preview version = 
+ | latest preview date    = 
+ | programming language   = [[C (programming language)|C]], [[C++]], [[x86 assembly language|x86 Assembly]], [[Python (programming language)|Python]] 
+ | operating system       = [[Microsoft Windows|Windows]], [[macOS]] (only [[Apple–Intel architecture|Intel-based Macs]]), [[Linux]] and [[Solaris (operating system)|Solaris]] 
+ | platform               = [[x86-64]] only (version series 5.x and earlier work on [[IA-32]]) < ref name= " Download page " > {{cite web | url = https://www.virtualbox.org/wiki/Downloads | title = Download VirtualBox | website = VirtualBox.org | publisher = [[Oracle Corporation|Oracle]]}} < /ref > 
+ | size                   = 
+ | language               = 
+ | genre                  = [[Hypervisor]] 
+ | license                = Base Package ([[USB]] support only for [[USB#USB 1.x|USB 1.1]]): [[GNU General Public License]] version 2 (Optionally [[Common Development and Distribution License|CDDL]] for most files of the source distribution),  " Extension Pack "  (including [[USB 3.0]] support): [https://www.virtualbox.org/wiki/VirtualBox_PUEL PUEL] 
+ | website                = {{Official URL}} 
+ }} 
+ '''VirtualBox''' is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. Many Operating Systems (OS) work on VirtualBox, For Example, NextStep OS can be installed on Virtual Box. < ref > {{cite web | url=https://www.osnews.com/story/131254/installing-nextstep-os-openstep-in-virtualbox/ | title=Installing NextStep OS (OpenStep) in VirtualBox – OSnews }} < /ref >   
+ 
+ It is important to note that VirtualBox only provides a virtual (hardware) platform for a virtual computer system. Users of VirtualBox will still need to have their own access to installation source media for the Operating Systems and Software they wish to run using VirtualBox. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{tech-stub}} 
+ {{authority control}} 
+ [[category:Technology]] 
+ [[Category:Virtualization software]]

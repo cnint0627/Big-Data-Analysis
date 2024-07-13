@@ -1,0 +1,63 @@
+A '''hexahedron''' (plural: hexahedra) is any [[polyhedron]] with six [[Face (geometry)|faces]]. A [[cube]], for example, is a [[Regular polyhedron|regular]] hexahedron with all its faces [[Square (geometry)|square]], and three squares around each [[Vertex (geometry)|vertex]]. 
+ 
+ There are seven topologically distinct ''convex'' hexahedra, < ref > [http://www.numericana.com/data/polycount.htm Counting polyhedra] < /ref >  one of which exists in two mirror image forms. (Two polyhedra are  " topologically distinct "  if they have intrinsically different arrangements of faces and vertices, such that it is impossible to distort one into the other simply by changing the lengths of edges or the angles between edges or faces.) 
+ 
+ {| class= " wikitable "  width=770 
+ |- 
+ !colspan=7|Quadrilaterally-faced hexahedron ([[Cuboid]]) 6 faces, 12 edges, 8 vertices 
+ |- align=center 
+ |[[File:Hexahedron.png|110px]] 
+ |[[File:Cuboid.png|110px]] 
+ |[[File:Trigonal trapezohedron.png|110px]] 
+ |[[File:Trigonal trapezohedron gyro-side.png|110px]] 
+ |[[File:Usech kvadrat piramid.png|110px]] 
+ |[[File:Parallelepiped 2013-11-29.svg|110px]] 
+ |[[File:Rhombohedron.svg|110px]] 
+ |- 
+ |[[Cube]] < br > ([[Square (geometry)|square]]) 
+ |[[Cuboid|Rectangular cuboid]] < br > (three pairs of < br > [[rectangles]]) 
+ |[[Trigonal trapezohedron]] < br > (congruent [[rhombus|rhombi]]) 
+ |[[Trigonal trapezohedron]] < br > (congruent [[quadrilateral]]s) 
+ |Quadrilateral [[frustum]] < br > (apex-truncated < br > [[square pyramid]]) 
+ |[[Parallelepiped]] < br > (three pairs of < br > [[parallelogram]]s) 
+ |(three pairs of < br > [[rhombus|rhombi]]) 
+ |- 
+ !O < sub > h < /sub > , [4,3], (*432) < BR > order 48 
+ !D < sub > 2h < /sub > , [2,2], (*222) < BR > order 8 
+ !''D'' < sub > 3''d'' < /sub > , [2 < sup > + < /sup > ,6], (2*3) < BR > order 12 
+ !''D'' < sub > 3 < /sub > , [2,3] < sup > + < /sup > , (223) < BR > order 6 
+ !C < sub > 4v < /sub > , [4], (*44) < BR > order 8 
+ !colspan=2|''C'' < sub > ''i'' < /sub > , [2 < sup > + < /sup > ,2 < sup > + < /sup > ], (×) < BR > order 2 
+ |} 
+ {| class= " wikitable "  width=700 
+ |+ Others 
+ |- align=center 
+ | [[File:Hexahedron5.svg|100px]] < br > [[Triangular bipyramid]] < br > 3 < sup > 6 < /sup >  Faces < BR > 9 E, 5 V 
+ | [[File:Hexahedron7.svg|75px]][[image:Hexahedron7a.svg|75px]] < br >  Tetragonal antiwedge. [[Chiral]]  & ndash; exists in  " left-handed "  and  " right-handed "  mirror image forms. < br > 4.4.3.3.3.3 Faces < br > 10 E, 6 V 
+ | [[File:Hexahedron6.svg|100px]] < br > 4.4.4.4.3.3 Faces < br > 11 E, 7 V 
+ | [[File:Hexahedron2.svg|100px]] < br > [[Pentagonal pyramid]] < br > 5.3 < sup > 5 < /sup >  Faces < BR > 10 E, 6 V 
+ | [[File:Hexahedron3.svg|100px]] < br > 5.4.4.3.3.3 Faces < br > 11 E, 7 V 
+ | [[File:Hexahedron4.svg|100px]] < br > 5.5.4.4.3.3 Faces < br > 12 E, 8 V 
+ |} 
+ 
+ There are three further topologically distinct hexahedra that can only be realised as ''concave'' figures: 
+ 
+ {| class = wikitable  
+ |- 
+ !colspan = 3 | Concave 
+ |- valign= " top " 
+ | [[image:Hexahedron8.svg|100px]] < br > 4.4.3.3.3.3 Faces < br > 10 E, 6 V 
+ | [[image:Hexahedron10.svg|100px]] < br > 5.5.3.3.3.3 Faces < br > 11 E, 7 V 
+ | [[image:Hexahedron9.svg|100px]] < br > 6.6.3.3.3.3 Faces < br > 12 E, 8 V 
+ |} 
+ 
+ ==Related pages== 
+ *[[Prismatoid]] 
+ 
+ ==References== 
+ < references/ > 
+ 
+ ==Other websites== 
+ *[http://www.uwgb.edu/dutchs/symmetry/poly4-7f.htm Polyhedra with 4-7 Faces] {{Webarchive|url=https://web.archive.org/web/20060904201424/http://www.uwgb.edu/dutchs/symmetry/poly4-7f.htm |date=2006-09-04 }} by Steven Dutch 
+ 
+ [[Category:Polyhedra]]

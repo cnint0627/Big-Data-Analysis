@@ -1,0 +1,142 @@
+{{complex|date=January 2023}} 
+ In [[computer engineering]], '''microarchitecture''' (sometimes [[abbreviation|abbreviated]] to '''µarch''' or '''uarch''') is a description of the [[electrical circuit]]ry of a [[computer]], [[central processing unit]], or [[digital signal processor]] that is sufficient for completely describing the operation of the [[hardware]]. 
+ 
+ [[Scholar]]s use the term  " '''computer organization''' "  while people in the computer industry more often say,  " microarchitecture " .  Microarchitecture and [[instruction set architecture]] (ISA), together, constitute the field of [[computer architecture]]. 
+ 
+ == Origin of the term == 
+ 
+ Computers have been using [[microprogramming]] of [[control logic]] since the 1950s.  The CPU decodes the [[Instruction (computer science)|instructions]] and sends signals down appropriate paths by means of [[transistor]] switches. The [[bit]]s inside the microprogram words controlled the processor at the level of electrical signals. 
+ 
+ The [[Terminology|term]]: '''microarchitecture''' was used to describe the units that were controlled by the microprogram words, in contrast to the [[Terminology|term]]:  " architecture "  that was visible and documented for programmers. While architecture usually had to be compatible between hardware generations, the underlying microarchitecture could be easily changed. 
+ 
+ == Relation to instruction set architecture == 
+ The microarchitecture is related to, but not the same as, the [[instruction set|instruction set architecture]]. The instruction set architecture is near to the [[programming model]] of a processor as seen by an [[assembly language]] programmer or [[compiler]] writer, which includes the [[Execution (computing)|execution model]], [[processor register]]s, memory address modes, address and data formats, etc. The microarchitecture (or computer organization) is mainly a lower level structure and therefore manage a large number of details that are hidden in the programming model. It describes the inside parts of the processor and how they work together in order to implement the architectural [[specification]]. 
+ < ref > {{cite book|title=Dictionary of Computer Science, Engineering, and Technology |author= Phillip A. Laplante |date=2001 |publisher=CRC Press |isbn=0849326915|pages=94–95}} < /ref > < ref > {{cite book |title=Computer Architecture: A Minimalist Perspective |url=https://archive.org/details/computerarchitec00gilr |author=William F. Gilreath and Phillip A. Laplante |page=[https://archive.org/details/computerarchitec00gilr/page/n17 5] |date=2003 |publisher=Springer |isbn= 1402074166 }} < /ref > 
+ < ref > {{cite book |title=Fundamentals of Computer Organization and Design |url=https://archive.org/details/fundamentalscomp00dand_685 |author= Sivarama P. Dandamudi |page=[https://archive.org/details/fundamentalscomp00dand_685/page/n30 5] |date=2003 |publisher=Springer |isbn=038795211X}} < /ref > 
+ 
+ Microarchitectual elements may be everything from single [[logic gate]]s, to [[Processor register|registers]], [[lookup table]]s, [[multiplexer]]s, [[counter]]s, etc., to complete [[Arithmetic logic unit|ALUs]], [[Floating point unit|FPUs]] and even larger elements. The electronic circuitry level can, in turn, be subdivided into [[transistor]]-level details, such as which basic [[Logic gate|gate]]-building structures are used and what logic implementation types (static/dynamic, number of phases, etc.) are chosen, in addition to the actual logic design used built them. 
+ 
+ A few important points: 
+ *A single microarchitecture, especially if it includes [[microcode]], can be used to implement many different instruction sets, by means of changing the [[control store]]. This can be quite complicated however, even when simplified by microcode and/or table structures in [[ROM]]s or [[PLA]]s. 
+ *Two machines may have the same microarchitecture, and so the same [[block diagram]], but completely different hardware implementations. < ref name= " hennessy " > {{cite book|author=John L. Hennessy and David A. Patterson|title=Computer Architecture: A Quantitative Approach|url=https://archive.org/details/computerarchitec00hennrich|edition=Third|publisher=Morgan Kaufmann Publishers, Inc|date=2003|isbn=1558605967}} < /ref >  This manages both the level of the electronic circuitry and even more the physical level of manufacturing (of both [[Integrated circuit|ICs]] and/or discrete components). 
+ *Machines with different microarchitectures may have the same instruction set architecture, and so both are capable of executing the same programs. New microarchitectures and/or circuitry solutions, along with advances in semiconductor manufacturing, are what allows newer generations of processors to achieve higher performance. 
+ 
+ ===Simplified descriptions=== 
+ A very simplified high level description — common in marketing — may show only fairly basic characteristics, such as bus-widths, along with various types of [[execution unit]]s and other large systems, such as [[branch prediction]] and [[Cache memory|cache memories]], pictured as simple blocks — perhaps with some important attributes or characteristics noted. Some details regarding [[Instruction pipelining|pipeline]] structure (like fetch, decode, assign, execute, write-back) may sometimes also be included. 
+ 
+ == Aspects of microarchitecture == 
+ 
+ The [[Instruction pipelining|pipelined]] [[datapath]] is the most commonly used datapath design in microarchitecture today. This [[technique]] is used in most modern [[microprocessor]]s, [[microcontroller]]s, and [[Digital signal processor|DSPs]]. The pipelined architecture allows multiple instructions to overlap in execution, much like an assembly line. The pipeline includes several different stages which are fundamental in microarchitecture designs. < ref name= " hennessy "  / >  Some of these stages include instruction fetch, instruction decode, execute, and write back. Some architectures include other stages such as memory access. The design of pipelines is one of the central microarchitectural tasks. 
+ 
+ Execution units are also essential to microarchitecture. Execution units include [[arithmetic logic unit]]s (ALU), [[floating point unit]]s (FPU), load/store units, and [[branch prediction]].  These units perform the operations or calculations of the processor.  The choice of the number of execution units, their [[latency]] and throughput are important microarchitectural design tasks.  The size, latency, throughput and connectivity of memories within the system are also microarchitectural decisions. 
+ 
+ System-level design decisions such as whether or not to include [[Peripheral equipment|peripheral]]s, such as [[memory controller]]s, can be considered part of the microarchitectural design process.  This includes decisions on the performance-level and connectivity of these peripherals. 
+ 
+ Unlike architectural design, where a specific performance level is the main goal, microarchitectural design pays closer attention to other constraints.  Attention must be paid to such issues as: 
+ 
+ * Chip area/cost. 
+ * Power consumption. 
+ * Logic complexity. 
+ * Ease of connectivity. 
+ * Manufacturability. 
+ * Ease of debugging. 
+ * Testability. 
+ 
+ == Micro-Architectural Concepts== 
+ In general, all [[CPU]]s, single-chip [[microprocessor]]s or multi-chip implementations run programs by performing the following steps: 
+ # Read an instruction and decode it. 
+ # Find any associated data that is needed to process the instruction. 
+ # Process the instruction. 
+ # Write the results out. 
+ 
+ Complicating this simple-looking series of steps is the fact that the [[memory hierarchy]], which includes [[caching]], [[RAM|main memory]] and non-volatile storage like [[hard disk]]s, (where the program instructions and data are) has always been slower than the processor itself. Step (2) often introduces a delay (in CPU [[Terminology|terms]] often called a ''' " stall " ''') while the data arrives over the [[computer bus]]. A big amount of [[research]] has been put into designs that avoid these delays as much as possible. Over the years, a central [[design]] goal was to execute more [[Instruction (computer science)|instructions]] [[Instruction level parallelism|in parallel]], thus increasing the effective [[Runtime|execution speed]] of a program. These efforts introduced complicated logic and circuit structures. 
+ In the past such techniques could only be implemented on expensive mainframes or supercomputers due to the amount of circuitry needed for these techniques. As semiconductor manufacturing progressed, more and more of these techniques could be implemented on a single semiconductor chip. 
+ 
+ '''What follows is a survey of micro-architectural techniques that are common in modern CPUs. ''' 
+ 
+ ===Instruction Set choice=== 
+ The choice of which [[Instruction set|Instruction Set Architecture]] to use greatly affects the complexity of implementing high performance devices. Over the years, computer [[design]]ers did their best to simplify instruction sets, in order to enable higher performance implementations by saving designers effort and time for features which improve performance rather than wasting them on the complexity of instruction set. 
+ 
+ Instruction set design has progressed from [[Complex instruction set computer|CISC]], [[RISC]], [[VLIW]], [[Explicitly Parallel Instruction Computing|EPIC]] types. Architectures that are dealing with [[data parallelism]] include [[SIMD]] and [[Vector processor|Vectors]]. 
+ 
+ ===Instruction pipelining=== 
+ {{main|Instruction pipelining}} 
+ One of the first, and most powerful, [[technique]]s to improve performance is the use of the [[Instruction pipelining|instruction pipeline]]. Early processor designs performed all of the steps above on one instruction before moving onto the next. Large portions of the processor circuitry were left idle at any one step; for instance, the instruction decoding circuitry would be idle during execution and so on. 
+ 
+ Pipelines improve performance by allowing a number of instructions to work their way through the processor at the same time. In the same basic example, the processor would start to decode (step 1) a new instruction while the last one was waiting for results. This would allow up to four instructions to be  " in flight "  at one time, making the processor look four times as fast. Although any one instruction takes just as long to complete (there are still four steps) the CPU as a whole  " retires "  instructions much faster and can be run at a much higher clock speed. 
+ 
+ ===Cache=== 
+ {{main|CPU cache}} 
+ Improvements in [[Integrated circuit|chip]] manufacturing allowed more circuitry to be placed on the same [[Integrated circuit|chip]], and designers started looking for ways to use it. One of the most common ways was to add an ever-increasing amount of [[CPU cache|cache memory]] on-[[Integrated circuit|chip]]. Cache is a very fast memory, memory that can be accessed in a few cycles as compared to what is needed to talk to main memory. The CPU includes a cache controller which automates reading and writing from the cache, if the data is already in the cache it simply  " appears, "  whereas if it is not the processor is  " stalled "  while the cache controller reads it in. 
+ 
+ RISC designs started adding cache in the mid-to-late 1980s, often only 4 & nbsp;KB in total. This number grew over time, and typical CPUs now have about 512 & nbsp;KB, while more powerful CPUs come with 1 or 2 or even 4, 6, 8 or 12 & nbsp;MB, organized in multiple levels of a [[memory hierarchy]]. Generally speaking, more cache means more speed. 
+ 
+ Caches and pipelines were a perfect match for each other. Previously, it didn't make much sense to build a pipeline that could run faster than the access latency of off-chip cash memory. Using on-chip cache memory instead, meant that a pipeline could run at the speed of the cache access latency, a much smaller length of time. This allowed the operating frequencies of processors to increase at a much faster rate than that of off-chip memory. 
+ 
+ === Branch Prediction and Speculative execution === 
+ {{main|Branch prediction}} 
+ {{main|Speculative execution }} 
+ Pipeline stalls and flushes due to branches are the two main things preventing achieving higher performance through [[instruction level parallelism]]. The from time that the processor's instruction decoder has found that it has encountered a conditional branch instruction to the time that the deciding jumping register value can be read out, the pipeline might be stalled for several cycles. On average, every fifth instruction executed is a branch, so that's a high amount of stalling. If the branch is taken, its even worse, as then all of the subsequent instructions which were in the pipeline needs to be flushed. 
+ 
+ Techniques such as [[branch prediction]] and [[speculative execution]] are used to reduce these branch penalties. Branch prediction is  where the hardware makes educated guesses on whether a particular branch will be taken. The guess allows the hardware to prefetch instructions without waiting for the register read. Speculative execution is a further enhancement in which the code along the predicted path is executed before it is known whether the branch should be taken or not. 
+ 
+ ===Out-of-order execution=== 
+ {{main|Out-of-order execution}} 
+ The addition of caches reduces the frequency or duration of stalls due to waiting for data to be fetched from the main [[memory hierarchy]], but does not get rid of these stalls entirely. In early designs a ''cache miss'' would force the cache controller to stall the processor and wait. Of course there may be some other instruction in the program whose data ''is'' available in the cache at that point. [[Out-of-order execution]] allows that ready instruction to be processed while an older instruction waits on the cache, then re-orders the results to make it appear that everything happened in the programmed order. 
+ 
+ ===Superscalar=== 
+ {{main|Superscalar}} 
+ Even with all of the added complexity and gates needed to support the concepts outlined above, improvements in semiconductor manufacturing soon allowed even more logic gates to be used. 
+ 
+ In the outline above the processor processes parts of a single instruction at a time. Computer programs could be executed faster if multiple instructions were processed simultaneously. This is what [[superscalar]] processors achieve, by replicating functional units such as ALUs. The replication of functional units was only made possible when the [[integrated circuit]] (some times called ''' " die " ''') area of a single-issue processor no longer stretched the limits of what could be reliably manufactured. By the late 1980s, superscalar designs started to enter the market place. 
+ 
+ In modern designs it is common to find two load units, one store (many instructions have no results to store), two or more integer math units, two or more floating point units, and often a [[SIMD]] unit of some sort. The instruction issue logic grows in complexity by reading in a huge list of instructions from memory and handing them off to the different execution units that are idle at that point. The results are then collected and re-ordered at the end. 
+ 
+ ===Register renaming=== 
+ {{main|Register renaming}} 
+ Register renaming refers to a technique used to avoid unnecessary serialized execution of program instructions because of the reuse of the same registers by those instructions. Suppose we have to groups of instruction that will use the same [[Processor register|register]], one set of instruction is executed first to leave the register to the other set, but if the other set is assigned to a different similar register both sets of instructions can be executed in parallel. 
+ 
+ ===Multiprocessing and multithreading=== 
+ Due to the growing gap between CPU operating frequencies and [[Dynamic random access memory|DRAM]] access times, none of the techniques that enhance [[Instruction level parallelism|instruction-level parallelism (ILP)]] within one program could overcome the long stalls (delays) that occurred when data had to be fetched from main memory. Additionally, the large transistor counts and high operating frequencies needed for the more advanced [[Instruction level parallelism|ILP]] [[technique]]s required power dissipation levels that could no longer be cheaply cooled. For these reasons, newer generations of computers have started to utilize higher levels of parallelism that exist outside of a single program or [[thread (computer science)|program thread]]. 
+ 
+ This trend is sometimes known as ''' " throughput computing " '''. This idea originated in the mainframe market where [[OLTP|online transaction processing]] emphasized not just the execution speed of one transaction, but the capacity to deal with big numbers of transactions at the same time. With transaction-based applications such as network [[router|routing]] and [[World Wide Web|web]]-site serving greatly increasing in the last decade, the computer industry has re-emphasized capacity and throughput issues. 
+ 
+ One technique of how this parallelism is achieved is through [[multiprocessing]] systems, computer systems with multiple CPUs. In the past this was reserved for high-end [[mainframe]]s but now small scale (2-8) multiprocessors servers have become commonplace for the small business market. For large corporations, large scale (16-256) multiprocessors are common. Even [[personal computer]]s with multiple CPUs have appeared since the 1990s. 
+ 
+ Advances in semiconductor technology reduced [[transistor]] size; [[Multi-core|multicore CPUs]] have appeared where multiple CPUs are implemented on the same silicon [[Integrated circuit|chip]]. Initially used in-chips targeting embedded markets, where simpler and smaller CPUs would allow multiple instantiations to fit on one piece of silicon. By 2005, semiconductor technology allowed dual high-end desktop CPUs ''CMP'' chips to be manufactured in volume. Some designs, such as [[UltraSPARC T1]] used a simpler (scalar, in-order) designs in order to fit more processors on one piece of silicon. 
+ 
+ Recently, another [[technique]] that has become more popular is [[multithreading]]. In multithreading, when the processor has to fetch data from slow system memory, instead of stalling for the data to arrive, the processor switches to another program or program thread which is ready to execute. Though this does not speed up a particular program/thread, it increases the overall system throughput by reducing the time the CPU is idle. 
+ 
+ Conceptually, multithreading is equivalent to a [[context switch]] at the operating system level. The difference is that a multithreaded CPU can do a thread switch in one CPU cycle instead of the hundreds or thousands of CPU cycles a context switch normally requires. This is achieved by replicating the state hardware (such as the [[register file]] and [[program counter]]) for each active thread. 
+ 
+ A further enhancement is [[simultaneous multithreading]]. This technique allows [[superscalar]] [[CPU]]s to execute instructions from different programs/threads simultaneously in the same cycle. 
+ 
+ ==Related pages== 
+ 
+ * [[Microprocessor]] 
+ * [[Microcontroller]] 
+ * [[Multi-core processor]] 
+ * [[Digital signal processor]] 
+ * [[CPU design]] 
+ * [[Datapath]] 
+ * [[Instruction level parallelism|instruction-level parallelism (ILP)]] 
+ 
+ == Footnotes == 
+ * {{fnb|1}} In the context of the organization of a [[central processing unit]], an '''operator''' is a collection of [[logic gate]]s that comprises a functional unit within the processor, such as a [[barrel shifter]] or a [[final adder]]. 
+ -- > 
+ 
+ == References == 
+ < references / > 
+ 
+ == Further reading == 
+ * {{cite book|author=D. Patterson and J. Hennessy|title=Computer Organization and Design: The Hardware/Software Interface|url=https://archive.org/details/isbn_9781558606043|publisher=Morgan Kaufmann Publishers, Inc.|date=2004-08-02|isbn=1558606041}} 
+ * {{cite book|author=V. C. Hamacher, Z. G. Vrasenic, and S. G. Zaky|title=Computer Organization|publisher=McGraw-Hill|date=2001-08-02 |isbn=0072320869}} 
+ * {{cite book |title=Computer Organization and Architecture |author=William Stallings |publisher= Prentice Hall |date=2002-07-15 |isbn=0130351199}} 
+ * {{cite book |author=J. P. Hayes |title= Computer Architecture and Organization |url=https://archive.org/details/computerarchitec0003edhaye |publisher= McGraw-Hill |date=2002-09-03 |isbn=0072861983}} 
+ * {{cite book |author=Gary Michael Schneider |date=1985 |publisher=Wiley |isbn=0471885525 |pages=[https://archive.org/details/principlesofcomp0000schn/page/6 6]–7 |title= The Principles of Computer Organization|url=https://archive.org/details/principlesofcomp0000schn }} 
+ * {{cite book |title=Computer System Architecture |author=M. Morris Mano |publisher= Prentice Hall |date=1992-10-19 |isbn=0131755633 |pages=3}} 
+ * {{cite book |title=Fundamentals of Computer Organization and Architecture |author=Mostafa Abd-El-Barr and Hesham El-Rewini |publisher= Wiley-Interscience |date=2004-12-03 |isbn= 0471467413 |pages=1}} 
+ *[http://www.computer.org IEEE Computer Society] 
+ *[http://www.extremetech.com/article2/0,1697,17414,00.asp PC Processor Microarchitecture] {{Webarchive|url=https://web.archive.org/web/20110607232728/http://www.extremetech.com/article2/0,1697,17414,00.asp |date=2011-06-07 }} 
+ 
+ [[Category:Computer architecture]]

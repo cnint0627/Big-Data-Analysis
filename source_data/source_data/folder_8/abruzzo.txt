@@ -1,0 +1,223 @@
+{{Use dmy dates|date=May 2019}} 
+ {{Infobox Region of Italy 
+ |Name              = Abruzzo 
+ |Italian_name      =  
+ |region_coa        = Regione-Abruzzo-Stemma.svg 
+ |coa_size          = 50px 
+ |map               = Abruzzo in Italy.svg 
+ |flag              = Flag of Abruzzo.svg 
+ |flag_link         = 
+ |capital           = L'Aquila 
+ |area              = 10763 
+ |area_source       = 
+ |area_percent      = 3.6 
+ |population        = 1307919 
+ |population_demonym= Abruzzan(s) / Abruzzese / Abruzzesi 
+ |pop_percent       = 2.2 
+ |pop_ref           = 
+ |pop_date          = 2012-10-31 
+ |provinces         = 
+ |GDP               = 28.7 < ref > {{cite web|url=http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table & init=1 & language=en & pcode=tgs00003 & plugin=1 |title=Eurostat – Tables, Graphs and Maps Interface (TGM) table |publisher=European Commission |date=12 August 2011 |access-date=15 September 2011}} < /ref > 
+ |GDP_year          = 2008 
+ |GDP_percent       = 
+ |GDP_per_capita    = 21,400 < ref name= " GDP " > {{cite web|url=http://europa.eu/rapid/pressReleasesAction.do?reference=STAT/11/28 & type=HTML |title=EUROPA Press Releases – Regional GDP per inhabitant in 2008 GDP per inhabitant ranged from 28% of the EU27 average in Severozapaden in Bulgaria to 343% in Inner London |publisher=Europa (web portal) |access-date=8 October 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120212013333/http://europa.eu/rapid/pressReleasesAction.do?reference=STAT%2F11%2F28 & type=HTML |archive-date=12 February 2012  }} < /ref > 
+ |GDP_cap_year      = 2008 
+ |Website           = [http://www.regione.abruzzo.it/ www.regione.abruzzo.it] 
+ |leader_title      = 
+ |leader            = [[Giovanni Lolli]], ''[[ad interim]]'' 
+ |leader_party      = [[Democratic Party (Italy)|Democratic]] 
+ |ruling_party1     = 
+ |ruling_party2     = 
+ |NUTS              = ITF 
+ |iso region        = 
+ }} 
+ '''Abruzzo''' is one of the twenty [[regions of Italy]], in [[Southern Italy]] on the [[Adriatic Sea]]. The [[Capital city|capital]] is the city of [[L'Aquila]]. 
+ 
+ == Geography == 
+ The region is located in [[Southern Italy]] bordered by [[Marche]] to the north, [[Lazio]] to the west, [[Molise]] to the south and the [[Adriatic Sea]] to the east. 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Abruzzo 
+ |North     = [[Marche]] 
+ |Northeast = 
+ |East      = [[Adriatic Sea]] 
+ |Southeast = 
+ |South     = [[Molise]] 
+ |Southwest = [[Lazio]] 
+ |West      = [[Lazio]] 
+ |Northwest = 
+ }} 
+ 
+ Abruzzo is the 13th largest region in Italy, with a total area of {{Convert|10831.84|km2|sqmi|1|abbr=on}}. < ref name= " area " > {{cite web|url=http://www.tuttitalia.it/abruzzo/ |title=Abruzzo |publisher=Tuttitalia.it |language=it |access-date=2 October 2017 }} < /ref >  The main rivers in the region are: 
+ * [[Aterno-Pescara]], {{Convert|152|km|mi|1|abbr=on}} long. 
+ * [[Sangro]], {{Convert|122|km|mi|1|abbr=on}} long. 
+ * [[Vomano]], {{Convert|76|km|mi|1|abbr=on}} long. 
+ * [[Tordino]], {{Convert|59|km|mi|1|abbr=on}} long. 
+ * [[Liri]], {{Convert|120|km|mi|1|abbr=on}} long, {{Convert|40|km|mi|1|abbr=on}} in Abruzzo. 
+ 
+ The [[Tronto]] river is {{Convert|115|km|mi|1|abbr=on}} long but flows mainly in the [[Marche]] region. 
+ 
+ The highest mountain in the region is [[Corno Grande]] ({{Coord|42|28|10|N|13|33|56|E|name=Corno Grande|display=inline|region:ID_type:mountain}}), in the [[Province of Teramo|Teramo]] province, with an altitude of {{Convert|2912|m|ft|0|abbr=on }}. < ref name= " peakbagger " > {{cite web |url=http://peakbagger.com/peak.aspx?pid=10202 |title=Corno Grande, Italy |publisher=Peakbagger.com |access-date=2 October 2017 }} < /ref > 
+ 
+ == Provinces == 
+ The region is divided into four [[Provinces of Italy|provinces]]: 
+ 
+ [[File:Map of region of Abruzzo, Italy, with provinces-it.svg|thumb|center|Abruzzo provinces]] 
+ 
+ {| class= " wikitable "  style= " text-align:right; " 
+ |- 
+ ! Province 
+ ! Abbreviation 
+ ! [[Capital city|Capital]] 
+ ! style= " width:90px; " |Area < br / > < small > (km²) < /small > 
+ ! Population < ref name= " pop " > {{cite web |url=http://demo.istat.it/pop2017/index.html |title=Statistiche demografiche ISTAT |publisher=Demo.istat.it |language=it |access-date=2 October 2017 |archive-date=3 January 2018 |archive-url=https://web.archive.org/web/20180103163404/http://demo.istat.it/pop2017/index.html |url-status=dead }} < /ref > < br / > < small > (1 January 2017) < /small > 
+ ! Density < br > ( < small > inh./km²) < /small > 
+ ! ''[[Comune|Comuni]]'' 
+ |- 
+ | align=left|[[Province of Chieti|Chieti]] 
+ | align=center | CH 
+ | align=left| [[Chieti]] 
+ | 2,599.58 
+ | 389,169 
+ | {{Pop density|389169|2599.58|km2|prec=1|disp=num}} 
+ | 104 
+ |- 
+ | align=left|[[Province of L'Aquila|L'Aquila]] 
+ | align=center | AQ 
+ | align=left| [[L'Aquila]] 
+ | 5,047.55 
+ | 301,910 
+ | {{Pop density|301910|5047.55|km2|prec=1|disp=num}} 
+ | 108 
+ |- 
+ | align=left|[[Province of Pescara|Pescara]] 
+ | align=center | PE 
+ | align=left| [[Pescara]] 
+ | 1,230.33 
+ | 321,309 
+ | {{Pop density|321309|1230.33|km2|prec=1|disp=num}} 
+ | 46 
+ |- 
+ | align=left|[[Province of Teramo|Teramo]] 
+ | align=center | TE 
+ | align=left| [[Teramo]] 
+ | 1,954.38 
+ | 309,859 
+ | {{Pop density|309859|1954.38|km2|prec=1|disp=num}} 
+ | 47 
+ |- 
+ | colspan= " 3 "  | '''Total''' 
+ | 10,831.84 
+ | 1,322.247 
+ | {{Pop density|1322247|9401.38|km2|prec=1|disp=num}} 
+ | 305 
+ |} 
+ 
+ ===Largest municipalities=== 
+ The 10 [[Commune|communi]] of the region with more people living in it are: 
+ {|class= " wikitable "  style= " text-align:right; " 
+ |- 
+ ! No. 
+ ! [[Commune|Communi]] 
+ ! Province 
+ ! Population < ref name= " pop "  / > < br / > < small > (2017) < /small > 
+ ! Area < ref name= " tutti2 " > {{cite web|url=http://www.tuttitalia.it/abruzzo/42-comuni/popolazione/ |title=Comuni abruzzesi per popolazione |publisher=Tuttitalia.it |language=it |access-date= 2 October 2017}} < /ref > < small > (km < sup > 2 < /sup > ) < /small > 
+ ! [[Population density|Density]] < br / > < small > (inh./km < sup > 2 < /sup > ) < /small > 
+ |- 
+ |'''1''' 
+ | style= " text-align:left; " | [[Pescara]] 
+ | style= " text-align:left; " | [[Province of Pescara|PE]] 
+ | 120,420 
+ | 34.36 
+ | {{Pop density|120420|34.36|km2|prec=1|disp=num}} 
+ |- 
+ |'''2''' 
+ | style= " text-align:left; " | [[L'Aquila]] 
+ | style= " text-align:left; " | [[Province of L'Aquila|AQ]] 
+ | 69,605 
+ | 473.91 
+ | {{Pop density|69605|473.91|km2|prec=1|disp=num}} 
+ |- 
+ |'''3''' 
+ | style= " text-align:left; " | [[Teramo]] 
+ | style= " text-align:left; " | [[Province of Teramo|TE]] 
+ | 54,775 
+ | 152.84 
+ | {{Pop density|54775|152.84|km2|prec=1|disp=num}} 
+ |- 
+ |'''4''' 
+ | style= " text-align:left; " | [[Montesilvano]] 
+ | style= " text-align:left; " | [[Province of Pescara|PE]] 
+ | 54,152 
+ | 23.57 
+ | {{Pop density|54152|23.57|km2|prec=1|disp=num}} 
+ |- 
+ |'''5''' 
+ | style= " text-align:left; " | [[Chieti]] 
+ | style= " text-align:left; " | [[Province of Chieti|CH]] 
+ | 51,330 
+ | 59.57 
+ | {{Pop density|51330|59.57|km2|prec=1|disp=num}} 
+ |- 
+ |'''6''' 
+ | style= " text-align:left; " | [[Avezzano]] 
+ | style= " text-align:left; " | [[Province of L'Aquila|AQ]] 
+ | 42,509 
+ | 104.09 
+ | {{Pop density|42509|104.09|km2|prec=1|disp=num}} 
+ |- 
+ |'''7''' 
+ | style= " text-align:left; " | [[Vasto]] 
+ | style= " text-align:left; " | [[Province of Chieti|CH]] 
+ | 41,283 
+ | 71.35 
+ | {{Pop density|41283|71.35|km2|prec=1|disp=num}} 
+ |- 
+ |'''8''' 
+ | style= " text-align:left; " | [[Lanciano]] 
+ | style= " text-align:left; " | [[Province of Chieti|CH]] 
+ | 35,251 
+ | 66.94 
+ | {{Pop density|35251|66.94|km2|prec=1|disp=num}} 
+ |- 
+ |'''9''' 
+ | style= " text-align:left; " | [[Roseto degli Abruzzi]] 
+ | style= " text-align:left; " | [[Province of Teramo|TE]] 
+ | 25,602 
+ | 53.27 
+ | {{Pop density|25602|53.27|km2|prec=1|disp=num}} 
+ |- 
+ |'''10''' 
+ | style= " text-align:left; " | [[Francavilla al Mare]] 
+ | style= " text-align:left; " | [[Province of Chieti|CH]] 
+ | 25,520 
+ | 23.09 
+ | {{Pop density|25520|23.09|km2|prec=1|disp=num}} 
+ |} 
+ 
+ ==Gallery== 
+ < div style= " display:table;margin:0 auto; " > 
+ < gallery mode= " packed " > 
+ File:Yellow flowers at Campo Imperatore-1.jpg|[[Corno Grande]]. 
+ File:Palazzo della Camera di Commercio Chieti.jpg|Chamber of Commerce, [[Chieti]]. 
+ File:L'Aquila, San Pietro a Coppito 2007 by-RaBoe-1.jpg|''San Pietro a Coppito'' church, [[L'Aquila]]. 
+ File:Pescara - Cattedrale di San Cetteo 01.JPG|Cathedral of [[Pescara]]. 
+ File:Duomo di Teramo - facciata principale.jpg|''Duomo'' of [[Teramo]]. 
+ < /gallery > 
+ < /div > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commons}} 
+ {{wikivoyage|Abruzzo}} 
+ * [http://www.regione.abruzzo.it/ Official Site] {{in lang|it}} 
+ * [http://www.visitabruzzo.co.uk/ Official Tourist Information] {{Webarchive|url=https://web.archive.org/web/20121005061916/http://www.visitabruzzo.co.uk/ |date=2012-10-05 }} 
+ 
+ {{coord|42|21|58|N|12|23|40|E|display=title}} 
+ 
+ {{Abruzzo}} 
+ {{Regions of Italy}} 
+ {{authority control}} 
+ [[Category:Abruzzo| ]]

@@ -1,0 +1,8 @@
+'''Foobar''', and sometimes '''foo''' and '''bar''' separately, are common placeholder names in [[computing]]. < ref > {{Cite news|date=2001-04-01|title=RFC 3092: Etymology of  " Foo " |language=en|work=IETF Datatracker|url=https://datatracker.ietf.org/doc/html/rfc3092|access-date=2023-03-26}} < /ref >   
+ 
+ Foobars have been used to name [[wikt:variable|variable]]s, [[wikt:function|function]]s, and [[Command (computing)|command]]s whose exact identity is unimportant. For example, a [[JavaScript]] tutorial might explain that two variables can be created at once with the code '''var foo, bar = 5'''. It's a lot like the placeholder letters x and y in [[algebra]]. 
+ 
+ == References == 
+ < references / > 
+ 
+ [[Category:Computing]]

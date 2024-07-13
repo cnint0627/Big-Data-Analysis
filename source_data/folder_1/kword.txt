@@ -1,0 +1,34 @@
+{{Infobox Software  
+ | name                   = KWord  
+ | logo                   = KWord Application Logo.svg  
+ | screenshot             = KWord-2.0-screenshot.png  
+ | caption                = KWord 2.0 screenshot  
+ | developer              = [[KDE]]  
+ | latest_release_version = 2.1  
+ | latest_release_date    = {{release date and age|2009|11|24}} 
+ | operating_system       = [[Unix-like]], [[Microsoft Windows]](Alpha)  
+ | genre                  = [[Word processor]]  
+ | license                = [[LGPL]]  
+ | website                = http://www.koffice.org/kword 
+ }} 
+ 
+ '''KWord''' is a [[Free Software|free]] [[word processor]], a part of the [[KOffice]] project and of the [[KDE|K Desktop Environment]]. 
+ 
+ The text-layout scheme in KWord is based on frames, making it look like [[Adobe Systems|Adobe]] [[FrameMaker]]. These can be placed anywhere on the page, and can include text, graphics and embedded objects. Each new page is a new frame, but the text is able to flow through KWord’s ability to link frames together. The use of frames means that complex graphical layouts can be achieved easily in KWord. 
+ 
+ == History == 
+ KWord was created as part of the KOffice project in 1998 using some ideas from [[FrameMaker]] such as the frames approach. The first author said that the application and its code were not the best since it was his first [[Object-oriented programming|object-oriented]] application. 
+ 
+ In 2000 the KWord application was created in a way that made it very hard to fix problems and nobody was working on the problems anymore. There had not been any official release of the application in all this time. In the same year a new maintainer started working on the application and over the duration of 2000 and the beginning of 2001 they worked to fix any problems in the code of the application.{{Fact|date=April 2008}} 
+ 
+ ==Related pages== 
+ *[[KOffice]] 
+ 
+ == Other websites == 
+ *[http://www.koffice.org/kword Project Homepage] {{Webarchive|url=https://web.archive.org/web/20081011052044/http://koffice.org/kword |date=2008-10-11 }} 
+ *[http://docs.kde.org/stable/en/koffice/kword/index.html KWord user manual] 
+ *[http://koffice.org/filters koffice.org/filters - List of supported file formats in KWord] {{Webarchive|url=https://web.archive.org/web/20080509071612/http://koffice.org/filters/ |date=2008-05-09 }} 
+ *[http://www.kdedevelopers.org/node/2997 KWord in Windows] {{Webarchive|url=https://web.archive.org/web/20100613153544/http://kdedevelopers.org/node/2997 |date=2010-06-13 }} 
+ 
+ [[Category:KOffice]] 
+ [[Category:Word processors]]

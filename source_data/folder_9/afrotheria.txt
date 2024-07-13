@@ -1,0 +1,46 @@
+{{Taxobox 
+ | name = Afrotheria 
+ | fossil_range = [[Palaeocene]] {{ndash}} Recent 
+ | image =Afrotheria.jpg 
+ | image_width = 250px 
+ | image_caption = < small > 1.''[[Orycteropus]]'' 2.''[[Dugong]]'' 3.''[[Rhynchocyon]]'' 4.''[[Trichechus]]'' sp. 5.[[Chrysochloridae]] sp. 6.''[[Procavia]]'' 7.''[[Loxodonta africana]]'' 8.''[[Tenrec]]''  < /small > 
+ | regnum = [[Animal]]ia 
+ | classis = [[Mammal]]ia 
+ | unranked infraclassis = [[Eutheria]] 
+ | infraclassis = [[Placentalia]] 
+ | superordo = '''Afrotheria'''}} 
+ 
+ The '''Afrotheria''' is a group of [[mammal]]s, (a [[superorder]] or a [[clade]]). It includes the [[golden mole]]s, [[elephant shrew]]s, [[tenrec]]s, [[aardvark]]s, [[hyraxes]], [[elephant]]s and [[manatee]]s.  
+ 
+ Biologists made this group based on [[DNA]] [[sequence analysis]]. < ref > Stanhope M.J. ''et al'' 1998. Molecular evidence for multiple origins of Insectivora and for a new order of endemic African insectivore mammals. ''Proceedings of the National Academy of Sciences'' '''95''' (17): 9967–9972. [http://www.pnas.org/content/95/17/9967] < /ref >  Afrotheria are one of four major groups in the [[Eutheria]] ([[placental]] mammals). Afrotheria means  " African animals " ,  " afro "  for [[Africa]] and  " theria "  for [[animalia|animals]].  
+ 
+ More recent [[genomics]] suggests that Afrotheria and [[Xenarthra]] are sister [[taxa]] at the base of the placental mammal [[Adaptive radiation|radiation]]. < ref > Prasad A.B; Allard M.W; NISC Comparative Sequencing Program and Green E.D. 2008. Confirming the phylogeny of mammals by use of large comparative sequence data sets. ''Mol Biol Evol'' '''25''': 1795–1808 < /ref > 
+ 
+ Relations between the various afrotherian orders are still being studied. Elephants and manatees seem to be related, and likewise elephant shrews and aardvarks. < ref name=Svartman2012 > Svartman M.  &  Stanyon R. 2012. The chromosomes of Afrotheria and their bearing on mammalian genome evolution. ''Cytogenet Genome Res''. [https://pubmed.ncbi.nlm.nih.gov/22868637/] < /ref >  These findings are compatible with the work of earlier anatomists. < ref name= " Simpson " > Simpson G.G. 1945. The principles of classification and a classification of mammals.'' Bulletin of the American Museum of Natural History'' '''85''': 1-350. < /ref > < ref name=Tabuce > Tabuce R; Asher R.J.  &  Lehmann T. 2008. Afrotherian mammals: a review of current data. ''Mammalia'' '''72''': 2-14. < /ref > 
+ 
+ ==Organization== 
+ Afrotheria is a clade of placental mammals. < ref name=MSW3 > {{cite web|title=Afrosoricida|url=http://www.afrotheria.net/information.php|work=Mammal Species of the World, 3rd edition|access-date=17 March 2014}} < /ref > < ref > McDowell, S. B. 1958. The Greater Antillean insectivores. Bulletin of the American Museum of Natural History 115: 115--213. < /ref > 
+ * '''Afrotheria''' 
+ **†''[[Ocepeia]]'': (basal)  < ref name=Gheerbrantetal2014 > Gheerbrant, Emmanuel ''et al'' 2014. Ocepeia (Middle Paleocene of Morocco): the oldest skull of an Afrotherian mammal. ''PLoS ONE'' '''9''' (2): e89739. [http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089739] < /ref >   
+ **†[[Hyopsodontidae]]: (possible member of [[stem group]])  < ref name=Tabuce2014 > Tabuce, Rodolphe ''et al'' 2007. Early Tertiary mammals from North Africa reinforce the molecular Afrotheria clade. Proc. R. Soc. B 2007 274, doi: 10.1098/rspb.2006.0229 < /ref > 
+ **Clade [[Afroinsectiphilia]] 
+ ***Order [[Macroscelidea]]: [[elephant shrews]] (Africa) 
+ ***Order [[Afrosoricida]]: [[tenrec]]s and [[golden mole]]s (Africa) 
+ ***Order [[Tubulidentata]]: [[aardvark]] (Africa south of the Sahara) 
+ ***Order †[[Bibymalagasia]]: (probable member) 
+ ***Order †[[Ptolemaiida]]: poorly understood carnivorous mammals (extinct). < ref name=Seiffert > {{cite journal|last=Seiffert|first=Erik R|title=A new estimate of afrotherian phylogeny based on simultaneous analysis of genomic, morphological, and fossil evidence|journal=BMC Evolutionary Biology|year=2007|volume=7|issue=1|pages=224|doi=10.1186/1471-2148-7-224|pmid=17999766|pmc=2248600}} < /ref > 
+ *** Order †[[Afredentata]]: [[Pangolin]] (probable member)  < ref name=Horovitz2005 > Horovitz, Ines ''et al'' 2005. Ankle structure in Eocene pholidotan mammal ''Eomanis krebsi'' and its taxonomic implications. ''Acta Palaeontol. Pol''. '''50''' (3): 545–548 < /ref > 
+ **Clade [[Paenungulata]] 
+ ***Order [[Hyracoidea]]: hyraxes or dassies (Africa, Arabia) 
+ ***Order [[Proboscidea]]: elephants (Africa, Southeast Asia) 
+ ***Order [[Sirenia]]: dugong and manatees ([[cosmopolitan (species)|cosmopolitan]] tropical) 
+ ***Order †[[Desmostylia]] 
+ ***Order †[[Embrithopoda]] 
+ 
+ == References == 
+ {{reflist}} 
+ {{wikispecies|Afrotheria}} 
+ 
+ 
+ 
+ [[Category:Mammals|Afrotheria]]

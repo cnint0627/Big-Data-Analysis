@@ -1,0 +1,134 @@
+{{Infobox river 
+ | name              = Clain  
+ | image             =  
+ | image_caption     =  
+ | map               = Clain (rivière).png 
+ | source1_location  = [[Poitou]]  
+ | mouth_location    = [[Vienne (river)|Vienne]] 
+ | mouth_coordinates = {{coord|46|46|52|N|0|32|26|E|format=dms|display=inline,title}} 
+ 
+ | subdivision_type1 = Country 
+ | subdivision_name1 = [[France]] 
+ | length            = {{convert|144|km|abbr=on}} 
+ | source1_elevation =  
+ | discharge1_avg    =  
+ | basin_size        = {{convert|3,145|km2|abbr=on}} 
+ }} 
+ The '''Clain''' is a [[river]] in western [[France]] that flows through the [[Nouvelle-Aquitaine]] region. It flows into the [[Vienne (river)|Vienne]] river, as a left [[tributary]]. 
+ 
+ ==Geography== 
+ The Clain river has a length of {{Convert|144|km|mi|0|abbr=on}} and a [[drainage basin]] with an area of approximately {{Convert|3217|km2|sqmi|0|abbr=on }}. < ref name= " sandre " > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=L2--0160 |title=Le Clain (L2--0160) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=17 April 2017 }} < /ref > 
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|21.5|m3/s|cuft/s|abbr=on }} at [[Dissay]], south of [[Châtellerault]] near the confluence with the Vienne river. < ref > {{cite web |url=http://www.hydro.eaufrance.fr/stations/L2501610 & procedure=synthese |title=Le Clain à Dissay |publisher=Banque Hydro |language=fr |access-date=17 April 2017 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303183802/http://www.hydro.eaufrance.fr/stations/L2501610%26procedure%3Dsynthese |url-status=dead }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:50 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 35.70 
+  bar:Feb from:0 till: 40.00 
+  bar:Mar from:0 till: 30.70 
+  bar:Apr from:0 till: 26.90 
+  bar:May from:0 till: 20.60 
+  bar:Jun from:0 till: 15.20 
+  bar:Jul from:0 till: 10.40 
+  bar:Aug from:0 till: 8.22 
+  bar:Sep from:0 till: 8.51 
+  bar:Oct from:0 till: 11.40 
+  bar:Nov from:0 till: 18.10 
+  bar:Dec from:0 till: 28.80 
+ 
+ PlotData= 
+  bar:Jan at: 35.70 fontsize:S text: 35.70 shift:(-8,5) 
+  bar:Feb at: 40.00 fontsize:S text: 40.00 shift:(-12,5) 
+  bar:Mar at: 30.70 fontsize:S text: 30.70 shift:(-12,5) 
+  bar:Apr at: 26.90 fontsize:S text: 26.90 shift:(-12,5) 
+  bar:May at: 20.60 fontsize:S text: 20.60 shift:(-12,5) 
+  bar:Jun at: 15.20 fontsize:S text: 15.20 shift:(-12,5) 
+  bar:Jul at: 10.40 fontsize:S text: 10.40 shift:(-12,5) 
+  bar:Aug at: 8.22 fontsize:S text: 8.22 shift:(-10,5) 
+  bar:Sep at: 8.51 fontsize:S text: 8.51 shift:(-10,5) 
+  bar:Oct at: 11.40 fontsize:S text: 11.40 shift:(-12,5) 
+  bar:Nov at: 18.10 fontsize:S text: 18.10 shift:(-12,5) 
+  bar:Dec at: 28.80 fontsize:S text: 28.80 shift:(-12,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Dissay''' 
+ < /center > 
+ 
+ ===Course=== 
+ The Clain river starts in the [[Charente]] department near the border with the [[Vienne]] department, in the place called ''Chapelle Beau Clain'' to the south of the ''[[commune]]'' of [[Hiesse]], at an [[elevation]] of about {{Convert|210|m|ft|0|abbr=on}}. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=0.591389,46.026389 & z=16 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Source du Clain |publisher=Géoportail |language=fr |access-date=17 April 2017 }} < /ref >  From here, it flows to the north into the Vienne department. 
+ 
+ Finally, the river flows into the [[Vienne (river)|Vienne]] river, on the left side, in the ''commune'' of [[Cenon-sur-Vienne]] near [[Châtellerault]]. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=0.540556,46.781389 & z=15 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Confluence du Clain |publisher=Géoportail |language=fr |access-date=17 April 2017 }} < /ref > 
+ 
+ The Clain flows through 2 departments and 33 ''communes'', in the Nouvelle-Aquitaine region: < ref name= " sandre "  / > 
+ * [[Charente]]: [[Hiesse]], [[Alloue]]. 
+ * [[Vienne]]: [[Champagne-Saint-Hilaire]], [[Pressac]], [[Epenede]], [[Romagne, Vienne|Romagne]], [[Sommières-du-Clain]], [[Château-Garnier]], [[Joussé]], [[Payroux]], [[Mauprevoir]], [[Saint-Martin-l'Ars]], [[Voulon]], [[Anche]], [[Naintré]], [[Beaumont, Vienne|Beaumont]], [[Vouneuil-sur-Vienne]], [[Saint-Cyr, Vienne|Saint-Cyr]], [[Migne-Auxances]], [[Jaunay-Clan]], [[Chasseneuil-du-Poitou]], [[Saint-Georges-lès-Baillargeaux]], [[Dissay]], [[Liguge]], [[Poitiers]], [[Saint-Benoit, Vienne|Saint-Benoit]], [[Buxerolles, Vienne|Buxerolles]], [[Smarves]], [[Iteuil]], [[Roches-Premarie-Andille]], [[Aslonnes]], [[Vivonne]], [[Cenon-sur-Vienne]] ([[confluence]]). 
+ 
+ ==Main tributaries == 
+ The main [[Tributary|tributaries]] of the Clain river are: < ref name= " sandre "  / > 
+ {| 
+ | width= " 60% "  valign= " top " | 
+ Left tributaries: 
+ * Dive du Sud - 43.9 & nbsp;km 
+ * Vonne - 72.9 & nbsp;km 
+ * Boivre - 46.1 & nbsp;km 
+ * Auxance - 61.6 & nbsp;km 
+ * Palu - 31.5 & nbsp;km 
+ | valign= " top " | 
+ Right tributaries: 
+ * Clouère - 76.3 & nbsp;km 
+ * Miosson - 33.4 & nbsp;km 
+ |} 
+ 
+ ==Gallery== 
+ < center > 
+ < gallery widths=180px > 
+ File:Le Clain au Pont Saint-Cyprien à Poitiers.JPG|The Clain in the ''Pont Saint-Cyprien'', [[Poitiers]]. 
+ File:Clain a Poitiers.jpg|The Clain in [[Poitiers]]. 
+ File:Chasseneuil-du-Poitou le Clain.JPG|The Clain in [[Chasseneuil-du-Poitou]]. 
+ File:Romagne La Millière 2012.jpg|''Pont de la Millière'' over the Clain, [[Romagne]]. 
+ < /gallery > 
+ < /center > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat}} 
+ * [http://www.hydro.eaufrance.fr/selection.php Banque Hydro - Station L2501610 - Le Clain à Dissay] {{Webarchive|url=https://web.archive.org/web/20150219053605/http://www.hydro.eaufrance.fr/selection.php |date=2015-02-19 }} {{in lang|fr}} 
+ 
+ [[Category:Rivers of Nouvelle-Aquitaine]]

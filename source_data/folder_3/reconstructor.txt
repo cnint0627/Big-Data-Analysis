@@ -1,0 +1,46 @@
+{{Infobox Software 
+ | name                   = Reconstructor 
+ | logo                   = Reconstructor.png 
+ | screenshot             =  
+ | caption                =  
+ | collapsible            =  
+ | author                 =  
+ | developer              =  
+ | released               =  
+ | latest release version =  
+ | latest release date    =  
+ | latest preview version = 2.8.1 [http://reconstructor.aperantis.com/index.php?option=com_joomlaboard & func=view & id=1043 & catid=5#1043] 
+ | latest preview date    =  
+ | frequently updated     =  
+ | programming language   =  
+ | operating system       = [[Ubuntu]] 
+ | platform               =  
+ | size                   =  
+ | language               =  
+ | status                 = Inactive  
+ | genre                  =  
+ | license                =  
+ | website                = http://reconstructor.org 
+ }} 
+ '''Reconstructor''' is a program that allows anyone to customize an [[.iso|iso image]] of [[Ubuntu]]. 
+ 
+ ==Features== 
+ *Ability to change the Boot image, Boot Progress Splash (usplash), wallpaper, Gnome Splash Screen, GDM theme, and other settings < ref > http://reconstructor.aperantis.com/index.php?option=com_content & task=view & id=29 & Itemid=39 < /ref > 
+ *Ability to add software to new compilation < ref name= " gallery " > http://reconstructor.aperantis.com/gallery/ < /ref > 
+ *Ability to enable all the repositories and add custom ones < ref name= " gallery " / > 
+ *Integrated option to burn the iso < ref name= " gallery " / > 
+ 
+ ==Related pages== 
+ *[[remastersys]], a similar program 
+ *[http://uck.sourceforge.net/ Ubuntu Customization Kit] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *[http://reconstructor.aperantis.com/ Official Website] 
+ *[http://hacktolive.org/wiki/Reconstructor Download reconstructor] {{Webarchive|url=https://web.archive.org/web/20090118214910/http://hacktolive.org/wiki/Reconstructor |date=2009-01-18 }} 
+ 
+ {{tech-stub}} 
+ 
+ [[category:Software]]

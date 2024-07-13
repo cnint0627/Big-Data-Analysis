@@ -1,0 +1,18 @@
+In [[computing]], '''NaN''' stands for '''Not a Number'''. It means the result of input is or unrepresentable. For example, [[division by zero]] in most [[Programming language]] returns NaN. Systematic use of NaN was introduced by the IEEE 754 in 1985, along with the other numbers such as [[Infinity|infinities]]. 
+ 
+ == In [[JavaScript]] == 
+ In [[JavaScript]], {{Code|code=NaN == NaN|lang=javascript}} or  {{Code|code=NaN == other_value|lang=javascript}} returns {{Code|code=false|lang=javascript}}. using {{Code|code====|lang=javascript}} also returns {{Code|code=false|lang=javascript}}. You can use {{Code|code=Number.isNaN(myVar)|lang=javascript}} or {{Code|code=isNaN(myVar)|lang=javascript}} to check if a value is NaN. there is difference between two functions. the {{Code|code=Number.isNaN(myVar)|lang=javascript}} returns {{Code|code=true|lang=javascript}} when the value is NaN when parsed to int. but {{Code|code=isNaN(myVar)}} returns {{Code|code=true|lang=javascript}} when the value is currently NaN. < ref > {{Cite web|title=NaN - JavaScript {{!}} MDN|url=https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN|access-date=2022-08-06|website=developer.mozilla.org|language=en-US}} < /ref > 
+ 
+ For example: 
+ 
+ {{Code|code=Number.isNaN('Hi!') // returns true because 'Hi!' in integer is NaN|lang=javascript}} 
+ 
+ {{Code|code=isNaN('Hi!') // returns false because 'Hi!' is not NaN|lang=javascript}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Computing]] 
+ 
+ 
+ {{tech-stub}}

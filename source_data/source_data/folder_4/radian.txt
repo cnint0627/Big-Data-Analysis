@@ -1,0 +1,38 @@
+[[File:Radian cropped color.svg|250px|thumb|Definition of a radian]] 
+ [[File:Circle_radians.gif|thumb|250px|right|A radian is a unit of angular measure. A revolution of a circle has an angle of 2π radians.]] 
+ 
+ A '''radian''' is a unit of measuring [[angle]]s. It is shown by the symbol  " rad " < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-08-31|website=Math Vault|language=en-uk}} < /ref >  or, less often,  < sup > c < /sup >  (for circular measure). The radian was once an [[SI]] [[supplementary unit]], but was changed to a derived unit in 1995. A radians arc length is equal to the radii from the circle it is part of. 
+ 
+ ==Usage== 
+ Most people who do mathematics or physics use radians, rather than [[degree (angle)|degrees]], because some kinds of calculations, mostly in [[trigonometry]] and [[calculus]], are simpler when using radians rather than degrees. Thus, most calculations related to [[angular frequency]] (such as [[angular velocity]]) use radians per second.  
+ 
+ People who look through a [[telescope]] or [[sniper scope]] often use milliradians to describe distances as seen through it. 
+ 
+ ==Conversion== 
+ 1 radian is equal to about 57.3°. There are 2[[Pi (mathematical constant)|π]] radians (about 6.28 radians) in a full circle. < ref > {{Cite web|title=Radian - math word definition - Math Open Reference|url=https://www.mathopenref.com/radians.html#:~:text=The%20radian%20is%20a%20unit,an%20arc%20of%20a%20circle.|access-date=2020-08-31|website=www.mathopenref.com}} < /ref >  The formula for turning radians to degrees and vice versa is: < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Radian|url=https://mathworld.wolfram.com/Radian.html|access-date=2020-08-31|website=mathworld.wolfram.com|language=en}} < /ref > 
+ : < math > 2\pi\mbox{ rad} = 360^\circ < /math > 
+ : < math > 1 \mbox{ rad} = \frac {360^\circ} {2 \pi} = \frac {180^\circ} {\pi} \approx 57.29577951^\circ  < /math > 
+ 
+ or: 
+ 
+ : < math > 360^\circ=2\pi\mbox{ rad} < /math > 
+ : < math > 1^\circ=\frac{2\pi}{360}\mbox{ rad}=\frac{\pi}{180}\mbox{ rad} \approx 0.01745329\mbox{ rad} < /math > 
+ 
+ we can also say that: 
+ 
+ : < math > x \mbox{ rad} = \left(\frac{180x}{\pi}\right)^\circ < /math > . 
+ 
+ == Related pages == 
+ 
+ * [[Steradian]] 
+ * [[Tau]], the measure of a full circle in radian 
+ * [[Unit circle]] 
+ 
+ == References == 
+ < references / > 
+ {{SI units}} 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Angles]] 
+ [[Category:SI derived units]]

@@ -1,0 +1,49 @@
+{{complex|date=September 2011}} 
+ A '''nucleophile''' is a [[Chemical species]] that donates an electron-pair to an [[electrophile]] to form a [[chemical bond]] in a [[Chemical reaction|reaction]]. All [[molecule]]s or [[ion]]s with a free pair of [[electron]]s can be nucleophiles. This pair of electrons is called [[lone pair]]. Because nucleophiles donate electrons, they fit the definition of [[Lewis base]]s.  
+ 
+ '''Nucleophilic''' describes the attraction of a nucleophile to the nuclei. '''Nucleophilicity''', sometimes referred to as  '''nucleophile strength''', refers to a substance's nucleophilic character and is often used to compare the attraction of atoms. 
+ 
+ Neutral nucleophilic reactions with [[Solvent|solvents]] such as [[alcohol]]s and water are called  " [[solvolysis]] " . Nucleophiles may take part in [[nucleophilic substitution]] reactions. In those reactions, a nucleophile becomes attracted to a full or partial positive charge. 
+ 
+ ==History== 
+ The terms ''nucleophile'' and ''electrophile'' were introduced by [[Christopher Kelk Ingold]] in 1929, < ref > Ingold, C. K. Recl. TraV. Chim. Pays-Bas '''1929''' < /ref >  replacing the terms ''cationoid'' and ''anionoid'' proposed earlier by [[A. J. Lapworth]] in 1925. < ref > Lapworth, A. [[Nature (journal)|Nature]] '''1925''', 115, 625 < /ref > 
+ 
+ The word nucleophile is derived from [[atomic nucleus|nucleus]] and the Greek word [[-phil-|φιλος, philos]] for love. 
+ 
+ ==Properties== 
+ In general, within a row across the [[periodic table]], the more [[Base (chemistry)|basic]] the ion (the higher the pK < sub > a < /sub >  of the conjugate [[acid]]) the more reactive it is as a nucleophile. In a given group, [[polarizability]] is more important in the determination of the nucleophilicity. In other words, the easier it is to distort the electron cloud around an atom or molecule, the more readily it will react. For example, the [[iodide]] ion (I < sup > − < /sup > ) is more nucleophilic than the [[fluoride]] ion (F < sup > − < /sup > ). 
+ 
+ ==Types of nucleophiles== 
+ Examples of nucleophiles are [[anion]]s such as [[Chlorine|Cl]] < sup > − < /sup > , or a compound with a lone pair of electrons such as NH < sub > 3 < /sub >  ([[ammonia]]). 
+ 
+ In the example below, the [[oxygen]] of the hydroxide ion donates an electron pair to bond with the [[carbon]] at the end of the [[alkyl halide|bromopropane]] molecule.  The bond between the carbon and the [[bromine]] then undergoes [[heterolytic fission]], with the [[bromine]] atom taking the donated electron and becoming the [[bromide]] ion (Br < sup > − < /sup > ). This is a [[SN2 reaction|S < sub > N < /sub > 2 reaction]] [[wikt:occurs|occurs]] by backside attack.  This means that the hydroxide ion attacks the carbon atom from the other side, exactly opposite the bromine ion.  Because of this backside attack, S < sub > N < /sub > 2 reactions result in a reversal of the [[Molecular configuration|configuration]] of the electrophile.  If the electrophile is [[chirality|chiral]], it typically keeps its chirality, though the S < sub > N < /sub > 2 product's configuration is flipped as compared to that of the original electrophile ([[Walden inversion]]).   
+ 
+ [[image:hydrox subst.png|Displacement of bromine by a hydroxide]] 
+ 
+ An '''ambident nucleophile''' is one that can attack from two or more places, resulting in two or more products.  For example, the [[thiocyanate]] ion (SCN < sup > − < /sup > ) may attack from either the [[Sulfur|S]] or the [[nitrogen|N]]. For this reason, the [[SN2 reaction|S < sub > N < /sub > 2 reaction]] of an alkyl halide with SCN < sup > − < /sup >  often leads to a mixture of RSCN (an alkyl thiocyanate) and RNCS (an alkyl [[isothiocyanate]]). Similar mixtures will happen in the [[Kolbe nitrile synthesis]]. 
+ 
+ ===Carbon nucleophiles=== 
+ Alkyl metal halides are carbon nucleophiles found in the [[Grignard reaction]], [[Blaise reaction]], [[Reformatsky reaction]], and [[Barbier reaction]], [[organolithium reagent]]s, and [[anion]]s of a [[Polymer|terminal]] [[alkyne]]. 
+ 
+ [[Enol]]s are also carbon nucleophiles.  The formation of an enol is catalyzed by acid or base.  Enols are ambident nucleophiles, but, in general, nucleophilic at the carbon atom next to the carbons with double bond (alpha carbon atom). 
+ Enols are commonly used in [[condensation reaction]]s, including the [[Claisen condensation]] and the [[Aldol reaction|aldol condensation reaction]]s. 
+ 
+ ===Oxygen nucleophiles=== 
+ Examples of oxygen nucleophiles are [[water]] (H < sub > 2 < /sub > O), [[hydroxide]] anion, [[alcohol]]s, [[alkoxide]] anions, [[hydrogen peroxide]], and [[Carboxylate|carboxylate anions]]. 
+ 
+ ===Sulfur nucleophiles=== 
+ Of [[sulfur]] nucleophiles, [[hydrogen sulfide]] and its salts, [[thiol]]s (RSH), thiolate anions (RS < sup > − < /sup > ), anions of thiolcarboxylic acids (RC(O)-S < sup > − < /sup > ), and anions of dithiocarbonates (RO-C(S)-S < sup > − < /sup > ) and dithiocarbamates (R < sub > 2 < /sub > N-C(S)-S < sup > − < /sup > ) are used most often. 
+ 
+ In general, sulfur is very nucleophilic because of its large size, which makes it readily polarizable, and its lone pairs of electrons are readily accessible. 
+ 
+ ===Nitrogen nucleophiles=== 
+ [[Nitrogen]] nucleophiles include [[ammonia]], [[azide]], [[amine]]s, and [[nitrite]]s. 
+ 
+ ==Related pages== 
+ *[[Electrophile]] 
+ *[[Lewis base]] 
+ 
+ ==References== 
+ < references/ > 
+ 
+ [[Category:Organic chemistry]]

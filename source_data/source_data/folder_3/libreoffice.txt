@@ -1,0 +1,94 @@
+{{Infobox software 
+ | name = LibreOffice 
+ | logo = LibreOffice Logo Flat.svg 
+ | screenshot = LibreOffice 7.1.2 (released in 2021-04, running on Linux and GNOME with the default icon set).png 
+ | caption = LibreOffice 7.1.2 Start Center (running on [[Linux]] and [[GNOME]]) 
+ | collapsible = 
+ | author = [[Star Division]] 
+ | developer = [[The Document Foundation]] 
+ | released = {{Start date and age|2011|01|25|df=yes}} < ref name= " pressrelease33 " > {{cite web |url=http://blog.documentfoundation.org/2011/01/25/the-document-foundation-launches-libreoffice-3-3/ |title=The Document Foundation launches LibreOffice 3.3 |last=Effenberger |first=Florian |date=25 January 2011 |publisher=The Document Foundation |access-date=8 October 2021 |archive-date=3 March 2011 |archive-url=https://web.archive.org/web/20110303000124/http://blog.documentfoundation.org/2011/01/25/the-document-foundation-launches-libreoffice-3-3/ |url-status=live}} < /ref > 
+ | latest release version = {{Multiple releases 
+   | branch1 = Fresh 
+   | version1 = {{wikidata|property|preferred|references|edit|Q10135|P348|P548=Q2804309}} 
+   | date1 = {{wikidata|qualifier|preferred|single|Q10135|P348|P548=Q2804309|P577}} 
+   | branch2 = Still 
+   | version2 = {{wikidata|property|preferred|references|edit|Q10135|P348|P548=Q15726348}} 
+   | date2 = {{wikidata|qualifier|preferred|single|Q10135|P348|P548=Q15726348|P577}} 
+ }} 
+ | latest preview version = {{wikidata|property|preferred|references|edit|Q10135|P348|P548=Q51930650}} 
+ | latest preview date = {{wikidata|qualifier|preferred|single|Q10135|P348|P548=Q51930650|P577}} 
+ | programming language = [[C++]], [[XML]] and [[Java (programming language)|Java]] < ref > {{cite web |url=https://www.openhub.net/p/libreoffice/analyses/latest/languages_summary |title=The LibreOffice Open Source Project on Open Hub: Languages Page |access-date=8 October 2021}} < /ref > 
+ | operating system = [[Microsoft Windows]], [[Linux]], [[macOS]] 
+ | platform = [[x86-64]] (all operating systems), [[IA-32]], [[ARM architecture|ARM]], [[MIPS architecture|MIPS]], [[PowerPC]], [[S390x]] < ref > {{cite web |url=https://packages.debian.org/bullseye/libreoffice |title=Debian -- Details of package libreoffice in bullseye |publisher=[[Debian]] project |access-date=8 October 2021 |archive-url=https://web.archive.org/web/20211008195525/https://packages.debian.org/bullseye/libreoffice |archive-date=8 October 2021 |url-status=live}} < /ref > 
+ | replaces = [[OpenOffice.org]] 
+ | language = 119 languages < ref name=LangCount > {{cite web|url=https://www.libreoffice.org/download/download/?lang=pick | title=Download LibreOffice – Select language |publisher=The Document Foundation |access-date=8 October 2021}} < /ref > 
+ | genre = [[Office suite]] 
+ | license = [[Mozilla Public License|MPLv2.0]] (secondary license [[GNU General Public License|GPL]], [[GNU Lesser General Public License|LGPLv3+]] or [[Apache License|Apache License 2.0]]) < ref name= " LibreOffice License " > {{cite web|url=https://www.libreoffice.org/download/license/ |title=Licenses |publisher=The Document Foundation |access-date=8 October 2021}} < /ref > 
+ | website = {{URL|https://www.libreoffice.org/}} 
+ | standard = [[OpenDocument]] 
+ }} 
+ 
+ '''LibreOffice''' is a free [[open source]] [[office suite]]. It was [[fork (software development)|forked]] from [[Sun Microsystems]]' [[OpenOffice.org]] office suite. It is a collection of office-related applications. This includes a word processor, a spreadsheet program and a presentation program. It is available for many different operating systems, including [[Windows]], [[macOS]] and [[Linux]]. It supports the [[OpenDocument]] format as well as the file formats of Microsoft Office and most other office suites. 
+ 
+ LibreOffice was created by [[the Document Foundation]] in response to [[Oracle Corporation]]'s acquisition of Sun Microsystems. < ref name= " Document Foundation Announcement " > {{cite web |url=https://listarchives.documentfoundation.org/www/announce/msg00000.html |title=OpenOffice.org Community announces The Document Foundation |date=28 September 2010 |publisher=The Document Foundation |archive-url=https://web.archive.org/web/20101226054242/https://listarchives.documentfoundation.org/www/announce/msg00000.html |archive-date=26 December 2010 |access-date=8 October 2021 |url-status=live}} < /ref > < ref name= " Document Foundation ArsTechnica " > {{cite news|url=https://arstechnica.com/information-technology/2010/09/document-foundation-forks-openofficeorg-to-liberate-it-from-oracle/ |title=Document Foundation forks OpenOffice.org, liberates it from Oracle |last=Paul |first=Ryan |access-date=8 October 2021 |publisher=Ars Technica |archive-date=22 August 2012 |archive-url=https://web.archive.org/web/20120822102322/https://arstechnica.com/information-technology/2010/09/document-foundation-forks-openofficeorg-to-liberate-it-from-oracle/ |url-status=live}} < /ref > 
+ 
+ == Parts == 
+ LibreOffice is a collection of applications that work together closely to provide the features expected from a modern office suite. Many of the parts are designed to be alternatives to those available in Microsoft Office. The parts available include: 
+ 
+ {|class= " wikitable "  style= " margin: 1em auto 1em auto " 
+ |- 
+ ! colspan= " 2 "  | Component !! Notes 
+ |- 
+ |[[File:LibreOffice 7.5 Writer Icon.png|48px]] ||'''[[LibreOffice Writer|Writer]]'''|| A [[word processor]] similar in [[look and feel]] to [[Microsoft Word]] and offering a comparable range of functions and tools. It also includes the ability to export [[Portable Document Format]] (PDF) files with no additional software, and can also function as a [[WYSIWYG]] editor for creating and editing [[web page]]s. 
+ |- 
+ |[[File:LibreOffice 7.5 Calc Icon.png|48px]] ||'''[[LibreOffice Calc|Calc]]'''|| A [[spreadsheet]] similar to [[Microsoft Excel]] with a roughly equivalent range of features. Calc provides a number of features not present in Excel, including a system which automatically defines series for graphing, based on the layout of the user’s data. Calc is also capable of writing spreadsheets directly as a PDF file. 
+ |- 
+ |[[File:LibreOffice 7.5 Impress Icon.png|48px]] ||'''[[LibreOffice Impress|Impress]]'''|| A [[presentation program]] similar to [[Microsoft PowerPoint]]. It includes the ability to create PDF files, and the ability to read Microsoft PowerPoint's .ppt and .pptx formats. Impress includes several ready-made presentation designs. More templates are readily available on the Internet. < ref > {{cite web |url=https://extensions.libreoffice.org/?Tags%5B%5D=43 & Tags%5B%5D=118 |title=LibreOffice Impress Templates repository |website=LibreOffice.org |publisher=The Document Foundation |access-date=8 October 2021}} < /ref > < ref > {{Cite web |url=http://claudio.cicali.org/article/70/templates-for-openoffice-impress |title=Caludio's personal hideout: Templates for Openoffice Impress |access-date=2008-08-21 |archive-date=2006-02-23 |archive-url=https://archive.today/20060223011553/http://claudio.cicali.org/article/70/templates-for-openoffice-impress |url-status=dead }} < /ref > < ref > [http://documentation.openoffice.org/Samples_Templates/User/template/presentations/index.html Presentation templates at OpenOffice.org] < /ref > < ref > [http://documentation.openoffice.org/Samples_Templates/User/template_2_x/impress/index.html Impress Templates - User/Template] < /ref > 
+ |- 
+ |[[File:LibreOffice 7.5 Draw Icon.png|48px]] ||'''[[LibreOffice Draw|Draw]]'''|| A [[vector graphics editor]] comparable in features to [[Microsoft Visio]] and early versions of [[CorelDRAW]]. It features versatile  " connectors "  between shapes, which are available in a range of line styles and facilitate building drawings such as flowcharts. It has similar features to [[desktop publishing]] software such as [[Scribus]] and [[Microsoft Publisher]].  
+ |- 
+ |[[File:LibreOffice 7.5 Base Icon.png|48px]] ||'''[[LibreOffice Base|Base]]'''|| A [[database]] program similar to [[Microsoft Access]]. Base allows the creation and manipulation of databases (using [[HSQLDB]] or [[Firebird (database server)|Firebird]] as its storage engine), and the building of forms and reports to provide easy access to data for end-users. As with Access, Base may be used as a front-end to a number of different database systems, including Access databases ([[Microsoft Jet Database Engine|JET]]), [[Open Database Connectivity|ODBC]]/[[Java Database Connectivity|JDBC]] data sources and [[MySQL]], [[MariaDB]], [[PostgreSQL]]. While Base can be a front-end for any of the databases listed, there is no need for any of them to be installed. 
+ |- 
+ |[[File:LibreOffice 7.5 Math Icon.png|48px]] ||'''[[LibreOffice Math|Math]]'''|| A tool for creating and editing mathematical formulae, similar to [[Equation Editor|Microsoft Equation Editor]]. Formulae can be embedded inside other LibreOffice documents, such as those created by Writer. It supports multiple [[typeface|fonts]] and can export to PDF. 
+ |} 
+ 
+ == Supported operating systems == 
+ LibreOffice is available for [[Windows]], [[macOS]] and [[Linux]]. There are also versions for [[Android (operating system)|Android]], [[iOS]] and [[Google Chrome OS|Chrome OS]], called Collabora Office. < ref > {{cite web |url=https://play.google.com/store/apps/details?id=com.collabora.libreoffice |title=Collabora Office: LibreOffice, OpenOffice  &  more |date=15 January 2021 |website=[[Google Play]] |publisher=Collabora Productivity |access-date=8 October 2021}} < /ref > < ref > {{cite web |url=https://apps.apple.com/us/app/collabora-office/id1440482071 |title=Collabora Office |date=14 September 2021 |website=[[App Store (iOS)|App Store]] |publisher=Collabora Productivity |access-date=8 October 2021}} < /ref >  They are provided by Collabora, one of the companies that develop LibreOffice. Collabora also develops Collabora Online, an online office suite based on LibreOffice that can be used from a [[web browser]] by multiple users. < ref > {{cite web |url=https://www.collaboraoffice.com/collabora-online/ |title=Collabora Online |website=CollaboraOffice.com |publisher=Collabora Productivity |access-date=8 October 2021}} < /ref > 
+ 
+ ==Scripting and extensions== 
+ 
+ LibreOffice supports third-party extensions. There are many available in the official LibreOffice site. < ref > {{cite web |url=https://extensions.libreoffice.org/ |title=LibreOffice Extensions, Documentation and Templates repository |website=LibreOffice.org |publisher=The Document Foundation |access-date=8 October 2021}} < /ref >  Users can create their own using [[programming language]]s like LibreOffice Basic (a language similar to [[Visual Basic for Applications]]), [[Python (programming language)|Python]] and others. 
+ 
+ ==Versions== 
+ 
+ LibreOffice is available in two versions: < ref > {{cite web|url=https://www.libreoffice.org/download/release-notes/ | title=Release Notes |publisher=The Document Foundation |access-date=8 October 2021}} < /ref > 
+ 
+ * '''Fresh''' – the most recent major version, which contains the latest enhancements but which may have introduced [[software bug|bugs]] that are not in the  " still "  release. 
+ * '''Still''' – the prior major version, which, by the time it has become the  " still "  version, has had around six months of bug fixing. Users who want the most stable software should use this. 
+ 
+ When a new ''Fresh'' version is released, the existing one becomes the ''Still'' version. The previous ''Still'' version is not supported anymore. 
+ 
+ ===Release time=== 
+ 
+ LibreOffice releases a new major version every six months, in late January/early February and late July/early August. < ref name= " Release Plan " > {{cite web |url=https://wiki.documentfoundation.org/ReleasePlan |title=Release Plan |website=The Document Foundation Wiki |access-date=8 October 2021 |archive-date=1 May 2019 |archive-url=https://web.archive.org/web/20190501164048/https://wiki.documentfoundation.org/ReleasePlan |url-status=live }} < /ref > 
+ 
+ ==Other websites== 
+ {{Commons category|LibreOffice}} 
+ * {{Official website|https://www.libreoffice.org/}} 
+ * [https://www.documentfoundation.org/ The Document Foundation] 
+ * {{Curlie|Computers/Software/Office_Suites/LibreOffice}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Office suites}} 
+ 
+ [[Category:Office suites]] 
+ [[Category:LibreOffice]] 
+ [[Category:Word processors]] 
+ [[Category:Spreadsheet software]] 
+ [[Category:Presentation software]] 
+ [[Category:Diagramming software]] 
+ [[Category:Graphics software]] 
+ [[Category:Vector graphics editors]] 
+ [[Category:Cross-platform software]]

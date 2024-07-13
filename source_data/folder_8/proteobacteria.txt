@@ -1,0 +1,40 @@
+{{Taxobox 
+ | name = Proteobacteria 
+ | image = EscherichiaColi NIAID.jpg 
+ | image_width = 230px 
+ | image_caption = ''[[Escherichia coli]]'' 
+ | domain = [[Bacteria]] 
+ | phylum = '''Proteobacteria''' 
+ | phylum_authority = Stackebrandt et al., 1988  
+ }} 
+ [[Image:Gram negative cell wall.svg|thumb|250px|right|Structure of gram-negative cell wall]] 
+ [[Image:Gram-Cell-wall.svg|thumb|250px|Gram-positive- and negative bacteria are chiefly differentiated by their [[cell wall]] structure.]] 
+ 
+ The '''Proteobacteria''' are a major [[phylum]] of [[bacteria]]. < ref > It is named after the Greek god [[Proteus]], who could change his shape, because of the great diversity of forms found in this group. 
+ < /ref > 
+ 
+ They are [[gram-negative]] bacteria. This means they do not retain the [[Violet (color)|violet]] dye in the Gram [[stain]]ing protocol. < ref name=Baron > {{cite book | author = Salton MJR, Kim KS | title = ''Structure. ''in:'' Baron's Medical Microbiology ''(Baron S ''et al.'', eds.)| edition = 4th | publisher = Univ of Texas Medical Branch | year = 1996 | url = https://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mmed.section.289 | isbn = 0-9631172-1-1 }} < /ref > 
+ 
+ In a Gram stain test, a counterstain (commonly [[safranin]]) is added after the crystal violet, colouring all gram-negative bacteria with a pink colour. 
+ 
+ The test itself is useful in classifying two distinct types of bacteria based on the structural differences of their [[cell wall]]s. 
+ 
+ Proteobacteria include a wide variety of [[pathogen]]s, such as ''[[Escherichia coli]]'', ''[[Salmonella]]'', ''[[Vibrio]]'', ''[[Helicobacter]]'', and many other notable genera. < ref name=Tree_of_Life > {{cite web | title=Proteobacteria | work=Discover Life: Tree of Life | url=http://stri.discoverlife.org/mp/20m?tree=Proteobacteria & res=800 | accessdate=2007-02-09}} < /ref > 
+ 
+ Others are free-living, and include many of the bacteria responsible for [[nitrogen fixation]]. The group is defined primarily in terms of ribosomal RNA (rRNA) sequences. 
+ 
+ Most members are facultatively or obligately [[anaerobic]], [[chemoautotroph]]s, and [[heterotroph]]ic, but there are numerous exceptions. 
+ 
+ There are alphaproteobacteria in this phylum which are widely found in [[Ocean|marine]] [[plankton]]. They may constitute over 10% of the open [[ocean]] microbial community. 
+ 
+ == Classification == 
+ * '''Proteobacteria''': [[Purple bacteria]] and their relatives 
+ ** [[Alphaproteobacteria|alpha subdivision]] ([[purple non-sulfur bacteria]], [[rhizobacteria]], ''[[Agrobacterium]]'', ''[[Rickettsiae]]'', ''[[Nitrobacter]]'') 
+ ** [[Betaproteobacteria|beta subdivision]] (''[[Rhodocyclus]]'', (some) ''[[Thiobacillus]]'', ''[[Alcaligenes]]'', ''[[Spirillum]]'', ''[[Nitrosovibrio]]'') 
+ ** [[Gammaproteobacteria|gamma subdivision]] (enterics, [[Pseudomonadaceae|fluorescent pseudomonads]], [[purple sulfur bacteria]], ''[[Legionella]]'', (some) ''[[Beggiatoa]]'') 
+ ** [[Deltaproteobacteria|delta subdivision]] (Sulfur and sulfate reducers (''[[Desulfovibrio]]''), [[Myxobacteria]], ''[[Bdellovibrio]]'') 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Gram-negative bacteria]]

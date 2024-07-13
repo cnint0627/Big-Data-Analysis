@@ -1,0 +1,117 @@
+{{Infobox Software 
+ | name = K Desktop Environment 
+ | logo = KDE logo.svg 
+ | screenshot = KDE Plasma 5.16.png 
+ | caption = A screenshot of KDE Plasma 5.16, showing the default desktop, with KDE System Settings and Kickoff Menu. 
+ | developer = The KDE Team 
+ | latest_release_version = 5.16 
+ | latest_release_date = [[6 June]] [[2019]] < ref > {{cite web | url=https://kde.org/announcements/plasma-5.16.0.php | title=KDE Plasma 5.16: Now Smoother and More Fun | date=11 June 2019 }} < /ref > 
+ | operating_system = [[Cross-platform]] 
+ | genre = [[Desktop environment]] 
+ | license = [[GNU General Public License]] and others 
+ | website = [http://www.kde.org www.kde.org] 
+ }} 
+ '''KDE''' is a community that produces free software, including a [[desktop environment]] called KDE Plasma for [[operating system]]s based on [[Linux]] or [[UNIX]]. This replaces the console, which is simply a black screen with text on it. KDE Plasma is a popular piece of software for users of [[Linux]] and [[UNIX]]. 
+ 
+ Plasma runs on top of the [[X Window System]], which runs on top of any UNIX-like operating systems like [[Linux]] and [[Apple Macintosh|Mac]] [[OS X]].  
+ Since KDE SC 4.0, many KDE programs also runs on [[Microsoft Windows]]. 
+ 
+ == KDE releases == 
+ The following table lists when each version of KDE was released. 
+ 
+ {| class= " wikitable "  style= "  font-size: 85%; text-align: left; " 
+ ! colspan= " 2 " |Timeline of when KDE was released. 
+ |- 
+ !Date !! Release 
+ |- 
+ < !--________________________________________KDE 1________________________________________-- > 
+ !colspan= " 2 "  style= " background:#C0C0C0 " |KDE 1 
+ |- 
+ | | '''[[14 October]] [[1996]]''' 
+ | Project announced by [[Matthias Ettrich]] < ref > [http://groups.google.com/group/comp.os.linux.development.apps/msg/cb4b2d67ffc3ffce Matthias Ettrich original posting] < /ref > 
+ |- 
+ ! | [[12 July]] [[1998]] 
+ | KDE 1.0 released < ref > [http://www.kde.org/announcements/announce-1.0.php K Desktop Environment - KDE 1.0 Release Announcement] < /ref > 
+ |- 
+ ! | [[6 February]] [[1999]] 
+ | KDE 1.1 released < ref > [http://www.kde.org/history/news/news_1999_02.php KDE News Archive for February 1999] {{Webarchive|url=https://web.archive.org/web/20081222212229/http://www.kde.org/history/news/news_1999_02.php |date=2008-12-22 }} referring to the release of version 1.1 < /ref > 
+ |- 
+ < !--________________________________________KDE 2________________________________________-- > 
+ !colspan= " 2 "  style= " background:#C0C0C0 " |KDE 2 
+ |- 
+ ! | [[23 October]] [[2000]] 
+ | KDE 2.0 released < ref > [http://www.kde.org/announcements/announce-2.0.php K Desktop Environment - KDE 2.0 Release Announcement] < /ref > 
+ |- 
+ ! | [[26 February]] [[2001]] 
+ | KDE 2.1 released < ref > [http://www.kde.org/announcements/announce-2.1.php KDE press release] for version 2.1 < /ref > 
+ |- 
+ ! | [[15 August]] [[2001]] 
+ | KDE 2.2 released < ref > [http://www.kde.org/announcements/announce-2.2.php KDE press release] for version 2.2 < /ref > 
+ |- 
+ < !--________________________________________KDE 3________________________________________-- > 
+ !colspan= " 2 "  style= " background:#C0C0C0 " |KDE 3 
+ |- 
+ ! | [[3 April]] [[2002]] 
+ | KDE 3.0 released < ref > [http://www.kde.org/announcements/announce-3.0.php KDE press release] for version 3.0 < /ref > 
+ |- 
+ ! | [[28 January]] [[2003]] 
+ | KDE 3.1 released < ref > [http://www.kde.org/announcements/announce-3.1.php KDE press release] for version 3.1 < /ref > 
+ |- 
+ ! | [[3 February]] [[2004]] 
+ | KDE 3.2 released < ref > [http://www.kde.org/announcements/announce-3.2.php KDE press release] for version 3.2 < /ref > 
+ |- 
+ ! | [[19 August]] [[2004]] 
+ | KDE 3.3 released < ref > [http://www.kde.org/announcements/announce-3.3.php KDE press release] for version 3.3 < /ref > 
+ |- 
+ ! | [[16 March]] [[2005]] 
+ | KDE 3.4 released < ref > [http://www.kde.org/announcements/announce-3.4.php KDE press release] for version 3.4 < /ref > 
+ |- 
+ ! | [[29 November]] [[2005]] 
+ | KDE 3.5 released < ref > [http://www.kde.org/announcements/announce-3.5.php KDE press release] for version 3.5 < /ref > 
+ |- 
+ < !--________________________________________KDE 4________________________________________-- > 
+ !colspan= " 3 "  style= " background:#C0C0C0 " |[[KDE 4]] 
+ |- 
+ ! {{rh}} | [[11 January]] [[2008]] 
+ | KDE 4.0 released < ref name= " KDE 4.0 Release Schedule " > {{cite web|url=http://techbase.kde.org/Schedules/KDE4/4.0_Release_Schedule |title=KDE 4.0 Release Schedule |accessdate=2008-09-12 }} < /ref > 
+ |- 
+ ! {{rh}} | [[29 July]] [[2008]] 
+ | KDE 4.1 released < ref name= " KDE 4.1 Release Schedule " > {{cite web|url=http://techbase.kde.org/Schedules/KDE4/4.1_Release_Schedule |title=KDE 4.1 Release Schedule |accessdate=2008-08-29 }} < /ref > 
+ |- 
+ ! {{rh}} | [[27 January]] [[2009]] 
+ | KDE 4.2 released < ref name= " KDE 4.2 Release Schedule " > {{cite web|url=http://techbase.kde.org/Schedules/KDE4/4.2_Release_Schedule |title=KDE 4.2 Release Schedule |accessdate=2009-01-27 }} < /ref > 
+ |- 
+ ! {{rh}} | [[4 August]] [[2009]] 
+ | KDE 4.3 released < ref name= " KDE 4.3 Release Announcement " > {{cite web|url=http://www.kde.org/announcements/4.3/ |title=KDE 4.3 Released |date=4 August 2009 |accessdate=2010-05-18 }} < /ref > 
+ |- 
+ ! {{rh}} | [[9 February]] [[2010]] 
+ | KDE 4.4 released < ref name= " KDE 4.4 Release Announcement " > {{cite web|url=http://www.kde.org/announcements/4.4/ |title=KDE 4.4 Released |date=9 February 2010 |accessdate=2010-05-18 }} < /ref > 
+ |- 
+ |} 
+ 
+ == Applications == 
+ [[File:Kde35.png|350px|right|thumb|The Kontact personal information manager and Konqueror file manager/web browser running on KDE 3.5.]] 
+ There are several major [[computer program|application]]s for KDE. These include: 
+ 
+ * [[Amarok (software)|Amarok]] - [[Music]] player 
+ * [[K3b]] - [[compact disc|CD]] burner 
+ * [[Kate (text editor)|Kate]] - [[Text editor]] 
+ * [[KDevelop]] - A program for making [[software]] 
+ * [[Konsole]] - [[Terminal emulator]] 
+ * [[Kontact]] - [[Personal information manager]] that has an [[e-mail]] client, a [[news client]], a [[feed aggregator]], To-do lists and more. 
+ * [[Kopete]] - [[Instant messaging client]] 
+ * [[Konqueror]] - [[File manager]] and [[web browser]] 
+ * [[KOffice]] - [[Office suite]] 
+ *[[Dolphin (file manager)|Dolphin]] - [[File manager]] 
+ 
+ == References == 
+ < references / > 
+ 
+ == Other websites == 
+ {{Wikibooks|Using KDE}} 
+ * [http://www.kde.org Official KDE website] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:KDE| ]]

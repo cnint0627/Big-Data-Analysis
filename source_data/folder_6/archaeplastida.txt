@@ -1,0 +1,38 @@
+{{Automatic taxobox 
+ | color_as=Plantae 
+ | display_parents=2 
+ | taxon=Archaeplastida 
+ | authority=Adl ''et al.'', 2005 < ref name=Adl2005/ > 
+ | fossil_range=[[Calymmian]] - [[Holocene|Present]], {{long fossil range|1600|0|earliest=1600}} 
+ | image=Sprague River (Klamath County, Oregon scenic images) (klaDA0073).jpg 
+ | image_upright=1.2 
+ | image_caption=Trees, grasses and algae in and around [[Sprague River (Oregon)|Sprague River, Oregon]] 
+ | subdivision_ranks=Subgroups 
+ | subdivision=*[[Rhodophyta]] 
+ *[[Rhodelphis|Rhodelphidia]] 
+ *[[Glaucophyta]] 
+ *[[Viridiplantae]] ([[green algae]] incl. [[land plant]]s) 
+ *[[Picozoa]] < ref name= " Yazaki_2021 " > {{cite journal |last1=Yazaki |first1=Euki |last2=Yabuki |first2=Akinori |last3=Imaizumi |first3=Ayaka |last4=Kume |first4=Keitaro |last5=Hashimoto |first5=Tetsuo |last6=Inagaki |first6=Yuji |title=Phylogenomics invokes the clade housing Cryptista, Archaeplastida, and ''Microheliella maris'' |url=https://www.biorxiv.org/content/10.1101/2021.08.29.458128v1 |access-date=25 November 2021 |doi=10.1101/2021.08.29.458128 |date=31 August 2021|s2cid=237393558 }} < /ref > < ref name= " Schön_2021 " > {{cite journal |last1=Schön |first1=M.E. |last2=Zlatogursky |first2=V.V. |last3=Singh |first3=R.P. |display-authors=et al. |title=Single cell genomics reveals plastid-lacking Picozoa are close relatives of red algae |journal=Nature Communications |date=17 November 2021 |volume=12: 6651 |issue=1 |page=6651 |doi=10.1038/s41467-021-26918-0 |pmid=34789758 |issn=2041-1723 |pmc=8599508|bibcode=2021NatCo..12.6651S }} < /ref > 
+ *[[Cryptista]]? 
+ | synonyms=* Plantae  < small > Cavalier-Smith, 1981 < /small > < ref > {{cite journal | last1=Cavalier-Smith | first1=T. | year=1981 | title=Eukaryote Kingdoms: Seven or Nine? " . | journal=BioSystems | volume=14 | issue=3–4| pages=461–481 | doi=10.1016/0303-2647(81)90050-2 | pmid=7337818}} < /ref > 
+ * Primoplastobiota  < small > Reviers, 2002 < /small > {{citation needed|date=July 2015}} 
+ * Primoplantae  < small > Palmer et al. 2004 < /small > < ref name= " palmer " / > 
+ }} 
+ 
+ The '''Archaeplastida''' (or kingdom [[Plant#Current definitions of Plantae|Plantae]] ''[[Sensu#Common qualifiers|sensu lato]]''  " in a broad sense " ) are a major group of [[eukaryote]]s. It include the [[autotroph|photoautotroph]]ic [[red algae]] (Rhodophyta), [[green algae]], [[Embryophyte|land plant]]s and the minor group [[glaucophyte]]s. < ref name= " pmid21220783 " > {{cite journal |last1=Ball |first1=S. |last2=Colleoni |first2=C. |others=Cenci, U.; Raj, J.N.; Tirtiaux, C. |title=The evolution of glycogen and starch metabolism in eukaryotes gives molecular clues to understand the establishment of plastid endosymbiosis |journal=Journal of Experimental Botany |volume=62 |issue=6 |pages=1775–1801 |date=January 2011 |pmid=21220783 |doi=10.1093/jxb/erq411 |doi-access=free }} < /ref >  It also includes the [[Rhodelphis|Rhodelphidia]], an [[eukaryotrophic]] [[flagellate]] that is sister to the Rhodophyta, and probably [[picozoa]]ns. < ref > [https://www.the-scientist.com/news-opinion/picozoans-are-algae-after-all-study-68741 Picozoans Are Algae After All: Study | The Scientist Magazine®] < /ref >  The Archaeplastida have [[chloroplast]]s that are surrounded by two [[membrane]]s.  All other groups which have chloroplasts, besides the amoeboid genus ''[[Paulinella]]'', have chloroplasts surrounded by three or four membranes. 
+ 
+ The cells of the Archaeplastida do not have [[centriole]]s. They have [[Mitochondrion|mitochondria]] with flat [[crista]]e. They usually have a [[cell wall]] that contains [[cellulose]]. Food is stored as [[starch]]. However, these characteristics are also shared with other eukaryotes. The main evidence that the Archaeplastida form a [[monophyletic]] group comes from genetic studies. These studies show their [[plastid]]s probably had a single origin. Not all scientists agree with these studies. < ref > {{cite journal |author=Parfrey. L. W. |author2=Barbero, E. |author3=Lasser, E |title=Evaluating support for the current classification of eukaryotic diversity |journal=PLOS Genetics |volume=2 |issue=12 |pages=e220 |date=December 2006 |pmid=17194223 |pmc=1713255 |doi=10.1371/journal.pgen.0020220 |display-authors=etal |doi-access=free }} < /ref > < ref name= " kim " > {{cite journal |pmc= 2440802 |doi= 10.1371/journal.pone.0002621 |date=July 2008 |author= Kim, E |author2=Graham, L. E. |title= EEF2 analysis challenges the monophyly of Archaeplastida and Chromalveolata |volume= 3 |issue= 7 |pages= e2621 |pmid= 18612431 |journal= PLOS ONE |editor1-last= Redfield |editor1-first= Rosemary Jeanne|bibcode= 2008PLoSO...3.2621K |doi-access= free }} < /ref >   Photosynthetic organisms with plastids of different origin (such as [[brown algae]]) do not belong to the Archaeplastida. 
+ 
+ The archaeplastidans fall into two main [[evolution]]ary lines. The red algae are colored with [[Chlorophyll a|chlorophyll ''a'']] and [[phycobiliprotein]]s, like most cyanobacteria, and accumulate starch outside the chloroplasts. The green algae and land plants are colored with chlorophylls ''a'' and ''[[Chlorophyll b|b]]'', but do not have phycobiliproteins. Also, starch is built up inside the chloroplasts. < ref name=Viola > {{cite journal|title=The unique features of starch metabolism in red algae |first1=R. |last1=Viola |first2=P. |last2=Nyvall |first3=M. |last3=Pedersén |journal=Proceedings of the Royal Society B: Biological Sciences|volume=268 |issue=1474|date=2001|pages=1417–1422 |doi=10.1098/rspb.2001.1644|pmid=11429143|pmc=1088757}} < /ref >  These two groups are called [[Viridiplantae]] (Latin for  " green plants " ) or Chloroplastida. The glaucophytes have [[cyanobacterial]] color.  They are unusual as they havea cell wall within their plastids (called cyanelles). < ref name=Adl2005 > {{cite journal |first= S.M. |last=Adl |s2cid=8060916 |title=The New Higher Level Classification of Eukaryotes with Emphasis on the Taxonomy of Protists |journal=Journal of Eukaryotic Microbiology |year=2005 |volume=52 |issue=5 |pages=399–451 |doi= 10.1111/j.1550-7408.2005.00053.x |pmid=16248873 |display-authors=etal|doi-access=free }} < /ref > 
+ 
+ Archaeplastida should not be confused with the older and obsolete name [[Archiplastideae]]. This term refers to [[cyanobacteria]] and other groups of bacteria. < ref > Copeland, H. F. (1956). ''The Classification of Lower Organisms''. Palo Alto: Pacific Books, p. 29, [https://archive.org/stream/ost-biology-classificationof00cope/classificationof00cope#page/n47/mode/2up]. < /ref > < ref > {{cite journal | last1=Bessey | first1=C. E. | year=1907 | title=A Synopsis of Plant Phyla | url=https://www.biodiversitylibrary.org/item/94530#page/329/mode/1up | journal=Univ. Nebraska Studies | volume=7 | pages=275–358 }} < /ref > 
+ 
+ ==References== 
+ 
+ {{reflist| 
+ 
+ < ref name= " palmer " > {{cite journal |author1=Palmer, Jeffrey D. |author2=Soltis, Douglas E. |author3=Chase, Mark W. |title=The plant tree of life: an overview and some points of view |journal=American Journal of Botany |year=2004 |volume=91 |pages=1437–1445 |doi=10.3732/ajb.91.10.1437 |issue=10 |pmid=21652302|doi-access=free }} < /ref > 
+ 
+ }} 
+ 
+ [[Category:Eukaryotes]]

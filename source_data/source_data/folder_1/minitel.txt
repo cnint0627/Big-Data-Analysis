@@ -1,0 +1,59 @@
+[[File:Minitel1.jpg|thumb|250px|Minitel 1. Built 1982]] 
+ The '''Minitel''' is a [[Videotex]] [[online service]]. Users connected to it through the [[telephone]] lines. It was a successful pre-[[World Wide Web]] online service. The PTT (Poste, Téléphone et Télécommunication) started Minitel started in [[France]] in 1982. From the beginning, users could buy things online that are now done on the [[Internet]]. People could make [[train]] reservations, check [[stock]] prices, search the [[telephone directory]], have a mail box, and chat. 
+ 
+ In February 2009, [[France Telecom]] said the Minitel network still had 10 million monthly connections. One-million were to the directory.  France Telecom ended the service on 30 June 2012. < ref > {{cite news 
+   |first=Agence France 
+   |last=Presse 
+   |title=Le Minitel disparaîtra en juin 2012 
+   |date=21 July 2011 
+   |newspaper=Le Figaro 
+   |trans-title=Minitel will disappear in June 2012 
+   |url=http://www.lefigaro.fr/flash-actu/2011/07/21/97001-20110721FILWWW00446-le-minitel-disparaitra-en-juin-2012.php 
+ }} {{in lang|fr}} < /ref > 
+ 
+ ==Business model== 
+ [[File:Minitel-CnAM 44045-IMG 5396-gradient.jpg|thumb|1985 Alcatel Minitel terminal with non-AZERTY keyboard]] 
+ Millions of [[computer terminal|terminal]]s were free to telephone subscribers. That meant many people and businesses had access immediately. People who got Minitel did not get a regular paper telephone directory. 
+ 
+ Minitel gave access to these services: 
+ * [[phone directory]] (free) 
+ * mail-order retail companies 
+ * [[airline]] or train ticket purchases 
+ * information services 
+ * [[databases]] 
+ * [[message boards]] 
+ 
+ Many new [[companies]] started to try to make money using the network.  This was like the later dot-com bubble.  Many of the companies failed. Some people criticized [[pornographic]] services on Minitel because children could access them. The government did not make rules about pornography on Minitel. The government also made a [[tax]] on pornographic online services. 
+ 
+ ===Finances=== 
+ Payment methods 
+ *[[Credit card]] for purchases 
+ *Telephone bill for surfing time: rates depended on the sites visited 
+ 
+ France Télécom charged Minitel users at rates of up to [[euro|€]]1 a minute. The rates depend on the service called. Most services were much cheaper than the maximum. France Télécom then paid part of the fee to the companies that operate Minitel servers. 
+ 
+ ===Phonebook=== 
+ The most popular service of the Minitel was the  " Annuaire Electronique "  at the phone number  " 11 " . On 18 October 1996, access to the Phonedirectory changed to  " 3611 " . Companies could add up to 3 lines of information to the listing. There were also advertisements on the phone directory pages. 
+ 
+ ==Terminals== 
+ Minitel [[computer terminal|terminal]]s have a text based [[computer display|screen]], [[computer keyboard|keyboard]] and [[modem]]. The screen can show simple graphics.  Minitel terminals use the [[AZERTY]] keyboard, not the [[QWERTY]] keyboard. Users could buy printers to attach to the terminals. < ref > {{cite web |url=http://www.acelgenesys.fr/html/pages/produits/imp_roul.php |archiveurl=https://web.archive.org/web/20090205233023/http://www.acelgenesys.fr/html/pages/produits/imp_roul.php |archivedate=February 5, 2009 |title=Imprimantes Rouleau Thermique |publisher=Acel Genesys}} < /ref > 
+ 
+ ==Network== 
+ The Minitel modem usually dialed a special number to connect to a PAVI (''Point d'Accès VIdéotexte'',  " videotext access point " ). The PAVI sent information to the correct servers on the [[Transpac (network)|Transpac]] [[X.25]] network. In France the most common dial number was  " 36 15 " .  " 36 17 "  was for more expensive services. Minitel services names often started with this number. So, the  " 36 15 "  number at the front of the name was like the  " .com "  on Internet web sites. 
+ 
+ Minitel used a [[half-duplex]] asymmetric data rate via its modem.  It downlinked at 1200 bit/s and uplinked at 75 bit/s.  This allowed fast downloads, for the time. The system was called '1275', but the correct name was  [[V.23]]. This system was only for Minitel and copies of Minitel in other countries. 
+ 
+ ==Similar services== 
+ The [[United Kingdom]] had a similar service called [[Prestel]]. 
+ 
+ ==References== 
+ < references / > 
+ 
+ ==Other websites== 
+ * [http://www.minitel.fr/ The official website] {{in lang|fr}} 
+ * [http://www.i-minitel.com/ The official internet gateway to Minitel] {{Webarchive|url=https://web.archive.org/web/20160303204407/http://www.i-minitel.com/ |date=2016-03-03 }} 
+ * [http://www.old-computers.com/museum/computer.asp?c=1195 & st=1 The Périminitel, a home computer based around the Minitel service] {{Webarchive|url=https://web.archive.org/web/20110423042841/http://www.old-computers.com/museum/computer.asp?c=1195 & st=1 |date=2011-04-23 }} 
+ * [http://support.microsoft.com/kb/136013/en Minitel Emulation in Microsoft HyperTerminal] 
+ * [https://archive.org/details/frenchtech1 Computer Chronicles:  High Tech France (video circa 1990)] 
+ 
+ [[Category:Telecommunications]]

@@ -1,0 +1,19 @@
+In [[mathematics]], '''divergence''' is a [[differential operator]] that associates a [[vector field]] with a [[scalar field]]. In a vector field, each point of the field is associated with a [[vector]]; in a scalar field, each point of the field is associated with a [[scalar]].    
+ 
+ Given a vector field  < math > \mathbf{F} < /math > , the divergence of  < math > \mathbf{F} < /math >  can be written as  < math > \operatorname{div} \mathbf{F} < /math >  or  < math > \nabla \cdot \mathbf{F} < /math > , where  < math > \nabla < /math >  is the [[gradient]] and  < math > \cdot < /math >  is the [[dot product]] operation. < ref > {{Cite web|date=2020-05-11|title=List of Calculus and Analysis Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/|access-date=2020-10-14|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Calculus III - Curl and Divergence|url=https://tutorial.math.lamar.edu/classes/calciii/curldivergence.aspx|access-date=2020-10-14|website=tutorial.math.lamar.edu}} < /ref > < ref > {{Cite web|title=Divergence (article)|url=https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence|access-date=2020-10-14|website=Khan Academy|language=en}} < /ref >    
+ 
+ Divergence is used to formulate [[Maxwell's equations]] and the [[continuity equation]].  
+ 
+ == Related pages == 
+ 
+ * [[Curl]] 
+ * [[Vector calculus]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Mathematical analysis]] 
+ [[Category:Calculus]]

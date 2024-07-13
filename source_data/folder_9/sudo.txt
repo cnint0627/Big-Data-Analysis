@@ -1,0 +1,61 @@
+{{complex|date=January 2022}} 
+ {{lowercase}} 
+ {{For|the Japanese surname|Sudo (surname)}} 
+ [[File:Sudo on Ubuntu.png|thumb|The sudo command in the [[Ubuntu]] distribution of [[Linux]]]] 
+ 
+ The '''sudo''' command is a program for [[Unix]]-like operating systems like [[Linux|Linux distributions]].  It allows users to run programs as another user.  The  " '''su''' "  portion is sometimes described as substitute user, super user, or switch user.   
+ 
+ == Importance == 
+ The sudo command gives the administrator the option of allowing certain users access to otherwise disallowed commands on a granular level.  This power must be carefully administered as it could potentially allow users to make changes to files that could cause serious damage to other users' files as well as damaging the [[operating system]] itself. 
+ 
+ == Usage == 
+ The sudo command is used from the [[command line]]. 
+ 
+ For example:  
+ Imagine a system has three users: student, JOE, and BOB. 
+ 
+ < pre > [JOE@clone7 ~]$ /bin/grep  " home "  /etc/passwd  
+ student:x:1000:1000:Student:/home/student:/bin/bash 
+ BOB:x:1001:1001::/home/BOB:/bin/bash 
+ JOE:x:1002:1002::/home/JOE:/bin/bash 
+ [JOE@clone7 ~]$  < /pre > 
+ 
+ JOE wants to know what files are in BOB's home directory.  As one would expect, unless given rights through other means, JOE will be denied: 
+ 
+ < pre > [JOE@clone7 ~]$ ls -lrt /home/BOB 
+ ls: cannot open directory /home/BOB: Permission denied 
+ [JOE@clone7 ~]$ < /pre > 
+ 
+ If JOE is in the sudoer file, she can use the sudo command to run the ls command as if she were BOB: 
+ 
+ < pre > [JOE@clone7 ~]$ sudo -u BOB  ls -lrt /home/BOB 
+ [sudo] password for JOE:  
+ 
+ total 0 
+ -rw-r--r--. 1 BOB BOB 0 Jan  6 06:48 BOBs_secretfile.txt 
+ [JOE@clone7 ~]$  < /pre > 
+ 
+ If JOE is '''not''' in the sudoers file, she will be denied: 
+ 
+ < pre > [JOE@clone7 ~]$ sudo -u BOB  ls -lrt /home/BOB 
+ [sudo] password for JOE:  
+ 
+ JOE is not in the sudoers file.  This incident will be reported. 
+ 
+ [JOE@clone7 ~]$  < /pre > 
+ 
+ Another example, to delete a file (e.g. Example.php) normal users do not typically have permissions for, the user can type: 
+ 
+ < pre > [JOE@clone7 ~]$ sudo rm -r Example.php 
+ [sudo] password for JOE:  
+ 
+ [JOE@clone7 ~]$ < /pre > 
+ 
+ When the password is entered correctly (assuming proper entries in the sudoers file), the computer would then run the command. 
+ 
+ Programs with a graphical [[user interface]] can also be run with sudo, but it may mess them up. 
+ Various desktops for Unix-like systems usually have their own version of sudo for such programs. 
+   
+ {{tech-stub}} 
+ 
+ [[Category:Unix]]

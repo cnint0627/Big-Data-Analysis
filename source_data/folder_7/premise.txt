@@ -1,0 +1,27 @@
+A '''premise''' is a [[statement]] which an [[argument]] claims will justify a [[wikt:conclusion|conclusion]]. < ref > " Argument: a sequence of statements such that some of them (the ''premises'') purport to give reasons to accept another of them, the ''conclusion'' "  : ''The Cambridge Dictionary of Philosophy''. 2nd ed, Cambridge University Press. p43 < /ref >  The proof of a conclusion depends on both the [[truth]] of the premises and the [[validity]] of the argument. 
+ 
+ == Aristotelian logic == 
+ [[Aristotle]] held that any logical argument could be reduced to three premises and a conclusion. < ref > Gullberg, Jan ''Mathematics from the birth of numbers''. Norton, New York. 216 {{ISBN|039304002X}} {{ISBN|978-0393040029}} < /ref >  Premises are sometimes left unstated in which case they are called missing premises, for example: 
+ 
+ ::Socrates is mortal, since all men are mortal. 
+ 
+ It is understood that Socrates is a man.  The fully expressed reasoning is thus: 
+ 
+ ::Since all men are mortal and Socrates is a man, Socrates is mortal. 
+ 
+ In this example, the first two [[independent clause]]s before the comma (namely,  " all men are mortal "  and  " Socrates is a man " ) are the premises, while  " Socrates is mortal "  is the conclusion. 
+ 
+ == Mathematical logic == 
+ In [[logic]], an [[argument]] requires a [[Set (mathematics)|set]] of two declarative sentences (or [[Proposition| " propositions " ]]) known as the premises, with another declarative sentence (or  " proposition " ) known as the conclusion. This structure of two premises and one conclusion forms the basic argumentative structure. 
+ 
+ More complex arguments can use a series of rules to connect several premises to one conclusion, or to derive a number of conclusions from the original premises. An example of this is the use of the rules of [[inference]] found within [[symbolic logic]]. 
+ 
+ ==Related pages== 
+ * [[Apples and oranges]] 
+ * [[False dilemma]] 
+ * [[Falsifiability]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Logic]]

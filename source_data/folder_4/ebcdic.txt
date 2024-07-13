@@ -1,0 +1,9 @@
+'''Extended Binary Coded Decimal Interchange Code''' ('''EBCDIC''') is an 8-[[bit]] [[character encoding]]. It is used mainly on [[IBM]] [[Mainframe computer|mainframe]] and IBM [[midrange computer]] operating systems. EBCDIC [[wikt:descendent|descended]] from the code used with [[punched card]]s. It was also related to the [[BCD (6-bit)|six bit binary-coded decimal]] code used with most of IBM's computer [[Peripheral equipment|peripherals]] of the late 1950s and early 1960s. < ref > {{cite web|last=Bemer|first=Bob|title=EBCDIC and the P-Bit|url=http://www.bobbemer.com/P-BIT.HTM|access-date=July 2, 2013|archive-date=May 17, 2013|archive-url=https://web.archive.org/web/20130517070013/http://www.bobbemer.com/P-BIT.HTM|url-status=dead}} < /ref >  EBCDIC is also used on various non-IBM [[Platform (computing)|platforms]]. These include the [[Fujitsu]]-[[Siemens AG|Siemens]]' [[BS2000|BS2000/OSD]], OS-IV, MSP, and MSP-EX, and [[Unisys]] [[VS/9]] and [[MCP (Burroughs Large Systems)|MCP]]. 
+ 
+ == References == 
+ {{reflist}} 
+ < br > 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer file formats]]

@@ -1,0 +1,20 @@
+{{Regular polygon db|Regular polygon stat table|p19}} 
+ An '''enneadecagon''' or '''19-gon''' is a [[Polygon|shape]] with 19 sides and 19 [[Vertex (geometry)|corner]]s. < ref > {{citation|title=Children's Miscellany: Useless Information That's Essential to Know|first1=Samantha|last1=Borges|first2=Matthew|last2=Morgan|publisher=Chronicle Books|year=2012|isbn=9781452119731|url=https://books.google.com/books?id=lxmwFZ_a4S8C & pg=PA110|page=110}}. < /ref >  It is also known as an '''enneakaidecagon''' or a '''nonadecagon'''. < ref > {{citation|title=Mathematics in the K-8 Classroom and Library|first1=Sueanne|last1=McKinney|first2=KaaVonia|last2=Hinton|publisher=ABC-CLIO|year=2010|isbn=9781586835224|page=67|url=https://books.google.com/books?id=qELT3jBFNMwC & pg=PA67}}. < /ref > 
+ 
+ == Regular enneadecagon == 
+ All sides of a '''regular enneadecagon''' are the same length. Each corner is ≈161.052°. All corners added together equal 6840°. 
+ 
+ The radius of the [[circumcircle]] of the ''[[regular polygon|regular]] enneadecagon'' with side length ''t'' is  
+ < math > R=\frac{t}{2} \csc \frac {180}{19} < /math >  (angle in degrees). The [[area]], where ''t'' is the edge length, is  < math > \frac{19}{4}t^2 \cot \frac{\pi}{19} \simeq 28.4652\,t^2. < /math > 
+ 
+ ==References== 
+ {{reflist}} 
+ *[https://books.google.com/books?id=ugBDAAAAIAAJ & dq=enneadecagon & pg=PA194 enneadecagon] 
+ 
+ ==Other websites== 
+ *{{MathWorld|title=Enneadecagon|urlname=Enneadecagon}} 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ 
+ [[Category:Polygons|19]]

@@ -1,0 +1,107 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Mpumalanga < br / > {{lang|ss|iMpumalanga}} (in Swazi and Zulu) < br / > {{lang|nr|IMpumalanga}} {{in lang|nr}} 
+ | native_name             =  
+ | settlement_type         = [[Provinces of South Africa|Province of South Africa]] 
+ < !-- images, nickname, motto --- > 
+ | image_flag = Flag of Mpumalanga Province.svg 
+ | flag_size = 120px 
+ | image_shield            =  
+ | shield_size = 120px 
+ | motto                   = ''Omnia labor vincit'' (Labour will conquer all) 
+ < !-- maps and coordinates ------ > 
+ | image_map               = Mpumalanga in South Africa.svg 
+ | mapsize                 =  
+ | map_alt                 = Map showing the location of Mpumalanga in the eastern part of South Africa 
+ | map_caption             = Location of Mpumalanga in South Africa 
+ < !-- location ------------------ > 
+ | subdivision_type        = Country 
+ | subdivision_name        = [[South Africa]] 
+ < !-- established --------------- > 
+ | established_title       = Established 
+ | established_date        = 27 April 1994 
+ < !-- seat, smaller parts ------- > 
+ | seat_type               = Capital 
+ | seat                    = [[Nelspruit|Mbombela (Nelspruit)]] 
+ | parts_type              = [[Districts of South Africa|Districts]] 
+ | p1                      = [[Gert Sibande District Municipality|Gert Sibande]] 
+ | p2                      = [[Nkangala District Municipality|Nkangala]] 
+ | p3                      = [[Ehlanzeni District Municipality|Ehlanzeni]] 
+ < !-- government type, leaders -- > 
+ | government_footnotes    =  < !-- for references: use < ref >  tags -- > 
+ | government_type         = [[Parliamentary system]] 
+ | leader_party            = [[African National Congress|ANC]] 
+ | leader_title            = [[Premier of Mpumalanga|Premier]] 
+ | leader_name             = [[Refilwe Mtsweni-Tsipane]]  
+ | leader_title2            = [[Legislature]] 
+ | leader_name2             = [[Mpumalanga Provincial Legislature]]  
+ < !-- area ---------------------- > 
+ | area_footnotes          =  < ref name= " cib2011 " > {{cite book |title=Census 2011: Census in brief |url=http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |publisher=Statistics South Africa |location=Pretoria |year=2012 |isbn=9780621413885 |archive-url=https://web.archive.org/web/20150513171240/http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |archive-date=13 May 2015 |url-status=live}} < /ref > {{rp|9}} 
+ | area_total_km2          = 76495 
+ | area_rank               = [[List of South African provinces by area|8th in South Africa]] 
+ < !-- elevation ----------------- > 
+ | elevation_max_footnotes =  < !-- for references: use < ref >  tags -- > 
+ | elevation_max_m         = 2331 
+ | elevation_min_footnotes =  < !-- for references: use < ref >  tags -- > 
+ | elevation_min_m         =  
+ < !-- population ---------------- > 
+ | population_footnotes    =  < ref name= " cib2011 "  / > {{rp|18}} < ref > {{cite web |title=Mid-year population estimates, 2018 |publisher=Statistics South Africa |date= 31 July 2018 |url= http://www.statssa.gov.za/publications/P0302/P03022018.pdf|format=PDF|access-date=29 July 2018}} < /ref > 
+ | population_total        = 4039939 
+ | population_as_of        = 2011 
+ | population_density_km2  = auto 
+ | population_est          = 4523900  
+ | pop_est_as_of           = 2018 
+ | population_rank         = [[List of South African provinces by population|6th in South Africa]] 
+ | population_density_rank = [[List of South African provinces by population density|3rd in South Africa]] 
+ | population_demonym      =  < !-- demonym, ie. Liverpudlian for someone from Liverpool -- > 
+ | population_note         =  
+ < !-- demographics (section 1) -- > 
+ | demographics_type1      = Population groups 
+ | demographics1_footnotes =  < ref name= " cib2011 "  / > {{rp|21}} 
+ | demographics1_title1    = [[Black people|Black African]] 
+ | demographics1_info1     = 90.7% 
+ | demographics1_title2    = [[White South African|White]] 
+ | demographics1_info2     = 7.5% 
+ | demographics1_title3    = [[Coloured]] 
+ | demographics1_info3     = 0.9% 
+ | demographics1_title4    = [[Indian South African|Indian]] or [[Asian South African|Asian]] 
+ | demographics1_info4     = 0.7% 
+ < !-- demographics (section 2) -- > 
+ | demographics_type2      = Languages 
+ | demographics2_footnotes =  < ref name= " cib2011 "  / > {{rp|25}} 
+ | demographics2_title1    = [[Swazi language|Swazi]] 
+ | demographics2_info1     = 27.7% 
+ | demographics2_title2    = [[Zulu language|Zulu]] 
+ | demographics2_info2     = 24.1% 
+ | demographics2_title3     = [[Tsonga language|Tsonga]] 
+ | demographics2_info3     = 10.4% 
+ | demographics2_title4    = [[Southern Ndebele language|Southern & nbsp;Ndebele]] 
+ | demographics2_info4     = 10.1% 
+ | demographics2_title5    = [[Northern Sotho language|Northern & nbsp;Sotho]] 
+ | demographics2_info5     = 9.3% 
+ | demographics2_title6    = [[Afrikaans]] 
+ | demographics2_info6     = 7.2% 
+ | demographics2_title7    = [[Sotho language|Southern & nbsp;Sotho]] 
+ | demographics2_info7     = 3.5% 
+ | demographics2_title8    = [[South African English|English]] 
+ | demographics2_info8     = 3.1% 
+ < !-- time zone(s) -------------- > 
+ | timezone1               = [[South African Standard Time|SAST]] 
+ | utc_offset1             = +2 
+ < !-- postal codes, area code --- > 
+ | iso_code                = ZA-MP 
+ < !-- website, footnotes -------- > 
+ | website                 = [http://www.mpumalanga.gov.za/ www.mpumalanga.gov.za] 
+ | footnotes               =  
+ }} 
+ '''Mpumalanga''' is a province in [[South Africa]]. It is one of South Africa's 9 provinces. The name of the province means 'where the sun rises'. < ref > [https://www.timeslive.co.za/news/south-africa/2018-08-08-three-dead-20-injured-in-accident-on-n12-in-mpumalanga/ Three dead‚ 20 injured in accident on N12 in Mpumalanga] The Times < /ref > < ref > [https://www.bbc.co.uk/news/world-africa-24909631   South Africa shock over bus collision in Mpumalanga -] BBC News < /ref > < ref > [https://www.bbc.com/news/world-africa-41052626   South Africa coffin case: White farmers convicted -] BBC News < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{geo-stub}} 
+ 
+ {{DEFAULTSORT:Mpumalanga}} 
+ [[Category:Mpumalanga| ]] 
+ [[Category:1994 establishments in South Africa]]

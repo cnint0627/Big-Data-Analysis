@@ -1,0 +1,65 @@
+{{Infobox Weapon 
+ |name=IMI Uzi (MP-2) 
+ |image=Uzi of the israeli armed forces.jpg 
+ |caption= 
+ |origin=[[Israel]] 
+ |type=[[Submachine gun]] 
+ < !-- Type selection -- > 
+ |is_ranged=yes 
+ < !-- Service history -- > 
+ |service=1954–present 
+ |used_by=See ''[[Uzi#Users|Users]]'' 
+ |wars=[[Suez Crisis]] < br/ > [[Six-Day War]] < br/ > [[Vietnam War]] < br/ > [[Yom Kippur War]] < br/ > [[Colombian armed conflict (1964-present)|Colombian internal conflict]] < br > [[Sri Lankan Civil War]] < br > [[Portuguese Colonial War]] < br > [[Falklands War]] < br > [[Invasion of Grenada]] < ref > {{cite book|title=Grenade 1983|author=Lee E. Russel|year=1985|page=39}} < /ref > < br > [[1982 Lebanon war]] < br > [[South African Border War]] < br > [[Rhodesian Bush War]] < br > [[Somali Civil War]] < br/ > [[Mexican Drug War]] < br/ > [[Syrian Civil War]] < br/ > [[Griselda_Blanco#Miami_drug_war|Miami Drug Wars]] 
+ < !-- Production history -- > 
+ |designer=[[Uziel Gal]] < ref name= " miller2001 " > {{cite book |title=The Illustrated Directory of 20th Century Guns |last= Miller |first= David |year= 2001 |publisher=Salamander Books |location=London |pages=391–393 |isbn= 1-84065-245-4 |oclc=59522369}} < /ref > 
+ |design_date=1948 
+ |manufacturer=[[Israel Military Industries]] < br > [[Israel Weapon Industries]] < br > [[FN Herstal]] < br > [[Norinco]] < br > [[Lyttleton Engineering Works]] (under Vektor Arms) < br > RH-ALAN < br > Group Industries 
+ |production_date=1950–present 
+ |number= 10,000,000+ < ref name= " mcmanners2003 " > {{cite book |title=Ultimate Special Forces |url=https://archive.org/details/ultimatespecialf00hugh |last= McManners |first= Hugh |year= 2003 |publisher=DK Publishing |location=New York |isbn= 0-7894-9973-8 |page=[https://archive.org/details/ultimatespecialf00hugh/page/157 157] |oclc=53221575 }} < /ref > 
+ |variants= See ''[[Uzi#Military variants|Variants]]'' 
+ < !-- General specifications -- > 
+ |weight={{convert|3.5|kg|lb|2|abbr=on}} < ref name= " miller2001 " / > 
+ |length= 
+ * {{convert|445|mm|in|abbr=on}} stockless 
+ * {{convert|470|mm|abbr=on|1}} folding stock collapsed 
+ * {{convert|640|mm|in|abbr=on}} folding stock extended < ref name= " miller2001 " / > 
+ |part_length={{convert|260|mm|abbr=on|1}} < ref name= " miller2001 " / > 
+ |crew= 
+ < !-- Ranged weapon specifications -- > 
+ |cartridge=[[9×19mm Parabellum]] < br > [[.22 LR]] < br > [[.45 ACP]] < br > [[.41 Action Express|.41 AE]] 
+ |caliber= 
+ |action=[[Blowback (arms)|Blowback]], < ref name= " miller2001 " / >  [[open bolt]] 
+ |rate=600 rounds/min < ref name= " miller2001 " / > 
+ |velocity=400 [[Metre per second|m/s]] (9mm) < ref > {{cite web |url=http://www.uzi.com/firearms.html |title=Firearms |work=The Uzi Official Website |publisher=Uzi Brands International |accessdate=6 January 2011 |archive-date=1 August 2013 |archive-url=https://web.archive.org/web/20130801085955/http://www.uzi.com/firearms.html |url-status=dead }} < /ref > 
+ |range= 200 m < ref > {{cite web |url=http://world.guns.ru/smg/isr/uzi--micro-uzi--mini-uzi-e.html |title= UZI / Mini UZI / Micro UZI submachine gun (Israel) |first=Max R. |last= Popenker |date= 27 October 2010 |publisher=World Guns: Modern Firearms  &  Ammunition |accessdate=6 January 2011}} < /ref > 
+ |max_range= 
+ |feed=10 (.22 and .41 AE) < br > 16 (.45 ACP) < br > 20, 25, 32, 40, 50 (9 mm) [[magazine (firearm)|magazines]] 
+ |sights=[[Iron sight]]s}} 
+ 
+ The '''Uzi''' is a type of [[submachine gun]] (SMG). It is famous for being very small and easy to carry, much more easily than any SMG made in [[World War II]]. It does this by loading [[Magazine (firearms)|magazines]] inside the grip, much like a [[pistol]]. It was not the first submachine gun to do this, but the Uzi was the first used on a large scale.   
+ 
+ There are different kinds of Uzis: Mini Uzi, which is a smaller version of the Uzi; Micro Uzi, which is only slightly larger than a standard [[pistol]]; Para Micro Uzi, which was made for [[Counter Terrorist Unit]]s; and the Uzi Pistol, which is semi-automatic (it fires one bullet every time you pull the trigger).  All of these kinds of Uzis are still in use by the special forces today. It is slowly being replaced by the [[MP-5]]. 
+ 
+ == History == 
+ 
+ Uzis were invented by an [[Israeli]] army officer, Uziel Gal. < ref name=uzi > {{cite web |url=http://www.uzi.com/history.html |title=The Uzi official website |first= |last= |work=uzi.com |year=2011 |accessdate=20 October 2011 |archive-date=5 October 2012 |archive-url=https://web.archive.org/web/20121005024625/http://www.uzi.com/history.html |url-status=dead }} < /ref >  This gun was first used in 1956. Uzis were used in the 1967 [[Six Day War]] by [[Israel]]. They are made by Israel Military Industries and also by the [[Belgium|Belgian]] weapon company, FN. < ref name=uzi/ > 
+ 
+ Even though Uziel Gal told his manufacturers not to name the weapon after him, they ignored his request and did so anyway. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [http://www.israel-weapon.com/default.asp?catid=%7B961053C3-242F-42C0-90DA-7E3FE7754685%7D Israel Weapon Industries (I.W.I.): Mini Uzi and Micro Uzi] {{Webarchive|url=https://web.archive.org/web/20120510220313/http://www.israel-weapon.com/default.asp?catid=%7B961053C3-242F-42C0-90DA-7E3FE7754685%7D |date=2012-05-10 }} 
+ * [http://www.uzi.com/ The official Uzi website] {{Webarchive|url=https://web.archive.org/web/20101113052446/http://www.uzi.com/ |date=2010-11-13 }} 
+ * [http://www.uzitalk.com Uzi history, parts, discussion forum] 
+ * [http://www.bimbel.de/artikel/artikel-13.html Uzi in parts] (in German) 
+ * [http://www.vectorarms.com/other/UZI_history.html Uzi history and lore] {{Webarchive|url=https://web.archive.org/web/20070928135922/http://www.vectorarms.com/other/UZI_history.html |date=2007-09-28 }} 
+ * [https://www.youtube.com/watch?v=ILqQPLcHypI Video of Uzi being fired (Japanese audio)] 
+ * [https://www.youtube.com/watch?v=2aax35iZsBU Video of suppressed Uzi being fired] 
+ 
+ 
+ {{military-stub}} 
+ 
+ [[Category:Submachine guns]] 
+ [[Category:Military of Israel]]

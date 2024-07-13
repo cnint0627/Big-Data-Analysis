@@ -1,0 +1,56 @@
+{{Wiktionary}} 
+ In [[mathematics]] and [[statistics]], the '''mean''' is a kind of [[average]]. Besides the mean, there are other kinds of average, and there are also a few kinds of mean.  
+ 
+ The most common mean is the arithmetic mean, which is calculated by adding all of the values together, then dividing by the number of values. 
+ 
+ For example, if 1, 2, 2, 100, 100 is a set of numbers or scores. If we add all the numbers, the answer is 205.  By dividing this number by the number of numbers (5), we find that the mean is 41. The difficulty with this particular set of numbers is that no one in this group scored anything like a 41, and it does not tell us much about what kind of scores these numbers represent.  
+ 
+ == Calculation details == 
+ In general, to find the average of  < math > N < /math >  numbers, the  < math > N < /math >  numbers are [[addition|added]] and the total is [[Division (mathematics)|divide]]d by  < math > N < /math > . 
+ 
+ In symbols, if the numbers are  < math > X_1 < /math > ,  < math > X_2 < /math > ,  < math > X_3 < /math > , ...  < math > X_N < /math > , the total is: 
+ : < math > X_1 + X_2 + X_3 + ... + X_N < /math > 
+ 
+ The total is divided by  < math > N < /math >  to make the average: 
+ : < math > {X_1 + X_2 + X_3 + ... + X_N} \over N  < /math > 
+ If  < math > X_1 < /math > ,  < math > X_2 < /math > ,  < math > X_3 < /math > , ...,  < math > X_N < /math >  are all the numbers in a sample  < math > X < /math > , then this average is also called the sample mean of  < math > X < /math > , and represented by the symbol  < math > \overline{X} < /math > . < ref name= " :0 " > {{Cite web|date=2020-04-26|title=List of Probability and Statistics Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/|access-date=2020-08-21|website=Math Vault|language=en-US}} < /ref > 
+ 
+ === Examples === 
+ 
+ * Lucy is 5 [[year]]s [[old]]. Tom is 6 years old. Emily is 7 years old. To find the average age: 
+ **[[Add]] the three numbers : 
+ :: < math > 5+6+7=18 < /math >    
+ :* The total is 18. Divide the total 18 by three:  
+ :: < math > 18/3=6 < /math > 
+ :* The average of the three numbers is 6.  
+ :: < math > \frac{5+6+7}{3} < /math > 
+ :Therefore, the average age of Lucy, Tom and Emily is 6 years. 
+ 
+ ==Related calculations== 
+ 
+ The idea behind the mean is to represent a number of measurements, or values, by one value only. But there are different ways to calculate such a representing value.  
+ 
+ *The [[median]] is the number that divides all the samples in such a way that half of the samples are below it, and the other half above. Example: 1, 10, 50, 100, 100 is a set of numbers or scores. If we look at these scores, we discover that the number 50 falls in the middle of the range of numbers, which tells us that half the numbers or scores are above this number, and half the numbers and scores are below this number. This is more information, depending on what you are trying to find out about this group of numbers, to help you find out what you want to know. It is not always possible to make the higher and lower group each exactly half of the total (for example, the equal division fails for the list 1, 2, 2). 
+ 
+ *The modus or [[Mode (statistics)|mode]] is the number that occurs most often. Example: 1, 2, 2, 100, 200 is a set of numbers or scores. If we look at the numbers we discover that the number 2 recurs most often and would tell us that the number or score of 2 is the most common score or number in the group. 
+ 
+ *The [[arithmetic mean]] is just the average, the value that is the sum of all values, divided by their number. This is what is most often referred to as ''mean''. 
+ 
+ *The [[geometric mean]] is the root of the product of all values. < ref name= " :1 " > {{Cite web|title=Mean {{!}} mathematics|url=https://www.britannica.com/science/mean|access-date=2020-08-21|website=Encyclopedia Britannica|language=en}} < /ref >  For example, the geometric mean of 4, 6, and 9 is 6, because 4 times 6 times 9 is 216, and the [[cube root]] (because there are three values) of 216 is 6. 
+ 
+ *The [[harmonic mean]] is the [[reciprocal]] of the arithmetic mean of the reciprocals. It is often used when people want a mean of rates or percentages.  
+ 
+ *The [[root mean square]] (or quadratic mean) is the [[square root]] of the arithmetic mean of the squares of the values. < ref name= " :1 "  / >  The root mean square is at least as high as the arithmetic mean, and usually higher. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Mean|url=https://mathworld.wolfram.com/Mean.html|access-date=2020-08-21|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ If people do many different measurements, they will get many different results. Those results have a certain [[Frequency distribution|distribution]], and they can also be centered around an ''average'' value. This average value is what mathematicians call '''arithmetic mean'''. 
+ 
+ Mean can also stand for [[expected value]]. For a random variable  < math > X < /math > , this is represented by the symbol  < math > E(X) < /math > . < ref name= " :0 "  / > 
+ 
+ == Related pages == 
+ 
+ * [[Standard deviation]] 
+ 
+ == References == 
+ < references / > 
+ [[Category:Statistics]] 
+ [[Category:Arithmetics]]

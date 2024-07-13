@@ -1,0 +1,38 @@
+{{Information appliance 
+ | title = AirPort 
+ | manufacturer = [[Apple Inc.]] 
+ | type = Wireless Base Stations and Cards 
+ | releasedate = July 21, 1999 
+ | connectivity =  
+ | lifespan =  
+ | unitssold =  
+ | media =  
+ | operatingsystem =  
+ | input =  
+ | camera =  
+ | power =  
+ | cpu =  
+ | storage =  
+ | memory =  
+ | display =  
+ | onlineservice = [http://apple.com/airport Apple.com - AirPort Extreme] 
+ | dimensions =  
+ | weight =  
+ | touchpad =  
+ | predecessor =  
+ | successor =  
+ | related = 
+ }} 
+ '''AirPort''' and '''AirPort Extreme''' are [[Wireless LAN|local area wireless networking]] products that are made by the company [[Apple Inc]]. < ref > {{cite web|url=https://www.apple.com/airportexpress/|title=AirPort Express - Faster is Better|publisher=[[Apple]], Inc.|access-date=2010-03-17}} < /ref > 
+ 
+ Both the AirPort and the AirPort Extreme can both mean the [[protocol (computing)|protocol]], the expansion card or the base station. 
+ 
+ In [[Japan]], AirPort is called the AirMacAirMac < ref > {{cite web |url= http://apple.com/jp/airmacexpress|title= アップル - AirMac Express|access-date=2008-06-22 |work= Apple, Inc.}} < /ref >  because the name AirPort was taken by [http://www.iodata.jp/prod/network/wnlan/2004/wn-apga/index.htm I-O DATA] {{Webarchive|url=https://web.archive.org/web/20170607111444/http://www.iodata.jp/prod/network/wnlan/2004/wn-apga/index.htm |date=2017-06-07 }}. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Apple Inc.]]

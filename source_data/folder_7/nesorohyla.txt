@@ -1,0 +1,30 @@
+{{Short description|Genus of amphibians}} 
+ {{Speciesbox 
+ | status = EN  
+ | status_system = IUCN3.1 
+ | status_ref =  < ref name= " iucn status 14 November 2021 " > {{cite iucn |author=IUCN SSC Amphibian Specialist Group |date=2019 |title=''Nesorohyla kanaima'' |volume=2019 |page=e.T55524A120327973 |doi=10.2305/IUCN.UK.2019-1.RLTS.T55524A120327973.en |access-date=14 November 2021}} < /ref > 
+ | display_parents = 2 
+ | parent_authority = Pinheiro, {{interlanguage link multi|Philippe J. R. Kok|fr|lt=Kok}}, Noonan, Means,  &  {{interlanguage link multi|Célio Fernando Baptista Haddad|fr|lt=Haddad}}, 2018 
+ | taxon = Nesorohyla kanaima 
+ | authority = ({{interlanguage link multi|Coleman Jett Goin|fr|lt=Goin}}  &  Woodley, 1969) 
+ | synonyms = {{Species list 
+  | Hyla kanaima | Goin  &  Woodley, 1969 
+  | Myersiohyla kanaima | (Goin  &  Woodley, 1969) 
+  | Nesorohyla kanaima | (Goin  &  Woodley, 1969) }} 
+ | synonyms_ref =  < ref name=Frost/ > 
+ }} 
+ 
+ '''''Nesorohyla''''' is a [[monotypic|genus of frogs with exactly one species in it]]. It is in the family [[Hylidae]]. The species is '''''Nesorohyla kanaima''''', < ref name=Frost-genus/ >  also named the '''Kanaima treefrog'''. It [[endemic|lives in]] [[Guyana]]. < ref name= " iucn status 14 November 2021 "  / > < ref name=Frost/ > < ref > {{cite journal|author=Cole, C.J.|author2=C.R. Townsend|author3=R.P. Reynolds|author4=R.D. MacCulloch|author5=A. Lathrop|name-list-style=amp|title=Amphibians and reptiles of Guyana, South America: Illustrated keys, annotated species accounts, and a biogeographic synopsis|journal=Proceedings of the Biological Society of Washington|date=2013|volume=125|pages=317–620|doi=10.2988/0006-324x-125.4.317}} < /ref >  Scientists think it could also live in [[Brazil]] and [[Venezuela]]. It [[habitat|lives in]] subtropical and tropical [[forest]]s, both near sea level and [[montane forest|in the mountains]], < ref > {{cite journal|author1=MacCulloch, R.D.  |author2=A. Lathrop|title=Hylid frogs from Mount Ayanganna, Guyana: new species, redescriptions and distributional records|journal=Phyllomedusa|date=2005|volume=4|pages=17–37|doi=10.11606/issn.2316-9079.v4i1p17-37|doi-access=free}} < /ref >  and [[river]]s. < ref > {{Citation |page=22 |work= [[Papéis Avulsos de Zoologia]]|ISSN=1807-0205 |publication-date=December 2010 |volume=51 |issue=2 |title=Distribution, vocalization and taxonomic status of Hypsiboas roraima and H. angelicus (Amphibia: Anura: Hylidae) |author=César L. Barrio-Amorós|url=https://www.researchgate.net/publication/262597872_Distribution_vocalization_and_taxonomic_status_of_Hypsiboas_roraima_and_H_angelicus_Amphibia_Anura_Hylidae|access-date= January 15, 2018}} < /ref > < ref > {{Citation |page=25 |title= Papéis Avulsos de Zoologia, Volume 51|publisher= [[Museum of Zoology of the University of São Paulo|Department of Zoology, University of São Paulo]] |publication-date= 2011|issn=0031-1049|url=https://books.google.com/books?id=rAFiHVadTjMC |access-date= January 15, 2018}} < /ref > 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=Frost-genus > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Hylidae/Cophomantinae/Nesorohyla |title=''Nesorohyla'' Pinheiro, Kok, Noonan, Means, and Haddad, 2018 |author=Frost, Darrel R. |year=2019 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |access-date=2 November 2019}} < /ref > 
+ 
+ < ref name=Frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Hylidae/Cophomantinae/Nesorohyla/Nesorohyla-kanaima |title=''Nesorohyla kanaima'' (Goin and Woodley, 1969) |author=Frost, Darrel R. |year=2019 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |access-date=2 November 2019}} < /ref > 
+ }} 
+ 
+ {{Taxonbar|from=Q2705673}} 
+ 
+ [[Category:Frogs of South America]] 
+ 
+ {{Biology-stub}}

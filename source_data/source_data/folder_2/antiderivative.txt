@@ -1,0 +1,68 @@
+'''Antidifferentiation''' (also called '''indefinite integration''') is the process of finding a certain function in [[calculus]]. It is the opposite of [[Derivative (mathematics)|differentiation]]. It is a way of processing a [[Function (mathematics)|function]] to give another function (or class of functions) called an antiderivative. Antidifferentiation is like [[integral|integration]]—but without limits. This is why it is called indefinite integration. When represented as single letters, antiderivatives often take the form of capital [[Roman letter|roman letters]] such as  < math > F < /math >  and  < math > G < /math > . < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-18|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Antiderivative and Indefinite Integration {{!}} Brilliant Math  &  Science Wiki|url=https://brilliant.org/wiki/antiderivative-and-indefinite-integration/|access-date=2020-08-18|website=brilliant.org|language=en-us}} < /ref > 
+ 
+ In general, an antiderivative is written in the form  < math > \int f(x) \ dx < /math > , < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Indefinite Integral|url=https://mathworld.wolfram.com/IndefiniteIntegral.html|access-date=2020-08-18|website=mathworld.wolfram.com|language=en}} < /ref >  where: 
+ 
+ * The long S,  < math > \int < /math > ,  is called an integral sign. < ref name= " :0 " > {{Cite web|date=2017-04-27|title=4.9: Antiderivatives|url=https://math.libretexts.org/Bookshelves/Calculus/Map%3A_Calculus__Early_Transcendentals_(Stewart)/04%3A_Applications_of_Differentiation/4.09%3A_Antiderivatives|access-date=2020-08-18|website=Mathematics LibreTexts|language=en}} < /ref >  In [[integral|integration]], the integral sign has numbers on it. Those numbers tell you how to do the integration. Antiderivatives are different. They do not have numbers on their integral signs. 
+ * < math > x < /math >  is the equation you are integrating. 
+ * The letters  < math > dx < /math >  mean  " with respect to  < math > x < /math > " . This tells you how to do the antidifferentiation. 
+ 
+ == Simple antidifferentiation == 
+ 
+ A function of the form  < math > ax^n < /math >  can be integrated (antidifferentiated) as follows: 
+ 
+ * Add 1 to the power  < math > n < /math > , so  < math > ax^n < /math >  is now  < math > ax^{n+1} < /math > . 
+ * Divide all this by the new power, so it is now  < math > \frac{ax^{n+1}}{n+1} < /math > . 
+ * Add the constant  < math > c < /math > , so it is now  < math > \frac{ax^{n+1}}{n+1} + c < /math > . 
+ 
+ This can be shown as: 
+ 
+ < math > \int ax^n\ dx = \frac{ax^{n+1}}{n+1} + c < /math >  (also known as the power rule of integral) < ref name= " :0 "  / > 
+ 
+ When there are many terms, we can integrate the entire function by integrating its components one by one: 
+ 
+ < math > \int 2x^6 - 5x^4\ dx = \frac{2x^7}{7} - \frac{5x^5}{5} + c = \frac{2}{7}x^7 - x^5 + c < /math > 
+ 
+ '''(This only works if the parts are being added or taken away.)''' 
+ 
+ === Examples === 
+ 
+ : < math > \int 3x^4\ dx = \frac{3x^5}{5} + c < /math > 
+ 
+ : < math > \int x + x^2 + x^3 + x^4\ dx = \frac{x^2}{2} + \frac{x^3}{3} + \frac{x^4}{4} + \frac{x^5}{5} + c < /math > 
+ 
+ : < math > \int \frac{1}{x + 4}\ dx = \ln |x + 4| \times 1 + c = \ln |x + 4| + c < /math > 
+ 
+ Changing fractions and roots into powers makes it easier: 
+ 
+ : < math > \int \frac{1}{x^3}\ dx = \int x^{-3}\ dx = \frac{x^{-2}}{-2} + c = -\frac{1}{2x^2} + c < /math > 
+ 
+ : < math > \int \sqrt{x^3}\ dx = \int x^{\frac{3}{2}}\ dx = \frac{x^{\frac{5}{2}}}{\frac{5}{2}} + c = \frac{2}{5}x^{\frac{5}{2}} + c = \frac{2}{5}\sqrt{x^5} + c < /math > 
+ 
+ == Integrating a bracket ( " chain rule " ) == 
+ 
+ To integrate a bracket like  < math > (2x+4)^3 < /math > , a different method is needed. It is called the '''chain rule'''. It is like simple integration, but it only works if the  < math > x < /math >  in the bracket is linear (has a power of 1), such as  < math > x < /math >  or  < math > 5x < /math > —but ''not''  < math > x^5 < /math >  or  < math > x^{-7} < /math > . 
+ 
+ For example,  < math > \int (2x+4)^3\ dx < /math >  can be determined in the following steps: 
+ 
+ * Add 1 to the power  < math > 3 < /math > , so that it is now  < math > (2x+4)^4 < /math > 
+ * Divide all this by the new power to get  < math > \frac{(2x+4)^4}{4} < /math > 
+ * Divide all this by the [[Derivative (mathematics)|derivative]] of the bracket  < math > \left (\frac{d(2x+4)}{dx} = 2 \right ) < /math >  to get  < math > \frac{(2x+4)^4}{4 \cdot 2} = \frac{1}{8}(2x+4)^4 < /math > 
+ * Add the constant  < math > c < /math >  to give  < math > \frac{1}{8}(2x+4)^4 + c < /math > 
+ 
+ === Examples === 
+ 
+ < math > \int (x+1)^5\ dx = \frac{(x+1)^6}{6 \times 1} + c = \frac{1}{6}(x+1)^6 + c \left ( \because \frac{d(x+1)}{dx} = 1 \right ) < /math > 
+ 
+ < math > \int \frac{1}{(7x+12)^9}\ dx = \int (7x+12)^{-9}\ dx = \frac{(7x+12)^{-8}}{-8 \times 7} + c = -\frac{1}{56}(7x+12)^{-8} + c = -\frac{1}{56(7x+12)^8} + c \left ( \because \frac{d(7x+12)}{dx} = 7 \right ) < /math > 
+ 
+ ==Related pages== 
+ 
+ * [[Fundamental theorem of calculus]] 
+ * [[Integral]] 
+ * [[Numerical integration]] 
+ * [[Partial fraction decomposition]] 
+ 
+ == References == 
+ < references / > 
+ [[Category:Mathematical analysis]] 
+ [[Category:Calculus]]

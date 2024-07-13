@@ -1,0 +1,85 @@
+[[File:Wikipedia article-creation-2.svg|thumb|264px|Sample flowchart diagram]] 
+ 
+ A '''diagram''' is usually a two-dimensional display which communicates using [[graphic design|visual]] relationships. It is a simplified and structured visual representation of [[concept]]s, [[idea]]s, constructions, [[relation]]s, statistical data, [[anatomy]] etc. It may be used for all aspects of human activities to explain or illustrate a topic. 
+ 
+ == Discussion == 
+ [[File:Periodic table.svg|thumb|500px|right|The standard variation of the [[periodic table]]]] 
+ * ''visual information device'': Like the term  " [[illustration]] "  the diagram is used as a collective term standing for the whole class of technical genres, including [[graphics|graphs]], technical drawings and [[table (information)|tables]]. < ref name =  " LEB 03 " > Brasseur, Lee E. 2003. ''Visualizing technical information: a cultural critique''. Amityville, N.Y: Baywood Pub. {{ISBN|0-89503-240-6}} < /ref > 
+ * ''specific kind of visual display'': This is the genre that shows qualitative data with shapes that are connected by lines, arrows, or other visual links. 
+ 
+ In science the term is used in both ways. For example, Anderson (1997) stated more generally:  " diagrams are pictorial, yet abstract, representations of information, and [[map]]s, [[line graph]]s, [[bar chart]]s, [[engineering]] [[blueprint]]s, and [[architect]]s' [[Sketch (drawing)|sketch]]es are all examples of diagrams, whereas photographs and video are not " . < ref name= " MA97 " > Michael Anderson (1997). [http://zeus.cs.hartford.edu/~anderson/intro.html  " Introduction to Diagrammatic Reasoning " ] {{Webarchive|url=https://web.archive.org/web/20080915135208/http://zeus.cs.hartford.edu/~anderson/intro.html |date=2008-09-15 }}. Retrieved 21 July 2008. < /ref >  On the other hand, Lowe (1993) defined diagrams as specifically  " abstract graphic portrayals of the subject matter they represent " . < ref name=  " RKL 93 " > {{cite journal |last=Lowe |first=Richard K. |year=1993 |title=Diagrammatic information: techniques for exploring its mental representation and processing |journal=Information Design Journal |volume=7 |issue=1 |pages=3–18 |doi=10.1075/idj.7.1.01low}} < /ref > 
+ 
+ == Visual thinking == 
+ [[File:Kanizsa triangle.svg|thumb|180px|Kanizsa triangle: there is no drawn white triangle, yet we see one]] 
+ 
+ Diagrams affect the mind so that the viewer comes to understand them, but not in the way one understands words. Visual thinking or problem-solving is very ancient, and largely automatic. One only has to remember that the brain puts together an image of the world around us based on sensory input, mostly sight. We do not make any conscious decisions: it is done without conscious thought. Diagrams most likely  " tap in "  to some of these ancient – but largely unknown – routines. 
+ 
+ In fact these normally hidden brain processes do sometimes become apparent. When brain damage affects the visual cortex, < ref > Christine Roman-Lantzy 2007. ''Cortical visual impairment''. New York: AFB Press. {{ISBN|0-89128-829-5}} < /ref >  or when visual illusions are created, < ref > Gregory R.L. 1970. ''The intelligent eye''. Weidenfeld  &  Nicolson, London. < /ref > < ref > Gregory, Richard 1997. ''Knowledge in perception and illusion''. ''Phil. Trans. R. Soc. Lond. B'' '''352''':1121-1128. [http://www.richardgregory.org/papers/knowl_illusion/knowledge-in-perception.pdf (pdf)] 
+ < /ref >  are two classic examples. 
+ 
+ The way some diagrams affect thinking is quite important. [[Mendeleev]]'s [[periodic table]] summarised previous research on the [[chemical element|elements]]. Far more important, though, was the way it suggested the properties of elements which were ''not yet discovered''. < ref > Mendeleev, Dmitry Ivanovich; Jensen, William B. (ed) 2005. ''Mendeleev on the periodic law: selected writings, 1869–1905''. Mineola, New York: Dover Publications. {{ISBN|0-486-44571-2}} < /ref >  This diagram stimulated creative thought, and other examples from the history of science could be given: see [[Feynman diagram]]. 
+ 
+ == Basic diagram types == 
+ * [[Matrix (mathematics)|Matrix]] 
+ * [[Set]] 
+ * [[Network diagram]] 
+ * [[Flowchart]] 
+ * [[Tree diagram]] 
+ * [[Graph (mathematics)|Graph]] 
+ * [[Exploded view]] 
+ 
+ == Examples == 
+ * [[Circuit diagram]] 
+ * [[Euler diagram]] 
+ * [[Family tree]] 
+ * [[Feynman diagram]] 
+ * [[Gantt chart]] – shows the timing of tasks or activities (used in [[project management]]) 
+ * [[Mind map]] – used for learning, brainstorming, memory, visual thinking and problem solving 
+ * [[Organisation]] 
+ * [[Piping and instrumentation diagram]] 
+ * [[Venn diagram]] 
+ 
+ == Some main diagram types == 
+ There are at least the following types of diagrams: 
+ * [[Graph (mathematics)|Graph]]-based diagrams: relationships are expressed as connections between the items or overlaps between the items; examples: 
+ 
+ {|style= " width:100% " 
+ |style= " vertical-align:top; width:25px; " | 
+ |style= " vertical-align:top; " | 
+ < gallery perrow= " 5 "  widths= " 80 "  heights= " 80 " > 
+ File:Tree Example.png|[[Network topology#Tree|tree diagram]] 
+ File:LampFlowchart.svg|[[flowchart]] 
+ File:Set intersection.svg|[[Venn diagram]] 
+ < /gallery > 
+ |} 
+ * [[Chart]]-like diagram techniques, which display a relationship between two variables that take either [[Discrete mathematics|discrete]] or a [[continuous function|continuous]] ranges of values; examples: 
+ 
+ {|style= " width:100% " 
+ |style= " vertical-align:top; width:25px; " | 
+ |style= " vertical-align:top; " | 
+ < gallery perrow= " 5 "  widths= " 80 "  heights= " 80 " > 
+ File:Histogram example.svg|[[histogram]] 
+ File:Zusammensetzung Shampoo.svg|[[pie chart]] 
+ File:Hyperbolic Cosine.svg|[[function graph]] 
+ File:R-car stopping distances 1920.svg|[[scatter plot]] 
+ < /gallery > 
+ |} 
+ 
+ [[Schematic]]s and other types of diagrams, e.g., 
+ {|style= " width:100% " 
+ |style= " vertical-align:top; width:25px; " | 
+ |style= " vertical-align:top; " | 
+ < gallery perrow= " 5 "  widths= " 80 "  heights= " 80 " > 
+ File:Train schedule of Sanin Line, Japan, 1949-09-15, part.png|[[Service planning (train)|train diagram]] 
+ File:Gear pump exploded.svg|[[exploded view]] 
+ File:US 2000 census population density map by state.svg|[[Population density|population density map]] 
+ File:Automotive diagrams 01 En.png|[[Three-dimensional|Three-dimensional diagram]] 
+ < /gallery > 
+ |} 
+ 
+ == References == 
+ {{Commonscat|Diagrams|diagrams}} 
+ {{enWiktionary|diagram}} 
+ {{reflist}} 
+ [[Category:Diagrams| ]] 
+ [[Category:Non-verbal communication]]

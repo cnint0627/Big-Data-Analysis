@@ -1,0 +1,152 @@
+{{Infobox software 
+ | name = AutoHotkey 
+ | logo = AutoHotkey logo.png 
+ | screenshot =  
+ | caption =  
+ | developer = Chris Mallett, Steve Gray 
+ | released = {{Start date and age|2003|11|10}} (Chris Mallet) < ref name= " 2003to2004changelog " > {{cite web|url=http://www.autohotkey.com/changelog/2004.htm |title=AutoHotkey Changelog for Years 2003-2004 |publisher=Autohotkey.com |access-date=2011-12-02 |url-status=dead |archive-url=https://web.archive.org/web/20111104142142/http://www.autohotkey.com/changelog/2004.htm |archive-date=2011-11-04 }} < /ref > < br/ > {{Start date and age|2008|7|18}} (Steve Gray) < ref > {{cite web |url=https://www.autohotkey.com/docs/AHKL_ChangeLog.htm#L4 |title=Changes  &  New Features AutoHotkey (sorted by date)}} < /ref > < ref > {{cite web |url=https://github.com/Lexikos/AutoHotkey_L/releases/tag/L4 |title=L4 Source Code (sorted by date)|website=[[GitHub]] }} < /ref > 
+ | latest_release_version = 1.1.31.01 
+ | latest_release_date = {{release date and age|2019|10|14}} < ref > {{cite web |url=https://autohotkey.com/download |title=AutoHotkey Downloads}} < /ref > 
+ | latest preview version = 2.0-a105 
+ | latest preview date = {{Start date and age|2019|09|22}} < ref > {{cite web |url=https://autohotkey.com/download/2.0/?C=M;O=D |title=AutoHotkey v2 Downloads (sorted by date)}} < /ref > 
+ | operating_system = [[Microsoft Windows]] 
+ | genre = [[Scripting language]] [[Automation]] [[Graphical user interface|GUI]] [[Utility software|utility]] 
+ | license = [[GNU General Public License|GPL]] 
+ | website = {{URL|autohotkey.com}} 
+ }} 
+ 
+ '''AutoHotkey''' is a [[free software|free]], [[Open-source software|open-source]] [[Scripting language|scripting]] [[programming language|language]] for [[Windows|Microsoft Windows]]. It allows users to create [[keyboard shortcut]]s or hotkeys, fast [[Macro (computer science)#Keyboard and mouse macros|macro]]-creation and [[software]] [[automation]]. It allows users to automate repetitive tasks in any Windows application. User interfaces can be extended or modified by AutoHotkey. For example, replacing the Windows [[control key]] commands with their [[Emacs]] equivalents. < ref > {{cite web |author=Contact Erica Sadun: Comment |url=http://lifehacker.com/software/software/download-of-the-day-autohotkey-118270.php |title=Ericasadun 2005 Life Hacker |publisher=Lifehacker.com |date=2005-08-19 |access-date=2011-12-02 |archive-date=2005-10-24 |archive-url=https://web.archive.org/web/20051024081723/http://lifehacker.com/software/software/download-of-the-day-autohotkey-118270.php |url-status=dead }} < /ref >  The AutoHotkey installation includes a help file. Documentation is available on the internet. < ref > {{cite web | url=https://autohotkey.com/docs/AutoHotkey.htm | title=Quick Reference  & #124; AutoHotkey }} < /ref > 
+ 
+ ==Features== 
+ AutoHotkey scripts can be used to load [[Computer program|programs]], open documents, and issue [[keystrokes]] and [[Mouse (computing)|mouse]] clicks. < ref > {{cite web|url=http://www.autohotkey.com/docs/Tutorial.htm |title=AutoHotkey Tutorial: Macro and Hotkey Creation |publisher=Autohotkey.com |access-date=2011-12-02}} < /ref > 
+ 
+ AutoHotkey scripts can also change [[Variable (programming)|variables]] and manipulate [[Window (computing)|windows]], [[Computer file|files]], and [[Directory (File system)|folders]]. 
+ 
+ AutoHotkey scripts can be started by a [[Keyboard shortcut|hotkey]]. When the [[User (computing)|user]] presses a combination of keys, such as {{key press|Ctrl|Alt|I}} on the keyboard, a script could open a [[web browser]]. 
+ 
+ Keyboard keys can be remapped, such that pressing {{key press|Ctrl|N}} might result in the [[active window]] receiving an [[Dash#En dash|en dash]] ( & ndash;). The same keys could be disabled, such that pressing {{key press|Ctrl|N}} might result in nothing happening at all. < ref > {{cite web|url=http://www.autohotkey.com/docs/misc/Remap.htm |title=Remapping Keys and Buttons |publisher=Autohotkey.com |access-date=2011-12-02}} < /ref > 
+ 
+ AutoHotkey also allows for 'hotstrings' that will automatically replace certain text as it is typed. A typical use for hotstrings is expanding abbreviations. Typing  " btw "  could be made to produce the text  " by the way " . < ref > {{cite web|url=http://www.autohotkey.com/docs/Hotstrings.htm |title=Hotstrings and Auto-replace (similar to AutoText and AutoCorrect) |publisher=Autohotkey.com |date=2005-01-09 |access-date=2011-12-02}} < /ref > 
+ 
+ Scripts can be started automatically when the computer starts. These could run in the background and could be used to write information to a logfile. < ref > {{cite web|url=https://autohotkey.com/docs/FAQ.htm#Startup |title=Hotkeys, Hotstrings, and Remapping |publisher=Autohotkey.com |access-date=2018-05-23}} < /ref > 
+ 
+ More complex tasks can be making custom data entry forms ([[Graphical user interface|GUI windows]]), working with the [[Windows Registry|system registry]], or using the Windows [[Application programming interface|API]] by calling functions from [[Dynamic-link library|DLLs]]. The scripts can be [[Compiler|compiled]] into an [[executable]] file that can be run on other computers that do not have AutoHotkey installed. 
+ 
+ The source code is in [[C++]] and can be compiled with [[Microsoft Visual Studio Express|Visual Studio Express]]. 
+ 
+ Memory access through pointers is allowed just as in [[C (programming language)|C]]. < ref > {{cite web|url=http://www.autohotkey.com/changelog/ |title=AutoHotkey Changes and New Features, v1.0.47 - June 19, 2007 |publisher=Autohotkey.com |access-date=2011-12-02}} < /ref > 
+ 
+ Some uses for AutoHotkey: 
+ * Remapping the keyboard, such as from [[QWERTY]] to [[Dvorak Simplified Keyboard|Dvorak]] or other alternative keyboard layouts. 
+ * Using shortcuts to fill in frequently-used file names or other phrases. 
+ * Typing punctuation not provided on the keyboard, such as [[Quotation mark#Curved quotes within and across applications|curved quotes]] ('''“'''…'''”'''). 
+ * Controlling the mouse cursor with a keyboard or [[joystick]]. 
+ * Opening programs, documents, and websites with simple keystrokes. 
+ * Adding a [[signature block|signature]] to [[e-mail]] or [[Internet forum|message boards]]. 
+ * Monitoring a system and automatically closing unwanted programs. 
+ * Scheduling an automatic [[Reminder software|reminder]], system scan, or [[backup]]. 
+ * Automating repetitive tasks. 
+ * Filling out contest and freebie forms automatically (it could type in your name, address, and so on, automatically). 
+ * [[Software prototyping|Prototyping]] before implementing in another, more time consuming, programming language. 
+ 
+ ==History== 
+ The first public [[beta version|beta]] of AutoHotkey was released on November 10, 2003. < ref name= " 2003to2004changelog "  / >  It was  based on the syntax on [[AutoIt]] v2. It used some AutoIt v3 commands and the AutoIt v3 compiler. < ref > {{cite web|url=http://www.autohotkey.com/forum/viewtopic.php?p=19710#19710 |title=Author Chris Mallett's post on the AutoHotkey Forums |publisher=Autohotkey.com |access-date=2011-12-02}} < /ref >  AutoIt v3 changed its license from [[GPL]] to [[closed source]] because of  " other projects repeatedly taking AutoIt code "  and  " setting themselves up as competitors. " < ref > {{cite web|url=http://www.autoitscript.com/forum/index.php?showtopic=7204 |title=Licensing Opinions - AutoIt Forums |publisher=Autoitscript.com |access-date=2011-12-02}} < /ref > 
+ 
+ In 2010, AutoHotkey v1.1 (originally called AutoHotkey_L) became the platform for ongoing development of AutoHotkey. < ref > {{cite web|url=http://www.autohotkey.com/forum/viewtopic.php?t=63474 |title=Forum post by Chris, announcing AutoHotkey_L now main platform |publisher=Autohotkey.com |access-date=2011-12-02}} < /ref >  In late 2012, it became the official branch. < ref name= " ourhistory " > {{cite web|url=http://autohotkey.com/foundation/history.html |title=The AutoHotkey Foundation : Our History |publisher=The AutoHotkey Foundation |date=2014-05-26 |access-date=2016-07-23}} < /ref > 
+ 
+ ==Examples== 
+ The following script will allow a user to search for a particular word or phrase using [[Google Search|Google]]. After copying text from any application to the [[Clipboard (computing)|clipboard]], pressing the configurable hotkey {{key press|Win|G}} will open the user's default [[web browser]] and perform the search. 
+ 
+ < source lang= " autohotkey " > 
+ #g::Run http://www.google.com/search?q=%clipboard% 
+ < /source > 
+ 
+ The following script defines a hotstring that enables the user to type  " afaik "  in any program and have it automatically replaced with  " as far as I know " : 
+ 
+ < source lang= " autohotkey " > 
+ ::afaik::as far as I know 
+ < /source > 
+ 
+ The example below makes {{key press|Ctrl|Shift|Q}} replace selected text in an editor with a quoted version of that text. It illustrates the use of functions, arguments and default argument values.  < syntaxhighlight lang= " autohotkey " > 
+ ^+q::QuoteSelection()  ; Ctrl+Shift+Q 
+ 
+ QuoteSelection() 
+ { 
+ 	selection := GetSelection()  ; Get selected text. 
+ 	PasteText(Quote(selection))  ; Quote the text and paste it back. 
+ } 
+ 
+ GetSelection(timeoutSeconds := 0.5) 
+ { 
+ 	Clipboard :=  " "   ; Clear clipboard for ClipWait to function. 
+ 	Send ^c  ; Send Ctrl+C to get selection on clipboard. 
+ 	ClipWait %timeoutSeconds% ; Wait for the copied text to arrive at the clipboard. 
+ 	return Clipboard 
+ } 
+ 
+ PasteText(s) 
+ { 
+ 	Clipboard := s  ; Put the text on the clipboard. 
+ 	Send ^v  ; Paste the text with Ctrl+V. 
+ } 
+ 
+ Quote(s) 
+ { 
+ 	return  " " " "  . s .  " " " " 
+ } 
+ < /syntaxhighlight > 
+ 
+ ==User-contributed features== 
+ There are extensions/interops/inline script libraries available for usage with/from other programming languages: 
+ * [[Visual Basic .NET|VB]]/[[C Sharp (programming language)|C#]] ([[.NET Framework|.NET]]) < ref > [http://www.autohotkey.com/forum/topic26191.html .NET Framework] < /ref > 
+ * [[Lua (programming language)|Lua]] < ref > [http://www.autohotkey.com/forum/topic44204.html LibLua] < /ref > 
+ * [[Lisp (programming language)|Lisp]] < ref > [http://www.autohotkey.com/forum/topic43081.html Lisp on win32] < /ref > 
+ * [[Embeddable Common Lisp|ECL]] < ref > [http://www.autohotkey.com/forum/topic36225.html Embeddable Common Lisp] < /ref > 
+ * [[VBScript]]/[[JScript]] ([[Windows Scripting Host]]) < ref > [http://www.autohotkey.com/forum/topic21674.html Windows Scripting Host] < /ref > 
+ * Embedded [[machine code]] < ref > [http://www.autohotkey.com/forum/topic21172.html Embedded machine code] < /ref > 
+ 
+ Other major plugins enable support for: 
+ * [[Aspect-oriented programming]] 
+ ** Function hooks < ref > [http://www.autohotkey.com/forum/viewtopic.php?t=39838 Function Hooks] < /ref > 
+ * [[Component Object Model|COM]] wrappers < ref > [http://www.autohotkey.com/forum/viewtopic.php?t=22923 COM Wrappers] < /ref > 
+ * Console interaction < ref > [http://www.autohotkey.com/board/topic/96895-libcon-autohotkey-library-for-console-support/ Console Interaction (LibCon)] < /ref > 
+ * Dynamic code generation < ref > [http://www.autohotkey.com/forum/viewtopic.php?t=26300 Dynamic Code Generation] < /ref > 
+ * [[Human interface device|HIDs]] < ref > [http://www.autohotkey.net/~Micha/HIDsupport/Autohotkey.html Human Interface Device(HID) Support] < /ref > 
+ *[[Internet Explorer]] automation < ref > [http://www.autohotkey.com/forum/viewtopic.php?p=197475#197475 Internet Explorer Automation] < /ref > 
+ *[[Graphical user interface|GUI]] creation < ref > [http://www.autohotkey.com/forum/viewtopic.php?t=775 SmartGUI Creator] < /ref > 
+ *[[Web service]]s < ref > [http://www.autohotkey.com/forum/viewtopic.php?t=36047 Sparrow AHK Web Server] < /ref > 
+ * [[Synthetic programming]] < ref > [http://www.autohotkey.com/forum/viewtopic.php?t=21172 Bit Wizardry] < /ref > 
+ * Windows event hooks < ref > [http://www.autohotkey.com/forum/viewtopic.php?t=35659 Windows Event Hooks] < /ref > 
+ 
+ ==Malware== 
+ Some [[malware]] has been written using AutoHotkey. < ref > {{Cite news|url=https://www.cybereason.com/blog/fauxpersky-credstealer-malware-autohotkey-kaspersky-antivirus|title=Fauxpersky: CredStealer malware written in AutoHotKey masquerades as Kaspersky Antivirus, spreading through infecting USB drives|last=Research|first=Cybereason Nocturnus|access-date=2018-03-29}} < /ref > 
+ 
+ [[Antivirus software|Anti-malware]] products sometimes falsely identify AutoHotkey scripts as malware. These are called ''false positives''. < ref > {{cite web|title=trojan in autohotkey installer?|url=https://autohotkey.com/boards/viewtopic.php?t=13985|website=AutoHotkey Forums|publisher=gallaxhar}} < /ref > < ref > {{cite web|title=False positive virus alert?|url=https://autohotkey.com/boards/viewtopic.php?t=17835|website=AutoHotkey Forums|publisher=narny}} < /ref > < ref > {{cite web|title=False positive on antivirus programs|url=https://autohotkey.com/boards/viewtopic.php?t=6458|website=AutoHotkey Forums|publisher=Ferry}} < /ref > < ref > {{cite web|title=Trojan.Antavmu detected in AutoHotKey|url=https://autohotkey.com/board/topic/148498-trojanantavmu-detected-in-autohotkey/|website=AutoHotkey Forums|publisher=apao}} < /ref > < ref > {{cite web|title=Avast, false positive exe files|url=https://autohotkey.com/board/topic/24644-avast-false-positive-exe-files/|website=AutoHotkey Forums|publisher=Doron}} < /ref > < ref > {{cite web|title=False Positive: Malwarebytes Anti-Malware PRO and Windows 8|url=https://autohotkey.com/boards/viewtopic.php?t=383|website=AutoHotkey Forums|publisher=PuzzledGreatly}} < /ref > < ref > {{cite web|title=Antivirus scan for AutoHotkey112400_Install.exe|url=https://www.virustotal.com/en/file/a32b2ac34e0e57c61ef4805c972d970a96b3a7c788a626352d6ff24bb7237410/analysis/|website=VirusTotal}} < /ref > 
+ 
+ ==Related pages== 
+ * [[AutoIt]] (for Windows) 
+ * [[KiXtart]] (for Windows) 
+ * [[Winbatch]] (for Windows) 
+ * [[Macro Express]] (for Windows) 
+ * [[Bookmarklet]] (for web browsers) 
+ * [[iMacros]] (for Firefox, Chrome, and Internet Explorer) 
+ * [[AutoKey]] (for Linux) 
+ * [[Automator (software)|Automator]] (for [[Macintosh]]) 
+ * [[Keyboard Maestro]] (for Macintosh) 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ * {{Official website|https://autohotkey.com/}} 
+ *[https://www.autohotkey.com/foundation/ AutoHotkey Foundation LLC] 
+ 
+ < !-- possible categories 
+ {{DEFAULTSORT:Autohotkey}} 
+ [[Category:Automation software]] 
+ [[Category:Free system software]] 
+ [[Category:Free software programmed in C++]] 
+ [[Category:Windows-only free software]] 
+ -- > 
+ [[Category:Microsoft Windows software]] 
+ [[Category:Programming languages]]

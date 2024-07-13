@@ -1,0 +1,7 @@
+{{Groups}}In [[group theory]], a branch of [[mathematics]], given a group  < math > G < /math >  under a [[binary operation]], a [[subset]]  < math > H < /math >  of  < math > G < /math >  is called a '''subgroup''' of '' < math > G < /math > '' if the elements '' < math > H < /math > '' also forms a group under the binary operation. 
+ 
+ The situation could arise in which the subset  < math > H < /math >  does not comply with the binary operation. 
+ 
+ [[Category:Group theory]] 
+ 
+ {{math-stub}}

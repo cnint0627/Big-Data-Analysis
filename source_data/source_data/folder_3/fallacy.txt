@@ -1,0 +1,108 @@
+A '''fallacy''' is an incorrect [[argument]] in [[logic]] and [[rhetoric]]. It gives a result which is not [[validity|valid]] or lacks soundness. In [[mathematics]], a fallacy can occur when the reasoning violates the condition of its applicability. < ref > {{Cite web|date=2019-08-01|title=The Definitive Glossary of Higher Mathematical Jargon|url=https://mathvault.ca/math-glossary/|access-date=2020-10-08|website=Math Vault|language=en-US}} < /ref >  Fallacies are either formal fallacies or informal fallacies. 
+ 
+ == Formal fallacies == 
+ A formal fallacy is an error in [[logic]]. This shows in the argument's form. All formal fallacies are types of [[non sequitur (logic)|non sequiturs]] (the conclusion does not follow from the [[premise]]s).  
+ 
+ * [[Appeal to probability]] – A statement that takes something for granted because it would probably be the case (or might be the case). < ref > {{cite web|url=http://www.toolkitforthinking.com/critical-thinking/anatomy-of-an-argument/deductive-logic-arguments/appeal-to-probability-1|title=Appeal to probability - Toolkit For Thinking|website=www.toolkitforthinking.com|access-date=2014-04-29|archive-date=2015-02-19|archive-url=https://web.archive.org/web/20150219013634/http://www.toolkitforthinking.com/critical-thinking/anatomy-of-an-argument/deductive-logic-arguments/appeal-to-probability-1|url-status=dead}} < /ref > 
+ * [[Argument from fallacy]] – A statement assuming that if an argument for some conclusion is fallacious, then the conclusion ''itself'' is false. 
+ * [[Affirming the consequent]] – ''If A, then B; B, therefore A''. 
+ * [[Denying the antecedent]] – ''If A, then B; not A, therefore not B''. 
+ * [[Existential fallacy]] – An example would be:  " Everyone in the room is smart " . It does not imply that there is a smart person in the room, because it does not state that there is a person in the room. 
+ *[[Undistributed middle]]  
+ {{col-begin}} 
+ {{col-2}} 
+ #''All students carry backpacks.'' 
+ #''My grandfather carries a backpack.'' 
+ #''Therefore, my grandfather is a student.'' 
+ {{col-break}} 
+ #''All students carry backpacks.'' 
+ #''My grandfather carries a backpack.'' 
+ #'''Everyone who carries a backpack is a student.''' 
+ #''Therefore, my grandfather is a student.'' 
+ {{col-end}}Even if the conclusion of an argument is correct, it is not supported by the logic given. 
+ 
+ == Informal fallacies == 
+ {{main|Informal fallacy}} 
+ Informal fallacies are arguments that are fallacious for reasons other than structural flaws. They usually need examination of the argument's content. Some examples of informal fallacies include: 
+ * [[Argument from ignorance]] (appeal to ignorance, ''argumentum ad ignorantiam'') – assuming that a claim is true because it has not been or cannot be proven false, or vice versa. 
+ * Argumentum [[ad hominem]] – evading of the actual topic by directing the attack at one's opponent. 
+ * [[Begging the question]] (''petitio principii'') – providing what is essentially the conclusion of the argument as a premise. 
+ * [[Equivocation]] – misleadingly using of a term with more than one meaning (by glossing over which meaning is intended at a particular time). 
+ * [[False dilemma]] (false dichotomy, fallacy of bifurcation, black-or-white fallacy) – holding two alternative statements as the only possible options, when in reality there are more. 
+ * [[Loaded question|Fallacy of many questions]] – someone asks a question that presupposes something that has not been proven or accepted by all the people involved, such as  " Have you stopped beating your wife? " 
+ * Inflation of conflict – The experts of a field of knowledge disagree on a certain point, so the scholars must know nothing, and therefore the legitimacy of their entire field is put to question. 
+ * ''[[Ignoratio elenchi]]'' (irrelevant conclusion, missing the point) – an argument that may in itself be valid, but does not address the issue in question. 
+ * [[Mind projection fallacy]] – when one considers the way one sees the world as the way the world really is. 
+ * [[Moralistic fallacy]] – inferring factual conclusions from purely evaluative premises in violation of [[fact–value distinction]]. For instance, inferring ''is'' from ''ought'' is an instance of moralistic fallacy. Moralistic fallacy is the inverse of naturalistic fallacy defined below. 
+ * [[Moving the goalposts]] (raising the bar) – argument in which evidence presented in response to a specific claim is dismissed and some other (often greater) evidence is demanded. 
+ * ''[[Philosophic burden of proof|Onus probandi]]'' – from Latin  " onus probandi incumbit ei qui dicit, non ei qui negat "  the burden of proof is on the person who makes the claim, not on the person who denies (or questions the claim). It is a particular case of the  " argumentum ad ignorantiam "  fallacy, here the burden is shifted on the person defending against the assertion. 
+ * ''[[Post hoc ergo propter hoc]]'' Latin for  " after this, therefore because of this "  (faulty cause/effect, coincidental correlation, correlation without causation) – X happened, then Y happened; therefore X caused Y. The Loch Ness Monster has been seen in this loch. Something tipped our boat over; it's obviously the Loch Ness Monster. 
+ * [[Psychologist's fallacy]] – an observer presupposes the objectivity of his own perspective when analyzing a behavioral event. 
+ * [[Red herring]] – a speaker attempts to distract an audience by deviating from the topic at hand by introducing a separate argument the speaker believes is easier to speak to. 
+ * [[Reification (fallacy)|Reification]] (hypostatization) – a fallacy of ambiguity, when an abstraction (abstract belief or hypothetical construct) is treated as if it were a concrete, real event or physical entity. In other words, it is the error of treating as a  " real thing "  something that is not a real thing, but merely an idea. 
+ * [[Retrospective determinism]] – the argument that because some event has occurred, its occurrence must have been inevitable beforehand. 
+ * [[Shotgun argumentation]] – the arguer offers such a large number of arguments for their position that the opponent can't possibly respond to all of them.  
+ * [[Special pleading]] – where a proponent of a position attempts to cite something as an exemption to a generally accepted rule or principle without justifying the exemption. 
+ *[[Sunk cost fallacy]] – where what we have invested leads us to invest more. 
+ * [[Wrong direction]] – cause and effect are reversed. The cause is said to be the effect and vice versa. 
+ 
+ ===Faulty generalizations=== 
+ [[Faulty generalization]]s are made when one reaches a conclusion from weak premises. Unlike fallacies of relevance, in fallacies of defective induction, the premises are related to the conclusions—yet only weakly buttress the conclusions. A faulty generalization is thus produced. 
+ * [[Accident (fallacy)|Accident]] – an exception to a generalization is ignored. 
+ * [[Cherry picking]] (suppressed evidence, incomplete evidence) – act of pointing at individual cases or data that seem to confirm a particular position, while ignoring a significant portion of related cases or data that may contradict that position. 
+ * [[False analogy]] – [[apples and oranges]]: an [[argument by analogy]] in which the [[analogy]] is poorly suited. 
+ * [[Hasty generalization]] (fallacy of insufficient statistics, fallacy of insufficient sample, fallacy of the lonely fact, leaping to a conclusion, hasty induction, ''secundum quid'', converse accident) – basing a broad conclusion on a small sample. 
+ * [[Inductive fallacy]] – A more general name to some fallacies, such as hasty generalization. It happens when a conclusion is made of premises that lightly support it. 
+ * [[Overwhelming exception]] – an accurate generalization that comes with qualifications that eliminate so many cases that what remains is much less impressive than the initial statement might have led one to assume. 
+ * [[Thought-terminating cliché]] – a commonly used phrase, sometimes passing as folk wisdom, used to quell [[cognitive dissonance]], conceal lack of thought-entertainment, move onto other topics etc. but in any case, end the debate with a cliche—not a point. 
+ * [[Slippery slope]] {{ndash}} relates to [[action]]: if we do this / if we do not do this, then... [various things will happen] 
+ 
+ ===Red herring fallacies=== 
+ {{See also|Ignoratio elenchi}} 
+ A red herring fallacy is an error in logic where a proposition is, or is intended to be, misleading in order to make irrelevant or false inferences. In the general case any logical inference based on fake arguments, intended to replace the lack of real arguments or to replace implicitly the subject of the discussion. < ref > {{cite web|url=http://www.fallacyfiles.org/redherrf.html|title=Logical Fallacy: Red Herring|website=www.fallacyfiles.org}} < /ref > < ref > {{cite web|url=https://www.logicalfallacies.info/relevance/red-herring/|title=Logical Fallacies» Red Herring|website=www.logicalfallacies.info}} < /ref > 
+ 
+ [[Ignoratio elenchi#Red herring|Red herring]] – argument given in response to another argument, which is irrelevant and draws attention away from the subject of argument.  
+ * ''[[Ad hominem]]'' – attacking the arguer instead of the argument. 
+ * ''[[Argumentum ad populum]]'' (appeal to widespread belief, bandwagon argument, appeal to the majority, appeal to the people) – where a proposition is claimed to be true or good solely because many people believe it to be so. 
+ * [[Appeal to equality]] – where an assertion is deemed true or false based on an assumed pretense of equality. 
+ * [[Association fallacy]] (guilt by association) – arguing that because two things share a property they are the same. 
+ * [[Appeal to authority]] (''argumentum ab auctoritate'') – where an assertion is deemed true because of the position or authority of the person asserting it. 
+ ** [[Appeal to accomplishment]] – where an assertion is deemed true or false based on the accomplishments of the proposer. 
+ * [[Appeal to consequences]] (''argumentum ad consequentiam'') – the conclusion is supported by a premise that asserts positive or negative consequences from some course of action in an attempt to distract from the initial discussion. 
+ * [[Appeal to emotion]] – where an argument is made due to the manipulation of emotions, rather than the use of valid reasoning. * [[Appeal to motive]] – where a premise is dismissed by calling into question the motives of its proposer. 
+ * [[Appeal to novelty]] (''argumentum novitatis/antiquitatis'') – where a proposal is claimed to be superior or better solely because it is new or modern. 
+ * [[Appeal to poverty]] (''argumentum ad Lazarum'') – supporting a conclusion because the arguer is poor (or refuting because the arguer is wealthy). (Opposite of [[appeal to wealth]].) 
+ * [[Appeal to tradition]] (''argumentum ad antiquitam'') – a conclusion supported solely because it has long been held to be true. 
+ * [[Appeal to nature]] – wherein judgment is based solely on whether the subject of judgment is 'natural' or 'unnatural'. 
+ * [[Appeal to wealth]] (''argumentum ad crumenam'') – supporting a conclusion because the arguer is wealthy (or refuting because the arguer is poor). (Sometimes taken together with the [[appeal to poverty]] as a general appeal to the arguer's financial situation.) 
+ * [[Argument from silence]] (''argumentum ex silentio'') – a conclusion based on silence or lack of contrary evidence. 
+ * [[Genetic fallacy]] – where a conclusion is suggested based solely on something or someone's origin rather than its current meaning or context. 
+ * [[Motte-and-bailey fallacy]] – switching to a related but less controversial position when challenged. 
+ * [[Naturalistic fallacy]] (is–ought fallacy, naturalistic fallacy) – claims about what ought to be on the basis of statements about what is. 
+ * ''[[Reductio ad Hitlerum]]'' (playing the Nazi card) – comparing an opponent or their argument to Hitler or Nazism in an attempt to associate a position with one that is universally reviled. (See also – [[Godwin's law]]) 
+ * [[Straw man]] – an argument based on misrepresentation of an opponent's position. 
+ * ''[[Tu quoque]]'' ( " you too " , appeal to hypocrisy, I'm rubber and you're glue) – the argument states that a certain position is false or wrong and/or should be disregarded because its proponent fails to act consistently in accordance with that position. 
+ * [[Two wrongs make a right]] – occurs when it is assumed that if one wrong is committed, another wrong will cancel it out. 
+ 
+ ==Related pages== 
+ *[[Pot calling the kettle black]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Sources == 
+ *Damer, T. Edward 2009. ''Attacking faulty reasoning: a practical guide to fallacy-free arguments''. 6th ed, Wadsworth. {{ISBN|978-0-495-09506-4}} 
+ *Flew, Antony 1984. ''A dictionary of philosophy''. 2nd ed, Macmillan. {{ISBN|978-0-312-20923-0}} 
+ *Walton, Douglas 2008. ''Informal logic: a pragmatic approach''. 2nd ed, Cambridge University Press. {{ISBN|978-0-511-40878-6}} 
+ 
+ == Further reading == 
+ * {{cite web|url=https://sites.google.com/site/skepticalmedicine//logical-fallacies|title=Logical fallacies|publisher=Skeptical Medicine}} 
+ * {{cite web|url=https://thenewamerican.com/ten-anti-death-penalty-fallacies/|title=Ten Anti-Death Penalty Fallacies|work=Thomas R. Eddlem|date=3 June 2002|publisher=The New American|access-date=25 September 2021|archive-date=30 August 2021|archive-url=https://web.archive.org/web/20210830233152/https://thenewamerican.com/ten-anti-death-penalty-fallacies/|url-status=dead}} 
+ 
+ ==Other websites== 
+ *[https://www.logicallyfallacious.com/ Logically Fallacious] 
+ *[http://www.fallacydetective.com/ Fallacy Detective] 
+ 
+ {{Fallacies}} 
+ 
+ [[Category:Logical fallacies| ]]

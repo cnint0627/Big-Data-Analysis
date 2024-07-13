@@ -1,0 +1,86 @@
+{{Italic title}} 
+ {{automatic taxobox 
+ | image = Phyllodytes luteolus.jpg 
+ | image_caption = ''Phyllodytes luteolus'' 
+ | taxon = Phyllodytes 
+ | authority = [[Johann Georg Wagler|Wagler]], 1830 
+ | type_species = ''[[Phyllodytes luteolus|Hyla luteola]]'' 
+ | type_species_authority = [[Prince Maximilian of Wied-Neuwied|Wied-Neuwied]], 1824 
+ | subdivision_ranks = Species 
+ | subdivision =  
+ 14, see text. 
+ | synonyms = ''Amphodus''  < small > Peters, 1873  " 1872 " < /small > < br / > 
+ ''Lophyohyla''  < small > Miranda-Ribeiro, 1923 < /small > 
+ }} 
+ 
+ '''''Phyllodytes''''' is a genus of [[frog]]s. They are called '''heart-tongued frogs''' in English. These frogs live in eastern [[Brazil]]. < ref name=frost/ > < ref name= " Rivas-Fuenmayor and de Freitas S. " > {{cite journal |last1=Rivas-Fuenmayor |first1=G. A. |last2=de Freitas S. |first2=M. |year=2015 |title=Discovery of the critically endangered Golden Tree Frog, ''Phytotriades auratus'' (Boulenger, 1917), in eastern Venezuela, with comments on its distribution, conservation, and biogeography |journal=Herpetological Review |volume=46 |pages=153–157 |url=https://www.researchgate.net/publication/279447028}} < /ref > 
+ 
+ ==Taxonomy== 
+ In 2009, scientists [[DNA]] from all the frogs in this group.  They decided to split ''Phyllodytes'' into ''Phyllodytes'' and another group, ''[[Phytotriades]]''.  This article shows the frog species that are still in ''Phyllodytes''. < ref name= " Jowers et al. 2008 " / > < ref name=frost_Phytotriades/ >  Some scientists think that some of these frogs should be in other groups instead. < ref name=frost_Phytotriades/ > 
+ 
+ ==Description== 
+ These are small frogs.  They [[arboreal|live in trees]]. These frogs lay eggs in water in the leaves of [[bromeliad]] plants.  These plants are [[epiphyte]]s: they grow on trees instead of putting their roots in the ground. The frogs have large fangs called odontoids. < ref name= " Jowers et al. 2008 " / > < ref name= " Caramaschi et al. " / >  Male ''Phyllodytes'' do vocalize, in contrast to ''Phytotriades''. < ref name= " Jowers et al. 2008 " / > 
+ 
+ ==Species== 
+ This genus has 14 species in it: < ref name=frost/ > 
+ 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !Binomial name and author!! Common name 
+ |- 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Phyllodytes acuminatus]]'' {{small|Bokermann, 1966}} || Alagoas heart-tongued frog  
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phyllodytes amadoi]]'' {{small|Vörös, Dias, and Solé, 2017}} || 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phyllodytes brevirostris]]'' {{small|Peixoto  &  Cruz, 1988}} || Alhandra heart-tongued frog 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Phyllodytes edelmoi]]'' {{small|Peixoto, [[Ulisses Caramaschi|Caramaschi]]  &  Freire, 2003}} ||  
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phyllodytes gyrinaethes]]'' {{small|Peixoto, Caramaschi  &  Freire, 2003}} ||  
+ |-style= " background:#FFFDFF; " 
+ | ''[[Phyllodytes kautskyi]]'' {{small|Peixoto  &  Cruz, 1988}} || Brazilian heart-tongued frog 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phyllodytes luteolus]]'' {{small|Wied-Neuwied, 1824}} || yellow heart-tongued frog  
+ |-style= " background:#FFFDFF; " 
+ | ''[[Phyllodytes maculosus]]'' {{small|Cruz, Feio  &  Cardoso, 2007}} ||  
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phyllodytes megatympanum]]'' {{small|Marciano, Lantyer-Silva  &  Solé, 2017}} ||  
+ |-style= " background:#FFFDFF; " 
+ | ''[[Phyllodytes melanomystax]]'' {{small|Caramaschi, da Silva  &  Britto-Pereira, 1992}} || [[Bahia heart-tongued frog]] 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phyllodytes praeceptor]]'' {{small|Orrico, Dias, and Marciano, 2018}} || 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Phyllodytes punctatus]]'' {{small|Caramaschi  &  Peixoto, 2004}} ||  
+ |-style= " background:#EEEEEE; " 
+ | ''[[Phyllodytes tuberculosus]]'' {{small|Bokermann, 1966}} || Maracas heart-tongued frog  
+ |-style= " background:#FFFDFF; " 
+ | ''[[Phyllodytes wuchereri]]'' {{small|Peters, 1873}} ||   
+ |- 
+ |} 
+ 
+ AmphibiaWeb says ''[[Phytotriades auratus]]'' is in this genus, but other scientific works do not. < ref name=AmphibiaWeb/ > 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=http://www.amphibiaweb.org/lists/Hylidae.shtml |title=Hylidae |year=2016 |work=AmphibiaWeb: Information on amphibian biology and conservation. [web application] |publisher=Berkeley, California: AmphibiaWeb |accessdate=19 March 2016}} < /ref > 
+ 
+ < ref name= " Caramaschi et al. " > {{cite journal |authors=[[Ulisses Caramaschi|Caramaschi, U.]], O. L. Peixoto, and M. T. Rodrigues |year=2004 |title=Revalidation and redescription of ''Phyllodytes wuchereri'' (Peters, 1873) (Amphibia, Anura, Hylidae) |journal=Arquivos do Museu Nacional, Rio de Janeiro |volume=62 |issue=2 |pages=185–191 |url=http://www.ib.usp.br/trefaut/pdfs/Caramaschi,%20Peixoto,%20Rodrigues_2004_Revalidation%20and%20redescription%20of%20Phyllodytes%20wuchereri%20(Peters,%201873)%20(Amphibia,%20Anura,%20Hylidae).pdf |access-date=2022-08-19 |archive-date=2017-08-09 |archive-url=https://web.archive.org/web/20170809070102/http://www.ib.usp.br/trefaut/pdfs/Caramaschi,%20Peixoto,%20Rodrigues_2004_Revalidation%20and%20redescription%20of%20Phyllodytes%20wuchereri%20(Peters,%201873)%20(Amphibia,%20Anura,%20Hylidae).pdf |url-status=dead }} < /ref > 
+ 
+ < ref name=frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Hylidae/Hylinae/Phyllodytes |title=''Phyllodytes'' Wagler, 1830 |author=Frost, Darrel R. |year=2016 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=19 March 2016}} < /ref > 
+ 
+ < ref name=frost_Phytotriades > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Hylidae/Hylinae/Phytotriades |title=''Phytotriades'' Jowers, Downieb, and Cohen, 2009 |author=Frost, Darrel R. |year=2016 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=19 March 2016}} < /ref > 
+ 
+ < ref name= " Jowers et al. 2008 " > {{cite journal|last1=Jowers|first1=Michael J.|last2=Downie|first2=J. R.|last3=Cohen|first3=B. L. |year=2008 |title=The Golden Tree Frog of Trinidad, ''Phyllodytes auratus'' (Anura: Hylidae): systematic and conservation status|journal=Studies on Neotropical Fauna and Environment |volume=43 |issue=3 |pages=181–188 |doi=10.1080/01650520801965490|s2cid=85604118}} < /ref > 
+ 
+ < ref name= " Rivas-Fuenmayor and de Freitas S. " > {{cite journal |last1=Rivas-Fuenmayor |first1=G. A. |last2=de Freitas S. |first2=M. |year=2015 |title=Discovery of the critically endangered Golden Tree Frog, ''Phytotriades auratus'' (Boulenger, 1917), in eastern Venezuela, with comments on its distribution, conservation, and biogeography |journal=Herpetological Review |volume=46 |pages=153–157 |url=https://www.researchgate.net/publication/279447028}} < /ref > 
+ }} 
+ 
+ ==Other websites== 
+ * {{aut|eol - Encyclopedia of Life}} taxon [https://web.archive.org/web/20081005171625/http://www.eol.org/taxa/16141736 ''Phyllodytes''] at http://www.eol.org. 
+ * {{aut|ITIS - Integrated Taxonomic Information System on-line database}} Taxon [https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN & search_value=550204 ''Phyllodytes''] at https://www.itis.gov/index.html. 
+ * {{aut|GBIF - Global Biodiversity Information Facility}} Taxon [http://data.gbif.org/species/13184297/ ''Phyllodytes''] at http://data.gbif.org/welcome.htm 
+ 
+ {{Taxonbar|from=Q427125}} 
+ 
+ [[Category:Frogs of South America]]

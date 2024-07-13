@@ -1,0 +1,305 @@
+{{Infobox country 
+ | coordinates = {{Coord|4|35|N|74|4|W|type:city}} 
+ | leader_name2 = [[Francia Márquez]] 
+ | leader_name3 = [[Roy Barreras]] 
+ | leader_name4 = [[Aroldo Wilson Quiroz Monsalvo]] 
+ | conventional_long_name = Republic of Colombia 
+ | native_name = {{native name|es|República de Colombia}} 
+ | image_flag = Flag of Colombia.svg 
+ | image_coat = Coat of arms of Colombia.svg 
+ | common_name = Colombia 
+ | national_motto = {{Native name|es| " Libertad y Orden " |italics=off|nolink=yes}} 
+ | englishmotto = {{small| " Freedom and Order " }} 
+ | national_anthem = {{Native name|es|[[National Anthem of Colombia|Himno Nacional de la República de Colombia]]|nolink=yes}} < br / > < small > ({{Lang-en| " National Anthem of the Republic of Colombia " }}) < /small > < div style= " padding-top:0.5em; " > [[File:United States Navy Band - ¡Oh, gloria inmarcesible!.ogg|center]] < /div > 
+ | image_map = COL orthographic (San Andrés and Providencia special).svg 
+ | map_caption = {{map caption |location_color=dark green |region=[[South America]] |region_color= grey }} 
+ | image_map2 = Colombia - Location Map (2013) - COL - UNOCHA.svg 
+ | capital = [[Bogotá]] 
+ | largest_city = capital 
+ | official_languages = [[Spanish language|Spanish]] 
+ | recognized_regional_languages = 68 indigenous languages{{ref label|iboxa|a|}} 
+ | ethnic_groups = {{vunblist 
+ | 86% [[White people|White/Castizo]] and [[Mestizo Colombians|Mestizo]] 
+ | 10.6% [[Afro-Colombian]] 
+ | {{small|(includes [[Mulatto|Mixed]])}} 
+ | 3.4% [[Indigenous peoples in Colombia|Amerindian]] 
+ }} 
+ | ethnic_groups_year = 2005 < ref name =  " grupos étnicos " > {{cite web|title= visibilización estadística de los grupos étnicos|url=http://www.dane.gov.co/files/censo2005/etnia/sys/visibilidad_estadistica_etnicos.pdf|work=Censo General 2005|publisher=Departamento Administrativo Nacional de Estadistica (DANE)|accessdate=15 June 2013 
+ }} 
+ < /ref > < ref name= " The Society and Its Environment " > {{cite book|last1=Bushnell |first1=David |last2=Hudson |first2=Rex A. |year=2010 |title=The Society and Its Environment; Colombia: a country study |url=https://www.loc.gov/rr/frd/cs/pdf/CS_Colombia.pdf |pages=87, 92 |publisher=Federal Research Division, Library of Congress, Washington D.C.}} < /ref > 
+ | demonym = [[Colombians|Colombian]] 
+ | government_type = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[constitutional]] [[republic]] 
+ | leader_title1 = [[President of Colombia|President]] 
+ | leader_name1 = [[Gustavo Petro]] 
+ | leader_title2 = [[Vice President of Colombia|Vice President]] 
+ | leader_title3 = [[President of the Congress of Colombia|President of the Congress]] 
+ | leader_title4 = [[Supreme Court of Justice of Colombia|President of the Supreme Court]] 
+ | legislature = [[Congress of Colombia|Congress]] 
+ | upper_house = [[Senate of Colombia|Senate]] 
+ | lower_house = [[Chamber of Representatives of Colombia|Chamber of Representatives]] 
+ | established_event1 = [[Colombian Declaration of Independence|Declared]] 
+ | sovereignty_type = Independence {{nobold|from [[Spain]]}} 
+ | established_event2 = Recognized 
+ | established_date1 = July 20, 1810 
+ | established_event4 = {{nowrap|[[Colombian Constitution of 1991|Current constitution]]}} 
+ | established_date2 = August 7, 1819 
+ | established_event3 = Last unitarisation 
+ | established_date4 = July 4, 1991 
+ | established_date3 = 1886 
+ | area_km2 = 1,141,748 
+ | area_rank = 25th 
+ | area_sq_mi = 440,831  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | percent_water = 8.8 (17th) 
+ | population_estimate    = 52,156,254 < ref > {{cite web|title=Proyecciones de Población DANE|access-date=28 October 2022|publisher=[[National Administrative Department of Statistics (Colombia)]]|url=https://www.dane.gov.co/files/censo2018/proyecciones-de-poblacion/Nacional/anexo-proyecciones-poblacion-NacionalArea2018_2070.xlsx|archive-date=28 October 2022|archive-url=https://web.archive.org/web/20221028061329/https://www.dane.gov.co/files/censo2018/proyecciones-de-poblacion/Nacional/anexo-proyecciones-poblacion-NacionalArea2018_2070.xlsx|url-status=dead}} < /ref > 
+ | population_estimate_year = 2022 
+ | population_estimate_rank = 27th 
+ | population_density_km2 = 42.23 
+ | population_density_rank = 173rd 
+ | population_density_sq_mi = 105.72 < !--Do not remove per [[Wikipedia:Manual of Style/Dates and numbers]]-- > 
+ | GDP_PPP = $791.995 & nbsp;billion < ref name= " imf2 " > {{cite web |url= https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/weorept.aspx?pr.x=55 & pr.y=5 & sy=2019 & ey=2023 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & c=233 & s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC & grp=0 & a= |title=World Economic Outlook Database: Colombia |publisher=International Monetary Fund |date= October 2018|accessdate= 15 February 2019}} < /ref > 
+ | GDP_PPP_year = 2019 
+ | GDP_PPP_rank = 31st 
+ | GDP_PPP_per_capita = $15,719 < ref name=imf2/ > 
+ | GDP_PPP_per_capita_rank = 
+ | GDP_nominal = $355.163 & nbsp;billion < ref name=imf2/ > 
+ | GDP_nominal_year = 2019 
+ | GDP_nominal_rank = 32nd 
+ | GDP_nominal_per_capita = $7,049 < ref name=imf2/ > 
+ | GDP_nominal_per_capita_rank = 
+ | Gini = 49.7  < !--number only-- > 
+ | Gini_year = 2017 
+ | Gini_change = decrease  < !--increase/decrease/steady-- > 
+ | Gini_ref = < ref name= " socio-economic policies " > {{cite web |url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=CO |title= GINI index (World Bank estimate) |publisher= World Bank |accessdate= 6 April 2019}} < /ref > 
+ | HDI = 0.747  < !--number only-- > 
+ | HDI_year = 2017 < !-- Please use the year to which the data refers, not the publication year-- > 
+ | HDI_change = increase < !--increase/decrease/steady-- > 
+ | HDI_ref = < ref name= " HDI " > {{cite web |url=http://www.hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf |title=2018 Human Development Statistical Update |year=2018 |accessdate=16 September 2018 |publisher=United Nations Development Programme |archive-date=14 September 2018 |archive-url=https://web.archive.org/web/20180914165751/http://hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf |url-status=dead }} < /ref > 
+ | HDI_rank = 90th 
+ | currency = [[Colombian peso|Peso]] 
+ | currency_code = COP 
+ | time_zone = [[Time in Colombia|COT]] 
+ | utc_offset = −5{{ref label|iboxb|b|}} 
+ | utc_offset_DST = 
+ | time_zone_DST = 
+ | date_format = dd−mm−yyyy (CE) 
+ | drives_on = right 
+ | calling_code = [[+57]] 
+ | cctld = [[.co]] 
+ | footnote_a                = {{note|iboxa}}Although the Colombian Constitution specifies Spanish (''Castellano'') as the official language in all Colombian territory, other languages spoken in the country by ethnic groups – approximately 68 languages – each is also official in its own territory. < ref > 
+ Colombian Constitution of 1991 (Title I – Concerning Fundamental Principles – Article 10) < /ref >  English is also official in the [[archipelago of San Andrés, Providencia and Santa Catalina]]. < ref name= " LEY47DE1993 " > 
+ {{cite web|url= http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=2780|title= Ley 47 de 1993|publisher= alcaldiabogota.gov.co|language= Spanish|accessdate= 23 February 2014}} < /ref > 
+ | footnote_b = {{note|iboxb}}The official Colombian time < ref > {{cite web|url= http://horalegal.inm.gov.co/|title = The official Colombian time |publisher= horalegal.inm.gov.co|language= Spanish | accessdate = 23 February 2014}} < /ref >  is controlled and coordinated by the National Institute of Metrology. < ref > 
+ {{cite web |url= http://www.secretariasenado.gov.co/senado/basedoc/decreto_4175_2011.html |title= Decreto 4175 de 2011, artículo 6, numeral 14|publisher = Presidencia de la República de Colombia |language = Spanish |accessdate= 14 March 2016}} < /ref > 
+ }} 
+ 
+ '''Colombia''' ({{IPAc-en|audio=en-us-Colombia.ogg|k|ə|ˈ|l|ʌ|m|.|b|i|ə}}; {{IPA-es|koˈlom.bja|lang}}), officially the '''Republic of Colombia''', is a tropical [[equator]]ial country in northern [[South America]]. It is in the northwest part of the continent, and it has an area of 1,141,748 & nbsp;kilometres² (440,839 & nbsp;sq mi). 
+ 
+ It is the only South American country with coasts on the [[Pacific Ocean|Pacific]] Ocean and the [[Caribbean Sea]]. 
+ 
+ The countries that have borders on the continent with Colombia are: [[Venezuela]] (east), [[Brazil]] (southeast), [[Peru]] (south), [[Ecuador]] (southwest) and [[Panama]] (west). The countries that have borders with Colombia on the sea are: [[Nicaragua]], [[Panama]], [[Costa Rica]], [[Guatemala]], [[Honduras]], [[Jamaica]], [[Haiti]] and [[Dominican Republic]]. 
+ 
+ More than 51 [[million]] people live in Colombia. < ref > {{Cite web|last=|first=|date=|title=Censo Nacional de Población y Vivienda 2018: ¿Cuántos somos?|url=https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018/cuantos-somos|archive-url=|archive-date=|access-date=2020-02-06|website=Departamento Administrativo Nacional de Estadística – DANE|publisher=Gobierno de Colombia|language=es}} < /ref >  It is the third most populated country in Latin America after [[Mexico]] and [[Brazil]]. 
+ 
+ The [[Capital (city)|capital]] of Colombia is [[Bogotá]]. The second city is [[Medellín]], a large industrial center. The third largest city is [[Cali]], home to many multinational companies. The most important city of the country on the Caribbean coast is [[Barranquilla]]. It was also the first national port. [[Cartagena de Indias]] has a great Spanish wall from the 17th Century and an old town with 500-year-old buildings. After these cities comes [[Bucaramanga]], a large city near the Venezuelan border, and the center of the textile industry in Colombia. 
+ 
+ == Meaning == 
+ The word  " ''Colombia'' "  is named after [[Christopher Columbus]], the explorer who began the European colonization of [[the Americas]]. 
+ 
+ In 1819, Colombia, Venezuela, Ecuador and Panama declared [[independence]] from [[Spain]], and formed a country called  " ''[[Gran Colombia]]'' " . Venezuela and Ecuador separated in 1830. Panama continued to be part of Colombia until 1903, at which point it proclaimed independence. The official language is [[Spanish language|Spanish]], but there are many languages spoken by minorities that are official in local jurisdictions. 
+ 
+ == History == 
+ [[File:Columbus Taking Possession.jpg|left|thumb|300px|[[Christopher Columbus]] came to America leading the Spanish. He gave the name of  " Colombia "  to what is today  " America " .]] 
+ 
+ === Before the Spanish === 
+ The land where Colombia now stands has been home to people for more than 20,000 years. The first people had many groups, cultures, and languages. There are many tools, caves, and things of those peoples. In Colombia, the peoples were similar to those of [[Asia]], because scientists say that the first people came to [[Americas|America]] from [[Siberia]] or southeast [[Asia]] more than 50,000 years ago. The peoples of Colombia were called Arawak, Caribe, and Chibcha, but there were many other groups. The most famous were the Muiscas. legend of El Dorado comes from the Muiscas. The king of the Muiscas used to bathe in Lake Guatavita and he used a lot of gold for his bath. The Spanish heard about this, and the people told them that there was a great golden city somewhere. They started to look for El Dorado. The International Airport of Bogotá is called El Dorado International Airport, because the legend was born in Colombia. The descendants of the first peoples of Colombia live integrated with others. Some groups live in the forest, but many live in the countryside and in the cities. 
+ 
+ === The colony === 
+ The Spanish, led by [[Christopher Columbus]], first came to [[Americas|the Americas]] in 1492. Columbus saw the coasts of [[Venezuela]], Colombia and [[Panama]] and he gave them his own name. But [[Alonso de Ojeda]] was the first colonist to explore the area of the Gulf of Darién. After that, the Spanish founded the first European cities on the American continent: [[Santa Marta]] in 1525 and [[Cartagena de Indias]] in 1533. It was from Colombia that the Spanish conquered the [[Incas]] of [[Peru]]. 
+ 
+ Spain would [[Slavery|enslave]] the [[indigenous peoples]] who were already living there, but they also used the [[port]] they built at Cartagena to bring many [[Black people|black]] slaves from [[Africa]] into the area. The Spanish captured many, many people from Africa and forced them to work on [[plantation]]s and [[ranch]]es, in [[Mining|mines]], and as personal servants. < ref > {{Cite book|url=http://books.openedition.org/obp/2241|title=From Dust to Digital : Ten Years of the Endangered Archives Programme|last1=Landers|first1=Jane|last2=Gómez|first2=Pablo|last3=Acuña|first3=José Polo|last4=Campbell|first4=Courtney J.|date=2016-11-29|publisher=Open Book Publishers|isbn=978-2-8218-7626-2|editor-last=Kominko|editor-first=Maja|series=OBP collection|location=Cambridge|pages=259–292|language=en|chapter=Researching the history of slavery in Colombia and Brazil through ecclesiastical and notarial archives}} < /ref > 
+ 
+ While this was happening, they founded the city of [[Popayán]] in 1536 and they conquered the ''Confederation of the Muiscas''. In Bacatá, the capital of the Muiscas, the Spanish founded the city of [[Bogotá|Santa Fe]] in 1538. In 1550 the Spanish declared the territory as a colony and its capital was ''Santa Fe de Bogotá'', but in the first decades it depended on [[Peru]]. Soon after, it was declared a Viceroyalty. 
+ 
+ === Independence === 
+ On November 11, 1810, the city of [[Cartagena de Indias]] declared its independence from [[Spain]]. The whole region would fight a war to become independent, led by people like [[Antonio Nariño]] and [[Simón Bolívar]]. Nariño was one of the most important leaders in the war for the independence of Colombia. He was a politician, journalist and soldier. Bolivar was another important leader, and he was a president and a colonel. Bolivar had promised [[Alexandre Pétion]], the president of [[Haiti]], that he would [[Abolitionism|abolish]] slavery during his independence war. But he only agreed because he was afraid the slaves would revolt against the slaveowners, [[Haitian Revolution|like they did in Haiti]], and only freed slaves if they agreed to fight in his army. < ref > {{Cite journal|last=Helg|first=Aline|date=June 2012|title=Simón Bolívar's Republic: a bulwark against the  " Tyranny "  of the Majority|url=http://www.scielo.br/scielo.php?script=sci_abstract & pid=S0104-44782012000200004 & lng=en & nrm=iso & tlng=en|journal=Revista de Sociologia e Política|language=en|volume=20|issue=42|pages=21–37|doi=10.1590/S0104-44782012000200004|issn=0104-4478}} < /ref >  He never freed all the slaves, and slavery was not abolished in Colombia until 1851. < ref > {{Cite news|last=Brooke|first=James|date=1994-03-29|title=Long Neglected, Colombia's Blacks Win Changes|language=en-US|work=The New York Times|url=https://www.nytimes.com/1994/03/29/world/long-neglected-colombia-s-blacks-win-changes.html|access-date=2020-10-28|issn=0362-4331}} < /ref > 
+ 
+ ==Geography== 
+ The geography of Colombia has six main natural regions, Each has its own unique characteristics. The [[Andes|Andes mountain]] region shares borders with [[Ecuador]] and [[Venezuela]]. The [[Pacific Coast]] region shares borders with [[Panama]] and [[Ecuador]]. The [[Caribbean Sea|Caribbean coastal]] region shares borders with Venezuela and Panama. The ''[[Los Llanos, Venezuela|Llanos]]'' (plains) shares a border with Venezuela. The [[Amazon Rainforest]] region shares a border with Venezuela, [[Brazil]], [[Peru]] and Ecuador. The insular region includes all the islands of the country. < ref name= " Geography of Colombia " > {{cite web |url= http://www.colombia-sa.com/geografia/geografia-in.html|title= Natural regions of Colombia|publisher = colombia-sa.com |accessdate= 9 December 2016}} < /ref > 
+ 
+ The main rivers of Colombia are [[Magdalena River|Magdalena]], [[Cauca River|Cauca]], [[Guaviare River|Guaviare]], [[Atrato River|Atrato]], [[Meta River|Meta]], [[Putumayo River|Putumayo]] and [[Caquetá River|Caquetá]]. Colombia has four main [[Drainage basin|drainage systems]]: the Pacific drain, the Caribbean drain, the [[Orinoco Basin]] and the [[Amazon Basin]]. 
+ 
+ Most of the population lives in the [[Andes]] region. But the plains make over half the land. Only about 6% of the people live in the plains. The [[Sierra Nevada de Santa Marta]] mountain range includes the country's tallest peaks ([[Pico Cristóbal Colón]] and [[Pico Simón Bolívar]]). 
+ 
+ === Climate === 
+ [[File:Nevado del tolima.jpg|thumb|300px|The top of a [[mountain]] called the Nevado del Tolima volcano]] 
+ Colombia's temperature changes with the altitude, and the temperature is different by region. The regions around the [[Andes]] are colder than the coast, which is lower. 
+ 
+ Because of the many altitudes, Colombia has many different [[fruits]], [[vegetables]] and kinds of animals. It has many valleys, beaches, plains, mountains and forests like the [[Amazon rainforest]]. 
+ 
+ The top of some of the [[mountain]]s in Colombia are so cold that people can [[ski]] over the [[equator]]. The lower mountains have warmer climates. The sea shores are cooled by ocean breezes. At sea level near the equator it is hot. 
+ 
+ Rivers are important as waterways in the land for [[shipping]] things. One of the most important rivers in Colombia is the Magdalena-Cauca. The Magdelena River divides the eastern and center mountains. It makes a [[wikt:fertile|fertile]] [[valley]]. The Cauca River divides the center mountain range and the western ridge, making another great valley. The Cauca is really a part of the Magdalena. However, the two do not meet until a few miles before the Magdalena goes into the [[Caribbean Sea]]. 
+ 
+ === Biodiversity === 
+ Colombia is a [[megadiverse countries|megadiverse country]]. This means the country is home to a [[majority]] of Earth's [[species]]. There are also a high number of [[endemic]] species. 
+ 
+ Colombia has 1,900 species of bird, more than any other country. < ref > {{cite web|last=|first=|date=9 December 2013|title=Colombia Celebrates over 1,900 Bird Species|url=http://www.proaves.org/colombia-officially-the-nation-with-the-greatest-diversity-of-birds-and-a-new-world-record/?lang=en|archive-url=|archive-date=|website=|publisher=proaves.org|language=Spanish|accessdate=9 December 2016}} < /ref >  There are about 2,000 species of [[marine fish]]. It is the second most diverse country in [[freshwater fish]]. As for plants, the country has between 40,000 and 45,000 species. Colombia is second in the number of [[amphibian]] species and is the third most diverse country in [[reptile]]s. There are about 2,900 species of [[Mollusc|mollusk]]. 
+ 
+ == Politics == 
+ In May 2006, [[President]] [[Álvaro Uribe]] was re-elected. His term lasted until 2010. Uribe was the first President in Colombia to win a second election in over 100 years. 
+ 
+ In August 2010, [[Juan Manuel Santos]] became Colombia's president. Santos won the election on June 20 by a landslide. He promised to  " preside over a government of national unity that will bring social prosperity for all Colombians " < ref > {{cite news |url=https://www.washingtonpost.com/wp-dyn/content/article/2010/08/07/AR2010080702709.html |title=Juan Manuel Santos takes oath as Colombia's new president |accessdate=2010-08-13 |last=Forero 
+ |first=Juan |date=2010-08-08 |newspaper=[[The Washington Post]] |quote= " I will preside over a government of national unity that will bring social prosperity for all Colombians "  }} < /ref > 
+ 
+ Eight years later, conservative Senator [[Iván Duque Márquez]] was elected president. He won the election by 2 million votes against his rival liberal Senator [[Gustavo Petro]]. 
+ 
+ The actual president is [[Gustavo Petro]], former senator and guerrilla in [[M-19]] who won with 11 million votes and the second place was [[Rodolfo Hernandez]], a polemic former mayor and entrepreneur. 
+ 
+ ===Departments=== 
+ Colombia is divided into 32 departments and one capital district. The capital district is treated as a department. Departments are divided into [[Municipalities of Colombia|municipalities]]. Municipalities are divided into ''corregimientos''. Each department has a local government with a governor and assembly directly elected to four-year terms. Each municipality is headed by a mayor and council. Each ''corregimiento'' by an elected ''corregidor'', or local leader. 
+ 
+ {| style= " background:none; " 
+ |- valign= " top " 
+ | < !--First column:-- > 
+ {| class= " wikitable " 
+ |||{{Spaces|1}}'''Department''' || {{Smaller|'''Capital city'''}} 
+ |- 
+ | '''1''' || [[File:Flag of Amazonas (Colombia).svg|22x20px|Flag of the Department of Amazonas]]{{Spaces|1}}'''{{Smaller|[[Amazonas Department|Amazonas]]}}''' || {{Smaller|[[Leticia, Colombia|Leticia]]}} 
+ |- 
+ | '''2''' || [[File:Flag of Antioquia Department.svg|border|22x20px|Flag of the Department of Antioquia]]{{Spaces|1}}'''{{Smaller|[[Antioquia Department|Antioquia]]}}''' || {{Smaller|[[Medellín]]}} 
+ |- 
+ | '''3''' || [[File:Flag of Arauca.svg|22x20px|Flag of the Department of Arauca]]{{Spaces|1}}'''{{Smaller|[[Arauca Department|Arauca]]}}''' || {{Smaller|[[Arauca, Arauca|Arauca]]}} 
+ |- 
+ | '''4''' || [[File:Flag of Atlántico.svg|border|22x20px|Flag of the Department of Atlántico]]{{Spaces|1}}'''{{Smaller|[[Atlántico Department|Atlántico]]}}''' || {{Smaller|[[Barranquilla]]}} 
+ |- 
+ | '''5''' || [[File:Flag of Bolívar (Colombia).svg|22x20px|Flag of the Department of Bolívar]]{{Spaces|1}}'''{{Smaller|[[Bolívar Department|Bolívar]]}}''' || {{Smaller|[[Cartagena, Colombia|Cartagena]]}} 
+ |- 
+ | '''6''' || [[File:Flag_of_Boyacá_Department.svg|22x20px|Flag of the Department of Boyacá]]{{Spaces|1}}'''{{Smaller|[[Boyacá Department|Boyacá]]}}''' || {{Smaller|[[Tunja]]}} 
+ |- 
+ | '''7''' || [[File:Flag of Caldas.svg|22x20px|Flag of the Department of Caldas]]{{Spaces|1}}'''{{Smaller|[[Caldas Department|Caldas]]}}''' || {{Smaller|[[Manizales]]}} 
+ |- 
+ | '''8''' || [[File:Flag of Caquetá.svg|border|22x20px|Flag of the Department of Caquetá]]{{Spaces|1}}'''{{Smaller|[[Department of Caquetá|Caquetá]]}}''' || {{Smaller|[[Florencia, Caquetá|Florencia]]}} 
+ |- 
+ | '''9''' || [[File:Flag of Casanare.svg|22x20px|Flag of the Department of Casanare]]{{Spaces|1}}'''{{Smaller|[[Casanare Department|Casanare]]}}'''{{Spaces|2}}||{{Smaller|[[Yopal]]}} 
+ |- 
+ | '''10''' || [[File:Flag of Cauca.svg|22x20px|Flag of the Department of Cauca]]{{Spaces|1}}'''{{Smaller|[[Cauca Department|Cauca]]}}''' || {{Smaller|[[Popayán]]}} 
+ |- 
+ | '''11''' || [[File:Flag of Cesar.svg|22x20px|Flag of the Department of Cesar]]{{Spaces|1}}'''{{Smaller|[[Cesar Department|Cesar]]}}''' || {{Smaller|[[Valledupar]]}}{{Spaces|6}} 
+ |- 
+ | '''12''' || [[File:Flag of Chocó.svg|22x20px|Flag of the Department of Chocó]]{{Spaces|1}}'''{{Smaller|[[Chocó Department|Chocó]]}}''' || {{Smaller|[[Quibdó]]}} 
+ |- 
+ | '''13''' || [[File:Flag of Córdoba.svg|22x20px|Flag of the Department of Córdoba]]{{Spaces|1}}'''{{Smaller|[[Córdoba Department|Córdoba]]}}''' || {{Smaller|[[Montería]]}} 
+ |- 
+ | '''14''' || [[File:Flag of Cundinamarca.svg|22x20px|Flag of the Department of Cundinamarca]]{{Spaces|1}}'''{{Smaller|[[Cundinamarca Department|Cundinamarca]]}}''' || {{Smaller|[[Bogotá]]}} 
+ |- 
+ | '''15''' || [[File:Flag of Guainía.svg|22x20px|Flag of the Department of Guainía]]{{Spaces|1}}'''{{Smaller|[[Guainía Department|Guainía]]}}''' || {{Smaller|[[Inírida, Guainía|Inírida]]}} 
+ |- 
+ | '''16''' || [[File:Flag of Guaviare.svg|22x20px|Flag of the Department of Guaviare]]{{Spaces|1}}'''{{Smaller|[[Guaviare Department|Guaviare]]}}''' || {{Smaller|[[San José del Guaviare]]}} 
+ |- 
+ | '''17''' || [[File:Flag of Huila.svg|border|22x20px|Flag of the Department of Huila]]{{Spaces|1}}'''{{Smaller|[[Huila Department|Huila]]}}''' || {{Smaller|[[Neiva, Colombia|Neiva]]}} 
+ |} 
+ | < !--Second column:-- > 
+ {| class= " wikitable " 
+ |||{{Spaces|1}}'''Department''' || {{Smaller|'''Capital city'''}} 
+ |- 
+ | '''18''' || [[File:Flag of La Guajira.svg|border|22x20px|Flag of Nueva Esparta]]{{Spaces|1}}'''{{Smaller|[[Department of La Guajira|La Guajira]]}}'''{{Spaces|2}}||{{Smaller|[[Riohacha]]}} 
+ |- 
+ | '''19''' || [[File:Flag of Magdalena.svg|22x20px|Flag of the Department of Magdalena]]{{Spaces|1}}'''{{Smaller|[[Magdalena Department|Magdalena]]}}''' || {{Smaller|[[Santa Marta]]}} 
+ |- 
+ | '''20''' || [[File:Flag of Meta.svg|22x20px|Flag of the Department of Meta]]{{Spaces|1}}'''{{Smaller|[[Meta Department|Meta]]}}''' || {{Smaller|[[Villavicencio]]}} 
+ |- 
+ | '''21''' || [[File:Flag of Nariño.svg|22x20px|Flag of the Department of Nariño]]{{Spaces|1}}'''{{Smaller|[[Nariño Department|Nariño]]}}''' || {{Smaller|[[Pasto]]}} 
+ |- 
+ | '''22''' || [[File:Flag of Norte de Santander.svg|22x20px|Flag of the Department of Norte de Santander]]{{Spaces|1}}'''{{Smaller|[[Norte de Santander Department|Norte de Santander]]}}''' || {{Smaller|[[Cúcuta]]}} 
+ |- 
+ | '''23''' || [[File:Flag of Putumayo.svg|22x20px|Flag of the Department of Putumayo]]{{Spaces|1}}'''{{Smaller|[[Putumayo Department|Putumayo]]}}''' || {{Smaller|[[Mocoa]]}} 
+ |- 
+ | '''24''' || [[File:Flag of Quindío.svg|22x20px|Flag of the Department of Quindío]]{{Spaces|1}}'''{{Smaller|[[Quindío Department|Quindío]]}}''' || {{Smaller|[[Armenia, Colombia|Armenia]]}} 
+ |- 
+ | '''25''' || [[File:Flag of Risaralda.svg|22x20px|Flag of the Department of Risaralda]]{{Spaces|1}}'''{{Smaller|[[Risaralda Department|Risaralda]]}}''' || {{Smaller|[[Pereira, Colombia|Pereira]]}} 
+ |- 
+ | '''26''' || [[File:Flag of San Andrés y Providencia.svg|22x20px|Flag of the Department of San Andres, Providencia and Santa Catalina]]{{Spaces|1}}'''{{Smaller|[[Archipelago of San Andrés, Providencia and Santa Catalina|San Andrés, Providencia < br / > and Santa Catalina]]}}''' || {{Smaller|[[San Andrés, San Andrés y Providencia|San Andrés]]}} 
+ |- 
+ | '''27''' || [[File:Flag of Santander (Colombia).svg|22x20px|Flag of the Department of Santander]]{{Spaces|1}}'''{{Smaller|[[Santander Department|Santander]]}}''' || {{Smaller|[[Bucaramanga]]}} 
+ |- 
+ | '''28''' || [[File:Flag of Sucre (Colombia).svg|border|22x20px|Flag of the Department of Sucre]]{{Spaces|1}}'''{{Smaller|[[Sucre Department|Sucre]]}}''' || {{Smaller|[[Sincelejo]]}} 
+ |- 
+ | '''29''' || [[File:Flag of Tolima.svg|22x20px|Flag of the Department of Tolima]]{{Spaces|1}}'''{{Smaller|[[Department of Tolima|Tolima]]}}''' || {{Smaller|[[Ibagué]]}} 
+ |- 
+ | '''30''' || [[File:Flag of Valle del Cauca.svg|22x20px|Flag of the Department of Valle del Cauca]]{{Spaces|1}}'''{{Smaller|[[Valle del Cauca Department|Valle del Cauca]]}}''' || {{Smaller|[[Santiago de Cali|Cali]]}} 
+ |- 
+ | '''31''' || [[File:Flag of Vaupés.svg|border|22x20px|Flag of the Department of Vichada]]{{Spaces|1}}'''{{Smaller|[[Vaupés Department|Vaupés]]}}''' || {{Smaller|[[Mitú]]}} 
+ |- 
+ | '''32''' || [[File:Flag of Vichada.svg|22x20px|Flag of the Department of Vichada]]{{Spaces|1}}'''{{Smaller|[[Vichada Department|Vichada]]}}''' || {{Smaller|[[Puerto Carreño]]}} 
+ |- 
+ | '''33''' || [[File:Flag of Bogotá.svg|22x20px|Flag of Bogotá]]{{Spaces|1}}'''{{Smaller|[[Bogotá Capital District]]}}''' || {{Smaller|[[Bogotá Capital District]]}} 
+ |} 
+ |} 
+ 
+ == Demographics == 
+ The population of Colombia was approximately 47 million as of 2016. The ethnic groups of the population are: < ref name= " cia " > {{Cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/co.html |title=Colombia |date=2016-10-20 |access-date=2013-03-28 |archive-date=2009-05-13 |archive-url=https://web.archive.org/web/20090513074502/https://www.cia.gov/library/publications/the-world-factbook/geos/co.html |url-status=dead }} < /ref > 
+ * 48% Mestizo 
+ * 23% Mulatto 
+ * 20% White 
+ * 6% Black 
+ * 2% Amerindian 
+ * 1% Zambo 
+ 
+ === Economy === 
+ Up to 49.6% of the population is living below the poverty line. 
+ 
+ == Security == 
+ There are several guerilla groups in Colombia, the [[FARC]] being the most powerful, a guerilla group responsible for kidnappings, murders, attacks, and drug-dealing. Drug dealing is a problem the government has been trying to fight. This creates violence in the cities. With Operation: Jaque, [[Ingrid Betancourt]], three Americans, and 11 soldiers were rescued from the FARC. 
+ 
+ == Transport == 
+ Most parts of Colombia are modern and the country has many roads. All major Colombian cities have airports and there are many ports on both oceans ([[Pacific]] and [[Atlantic]]). Because Colombia is a huge country and there are many mountains, airports are very important in the country. There are some regions like the Amazon Forest and Dariend, where the most important way of transportation is by the rivers. 
+ * '''Roads''': The Pan American Highway in South America begins in Colombia. You can go as far as Tierra de Fuego in [[Chile]] using that road. Most of the Colombian cities are connected by road in Colombia. The most important roads are the Bogotá-Medellín Highway, the Bogotá-Cali Highway, the Bogotá-Cucuta Highway, the Bogotá-Barranquilla Highway and many others connecting big cities like Medellín, Cali, Barranquilla and Cartagena de Indias with other important centers. You can go by road from Bogotá to [[Caracas]], [[Venezuela]] and [[Quito]], [[Ecuador]]. The major cities have bus stations. 
+ * '''Airports''': They are very important in Colombia and all the main cities have their own airports. The El Dorado International Airport in Bogotá is the most important. The Palmaseca International Airport in Cali is the second most important. Other important airports are the ones of Medellín, Barranquilla, San Andrés and Cartagena de Indias. The Colombian airports have international connections with most of the South American capitals, North America and Europe. The main Colombian airline is [[Avianca]] and it is the second oldest world airline and one of the most important in Latin America. 
+ * '''Ports''': Colombia has coasts on both oceans - Atlantic and Pacific - and it is one of the first world water reserve because it has many rivers and lakes. The longest rivers are the Amazon, Magdalena, Cauca, and the Atrato. The main ports on the Atlantic coast are Barranquilla, which was the first Colombian port, Cartagena de Indias and Santa Marta. There are other ones like Rioacha and Turbo. The ports on the Pacific coast are Buenaventura and Tumaco. The port of the San Andres Island is also one of the most important for the country in the Caribbean and Antillean Sea. The city of Leticia is a very important river port on the Amazon river. 
+ * '''Train''': The National Train was very important to Colombia during the 20th century, but it was forgotten when roads and airports were developed. Today the railways in Colombia are used more for tour visits, and they are not modern. 
+ * '''Transportation in the cities''': The major Colombian cities have a very good system of transportation. There are public buses that connect the suburbs to the center of the cities. There are many taxi companies in Colombia. There are also very modern urban transports in the main cities like Transmilenio in Bogotá, the Metro in Medellín, and similar proposals in Cali, Barranquilla, Cartagena de Indias and many others that are being developed. 
+ 
+ == Cities == 
+ [[File:BOG187.JPG|thumb|300px|[[Bogotá]] is the capital of Colombia and the second largest capital of [[South America]]]] 
+ [[File:Centro de Medellin- Colombia.JPG|right|thumb|300px|[[Medellín]] is known as  " the City of the Everlasting Spring " ]] 
+ [[File:Panoramica aleko.jpg|right|thumb|300px|[[Cali]],  " the World Capital of Salsa " ]] 
+ {{See also|List of cities in Colombia}} 
+ Colombia also has some very well known cities. 
+ * [[Bogotá]] is the second largest capital city of South America after [[Buenos Aires]] and the third largest city after Buenos Aires and [[São Paulo]]. It is also one of the highest capital cities of the world, 2640 & nbsp;meters above sea level. It has a very active cultural, political, industrial and commercial life. Bogotá also has many international meetings, seminars, NGOs, organizations, universities, telecommunication centers and conventions. It is in the Andes. Many famous Colombians come from Bogotá like [[Rafael Pombo]], [[José Asunción Silva]] and [[Juan Pablo Montoya]]. 
+ * [[Medellín]] is the second largest city of Colombia. At the end of the 20th Century it was known as the  " most violent city of the world "  because it was the hometown of [[Pablo Escobar]], the leader of the Colombian [[Mafia]]. Now Medellín is safer and has become a very beautiful city. It is a very important industrial center, the first commercial area of the country and a leader in health care and medicine. Many foreigners come to Medellín for health services. It is in the Andes and it is known as the  " ''City of the Eternal Spring'' "  because it has nice weather. Many famous Colombians come from Medellín like the singer [[Juanes]], the soccer player [[René Higuita]], the artist [[Fernando Botero]] and many others. 
+ * [[Cali]] is the third largest city. It is very famous for its plantations of sugar cane. Cali is known as the  " World Capital of Salsa " . In Cali there are many skillful salsa dancers and very important Salsa groups. Cali is also a very modern city. It is an industrial city and its airport is the second in Colombia. Near Cali is the port city of Buenaventura in the Pacific Ocean. Cali is in a valley of the Andes. The name of the Valley is Cauca because it is crossed by the Cauca River. 
+ * [[Barranquilla]] is the fourth largest city and it was the first city in Colombia on the Caribbean Sea. Barranquilla is famous for its trade and international connections because it has a big port. The Colombian singer [[Shakira]] is from Barranquilla. 
+ * [[Cartagena de Indias]] is the most important tourist center in Colombia on the Caribbean Sea. It is also a very beautiful city. Many tourist come to visit the city. 
+ * [[Bucaramanga]] is near the Colombian border with [[Venezuela]]. This city is a great destination for travelers due to its Spanish history and its technological  &  urban development; it is a very popular city. 
+ * [[Eje Cafetero]] (Coffee Growing Axis) is the name of the region where [[coffee]] is grown in Colombia. There are three important cities: [[Pereira]], [[Manizales]] and [[Armenia (Colombia)|Armenia]]. 
+ 
+ == Science == 
+ Colombia has made many advances in medicine. Many foreigners come to the country to get health services, such as organ transplants or plastic surgery. Doctor [[Manuel Elkin Patarroyo]] of Colombia discovered a medicine against [[malaria]]. He donated his discovery to be used in [[Africa]] and [[Latin America]]. He did not want to make business of it, instead he wanted to use it to help people. 
+ 
+ == Resources == 
+ Colombia is known for its [[coffee]], [[coal]], and [[emerald]]s. It is also the biggest supplier of [[plantain]]s to the United States. There are a few armed conflicts in Colombia. Most rebel groups finance their operations with the trade of [[illegal drug]]s (mostly [[cocaine]]). 
+ 
+ == Related pages == 
+ * [[Colombia at the Olympics]] 
+ * [[Colombia national football team]] 
+ * [[List of rivers of Colombia]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Bibliography == 
+ * RODAS-LMASO 
+ 
+ ==Other websites== 
+ * {{commons-inline}} 
+ * {{wikivoyage-inline}} 
+ 
+ {{South America}} 
+ {{Caricom}} 
+ 
+ {{Authority control}} 
+ 
+ [[Category:Colombia| ]] 
+ [[Category:Spanish-speaking countries]] 
+ [[Category:1810 establishments]] 
+ [[Category:1810s establishments in South America]]

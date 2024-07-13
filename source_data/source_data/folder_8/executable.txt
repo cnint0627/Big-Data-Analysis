@@ -1,0 +1,13 @@
+[[File:Binary executable file2.png|thumb|250px|A [[hex dump]] of an executable [[real mode]] boot loader]] 
+ 
+ An '''executable''' is a [[computer program]] written by a [[programmer]] and compiled by a [[compiler]] (See [[programming]]). When it is run, it 'executes' (or does) the [[action]]s it was programmed to.   
+ 
+ An example of a compiler is the [[GNU C Compiler]], or GCC for short.  It reads in program code written in the [[C programming language]], and converts it into [[binary]] [[machine code]] called an executable, so computers can understand it. On [[Microsoft Windows]], these files end with '.exe.' To humans, these files are hard to read. [[Mac OS X|Mac]]s use other [[file extension]]s. 
+ 
+ == Other websites == 
+ * [http://gcc.gnu.org/ GNU C Compiler website] 
+ 
+ [[Category:Computer file formats]] 
+ 
+ 
+ {{Tech-stub}}

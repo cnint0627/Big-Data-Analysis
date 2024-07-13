@@ -1,0 +1,133 @@
+{{Infobox Italian comune 
+ | name                = Cantello 
+ | official_name       = Comune di Cantello 
+ | native_name         =  
+ | image_skyline       = Cantello - chiesa dei Santi Pietro e Paolo - campanile.jpg 
+ | imagesize           =  
+ | image_alt           =  
+ | image_caption       =  
+ | image_shield        =  
+ | shield_alt          =  
+ | image_map           =  
+ | map_alt             =  
+ | map_caption         =  
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates         = {{coord|45|49|N|8|53|E|type:city(4,409)_region:IT|display=inline,title}} 
+ | coordinates_footnotes =  
+ | region              = [[Lombardy]] 
+ | province            = [[Province of Varese]] (VA) 
+ | frazioni            = Gaggiolo, Ligurno 
+ | mayor_party         =  
+ | mayor               =  
+ | area_footnotes      =  
+ | area_total_km2      = 9.13 
+ | population_footnotes =  
+ | population_total    = 4409 
+ | population_as_of    = Dec. 2004 
+ | pop_density_footnotes =  
+ | population_demonym  =  
+ | elevation_footnotes =  
+ | elevation_m         = 404 
+ | twin1               =  
+ | twin1_country       =  
+ | saint               =  
+ | day                 =  
+ | postal_code         = 21050 
+ | area_code           = 0332 
+ | website             = {{official website|http://www.comune.cantello.va.it}} 
+ | footnotes           =  
+ }} 
+ '''Cantello''' is a ''[[comune]]'' (municipality) in the [[Province of Varese]] in the [[Italy|Italian]] region of [[Lombardy]]. It is about {{convert|45|km|mi}} northwest of [[Milan]] and about {{convert|4|km|mi|0}} east of [[Varese]], on the border with [[Switzerland]]. As of 31 December 2004, 4,409 people lived there. It has an area of 9.13 & nbsp;km². < ref name= " istat " > All demographics and other statistics: Italian statistical institute [[National Institute of Statistics (Italy)|Istat]]. < /ref > 
+ 
+ The municipality has two ''[[frazione|frazioni]]'': Gaggiolo and Ligurno. 
+ 
+ Cantello is next to these municipalities: [[Arcisate]], [[Cagno]], [[Clivio]], [[Malnate]], [[Rodero]], [[Stabio]] (Switzerland), [[Varese]], [[Viggiù]]. 
+ 
+ == Demographic change == 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.8) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize  = width:455 height:303 
+ PlotArea   = left:50 bottom:50 top:30 right:30 
+ DateFormat = x.y 
+ Period     = from:0 till:5000 
+ TimeAxis   = orientation:vertical 
+ AlignBars  = justify 
+ ScaleMajor = gridcolor:darkgrey increment:1000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:200 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+   bar:1861 text:1861 
+   bar:1871 text:1871 
+   bar:1881 text:1881 
+   bar:1901 text:1901 
+   bar:1911 text:1911 
+   bar:1921 text:1921 
+   bar:1931 text:1931 
+   bar:1936 text:1936 
+   bar:1951 text:1951 
+   bar:1961 text:1961 
+   bar:1971 text:1971 
+   bar:1981 text:1981 
+   bar:1991 text:1991 
+   bar:2001 text:2001 
+ 
+ PlotData= 
+   color:barra width:20 align:left 
+ 
+   bar:1861 from: 0 till:1879 
+   bar:1871 from: 0 till:2018 
+   bar:1881 from: 0 till:2212 
+   bar:1901 from: 0 till:2476 
+   bar:1911 from: 0 till:2750 
+   bar:1921 from: 0 till:2725 
+   bar:1931 from: 0 till:2523 
+   bar:1936 from: 0 till:2475 
+   bar:1951 from: 0 till:2692 
+   bar:1961 from: 0 till:3331 
+   bar:1971 from: 0 till:4001 
+   bar:1981 from: 0 till:3954 
+   bar:1991 from: 0 till:3932 
+   bar:2001 from: 0 till:4244 
+ 
+ PlotData= 
+ 
+   bar:1861 at:1879 fontsize:XS text: 1879 shift:(-8,5) 
+   bar:1871 at:2018 fontsize:XS text: 2018 shift:(-8,5) 
+   bar:1881 at:2212 fontsize:XS text: 2212 shift:(-8,5) 
+   bar:1901 at:2476 fontsize:XS text: 2476 shift:(-8,5) 
+   bar:1911 at:2750 fontsize:XS text: 2750 shift:(-8,5) 
+   bar:1921 at:2725 fontsize:XS text: 2725 shift:(-8,5) 
+   bar:1931 at:2523 fontsize:XS text: 2523 shift:(-8,5) 
+   bar:1936 at:2475 fontsize:XS text: 2475 shift:(-8,5) 
+   bar:1951 at:2692 fontsize:XS text: 2692 shift:(-8,5) 
+   bar:1961 at:3331 fontsize:XS text: 3331 shift:(-8,5) 
+   bar:1971 at:4001 fontsize:XS text: 4001 shift:(-8,5) 
+   bar:1981 at:3954 fontsize:XS text: 3954 shift:(-8,5) 
+   bar:1991 at:3932 fontsize:XS text: 3932 shift:(-8,5) 
+   bar:2001 at:4244 fontsize:XS text: 4244 shift:(-8,5) 
+ 
+ TextData= 
+   fontsize:S pos:(20,20) 
+   text:Data from ISTAT 
+ 
+ < /timeline > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * {{Commonscat-inline}} 
+ * [http://www.comune.cantello.va.it Official website of Cantello] {{in lang|it}} 
+ 
+ {{Province of Varese}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Settlements in Varese]]

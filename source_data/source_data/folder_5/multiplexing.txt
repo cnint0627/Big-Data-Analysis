@@ -1,0 +1,10 @@
+[[File:Multipexing demultiplexing scheme en.svg|thumb|500px|right|General multiplex scheme: the different input lines-channels are multiplexed into a single fast line. The demultiplexer receives the multiplexed data stream and extracts the original channels to be transferred.]] 
+ '''Multiplexing''' is the name for an operation or method which combines several signals into one, before that signal is sent over a [[telecommunications]] line. At the other end of the line, the combined signals are ''demultiplexed'', that is, the combination of the signals is undone. There are different ways how this multiplexing can be done: 
+ *Space division multiplexing: Each channel can use its own part of the space exclusively. There are many channels, in different spaces. This is like people talking in different places. If the people talking are far apart, the conversations won't interfere.  
+ *Frequency division multiplexing: Different channels use the different frequencies. The sounds [[bat]]s  make use frequencies that humans cannot hear. Their conversations will therefore not interfere. 
+ *Time division multiplexing: Different channels use different time slots. In [[Amateur radio]], there will only be one person speaking at a time. Different people who speak at different times do not interfere with each other. 
+ *Code division multiplexing: Communications are [[code]]d. Different signals use different codes.  People speaking in different languages do not interfere. 
+ Multiplexing was first done for [[telegraph]]y in the 1870s, and for [[telephone]] lines in 1910. Today, it is widely used.  
+ {{stub}} 
+ 
+ [[Category:Telecommunications]]

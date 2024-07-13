@@ -1,0 +1,153 @@
+{| class= " toccolours "  border= " 1 "  style= " float: right; clear: right; margin: 0 0 1em 1em; border-collapse: collapse; " 
+ ! {{chembox header}} | Sucrose  < !-- replace if not identical with the article name -- > 
+ |- 
+ | align= " center "  colspan= " 2 "  bgcolor= " #ffffff "  | 
+ [[Image:Saccharose.svg|200px|Sucrose]] < br / >  [[Image:Sucrose molecule 3d model.png|200px|Sucrose]] 
+ |- 
+ ! {{chembox header}} | General 
+ |-  
+ | [[IUPAC nomenclature|Systematic name]] 
+ | Sucrose  < !-- e.g. Iron(II) chloride -- > 
+ |- 
+ | Other names 
+ | Sugar, Saccharose 
+ |- 
+ | [[Chemical formula|atomic formula]] 
+ | [[Carbon|C]] < sub > 12 < /sub > [[Hydrogen|H]] < sub > 22 < /sub > [[Oxygen|O]] < sub > 11 < /sub > 
+ |- 
+ | [[Simplified molecular input line entry specification|SMILES]]  < !-- mostly for organic compounds, omit otherwise -- > 
+ | OC1C(OC(CO)C(O)C1O) < br/ > OC2(CO)OC(CO)C(O)C2O 
+ |- 
+ | [[Molar mass]] 
+ | 342.29648 [[molecular mass unit|g/mol]] 
+ |- 
+ | Appearance 
+ | white solid  < !-- e.g. pale yellow solid, [[hygroscopic]] -- > 
+ |- 
+ | [[CAS registry number|CAS number]] 
+ | [57-50-01] 
+ |- 
+ ! {{chembox header}} | Chemical Properties 
+ |- 
+ | [[Density]] and [[Phase (matter)|phase]] 
+ | 1.587 g/cm³, solid  < !-- ? g/cm³, solid / ? g/ml, liquid / ? g/l, gas -- > 
+ |- 
+ | [[Solubility]] in [[Water (molecule)|water]] 
+ | 211.5 g/100 ml (25°C)  < !--  at least put miscible with, not soluble in -- > 
+ |- 
+ < !-- | Other solvents e.g. [[ethanol]], [[acetone]] -- > 
+ < !-- | solubility info on other solvents -- > 
+ < !-- |- -- > 
+ | [[Melting point]] 
+ | 186°C (459.15 K)  < !-- (mention any decomposition) -- > 
+ |- 
+ | [[Boiling point]] 
+ | [[Chemical decomposition|decomposition]]  < !-- ?°C (? K) -- > 
+ |- 
+ | [[Specific rotation|Chiral rotation  < nowiki > [α] < /nowiki > < sub > D < /sub > ]]  < !-- (Only include this for chiral compounds, indicate direction/enantiomer combo if known) -- > 
+ | +66.47° 
+ |- 
+ | [[Refractive index]] 
+ | 1.5376 
+ |- 
+ ! {{chembox header}} | Structure 
+ |- 
+ | [[Orbital hybridisation#Molecule shape|Molecular shape]]  < !-- for simple covalent molecules (omit for most large molecules, ionics and complexes) -- > 
+ | ?  < !-- e.g. trigonal bipyramidal -- > 
+ |- 
+ | [[Crystal structure]]  < !-- omit if not a solid -- > 
+ | [[monoclinic]] hemihedral < !-- e.g. [[triclinic]], [[monoclinic]], [[orthorhombic]], [[hexagonal]], [[rhombohedral|trigonal]], [[tetragonal]], [[cubic]], and mention  " close packed "  or similar.  You may also cite what class it belongs to, e.g. [[Cadmium chloride#Crystal structure|CdCl < sub > 2 < /sub > ]]  -- > 
+ |- 
+ | [[Dipole#Molecular dipoles|Dipole moment]] 
+ | ? [[Debye|D]] 
+ |- 
+ ! {{chembox header}} | Hazards  < !--  Summary only- MSDS entry provides more complete information -- > 
+ |- 
+ | [[Material safety data sheet|MSDS]] 
+ | [[Sucrose (data page)#Material Safety Data Sheet|External MSDS]]  < !-- please replace with proper link-- > 
+ |- 
+ | Main [[Worker safety and health|hazard]]s 
+ | Combustible  < !-- e.g. highly toxic, explosive, flammable, corrosive -- > 
+ |- 
+ | [[NFPA 704]] 
+ | {{NFPA 704 | Health=1 | Flammability=1 }} 
+ |- 
+ | [[Flash point]] 
+ | N/A 
+ |- 
+ | [[Risk and Safety Statements|R/S statement]] 
+ | [[List of R-phrases|R]]: ?  < br / >  [[List of S-phrases|S]]: ? 
+ |- 
+ | [[RTECS]] number 
+ | WN6500000 
+ |- 
+ ! {{chembox header}} | [[Sucrose (data page)|Supplementary data page]] 
+ |- 
+ | [[Sucrose (data page)#Structure and properties|Structure and < br / > properties]]  
+ | [[Refractive index|''n'']], [[Dielectric constant|ε < sub > r < /sub > ]], etc.  
+ |- 
+ | [[Sucrose (data page)#Thermodynamic properties|Thermodynamic < br / > data]]  
+ | Phase behaviour < br / > Solid, liquid, gas  
+ |- 
+ | [[Sucrose (data page)#Spectral data|Spectral data]] 
+ | [[UV/VIS spectroscopy|UV]], [[Infrared spectroscopy|IR]], [[nuclear magnetic resonance spectroscopy|NMR]], [[Mass spectrometry|MS]] 
+ |- 
+ ! {{chembox header}} | Related compounds 
+ |- 
+ | Other [[Ion|anion]]s  < !-- please omit if not applicable -- > 
+ | ?  < !-- Put in related anions e.g, iron(II) fluoride  &  iron(II) bromide if compound is iron(II) chloride -- > 
+ |- 
+ | Other [[Ion|cation]]s  < !-- please omit if not applicable -- > 
+ | ?  < !-- Put in other oxidation states of same element e.g. [[iron(III) chloride]], also for related metals such as [[manganese(II) chloride]], [[cobalt(II) chloride]], ruthenium(III) chloride-- > 
+ |- 
+ | {{chembox header}} |  < small > Except where noted otherwise, data are given for < br / >  materials in their [[standard state|standard state (at 25°C, 100 kPa)]] < br / > [[wikipedia:Chemical infobox|Infobox disclaimer and references]] < /small > 
+ |- 
+ |} 
+ 
+ {| class= " toccolours "  border= " 1 "  style= " float:right; clear:right; margin: 0 0 1em 1em; border-collapse: collapse; " 
+ |----- 
+ ! colspan= " 2 "  | Solubility of Pure Sucrose 
+ |----- 
+ ! Temperature(C) 
+ ! g sucrose/g water 
+ |----- 
+ | 50 || 2.59 
+ |----- 
+ | 55 || 2.73 
+ |----- 
+ | 60 || 2.89 
+ |----- 
+ | 65 || 3.06 
+ |----- 
+ | 70 || 3.25 
+ |----- 
+ | 75 || 3.46 
+ |----- 
+ | 80 || 3.69 
+ |----- 
+ | 85 || 3.94 
+ |----- 
+ | 90 || 4.20 
+ |} 
+ 
+ '''Sucrose''' (common name: '''table sugar''', also called '''saccharose''') is a [[disaccharide]] ([[glucose]] + [[fructose]]) with the [[molecular formula]] C < sub > 12 < /sub > H < sub > 22 < /sub > O < sub > 11 < /sub > . Its systematic name is α-D-glucopyranosyl-(1→2)-β-D-fructofuranose.  It is best known for its role in [[human nutrition]] and is formed by [[plant]]s but not by higher [[organism]]s. 
+ 
+ ==Physical and chemical properties== 
+ 
+ Pure sucrose is most often prepared as a fine, white, odorless crystalline [[powder]] with a pleasing, sweet taste. 
+ 
+ ==References== 
+ {{reflist}} 
+ {{cite book |first=J. |last=Yudkin |author2= Edelman, J. and Hough, L. |title=Sugar - Chemical, Biological and Nutritional Aspects of Sucrose |publisher= The Butterworth Group |year=1973 |isbn=0-408-70172-2}} 
+ 
+ == Other websites == 
+ *[http://www.compchemwiki.org/index.php?title=Sucrose Computational Chemistry Wiki] {{Webarchive|url=https://web.archive.org/web/20060527111618/http://www.compchemwiki.org/index.php?title=Sucrose |date=2006-05-27 }} 
+ *[http://www.chem.qmul.ac.uk/iupac/2carb/app.html Nomenclature of Carbohydrates] 
+ *[http://csi.chemie.tu-darmstadt.de/ak/immel/graphics/gallery/sucroses.html 3d Images of Sucrose] 
+ 
+ 
+ {{chem-stub}} 
+ 
+ [[Category:Carbohydrates]] 
+ [[Category:Organic compounds]] 
+ [[Category:Sweeteners]]

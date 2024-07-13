@@ -1,0 +1,61 @@
+{{Chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 458267616 
+ | ImageFile1 =Phosphat-Ion.svg 
+ | ImageFile1_Ref = {{chemboximage|correct|??}} 
+ | ImageSize1 = 140 
+ | ImageName1 = Stereo skeletal formula of phosphate 
+ | ImageFileL1 = Phosphate-3D-balls.png 
+ | ImageFileL1_Ref = {{chemboximage|correct|??}} 
+ | ImageNameL1 = Aromatic ball and stick model of phosphate 
+ | ImageFileR1 = Phosphate-3D-vdW.png 
+ | ImageFileR1_Ref = {{chemboximage|correct|??}} 
+ | ImageNameR1 = Space-filling model of phosphate 
+ | SystematicName = Phosphate < ref > {{cite web|title = Phosphates – PubChem Public Chemical Database|url = https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=1061 & loc=ec_rcs|work = The PubChem Project|location = USA|publisher = National Center of Biotechnology Information}} < /ref > 
+ |Section1={{Chembox Identifiers 
+ | CASNo = 14265-44-2 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 1061 
+ | ChemSpiderID = 1032 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | MeSHName = Phosphates 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 18367 
+ | ChEMBL = 
+ | ChEMBL_Ref =  
+ | Beilstein = 3903772 
+ | Gmelin = 1997 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = NK08V8K8HR 
+ | SMILES = [O-]P([O-])([O-])=O 
+ | SMILES1 = [O-]P(=O)([O-])[O-] 
+ | SMILES2 = O=P([O-])([O-])[O-] 
+ | SMILES3 = [O-][P+]([O-])([O-])[O-] 
+ | StdInChI = 1S/H3O4P/c1-5(2,3)4/h(H3,1,2,3,4)/p-3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = NBIIXXVUZAFLBC-UHFFFAOYSA-K 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ }} 
+ |Section2={{Chembox Properties 
+ | Formula = {{chem|PO|4|3−}} 
+ | ConjugateAcid = [[Hydrogen phosphate]] 
+ | MolarMass = 94.9714 g mol < sup > −1 < /sup > 
+ }} 
+ }} 
+ A '''phosphate''' is a [[salt]] of [[phosphoric acid]]. Phosphates are important in [[biochemistry]]. 
+ Phosphates have the formula PO < sub > 4 < /sub > < sup > 3- < /sup >  and a molar mass of 94.973 g/mol. An example of a phosphate is [[sodium phosphate]]. Three different types of phosphates are known.  They are orthophosphate, PO < sub > 4 < /sub > < sup > 3- < /sup > ; metaphosphate, PO < sub > 3 < /sub > < sup > 2- < /sup > ; and pyrophosphate, P < sub > 2 < /sub > O < sub > 7 < /sub > < sup > 3- < /sup > . They have a combining power of 3. 
+ [[Image:Phosphate_Group.PNG|thumb|300px|The phosphate functional group]] 
+ 
+ == Structure == 
+ Phosphates are made of one [[phosphorus]] [[atom]] surrounded by four [[oxygen]] atoms.  
+ Many phosphates do not [[solvation|dissolve]] in water. 
+ 
+ ==Sources== 
+ {{reflist}} 
+ 
+ {{chem-stub}} 
+ 
+ 
+ [[Category:Phosphorus compounds]] 
+ [[Category:Ions]] 
+ [[Category:Phosphates| ]]

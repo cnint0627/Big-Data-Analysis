@@ -1,0 +1,26 @@
+In [[mathematics]], the '''reciprocal''' (or '''multiplicative inverse''') of a [[number]] is 1 divided by the number, or equivalently, the number raised to the [[Exponent|power]] of -1 (as in  < math > \tfrac{1}{x} < /math >  and  < math > x^{-1} < /math > ). < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-09-08|website=Math Vault|language=en-US}} < /ref > < ref name= " :0 " > {{Cite web|title=Reciprocal|url=https://www.mathsisfun.com/reciprocal.html|access-date=2020-09-08|website=www.mathsisfun.com}} < /ref >   All numbers have a reciprocal except zero, since no number times 0 is 1. Two numbers are reciprocal of each other if and only if their product is 1. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Reciprocal|url=https://mathworld.wolfram.com/Reciprocal.html#:~:text=Two%20numbers%20are%20reciprocals%20if,number,%20the%20smaller%20its%20reciprocal.|access-date=2020-09-08|website=mathworld.wolfram.com|language=en}} < /ref >  For example: 
+ 
+ * 2.5 and 0.4 are reciprocals, because 2.5 × 0.4 = 1. 
+ * -0.2 and -5 are reciprocals, because -0.2 × -5 = 1. 
+ * 1 and -1 are their own reciprocals, because 1 × 1 = 1 and -1 × -1 = 1. 
+ 
+ To find the reciprocal of a fraction, swap the numerator and the denominator. Whole numbers can be thought as having a denominator of 1. < ref name= " :0 "  / >  For example:  
+ 
+ * The reciprocal of 8 is 1/8 (or 0.125).  
+ * The reciprocal of 5/3 is 3/5 (or 0.6).  
+ * The reciprocal of 1/7 is 7.  
+ * The reciprocal of -9/4 is -4/9.  
+ 
+ [[Division|Dividing]] a fraction is the same as [[Multiplication|multiplying]] its reciprocal and vice versa. 
+ 
+ == Related pages == 
+ 
+ * [[Additive inverse]] 
+ * [[Inverse function]] 
+ 
+ == References == 
+ < references / > 
+ {{math-stub}} 
+ 
+ [[Category:Arithmetics]] 
+ [[Category:Fractions (mathematics)]]

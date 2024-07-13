@@ -1,0 +1,17 @@
+[[File:Varistor S14K385 photo.jpg|thumb|Varistor]] 
+ [[File:VDRpiirrosmerkki.png|thumb|Symbol]] 
+ 
+ A '''varistor''', VDR, ''(voltage dependent resistor)'' is a type of resistor. It controls the [[electric current|current]] depending on the [[voltage]]. 
+ 
+ In these devices resistance drops sharply at a certain [[threshold voltage]]. Once the voltage across the device reaches the threshold, there is a [[Electrical breakdown|breakdown]] of the electrical structure in the vicinity of the [[grain boundary|grain boundaries]], which results in its [[electrical resistance]] dropping from several megohms down to a few hundred [[Ohm (unit)|ohm]]s.  The major advantage of these is that they can dissipate a lot of energy, and they self reset–after the voltage across the device drops below the threshold, its resistance returns to being high.   
+ 
+ This makes them ideal for [[Surge protector|surge-protection]] applications.  As there is control over the threshold voltage and energy tolerance, they find use in all sorts of applications.  The best demonstration of their ability can be found in [[electrical substation]]s, where they are employed to protect the infrastructure from [[lightning]] strikes.  They have rapid response, are low maintenance, and do not appreciably degrade from use, making them virtually ideal devices for this application. 
+ 
+ They can be used to protect electronics from voltages that could damage components. 
+ 
+ {{Commonscat}} 
+ 
+ [[Category:Electronic components]] 
+ 
+ 
+ {{sci-stub}}

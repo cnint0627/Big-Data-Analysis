@@ -1,0 +1,62 @@
+{{Infobox drug 
+ | image = L-Theanine.svg 
+ | caption =  < small > L < /small > -Theanine 
+ | alt = skeletal formula of L-theanine 
+ | IUPAC_name = (2''S'')-2-Ammonio-5-(ethylamino)-5-oxopentanoate or ''N''-Ethyl- < small > L < /small > -glutamine 
+ | tradename = 
+ | Drugs.com = 
+ | pregnancy_US = A 
+ | legal_AU = 
+ | legal_CA = 
+ | legal_UK = 
+ | legal_US = OTC 
+ | legal_UN = Unscheduled 
+ | licence_US = 
+ | dependency_liability = None 
+ | addiction_liability =  
+ | routes_of_administration= [[Oral route|Oral]] 
+ < !--Pharmacokinetic data-- > 
+ | bioavailability = 
+ | protein_bound = 
+ | metabolism = 
+ | onset = about 1 hour < ref name= " PK " > {{cite journal|last1=Scheid|first1=L.|last2=Ellinger|first2=S.|last3=Alteheld|first3=B.|last4=Herholz|first4=H.|last5=Ellinger|first5=J.|last6=Henn|first6=T.|last7=Helfrich|first7=H.-P.|last8=Stehle|first8=P.|title=Kinetics of L-Theanine Uptake and Metabolism in Healthy Participants Are Comparable after Ingestion of L-Theanine via Capsules and Green Tea|url=https://archive.org/details/sim_journal-of-nutrition_2012-12_142_12/page/2091|journal=Journal of Nutrition|volume=142|issue=12|year=2012|pages=2091–2096|issn=0022-3166|doi=10.3945/jn.112.166371|pmid=23096008}} < /ref > 
+ | elimination_half-life = Capsule ~1.2 hours  < br > 
+ Green Tea ~0.8 hours < ref name= " PK " / > 
+ | excretion = 
+ < !-- identifiers -- > 
+ | index_label = 
+ | index2_label = 
+ | CAS_number =3081-61-6 
+ | CAS_number_Ref = {{cascite|correct|??}} 
+ | ATC_prefix = none 
+ | PubChem = 439378 
+ | ChemSpiderID = 388498 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = 8021PR16QO 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | ChEBI = 17394 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | KEGG = C01047 
+ | smiles = CCNC(=O)CC[C@H](N)C(=O)O 
+ | smiles2 = CCNC(=O)CCC(N)C(O)=O 
+ | StdInChI = 1S/C7H14N2O3/c1-2-9-6(10)4-3-5(8)7(11)12/h5H,2-4,8H2,1H3,(H,9,10)(H,11,12) 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = DATAGRPVKZEWHA-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | synonyms = γ- < small > L < /small > -Glutamylethylamide 
+ < !-- -- > 
+ | C=7 | H=14 | N=2 | O=3 
+ | density =  
+ | boiling_point = 215 
+ | boiling_notes =  < ref name= " Pubchem " > {{cite web|title=Theanine|url=https://pubchem.ncbi.nlm.nih.gov/compound/439378?from=summary#section=InChI-Key|website=Pubchem Compound|publisher=NCBI|accessdate=21 February 2015}} < /ref > 
+ | melting_point = 174.20 
+ | melting_notes =  < ref name= " Pubchem "  / > 
+ < !-- -- > 
+ }} 
+ '''Theanine''' is a [[chemical]] that you find in [[tea]] and in some [[mushroom]]s. Theanine is an [[amino acid]]. The chemical theanine can change your mood, behavior and the way you see or feel things. It lowers [[Stress (medicine)|stress]] and it is also an [[antioxidant]]. This is a good chemical that fights [[aging]]. Theanine helps the [[immune system]]. This protects your body against diseases. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{chem-stub}} 
+ [[Category:Amino acids]]

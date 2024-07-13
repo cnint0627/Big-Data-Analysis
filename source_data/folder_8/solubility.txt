@@ -1,0 +1,21 @@
+{{enWiktionary|soluble|solubility}} 
+ '''Solubility''' is the ability of a substance (the [[solute]]), to mix into a liquid (the [[solvent]]). < ref > ''Atkins' Physical Chemistry'', 7th Ed. by Julio De Paula, P.W. Atkins {{ISBN|0-19-879285-9}} < /ref > 
+ 
+ It measures the highest amount of substance mixed into a liquid solvent while they are both at equal amounts.   
+ When the two mix together it is called a saturated [[solution]]. Certain substances can mix into any amount of a liquid solvent. An example of this is [[ethanol]] in [[water]]. This process is better described as  " miscible "  (the ability to mix with one another). Solubility does not depend on the size, in fact even the large particles will eventually all dissolve. 
+ 
+ A solute is a substance that is dissolving in a solvent and is the smaller part of the solution. A solvent is the bigger part of a solution and is the substance that the solute dissolves in. 
+ 
+ == Other websites == 
+ * [http://www.vcclab.org/lab/alogps ALOGPS] {{Webarchive|url=https://web.archive.org/web/20070410173833/http://www.vcclab.org/lab/alogps/ |date=2007-04-10 }} interactive calculation of aqueous solubility of compounds at [http://www.vcclab.org Virtual Computational Chemistry Laboratory] {{Webarchive|url=https://web.archive.org/web/20060728002837/http://www.vcclab.org/ |date=2006-07-28 }} using several algorithms 
+ * [http://q-lead.com/cnt/LogS/ QUANTUM] {{Webarchive|url=https://web.archive.org/web/20070516001500/http://www.q-lead.com/cnt/LogS/ |date=2007-05-16 }} web based calculation of aqueous and DMSO solubility of compounds QUANTUM web based prediction of aqueous and DMSO solubility of compounds 
+ * [http://www.acdlabs.com/products/phys_chem_lab/aqsol/ ACD/Solubility DB] {{Webarchive|url=https://web.archive.org/web/20070714073307/http://www.acdlabs.com/products/phys_chem_lab/aqsol/ |date=2007-07-14 }} aqueous solubility prediction 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{chem-stub}} 
+ {{Chemical solutions}} 
+ 
+ [[Category:Chemistry]]

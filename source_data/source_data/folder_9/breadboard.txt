@@ -1,0 +1,13 @@
+[[File:BjornR breadboard 01.jpg|thumb|Breadboard and components]] 
+ 
+ A '''breadboard''' is an electron tool which can be used to test electrical circuits. Instead of using [[soldering]] to connect wires and components together (like on a [[perfboard]] or [[printed circuit board]]), they can be stuck into the holes of the breadboard. It has metal strips inside that will connect them, and it lets them be removed easily or moved around when testing a circuit.  
+ 
+ The rows and columns of holes on a breadboard are usually labelled with numbers and letters. Everything in a row with the same number will be connected, except if the breadboard has a strip down the center. In that case, the metal is split and the row has two separate connections (one on each side). The center strip is also useful when connecting [[integrated circuit]] < nowiki/ > s, because they can be pushed in over the top of it and have legs connecting to both sides without overlapping the connections. 
+ 
+ 22 or 24 gauge wire usually work best to plug into the holes in a breadboard.  
+ 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Electronics]]

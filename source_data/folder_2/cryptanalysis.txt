@@ -1,0 +1,25 @@
+'''Cryptanalysis''' (from the [[Greek language|Greek]] ''kryptós'',  " hidden " , and ''analýein'',  " to loosen "  or  " to untie " ) is the study of methods for obtaining the meaning of [[Encryption|encrypt]]ed information, without access to the [[secret]] information which is normally required to do so. Typically, this involves finding a [[secret key]]. In non-technical language, this is the practice of '''codebreaking''' or '''cracking the code''', although  " break "  can also mean just a part of a complete solution. 
+ 
+ People have been making and breaking codes for many centuries. In the 1930s specialized machines were invented to do the calculations. Code-breaking machines such as the [[Colossus computer]] were important during [[World War II]]. Computers were the main tool of cryptanalysis in the [[Cold War]] and later. 
+ 
+ == Related pages == 
+ * [[Code]] 
+ * [[Cryptography]] 
+ 
+ == References == 
+ * Helen Fouché Gaines,  " Cryptanalysis " , 1939, Dover. {{ISBN|0-486-20097-3}} 
+ 
+ == Other websites == 
+ {{enWiktionary|cryptanalysis}} 
+ * [http://www.umich.edu/~umich/fm-34-40-2/ Basic Cryptanalysis] 
+ * [http://www.simonsingh.com/Crypto_Corner.html Simon Singh's crypto corner] {{Webarchive|url=https://web.archive.org/web/20080509100644/http://www.simonsingh.com/Crypto_Corner.html |date=2008-05-09 }} 
+ * [http://distributedcomputing.info/ap-crypto.html#m4 Distributed Computing Projects] 
+ * [http://home.no.net/fenja256/ultraanvil/ UltraAnvil tool for attacking simple substitution ciphers] {{Webarchive|url=https://web.archive.org/web/20070128051501/http://home.no.net/fenja256/ultraanvil/ |date=2007-01-28 }} 
+ * [http://groups.google.com/groups/search?q=author%3Asmokerman6%40hotmail.com+OR+author%3Ascully%40ar.com+OR+author%3Aidaho%40microsoft.com+OR+author%3Aman%40ar.com+OR+author%3Adave%40wanadoo.fr+OR+author%3Afdgd%40wanadoo.fr+OR+author%3Afortune%40fortune.com & star A lot of real encrypted messages on newsgroups] 
+ * [http://members.aol.com/SciRealm/CodeSystems.html A javascript codesystems solver for many types of ciphers, with examples] {{Webarchive|url=https://web.archive.org/web/20080707033753/http://members.aol.com/scirealm/CodeSystems.html |date=2008-07-07 }} 
+ * [http://www.tnmoc.org/cipher1.htm The National Museum of Computing Cipher Challenge] {{Webarchive|url=https://web.archive.org/web/20080801175842/http://www.tnmoc.org/cipher1.htm |date=2008-08-01 }} 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Cryptography]]

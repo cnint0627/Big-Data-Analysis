@@ -1,0 +1,30 @@
+A '''syllogism'''  < ref > {{lang-el|συλλογισμός}} & nbsp;– ''syllogismos'' –  " conclusion, "   " inference " < /ref >  is a  [[deductive reasoning|deduction]]. It is a kind of [[logic]]al [[argument]] in which one [[proposition]] (the ''conclusion'') is [[Inference (grammar)|inferred]] from two or more others (the [[premise]]s). < ref > Frede, Michael 1975. Stoic vs. Peripatetic syllogistic. ''Archive for the History of Philosophy'' '''56''', 99-124. < /ref >  The idea is an invention of [[Aristotle]]. < ref > Jaeger, Werner 1934. ''Aristotle: fundamentals of the history of his development''. Oxford University Press. p370 < /ref > 
+ 
+ In the ''Prior Analytics'', Aristotle defines the syllogism as  " a discourse in which, certain things having been supposed, something different from the things supposed results of necessity because these things are so " . (24b18–20) 
+ 
+ Each proposition must have some form of the [[verb]] 'to be' in it. A categorical syllogism is like a little machine built of three parts: the major premise, the minor premise and the conclusion. Each of these parts is a [[proposition]] and, from the first two, the  " truth value "  of the third part is decided. 
+ 
+ ==Examples== 
+ :Major premise: All men are mortal. 
+ :Minor premise: All Greeks are men. 
+ :Conclusion: All Greeks are mortal. 
+ 
+ Each of the three distinct terms represents a category. In the above example,  " men, "   " mortal, "  and  " Greeks. "    " Mortal "  is the major term;  " Greeks " , the minor term.  The premises also have one term in common with each other, which is known as the ''middle term''; in this example,  " man. "  Both of the premises are universal, as is the conclusion. 
+ 
+ :Major premise: All mortals die. 
+ :Minor premise: Some men are mortals. 
+ :Conclusion: Some men die. 
+ 
+ Here, the major term is  " die " , the minor term is  " men, "  and the middle term is  " mortals " . The major premise is universal; the minor premise and the conclusion are particular. [[Aristotle]] studied different syllogisms and identified valid syllogisms as syllogisms with conclusion true if both premises are true. The examples above are valid syllogisms. 
+ 
+ A '''sorites''' is a form of argument in which a series of incomplete syllogisms is so arranged that the predicate of each premise forms the subject of the next until the subject of the first is joined with the predicate of the last in the conclusion. For example, if one argues that a given number of grains of sand does not make a heap and that an additional grain does not either, then to conclude that no additional amount of sand will make a heap is to construct a sorites argument. 
+ 
+ == Logic today == 
+ The syllogism was replaced by [[first order logic]] after the work of [[Gottlob Frege]], published in 1879. < ref > Frege, Gottlob 1879. ''Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens''. Halle a. S.: Louis Nebert. Translation: ''Concept Script, a formal language of pure thought modelled upon that of arithmetic'', by S. Bauer-Mengelberg in Jean Van Heijenoort, ed., 1967. ''From Frege to Gödel: a source book in mathematical logic, 1879–1931''. Harvard University Press. 
+ < /ref >  This logic is suitable for mathematics, computers, linguistics and other subjects, because it uses numbers (quantified variables) instead of sentences. 
+ 
+ == References == 
+ {{Reflist}} 
+ {{Mathematical logic}} 
+ 
+ [[category:Logic]]

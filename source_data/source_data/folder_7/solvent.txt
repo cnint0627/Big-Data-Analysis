@@ -1,0 +1,190 @@
+{{enWiktionary|solvent}} 
+ A '''solvent''' is a substance that becomes a [[solution]] by [[:wikt:dissolve|dissolving]] a [[solid]], [[liquid]], or [[gas]]eous [[Solvation|solute]]. A solvent is usually a liquid, but can also be a solid or gas. The most common solvent in everyday life is [[water]].   
+ 
+ Solvents help dissolve, suspend, or extract other materials, usually solids, without changing them chemically. That means they help in mixing things at a [[Molecule|molecular]] level but don't participate in any chemical change of the substance dissolved.   
+ 
+ For example, water acts as a solvent when sugar is poured into a glass of it. The sugar molecules get surrounded by water molecules and spread out in the glass, so it seems like the sugar has disappeared, but it’s really just mixed in very well. This process is known as dissolution. Water also acts as a solvent when it's used to clean food off a plate. The water molecules surround the food molecules and separates them from each other, causing the mass of food to dissolve. In both cases, water is breaking the physical bonds holding ions or molecules together, but the substances dispersed or dissolved in the water retain their chemical identity.   
+ 
+ === Polar Solvents === 
+ Water is able to dissolve more substances than any other liquid due to its [[Polar bond|polar]] nature. That's why water is often referred to as the “universal solvent. "  Polarity refers to how evenly distributed the positive and negative charges are within a molecule. In non-polar molecules like oil, the charges are evenly spread out. The molecule has no areas that are more positive or negative. In polar molecules like water, the charges are unevenly distributed. Parts of the molecule are more positive or negative. This creates a  " pole "  - a positive end and a negative end. The polarity of a chemical causes differences in properties like how they dissolve or [[Chemical reaction|react]].    
+ 
+ The charge imbalance of polar chemicals like water makes them act like magnets, they surround and hold onto other charged or polar substances, “pulling” them into solution. A water molecule's two hydrogen atoms make up its positive side. It's negative side is its one oxygen atom. Because opposite charges attract, the positive side of one water molecule is attracted to the negative side of another molecule.    
+ 
+ When a negatively charged atom is attracted to a positively charged hydrogen atom, we call this attraction a [[hydrogen bond]]. Water has a positively charged hydrogen, so it is very good at forming hydrogen bonds with a wide variety of compounds, such as sugar which is also polar. When water encounters sugar, the positive end of the sugar is attracted to the negative side of water, and the negative end of the polar molecule is attracted to the positive side of water. This interaction allows water to surround and dissolve the polar molecules.    
+ 
+ When water encounters an [[ionic compound]] (a compound made of ions, which are electrically charged atoms or molecules), like [[table salt]], the positively charged ion ([[cation]]) is attracted to the negative oxygen side of the water molecule, and the negatively charged ion ([[anion]]) is attracted to the negatively charged hydrogen side of the water molecule. This attraction helps to separate the ions from each other, dissolving the ionic compound in water.   
+ 
+ === Non-polar Solvents === 
+ Although water is an excellent solvent, it cannot dissolve everything. Non-polar substances like oils and fats do not dissolve well in water because they do not form hydrogen bonds and are not attracted to polar water molecules. A common saying in chemistry is “like dissolves like,” meaning polar substances dissolve well in polar solvents, and non-polar substances dissolve well in non-polar solvents. Non-polar solvents usually do not mix well with water, which is where the expression  " oil and water don't mix "  comes from.    
+ 
+ Because non-polar solvents lack the polarity needed to form hydrogen bonds, they rely on the much weaker [[Van der Waals force]], which is a weak attraction between molecules that occurs when they come very close together. When non-polar molecules, like those in oil, come close to other non-polar molecules, like those in grease, they experience these tiny attractions, allowing them to stick together. This is how oil can dissolve grease.   
+ 
+ === Organic Solvents === 
+ Most other commonly-used solvents are [[organic chemistry|organic]] ([[carbon]]-containing) chemicals. These are called '''organic solvents'''. Solvents usually have a low [[boiling point]] and evaporate easily or can be removed by [[distillation]], thereby leaving the dissolved substance behind.  Solvents should therefore not [[chemical reaction|react chemically]] with the dissolved compounds - they have to be [[Chemically inert|inert]].  Solvents can also be used to [[solvent extraction|extract]] [[soluble]] compounds from a mixture, the most common example is the brewing of [[coffee]] or [[tea]] with hot water.  Solvents are usually clear and colorless liquids and many have a characteristic [[Odor|smell]]. The [[concentration]] of a solution is the amount of compound that is dissolved in a certain volume of solvent.  The '''solubility''' is the maximal amount of compound that is soluble in a certain volume of solvent at a specified [[temperature]].   
+ 
+ Common uses for organic solvents are in [[dry cleaning]] (e.g. [[tetrachloroethylene]]), as [[paint thinner]]s (e.g. [[toluene]], [[turpentine]]), as nail polish removers and glue solvents ([[acetone]], [[methyl acetate]], [[ethyl acetate]]), in spot removers (e.g. [[hexane]], [[petrol ether]]), in [[detergent]]s (citrus [[terpene]]s), in [[perfumes]] ([[ethanol]]), and in [[chemical syntheses]]. Inorganic solvents are used in research chemistry and in a few technological processes. 
+ 
+ == Health and safety == 
+ 
+ Some solvents including chloroform and [[benzene]] (an ingredient of [[gasoline]]) are [[carcinogen]]ic. Many others can damage internal organs like the [[liver]], the [[kidneys]], or the [[brain]]. Many also can catch fire easily. Ways to work safely include: 
+ 
+ * Avoiding the generation of solvent vapors by working in a [[fume hood]], local exhaust ventilation (LEV), or a well ventilated area 
+ * Keeping the storage containers tightly closed 
+ * Never using open flames near flammable solvents, use of electrical heating instead 
+ * Never flush flammable solvents down the drain to avoid explosions and fires 
+ * Avoiding the inhalation of solvent vapors 
+ * Avoiding contact of the solvent with the skin – many solvents are easily absorbed through the skin. They also tend to dry the skin and may cause sores and wounds. 
+ 
+ == Properties table of common solvents == 
+ The solvents are grouped into non-polar, polar aprotic, and polar protic solvents and ordered by increasing polarity. The polarity is given as the [[Relative permittivity|Dielectric constant]]. The [[density]] of nonpolar solvents that are heavier than water is bolded. 
+ < !-- Here is a table of data; skip past it to edit the text. -- > 
+ {| border= " 1 "  cellpadding= " 5 "  cellspacing= " 0 "  align= " center " 
+ ! align= " center "  | Solvent 
+ ! align= " center "  | [[Chemical Formula]] 
+ ! align= " center "  | [[Boiling point]] 
+ ! align= " center "  | [[Dielectric constant]] 
+ ! align= " center "  | [[Density]] < !-- ### Non-Polar Solvents ### -- > 
+ |- bgcolor= " #DDDDDD " 
+ | align= " center "  colspan= " 5 "  | '''Non-Polar Solvents''' 
+ |- bgcolor= " #DDDDDD " 
+ | align= " center "  | [[Hexane]] 
+ | align= " center "  | CH < sub > 3 < /sub > -CH < sub > 2 < /sub > -CH < sub > 2 < /sub > -CH < sub > 2 < /sub > -CH < sub > 2 < /sub > -CH < sub > 3 < /sub > 
+ | align= " center "  | 69 °C 
+ | align= " center "  | 2.0 
+ | align= " center "  | 0.655 g/ml 
+ |- bgcolor= " #DDDDDD " 
+ | align= " center "  | [[Benzene]] 
+ | align= " center "  | C < sub > 6 < /sub > H < sub > 6 < /sub > 
+ | align= " center "  | 80 °C 
+ | align= " center "  | 2.3 
+ | align= " center "  | 0.879 g/ml 
+ |- bgcolor= " #DDDDDD " 
+ | align= " center "  | [[Toluene]] 
+ | align= " center "  | C < sub > 6 < /sub > H < sub > 5 < /sub > -CH < sub > 3 < /sub > 
+ | align= " center "  | 111 °C 
+ | align= " center "  | 2.4 
+ | align= " center "  | 0.867 g/ml 
+ |- bgcolor= " #DDDDDD " 
+ | align= " center "  | [[Diethyl ether]] 
+ | align= " center "  | CH < sub > 3 < /sub > CH < sub > 2 < /sub > -O-CH < sub > 2 < /sub > -CH < sub > 3 < /sub > 
+ | align= " center "  | 35 °C 
+ | align= " center "  | 4.3 
+ | align= " center "  | 0.713 g/ml 
+ |- bgcolor= " #DDDDDD " 
+ | align= " center "  | [[Chloroform]] 
+ | align= " center "  | CHCl < sub > 3 < /sub > 
+ | align= " center "  | 61 °C 
+ | align= " center "  | 4.8 
+ | align= " center "  | '''1.498 g/ml''' 
+ |- bgcolor= " #DDDDDD " 
+ | align= " center "  | [[Ethyl acetate]] 
+ | align= " center "  | CH < sub > 3 < /sub > -C(=O)-O-CH < sub > 2 < /sub > -CH < sub > 3 < /sub > 
+ | align= " center "  | 77 °C 
+ | align= " center "  | 6.0 
+ | align= " center "  | 0.894 g/ml 
+ |- bgcolor= " #DDDDDD " 
+ | align= " center "  | [[Dichloromethane]] 
+ | align= " center "  | CH < sub > 2 < /sub > Cl < sub > 2 < /sub > 
+ | align= " center "  | 40 °C 
+ | align= " center "  | 9.1 
+ | align= " center "  | '''1.326 g/ml'''  < !-- ### Polar Aprotic Solvents ### -- > 
+ |- bgcolor= " #FFCCFF " 
+ | align= " center "  colspan= " 5 "  | '''Polar Aprotic Solvents''' 
+ |- bgcolor= " #FFCCFF " 
+ | align= " center "  | [[1,4-Dioxane]] 
+ | align= " center "  |  < u > /-CH < sub > 2 < /sub > -CH < sub > 2 < /sub > -O-CH < sub > 2 < /sub > -CH < sub > 2 < /sub > -O-\ < /u > 
+ | align= " center "  | 101 °C 
+ | align= " center "  | 2.3 
+ | align= " center "  | '''1.033 g/ml''' 
+ |- bgcolor= " #FFCCFF " 
+ | align= " center "  | [[Tetrahydrofuran]] (THF) 
+ | align= " center "  |  < u > /-CH < sub > 2 < /sub > -CH < sub > 2 < /sub > -O-CH < sub > 2 < /sub > -CH < sub > 2 < /sub > -\ < /u > 
+ | align= " center "  | 66 °C 
+ | align= " center "  | 7.5 
+ | align= " center "  | 0.886 g/ml 
+ |- bgcolor= " #FFCCFF " 
+ | align= " center "  | [[Acetone]] 
+ | align= " center "  | CH < sub > 3 < /sub > -C(=O)-CH < sub > 3 < /sub > 
+ | align= " center "  | 56 °C 
+ | align= " center "  | 21 
+ | align= " center "  | 0.786 g/ml 
+ |- bgcolor= " #FFCCFF " 
+ | align= " center "  | [[Acetonitrile]] (MeCN) 
+ | align= " center "  | CH < sub > 3 < /sub > -C≡N 
+ | align= " center "  | 82 °C 
+ | align= " center "  | 37 
+ | align= " center "  | 0.786 g/ml 
+ |- bgcolor= " #FFCCFF " 
+ | align= " center "  | [[Dimethylformamide]] (DMF) 
+ | align= " center "  | H-C(=O)N(CH < sub > 3 < /sub > ) < sub > 2 < /sub > 
+ | align= " center "  | 153 °C 
+ | align= " center "  | 38 
+ | align= " center "  | 0.944 g/ml 
+ |- bgcolor= " #FFCCFF " 
+ | align= " center "  | [[Dimethyl sulfoxide]] (DMSO) 
+ | align= " center "  | CH < sub > 3 < /sub > -S(=O)-CH < sub > 3 < /sub > 
+ | align= " center "  | 189 °C 
+ | align= " center "  | 47 
+ | align= " center "  | '''1.092 g/ml''' < !-- ### Polar Protic Solvents ### -- > 
+ |- bgcolor= " #FFCCCC " 
+ | align= " center "  colspan= " 5 "  | '''Polar Protic Solvents''' 
+ |- bgcolor= " #FFCCCC " 
+ | align= " center "  | [[Acetic acid]] 
+ | align= " center "  | CH < sub > 3 < /sub > -C(=O)OH 
+ | align= " center "  | 118 °C 
+ | align= " center "  | 6.2 
+ | align= " center "  | '''1.049 g/ml''' 
+ |- bgcolor= " #FFCCCC " 
+ | align= " center "  | [[Butanol|''n''-Butanol]] 
+ | align= " center "  | CH < sub > 3 < /sub > -CH < sub > 2 < /sub > -CH < sub > 2 < /sub > -CH < sub > 2 < /sub > -OH 
+ | align= " center "  | 118 °C 
+ | align= " center "  | 18 
+ | align= " center "  | 0.810 g/ml 
+ |- bgcolor= " #FFCCCC " 
+ | align= " center "  | [[Isopropanol]] 
+ | align= " center "  | CH < sub > 3 < /sub > -CH(-OH)-CH < sub > 3 < /sub > 
+ | align= " center "  | 82 °C 
+ | align= " center "  | 18 
+ | align= " center "  | 0.785 g/ml 
+ |- bgcolor= " #FFCCCC " 
+ | align= " center "  | [[1-Propanol|''n''-Propanol]] 
+ | align= " center "  | CH < sub > 3 < /sub > -CH < sub > 2 < /sub > -CH < sub > 2 < /sub > -OH 
+ | align= " center "  | 97 °C 
+ | align= " center "  | 20 
+ | align= " center "  | 0.803 g/ml 
+ |- bgcolor= " #FFCCCC " 
+ | align= " center "  | [[Ethanol]] 
+ | align= " center "  | CH < sub > 3 < /sub > -CH < sub > 2 < /sub > -OH 
+ | align= " center "  | 79 °C 
+ | align= " center "  | 24 
+ | align= " center "  | 0.789 g/ml 
+ |- bgcolor= " #FFCCCC " 
+ | align= " center "  | [[Methanol]] 
+ | align= " center "  | CH < sub > 3 < /sub > -OH 
+ | align= " center "  | 65 °C 
+ | align= " center "  | 33 
+ | align= " center "  | 0.791 g/ml 
+ |- bgcolor= " #FFCCCC " 
+ | align= " center "  | [[Formic acid]] 
+ | align= " center "  | H-C(=O)OH 
+ | align= " center "  | 100 °C 
+ | align= " center "  | 58 
+ | align= " center "  | '''1.21 g/ml''' 
+ |- bgcolor= " #FFCCCC " 
+ | align= " center "  | [[Water (molecule)|Water]] 
+ | align= " center "  | H-O-H 
+ | align= " center "  | 100 °C 
+ | align= " center "  | 80 
+ | align= " center "  | 1.000 g/ml 
+ |} 
+ 
+ == Other websites == 
+ * [http://www.usm.maine.edu/~newton/Chy251_253/Lectures/Solvents/Solvents.html Table and text] {{Webarchive|url=https://web.archive.org/web/20041113054037/http://www.usm.maine.edu/~newton/Chy251_253/Lectures/Solvents/Solvents.html |date=2004-11-13 }} O-Chem Lecture 
+ * [http://virtual.yosemite.cc.ca.us/smurov/orgsoltab.htm Tables] {{Webarchive|url=https://web.archive.org/web/20041207190740/http://virtual.yosemite.cc.ca.us/smurov/orgsoltab.htm |date=2004-12-07 }} Properties and toxicities of organic solvents 
+ * [http://www.phenomenex.com/phen/Doc/z366.pdf Miscibility Table] {{Webarchive|url=https://web.archive.org/web/20070226115919/http://www.phenomenex.com/phen/Doc/z366.pdf |date=2007-02-26 }} Phenomex Solvent Miscibility Table (includes Polarity Index) 
+ * [http://www.gls.co.jp/english/pdf/83.PDF Miscibility Table] {{Webarchive|url=https://web.archive.org/web/20061110182812/http://www.gls.co.jp/english/pdf/83.PDF |date=2006-11-10 }} GLS Solvent Miscibility Table (includes Dielectric Constant) 
+ * [https://chem-123.blogspot.com/2019/06/solvent-definition-chemistry.html Solvent definition] 
+ 
+ {{Chemical solutions}} 
+ 
+ [[Category:Chemistry]]

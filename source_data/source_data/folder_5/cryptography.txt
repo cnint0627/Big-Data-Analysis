@@ -1,0 +1,42 @@
+[[File:Al-kindi cryptographic.png|thumb|Al-Kindi discusses decryption of messages: 8th century]] 
+ [[File:Lorenz-SZ42-2.jpg|thumb|The [[Lorenz cipher]] machine as used in [[WWII]]]] 
+ [[File:Symmetric key encryption.svg|thumb|upright=1.10|alt=diagram showing encrypt with a key and decrypt process|Symmetric-key cryptography, where a single key is used for encryption and decryption]] 
+ 
+ '''Cryptography''', < ref > The word comes from [[Ancient Greek|Greek]] {{lang|grc|κρυπτός}}, ''kryptos'',  " hidden, secret " ; and {{lang|grc|γράφω}}, ''gráphō'',  " I write " , or {{lang|grc|-λογία}}, ''logia'', respectively)Liddell and Scott's Greek-English Lexicon. Oxford University Press. (1984) < /ref >  or '''cryptology''',  is the practice and [[Research|study]] of hiding [[information]]. It is sometimes called [[code]], but this is not really a correct name. It is the [[science]] used to try to keep [[information]] secret and safe.  
+ 
+ Modern cryptography is a mix of [[mathematics]], [[computer science]], and [[electrical engineering]]. Cryptography is used in [[automated teller machine|ATM (bank) cards]], [[password|computer passwords]], and [[electronic commerce|shopping on the internet]]. 
+ 
+ When a message is sent using cryptography, it is changed (or ''[[encryption|encrypted]]'') before it is sent. The method of changing text is called a  " code "  or, more precisely, a  " [[cipher]] " . The changed text is called  " [[ciphertext]] " . The change makes the message hard to read. Someone who wants to read it must change it back (or ''[[decryption|decrypt]]'' it).  How to change it back is a [[secret]].  Both the person that sends the message and the one that gets it should know the secret way to change it, but other people should not be able to. Studying the cyphertext to discover the secret is called  " [[cryptanalysis]] "  or  " cracking "  or sometimes  " code breaking " . < ref > Kahn, David 1967. ''The Codebreakers – the story of secret writing''. {{ISBN|0-684-83130-9}} < /ref > < ref > Newton, David E. 1997. ''Encyclopedia of cryptology''. Instructional Horizons, Santa Barbara, p58. {{ISBN|1-85109-323-0}} < /ref > 
+ 
+ Different types of cryptography can be easier or harder to use and can hide the secret message better or worse. Ciphers use a  " [[Key (cryptography)|key]] "  which is a secret that hides the secret messages. The cryptographic method needn't be secret. Various people can use the same method but different keys, so they cannot read each other's messages. Since the [[Caesar cipher]] has only as many keys as the number of letters in the [[alphabet]], it is easily cracked by trying all the keys. Ciphers that allow billions of keys are cracked by more complex methods. 
+ 
+ Since the time of Caesar, many improved cyphers have been made.  Some involved clever mathematics to resist clever [[cryptanalysis]].  During the 20th century computers became the principle tool of cryptography. 
+ 
+ == Symmetric == 
+ In a [[symmetric-key algorithm]], both the sender and receiver share the key. The sender uses the key to hide the message. Then, the receiver will use the same key in the opposite way to reveal the message. For centuries, most cryptography has been symmetric. [[Advanced Encryption Standard]] is a widely used one. However this is not to be confused with symmetry. 
+ 
+ == Asymmetric == 
+ [[public-key cryptography|Asymmetric cryptography]] is harder to use. Each person who wants to use asymmetric cryptography uses a secret number (a  " private key " ) that is not shared, and a different number (a  " public key " ) that they can tell everyone. If someone else wants to send this person a message, they'll use the number they've been told to hide the message. Now the message cannot be revealed, even by the sender, but the receiver can easily reveal the message with his secret or  " private key " . This way, nobody else needs to know the secret key. 
+ 
+ Asymmetric cryptography generally takes more time and requires more computer power, < ref > {{Cite web|url=https://www.cryptopp.com/benchmarks.html|title=Speed Comparison of Popular Crypto Algorithms|website=www.cryptopp.com|access-date=2019-10-06}} < /ref >  therefore it is not used most of the time.  Instead, it is often used for [[computer]] [[signature]]s, when a computer must know that some data (like a file or a website) was sent from a certain sender. For example, computer [[software]] companies that release updates for their software can sign those updates to prove that the update was made by them, so that [[hacker]]s cannot make their own updates that would cause harm. Websites that use [[Hypertext Transfer Protocol|HTTPS]] use an popular algorithm named [[RSA algorithm|RSA]] to create certificates, that show they own the website and that it is secure. Computers can also use asymmetric ciphers to give each other the keys for symmetric ciphers. 
+ 
+ == Computers == 
+ Computers can calculate quickly. They can do very strong encryption, and most 21st century cryptography uses them. Examples are computer [[algorithm]]s like [[RSA algorithm|RSA]], [[AES]], and there are many others.  Using good algorithms like these can make it very hard to read the information that is sent. 
+ 
+ == People == 
+ Because people are slower than computers, any cryptography they use can probably be broken if enough of the secret way to change it is known. 
+ 
+ Simple forms of cryptography that people can do without machines are [[Caesar cipher]]s and transposition ciphers, but many other kinds were used before computers were used. < ref > {{Cite web|url=http://practicalcryptography.com/ciphers/classical-era/|title=Practical cryptography|first=|last=|website=|publisher=|accessdate=|archive-date=2017-01-08|archive-url=https://web.archive.org/web/20170108054636/http://practicalcryptography.com/ciphers/classical-era/|url-status=dead}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://blog.eukhost.com/2006/10/19/importance-of-cryptography-in-degital-world/ Importance of cryptography] {{Webarchive|url=https://web.archive.org/web/20070310152000/http://blog.eukhost.com/2006/10/19/importance-of-cryptography-in-degital-world/ |date=2007-03-10 }} 
+ * [http://blog.webhosting.uk.com/2006/11/03/symmetric-cryptography/ What is symmetric cryptography] {{Webarchive|url=https://web.archive.org/web/20061126210537/http://blog.webhosting.uk.com/2006/11/03/symmetric-cryptography/ |date=2006-11-26 }} 
+ * [http://en.citizendium.org/wiki/Cryptography Cryptography] -Citizendium 
+ 
+ [[Category:Cryptography| ]] 
+ [[Category:Computer security]] 
+ [[Category:Computer science]] 
+ [[Category:Human communication]]

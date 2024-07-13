@@ -1,0 +1,33 @@
+{{Taxobox 
+ | image= 
+ | name = ''Neurospora'' 
+ | regnum = [[Fungus|Fungi]] 
+ | phylum = [[Ascomycota]] 
+ | classis = [[Ascomycetes]] 
+ | ordo = [[Sordariales]] 
+ | genus = '''''Neurospora''''' 
+ | genus_authority = Shear  &  B.O. Dodge, 1927 
+ | subdivision_ranks = Species 
+ | subdivision =  
+ }} 
+ 
+ '''''Neurospora''''' is a [[genus]] of [[Ascomycete]] [[fungi]]. The best known species in this genus is '''''Neurospora crassa''''', a common [[model organism]] in [[genetics]] and [[molecular biology]]. 
+ 
+ The first published account of this fungus was from an infestation of French bakeries in 1843. < ref > Davis and Perkins. 2002. Neurospora: a model of model microbes. ''Nature Reviews Genetics''   '''3''' (5) pp. 397-403 [http://www.nature.com/nrg/journal/v3/n5/full/nrg797.html] < /ref > 
+ 
+ ''N. crassa'' is used as a [[model organism]] because it is easy to grow and has a [[haploid]] life cycle that makes [[genetics|genetic]] analysis simple since recessive traits will show up in the offspring. Analysis of genetic recombination is facilitated by the ordered arrangement of the products of [[meiosis]] in ''Neurospora'' [[ascospores]]. Its entire [[genome]] of seven [[chromosome]]s has been sequenced. < ref > [http://www.nih.gov/science/models/neurospora/ Trans-NIH Neurospora Initiative] < /ref > 
+ 
+ ''Neurospora'' was used by [[Edward Tatum]] and [[George Wells Beadle]] in their experiments for which they won the [[Nobel Prize in Physiology or Medicine]] in 1958. Beadle and Tatum exposed ''N. crassa'' to x-rays, causing [[mutations]]. They then observed failures in [[metabolic pathway]]s caused by errors in specific [[enzyme]]s. This led them to propose the  " one gene, one enzyme "  hypothesis that specific [[gene]]s code for specific [[protein]]s.  Their hypothesis was later elaborated to enzyme pathways by [[Norman Horowitz (geneticist)|Norman Horowitz]], also working on ''Neurospora''. 
+ 
+ In the 24 April 2003 issue of ''Nature'', the [[genome]] of ''N. crassa'' was reported as completely [[DNA sequencing|sequenced]]. < ref name=Galaganetal2003 > Galagan J. ''et al.'' 2003. The genome sequence of the filamentous fungus ''Neurospora crassa''. ''Nature'' '''422''', 859-868. < /ref >  The genome is about 43 megabases long and includes approximately 10,000 genes. There is a project underway to produce strains containing [[gene knockout|knockout]] mutants of every ''N. crassa'' gene. < ref name=Colotetal2006 > Colot H.V. ''et al.'' 2006. A high-throughput gene knockout procedure for ''Neurospora'' reveals functions for multiple transcription factors. ''Proceedings of the National Academy of Sciences USA'' '''103''', 10352-10357. < /ref > 
+ 
+ In its natural environment, ''N. crassa'' lives mainly in tropical and sub-tropical regions. It can be found growing on dead plant matter after fires. Neurospora is actively used in research around the world. It is important in the elucidation of molecular events involved in [[circadian]] rhythms, [[epigenetics]] and [[gene silencing]], [[cell polarity]], [[cell fusion]], development, as well as many aspects of cell biology and biochemistry. 
+ 
+ Strains and other materials for working with Neurospora are available from the 
+ [http://www.fgsc.net Fungal Genetics Stock Center] {{Webarchive|url=https://web.archive.org/web/20061001215555/http://www.fgsc.net/ |date=2006-10-01 }} 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Fungi]] 
+ [[Category:Model organisms]]

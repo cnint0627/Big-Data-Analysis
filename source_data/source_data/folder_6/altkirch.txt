@@ -1,0 +1,151 @@
+{{Infobox French commune 
+ |name                   = Altkirch  
+ |commune status         = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image coat of arms     = Blason Altkirch France Haut-Rhin.svg 
+ |image                  = Altkirch1.jpg 
+ |caption                = Historic centre of Altkirch. 
+ |arrondissement         = Altkirch 
+ |canton                 = Altkirch 
+ |INSEE                  = 68004 
+ |postal code            = 68130 
+ |population demonym     = Altkirchois 
+ |mayor                  = Nicolas Jander 
+ |term                   = 2017-2020 
+ |intercommunality       = Altkirch et Environs 
+ |coordinates            = {{coord|47.62|7.24|format=dms|display=inline,title}} 
+ |elevation m            = 333 
+ |elevation min m        = 274 
+ |elevation max m        = 392 
+ |area km2               = 9.54 
+ |population             = 5738 
+ |population date        = 2014 
+ }} 
+ '''Altkirch''' is a [[Communes of France|commune]] in [[Alsace]] in north-eastern [[France]], in the [[Haut-Rhin]] [[Departments of France|department]], of which it is a [[Subprefectures in France|subprefecture]]. It is in the [[Grand Est]] [[Regions of France|region]]. Its name comes from the [[German language|German]] ''Alte Kirche'' ( " old church " ). 
+ 
+ ==Geography== 
+ Altkirch is in the south of the Haut-Rhin department. The [[Ill (France)|Ill]] [[river]], a left [[tributary]] of the [[Rhine River|Rhine]] river, flows through the ''commune''. 
+ 
+ It has an area of {{Convert|9.5|km2|sqmi|abbr=on }}. < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-68004 |title=Commune d’Altkirch (68004) |work=Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=18 December 2017 }} < /ref >  Its average [[altitude]] is {{Convert|333|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|290|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Altkirch-68130/ |title=City of Altkirch |publisher=Map-France.com |access-date=18 December 2017 }} < /ref > 
+ 
+ The distances from Altkirch to other cities are: < ref name= " mairie " > {{cite web |work=Annuaire-Mairie.fr |title=Ville d'Altkirch |url=https://www.annuaire-mairie.fr/ville-altkirch.html |language=fr |access-date=18 December 2017}} < /ref > 
+ * [[Paris]], the national capital - {{Convert|538|km|mi|abbr=on }}; 
+ * [[Strasbourg]], the regional capital - {{Convert|137|km|mi|abbr=on }}; 
+ * [[Marseille]] - {{Convert|694|km|mi|abbr=on }}; 
+ * [[Lyon]] - {{Convert|384|km|mi|abbr=on }}; 
+ * [[Reims]] - {{Convert|428|km|mi|abbr=on }}; 
+ * [[Bordeaux]] - {{Convert|860|km|mi|abbr=on }}; 
+ * [[Toulouse]] - {{Convert|919|km|mi|abbr=on }}; 
+ * [[Montpellier]] - {{Convert|680|km|mi|abbr=on }}; 
+ * [[Nice]] - {{Convert|680|km|mi|abbr=on }}. 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Altkirch and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 68004.png|350px|Map of the ''commune'' of Altkirch]] 
+ |} 
+ < /center > 
+ 
+ The ''commune'' of Altkirch is surrounded by the ''communes'': 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Altkirch 
+ |North     = [[Aspach, Haut-Rhin|Aspach]] 
+ |Northeast = [[Walheim, Haut-Rhin|Walheim]] 
+ |East      = [[Wittersdorf]] 
+ |Southeast = [[Wittersdorf]] 
+ |South     = [[Hirsingue]] 
+ |Southwest = [[Hirtzbach]] 
+ |West      = [[Carspach]] 
+ |Northwest = [[Carspach]] 
+ }} 
+ 
+ ===Climate=== 
+ The climate of Altkirch, in the [[Köppen climate classification]], is '''Cfb''' - [[Oceanic climate]] with template summers. < ref name= " mairie "  / > 
+ 
+ ==Population== 
+ The inhabitants of Altkirch are known, in [[French language|French]], as ''Altkirchois'' (women: ''Altkirchoises''). < ref > {{cite web|url=https://www.habitants.fr/haut-rhin-68 |title=Habitants du départment: Haut-Rhin|publisher=habitants.fr |language=fr |access-date=22 December 2017 }} < /ref > 
+ 
+ With a population of 5,738, < ref name=insee2 > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep68.pdf |title=Régions, départements, arrondissements, cantons et communes |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=fr |access-date=22 December 2017}} < /ref >  Altkirch has a [[population density]] of {{Pop density|5738|9.54|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Altkirch''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:6000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:1000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:500 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2004 text:2004 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 5118 
+  bar:1975 from:0 till: 5319 
+  bar:1982 from:0 till: 5268 
+  bar:1990 from:0 till: 5090 
+  bar:1999 from:0 till: 5386 
+  bar:2004 from:0 till: 5526 
+  bar:2014 from:0 till: 5738 
+ 
+ PlotData= 
+  bar:1968 at: 5118 fontsize:S text: 5,118 shift:(-12,12) 
+  bar:1975 at: 5319 fontsize:S text: 5,319 shift:(-15,5) 
+  bar:1982 at: 5268 fontsize:S text: 5,268 shift:(-15,5) 
+  bar:1990 at: 5090 fontsize:S text: 5,090 shift:(-15,5) 
+  bar:1999 at: 5386 fontsize:S text: 5,386 shift:(-15,5) 
+  bar:2004 at: 5526 fontsize:S text: 5,526 shift:(-15,5) 
+  bar:2014 at: 5738 fontsize:S text: 5,738 shift:(-15,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Administration== 
+ Altkirch is a [[Subprefectures in France|subprefecture]] in the [[Haut-Rhin]] department since 1800. It is the capital of the [[Arrondissement of Altkirch|Altkirch]] ''arrondissement'' and is also the [[administrative centre]] ({{lang-fr|chef-lieu}}) of the ''canton'' of [[Canton of Altkirch|Altkirch]] formed by 64 ''communes'', with 47,552 inhabitants (2014). < ref name=insee1 > {{cite web|url=https://www.insee.fr/fr/metadonnees/cog/commune/COM68004-altkirch |title=Commune d’Altkirch (68004)  |work= Géographie administrative et d’étude |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=22 September 2017 }} < /ref > 
+ 
+ === Twin towns === 
+ Altkirch is [[Twin town|twinned]] with: 
+ * {{flagicon|FRA}} [[Le Thor]], [[France]], since 1991 
+ * {{flagicon|ITA}} [[San Daniele del Friuli]], [[Italy]], since 1994 
+ * {{flagicon|Azerbaijan}} [[Füzuli]], [[Azerbaijan]], since 2016 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Altkirch.jpg|Aerial view of Altkirch. 
+ File:Altkirch Hôtel de Ville 2.jpg|[[City and town halls|Town hall]] of Altkirch. 
+ File:Altkirch, Eglise Notre-Dame de l'Assomption.jpg|''Notre-Dame de l'Assomption'' [[church]]. 
+ File:Synagogue d'Altkirch.JPG|[[Synagogue]] of Altkirch. 
+ File:Altkirch, Temple protestant.jpg|[[Protestantism|Protestant]] [[temple]] of Altkirch. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Altkirch]] 
+ * [[Communes of the Haut-Rhin department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat}} 
+ * [http://www.mairie-altkirch.fr/ Ville d' Altkirch - Official site] {{in lang|fr}} 
+ 
+ [[Category:Communes in Haut-Rhin]] 
+ [[Category:Subprefectures in France]]

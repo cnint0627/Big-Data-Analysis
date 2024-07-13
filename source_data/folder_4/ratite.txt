@@ -1,0 +1,55 @@
+{{Taxobox 
+ |name = Ratites 
+ |image = 
+ |image_width = 258px 
+ |image_caption = Various ratite birds 
+ |regnum = [[Animal]]ia 
+ |phylum = [[Chordate|Chordata]] 
+ |classis = [[Aves]] 
+ |superordo = [[Paleognathae]] 
+ |ordo = '''Struthioniformes'''[[paraphyly|*]] 
+ |ordo_authority = [[John Latham (ornithologist)|Latham]], 1790 
+ |subdivision_ranks = Families 
+ |subdivision = 
+ [[Ostrich|Struthionidae]] (ostriches) < br / > 
+ [[Rhea (bird)|Rheidae]] (rheas) < br / > 
+ [[Casuariidae]] ([[emu]]s etc.) < br / > 
+ †[[Elephant Bird|Aepyornithidae]] ([[elephant bird]]s) < br / > 
+ †[[Moa|Dinornithidae]] (moa) < br / > 
+ [[Kiwi|Apterygidae]] (kiwis) 
+ }} 
+ 
+ The '''ratites''' are a group of medium to large birds, most of which are flightless. Most of them, including the largest ([[moa]]s and [[elephant bird]]s) are now [[extinct]].  
+ 
+ Unlike other [[flightless birds]], the ratites have no keel on their [[sternum]]. In a flying bird the sternum anchors the wing muscles.  
+ 
+ Most parts of the former super-[[continent]] [[Gondwana]] have ratites, < ref > Gondwana included the [[southern hemisphere]] continents plus [[Africa]], [[Madagascar]], [[Arabia]] and the [[Indian subcontinent]]. < /ref >  or did have until the fairly recent past. Their closest living relatives are the [[tinamou]]s of [[South America]]. < ref name=Haddrath > {{cite journal 
+ |last=Haddrath O.  &  Baker A. 2001 |title=Complete mitochondrial DNA genome sequences of extinct birds: Ratite phylogenetics and the vicariance biogeography hypothesis|journal=Proc. R. Soc. Lond. B|year=2001|volume=268|pages=939–945 |url=https://dx.doi.org/10.1098/rspb.2001.1587|doi=10.1098/rspb.2001.1587 |pmid=11370967 |issue=1470 |pmc=1088691}} < /ref > < ref name=Cooper > {{cite journal 
+ |last1=Cooper A. ''et al'' 2001 |title=Complete mitochondrial genome sequences of two extinct moas clarify ratite evolution|journal=Nature|year=2001|volume=409|pages=704–707 |url=http://www.nature.com/nature/journal/v409/n6821/abs/409704a0.html|doi=10.1038/35055536|accessdate=2008-04-05|pmid=11217857|issue=6821|bibcode=2001Natur.409..704C|s2cid=4430050}} < /ref > 
+ 
+ The classification used here includes all ratites in the order Struthioniformes, but not the tinamous. This may change in future. 
+ 
+ == Evolution and systematics == 
+ [[File:Kiwi, ostrich, Dinornis.jpg|thumb|Comparison of a [[kiwi]], [[ostrich]], and ''[[Dinornis]]'', each with its egg]]  
+ It was once thought that ratites were all one [[monophyletic]] group, which evolved together in Gondwana in the [[Upper Cretaceous]]. Then they evolved in their separate ways as Gondwana split up, and the parts drifted apart. The parts became the modern southern continents, plus [[Africa]] and the [[Indian subcontinent]]. 
+ 
+ However, modern [[Sequence analysis|gene analysis]] conflicts with this. [[DNA]] analysis shows that the ratites diverged from one another too recently to share a common Gondwanian ancestor. However, all analyses show that [[Rhea (bird)|rheas]] (South America) and the living [[Australasia]]n/[[Oceania]]n ratites ''are'' monophyletic.  
+ 
+ Recent analysis of twenty [[Cell nucleus|nuclear]] genes suggests that the flighted [[tinamou]]s cluster within the ratite lineage. The timamids are the sister group of the Australo-Pacific ratites. < ref name =Harshman > {{cite journal 
+ |last=Harshman J. ''et al'' 2008 |title=Phylogenetic evidence for multiple losses of flight in Ratite birds |journal=Proceedings of the National Academy of Sciences (USA)|year=2008 |volume=105|issue=36|pages=13462–13467 |doi=10.1073/pnas.0803242105|pmid=18765814|pmc=2533212|bibcode=2008PNAS..10513462H |doi-access=free }} < /ref > 
+ 
+ If so, this would make 'ratites', as a whole, [[paraphyletic]] rather than monophyletic. < ref name=Harshman/ > < ref > {{cite journal 
+ |last = Hackett, Shannon J. ''et al'' 2008 
+ |title = A phylogenomic study of birds reveals their evolutionary history |journal = Science |year = 2008 |volume = 320 |issue = 5884 |pages = 1763–1768 |url = http://www.sciencemag.org/cgi/content/abstract/320/5884/1763 |doi = 10.1126/science.1157704  |accessdate = 2008-10-18 |pmid = 18583609|bibcode = 2008Sci...320.1763H |s2cid = 6472805 }} < /ref >  Since tinamous are weak fliers, this raises interesting questions about the evolution of flightlessness in this group. If timamous are inside the ratite lineage, then ratites evolved flightlessness at least three times. < ref name=Harshman/ > < ref > {{cite web| url= https://www.newscientist.com/article/dn14212-bird-evolutionary-tree-given-a-shake-by-dna-study.html| title=Bird evolutionary tree given a shake by DNA study | accessdate=2009-02-04 | last=Holmes, Bob 2008 | work=New Scientist }} < /ref >  Re-evolution of flight in the tinamous would be an alternative explanation, but that has no [[wikt:precedent|precedent]] in bird evolution, while loss of flight is commonplace. < ref name=Harshman/ > 
+ 
+ == Simple summary == 
+ Tinamous are ratites. Therefore, ratites are a group of medium to large birds, most of whom are flightless, with the exception of the tinamous. The ratites evolved flightlessness more than once. The similarities between [[ostrich]]es and the Australo-Pacific ratites is due to [[convergent evolution]]. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ 
+ [[Category:Ratites| ]] 
+ [[Category:Flightless birds]] 
+ [[Category:Struthioniformes|*]]

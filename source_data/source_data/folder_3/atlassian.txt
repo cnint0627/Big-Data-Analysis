@@ -1,0 +1,42 @@
+{{Infobox company 
+ | name = Atlassian Corporation Plc 
+ | type = [[Public company|Public]] 
+ | logo = Atlassian-logo.svg 
+ | traded_as = {{ubl|class=nowrap|{{NASDAQ|TEAM}} (Class A)|[[NASDAQ-100]] component}} 
+ | industry = [[Software]] 
+ | foundation = {{start date and age|2002|df=yes}} < br > [[Sydney]], Australia 
+ | founders = [[Mike Cannon-Brookes]] < br > [[Scott Farquhar]] 
+ | hq_location_city = [[Sydney]] 
+ | hq_location_country = Australia 
+ | key_people = Mike Cannon-Brookes < br > Scott Farquhar (Co-Founders  &  CEOs) 
+ | revenue = $1.61 & nbsp;billion (July 2020) < ref name= " revenue " > {{Cite web | url = https://investors.atlassian.com/financials-and-filings/news/news-details/2020/Atlassian-Announces-Fourth-Quarter-and-Fiscal-Year-2020-Results/default.aspx | title = Atlassian Announces Fourth Quarter and Fiscal Year 2020 Results | publisher = Atlassian Corporation Plc |year = 2020 | access-date = 1 August 2020 }} < /ref > 
+ | num_employees = 4,907 (July 2020) < ref name= " employees " > {{Cite web | url = https://s2.q4cdn.com/141359120/files/doc_financials/2020/q4/TEAM-IR-Data-Sheet-Q4'20_vF.pdf | title = Investor Relations Data Sheet | publisher = Atlassian Corporation Plc | year = 2019 | access-date = 1 September 2019 }} < /ref > 
+ | website = {{URL|atlassian.com}} 
+ }} 
+ '''Atlassian Corporation''' is an [[Australia]]n [[software]] development company for the IT industry. It is best known for its JIRA and Confluence bug tracking system. The company is headquartered in [[Seattle]], [[USA]]. In total, the company has nine offices in six countries and serves more than 100,000 customers.  
+ 
+ == History == 
+ The company name comes from [[Atlas (mythology)|Atlas]] ({{lang-el|λτλας}}), a character from [[Greek mythology]]. Until 2017, the company's logo looked like an X-shaped figure supporting the sky. However, in 2017, the logo was changed to a modern one because, according to the designers,  " The previous version of the logo was inspired by Atlas, and an example of legendary service and support. 
+ 
+ Atlassian was founded in 2002 by two students from the [[University of New South Wales]], Mike Cannon-Brooks and Scott Farkuhar. < ref > {{Cite web|date=2013-12-04|title=From Uni dropouts to software magnates|url=http://www.smh.com.au/small-business/entrepreneur/from-uni-dropouts-to-software-magnates-20100715-10bsm.html|access-date=2021-01-25|archive-url=https://web.archive.org/web/20131204162406/http://www.smh.com.au/small-business/entrepreneur/from-uni-dropouts-to-software-magnates-20100715-10bsm.html |archive-date=2013-12-04 }} < /ref >  They both left training to work on the project. The start-up capital was only 10 thousand dollars. < ref > {{Cite web|date=2013-05-17|title=Hard yakka: Why Atlassian's founders are the pride of Australia's startup world {{!}} PandoDaily|url=http://pandodaily.com/2013/04/26/hard-yakka-why-atlassians-founders-are-the-pride-of-australias-startup-world/|access-date=2021-01-25|archive-url=https://web.archive.org/web/20130517184925/http://pandodaily.com/2013/04/26/hard-yakka-why-atlassians-founders-are-the-pride-of-australias-startup-world/ |archive-date=2013-05-17 }} < /ref > 
+ 
+ Atlasian released its first product, JIRA (bug tracking and [[project management]] system), in 2002, and on April 25, 2004, they released Confluence, a platform for collaboration, dissemination of documentation and knowledge based on wiki technology. 
+ 
+ In 2007, Atlassian released Bamboo, a server for continuous integration and delivery, and acquired Cenqua, another Australian IT company, along with its software products FishEye (version [[control system]]), Crucible (code viewer) and Clover (software for Java code testing, in April 2017 Atlassian closed it, and made the code public).  
+ 
+ In July 2010, Atlassian received a $60 million investment from investment company Accel Partners. < ref > {{Cite news|last=Tam|first=Pui-Wing|date=2010-07-14|title=Accel Invests $60 Million in Atlassian|language=en-US|work=Wall Street Journal|url=https://www.wsj.com/articles/BL-DGB-16382|access-date=2021-01-25|issn=0099-9660}} < /ref > 
+ 
+ In 2011, the company's revenue reached $102 million, and in 2014 it was $215 million. 
+ 
+ In 2015, Atlassian made an [[initial public offering]] on the [[NASDAQ]] and its capitalization was estimated at $4.37 billion.  
+ 
+ == References == 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [https://www.atlassian.com Official website] 
+ 
+ [[Category:2000s establishments in Australia]] 
+ [[Category:2002 establishments]] 
+ [[Category:Companies of Australia]] 
+ [[Category:Software]]

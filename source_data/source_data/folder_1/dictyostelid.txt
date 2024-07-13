@@ -1,0 +1,62 @@
+{{Automatic taxobox 
+ | image = Dictyostelium discoideum 02.jpg 
+ | image_caption = ''[[Dictyostelium discoideum]]'' 
+ | name = Dictyostelids 
+ | parent_authority = Lister 1909, emend. Olive 1970 
+ | taxon = Dictyosteliida 
+ | display_parents = 2 
+ | subdivision_ranks = Families  &  genera 
+ | subdivision =  
+ [[Dictyosteliidae]] 
+ < br/ > & nbsp; & nbsp; & nbsp; ''[[Dictyostelium]]'' 
+ < br/ > & nbsp; & nbsp; & nbsp; ''[[Polysphondylium]]'' 
+ < br/ > & nbsp; & nbsp; & nbsp; ''[[Coenonia (slime mold)|Coenonia]]'' 
+ < br/ > & nbsp; & nbsp; & nbsp; ''†[[Myxomitodes]]'' 
+ < br/ > [[Actyosteliidae]] 
+ < br/ > & nbsp; & nbsp; & nbsp; ''[[Acytostelium]]'' 
+ }} 
+ [[File:Dictyostelium.jpg|thumb|A [[petri dish]] of ''Dictyostelium'']] 
+ 
+ The '''dictyostelids''' are a group of cellular [[slime mold]]s, or  " social [[amoeba]]e " . They are unusual [[eukaryote]] organisms. For much of their life they live as separate cells. Then in hard times they come together to reproduce as a fruiting body. The fruiting body produces [[spores]] with protective walls. They survive and open up in better times. So these organisms are both [[unicellular]] and [[multicellular]]. 
+ 
+ As separate amoebae, they feed and divide normally. They mostly eat [[soil]] [[bacteria]]. When the food supply runs out, they come together to form a kind of [[slug]]-like thing. The slug has a definite front and rear. It responds to light and temperature differences, and can move. Under the right conditions the slug becomes a [[Sporocarp (fungi)|sporocarp]] (fruiting body). A stalk holds up one or more balls of [[spores]].  These spores are inactive cells protected by tough cell walls. They become new amoebae when food is available. 
+ 
+ ''Dictyostelium'' has been used as a [[model organism]] in [[molecular biology]] and [[genetics]]. It is studied as an example of [[cell communication]], [[Cellular differentiation|differentiation]], and [[programmed cell death]] ([[apoptosis]]). Research on ''Dictyostelium'' is available on-line at dictyBase. < ref > [http://wiki.dictybase.org/dictywiki/index.php/Main_Page dictyBase] < /ref > 
+ 
+ [[Image:Dicty Life Cycle H01.svg|thumb|center|400px|Life cycle of ''Dictyostelium'']] 
+ 
+ == Aggregation in ''Dictyostelium'' == 
+ The aggregation of the amoebae relies on a signal molecule. One cell, the founder of the colony, begins to secrete the signal in response to stress. Others detect the signal, and respond in two ways: 
+ *The amoeba moves towards the signal. 
+ *The amoeba secretes more signal. 
+ The effect of this is to relay the signal through the nearby population of amoebae. They move to the area of highest signal concentration. 
+ 
+ == Discovery and classification == 
+ They were first discovered in a [[North Carolina]] forest in 1935. ''Dictyostelium discoideum'' was at first classified under 'lower fungi'. < ref name= " Cavender " > {{cite journal |author1=Cavender J.C. |author2=Spiegl F. |author3=Swanson A. | year = 2002 | title = Taxonomy, slime molds, and the questions we ask | url = | journal = The Mycological Society of America | volume =  94| issue = 6| pages = 968–979 |pmid=21156570}} < /ref >   Later it was put in the kingdoms [[Protista]] and [[Fungi]]. By the 1990s, most scientists accepted the present classification. 
+ 
+ Amoebozoa are now regarded as a separate kingdom-level [[clade]], being more closely related to both animals and fungi than to plants. < ref name=Eichinger2005/ > 
+ 
+ == Genome == 
+ The entire genome of ''Dictyostelium discoideum'' was published in ''[[Nature (journal)|Nature]]'' in 2005. < ref name=Eichinger2005 > {{cite journal| author = Eichinger L. | display-authors = etal| year = 2005| title = The genome of the social amoeba ''Dictyostelium discoideum''| journal = Nature| volume = 435| issue = 7038| pages = 43–57| doi = 10.1038/nature03481| pmid = 15875012| pmc = 1352341}} < /ref >   The [[haploid]] [[genome]] contains about 12,500 genes on six [[chromosomes]].  For comparison, the diploid [[human genome]] has 20,000{{ndash}}25,000 genes (represented twice) on 23 chromosome pairs. 
+ 
+ == Sexual reproduction == 
+ Sexual development can occur when amoeboid cells are starved of their bacterial food supply and in the dark. < ref name= " pmid20617172 " > {{cite journal |author=Flowers J.M. | display-authors = etal |title=Variation, sex, and social cooperation: molecular population genetics of the social amoeba Dictyostelium discoideum |journal=PLOS Genet. |volume=6 |issue=7 |pages=e1001013 |date=2010  |pmid=20617172 |pmc=2895654 |doi=10.1371/journal.pgen.1001013 }} < /ref > < ref name= " pmid21929567 " > {{cite journal |author=O'Day D.H.  &  Keszei A. |title=Signalling and sex in the social amoebozoans |journal=Biol Rev Camb Philos Soc |volume=87 |issue=2 |pages=313–29 |date=2012  |pmid=21929567 |doi=10.1111/j.1469-185X.2011.00200.x |s2cid=205599638 |url=http://onlinelibrary.wiley.com/resolve/openurl?genre=article & sid=nlm:pubmed & issn=1464-7931 & date=2012 & volume=87 & issue=2 & spage=313}} < /ref > 
+ 
+ Mating starts by [[gametogenesis]]. This produces small, mobile gametes that fuse to form a small binucleate cell.  The volume of the binucleate cell then increases to produce a giant binuclear cell.  As growth proceeds, the nuclei swell, and then fuse forming a true diploid zygote giant cell.  As this is occurring, amoebae undergo chemotaxis towards the giant cell surface. The [[zygote]] giant cell ingests the surrounding amoebae, and digests them. Next the zygote forms a macrocyst which stays dormant for a time before germination occurs. < ref > Nickerson A.W.  &  Raper K.B. 1973. Macrocysts in the life cycle of Dictyostelliaceae II. Germination of the macrocysts. ''Amer. J. Bot''.  60(3): 247-254. < /ref >  When the macrocyst germinates it releases many [[haploid]] amoeboid cells. 
+ 
+ == Model host organism for ''Legionella'' == 
+ ''Dictyostelium'' shares many molecular features with [[macrophage]]s. Macrophages are the human host of ''[[Legionella]]''. The cytoskeletal composition of ''D. discoideum'' is similar to that of mammalian cells. So are the processes driven by these components, such as [[phagocytosis]], membrane trafficking, endocytic transit and [[vesicle]] sorting. Like [[leukocytes]], ''D. discoideum'' have [[chemotaxis]]. Hence, ''D. discoideum'' is a suitable model system to see the influence of host cell factors during ''[[Legionella]]'' infections. < ref name= Bruhn  > {{cite book |chapter-url=http://www.horizonpress.com/leg|author= Bruhn | display-authors = etal|year=2008|chapter=''Dictyostelium'', a tractable model host organism for ''Legionella''|title=''Legionella'': Molecular Microbiology|publisher=Caister Academic Press|isbn= 978-1-904455-26-4 }} < /ref > 
+ 
+ ==References== 
+ {{reflist|2}} 
+ 
+ ==Other websites== 
+ * [http://www.ruf.rice.edu/~bioslabs/studies/invertebrates/dicty.html ''Dictyostelium'' (2007)] 
+ *[http://dictybase.org/ dictyBase] Online Informatics Resource for ''Dictyostelium'' 
+ *[http://wiki.dictybase.org/ dictyBase wiki] official wiki site for dictyBase 
+ *[http://www.uni-koeln.de/dictyostelium/ ''Dictyostelium discoideum'' Genome Project] {{Webarchive|url=https://web.archive.org/web/20191206045915/http://www.uni-koeln.de/dictyostelium/ |date=2019-12-06 }} 
+ 
+ 
+ [[Category:Protista]] 
+ [[Category:Microbiology]] 
+ [[Category:Eukaryotes]]

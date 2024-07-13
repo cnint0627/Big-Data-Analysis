@@ -1,0 +1,7 @@
+'''TextSecure''' was a free and open-source encrypted messaging application for Android. It was developed and launched by Open Whisper Systems and used end-to-end encryption to secure the transmission of instant messages, group messages, attachments and media messages to other TextSecure users. < ref > {{Cite book|last1=Frosch|first1=Tilman|last2=Mainka|first2=Christian|last3=Bader|first3=Christoph|last4=Bergsma|first4=Florian|last5=Schwenk|first5=Jörg|last6=Holz|first6=Thorsten|title=2016 IEEE European Symposium on Security and Privacy (EuroS & P) |chapter=How Secure is TextSecure? |date=March 2016|chapter-url=https://ieeexplore.ieee.org/document/7467371|pages=457–472|doi=10.1109/EuroSP.2016.41|isbn=978-1-5090-1751-5|s2cid=7751296}} < /ref > < ref > {{Cite web|last=Smith|first=Ms|date=2015-11-03|title=Security made simple: RedPhone and TextSecure rolled into Signal for Android|url=https://www.csoonline.com/article/3000660/security-made-simple-redphone-and-textsecure-rolled-into-signal-for-android.html|access-date=2021-05-03|website=CSO Online|language=en}} < /ref > < ref > {{Cite web|title=TextSecure review {{!}} 28 facts and highlights|url=https://versus.com/en/textsecure|access-date=2021-05-03|website=VERSUS|language=en}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Messaging]] 
+ [[Category:Instant messaging software]]

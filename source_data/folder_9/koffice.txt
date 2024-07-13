@@ -1,0 +1,42 @@
+{{nosources|date=July 2010}} 
+ '''KOffice''' is a free [[office suite]] for the K Desktop Environment ([[KDE]]). All its components have been released under [[free software]]/[[open source]] licenses. The latest version of KOffice is 1.6.3, which was released on [[June 7]], [[2007]].[http://www.koffice.org/announcements/announce-1.6.3.php] {{Webarchive|url=https://web.archive.org/web/20070927225926/http://www.koffice.org/announcements/announce-1.6.3.php |date=2007-09-27 }} 
+ 
+ KOffice is primarily designed for Unix operating systems, but in the future there will likely be a [[Microsoft Windows]][http://dot.kde.org/1127515635/] and native [[Mac OS X]] version of all the applications. 
+ 
+ KOffice applications uses [[OpenDocument]] as their native file format when possible. 
+ 
+ The suite is released separately from [[KDE]] and can be downloaded at the KOffice homepage. 
+ 
+ == KOffice components == 
+ KOffice includes the following components: 
+ 
+ {|class= " wikitable "  style= " margin: 1em auto 1em auto " 
+ |[[Image:Kword-logo-plain.svg|48px]] ||'''[[KWord]]'''|| A [[word processor]] with [[style sheet (desktop publishing)|style sheet]]s and frame-support for [[Desktop publishing|DTP]]-style editing of complex [[layout]]s. 
+ |- 
+ |[[Image:Kspread-logo-plain.svg|48px]] ||'''[[KSpread]]'''|| A [[spreadsheet]] application with multiple sheet support, templates and more than 100 [[Mathematics|mathematic]]al [[formula]]s. 
+ |- 
+ |[[Image:Kpresenter-logo-plain.svg|48px]] ||'''[[KPresenter]]'''|| A [[presentation program]] with image and effect support. 
+ |- 
+ |[[Image:Kivio-logo-plain.svg|48px]] ||'''[[Kivio]]'''|| A programmable [[flowchart]] [[drawing]] program with dynamically loadable [[stencil]]s. Developed by [[theKompany]], which offers additional (non-free) stencils for sale. 
+ |- 
+ |[[Image:Karbon14-logo-plain.svg|48px]] ||'''[[Karbon14]]'''|| A [[Vector graphics|vector drawing]] application with a variety of drawing and editing tools.  
+ |- 
+ |[[Image:Krita-logo-plain.svg|48px]] ||'''[[Krita]]'''|| (Formerly known as Krayon and KImageshop). A [[bitmap]] graphics manipulation program, primarily designed as a [[painting]] program, with some [[image processing]] features. 
+ |- 
+ |[[Image:Kugar-logo-plain.svg|48px]] ||'''[[Kugar]]''' and '''[[KChart]]'''|| Integrated [[report]] and [[chart]] generators. 
+ |- 
+ |[[Image:Kformula-logo-plain.svg|48px]] ||'''[[KFormula]]'''|| An integrated mathematical [[formula editor]]. 
+ |- 
+ |[[Image:Kexi-logo-plain.svg|48px]] ||'''[[Kexi]]'''|| An integrated data management application, designed as a [[Microsoft Access]] or [[FileMaker]] competitor. It can be used for designing and implementing [[database]]s, inserting and processing data and performing queries. It has limited compatibility with the MS Access file format. 
+ |- 
+ |[[Image:Kplato-logo-plain.svg|48px]]||'''[[KPlato]]'''||  A [[project management]] application that can create [[Gantt chart|Gantt]]-style charts. 
+ |} 
+ 
+ KOffice includes [[import filter]]s for some [[file format]]s provided by competitors. 
+ 
+ == Other websites == 
+ *[http://www.koffice.org KOffice website] {{Webarchive|url=https://web.archive.org/web/20051231231712/http://www.koffice.org/ |date=2005-12-31 }} 
+ 
+ {{Office suites}} 
+ 
+ [[Category:KOffice| ]]

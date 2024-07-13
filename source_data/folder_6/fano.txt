@@ -1,0 +1,164 @@
+{{Infobox Italian comune 
+ | name                = Fano 
+ | official_name       = Comune di Fano 
+ | native_name         =  
+ | image_skyline       = Arco di Augusto Fano illuminato.jpg 
+ | imagesize           =  
+ | image_alt           = Arch of Augustus 
+ | image_caption       = ''Arco d'Augusto'', Fano 
+ | image_shield        = Fano-Stemma.svg 
+ | shield_alt          =  
+ | image_map           = Map of comune of Fano (province of Pesaro and Urbino, region Marche, Italy).svg 
+ | map_alt             = Fano in the province 
+ | map_caption         = The ''comune'' Fano, in red, in the province of Pesaro and Urbino 
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates         = {{coord|43|50|36.71|N|13|01|11.12|E|display=inline,title}} 
+ | region              = [[Marche]] 
+ | province            = [[Province of Pesaro and Urbino|Pesaro e Urbino]] (PU) 
+ | frazioni            = see [[#Frazioni|list]] 
+ | mayor_party         =  
+ | mayor               = Massimo Seri < ref > {{cite web|url=http://www.comune.fano.pu.it/index.php?id=25 |title=Il Sindaco |publisher=Comune di Fampo |language=it |access-date= 2 November 2017}} < /ref > 
+ | area_footnotes      =  < ref name= " area " > {{cite web|url=http://www.tuttitalia.it/marche/32-fano/ |title=Comune di Fano |publisher=Tuttitalia.it |language=it |access-date=2 November 2017}} < /ref > 
+ | area_total_km2      = 121.84 
+ | population_footnotes =  < ref name= " pop " > {{cite web |url=http://demo.istat.it/pop2017/index.html |title=Statistiche demografiche ISTAT |publisher=Demo.istat.it |language=it |access-date=2 November 2017 |archive-date=3 January 2018 |archive-url=https://web.archive.org/web/20180103163404/http://demo.istat.it/pop2017/index.html |url-status=dead }} < /ref > 
+ | population_total    = 60852 
+ | population_as_of    = January 2017 
+ | pop_density_footnotes =  
+ | population_demonym  = Fanesi 
+ | elevation_footnotes = < ref name= " area "  / > 
+ | elevation_m         = 12 
+ | elevation_min_m     = 0 
+ | elevation_max_m     = 223 
+ | twin1               =  
+ | twin1_country       =  
+ | saint               = Saint Paternian 
+ | day                 = 10 July 
+ | postal_code         = 61032 
+ | area_code           = 0721 
+ | website             = {{official website|http://www.comune.fano.pu.it/}} 
+ | footnotes           =  
+ }} 
+ '''Fano''' is a city and ''[[comune]]'' of the [[province of Pesaro and Urbino]] in the [[Marche]] [[Regions of Italy|region]], [[central Italy]]. 
+ 
+ It is a [[beach resort]] {{convert|12|km|0|abbr=off}} southeast of [[Pesaro]], along the [[Adriatic Sea]]. It is the third city in the region by population after [[Ancona]] and [[Pesaro]]. 
+ 
+ ==Geography== 
+ Fano is on the [[coast]] of the [[Adriatic Sea]]. The ''comune'' of Fano has an area of {{Convert|121.84|km2|sqmi|abbr=on }} and its [[altitude]] is {{Convert|12|m|ft|abbr=on}} [[above sea level]]. < ref name= " area "  / > 
+ 
+ Fano borders with the  ''[[Comune|comuni]]'' [[Cartoceto]], [[Mombaroccio]], [[Mondolfo]], [[Pesaro]], [[San Costanzo]] and [[Terre Roveresche]]. < ref > {{cite web|url=http://www.tuttitalia.it/marche/54-pesaro/22-comuni-limitrofi/ |title=Comuni limitrofi a Pesaro |publisher=Tuttitalia.it |language=it |access-date=2 July 2016}} < /ref > 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Fano 
+ |North     = [[Adriatic Sea]] 
+ |Northeast = [[Adriatic Sea]] 
+ |East      = [[Adriatic Sea]] 
+ |Southeast = [[Mondolfo]] 
+ |South     = [[San Costanzo]] 
+ |Southwest = [[Terre Roveresche]] 
+ |West      = [[Mombaroccio]] < br / > [[Cartoceto]] 
+ |Northwest = [[Pesaro]] 
+ }} 
+ 
+ ===''Frazioni''=== 
+ The following ''[[Frazione|frazioni]]'' ([[Hamlet (place)|hamlet]]s) are part of Fanoː 
+ {{Div col|3}} 
+ # Bellocchi 
+ # Camminate 
+ # Carignano 
+ # Carrara di Fano 
+ # Centinarola 
+ # Cuccurano 
+ # Falcineto 
+ # Fenile 
+ # Magliano 
+ # Marotta 
+ # Metaurillia 
+ # Ponte Sasso 
+ # Roncosambaccio 
+ # Rosciano 
+ # Sant'Andrea in Villis 
+ # Torrette di Fano 
+ # Tre Ponti. 
+ {{Div col end}} 
+ 
+ ==Population== 
+ There are 60,852 persons living in the ''comune'' in 2017, < ref name=pop / >  for a [[population density]] of {{Pop density|60852|121.84|km2|prec=1|disp=num}} inhabitants/km². 
+ 
+ '''Evolution of the population''' 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:70000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1961 text:1961 
+  bar:1971 text:1971 
+  bar:1981 text:1981 
+  bar:1991 text:1991 
+  bar:2001 text:2001 
+  bar:2011 text:2011 
+  bar:2017 text:2017 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+   bar:1961 from:0 till: 41033 
+   bar:1971 from:0 till: 47857 
+   bar:1981 from:0 till: 52116 
+   bar:1991 from:0 till: 53909 
+   bar:2001 from:0 till: 57529 
+   bar:2011 from:0 till: 62901 
+   bar:2017 from:0 till: 60852 
+ 
+ PlotData= 
+   bar:1961 at: 41033 fontsize:S text: 41,033 shift:(-13,5) 
+   bar:1971 at: 47857 fontsize:S text: 47,857 shift:(-15,5) 
+   bar:1981 at: 52116 fontsize:S text: 52,116 shift:(-15,5) 
+   bar:1991 at: 53909 fontsize:S text: 53,909 shift:(-15,5) 
+   bar:2001 at: 57529 fontsize:S text: 57,529 shift:(-15,5) 
+   bar:2011 at: 62901 fontsize:S text: 62,901 shift:(-15,5) 
+   bar:2017 at: 60852 fontsize:S text: 60,852 shift:(-15,5) 
+ < /timeline > 
+ < /center > 
+ 
+ The people from this ''comune'' are known, in [[Italian language|Italian]], as ''fanesi''. 
+ 
+ ==Twinned towns== 
+ Famo is [[Twin town|twinned]] with: 
+ 
+ *{{flagicon|GER}} [[Rastatt]], [[Germany]] 
+ *{{flagicon|FRA}} [[Saint-Ouen-l'Aumône]], [[France]] 
+ *{{flagicon|UK}} [[St. Albans]], [[United Kingdom]] 
+ *{{flagicon|CZE}} [[Stribro]], [[Czech Republic]] 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:586FanoPalazzoRagione.JPG|''Palazzo della Ragione''. 
+ File:598FanoCattedrale.JPG|''Duomo'' of Fano. 
+ File:589FanoSPietro.JPG|''San Pietro ad Vallum'' [[church]]. 
+ File:Fano, Mura 01.jpg|''Porta Maggiore'' and ''Arco di Augusto''. 
+ < /gallery > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Fano}} 
+ *[http://www.comune.fano.pu.it/ Fano official website] {{in lang|it}} 
+ {{Province of Pesaro and Urbino}} 
+ {{authority control}} 
+ [[Category:Cities in Pesaro and Urbino]]

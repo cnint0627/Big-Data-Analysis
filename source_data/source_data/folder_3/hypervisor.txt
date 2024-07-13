@@ -1,0 +1,7 @@
+The hypervisor is the device or software which runs the virtual machine. It's typically responsible for allocating the resources, providing the interface between the virtual machine (the  " guest " ) and the host system as well as any management software. 
+ 
+ eg: if you're using Oracle Virtual Box  to run a Ubuntu virtual machine, Oracle Virtual Box is the hypervisor. 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Software]]

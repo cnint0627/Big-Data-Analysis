@@ -1,0 +1,37 @@
+{{Infobox file format 
+ | name                   = DjVu 
+ | icon                   =  
+ | logo                   =  
+ | screenshot             =  
+ | caption                =  
+ | extension              =  < tt > .djvu < /tt > ,  < tt > .djv < /tt > 
+ | mime                   = image/vnd.djvu 
+ | type code              = DJVU 
+ | uniform type           =  
+ | magic                  =  
+ | owner                  = [[AT & T Laboratories|AT & T Research]]  
+ | released               = 1996 
+ | latest release version = Version 27 < ref name=djvuvers > [http://www.djvu.org/forum/phpbb/viewtopic.php?p=952 & sid=33819a3f9de6fe1db7870159f47c4dd5 DjVu File Format Version] {{Webarchive|url=https://web.archive.org/web/20170622125203/http://www.djvu.org/forum/phpbb/viewtopic.php?p=952 & sid=33819a3f9de6fe1db7870159f47c4dd5 |date=2017-06-22 }},By Jim Rile, Posted: Fri Feb 23, 2007 1:08 am, PlanetDjVu < /ref > 
+ | latest release date    = July, 2006 
+ | genre                  = [[Image file formats]] 
+ | container for          =  
+ | contained by           =  
+ | extended from          =  
+ | extended to            =  
+ | standard               =  
+ | free                   =  
+ | url                    = [http://www.djvu.org/ www.djvu.org] 
+ }} 
+ 
+ '''DjVu''' (pronounced like [[French language|French]] ''déjà vu'') is a [[Open_Format|open]] computer [[file format]]. It is made mostly to store scanned documents. It is especially used for things with a mix of words, line drawings, and [[photograph]]s inside. DjVu has been sold as an alternative < ref name= " DjVu " > {{cite web|url=http://djvu.org/resources/whatisdjvu.php|title=What is DjVu - DjVu.org|publisher=DjVu.org|language=English|accessdate=2009-03-05|archive-date=2019-01-21|archive-url=https://web.archive.org/web/20190121142932/http://www.djvu.org/resources/whatisdjvu.php|url-status=dead}} < /ref >  to [[Portable Document Format|PDF]], as it gives smaller files than PDF for most scanned documents.  The DjVu developers report < ref name=djvupaper > Léon Bottou, Patrick Haffner, Paul G. Howard, Patrice Simard, Yoshua Bengio and Yann Le Cun: High Quality Document Image Compression with DjVu, Journal of Electronic Imaging, 7(3):410-425, 1998 http://leon.bottou.org/publications/pdf/jei-1998.pdf < /ref >  that color [[magazine]] pages make smaller to 40–70 & nbsp;kB. Black and white technical papers make it smaller to 15–40 & nbsp;kB. Old manuscripts make smaller to around 100 & nbsp;kB; a satisfactory [[JPEG]] image usually needs 500 & nbsp;kB. Like PDF, DjVu can have a [[Optical character recognition|OCR]] text layer. This makes it easy to cut and paste, and search for text. 
+ 
+ == References == 
+ < references/ > 
+ 
+ ==Other websites== 
+ * [http://www.djvu.org/ DjVu.org] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer file formats]]

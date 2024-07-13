@@ -1,0 +1,37 @@
+{{italictitle}} 
+ {{Automatic_taxobox 
+ | image = 
+ | image_caption = 
+ | taxon = Moraxella 
+ | authority = Lwoff, 1939 < ref name= " Moraxella " > [https://lpsn.dsmz.de/genus/moraxella LPSN lpsn.dsmz.de] < /ref > 
+ | type_species = ''Moraxella lacunata'' < ref name= " Moraxella " / > 
+ | subdivision_ranks = Species 
+ | subdivision =  
+ ''[[Moraxella atlantae|M. atlantae]]'' < br/ > 
+ ''[[Moraxella boevrei|M. boevrei]]'' < br/ > 
+ ''[[Moraxella bovis|M. bovis]]'' < br/ > 
+ ''[[Moraxella bovoculi|M. bovoculi]]'' < br/ > 
+ ''[[Moraxella canis|M. canis]]'' < br/ > 
+ ''[[Moraxella caprae|M. caprae]]'' < br/ > 
+ ''[[Moraxella catarrhalis|M. catarrhalis]]'' < br/ > 
+ ''[[Moraxella caviae|M. caviae]]'' < br/ > 
+ ''[[Moraxella cuniculi|M. cuniculi]]'' < br/ > 
+ ''[[Moraxella equi|M. equi]]'' < br/ > 
+ ''[[Moraxella lacunata|M. lacunata]]'' < br/ > 
+ ''[[Moraxella lincolnii|M. lincolnii]]'' < br/ > 
+ ''[[Moraxella nonliquefaciens|M. nonliquefaciens]]'' < br/ > 
+ ''[[Moraxella oblonga|M. oblonga]]'' < br/ > 
+ ''[[Moraxella osloensis|M. osloensis]]'' < br/ > 
+ ''[[Moraxella pluranimalium|M. pluranimalium]]'' < br/ > 
+ ''[[Moraxella porci|M. porci]]'' < br/ > 
+ ''[[Moraxella saccharolytica|M. saccharolytica]]'' 
+ }} 
+ 
+ '''''Moraxella''''' is a [[genus]] of [[bacteria]]. < ref > {{Cite web|url=https://www.cdc.gov/std/gonorrhea/lab/mcat.htm|title=Moraxella catarrhalis - Gonorrhea - STD Information from CDC|date=2019-01-11|website=www.cdc.gov|language=en-us|access-date=2020-06-15}} < /ref >  It is named after [[Victor Morax]], a Swiss eye specialist ([[Ophthalmology|ophthalmologist]]). < ref name= " Bergey " > {{cite book|last=Garrity|first=George M.  |display-authors = etal |title=Bergey's manual of systematic bacteriology. Volume 2: ''The Proteobacteria, Part B: The Gammaproteobacteria.'' |year=2005}} < /ref >  They are [[gram-negative]]. 
+ The cells are short rods or cocci. ''[[Moraxella catarrhalis]]'' can cause [[chronic obstructive pulmonary disease]]. < ref name= " Bergey "  / > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ [[Category:Gram-negative bacteria]]

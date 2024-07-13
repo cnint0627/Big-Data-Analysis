@@ -1,0 +1,38 @@
+{{Automatic Taxobox 
+ | name = Glires 
+ | fossil_range = Early [[Paleocene]] - Recent{{fossilrange|65|0}} 
+ | image = kangaroo-rat.jpg 
+ | image_width = 250px 
+ | image_caption = [[Kangaroo rat]] (''Dipodomys'') 
+ | taxon = Glires 
+ | subdivision_ranks = [[Order (biology)|Order]]s 
+ | subdivision =  
+ * [[Rodent]]ia 
+ * [[Lagomorpha]] 
+ }} 
+ 
+ '''Glires''' (from [[Latin]] ''glīrēs'', [[dormice]]) is a [[clade]] (sometimes ranked as grandorder) consisting of [[rodent]]s and [[lagomorph]]s ([[rabbit]]s, [[hare]]s, and [[pika]]s). This hypothesis that these form a monophyletic group has been long debated based on morphological evidence, although recent morphological studies strongly support monophyly of Glires. < ref > Meng and Wyss, 2001; Meng et al., 2003 < /ref > 
+ 
+ {{Clade 
+ | label1=[[Euarchontoglires]] 
+ | 1={{Clade 
+   | label1='''Glires''' 
+   | 1={{Clade 
+      | 1=[[Rodent]]ia (rodents) 
+      | 2=[[Lagomorpha]] (rabbits, hares, pikas)}} 
+   | label2=[[Euarchonta]] 
+   | 2={{Clade 
+      | 1=[[Treeshrew|Scandentia]] (treeshrews) 
+      | label2=[[Primatomorpha]] 
+      | 2={{Clade 
+         | 1=[[Colugo|Dermoptera]] (flying lemurs) 
+         | 2={{Clade 
+            | 1=[[Primate]]s (†[[Plesiadapiformes]], [[Strepsirrhini]], [[Haplorrhini]])}} }} }} }} 
+ }} 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{biology-stub}} 
+ 
+ [[category:Mammals]]

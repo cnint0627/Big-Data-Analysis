@@ -1,0 +1,26 @@
+[[Image:Sun SparcStation4 und Monitor.jpg|thumb|A [[Sun microsystems|Sun]] [[SparcStation 4]] running [[CDE]]]] 
+ A '''workstation''' is a [[computer]] used for [[scientific]] or [[technical]] calculations, or purposes.  These computers are usually expensive, high-end computers. They are different from the ordinary computers used for [[text-processing]]. Very often they have [[operating system]]s that allow several users to work at the computer at the same time. Very often, workstations are connected to a [[computer network]]. [[Computer terminal]]s may be used to access them. Currently, almost all workstations use a [[unix]] or [[unix-like]] operating system. 
+ 
+ Workstation computers often use a 64-bit [[server]]-class [[Central processing unit|CPU]] such as the Intel Xeon or AMD Opteron, and some have more than one CPU. They may also have more memory than a normal desktop computer, and they often have 10000 or 15000 RPM [[hard drive]]s or [[solid-state drive]]s. Some workstations have devices that are not commonly used on normal desktop computers, such as ECC (error-corrected) memory, [[SCSI]], [[fibre channel]], and 10 gigabit [[Ethernet]]. 
+ 
+ Some technologies that were once only found on workstations have now become common in normal PCs, such as multi-core processors, solid-state drives, hardware-accelerated graphics, 24-bit color, broadband Internet access, virtual memory, pre-emptive multitasking, and OpenCL. 
+ 
+ Common uses for workstations include [[Computer-aided technologies|computer-aided design]] (CAD), 3D graphics and animation, [[video]] and [[audio]] production, [[weather]] modeling, and other [[Computer model|simulation]]s and scientific work. 
+ 
+ == RISC vs x86 == 
+ Traditionally, workstations used a [[RISC]] processor, such as MIPS, PowerPC, or SPARC architecture CPUs. Most modern workstations use [[x86|x86_64]] processors. In 2020, however, Apple began migrating its product line from x86-64 to [[Apple M1]], an ARM RISC CPU. 
+ 
+ === Examples of RISC workstations === 
+ * [[Silicon Graphics]] [[IRIX]] machines (MIPS CPU) 
+ * [[Sun Microsystems]] [[SparcStation]] (SPARC CPU) 
+ * [[Apple Inc.|Apple]] [[Power Mac G5]] and [[PowerBook]] G4 (PowerPC CPU) 
+ * [[Apple Inc.|Apple]] [[MacBook Pro]] (2021 model, ARM CPU) 
+ * [[IBM]] IntelliStation POWER and ThinkPad Power Series (PowerPC CPU) 
+ 
+ === Examples of modern x86_64 workstations === 
+ * [[Hewlett-Packard|HP]] Z series 
+ * Apple [[Mac Pro]] and [[MacBook Pro]] (before 2021) 
+ * [[Dell]] Precision 
+ 
+ {{tech-stub}} 
+ [[Category:Computers]]

@@ -1,0 +1,35 @@
+'''Misskey''' is [[open-source software]] for  {{ill|distributed social networks|en|distributed social network}}. It was originally developed by  " syuilo " , a Japanese software engineer. < ref name=History > {{Cite web |url=https://misskey-hub.net/docs/misskey.html |title=Misskeyについて |access-date=2023-02-08 |website=Misskey Hub |language=ja}} < /ref >  When it was first developed the main service was a bulletin board, but the open-source community added short  " Notes "  and a timeline function. Those key features allowed the program and community to grow to its current size. 
+ 
+ ==Overview== 
+ A user's post is called a ''Note''. As with other distributed social networks, users can join or create servers. Each server is managed by different administrators, in different locations.    
+ 
+ The origin of the Misskey name is from the lyrics of {{ill|'Brain Diver'|ja|Brain Diver}}, a song released by the Japanese singer {{ill|May'n|en|May'n}}. < ref name=History/ > 
+ 
+ ==History== 
+ ===Development=== 
+ Misskey publishes its source code to [[GitHub]]. You can modify the code as long as you publish it based on [[GNU Affero General Public License|AGPLv]]3. Since Misskey also publishes {{ill|open API|en|open API}}, you can create a personal application through the code. The translation is using {{ill|Crowdin|en|Crowdin}}. 
+ 
+ ===Timeline=== 
+ *On 2014, development and operation were launched. < ref name=History/ > 
+ *On April 8, 2018, became to use the ActivityPub protocol to communicate with each other server, and rename its codename  " nighthike " . < ref > {{Cite web |url=https://www.itmedia.co.jp/news/articles/1804/17/news124.html |title=ActivityPub対応国産SNS「Misskey」、LTLも実装 |accessdate=2020-03-01 |website=www.itmedia.co.jp}} < /ref > 
+ *On April 14, 2019, version 11 was released. PostgreSQL was adopted as a database software, and renamed its codename  " daybreak " . 
+ *On February 6, 2020, version 12 was released. Rename its codename  " indigo " . 
+ *On January 16, 2023, version 13 was released. Rename its codename  " nasubi " . Added functions and Changed design drastically. 
+ 
+ ==Technology== 
+ Code is written with [[TypeScript]] and [[Node.js]]. {{ill|PostgreSQL|en|PostgreSQL}} is used as a database software. {{ill|Vue.js|en|Vue.js}} is used as Web client since February, 2018. Misskey users can interact with users on any other server that supports {{ill|ActivityPub|en|ActivityPub}}.  
+ 
+ ==Differences from Mastodon== 
+ Misskey and [[Mastodon]] are both distributed social networks based on [[ActivityPub]]. 
+ But their programming languages and library are different. Their APIs are not compatible. 
+ Mastodon's ideology takes a critical attitude to centralized SNSs such as Twitter and Facebook.{{Citation  needed}} 
+ When it began, Misskey was not designed as a distributed social network, so its ideology isn't based on an anti-centralized attitude. < ref > {{Cite web |url=https://misskey-hub.net/docs/misskey.html |title=プロジェクトは何を目指していますか？ |accessdate=2021-09-29 |website= Misskey Hub}} < /ref > 
+ 
+ ==Related pages== 
+ *[[ActivityPub]] 
+ *[[Mastodon]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Social networking]]

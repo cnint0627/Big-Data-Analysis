@@ -1,0 +1,88 @@
+{{Infobox website 
+ | name           = JSTOR 
+ | logo           = JSTOR wordmark.svg 
+ | logo_size      = 150px 
+ | collapsible    = y 
+ | url            = {{URL|jstor.org}} 
+ | type           = [[Digital library]] 
+ | language       = [[English language|English]] (includes content in other languages) 
+ | registration   = Yes 
+ | owner          = [[Ithaka Harbors]] 
+ | author         = [[Andrew W. Mellon Foundation]] < ref > Leitch, Alexander. [http://etcweb.princeton.edu/CampusWWW/Companion/bowen_william_gordon.html  " Bowen, William Gordon " ] {{Webarchive|url=https://web.archive.org/web/20171011224203/http://etcweb.princeton.edu/CampusWWW/Companion/bowen_william_gordon.html |date=2017-10-11 }}. [[Princeton University Press]]. < /ref > 
+ | launch_date    = {{start date and age|1995}} 
+ | current_status = Active < ref > {{cite web 
+   |title = About 
+   |url = http://about.jstor.org/about 
+   |publisher = JSTOR 
+   |access-date = 28 November 2015 
+ }} < /ref > 
+ | oclc           = 46609535 
+ | footnotes      =  
+ }} 
+ '''JSTOR''' ({{IPAc-en|'|dʒ|eɪ|s|t|ɔːr}};[https://support.jstor.org/hc/en-us/articles/115007466248-JSTOR-Title-Lists] short for ''Journal Storage'') < ref > {{cite book|title=New Public Leadership: Making a Difference from Where We Sit|url=https://books.google.com/books?id=109tDwAAQBAJ|author1=Douglas F. Morgan|author2=Marcus D. Ingle|author3=Craig W. Shinn|publisher=Routledge|date=3 September 2018|page=82|isbn = 9780429832918|quote=JSTOR means journal storage, which is an online service created in 1995 to provide electronic access to an extensive array of academic journals.}} < /ref >  is a [[digital library]]. It was founded in 1995 in [[New York City]], [[United States]]. It was originally containing [[Digitizing|digitized]] [[wikt:back issue|back issue]]s of [[academic journal]]s.  It is now encompasses books and other primary sources as well as current issues of journals. It provides [[full-text search]]es of almost 2,000 journals. 
+ 
+ {{as of|2013}}, more than 8,000 institutions in more than 160 countries had access to JSTOR. < ref name= " Annual Summary " > {{cite web|title=Annual Summary|url=http://about.jstor.org/sites/default/files/misc/JSTOR-Annual-Summary_2012_v6.pdf|work=JSTOR|access-date=13 April 2013|date=19 March 2013|archive-date=11 November 2013|archive-url=https://web.archive.org/web/20131111020127/http://about.jstor.org/sites/default/files/misc/JSTOR-Annual-Summary_2012_v6.pdf|url-status=dead}} < /ref >  Most access is by [[subscription]] but some of the site is [[public domain]], and [[open access]] content is available free of charge. < ref > {{cite web|url=http://about.jstor.org/download/file/fid/1423|title=Register and read beta|access-date=2021-01-20|archive-date=2013-10-01|archive-url=https://web.archive.org/web/20131001004448/http://about.jstor.org/download/file/fid/1423|url-status=dead}} < /ref > < ref > {{cite web |last=Lichterman |first=Joseph |url=http://www.niemanlab.org/2014/10/opening-up-the-archives-jstor-wants-to-tie-a-library-to-the-news/ |title=Opening up the archives: JSTOR wants to tie a library to the news |work=[[Nieman Lab]] |access-date=September 18, 2017}} < /ref > 
+ 
+ JSTOR's revenue was $86 million in 2015. < ref name=NonProfitExplorer > {{cite web |url= https://projects.propublica.org/nonprofits/organizations/133857105|title= Ithaka Harbors, Inc.|website= Nonprofit Explorer |date= 9 May 2013|publisher= [[ProPublica]] |access-date= 2018-04-24}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ ==Further reading== 
+ {{refbegin}} 
+ * {{cite journal 
+  |last1=Gauger |first1=Barbara J. 
+  |last2=Kacena |first2=Carolyn 
+  |year=2006 
+  |title=JSTOR usage data and what it can tell us about ourselves: is there predictability based on historical use by libraries of similar size? 
+  |journal=OCLC Systems  &  Services 
+  |volume=22 |issue=1 |pages=43–55 
+  |doi=10.1108/10650750610640801 
+ }} 
+ * {{cite book 
+  |last=Schonfeld |first=Roger C. 
+  |year=2003 
+  |title=JSTOR: A History 
+  |url=https://archive.org/details/jstorhistory00scho 
+  |location=Princeton, NJ 
+  |publisher=[[Princeton University Press]] 
+  |isbn=978-0-691-11531-3 
+  |url-access=registration 
+ }} 
+ * {{cite journal 
+  |last=Seeds |first=Robert S. 
+  |date=November 2002 
+  |title=Impact of a digital archive (JSTOR) on print collection use 
+  |journal=Collection Building 
+  |volume=21 |issue=3 |pages=120–22 
+  |doi=10.1108/01604950210434551 
+ }} 
+ * {{cite journal 
+  |last=Spinella |first=Michael P. 
+  |year=2007 
+  |title=JSTOR: Past, Present, and Future 
+  |url=https://archive.org/details/sim_journal-of-library-administration_2007_46_2/page/55 |journal=[[Journal of Library Administration]] 
+  |volume=46 |issue=2 |pages=55–78 
+  |doi=10.1300/J111v46n02_05 
+ |s2cid=216117863 
+  }} 
+ * {{cite journal 
+  |last1=Spinella |first1=Michael 
+  |year=2008 
+  |title=JSTOR and the changing digital landscape 
+  |journal=Interlending  &  Document Supply 
+  |volume=36 |issue=2 |pages=79–85 
+  |doi=10.1108/02641610810878549 
+ }} 
+ {{refend}} 
+ 
+ ==Other websites== 
+ * {{cite web|url=http://about.jstor.org/jstor-institutions|title=Libraries and institutions offering access|publisher=JSTOR|access-date=2015-10-21}} Searchable database, includes many public libraries offering free access to library card holders. 
+ * {{cite web |url=http://about.jstor.org/rr |title=Register  &  Read |publisher= JSTOR |access-date= 2015-10-21}} Free individual registration, offering free read-only access (no printing or saving) to three articles every two weeks (seventy-eight per year). 
+ * [https://archive.org/details/jstor_ejc JSTOR Early Journal Content : Free Texts : Download  &  Streaming : Internet Archive] 
+ 
+ {{Authority control}} 
+ 
+ [[Category:1995 establishments in the United States]] 
+ [[Category:American websites]] 
+ [[Category:Libraries in the United States]]

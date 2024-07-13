@@ -1,0 +1,54 @@
+{{Orphan|date=May 2009}} 
+ 
+ '''SIMATIC''' is the name of an automation system which was developed by the German company [[Siemens]]. The automation system controls machines used for industrial production. This system makes it possible for machines to run automatically. Depending on the needed function of the machine you have to upload the right program on your Simatic unit. This unit is kept in a control cabinet near the machine. 
+ 
+ == Function == 
+ Simatic is similar to a digital computer which can store and run programs. The Simatic also has some inputs and outputs. The running program on the Simatic controls these inputs and outputs. Both are connected by electrical wires with the machine. That makes a communication between the Simatic and any machine possible. As the case may be the inputs and outputs are set on a “High” signal or on a “Low” signal by the program. These are different electrical definitions. Finally these signals are important if an action in the machine happens or not.  
+ 
+ Example for different signals at the output to a motor: 
+ 
+ * “High” signal: motor is starting 
+ * “Low” signal: motor is stopping 
+ 
+ Example for different signals at the input coming from a thermometer in the machine: 
+ 
+ * “High” signal: temperature exceeded the limit 
+ * “Low” signal: temperature is still allowed 
+ 
+ == Communication == 
+ There are basically two ways of communication: 
+ 
+ === From the machine to the Simatic === 
+ 
+ In the machine, there are sensors. A [[sensor]] gives information about different situations in the machine. For example, how fast the motor rotates, what the temperature is or when the current action is completed. All this information is necessary for the program. The sensors give out an electrical signal, each signal goes by wire on an input of the Simatic unit. So the program knows what´s going on in the machine. This is very important, because now the program can perform the next correct step in its sequence. For example, if the temperature of the motor is too high, the program has to know it. Now the program will switch off the motor. 
+ 
+ === From the Simatic to the machine === 
+ 
+ In the machine, there are actuators. They cause a wanted motion, action or forming. Examples for actuators are a motor, a heater or a light. If the program says that it´s time to switch on the light in the machine, the right output of the Simatic unit will be set. That means that an electrical signal at the output goes by wire to the machine and switches on the light. 
+ 
+ == The name Simatic == 
+ 
+ The name Simatic is a registered trademark of the company Siemens, since 1958. Simatic connects “'''Si'''emens” and “Auto'''matic'''” in one word. 
+ 
+ == Product lines == 
+ 
+ Siemens developed four different product lines so far: 
+ 
+ * 1958 Simatic Version G 
+ * 1973 Simatic S3 
+ 
+ * 1979 Simatic S5 
+ 
+ * 1995 Simatic S7 
+ 
+ == Used Software == 
+ 
+ Every automation system needs a program to control a machine. To create a program you need a software. Siemens created their own software for their products. 
+ 
+ * The Simatic S5 product line is programmed by the software Step5. 
+ 
+ * The Simatic S7 product line is programmed by the software Step7 or in TIA Portal (totally integrated automation). 
+ 
+ == References == 
+ http://www.automation.siemens.com/simatic/portal/index_76.htm  < br / > 
+ http://w1.siemens.com/entry/cc/en/ {{Webarchive|url=https://web.archive.org/web/20081230005339/http://w1.siemens.com/entry/cc/en/ |date=2008-12-30 }}

@@ -1,0 +1,8 @@
+[[File:Mask illustration.svg|right|thumb|Schematic illustration of photomask (top) and integrated circuit created using that mask (bottom)]] 
+ In [[electronics]] manufacturing, a '''photomask''' is a special [[wikt:stencil|stencil]] which is used in [[photolithography]] to create a [[printed circuit board]] or [[integrated circuit]]. When light is shone through the photomask, certain parts where the light hits the unused circuit board are strengthened, much like what [[toothpaste]] does to the hard surfaces your teeth. When a circuit board is put through an acid bath, the parts where the light shone through the photomask stay in place, while the parts that were covered by the shadow of the photomask are eaten away by the acid. There are two prominent types of masks.  " Contact "  masks, which touch the surface of the silicon wafer directly. These masks are cheaper, at the price of being less precise.  " Proximity "  masks are placed near to, but not touching the wafer. These masks are much more expensive, but also a lot more precise. Another type is  " Projection "  masks, also known as  " reticles " , which only contain the [[pattern]] of one chip, instead of the pattern of the whole wafer. 
+ 
+ 
+ {{stub}} 
+ 
+ [[Category:Technology]] 
+ [[Category:Electronic components]]

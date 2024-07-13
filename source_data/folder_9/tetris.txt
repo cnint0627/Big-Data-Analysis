@@ -1,0 +1,36 @@
+{{citation style|date=February 2019}} 
+ {{Infobox video game 
+ | image = Typical Tetris Game.svg 
+ | caption = A typical ''Tetris'' game screen 
+ | designer = [[Alexey Pajitnov]] 
+ | platforms = [[List of Tetris variants|List of ''Tetris'' variants]] 
+ | released = '''Electronika 60'''{{Video game release|USSR|1985}}'''IBM PC'''{{Video game release|USSR|1986|EU|November 1987|NA|January 1988}} 
+ | genre = [[Puzzle video game|Puzzle]], [[Tile-matching video game|tile-matching]] 
+ | modes = [[Single-player video game|Single-player]], [[Multiplayer video game|multiplayer]] 
+ }} 
+ [[File:Emacs Tetris vector based detail.svg|thumb|right|A ''Tetris'' playfield]] 
+ '''Tetris''' is a puzzle game, developed in the [[Soviet Union]] by [[Alexey Pajitnov]] in [[1985]]. < ref > {{Cite web |title=Tetris {{!}} video game {{!}} Britannica |url=https://www.britannica.com/topic/Tetris |access-date=2023-04-18 |website=www.britannica.com |language=en}} < /ref >  It has appeared on many [[video game console|video game systems]]. 
+ 
+ Many companies have published ''Tetris'' games, such as [[Nintendo]] for the [[Game Boy]] and [[Nintendo Entertainment System]]. [[The Tetris Company]], founded in 1996 by Pajitnov and [[Henk Rogers]], manages and licenses the Tetris brand. 
+ 
+ With over 500 million copies sold across all of its different versions, it is the best-selling video game of all time. < ref > {{cite news|last=Langston|first=Keith|date=August 22, 2021|title=The 10 Bestselling Video Games Of All Time|work=Screen Rant|url=https://screenrant.com/best-selling-video-games-most-popular/|accessdate=March 9, 2022}} < /ref > 
+ 
+ ==Gameplay== 
+ [[File:Tetrominoes IJLO STZ Worlds.svg|thumb|right|150px|The seven tetrominoes]] 
+ In a game of ''Tetris'', shapes known as [[tetrominoes]] fall down into a playing field, which is usually ten squares wide and twenty squares tall. There are seven different tetrominoes.  < ref name= " The Tetromino Facts 2009 " > The Tetromino Facts. 2009, Tetris Press. < /ref >  The goal of the player is to move and turn the falling tetrominoes so they fill an entire row of the playing field. When a row is completely filled, it disappears and the lines above it move down to fill the space. This is called a line clear. 
+ 
+ Clearing lines give points. A player gets more points if they clear more than one line with one tetromino. Clearing one line is called a  " single " , two lines a  " double " , three lines a  " triple " , and four lines a  " Tetris " . < ref name= " tips " > {{Cite web|title=Tetris Terminology|url=http://www.tetrisfriends.com/help/tips_appendix.php#termtetris|url-status=dead|archive-url=https://web.archive.org/web/20111020201951/http://www.tetrisfriends.com/help/tips_appendix.php#termtetris|archive-date=2011-10-20|access-date=2011-10-30}} < /ref >  Clearing two Tetrises in a row is called a Back-to-Back Tetris. The player can also turn a T-shaped Tetrimino into a T-shaped hole before it finishes falling to get more points. < ref name= " tips " / >  This move is called a  " T-Spin " . 
+ 
+ Levels have a set goal, or number of lines to clear. When the goal number reaches zero, the player moves to the next level. As the levels go up, tetrominoes fall faster. 
+ 
+ Modern versions of Tetris follow a set of rules written by [[The Tetris Company]]. These rules, known as the  " Tetris Guideline " , make sure all Tetris games look and feel familiar. < ref name= " History " > {{Cite web|title=History of Tetris®|url=https://tetris.com/history-of-tetris|access-date=2023-09-15|website=Tetris|language=en}} < /ref > < ref > {{Cite web|title=Tetris from the Top: An Interview with Henk Rogers - Interview|url=http://www.nintendoworldreport.com/interview/11267/tetris-from-the-top-an-interview-with-henk-rogers|access-date=2023-09-15|website=Nintendo World Report}} < /ref >  For example, these rules state what each button on a [[game controller]] must do, and what colour each tetromino should be. 
+ 
+ In older versions of the game, the player loses when the tetrominos make it to the top of the playing field. In more modern versions of the game, they can lose in two ways. The first is when they place a piece completely above the playing field. The second way to lose is if a player places a piece that blocks the next piece from spawning in. {{cn|date=April 2022}} 
+ 
+ ==Music== 
+ On the [[Game Boy]], there are several musical themes played. The theme for level 1 and used in the Game Boy version is often called the  " Tetris Theme " . It is actually a Russian dance called ''Korobeiniki'', or  " The Peddlers. "  Other themes include music by [[Johann Sebastian Bach]] and the [[Dance of the Sugar Plum Fairy]]. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ [[Category:1980s video games]]

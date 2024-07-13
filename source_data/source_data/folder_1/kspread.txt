@@ -1,0 +1,31 @@
+{{Infobox Software  
+ | name                   = KSpread 
+ | logo                   = Crystal_kspread.png 
+ | screenshot             = KspreadScreenshot.png 
+ | caption                = KSpread Screenshot 
+ | developer              = The KSpread Team 
+ | latest_release_version = 1.6.3 
+ | latest_release_date    = {{release date and age|2007|6|7}} 
+ | operating_system       = [[Unix-like]] 
+ | genre                  = [[Spreadsheet]] 
+ | license                = [[GNU Lesser General Public License|LGPL]] 
+ | website                = [http://www.koffice.org/kspread/ www.koffice.org/kspread/] 
+ }} 
+ 
+ '''KSpread''' is a [[free software]] [[spreadsheet]] program that is part of [[KOffice]], an [[office suite]] for the [[KDE]] [[Desktop Environment]]. 
+ 
+ Among KSpread features are multiple sheets per document, assorted formatting possibilities, support for more than 100 built-in functions, templates, chart, spell-check, hyperlinks, data sorting and scripting with [[Python (programming language)|Python]], [[Ruby (programming language)|Ruby]] and [[Javascript]]. 
+ 
+ KSpread native format is [[XML]], compressed with [[ZIP file format|ZIP]]. However, KSpread has the ability to import several different spreadsheet formats, including those from [[Microsoft Excel]], [[Applix Spreadsheet]], [[Quattro Pro]], [[Comma-separated values|CSV]] and [[OpenOffice.org Calc]]. 
+ 
+ ==Related pages== 
+ *[[KOffice]] 
+ 
+ == Other websites == 
+ *[http://www.koffice.org/kspread/ KSpread homepage] {{Webarchive|url=https://web.archive.org/web/20110607104328/http://www.koffice.org/kspread/ |date=2011-06-07 }} 
+ *[http://docs.kde.org/development/en/koffice/kspread/ The KSpread Handbook] 
+ *[http://www.koffice.org/kspread/screenshots.php KSpread Screenshots] {{Webarchive|url=https://web.archive.org/web/20080512150249/http://koffice.org/kspread/screenshots.php |date=2008-05-12 }} 
+ *[http://www.linux.com/articles/44726 FOSS spreadsheet hands-on comparison] by [http://members.axion.net/~bbyfield/ Bruce Byfield] {{Webarchive|url=https://web.archive.org/web/20110323071347/http://members.axion.net/~bbyfield/ |date=2011-03-23 }} 
+ 
+ [[Category:KOffice]] 
+ [[Category:Spreadsheet software]]

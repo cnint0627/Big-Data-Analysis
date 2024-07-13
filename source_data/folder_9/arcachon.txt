@@ -1,0 +1,155 @@
+{{Infobox French commune 
+ |name                    = Arcachon 
+ |commune status          = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image flag              =  
+ |image flag size         =  
+ |image coat of arms      = Blason ville fr Arcachon (Gironde).svg 
+ |image coat of arms size =  
+ |city motto              =  
+ |image                   = Arcachon Promenade.jpg 
+ |caption                 = [[Esplanade]] along the beach of Arcachon 
+ |map                     =  
+ |adjustable map          =  
+ |time zone               =  
+ |coordinates             = {{coord|44.65|-1.17|format=dms|display=inline,title}} 
+ |arrondissement          = Arcachon 
+ |canton                  = La Teste-de-Buch 
+ |subdivisions entry      =  
+ |subdivisions            =  
+ |intercommunality        = Bassin d'Arcachon Sud-Pôle Atlantique 
+ |mayor                   = Yves Foulon < ref > {{cite web |url=http://www.ville-arcachon.fr/le_maire.html |title=Le Maire |publisher=Marie d'Arcachon |language=fr |access-date=12 May 2017 |archive-date=16 May 2017 |archive-url=https://web.archive.org/web/20170516040929/http://www.ville-arcachon.fr/le_maire.html |url-status=dead }} < /ref > 
+ |party                   =  
+ |term                    = 2014 & ndash;2020 
+ |elevation m             = 23 
+ |elevation min m         = 0 
+ |elevation max m         = 45 
+ |area km2                = 7.56 
+ |population demonym      = Arcachonnais 
+ |population              = 10370 
+ |population ranking      =  
+ |population date         = 2014 
+ |urban area km2          =  
+ |urban area date         =  
+ |urban pop               =  
+ |urban pop date          =  
+ |metro area km2          =  
+ |metro area date         =  
+ |metro area pop          =  
+ |metro area pop date     =  
+ |INSEE                   = 33009 
+ |postal code             = 33120 
+ |website                 = [http://www.ville-arcachon.fr/ www.ville-arcachon.fr] 
+ }} 
+ 
+ '''Arcachon''' ('''Arcaishon''' in [[Gascon language|Gascon]]) is a [[Communes of France|commune]] in the [[Gironde]] [[Departments of France|department]] in southwestern France, [[Nouvelle-Aquitaine]] [[Regions of France|region]]. 
+ 
+ It is a popular [[beach]] on the [[Atlantic Ocean|Atlantic]] [[coast]] {{Convert|55|km|mi|0}} southwest of [[Bordeaux]] in the [[Landes]] [[forest]]. 
+ 
+ ==Geography== 
+ The ''commune'' of Arcachon has an area of {{Convert|7.6|km2|sqmi|abbr=on }}, < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-33009 |title=Commune de Arcachon (33009) |work=Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=15 May 2017 }} < /ref >  and its average [[altitude]] is {{Convert|23|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|10|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Arcachon-33120/ |title=City of Arcachon |publisher=Map-France.com |access-date=15 May 2017 }} < /ref > 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Arcachon and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 33009.png|350px|Map of the ''commune'' of Arcachon]] 
+ |} 
+ < /center > 
+ 
+ The ''commune'' has to the south the [[La Teste de Buch]] ''commune'' and to the north the '''Arcachon Bay''' ({{lang-fr|Bassin d'Arcachon}}), a [[Headlands and bays|bay]] of the [[Atlantic Ocean]] on the southwest [[coast]] of France. 
+ 
+ ===Climate=== 
+ The climate of Arcachon is [[Oceanic climate|Marine West Coast Climate]] ([[Köppen climate classification]]: '''Cfb'''), with mild winters and warm summers. < ref name= " annuaire " > {{cite web |work=Annuaire-Mairie.fr |title=Ville d' Arcachon |url=http://www.annuaire-mairie.fr/ville-arcachon.html |language=fr |access-date=15 May 2017}} < /ref > 
+ 
+ ==Population== 
+ The inhabitants of Arcachon are known, in [[French language|French]], as ''Arcachonnais'' (women: ''Arcachonnaises''). < ref > {{cite web|url=https://www.habitants.fr/gironde-33 |title=Gironde |publisher=habitants.fr |language=fr |access-date=15 May 2017 }} < /ref > 
+ 
+ With a population of 10,370, < ref name=insee > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep33.pdf |title=Régions, départements, arrondissements, cantons et communes  |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=fr |access-date=15 May 2017}} < /ref >  Arcachon has a [[population density]] of {{Pop density|10370|7.56|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Dax''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:15000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:5000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:2500 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2006 text:2006 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 14986 
+  bar:1975 from:0 till: 13892 
+  bar:1982 from:0 till: 13293 
+  bar:1990 from:0 till: 11770 
+  bar:1999 from:0 till: 11454 
+  bar:2006 from:0 till: 12153 
+  bar:2014 from:0 till: 10370 
+ 
+ PlotData= 
+  bar:1968 at: 14986 fontsize:S text: 14,986 shift:(-12,5) 
+  bar:1975 at: 13892 fontsize:S text: 13,892 shift:(-15,5) 
+  bar:1982 at: 13293 fontsize:S text: 13,293 shift:(-15,5) 
+  bar:1990 at: 11770 fontsize:S text: 11,770 shift:(-15,5) 
+  bar:1999 at: 11454 fontsize:S text: 11,454 shift:(-15,5) 
+  bar:2006 at: 12153 fontsize:S text: 12,153 shift:(-15,5) 
+  bar:2014 at: 10370 fontsize:S text: 10,370 shift:(-15,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Administration== 
+ Arcachon is a [[Prefectures in France|subprefecture]] of the [[Gironde]] department since December 2006 when the ''arrondissement'' of [[Arrondissement of Arcachon|Arcachon]] was made. 
+ 
+ === Twin towns === 
+ Arcachon is [[Twin town|twinned]] with: 
+ * {{flagicon|USA}} [[Amherst]], [[Massachusetts]], [[United States]] 
+ * {{flagicon|POR}} [[Aveiro, Portugal|Aveiro]], [[Portugal]] 
+ * {{flagicon|ESP}} [[Ciudad Rodrigo]], [[Spain]] 
+ * {{flagicon|ITA}} [[Gardone Riviera]], [[Italy]] 
+ * {{flagicon|GER}} [[Goslar]], [[Germany]] 
+ * {{flagicon|ITA}} [[Pescara]], [[Italy]] 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Arcachon Centre.JPG|Center of Arcachon. 
+ File:FR-33-Arcachon07.JPG|The city of Arcachon. 
+ File:Mairie d Arcachon DSC 0146.JPG|[[City and town halls|Town hall]] of Arcachon. 
+ File:Arcachon20050318Blorg.jpg|The beach of Arcachon. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Arcachon]] 
+ * [[Communes of the Gironde department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Arcachon}} 
+ 
+ * [http://www.ville-arcachon.fr/ Ville d'Arcachon - Official site] {{in lang|fr}} 
+ * [http://www.gironde.fr/ Departmental Council of Gironde] {{Webarchive|url=https://web.archive.org/web/20080329045415/http://www.gironde.fr/ |date=2008-03-29 }} {{in lang|fr}} 
+ * [http://www.arcachon.com/en/accueil_en.html Arcachon Office de Tourisme] {{Webarchive|url=https://web.archive.org/web/20170618061404/http://www.arcachon.com/en/accueil_en.html |date=2017-06-18 }} 
+ * [https://www.nouvelle-aquitaine.fr/ Région Nouvelle-Aquitaine] {{in lang|fr}} 
+ 
+ [[Category:Subprefectures in France]] 
+ [[Category:Communes in Gironde]]

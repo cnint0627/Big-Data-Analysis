@@ -1,0 +1,113 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |official_name          = Agadir 
+ |other_name             =  < span style= " line-height:120% " > {{script/Arabic|اكادير}} < /span > 
+ |native_name            =  < span style= " line-height:160% " > ⴰⴳⴰⴷⵉⵔ < /span > < !--when native name not in English-- > 
+ |nickname               =  
+ |settlement_type        =  < !--For Town or Village (Leave blank for the default City)-- > 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = 
+ |image_caption          = View of Agadir  
+ |imagesize              = 300px 
+ |image_coat_of_arms     =  
+ |flag_size              = 
+ |image_seal             = 
+ |seal_size              = 
+ |shield_size            = 
+ |image_map              =  
+ |mapsize                =  
+ |map_caption            =  
+ |image_map1             =  
+ |mapsize1               =  
+ |map_caption1           =  
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            = Morocco  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =bottom 
+ |pushpin_map_caption    =Location in Morocco  
+ |pushpin_relief         =1 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = [[File:Flag of Morocco.svg|25px]] [[Morocco]] 
+ |subdivision_type1      = [[Regions of Morocco|Region]] 
+ |subdivision_name1      = [[Souss-Massa]] 
+ |subdivision_type2      = [[Prefectures of Morocco|Prefecture]] 
+ |subdivision_name2      = Agadir-Ida Ou Tanane 
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            = 
+ |leader_title1          =   < !-- for places with, say, both a mayor and a city manager -- > 
+ |leader_name1           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       =  
+ |established_title2     =   < !-- Incorporated (town) -- > 
+ |established_date2      =  
+ |established_title3     =   < !-- Incorporated (city) -- > 
+ |established_date3      = 
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |area_footnotes           = 
+ |area_total_km2           =  
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ |area_urban_km2           = 
+ |area_urban_sq_mi         = 
+ |area_metro_km2           = 
+ |area_metro_sq_mi         = 
+ |area_blank1_title        = 
+ |area_blank1_km2          = 
+ |area_blank1_sq_mi        = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               = 2014 
+ |population_footnotes           = < ref name=census2014 > {{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D’APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=High Commission for Planning, Morocco |date=8 April 2015 |access-date=29 September 2017}} < /ref > 
+ |population_note                = 
+ |population_total               = 421844 
+ |population_density_km2         = auto 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_urban               = 
+ |population_density_urban_km2   = 
+ |population_density_urban_sq_mi = 
+ |population_blank1_title= Population Rank in Morocco 
+ |population_rank                =[[List of cities in Morocco|10th in Morocco]] 
+ |population_blank2_title        =Ethnicities 
+ |population_blank2              = 
+ |population_density_blank1_km2 =    
+ |population_density_blank1_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               = GMT 
+ |utc_offset             =  
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ |coordinates            = {{coord|30|26|N|9|36|W|region:MA|display=inline}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            = 74 
+ |elevation_ft           =  
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       = 82000  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             = 
+ |blank_info             = 
+ |website                = [http://www.agadir.ma Agadir] {{in lang|ar|fr}} 
+ |footnotes              =  
+ }} 
+ [[File:Marina Agadir yacht terminal 2020.jpg|thumb|left|Agadir Marina]] 
+ '''Agadir''' is a city in southwestern [[Morocco]], located on the [[Atlantic coast]] in the region of Souss. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Cities in Morocco]]

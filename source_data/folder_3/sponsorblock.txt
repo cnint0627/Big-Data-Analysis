@@ -1,0 +1,38 @@
+{{use mdy dates|date=January 2021}} 
+ {{Infobox software 
+ | name = SponsorBlock 
+ | logo = SponsorBlockLogo.png 
+ | logo_size = 64px 
+ | screenshot =  
+ | screenshot alt =  
+ | screenshot size = 240px 
+ | caption =  
+ | developer = Ajay Ramachandran 
+ | released = {{Start date and age|2019|07|12}} < ref > {{cite web |url=https://github.com/ajayyy/SponsorBlock/releases/tag/v0.1 |title=Initial Release |website=[[GitHub]] |access-date=December 5, 2020}} < /ref > 
+ | latest release version = {{wikidata|property|reference|P348}} 
+ | latest release date = {{start date and age|{{wikidata|qualifier|P348|P577}}}} 
+ | programming language = [[TypeScript]] 
+ | operating system = [[Cross-platform]] 
+ | genre =  < small > Server: < /small > < br/ >  [[Crowdsourced]] [[database]]  < br/ >   < small > Client: < /small > < br/ >  [[Browser extension]] 
+ | license = [[GNU Lesser General Public License|LGPL-3.0-or-later]] 
+ | website = {{URL|https://sponsor.ajay.app/}} 
+ }} 
+ '''SponsorBlock''' is a [[free and open-source]] [[browser extension]] that skips segments of [[YouTube videos]]. < ref > {{Cite web|date=2019-09-28|title=5 YouTube Cheats to Break Restrictions and Make YouTube Fun Again|url=https://www.makeuseof.com/tag/youtube-cheats-break-restrictions/|access-date=2022-02-25|website=MUO|language=en-US}} < /ref >  Users make them, which other users can vote on. < ref > {{cite web |title=SponsorBlock für YouTube - Add-on für Google Chrome |url=https://www.chip.de/downloads/SponsorBlock-fuer-YouTube-Add-on-fuer-Google-Chrome_178613612.html |website=CHIP |publisher=CHIP Digital GmbH |access-date=December 6, 2020 |language=German |archive-date=August 12, 2020 |archive-url=https://web.archive.org/web/20200812175159/https://www.chip.de/downloads/SponsorBlock-fuer-YouTube-Add-on-fuer-Google-Chrome_178613612.html |url-status=live }} < /ref > < ref > {{Cite web|date=2021-12-08|title=6 Firefox Add-Ons to Improve Your YouTube Viewing Experience|url=https://www.makeuseof.com/firefox-add-ons-improve-youtube-viewing/|access-date=2022-02-25|website=MUO|language=en-US}} < /ref >  It is recommended on [[Firefox]]'s add-on store. < ref name= " mozillaspotlight " > {{cite web |title=Extension Spotlight: SponsorBlock for YouTube |url=https://blog.mozilla.org/firefox/firefox-extension-sponsorblock/ |website=The Firefox Frontier |publisher=Mozilla |access-date=December 6, 2020 |date=July 21, 2020}} < /ref >  {{as of|2022|June|30|df=US}}, it has over 175,000 downloads on [[Firefox]] and over 600,000 downloads on [[Google Chrome]]. < ref > {{cite web |title=SponsorBlock for YouTube – Skip Sponsorships |url=https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone |website=chrome web store |access-date=December 6, 2020 |archive-date=December 11, 2020 |archive-url=https://web.archive.org/web/20201211192113/https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone |url-status=live }} < /ref > < ref > {{cite web |title=SponsorBlock - Skip Sponsorships on YouTube |url=https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/ |website=Firefox Browser Add-ons |publisher=Mozilla |access-date=December 6, 2020}} < /ref > {{Better source needed|reason=The current source is insufficiently reliable ([[WP:NOTRS]]).|date=April 2022}} 
+ 
+ ==History== 
+ Only sponsorships could be skipped until more categories (such as self-promotion or intermissions) were added in June 2020. < ref > {{Cite web |title=Categories – SponsorBlock |url=https://blog.ajay.app/categories-sponsorblock/ |access-date=2020-12-27 |website=blog.ajay.app}} < /ref >  An update in January 2022 added support for marking whole videos as sponsorships. < ref > {{Cite web |title=Allow submitting as full video · ajayyy/SponsorBlock@d36b4a5 |url=https://github.com/ajayyy/SponsorBlock/commit/d36b4a54f3154fdcfbd2e5f059c401bdd6ceeee3 |access-date=2022-03-28 |website=GitHub |language=en}} < /ref > 
+ 
+ ==Usage== 
+ Users submit segments of videos and choose a category for them. Those segments are automatically skipped. When a segment is skipped, a small pop-up appears for a few seconds to allow the user to vote on it or  " unskip "  it. The number of segments each user has submitted and skipped is tracked. < ref name= " ghacks " > {{cite web |last1=Brinkmann |first1=Martin |title=Skip sponsor messages in YouTube videos with SponsorBlock |url=https://www.ghacks.net/2020/01/03/skip-sponsor-messages-in-youtube-videos-with-sponsorblock/ |website=ghacks.net |publisher=Softonic |access-date=December 7, 2020 |date=January 3, 2020 |archive-date=March 24, 2021 |archive-url=https://web.archive.org/web/20210324140007/https://www.ghacks.net/2020/01/03/skip-sponsor-messages-in-youtube-videos-with-sponsorblock/ |url-status=live }} < /ref > 
+ 
+ ==Reception== 
+ The extension was on Mozilla's Extension Spotlight on July 21, 2020, and is the highest rated recommended Firefox extension. < ref name=mozillaspotlight / > < ref > {{cite web |title=Recommended extensions |website=Firefox Browser Add-ons |publisher=Mozilla |access-date=April 7, 2021 |archive-url=https://web.archive.org/web/20210407083332/https://addons.mozilla.org/en-US/firefox/search/?promoted=recommended & sort=rating & type=extension |url=https://addons.mozilla.org/en-US/firefox/search/?promoted=recommended & sort=rating & type=extension |archive-date=April 7, 2021 |url-status=live}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * {{official website|https://sponsor.ajay.app/}} 
+ 
+ [[Category:Cross-platform software]] 
+ [[Category:YouTube]]

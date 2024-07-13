@@ -1,0 +1,85 @@
+{{Infobox software 
+ | name                   = Git 
+ | logo                   = [[File:Git-logo-2012.svg|150px]] 
+ | screenshot             = Git session.svg 
+ | caption                = A command-line session showing repository creation, addition of a file, and remote synchronization 
+ | author                 = [[Linus Torvalds]] < ref name= " git-initial-commit " > {{cite web 
+  | url = https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290 
+  | date        = 8 April 2005 
+  | title       = Initial revision of  " git " , the information manager from hell 
+  | publisher   = [[GitHub]] 
+  | access-date  = 20 December 2015 
+  | url-status  = live 
+  | archive-url  = https://web.archive.org/web/20151116175401/https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290 
+  | archive-date = 16 November 2015}} < /ref > 
+ | developer              = Junio Hamano and others < ref name= " git-commits " > {{cite web 
+  | url         = https://github.com/git/git/graphs/contributors 
+  | date        = 8 June 2016 
+  | title       = Commit Graph 
+  | publisher   = [[GitHub]] 
+  | access-date  = 19 December 2015 
+  | url-status  = live 
+  | archive-url  = https://web.archive.org/web/20160120121816/https://github.com/git/git/graphs/contributors 
+  | archive-date = 20 January 2016}} < /ref > 
+ | released               = {{Start date and age|2005|4|7|df=yes}} 
+ | latest release version = {{wikidata|property|preferred|references|edit|Q186055|P348|P548=Q2804309}} 
+ | latest release date    = {{wikidata|qualifier|preferred|single|Q186055|P348|P548=Q2804309|P577}} 
+ | latest preview version = {{wikidata|property|preferred|references|edit|Q186055|P348|P548=Q51930650}} 
+ | latest preview date    = {{wikidata|qualifier|preferred|single|Q186055|P348|P548=Q51930650|P577}} 
+ | programming language   = [[C (programming language)|C]], [[Shell (computing)|Shell]], [[Perl]], [[Tcl]] < ref > {{cite web 
+  | url         = https://github.com/git/git 
+  | title       = Git Source Code Mirror 
+  | website = [[GitHub]] 
+  | access-date  = 1 January 2017 
+  | url-status  = live 
+  | archive-url  = https://web.archive.org/web/20170208051639/https://github.com/git/git 
+  | archive-date = 8 February 2017}} < /ref > 
+ | operating system       = [[POSIX]] ([[Linux]], [[macOS]], [[Solaris (operating system)|Solaris]], [[AIX]]), [[Microsoft Windows|Windows]] 
+ | size                   =  
+ | language               = English 
+ | genre                  = [[Version control]] 
+ | license                = [[GNU General Public License|GPL-2.0-only]]{{efn-lr|GPL-2.0-only since 2005-04-11. Some parts under compatible licenses such as [[GNU Lesser General Public License|LGPLv2.1]]. < ref name= " license_lgpl " > {{cite web 
+  | url         = https://github.com/git/git/blob/master/LGPL-2.1 
+  | title       = Git's LGPL license at github.com 
+  | date        = 20 May 2011 
+  | website     = [[GitHub]] 
+  | access-date  = 12 October 2014 
+  | url-status  = live 
+  | archive-url  = https://web.archive.org/web/20160411135049/https://github.com/git/git/blob/master/LGPL-2.1 
+  | archive-date = 11 April 2016}} < /ref > }} < ref name= " license_gpl " > {{cite web 
+  | url         = https://github.com/git/git/blob/master/COPYING 
+  | title       = Git's GPL license at github.com 
+  | date        = 18 January 2010 
+  | website     = [[GitHub]] 
+  | access-date  = 12 October 2014 
+  | url-status  = live 
+  | archive-url  = https://web.archive.org/web/20160411135124/https://github.com/git/git/blob/master/COPYING 
+  | archive-date = 11 April 2016}} < /ref > 
+ | standard               =  
+ | AsOf                   =  
+ }} 
+ {{see also|GitHub}} 
+ '''Git''' ({{IPAc-en|g|ɪ|t}}) is a [[distributed revision control]] system. It is a [[computer program]] that helps people create other computer programs together. Git was made to be fast. < ref > {{cite mailing list |mailinglist=linux-kernel |author=Linus Torvalds |url=http://marc.info/?l=linux-kernel & m=111288700902396 |title=Re: Kernel SCM saga.. |date=2005-04-07 |accessdate=2011-11-30}}  " So I'm writing some scripts to try to track things a whole lot faster. " < /ref >  It was created by [[Linus Torvalds]] for use in [[Software development|developing]] the [[Linux kernel]] which he also created. Git's current development is looked after by [[Junio Hamano]]. It is [[Free software|free]] and [[open source]] software released under the [[GNU General Public License]] version 2 [[software license]]. < ref > {{Cite web|title=About - Git|url=https://git-scm.com/about|access-date=2021-05-12|website=git-scm.com}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ ;Notes 
+ < references group= " lower-roman " / > 
+ 
+ ==Other websites== 
+ {{Wikibooks|Source Control Management With Git}} 
+ * {{Official|https://git-scm.com/}} 
+ * [http://book.git-scm.com/ Git Community Book] 
+ * [http://utsl.gen.nz/talks/git-svn/intro.html Introduction to git-svn for Subversion/SVK users and deserters] {{Webarchive|url=https://web.archive.org/web/20120116230508/http://utsl.gen.nz/talks/git-svn/intro.html |date=2012-01-16 }} by Sam Vilain 
+ * [http://eagain.net/articles/git-for-computer-scientists/ Git for computer scientists] 
+ * [http://www-cs-students.stanford.edu/~blynn/gitmagic/ Git Magic]: a comprehensive listing of Git tips  &  tricks 
+ * [http://jonas.nitro.dk/git/quick-reference.html Git Quick Reference] {{Webarchive|url=https://web.archive.org/web/20120119131911/http://jonas.nitro.dk/git/quick-reference.html |date=2012-01-19 }} 
+ * [https://www.youtube.com/watch?v=4XpnKHJAok8 Linus Torvalds hosting a Google Tech Talk on Git] 
+ * [https://git.wiki.kernel.org/index.php/Main_Page Git Wiki at kernel.org] 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Microsoft Windows software]] 
+ [[Category:Linux software]]

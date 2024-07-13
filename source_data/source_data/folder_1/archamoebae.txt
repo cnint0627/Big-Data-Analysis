@@ -1,0 +1,36 @@
+{{Automatic taxobox 
+ | fossil_range = 
+ | image = Entamoeba histolytica.jpg 
+ | image_caption = ''[[Entamoeba histolytica]]'' [[trophozoite]] 
+ | display_parents = 4 
+ | taxon = Archamoebae 
+ | authority = Cavalier-Smith 1998 
+ | subdivision_ranks = Families and orders 
+ | subdivision= 
+ * [[Tricholimacidae]] 
+ * [[Endamoebidae]] 
+ * [[Entamoebida]] 
+ ** [[Entamoebidae]] 
+ * [[Pelobiontida]] 
+ ** [[Pelomyxidae]] 
+ ** [[Rhizomastigidae]] 
+ | synonyms_ref =  
+ | synonyms = 
+ * Karyoblastea  < small > Margulis  &  Schwartz 1982 < /small > 
+ * Peloflagellatea  < small > Goodkov  &  Seravin 1991 < /small > 
+ * Caryoblastea 
+ * Entamoebea  < small > Cavalier-Smith 1991 < /small > 
+ * Rhizoflagellata  < small > Saville Kent 1880 < /small > 
+ * Mastigamoebomonada  < small > Starobogatov  &  Seravin 1980 < /small > 
+ }} 
+ 
+ The '''Archamoebae''' are an important group of [[Amoebozoa|amoebae]]. < ref name= " pmid9809012 " > {{cite journal |author=Cavalier-Smith T 1998 |title=A revised six-kingdom system of life |journal=Biol Rev Camb Philos Soc |year=2007 |volume=73 |issue=3 |pages=203–66 |pmid=9809012 |doi=10.1111/j.1469-185X.1998.tb00030.x |s2cid=6557779 |url=http://www3.interscience.wiley.com/resolve/openurl?genre=article & sid=nlm:pubmed & issn=1464-7931 & date=1998 & volume=73 & issue=3 & spage=203 |access-date=2016-02-23 |archive-date=2012-12-05 |archive-url=https://archive.today/20121205040851/http://www3.interscience.wiley.com/resolve/openurl?genre=article & sid=nlm:pubmed & issn=1464-7931 & date=1998 & volume=73 & issue=3 & spage=203 |url-status=dead }} < /ref >  They are unusual among [[protists]] because they have no [[mitochondria]]. < ref name= " pmid1854912 " > {{cite journal |author=Cavalier-Smith T. 1991. |title=Archamoebae: the ancestral eukaryotes? |journal=BioSystems |year=1991 |volume=25 |issue=1–2 |pages=25–38  |pmid=1854912 |doi= 10.1016/0303-2647(91)90010-I|url=}} < /ref >    
+ 
+ The group includes many [[genera]] which are internal [[parasitism|parasite]]s or [[commensalism|commensal]]s of animals: for example ''[[Entamoeba]]'' and ''[[Endolimax]]''. Some are human [[pathogens]], causing diseases such as amoebic [[dysentery]]. Other genera of archamoebae live in [[freshwater]] [[habitats]], and have [[flagellum|flagella]].  Most have a single [[cell nucleus|nucleus]] and flagellum, but the giant amoeba ''[[Pelomyxa]]'' has many of each. 
+ 
+ Analysis of 100 genes shows that the Archamoebae are part of the [[Amoebozoa]] which have lost their mitochondria. They are close relatives of the [[slime moulds]]. Parasitic and commensal forms like ''Entamoeba'' and ''Endolimax'' developed separately from free-living ancestors. < ref > Bapteste E; Brinkmann H; Lee J.A. ''et al'' 2002. The analysis of 100 genes supports the grouping of three highly divergent amoebae: ''Dictyostelium'', ''Entamoeba'', and ''Mastigamoeba''. ''Proc. Natl. Acad. Sci. U.S.A.'' '''99''' (3): 1414–9. PMID 11830664. [http://www.pnas.org/content/99/3/1414.full]{{Dead link|date=March 2022 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Protozoa]]

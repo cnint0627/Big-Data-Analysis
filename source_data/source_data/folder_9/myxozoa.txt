@@ -1,0 +1,40 @@
+{{taxobox 
+ | name = Myxozoa 
+ | image = Fdl17-9-grey.jpg 
+ | image_width = 270px 
+ | image caption = Triactinomyxon stage of ''[[Myxobolus cerebralis]]''. 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Cnidaria]] 
+ | unranked_classis = '''Myxozoa''' 
+ | unranked_classis_authority = Grassé, 1970 
+ | subdivision_ranks = Classes 
+ | subdivision = 
+ * [[Malacosporea]] 
+ * [[Myxosporea]] 
+ }} 
+ 
+ The '''Myxozoa'''  < ref > from Greek ''myx-'' = slime or mucus + ''zoa'' = animals < /ref >  are a group of [[Parasite|parasitic]] [[animal]]s of aquatic [[environment]]s. Some of them, such as ''[[Myxobolus cerebralis]]'', are important parasites of fishes that people eat. 
+ 
+ Over 1300 [[species]] have been described and many have a two-host [[life cycle]], involving a [[fish]] and an [[annelid]] worm or [[bryozoa]]n. 
+ 
+ They were once considered as [[parasitic]] [[protozoa]], but are now known to be members of the [[phylum]] [[Cnidaria]]. Analysis of 50 coding [[gene]]s from ''[[Buddenbrockia]]'' showed the Myxozoa were severely modified members of the Cnidaria. 
+ 
+ Similarities between myxozoan 'polar capsules' and cnidarian [[nematocyst]]s (stinging cells) had been known for a long time, but previously were thought to be the result of [[convergent evolution]]. < ref > 
+ {{cite journal 
+ |author=E. Jímenez-Guri | display-authors = etal 
+ |date=July 2007 
+ |title=''Buddenbrockia'' is a cnidarian worm 
+ |journal=Science 
+ |volume=317 
+ |issue=116 
+ |pages=116–118 
+ |doi=10.1126/science.1142024 
+ |pmid=17615357| bibcode = 2007Sci...317..116J 
+ | s2cid = 5170702 
+ }} < /ref > < ref > Kent M.L., Margolis L.  &  Corliss J.O. 1994. The demise of a class of protists: taxonomic and nomenclatural revisions proposed for the protist phylum Myxozoa Grasse, 1970. ''Canadian Journal of Zoology'' '''72'''(5):932-937. < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Cnidarians]] 
+ [[Category:Parasites]]

@@ -1,0 +1,236 @@
+{{Infobox country 
+ | conventional_long_name = Republic of Estonia 
+ | common_name     = Estonia 
+ | native_name     = {{native name|et|Eesti Vabariik|võro|Eesti Vabariik|}} 
+ | image_flag      = Flag of Estonia.svg 
+ | image_coat       = Small coat of arms of Estonia.svg 
+ | national_anthem = {{unbulleted list 
+ | " [[Mu isamaa, mu õnn ja rõõm]] " 
+ |({{Lang-en| " My Fatherland, My Happiness and Joy " }}) 
+ |[[File:US Navy band - National anthem of Estonia.ogg|center|alt=sound file of Estonian National anthem]] 
+ }} 
+ | image_map          = EU-Estonia.svg 
+ | map_caption        = {{map_caption |location_color=dark green |region=Europe |region_color=grey |subregion=the [[European Union]] |subregion_color=green|legend=EU-Estonia.svg}} 
+ | capital            = [[Tallinn]] < sup > a < /sup > 
+ | coordinates        = {{Coord|59|25|N|24|45|E|type:city}} 
+ | largest_city       = capital 
+ | languages_type = Official language < br > and [[national language]] 
+ | languages = [[Estonian language|Estonian]] 
+ | languages2_type = Other recognised languages 
+ | languages2 = {{unbulleted_list|Russian|Ukrainian|Lithuanian|Belarusian|Latvian|Finnish|Swedish}} 
+ | ethnic_groups      = {{ublist |item_style=white-space:nowrap; |68.5% [[Estonians]] |24.8% [[Russians]] |1.8% [[Ukrainians]] |0.9% [[Belarusians]] |0.6% [[Finns]] |3.4% Others}} 
+ | ethnic_groups_year = 2019 < ref > {{cite web|url=https://www.stat.ee/34267|title=Rahvaarv rahvuse järgi, 1. jaanuar, aasta|website=stat.ee|access-date=2020-04-19|archive-date=2020-04-20|archive-url=https://web.archive.org/web/20200420034410/https://www.stat.ee/34267|url-status=dead}} < /ref > 
+ | demonym = Estonian 
+ | government_type  = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[republic]] 
+ | leader_title1    = [[President of Estonia|President]] 
+ | leader_name1     = [[Alar Karis]] 
+ | leader_title2    = [[Prime Minister of Estonia|Prime Minister]] 
+ | leader_name2     = [[Kaja Kallas]] 
+ | legislature      = ''[[Riigikogu]]'' 
+ | sovereignty_type  = [[History of Estonia|Independence]] 
+ | established_event1  = {{nowrap|[[Autonomous Governorate of Estonia|Autonomy declared]]}} 
+ | established_date1   = 12 April 1917 
+ | established_event2  = {{nowrap|[[Estonian Declaration of Independence|Independence declared]]}} 
+ | established_date2   = {{nowrap|24 February 1918}} 
+ | established_event3  = {{nowrap|[[Treaty of Tartu (Russian–Estonian)|Independence recognised]]}} 
+ | established_date3   = 2 February 1920 
+ | established_event4  = {{nowrap|[[Occupation of the Baltic states|Soviet and German occupations]]}} 
+ | established_date4   = 1940–1991 
+ | established_event5  = {{nowrap|[[Restoration of Estonia|Independence restored]]}} 
+ | established_date5   = 20 August 1991 
+ | established_event6  = {{nowrap|[[2004 enlargement of the European Union|Joined]] the [[European Union]]}} 
+ | established_date6   = 1 May 2004 
+ | area_km2            = 45,227 < ref > {{cite web |url=https://www.stat.ee/publication-download-pdf?publication_id=44619 |title=Minifacts About Estonia 2017 |accessdate=19 July 2017 |archive-date=3 November 2018 |archive-url=https://web.archive.org/web/20181103141541/http://www.stat.ee/publication-download-pdf?publication_id=44619 |url-status=dead }} < /ref > 
+ | area_rank           = 129th < sup > d < /sup > 
+ | area_sq_mi          = 17,462 < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | percent_water       = 4.45% 
+ | population_estimate = {{increase}} 1,328,360 < ref > {{cite web|title=Population at beginning of year|publisher=Statistics Estonia|url=https://www.stat.ee/stat-population-at-beginning-of-year|year=2020|access-date=2020-04-19|archive-date=2018-12-19|archive-url=https://web.archive.org/web/20181219182651/https://www.stat.ee/stat-population-at-beginning-of-year|url-status=dead}} < /ref > 
+ | population_census   = 1,294,455 < ref > {{cite web |title= Phc 2011 results |publisher= Statistics Estonia |year= 2011 |url= http://www.stat.ee/phc2011 |accessdate= 26 January 2016 |archive-date= 10 October 2016 |archive-url= https://web.archive.org/web/20161010065115/http://www.stat.ee/phc2011 |url-status= dead }} < /ref > 
+ | population_estimate_year = 2020 
+ | population_estimate_rank = 153rd 
+ | population_census_year   = 2011 
+ | population_density_km2   = 28 
+ | population_density_sq_mi = 75  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | population_density_rank  = 149th 
+ | GDP_PPP                  = $49.644 & nbsp;billion < ref name= " imf2 " > {{cite web |title= Estonia |publisher= International Monetary Fund |url= https://www.imf.org/external/pubs/ft/weo/2019/02/weodata/weorept.aspx?pr.x=69 & pr.y=8 & sy=2017 & ey=2024 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & c=939 & s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC & grp=0 & a= |year= 2019}} < /ref > 
+ | GDP_PPP_year             = 2020 
+ | GDP_PPP_rank             = 
+ | GDP_PPP_per_capita       = $37,605 < ref name=imf2/ > 
+ | GDP_PPP_per_capita_rank  = 43rd 
+ | GDP_nominal                 = $32.742 & nbsp;billion < ref name= " imf2 " / > 
+ | GDP_nominal_year            = 2020 
+ | GDP_nominal_rank            = 
+ | GDP_nominal_per_capita      = $24,802 < ref name= " imf2 " / > 
+ | GDP_nominal_per_capita_rank = 35th 
+ | Gini               = 30.6  < !-- number only -- > 
+ | Gini_year          = 2018 
+ | Gini_change        = decrease  < !--increase/decrease/steady-- > 
+ | Gini_ref =  < ref name= " eurogini " > {{cite web |title= Gini coefficient of equivalised disposable income |work= EU-SILC survey |publisher= [[Eurostat]] |url= https://ec.europa.eu/eurostat/tgm/table.do?tab=table & init=1 & language=en & pcode=tessi190 & plugin=1 |accessdate= 10 September 2019}} < /ref > 
+ | Gini_rank          = 
+ | HDI                = 0.882  < !-- number only -- > 
+ | HDI_year           = 2018 < !-- Please use the year to which the data refers, not the publication year-- > 
+ | HDI_change         = increase  < !--increase/decrease/steady-- > 
+ | HDI_ref =  < ref name= " HDI " > {{cite web |title= 2015 Human Development Report |publisher= United Nations Development Programme |year= 2015 |url= http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf |accessdate= 14 December 2015}} < /ref > 
+ | HDI_rank           = 30th 
+ | currency           = [[Euro]] ([[Euro sign|€]]) 
+ | currency_code      = EUR 
+ | time_zone          = [[Eastern European Time|EET]] 
+ | utc_offset         = +2 
+ | utc_offset_DST     = +3 
+ | time_zone_DST      = [[Eastern European Summer Time|EEST]] 
+ | drives_on          = right 
+ | calling_code       = [[Telephone numbers in Estonia|+372]] 
+ | cctld              = [[.ee]] < sup > e < /sup > 
+ | footnote_a  = The [[Supreme Court of Estonia|Supreme Court]] and one ministry are based in [[Tartu]]. 
+ | footnote_b = According to the [[Constitution of Estonia]], Estonian is the only official language. < ref > [http://www.president.ee/en/republic-of-estonia/the-constitution/index.html#1 Constitution of the Republic of Estonia] {{Webarchive|url=https://web.archive.org/web/20161019234002/http://www.president.ee/en/republic-of-estonia/the-constitution/index.html#1 |date=2016-10-19 }}, 6th article < /ref >  In [[Võrumaa|southern counties]], [[Võro language|Võro]] and [[Seto language|Seto]] are spoken along with it. [[Russian language|Russian]] is spoken in parts of [[Ida-Virumaa]] and Tallinn. 
+ | footnote_c = Including 5.4% [[Võros]] and 0.93% [[Setos]].{{big| < ref > [http://www.postimees.ee/906060/vorokesed-ees-setod-jarel Võrokesed ees, setod järel]. postimees.ee (13 July 2012). < /ref > }} 
+ | footnote_d = {{convert|47549|km²|0|abbr= on}} were defined according to the [[Treaty of Tartu (Russian–Estonian)|Treaty of Tartu]] in 1920 
+ | footnote_e = Also [[.eu]], shared with other member states of the European Union. 
+ }} 
+ '''Estonia''' {{IPAc-en|audio=en-us-Estonia.ogg|i|s|ˈ|t|oʊ|n|i|ə}} ({{lang-et|Eesti}}), officially the '''Republic of Estonia''' ({{lang-et|Eesti Vabariik}}) is a small [[country]] in the Baltic Region of [[Northern Europe]]. The [[capital city]] is [[Tallinn]]. Estonia's neighbors are [[Sweden]], [[Finland]], [[Russia]] and [[Latvia]]. Its [[population]] is 1,332,893. < ref > {{cite web|url=http://www.google.com/publicdata/explore?ds=wb-wdi & met=sp_pop_totl & idim=country:EST & dl=en & hl=en & q=population+of+estonia|title=World Bank, World Development Indicators - Google Public Data Explorer|website=www.google.com}} < /ref > 
+ 
+ The territory of Estonia has the mainland and 2,222 islands in the [[Baltic Sea]]. < ref > Matthew Holehouse [https://www.telegraph.co.uk/news/worldnews/europe/estonia/11830643/Estonia-discovers-800-new-islands.html Estonia discovers it's actually larger after finding 800 new islands] ''The Telegraph'', 28 August 2015 < /ref > 
+ 
+ ==History== 
+ People have lived in Estonia since at least 9,000 & nbsp;BC. The oldest known settlement in Estonia is the [[Pulli|Pulli settlement]], which was on the banks of the [[Pärnu river|Pärnu River]]. 
+ 
+ Estonia became [[Treaty of Tartu (Estonia–Russia)|independent from Russia]] in 1920 after a brief [[Estonian War of Independence|War of Independence]] at the end of [[World War I]]. During [[World War II]] (1939–1945), Estonia was occupied by the [[Soviet Union]] and [[Nazi Germany|Germany]]. It then became the [[Estonian Soviet Socialist Republic]] and lost its independence. 
+ 
+ Estonia had its independence restored in 1991. < ref > {{cite web|url=http://www.estonica.org/en/The_August_coup_and_Estonian_independence_1991/|title=The August coup and Estonian independence (1991)|website=Estonica.org|access-date=2019-06-26|archive-date=2021-02-25|archive-url=https://web.archive.org/web/20210225205239/http://www.estonica.org/en/The_August_coup_and_Estonian_independence_1991/|url-status=dead}} < /ref >  It became a member of the [[North Atlantic Treaty Organization]] (NATO) on 29 March 2004. It joined the [[European Union]] on 1 May 2004. 
+ 
+ In January 2021, Estonia became the only country in the world led by women by having a female [[President of Estonia|president]] ([[Kersti Kaljulaid]]) and female [[Prime Minister of Estonia|prime minister]] ([[Kaja Kallas]]). < ref > {{cite web |last1=Hankewitz |first1=Sten |title=Estonia becomes the only country in the world led by women |url=https://estonianworld.com/life/estonia-becomes-the-only-country-in-the-world-led-by-women/ |website=Estonian World |access-date=26 January 2021 |date=26 January 2021}} < /ref >  A few months later, [[Alar Karis]] replaced Kaljulaid as president. 
+ 
+ In June 2023, the government passed a bill allowing [[same-sex marriage]] and same-sex [[adoption]] in Estonia. < ref > {{Cite web |last= |first= |date=2023-05-15 |title=Estonian government approves draft same-sex marriage act |url=https://news.err.ee/1608978632/estonian-government-approves-draft-same-sex-marriage-act |access-date=2023-06-06 |website=ERR News |language=en}} < /ref >  The bill will come into effect on 1 January 2024.  It will make Estonia the first [[Baltic states|Baltic state]] and country that used to be part of the [[Soviet Union]] to allow same-sex marriage and adoption. < ref > {{Cite web |title=Hääletustulemused 22.05.2023 / 23:42 |url=https://www.riigikogu.ee/tegevus/tooulevaade/haaletused/haaletustulemused-kohalolekukontroll/caec13d8-5cde-48b2-8829-55b903099bc2 |access-date=2023-06-06 |website=Riigikogu |language=et}} < /ref > < ref > {{Cite web |last= |date=2023-06-20 |title=Ajalooline otsus: Eesti seadustas samasooliste abielu |url=https://www.err.ee/1609012283/ajalooline-otsus-eesti-seadustas-samasooliste-abielu |access-date=2023-06-20 |website=ERR News |language=et}} < /ref > 
+ 
+ ==Geography== 
+ Estonia is bordered to the north by the [[Gulf of Finland]] with [[Finland]] on the other side, to the west by the [[Baltic Sea]] with [[Sweden]] on the other side, to the south by [[Latvia]] (343 & nbsp;km), and to the east by [[Lake Peipus]] and [[Russia]] (338.6 & nbsp;km). < ref > {{cite web |url= http://www.eesti.ee/eng/riik/eesti_vabariik/ |title= Estonian Republic |accessdate= 21 July 2011 |url-status= unfit | archiveurl= https://web.archive.org/web/20110721204649/http://www.eesti.ee/eng/riik/eesti_vabariik/ |archivedate= 21 July 2011}}. Official website of the Republic of Estonia (in Estonian) < /ref > 
+ 
+ Average elevation reaches only {{convert|50|m|ft|0}}. The country's highest point is the [[Suur Munamägi]] in the southeast at {{convert|318|m|ft|0}}. 
+ 
+ Estonia has many [[forest]]s, almost 50% of the land is covered with [[forest]]s. < ref name= " timber " > [http://www.estoniantimber.ee/facts/ Facts] {{webarchive|url=https://web.archive.org/web/20170202081812/http://www.estoniantimber.ee/facts/|date=2 February 2017}} Estonian Timber < /ref >  The most common tree species are pine, spruce and birch. < ref > {{cite web|url=http://europa.eu/rapid/press-release_STAT-13-154_en.htm|title=European Commission – PRESS RELEASES – Press release – Land Use/Cover Area frame Survey 2012 Buildings, roads and other artificial areas cover 5% of the EU ...and forests 40%|accessdate=27 March 2015}} < /ref >  Estonia has over 1,400 [[lakes]] and over 2,000 [[island]]s. The longest rivers are [[Võhandu]] ({{convert|162|km|mi|0|abbr=on|disp=or}}), [[Pärnu river|Pärnu]] ({{convert|144|km|mi|0|abbr=on|disp=or}}), and [[Põltsamaa (river)|Põltsamaa]] ({{convert|135|km|mi|0|abbr=on|disp=or}}). 
+ 
+ ==Biodiversity== 
+ Mammals in Estonia include the [[grey wolf]], [[Eurasian lynx|lynx]], [[brown bear]], [[red fox]], [[European badger|badger]], [[wild boar]], [[moose]], [[red deer]], [[roe deer]], [[European beaver|beaver]], [[Eurasian otter|otter]], grey seal, and [[ringed seal]]. The [[Critically endangered species|critically endangered]] [[European mink]] has been successfully reintroduced to the island of [[Hiiumaa]]. The rare [[Siberian flying squirrel]] is present in east Estonia. < ref > {{cite book| last1 = Taylor| first1 = Neil| title = Estonia| url = https://archive.org/details/estoniabradttrav0000tayl_s9l8| year = 2014| publisher = Bradt Travel Guides| isbn = 978-1-84162-487-7| pages = [https://archive.org/details/estoniabradttrav0000tayl_s9l8/page/6 6]–7 }} < /ref > < ref > {{cite book| last1 = Taylor| first1 = Neil| title = Estonia| url = https://archive.org/details/estoniabradttrav0000tayl_s9l8| year = 2014| publisher = Bradt Travel Guides| isbn = 978-1-84162-487-7| page = [https://archive.org/details/estoniabradttrav0000tayl_s9l8/page/4 4] }} < /ref > 
+ 
+ Over 300 bird species have been found in Estonia. These include the [[white-tailed eagle]], [[lesser spotted eagle]], [[golden eagle]], [[western capercaillie]], [[Black Stork|black]] and [[white stork]], many species of [[owls]], [[wader]]s, [[geese]] and many others. < ref > {{cite book| last1 = Taylor| first1 = Neil| title = Estonia| url = https://archive.org/details/estoniabradttrav0000tayl_s9l8| year = 2014| publisher = Bradt Travel Guides| isbn = 978-1-84162-487-7| pages = [https://archive.org/details/estoniabradttrav0000tayl_s9l8/page/7 7]–8 }} < /ref >  The [[Barn swallow]] is the [[National emblem|national bird]] of Estonia. < ref > {{cite book| last1 = Spilling| first1 = Michael| title = Estonia| year = 2010| publisher = Marshall Cavendish| isbn = 978-1-84162-487-7| page = 11 }} < /ref > 
+ 
+ [[Protected areas of Estonia|Protected areas]] cover 18% of Estonian land and 26% of its sea territory. There are 5 national parks, 159 nature reserves, and many other protection areas. < ref > {{cite web|url= https://www.keskkonnaamet.ee/en/news/nature-conservation-estonia |title=Nature conservation in Estonia |publisher=Estonian Environmental Board |date=16 November 2017 |accessdate=23 February 2018}} < /ref > 
+ 
+ ==Government== 
+ The [[Riigikogu]] is the name of the parliament in Estonia. 
+ 
+ ===Administrative regions=== 
+ [[File:Estonian administrative divisions 2017 with labels.svg|thumb|upright=1.4|Administrative divisions of Estonia]] 
+ Since administrative reform in 2017, there are in total 79 local governments. This includes 15 towns and 64 rural [[municipalities]]. All municipalities have equal legal status and form part of a [[Counties of Estonia|county]], which is a state administrative unit. < ref > {{cite book |title=Public administration characteristics and performance in EU28 |last1=Pesti |first1=Cerlin |last2=Randma-Liiv |first2=Tiina |date=April 2018 |chapter=Estonia |chapter-url= https://op.europa.eu/en/publication-detail/-/publication/c017bdc1-960e-11e8-8bc1-01aa75ed71a1/language-en  |editor-last=Thijs |editor-first=Nick |editor2-last=Hammerschmid |editor2-first=Gerhard |publisher=Publications Office of the European Union |location=[[Luxembourg]] |pages=252–255 |doi=10.2767/74735 |isbn=978-92-79-90453-0 |access-date=18 January 2020}} < /ref > 
+ 
+ The counties are: 
+ * [[File:Et-Harju maakond-coa.svg|15px]] [[Harju County]] 
+ * [[File:Hiiumaa vapp.svg|15px]] [[Hiiu County]] 
+ * [[File:Ida-Virumaa vapp.svg|15px]] [[Ida-Viru County]] 
+ * [[File:Jõgevamaa vapp.svg|15px]] [[Jõgeva County]] 
+ * [[File:Et-Järva maakond-coa.svg|15px]] [[Järva County]] 
+ * [[File:Läänemaa vapp.svg|15px]] [[Lääne County]] 
+ * [[File:Lääne-Virumaa vapp.svg|15px]] [[Lääne-Viru County]] 
+ * [[File:Põlvamaa vapp.svg|15px]] [[Põlva County]] 
+ * [[File:Et-Pärnu maakond-coa.svg|15px]] [[Pärnu County]] 
+ * [[File:Raplamaa vapp.svg|15px]] [[Rapla County]] 
+ * [[File:Saaremaa vapp.svg|15px]] [[Saare County]] 
+ * [[File:Tartumaa vapp.svg|15px]] [[Tartu County]] 
+ * [[File:Valgamaa vapp.svg|15px]] [[Valga County]] 
+ * [[File:Viljandimaa vapp.svg|15px]] [[Viljandi County]] 
+ * [[File:Võrumaa vapp.svg|15px]] [[Võru County]] 
+ 
+ ==Culture== 
+ 
+ According to [[speedtest.net]], Estonia has one of the fastest Internet download speeds in the world with an average download speed of 27.12 Mbit/s. < ref > {{cite web |url=http://www.netindex.com/ |title=Household Download Index |accessdate=12 February 2012}} < /ref > 
+ 
+ Estonia won the [[Eurovision Song Contest]] in 2001 with the song  " [[Everybody (Eurovision song)|Everybody]] "  performed by [[Tanel Padar]] and [[Dave Benton]]. In 2002, Estonia hosted the event. 
+ 
+ The Estonian [[National Day]] is the [[Independence Day (Estonia)|Independence Day]] celebrated on 24 February. This is the day the [[Estonian Declaration of Independence]] was issued. {{As of|2013}}, there are 12 public holidays and 12 national holidays celebrated each year. 
+ 
+ In June 2023, the Estonian government passed a bill legalising [[same-sex marriage]] and same-sex [[adoption]] in Estonia. < ref > {{Cite web |last= |first= |date=2023-05-15 |title=Estonian government approves draft same-sex marriage act |url=https://news.err.ee/1608978632/estonian-government-approves-draft-same-sex-marriage-act |access-date=2023-06-06 |website=ERR News |language=en}} < /ref >  The bill will come into effect on 1 January 2024, making Estonia the first [[Baltic states|Baltic]] state and country formerly occupied by the [[Soviet Union]] to legalise same-sex marriage and adoption. < ref > {{Cite web |title=Hääletustulemused 22.05.2023 / 23:42 |url=https://www.riigikogu.ee/tegevus/tooulevaade/haaletused/haaletustulemused-kohalolekukontroll/caec13d8-5cde-48b2-8829-55b903099bc2 |access-date=2023-06-06 |website=Riigikogu |language=et}} < /ref > < ref > {{Cite web |last= |date=2023-06-20 |title=Ajalooline otsus: Eesti seadustas samasooliste abielu |url=https://www.err.ee/1609012283/ajalooline-otsus-eesti-seadustas-samasooliste-abielu |access-date=2023-06-20 |website=ERR News |language=et}} < /ref > 
+ 
+ ==International rankings== 
+ The following are links to international rankings of Estonia. 
+ {|class= " wikitable "  style= " text-align:center; " 
+ |- 
+ ! style= " width:60%; " |Index 
+ ! style= " width:15%; " |Rank 
+ ! style= " width:20%; " |Countries reviewed 
+ |- 
+ |align= " left " |[[Freedom House]] Internet Freedom 2016 
+ |1 ||65 
+ |- 
+ |align= " left " |[[Environmental Performance Index]] 2016 
+ |8 ||180 
+ |- 
+ |align= " left " |[[Index of Economic Freedom]] 2017 
+ |6 ||180 
+ |- 
+ |align= " left " |[[Reporters Without Borders]] Press Freedom Index 2011–2012 
+ |11 ||187 
+ |- 
+ |align= " left " |[[State of World Liberty Index]] 2006 
+ |1 ||159 
+ |- 
+ |align= " left " |[[Human Development Index]] 2019 < ref > {{Cite web |url=http://hdr.undp.org/en/content/2019-human-development-index-ranking |title=2019 Human Development Index Ranking {{!}} Human Development Reports |access-date=2020-04-21 |archive-date=2020-04-30 |archive-url=https://web.archive.org/web/20200430080741/http://hdr.undp.org/en/content/2019-human-development-index-ranking |url-status=dead }} < /ref > 
+ |30 ||189 
+ |- 
+ |align= " left " |[[Corruption Perceptions Index]] 2016 
+ |22 ||176 
+ |- 
+ |align= " left " |TRACE Matrix business bribery risk 2016 < ref name= " traceinternational.org " > {{cite web|url=https://www.traceinternational.org/trace-matrix |title=Trace Matrix |publisher=Traceminternational.org |accessdate=23 July 2017}} < /ref > ||3 ||199 
+ |- 
+ |align= " left " |[[Networked Readiness Index]] 2014 
+ |21 ||133 
+ |- 
+ |align= " left " |[[Ease of Doing Business Index]] 2017 
+ |12 ||190 
+ |- 
+ |align= " left " |State of The World's Children's Index 2012 < ref > {{cite web|url=http://www.savethechildren.org/atf/cf/%7B9def2ebe-10ae-432c-9bd0-df91d2eba74a%7D/STATEOFTHEWORLDSMOTHERSREPORT2012.PDF |title=Nutrition in the First 1,000 Days: State of the World's Mothers 2012 |publisher=Savethechildren.org |accessdate=25 November 2012}} < /ref > 
+ |10 ||165 
+ |- 
+ |align= " left " |State of The World's Women's Index 2012 
+ |18 ||165 
+ |- 
+ |align= " left " |World Freedom Index 2014 < ref > {{cite web|url=http://www.worldfreedomindex.com|title=World Freedom Index|accessdate=27 March 2015}} < /ref > 
+ |8 ||165 
+ |- 
+ |align= " left " |[[Legatum Prosperity Index]] 2019 
+ |21 ||149 
+ |} 
+ 
+ ==Related pages== 
+ * [[Estonia at the Olympics]] 
+ * [[Estonia national football team]] 
+ * [[List of rivers of Estonia]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{commons|estonia}} 
+ * [http://www.riik.ee/en/ Official State Website] 
+ 
+ {{Europe}} 
+ {{European Union}} 
+ {{North Atlantic Treaty Organisation (NATO)}} 
+ {{Geographic Location 
+ | Centre = Estonia 
+ | North = Gulf of Finland 
+ | Northeast = Russian Federation 
+ | East = Russian Federation 
+ | Southeast = Russian Federation 
+ | South = Republic of Latvia 
+ | Southwest = Gulf of Riga 
+ | West = Baltic Sea 
+ | Northwest = Baltic Sea 
+ }} 
+ 
+ 
+ [[Category:Estonia| ]] 
+ [[Category:European Union member states]] 
+ [[Category:1991 establishments in Europe]] 
+ 
+ 
+ {{geo-stub}}

@@ -1,0 +1,81 @@
+{{Automatic taxobox 
+ | name = Holozoa 
+ | display_parents = 3 
+ | taxon = Holozoa 
+ | authority = Lang ''et al.'', 2002 
+ | fossil_range = Early [[Tonian]] - [[Holocene|Present]], {{long fossil range|1000|0}} 
+ | image = Elephant-ear-sponge.jpg 
+ | image_caption = Orange elephant ear sponge, ''[[Agelas clathrodes]]'', in foreground. Two corals in the background: a [[sea fan]], ''[[Iciligorgia schrammi]]'', and a sea rod, ''[[Plexaurella nutans]]''. 
+ | subdivision_ranks = Subgroups 
+ | subdivision = * [[Mesomycetozoea|Ichthyosporea]] (= Mesomycetozoea) 
+ * [[Pluriformea]] 
+ ** [[Corallochytrium]] 
+ ** [[Syssomonas]] 
+ * [[Filozoa]] 
+ ** [[Filasterea]] 
+ ** [[Choanozoa]] 
+ *** [[Choanoflagellata]] 
+ *** [[Metazoa]] (animals) 
+ }} 
+ '''Holozoa''' is a group of living things that includes [[Animal|animals]], and some [[Microorganism|single-celled]] relatives of animals. It excludes fungi. < ref name= " pmid18205615 " > {{cite journal|vauthors=Aleshin VV, Konstantinova AV, Mikhailov KV, Nikitin MA, Petrov NB|date=December 2007|title=Do we need many genes for phylogenetic inference?|url=http://protein.bio.msu.ru/biokhimiya/contents/v72/full/72121610.html|journal=Biochemistry Mosc.|volume=72|issue=12|pages=1313–23|doi=10.1134/S000629790712005X|pmid=18205615|s2cid=12594007}} < /ref > < ref name= " pmid12401173 " > {{cite journal|vauthors=Lang BF, O'Kelly C, Nerad T, Gray MW, Burger G|date=October 2002|title=The closest unicellular relatives of animals|journal=Curr. Biol.|volume=12|issue=20|pages=1773–8|doi=10.1016/S0960-9822(02)01187-9|pmid=12401173|s2cid=14192333}} < /ref > < ref name= " pmid18461162 " > {{cite journal|last1=Shalchian-Tabrizi|first1=Kamran|last2=Minge|first2=Marianne A.|last3=Espelund|first3=Mari|last4=Orr|first4=Russell|last5=Ruden|first5=Torgeir|last6=Jakobsen|first6=Kjetill S.|last7=Cavalier-Smith|first7=Thomas|last8=Aramayo|first8=Rodolfo|date=7 May 2008|editor1-last=Aramayo|editor1-first=Rodolfo|title=Multigene phylogeny of choanozoa and the origin of animals|journal=PLOS ONE|volume=3|issue=5|pages=e2098|doi=10.1371/journal.pone.0002098|pmc=2346548|pmid=18461162|bibcode=2008PLoSO...3.2098S|doi-access=free}} < /ref > < ref name= " pmid19393304 " > {{cite journal|vauthors=Elias M, Archibald JM|date=August 2009|title=The RJL family of small GTPases is an ancient eukaryotic invention probably functionally associated with the flagellar apparatus|journal=Gene|volume=442|issue=1–2|pages=63–72|doi=10.1016/j.gene.2009.04.011|pmid=19393304}} < /ref >  ''Holozoa'' is also an old name for the [[tunicate]] [[genus]] ''Distaplia''. < ref > 
+ {{cite journal|last1=Tatiàn|first1=Marcos|last2=Antacli|first2=Julieta Maria|last3=Sahade|first3=Ricardo|year=2005|title=Ascidians (Tunicata, Ascidiacea): species distribution along the Scotia Arc|journal=[[Scientia Marina]]|volume=69|issue=suppl. 2|pages=205–214|doi=10.3989/scimar.2005.69s2205}} < /ref >   
+ 
+ Holozoa is a [[Cladistics|clade]]: a group of plants or animals with a common [[ancestor]]. It has all [[Organism|organisms]] close to animals. < ref name= " Steenkamp " > 
+ {{cite journal|last1=Steenkamp|first1=Emma T.|last2=Wright|first2=Jane|last3=Baldauf|first3=Sandra L.|date=January 2006|title=The Protistan Origins of Animals and Fungi|url=https://archive.org/details/sim_molecular-biology-and-evolution_2006-01_23_1/page/93|journal=Molecular Biology  &  Evolution|volume=23|issue=1|pages=93–106|doi=10.1093/molbev/msj011|pmid=16151185}} < /ref > '' 
+ 
+ An example of a well-known holozoan is the [[choanoflagellate]], which looks a lot like the cells of a sponge. ''[[Proterospongia]]'' is an example of a choanoflagellate that might give clues as to how sponges evolved. 
+ 
+ == Evolution == 
+ The [[Phylogeny|phylogenic tree]] ([[evolution]] tree) below shows how clades broke into newer clades. This includes Holozoa.{{Clade|{{clade 
+     |label1=[[Holomycota]]  
+    |1={{clade 
+    |label1 = [[Cristidiscoidea]] 
+    |1={{Clade 
+       |1=[[Fonticulida]]  
+       |2=[[Nucleariid]]a [[File:Nuclearia sp Nikko.jpg|60 px]] 
+       }} 
+    |label2=[[Fungi]]/Zoosporia 
+          |sublabel2=[[Opisthosporidia]] 
+ |2={{clade 
+       |1=[[BCG2]] 
+       |2={{clade 
+    |1={{clade 
+       |2=[[Aphelida]] 
+          |1=[[Eumycota|True Fungi]] [[File:Asco1013.jpg|60 px]]}} 
+       |2={{clade 
+       |1=[[BCG1]] 
+ |label2=[[Rozellomyceta]]/ 
+ |sublabel2=[[Cryptomycota]] 
+       |2={{clade 
+         |1=[[Rozella]] [[File:Rozella allomycis2.jpg|80 px]] 
+         |2={{clade 
+         |1=[[Namako-37]] 
+ |2=[[Microsporidia]][[File:Fibrillanosema spore.jpg|60 px]] 
+          }} 
+        }} 
+       }}}}}} 
+ 
+     }} 
+     |label2='''Holozoa''' |sublabel2=1100 mya 
+     |2={{clade 
+     |1=[[Ichthyosporea]] [[File:Abeoforma whisleri-2.jpg|60 px]] 
+     |2={{clade 
+       |label1=[[Pluriformea]] 
+       |1={{clade 
+         |Syssomonas 
+         |[[Corallochytrium]] [[File:Corallochytrium limacisporum.png|60 px]] 
+       }} 
+       |label2=[[Filozoa]]  
+       |2={{clade 
+         |1=[[Filasterea]] [[File:Ministeria vibrans.jpeg|60 px]]  
+         |label2=[[Choanozoa]] |sublabel2=950 mya 
+         |2={{clade  
+           |1=[[Choanoflagellatea]]  [[File:Desmarella moniliformis.jpg|60 px]] 
+           |2=[[Animal]]ia [[File:Mola_mola.jpg|60 px]] 
+         }} 
+   }}}}}}}}|label1=[[Opisthokonta]]|sublabel1=1300 mya|style=font-size:80%; line-height:80%}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Eukaryotes]]

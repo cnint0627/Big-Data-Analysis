@@ -1,0 +1,38 @@
+[[File:SimpleCRISPR.jpg|thumb|Diagram of a CRISPR [[locus]]. There are three main parts.  < br/ > 1. ''cas'' genes,  < br/ > 2. a leader sequence, and  < br/ > 3. A repeat-spacer array.  
+ < br/ > The arrangement of the three components is not always as shown]] 
+ [[File:4QYZ.png|thumb|CRISPR Cascade protein (cyan) bound to CRISPR RNA (green) and phage DNA (red)]] 
+ [[File:GRNA-Cas9.svg|thumb|CRISPR/Cas9]] 
+ 
+ '''CRISPR''' is a term in [[DNA]] research. It stands for ''clustered regularly-interspaced short palindromic repeats''. These are part of the [[genetic code]] in [[prokaryote]]s: most [[bacteria]] and [[archaea]] have it. It is their defence against attack by [[viruses]]. < ref > Grissa I; Vergnaud G.  &  Pourcel C. 2007. The CRISPRdb database and tools to display CRISPRs and to generate dictionaries of spacers and repeats. ''BMC Bioinformatics'' '''8''': 172. [http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-172] < /ref >  Its structure and function was discovered in the 21st century. < ref > Gesner E.M; Schellenberg M.J; Garside E.L; George M.M.  &  Macmillan A.M. 2011. Recognition and maturation of effector RNAs in a CRISPR interference pathway. ''Nature Structural  &  Molecular Biology''. '''18''' (6): 688–692. < /ref > < ref > See [[Nobel Prize in Chemistry]] to [[Emmanuelle Charpentier]] and [[Jennifer Doudna]], 2020. < /ref > < ref > Wiedenheft B; Sternberg S.H; Doudna J.A. 2012. RNA-guided genetic silencing systems in bacteria and archaea. ''Nature''. '''482''' (7385): 331–338.[https://pubmed.ncbi.nlm.nih.gov/22337052/] < /ref > 
+ 
+ CRISPR has a lot of short repeated sequences. These sequences are part of an [[adaptive immune system]] for prokaryotes. It allows them to remember and counter the [[bacteriophage]]s which prey on them. They work as a kind of [[acquired immune system|acquired immunity]] for bacteria. < ref > Lecture by [[Jennifer Doudna]] [https://www.youtube.com/watch?v=47pkFey3CZ0] < /ref > < ref > Mojica F.J.M. et al 2000. Biological significance of regularly spaced repeats in the genomes of Archaea, Bacteria and mitochondria. ''Molecular Microbiology'' '''36''': 244–246. < /ref > 
+ 
+ They can modify the genes of almost any organism. They are used by researchers as a tool to cut and insert genes in [[genetic modification]] (GM). < ref name=Nessa/ >  Work is under way to find how they can be used to attack virus diseases in humans ([[gene therapy]]). < ref name=M & S > Marraffini L.A.  &  Sontheimer E.J. 2010. CRISPR interference: RNA-directed adaptive immunity in bacteria and archaea. ''Nature Reviews Genetics'' '''11''' (3): 181–190. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2928866/] < /ref > < ref > Hille F.  &  Charpentier E. 2016. CRISPR-Cas: biology, mechanisms and relevance. ''Philosophical Transactions of the Royal Society of London''. Series B, Biological Sciences. '''371''' (1707): 20150496. [https://pubmed.ncbi.nlm.nih.gov/27672148/] < /ref > 
+ 
+ == How it works == 
+ Each repetition is followed by short segments of  " [[non-coding DNA|spacer DNA]] " . These come from previous exposures to a bacterial [[bacteriophage|virus]] or [[plasmid]]. < ref name=M & S/ >  CRISPR spacers ''recognize and cut up the foreign genetic elements'' in a manner like [[RNA interference]] in [[eukaryotic]] organisms. 
+ 
+ In effect, the spacers are fragments of DNA from viruses that have previously tried to attack the cell line. The foreign source of the spacers was a sign to researchers that the CRISPR/cas system could have a role in [[adaptive immunity]] in bacteria. < ref name= " pmid25963251 " > {{cite journal |vauthors = Morange, M|title = What history tells us XXXVII. CRISPR-Cas: The discovery of an immune system in prokaryotes|journal = J. Biosci.|volume = 40|issue = 2|pages = 221–223|date = 2015|pmid = 25963251|pmc = |doi = 10.1007/s12038-015-9532-6|s2cid = 14048176}} < /ref > 
+ 
+ The actual cutting is done by a [[nuclease]] called '''''Cas9'''''. ''Cas9'' has two active cutting sites, one for each strand of the DNA's [[double helix]]. ''Cas9'' does this by unwinding foreign DNA and checking whether it is complementary to the 20 basepair spacer region of the guide RNA (the spacer region RNA). If it is, the foreign DNA gets chopped up. < ref name=Nessa > Carey, Nessa 2019. ''Hacking the code of life: how gene editing will rewrite our futures''. London: Icon Books. ISBN 978-178578-625-9 < /ref > < ref > Re-writing the Code of Life: CRISPR systems and applications of gene editing. Jennifer Doudna at the Royal Society on YouTube. [https://www.youtube.com/watch?v=oRz2vck3giU] < /ref > 
+ 
+ == Applications == 
+ CRISPR is an anti-viral defensive system which originated in [[bacteria]] and [[archaea]]. [[Gene editing]] is a human exploitation of CRISPR. 
+ 
+ The technology has been used to switch off genes in human [[tissue culture|cell lines and cells]], to study ''[[Candida albicans]]'', to modify [[yeast]]s used to make [[biofuel]] and to [[genetically modified food|genetically modify crop]] strains. < ref name=NatNews2015 > {{cite journal | vauthors = Ledford H | title = CRISPR, the disruptor | journal = Nature | volume = 522 | issue = 7554 | pages = 20–4 | year = 2015 | pmid = 26040877 | doi = 10.1038/522020a |bibcode = 2015Natur.522...20L | s2cid = 4456595 }} < /ref > 
+ 
+ The CRISPR-Cas9 system cuts DNA, but can do more. It can turn gene expression on and off, and can be used to fluorescently tag particular sequences. < ref > CRISPR: Gene editing and beyond/ [https://www.youtube.com/watch?v=4YKFw2KZA5o] < /ref > < ref > Doudna, Jennifer  &  Sternberg, Samuel 2017. ''A crack in creation: the new power to control evolution''. London: Bodley Head. ISBN 978-1-847-92382-0 < /ref > 
+ 
+ == Nobel award == 
+ The understanding and development of the CRISPR-Cas9 genome editing technique won the [[Nobel Prize in Chemistry]] for 2020. The prize was awarded jointly to [[Emmanuelle Charpentier]] and [[Jennifer Doudna]]. < ref name= " :01 " > {{cite web |title=Press release: The Nobel Prize in Chemistry 2020 |url=https://www.nobelprize.org/prizes/chemistry/2020/press-release/ |publisher=Nobel Foundation |access-date=7 October 2020}} < /ref > < ref name= " NYT-20201007 " > {{cite news | vauthors = Wu KJ, Peltier E |title=Nobel Prize in Chemistry Awarded to 2 Scientists for Work on Genome Editing – Emmanuelle Charpentier and Jennifer A. Doudna developed the Crispr tool, which can alter the DNA of animals, plants and microorganisms with high precision. |url=https://www.nytimes.com/2020/10/07/science/nobel-prize-chemistry-crispr.html |date=7 October 2020 |work=[[The New York Times]] |access-date=7 October 2020 }} < /ref > 
+ 
+ == Anti-CRISPR == 
+ Anti-CRISPR is a group of proteins in some [[Phage|phages]]. It inhibits the normal activity of CRISPR-Cas, the immune system of many bacteria. Phages with anti-CRSPR avoid having their genomes destroyed by the [[Prokaryote|prokaryotic]] cells that they infect. < ref > Stanley SY, Borges AL, Chen KH, Swaney DL, Krogan NJ, Bondy-Denomy J, Davidson AR 2019. Anti-CRISPR-associated proteins are crucial repressors of Anti-CRISPR transcription. ''Cell'' '''178''' (6): 1452–1464.e13. doi:10.1016/j.cell.2019.07.046. PMC 6754177. PMID 31474367 < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Genetic engineering]] 
+ [[Category:Immunology]] 
+ [[Category:Prokaryotes]] 
+ [[Category:DNA]]

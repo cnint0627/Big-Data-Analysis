@@ -1,0 +1,126 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = {{raise|0.2em|Utsunomiya}} 
+ | native_name          = {{lower|0.1em|{{nobold|{{lang|ja|宇都宮市}}}}}} 
+ | settlement_type         = [[Core cities of Japan|Core city]] 
+ < !-- images, nickname, motto -- > 
+ | image_skyline           = Utsunomiya montage.jpg 
+ | imagesize               =  
+ | image_alt               =  
+ | image_caption           = Utsunomiya Castle, Statue of gyoza < br / > Futaarasan Shrine, [[Ōya Stone|Oya Stone]] Museum < br / > Utsunomiya Tower, City view from the tower 
+ | image_flag              = Flag of Utsunomiya, Tochigi.svg 
+ | flag_alt                =  
+ | image_seal              = Emblem of Utsunomiya, Tochigi.svg 
+ | seal_alt                =  
+ | image_shield            =  
+ | shield_alt              =  
+ | image_blank_emblem      =  
+ | nickname                =  
+ | motto                   =  
+ < !-- maps and coordinates -- > 
+ | image_map               = Utsunomiya in Tochigi Prefecture Ja.svg 
+ | map_alt                 =  
+ | map_caption             = Location of Utsunomiya in [[Tochigi Prefecture]] 
+ | pushpin_map             = Japan 
+ | pushpin_label_position  =  < !-- position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_map_alt         =  
+ | pushpin_map_caption     =  & nbsp; 
+ | coordinates             = {{coord|36|33|18.4|N|139|52|57.2|E|region:JP-09|display=it}} 
+ | coor_pinpoint           =  < !-- to specify exact location of coordinates (was coor_type) -- > 
+ | coordinates_footnotes   =  < !-- for references: use  < ref >  tags -- > 
+ < !-- location -- > 
+ | subdivision_type = Country 
+ | subdivision_name        = Japan 
+ | subdivision_type1       = [[List of regions of Japan|Region]] 
+ | subdivision_name1       = [[Kantō region|Kantō]] 
+ | subdivision_type2       = [[Prefectures of Japan|Prefecture]] 
+ | subdivision_name2       = [[Tochigi Prefecture|Tochigi]] 
+ | subdivision_type3       =  
+ | subdivision_name3       =  
+ < !-- established -- > 
+ | established_title      = First official recorded  
+ | established_date       = 353 AD 
+ | established_title2     = City Settled 
+ | established_date2      = April 1, 1896 
+ | founder                 =  
+ | named_for               =  
+ < !-- seat, smaller parts -- > 
+ | seat_type               =  < !-- defaults to: Seat -- > 
+ | seat                    =  
+ < !-- government type, leaders -- > 
+ | government_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | leader_party            =  
+ | leader_title            = Mayor 
+ | leader_name             = [[Eiichi Sato]] 
+ | leader_title1           =  
+ | leader_name1            =  < !-- etc., up to leader_title4 / leader_name4 -- > 
+ < !-- display settings  -- > 
+ | total_type              =  < !-- to set a non-standard label for total area and population rows -- > 
+ | unit_pref               =  < !-- enter: Imperial, to display imperial before metric -- > 
+ < !-- area -- > 
+ | area_magnitude          =  < !-- use only to set a special wikilink -- > 
+ | area_footnotes          =  < !-- for references: use  < ref >  tags -- > 
+ | area_total_km2          = 416.85 
+ | area_land_km2           =  
+ | area_water_km2          =  
+ | area_water_percent      =  
+ | area_note               =  
+ < !-- elevation -- > 
+ | elevation_footnotes     =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_m             =  
+ < !-- population -- > 
+ | population_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | population_total        = 519223 
+ | population_as_of        = January 1, 2020 
+ | population_density_km2  = auto 
+ | population_est          =  
+ | pop_est_as_of           =  
+ | population_demonym      =  < !-- demonym, ie. Liverpudlian for someone from Liverpool -- > 
+ | population_note         =  
+ | population_metro_footnotes =  < ref > {{Cite web |title=UEA Code Tables |url=http://www.csis.u-tokyo.ac.jp/UEA/uea_code_e.htm |publisher=Center for Spatial Information Science, University of Tokyo |access-date=January 26, 2019}} < /ref >  (2015) 
+ | population_metro = 1103745 ([[Urban Employment Area|15th]]) 
+ < !-- time zone(s) -- > 
+ | timezone1               = [[Japan Standard Time]] 
+ | utc_offset1             = +9 
+ < !-- postal codes, area code -- > 
+ | postal_code_type        =  
+ | postal_code             =  
+ | area_code_type          =  < !-- defaults to: Area code(s) -- > 
+ | area_code               =  
+ < !-- blank fields (section 1) -- > 
+ | blank_name_sec1         = City Symbols 
+ | blank1_name_sec1        = - Tree 
+ | blank1_info_sec1        = [[Ginkgo biloba]] 
+ | blank2_name_sec1        = - Flower 
+ | blank2_info_sec1        = [[Satsuki azalea]]  
+ | blank3_name_sec1        = - Bird 
+ | blank3_info_sec1        =  
+ | blank4_name_sec1        =  
+ | blank4_info_sec1        =  
+ | blank5_name_sec1        =  
+ | blank5_info_sec1        =  
+ | blank6_name_sec1        =  
+ | blank6_info_sec1        =  
+ | blank7_name_sec1        =  
+ | blank7_info_sec1        =  
+ < !-- blank fields (section 2) -- > 
+ | blank_name_sec2         = Phone & nbsp;number 
+ | blank_info_sec2         = 028-632-2222 
+ | blank1_name_sec2        = Address 
+ | blank1_info_sec2        = 1-1-5, Asahi, Utsunomiya-shi, Tochigi-ken 320-8540 
+ < !-- website, footnotes -- > 
+ | website                 ={{Official|1=http://www.city.utsunomiya.tochigi.jp}} 
+ | footnotes               =   
+ }} 
+ [[File:Utsunomiya city hall ac (2).JPG|right|170px|thumb|Utsunomiya City Hall]] 
+ {{nihongo|'''Utsunomiya'''|宇都宮市|Utsunomiya-shi}} is a [[Japan]]ese [[city]] in [[Tochigi Prefecture]] on the island of [[Honshu]]. It is the [[capital city]] of the prefecture. < ref > Nussbaum, Louis-Frédéric. (2005). [https://books.google.com/books?id=p2QnPijAEmEC & pg=PA1019] ''Japan Encyclopedia'', p. 1019. < /ref >  It has been [[wikt:recognized|recognized]] as a [[core city]] since 1996. < ref > Jacobs, A.J. [http://www.hindawi.com/journals/usr/2011/692764/   " Japan's Evolving Nested Municipal Hierarchy: The Race for Local Power in the 2000s, " ] ''Urban Studies Research'', Vol. 2011 (2011), p. 8 [PDF 8 of 14]. Retrieved 2012-12-5. < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * {{commons category-inline|Utsunomiya, Tochigi}} 
+ * [http://www.city.utsunomiya.tochigi.jp/ Utsunomiya City website] {{in lang|ja}} 
+ {{authority control}} 
+ {{Japan-stub}} 
+ [[Category:Cities in Tochigi Prefecture]]

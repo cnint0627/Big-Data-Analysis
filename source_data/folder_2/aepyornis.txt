@@ -1,0 +1,32 @@
+{{Taxobox 
+ | name = ''Aeyornis'' 
+ | fossil_range = [[Quaternary]] 
+ | image = Aepyornis maximus.jpg 
+ | image_caption = ''Aepyornis maximus'' skeleton and egg 
+ | status = EX 
+ | extinct = 1000 AD 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Aves]] 
+ | ordo = Aepyornithiformes 
+ | ordo_authority = [[Alfred Newton|A. Newton]], 1884 < ref name= " SN " / > 
+ | familia = †'''Aepyornithidae''' 
+ | familia_authority = ([[Charles Lucien Bonaparte|Bonaparte]], 1853) < ref name= " SN " > Brands, S. (2008) < /ref > 
+ | genus = {{extinct}}'''''Aepyornis''''' 
+ | genus_authority = [[Isidore Geoffroy Saint-Hilaire|I. Geoffroy Saint-Hilaire]], 1851 < ref name= " SN " > Brands, S. (2008) < /ref > 
+ | subdivision_ranks = Species 
+ | subdivision =''Aepyornis hildebrandti''  < br > < small > [[Carlos Burckhardt|Burckhardt]] 1893 < ref name= " SN "  / > < /small > < br > 
+ ''Aepyornis maximus'' < br >   < small > [[Isidore Geoffroy Saint-Hilaire|I. Geoffroy Saint-Hilaire]] 1851 < ref name= " SN "  / > < /small > < br > 
+ | range_map = Aepyornis map.jpg 
+ | range_map_caption = Map of [[Madagascar]] showing where ''A. hildebrandti'' (b) and ''A. maximus'' (c) specimens have been found 
+ }} 
+ 
+ '''''Aepyornis''''' is an [[Elephant bird]], one of three [[genus|genera]] of [[ratite]] birds [[Endemism|endemic]] to [[Madagascar]] until their extinction about 1000 A.D. The species  " A " . ''maximus'' weighed up to {{convert|540|kg|lb|sigfig=2}}, and until recently was regarded as the largest known bird of all time. However, in 2018 the largest ''Aepyornis'' specis, weighing up to {{convert|730|kg|lb|sigfig=2}}, was moved to the related genus ''[[Vorombe]]''. < ref name= " Hansford2018b " > {{cite journal|last1= Hansford|first1=J. P.|last2= Turvey|first2=S. T.|title= Unexpected diversity within the extinct elephant birds (Aves: Aepyornithidae) and a new identity for the world's largest bird|journal= [[Royal Society Open Science]]|volume= 5|issue= 9|date= 2018-09-26|page= 181295|doi=10.1098/rsos.181295|pmid=30839722|pmc=6170582}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ [[Category:Ratites]] 
+ [[Category:Fossils]] 
+ [[Category:Megafauna]] 
+ [[Category:Extinct birds]] 
+ {{biology-stub}}

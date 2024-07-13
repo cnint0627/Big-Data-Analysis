@@ -1,0 +1,134 @@
+{{Taxobox 
+ | name = Decapoda 
+ | image = Haeckel Decapoda.jpg 
+ | image_width = 240px 
+ | image_caption =  " Decapoda "  from [[Ernst Haeckel|Ernst Haeckel's]] ''Artforms of Nature'', 1904 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Arthropod]]a 
+ | subphylum = [[Crustacean|Crustacea]] 
+ | classis = [[Malacostraca]] 
+ | superordo = [[Eucarida]] 
+ | ordo = '''Decapoda''' 
+ | ordo_authority = [[Pierre André Latreille|Latreille]], 1802 
+ | subdivision_ranks = Suborders 
+ | subdivision =  
+ [[Dendrobranchiata]] < br/ > 
+ [[Pleocyemata]] 
+ }} 
+ 
+ '''Decapoda''' is an order of [[crustacean]]s in the [[Class (biology)|class]] [[Malacostraca]]. Many familiar groups, such as [[crayfish]], [[crab]]s, [[lobster]]s, [[prawn]]s and [[shrimp]] are in this order. Many decapods are [[scavenger]]s - they eat dead plants and animals. [[Crabs]] are mixed feeders, taking [[algae]] and  [[shellfish]] such as [[molluscs]]. [[Lobsters]] eat mostly live prey. 
+ 
+ ==Anatomy== 
+ As their name suggests, all decapods have ten [[appendage]]s.  
+ 
+ The last five pairs of appendages on the front half of the body, the ''[[cephalothorax]]'', are used for walking. < ref > So called because the head and [[thorax]] are fused together. < /ref >   
+ 
+ In many decapods, the front pair of appendages carry large pinching [[claw]]s. The [[claw]]s are called ''[[chelae]]'', so these appendages may be called ''[[chelipeds]]''. 
+ 
+ The front three pairs of appendages on the thorax are used as jaws, and called ''[[maxillipeds]]''. 
+ 
+ On the [[abdomen]] are swimming appendages called ''[[pleopods]]'', and the body ends in a tail fan. 
+ 
+ ==Classification== 
+ Classification of the order Decapoda depends on the structure of the [[gills]] and legs, and the way in which the [[larvae]] develop. There are two suborders: [[Dendrobranchiata]] and [[Pleocyemata]]. [[Prawn]]s (including many so-called  " shrimp " , such as the [[Atlantic white shrimp]]) make up the Dendrobranchiata. The other groups, including true [[shrimp]], are the Pleocyemata. 
+ 
+ The following classification  follows Martin and Davis, < ref > {{cite book |author = Joel W. Martin and George E. Davis |title = An updated classification of the Recent Crustacea |year = 2001 |publisher = Natural History Museum of Los Angeles County}} < /ref >  with some changes based on more recent structural and [[Molecule|molecular]] studies. < ref > {{cite journal |author = Dixon C.J; Schram F.R.  &  Ahyong S.T. |year=2004 |title=A new hypothesis of decapod phylogeny |journal=Crustaceana |volume=76 |issue=8 |pages=935–975}} < /ref > < ref > {{cite journal |author = Porter M.L; Pérez-Losada M.  &  Crandall K.A. |year=2005 |title=Model-based multi-locus estimation of decapod phylogeny and divergence times |journal=Molecular Phylogenetics and Evolution |volume=37 |issue=2 |pages=355–369|doi=10.1016/j.ympev.2005.06.021 |pmid=16112880 }} < /ref > x 
+ 
+ Order Decapoda  < small > Latreille, 1802 < /small >   (Selection, not everything is listed) 
+ * Suborder [[Prawn|Dendrobranchiata]]  < small > Bate, 1888 < /small >  {{ndash}} prawns 
+ < !-- 
+ ** Superfamily [[Penaeoidea]]  < small > Rafinesque, 1815 < /small >   
+ ** Superfamily [[Sergestoidea]]  < small > Dana, 1852 < /small >   
+ -- > 
+ * Suborder [[Pleocyemata]]  < small > Burkenroad, 1963 < /small > 
+ < !-- 
+ ** Infraorder [[Stenopodidea]]  < small > Claus, 1872 < /small >   
+ -- > 
+ ** Infraorder [[Shrimp|Caridea]]  < small > Dana, 1852 < /small >  {{ndash}} true shrimp 
+ < !-- 
+ *** Superfamily [[Procaridoidea]]  < small > Chace  &  Manning, 1972 < /small >   
+ *** Superfamily [[Galatheacaridoidea]]  < small > Vereshchaka, 1997 < /small >   
+ *** Superfamily [[Pasiphaeidae|Pasiphaeoidea]]  < small > Dana, 1852 < /small >   
+ *** Superfamily [[Oplophoridae|Oplophoroidea]]  < small > Dana, 1852 < /small >   
+ *** Superfamily [[Atyidae|Atyoidea]]  < small > de Haan, 1849 < /small >   
+ *** Superfamily [[Bresilioidea]]  < small > Calman, 1896 < /small >   
+ *** Superfamily [[Nematocarcinoidea]]  < small > Smith, 1884 < /small >   
+ *** Superfamily [[Psalidopodoidea]]  < small > Wood-Mason  &  Alcock, 1892 < /small >   
+ *** Superfamily [[Stylodactylidae|Stylodactyloidea]]  < small > Bate, 1888 < /small >   
+ *** Superfamily [[Campylonotoidea]]  < small > Sollaud, 1913 < /small >   
+ *** Superfamily [[Palaemonoidea]]  < small > Rafinesque, 1815 < /small >   
+ *** Superfamily [[Alpheoidea]]  < small > Rafinesque, 1815 < /small > 
+ *** Superfamily [[Processoidea]]  < small > Ortmann, 1890 < /small >   
+ *** Superfamily [[Pandaloidea]]  < small > Haworth, 1825 < /small >   
+ *** Superfamily [[Crangonoidea]]  < small > Haworth, 1825 < /small >   
+ ** Infraorder [[Polychelidae|Eryonoidea]]  < small > de Haan, 1841 < /small >   
+ -- > 
+ ** Infraorder [[Achelata]]  < small > Scholtz  &  Richter, 1995 < /small >  {{ndash}} [[spiny lobster]]s, [[slipper lobster]]s, and [[furry lobster]]s 
+ ** Infraorder [[Astacidea]]  < small > Latreille, 1802 < /small >  {{ndash}} [[lobster]]s and [[crayfish]] 
+ < !-- 
+ *** Superfamily [[Reef lobster|Enoplometopoidea]]  < small > de Saint Laurent, 1988 < /small >   
+ *** Superfamily [[Glypheoidea]]  < small > Winkler, 1883 < /small > 
+ *** Superfamily [[Nephropoidea]]  < small > Dana, 1852 < /small > 
+ *** Superfamily [[Crayfish|Astacoidea]]  < small > Latreille, 1802 < /small > 
+ *** Superfamily [[Crayfish|Parastacoidea]]  < small > Huxley, 1879 < /small > 
+ ** Infraorder [[Thalassinidea]]  < small > Latreille, 1831 < /small >   
+ *** Superfamily [[Thalassinoidea]]  < small > Latreille, 1831 < /small >   
+ *** Superfamily [[Callianassoidea]]  < small > Dana, 1852 < /small >   
+ *** Superfamily [[Axioidea (Decapoda)|Axioidea]]  < small > Huxley, 1879 < /small >   
+ -- > 
+ ** Infraorder [[Anomura]]  < small > MacLeay, 1838 < /small > 
+ < !-- 
+ *** Superfamily [[Lomisoidea]]  < small > Bouvier, 1895 < /small >   
+ -- > 
+ *** Superfamily [[Galatheoidea]]  < small > Samouelle, 1819 < /small >  {{ndash}} squat lobsters 
+ < !-- 
+ *** Superfamily [[Hippoidea]]  < small > Latreille, 1825 < /small >   
+ -- > 
+ *** Superfamily [[Hermit crab|Paguroidea]]  < small > Latreille, 1802 < /small >  {{ndash}} hermit crabs 
+ ** Infraorder [[Crab|Brachyura]]  < small > Latreille, 1802 < /small >  {{ndash}} crabs 
+ < !-- 
+ *** Section [[Dromiacea]]  < small > de Haan, 1833 < /small >   
+ **** Superfamily [[Homolodromioidea]]  < small > Alcock, 1900 < /small >   
+ **** Superfamily [[Dromioidea]]  < small > de Haan, 1833 < /small >   
+ **** Superfamily [[Homoloidea]]  < small > de Haan, 1839 < /small >   
+ *** Section [[Eubrachyura]]  < small > de Saint Laurent, 1980 < /small >   
+ **** Superfamily [[Raninoidea]]  < small > de Haan, 1839 < /small >   
+ **** Superfamily [[Cyclodorippoidea]]  < small > Ortmann, 1892 < /small >   
+ **** Superfamily [[Dorippoidea]]  < small > MacLeay, 1838 < /small >   
+ **** Superfamily [[Calappoidea]]  < small > Milne Edwards, 1837 < /small >   
+ **** Superfamily [[Leucosioidea]]  < small > Samouelle, 1819 < /small >   
+ **** Superfamily [[Majoidea]]  < small > Samouelle, 1819 < /small >   
+ **** Superfamily [[Hymenosomatoidea]]  < small > MacLeay, 1838 < /small >   
+ **** Superfamily [[Parthenopoidea]]  < small > MacLeay, 1838 < /small >   
+ **** Superfamily [[Retroplumoidea]]  < small > Gill, 1894 < /small >   
+ **** Superfamily [[Cancroidea]]  < small > Latreille, 1802 < /small >   
+ **** Superfamily [[Portunoidea]]  < small > Rafinesque, 1815 < /small >   
+ **** Superfamily [[Bythograeoidea]]  < small > Williams, 1980 < /small >   
+ **** Superfamily [[Xanthoidea]]  < small > MacLeay, 1838 < /small >   
+ **** Superfamily [[Bellioidea]]  < small > Dana, 1852 < /small >   
+ **** Superfamily [[Potamoidea]]  < small > Ortmann, 1896 < /small >   
+ **** Superfamily [[Pseudothelphusoidea]]  < small > Ortmann, 1893 < /small >   
+ **** Superfamily [[Gecarcinucoidea]]  < small > Rathbun, 1904 < /small >   
+ **** Superfamily [[Cryptochiroidea]]  < small > Paulson, 1875 < /small >   
+ **** Superfamily [[Pinnotheroidea]]  < small > de Haan, 1833 < /small >   
+ **** Superfamily [[Ocypodoidea]]  < small > Rafinesque, 1815 < /small >   
+ **** Superfamily [[Grapsoidea]]  < small > MacLeay, 1838 < /small > 
+ -- > 
+ 
+ < gallery > 
+ Penaeus vannamei 01.jpg|[[Whiteleg shrimp]], ''Litopenaeus vannamei'' (actually a [[prawn]]) 
+ Spotted cleaner shrimp.jpg|Spotted cleaner [[shrimp]], ''Periclimenes yucatanicus'' 
+ Lobster 300.jpg|California [[spiny lobster]], ''Panulirus interruptus'' 
+ Blue crab on market in Piraeus - Callinectes sapidus Rathbun 20020819-317.jpg|Blue [[crab]], ''Callinectes sapidus'' 
+ Lyreidus tridentatus.jpg|''Lyreidus tridentatus'', another crab 
+ < /gallery > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{commonscat|Decapoda}} 
+ {{wikispecies}} 
+ * {{dmoz|Science/Biology/Flora_and_Fauna/Animalia/Arthropoda/Crustacea/Malacostraca/Decapoda/|Decapoda}} 
+ 
+ [[Category:Decapods| ]]

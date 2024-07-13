@@ -1,0 +1,1360 @@
+{{Complex|date=December 2015}} 
+ {{Use mdy dates|date=April 2020}} 
+ {{For|the technical architecture, not chip implementations|IA-64}} 
+ {{Infobox CPU 
+ | name=Itanium family 
+ | image=KL Intel Itanium2.jpg 
+ | image_size=300px 
+ | caption=Itanium 2 processor 
+ | produced-start=mid-2001 
+ | produced-end=present 
+ | slowest=733 
+ | slow-unit=MHz 
+ | fastest=2.53 
+ | fast-unit=GHz 
+ | fsb-slowest=300 
+ | fsb-slow-unit=MHz 
+ | fsb-fastest=667 
+ | fsb-fast-unit=MHz 
+ | manuf1=Intel 
+ | size-from= 
+ | size-to= 
+ | arch=Itanium 
+ | numcores=1, 2, 4 or 8 
+ }} 
+ 
+ '''Itanium''' ({{IPAc-en|aɪ|ˈ|t|eɪ|n|i|ə|m}} {{respell|eye|TAY|nee-əm}}) is a type of [[Intel]] [[microprocessor]]s with [[Microprocessor|64-bit]] chip architecture (not related to the by now mainstream 64-bit CPUs made by Intel and others). Itanium processors are sometimes used today for [[server]]s. Itanium processors where originally designed by HP and Intel with Intel making producing them, and several manufacturers of systems used them; nowhere as many systems used as originally hoped for. By now mostly HP still supports systems using these chips. 
+ 
+ Intel officially announced the end of life and product discontinuance of the Itanium CPU family on January 30, 2019. < ref name= " theend " > {{cite web|url=http://qdms.intel.com/dm/i.aspx/F65EEA26-13FB-4580-972B-46B75E0AB322/PCN116733-00.pdf|title=Select Intel Itanium Processors and Intel Scalable Memory Buffer, PCN 116733-00, Product Discontinuance, End of Life|date=January 30, 2019|publisher=Intel}} < /ref > 
+ 
+ == Market reception == 
+ 
+ === Powerful-type server market === 
+ [[File:HP-HP9000-ZX6000-Itanium2-SystemBoard-A7231-66510 42.jpg|thumb|[[Hewlett-Packard|HP]] [[motherboard]] with two  " Itanium 2 "  processors]] 
+ [[File:Itanium2.png|thumb|Itanium 2 in 2003]] 
+ 
+ When first released in 2001, Itanium's speed was disappointing compared to other processor types. < ref name= " anand " / > < ref name= " Venturebeat " / >  Using existing x86 applications and [[operating systems]] was especially bad, with one test in 2001 showing that it was as fast as a 100 & nbsp;[[Hertz|MHz]] Pentium (1.1 & nbsp;[[Hertz|GHz]] Pentiums were on the market at that time). < ref > {{cite web 
+ | url=https://www.theregister.co.uk/2001/01/23/benchmarks_itanic_32bit_emulation/ 
+ | title=Benchmarks & nbsp;– Itanic 32bit emulation is 'unusable'. No kidding & nbsp;— slower than a P100 
+ | website=[[The Register]] 
+ | date=January 23, 2001}} < /ref > 
+ Itanium did not have success compared to [[IA-32]] or [[reduced instruction set computer|RISC]], and was even worse when [[x86-64]] was released, which worked with older x86 applications. 
+ 
+ In an article from 2009 about the history of Itanium —  " How the Itanium Killed the Computer Industry "  — journalist [[John C. Dvorak]] reported  " This continues to be one of the great fiascos [bad situations] of the last 50 years "  . < ref > {{cite web|url=https://www.pcmag.com/article.aspx/curl/2339629|title=How the Itanium Killed the Computer Industry|last=Dvorak|first=John C.|author-link=John C. Dvorak|date=January 26, 2009|work=[[PC Mag]]|archive-url=https://web.archive.org/web/20180714095010/https://www.pcmag.com/article.aspx/curl/2339629|archive-date=July 14, 2018|access-date=April 15, 2012}} < /ref >  Technology writer [[Ashlee Vance]] wrote that slowness in speed and release  " turned the product into a joke in the chip industry. < !--direct quote. do not modify-- > " < ref name= " vance late " > {{cite news 
+ |url = http://bits.blogs.nytimes.com/2009/02/09/ten-years-after-first-delay-intels-itanium-is-still-late/ 
+ |title = Ten Years After First Delay, Intel's Itanium Is Still Late 
+ |work = [[New York Times]] 
+ |date=February 9, 2009 
+ |access-date=April 1, 2010 
+ |last=Vance 
+ |first=Ashlee 
+ |author-link=Ashlee Vance 
+ }} < /ref >  In an interview, [[Donald Knuth]] said  " The Itanium approach...was supposed to be so terrific—until it turned out that the wished-for compilers were basically impossible to write. " < ref > {{cite web 
+ | last=Knuth 
+ | first=Donald E. 
+ | url=http://www.informit.com/articles/article.aspx?p=1193856 
+ | title=Interview with Donald Knuth 
+ | publisher=InformIT 
+ | date=April 25, 2008 
+ | access-date=April 1, 2010}} < /ref > 
+ 
+ Both [[Red Hat]] and [[Microsoft]] said that they would stop allowing Itanium to be used with their [[operating system]]s. < ref name= " last_ms "  / > < ref name= " last_rhel " / >  However, other [[Linux distribution]]s such as [[Gentoo Linux|Gentoo]] and [[Debian]] are still available for Itanium. On March 22, 2011, [[Oracle Corporation|Oracle]] said they would no longer support Itanium, but support for their existing products would continue. < ref name= " pcworld2011 "  / >  In October 2013, Oracle said they would release Oracle [[Database]] 12.1.0.1.0 on HP-UX Itanium 11.31 by early 2014. < ref > [https://support.oracle.com Oracle Database 12.1.0.1.0 is planned for certification on HP-UX Itanium 11.31] Oracle November 20, 2013 < /ref > 
+ 
+ A past Intel company official said that Itanium had become profitable (Able to make a lot of money) for Intel in late 2009. < ref > {{cite web 
+ | url=http://bits.blogs.nytimes.com/2009/11/17/a-decade-later-intels-itanium-chip-makes-a-profit/ 
+ | title=A Decade Later, Intel's Itanium Chip Makes a Profit 
+ | access-date=April 7, 2010 
+ | last=Demerjian 
+ | first=Charlie 
+ | date=May 21, 2009 
+ | work=The Inquirer 
+ }} < /ref >  In 2009 and later, Itanium was mostly used on servers by HP, which made 95% of Itanium servers, < ref name= " vance late " / >  so the primary operating system for Itanium was [[HP-UX]]. On March 22, 2011, Intel said they will keep supporting Itanium entirely with many new Itanium chips being created and on-time. < ref name= " Intel Itanium Commitment " > {{cite web 
+ | last=Darling 
+ | first=Patrick 
+ | title=Intel Reaffirms Commitment to Itanium 
+ | url=http://newsroom.intel.com/community/intel_newsroom/blog/2011/03/23/chip-shot-intel-reaffirms-commitment-to-itanium 
+ | work=Itanium 
+ | publisher=Intel 
+ | access-date=March 23, 2011}} < /ref > 
+ 
+ === Other markets === 
+ [[File:HP-HP9000-ZX6000-Itanium2-Workstation 12.jpg|thumb|[[Hewlett-Packard|HP]] zx6000, an Itanium 2 [[Unix]] [[workstation]]]] 
+ 
+ Although Itanium did do well with high-end computing, Intel wanted it to have more usage compared to the original [[x86]] architecture. < ref > {{cite web 
+ | url=http://features.techworld.com/operating-systems/2690/will-intel-abandon-the-itanium/ 
+ | title=Will Intel abandon the Itanium? 
+ | date=July 20, 2006 
+ | author=Manek Dubash 
+ | quote=Once touted by Intel as a replacement for the x86 product line, expectations for Itanium have been throttled well back. 
+ | publisher=[[Techworld]] 
+ | access-date=December 19, 2010 
+ | archive-date=February 19, 2011 
+ | archive-url=https://web.archive.org/web/20110219212053/http://features.techworld.com/operating-systems/2690/will-intel-abandon-the-itanium/ 
+ | url-status=dead 
+ }} < /ref > 
+ 
+ [[AMD]] decided on an easier idea, creating [[x86-64]], a 64-bit addition to the x86 architecture, which Microsoft soon supported in [[Microsoft Windows]], so Intel had to include the same type of 64-bit addition in Intel's x86 processors. < ref > {{cite news 
+ | author = Charlie Demerjian 
+ | title = Why Intel's Prescott will use AMD64 extensions 
+ | url = http://www.theinquirer.net/inquirer/news/1029651/why-intels-prescott-will-use-amd64--extensions 
+ | work = [[The Inquirer]] 
+ | date = September 26, 2003 
+ | access-date = October 7, 2009 
+ | archive-date = October 10, 2009 
+ | archive-url = https://web.archive.org/web/20091010181925/http://www.theinquirer.net/inquirer/news/1029651/why-intels-prescott-will-use-amd64--extensions 
+ | url-status = dead 
+ }} < /ref >  x86-64 can use existing 32-bit applications at full hardware speed, but has 64-bit [[memory addressing]] and other additions to new applications. < ref name= " vance late " / >  This architecture has now become the most used 64-bit architecture in the desktop and laptop market, with the 64-bit [[ARMv8]] architecture powering many mobile devices, used in today's [[iPhone]]s, [[iPad]]s, [[iPod Touch]]es, and now many [[Android (operating system)|Android]] phones and tablets such as the [[Nexus 6P]] and [[Nexus 9]]. Ssome Itanium-based workstations were initially introduced by companies such as [[Silicon Graphics|SGI]], but they are no longer available. Because AMD made the first x86-64 chip, the architecture is commonly referred to as  " amd64 "  inside of operating systems. 
+ 
+ == History == 
+ [[File:Itanium Sales Forecasts edit.png|thumb|right|400px|Itanium Server Sales forecast history. < ref name= " IDC_chart " > {{cite web 
+ | url=http://news.cnet.com/2300-1006_3-5873647-1.html 
+ | title=Mining Itanium 
+ | access-date=March 19, 2007 
+ | date=December 7, 2005 
+ | work=CNet News 
+ | archive-url=https://archive.today/20130102061011/http://news.cnet.com/2300-1006_3-5873647.html 
+ | archive-date=January 2, 2013 
+ | url-status=live 
+ }} < /ref > < ref name= " IDC 2006 " > {{cite web 
+ | url=http://news.cnet.com/Analyst+firm+offers+rosy+view+of+Itanium/2100-1006_3-6038932.html 
+ | title=Analyst firm offers rosy view of Itanium 
+ | access-date=March 20, 2007 
+ | last=Shankland 
+ | first=Stephen 
+ | date=February 14, 2006 
+ | work=[[CNet]] News 
+ | archive-url=https://archive.today/20121206030427/http://news.cnet.com/Analyst-firm-offers-rosy-view-of-Itanium/2100-1006_3-6038932.html 
+ | archive-date=December 6, 2012 
+ | url-status=live 
+ }} < /ref > ]] 
+ 
+ === Development: 1989–2000 === 
+ In 1989, HP thought [[reduced instruction set computer|Reduced Instruction Set Computing]] (RISC) architectures were stuck at one [[Instructions Per Cycle|instruction per cycle]]. HP researchers tried to create a new type of processor architecture, later called [[Explicitly Parallel Instruction Computing]] (EPIC), that allows the processor to use many [[instruction (computer science)|instructions]] in each clock cycle. EPIC uses a form of [[very long instruction word]] (VLIW) architecture, in which 1 instruction word had many instructions. With EPIC, the [[compiler]] checks which instructions can be used at the same time, so the processor can run the instructions without needing complicated methods to see which instructions to use at the same time. < ref name= " HP_Labs " > {{cite web 
+ | url=http://www.hpl.hp.com/news/2001/apr-jun/itanium.html 
+ | title=Inventing Itanium: How HP Labs Helped Create the Next-Generation Chip Architecture 
+ | access-date=March 23, 2007 
+ | date=June 2001 
+ | work=[[Hewlett-Packard|HP]] Labs 
+ | archive-date=March 4, 2012 
+ | archive-url=https://web.archive.org/web/20120304045612/http://www.hpl.hp.com/news/2001/apr-jun/itanium.html 
+ | url-status=dead 
+ }} < /ref > 
+ The goal of this idea is to allow better inspection of the code at the time of compile to check for additional opportunities for multiple executions at once, and to simplify processor design and [[Energy saving|save electricity]] by removing the need for runtime scheduling instructions. 
+ 
+ HP thought that it was not good for individual enterprise system companies like HP to make [[proprietary]] processors, so HP worked with Intel in 1994 to create the IA-64 architecture, made with EPIC's ideas. Intel wanted to make a large effort in creating IA-64 in the expectation that the resulting processor would be used by most enterprise systems. HP and Intel had a large design effort to make the first Itanium product, Merced, in 1998. < ref name= " HP_Labs " / > 
+ 
+ During creation, Intel, HP, and other industry analysts thought that IA-64 would be very popular in servers, workstations, and desktops, and one day replace RISC and [[Complex Instruction Set Computing]] (CISC) architectures for multi-purpose applications. < ref name= " anand " > {{cite web 
+ | url=http://www.anandtech.com/cpuchipsets/showdoc.aspx?i=2598 
+ | title=Itanium–Is there light at the end of the tunnel? 
+ | access-date=March 23, 2007 
+ | last=De Gelas 
+ | first=Johan 
+ | date=November 9, 2005 
+ | work=[[AnandTech]] 
+ }} < /ref > < ref name= " Venturebeat " > {{cite web 
+ | url=https://venturebeat.com/2009/05/08/exit-interview-retiring-intel-chairman-craig-barrett-on-the-industrys-unfinished-business/ 
+ | title=Exit interview: Retiring Intel chairman Craig Barrett on the industry's unfinished business 
+ | access-date=May 17, 2009 
+ | last=Takahashi 
+ | first=Dean 
+ | date=May 8, 2009 
+ | work=VentureBeat 
+ }} < /ref > 
+ [[Compaq]] and [[Silicon Graphics]] stopped working on their [[DEC Alpha|Alpha]] and [[MIPS architecture|MIPS]] architectures to move to the Itanium architecture. < ref name= " cautionary " > {{cite web 
+ | url=http://news.zdnet.com/2100-9584-5984747.html 
+ | title=Itanium: A cautionary tale 
+ | access-date=November 1, 2007 
+ | date=December 7, 2005 
+ | work=Tech News on ZDNet 
+ | archive-url=https://web.archive.org/web/20080209211056/http://news.zdnet.com/2100-9584-5984747.html 
+ | archive-date=February 9, 2008}} < /ref > 
+ 
+ Many groups created operating systems for Itanium, including [[Microsoft Windows]], [[OpenVMS]], [[Linux]], and [[UNIX]] types such as [[HP-UX]], [[Solaris (operating system)|Solaris]], < ref name= " Solaris-Merced1 " > {{cite web 
+ | url=http://www.linuxtoday.com/news_story.php3?ltsn=1999-09-02-007-06-PS 
+ | title=ComputerWorld: Solaris for IA-64 coming this fall 
+ | last=Vijayan 
+ | first=Jaikumar 
+ | access-date=October 16, 2008 
+ | date=July 16, 1999 
+ | work=Linuxtoday 
+ | archive-date=February 13, 2009 
+ | archive-url=https://web.archive.org/web/20090213040849/http://www.linuxtoday.com/news_story.php3?ltsn=1999-09-02-007-06-PS 
+ | url-status=dead 
+ }} < /ref > < ref name= " Solaris-Merced2 " > 
+ {{cite web 
+ | url=http://www.eetimes.eu/18302255 
+ | title=Core-logic efforts under way for Merced 
+ | last=Wolfe 
+ | first=Alexander 
+ | access-date=October 16, 2008 
+ | date=September 2, 1999 
+ | work=EE Times 
+ }}{{dead link|date=April 2011}} < /ref > < ref name= " Solaris-Merced3 " > {{cite web 
+ | url=http://findarticles.com/p/articles/mi_m0EIN/is_1998_March_10/ai_20369933 
+ | title=Sun Introduces Solaris Developer Kit for Intel to Speed Development of Applications On Solaris; Award-winning Sun Tools Help ISVs Easily Develop for Solaris on Intel Today 
+ | access-date=October 16, 2008 
+ | date=March 10, 1998 
+ | work=Business Wire 
+ | archive-date=March 9, 2012 
+ | archive-url=https://web.archive.org/web/20120309035702/http://findarticles.com/p/articles/mi_m0EIN/is_1998_March_10/ai_20369933/ 
+ | url-status=dead 
+ }} < /ref > 
+ [[Tru64 UNIX]], < ref name= " cautionary " / >  and [[Project Monterey|Monterey/64]] < ref > {{cite web 
+ | url=http://www.news.com/2100-1001-229335.html 
+ | title=Next-generation chip passes key milestone 
+ | access-date=November 1, 2007 
+ | date=September 17, 1999 
+ | work=CNET News.com 
+ }}{{Dead link|date=December 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ (the last three were never finished work with running on Itanium). By 1997, many found that the Itanium architecture and the compiler were more difficult to use than they thought. < ref name= " geek1 " > 
+ {{cite web 
+ | url=http://news.cnet.com/2100-1001-228204.html 
+ | title=Intel's Merced chip may slip further 
+ | last=Shankland 
+ | first=Stephen 
+ | access-date=October 16, 2008 
+ | date=July 8, 1999 
+ | work=CNET News 
+ }} < /ref > 
+ Technology issues such as the very high [[transistor]] counts needed for the large instruction words and the large caches.{{Citation needed|date=April 2010}} There were also problems with the project, as the two parts of the team used different methods and had slightly different priorities.{{Citation needed|date=April 2010}} Because Merced was the first EPIC processor, its creation had more problems than the team had thought. In addition, the EPIC concept requires different compiler abilities that had never been created before, so more research was needed.{{Citation needed|date=April 2010}} 
+ 
+ Intel announced the name of the processor, ''Itanium'', on October 4, 1999. < ref > {{cite web 
+ | url=http://news.cnet.com/Intel+names+Merced+chip+Itanium/2100-1001_3-230932.html 
+ | title=Intel names Merced chip Itanium 
+ | access-date=April 30, 2007 
+ | last=Kanellos 
+ | first=Michael 
+ | date=October 4, 1999 
+ | work=[[CNET]] News.com 
+ | archive-url=https://archive.today/20130102055515/http://news.cnet.com/Intel-names-Merced-chip-Itanium/2100-1001_3-230932.html 
+ | archive-date=January 2, 2013 
+ | url-status=live 
+ }} < /ref > 
+ In only a few hours, the name ''Itanic'' had been used as a joke, (a reference to [[RMS Titanic|''Titanic'']], the  " unsinkable "  ship that sank in 1912 ( " Itanium + Titanic = Itanic " )). < ref > {{cite web 
+ | url=http://groups.google.com/group/comp.sys.mac.advocacy/browse_thread/thread/52238e697177fa52/1d3f87d07be3797f#1d3f87d07be3797f 
+ | title=Re:Itanium 
+ | access-date=March 24, 2007 
+ | last=Finstad 
+ | first=Kraig 
+ | date=October 4, 1999 
+ | work=[[USENET]] group comp.sys.mac.advocacy 
+ }} < /ref > 
+ " Itanic "  has also been used by ''[[The Register]]'', < ref name= " Reg_Itanic " > {{cite news 
+ | author=Pete Sherriff 
+ | title=AMD vs Intel & nbsp;– our readers write 
+ | url=https://www.theregister.co.uk/1999/10/28/amd_vs_intel_our_readers/ 
+ | work=[[The Register]] 
+ | date=October 28, 1999 
+ | access-date=April 6, 2010 
+ }} < /ref > 
+ and others, < ref > {{cite web 
+ | url=http://techupdate.zdnet.com/techupdate/stories/main/0,14179,2828684,00.html 
+ | title=Interpreting McNealy's lexicon 
+ | access-date=March 19, 2007 
+ | last=Berlind 
+ | first=David 
+ | date=November 30, 2001 
+ | work=[[ZDNet]] Tech Update 
+ | archive-date=March 16, 2008 
+ | archive-url=https://web.archive.org/web/20080316180454/http://techupdate.zdnet.com/techupdate/stories/main/0,14179,2828684,00.html 
+ | url-status=dead 
+ }} < /ref > < ref > {{cite web 
+ | url=http://www.theinquirer.net/default.aspx?article=33115 
+ | title=Itanic shell game continues 
+ | access-date=March 19, 2007 
+ | last=Demerjian 
+ | first=Charlie 
+ | date=July 18, 2006 
+ | work=[[The Inquirer]] 
+ }} {{dead link|date=April 2012|bot=H3llBot}} < /ref > < ref > {{cite news 
+ | url=https://www.nytimes.com/2003/10/19/business/market-watch-fawning-analysts-betray-investors.html 
+ | title=Fawning Analysts Betray Investors 
+ | access-date=October 19, 2010 
+ | last=Morgenson 
+ | first=Gretchen 
+ | date=October 19, 2003 
+ | work=[[New York Times]] 
+ }} < /ref > 
+ to say the multi-billion-dollar investment in Itanium, and the early demand with it, would mean nothing because they thought Itanium was going to fail. 
+ 
+ === Itanium (Merced): 2001 === 
+ {{Infobox CPU 
+ | name=Itanium (Merced) 
+ | image=KL Intel Itanium ES.jpg 
+ | image_size=300px 
+ | caption=Itanium processor 
+ | produced-start=June 2001 
+ | produced-end=June 2002 
+ | slowest=733 
+ | slow-unit=MHz 
+ | fastest=800 
+ | fast-unit=MHz 
+ | fsb-slowest=266 
+ | fsb-slow-unit=MT/s 
+ | manuf1=Intel 
+ | core1=Merced 
+ | size-from= 
+ | size-to= 
+ | arch=Itanium 
+ | sock1=PAC418 
+ | numcores=1 
+ | l2cache=96 & nbsp;KB 
+ | l3cache=2 or 4 & nbsp;MB 
+ }} 
+ By the time Itanium was released in June 2001, its performance was not superior to competing RISC and CISC processors. < ref > {{cite news 
+ | author=Linley Gwennap 
+ | title=Itanium era dawns 
+ | url=http://www.eetimes.com/op/showArticle.jhtml?articleID=18306008 
+ | work=EE Times 
+ | date=June 4, 2001 
+ | access-date=February 17, 2009 
+ | archive-date=January 7, 2010 
+ | archive-url=https://web.archive.org/web/20100107061256/http://eetimes.com/op/showArticle.jhtml?articleID=18306008 
+ | url-status=dead 
+ }} < /ref > 
+ Itanium competed with low-power systems (primarily 4-CPU and small systems) with servers based on [[x86]] processors, and with high-power such as with [[International Business Machines|IBM's]] [[IBM POWER microprocessors|POWER]] architecture and [[Sun Microsystems]]' [[SPARC]] architecture. Intel shifted Itanium to working with the high-power business and [[High-performance computing|HPC]] computing, trying to copy x86's successful market (i.e., 1 architecture, many system vendors). The success of the 1st processor version was only with replacing [[PA-RISC]] in HP systems, [[DEC Alpha|Alpha]] in Compaq systems and [[MIPS architecture|MIPS]] in [[Silicon Graphics|SGI]] systems, but IBM also made a supercomputer based on this architecture. < ref name= " Thunder " > {{cite web 
+ | url=http://www.top500.org/system/ranking/5597 
+ | title=Titan Cluster Itanium 800 & nbsp;MHz 
+ | access-date=May 16, 2007 
+ | work=[[TOP500]] web site 
+ | archive-date=September 25, 2006 
+ | archive-url=https://web.archive.org/web/20060925041933/http://www.top500.org/system/ranking/5597 
+ | url-status=dead 
+ }} < /ref > 
+ POWER and SPARC were strong, and the x86 architecture grew more into the enterprise space, because of easier scaling and very large [[install base]]. 
+ 
+ Only a few thousand systems using the 1st Itanium processor, ''Merced'', were sold, because of poorer performance, high cost and less Itanium-made software. < ref > {{cite news 
+ | author=Michael Kanellos 
+ | title=Itanium sales off to a slow start 
+ | url=http://news.cnet.com/2100-1001-276880.html 
+ | work=CNET News.com 
+ | date=December 11, 2001 
+ | access-date=July 20, 2008 
+ }} < /ref > 
+ Intel saw that Itanium required more native software to work well, so Intel made thousands of systems for independent software vendors to help them make Itanium software. HP and Intel brought the 2nd Itanium processor, Itanium 2, to market a year later. 
+ 
+ === Itanium 2: 2002–2010 === 
+ {{Infobox CPU 
+ | name=Itanium 2 (McKinley) 
+ | image=KL Intel Itanium2.jpg 
+ | image_size=300px 
+ | caption=Itanium 2 processor 
+ | produced-start=2002 
+ | produced-end=2010 
+ | slowest=900 
+ | fastest=2.53 
+ | slow-unit=MHz 
+ | fast-unit=GHz 
+ | fsb-slowest= 
+ | fsb-fastest= 
+ | fsb-slow-unit= 
+ | fsb-fast-unit= 
+ | hypertransport-slowest= 
+ | hypertransport-fastest= 
+ | hypertransport-slow-unit= 
+ | hypertransport-fast-unit= 
+ | size-from= 
+ | size-to= 
+ | soldby= 
+ | designfirm=Intel 
+ | manuf1=Intel 
+ | core1=McKinley 
+ | core2=Madison 
+ | core3=Hondo 
+ | core4=Deerfield 
+ | core5=Montecito 
+ | core6=Montvale 
+ | core7=Tukwila 
+ | core8=Poulson 
+ | sock1=PAC611 
+ | sock2=FC-LGA6 (LGA1248) ([[Tukwila (processor)|Itanium 9300 series]]) 
+ | pack1= 
+ | brand1= 
+ | arch=Itanium 
+ | microarch= 
+ | cpuid= 
+ | code= 
+ | numcores=1, 2, 4 or 8 
+ | l1cache= 
+ | l2cache=256 & nbsp;KB on Itanium2  < br / >  256 & nbsp;KB & nbsp;(D) + 1 & nbsp;MB(I) or 512 & nbsp;KB & nbsp;(I) on (Itanium2 9x00 series) 
+ | l3cache=1.5-32 & nbsp;MB 
+ | application= 
+ }} 
+ 
+ The '''Itanium 2''' processor was released in 2002, for enterprise servers and not all of high-power computing. The 1st version of Itanium 2, code-named ''McKinley'', was created by HP and Intel. It fixed many of the problems of the 1st Itanium processor, which were mostly caused by a bad memory subsystem. ''McKinley'' had 221 million [[transistor]]s (25 million of them were for logic), and was 19.5 & nbsp;mm by 21.6 & nbsp;mm (421 & nbsp;mm < sup > 2 < /sup > ) and was created with a 180 & nbsp;nm design process, and a [[CMOS]] process with 6 layers of aluminium. < ref > Naffzinger, Samuel D. et al. (2002).  " The implementation of the Itanium 2 microprocessor " . ''IEEE Journal of Solid-State Circuits'', vol. 37, no. 11, pp. 1448–1460. < /ref > 
+ 
+ In 2003, [[Advanced Micro Devices|AMD]] released the [[Opteron]], which implemented the first [[x86-64]] architecture (called [[AMD64]] at the time). Opteron was much more successful because it was an easy upgrade from [[x86]]. Intel implemented x86-64 in its [[Xeon]] processors in 2004. < ref name= " cautionary " / > 
+ 
+ Intel released a new Itanium 2 processor, code-named ''Madison'', in 2003. Madison used a 130 & nbsp;nm process and was the foundation of all new Itanium processors until June 2006. 
+ 
+ In March 2005, Intel announced that it was working on a new Itanium processor, code-named ''[[Tukwila (processor)|Tukwila]]'', to be released in 2007. Tukwila would have 4 processor cores and would replace the Itanium bus with a new [[Common System Interface]], which would also be used by a new Xeon processor. < ref name= " CSI " > {{cite web 
+ | url=http://www.eetimes.com/semi/news/showArticle.jhtml?articleID=60404677 
+ | title=Intel preps HyperTransport competitor for Xeon, Itanium CPUs 
+ | access-date=October 16, 2008 
+ | last=Merritt 
+ | first=Rick 
+ | date=March 2, 2005 
+ | work=EE Times 
+ | archive-date=January 25, 2012 
+ | archive-url=https://www.webcitation.org/64wZ1yxMM?url=http://eetimes.com/electronics-news/4124234/Intel-preps-HyperTransport-competitor-for-Xeon-Itanium-CPUs 
+ | url-status=dead 
+ }} < /ref > 
+ Later in that year, Intel changed Tukwila's release date to late 2008. < ref name= " zdnet_2005_slip " > {{cite web 
+ | url=http://news.zdnet.com/2100-9584_22-5911316.html?tag=nl 
+ | title=Intel pushes back Itanium chips, revamps Xeon 
+ | access-date=March 17, 2007 
+ | last=Shankland 
+ | first=Stephen 
+ | date=October 24, 2005 
+ | work=[[ZDNet]] News 
+ | archive-url=https://web.archive.org/web/20080209211101/http://news.zdnet.com/2100-9584_22-5911316.html?tag=nl 
+ | archive-date=February 9, 2008}} < /ref > 
+ 
+ In November 2005, the largest Itanium server makers worked with Intel and many software vendors to create the Itanium Solutions Alliance, to promote the architecture and speed up software porting. < ref name= " ISA " > {{cite web 
+ | url=http://www.itaniumsolutionsalliance.org 
+ | title=Itanium Solutions Alliance 
+ | access-date=May 16, 2007 
+ | work=ISA web site 
+ | archive-date=September 8, 2008 
+ | archive-url=https://web.archive.org/web/20080908015727/http://www.itaniumsolutionsalliance.org/ 
+ | url-status=dead 
+ }} < /ref > 
+ The Alliance says that its members would invest $10 billion in Itanium solutions by the end of the decade. < ref > {{cite web 
+ | url=http://www.ednasia.com/article-12139-computingleadersannouncestrategyforneweraofmissioncriticalcomputing-Asia.html 
+ | title=Computing Leaders Announce Strategy for New Era of Mission Critical Computing 
+ | access-date=October 16, 2008 
+ | last=Scott 
+ | first=Bilepo 
+ | date=January 26, 2006 
+ | work=Itanium Solutions Alliance Press Release 
+ | archive-date=January 25, 2012 
+ | archive-url=https://www.webcitation.org/64wYxF34e?url=http://www.ednasia.com/article-12139-computingleadersannouncestrategyforneweraofmissioncriticalcomputing-Asia.html 
+ | url-status=dead 
+ }} < /ref > 
+ 
+ In 2006, Intel delivered ''Montecito'' (marketed as the '''Itanium 2 9000''' series), a 2-core processor that had approximately 2x performance and 20% less energy usage. < ref name= " CW1 " > {{cite web 
+ | url=http://www.computerworld.com/action/article.do?command=viewArticleBasic & articleId=9087319 
+ | title='Tukwila' Itanium servers due early next year, Intel says 
+ | access-date=October 16, 2008 
+ | last=Niccolai 
+ | first=James 
+ | date=May 20, 2008 
+ | work=[[ComputerWorld]] 
+ | archive-date=January 25, 2012 
+ | archive-url=https://www.webcitation.org/64wYz5pyp?url=http://www.computerworld.com/s/article/9087319/_Tukwila_Itanium_servers_due_early_next_year_Intel_says 
+ | url-status=dead 
+ }} < /ref > 
+ 
+ Intel released the '''Itanium 2 9100''' series, codenamed ''Montvale'', in November 2007. < ref name= " IW1 " > {{cite web 
+ | url=http://www.informationweek.com/story/showArticle.jhtml?articleID=202800983 
+ | title=Intel Unveils Seven Itanium Processors 
+ | access-date=November 6, 2007 
+ | last=Gonsalves 
+ | first=Antone 
+ | date=November 1, 2007 
+ | work=[[InformationWeek]] 
+ | archive-date=March 10, 2012 
+ | archive-url=https://web.archive.org/web/20120310003352/http://www.informationweek.com/ 
+ | url-status=dead 
+ }} < /ref > 
+ In May 2009, the release for Tukwila, Montvale's successor, was changed again, with release to [[OEM]]s planned for the first quarter of 2010. < ref name= " INQ09 " > {{cite web 
+ | url=http://www.theinquirer.net/inquirer/news/1137434/tukwila-delayed-2010 
+ | title=Tukwila delayed until 2010 
+ | access-date=May 21, 2009 
+ | last=Demerjian 
+ | first=Charlie 
+ | date=May 21, 2009 
+ | work=The Inquirer 
+ | archive-date=May 23, 2009 
+ | archive-url=https://web.archive.org/web/20090523101543/http://www.theinquirer.net/inquirer/news/1137434/tukwila-delayed-2010 
+ | url-status=dead 
+ }} < /ref > 
+ 
+ === Itanium 9300 (Tukwila): 2010 === 
+ {{Main|Tukwila (processor)|}} 
+ The '''Itanium 9300''' series processor, code-named ''Tukwila'', was released on February 8, 2010, with greater performance and memory amount. < ref name= " eweek-tukwila " > [http://www.eweek.com/c/a/IT-Infrastructure/New-Intel-Itanium-Offers-Greater-Performance-Memory-Capacity-349863/ New Intel Itanium Offers Greater Performance, Memory Capacity]{{Dead link|date=December 2021 |bot=InternetArchiveBot |fix-attempted=yes }}, By: Jeffrey Burt, 2010-02-08, eWeek < /ref > 
+ 
+ Tukwila uses a 65 & nbsp;nm process, has between two and four cores, up to 24 & nbsp;[[Mebibyte|MB]] CPU cache, [[Hyper-Threading]] technology and new memory controllers. It also has [[ECC memory|double-device data correction]], which helps to fix memory issues. Tukwila also has [[Intel QuickPath Interconnect]] (QPI) to replace the Itanium bus architecture. It has a maximum inner-processor [[Bandwidth (computing)|bandwidth]] of 96 & nbsp;GB/s and a maximum memory bandwidth of 34 & nbsp;GB/s. With QuickPath, the processor has built-in memory controllers, which controls the memory using [[QPI interface]]s to communicate with other processors and I/O hubs. QuickPath is also used with Intel processors using the ''[[Nehalem (microarchitecture)|Nehalem]]'' architecture, so that Tukwila and Nehalem might be able to use the same chipsets. < ref name= " Kittson " > {{cite web 
+ | url=http://www.zdnetasia.com/news/hardware/0,39042972,62021436,00.htm 
+ | title=Intel updates Itanium line with 'Kittson' 
+ | access-date=June 15, 2007 
+ | last=Tan 
+ | first=Aaron 
+ | date=June 15, 2007 
+ | work=[[ZDNet]] Asia 
+ | archive-date=January 25, 2012 
+ | archive-url=https://www.webcitation.org/64wZ2r2gI?url=http://www.zdnetasia.com/intel-updates-itanium-line-with-kittson-62021436.htm 
+ | url-status=dead 
+ }} < /ref > 
+ Tukwila incorporates four memory controllers, each of which supports multiple [[DDR3 SDRAM|DDR3]] [[DIMM]]s via a separate memory controller, < ref name= " TukwilaDelay " > {{cite web 
+ | url=https://arstechnica.com/business/news/2009/02/intel-delays-quad-itanium-to-boost-platform-memory-capacity.ars 
+ | title=Intel delays quad Itanium to boost platform memory capacity 
+ | access-date=February 5, 2009 
+ | last=Stokes 
+ | first=Jon 
+ | date= February 5, 2009 
+ | work=ars technica 
+ }} < /ref > 
+ similar to the Nehalem Xeon processor code-named ''[[Beckton (microprocessor)|Beckton]]''. < ref name= " DailyTech Server " > {{cite news 
+ | url=http://www.dailytech.com/Intel+Aims+for+Efficiency+With+New+Server+Roadmap/article14224.htm 
+ | first=Jansen 
+ | last=Ng 
+ | title=Intel Aims for Efficiency With New Server Roadmap 
+ | date=February 10, 2009 
+ | publisher=[[DailyTech]] 
+ | access-date=February 10, 2009 
+ | archive-date=February 13, 2009 
+ | archive-url=https://web.archive.org/web/20090213150005/http://www.dailytech.com/intel+aims+for+efficiency+with+new+server+roadmap/article14224.htm 
+ | url-status=dead 
+ }} < /ref > 
+ 
+ === Itanium 9500 (Poulson): 2012 === 
+ {{update|date=March 2014}} 
+ The Itanium 9500 series processor, code-named ''Poulson'', is the follow-on processor to Tukwila and was released on November 8, 2012. < ref > [http://www.eweek.com/c/a/IT-Infrastructure/New-Intel-Itanium-Offers-Greater-Performance-Memory-Capacity-349863/1/ New Intel Itanium Offers Greater Performance, Memory Capacity: Itanium 9300 Series Brings New Features (page 2)]{{Dead link|date=September 2021 |bot=InternetArchiveBot |fix-attempted=yes }} eweek.com, February 8, 2010 < /ref > 
+ Intel says it skips the [[45 nanometer|45 & nbsp;nm]] process technology and uses the [[32 nanometer|32 & nbsp;nm]] process technology instead; it features 8 cores, has a 12-wide issue architecture, multi-threading additions, and new instructions for parallelism, including virtualization. < ref name= " Kittson " / > < ref > {{cite web 
+ | url=http://www.realworldtech.com/page.cfm?ArticleID=RWT051811113343 
+ | title=Poulson: The Future of Itanium Servers 
+ | publisher=realworldtech.com 
+ | date=May 18, 2011 
+ | access-date=May 24, 2011}} < /ref > < ref name= " HotChip-Poulson " > {{cite web 
+ | url=http://newsroom.intel.com/servlet/JiveServlet/download/38-5835/Hot%20Chips%20%20Poulson%20disclosure%20Factsheet.pdf 
+ | title=Hot Chips Poulson Disclosure Factsheet 
+ | access-date=August 19, 2011 
+ | date=August 19, 2011 
+ | work=Intel press release 
+ | archive-date=March 24, 2012 
+ | archive-url=https://web.archive.org/web/20120324101540/http://newsroom.intel.com/servlet/JiveServlet/download/38-5835/Hot%20Chips%20%20Poulson%20disclosure%20Factsheet.pdf 
+ | url-status=dead 
+ }} < /ref > 
+ The Poulson L3 cache size is 32 & nbsp;MB. L2 cache size is 6 & nbsp;MB, 512 & nbsp;I & nbsp;[[Kibibyte|KB]], 256 & nbsp;D & nbsp;KB per core. < ref name= " dx.doi.org " > {{cite book 
+ | chapter-url=https://dx.doi.org/10.1109/ISSCC.2011.5746230 
+ | chapter=A 32nm 3.1 billion transistor 12-wide-issue Itanium® processor for mission-critical servers 
+ | chapter-format=PDF 
+ | date=February 24, 2011 
+ | doi=10.1109/ISSCC.2011.5746230 
+ | access-date=January 23, 2012| title=2011 IEEE International Solid-State Circuits Conference 
+ | last1=Riedlinger 
+ | first1=Reid J. 
+ | last2=Bhatia 
+ | first2=Rohit 
+ | last3=Biro 
+ | first3=Larry 
+ | last4=Bowhill 
+ | first4=Bill 
+ | last5=Fetzer 
+ | first5=Eric 
+ | last6=Gronowski 
+ | first6=Paul 
+ | last7=Grutkowski 
+ | first7=Tom 
+ | pages=84–86 
+ | isbn=978-1-61284-303-2 
+ | s2cid=20112763 
+ }} < /ref >  Poulson's size is 544 & nbsp;mm², less than Tukwila's size (698.75 & nbsp;mm²). < ref > {{cite web 
+ | url=http://www.eetimes.com/electronics-news/4210958/Researchers-carve-CPU-into-plastic-foil 
+ | title=Researchers carve CPU into plastic foil 
+ | publisher=Eetimes.com 
+ | access-date=December 19, 2010 
+ | archive-date=December 9, 2010 
+ | archive-url=https://web.archive.org/web/20101209085136/http://eetimes.com/electronics-news/4210958/Researchers-carve-CPU-into-plastic-foil 
+ | url-status=dead 
+ }} < /ref > < ref > {{cite web 
+ | url=https://www.engadget.com/2011/08/22/intel-talks-up-next-gen-itanium-32nm-8-core-poulson/ 
+ | title= www.engadget.com 
+ | publisher=engadget.com 
+ | access-date=April 30, 2012}} < /ref > 
+ 
+ At [[International Solid-State Circuits Conference|ISSCC]] 2011, Intel presented a paper called,  " A 32nm 3.1 Billion Transistor 12-Wide-Issue Itanium Processor for Mission Critical Servers. " < ref name= " dx.doi.org " / > < ref > {{cite web 
+ | url=http://isscc.org/doc/2011/isscc2011.advanceprogramflyerfinal.pdf 
+ | title=ISSCC 2011 
+ | access-date=November 20, 2011 
+ | archive-date=March 2, 2012 
+ | archive-url=https://web.archive.org/web/20120302011705/http://isscc.org/doc/2011/isscc2011.advanceprogramflyerfinal.pdf 
+ | url-status=dead 
+ }} < /ref > 
+ Given Intel's history of sharing details about Itanium microprocessors at ISSCC, this paper most likely refers to Poulson. Analyst David Kanter speculates that Poulson will use a new architecture, with a more advanced form of multi-threading that uses as many as two threads, to improve performance for single threaded and multi-threaded work. < ref > {{cite web 
+ | url=http://www.realworldtech.com/page.cfm?ArticleID=RWT111710021604 
+ | title=Preparing for Tukwila: The Next Generation of Intel's Itanium Processor Family 
+ | access-date=November 17, 2010 
+ | last=Kanter 
+ | first=David 
+ | date=November 17, 2010 
+ | work=Real World Tech 
+ | archive-date=November 23, 2010 
+ | archive-url=https://web.archive.org/web/20101123032244/http://www.realworldtech.com/page.cfm?ArticleID=RWT111710021604 
+ | url-status=dead 
+ }} < /ref > 
+ New information was released at [[Hot Chips]] conference. < ref > {{cite web 
+ | url=http://communities.intel.com/community/openportit/server/blog/2011/08/19/itanium-poulson-update--greater-parallelism-new-instruction-replay-more-catch-the-details-from-hotchips 
+ | title=Itanium Poulson Update & nbsp;— Greater Parallelism, New Instruction Replay  &  More: Catch the details from Hotchips! 
+ | date=August 19, 2011 
+ | access-date=January 23, 2012 
+ | archive-date=February 11, 2012 
+ | archive-url=https://web.archive.org/web/20120211165228/http://communities.intel.com/community/openportit/server/blog/2011/08/19/itanium-poulson-update--greater-parallelism-new-instruction-replay-more-catch-the-details-from-hotchips 
+ | url-status=dead 
+ }} < /ref > < ref > {{cite web 
+ | url=http://www.slideshare.net/PaulineNist/intel-itanium-poulson-update-at-hotchips 
+ | title=Intel Itanium Hotchips 2011 Overview 
+ | access-date=January 23, 2012}} < /ref > 
+ 
+ The new information claims improvements in multithreading, reliability improvements (Instruction Replay RAS) and some new instructions (thread priority, integer instruction, cache pre-fetching, data access hints). 
+ 
+ In Intel's Product Change Notification (PCN) 111456–01, it listed 4 models of Itanium 9500 series CPU, which were removed in a revised version of the document. < ref name= " cpu-world.com " > {{cite web|url=http://www.cpu-world.com/news_2012/2012061301_Unreleased_Intel_Itanium_9500-series_CPUs_spotted.html|title=Unreleased Intel Itanium 9500-series CPUs spotted|website=www.cpu-world.com}} < /ref >  The parts were later listed in Intel's Material Declaration Data Sheets (MDDS) database. < ref > {{cite web|url=http://www.cpu-world.com/news_2012/2012062601_Spotted_9500-series_CPUs_confirmed_to_be_Poulson_Itaniums.html|title=Spotted 9500-series CPUs confirmed to be  " Poulson "  Itaniums|website=www.cpu-world.com}} < /ref >  Intel later posted Itanium 9500 reference manual. < ref > {{cite web|url=http://www.cpu-world.com/news_2012/2012071101_Intel_publishes_Itanium_9500_reference_manual.html|title=Intel publishes Itanium 9500 reference manual|website=www.cpu-world.com}} < /ref > 
+ 
+ The models are: < ref name= " cpu-world.com " / > 
+ {| class= " wikitable " 
+ |- 
+ !Processor number||Frequency 
+ |- 
+ |9520||1.73 & nbsp;GHz 
+ |- 
+ |9540||2.13 & nbsp;GHz 
+ |- 
+ |9550||2.4 & nbsp;GHz 
+ |- 
+ |9560||2.53 & nbsp;GHz 
+ |} 
+ 
+ == Market share == 
+ In comparison with its [[Xeon]] server processors, Itanium has never been a large product for Intel. Intel does not release production numbers. One industry analyst estimated that the production rate was 200,000 processors per year in 2007. < ref > {{cite web 
+ | url=http://www.internetnews.com/ent-news/article.php/3705016 
+ | title=Intel Plows Forward With Itanium 
+ | access-date=October 18, 2007 
+ | last=Patrizio 
+ | first=Andy 
+ | date=October 12, 2007 
+ | work=InternetNews.com 
+ | archive-date=April 22, 2018 
+ | archive-url=https://web.archive.org/web/20180422062117/http://www.internetnews.com/ent-news/article.php/3705016 
+ | url-status=dead 
+ }} < /ref > 
+ 
+ According to [[Gartner Inc.]], the total number of Itanium servers (not processors) sold by all vendors in 2007, was about 55,000. (It is unclear whether clustered servers counted as a single server or not.) This compares with 417,000 RISC servers (spread across all RISC vendors) and 8.4 million x86 servers. [[International Data Corporation|IDC]] reports that a total of 184,000 Itanium-based systems were sold from 2001 through 2007. For the combined POWER/SPARC/Itanium systems market, IDC reports that POWER captured 42% of revenue and SPARC captured 32%, while Itanium-based system revenue reached 26% in the second quarter of 2008. < ref > [[International Data Corporation|IDC]] World Wide Server Tracker, Q2'08 < /ref > 
+ According to an IDC analyst, in 2007, HP had about 80% of Itanium system revenue. < ref > {{cite web 
+ | url=http://www.computerworld.com/action/article.do?command=viewArticleBasic & articleId=9087319 
+ | title='Tukwila' Itanium servers due early next year, Intel says 
+ | access-date=May 21, 2008 
+ | last=Niccolai 
+ | first=James 
+ | date=May 20, 2008 
+ | work=Computerworld 
+ | archive-date=January 25, 2012 
+ | archive-url=https://www.webcitation.org/64wYz5pyp?url=http://www.computerworld.com/s/article/9087319/_Tukwila_Itanium_servers_due_early_next_year_Intel_says 
+ | url-status=dead 
+ }} < /ref > 
+ According to Gartner, in 2008, HP had 95% of Itanium sales. < ref name= " vance late " / >  HP's Itanium system sales were at $4.4 Billion at the end of 2008, and $3.5 Billion by the end of 2009, < ref name= " Gartner 2009-q4 " > {{cite web 
+ | url=https://www.theregister.co.uk/2010/02/24/gartner_q4_2009_servers/ 
+ | title=Gartner report card gives high marks to x64, blades 
+ | access-date=February 25, 2010 
+ | last=Morgan 
+ | first=Timothy Prickett 
+ | date= February 24, 2010 
+ | work=TheRegister.com 
+ }} < /ref > 
+ compared to a 35% decline in UNIX system revenue for Sun and an 11% drop for IBM, with an x86-64 server revenue increase of 14% during this period. 
+ 
+ In December 2012, IDC released a research report stating that Itanium server shipments would remain flat through 2016, with annual shipment of 26,000 systems (a decline of over 50% compared to shipments in 2008). < ref > {{cite web|url=https://www.pcworld.com/article/2028587/intel-shifts-gears-on-itanium-raising-questions-about-the-server-chips-future.html|title=Intel shifts gears on Itanium, raising questions about the server chip's future|date=February 16, 2013|website=PCWorld}} < /ref > 
+ 
+ == Hardware support == 
+ 
+ === Systems === 
+ {|class= " wikitable "  style= " float:right; clear:right;margin:0 0 0.5em 1em; " 
+ |+Server manufacturers' Itanium products 
+ |- 
+ !colspan= " 3 " |Company 
+ !colspan= " 2 " |Latest product 
+ |- 
+ !name || from || to || name || CPUs 
+ |- 
+ |[[Compaq]] || 2001 || 2001 || [[ProLiant]] 590 || 1–4 
+ |- 
+ |[[IBM]] || 2001 || 2005 || x455 || 1–16 
+ |- 
+ |[[Dell]] || 2001 || 2005 || [[Dell PowerEdge|PowerEdge]] 7250 || 1–4 
+ |- 
+ |[[Hitachi, Ltd.|Hitachi]] || 2001 || 2008 || BladeSymphony < br/ > 1000 || 1–8 
+ |- 
+ |[[Unisys]] || 2002 || 2009 || [[ES7000]]/one || 1–32 
+ |- 
+ |[[Silicon Graphics|SGI]] || 2001 || 2011 || [[Altix]] 4000 || 1–2048 
+ |- 
+ |[[Fujitsu]] || 2005 || 2011 || PRIMEQUEST || 1–32 
+ |- 
+ |[[Hewlett-Packard|HP]] || 2001 || now || [[HP Integrity|Integrity]] || 1–256 
+ |- 
+ |[[Groupe Bull|Bull]] || 2002 || now || NovaScale 9410 || 1–32 
+ |- 
+ |[[NEC]] || 2002 || now || nx7700i || 1–256 
+ |- 
+ |[[Inspur]] || 2010 || now || TS10000 || 2-1024 
+ |- 
+ |[[Huawei]] || 2012 || now || ???? || ???? 
+ |} 
+ 
+ {{As of|2015}}, only a few providers have Itanium systems, such as [[Hewlett-Packard|HP]], [[Groupe Bull|Bull]], [[NEC]], [[Inspur]] and [[Huawei]]. [[Intel]] offers a chassis that can be used by [[system integrator]]s to build Itanium systems. < ref > {{cite web 
+ | url=http://support.intel.com/support/motherboards/server/SR9000MK4U/sb/CS-023638.htm 
+ | title=Intel Server System SR9000MK4U Technical Product Specification 
+ | access-date=April 14, 2007 
+ | date=January 2007 
+ | work=[[Intel]] web site 
+ | archive-date=February 8, 2009 
+ | archive-url=https://web.archive.org/web/20090208174924/http://support.intel.com/support/motherboards/server/SR9000MK4U/sb/CS-023638.htm 
+ | url-status=dead 
+ }} < /ref > 
+ HP, the only one of the industry's top 4 server manufacturers to sell Itanium systems today, creating at least 80% of all Itanium systems. HP sold 7,200 systems in the first quarter of 2006. < ref > {{cite web 
+ | url=https://www.theregister.co.uk/2006/06/01/itanic_q1_gartner/ 
+ | title=HP grabs 90% of 'industry standard' Itanic market 
+ | access-date=January 28, 2007 
+ | last=Vance 
+ | first=Ashlee 
+ | author-link=Ashlee Vance 
+ | date= June 1, 2006 
+ | work=[[The Register]] 
+ }} < /ref > 
+ Most Itanium systems sold are [[enterprise server]]s and machines for large-scale technical computing, with each system costing about [[United States dollar|US $]]200,000. A typical system uses eight or more Itanium processors. 
+ 
+ === Chipsets === 
+ The Itanium bus communicates with the rest of the system. Enterprise server makers differentiate their systems by making their own chipsets that interface the processor to memory, interconnections, and peripheral controllers. The chipset is the heart of the system-level architecture for each system design. Creation of a chipset costs tens of millions of dollars and represents a major commitment to the use of the Itanium. IBM created a chipset in 2003, and Intel in 2002, but neither of them has developed chipsets to support technologies such as [[DDR2 SDRAM|DDR2]] or [[PCI Express]]. < ref name= " zdnet_uk " > {{cite web 
+ | url=http://news.zdnet.co.uk/hardware/0,1000000091,39189451,00.htm 
+ | title=Itanium dealt another blow 
+ | access-date=March 24, 2007 
+ | last=Shankland 
+ | first=Stephen 
+ | date=February 28, 2005 
+ | work=[[ZDNet]] 
+ }}{{Dead link|date=February 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ Currently, modern chipsets for Itanium supporting such technologies are manufactured by HP, Fujitsu, SGI, NEC, and Hitachi. 
+ 
+ The  " Tukwila "  Itanium processor model had been designed to share a common chipset with the Intel Xeon processor EX (Intel's Xeon processor designed for four processor and larger servers). The goal is to streamline system development and reduce costs for server OEMs, many of whom develop both Itanium- and Xeon-based servers. However, in 2013, this goal was pushed back to  " evaluated for future implementation opportunities " . < ref > {{cite web|url=https://www.theregister.co.uk/2013/02/08/intel_kills_itanium_xeon_convergence_and_kittson/|title=Remember that Xeon E7-Itanium convergence? FUHGEDDABOUDIT|first=Timothy Prickett Morgan February 8, 2013 at 23:53|last=tweet_btn()|website=www.theregister.co.uk}} < /ref > 
+ 
+ == Software support == 
+ Itanium is or was supported (i.e. Windows version can no longer be bought) by the following [[operating system]]s: 
+ * [[HP-UX]] 11i; an [[Intel 64]] (x86-64) port was proposed, but later canceled. < ref > {{cite web|title=HP started then spiked HP-UX on x86 project|url=https://www.theregister.co.uk/2012/05/23/hp_project_blackbird_redwood_hp_ux/?page=1|website=The Register|access-date=June 4, 2015}} < /ref > 
+ * [[Windows]] family  < !-- (out of  " mainstream "  support) -- > 
+ ** [[Windows XP|Windows XP 64-Bit Edition]] (Unsupported; first Windows edition to support) 
+ ** [[Windows Server 2003]] (Unsupported) 
+ ** [[Windows Server 2008]] (Extended support until January 14, 2020. < ref > {{cite web | url=https://support.microsoft.com/en-us/lifecycle/search/12925 | title=Search Product and Services Lifecycle Information - Microsoft Lifecycle }} < /ref >  Extended support will only receive bug fixes and no new features, including support for future CPUs.  < !--Add just to make clear both still supported, for real since in June update for e.g.  " Wowia32x.dll [..] IA64_MICROSOFT-WINDOWS-WOW " : -- > This is the last version of Windows still with support for Itanium. Windows Server 2008 and Server 2008 R2 got a security update in middle of 2018. < ref > {{cite web|url=https://support.microsoft.com/en-us/help/4340583/denial-of-service-vulnerability-in-windows-server-2008|title=Description of the security update for the Windows denial of service vulnerability in Windows Server 2008: July 10, 2018|website=support.microsoft.com|access-date=August 1, 2018}} < /ref > ) 
+ ** [[Windows Server 2008 R2]] (This is the last version of Windows to support Itanium. < ref > {{cite web | url=https://support.microsoft.com/en-us/lifecycle/search/14134/ | title=Search Product and Services Lifecycle Information - Microsoft Lifecycle }} < /ref > ) 
+ * Linux distributions 
+ **  < !-- moved below to main text: [[Debian]] (unsupported 
+ 
+ LTS doesn't apply to Itanium: last supported in [[Debian version history#Debian 7 (Wheezy)|Debian 7 / Wheezy]], < ref > 
+ {{cite web |url=https://www.debian.org/releases/wheezy/index.en.html|title=Debian  " wheezy "  Release Information}} 
+ < /ref >  development stopped in February 2014 < ref > 
+ {{cite web |url=https://lists.debian.org/debian-ia64/2014/02/msg00000.html|title=IA64 removal from unstable and experimental|work=Debian Mailing List debian-ia64}} 
+ < /ref > )-- > 
+ ** [[Gentoo Linux|Gentoo]] < ref > {{cite web |url=https://wiki.gentoo.org/wiki/Project:IA-64 |title=Project:IA-64 |quote=The Gentoo/IA-64 Project works to keep Gentoo the most up to date and fastest IA-64 distribution available.  < !-- " The IA-64 Development Project is devoted to keeping Gentoo in good shape on the IA-64 architecture. " -- > }} < /ref > 
+ ** [[SUSE Linux Enterprise Server|SUSE's SLES]] (unsupported as of SLES 12; supported by SLES 11 SP4 < ref > {{cite web |url=https://download.suse.com/Download?buildid=cRK-iUk0yTY~ |title=SUSE Linux Enterprise Server 11 SP4 for Itanium |access-date=August 25, 2017}} < /ref > ) 
+ **  < !-- moved below to main text: [[Red Hat Enterprise Linux]] (unsupported; RHEL 5 was last to support < ref > [https://access.redhat.com/articles/rhel-limits Red Hat] < /ref > < !-  " For Red Hat Enterprise Linux 5, the ELS Add-On covers the x86 architecture, both 32-bit and 64-bit variants, with the exception of the Itanium architecture. " )-- > 
+ ** [[TurboLinux]] (was the first Linux to support with version 7 in 2001 < ref > {{cite web 
+ | url=http://news.cnet.com/TurboLinux-unveils-system-for-Intels-Itanium-chip/2100-1001_3-238077.html 
+ | title=TurboLinux unveils system for Intel's Itanium chip 
+ | access-date=June 8, 2014 
+ | last=Shankland 
+ | first=Stephen 
+ | date=January 2, 2002  < !--simply wrong or page updated?: 2000-03-16 -- > 
+ | work=CNet News 
+ }} < /ref > < !-- probably EOL, at least that old version; didn't look up support in newer; Version 12 is current, but  " Turbolinux 7 to be released for Itanium-based systems " -- > ) 
+ * [[FreeBSD]] < ref > {{cite web 
+ | url=http://lists.freebsd.org/pipermail/freebsd-ia64/2014-May/004043.html 
+ | title=[ia64] End of life... 
+ | access-date=July 7, 2014 
+ | work=freebsd.org 
+ | date=May 15, 2014 
+ }} < /ref > < ref > {{cite web 
+ | url=http://svnweb.freebsd.org/base?view=revision & revision=268351 
+ | title=FreeBSD r268351: Remove ia64. 
+ | access-date=July 7, 2014 
+ | work=freebsd.org 
+ | archive-date=May 18, 2015 
+ | archive-url=https://web.archive.org/web/20150518221841/http://svnweb.freebsd.org/base?view=revision & revision=268351 
+ | url-status=dead 
+ }} < /ref >  (unsupported; was supported in 10.4 < ref > {{cite web|url=https://www.freebsd.org/releases/10.4R/announce.html|title=FreeBSD 10.4-RELEASE Announcement|website=www.freebsd.org|access-date=May 4, 2019}} < /ref >  (to October 2018 EOL) as: < !-- https://www.freebsd.org/releases/10.3R/hardware.html -- >   " Tier 2 through FreeBSD 10. Unsupported after. " < ref > [https://www.freebsd.org/platforms/ Platforms] < /ref > ) 
+ * [[NetBSD]] (development branch only, but  " no formal release is available " . < ref > {{cite web |url=http://wiki.netbsd.org/ports/ia64/ |title=NetBSD/ia64 |publisher=NetBSD Foundation |access-date=August 20, 2015 }} < /ref > ) 
+ * [[OpenVMS]] I64 ( < !-- " engineering support "  -- > to 2020 < ref > {{cite web|url=https://www8.hp.com/us/en/hp-news/press-release.html?id=1424702#.WskJ1tbLe1I|title=HP News - & nbsp;HP Extends Support for OpenVMS through Year 2020|website=www8.hp.com|language=en|access-date=April 7, 2018|archive-date=April 8, 2018|archive-url=https://web.archive.org/web/20180408010158/https://www8.hp.com/us/en/hp-news/press-release.html?id=1424702#.WskJ1tbLe1I|url-status=dead}} < /ref > ); an [[Intel 64]] (x86-64) port is being developed. < ref > {{cite web|last1=Thibodeau|first1=Patrick|title=HP gives OpenVMS new life|url=http://www.computerworld.com/article/2490683/operating-systems-hp-gives-openvms-new-life.html|website=ComputerWorld|date=July 31, 2014 |access-date=December 21, 2014}} < /ref > 
+ * [[NonStop OS]]; an [[Intel 64]] (x86-64) port was developed < ref > {{cite web|url=https://hardware.slashdot.org/story/13/11/06/1354237/hps-nonstop-servers-go-x86-countdown-to-itanium-extinction-begins|title=HP's NonStop Servers Go x86, Countdown To Itanium Extinction Begins - Slashdot|website=hardware.slashdot.org|language=en|access-date=June 7, 2019}} < /ref > 
+ * [[General Comprehensive Operating System|Bull GCOS]] 8 < ref > {{cite web|date=November 12, 2014|title=Onderlinge's-Gravenhage has moved from the Bull GCOS 7 Mainframe to Open Source with COBOL-IT, Metaware and Phoenix Management|url=https://www.cobol-it.com/onderlinges-gravenhage-has-moved-from-the-bull-gcos-7-mainframe-to-open-source-with-cobol-it-metaware-and-phoenix-management/|access-date=June 7, 2019|website=Cobol-it|language=en-GB}} < /ref > < !-- on that it's still supported/sold on Itanium, see next line-- > 
+ * [[Advanced Comprehensive Operating System|NEC ACOS]]-4 < !-- May be outdated?:  " ACOS-2 (based on GCOS 4) and ACOS-4 (based on GCOS 7) are still sold, although only ACOS-4 is under active development. ACOS-6 (based on GCOS 8) is an obsolete high-end mainframe platform " -- > < ref > [http://download.intel.com/newsroom/archive/Intel-Itanium-processor-9500_ProductBrief.pdf PRODUCT BRIEF Intel® Itanium® Processor 9500 Series] < /ref >  (in late September 2012, NEC announced a return from IA-64 to the previous NOAH line of proprietary mainframe processors for ACOS-4 < !--, now produced in a quad-core variant on 40 nm, called NOAH-6-- > . < ref > [http://www.nec.co.jp/products/acosclub/kataru/03/01.html With the new CPU NOAH - 6, the next generation platform i - PX 9800 was born] < /ref > ) 
+ 
+ Microsoft announced that Windows Server 2008 R2 would be the last version of Windows Server to support the Itanium (support started with XP), and that it would also discontinue development of the Itanium versions of [[Visual Studio]] and [[Microsoft SQL Server|SQL Server]]. < ref name= " last_ms " > {{cite web 
+ |url          = https://cloudblogs.microsoft.com/windowsserver/2010/04/02/windows-server-2008-r2-to-phase-out-itanium/ 
+ |title        = Windows Server 2008 R2 to Phase Out Itanium 
+ |access-date   = July 29, 2018 
+ |last         = Reger 
+ |first        = Dan 
+ |date         = April 2, 2010 
+ |work         = Windows Server Blog 
+ }} < /ref > 
+ < !-- wrong info(?): 
+ In 2013, extended support for [[Windows Server 2008 R2]]  < !- note that version in general is still supported for x86; just: [[Windows Server 2008 R2 for Itanium-Based Systems]] supported ended in 2013 - >  for Itanium-Based Systems ended < ref > https://support.microsoft.com/en-us/lifecycle/search?sort=PN & alpha=Windows%20Server%202008%20R2 & Filter=FilterNO < /ref >  (support started with XP), and Microsoft also discontinued development of the Itanium versions of [[Visual Studio]] and [[Microsoft SQL Server|SQL Server]]. < ref name= " last_ms " > {{cite web 
+ | url=http://blogs.technet.com/windowsserver/archive/2010/04/02/windows-server-2008-r2-to-phase-out-itanium.aspx 
+ | title=Windows Server 2008 R2 to Phase Out Itanium 
+ | access-date=April 3, 2010 
+ | last=Reger 
+ | first=Dan 
+ |date=April 2010 
+ }} < /ref >  -- > 
+ Likewise, [[Red Hat Enterprise Linux]] 5 (first released in March 2007) was the last Itanium edition of Red Hat Enterprise Linux < ref name= " last_rhel " > {{cite news 
+ | author=Timothy Prickett Morgan 
+ | title=Red Hat pulls plug on Itanium with RHEL 6 
+ | url=https://www.theregister.co.uk/2009/12/18/redhat_rhel6_itanium_dead/ 
+ | work=[[The Register]] 
+ | date=December 18, 2009 
+ | access-date=December 18, 2009 
+ }} < /ref > 
+ and [[Debian]] no longer supports Itanium officially (last release with official support was [[Debian version history#Debian 7 (Wheezy)|Debian 7 / Wheezy]], and was not covered by Long Term Support (LTS), but unofficial support for newer Debian is still available in limited form via Debian Ports; last available kernel in wheezy-backports is Linux 3.14.0, which was released on March 30, 2014, but it is possible to manually update to latest 3.14.x version, or more recent kernel versions, like 4.17.17 as of September 2018) and in addition [[Canonical (company)|Canonical Ltd.]] chose to not support < !--never did? source seems misleading with  " discontinued " -- >  Itanium for [[Ubuntu version history#1004|Ubuntu 10.04 LTS]] (released in April 2010, now discontinued). < ref > {{cite web 
+ | title=Canonical discontinues Itanium and SPARC support in Ubuntu 
+ | url=http://www.h-online.com/open/news/item/Canonical-discontinues-Itanium-and-SPARC-support-in-Ubuntu-1062860.html 
+ | work=[[The H]] 
+ | date=August 20, 2010 
+ | access-date=August 23, 2010}} < /ref > 
+ HP will not be supporting or certifying Linux on Itanium 9300 (Tukwila) servers. < ref > {{cite web 
+ |author       = [[Hewlett-Packard]] 
+ |title        = Linux on HP Integrity servers based on the Intel Itanium Processor 9100 series 
+ |url          = http://h20341.www2.hp.com/integrity/w1/en/os/linux-on-integrity-overview.html 
+ |access-date   = August 23, 2010 
+ |quote        = HP is not planning to certify or support any Linux distribution on the new Integrity servers based on the Intel Itanium processor 9300 series. 
+ |archive-url  = https://web.archive.org/web/20100812094933/http://h20341.www2.hp.com/integrity/w1/en/os/linux-on-integrity-overview.html 
+ |archive-date = August 12, 2010 
+ |url-status     = dead 
+ |df           = mdy-all 
+ }} < /ref > 
+ 
+ In late September 2012, NEC announced a return from IA-64 to the previous NOAH line of proprietary mainframe processors, now produced in a quad-core variant on 40 & nbsp;nm, called NOAH-6. < ref > [http://www.nec.co.jp/soft/acos4/release/os.html ACOS-4 news] < /ref > 
+ 
+ HP sells a [[Operating system-level virtualization|virtualization]] technology for Itanium called [[Integrity Virtual Machines]]. 
+ 
+ To allow more software to run on the Itanium, Intel supported the development of compilers optimized for the platform, especially its own suite of compilers. < ref > {{cite web 
+ | url=http://www.gamasutra.com/newswire/bit_blasts/20001108/index4.htm 
+ | title=Intel Announces New Compiler Versions for the Itanium and Pentium 4 
+ | access-date=June 5, 2007 
+ | last=Barker 
+ | first=Matt 
+ | date= November 8, 2000 
+ | work=Gamasutra ([[CMP Media]] Game Group) 
+ | archive-url=https://web.archive.org/web/20050819174251/http://www.gamasutra.com/newswire/bit_blasts/20001108/index4.htm 
+ | archive-date= August 19, 2005 
+ }} < /ref > < ref > {{cite web 
+ | url=http://www.intel.com/cd/software/products/asmo-na/eng/compilers/284132.htm 
+ | title=Intel Compilers 
+ | access-date=May 16, 2007 
+ | work=[[Intel]] web site 
+ | archive-date=May 13, 2007 
+ | archive-url=https://web.archive.org/web/20070513041645/http://www.intel.com/cd/software/products/asmo-na/eng/compilers/284132.htm 
+ | url-status=dead 
+ }} < /ref > 
+ Starting in November 2010, with the introduction of new product suites, the Intel Itanium Compilers were no longer bundled with the Intel x86 compilers in a single product. Intel offers Itanium tools and Intel x86 tools, including compilers, independently in different product bundles. 
+ [[GNU Compiler Collection|GCC]], < ref > {{cite web 
+ |url         = http://gcc.gelato.org/ 
+ |title       = Gelato GCC Wiki 
+ |access-date  = May 16, 2007 
+ |work        = [[Gelato Federation]] web site 
+ |url-status     = dead 
+ |archive-url  = https://web.archive.org/web/20070420115913/http://gcc.gelato.org/ 
+ |archive-date = April 20, 2007 
+ |df          = mdy-all 
+ }} < /ref > < ref > {{cite web 
+ | url=https://gcc.gnu.org/install/specific.html#ia64-x-linuxIA-32 
+ | title=Documentation at GNU.org 
+ | access-date=May 16, 2007 
+ | work=[[GNU Project]] web site 
+ }} < /ref > 
+ [[Open64]] and [[Microsoft Visual Studio]] 2005 (and later) < ref > {{cite web 
+ | url=http://msdn2.microsoft.com/en-us/library/hs24szh9(VS.80).aspx 
+ | title=Visual C++ Editions 
+ | access-date=January 5, 2008 
+ | work=[[Microsoft]] 
+ }} < /ref > 
+ are also able to produce [[machine code]] for Itanium. According to the Itanium Solutions Alliance over 13,000 applications were available for Itanium-based systems in early 2008, < ref > {{cite web 
+ | url=http://www.informationweek.com/news/hardware/processors/showArticle.jhtml?articleID=207801059 
+ | title=Computers with Next-Gen Itanium Expected Early Next Year 
+ | access-date=October 17, 2008 
+ | last=Gonsalves 
+ | first=Aantone 
+ | date=May 19, 2008 
+ | work=InformationWeek 
+ | archive-date=February 14, 2009 
+ | archive-url=https://web.archive.org/web/20090214005915/http://www.informationweek.com/news/hardware/processors/showArticle.jhtml?articleID=207801059 
+ | url-status=dead 
+ }} < /ref > 
+ though Sun has contested Itanium application counts in the past. < ref name= " Sun1 " > {{cite web 
+ |url         = http://www.sun.com/secure/executives/realitycheck/reality-011207.html 
+ |title       = Reality Check: Straight Talk on Sun UltraSPARC vs. Itanium 
+ |date        = January 12, 2007 
+ |url-status     = dead 
+ |archive-url  = https://web.archive.org/web/20070122184304/http://www.sun.com/secure/executives/realitycheck/reality-011207.html 
+ |archive-date = January 22, 2007 
+ |df          = mdy-all 
+ }} < /ref > 
+ The ISA also supported [[Gelato Federation|Gelato]], an Itanium HPC user group and developer community that ported and supported [[open-source software]] for Itanium. < ref > {{cite web 
+ |url         = http://www.gelato.org/ 
+ |title       = Gelato Developing for Linux on Itanium 
+ |access-date  = May 16, 2007 
+ |work        = [[Gelato Federation]] web site 
+ |url-status     = dead 
+ |archive-url  = https://web.archive.org/web/20070530053130/http://www.gelato.org/ 
+ |archive-date = May 30, 2007 
+ |df          = mdy-all 
+ }} < /ref > 
+ 
+ === Emulation === 
+ [[Emulator|Emulation]] is a technique that allows a computer to execute binary code that was compiled for a different type of computer. Before IBM's acquisition of [[QuickTransit]] in 2009, application binary software for [[IRIX]]/[[MIPS instruction set|MIPS]] and [[Solaris (operating system)|Solaris]]/[[SPARC]] could run via type of emulation called  " dynamic binary translation "  on Linux/Itanium. Similarly, HP implemented a method to execute PA-RISC/HP-UX on the Itanium/HP-UX via emulation, to simplify migration of its PA-RISC customers to the radically different Itanium instruction set. Itanium processors can also run the mainframe environment [[General Comprehensive Operating System|GCOS]] from [[Groupe Bull]] and several [[x86]] operating systems via [[instruction set simulator]]s. 
+ 
+ == Competition == 
+ Itanium is aimed at the [[enterprise server]] and [[high-performance computing]] (HPC) markets. Other enterprise- and HPC-focused processor lines include [[Oracle Corporation]]'s [[SPARC]] M7, [[Fujitsu]]'s SPARC64 X+ and [[IBM]]'s [[POWER8]]. Measured by quantity sold, Itanium's most serious competition comes from [[x86-64]] processors including [[Intel]]'s own [[Xeon]] line and [[Advanced Micro Devices|AMD]]'s [[Opteron]] line. Since 2009, most servers were being shipped with x86-64 processors. < ref name= " Gartner 2009-q4 " / > 
+ 
+ In 2005, Itanium systems accounted for about 14% of HPC systems revenue, but the percentage has declined as the industry shifts to x86-64 clusters for this application. < ref > {{cite web 
+ | url=http://www.theinquirer.net/gb/inquirer/news/2008/09/24/idc-performance-computing 
+ | title=Supercomputing now dominated by X86 architecture 
+ | access-date=September 27, 2008 
+ | last=Novakovic 
+ | first=Nebojsa 
+ | date=September 25, 2008 
+ | work=[[The Inquirer]] 
+ | archive-date=September 27, 2008 
+ | archive-url=https://web.archive.org/web/20080927080239/http://www.theinquirer.net/gb/inquirer/news/2008/09/24/idc-performance-computing 
+ | url-status=dead 
+ }} < /ref > 
+ 
+ An October 2008 paper by Gartner, on the Tukwila processor stated that  " ...the future roadmap for Itanium looks as strong as that of any RISC peer like Power or SPARC. " < ref > {{cite web 
+ | url=http://www.gartner.com/DisplayDocument?ref=g_rss & id=770312 
+ | title=Preparing for Tukwila: The Next Generation of Intel's Itanium Processor Family 
+ | access-date=October 21, 2008 
+ | last=Butler 
+ | first=Andrew 
+ | date= October 3, 2008 
+ }} < /ref > 
+ 
+ == Supercomputers and high-performance computing == 
+ [[File:Processor families in TOP500 supercomputers.svg|thumb|right|300px|[[Area chart]] showing the representation of different families of microprocessors in the [[TOP500]] ranking list of [[supercomputer]], from 1993 to 2013.]] 
+ 
+ An Itanium-based computer first appeared on the list of the [[TOP500]] [[supercomputers]] in November 2001. < ref name= " Thunder " / >  The best position ever achieved by an ''Itanium 2'' based system in the list was #2, achieved in June 2004, when [[Thunder (supercomputer)|Thunder]] (LLNL) entered the list with an Rmax of 19.94 Teraflops. In November 2004, [[Columbia (supercomputer)|Columbia]] entered the list at #2 with 51.8 Teraflops, and there was at least one Itanium-based computer in the top 10 from then until June 2007. The peak number of Itanium-based machines on the list occurred in the November 2004 list, at 84 systems (16.8%); by June 2012, this had dropped to one system (0.2%), < ref > {{cite web 
+ | url=http://i.top500.org/stats/details/procgen/1299 
+ | title=Processor Generation / Itanium 2 Montecito 
+ | access-date=June 19, 2012 
+ | work=[[TOP500]] web site 
+ }} {{dead link|date=January 2020}} < /ref >  and no Itanium system remained on the list in November 2012. 
+ 
+ == Processors == 
+ 
+ === Released processors === 
+ The Itanium processors show a progression in capability. Merced was a proof of concept. McKinley dramatically improved the memory hierarchy and allowed Itanium to become reasonably competitive. Madison, with the shift to a 130 & nbsp;nm process, allowed for enough cache space to overcome the major performance bottlenecks. Montecito, with a 90 & nbsp;nm process, allowed for a dual-core implementation and a major improvement in performance per watt. Montvale added three new features: core-level lockstep, demand-based switching and front-side bus frequency of up to 667 & nbsp;MHz. 
+ 
+ < center > 
+ {| class= " wikitable " 
+ |- 
+ ![[List of Intel codenames|Codename]] || process || Released || | Clock || L2 [[CPU cache|Cache]]/ < br / > core || L3 [[CPU cache|Cache]]/ < br / > processor || [[Front Side Bus|Bus]] || [[die (integrated circuit)|dies]]/ < br / > device || cores/ < br / > [[die (integrated circuit)|die]] || [[watt]]s/ < br / > device || Comments 
+ |- 
+ ! colspan= " 11 "  style= " background:#ffebad; " | Itanium 
+ |- 
+ | rowspan= " 2 "  style= " vertical-align:top; " |Merced || rowspan= " 2 "  |[[180 nanometer|180 & nbsp;nm]] || rowspan= " 2 "  |2001-06 || 733 & nbsp;MHz || rowspan= " 2 "  | 96 & nbsp;KB || rowspan= " 2 " | none || rowspan= " 2 "  | 266 & nbsp;MHz || rowspan= " 2 "  |1 || rowspan= " 2 "  |1 || 116 || 2 & nbsp;MB off-die L3 cache 
+ |- 
+ | 800 & nbsp;MHz || 130 || 4 & nbsp;MB off-die L3 cache 
+ |- 
+ ! colspan= " 11 "  style= " background:#ffebad; " | Itanium 2 
+ |- 
+ | rowspan= " 2 "  style= " vertical-align:top; " |McKinley || rowspan= " 2 "  |[[180 nanometer|180 & nbsp;nm]] || rowspan= " 2 "  |2002-07-08 || 900 & nbsp;MHz || rowspan= " 15 "  | 256 & nbsp;KB || 1.5 & nbsp;MB || rowspan= " 9 "  | 400 & nbsp;MHz || rowspan= " 9 "  |1 || rowspan= " 9 "  |1 || 130 || rowspan= " 2 "  style= " vertical-align:top; " | HW branchlong 
+ |- 
+ | 1 & nbsp;GHz || 3 & nbsp;MB || 130 
+ |- 
+ | rowspan= " 6 "  style= " vertical-align:top; "  | Madison || rowspan= " 13 "  | [[130 nanometer|130 & nbsp;nm]] || rowspan= " 3 "  | 2003-06-30 || 1.3 & nbsp;GHz || 3 & nbsp;MB || 130 || 
+ |- 
+ |1.4 & nbsp;GHz || 4 & nbsp;MB || 130 || 
+ |- 
+ |1.5 & nbsp;GHz || 6 & nbsp;MB || 130 || 
+ |- 
+ |2003-09-08 || 1.4 & nbsp;GHz || 1.5 & nbsp;MB || 130 || 
+ |- 
+ |rowspan= " 2 "  |2004-04 || 1.4 & nbsp;GHz || rowspan=2 | 3 & nbsp;MB || rowspan=2| 130 || 
+ |- 
+ |1.6 & nbsp;GHz || 
+ |- 
+ |Deerfield || {{dts|2003|09|8}} || 1.0 & nbsp;GHz || 1.5 & nbsp;MB || 62 || Low voltage 
+ |- 
+ |Hondo < ref > [https://www.theregister.co.uk/2004/05/06/hp_mx2_itaniummodule/ HP rides Hondo to super-sized Itanium servers] The Register, May 6, 2004 < /ref >  || 2004-Q1 || 1.1 & nbsp;GHz || 4 & nbsp;MB || 400 & nbsp;MHz || 2 || 1 || 260 || 32 & nbsp;MB L4 
+ |- 
+ | rowspan= " 2 "  style= " vertical-align:top; " |Fanwood || rowspan= " 2 "  |2004-11-08 || 1.6 & nbsp;GHz || rowspan=2| 3 & nbsp;MB || 533 & nbsp;MHz || rowspan= " 5 "  | 1 || rowspan= " 5 "  | 1 || 130 || 
+ |- 
+ |1.3 & nbsp;GHz || 400 & nbsp;MHz || 62? || Low voltage 
+ |- 
+ | rowspan= " 3 "  style= " vertical-align:top; " |Madison || {{dts|2004|11|8}} || 1.6 & nbsp;GHz || 9 & nbsp;MB || 400 & nbsp;MHz || 130 || 
+ |- 
+ |2005-07-05 || 1.67 & nbsp;GHz || 6 & nbsp;MB || 667 & nbsp;MHz || 130 || 
+ |- 
+ |2005-07-18 || 1.67 & nbsp;GHz || 9 & nbsp;MB || 667 & nbsp;MHz || 130 || 
+ |- 
+ ! colspan= " 11 "  style= " background:#ffebad; " | Itanium 2 9000 series 
+ |- 
+ | rowspan= " 2 "  style= " vertical-align:top; " |[[Montecito (processor)|Montecito]] || rowspan= " 2 "  |[[90 nanometer|90 & nbsp;nm]] || rowspan= " 2 "  |2006-07-18 || 1.4 & nbsp;GHz || rowspan= " 2 "  | 256 & nbsp;KB (D)+ < br / > 1 & nbsp;MB (I) || rowspan=2| 6–24 & nbsp;MB || 400 & nbsp;MHz || rowspan=2|1 || rowspan=2|2 || rowspan=2|104 || rowspan= " 2 "  style= " vertical-align:top; " |Virtualization, Multithread, no HW IA-32 
+ |- 
+ | 1.6 & nbsp;GHz || 533 & nbsp;MHz 
+ |- 
+ ! colspan= " 11 "  style= " background:#ffebad; " | Itanium 2 9100 series 
+ |- 
+ |valign= " top " |Montvale || [[90 nanometer|90 & nbsp;nm]] || {{dts|2007|10|31}} || 1.42–1.66 & nbsp;GHz || 256 & nbsp;KB (D)+ < br / > 1 & nbsp;MB (I) || 8–24 & nbsp;MB || 400–667 & nbsp;MHz || 1 || 1–2 || 75–104 || valign= " top " |Core-level lockstep, demand-based switching 
+ |- 
+ ! colspan= " 11 "  style= " background:#ffebad; " | Itanium 9300 series 
+ |- 
+ |valign= " top " |[[Tukwila (processor)|Tukwila]] || [[65 nanometer|65 & nbsp;nm]] || {{dts|2010|02|8}} || 1.33–1.73 & nbsp;GHz || 256 & nbsp;KB (D)+ < br / > 512 & nbsp;KB (I) || 10–24 & nbsp;MB || QPI with a speed of 4.8 [[Transfer (computing)|GT]]/s || 1 || 2–4 || 130–185 || valign= " top " |A new point-to-point processor interconnect, the [[Intel QuickPath Interconnect|QPI]], replacing the [[Front-side bus|FSB]]. [[Turbo Boost]] 
+ |- 
+ ! colspan= " 11 "  style= " background:#ffebad; " | Itanium 9500 series 
+ |- 
+ |valign= " top " |[[Poulson (processor)|Poulson]] || [[32 nanometer|32 & nbsp;nm]] || 2012-11-08 < ref > {{cite web |title=New Intel Itanium Processor 9500 Delivers Breakthrough Capabilities for Mission-Critical Computing |url=http://newsroom.intel.com/community/intel_newsroom/blog/2012/11/08/new-intel-itanium-processor-9500-delivers-breakthrough-capabilities-for-mission-critical-computing |publisher=Intel |access-date=November 9, 2012}} < /ref >  || 1.73–2.53 & nbsp;GHz || 256 & nbsp;KB (D)+ < br / > 512 & nbsp;KB (I) || 20–32 & nbsp;MB || QPI with a speed of 6.4 [[Transfer (computing)|GT]]/s || 1 || 4–8 || 130–170 || valign= " top " |Doubled issue width (from 6 to 12 instructions per cycle), Instruction Replay technology, Dual-domain hyperthreading < ref > {{cite web |last=Shilov |first=Anton |title=Intel Launches Eight-Core Itanium 9500  " Poulson "  Mission-Critical Server Processor |url=http://www.xbitlabs.com/news/cpu/display/20121108120233_Intel_Launches_Eight_Core_Itanium_9500_Poulson_Mission_Critical_Server_Processor.html |publisher=X-bit Labs |access-date=November 9, 2012 |archive-date=November 10, 2012 |archive-url=https://web.archive.org/web/20121110213532/http://www.xbitlabs.com/news/cpu/display/20121108120233_Intel_Launches_Eight_Core_Itanium_9500_Poulson_Mission_Critical_Server_Processor.html |url-status=dead }} < /ref > < ref > {{cite web |last=Kanter |first=David |title=Poulson: The Future of Itanium Servers |url=http://www.realworldtech.com/poulson/ |publisher=Real World Tech |access-date=November 9, 2012}} < /ref > < ref > {{cite web |last=Undy |first=Steve |title=WHITE PAPER Intel Itanium Processor 9500 Series |url=http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/itanium-9500-massive-parallelism-mission-critical-computing-paper.pdf |publisher=Intel |access-date=November 9, 2012}} < /ref > 
+ |- 
+ ! Codename || process || Released || | Clock || L2 Cache/ < br / > core || L3 Cache/ < br / > processor || Bus || dies/ < br / > device || cores/ < br / > die || watts/ < br / > device || Comments 
+ |} 
+ < /center > 
+ 
+ === Future processors === 
+ During the HP vs. Oracle support lawsuit, court documents unsealed by Santa Clara County Court judge revealed in 2008, Hewlett-Packard had paid Intel Corp. around $440 million to keep producing and updating Itanium microprocessors from 2009 to 2014. In 2010, the two companies signed another $250 million deal, which obliged Intel to continue making Itanium central processing units for HP's machines until 2017. Under the terms of the agreements, HP has to pay for chips it gets from Intel, while Intel launches Tukwila, Poulson, Kittson and Kittson+ chips in a bid to gradually boost performance of the platform. < ref > {{cite web|url=http://www.xbitlabs.com/news/cpu/display/20120201201109_HP_Paid_Intel_690_Million_to_Keep_Itanium_Alive_Court_Findings.html|title=HP Paid Intel $690 Million to Keep Itanium Alive - Court Findings.|access-date=2015-12-06|archive-date=2016-03-04|archive-url=https://web.archive.org/web/20160304054256/http://www.xbitlabs.com/news/cpu/display/20120201201109_HP_Paid_Intel_690_Million_to_Keep_Itanium_Alive_Court_Findings.html|url-status=dead}} < /ref > < ref > {{cite magazine|url=https://www.wired.com/2012/02/hp-itanium/|title=HP Paid Intel $690 Million To Keep Itanium On Life Support|first=Robert|last=McMillan|magazine=Wired |date=February 1, 2012|via=www.wired.com}} < /ref > 
+ 
+ ==== Kittson ==== 
+ ''Kittson'' is planned to follow Poulson in 2015. < ref > {{cite web|url=https://www.techradar.com/news/computing-components/intel-confirms-itanium-chips-will-get-one-last-hurrah-1291517|title=Intel confirms new Itanium chips are on the way|first=Jamie Hinks 2015-04-20T16:44:00 109Z Computing|last=components|website=TechRadar|date=April 20, 2015 }} < /ref >  Kittson, like Poulson, will be manufactured using Intel's 32 & nbsp;nm process. Few other details are known beyond the existence of the codename and the binary and socket compatibility with Poulson and Tukwila, though moving to a common socket with x86 [[Xeon]]  " will be evaluated for future implementation opportunities "  after Kittson. < ref name= " Kittson2 " > {{cite web 
+ | url=http://www.intel.com/content/www/us/en/processors/itanium/itanium-kittson-update.html 
+ | title=Intel Itanium Processors Update 
+ | access-date=February 12, 2013 
+ | date=January 31, 2013 
+ | publisher=Intel Corporation 
+ }} < /ref > 
+ 
+ == Timeline == 
+ * '''1989:''' 
+ ** HP begins investigating EPIC. < ref name= " HP_Labs " / > 
+ * '''1994:''' 
+ ** June: HP and Intel announce partnership. < ref > {{cite news 
+ | first=John 
+ | last=Markoff 
+ | author-link=John Markoff 
+ | title=COMPANY NEWS; Intel Forms Chip Pact With Hewlett-Packard 
+ | url=https://query.nytimes.com/gst/fullpage.html?res=980DE0D6153AF93AA35755C0A962958260 
+ | work=[[The New York Times]] 
+ | date= June 9, 1994 
+ | access-date=April 26, 2007 
+ }} 
+ < /ref > 
+ * '''1995:''' 
+ ** September: HP, Novell, and [[Santa Cruz Operation|SCO]] announce plans for a  " high volume UNIX operating system "  to deliver  " 64-bit networked computing on the HP/Intel architecture " . < ref > {{cite press release 
+ | title=HP, Novell and SCO To Deliver High-Volume UNIX OS With Advanced Network And Enterprise Services 
+ | publisher=[[Hewlett-Packard]] Company; [[Novell]]; [[Santa Cruz Operation|SCO]] 
+ | date= September 20, 1995 
+ | url=http://www.novell.com/news/press/archive/1995/09/pr95220.html 
+ | access-date=April 25, 2007 
+ }} < /ref > 
+ * '''1996:''' 
+ ** October: [[Compaq]] announces it will use IA-64. < ref > {{cite web 
+ | url=http://www.news.com/2100-1001-240480.html 
+ | title=Compaq, Intel buddy up 
+ | access-date=November 13, 2007 
+ | last=Crothers 
+ | first=Brooke 
+ | date=October 23, 1996 
+ | work=CNET News.com 
+ }}{{Dead link|date=December 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ * '''1997:''' 
+ ** June: [[International Data Corporation|IDC]] predicts IA-64 systems sales will reach $38bn/yr by 2001. < ref name= " IDC_chart " / > 
+ ** October: [[Dell]] announces it will use IA-64. < ref > {{cite web 
+ | url=http://news.zdnet.co.uk/communications/0,1000000085,2068380,00.htm 
+ | title=Dell will aid Intel with IA-64 
+ | last=Veitch 
+ | first=Martin 
+ | access-date=October 16, 2008 
+ | date=May 20, 1998 
+ | work=ZDNet.co.uk 
+ | archive-date=February 8, 2009 
+ | archive-url=https://web.archive.org/web/20090208175537/http://news.zdnet.co.uk/communications/0,1000000085,2068380,00.htm 
+ | url-status=dead 
+ }} < /ref > 
+ ** December: Intel and Sun announce joint effort to port Solaris to IA-64. < ref name= " Solaris-Merced1 " / > < ref name= " Solaris-Merced2 " / > < ref name= " Solaris-Merced3 " / > 
+ * '''1998:''' 
+ ** March: SCO admits [[3DA|HP/SCO Unix alliance]] is now dead. 
+ ** June: IDC predicts IA-64 systems sales will reach $30bn/yr by 2001. < ref name= " IDC_chart " / > 
+ ** June: Intel announces Merced will be delayed, from second half of 1999 to first half of 2000. < ref > {{cite web 
+ | url=http://www.zdnet.com/eweek/news/0525/29edelay.html 
+ | archive-url=https://web.archive.org/web/20010219024245/http://www.zdnet.com/eweek/news/0525/29edelay.html 
+ | archive-date=February 19, 2001 
+ | title=Intel to delay release of Merced 
+ | access-date=May 14, 2007 
+ | author=Lisa DiCarlo 
+ | date= May 28, 1998 
+ | work=[[PCWeek]] Online 
+ }} < /ref > 
+ ** September: IBM announces it will build Merced-based machines. < ref > {{cite web 
+ | url=http://www-03.ibm.com/press/us/en/pressrelease/2478.wss 
+ | title=IBM Previews Technology Blueprint For Netfinity Server Line 
+ | access-date=March 19, 2007 
+ | date= September 9, 1998 
+ | work=[[IBM]] web site 
+ }} < /ref > 
+ ** October: [[Project Monterey]] is formed to create a common [[UNIX]] for IA-64. 
+ * '''1999:''' 
+ ** February: [[Project Trillian]] is formed to port [[Linux]] to IA-64. 
+ ** August: IDC predicts IA-64 systems sales will reach $25bn/yr by 2002. < ref name= " IDC_chart " / > 
+ ** October: Intel announces the ''Itanium'' name. 
+ ** October: the term ''Itanic'' is first used in ''The Register''. < ref name= " Reg_Itanic " / > 
+ * '''2000:''' 
+ ** February: [[Project Trillian]] delivers [[source code]]. 
+ ** June: IDC predicts Itanium systems sales will reach $25bn/yr by 2003. < ref name= " IDC_chart " / > 
+ ** July: Sun and Intel drop Solaris-on-Itanium plans. < ref > {{cite news 
+ | author=Stephen Shankland 
+ | title=Sun, Intel part ways on Solaris plans 
+ | url=http://news.cnet.com/Sun,+Intel+part+ways+on+Solaris+plans/2100-1001_3-243489.html 
+ | publisher=[[CNET]] News.com 
+ | date=July 21, 2000 
+ | access-date=April 25, 2007 
+ | archive-url=https://archive.today/20121205235053/http://news.cnet.com/Sun,-Intel-part-ways-on-Solaris-plans/2100-1001_3-243489.html 
+ | archive-date=December 5, 2012 
+ | url-status=live 
+ }} < /ref > 
+ ** August: AMD releases specification for [[x86-64]], a set of 64-bit extensions to Intel's own x86 architecture intended to compete with IA-64. It will eventually market this under the name  " AMD64 " . 
+ * '''2001:''' 
+ ** June: IDC predicts Itanium systems sales will reach $15bn/yr by 2004. < ref name= " IDC_chart " / > 
+ ** June: [[Project Monterey]] dies. 
+ ** July: Itanium is released. 
+ ** October: IDC predicts Itanium systems sales will reach $12bn/yr by the end of 2004. < ref name= " IDC_chart " / > 
+ ** November: IBM's 320-processor Titan NOW Cluster at [[National Center for Supercomputing Applications]] is listed on the [[TOP500]] list at position #34. < ref name= " Thunder " / > 
+ ** November: Compaq delays Itanium Product release due to problems with processor. < ref > {{cite web 
+ | url=http://www.news.com/Itanium-flunking-Compaq-server-tests/2100-1001_3-275850.html 
+ | title=Itanium flunking Compaq server tests 
+ | access-date=November 13, 2007 
+ | last=Kanellos 
+ | first=Michael 
+ | date=November 14, 2001 
+ | work=News.com 
+ | archive-date=January 25, 2022 
+ | archive-url=https://web.archive.org/web/20220125120639/https://www.cnet.com/news/itanium-flunking-compaq-server-tests/ 
+ | url-status=dead 
+ }} < /ref > 
+ ** December: [[Gelato Federation|Gelato]] is formed. 
+ * '''2002:''' 
+ ** March: IDC predicts Itanium systems sales will reach $5bn/yr by end 2004. < ref name= " IDC_chart " / > 
+ ** June: Itanium 2 is released. 
+ * '''2003:''' 
+ ** April: IDC predicts Itanium systems sales will reach $9bn/yr by end 2007. < ref name= " IDC_chart " / > 
+ ** April: AMD releases [[Opteron]], the first processor with x86-64 extensions. 
+ ** June: Intel releases the  " Madison "  Itanium 2. 
+ * '''2004:''' 
+ ** February: Intel announces it has been working on its own x86-64 implementation (which it will eventually market under the name  " Intel 64 " ). 
+ ** June: Intel releases its first processor with x86-64 extensions, a [[Xeon]] processor codenamed  " Nocona " . 
+ ** June: ''Thunder'', a system at [[Lawrence Livermore National Laboratory|LLNL]] with 4096 Itanium 2 processors, is listed on the [[TOP500]] list at position #2. < ref > {{cite web 
+ | url=http://www.top500.org/system/ranking/6762 
+ | title=Thunder at TOP500 
+ | access-date=May 16, 2007 
+ | work=[[TOP500]] web site 
+ | archive-date=June 22, 2007 
+ | archive-url=https://web.archive.org/web/20070622190203/http://www.top500.org/system/ranking/6762 
+ | url-status=dead 
+ }} < /ref > 
+ ** November: ''[[Columbia (supercomputer)|Columbia]]'', an [[Silicon Graphics|SGI]] [[Altix]] 3700 with 10160 Itanium 2 processors at NASA Ames Research Center, is listed on the [[TOP500]] list at position #2. < ref > {{cite web 
+ | url=http://www.top500.org/system/7288 
+ | title=Columbia at TOP500 
+ | access-date=May 16, 2007 
+ | work=[[TOP500]] web site 
+ | archive-date=July 11, 2007 
+ | archive-url=https://web.archive.org/web/20070711050825/http://www.top500.org/system/7288 
+ | url-status=dead 
+ }} < /ref > 
+ ** December: Itanium system sales for 2004 reach $1.4bn. 
+ * '''2005:''' 
+ ** January: HP ports [[OpenVMS]] to Itanium < ref > {{cite web 
+ | url=http://www.itjungle.com/breaking/bn070605-story01.html 
+ | title=HP Ramps Up OpenVMS on Integrity Servers 
+ | access-date=March 29, 2007 
+ | last=Morgan 
+ | first=Timothy 
+ | date=July 6, 2005 
+ | work=ITJungle.com 
+ | archive-date=May 3, 2007 
+ | archive-url=https://web.archive.org/web/20070503190001/http://www.itjungle.com/breaking/bn070605-story01.html 
+ | url-status=dead 
+ }} < /ref > 
+ ** February: IBM server design drops Itanium support. < ref name= " zdnet_uk " / > < ref > {{cite web 
+ | url=http://articles.techrepublic.com.com/5100-1035_11-5590270.html 
+ | title=IBM server design drops Itanium support 
+ | access-date=March 19, 2007 
+ | date=February 25, 2005 
+ | work=[[TechRepublic]] 
+ | archive-url=https://archive.today/20130102155953/http://www.techrepublic.com/article/ibm-server-design-drops-itanium-support/5590270 
+ | archive-date=January 2, 2013 
+ | url-status=live 
+ }} < /ref > 
+ ** June: An Itanium 2 sets a record [[SPECfp]]2000 result of 2,801 in a [[Hitachi, Ltd.]] [[Computing blade]]. < ref > {{cite web 
+ | url=http://www.spec.org/cpu2000/results/res2005q3/cpu2000-20050628-04342.html 
+ | title=Result submitted to SPEC on June 13, 2005 by Hitachi 
+ | access-date=May 16, 2007 
+ | work=[[Standard Performance Evaluation Corporation|SPEC]] web site 
+ }} < /ref > 
+ ** September: Itanium Solutions Alliance is formed. < ref > {{cite web 
+ | url=http://www.byteandswitch.com/document.asp?doc_id=81342 
+ | title=Itanium Solutions Alliance Formed 
+ | access-date=March 24, 2007 
+ | date=September 26, 2005 
+ | work=Byte and Switch 
+ | archive-date=November 26, 2006 
+ | archive-url=https://web.archive.org/web/20061126193800/http://www.byteandswitch.com/document.asp?doc_id=81342 
+ | url-status=dead 
+ }} < /ref > 
+ ** September: Dell exits the Itanium business. < ref > {{cite web 
+ | url=http://news.cnet.com/Dell+shuttering+Itanium+server+business/2100-1006_3-5867239.html 
+ | title=Dell shuttering Itanium server business 
+ | access-date=March 19, 2007 
+ | last=Shankland 
+ | first=Stephen 
+ | date=September 15, 2005 
+ | work=[[CNET]] News.com 
+ | archive-url=https://archive.today/20130119130143/http://news.cnet.com/Dell-shuttering-Itanium-server-business/2100-1006_3-5867239.html 
+ | archive-date=January 19, 2013 
+ | url-status=live 
+ }} < /ref > 
+ ** October: Itanium server sales reach $619M/quarter in the third quarter. 
+ ** October: Intel announces one-year delays for Montecito, Montvale, and Tukwila. < ref name= " zdnet_2005_slip " / > 
+ * '''2006:''' 
+ ** January: Itanium Solutions Alliance announces a $10bn collective investment in Itanium by 2010. 
+ ** February: IDC predicts Itanium systems sales will reach $6.6bn/yr by 2009. < ref name= " IDC 2006 " / > 
+ ** June: Intel releases the dual-core  " [[Montecito (processor)|Montecito]] "  Itanium 2 9000 series. < ref > {{cite web 
+ | url=http://www.eweek.com/article2/0,1759,1990766,00.asp 
+ | title=Is 'Montecito' Intel's Second Chance for Itanium? 
+ | access-date=March 23, 2007 
+ | last=Preimesberger 
+ | first=Chris 
+ | date=July 19, 2006 
+ | work=[[eWeek]] 
+ }}{{Dead link|date=December 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ * '''2007:''' 
+ ** April: [[CentOS]] ([[Red Hat Enterprise Linux|RHEL]]-clone) places Itanium support on hold for the 5.0 release. < ref > {{cite web 
+ | url=http://www.centos.org/product.html 
+ | title=CentOS Product Specifications 
+ | publisher=Centos.org 
+ | access-date=April 12, 2011 
+ | archive-date=September 4, 2011 
+ | archive-url=https://web.archive.org/web/20110904005609/http://www.centos.org/product.html 
+ | url-status=dead 
+ }} < /ref > 
+ ** October: Intel releases the  " Montvale "  Itanium 2 9100 series. 
+ ** November: Intel renames the family from ''Itanium 2'' back to ''Itanium''. 
+ * '''2009:''' 
+ ** December: Red Hat announces that it is dropping support for Itanium in the next release of its enterprise OS, Red Hat Enterprise Linux 6. < ref > {{cite news 
+ | first=Mikael 
+ | last=Ricknäs 
+ | date=December 21, 2009 
+ | title=Red Hat to Drop Itanium Support in Enterprise Linux 6 
+ | work=PC World 
+ | publisher=PCWorld Communications, Inc 
+ | url=http://www.pcworld.com/article/185196/red_hat_to_drop_itanium_support_in_enterprise_linux_6.html 
+ | access-date=March 25, 2011 
+ | archive-date=August 5, 2011 
+ | archive-url=https://web.archive.org/web/20110805123536/http://www.pcworld.com/article/185196/red_hat_to_drop_itanium_support_in_enterprise_linux_6.html 
+ | url-status=dead 
+ }} < /ref > 
+ * '''2010:''' 
+ ** February: Intel announces the  " Tukwila "  Itanium 9300 series. < ref name= " eweek-tukwila " / > 
+ ** April: Microsoft announces phase-out of support for Itanium. < ref > {{cite web 
+ | url=http://www.pcworld.com/article/193426/microsoft_ending_support_for_itanium.html 
+ | title=Microsoft Ending Support for Itanium 
+ | access-date=April 5, 2010 
+ | last=Niccolai 
+ | first=James 
+ | date=May 8, 2009 
+ | work=PCWorld 
+ | quote= " Windows Server 2008 R2 will be the last version of Windows Server to support the Intel Itanium architecture, "  [...]  " SQL Server 2008 R2 and Visual Studio 2010 are also the last versions to support Itanium. " 
+ | archive-date=April 8, 2010 
+ | archive-url=https://web.archive.org/web/20100408160240/http://www.pcworld.com/article/193426/microsoft_ending_support_for_itanium.html 
+ | url-status=dead 
+ }} < /ref > 
+ ** October: Intel announces new releases of [[Intel C++ Compiler]] and [[Intel Fortran Compiler]] for x86/x64, while Itanium support is only available in older versions. < ref > {{cite web 
+ | url=http://software.intel.com/file/31854 
+ | title=Intel C++ Composer XE 2011 for Linux Installation Guide and Release Notes 
+ | access-date=April 12, 2011}} < /ref > 
+ * '''2011:''' 
+ ** March: [[Oracle Corporation]] announces that it will stop developing application software, middleware, and [[Oracle Linux]] for the Itanium. < ref name= " pcworld2011 " > {{cite web 
+ | url=http://www.pcworld.com/businesscenter/article/222936/oracle_stops_developing_software_for_intels_itanium_chips.html 
+ | title=Oracle stops developing software for Intel's Itanium Chips 
+ | publisher=Pcworld.com 
+ | date=March 22, 2011 
+ | access-date=April 12, 2011 
+ | archive-date=April 25, 2011 
+ | archive-url=https://web.archive.org/web/20110425151406/http://www.pcworld.com/businesscenter/article/222936/oracle_stops_developing_software_for_intels_itanium_chips.html 
+ | url-status=dead 
+ }} < /ref > 
+ ** March: [[Intel]] and [[Hewlett-Packard|HP]] reiterate their support of Itanium. < ref name= " IntelItanium " > {{cite web 
+ | url=http://newsroom.intel.com/community/intel_newsroom/blog/2011/03/23/chip-shot-intel-reaffirms-commitment-to-itanium 
+ | title=Intel Reaffirms Commitment to Itanium 
+ | publisher=Newsroom.intel.com 
+ | date=March 23, 2011 
+ | access-date=April 12, 2011}} < /ref > < ref name= " HPItanium " > {{cite web 
+ | last=McLaughlin 
+ | first=Kevin 
+ | url=http://www.crn.com/news/data-center/229400474/hp-ceo-apotheker-slams-oracle-for-quitting-itanium.htm 
+ | title=HP CEO Apotheker Slams Oracle For Quitting Itanium 
+ | publisher=Crn.com 
+ | date=March 28, 2011 
+ | access-date=April 12, 2011}} < /ref > 
+ ** April: [[Huawei]] and [[Inspur]] announce that they will develop Itanium servers. < ref > {{cite web 
+ | last=Prickett 
+ | first=Timothy 
+ | url=https://www.theregister.co.uk/2011/04/14/huawei_inspur_itanium_servers/ 
+ | title=Huawei to forge big red Itanium iron 
+ | publisher=Theregister.co.uk 
+ | date=April 14, 2011 
+ | access-date=November 20, 2011}} < /ref > 
+ * '''2012:''' 
+ ** February: Court papers were released from a case between HP and Oracle Corporation that gave insight to the fact that HP was paying Intel $690 million to keep Itanium on life support. < ref > {{cite web 
+ | last=McMillan 
+ | first=Robert 
+ | url=https://www.wired.com/wiredenterprise/2012/02/hp-itanium/ 
+ | title=HP Paid Intel $690 Million To Keep Itanium On Life Support 
+ | publisher=wired.com 
+ | date=February 1, 2012 
+ | access-date=February 3, 2012}} < /ref > 
+ ** SAP discontinues support for Business Objects on Itanium. < ref > {{cite web 
+ | url=http://www.sdn.sap.com/irj/boc/index?rid=%2Flibrary%2Fuuid%2F10ccbdf2-139f-2e10-61a0-d4af67b6257b & overridelayout=true 
+ | title=SAP Product availability Matrix 
+ | access-date=June 6, 2012 
+ | work=[[SAPPAM]] web site 
+ | archive-date=July 28, 2012 
+ | archive-url=https://web.archive.org/web/20120728084351/http://www.sdn.sap.com/irj/boc/index?rid=%2Flibrary%2Fuuid%2F10ccbdf2-139f-2e10-61a0-d4af67b6257b & overridelayout=true 
+ | url-status=dead 
+ }} < /ref > 
+ ** September: In response to a court ruling, Oracle reinstitutes support for Oracle software on Itanium hardware. < ref > {{cite press release 
+ |url = http://www.oracle.com/us/corporate/features/itanium-346707.html 
+ |title = Oracle Issues Statement 
+ |access-date = March 8, 2013 
+ |date = September 4, 2012 
+ |publisher = Oracle Corporation 
+ |archive-date = March 8, 2013 
+ |archive-url = https://web.archive.org/web/20130308091127/http://www.oracle.com/us/corporate/features/itanium-346707.html 
+ }} < /ref > 
+ * '''2013:''' 
+ ** January: Intel cancels Kittson as a [[22 nanometer|22 nm]] shrink of Poulson, moving it instead to its 32 & nbsp;nm process. < ref name= " Kittson2 "  / > 
+ ** November: HP announces that its [[NonStop]] servers will start using [[Intel 64]] (x86-64) chips. < ref > {{cite web 
+ | url=http://www.itworld.com/data-center/381642/hp-replaces-itanium-x86-its-nonstop-server 
+ | title=HP NonStop server update 
+ | access-date=November 5, 2013 
+ | date=November 5, 2013 
+ | publisher=Intel Corporation 
+ | archive-date=November 8, 2013 
+ | archive-url=https://web.archive.org/web/20131108231349/http://www.itworld.com/data-center/381642/hp-replaces-itanium-x86-its-nonstop-server 
+ | url-status=dead 
+ }} < /ref > 
+ * '''2014:''' 
+ ** December: HP announces that their next generation of Superdome X and Nonstop X servers would be equipped with Intel Xeon processors, and not Itanium. While HP continues to sell and offer support for the Itanium-based Integrity portfolio, the introduction of a model based entirely on Xeon chips marks the end of an era. < ref > {{cite web 
+ | url=http://www.v3.co.uk/v3-uk/opinion/2385152/hp-s-xeon-based-superdome-is-another-nail-in-itanium-s-coffin 
+ | title=HP's Xeon-based Superdome is another nail in Itanium's coffin 
+ | access-date=December 25, 2014 
+ | date=December 5, 2014 
+ | publisher=V3.co.uk 
+ }} < /ref > 
+ 
+ == References == 
+ {{Reflist|30em}} 
+ 
+ == Other websites == 
+ {{Commons category}} 
+ * [http://www.intel.com/content/www/us/en/processors/itanium/itanium-processor.html Intel Itanium Home Page] 
+ * [http://h20341.www2.hp.com/integrity/w1/en/systems/integrity-systems-overview.html?jumpid=ex_R11294_us/en/large/tsg/go_integrity HP Integrity Servers Home Page] {{Webarchive|url=https://web.archive.org/web/20160303215640/http://h20341.www2.hp.com/integrity/w1/en/systems/integrity-systems-overview.html?jumpid=ex_R11294_us%2Fen%2Flarge%2Ftsg%2Fgo_integrity |date=2016-03-03 }} 
+ * [http://www.intel.com/design/itanium/arch_spec.htm Intel Itanium Specifications] 
+ * [http://www.gelato.unsw.edu.au/IA64wiki/ItaniumInternals Some undocumented Itanium 2 microarchitectural information] {{Webarchive|url=https://web.archive.org/web/20070223234225/http://www.gelato.unsw.edu.au/IA64wiki/ItaniumInternals |date=2007-02-23 }} 
+ * {{Wayback |date=20110706223150 |url=http://sverre.web.cern.ch/sverre/IA64_1.pdf |title=IA-64 tutorial, including code examples }} 
+ * [http://www.hp.com/go/integrity Itanium Docs at HP] 
+ * [http://people.cs.clemson.edu/~mark/epic.html Historical background for EPIC instruction set architectures] 
+ 
+ [[Category:Electronic components]]

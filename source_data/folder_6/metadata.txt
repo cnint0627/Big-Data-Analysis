@@ -1,0 +1,10 @@
+[[File:Fichasbiblioteca.JPG|thumb|A card catalog tells about the books in a library]] 
+ '''Metadata''' (also ''Meta data'') is [[Information|data]] about data, that is [[information]] about other information. This is often useful. [[Library|Libraries]] usually group books by subject and keep a catalog of the books. In that context the metadata in the catalog include various pieces of information including the [[author]] and the subject it is classified under. The [[index]] and [[table of contents]] of a book also present metadata. 
+ 
+ [[Digital camera]]s allow people to take [[picture]]s. Here the data is the picture taken, and the metadata is information about the picture taken, like when (the [[date]] and [[time]]), [[Exposure (photography)|photographic exposure]], [[focal length]] and other technical details about how the camera made the picture. Some cameras, especially [[smartphone]]s, have [[GPS]] and can include the location in metadata. 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Computer science]] 
+ [[Category:Data science]] 
+ [[Category:Photography]]

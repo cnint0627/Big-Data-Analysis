@@ -1,0 +1,100 @@
+'''Gravity''', or '''gravitation''' is one of the [[fundamental force]]s of the [[universe]]. It is an attraction, or pull, between any two objects with [[mass]]. We discuss it in three parts: 
+ [[File:GPB circling earth.jpg|thumb|300px|Artist concept of Gravity Probe B orbiting the Earth to measure space-time, a four-dimensional description of the universe including height, width, length, and time.]] 
+ 
+ # Everyday sense: the force which causes objects to fall to the ground 
+ # [[Newton]]'s laws: how gravity keeps the [[Solar System]] and most major [[astronomical object]]s together 
+ # [[Einstein]]'s theory of [[general relativity]]: the role of gravity in the universe 
+ 
+ Some physicists think gravity is caused by [[graviton]]s, but they are still unsure. 
+ 
+ == Everyday gravity == 
+ {{Nature timeline}} 
+ === Weight vs mass === 
+ In everyday talk, we say things fall because the [[Earth]]'s gravity pulls on them. We talk as if our [[weight]] was a  " given " . Actually, weight changes when the pull of gravity changes. The [[Moon]] is much smaller and the pull of gravity on the Moon is about 1/6th that of Earth. So any object on the Moon weighs 1/6th of its weight on Earth. What does not change is the amount of [[matter]] in an object. That is called [[conservation of mass]]. On Earth, [[mass]] and weight are the same for most purposes, though a sensitive gravimeter can detect the difference. The difference can be very different on other extraterrestrial objects such as the moon, and other planets. 
+ 
+ From this we learn two things. 
+ # The  < u/l > weight < /u/l >  of an object is variable; its  < u/l > mass < /u/l >  is constant. 
+ # The pull of gravity varies according to the mass of an object. The Earth pulls more strongly than the Moon. A person also exerts a gravitational pull, but it is so tiny it can be ignored for all practical purposes. 
+ 
+ The Earth has mass. Every [[particle]] of [[matter]] has mass. So the Earth pulls on every object and person, and they pull on the Earth. This pulling force is called  " gravity "  and it gives weight. 
+ 
+ === Gravity vs gravitation === 
+ These words mean almost the same thing in everyday use. Sometimes scientists use  " gravity "  for the force that pulls objects towards each other, and  " gravitation "  for the theory about the attraction. 
+ 
+ == Gravitational theory == 
+ === Galileo === 
+ According to one of his students, [[Galileo]] did a famous [[experiment]] about gravity where he dropped balls from the [[Leaning Tower of Pisa|Tower of Pisa]]. He later rolled balls down inclines. With these experiments, Galileo showed that gravitation [[acceleration|accelerates]] all objects at the same rate regardless of weight. 
+ 
+ === Kepler === 
+ [[Johannes Kepler]] studied the motion of [[planet]]s. In 1609 and 1616 he published his three laws governing the shape of their orbits and their speed along those orbits, but did not discover why they moved that way. 
+ [[File:NewtonsLawOfUniversalGravitation.svg|thumb|Newton's law of universal gravitation.]] 
+ 
+ === Newton === 
+ In 1687, [[England|English]] [[mathematician]] [[Isaac Newton]] wrote the ''[[Philosophiae Naturalis Principia Mathematica|Principia]]''. In this book, he wrote about the inverse-square law of gravitation. Newton, following an idea that had long been discussed by others, said that the closer two objects are to each other, the more gravity will affect them. 
+ 
+ According to [[Newton's law of universal gravitation]], gravity is a force between any two objects with mass. Three numbers affect its strength: the mass of each object, and the distance between them. These two objects will both pull on each other with the same force. However, a force has a greater effect on objects with less mass. The force between the Sun and the Earth makes the Earth orbit the Sun, but it only moves the Sun a small amount. 
+ 
+ Newton's laws were used later to predict the existence of the planet [[Neptune (planet)|Neptune]] based on changes in the orbit of [[Uranus]], and again to predict the existence of another planet closer to the Sun than [[Mercury (planet)|Mercury]]. When this was done, it was learned that his theory was not entirely correct. These mistakes in his theory were corrected by [[Albert Einstein]]'s theory of [[General Relativity]]. Newton's theory is still commonly used for many things because it is simpler and is [[Accuracy and precision|accurate]] enough for many uses. 
+ 
+ === Dynamic equilibrium === 
+ Why does the Earth not fall into the [[Sun]]? The answer is simple but very important. It is because the Earth moving round the Sun is in a [[dynamic equilibrium]]. The speed of the Earth's movement creates a [[centrifugal force]] which balances the gravitational force between the Sun and the Earth. Why does the Earth continue spinning? Because there is no force to stop it. 
+ 
+ Newton's first law:  " If a body is at rest it remains at rest or if it is in motion it moves at the same [[w:velocity|speed]] ''until it is acted on by an external force'' " . < ref > Duncan, Tom. 1995. ''Advanced physics for Hong Kong: I. Mechanics  &  Electricity''. John Murray. < /ref > 
+ 
+ There is a kind of analogy between ''centrifugal force'' and ''gravitational force'', which led to the  " equivalence principle "  of [[general relativity]]. < ref name =  " Barbour " > {{cite book| last1 = Barbour| first1 = Julian B.| last2 = Pfister| first2 = Herbert| title = Mach's Principle: From Newton's Bucket to Quantum Gravity| url = https://books.google.com/books?id=fKgQ9YpAcwMC & pg=PA69| year = 1995| publisher = Springer Science  &  Business Media| isbn = 978-0-8176-3823-8| page = 69 }} < /ref > < ref name =  " Eriksson " > {{cite book| last = Eriksson| first = Ingrid V.| title = Science Education in the 21st Century| url = https://books.google.com/books?id=rYW8tKzrFd4C & pg=PA194| year = 2008| publisher = Nova Publishers| isbn = 978-1-60021-951-1| page = 194 }} < /ref > 
+ 
+ ==== Weightlessness ==== 
+ In [[free fall]] an object's motion balances out the pull of gravity on it. This includes being in [[orbit]]. 
+ 
+ == General relativity == 
+ The [[special theory of relativity]] describes systems where gravity is not an issue; by contrast, gravity is the central issue of the [[general theory of relativity]]. < ref name= " Wald " > {{cite book| last = Wald| first = Robert M.| title = Space, Time, and Gravity: The Theory of the Big Bang and Black Holes| year = 1992| publisher = University of Chicago Press| isbn = 978-0-226-87029-8 }} < /ref > 
+ 
+ In general relativity ''there is no gravitational force'' deflecting objects from their natural, straight paths. Instead, gravity is seen as changes in the properties of space and time. In turn, this changes the straightest-possible paths that objects will naturally follow. < ref > At least approximately. Poisson, Eric 2004. The motion of point particles in curved spacetime. ''Living Rev. Relativity'' '''7''', retrieved 2007-06-13 [http://relativity.livingreviews.org/Articles/lrr-2004-6/] {{Webarchive|url=https://web.archive.org/web/20070714060739/http://relativity.livingreviews.org/Articles/lrr-2004-6/|date=2007-07-14}} < /ref >  The curvature is, in turn, caused by the energy–momentum of matter. [[Spacetime]] tells matter how to move; matter tells spacetime how to curve. < ref name= " Wheeler " > {{cite book| last1 = Wheeler| first1 = John Archibald| last2 = Ford| first2 = Kenneth| last3 = Ford| first3 = Kenneth William| title = Geons, Black Holes, and Quantum Foam: A Life in Physics| url = https://archive.org/details/geonsblackholesq0000john| year = 2000| publisher = W. W. Norton  &  Company| isbn = 0-393-31991-1 }} < /ref > 
+ 
+ For weak gravitational fields and slow speeds relative to the speed of light, the theory's predictions converge on those of [[Newton's law of universal gravitation]]. < ref name= " W84 " > {{cite book| last = Wald| first = Robert M.| title = General Relativity| url = https://archive.org/details/generalrelativit0000wald| year = 1984| publisher = University of Chicago Press| isbn = 978-0-226-87033-5 }} < /ref >  Newton's equations are used to plan journeys in our Solar System. 
+ 
+ General relativity has a number of physical consequences. 
+ 
+ === Time dilation and frequency shift === 
+ [[File:Gravitational red-shifting.png|thumb|200px|Schematic representation of the gravitational redshift of a light wave escaping from the surface of a massive body]] 
+ 
+ Gravity influences the passage of time. Light sent down into a [[:en:Gravity well|gravity well]] is [[blueshift]]ed, whereas light sent in the opposite direction (i.e., climbing out of the gravity well) is [[redshift]]ed; collectively, these two effects are known as the ''gravitational frequency shift''. 
+ 
+ More generally, processes close to a massive body run more slowly when compared with processes taking place farther away; this effect is known as gravitational time dilation. < ref > {{cite book| last = Rindler| first = Wolfgang| title = Relativity: Special, General, and Cosmological| year = 2001| publisher = Oxford University Press, USA| isbn = 978-0-19-850836-6 }} < /ref > < ref name= " M73 " > {{cite book| last1 = Misner| first1 = Charles W.| last2 = Thorne| first2 = Kip S.| last3 = Wheeler| first3 = John Archibald| title = Gravitation| year = 1973| publisher = Macmillan| isbn = 978-0-7167-0344-0 }} < /ref > 
+ 
+ === Light deflection and gravitational time delay === 
+ [[File:Light deflection.png|thumb|right|200px|Deflection of light (sent out from the location shown in blue) near a compact body (shown in gray)]] 
+ General relativity predicts that the path of light is bent in a gravitational field; light passing a massive body is deflected towards that body. This effect has been confirmed by observing the light of stars or distant [[quasar]]s being deflected as it passes the [[Sun]]. < ref > {{cite book| last1 = Renn| first1 = Jurgen| last2 = Einstein| first2 = Albert| last3 = Wissenschaftsgeschichte| first3 = Max-Planck-Institut fur| title = Albert Einstein: chief engineer of the universe| year = 2005| isbn = 978-3-527-40574-9 }} < /ref > 
+ 
+ Closely related to light deflection is the gravitational time delay (or Shapiro delay), the phenomenon that light signals take longer to move through a gravitational field than they would in the absence of that field. There have been numerous successful tests of this prediction. < ref name= " Ohan " > {{cite book| last1 = Ohanian| first1 = Hans C.| last2 = Ruffini| first2 = Remo| title = Gravitation and Spacetime| year = 1994| publisher = W. W. Norton| isbn = 978-0-393-96501-8| page = 200 }} < /ref > < ref > Stairs, Ingrid H. 2003. Testing general relativity with pulsar timing. ''Living Rev. Relativity'' '''6'''. [http://relativity.livingreviews.org/Articles/lrr-2003-5/] {{Webarchive|url=https://web.archive.org/web/20130412080932/http://relativity.livingreviews.org/Articles/lrr-2003-5/|date=2013-04-12}} < /ref > 
+ 
+ A [[parameter]] called γ encodes the influence of gravity on the geometry of space. < ref > Will, Clifford M. 2006. The confrontation between general relativity and experiment. ''Living Rev. Relativity''. '''9''', 3.[http://relativity.livingreviews.org/Articles/lrr-2006-3/] {{Webarchive|url=https://web.archive.org/web/20070613073754/http://relativity.livingreviews.org/Articles/lrr-2006-3/|date=2007-06-13}} < /ref > 
+ 
+ === Gravitational waves === 
+ {{main|gravitational wave}} 
+ Gravitational waves are ripples in the [[curvature]] of [[spacetime]]. They move as a [[wave]], travelling outward from the source. Einstein predicted them in 1915 on the basis of his theory of [[general relativity]]. < ref > {{cite web | last=Finley | first=Dave | title=Einstein's gravity theory passes toughest test yet: Bizarre binary star system pushes study of relativity to new limits. | url=http://phys.org/news/2013-04-einstein-gravity-theory-toughest-bizarre.html | publisher=Phys.Org}} < /ref >  In theory, gravitational waves transport energy as gravitational radiation. Sources of detectable gravitational waves might include [[binary star]] systems composed of [[white dwarf]]s, [[neutron star]]s, or [[black holes]]. In general relativity, gravitational waves cannot travel faster than the [[speed of light]]. 
+ 
+ The 1993 [[Nobel Prize in Physics]] was awarded for measurements of the Hulse-Taylor [[binary star]] system. These measurements suggested gravitational waves are more than mathematical peculiarities. 
+ 
+ On February 11, 2016, the LIGO Scientific Collaboration and Virgo Collaboration teams announced that they had made the first observation of gravitational waves, originating from a pair of merging black holes using the Advanced LIGO detectors. On June 15, 2016, a second detection of gravitational waves from coalescing black holes was announced. Besides LIGO, many other gravitational-wave observatories (detectors) are under construction. 
+ 
+ == Related pages == 
+ * [[Escape velocity]] 
+ * [[General relativity]] 
+ * [[Newton's laws of motion]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://einstein.stanford.edu/ Gravity Probe B experiment] The Einstein website from Stanford University 
+ * [http://static.scribd.com/docs/8deo8fwbo2y96.swf Gravity for kids] {{Webarchive|url=https://web.archive.org/web/20090929074814/http://static.scribd.com/docs/8deo8fwbo2y96.swf |date=2009-09-29 }} (useful Q  &  A) 
+ * [http://www.howstuffworks.com/question232.htm How stuff works]: How does gravity work? 
+ * [https://www.pbs.org/wgbh/nova/pisa/galileo.html NOVA] - PBS NOVA. Galileo's experiments 
+ * [http://www.lightandmatter.com/html_books/1np/ch10/ch10.html Gravity] {{Webarchive|url=https://web.archive.org/web/20090122060813/http://lightandmatter.com/html_books/1np/ch10/ch10.html |date=2009-01-22 }} - Kepler and Newton: excellent summary 
+ * [http://physnet.org/home/modules/pdf_modules/m101.pdf ''Newton's Law of Universal Gravitation ''] {{Webarchive|url=https://web.archive.org/web/20070204125029/http://physnet.org/home/modules/pdf_modules/m101.pdf |date=2007-02-04 }} on [http://www.physnet.org Project PHYSNET] 
+ * PhysOrg.com. [http://www.physorg.com/news85310822.html Alternative theory] of gravity may explain large structure formation—without dark matter 
+ 
+ [[Category:Force]] 
+ [[Category:Basic physics ideas]] 
+ [[Category:Gravitation| ]]

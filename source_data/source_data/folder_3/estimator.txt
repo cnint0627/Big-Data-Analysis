@@ -1,0 +1,18 @@
+{{complex}} 
+ In [[statistics]], an '''estimator''' is a rule for calculating an estimate of a given amount based on [[Sample (statistics)|observed data]]: thus the rule (the estimator), the amount that is being measured (the [[estimand]]) and its result (the estimate) are different. < ref > {{cite book |last1=Mosteller |first1=F. |last2=Tukey |first2=J. W. |orig-year=1968 |chapter=Data Analysis, including Statistics |title=The Collected Works of John W. Tukey: Philosophy and Principles of Data Analysis 1965–1986 |volume=4 |publisher=CRC Press |year=1987 |isbn=0-534-05101-4 |pages=601–720 [p. 633] |chapter-url=https://books.google.com/books?id=C1guHWTlVVoC & pg=PA633 |via=[[Google Books]] }} < /ref > 
+ 
+ An estimator of a parameter  < math > \theta < /math >  is often written as  < math > \hat\theta < /math > . < ref > {{Cite web|date=2020-04-26|title=List of Probability and Statistics Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/|access-date=2020-09-12|website=Math Vault|language=en-US}} < /ref >  If the expected value of the estimator is equal to the parameter, then the estimator is called unbiased. Otherwise, it is called biased. < ref > {{Cite web|last=Taylor|first=Courtney|date=January 13, 2019|title=Unbiased and Biased Estimators|url=https://www.thoughtco.com/what-is-an-unbiased-estimator-3126502|access-date=2020-09-12|website=ThoughtCo|language=en}} < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[Efficiency (statistics)]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *[https://pdfs.semanticscholar.org/9abc/f28d04f550cc20c30ff819c3f0b8f110b808.pdf Fundamentals on Estimation Theory] {{Webarchive|url=https://web.archive.org/web/20200212200544/https://pdfs.semanticscholar.org/9abc/f28d04f550cc20c30ff819c3f0b8f110b808.pdf |date=2020-02-12 }}  
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Statistics]]

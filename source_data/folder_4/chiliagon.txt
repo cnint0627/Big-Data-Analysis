@@ -1,0 +1,24 @@
+{{Regular polygon db|Regular polygon stat table|p1000}} 
+ A '''chiliagon''' or '''1000-gon''' is a [[Polygon|shape]] with 1000 sides and 1000 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular chiliagon == 
+ A ''[[regular polygon|regular]] chiliagon'' is represented by [[Schläfli symbol]] {1000} and can be constructed as a [[Truncation (geometry)|truncated]] 500-gon, t{500}, or a twice-truncated 250-gon, tt{250}, or a thrice-truncated 125-gon, ttt{125}. 
+ 
+ === Area === 
+ The amount of space a regular chiliagon takes up is 
+ 
+ : < math > A = 250a^2 \cot \frac{\pi}{1000} \simeq 79577.2\,a^2 < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ ==Related pages== 
+ * [[Circle]] 
+ * [[Hectogon]] 
+ * [[Myriagon]] 
+ 
+ {{Polygons}} 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Polygons|1000]]

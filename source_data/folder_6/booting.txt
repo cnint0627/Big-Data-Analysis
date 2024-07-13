@@ -1,0 +1,14 @@
+'''Booting''' is what happens when a [[computer]] starts. This happens when the power is turned on. It is called  " reboot "  if it happens at other times. When you boot a computer, your [[processor]] looks for instructions in system [[ROM]] (the [[BIOS]]) and executes them. They normally 'wake up' [[peripheral equipment]] and search for the [[boot device]]. The [[boot device]] either loads the [[operating system]] or gets it from somewere else. 
+ 
+ People use the word  " boot "  to mean  " to start a [[computer]] "  or other device with [[electronics]] built in. For example, if a person wants to ask a friend to turn on a satellite phone, they would say  " could you boot up the satellite phone? " . 
+ 
+ Most [[operating system]]s call the first data storage device it uses a [[boot device]].  It may also be called a [[bootstrap loader]]. This is because the computer is making itself go, as in the idiom.  When we start a computer, we can often see the simple instructions the computer uses to start, then more complicated [[pictures]] or [[software]].  
+ 
+ The phrase  " to boot "  in this meaning is short for  " to bootstrap " .  This use is part of [[net jargon]] along with similar multi-use words like [[Internet]] or [[World Wide Web|web]].  Often the computer is just called a [[box]], so a phrase like  " to boot the box "  means  " to start the computer " . 
+ 
+ The term  " reboot "  can also be used in a different [[context]] to mean a restarting of a storyline established in previous [[iterations]] of a series of [[fiction]]. 
+ {{stub}} 
+ [[Category:Computing]] 
+ [[Category:Software]] 
+ 
+ < !-- interwiki -- >

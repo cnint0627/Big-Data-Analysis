@@ -1,0 +1,5 @@
+'''ELisp''' is the [[programming language]] developed exclusively for [[Emacs]] by [[Richard Stallman]]. Elisp was developed exclusively for use with Emacs and is a version of the language [[Lisp (programming language)|Lisp]]. Lisp is an [[acronym]] that stands for ''LISt processing''. 
+ 
+ [[Category:Programming languages]] 
+ 
+ {{tech-stub}}

@@ -1,0 +1,155 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Montferland 
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Gemeentehuis Montferland (2023).jpg 
+ | image_alt               =  
+ | image_caption           =  
+ | image_flag              = Logo montferland.svg 
+ | flag_size               =  
+ | flag_alt                =  
+ | image_shield            = Montferland wapen.svg 
+ | shield_size             =  
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 1955 (2009).svg 
+ | map_alt                 =  
+ | map_caption             = Location  
+ | image_map1              = Gem-Montferland-OpenTopo.jpg 
+ | map_alt1                =  
+ | map_caption1            = Map 
+ | coordinates             = {{coord|51|56|N|6|8|E|region:NL|display=inline}} 
+ < !-- Location, established, seat, subdivisions, government, leaders-- > 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|Gelderland}} 
+ | subdivision_type2       = Region 
+ | subdivision_name2       = [[Liemers]] 
+ | established_title       = Established 
+ | established_date        = 1 January 2005 
+ < ref > 
+ {{cite web  
+  |url = http://www.cbs.nl/nl-NL/menu/methoden/classificaties/overzicht/gemeentelijke-indeling/2005/default.htm 
+  |title = Gemeentelijke indeling op 1 januari 2005 
+  |trans-title=Municipal divisions on 1 January 2005 
+  |language = nl 
+  |website = cbs.nl 
+  |publisher = [[Statistics Netherlands|CBS]] 
+  |access-date = 10 July 2014}} < /ref > 
+ | government_footnotes    =  
+ < ref > 
+ {{cite web 
+  |url= https://www.montferland.info/bestuur-en-organisatie/samenstelling-college_43465/ 
+  |title= Samenstelling college 
+  |language=nl  
+  |work= Gemeente Montferland 
+  |publisher= 
+  |access-date= 13 February 2022 
+ }} 
+ < /ref > 
+ | seat                    = [[Didam]] 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = [[Christian Democratic Appeal|CDA]] 
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[Harry de Vries]] (acting) 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|{{PAGENAME}}}} 
+ | area_land_km2           = {{Dutch municipality land area|{{PAGENAME}}}} 
+ | area_water_km2          = {{Dutch municipality water area|{{PAGENAME}}}} 
+ | elevation_footnotes     =  
+ < ref > 
+ {{cite web 
+  |url= https://www.ahn.nl/postcodetool 
+  |title=Postcodetool 
+  |language=nl  
+  |work=Actueel Hoogtebestand Nederland  
+  |publisher= 
+  |access-date= 13 February 2022 
+ }} 
+ < /ref > 
+ | elevation_m             = 13 
+ | elevation_max_footnotes =  < ref > {{cite web |title=Bergherbos in Montferland |url=https://brockhausen.nl/bossen-en-natuur/ |website=Brockhausen |access-date=27 August 2020}} < /ref > 
+ | elevation_max_m         = 93 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|{{PAGENAME}}}} 
+ | population_as_of        = {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|{{PAGENAME}}}}  < !-- For automatic calculation: auto-- > 
+ | population_demonym      =  
+ < !-- Other information -- > 
+ | timezone                = [[Central European Time|CET]] 
+ | utc_offset              = +1 
+ | timezone_DST            = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST          = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 6941–6942, 7035–7039, 7041, 7044–7048 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 0314, 0316 
+ | website                 = {{URL|1=https://www.montferland.info}} 
+ | footnotes               = 
+ }} 
+ '''Montferland''' is a municipality in the province of [[Gelderland]], the Netherlands. About 36,000 people were living there in 2021. 
+ 
+ It was created from the former municipalities of [[Bergh]] and [[Didam]] on 1 January 2005. 
+ 
+ Montferland borders [[Germany]] in the south. It belongs to the [[Liemers]] region, but the forestial area of the Montferland hills or Bergherbos, which lie in the middle of the municipality, are sometimes considered being the border between the Liemers and the [[Achterhoek]] regions. 
+ 
+ == Settlements == 
+ {{Col-begin|width=60%}} 
+ {{Col-2}} 
+ Formerly Bergh municipality: 
+ * Azewijn 
+ * Beek 
+ * Braamt 
+ * 's-Heerenberg 
+ * Kilder 
+ * Lengel 
+ * Loerbeek 
+ * Stokkum 
+ * Vethuizen 
+ * Wijnbergen 
+ * Zeddam 
+ {{Col-break}} 
+ Formerly Didam municipality: 
+ * Didam 
+ * Greffelkamp 
+ * Holthuizen 
+ * Loil 
+ * Nieuw-Dijk 
+ * Oud-Dijk 
+ {{Col-end}} 
+ 
+ == References == 
+ * [https://www.plaatsengids.nl/montferland Plaatsengids.nl] 
+ {{Reflist}} 
+ 
+ {{Geographic location 
+ |Centre    =  
+ |North     = [[Doetinchem]] 
+ |Northeast =  
+ |East      = [[Oude IJsselstreek]] 
+ |Southeast =  
+ |South     = [[Emmerich am Rhein]] ([[North Rhine-Westphalia]], [[Germany]]) 
+ |Southwest =  
+ |West      = [[Zevenaar]] 
+ |Northwest =  
+ }} 
+ 
+ {{Gelderland Province}} 
+ {{Liemers municipalities}} 
+ {{Europe-stub}} 
+ 
+ [[Category:2005 establishments in the Netherlands]] 
+ [[Category:Municipalities of Gelderland]] 
+ [[Category:Liemers]]

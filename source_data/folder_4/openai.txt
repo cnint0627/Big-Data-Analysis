@@ -1,0 +1,46 @@
+{{Infobox company 
+ | name = OpenAI 
+ | logo = OpenAI Logo.svg 
+ | logo_size = 250px 
+ | image = Pioneer Building, San Francisco (2019) -1.jpg 
+ | image_size = 275px 
+ | image_caption = Headquarters at the [[Pioneer Building (San Francisco)|Pioneer Building]] in San Francisco 
+ | industry = [[Artificial intelligence]] 
+ | founders = {{Unbulleted list| 
+ | [[Ilya Sutskever]] 
+ |[[Elon Musk]] < ref > {{Cite web |last=Bureau |first=The Hindu |date=2023-04-15 |title=Elon Musk creates AI company X, possible OpenAI rival |url=https://www.thehindu.com/sci-tech/technology/elon-musk-creates-ai-company-x-possible-openai-rival/article66740296.ece |access-date=2023-05-16 |website=The Hindu |language=en-IN}} < /ref > 
+ | Greg Brockman < ref name= " auto2 " > {{Cite web |date=December 12, 2015 |title=Introducing OpenAI |url=https://openai.com/blog/introducing-openai/ |access-date=January 27, 2023 |website=OpenAI |language=en |archive-date=August 8, 2017 |archive-url=https://web.archive.org/web/20170808104802/https://openai.com/blog/introducing-openai/ |url-status=live }} < /ref > 
+ }} 
+ | founded = {{Start date and age|2015|12|10}} 
+ | hq_location = [[Pioneer Building (San Francisco)|Pioneer Building]], [[San Francisco]], [[California]], [[U.S.]] < ref > {{cite news |url=https://www.nytimes.com/2015/12/12/science/artificial-intelligence-research-center-is-founded-by-silicon-valley-investors.html |title=Artificial-Intelligence Research Center Is Founded by Silicon Valley Investors |first1=John |last1=Markoff |date=December 11, 2015 |newspaper=[[The New York Times]] |access-date=December 12, 2015 |archive-date=August 30, 2020 |archive-url=https://web.archive.org/web/20200830184433/https://www.nytimes.com/2015/12/12/science/artificial-intelligence-research-center-is-founded-by-silicon-valley-investors.html |url-status=live }} < /ref > < ref name= " technologyreview " > {{Cite web |last=Hao |first=Karen |title=The messy, secretive reality behind OpenAI’s bid to save the world |url=https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/ |archive-url=https://web.archive.org/web/20200403023123/https://www.technologyreview.com/s/615181/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/ |archive-date=2020-04-03 |access-date=2023-04-29 |website=MIT Technology Review |language=en}} < /ref > 
+ | key_people = {{Unbulleted list 
+ | Greg Brockman ([[Chairperson|chairman]]  &  [[President (corporate title)|president]]) 
+ | [[Sam Altman]] ([[Chief executive officer|CEO]]) 
+ | [[Ilya Sutskever]] ([[Chief scientific officer|chief scientist]]) 
+ | [[Mira Murati]] ([[Chief technology officer|CTO]])}} 
+ | area_served = 
+ | products = {{Unbulleted list 
+ | [[GPT-4]] 
+ | [[DALL-E]] 
+ | [[OpenAI Five]] 
+ | [[ChatGPT]] 
+ | [[OpenAI Codex]] 
+ }} 
+ | services = 
+ | revenue = 
+ | equity = 
+ | equity_year = 
+ | num_employees = {{circa|375}} (2023) < ref > {{cite news |last=Roose |first=Kevin |author-link=Kevin Roose  |date=February 3, 2023 |title=How ChatGPT Kicked Off an A.I. Arms Race |url=https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html |newspaper=[[The New York Times]] |archive-date=March 8, 2023 |archive-url=https://web.archive.org/web/20230308162500/https://www.nytimes.com/2023/02/03/technology/chatgpt-openai-artificial-intelligence.html |url-status=live }} < /ref > 
+ | subsid = 
+ | owner = 
+ | homepage = {{Official URL}} 
+ | footnotes = 
+ }} 
+ '''OpenAI''' is an American [[artificial intelligence]] (AI) research [[laboratory]]. It is made up of the [[Nonprofit organization|non-profit]] '''OpenAI Incorporated''' and its for-profit subsidiary (company owned by another company) corporation '''OpenAI Limited Partnership'''. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:American technology companies]] 
+ [[Category:2015 establishments in the United States]] 
+ [[Category:Companies based in San Francisco]]

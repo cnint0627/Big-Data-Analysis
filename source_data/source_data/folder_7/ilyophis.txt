@@ -1,0 +1,38 @@
+{{italic title}} 
+ {{Taxobox 
+ | name = ''Ilyophis'' 
+ | image = Ilyophis brunneus.jpg 
+ | image_width = 240px 
+ | image_caption = ''Ilyophis brunneus'' 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Actinopterygii]] 
+ | ordo = [[Anguilliformes]] 
+ | familia = [[Cutthroat eel|Synaphobranchidae]] 
+ | genus = '''''Ilyophis''''' 
+ | genus_authority = [[Charles Henry Gilbert|C. H. Gilbert]], 1891 
+ | subdivision_ranks = Species 
+ | subdivision = See text. 
+ }} 
+ 
+ '''''Ilyophis''''' is a genus of [[eel]]s in the cutthroat eel family '''Synaphobranchidae'''. 
+ 
+ == Species == 
+ It currently contains the following species: 
+ * ''[[Ilyophis arx]]''  < small > [[Catherine H. Robins|C. H. Robins]], 1976 < /small > < ref name= " WoRMS, 2012 " > World Register of Marine Species (WoRMS): Ilyophis Gilbert, 1891 AphiaID: 125654 http://www.marinespecies.org/aphia.php?p=taxdetails & id=125654 < /ref > < ref name= " NCBI, 2012 " > National Center for Biotechnology Information (NCBI): Ilyophis Taxonomy ID: 391181 https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=391181 & lvl=0 < /ref > < ref name= " ITIS, 2012 " > Integrated Taxonomic Information System (ITIS): Ilyophis  Gilbert, 1891 Taxonomic Serial No.: 161585 https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN & search_value=161585 < /ref > 
+ * ''[[Ilyophis blachei]]''  < small > [[Luiz Vieria Caldas Saldanha|Saldanha]]  &  [[Nigel Merrett|Merrett]], 1982 < /small > < ref name= " WoRMS, 2012 " / > < ref name= " NCBI, 2012 " / > < ref name= " ITIS, 2012 " / > 
+ * ''[[Ilyophis brunneus]]''  < small > [[Charles Henry Gilbert|C. H. Gilbert]], 1891 < /small > < ref name= " WoRMS, 2012 " / > < ref name= " NCBI, 2012 " / > < ref name= " ITIS, 2012 " / >   
+ * ''[[Ilyophis nigeli]]''  < small > [[Yuri Nikolaevich Shcherbachev|Shcherbachev]]  &  [[Kenneth J. Sulak|Sulak]], 1997 < /small > < ref name= " WoRMS, 2012 " / > < ref name= " NCBI, 2012 " / > < ref name= " ITIS, 2012 " / > 
+ * ''[[Ilyophis robinsae]]''  < small > [[Kenneth J. Sulak|Sulak]]  &  [[Yuri Nikolaevich Shcherbachev|Shcherbachev]], 1997 < /small > < ref name= " WoRMS, 2012 " / > < ref name= " NCBI, 2012 " / > < ref name= " ITIS, 2012 " / > 
+ * ''[[Ilyophis saldanhai]]''  < small > [[Emma S. Karmovskaya|Karmovskaya]]  &  [[Nikolai Vasilyevich Parin|Parin]], 1999 < /small > < ref name= " WoRMS, 2012 " / > < ref name= " NCBI, 2012 " / > < ref name= " ITIS, 2012 " / > 
+ 
+ == References == 
+ {{reflist}} 
+ * {{FishBase genus | genus = Ilyophis| month = June | year = 2011}} 
+ 
+ {{Commonscat}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Eels]]

@@ -1,0 +1,41 @@
+{{Automatic taxobox 
+ | image=TEM - Epixenosomes.jpg 
+ | image_caption=[[Transmission electron microscopy|Transmission electron micrograph]] of stage II epixenosomes. 
+ | taxon = Verrucomicrobiota 
+ | authority = Hedlund 2021 < ref > {{cite journal | vauthors = Oren A, Garrity GM | title = Valid publication of the names of forty-two phyla of prokaryotes | journal = Int J Syst Evol Microbiol | year = 2021 | volume = 71 | issue = 10 | pages = 5056 | doi = 10.1099/ijsem.0.005056 | pmid = 34694987 | s2cid = 239887308 | url = https://www.microbiologyresearch.org/pubmed/content/journal/ijsem/10.1099/ijsem.0.005056}} < /ref > 
+ | subdivision_ranks = Classes 
+ | subdivision = 
+ * [[Opitutae]]  < small > Choo et al. 2007 < /small > 
+ < !-- Spartobacteria was reclassified as Terrimicrobia. -- > 
+ * [[Terrimicrobia]]  < small > García-López et al. 2020 < /small > 
+ * [[Verrucomicrobiae]]  < small > Hedlund et al. 1998 < /small > 
+ * Orders not assigned to a class 
+ **  " ''Candidatus'' [[Methylacidiphilales]] "   < small > Op den Camp et al. 2009 < /small > 
+ * Genera not assigned to a class, order, or family 
+ **  " ''[[Fucophilus]]'' "   < small > Sakai et al. 2003 < /small > 
+ ** ''[[Limisphaera]]''  < small > Anders et al. 2015 < /small > 
+ **  " ''[[Methylacidimicrobium]]'' "   < small > van Teeseling et al. 2014 < /small > 
+ **  " ''Candidatus'' [[Methyloacida]] "   < small > Islam et al. 2008 < /small > 
+ **  " ''[[Methylokorus]]'' "   < small > Dunfield et al. 2007 < /small > 
+ **  " ''Candidatus'' [[Nucleicoccus]] "   < small > corrig. Sato et al. 2014 < /small > 
+ < !-- Nucleococcus is a misspelling of Nucleicoccus. -- > 
+ **  " ''Candidatus'' [[Organicella]] "   < small > Williams et al. 2021 < /small > 
+ **  " ''[[Pedosphaera]]'' "   < small > Kant et al. 2011 < /small > 
+ **  " ''Candidatus'' [[Rhizospheria]] "   < small > Nunes da Rocha 2010 < /small > 
+ | synonyms = 
+ *  " Verrucomicrobaeota "   < small > Oren et al. 2015 < /small > 
+ *  " Verrucomicrobia "   < small > Hedlund et al. 1997 < /small > 
+ *  " Verrucomicrobia "   < small > Hedlund 2010 < /small > 
+ *  " Verrucomicrobia "   < small > Yoon et al. 2010 < /small > 
+ *  " Verrucomicrobiota "   < small > Whitman et al. 2018 < /small > 
+ }} 
+ 
+ The [[phylum]] '''''Verrucomicrobia''''' is made up of six groups of [[gram-negative]], spherical or [[Bacillus (shape)|rod-shaped]] bacteria that consume other plants or animals for energy and nutrients ([[heterotrophic]]). They are distributed throughout freshwater, marine, and soil habitats, as well as vertebrae digestive tracts including those of humans. < ref > {{Cite journal|last1=Bergmann|first1=Gaddy T.|last2=Bates|first2=Scott T.|last3=Eilers|first3=Kathryn G.|last4=Lauber|first4=Christian L.|last5=Caporaso|first5=J. Gregory|last6=Walters|first6=William A.|last7=Knight|first7=Rob|last8=Fierer|first8=Noah|date=2011-07-01|title=The under-recognized dominance of Verrucomicrobia in soil bacterial communities|journal=Soil Biology and Biochemistry|language=en|volume=43|issue=7|pages=1450–1455|doi=10.1016/j.soilbio.2011.03.012|pmid=22267877 |pmc=3260529 |issn=0038-0717}} < /ref >  The bacteria within this group exist as a free-living organisms or [[Symbiosis|symbiont]] (organisms that live in close physical association) with [[Eukaryote|eukaryotic]] hosts from nematode worms and marine sponges to the gut of sea cucumber, clam worm, and humans. < ref > {{Cite journal|last1=Cardman|first1=Z.|last2=Arnosti|first2=C.|last3=Durbin|first3=A.|last4=Ziervogel|first4=K.|last5=Cox|first5=C.|last6=Steen|first6=A. D.|last7=Teske|first7=A.|date=2014-06-15|editor-last=Spormann|editor-first=A. M.|title=Verrucomicrobia Are Candidates for Polysaccharide-Degrading Bacterioplankton in an Arctic Fjord of Svalbard|journal=Applied and Environmental Microbiology|language=en|volume=80|issue=12|pages=3749–3756|doi=10.1128/AEM.00899-14|issn=0099-2240|pmc=4054139|pmid=24727271}} < /ref > 
+ 
+ == Planctobacteria Superphylum == 
+ Members of the ''Verrucomicrobia'' phylum (group) are a part of the Planctobacteria (PVC) superphylum, along with its “[[Sister group|sister groups]]”; ''[[Chlamydiae]]'' and ''Lentisphaerae.'' < ref > {{Cite journal|last1=Cho|first1=Jang-Cheon|last2=Vergin|first2=Kevin L.|last3=Morris|first3=Robert M.|last4=Giovannoni|first4=Stephen J.|date=June 2004|title=Lentisphaera araneosa gen. nov., sp. nov, a transparent exopolymer producing marine bacterium, and the description of a novel bacterial phylum, Lentisphaerae|url=https://onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2004.00614.x|journal=Environmental Microbiology|language=en|volume=6|issue=6|pages=611–621|doi=10.1111/j.1462-2920.2004.00614.x|pmid=15142250 |issn=1462-2912}} < /ref >  Verrucomicrobia is distinguished from these other groups by a unique genetic change. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Gram-negative bacteria]]

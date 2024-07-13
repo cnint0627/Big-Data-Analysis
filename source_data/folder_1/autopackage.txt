@@ -1,0 +1,37 @@
+{{nosources|date=May 2013}} 
+ {{Infobox Software 
+ | name                   = Autopackage 
+ | logo                   =  
+ | screenshot             = Autopackage ready to install software.png 
+ | caption                = Autopackage ready to install software 
+ | collapsible            =  
+ | author                 =  
+ | developer              = [[Mike Hearn]] 
+ | released               =  
+ | latest release version = 1.2.6 
+ | latest release date    = {{release date and age|2009|01|13}} 
+ | latest preview version =  
+ | latest preview date    =  
+ | frequently updated     =  
+ | programming language   =  
+ | operating system       = [[Linux]] 
+ | platform               =  
+ | size                   =  
+ | language               =  
+ | status                 =  
+ | genre                  = [[Package management system]] 
+ | license                = [[GNU Lesser General Public License]] 
+ | website                = [http://autopackage.org/ autopackage.org] 
+ }} 
+ '''Autopackage''' is a free [[computer]] programme aimed at making it simple to create other programs that can be installed on all [[Linux]] [[distributions]]. 
+ Right now, the only [[operating system]] to include Autopackage is [http://hacktolive.org/su Super Ubuntu] {{Webarchive|url=https://web.archive.org/web/20160304193906/http://hacktolive.org/su |date=2016-03-04 }} 
+ 
+ ==Related pages== 
+ *[[Zero Install]] 
+ *[[RUNZ]] 
+ *[[Super Ubuntu]] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Software]]

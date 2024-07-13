@@ -1,0 +1,19 @@
+{{Infobox unit 
+ | symbol   = dam 
+ | standard = [[metric system|metric]] 
+ | quantity = [[length]] 
+ | units1   = [[SI units]] 
+ | inunits1 = {{val|10|ul=m}} 
+ | units2   = [[imperial units|imperial]]/[[US customary units|US]] & nbsp;units 
+ | inunits2 = {{convert|1|dam|yd|disp=out|comma=gaps|lk=on|sigfig=5}} < br / > < !-- 
+     -- > & emsp;{{convert|1|dam|in|disp=out|comma=gaps|lk=on|sigfig=5}} 
+ }} 
+ 
+ A '''decametre''' ([[American and British English spelling differences#-re, -er|International spelling]] < ref name= " bipm-prefix-spelling " > [https://www.bipm.org/en/publications/si-brochure/chapter3.html ''Decimal multiples and submultiples of SI units''] {{Webarchive|url=https://web.archive.org/web/20190330005801/https://www.bipm.org/en/publications/si-brochure/chapter3.html |date=2019-03-30 }}, 2006, SI Brochure: The International System of Units (SI), 8th edition < /ref > < ref name= " bipm-metre-spelling " > [https://www.bipm.org/en/publications/si-brochure/metre.html ''Unit of length (metre)''] {{Webarchive|url=https://web.archive.org/web/20190301070954/https://www.bipm.org/en/publications/si-brochure/metre.html |date=2019-03-01 }}, 2006, SI Brochure: The International System of Units (SI), 8th edition < /ref > ) ([[American and British English spelling differences#-re, -er|American spelling]] '''dekameter''' or '''decameter''' < ref name= " american-spelling " > [https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes ''The Two Classes of SI Units and the SI Prefixes''], 2008, The NIST Guide for the Use of the International System of Units < /ref > < ref > {{cite web |url=https://www.collinsdictionary.com/dictionary/english/decametre |title=Decametre definition and meaning |website=Collins Dictionary|access-date= 27 July 2020}} < /ref > ) is a [[unit of length]] equal to ten [[metre]]s. Its symbol is the dam. 
+ 
+ A decametre is not used very often. It is sometimes used to measure heights in [[meteorology]], while a ''cubic decametre'' is sometimes used for describing the [[volume]]s of [[river]]s and [[lake]]s. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Units of length]]

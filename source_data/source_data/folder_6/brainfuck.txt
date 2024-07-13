@@ -1,0 +1,46 @@
+The brainfuck [[programming language]] is an esoteric (weird and unusual) programming language. It was created by Urban Müller in 1993. < ref name= " :0 " > {{Cite web|title=brainfuck - Esolang|url=https://esolangs.org/wiki/Brainfuck|access-date=2022-04-23|website=esolangs.org}} < /ref > < ref name= " :1 " > {{Cite web|last=262588213843476|title=Basics of BrainFuck|url=https://gist.github.com/roachhd/dce54bec8ba55fb17d3a|access-date=2022-04-23|website=Gist|language=en}} < /ref >  It has eight instructions (commands) which operate (do things on) a tape. < ref name= " :0 "  / >  Instructions are done one by one, in order. < ref name= " :0 "  / >  The tape has multiple sections. < ref name= " :0 "  / >  Each section is a number. < ref name= " :0 "  / > < ref name= " :1 "  / >  Each section is, in the beginning, zero. < ref name= " :0 "  / >  Brainfuck is like a [[Turing machine]].  < ref name= " :0 "  / > 
+ 
+ == Instruction table == 
+ {| class= " wikitable " 
+ |+ 
+ !Instruction 
+ !Action 
+ |- 
+ | + 
+ |Add one to the current tape section. 
+ |- 
+ | - 
+ |Subtract one from the current tape section. 
+ |- 
+ | < 
+ |Move to the tape section to the left of the current one. 
+ |- 
+ | > 
+ |Move to the tape section to right left of the current one. 
+ |- 
+ |. 
+ |Print the value of the current tape section as an [[ASCII]] symbol.  
+ |- 
+ |, 
+ |Read an [[ASCII]] symbol into the current tape section as a number. 
+ |- 
+ |[ 
+ |If the current tape section is zero, go to the matching ], skipping the instructions in between. 
+ |- 
+ |] 
+ |If the current tape section is not zero, go back to the matching [, and do the code after it again.  
+ |} 
+ 
+ == Examples == 
+ < syntaxhighlight lang= " brainfuck " > 
+ [-] 
+ < /syntaxhighlight > If the current section is not zero, these three commands subtract one until the current section is zero. Otherwise, they leave it at zero.  < syntaxhighlight lang= " brainfuck " > 
+ +++-- 
+ < /syntaxhighlight > These five commands first add three to the current section. Then, they subtract two from the current section. Since  < math > n+3-2 = n+1 < /math > , these five commands are the same as  " + "  alone.  
+ 
+ == Derivatives == 
+ As a result of brainfuck's fame, many derivatives (versions) of brainfuck have been created. These include Brain-Flak, < ref name= " :3 " > {{Cite web|title=Brain-Flak - Esolang|url=https://esolangs.org/wiki/Brain-Flak|access-date=2022-04-24|website=esolangs.org}} < /ref >  pbrain, < ref name= " :4 " > {{Cite web|title=pbrain - Esolang|url=https://esolangs.org/wiki/Pbrain|access-date=2022-04-24|website=esolangs.org}} < /ref >  and tinyBF. < ref name= " :5 " > {{Cite web|title=tinyBF - Esolang|url=https://esolangs.org/wiki/tinyBF|access-date=2022-04-24|website=esolangs.org}} < /ref >  Most are also [[Turing complete]], just like brainfuck. 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Programming languages]]

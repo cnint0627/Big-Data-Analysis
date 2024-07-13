@@ -1,0 +1,41 @@
+[[File:Leonardo da Pisa.jpg|thumb|right|Statue of Fibonacci by Giovanni Paganucci in the [[Camposanto di Pisa]], 1863]] 
+ 
+ '''Fibonacci''', also known as Leonardo Bonacci, Leonardo Fibonacci and Leonardo of [[Pisa]], lived c. 1170{{ndash}}1250. He was an [[Italy|Italian]] [[mathematician]]. < ref > {{cite web |url=http://library.thinkquest.org/27890/biographies1.html |title=The Fibonacci Series – Biographies – Leonardo Fibonacci (ca.1175 – ca.1240) |publisher=Library.thinkquest.org |accessdate=2010-08-02 |archive-date=2010-02-05 |archive-url=https://web.archive.org/web/20100205173945/http://library.thinkquest.org/27890/biographies1.html |url-status=dead }} < /ref >  He was thought  " the most talented Western mathematician of the [[Middle Ages]] " . < ref > Eves, Howard. ''An Introduction to the History of Mathematics''. Brooks Cole, 1990: {{ISBN|0-03-029558-0}} (6th ed.), p 261. < /ref > < ref > {{cite web|url=http://famous-mathematicians.org/|title=Famous Mathematicians – The Greatest Mathematicians of All Time|publisher=}} < /ref > 
+ 
+ Fibonacci popularized the [[Hindu–Arabic numeral system]] to the Western World. < ref > {{cite web|url=http://www.halexandria.org/dward093.htm|title=Fibonacci Numbers|website=www.halexandria.org}} < /ref >  He did this in his composition in 1202 of ''[[Liber Abaci]]'' (''Book of Calculation''). < ref > [http://www.britannica.com/eb/article-4153/Leonardo-Pisano Leonardo Pisano – page 3:  " Contributions to number theory " ]. [[Encyclopædia Britannica]] Online, 2006. Retrieved 18 September 2006. < /ref >  He also introduced to Europe the sequence of [[Fibonacci number]]s which he used as an example in ''Liber Abaci''. < ref > Singh, Parmanand.  " Acharya Hemachandra and the (so called) Fibonacci Numbers " . ''Math''. Ed. Siwan , 20(1):28–30, 1986. ISSN 0047-6269] < /ref > 
+ 
+ == Fibonacci number sequence == 
+ 
+ Fibonacci is best known for the list of numbers called the [[Fibonacci number|Fibonacci Sequence]]. The list never stops, but it starts this way: 
+  1,  1,  2,  3,  5,  8,  13,  21,  34,  55,  89, 144,  233,   
+  377,  610,  987,  1597,  2584... 
+ 
+ In this list, a person can find the next number by adding the last two numbers together. 
+  1 + 1 = 2 
+      1 + 2 = 3 
+          2 + 3 = 5 
+              3 + 5 = 8 
+                  5 + 8 = 13 
+                      8 + 13 = 21 
+                          13 + 21 = 34 
+                               21 + 34 = 55 
+                                    34 + 55 = 89 
+                                         55 + 89 = 144 
+                                              89 + 144 = 233 
+                                                   144 + 233 = 377 
+                                                         233 + 377 = 610 
+                                                               377 + 610 = 987 
+                                                                     610 + 987 = 1597 
+                                                                           987 + 1597 = 2584 
+                                                                           etc... 
+ 
+ This series is also interesting because the ratio of two adjacent numbers in the series approaches the [[golden ratio]]. < ref > Livio, Mario. (2003). [https://books.google.com/books?id=bUARfgWRH14C & pg=PA96 & dq= ''The Golden Ratio: The Story of Phi, the World's Most Astonishing Number,'' pp. 96-97]. < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Authority control}} 
+ [[Category:1170s births]] 
+ [[Category:1250 deaths]] 
+ [[Category:Italian mathematicians]] 
+ [[Category:People from Pisa]]

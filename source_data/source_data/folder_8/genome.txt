@@ -1,0 +1,146 @@
+{{otheruses}} 
+ The '''genome''' of an [[organism]] is the whole of its [[genetics|hereditary]] [[information]] [[code|encoded]] in its [[DNA]] (or, for some [[virus]]es, [[RNA]]). This includes both the [[gene]]s and the non-coding sequences of the DNA. 
+ Professor Hans Winkler coined the term in 1920. < ref > Hans Winkler, Professor of [[Botany]] at the University of [[Hamburg]], [[Germany]], as a combination of the words '''''gen'''e'' and ''chromos'''ome'''''.{{cite journal|author=Joshua Lederberg and Alexa T. McCray|year=2001|title='Ome Sweet 'Omics -- A genealogical treasury of words|journal=The Scientist|volume=15|issue=7}}  
+ 
+ : An online copy is available here: [http://lhncbc.nlm.nih.gov/lhc/docs/published/2001/pub2001047.pdf] {{Webarchive|url=https://web.archive.org/web/20060929175954/https://lhncbc.nlm.nih.gov/lhc/docs/published/2001/pub2001047.pdf|date=2006-09-29}} < /ref > 
+ 
+ Winkler's definition, in translation, runs: 
+ : " I propose the expression '''''genome''''' for the [[haploid]] [[chromosome]] set, which, together with the pertinent [[protoplasm]], specifies the material foundations of the [[species]] .... "   < ref > Winkler H. 1920. ''Verbreitung und Ursache der Parthenogenesis im Pflanzen- und Tierreiche''. Fischer, Jena. < /ref > < sup > p165 < /sup > 
+ 
+ However, no single haploid chromosome set defines even the DNA of a species. Because of the huge variety of [[allele]]s carried by a [[Population genetics|population]], every individual is genetically different. Even a diploid individual carries genetic variety. For that reason [[Dobzhansky]] preferred  " set of chromosomes " , < ref > Dobzhansky T. 1937. ''Genetics and the origin of species''. Columbia N.Y. < /ref >  and the definition now must be broader than Winklers' definition. The genome of a haploid chromosome set is merely a ''[[Sample (statistics)|sample]]'' of the total genetic variety of a species. 
+ 
+ The term 'genome' can be applied specifically to mean the complete set of [[nuclear DNA]] (the 'nuclear genome') but can also be used of [[organelle]]s that contain their own DNA, as with the [[mitochondria]]l genome or the [[chloroplast]] genome. 
+ 
+ == Genome sizes == 
+ {| class= " wikitable " 
+ !Organism 
+ !Genome size ([[base pair]]s) 
+ !Note 
+ |- 
+ |[[Virus]], [[Bacteriophage]] MS2 
+ |3569 
+ | First sequenced RNA-genome < ref name=Fiers1976 > {{cite journal |author=Fiers W. |display-authors = etal |title=Complete nucleotide-sequence of bacteriophage MS2-RNA - primary and secondary structure of replicase gene |journal=Nature |volume=260 |pages=500–507 |year=1976|issue = 5551 |doi = 10.1038/260500a0 |pmid = 1264203 |bibcode = 1976Natur.260..500F |s2cid = 4289674 }} < /ref >   
+ |- 
+ |Virus, SV40 
+ |5224 < ref name=Fiers1978 > {{cite journal |author=Fiers W. |display-authors = etal |title=Complete nucleotide sequence of SV40 DNA |journal=Nature |volume=273 |issue=5658 |pages=113–120 |year=1978|doi = 10.1038/273113a0 |pmid = 205802 |bibcode = 1978Natur.273..113F |s2cid = 1634424 }} < /ref > 
+ | 
+ |- 
+ |Virus, Phage Φ-X174 
+ |5386 
+ |First sequenced DNA-genome < ref name=Sanger1977 > {{cite journal |author=Sanger F. |display-authors = etal |title=Nucleotide sequence of bacteriophage phi X174 DNA |journal=Nature |volume=265 |issue=5596 |pages=687–695 |year=1977|doi = 10.1038/265687a0 |pmid = 870828 |bibcode = 1977Natur.265..687S |s2cid = 4206886 }} < /ref > 
+ |- 
+ |Virus, [[lambda phage|Phage λ]] 
+ |5×10 < sup > 4 < /sup > 
+ | 
+ |- 
+ |[[Bacterium]], ''[[Candidatus]]'' [[Carsonella ruddii]] 
+ |1.6×10 < sup > 5 < /sup > 
+ |Smallest non-viral genome, Feb 2007 
+ |- 
+ |Bacterium, ''[[Escherichia coli]]'' 
+ |4×10 < sup > 6 < /sup > 
+ |Best-researched bacterium. < ref > {{cite journal| journal=Science| author=Frederick R. Blattner |display-authors = etal | volume=277| doi=10.1126/science.277.5331.1453 | title=The complete genome sequence of ''Escherichia coli'' K-12 | url=http://www.sciencemag.org/cgi/content/abstract/277/5331/1453|pmid= 9278503| pages=1453–1462 | year=1997| issue=5331 }} < /ref >   
+ |- 
+ |Bacterium, ''[[Solibactoer usitatus]]'' 
+ |1×10 < sup > 7 < /sup > 
+ |Largest known bacterial genome 
+ |- 
+ |[[Protist]],  ''[[Amoeba]] dubia'' 
+ |6.7×10 < sup > 11 < /sup > 
+ |Largest known genome, but disputed. < ref > [http://news.sciencemag.org/sciencenow/2010/10/scienceshot-biggest-genome-ever.html ScienceShot: biggest genome ever] {{Webarchive|url=https://web.archive.org/web/20101011155609/http://news.sciencemag.org/sciencenow/2010/10/scienceshot-biggest-genome-ever.html |date=2010-10-11 }}, comments:  " The measurement for ''Amoeba dubia'' and other protozoa, which were reported to have very large genomes, were made in the 1960s using a rough biochemical approach which is now considered to be an unreliable method for accurate genome size determinations " . < /ref > 
+ |- 
+ |[[Plant]],  ''[[Arabidopsis]] thaliana'' 
+ |1.57×10 < sup > 8 < /sup > 
+ |First plant genome sequenced, Dec 2000. < ref name= " Greilhuber " > Greilhuber J. ''et al.'' 2006. Smallest angiosperm genomes found in Lentibulariaceae, with chromosomes of bacterial size. ''Plant Biology''. '''8''': 770-777. < /ref > 
+ |- 
+ |Plant,  ''Genlisea margaretae'' 
+ |6.34×10 < sup > 7 < /sup > 
+ |Smallest recorded [[flowering plant]] genome, 2006. < ref name= " Greilhuber "  / > 
+ |- 
+ |Plant,  ''[[Fritillaria]] assyrica'' 
+ |1.3×10 < sup > 11 < /sup > 
+ | 
+ |- 
+ |Plant, ''[[Populus trichocarpa]]'' 
+ |4.8×10 < sup > 8 < /sup > 
+ |First tree genome, Sept 2006 
+ |- 
+ |[[Yeast]], ''[[Saccharomyces]] cerevisiae'' 
+ |2×10 < sup > 7 < /sup > 
+ | 
+ |- 
+ |[[Fungus]], ''[[Aspergillus]] nidulans'' 
+ |3×10 < sup > 7 < /sup > 
+ | 
+ |- 
+ |[[Nematoda|Nematode]], ''[[Caenorhabditis elegans]]'' 
+ |9.8×10 < sup > 7 < /sup > 
+ |First multicellular animal genome, December 1998. < ref > {{cite journal | quote=no |author=The ''C. elegans'' sequencing consortium |year=1998 |url=http://www.sciencemag.org/cgi/content/abstract/282/5396/2012?maxtoshow= & HITS=10 & hits=10 & RESULTFORMAT= & searchid=1 & FIRSTINDEX=0 & volume=282 & firstpage=2012 & resourcetype=HWCIT |title=Genome sequence of the nematode ''C. elegans'': a platform for investigating biology |journal=Science |volume=282 |issue=5396 |pages=2012–2018|doi=10.1126/science.282.5396.2012 |pmid=9851916 |bibcode=1998Sci...282.2012. }} < /ref > 
+ |- 
+ |[[Insect]], ''[[Drosophila melanogaster]]'' aka fruit fly 
+ |1.3×10 < sup > 8 < /sup > 
+ | 
+ |- 
+ |Insect, ''[[Bombyx mori]]'' aka silk moth 
+ |5.30×10 < sup > 8 < /sup > 
+ | 
+ |- 
+ |Insect, ''[[Apis mellifera]]'' aka honey bee 
+ |1.77×10 < sup > 9 < /sup > 
+ | 
+ |- 
+ |[[Fish]], ''Tetraodon nigroviridis'', type of Puffer fish 
+ |3.85×10 < sup > 8 < /sup > 
+ |Smallest vertebrate genome known 
+ |- 
+ |[[Mammal]], ''[[Homo sapiens]]'' 
+ |3×10 < sup > 9 < /sup > 
+ | 
+ |- 
+ |Fish, ''Protopterus aethiopicus'' aka marbled lungfish 
+ |1.3×10 < sup > 11 < /sup > 
+ |Largest vertebrate genome known 
+ |} 
+ < !-- This table would be more readable if someone would convert the numbers to use k, M, and G! -- > 
+ ''Note:'' The DNA from a single human cell has a length of ~1.8 m (but at a width of ~2.4 nanometers). 
+ 
+ ==Related pages== 
+ *[[Bioinformatics]] 
+ *[[Gene]] 
+ *[[Sequence analysis]] 
+ *[[Human genome]] 
+ *[[ENCODE]]: the complete analysis of the human genome 
+ 
+ == References == 
+ < !-- ---------------------------------------------------------- 
+   See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for a  
+   discussion of different citation methods and how to generate  
+   footnotes using the  < ref > ,  < /ref >  and   < reference / >  tags 
+ ----------------------------------------------------------- -- > 
+ < div class= " references-small " > 
+ < references / > 
+ * Benfey P. and Protopapas A.D. 2004. ''Essentials of genomics''. Prentice Hall. 
+ * Brown T.A. 2002. ''Genomes 2''. Bios Scientific Publishers. 
+ * Gibson G. and Muse S.V. 2004. ''A primer of genome science''. 2nd ed. Sinauer Assoc. 
+ * Gregory T.R. (ed) 2005. ''The evolution of the genome''. Elsevier. 
+ * Reece R.J. 2004. ''Analysis of genes and genomes''. Wiley. 
+ * Saccone C. and Pesole G. 2003. ''Handbook of comparative genomics''. Wiley.  
+ * Werner E. 2003. In silico multicellular systems biology and minimal genomes. ''Drug Discov Today''. '''8'''(24):1121-7. [https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve & db=pubmed & dopt=Abstract & list_uids=14678738 & query_hl=3 PubMed] 
+ * Witzany G. 2007. Natural genome editing competences of viruses. ''Acta Biotheoretica''. [https://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed & Cmd=ShowDetailView & TermToSearch=17347785 & ordinalpos=1 & itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum] 
+ < /div > 
+ 
+ == Other websites == 
+ * [http://www.dnai.org/ DNA Interactive: the history of DNA science] 
+ * [http://www.dnaftb.org/ DNA from the beginning] 
+ * [http://www.genome.gov/10001772 All about the human genome project from Genome.gov] 
+ * [http://www.genomesize.com/ Animal genome size database] 
+ * [http://www.rbgkew.org.uk/cval/homepage.html Plant genome size database] {{Webarchive|url=https://web.archive.org/web/20050901105257/http://www.rbgkew.org.uk/cval/homepage.html |date=2005-09-01 }} 
+ * [http://www.genomesonline.org/ GOLD:Genomes OnLine Database] 
+ * [http://www.genomenewsnetwork.org/ The Genome News Network] 
+ * [https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=genomeprj NCBI Entrez Genome Project database] 
+ * [https://www.ncbi.nlm.nih.gov/About/primer/genetics_genome.html NCBI Genome Primer] 
+ * [http://news.bbc.co.uk/1/hi/sci/tech/4994088.stm BBC News - Final genome 'chapter' published] 
+ * [http://www.skyjuicesoftware.com/3models/?wiki Software that maps an Artificial Genome sequence to a Network and to a Lineage tree] 
+ * [http://img.jgi.doe.gov/ IMG] The integrated microbial genomes system, for genome analysis by the DOE-JGI. 
+ 
+ [[Category:Genetics]]

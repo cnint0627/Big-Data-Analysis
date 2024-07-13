@@ -1,0 +1,23 @@
+'''IZArc''' is a [[file archiver]] for [[Microsoft Windows]] developed by [[Bulgaria]]n programmer [[Ivan Zahariev]]. The program is [[freeware]], but not [[open source]]. IZarc can open  the most commonly used [[List of archive formats|archive formats]], like [[ZIP (file format)|zip]], [[RAR|rar]], [[gzip]], [[tar.gz]], [[bzip2]], and [[7z]], and others many less common formats (48 in total). IZarc has an integration in [[Windows Explorer]]  and has an [[Antivirus software|Virus Scan]] feature. IZarc can also do [[Compact disc|CD]] image conversions. 
+ 
+ ==Formats== 
+ IZArc (as of [[version]] 3.81) can support and open the following file formats: [[7z]], A, [[ACE (file format)|ACE]], [[ARC (file format)|ARC]], [[ARJ]], B64, BH, 
+ BIN, [[Bzip2|BZ2]], BZA, C2D, [[Cabinet (file format)|CAB]], CDI, [[cpio|CPIO]], [[deb (file format)|DEB]], ENC, [[GCA (file format)|GCA]], [[gzip|GZ]], GZA, HA, IMG, ISO, IZE, JAR, [[LHA (file format)|LHA]], LIB, LZH, MBF, MDF, 
+ MIM, NRG, PAK, PDI, PK3, [[RAR (file format)|RAR]], [[RPM Package Manager|RPM]], [[tar (file format)|TAR]], TAZ, TBZ, TGZ, TZ, UUE, WAR, XXE, YZ1, Z, [[ZIP (file format)|ZIP]], [[Zoo (file format)|ZOO]]. 
+ 
+ ==Problems== 
+ IZArc does not support ISO editing and does not support [[Unicode]].  
+ 
+ ==Portable version== 
+ IZArc is also available as a [[portable application]] called IZArc2Go. It includes all features and functions of the permanently installed version, except explorer  " shell-menu "   and the ability to associate file types with it. 
+ 
+ ==Awards== 
+ It has been awarded by several well-known download sites, such as [[FileTransit]], [[SnapFiles]], [[SoftNews]], [[Softpedia]], [[WebAttack]], because is a software [[user friendly]] and can open many formats. 
+ 
+ ==Related pages== 
+ *[[Comparison of file archivers]] 
+ 
+ ==Other websites== 
+ *[http://www.izarc.org/ IZSoftware] 
+ 
+ [[Category:Software]]

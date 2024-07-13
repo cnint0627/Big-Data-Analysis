@@ -1,0 +1,139 @@
+{{Infobox Italian comune 
+ | name                = Rieti 
+ | official_name       = Comune di Rieti 
+ | native_name         =  
+ | image_skyline       = Rieti da Colle San Mauro - Centro storico, 2 (mid).JPG 
+ | imagesize           =  
+ | image_alt           = The city centre of Rieti as seen from San Mauro hill 
+ | image_caption       = The city centre of Rieti as seen from San Mauro hill. In the background, the Rieti valley enclosed by the Sabine mountains; in the foreground, the [[Velino]] river. 
+ | image_flag          = Bandiera di Rieti - amaranto e celeste.png 
+ | flag_alt            =  
+ | image_shield        = Rieti-Stemma.svg 
+ | shield_alt          =  
+ | image_map           = Map of comune of Rieti (province of Rieti, region Lazio, Italy).svg 
+ | map_alt             = Rieti in the province 
+ | map_caption         = The ''comune'' Rieti, in red, in its province 
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates = {{coord|42|24||N|12|52||E||display=title}} 
+ | coordinates_footnotes =  
+ | region              = [[Lazio]] 
+ | province            = [[Province of Rieti|Rieti]] (RI) 
+ | frazioni            = see [[#Frazioni|list]] 
+ | mayor_party         =  
+ | mayor               = Antonio Cicchetti < ref > {{cite web|url=http://www.comune.rieti.it/sindaco |title=Il Sindaco |publisher=Città di Rieti |language=it |access-date=11 August 2017}} < /ref >    
+ | area_footnotes      =  < ref name= " area " > {{cite web|url=http://www.tuttitalia.it/lazio/93-rieti/ |title=Comune di Rieti (RI) |publisher=Tuttitalia.it |language=it |access-date=11 August 2017}} < /ref > 
+ | area_total_km2      = 206.46 
+ | population_footnotes =  < ref name= " pop " > {{cite web |url=http://demo.istat.it/pop2017/index.html |title=Statistiche demografiche ISTAT |publisher=Demo.istat.it |language=it |access-date=11 August 2017 |archive-date=3 January 2018 |archive-url=https://web.archive.org/web/20180103163404/http://demo.istat.it/pop2017/index.html |url-status=dead }} < /ref > 
+ | population_total    = 47552 
+ | population_as_of    = 1 January 2017 
+ | pop_density_footnotes =  
+ | population_demonym  = Reatini 
+ | elevation_footnotes =  < ref name= " area "  / > 
+ | elevation_m         = 405 
+ | elevation_min_m     = 319 
+ | elevation_max_m     = 2088 
+ | twin1               =  
+ | twin1_country       =  
+ | saint               = [[Saint Barbara]] 
+ | day                 = 4 December 
+ | postal_code         = 057059 
+ | area_code           = 02100 
+ | website             = {{official website|http://www.comune.rieti.it/}} 
+ | footnotes           =  
+ }} 
+ '''Rieti''' is a ''[[comune]]'' and city in the [[Lazio]] [[Regions of Italy|region]], in [[central Italy]]. Rieti is the [[Capital city|capital]] of the [[province of Rieti]] and of the [[History|historical]] region of [[Sabina (region)|Sabina]]. 
+ 
+ ==Geography== 
+ The town centre is on top of a small [[hill]], in the southern edge of the [[plain]] of Rieti, at the bottom of ''Sabine'' [[mountain]]s and of ''monti Reatini''. The plain was once a large [[lake]], drained by the [[Ancient Rome|ancient Romans]], and is now the [[fertile]] [[Drainage basin|basin]] of the [[Velino]] river. 
+ 
+ The ''comune'' of has an area of {{Convert|206.46|km2|sqmi|abbr=on }}, the largest ''comune'' in the province, and its [[altitude]] is {{Convert|405|m|ft|abbr=on}} [[above sea level]]. < ref name= " area "  / > 
+ 
+ Rieti borders with the  ''[[Comune|comuni]]'' [[Belmonte in Sabina]], [[Cantalice]], [[Casperia]], [[Cittaducale]], [[Colli sul Velino]], [[Concerviano]], [[Contigliano]], [[Greccio]], [[Longone Sabino]], [[Micigliano]], [[Monte San Giovanni in Sabina]], [[Montenero Sabino]], [[Poggio Bustone]], [[Rivodutri]], [[Roccantica]], [[Torricella in Sabina]] and two ''comuni'' of the province [[Terni]] in the [[Umbria]] regionː [[Stroncone]] and [[Terni]]. < ref > {{cite web|url=http://www.tuttitalia.it/lazio/93-rieti/31-comuni-limitrofi/ |title=Comuni limitrofi a Rieti |publisher=Tuttitalia.it |language=it |access-date=11 August 2017}} < /ref > 
+ 
+ ===''Frazioni''=== 
+ The following ''[[Frazione|frazioni]]'' ([[Hamlet (place)|hamlet]]s) are part of Rietiː Castel San Benedetto, Case San Benedetto, Casette, Castelfranco, Cerchiara, Chiesa nuova, Cupaello, Lisciano, Lugnano, Maglianello, Moggio, Piè di Moggio, Poggio Fidoni, Piani Poggio Fidoni, Poggio Perugino, San Filippo, Piani San Filippo, San Giovanni Reatino, Sant'Elia, Piani Sant'Elia, Setteponti, Vaiano, Vazia. 
+ 
+ ==Population== 
+ {{As of|2017|1|1}}, there are 47,552 persons (22,679 [[male]]s and 24,873 [[female]]s) living in the ''comune'', < ref name=pop / >  for a [[population density]] of {{Pop density|47552|206.46|km2|prec=1|disp=num}} inhabitants/km². 
+ 
+ === Population evolution === 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:450 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:50000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1961 text:1961 
+  bar:1971 text:1971 
+  bar:1981 text:1981 
+  bar:1991 text:1991 
+  bar:2001 text:2001 
+  bar:2011 text:2011 
+  bar:2017 text:2017 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1961 from:0 till: 35441 
+  bar:1971 from:0 till: 39179 
+  bar:1981 from:0 till: 43079 
+  bar:1991 from:0 till: 43095 
+  bar:2001 from:0 till: 43785 
+  bar:2011 from:0 till: 46187 
+  bar:2017 from:0 till: 47552 
+ 
+ PlotData= 
+  bar:1961 at: 35441 fontsize:S text: 35,441 shift:(-12,5) 
+  bar:1971 at: 39179 fontsize:S text: 39,179 shift:(-15,5) 
+  bar:1981 at: 43079 fontsize:S text: 43,079 shift:(-15,5) 
+  bar:1991 at: 43095 fontsize:S text: 43,095 shift:(-15,5) 
+  bar:2001 at: 43785 fontsize:S text: 43,785 shift:(-15,5) 
+  bar:2011 at: 46187 fontsize:S text: 46,187 shift:(-15,5) 
+  bar:2017 at: 47552 fontsize:S text: 47,552 shift:(-15,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Gallery== 
+ < gallery widths= " 180px " > 
+ File:Rieti (9496040245).jpg|The [[Velino]] river through Rieti. 
+ File:Rieti - fiume Velino, chiesa di San Francesco, Terminillo.jpg|View of Rieti: Velino river, St. Francis church, Mount Terminillo. 
+ File:Ponte Romano di Rieti - primo piano - 3.jpg|Remains of the Roman bridge (3rd century BC). 
+ File:Palazzo Comunale, Rieti - facciata, 1.JPG|''Palazzo Comunale'' ([[City and town halls|town hall]] of Rieti). 
+ File:Chiesa di Sant'Agostino, Rieti - esterno 04.jpg|St. Augustine [[church]]. 
+ < /gallery > 
+ 
+ ==Twinned and partner towns== 
+ Rieti is [[Twin town|twinned]] with: 
+ *{{flagicon|Japan}} [[Itō, Shizuoka|Ito]], [[Japan]], since 1985; 
+ *{{flagicon|France}} [[Saint-Pierre-lès-Elbeuf]], [[Seine-Maritime]], [[Normandy]], [[France]], since 2000; 
+ *{{flagicon|Lower Saxony}} [[Nordhorn]], [[Lower Saxony]], [[Germany]], since 2010. 
+ 
+ ==Related pages== 
+ * [[List of comuni of the Province of Rieti]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat}} 
+ * [http://www.comune.rieti.it/ Rieti official website] {{in lang|it}} 
+ 
+ {{Province of Rieti}} 
+ 
+ [[Category:Capital cities in Italy]] 
+ [[Category:Cities in Lazio]] 
+ [[Category:Province of Rieti]]

@@ -1,0 +1,167 @@
+A '''repunit''' is a [[number]] like 11, 111, or 1111. It only has the [[digit]] 1 in it. It is a more specific type of [[repdigit]]. The term stands for '''rep'''eated '''unit''' and was coined in 1966 by Albert H. Beiler in his book ''Recreations in the Theory of Numbers''.{{refn|group=note|Albert H. Beiler coined the term “repunit number” as follows: < blockquote > A number which consists of a repeated of a single digit is sometimes called a monodigit number, and for convenience the author has used the term “repunit number” (repeated unit) to represent monodigit numbers consisting solely of the digit 1. < ref > {{Harvnb|Beiler|2013|pp=83}} < /ref > < /blockquote > }} < !--- Original publication was 1964; did he coin repunit in that edition? or was this added in 1966? --- > 
+ 
+ A '''repunit prime''' is a repunit that is also a [[prime number]]. Primes that are repunits in [[Binary number|base-2]] are [[Mersenne prime|Mersenne primes]]. 
+ 
+ == Definition == 
+ 
+ The base-''b'' repunits can be written as this where ''b'' is the [[Base (mathematics)|base]] and ''n'' is the number that you are checking in whether or not it is a repunit: 
+ 
+ :  < math > R_n^{(b)}\equiv 1 + b + b^2 + \cdots + b^{n-1} = {b^n-1\over{b-1}}\qquad\mbox{for }|b|\ge2, n\ge1. < /math > 
+ 
+ This means that the number ''R'' < sub > ''n'' < /sub > < sup > (''b'') < /sup >  is made of of of ''n'' copies of the digit 1 in base-''b'' representation. The first two repunits base-''b'' for ''n'' & #x2009;= & #x2009;1 and ''n'' & #x2009;= & #x2009;2 are  
+ 
+ :  < math > R_1^{(b)}={b-1\over{b-1}}= 1 \qquad \text{and} \qquad R_2^{(b)}={b^2-1\over{b-1}}= b+1\qquad\text{for}\ |b|\ge2. < /math > 
+ 
+ The first of repunits in base-10 are with 
+ 
+ : [[1 (number)|1]], [[11 (number)|11]], [[111 (number)|111]], 1111, 11111, 111111, ... {{OEIS|A002275}}. 
+ 
+ Base-2 repunits are also [[Mersenne prime|Mersenne numbers]] ''M'' < sub > ''n'' < /sub > & nbsp;= & nbsp;2 < sup > ''n'' < /sup > & nbsp; & #x2212; & nbsp;1. They start with 
+ 
+ : 1, 3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047, 4095, 8191, 16383, 32767, 65535, ... {{OEIS|id=A000225}}. 
+ 
+ == Factorization of decimal repunits == 
+ 
+ Prime factors that are {{color|red|red}} are  " new factors "  that haven't been mentioned before. Basically, the prime factor divides ''R'' < sub > ''n'' < /sub >  but does not divide ''R'' < sub > ''k'' < /sub >  for all ''k''  <  ''n.'' {{OEIS|id=A102380}} < ref > For more information, see [http://stdkmd.net/nrr/repunit/ Factorization of repunit numbers]. < /ref > 
+ 
+ {| 
+ | 
+ {| 
+ |''R'' < sub > 1 < /sub >  = 
+ |1 
+ |- 
+ |''R'' < sub > 2 < /sub >  = 
+ |{{color|red|11}} 
+ |- 
+ |''R'' < sub > 3 < /sub >  = 
+ |{{color|red|3}} · {{color|red|37}} 
+ |- 
+ |''R'' < sub > 4 < /sub >  = 
+ |11 · {{color|red|101}} 
+ |- 
+ |''R'' < sub > 5 < /sub >  = 
+ |{{color|red|41}} · {{color|red|271}} 
+ |- 
+ |''R'' < sub > 6 < /sub >  = 
+ |3 · {{color|red|7}} · 11 · {{color|red|13}} · 37 
+ |- 
+ |''R'' < sub > 7 < /sub >  = 
+ |{{color|red|239}} · {{color|red|4649}} 
+ |- 
+ |''R'' < sub > 8 < /sub >  = 
+ |11 · {{color|red|73}} · 101 · {{color|red|137}} 
+ |- 
+ |''R'' < sub > 9 < /sub >  = 
+ |3 < sup > 2 < /sup >  · 37 · {{color|red|333667}} 
+ |- 
+ |''R'' < sub > 10 < /sub >  = 
+ |11 · 41 · 271 · {{color|red|9091}} 
+ |} 
+ | 
+ {| 
+ |''R'' < sub > 11 < /sub >  = 
+ |{{color|red|21649}} · {{color|red|513239}} 
+ |- 
+ |''R'' < sub > 12 < /sub >  = 
+ |3 · 7 · 11 · 13 · 37 · 101 · {{color|red|9901}} 
+ |- 
+ |''R'' < sub > 13 < /sub >  = 
+ |{{color|red|53}} · {{color|red|79}} · {{color|red|265371653}} 
+ |- 
+ |''R'' < sub > 14 < /sub >  = 
+ |11 · 239 · 4649 · {{color|red|909091}} 
+ |- 
+ |''R'' < sub > 15 < /sub >  = 
+ |3 · {{color|red|31}} · 37 · 41 · 271 · {{color|red|2906161}} 
+ |- 
+ |''R'' < sub > 16 < /sub >  = 
+ |11 · {{color|red|17}} · 73 · 101 · 137 · {{color|red|5882353}} 
+ |- 
+ |''R'' < sub > 17 < /sub >  = 
+ |{{color|red|2071723}} · {{color|red|5363222357}} 
+ |- 
+ |''R'' < sub > 18 < /sub >  = 
+ |3 < sup > 2 < /sup >  · 7 · 11 · 13 · {{color|red|19}} · 37 · {{color|red|52579}} · 333667 
+ |- 
+ |''R'' < sub > 19 < /sub >  = 
+ |{{color|red|{{loop|19|1}}}} 
+ |- 
+ |''R'' < sub > 20 < /sub >  = 
+ |11 · 41 · 101 · 271 · {{color|red|3541}} · 9091 · {{color|red|27961}} 
+ |} 
+ | 
+ {| 
+ |''R'' < sub > 21 < /sub >  = 
+ |3 · 37 · {{color|red|43}} · 239 · {{color|red|1933}} · 4649 · {{color|red|10838689}} 
+ |- 
+ |''R'' < sub > 22 < /sub >  = 
+ |11 < sup > 2 < /sup >  · {{color|red|23}} · {{color|red|4093}} · {{color|red|8779}} · 21649 · 513239 
+ |- 
+ |''R'' < sub > 23 < /sub >  = 
+ |{{color|red|{{loop|23|1}}}} 
+ |- 
+ |''R'' < sub > 24 < /sub >  = 
+ |3 · 7 · 11 · 13 · 37 · 73 · 101 · 137 · 9901 · {{color|red|99990001}} 
+ |- 
+ |''R'' < sub > 25 < /sub >  = 
+ |41 · 271 · {{color|red|21401}} · {{color|red|25601}} · {{color|red|182521213001}} 
+ |- 
+ |''R'' < sub > 26 < /sub >  = 
+ |11 · 53 · 79 · {{color|red|859}} · 265371653 · {{color|red|1058313049}} 
+ |- 
+ |''R'' < sub > 27 < /sub >  = 
+ |3 < sup > 3 < /sup >  · 37 · {{color|red|757}} · 333667 · {{color|red|440334654777631}} 
+ |- 
+ |''R'' < sub > 28 < /sub >  = 
+ |11 · {{color|red|29}} · 101 · 239 · {{color|red|281}} · 4649 · 909091 · {{color|red|121499449}} 
+ |- 
+ |''R'' < sub > 29 < /sub >  = 
+ |{{color|red|3191}} · {{color|red|16763}} · {{color|red|43037}} · {{color|red|62003}} · {{color|red|77843839397}} 
+ |- 
+ |''R'' < sub > 30 < /sub >  = 
+ |3 · 7 · 11 · 13 · 31 · 37 · 41 · {{color|red|211}} · {{color|red|241}} · 271 · {{color|red|2161}} · 9091 · 2906161 
+ |} 
+ |} 
+ 
+ The smallest [[Prime factorization|prime factors]] of ''R'' < sub > ''n'' < /sub >  for ''n''  >  1 are 
+ 
+ : 11, 3, 11, 41, 3, 239, 11, 3, 11, 21649, 3, 53, 11, 3, 11, 2071723, 3, 1111111111111111111, 11, 3, 11, 11111111111111111111111, 3, 41, 11, 3, 11, 3191, 3, 2791, 11, 3, 11, 41, 3, 2028119, 11, 3, 11, 83, 3, 173, 11, 3, 11, 35121409, 3, 239, 11, ... {{OEIS|id=A067063}} 
+ 
+ == Related pages == 
+ * [[Repeating decimal]] 
+ * [[Repdigit]] 
+ 
+ == Footnotes == 
+ 
+ === Notes === 
+ {{reflist|group=note}} 
+ 
+ === References === 
+ {{reflist|30em}} 
+ 
+ == Further reading == 
+ 
+ * {{Citation|last=Beiler|first=Albert H.|title=Recreations in the Theory of Numbers: The Queen of Mathematics Entertains|date=2013|url={{Google books|NbbbL9gMJ88C|Recreations in the theory of numbers|plainurl=yes}}|series=Dover Recreational Math|edition=2nd Revised|location=New York|publisher=Dover Publications|isbn=978-0-486-21096-4|author-link=Albert Beiler|orig-year=1964}} 
+ * {{Citation|last1=Dickson|first1=Leonard Eugene|title=History of the Theory of Numbers|url={{Google books|XnwsAQAAIAAJ|History of the Theory of Numbers|plainurl=yes}}|year=1999|series=Volume I: Divisibility and primality|edition=2nd Reprinted|location=Providence, RI|publisher=AMS Chelsea Publishing|isbn=978-0-8218-1934-0|last2=Cresse|first2=G.H.|author-link=Leonard Eugene Dickson|author2-link=G. H. Cresse}} 
+ * {{Citation|last=Francis|first=Richard L.|title=Mathematical Haystacks: Another Look at Repunit Numbers|journal=The College Mathematics Journal|volume=19|issue=3|pages=240–246|year=1988|doi=10.1080/07468342.1988.11973120|author-link=Richard L. Francis}} 
+ * {{Citation|last1=Gunjikar|first1=K. R.|title=Theory of Demlo numbers|url=http://OEIS.org/A249605/a249605.pdf|journal=Journal of the University of Bombay|volume=VIII|issue=3|pages=3–9|year=1939|last2=Kaprekar|first2=D. R.|author-link=K. R. Gunjikar|author-link2=D. R. Kaprekar}} 
+ * {{Citation|last=Kaprekar|first=D. R.|title=On Wonderful Demlo numbers|url=http://www.indianmathsociety.org.in/|journal=The Mathematics Student|volume=6|page=68|year=1938a|author-link=D. R. Kaprekar|access-date=2022-03-08|archive-date=2009-02-10|archive-url=https://web.archive.org/web/20090210075900/http://indianmathsociety.org.in/|url-status=dead}} 
+ * {{Citation|last=Kaprekar|first=D. R.|title=Demlo numbers|journal=J. Phys. Sci. Univ. Bombay|volume=VII|issue=3|year=1938b|author-link=D. R. Kaprekar}} 
+ * {{Citation|last=Kaprekar|first=D. R.|title=Demlo numbers|year=1948|place=Devlali, India|publisher=Khareswada|author-link=D. R. Kaprekar}} 
+ * {{Citation|last=Ribenboim|first=Paulo|title=The New Book of Prime Number Records|date=1996-02-02|url={{Google books|2VTSBwAAQBAJ|The New Book of Prime Number Records|plainurl=yes}}|series=Computers and Medicine|edition=3rd|location=New York|publisher=Springer|isbn=978-0-387-94457-9|author-link=Paulo Ribenboim}} 
+ * {{Citation|last=Yates|first=Samuel|title=Repunits and repetends|url={{Google books|3_vuAAAAMAAJ|Repunits and repetends|plainurl=yes}}|year=1982|location=FL|publisher=Delray Beach|isbn=978-0-9608652-0-8|author-link=Samuel Yates}} 
+ 
+ == Other websites == 
+ * {{mathworld|urlname=Repunit|title=Repunit}} 
+ * [http://www.cerias.purdue.edu/homes/ssw/cun/third/pmain901 The main tables] of the [http://www.cerias.purdue.edu/homes/ssw/cun/ Cunningham project]. 
+ * [http://primes.utm.edu/glossary/page.php?sort=Repunit Repunit] at [[Prime Pages|The Prime Pages]] by Chris Caldwell. 
+ * [http://www.worldofnumbers.com/repunits.htm Repunits and their prime factors] at [http://www.worldofnumbers.com World!Of Numbers]. 
+ * [https://web.archive.org/web/20131019185910/http://www.primes.viner-steward.org/andy/titans.html Prime generalized repunits] of at least 1000 decimal digits by Andy Steward 
+ * [http://www.elektrosoft.it/matematica/repunit/repunit.htm Repunit Primes Project] Giovanni Di Maria's repunit primes page. 
+ * [https://docs.google.com/document/d/e/2PACX-1vRha5-vd9Covl4k6I02lOEdWdhsXnBCeFT3FHyhMYTO1i7jtZdTV3wQw2yXgTNja5k_-XINgqL9VNmo/pub Smallest odd prime p such that (b^p-1)/(b-1) and (b^p+1)/(b+1) is prime for bases 2 < =b < =1024] 
+ * [http://stdkmd.net/nrr/repunit/ Factorization of repunit numbers] 
+ * [http://www.primenumbers.net/Henri/us/MersFermus.htm Generalized repunit primes in base -50 to 50] 
+ 
+ {{Classes of natural numbers}} 
+ 
+ [[Category:Integer sequences]]

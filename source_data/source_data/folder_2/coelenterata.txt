@@ -1,0 +1,24 @@
+'''Coelenterata''' was the name for an [[animal]] [[phylum]]. It is not used now. It was broken down into two separate phyla: the [[Cnidaria]] (jellyfish) and the [[Ctenophora]] (comb jellies). This change was made on the evidence of [[molecular evolution]]. This makes use of [[protein]] [[amino acid]] sequences, and whole [[genome]] [[DNA]] analysis. < ref name= " Arthur " > Arthur, Wallace 1997. ''The origin of animal body plans: a study in evolutionary developmental biology''. Cambridge. < /ref > < ref name= " Nielsen " > Nielsen, Claus 2001. ''Animal evolution: interrelationships of the living phyla''. 2nd ed, Oxford. < /ref > 
+ 
+ 
+ {{Clade 
+ |label1=[[Eumetazoa]] 
+ |1={{Clade 
+    |1=[[Placozoa]][[File:Trichoplax_adhaerens_photograph.png|60 px]] 
+    |label2=[[ParaHoxozoa]] 
+    |2={{Clade 
+       |label1='''Coelenterata''' 
+       |1={{Clade 
+          |1=[[Ctenophora]][[File:Comb_jellies-mba.jpg|60 px]] 
+          |2=[[Cnidaria]][[File:Jellyfish_4_-_Flickr_-_TenSafeFrogs.jpg|60 px]] 
+       }} 
+       |2=[[Bilateria]][[File:Мышь_2.jpg|60 px]] 
+    }} 
+ }} 
+ }} 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ 
+ [[Category:Invertebrates]]

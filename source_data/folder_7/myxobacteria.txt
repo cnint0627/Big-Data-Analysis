@@ -1,0 +1,52 @@
+{{Distinguish|slime mould}} 
+ {{Taxobox 
+ | name = Myxobacteria 
+ | image = Myxococcus xanthus.png 
+ | image_caption = ''[[Myxococcus xanthus]]'' 
+ | regnum = [[Bacteria]] 
+ | phylum = [[Proteobacteria]] 
+ | classis = [[Deltaproteobacteria]] 
+ | ordo = '''Myxococcales''' 
+ | subdivision_ranks = Families  &  Genera 
+ Cystobacteraceae < br > 
+ & nbsp; & nbsp; & nbsp;''[[Angiococcus]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Archangium]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Cystobacter]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Melittangium]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Stigmatella (bacterium)|Stigmatella]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Hyalangium]]'' < br > 
+ Myxoccaceae < br > 
+ & nbsp; & nbsp; & nbsp;''[[Myxococcus]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Corallococcus]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Pyxidicoccus]]'' < br > 
+ Polyangiaceae < br > 
+ & nbsp; & nbsp; & nbsp;''[[Byssovorax]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Chondromyces]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Polyangium]]'' 
+ & nbsp; & nbsp; & nbsp;''[[Sorangium]]'' 
+ & nbsp; & nbsp; & nbsp;''[[Jahnella]]'' < br > 
+ Nannocystaceae 
+ & nbsp; & nbsp; & nbsp;''[[Nannocystis]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Plesiocystis]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Enhygromyxa]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Pseudenhygromyxa]]'' < br > 
+ Kofleriaceae 
+ & nbsp; & nbsp; & nbsp;''[[Kofleria]]'' < br > 
+ & nbsp; & nbsp; & nbsp;''[[Haliangium]]''}} 
+ 
+ The '''myxobacteria''' ( " '''slime bacteria''' " ) are a group of [[bacteria]] that usuallly live in the [[soil]]. They feed on insoluble organic substances. They have very large [[genome]]s compared to other bacteria. < ref > ''[[Sorangium cellulosum]]'' has the largest bacterial genome at 13.0 million nucleotides. {{cite journal | author=Schneiker S |display-authors = etal | title=Complete genome sequence of the myxobacterium ''Sorangium cellulosum'' | url=https://archive.org/details/sim_nature-biotechnology_2007-11_25_11/page/1281 | journal=Nature Biotechnology | year=2007 | pages=1281–1289 | volume=25 | issue=11  | doi=10.1038/nbt1354 | pmid=17965706|s2cid = 15425510 }} < /ref >  Myxobacteria are included in the [[deltaproteobacteria|delta group]] of [[proteobacteria]], a large group of [[Gram-negative]] forms. 
+ 
+ Myxobacteria move by [[gliding]] on the surface. They travel in ''[[swarm]]s'' with many [[Cell (biology)|cell]]s kept together by intercellular molecular [[Signal transduction|signals]]. The swarm puts out extracellular [[enzyme]]s to digest food. This increases feeding efficiency.  
+ 
+ == Life cycle == 
+ When [[nutrients]] are scarce, myxobacterial cells aggregate into ''fruiting bodies''. < ref name=Kiskowski_2004 > {{cite journal | author=Kiskowski MA, Jiang Y, Alber MS | title=Role of streams in myxobacteria aggregate formation | journal=Phys Biol | year=2004 | pages=173–83 | volume=1 | issue=3–4 | pmid=16204837  | doi=10.1088/1478-3967/1/3/005| bibcode=2004PhBio...1..173K | s2cid=18846289 }} < /ref > < ref name=Sozinova_2005 > {{cite journal | author=Sozinova O. |display-authors = etal | title=A three-dimensional model of myxobacterial aggregation by contact-mediated interactions | journal=Proc Natl Acad Sci USA | year=2005 | pages=11308–12 | volume=102 | issue=32 | pmid=16061806 | doi=10.1073/pnas.0504259102 | pmc=1183571|bibcode = 2005PNAS..10211308S |doi-access = free }} < /ref >  These fruiting bodies are different shapes and colours, depending on the species.  
+ 
+ Inside the fruiting bodies, cells develop into rounded myxo[[spores]] with thick cell walls. These myxospores, like [[spore]]s in other organisms, survive until nutrients are more plentiful. Then [[cell growth]] is restarted with a group (swarm) of myxobacteria, not just isolated cells.  Similar life cycles have developed among the [[amoebae]] called cellular [[slime mould]]s. 
+ 
+ == Uses == 
+ Myxobacteria produce a number of biomedically and industrially useful chemicals, such as [[antibiotic]]s, and export those chemicals outside of the cell. < ref name=Reichenbach_2001 > {{cite journal | author=Reichenbach H | title=Myxobacteria, producers of novel bioactive substances | journal=J Ind Microbiol Biotechnol | year=2001 | pages=149–56 | volume=27 | issue=3 | pmid=11780785 | doi=10.1038/sj.jim.7000025 | s2cid=34964313 }} < /ref >  Some myxobacteria are used as [[model organism]]s for the study of development. At a molecular level, initiation of fruiting body development is regulated by [[Pxr sRNA]]. < ref name = " Yu10 " > {{cite journal |author=Yu Y.T; Yuan X.  &  Velicer G.J. |title=Adaptive evolution of an sRNA that controls Myxococcus development |journal=Science |volume=328 |issue=5981 |pages=993 |date=2010 |pmid=20489016 |doi=10.1126/science.1187200 |pmc=3027070|bibcode=2010Sci...328..993Y }} < /ref > < ref name= " Fie06 " > {{cite journal |author=Fiegna F. |display-authors = etal |title=Evolution of an obligate social cheater to a superior cooperator |journal=Nature |volume=441 |issue=7091 |pages=310–4 |date=2006 |pmid=16710413 |doi=10.1038/nature04677|bibcode = 2006Natur.441..310F |s2cid = 4371886 }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Gram-negative bacteria]]

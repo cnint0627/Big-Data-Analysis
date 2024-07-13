@@ -1,0 +1,139 @@
+{{Infobox river 
+   | name              = Nive 
+   | image             = Bayonne Reflets dans la Nive.JPG 
+   | image_caption     = Nive in [[Bayonne]] 
+   | map               = Nive (rivière).png 
+   | source1_location  = [[Pyrenees]] 
+   | source1_coordinates= {{coord|43|03|38|N|1|11|49|W|region:FR}} 
+   | mouth_location    = [[Adour]] 
+   | mouth_coordinates = {{coord|43|29|38|N|1|28|27|W|format=dms|display=inline,title}} 
+   | progression       = {{RAdour}} 
+   | subdivision_type1 = Country 
+   | subdivision_name1 = [[France]] 
+   | length            = {{convert|79|km|mi|abbr=on}} 
+   | source1_elevation = 
+   | mouth_elevation   = 
+   | discharge1_avg    = 
+   | basin_size        = {{convert|1030|km2|sqmi|abbr=on}}  
+ }} 
+ The '''Nive''' ({{lang-eu|Errobi}}, {{lang-oc|Niva}}) is a [[river]] in [[France]]. It flows through the [[Pyrénées-Atlantiques]] department, [[Nouvelle-Aquitaine]] [[Regions of France|region]]. The river starts in the [[Pyrenees]]. It is a left [[tributary]] of the [[Adour]] river. 
+ 
+ ==Geography== 
+ The Nive river has a length of {{Convert|79.3|km|mi|1|abbr=off}}, < ref name= " sandre " > {{cite web |url=http://sandre.eaufrance.fr/app/chainage/courdo/htm/Q9--0250.php?cg=Q9--0250 |title=La Nive (Q9--0250) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=French |accessdate=31 March 2014 |date= }} < /ref >  and a [[drainage basin]] with an area of approximately {{Convert|1030|km2|sqmi|0|abbr=off}}. 
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|30.00|m3/s|cuft/s|abbr=off}} at [[Cambo-les-Bains]] in the [[Pyrénées-Atlantiques]] department. < ref name= " hydro " > {{cite web |url=http://www.hydro.eaufrance.fr/stations/Q9312510 & procedure=synthese |title=La Nive à Cambo-les-Bains |publisher=Banque Hydro |language=French |accessdate=8 June 2017 |date= |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303202319/http://www.hydro.eaufrance.fr/stations/Q9312510%26procedure%3Dsynthese |url-status=dead }} < /ref > 
+ 
+ < center > 
+ {| 
+ |- 
+ | 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:50 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 46.30 
+  bar:Feb from:0 till: 47.40 
+  bar:Mar from:0 till: 41.10 
+  bar:Apr from:0 till: 42.90 
+  bar:May from:0 till: 32.00 
+  bar:Jun from:0 till: 21.30 
+  bar:Jul from:0 till: 14.60 
+  bar:Aug from:0 till: 11.50 
+  bar:Sep from:0 till: 12.40 
+  bar:Oct from:0 till: 18.00 
+  bar:Nov from:0 till: 32.00 
+  bar:Dec from:0 till: 42.00 
+ 
+ PlotData= 
+  bar:Jan at: 46.30 fontsize:S text: 46.30 shift:(-8,5) 
+  bar:Feb at: 47.40 fontsize:S text: 47.40 shift:(-12,5) 
+  bar:Mar at: 41.10 fontsize:S text: 41.10 shift:(-12,5) 
+  bar:Apr at: 42.90 fontsize:S text: 42.90 shift:(-12,5) 
+  bar:May at: 32.00 fontsize:S text: 32.00 shift:(-12,5) 
+  bar:Jun at: 21.30 fontsize:S text: 21.30 shift:(-12,5) 
+  bar:Jul at: 14.60 fontsize:S text: 14.60 shift:(-12,5) 
+  bar:Aug at: 11.50 fontsize:S text: 11.50 shift:(-12,5) 
+  bar:Sep at: 12.40 fontsize:S text: 12.40 shift:(-12,5) 
+  bar:Oct at: 18.00 fontsize:S text: 18.00 shift:(-12,5) 
+  bar:Nov at: 32.00 fontsize:S text: 32.00 shift:(-12,5) 
+  bar:Dec at: 42.00 fontsize:S text: 42.00 shift:(-12,5) 
+ < /timeline > 
+ |- 
+ |'''Average monthly discharge (m < sup > 3 < /sup > /s) at [[Cambo-les-Bains]] (1967 - 2017)''' < ref name= " hydro "  / > 
+ |} 
+ < /center > 
+ 
+ ===Course=== 
+ The Nive proper is formed from three small rivers in [[Saint-Jean-Pied-de-Port]]: 
+ * The Nive de Béhérobie (main stream) 
+ * The Laurhibar - {{convert|28.1|km|abbr=off}} < ref name= " laurhi " > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=Q9030500 |title=Le Laurhibar (Q9030500) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=French |accessdate=31 March 2014 |date= }} < /ref > 
+ * The Nive d'Arnéguy - {{convert|20.8|km|abbr=off}} < ref name= " Arneguy " > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=Q90-0400 |title=La Nive d'Arnéguy (Q90-0400) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=French |accessdate=31 March 2014 |date= }} < /ref > 
+ 
+ The Nive passes through the towns of [[Estérençuby]] (Nive de Béhérobie), [[Saint-Jean-Pied-de-Port]], [[Bidarray]], [[Cambo-les-Bains]], [[Ustaritz]], [[Villefranque, Pyrénées-Atlantiques|Villefranque]] and [[Bayonne]], where it flows into the Adour. 
+ 
+ It joins the Adour in the city of Bayonne, on its left bank, at an [[altitude]] of {{Convert|3|m|ft|1|abbr=off}} and at about {{Convert|10|km|mi|1|abbr=off}} from the [[Bay of Biscay]] ([[Atlantic Ocean]]). 
+ 
+ ==Main tributaries == 
+ {{col-begin|width=80%}} 
+ {{col-break|width=50%}} 
+ '''Left tributaries''': 
+ * Nive d'Arnéguy - {{convert|20.8|km|abbr=off}} < ref name= " Arneguy "  / > 
+ * Nive des Aldudes - {{convert|33.5|km|abbr=off}} < ref > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=Q91-0400 |title=La Nive des Aldudes (Q91-0400) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=French |accessdate=31 March 2014 |date= }} < /ref > 
+ * Bastan - {{convert|12.9|km|abbr=off}} < ref > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=Q92-0430 |title=Le Bastan (Q92-0430) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=French |accessdate=31 March 2014 |date= }} < /ref > 
+ {{col-break}} 
+ {{col-break|width=70%}} 
+ '''Right tributaries''': 
+ * Laurhibar - {{convert|28.1|km|abbr=off}} < ref name= " laurhi "  / > 
+ * Lakako Erreka - {{convert|20.4|km|abbr=off}} < ref > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=Q92-0400 |title=Lakako Erreka (Q92-0400) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=French |accessdate=31 March 2014 |date= }} < /ref > 
+ {{col-end}} 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Ixassou Nive.jpg|The Nive at [[Itxassou]] 
+ File:Saint Jean Pied de Port Nive Béhérobie.jpg|[[Saint-Jean-Pied-de-Port]] (the Nive de Béhérobie) 
+ File:Bidarray Noblia Nive.jpg|[[Bidarray]], the bridge Noblia over the Nive 
+ File:Ustaritz Pont Nive.jpg|[[Ustaritz]], bridge over the Nive 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ == References == 
+ {{Reflist|2}} 
+ 
+ ==Other websites== 
+ {{Commonscat}} 
+ * [http://thvn.free.fr Tour de la Haute vallée de la Nive] {{in lang|fr}} 
+ * [http://contrat-nive.com Contrat de Rivière des Nives] {{Webarchive|url=https://web.archive.org/web/20110201104912/http://www.contrat-nive.com/ |date=2011-02-01 }} {{in lang|fr}} 
+ 
+ [[Category:Rivers of Nouvelle-Aquitaine]]

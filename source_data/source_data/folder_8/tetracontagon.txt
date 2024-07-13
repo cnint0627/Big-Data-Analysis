@@ -1,0 +1,17 @@
+{{Regular polygon db|Regular polygon stat table|p40}} 
+ A '''tetracontagon''' or '''40-gon''' is a [[Polygon|shape]] with 40 sides and 40 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular tetracontagon == 
+ All sides of a '''regular tetracontagon''' are the same length. Each corner is 171°. All corners added together equal 6840°. 
+ 
+ === Area === 
+ The amount of space a regular tetracontagon takes up is 
+ 
+ : < math > \text{Area} = 10\left(1+\sqrt{5}+\sqrt{5+2\sqrt{5}}+\sqrt{\left(1+\sqrt{5}+\sqrt{5+2\sqrt{5}}\right)^2+1}\right)t^2 < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ [[Category:Polygons|40]]

@@ -1,0 +1,52 @@
+{{Infobox Software 
+  | name                = FatRat 
+  | logo                = 
+  | screenshot          = Снимок-FatRat.png 
+  | collapsible         = 
+  | caption             = 
+  | author              = 
+  | developer           = {{lang-cs|Luboš Doležel}} 
+  | released            = 
+  | latest release version = 
+  | latest release date = 
+  | latest preview version = 
+  | latest preview date = 
+  | operating system    = Unix like, Linux 
+  | platform            = 
+  | language            = [[English language|English]], [[Russian language|Russian]], [[Czech language|Czech]], [[Slovak language|Slovak]], [[Turkish language|Turkish]], [[French language|French]], [[Polish language|Polish]], [[Ukrainian language|Ukrainian]], [[Spanish language|Spanish]] 
+  | genre               = download and upload manager 
+  | license             = [[GNU GPL]] 
+  | website             = http://fatrat.dolezel.info/ 
+ }} 
+ '''FatRat''' is a [[free and open-source software|free and open-source]] extensible [[download]] manager for Linux. It is built on top of the Trolltech Qt 4 library in C++. Developing of this program was started in November 2006. FatRat provides few advanced features such as speed limiting, segmented downloads. < ref > {{Cite web|title=FatRat Download Manager Extensions|url=http://fatrat.dolezel.info/dev/dolezel-thesis-2011.pdf|url-status=dead|archive-url=https://web.archive.org/web/20120114175416/http://fatrat.dolezel.info/dev/dolezel-thesis-2011.pdf|archive-date=2012-01-14|access-date=2011-11-16}} < /ref > 
+ 
+ It supports a lot of download and file exchange protocols, < ref name= " debian "  / >  such as [[HTTP]], Proxy/SOCKS5, [[FTP]], [[BitTorrent]] (through libtorrent < ref > {{cite web|url=http://www.rasterbar.com/products/libtorrent/projects.html|title=Официальный сайт libtorrent|lang=en|accessdate=2011-11-16}} < /ref > ). Internationalization of interface is carried out with the help of [[Qt Linguist]]. < ref name= " fatrat " > {{cite web|url=http://fatrat.dolezel.info/|title=Официальный сайт программы FatRat|lang=en|accessdate=2011-11-16|archive-date=2012-09-03|archive-url=https://www.webcitation.org/6APQvGjQQ?url=http://fatrat.dolezel.info/|url-status=dead}} < /ref >  FatRat also has RSS feed and podcasts support, < ref > {{cite web|first=|title=FatRat Is An Amazing Linux Download Manager [Ubuntu PPA Included]|url=http://www.webupd8.org/2010/03/fatrat-is-amazing-linux-download.html|publisher=}} < /ref > < ref name= " sysadmin " > {{cite web |url=http://files.linux.uz/magazines/OpenSource/OpenSource038_20090130.pdf |title=Журнал «Системный администратор» №37 |author=Роман Комков |quote=Среди них: загрузка файлов на удаленный FTP- сервер, поддержка протокола BitTorrent, прокси (HTTP и SOCKS5), RSS-лент (загрузка подкастов). |date=2009 |type=Приложение «Open Source» |pages=8, 11 |lang=ru |accessdate=2011-11-16 }}{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  and it can work with [[RapidShare]] web-storage service < ref name= " 3dnews " > {{cite web |url= http://www.3dnews.ru/workshop/615245 |title=3D News. Создаем SOHO-сервер на базе Zentyal |author= Игорь Осколков |quote= Альтернативным вариантом может стать клиент FatRat, который поддерживает не только скачивание файлов из bittorrent-сетей, но и по HTTP/FTP, а также с сервиса rapidshare. |date=2011 |publisher= Электронное СМИ  " 3ДНьюс " . Свидетельство о регистрации средства массовой информации Эл № ФС 77-22224 от 01 ноября 2005 г. |type= Часть 3. |lang=ru |accessdate=2011-11-16}} < /ref >  and with [[Dropbox]] and OpenSubtitles. < ref name= " linuxexpres " > {{cite web |url= http://www.linuxexpres.cz/software/fatrat-univerzalni-stahovac-z-ceska |title= Linux Expres |author= Petr Šafařík |quote=Tato tlusťoška ráda HTTP či FTP přenosy souborů, spolupracuje se službou DropBox a s znalecky sleduje filmy s titulky staženými z OpenSubtitles.com. |lang=cs |accessdate= 2011-11-16}} < /ref > < ref name= " liberix " > {{cite web |url=http://www.openmagazin.cz/pdf/2010/openMagazin-2010-03.pdf |title=FatRat – Univerzální stahovač z Česka |author=Petr Šafařík |date=2010 |work=Оpen magazin, №3 |lang=cs |accessdate=2011-11-16 |archive-date=2012-09-03 |archive-url=https://www.webcitation.org/6APQq8F5W?url=http://www.openmagazin.cz/pdf/2010/openMagazin-2010-03.pdf |url-status=dead }} < /ref > 
+ 
+ Available as a package of the most popular Linux repositories, such as Debian, < ref name= " debian " > {{cite web |url= https://packages.debian.org/en/squeeze/fatrat |title= Debian -- Error |website= packages.debian.org}} < /ref >  Ubuntu, < ref > {{cite web|url=https://packages.ubuntu.com/oneiric/fatrat |title= Ubuntu – Error |website= packages.ubuntu.com}} < /ref >  Fedora. < ref name= " pbone " > {{cite web |url= http://rpm.pbone.net/index.php3/stat/4/idpl/15938631/dir/fedora_15/com/fatrat-1.1.3-4.fc15.x86_64.rpm.html|title=RPM Fedora 15 fatrat 1.1.3 x86_64 rpm|website=rpm.pbone.net}} < /ref > 
+ 
+ == Main features == 
+ 
+ Features and characteristics: < ref name= " pbone "  / > < ref > {{cite web|url=http://fatrat.dolezel.info/|title=Home – FatRat Download Manager|website=fatrat.dolezel.info|access-date=2011-11-16|archive-date=2012-09-03|archive-url=https://www.webcitation.org/6APQvGjQQ?url=http://fatrat.dolezel.info/|url-status=dead}} < /ref > 
+ 
+ * HTTP(S)/FTP downloads 
+ * FTP uploads 
+ * BitTorrent support 
+ * Torrent search 
+ * Support for SOCKS5 and HTTP proxies 
+ * RapidShare.com FREE downloads 
+ * RapidShare.com uploads 
+ * RapidShare.com link verification and folder extraction 
+ * RapidSafe link decoding 
+ * Subtitle search 
+ * Scheduler 
+ * Remote control via Jabber 
+ * Remote control via a web interface 
+ * RSS feed and podcasts support 
+ 
+ == References == 
+ < references/ > 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Free software]]

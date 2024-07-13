@@ -1,0 +1,130 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Aalten 
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]], town 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Aalten gemeentehuis.jpg 
+ | image_alt               =  
+ | image_caption           = Town hall 
+ | image_flag              = Flag of Aalten.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Coats of arms of Aalten (new).svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 0197 (2009).svg 
+ | map_alt                 =  
+ | map_caption             = Location 
+ | coordinates             = {{coord|51|56|N|6|35|E|region:NL|display=inline}} 
+ | image_map1               = Gem-Aalten-OpenTopo.jpg 
+ | map_alt1                 =  
+ | map_caption1             = Map 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = [[Netherlands]] 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = [[Gelderland]] 
+ | subdivision_type2       = Region 
+ | subdivision_name2       = [[Achterhoek]] 
+ | government_footnotes    =  
+ < ref > 
+ {{cite web 
+  |url= https://www.aalten.nl/bestuur-en-organisatie/samenstelling-college_42530/ 
+  |title= Samenstelling college 
+  |language=nl  
+  |work= Gemeente Aalten 
+  |publisher= 
+  |access-date= 10 February 2022 
+ }} 
+ < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = [[ChristianUnion|CU]] 
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[Anton Stapelkamp]] 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Aalten}} 
+ | area_land_km2           = {{Dutch municipality land area|Aalten}} 
+ | area_water_km2          = {{Dutch municipality water area|Aalten}} 
+ | elevation_footnotes     = 
+ < ref > 
+ {{cite web 
+  |url= https://www.ahn.nl/postcodetool 
+  |title=Postcodetool 
+  |language=nl  
+  |work=Actueel Hoogtebestand Nederland  
+  |publisher= 
+  |access-date= 10 February 2022 
+ }} 
+ < /ref > 
+ | elevation_m             = 31 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Aalten}} 
+ | population_as_of        = {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|Aalten}}  < !-- For automatic calculation: auto-- > 
+ | population_demonym      = Aaltenaar 
+ < !-- Other information -- > 
+ | timezone                = [[Central European Time|CET]] 
+ | utc_offset              = +1 
+ | timezone_DST            = [[Central European Summer Time|CEST]] 
+ | utc_offset_DST          = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 7091, 7095, 7121–7123, 7126 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 0315, 0543 
+ | website                 = {{URL|1=https://www.aalten.nl}} 
+ | footnotes               = 
+ }} 
+ '''Aalten''' is a town and municipality in the eastern [[Netherlands]], in the province of [[Gelderland]]. It lies in the [[Achterhoek]] region near the German border. 
+ 
+ The former municipality of [[Bredevoort]] merged into Aalten in 1818 and that of [[Dinxperlo]] in 2005. Aalten village had about 17,400 inhabitants and Aalten municipality about 27,000 inhabitants in 2021. 
+ 
+ == Settlements == 
+ {{Col-begin|width=60%}} 
+ {{Col-2}} 
+ * Aalten (town) 
+ * [[Barlo]] 
+ * [[Bredevoort]] 
+ * [[Dale, Aalten|Dale]] 
+ * [[Dinxperlo]] 
+ {{Col-break}} 
+ * [[Haart]] 
+ * [[Heurne]] 
+ * [[IJzerlo]] 
+ * [['t Klooster]] 
+ * [[Lintelo]] 
+ {{Col-end}} 
+ 
+ == References == 
+ * [https://www.plaatsengids.nl/aalten Plaatsengids.nl] 
+ {{Reflist}} 
+ 
+ {{Geographic location 
+ |Centre    =  
+ |North     = [[Oost Gelre]] 
+ |Northeast =  
+ |East      = [[Winterswijk]]    
+ |Southeast =  
+ |South     = [[Bocholt]] ([[North Rhine-Westphalia]], [[Germany]]) 
+ |Southwest = [[Isselburg]] ([[North Rhine-Westphalia]], [[Germany]]) 
+ |West      = [[Oude IJsselstreek]] 
+ |Northwest =  
+ }} 
+ 
+ {{Gelderland Province}} 
+ {{Achterhoek municipalities}} 
+ {{Europe-stub}} 
+ 
+ [[Category:Aalten| ]] 
+ [[Category:Settlements in Gelderland]]

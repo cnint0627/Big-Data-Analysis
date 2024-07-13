@@ -1,0 +1,68 @@
+{{Taxobox 
+ | name = Pseudomonadales 
+ | image = Acinetobacter baumannii.JPG 
+ | image_caption = ''[[Acinetobacter baumannii]]'' 
+ | regnum = [[Bacterium|Bacteria]] 
+ | phylum = [[Proteobacteria]] 
+ | classis = [[Gammaproteobacteria]] 
+ | ordo = '''Pseudomonadales''' 
+ | ordo_authority = Orla-Jensen, 1921 
+ | subdivision_ranks = Families and Genera 
+ | subdivision =  
+ < !-- Azotobacteraceae was reclassified into Pseudomonadaceae. -- > 
+ < !-- Branhamaceae was reclassified into Moraxellaceae. -- > 
+ *[[Moraxellaceae]] 
+ **''[[Acinetobacter]]'' 
+ **''[[Alkanindiges]]'' 
+ **''[[Cavicella]]'' 
+ **''[[Faucicola]]'' 
+ **''[[Fluviicoccus]]'' 
+ **''[[Moraxella]]'' 
+ **''[[Paraperlucidibaca]]'' 
+ **''[[Perlucidibaca]]'' 
+ **''[[Psychrobacter]]'' 
+ *[[Pseudomonadaceae]] 
+ **''Azotobacter'' group 
+ ***''[[Azomonas]]'' 
+ ***''[[Azorhizophilus]]'' 
+ ***''[[Azotobacter]]'' 
+ **''[[Mesophilobacter]]'' 
+ **''[[Oblitimonas]]'' 
+ **''[[Permianibacter]]'' 
+ **''[[Pseudomonas]]'' 
+ **''[[Rugamonas]]'' 
+ **''[[Thiopseudomonas]]'' 
+ *[[Ventosimonadaceae]] 
+ **''[[Ventosimonas]]'' 
+ }} 
+ 
+ The '''Pseudomonadales''' are an [[order]] of [[Proteobacteria]]. < ref name= " Bergey " > {{cite book|last=Garrity|first=George M.  |display-authors = etal |title=Bergey's manual of systematic bacteriology. Volume 2: ''The Proteobacteria'', Part B: The Gammaproteobacteria. |year=2005}} < /ref >  They are [[gram-negative]]. Some species can cause diseases, they are [[pathogen]]. For example, ''[[Pseudomonas aeruginosa]]'' can cause [[sepsis]]. ''[[Azomonas]]'' and ''[[Azotobacter]]'' are able to [[Nitrogen fixation|fix nitrogen]]. 
+ 
+ == Systematics == 
+ There are two families: The [[Moraxellaceae]] and [[Pseudomonadaceae]]. < ref > J.P. Euzéby: ''List of Prokaryotic Names with Standing in Nomenclature'' - [http://www.bacterio.cict.fr/p/pseudomonadales.html ''Ordo Pseudomonadales''] {{Webarchive|url=https://web.archive.org/web/20081011165708/http://www.bacterio.cict.fr/p/pseudomonadales.html |date=2008-10-11 }} < /ref >  Some examples: 
+ 
+ * Moraxellaceae 
+ ** ''[[Acinetobacter]]'' 
+ ** ''[[Alkanindiges]]''  
+ ** ''[[Enhydrobacter]]''  
+ ** ''[[Moraxella]]'' 
+ ** ''[[Perlucidibaca]]'' 
+ ** ''[[Psychrobacter]]'' 
+ 
+ * Pseudomonadaceae  
+ ** ''[[Azomonas]]''  
+ ** ''[[Azorhizophilus]]''  
+ ** ''[[Azotobacter]]''  
+ ** ''[[Cellvibrio]]''  
+ ** ''[[Mesophilobacter]]'' 
+ ** ''[[Pseudomonas]]'' 
+ ** ''[[Rhizobacter]]'' 
+ ** ''[[Rugamonas]]'' 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ [[Category:Gram-negative bacteria]] 
+ 
+ {{biology-stub}}

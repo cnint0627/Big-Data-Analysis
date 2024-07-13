@@ -1,0 +1,41 @@
+[[Image:Angle_Symbol.svg|120px|thumb|right|An angle.]] 
+ 
+ When two [[straight]] lines come together, they make an '''angle'''. The two lines are called the ''[[side]]s'' < ref > {{Cite book|url=https://books.google.com/books?id=5r_7DAAAQBAJ & dq=called+%22sides+of+an+angle%22 & pg=PA16|title=The Teacher of Geometrical Drawing - For High Schools, Manual Training Schools, Technical Schools, Etc|last=Campana|first=D. M.|date=2016-09-06|publisher=Read Books Ltd|isbn=978-1-4733-5366-4|language=en}} < /ref >  of the angle, and they meet at a [[Point (geometry)|point]]. A flat surface (called a [[Plane (mathematics)|plane]]) also forms an angle when it meets another. 
+ 
+ To represent an angle, [[Greek letter|Greek letters]] such as  < math > \alpha < /math >  ([[alpha]]),  < math > \beta < /math >  ([[beta]]),  < math > \gamma < /math >  ([[gamma]]) and  < math > \theta < /math >  ([[theta]]) are sometimes used. < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-17|website=Math Vault|language=en-US}} < /ref >  An angle indicates the space between its sides, or the amount of rotation needed to make one side coincide the other. < ref > {{Cite web|title=Definition of angle {{!}} Dictionary.com|url=https://www.dictionary.com/browse/angle|access-date=2020-08-17|website=www.dictionary.com|language=en}} < /ref > < ref name= " :0 " > {{Cite web|last=Weisstein|first=Eric W.|title=Angle|url=https://mathworld.wolfram.com/Angle.html|access-date=2020-08-17|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ To measure the [[size]] of an angle, we use [[Unit of measurement|unit]]s called [[Degree (geometry)|degrees]]. A degree is a standard unit and we use the [[symbol]] ° after a number to show that it is a number of degrees. We can use a [[Decimal|decimal number]] or a [[Fraction (mathematics)|fraction]] for part of a degree, but a degree can also be divided into 60 [[minute]]s (1° = 60'), and a minute can be divided into 60 [[second]]s (1' = 60 " ). So 22.5°, 22{{Fraction|1|2}}° and 22° 30' are all the same angle.   
+ 
+ In [[mathematics]], angles can also be (and often are) measured in [[radian]]s instead of degrees, by using the conversion factor  < math > 2\pi\mbox{ rad} = 360^\circ < /math >  (for example,  < math >  22.5^\circ = \tfrac{\pi}{8}\mbox{ rad} < /math > ). Yet another unit of angle is gradian, < ref name= " :0 "  / >  with   < math >  100 \text{ grad} = 90^{\circ} < /math > .  
+ 
+ Angles are studied in [[geometry]], where an angle where edges meet is often called a [[vertex]]. For example, the three sides of a [[triangle]] are its ''edges'' and two of the edges meet at each ''vertex''. Similarly, two of the six sides (or ''faces'') of a [[cube]] meet at each of its twelve edges, and three edges meet at each of its eight [[corner]]s (or [[wikt:vertices|vertices]], which is the plural version of ''vertex''). 
+ ==Types of angles== 
+ 
+ === Individual angles === 
+ * In a zero angle the lines lie one upon the other thus creating a 0° angle aka the zero angle. 
+ 
+ * An angle measuring greater (wider) than 0° but less (narrower) than 90° is called an [[acute angle]]. 
+ 
+ * An angle 90° wide is called a [[right angle]]. 
+ 
+ * An angle more than 90° but less than 180° is called an [[obtuse angle]]. 
+ 
+ * An angle that measures 180° is called a [[straight angle]]. 
+ * An angle wider than 180° and narrower than 360° is called a [[reflex angle]]. 
+ * An angle that has a made or full circle/completed 360° is called a full or complete angle. < ref > {{Cite web|title=Angles - Acute, Obtuse, Straight and Right|url=https://www.mathsisfun.com/angles.html|access-date=2020-08-17|website=www.mathsisfun.com}} < /ref > 
+ 
+ === Special angle pairs === 
+ In geometry, there are pairs angles having a special relationship with each other, making them interesting and convenient.[[File:Angle obtuse acute straight.svg|thumb|right|250px|The angles  < var > a < /var >  and  < var > b < /var >  are ''supplementary'' angles.]]There is a pair of angles called [[complementary angles]] to which the [[sum]] of their measure (wideness) is equal to one right angle (which is equal to  < math > \tfrac{1}{4} < /math >  turn, 90°, or  < math > \tfrac{\pi}{2} < /math >  radians). Supplementary angles are also two angles, this time their combined measure is a straight angle ( < math > \tfrac{1}{2} < /math >  turn, 180°, or  < math > \pi < /math >  radians). Two angles that total to a full angle ( < math > 1 < /math >  turn, 360°, or  < math > 2\pi < /math >  radians) are referred to as [[wikt:explementary|''explementary'']] or ''conjugate'' angles. 
+ 
+ == Related pages == 
+ 
+ * [[Sun angle]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Angles| ]] 
+ [[Category:Basic English 850 words]] 
+ 
+ {{wiktionary}} 
+ {{Math-stub}}

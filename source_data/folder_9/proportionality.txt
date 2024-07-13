@@ -1,0 +1,13 @@
+{{For|the corresponding concept related to ratio|Proportions}} 
+ 
+ A '''proportionality relationship''' happens when two [[quantity|quantities]] or [[number]]s ''x'' and ''y'' are related multiplicatively by a fixed number. This can occur when either their ratio ''x''/''y'' is a fixed number (direct proportionality), or their product ''xy'' is a fixed number (inverse proportionality). If ''x'' is directly proportional to ''y'', then we write  < math > x \propto y < /math > . < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-09-20|website=Math Vault|language=en-US}} < /ref >  The fixed number of a proportionality relationship is called the constant of proportionality. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Proportional|url=https://mathworld.wolfram.com/Proportional.html|access-date=2020-09-20|website=mathworld.wolfram.com|language=en}} < /ref > < ref > {{Cite web|title=Directly Proportional and Inversely Proportional|url=https://www.mathsisfun.com/algebra/directly-inversely-proportional.html|access-date=2020-09-20|website=www.mathsisfun.com}} < /ref > 
+ 
+ ==Related pages== 
+ *[[Relation (mathematics)]] 
+ * [[Function (mathematics)]] 
+ 
+ == References == 
+ < references / > 
+ {{math-stub}} 
+ 
+ [[Category:Mathematics]]

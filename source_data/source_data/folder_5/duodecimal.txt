@@ -1,0 +1,89 @@
+The '''duodecimal''' system (also known as '''base 12''' or '''dozenal''') is the [[Numeral system|number system]] with a [[radix|base]] of [[12 (number)|twelve]]. In the duodecimal system, large numbers are expressed by groups of 12. For example, the number [[50 (number)|fifty]] (which we usually write as 50) would be written as 42 in the dozenal system, since it is equal to 4×12+2. 
+ 
+ The number 12 is the smallest number that has four factors (2, 3, 4, 6). If one divides the numbers 10 and 12 with 3, the results will be 3.333... and 4, respectively. Doing the same thing with 6, the results will be 1.666... and 2. So, the duodecimal system can control the fractions better than the [[decimal system]]. 
+ 
+ == How to represent 10 and 11 in duodecimal == 
+ There are no numerical symbols that represent 10 and 11 in duodecimal, so letters taken from the [[English alphabet]] are used, specifically '''[[X]]''' (from the [[Roman numeral]] for ten) and '''[[E]]''' (from the [[wikt:initial|initial]] of eleven). Some people use '''[[A]]''' and '''[[B]]''' (as in [[hexadecimal]]) as well. < ref name= " Symbology Overview " > {{cite journal|last=De Vlieger|first=Michael|title=Symbology Overview|journal=The Duodecimal Bulletin|volume=4X [58]|issue=2|date=2010|url=http://www.dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue4a2_0.pdf}} < /ref > 
+ 
+ Edna Kramer in her 1951 book ''The Main Stream of Mathematics'' used '''[[*]]''' and '''[[#]]''' for decimal 10 and 11. The symbols were chosen because they are available in [[typewriter]]s and [[push-button]] [[telephone]]s. < ref name= " Symbology Overview " / > 
+ 
+ This article uses  " < span style= " display: inline-block; transform: rotate(180deg); " > 2 < /span > "  and  " < span style= " display: inline-block; transform: rotate(180deg); " > 3 < /span > "  for decimal 10 and 11. 
+ 
+ == Duodecimal values == 
+ {| class=wikitable 
+ ! Decimal 
+ ! Duodecimal 
+ |- 
+ | align=right | 0 
+ | align=right | 0 
+ |- 
+ | align=right | 1 
+ | align=right | 1 
+ |- 
+ | align=right | 2 
+ | align=right | 2 
+ |- 
+ | align=right | 3 
+ | align=right | 3 
+ |- 
+ | align=right | 4 
+ | align=right | 4 
+ |- 
+ | align=right | 5 
+ | align=right | 5 
+ |- 
+ | align=right | 6 
+ | align=right | 6 
+ |- 
+ | align=right | 7 
+ | align=right | 7 
+ |- 
+ | align=right | 8 
+ | align=right | 8 
+ |- 
+ | align=right | 9 
+ | align=right | 9 
+ |- 
+ | align=right | 10 
+ | align=right |  < span style= " display: inline-block; transform: rotate(180deg); " > 2 < /span > 
+ |- 
+ | align=right | 11 
+ | align=right |  < span style= " display: inline-block; transform: rotate(180deg); " > 3 < /span > 
+ |- 
+ | align=right | 12 
+ | align=right | 10 
+ |- 
+ | align=right | 13 
+ | align=right | 11 
+ |- 
+ | align=right | 50 
+ | align=right | 42 
+ |- 
+ | align=right | 60 
+ | align=right | 50 
+ |- 
+ | align=right | 100 
+ | align=right | 84 
+ |- 
+ | align=right | 140 
+ | align=right |  < span style= " display: inline-block; transform: rotate(180deg); " > 3 < /span > 8 
+ |- 
+ | align=right | 500 
+ | align=right | 358 
+ |- 
+ | align=right | 720 
+ | align=right | 500 
+ |- 
+ | align=right | 1000 
+ | align=right | 6 < span style= " display: inline-block; transform: rotate(180deg); " > 3 < /span > 4 
+ |- 
+ | align=right | 1728 
+ | align=right | 1000 
+ |} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Numbering systems]] 
+ 
+ {{math-stub}}

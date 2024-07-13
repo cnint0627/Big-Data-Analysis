@@ -1,0 +1,93 @@
+[[File:Triosephosphate isomerase.jpg|thumb|200px|Ribbon diagram of an enzyme called TIM]] 
+ 
+ An '''enzyme''' is a [[protein]] [[molecule]] in [[cells]] which works as a biological [[catalyst]]. < ref > ''Concise Oxford Dictionary''. < /ref >  Enzymes speed up [[chemical reaction]]s in the body, but do not get used up in the process, so they can be used over and over again. 
+ 
+ Almost all [[biochemical]] reactions in living things need enzymes. With an enzyme, chemical reactions go much faster than they would without the enzyme. < ref name= " Arthur " > {{cite book| last = Kornberg| first = Arthur| title = For the love of enzymes: the odyssey of a biochemist| year = 1989| publisher = Harvard University Press| isbn = 0-674-30775-5 }} < /ref > < sup > p39 < /sup >   Other biocatalysts are catalytic [[RNA]] molecules, called [[ribozyme]]s. 
+ 
+ The substances at the start of a reaction are called [[substrate (biochemistry)|substrates]]. The substances at the end of a reaction are the [[product (chemistry)|products]]. Enzymes work on the substrates, and turn them into products. The study of enzymes is called enzymology. 
+ 
+ The first enzyme was found in 1833 by [[Anselme Payen]]. 
+ 
+ == Enzyme structure == 
+ [[File:Salivary alpha-amylase 1SMD.png|thumb|right|200px|Salivary amylase: [[chloride]] [[ion]] [[green]]; [[calcium]] [[beige]]]] 
+ 
+ There are thousands of different enzymes and each one is specific to the reaction which it catalyses. Enzymes have names which show what they do. Enzyme names usually end in '''''–ase''''' to show that they are enzymes. Examples of this include [[ATP synthase]]. It makes a chemical called [[ATP]]. Another example is [[DNA polymerase]]. It reads an intact DNA strand and uses it as a [[template]] to make a new strand. 
+ 
+ One example of an enzyme is [[amylase]], found in [[saliva]]. It breaks down [[starch]] molecules into smaller [[glucose]] and [[maltose]] molecules. Another kind of enzyme is [[lipase]]. It breaks down [[fat]]s into smaller molecules, fatty acids and glycerol. 
+ 
+ The [[protease]]s are a whole class of enzymes. They break down other enzymes and proteins back into amino acids. < ref > Pugh, Maureen Barlow (ed) 2000. ''Stedman's medical dictionary'', 27th ed. Baltimore, Maryland, USA: Lippincott, Williams  &  Wilkins. p65 < /ref >  [[Nuclease]]s are enzymes that cut DNA or RNA, often in specific place in the molecule. 
+ 
+ Enzymes are not only for breaking large chemicals into smaller chemicals. Other enzymes take smaller chemicals and build them up into bigger chemicals, and do many other chemical tasks. The classification below lists the main types. 
+ 
+ Biochemists often draw a picture of an enzyme to use as a visual aid or map of the enzyme. This is hard to do because there may be hundreds or thousands of atoms in an enzyme. Biochemists can not draw all this detail. Instead, they use ribbon models as pictures of enzymes. Ribbon models can show the shape of an enzyme without having to draw every atom. 
+ 
+ Most enzymes will not work unless the temperature and [[pH]] are just right. In [[mammal]]s the right temperature is usually about 37 < sup > o < /sup > C degrees (body temperature). The correct pH can vary greatly. [[Pepsin]] is an example of an enzyme that works best when pH is about 1.5. < ref > {{cite web|url=http://www.worthington-biochem.com/introbiochem/effectspH.html|title=Effects of pH|accessdate=2010-04-29}} < /ref > 
+ 
+ Heating an enzyme above a certain temperature will destroy the enzyme permanently. It will be broken down by [[protease]] and the chemicals will be used again. 
+ 
+ Some chemicals can help an enzyme do its job even better. These are called ''activators''. Sometimes, a chemical can slow down an enzyme or even make the enzyme not work at all. These are called ''inhibitors''. Most drugs are chemicals that either speed up or slow down some enzyme in the human body. 
+ 
+ == Lock and key model == 
+ Enzymes are very specific. In 1894 [[Hermann Emil Fischer|Emil Fischer]] suggested that both the enzyme and the substrate have ''specific complementary geometric shapes'' that fit exactly into one another. < ref > {{cite journal |author=Fischer E.|year=1894|title=Einfluss der Configuration auf die Wirkung der Enzyme|trans-title=Influence of configuration on the action of enzymes| journal=Berichte der Deutschen Chemischen Gesellschaft zu Berlin|volume=27|pages=2985–93|url =http://gallica.bnf.fr/ark:/12148/bpt6k90736r/f364.chemindefer|doi=10.1002/cber.18940270364 |issue=3}} < /ref >  This is often referred to as  " the lock and key "  model. However, this model fails to explain what happens next. 
+ 
+ [[File:Induced fit diagram.svg|thumb|450px|Diagrams to show the induced fit hypothesis of enzyme action]] 
+ 
+ In 1958, [[Daniel E. Koshland, Jr.|Daniel Koshland]] suggested a modification to the lock and key model. Since enzymes are rather flexible structures, the active site is reshaped by interactions with the substrate. < ref > {{cite journal|doi=10.1073/pnas.44.2.98|author=Koshland D. E.|year=1958|title=Application of a theory of enzyme specificity to protein synthesis|journal=Proc. Natl. Acad. Sci.|volume=44|issue=2|pages=98–104|pmid=16590179|pmc=335371|bibcode=1958PNAS...44...98K|doi-access=free}} < /ref >  As a result, the substrate does not simply bind to a rigid active site. The amino acid [[Side chain|side-chains]] of the active site are bent into positions so the enzyme does its catalytic work. In some cases, such as glycosidases, the substrate [[molecule]] also changes shape slightly as it enters the active site. < ref > {{cite journal|author=Vasella A, Davies GJ, Bohm M.|year=2002|title=Glycosidase mechanisms|journal=Current Opinion in Chemical Biology|volume=6|issue=5|pages=619–29|pmid=12413546|doi=10.1016/S1367-5931(02)00380-0}} < /ref > 
+ 
+ == Function == 
+ The general equation for an enzyme reaction is: 
+ :Substrate + Enzyme – >  Substrate:Enzyme – >  Product:Enzyme – >  Product + Enzyme 
+ 
+ Enzymes lower the activation energy of a [[Chemical reaction|reaction]] by forming an intermediary complex with the substrate. This complex is called an '''enzyme-substrate complex'''. 
+ 
+ For example, [[sucrase]], 400 times the size of its substrate [[sucrose]], splits the sucrose into its constituent sugars, which are [[glucose]] and [[fructose]]. The sucrase bends the sucrose, and strains the [[Chemical bond|bond]] between the glucose and fructose. Water molecules join in and make the cleavage in a fraction of a second. Enzymes have these key features: 
+ # They are catalytic. They commonly increase the rate of reaction 10 [[1,000,000,000|billion]]-fold. < ref name= " Arthur "  / > < sup > p39 < /sup >  The enzyme itself is not changed by the reaction. 
+ # They are effective in tiny amounts. One enzyme molecule may convert 1000 molecules of substrate a minute, and some are known to convert 3 million in a minute. < ref name= " Arthur "  / > < sup > p39 < /sup > 
+ # They are highly specific. One enzyme will only carry out one of the many reactions of which a substrate is capable. 
+ 
+ === Control of enzyme activity === 
+ [[File:Effect of temperature on enzymes.svg|thumb|right|200px|Graph showing the effect of changing temperature on enzyme activity]] 
+ [[File:Effect of pH on enzymes.svg|thumb|right|200px|Graph showing the effect of changing pH on enzyme activity]] 
+ 
+ There are five main ways that enzyme activity is controlled in the cell. 
+ 
+ # Enzyme production ([[transcription (genetics)|transcription]] and [[translation (genetics)|translation]] of enzyme genes) can be increased or reduced in response to changes in the cell's environment. This form of [[gene regulation]] is called enzyme induction and inhibition. For example, in bacteria which are resistant to [[antibiotics]] such as [[penicillin]], enzymes are induced which hydrolyse the penicillin molecule. 
+ # Enzymes can occur in different cellular compartments. For example, [[fatty acid]]s are synthesized by one set of enzymes in the [[cytosol]], [[endoplasmic reticulum]] and [[Golgi apparatus]]. Then they are used by a different set of enzymes as a source of energy in the [[mitochondria]]. < ref > {{cite journal |author=Faergeman NJ, Knudsen J |title=Role of long-chain fatty acyl-CoA esters in the regulation of metabolism and in cell signalling |journal=Biochem. J. |volume=323 |issue=Pt 1 |pages=1–12 |date=April 1997  |doi=10.1042/bj3230001 |pmid=9173866 |pmc=1218279 |url=http://www.biochemj.org/bj/323/0001/bj3230001.htm}} < /ref > 
+ # Enzymes can be regulated by their own products. For example, the end product(s) often inhibit one of the first enzymes of the pathway. Such a regulatory mechanism is called [[negative feedback]], because the amount of the end product produced is regulated by its own concentration. This prevents the cells making too much enzyme. The control of enzyme action helps keep a [[Homeostasis|stable internal environment]] in living organisms. 
+ # Enzymes can be regulated by being modified after their production. An example is the cleavage of the polypeptide chain. [[Chymotrypsin]], a digestive [[protease]], is produced in inactive form in the [[pancreas]] and transported in this form to the [[stomach]] where it is activated. This stops the enzyme from digesting the [[pancreas]] or other tissues before it enters the gut. This type of inactive precursor to an enzyme is known as a [[zymogen]]. 
+ # Some enzymes may become activated when they move to a different environment (e.g. from high pH to low pH). For example, [[haemagglutinin]] in the [[influenza]] virus is activated by a change in shape. This is caused by the acidic conditions which occur inside the host cell's [[lysosome]]. < ref > {{cite journal|doi=10.1016/0092-8674(93)90260-W|author=Carr C.M.  &  Kim P.S. |date=April 2003|title=A spring-loaded mechanism for the conformational change of influenza hemagglutinin|journal=Cell|volume=73|pages=823–32|pmid=8500173|issue=4|s2cid=43599939 }} < /ref > 
+ 
+ == Enzyme inhibitors == 
+ Inhibitors can be used to stop an enzyme from binding to a substrate. This may be done to slow down an enzyme-controlled reaction. The inhibitors fit loosely or partially into the enzyme's active site. This prevents or slows down an enzyme-substrate complex being formed. 
+ 
+ == Denaturation == 
+ Denaturation is the ''irreversible'' alteration of an enzyme's active site, caused by an extreme change in temperature or pH. It will decrease the rate of reaction because the substrate molecule will not be able to fit into the active site, so products cannot be formed. 
+ 
+ == Cofactors == 
+ [[Cofactor]]s, or coenzymes, are helper molecules which are needed to make an enzyme work. They are not proteins, and may be [[Organic chemistry|organic]] or [[Inorganic chemistry|inorganic]] molecules. Both types of molecules sometimes contain a [[metal]] [[ion]] at the centre, such as [[Mg]] < sup > 2+ < /sup > , [[Cu]] < sup > 2+ < /sup > , [[Mn]] < sup > 2+ < /sup >  or [[iron]]-[[sulphur]] clusters. This is because such ions may act as [[electron]] donors, and this is important in many reactions. The need of enzymes for various little helpers is the basic reason why animals, including ourselves, need [[trace element]]s and [[vitamin]]s. < ref > {{cite book| last1 = Metzler| first1 = David E.| last2 = Metzler| first2 = Carol M.| title = Biochemistry: the chemical reactions of living cells| year = 2001| publisher = Academic Press| isbn = 978-0-12-492540-3 }} < /ref > < ref > {{cite book| last = Bugg| first = Tim| title = Introduction to enzyme and coenzymec chemistry| year = 1997| publisher = Blackwell | isbn = 978-0-86542-793-8 }} < /ref > 
+ 
+ == Classification == 
+ Enzymes have been classified by the ''International Union of Biochemistry''. Their Commission on Enzymes has grouped all known enzymes into six classes: 
+ # Oxido-reductases: catalyse transfer of [[electron]]s 
+ # Transferases: move functional group from one molecule to another 
+ # Hydrolases: add –OH ([[hydroxyl]]) group 
+ # Lyases: split chemical bonds, and often add [[double bond]] or ring structure 
+ # Isomerases: A – >  B where B is an [[isomer]] of A 
+ # Ligases: join two large molecules: Ab + C – >  A–C + b 
+ The individual enzymes are given a four-figure number which classifies them in the database. < ref > King R.C. Stansfield W.D.  &  Mulligan P.K. 2006. ''A dictionary of genetics'', 7th ed. Oxford. < /ref > < sup > p145 < /sup > < ref > {{Cite web |url=http://gdbwww.gdb.org/ |title=Enzyme database |access-date=2020-09-15 |archive-date=2006-04-04 |archive-url=https://www.webcitation.org/5Est04n6T?url=http://gdbwww.gdb.org/ |url-status=bot: unknown }} < /ref > 
+ 
+ == Uses of enzymes == 
+ Enzymes are used commercially for: 
+ * making baby food - pre-digesting food for babies 
+ * softening the centres of chocolates 
+ * biological washing powder - which contains ''protease'' enzymes to break down the grime and dirt. It breaks the large, insoluble molecules into small, soluble molecules. It works at a lower temperature, so less energy is needed (''thermostable'') 
+ 
+ == Related pages == 
+ * [[Burst kinetics]] 
+ 
+ == References == 
+ {{Commons category|Enzymes}} 
+ {{reflist}} 
+ 
+ [[Category:Molecular biology]] 
+ [[Category:Enzymes| ]]

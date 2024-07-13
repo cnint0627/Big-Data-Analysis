@@ -1,0 +1,40 @@
+{{infobox OS 
+ |name = Kubuntu 
+ | screenshot             = Kubuntu 20.10 2880p 31 12 2020 16 00 23.png 
+ | caption                = Kubuntu 20.10  " Groovy Gorilla " 
+ |website = http://www.kubuntu.org/ 
+ |developer = Canonical Ltd and community contributors 
+ |family = Linux 
+ |source_model = [[Open source]] 
+ |latest_release_version = 20.10 
+ |latest_release_date = October, 2020 
+ |kernel_type = Monolithic kernel 
+ |license = [[Free software]] licenses < br > (mainly [[GPL]]) 
+ |ui = [[KDE]] 
+ |working_state = Current 
+ }} 
+ '''Kubuntu''' is a [[version]] of the [[free software|free]] [[Linux]] [[distribution]] [[Ubuntu]]. < ref > {{cite web|title=Kubuntu|url=http://distrowatch.com/table.php?distribution=kubuntu|publisher=DistroWatch|accessdate=20 February 2016}} < /ref >  It uses the [[desktop environment]] [[KDE]] instead of [[GNOME]]. Most of the [[software]] used in Kubuntu, is part of the [[KDE]] project, but all other software used in Ubuntu can also be used. < ref > {{cite web|last=Riddell|first=Jonathan|title=Ten years of Kubuntu|url=https://lwn.net/Articles/635880/|publisher=lwn.net|accessdate=20 February 2016}} < /ref > 
+ 
+ Because the only difference of Kubuntu and Ubuntu is the default software, an Ubuntu system can turn into a Kubuntu system, or a Kubuntu system into an Ubuntu system, only by installing some software. 
+ 
+ Some examples of changes in software: 
+ *Adept is used instead of Synaptic 
+ *Konqueror is used instead of Firefox 
+ *Kopete is used instead of Gaim 
+ *KTorrent is used instead of Transmission 
+ 
+ ==Related pages== 
+ *[[List of Linux distributions]] 
+ 
+ == Other websites == 
+ {{Commons|Kubuntu}} 
+ * [http://www.kubuntu.org Official site] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ {{authority control}} 
+ [[Category:Ubuntu (operating system) derivatives]] 
+ [[Category:X86-64 Linux distributions]]

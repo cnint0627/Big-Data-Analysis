@@ -1,0 +1,15 @@
+{{complex|date=April 2012}} 
+ '''eSTREAM''' is a project to identify  " new [[stream cipher]]s that might become suitable for widespread adoption " ,  organized by the [[European Union|EU]] [[ECRYPT]] network. It was set up because of the failure of all six stream ciphers submitted to the [[NESSIE]] project.  The call for primitives was first issued in November [[2004]]. The project was completed in April [[2008]]. The project was divided into separate phases and the project goal was to find [[algorithm]]s suitable for different kinds of application. 
+ 
+ == Other websites == 
+ * [http://www.ecrypt.eu.org/stream/ Homepage for the project]{{Webarchive|url=https://web.archive.org/web/20120415032728/http://www.ecrypt.eu.org/stream/ |date=2012-04-15 }} 
+ ** [http://www.ecrypt.eu.org/stream/phorum/list.php?1 Discussion forum]{{Webarchive|url=https://web.archive.org/web/20120422152217/http://www.ecrypt.eu.org/stream/phorum/list.php?1 |date=2012-04-22 }} 
+ ** The eSTREAM testing framework [http://www.ecrypt.eu.org/stream/perf/]{{Webarchive|url=https://web.archive.org/web/20120615144620/http://www.ecrypt.eu.org/stream/perf/ |date=2012-06-15 }} 
+ ** Update 1: [http://www.ecrypt.eu.org/stream/papersdir/057.pdf (PDF)] {{Webarchive|url=https://web.archive.org/web/20120717061527/http://www.ecrypt.eu.org/stream/papersdir/057.pdf |date=2012-07-17 }} 
+ * [http://cr.yp.to/streamciphers.html Notes on the ECRYPT Stream Cipher project] by [[Daniel Bernstein]] 
+ * [http://www.hotpixel.net/ estreamJ - Java implementations of eSTREAM ciphers, plus a live performance test] 
+ 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Cryptography]]

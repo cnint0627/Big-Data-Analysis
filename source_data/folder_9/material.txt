@@ -1,0 +1,106 @@
+{{multiple image 
+ | perrow = 2 
+ | total_width = 300 
+ | image1 = Stainless kitchen container with cover.jpg 
+ | image2 = Red terracotta flowerpots.jpg 
+ | image3 = Plastic objects.jpg 
+ | image4 = Wooden-pallets stacked 8.jpg 
+ | footer = Various different materials classified by microstructure. Clockwise from top-left: steel kitchen container ([[metal]]s), terracotta flowerpots ([[ceramic]]s), plastics ([[polymers]]), and wooden pallets ([[composite material|composites]]). 
+ }} 
+ 
+ '''Material''' is what everything that you can touch is made of. Even material that is too small to touch, is called material. We use materials to make things. We can also call material  " physical [[substance]] < nowiki/ > s. " 
+ 
+ ''Raw'' material is materials such as [[ore]]s which we can clean and mix with other materials to make another material like steel, for example. [[Cotton]] is a raw material used to make [[textile]] < nowiki/ > s, which are used to make [[clothes]]. Material is not [[matter]], though. Matter is everything in existence. Material is used for things that have use. Refined materials are materials that have been [[Refinery|refined]], like metal, reduced or converted into better, more useful materials like clothes and tools. Refined materials are usually mixes of other materials, like glue or steel. 
+ 
+ ==Some important materials== 
+ {{div col|cols=3}} 
+ * [[Metal]]s 
+ ** [[Steel]] 
+ ** [[Aluminum]] 
+ ** [[Copper]] 
+ ** [[Gold]] 
+ * [[Polymer]]s 
+ ** [[Rubber]] 
+ ** [[Plastic]] 
+ * [[Ceramics]] 
+ * [[Glass]] 
+ * [[Cement]] 
+ * [[Stone]] 
+ * [[Textile]]s 
+ ** [[Cotton]] fabric 
+ ** [[Wool]] fabric 
+ * [[organic]] materials 
+ ** [[Leather]] 
+ ** [[Bone]] 
+ ** [[Paper]] 
+ ** [[Lumber]]/[[wood]] 
+ ** [[Glue]] 
+ * [[Composite]]s 
+ ** [[Fiberglass]] 
+ ** [[Concrete]] 
+ {{div col end}} 
+ 
+ == Table of material properties == 
+ {| class= " wikitable sortable " 
+ ! Material 
+ ! Density (kg/m^3) 
+ ! Young's Modulus (GPa) 
+ ! Poisson's Ratio 
+ ! Thermal Conductivity (W/m-K) 
+ ! Specific Heat Capacity (J/kg-K) 
+ ! Ref. 
+ |- 
+ | [[Air]] 
+ | 1.2 
+ | N/A 
+ | N/A 
+ | 0.0262 
+ | 1005 
+ |  < ref > {{cite web|url=https://www.engineeringtoolbox.com/air-properties-d_156.html|title=Air - Thermophysical Properties}} < /ref > 
+ |- 
+ | [[Aluminum]] 
+ | 2700 
+ | 69 
+ | 0.33 
+ | 237 
+ | 910 
+ |  < ref > {{cite web|url=https://www.engineeringtoolbox.com/young-modulus-d_417.html|title=Young's Modulus - Tensile and Yield Strength for Materials}} < /ref > 
+ |- 
+ | [[Copper]] 
+ | 8960 
+ | 130 
+ | 0.34 
+ | 401 
+ | 385 
+ |  < ref > {{cite web|url=https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html|title=Thermal Conductivity of Metals}} < /ref > 
+ |- 
+ | [[Glass (Pyrex)]] 
+ | 2230 
+ | 64 
+ | 0.23 
+ | 1.1 
+ | 840 
+ |  < ref > {{cite web|url=https://www.globalspec.com/reference/48172/203279/physical-properties-of-glass|title=Physical Properties of Glass}} < /ref > 
+ |- 
+ | [[Gold]] 
+ | 19320 
+ | 79 
+ | 0.44 
+ | 320 
+ | 129 
+ |  < ref > {{cite web|url=https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html|title=Thermal Conductivity of Metals}} < /ref > 
+ |- 
+ | [[Water]] 
+ | 1000 
+ | N/A 
+ | N/A 
+ | 0.606 
+ | 4181 
+ |  < ref > {{cite web|url=https://www.engineeringtoolbox.com/water-thermal-properties-d_162.html|title=Water - Thermal Properties}} < /ref > 
+ |} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ [[Category:Materials| ]]

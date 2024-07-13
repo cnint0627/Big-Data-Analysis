@@ -1,0 +1,50 @@
+{{ infobox 
+ | title       = CiNii 
+ | image       = [[File:CiNii logo.svg|200px]] 
+ | caption     =  
+ | producer    = [[National Institute of Informatics]] 
+ | country     = Japan 
+ | history     = 2005–present 
+ | languages   = [[Japanese language|Japanese]], [[English language|English]] 
+ | providers   =  
+ | cost        = Free; Subscription for full-text 
+ | disciplines = Multidisciplinary 
+ | depth       = Index, abstract  &  full-text 
+ | formats     = Journal articles and books 
+ | temporal    = 1906–present 
+ | geospatial  = Japan 
+ | number      = 15 million 
+ | updates     =  
+ | p_title     =  
+ | p_dates     =  
+ | ISSN        =  
+ | web         = http://ci.nii.ac.jp/ 
+ | titles      =   
+ }} 
+ 
+ '''CiNii''' ({{IPAc-en|'|s|aɪ|n|iː}}) < ref name=about/ >  is a [[bibliographic database]] service for things in Japanese academic libraries. The database started in April 2005 and is maintained by the [[National Institute of Informatics]]. < ref name=CA/ >  The service searches from the NII databases [NII Electronic Library Service (NII-ELS) and Citation Database for Japanese Publications (CJP)], and the databases from the [[National Diet Library]] of Japan, [[institutional repositories]], and other organizations. < ref name=databases/ > 
+ 
+ The database has more than 15 million articles from more than 3,600 publications. < ref name=journallist/ >   
+ ==Database identifiers== 
+ 
+ The database gives a unique identifier, ''NII Article ID'' (NAID), to each of the journal articles in its list. < ref name=INFOSTA/ >  A different identifier, ''NII Citation ID'' (NCID or 書誌ID) or ''NACSIS-CAT Record ID'', is used for books. 
+ 
+ == References == 
+ < references > 
+ < ref name=about > {{cite web | url= http://ci.nii.ac.jp/info/en/cinii_outline.html | access-date=2014-02-23 | work = CiNii | title = About CiNii}} < /ref > 
+ < ref name=CA > {{cite journal | url =http://current.ndl.go.jp/ca1691 | author = 大向一輝 (Ohmukai, Ikki) | journal = Current Awareness | title = 学術情報プラットフォームとしてのCiNii | date= 2009 | issue=301 |at=CA1691 }} < /ref > 
+ < ref name=journallist > {{cite web | url =http://ci.nii.ac.jp/info/en/cinii_journal_list.html | access-date=2014-02-23 | work=CiNii | title= < code > titlelist_els.tsv < /code >  | date = 2014-02-15 }} < /ref > 
+ < ref name=databases > {{cite web | url = http://ci.nii.ac.jp/info/en/cinii_db.html | title =Databases Incorporated | work = CiNii | access-date=2014-02-23}} < /ref > 
+ < ref name=INFOSTA > {{cite journal | url =http://ci.nii.ac.jp/naid/110009544496 | title=System design and data modeling of CiNii articles | author = 大向一輝 (Ohmukai, Ikki) |journal = The Journal of Information Science and Technology Association |volume = 62 | issue = 11| pages=473–477| date= 2012}} < /ref > 
+ 
+ < /references > 
+ 
+ == Other websites == 
+ {{Wikidata property|P271|P1739|P2409|P4787}} 
+ *[http://ci.nii.ac.jp CiNii] 
+ *[http://ci.nii.ac.jp/en CiNii in English] 
+ 
+ {{Authority control}} 
+ 
+ [[Category:Databases]] 
+ [[Category:Libraries in Japan]]

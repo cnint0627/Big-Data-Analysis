@@ -1,0 +1,264 @@
+{{Use dmy dates|date=May 2019}} 
+ {{Infobox country 
+ | conventional_long_name = Jamaica 
+ | common_name = Jamaica 
+ | image_flag = Flag of Jamaica.svg 
+ | image_coat = Coat of Arms of Jamaica.svg 
+ | national_motto =  " Out of Many, One People " 
+ | national_anthem = {{unbulleted list | " [[Jamaica, Land We Love]] " | < center > [[File: " Jamaica, Land We Love " , performed by the United States Navy Band.oga]] < /center > < hr / > '''[[Royal anthem]]:'''  " [[God Save the King]] " | < center > [[File:United States Navy Band - God Save the Queen.oga]] < /center > }} 
+ | image_map = Jamaica (orthographic projection).svg 
+ | capital = [[Kingston, Jamaica|Kingston]] 
+ | coordinates = {{Coord|17|59|N|76|48|W|type:city}} 
+ | largest_city = capital 
+ | official_languages = [[Jamaican English]] 
+ | languages_type = [[National language|National and primary language]] 
+ | languages = [[Jamaican Patois]] 
+ | ethnic_groups = {{ublist |item_style=white-space:nowrap; |70% [[Afro-Jamaican|African]] |20% Mixed |6% White ||4% [[Asian]]}} 
+ | ethnic_groups_year = 2011 < ref name= " WorldFactbook " > [https://www.cia.gov/library/publications/the-world-factbook/geos/jm.html The CIA World Factbook – Jamaica] {{Webarchive|url=https://web.archive.org/web/20181224183714/https://www.cia.gov/library/publications/the-world-factbook/geos/jm.html |date=2018-12-24 }}. Retrieved 16 September 2015. < /ref > 
+ | religion = {{vunblist |68.9% Christian| 1.1% [[Rastafari]]an| 6.5% Other| 2.3% Not stated| 21.3% None}} < ref > {{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/jm.html |title=The World Factbook – Central Intelligence Agency |publisher=Cia.gov |accessdate=25 September 2017 |archive-date=24 December 2018 |archive-url=https://web.archive.org/web/20181224183714/https://www.cia.gov/library/publications/the-world-factbook/geos/jm.html |url-status=dead }} < /ref > 
+ | demonym = [[Jamaican people|Jamaican]] 
+ | government_type = {{nowrap|[[Unitary state|Unitary]] [[Parliamentary system|parliamentary]]}} [[representative democracy]] under [[constitutional monarchy]] 
+ | leader_title1 = [[Monarchy of Jamaica|Monarch]] 
+ | leader_name1 = [[Charles III]] 
+ | leader_title2 = [[Governor-General of Jamaica|Governor-General]] 
+ | leader_name2 = [[Patrick Allen (politician)|Patrick Allen]] 
+ | leader_title3 = [[Prime Minister of Jamaica|Prime Minister]] 
+ | leader_name3 = [[Andrew Holness]] 
+ | legislature = [[Parliament of Jamaica|Parliament]] 
+ | upper_house = [[Senate of Jamaica|Senate]] 
+ | lower_house = {{nowrap|[[House of Representatives of Jamaica|House of Representatives]]}} 
+ | sovereignty_type = [[Independence of Jamaica|Independence]] 
+ | sovereignty_note = from the UK 
+ | established_event1 = Granted 
+ | established_date1 = 6 August 1962 
+ | area_km2 = 10,991 
+ | area_rank = 160th  < !-- Area rank should match [[List of countries and dependencies by area]] -- > 
+ | area_sq_mi = 4,244  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | percent_water = 1.5 
+ | population_estimate = {{UN_Population|Jamaica}}{{UN_Population|ref}} 
+ | population_census = 
+ | population_estimate_year = {{UN_Population|Year}} 
+ | population_estimate_rank = 139th 
+ | population_census_year = 
+ | population_density_km2 = 268 
+ | population_density_sq_mi = 695 
+ | population_density_rank = 49th 
+ | GDP_PPP = $26.446 billion < ref name= " imf.org " > {{cite web |url=http://www.imf.org/external/pubs/ft/weo/2016/01/weodata/weorept.aspx?sy=2016 & ey=2017 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & pr1.x=35 & pr1.y=10 & c=311%2C343%2C361%2C321%2C362%2C364%2C328 & s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC & grp=0 & a= |title=Jamaica |publisher=International Monetary Fund |year=2016|accessdate=1 April 2016}} < /ref > 
+ | GDP_PPP_year = 2017 
+ | GDP_PPP_rank = 2017 
+ | GDP_PPP_per_capita = $9,297 < ref name= " imf.org " / > 
+ | GDP_PPP_per_capita_rank = 
+ | GDP_nominal = $14.556 billion < ref name= " imf.org " / > 
+ | GDP_nominal_year = 2017 
+ | GDP_nominal_per_capita = $5,117 < ref name= " imf.org " / > 
+ | Gini = 45.5  < !--number only-- > 
+ | Gini_year = 2004 
+ | Gini_change =  < !--increase/decrease/steady-- > 
+ | Gini_ref = < ref name= " wb-gini " > {{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=World Bank |accessdate=2 March 2011}} < /ref > 
+ | Gini_rank = 84th < ref > {{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2172rank.html|title=Country Comparison: Distribution 0f Family Income – Gini Index|work=World Factbook|publisher=CIA|accessdate=8 February 2016|archive-date=4 June 2011|archive-url=https://web.archive.org/web/20110604005151/http://www.forbes.com/feeds/afx/2007/06/12/afx3810988.html|url-status=dead}} < /ref > 
+ | HDI = 0.719  < !--number only-- > 
+ | HDI_year = 2014 < !-- Please use the year to which the data refers, not the publication year-- > 
+ | HDI_change = increase < !--increase/decrease/steady-- > 
+ | HDI_ref = < ref name= " HDI " > {{cite web |url=http://hdr.undp.org/sites/default/files/hdr_2015_statistical_annex.pdf |title=2015 Human Development Report|date=2014 |accessdate=15 December 2015 |publisher=United Nations Development Programme }} < /ref > 
+ | HDI_rank = 99th 
+ | currency = [[Jamaican dollar]] 
+ | currency_code = JMD 
+ | time_zone = 
+ | utc_offset = -5 
+ | utc_offset_DST = 
+ | time_zone_DST = 
+ | drives_on = [[Right- and left-hand traffic|left]] 
+ | calling_code = [[Area codes 876 and 658|+1-876]] < br > [[Area codes 876 and 658|+1-658]]  < small > ([[Overlay plan|Overlay]] of 876; active in November 2018) < /small > 
+ | cctld = [[.jm]] 
+ | country_code = 
+ }} 
+ '''Jamaica''' is an island country in the [[Caribbean]]; it is part of the [[Greater Antilles]]. The island, {{convert|10990|km2|sqmi}} in area, lies about {{convert|140|km|mi|abbr=}} south of [[Cuba]], and {{convert|191|km|mi}} west of [[Hispaniola]]. Its capital city is [[Kingston]]; other towns include Montego Bay, St. Ann's Bay and Spanish Town. The island is divided into three counties – Cornwall, Middlesex and Surrey – which are subdivided into 14 parishes: Kingston, St. Andrew, St. Catherine, Clarendon, Manchester, St. Elizabeth, Westmoreland, Hanover, St. James, Trelawny, St. Ann, St. Mary, Portland and St. Thomas. 
+ 
+ Jamaica is the third-largest island country in the Greater Antilles. Its [[Taíno]] name is ''Xaymaca'', meaning  " Land of Springs " . < ref name= " taino " > {{cite web|url=http://www.uctp.org/VocesIndigena.html |archiveurl=https://web.archive.org/web/20071016055722/http://www.uctp.org/VocesIndigena.html |archivedate=16 October 2007 |title= Taíno Dictionary |publisher= The United Confederation of Taíno People |accessdate=18 October 2007|language=Spanish}} < /ref >  Jamaica is part of the West Indies. 
+ 
+ ==History of Jamaica == 
+ The [[Taíno|Taino]] indigenous people, originating in [[South America]], settled on the island between 4000 and 1000 & nbsp;BC. < ref name= " primearticles1 " > {{cite web|url=http://www.jamaicans.com/articles/primearticles/taino.shtml |title=The Taino of Jamaica (Jamaica) |publisher=Jamaicans.com |author=Glenn Woodley|date=1 April 2001 |accessdate=15 April 2013}} < /ref >  When [[Christopher Columbus]] arrived in 1494, there were more than 200 villages ruled by ''caciques'' (chiefs of villages). The south coast of Jamaica was the most populated, especially around the area now known as [[Old Harbour]]. < ref name= " primearticles1 " / > 
+ 
+ Christopher Columbus, during his second voyage to the [[Americas]], claimed Jamaica for Spain after landing there on 5 May 1494 and his probable landing point was Dry Harbour, now called [[Discovery Bay, Jamaica|Discovery Bay]]. There is some debate as to whether he landed in St. Ann's Bay or in Discovery Bay. [[Saint Ann Parish, Jamaica|St. Ann's Bay]] was named  " Saint Gloria "  by Columbus, as the first sighting of the land. < ref name= " JNHT " > {{cite web |url=http://www.jnht.com/history_columbian_spanish.php|title=Jamaica History: Columbian/Spanish|publisher=Jamaica National Heritage Trust|accessdate=2013-04-15}} < /ref > 
+ 
+ In 1503, during his fourth voyage, Columbus had to spend one year on the northern coast of the island, and he named the island ''Isla de Santiago'' (by [[James (son of Zebedee)|Sant Iago Apostol]], in Spanish ''Santiago''). 
+ 
+ In 1509, the new Governor of the Hispaniola, [[Diego Columbus]], sent [[Juan de Esquivel]], a [[Conquistador]] born in [[Seville]], [[Spain]], with 70 men to Jamaica to complete the conquest of that island. They first lived in the St. Ann's Bay area and soon Esquivel founded a town, ''Sevilla La Nueva'' (in English,  " The New Seville " ) on the north coast, one mile to the west of St. Ann's Bay. < ref name= " jis2 " > {{cite web|url=http://www.jis.gov.jm/government/history|title=Government of Jamaica - History of Jamaica|publisher=Jamaica Information Service|accessdate=15 April 2013}} < /ref > 
+ 
+ Sevilla was abandoned around 1524 because it was deemed unhealthy. < ref name= " JNHT "  / >  The capital was moved to [[Spanish Town]], then called ''Saint Jago de la Vega'', in the south around 1534. < ref name= " Spanish town " > {{cite web|title=Spanish Town|url=http://www.jnht.com/site_spanish_town.php|publisher=Jamaica National Heritage Trust|accessdate=15 April 2013}} < /ref > 
+ 
+ ===British rule=== 
+ In 1654 [[Oliver Cromwell]] decided to break the Spanish control of the [[West Indies]] and he sent a [[Naval fleet|fleet]] in an [[expedition]]) led by [[William Penn (Admiral)|William Penn]] and General [[Robert Venables]]. The fleet arrived to the [[Hispaniola|Santo Domingo]] island on 13 April 1655 but the British lost in two battles on 17 and 25 April and they decided to move to Jamaica. < ref > William Penn: [http://oll.libertyfund.org/index.php?option=com_staticxt & staticfile=show.php & title=1986 & layout=html#chapter_127751 ''Narrative of the Expedition to San Domingo'']. < /ref > 
+ 
+ On 10 May 1655, Penn and Venables led a successful attack on Jamaica. The Spanish surrendered to the English, freed their slaves and then fled to Cuba. It was this set of freed slaves and their descendants living in the Jamaican mountains who became known as the [[Maroon (people)|Maroons]]. < ref name= " jis2 "  / > 
+ 
+ ===Independence=== 
+ After a long period of direct British colonial rule, Jamaica gained a degree of local political control in the late 1930s, and held its first election under full universal adult suffrage in 1944. Jamaica joined nine other U.K. territories in the West Indies Federation in 1958 but withdrew after Jamaican voters rejected membership in 1961. Jamaica got its independence in 1962, remaining a member of the Commonwealth. < ref name= " eoearth " > {{cite web|title=Jamaica |url=http://www.eoearth.org/article/Jamaica?topic=49460|publisher=Encyclopedia of Earth|date=23 May 2012|accessdate=17 April 2013}} < /ref > 
+ 
+ ==Government and politics== 
+ [[File:Parliament.jm.jpg|thumb|Inside the [[Parliament of Jamaica]]]] 
+ Jamaica is a [[parliamentary system|parliamentary democracy]] and [[constitutional monarchy]], with King [[Charles III]] serving as the monarch. < ref > {{cite web|url =http://www.royal.gov.uk/MonarchAndCommonwealth/Jamaica/Jamaica.aspx|title= Queen and Jamaica|work=The British Monarchy|accessdate=15 April 2013}} < /ref >  However, as Charles III is shared as [[head of state]] of fifteen other countries (the [[Commonwealth realm]]) in addition to the UK < ref > {{cite web|url =http://www.royal.gov.uk/MonarchAndCommonwealth/Jamaica/Jamaica.aspx|title= The Queen and the Commonwealth|work=The British Monarchy|accessdate=15 April 2013}} < /ref >  and resides mostly in the United Kingdom, he is thus often represented as King of Jamaica in Jamaica and abroad by the [[Governor|Governor-General]] of Jamaica. < ref > {{cite web|url =http://www.royal.gov.uk/MonarchAndCommonwealth/Jamaica/GovGenCan.aspx|title= The role of the Governor-General in Jamaica|work=The British Monarchy|accessdate=15 April 2013}} < /ref >  The governor-general is nominated by the [[Prime Minister]] of Jamaica and appointed by the monarch. All the members of the Cabinet are appointed by the governor-general on the advice of the prime minister. The monarch and the governor-general serve largely [[Ceremony|ceremonial]] roles. 
+ 
+ The [[Parliament]] of Jamaica is [[bicameral]]. This means that it consists of two Houses, the [[Senate]], also called the [[Upper House]], and the [[House of Representatives]], also known as the [[Lower House]]. The members of the House (known as [[Members of Parliament]] or ''MPs'') are [[Election|elected]] by the people of Jamaica. The leader of the [[political party]] with most members in the House of Representatives is appointed by the governor-general to be the prime minister. [[Senator]]s are nominated jointly by the prime minister and the parliamentary leader of the opposition and are then appointed by the governor-general. < ref name= " jis " > {{cite web|title=About Government|url=http://www.jis.gov.jm/government/about-government|publisher=Jamaica Information Service|accessdate=15 April 2013|archive-date=15 April 2013|archive-url=https://web.archive.org/web/20130415204615/http://www.jis.gov.jm/government/about-government|url-status=dead}} < /ref > 
+ 
+ Tarch 2016. Prime Minister Holness acts as [[head of government]] of Jamaica. 
+ 
+ Jamaica has traditionally had a system of two [[Political party|parties]], with power often alternating between the [[People's National Party]] and [[Jamaica Labour Party]] (JLP). The party with current administrative and legislative power is Jamaica Labour Party, with a two-thirds Parliamentary majority as of 2016. 
+ 
+ ===Parishes=== 
+ Jamaica is divided into 14 parishes, which are grouped into three historic [[county|counties]] that have no administrative relevance. 
+ {{clear}} 
+ [[File:Jamaica parishes numbered2.png|400px|center|Parishes of Jamaica]] 
+ 
+ < div style= " text-align:center; " > 
+ {| class= " wikitable " 
+ |- 
+ | colspan= " 2 "  style= " background:#bfb; text-align:center; " |'''[[Cornwall, Jamaica|Cornwall County]]''' 
+ | style= " background:#bfb; text-align:center; " | < small > Capital < /small > 
+ | style= " background:#bfb; text-align:center; " | < small > km < sup > 2 < /sup > < /small > 
+ | colspan= " 2 "  style= " background:#fbb; text-align:center; " |'''[[Middlesex, Jamaica|Middlesex County]]''' 
+ | style= " background:#fbb; text-align:center; " | < small > Capital < /small > 
+ | style= " background:#fbb; text-align:center; " | < small > km < sup > 2 < /sup > < /small > 
+ | colspan= " 2 "  style= " background:#ffa; text-align:center; " |'''[[Surrey, Jamaica|Surrey County]]''' 
+ | style= " background:#ffa; text-align:center; " | < small > Capital < /small > 
+ | style= " background:#ffa; text-align:center; " | < small > km < sup > 2 < /sup > < /small > 
+ |- 
+ | 1 
+ | [[Hanover Parish, Jamaica|Hanover]]|| < small > Lucea < /small > || < small > & nbsp; & nbsp;453 < /small > 
+ | 6 
+ | [[Clarendon Parish, Jamaica|Clarendon]]|| < small > May Pen < /small > || < small > 1,196 < /small > 
+ | 11 
+ | [[Kingston Parish, Jamaica|Kingston]]|| < small > Kingston < /small > || < small > 25 < /small > 
+ |- 
+ | 2 
+ | [[Saint Elizabeth Parish, Jamaica|Saint Elizabeth]]|| < small > Black River < /small > || < small > 1,212 < /small > 
+ | 7 
+ | [[Manchester Parish, Jamaica|Manchester]]|| < small > Mandeville < /small > || < small > & nbsp; & nbsp; & nbsp;830 < /small > 
+ | 12 
+ | [[Portland Parish, Jamaica|Portland]]|| < small > Port Antonio < /small > || < small > 814 < /small > 
+ |- 
+ | 3 
+ | [[Saint James Parish, Jamaica|Saint James]]|| < small > Montego Bay < /small > || < small > & nbsp; & nbsp;595 < /small > 
+ | 8 
+ | [[Saint Ann Parish, Jamaica|Saint Ann]]|| < small > St. Ann's Bay < /small > || < small > 1,213 < /small > 
+ | 13 
+ | [[Saint Andrew Parish, Jamaica|Saint Andrew]]|| < small > Half Way Tree < /small > || < small > 453 < /small > 
+ |- 
+ | 4 
+ | [[Trelawny Parish, Jamaica|Trelawny]]|| < small > Falmouth < /small > || < small > & nbsp; & nbsp;879 < /small > 
+ | 9 
+ | [[Saint Catherine Parish, Jamaica|Saint Catherine]]|| < small > Spanish Town < /small > || < small > 1,192 < /small > 
+ | 14 
+ | [[Saint Thomas Parish, Jamaica|Saint Thomas]]|| < small > Morant Bay < /small > || < small > 743 < /small > 
+ |- 
+ | 5 
+ | [[Westmoreland Parish, Jamaica|Westmoreland]]|| < small > Savanna-la-Mar < /small > || < small > & nbsp; & nbsp;807 < /small > 
+ | 10 
+ | [[Saint Mary Parish, Jamaica|Saint Mary]]|| < small > Port Maria < /small > || < small > & nbsp; & nbsp; & nbsp;611 < /small > 
+ | 
+ | || || 
+ |} 
+ < /div > 
+ 
+ ==Population== 
+ ===Demographics=== 
+ In 2011 (last national census), there were 2,697,983 people living in Jamaica: 1,334,533 men and 1,363,450 women. There were 1,453,438 (53.9%) living in towns and cities. The population density was 245.5 persons/km². < ref name= " census " > {{cite web|title=2011 Census of Population  &  Housing| url=http://statinja.gov.jm/Census/Census2011/Census%202011%20data%20from%20website.pdf |publisher=Statistical Institute of Jamaica|accessdate=15 April 2013}} < /ref > 
+ 
+ The following table shows the parishes with their populations in the 2011 census. < ref name= " census "  / > 
+ < div style= " text-align:center; " > 
+ {| class= " wikitable sortable "  style= " text-align:right; font-size:95%; " 
+ |- 
+ ! style= " width:190px; " | Parish 
+ ! Total < br / > population !! Urban < br / > population !! Rural < br / > population 
+ |- 
+ |align= " left " | Kingston 
+ | {{Number table sorting|89057}} || {{Number table sorting|89057}} ||align=center|- 
+ |- 
+ |align= " left " | Saint Andrew 
+ | {{Number table sorting|573369}} || {{Number table sorting|495771}} || {{Number table sorting|77598}} 
+ |- 
+ |align= " left " | Saint Thomas 
+ | {{Number table sorting|93902}} || {{Number table sorting|26907}} || {{Number table sorting|66995}} 
+ |- 
+ |align= " left " | Portland 
+ | {{Number table sorting|81744}} || {{Number table sorting|19509}} || {{Number table sorting|62235}} 
+ |- 
+ |align= " left " | Saint Mary 
+ | {{Number table sorting|113615}} || {{Number table sorting|27533}} || {{Number table sorting|86082}} 
+ |- 
+ |align= " left " | Saint Ann 
+ | {{Number table sorting|172362}} || {{Number table sorting|49812}} || {{Number table sorting|122550}} 
+ |- 
+ |align= " left " | Saint James 
+ | {{Number table sorting|183811}} || {{Number table sorting|110207}} || {{Number table sorting|73604}} 
+ |- 
+ |align= " left " | Hanover 
+ | {{Number table sorting|69533}} || {{Number table sorting|7282}} || {{Number table sorting|62251}} 
+ |- 
+ |align= " left " | Westmoreland 
+ | {{Number table sorting|144103}} || {{Number table sorting|39591}} || {{Number table sorting|104512}} 
+ |- 
+ |align= " left " | Saint Elizabeth 
+ | {{Number table sorting|150205}} || {{Number table sorting|22585}} || {{Number table sorting|127620}} 
+ |- 
+ |align= " left " | Manchester 
+ | {{Number table sorting|189797}} || {{Number table sorting|66390}} || {{Number table sorting|123407}} 
+ |- 
+ |align= " left " | Trelawny 
+ | {{Number table sorting|75164}} || {{Number table sorting|14378}} || {{Number table sorting|60786}} 
+ |- 
+ |align= " left " | Clarendon 
+ | {{Number table sorting|245103}} || {{Number table sorting|85861}} || {{Number table sorting|159242}} 
+ |- 
+ |align= " left " | Saint Catherine 
+ | {{Number table sorting|516218}} || {{Number table sorting|398555}} || {{Number table sorting|117663}} 
+ |- style= " background:white " 
+ |align= " left " | '''Jamaica''' 
+ | {{Number table sorting|2697983}} || {{Number table sorting|1453438}} || {{Number table sorting|1244545}} 
+ |} 
+ < /div > 
+ 
+ ===People=== 
+ According to estimates about 70% of Jamaicans are Black and the rest of the 30% are composed of mostly Mixed Race people, but also includes White and Asian Jamaicans. < ref > {{cite web|url=http://www.worldstatesmen.org/Jamaica.htm|title=Jamaica|website=www.worldstatesmen.org|access-date=11 January 2019}} < /ref > 
+ 
+ ===Language=== 
+ The official language of Jamaica is English and the population also speaks [[Jamaican Patois|Jamaican Creole English]]. < ref > {{cite web |url=http://www.ethnologue.com/country/JM |title=Jamaica |publisher=Ethnologue |date=2013 |accessdate=15 April 2013}} < /ref > 
+ 
+ ===Religion=== 
+ The people of Jamaica is 62.5% [[Protestant]] (10.8% [[Seventh-day Adventist Church]], 9.5% [[Pentecostalism|Pentecostal]], 8.3 [[Other Church of God]], 7.2% [[Baptist]], 6.3% [[New Testament Church of God]], 4.8% [[Church of God in Jamaica]], 4.3% [[Church of God of Prophecy]], 3.6% [[Anglican Church|Anglicans]], 7.7% other Christian), 2.6% [[Roman Catholic|Catholics]], 14.2% other or unspecified, 20.9% none. < ref name= " cia " > [https://www.cia.gov/library/publications/the-world-factbook/geos/jm.html Jamaica] {{Webarchive|url=https://web.archive.org/web/20181224183714/https://www.cia.gov/library/publications/the-world-factbook/geos/jm.html |date=2018-12-24 }} — CIA — The World Factbook < /ref > 
+ 
+ ==Geography== 
+ [[File:Jamaica Topography.png|thumb|300px|[[Topography|Topographic]] map of Jamaica]] 
+ Jamaica is between [[latitude]]s 17° 42 " N and 18° 31 " N and [[longitude]]s 78° 22 " W and 76° 11 " , that is between the [[equator]] and the [[Tropic of Cancer]]. It has an area of {{convert|10990|km2|sqmi}}. < ref name= " cia "  / > 
+ 
+ Jamaica is the third-largest island country in the Greater Antilles, after Cuba and the Hispaniola (Haiti and the Dominican Republic); it is larger than [[Puerto Rico]]. The island is {{convert|235|km|mi}} from [[east]] to [[west]]; the width, from north to south, varies between {{convert|35|km|mi}} to {{convert|82|km|mi}}. The country is composed mainly of the mainland, but near the coast there are a few isolated small islands. < ref name= " USGEO " > [http://countrystudies.us/caribbean-islands/20.htm Geography] ''Caribbean Islands: A Country Study.'' Library of Congress, 1987 < /ref > 
+ 
+ The '''Blue Mountains''' are the longest [[mountain range]] in Jamaica. They include the island's highest point, [[Blue Mountain Peak]], at {{convert|2256|m|ft}}. < ref name= " USGEO "  / > 
+ 
+ ===Rivers=== 
+ The '''Rio Minho''' is the longest river in Jamaica at {{convert|92.8|km|mi}}. < ref name= " JNHT2 " > {{cite web| url = http://www.jnht.com/heritage_site.php?id=197 | title = Jamaica National Heritage Trust – Black River |archiveurl = https://web.archive.org/web/20090307042122/http://www.jnht.com/heritage_site.php?id=197 |archivedate = 7 March 2009 }} < /ref >  It rises close to the island's geographic centre, flows generally south-southwest and reaches the [[Caribbean Sea]] at [[Carlisle Bay (Jamaica)|Carlisle Bay]] in the central south coast, to the west of the island's southernmost point, [[Portland Point]]. 
+ 
+ The '''Black River''' is one of the longest rivers in Jamaica. At a length of {{convert|53.4|km|mi|abbr=on}}, it was believed to be the longest until it was discovered that the Rio Minho was longer. It was originally called Rio Caobana. < ref name= " JNHT2 "  / > 
+ 
+ == Famous people == 
+ The island is known for the [[Rastafarian]] movement, as well as [[reggae]] artist [[Bob Marley]]. The popular sprinter [[Usain Bolt]] is also an asset from the country. Usain Bolt won gold in the 100 and 200 races in Rio 2016. England goalkeeper Joe Hart is also born in Jamaica. The captain of AS Roma Lorenzo Pellegrini is also born in Jamaica. 
+ 
+ ==References== 
+ {{Reflist|2}} 
+ 
+ ==Other websites== 
+ {{commons-inline}} 
+ 
+ {{North America}} 
+ {{Caribbean}} 
+ {{Caricom}} 
+ {{Commonwealth nations}} 
+ 
+ {{coord|18.1823878|-77.3217773|scale:1000000|display=title|format=dms}} 
+ 
+ [[Category:Jamaica| ]] 
+ [[Category:Commonwealth realms]] 
+ [[Category:English-speaking countries]] 
+ [[Category:Current monarchies]] 
+ [[Category:Caribbean Community]] 
+ [[Category:1962 establishments in North America]]

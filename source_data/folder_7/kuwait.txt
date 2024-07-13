@@ -1,0 +1,165 @@
+{{Infobox country 
+ | conventional_long_name = State of Kuwait 
+ | common_name            = Kuwait 
+ | native_name            = {{native name|ar|دولة الكويت|italics=off}} < br > ''{{transl|ar|Dawlat al-Kuwait}}'' 
+ | image_flag             = Flag of Kuwait.svg 
+ | image_coat             = Emblem of Kuwait.svg 
+ | symbol_type            = Emblem 
+ | national_anthem        = {{plainlist| 
+ *  " [[Al-Nasheed Al-Watani]] " 
+ *  " National Anthem " 
+ }} 
+ | image_map              = KWT orthographic.svg 
+ | map_caption            = {{map caption |location_color= green}} 
+ | image_map2             = Kuwait - Location Map (2013) - KWT - UNOCHA.svg 
+ | capital                = [[Kuwait City]] 
+ | coordinates            = {{Coord|29|22|N|47|58|E|type:city}} 
+ | largest_city           = capital 
+ | official_languages     = [[Modern Standard Arabic|Arabic]] 
+ | ethnic_groups          = {{unbulleted list 
+  | 60% [[Arabs|Arab]] (31.1% [[Demographics of Kuwait|Kuwaiti]], 28.9% other Arabs) < ref name=cia / > 
+  | 37.8% South Asian 
+  | 1.9% African 
+  }} 
+ | demonym                = [[Demographics of Kuwait|Kuwaiti]] 
+ | government_type        = [[Unitary state|Unitary]] [[constitutional monarchy]] < ref name=cia > {{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ku.html |title=Kuwait |website=[[The World Factbook]] |publisher=[[Central Intelligence Agency]] |date=10 April 2015 |url-status=live |archiveurl=https://web.archive.org/web/20140702040108/https://www.cia.gov/library/publications/the-world-factbook/geos/ku.html |archivedate=2 July 2014  }} < /ref > 
+ | leader_title1          = [[Emir of Kuwait|Emir]] 
+ | leader_name1           = [[Mishal Al-Ahmad Al-Jaber Al-Sabah]] 
+ | leader_title3          = [[List of Speakers of Kuwait National Assembly|Speaker of the National Assembly]] 
+ | leader_name3           = [[Marzouq Al-Ghanim]] 
+ | leader_title2          = [[List of Prime Ministers of Kuwait|Prime Minister]] 
+ | leader_name2           = [[Sabah Al-Khalid Al-Sabah]] 
+ | legislature            = [[National Assembly (Kuwait)|National Assembly]] 
+ | sovereignty_type       = [[History of Kuwait|Establishment]] 
+ | established_event1     = Independence from the Emirate of Al Hasa 
+ | established_date1      = 1752 
+ | established_event2     = [[Anglo-Ottoman Convention of 1913|Anglo-Ottoman Convention]] 
+ | established_date2      = 1913 
+ | established_event3     = End of treaties with the [[United Kingdom]] 
+ | established_date3      = 19 June 1961 
+ | area_km2               = 17,818 
+ | area_rank              = 152nd  < !-- Area rank should match [[List of countries and dependencies by area]] -- > 
+ | area_sq_mi             = 6,880  < !-- Do not remove per [[WP:Manual of Style/Dates and numbers]] -- > 
+ | percent_water          = negligible 
+ | population_estimate    = {{UN_Population|Kuwait}}{{UN_Population|ref}} 
+ | population_census      = 2,213,403 < ref > {{cite web|title=Population of Kuwait |url=http://www.e.gov.kw/sites/kgoenglish/portal/Pages/Visitors/AboutKuwait/KuwaitAtaGlane_Population.aspx |website=Kuwait Government Online |date=2013 |url-status=dead |archiveurl=https://web.archive.org/web/20130117001531/http://www.e.gov.kw/sites/kgoenglish/portal/Pages/Visitors/AboutKuwait/KuwaitAtaGlane_Population.aspx |archivedate=17 January 2013 }} < /ref > 
+ | population_estimate_year = {{UN_Population|Year}} 
+ | population_estimate_rank = 128th 
+ | population_census_year = 2005 
+ | population_density_km2 = 200.2 
+ | population_density_sq_mi = 518.4  < !-- Do not remove per [[WP:Manual of Style/Dates and numbers]] -- > 
+ | population_density_rank = 61st 
+ | GDP_PPP                = $303 billion < ref name=imf2 > {{cite web |title=IMF Report for Selected Countries and Subjects : Kuwait |  publisher=[[International Monetary Fund]] |url=http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=51 & pr.y=15 & sy=2015 & ey=2022 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & c=443 & s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC & grp=0 & a= 
+   |access-date=1 April 2017 |url-status=live |archiveurl=https://web.archive.org/web/20180224093441/http://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=78 & pr.y=12 & sy=2017 & ey=2017 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & c=443 & s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPC & grp=0 & a= |archivedate=24 February 2018  }} < /ref > 
+ | GDP_PPP_year           = 2018 
+ | GDP_PPP_rank           =  
+ | GDP_PPP_per_capita     = $69,669 < ref name=imf2 / > 
+ | GDP_PPP_per_capita_rank = 5th 
+ | GDP_nominal            = $118.271 billion < ref name=imf2 / > 
+ | GDP_nominal_year       = 2018 
+ | GDP_nominal_rank       = 55th 
+ | GDP_nominal_per_capita = $28,199 < ref name=imf2 / > 
+ | GDP_nominal_per_capita_rank = 23rd 
+ | Gini                   =  < !-- number only -- > 
+ | Gini_year              =  
+ | Gini_change            =  < !-- increase/decrease/steady -- > 
+ | Gini_ref               =  
+ | Gini_rank              =  
+ | HDI                    = 0.803  < !-- number only -- > 
+ | HDI_year               = 2017 < !-- Please use the year to which the data refers, not the publication year -- > 
+ | HDI_change             = increase < !-- increase/decrease/steady -- > 
+ | HDI_ref                =  < ref name= " HDI " > {{cite web |url=http://www.hdr.undp.org/en/2018-update |title=2018 Human Development Report |year=2018 |accessdate=14 September 2018 |publisher=United Nations Development Programme |archive-date=14 September 2018 |archive-url=https://web.archive.org/web/20180914203906/http://hdr.undp.org/en/2018-update |url-status=dead }} < /ref > 
+ | HDI_rank               = 56th 
+ | currency               = [[Kuwaiti dinar]] 
+ | currency_code          = KWD 
+ | time_zone              = [[Arabia Standard Time|AST]] 
+ | utc_offset             = +3 
+ | utc_offset_DST         =  
+ | time_zone_DST          =  
+ | date_format            = dd/mm/yyyy ([[Common Era|CE]]) 
+ | drives_on              = right 
+ | calling_code           = [[Telephone numbers in Kuwait|+965]] 
+ | cctld                  = [[.kw]] 
+ | official_website       = [https://www.e.gov.kw/sites/kgoEnglish/Pages/HomePage.aspx www.e.gov.kw] 
+ | footnote_a             = Nominal [[Order of succession|succession]] within the [[House of Sabah]]. 
+ | footnote_b             = [[Emirate]] 
+ | religion               = [[Islam]] 
+ }} 
+ [[File:locationKuwait.png|right|Location of Kuwait]] 
+ [[File:Ku-map.png|thumb|right|Map of Kuwait]] 
+ [[File:Satellite image of Kuwait in November 2001.jpg|thumb|right|A [[Satellite (artificial)|satellite]] Image of Kuwait (taken in 2001)]] 
+ [[File:LiberationTower.jpg|thumb|right|[[Skyline]] of Kuwait]] 
+ 
+ '''Kuwait''' (Arabic: الكويت) is a small Arab [[country]] (about 17,819 [[square kilometre|square kilometers]]) in the [[Middle East]]. 
+ 
+ Kuwait is the most socially progressive country in the Gulf region. It has a small and rich [[economy]]. It has about 96 billion [[barrel]]s of [[petroleum|crude oil]] reserves. Crude oil reserves are the oil that is still under the ground and has not yet been cleaned up. Kuwait has 10% of all of the oil reserves in the world. The country makes a lot of money by selling oil. This money is almost half of all the money the country makes. The oil money is also 95% of the money made by selling things to different countries (people call that [[export]]s). Also, the oil money is 80% of the money the government makes. Kuwait is now talking with oil companies of other countries to make oil fields in the northern part of the country. 
+ 
+ Kuwait's weather makes farming hard (too little [[rain]]). Instead of farming, the country catches [[fish]] and buys [[food]] from other countries. About 75% of the country's [[water]] to drink has to be [[distillation|distilled]] (have the [[salt]] removed) or [[wikt:purchase|purchase]]d from other countries. 
+ 
+ In [[1990]], [[Iraq]] [[invasion|invaded]] (brought an army in to fight against) Kuwait. This started the first [[Gulf War]]. Kuwait's official religion is [[Islam]], although 15% of its population are [[Christian]] or [[Hindu]]. [[Arabic language|Arabic]] is mostly spoken in Kuwait but English is widespread among Kuwaitis (residents of Kuwait). Kuwait is one of the few nations that has education for every age. 
+ 
+ Another interesting fact about Kuwait is that a lot of people speak English. 
+ 
+ ==Demographics== 
+ Population (in thousands) for 2004 2595. 
+ CBR(per 1000) for 2004 19.4. 
+ CDR (per 1000) for 2004	1.9. Growth Rate(%) for 1992-2002 2.1. the Total Fertility Rate	for 2002 is 2.7. Percent population is living in urban in 2003 96.2.Per capita gross national income ($) 2002 612. Population Density( per square kilometer) in 2000 107.4 
+ Infant Mortality Rate (per 1000)for 2005 9.95. Adult literacy rate (85%) female literacy rate (81%) (2002). 
+ 
+ == Governorates == 
+ Kuwait is divided into 6 [[Governorates of Kuwait|governorates]]. The governorates are divided into districts, And the establishment of the governorates of Kuwait dates back to the Emiri Decree No. 6 issued in 1962, which divided Kuwait into three governorates: the Capital Governorate, Hawalli Governorate and Al-Ahmadi Governorate. The decree clarified the work of the governor, his subordination of the governor to the Ministry of Interior, and his responsibility towards security, provided that the Ministry of Interior issues the necessary decisions to indicate the limits of the governor's jurisdiction. There have been some changes regarding the governorates of Kuwait, which we summarize as follows: 
+ 
+ . On November 14, 1979: Some provisions of the administrative division decree were amended so that a fourth governorate, Al-Jahra Governorate, was added. 
+ 
+ . On October 12, 1988: The first article of the article was amended to divide Kuwait into five governorates by adding Al-Farwaniyah Governorate. 
+ 
+ . On November 27, 1999: Emiri Decree No. 290 was issued to add a sixth governorate, Mubarak Al-Kabeer Governorate. 
+ 
+ Thus, Kuwait has become administratively divided into six governorates, each affiliated with several regions. Warba Island and Bubiyan Island belong to the Jahra Governorate, while the rest of the islands belong to the Capital Governorate. 
+ 
+ {| class= " wikitable " 
+ ! bgcolor= " #ffffff "  colspan= " 25 "  width= " 80% "  valign= " right " |[[File:Kuwait governorates english.png|250px|[[Governorates]] of Kuwait]] 
+ |- 
+ |-align= " center "  bgcolor= " #CCCCCC " 
+ ! Subdivision 
+ ! Capital 
+ ! Area < br > km² 
+ ! Population < br > Census < br > of 2005 
+ ! Created 
+ |- 
+ | [[Al Asimah Governorate (Kuwait)|Al Asimah]] (Al Kuwayt) < sup > 2) < /sup >  || [[Al Kuwait]] || align= " right "  | 200|| align= " right "  | 261 013 || original Governorate 
+ |- 
+ | [[Hawalli Governorate|Hawalli]] || [[Hawalli District]] || align= " right "  | 84|| align= " right "  | 487 514 || original Governorate 
+ |- 
+ | [[Al Farwaniyah Governorate|Al Farwaniyah]] || [[Al Farwaniyah]] || align= " right "  | 190|| align= " right "  | 622 123 || 1988 from [[Al Asimah Governorate (Kuwait)|Al Asimah]] 
+ |- 
+ | [[Al Ahmadi Governorate|Al Ahmadi]] < sup > 1) < /sup >  || [[Al Ahmadi]] || align= " right "  | 5 120|| align= " right "  | 393 861 || 1946 from [[Al Asimah Governorate (Kuwait)|Al Asimah]] 
+ |- 
+ | [[Al Jahra Governorate|Al Jahra]] < sup > 3) < /sup >  || [[Jahra|Al Jahra]] || align= " right "  | 12 130|| align= " right "  | 272 373 || 1979 from [[Al Asimah Governorate (Kuwait)|Al Asimah]] 
+ |- 
+ | [[Mubarak Al-Kabeer Governorate|Mubarak Al-Kabeer]] || [[Mubarak Al-Kabeer (city)|Mubarak Al-Kabeer]] || align= " right "  | 94|| align= " right "  | 176 519 || November 1999 from [[Hawalli Governorate|Hawalli]] 
+ |- style= " background: #CCC; "   
+ | TOTAL || || align= " right "  | 17 818 || align= " right "  | 2 213 403 || & nbsp; 
+ |-   
+ | colspan=5 bgcolor= " #ffffff "  |  < sup > 1) < /sup >  The [[Saudi-Kuwaiti neutral zone|Neutral Zone]] was dissolved on 18 December 1969, < br > and the northern part with 2590 & nbsp;km² was added to [[Al Ahmadi Governorate|Al Ahmadi]] (with small part in the northwest added to [[Al Jahra Governorate|Al Jahra]]) 
+ |-   
+ | colspan=5 bgcolor= " #ffffff "  |  < sup > 2) < /sup >  including the [[List of islands of Kuwait|islands]] of [[Failaka Island|Failaka]], [[Miskan Island|Miskan]], and [[Auhah Island|Auhah]] 
+ |-   
+ | colspan=5 bgcolor= " #ffffff "  |  < sup > 3) < /sup >  including the [[List of islands of Kuwait|islands]] of [[Warbah Island|Warbah]] and [[Bubiyan Island|Bubiyan]] 
+ |} 
+ 
+ ==Related pages== 
+ *[[Kuwait at the Olympics]] 
+ *[[Kuwait national football team]] 
+ *[[List of rivers of Kuwait]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ {{Asia}} 
+ {{Middle East}} 
+ {{authority control}} 
+ [[Category:Former protectorates]] 
+ [[Category:Kuwait| ]] 
+ [[Category:Current monarchies]] 
+ [[Category:Monarchies of Asia]] 
+ [[Category:Members of the Organisation of Islamic Cooperation]]

@@ -1,0 +1,149 @@
+{{for|the province|Province of Macerata}} 
+ {{Infobox Italian comune 
+ | name                = Macerata 
+ | official_name       = Comune di Macerata 
+ | native_name         =  
+ | image_skyline       = PanoramaMaceraty2010.JPG 
+ | imagesize           =  
+ | image_alt           = Historical center of Macerata 
+ | image_caption       = A view of the historical center of Macerata 
+ | image_shield        = Macerata-Stemma.svg 
+ | shield_alt          =  
+ | image_map           = Map of comune of Macerata (province of Macerata, region Marche, Italy).svg 
+ | map_alt             = Macerata in the province 
+ | map_caption         = The ''comune'' Macerata, in red, in its province. 
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates         = {{coord|43|18|N|13|27|E|display=inline,title}} 
+ | region              = [[Marche]] 
+ | province            = [[Province of Macerata|Macerata]] (MC) 
+ | frazioni            = see [[#Frazioni|list]] 
+ | mayor_party         =  
+ | mayor               = Romano Carancini < ref > {{cite web|url=http://www.comune.macerata.it/aree-tematiche/incomune/sindaco |title=Il Comune di Macerata- Sindaco |publisher=Comune di Macerata |language=Italian |accessdate= 2 July 2016}} < /ref > 
+ | area_footnotes      =  < ref name= " area " > {{cite web|url=http://www.tuttitalia.it/marche/53-macerata/ |title=Comune di Macerata |publisher=Tuttitalia.it |language=Italian |accessdate=2 July 2016}} < /ref > 
+ | area_total_km2      = 92.53 
+ | population_footnotes =  < ref name= " pop " > {{cite web |url=http://demo.istat.it/pop2017/index.html |title=Statistiche demografiche ISTAT |publisher=Demo.istat.it |language=Italian |accessdate=2 November 2017 |archive-date=3 January 2018 |archive-url=https://web.archive.org/web/20180103163404/http://demo.istat.it/pop2017/index.html |url-status=dead }} < /ref > 
+ | population_total    = 42209 
+ | population_as_of    = January 2017 
+ | pop_density_footnotes =  
+ | population_demonym  = Maceratesi 
+ | elevation_footnotes = < ref name= " area "  / > 
+ | elevation_m         = 315 
+ | elevation_min_m     = 58 
+ | elevation_max_m     = 320 
+ | twin1               =  
+ | twin1_country       =  
+ | saint               = [[Julian the Hospitaller]] 
+ | day                 = 31 August 
+ | postal_code         = 62100 
+ | area_code           = 0733 
+ | website             = {{official website|http://www.comune.macerata.it/}} 
+ | footnotes           =  
+ }} 
+ '''Macerata'''  is a city and ''[[comune]]'' in the [[Marche]] [[Regions of Italy|region]], [[central Italy]]. It is the [[Capital city|capital]] of the [[province of Macerata]]. 
+ 
+ The football team is [[A.C. Maceratese]].  They play in the D League. 
+ 
+ ==Geography== 
+ The [[History|historical]] city centre is on a [[hill]] between the [[Chienti]] and [[Potenza (river)|Potenza]] rivers. The ''comune'' of Macerata has an area of {{Convert|92.53|km2|sqmi|abbr=on }} and its [[altitude]] is {{Convert|315|m|ft|abbr=on}}. < ref name= " area "  / > 
+ 
+ Macerata borders with the  ''[[Comune|comuni]]'' [[Corridonia]], [[Montecassiano]], [[Pollenza]], [[Appignano]], [[Treia]], [[Montelupone]], [[Morrovalle]], [[Recanati]] and [[Tolentino]] (a small part). < ref > {{cite web|url=http://www.tuttitalia.it/marche/53-macerata/67-comuni-limitrofi/ |title=Comuni limitrofi a Macerata |publisher=Tuttitalia.it |language=Italian |accessdate=2 July 2016}} < /ref > 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Macerata 
+ |North     = [[Montecassiano]] 
+ |Northeast = [[Recanati]] 
+ |East      = [[Montelupone]] 
+ |Southeast = [[Morrovalle]] 
+ |South     = [[Corridonia]] 
+ |Southwest = [[Tolentino]] 
+ |West      = [[Pollenza]] 
+ |Northwest = [[Treia]], [[Appignano]] 
+ }} 
+ 
+ ===''Frazioni''=== 
+ The following ''[[Frazione|frazioni]]'' ([[Hamlet (place)|hamlet]]s) are part of Macerataː Acquesalate, Acquevive, Botonto San Giacomo, Botonto Sant'Isidoro, Cervare, Cimarella, Cincinelli, Collevario, Colleverde, Consalvi, Corneto, Helvia Recina, Isola, Madonna del Monte, Montanello, Piediripa, Sforzacosta, Valle, Vallebona, Valteia, Villa Potenza. 
+ 
+ ==Population== 
+ There are 42,209 persons living in the ''comune'' in 2017, < ref name=pop / >  for a [[population density]] of {{Pop density|42209|92.53|km2|prec=1|disp=num}} inhabitants/km². 
+ 
+ '''Evolution of the population''' 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:50000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1961 text:1961 
+  bar:1971 text:1971 
+  bar:1981 text:1981 
+  bar:1991 text:1991 
+  bar:2001 text:2001 
+  bar:2011 text:2011 
+  bar:2017 text:2017 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+   bar:1961 from:0 till: 38338 
+   bar:1971 from:0 till: 43537 
+   bar:1981 from:0 till: 43782 
+   bar:1991 from:0 till: 43040 
+   bar:2001 from:0 till: 40875 
+   bar:2011 from:0 till: 42019 
+   bar:2017 from:0 till: 42209 
+ 
+ PlotData= 
+   bar:1961 at: 38338 fontsize:S text: 38,338 shift:(-13,5) 
+   bar:1971 at: 43537 fontsize:S text: 43,537 shift:(-18,5) 
+   bar:1981 at: 43782 fontsize:S text: 43,782 shift:(-18,5) 
+   bar:1991 at: 43040 fontsize:S text: 43,040 shift:(-18,5) 
+   bar:2001 at: 40875 fontsize:S text: 40,875 shift:(-18,8) 
+   bar:2011 at: 42019 fontsize:S text: 42,019 shift:(-18,5) 
+   bar:2017 at: 42209 fontsize:S text: 42,209 shift:(-18,5) 
+ < /timeline > 
+ < /center > 
+ 
+ The people from this ''comune'' are known, in [[Italian language|Italian]], as ''maceratesi''. 
+ 
+ ==Twinned towns== 
+ Macerata is [[Twin town|twinned]] with: 
+ *{{flagicon|GER}} [[Weiden in der Oberpfalz]], Germany, since 1963 
+ *{{flagicon|FRA}} [[Issy-les-Moulineaux]], France, since 1982 
+ *{{flagicon|Malta}} [[Floriana, Malta]], since 2007 
+ *{{flagicon|ALB}} [[Kamëz]], Albania, since 13 March 2010 < ref > [http://www.kamza.gov.al/previewdoc.php?file_id=332 Binjakëzime] {{Webarchive|url=https://web.archive.org/web/20130921214737/http://www.kamza.gov.al/previewdoc.php?file_id=332 |date=2013-09-21 }}, Municipality of Kamëz (in Albanian) < /ref > 
+ *{{flagicon|UK}} [[Sheffield]], UK, since 2013 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ PanoramaMaceraty2010g.jpg|Panorama of Macerata 
+ Macerata Piazza della Liberta 2010a.JPG|Piazza della Liberta 
+ CattedraleMacerata.JPG|[[Cathedral]] of Macerata 
+ < /gallery > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Wikivoyage}} 
+ {{Commonscat}} 
+ *[http://www.comune.macerata.it/ Macerata official website] {{in lang|it}} 
+ 
+ {{Province of Macerata}} 
+ 
+ [[Category:Cities in Marche]] 
+ [[Category:Capital cities in Italy]] 
+ [[Category:Province of Macerata]]

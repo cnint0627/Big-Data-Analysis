@@ -1,0 +1,50 @@
+{{Regular polygon db|Regular polygon stat table|p60}} 
+ A '''hexacontagon''' or '''60-gon''' is a [[Polygon|shape]] with 60 sides and 60 [[Vertex (geometry)|corner]]s. < ref > {{cite book| last = Gorini| first = Catherine A.| title = The Facts on File Geometry Handbook| url = https://books.google.com/books?id=PlYCcvgLJxYC & pg=PA78| year = 2003| publisher = Infobase Publishing| isbn = 978-1-4381-0957-2| page = 78 }} < /ref > < ref > {{cite book| last = Peirce| first = Charles Sanders| title = The New Elements of Mathematics: Algebra and geometry| url = https://books.google.com/books?id=wALvAAAAMAAJ| year = 1976| publisher = Mouton Publishers| isbn = 9780391006126| page = 298 }} < /ref > 
+ 
+ == Regular hexacontagon == 
+ A ''[[regular polygon|regular]] hexacontagon'' is represented by [[Schläfli symbol]] {60} and also can be constructed as a [[Truncation (geometry)|truncated]] [[triacontagon]], t{30}, or a twice-truncated [[pentadecagon]], tt{15}. A truncated hexacontagon, t{60}, is a 120-gon, {120}. 
+ 
+ One interior angle in a regular hexacontagon is 174°, meaning that one exterior angle would be 6°. 
+ 
+ === Area === 
+ The [[area]] of a regular hexacontagon is (with {{nowrap|''t'' {{=}} edge length}}) 
+ : < math > A = 15t^2 \cot \frac{\pi}{60} < /math > 
+ 
+ and its [[inradius]] is 
+ : < math > r = \frac{1}{2}t \cot \frac{\pi}{60} < /math > 
+ 
+ The [[circumradius]] of a regular hexacontagon is 
+ : < math > R = \frac{1}{2}t \csc \frac{\pi}{60} < /math > 
+ 
+ This means that the trigonometric functions of π/60 can be expressed in radicals. 
+ 
+ === Constructible=== 
+ Since 60 = 2 < sup > 2 < /sup >  × 3 × 5, a regular hexacontagon is [[constructible polygon|constructible]] using a [[compass and straightedge]]. < ref > [http://mathworld.wolfram.com/ConstructiblePolygon.html Constructible Polygon] < /ref >  As a [[truncation (geometry)|truncated]] [[triacontagon]], it can be constructed by an edge-[[bisection]] of a regular triacontagon. 
+ 
+ == Dissection== 
+ [[File:60-gon rhombic dissection-size2.svg|thumb|60-gon with 1740 rhombs]] 
+ [[Coxeter]] states that every [[zonogon]] (a 2''m''-gon whose opposite sides are parallel and of equal length) can be dissected into ''m''(''m''-1)/2 parallelograms. 
+ < ref > [[Coxeter]], Mathematical recreations and Essays, Thirteenth edition, p.141 < /ref > 
+ In particular this is true for [[regular polygon]]s with evenly many sides, in which case the parallelograms are all rhombi. For the ''regular hexacontagon'', ''m''=30, and it can be divided into 435: 15 squares and 14 sets of 30 rhombs. This decomposition is based on a [[Petrie polygon]] projection of a [[30-cube]]. 
+ {| class=wikitable 
+ |+ Examples 
+ |[[File:60-gon rhombic dissection.svg|left|160px]] 
+ |[[File:60-gon rhombic dissection2.svg|left|160px]] 
+ |[[File:60-gon rhombic dissectionx.svg|left|160px]] 
+ |} 
+ {{Clear}} 
+ 
+ ==References== 
+ {{reflist}} 
+ * {{Mathworld|title=Hexacontagon|urlname=Hexacontagon}} 
+ * [http://mathforum.org/dr.math/faq/faq.polygon.names.html Naming Polygons and Polyhedra] 
+ * {{cite book| last = Finkel| first = Benjamin Franklin| title = A Mathematical Solution Book Containing Systematic Solutions to Many of the Most Difficult Problems: Taken from the Leading Authors on Arithmetic and Algebra, Many Problems and Solutions from Geometry, Trigonometry and Calculus, Many Problems and Solutions from the Leading Mathematical Journals of the United States, and Many Original Problems and Solutions| url = https://books.google.com/books?id=ugBDAAAAIAAJ| year = 1888| publisher = Kibler| isbn =  }} 
+ 
+ 
+ {{Polygons}} 
+ 
+ 
+ [[Category:Polygons|60]] 
+ 
+ 
+ {{Math-stub}}

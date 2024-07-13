@@ -1,0 +1,43 @@
+[[File:CCD Image sensor.jpg|300px|thumb|A CCD (charge-coupled device) has a [[grid]] of sensors that [[wikt:react|react]] to light.]] 
+ [[File:Cathode ray diffraction.png|300px|thumb|A television tube or other CRT (cathode ray tube) detects electrons on its screen.]] 
+ [[File:Rumfords Photometer.jpg|thumb|This photometer measured brightness by comparing shadows]] 
+ 
+ A '''sensor''' is a [[device]] that measures a [[physical quantity]] and converts it into a '[[Signal processing|signal]]' which can be read by an observer or by an instrument. For example, a mercury [[thermometer]] converts the measured temperature into the expansion and contraction of a [[liquid]] which can be read on a calibrated glass tube.  [[Video camera]]s and a [[digital camera]]s have an [[image sensor]]. 
+ 
+ There are many different types of sensors. Some are used in everyday objects, and some are separate. 
+ 
+ == Thermal sensors == 
+ A sensor that detects [[temperature]]. Thermal sensors are in many [[Laptop|laptops]] and computers in order to sound an alarm when a certain temperature has been exceeded. 
+ * temperature sensors: [[thermometers]], [[thermostat]]s 
+ * heat sensors: [[Bolometric magnitude|bolometer]], [[calorimeter]] 
+ 
+ == Electromagnetic sensors == 
+ An electronic device used to measure a physical quantity such as pressure or loudness and convert it into an electronic signal of some kind (e.g. a [[voltage]]). 
+ * [[electrical resistance]] sensors: ohmmeter 
+ * electrical [[voltage]] sensors: [[voltmeter]] 
+ * [[electrical power]] sensors: watt-hour meter 
+ * [[magnetism]] sensors: magnetic compass 
+ * [[metal detector]]s 
+ * [[Radar]] 
+ 
+ An electromagnetic sensor is anything that can detect things like [[photon]]s, [[electron]]s, [[magnetic field]] < nowiki/ > s etc. It can be as simple as a white wall, a sheet of white paper, etc., or as new as a [[charge-coupled device]]. When a [[laser]] is aimed at a detection screen, a bright spot can be seen on the screen, or when an electron hits the [[phosphor]]s on another kind of screen, it makes that screen glow. 
+ 
+ == Mechanical sensors == 
+ * Pressure sensors: [[barometer]] 
+ * [[Vibration]] and [[Shock (circulatory)|shock]] sensors 
+ 
+ == Motion sensors == 
+ A motion sensor detects physical movement in a given area. 
+ * Radar gun, [[tachometer]] 
+ * [[Speedometer]] 
+ 
+ == Car sensors == 
+ * reversing sensor 
+ * curb feeler 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Sensors| ]] 
+ [[Category:Tools]] 
+ [[Category:Computer hardware]] 
+ [[Category:Data input]]

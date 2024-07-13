@@ -1,0 +1,20 @@
+A '''permutation''' is a single way of arranging a group of objects.  It is useful in [[mathematics]].    
+ 
+ A permutation can be changed into another permutation by simply switching two or more of the objects. For example, the way four people can sit in a car is a permutation. If some of them chose different seats, then it would be a different permutation. 
+ 
+ ==Permutations without repetitions== 
+ The [[factorial]] has special application in defining the number of permutations in a set which does not include repetitions. The number n!, read  " n factorial " , < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-09-10|website=Math Vault|language=en-US}} < /ref >  is precisely the number of ways we can rearrange n things into a new order. For example, if we have three fruit: an orange, apple and pear, we can eat them in the order mentioned, or we can change them (for example, an apple, a pear then an orange). The exact number of permutations is then  < math > 3! = 1 \cdot 2 \cdot 3 = 6 < /math > . The number gets extremely large as the number of items (n) goes up. 
+ 
+ In a similar manner, the number of arrangements of r items from n objects is considered a partial permutation. It is written as  < math > nPr < /math >  (which reads  " n permute r " ), and is equal to the number  < math > n (n-1) \cdots (n - r + 1) < /math >  (also written as  < math > n! / (n-r)! < /math > ). < ref > {{Cite web|date=2020-04-26|title=List of Probability and Statistics Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/|access-date=2020-09-10|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Combinations and Permutations|url=https://www.mathsisfun.com/combinatorics/combinations-permutations.html|access-date=2020-09-10|website=www.mathsisfun.com}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Permutation|url=https://mathworld.wolfram.com/Permutation.html|access-date=2020-09-10|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[Combination (mathematics)]] 
+ * [[Superpermutation]] 
+ 
+ == References == 
+ < references / > 
+ {{math-stub}} 
+ 
+ [[Category:Combinatorics]] 
+ [[Category:Abstract algebra]]

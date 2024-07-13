@@ -1,0 +1,23 @@
+'''Transliteration''' is a conversion of a text from one [[writing system]] to another. < ref > G. Gerych. [https://ruor.uottawa.ca/bitstream/10393/22477/1/EC56137.PDF Transliteration of Cyrillic Alphabets.] Ottawa University, April 1965. 126 & nbsp;pp. < /ref > < ref > Kharusi N.S.  &  Salman A. 2011. The English transliteration of place names in Oman. ''Journal of Academic and Applied Studies'' '''1'''(3), pp. 1–27. Available online at www.academians.org < /ref >  It swaps [[letter (alphabet)|letters]] in predictable ways (such as [[alpha|α]] → [[a]], [[de (Cyrillic)|д]] → [[d]], [[chi (letter)|χ]] → ch, [[ն]] → n or [[æ]] → ae). The word comes from the [[prefix]] ''[[:wikt:trans-|trans-]]'' (in this case, referring to switching the letters around) + the [[Latin language|Latin]] word ''[[:wikt:littera#Latin|littera]]'' (meaning  " letter " ) + the suffix ''[[:wikt:-ation|-ation]]'' (which makes the word into a noun that talks about the process of doing something). 
+ 
+ Transliteration is not about the [[phonetics|sounds]] of the original. It is about the [[typeface|type]] or written characters, mostly the [[letter]]s.  
+ 
+ For example, the name for [[Russia]] in [[Cyrillic script]],  " {{lang|ru|Россия}} " , is usually transliterated as  " Rossiya " . So, 'сс' is transliterated as 'ss', but pronounced {{IPA-all|s}}.  
+ 
+ Transliteration typically goes [[grapheme]] to grapheme. Most transliteration systems are one-to-one, so a reader who knows the system can reconstruct the original spelling. 
+ 
+ Transliteration is opposed to [[transcription (linguistics)|transcription]], which maps the ''sounds'' of one [[language]] into a writing system. 
+ 
+ ==Related pages== 
+ * [[Romanization]] 
+ * [[Diacritic]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{-}} 
+ {{stub}} 
+ 
+ [[Category:Writing systems]] 
+ [[Category:Romanization]]

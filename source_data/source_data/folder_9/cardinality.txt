@@ -1,0 +1,37 @@
+In [[mathematics]], the '''cardinality''' of a [[set]] means the number of its [[Set theory|element]]s. For example, the set ''A'' = {2, 4, 6} contains 3 elements, and therefore ''A'' has a cardinality of 3. The cardinality of a set A can also be represented as  < math > |A| < /math > . < ref name= " :0 " > {{Cite web|date=2020-04-11|title=Comprehensive List of Set Theory Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/set-theory-symbols/|access-date=2020-08-23|website=Math Vault|language=en-US}} < /ref > < ref name= " :1 " > {{Cite web|title=Cardinality {{!}} Brilliant Math  &  Science Wiki|url=https://brilliant.org/wiki/cardinality/|access-date=2020-08-23|website=brilliant.org|language=en-us}} < /ref >   
+ 
+ Two sets have the ''same'' (or ''equal'') cardinality [[if and only if]] they have the same number of elements, which is the another way of saying that there is a [[1-to-1 correspondence]] between the two sets. < ref name= " :2 " > {{Cite web|date=2019-12-05|title=Infinite Sets and Cardinality|url=https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Supplemental_Modules_for_Discrete_Math/Additional_Discrete_Topics_(Dean)/Infinite_Sets_and_Cardinality|access-date=2020-08-23|website=Mathematics LibreTexts|language=en}} < /ref >  The cardinality of the set ''A'' is ''less than or equal to'' the cardinality of set ''B'' if and only if there is an [[injective function]] from ''A'' to ''B''. The cardinality of the set ''B'' is ''greater than or equal to'' the cardinality of set ''A'' if and only if there is an injective function from ''A'' to ''B''.  
+ 
+ The ''cardinality'' of a set is only one way of giving a number to the ''size'' of a set. The concept of [[Measure theory|measure]] is yet another way.  
+ 
+ ==Notation== 
+ 
+ ||''A''|| is the cardinality of the set ''A''. Single vertical bars can also be placed around a set to mean cardinality, such as |''A''|. < ref name= " :0 "  / > < ref name= " :1 "  / > 
+ 
+ == Finite sets == 
+ 
+ The cardinality of a finite set is a [[natural number]]. The smallest cardinality is 0. The [[empty set]] has cardinality 0. If the cardinality of the set ''A'' is ''n'', then there is a  " next larger "  set with cardinality ''n''+1 (for example, the set ''A'' ∪ {''A''}). If ||''A''|| ≤ ||''B''|| ≤ ||''A'' ∪ {''A''}||, then either ||''B''|| = ||''A''|| or ||''B''|| = ||''A'' ∪ {''A''}||.) There is no largest finite cardinality.  
+ 
+ == Infinite sets == 
+ 
+ If the cardinality of a set is not finite, then the cardinality is [[infinity|infinite]]. < ref > In order to simplify, we will assume the [[Axiom of choice]] < /ref > 
+ 
+ An infinite set is considered [[countable set|countable]] if they can be listed without missing any (that is, if there is a one-to-one correspondence between it and the set of [[Natural number|natural numbers]]  < math > \mathbb{N} < /math > ). < ref name= " :2 "  / >  Examples include the [[rational number]]s, [[integer]]s, and [[natural number]]s. Such sets have a cardinality that we call  < math > \aleph_0 < /math >  (pronounced  " [[aleph null]] " ,  " aleph naught "  or  " aleph zero " ). Sets such as the [[real number]]s are not countable, since given any finite or infinite list of real numbers, it's always possible to find a number that's not on that list. The real numbers have a cardinality of  < math > \mathfrak{c} < /math > —the cardinality of the continuum. < ref name= " :0 "  / > 
+ 
+ ==Related pages== 
+ *[[Bijection]] 
+ * [[Cardinal number]] 
+ * [[Cantor's diagonal argument]] 
+ * [[Cantor's theorem]] 
+ * [[Continuum hypothesis]] 
+ * [[Injection|Injective function]] 
+ 
+ == Notes and References == 
+ {{reflist}} 
+ {{Mathematical logic}} 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Cardinal numbers]] 
+ [[Category:Set theory]]

@@ -1,0 +1,36 @@
+{{for|the physicist|James Prescott Joule}} 
+ {{Infobox Unit 
+ | bgcolour = 
+ | name = Joule 
+ | image = 
+ | caption = 
+ | standard = [[SI derived unit]] 
+ | quantity = [[Energy]] 
+ | symbol = J 
+ | dimension = M & sdot;L < sup > 2 < /sup > & sdot;T < sup > & minus;2 < /sup > 
+ | namedafter = [[James Prescott Joule]] 
+ | units1 = [[SI base unit]]s 
+ | inunits1 = 1 [[kilogram|kg]] & middot;[[metre|m]] < sup > 2 < /sup > /[[second|s]] < sup > 2 < /sup > 
+ | units2 = [[CGS unit]]s 
+ | inunits2 = {{val|1|e=7}} [[erg]] 
+ | units3 = [[kilowatt hour]]s 
+ | inunits3 = {{val|2.78|e=-7|u=kW·h}} 
+ | units4 = [[kilocalorie]]s 
+ | inunits4 = {{val|2.39|e=-4|u=kcal}} 
+ | units5 = [[British thermal unit|BTU]]s 
+ | inunits5 = {{val|9.48|e=-4|u=BTU}} 
+ | units6 = [[electronvolt]]s 
+ | inunits6 = {{val|6.24|e=18|u=eV}} 
+ }} 
+ A '''joule''' ({{IPAc-en|ˈ|dʒ|aʊ|l}} or sometimes {{IPAc-en|ˈ|dʒ|uː|l}}) is a [[unit]] in the [[SI]] system. It measures energy; usually in scientific or electrical appliances . It is named after [[James Prescott Joule]].  
+ 
+ A joule refers to the amount of energy transferred to an object when a force of 1 [[Newton (unit)|newton]] is applied on it over a distance of 1 [[metre]] (1J = 1N × 1m). It is related to the [[watt]] (a unit of [[Power (physics)|power]]): one watt equals one joule per second. 
+ 
+ It can also be understood as the work done for passing one ampere of [[electric current]] through an [[electric circuit]] of external resistance equivalent to one ohm for one second.  
+ 
+ {{SI units}} 
+ 
+ {{sci-stub}} 
+ 
+ [[Category:SI derived units]] 
+ [[Category:Units of energy]]

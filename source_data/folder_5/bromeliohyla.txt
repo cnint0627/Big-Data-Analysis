@@ -1,0 +1,39 @@
+{{Automatic taxobox 
+ | taxon = Bromeliohyla 
+ | authority = {{interlanguage link multi|Julián Faivovich|fr|lt=Faivovich}}, {{interlanguage link multi|Célio Fernando Baptista Haddad|fr|lt=Haddad}}, Garcia, [[Darrel Frost|Frost]], [[Jonathan A. Campbell|Campbell]], and {{Interlanguage link multi|Ward C. Wheeler|fr|lt=Wheeler}}, 2005 < ref name= " Faivovich et al. 2005 " / > 
+ | type_species = ''[[Bromeliohyla bromeliacia|Hyla bromeliacia]]'' 
+ | type_species_authority = [[Karl Patterson Schmidt|Schmidt]], 1933 
+ | subdivision_ranks = Species 
+ | subdivision = 3 species (see [[#Species|text]]) 
+ }} 
+ 
+ '''''Bromeliohyla''''', the '''bromeliad tree frogs''', is a group of [[frog]]s in the family [[Hylidae]]. < ref name=Frost/ > < ref name=AmphibiaWeb/ >  Scientists made this genus in 2005 when they looked at all the Hylidae frogs again. The first two species they put in this genus had been in ''[[Hyla]]''. < ref name= " Faivovich et al. 2005 " / >  They are found in tropical southern [[Mexico]], [[Belize]], [[Guatemala]], and northern [[Honduras]]. < ref name=Frost/ > 
+ 
+ == Species == 
+ There are three species in this genus: < ref name=Frost/ > < ref name=AmphibiaWeb/ > 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !Binomial name and author!! Common name 
+ |- 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Bromeliohyla bromeliacia]]'' {{small|(Schmidt, 1933)}} || [[Bromeliad tree frog]] 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Bromeliohyla dendroscarta]]'' {{small|(Taylor, 1940)}} || [[Greater bromeliad tree frog]]  
+ |-style= " background:#EEEEEE; " 
+ | ''[[Bromeliohyla melacaena]]'' {{small|(McCranie and Castañeda, 2006)}} ||  
+ |- 
+ |} 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=http://www.amphibiaweb.org/lists/Hylidae.shtml|title=Hylidae |year=2019 |work=AmphibiaWeb |publisher=University of California, Berkeley |accessdate=2 November 2019}} < /ref > 
+ 
+ < ref name= " Faivovich et al. 2005 " > {{cite journal |last1=Faivovich |first1=Julián |last2=Haddad |first2=Célio F.B. |last3=Garcia |first3=Paulo C.A. |last4=Frost |first4=Darrel R. |last5=Campbell |first5=Jonathan A. |last6=Wheeler |first6=Ward C. |author-link4=Darrel Frost |author-link5=Jonathan A. Campbell|name-list-style=amp |year=2005 |title=Systematic review of the frog family Hylidae, with special reference to Hylinae: phylogenetic analysis and taxonomic revision |journal=Bulletin of the American Museum of Natural History |volume=294 |pages=1–240 |doi=10.1206/0003-0090(2005)294[0001:SROTFF]2.0.CO;2 |hdl=2246/462 |url=http://digitallibrary.amnh.org/dspace/handle/2246/462 |citeseerx=10.1.1.470.2967 |s2cid=83925199 }} < /ref > 
+ 
+ < ref name=Frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Hylidae/Hylinae/Bromeliohyla |title=''Bromeliohyla'' Faivovich, Haddad, Garcia, Frost, Campbell, and Wheeler, 2005 |author=Frost, Darrel R. |year=2019 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=2 November 2019}} < /ref > 
+ }} 
+ 
+ {{Taxonbar|from=Q1839986}} 
+ [[Category:Frogs]] 
+ [[Category:Animals of North America]] 
+ {{Biology-stub}}

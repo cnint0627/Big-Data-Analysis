@@ -1,0 +1,35 @@
+< !--I may get to it later-- > 
+ {{Infobox video game 
+ | title          = XPilot 
+ | image          = xpilotscreen.jpg 
+ | caption        = Screen capture of ''XPilot NG'' running under fvwm on Linux 
+ | developer      = Various 
+ | publisher      = 
+ | engine         = 
+ | released       = 1992 
+ | genre          = [[Multiplayer online game]], [[Multidirectional shooter]] 
+ | modes          = [[Multiplayer]] 
+ | platforms      = [[Unix-like]], [[Microsoft Windows|Windows]], [[Mac OS]], [[iOS (Apple)|iOS]] 
+ }} 
+ '''''XPilot''''' is [[multiplayer]] 2D space action [[video game]]. It is an [[open source]] game, and its first version was released in 1991. 
+ 
+ == Development == 
+ ''XPilot'' was created in 1991 by Bjørn Stabell and Ken Ronny Schouten, students in computer science at the [[Tromsø University College|Tromsø university]] ([[Norway]]), as a multiplayer game similar to ''Thrust''. They received a lot of patches and feedback when they released the first public version. The game has been improved a lot by players from all the world and has many contributors. Originally only available on [[UNIX]], it was ported on the [[MacOS|Mac OS]] and [[Microsoft Windows]]. It has been [[forked]] and new versions appeared: [[XPilot 5]] and XPilot NG (Next Generation). < ref > {{in lang|en}} [https://web.archive.org/web/20080531032533/http://www.acm.org/crossroads/xrds3-2/xpilot.html The Story of ''XPilot''], by Bjørn Stabell and Ken Ronny Schouten, archived by Internet Archive. < /ref > 
+ 
+ In 2009 a version was released for [[iPhone]] and [[iTouch]]. Several projects are currently in progress: a [[Java (programming language)|Java]] version of XPilot, an optimised version for the ''Blood's Music'' map and a project to improve the [[artificial intelligence]]. < ref > {{in lang|en}} [http://www.xpilot.org/development/ XPilot Development], on the original ''XPilot'' website. < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commons category|XPilot}} 
+ * [http://www.xpilot.org/ Official page of the original ''XPilot''] 
+ * [http://www.buckosoft.com/xpilot/ Page of ''XPilot 5'' and ''XPilot NT''] 
+ * [http://xpilot.sourceforge.net/ Page of ''XPilot NG''] 
+ * [http://7b5labs.com/xpilotiphone XPilot iPhone] 
+ * [http://sourceforge.net/projects/jxpilot/ Java XPilot Client] 
+ 
+ 
+ {{Video-game-stub}} 
+ 
+ [[Category:1991 video games]]

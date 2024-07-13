@@ -1,0 +1,30 @@
+:''The bags that can be used for [[shop]]ping are at [[bag]].'' 
+ A '''multiset''' (sometimes called a '''bag''') is a concept from [[mathematics]]. In many ways, multisets are like [[set]]s. Certain items are either elements of that multiset, or they are not. However, multisets are different from sets: The same type of item can be in the multiset more than once. For this reason, mathematicians have defined a [[Function (mathematics)|relation]] (function) that tells, how many copies of a certain type of item there are in a certain multiset. They call this ''multiplicity''. For example, in the multiset { ''a'', ''a'', ''b'', ''b'', ''b'', ''c'' }, the multiplicities of the members ''a'', ''b'', and ''c'' are 2, 3, and 1, respectively. From a set of ''n'' elements, the number of ''r''-element multisets is written as  < math > \textstyle \left(\!\binom{n}{r}\!\right) < /math > . This is sometimes called the multiset [[coefficient]]. < ref > {{Cite web|date=2020-04-26|title=List of Probability and Statistics Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/|access-date=2020-09-23|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|date=2020-01-19|title=3.7: Counting Multisets|url=https://math.libretexts.org/Courses/Borough_of_Manhattan_Community_College/MAT_310_Bridge_to_Advanced_Mathematics/03%3A_Counting/3.07%3A_Counting_Multisets|access-date=2020-09-23|website=Mathematics LibreTexts|language=en}} < /ref > < ref > {{Cite web|title=Multiset {{!}} Brilliant Math  &  Science Wiki|url=https://brilliant.org/wiki/multiset/|access-date=2020-09-23|website=brilliant.org|language=en-us}} < /ref > 
+ 
+ A multiset is illustrated by means of a [[histogram]]. 
+ 
+ A multiset can also be considered an unordered [[tuple]]: 
+ * The tuples (a,b) and (b,a) are not equal, and the tuples (a,a) and (a) are not equal either. 
+ * The multisets {a,b} and {b,a} are equal, but the multisets {a,a} and {a} are not equal. 
+ * The sets {a,b} and {b,a} are equal, and the sets {a,a} and {a} are equal too. 
+ 
+ ==Examples== 
+ One of the simplest examples is the multiset of [[prime number|prime]] factors of a number ''n''. Here, the underlying set of elements is the set of prime [[divisor]]s of ''n''. For example, the number ''120'' has the [[factorisation|prime factorisation]] 
+ : < math > 120 = 2^3 3^1 5^1 < /math > 
+ which gives the multiset {2, 2, 2, 3, 5}. 
+ 
+ Another is the multiset of solutions of an [[algebra]]ic [[equation]]. A [[quadratic equation]], for example, has two solutions. However, in some cases they are both the same number. Thus the multiset of solutions of the equation could be { 3, 5 }, or it could be { 4, 4 }. In the latter case, it has a solution of multiplicity 2. 
+ 
+ == Related pages == 
+ 
+ * [[Combination (mathematics)|Combination]] 
+ 
+ ==References== 
+ 
+ === CItations === 
+ < references / > 
+ 
+ === Sources === 
+ * Stanley, Richard P. (1997, 1999). [http://www-math.mit.edu/~rstan/ec/ ''Enumerative Combinatorics'', Volumes 1 and 2]. [[Cambridge University Press]]. {{ISBN|0-521-55309-1}}, 0-521-56069-1.. 
+ [[Category:Set theory]] 
+ {{Math-stub}}

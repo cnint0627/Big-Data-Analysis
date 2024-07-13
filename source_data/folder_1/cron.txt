@@ -1,0 +1,13 @@
+'''Cron''' is a computer program that can be used to make a computer do tasks at specific time intervals. It is used in [[UNIX]] computer operating systems and operating systems that are similar to UNIX, like [[Linux]]. 
+ 
+ ''Cron'' can be used to schedule most repetitive tasks. It is often used to automate tasks related to a computer or computer network's maintenance or administration, although it can be used for many other tasks like downloading files from the [[Internet]] and downloading [[E-mail|email]] at specific times or dates. < ref > {{Cite web|url=http://www.unixgeeks.org/security/newbie/unix/cron-1.html|title=Newbie Introduction to cron|publisher=Unixgeeks.org|access-date=2013-11-06}} < /ref > 
+ 
+ The name of the cron computer program is from the word ''cron,'' which is from the Greek word for time, χρόνος ([[chronos]]). < ref > {{Cite web|url=https://www.quora.com/What-is-the-etymology-of-cron|title=What is the etymology of cron|access-date=2015-12-23}} < /ref > 
+ 
+ Cron is set up by editing a file called a '''crontab''' (cron table). This file lists the specific tasks for the computer to run and when the tasks should be run. < ref name= " posix " > {{citation |chapter-url=http://pubs.opengroup.org/onlinepubs/007904975/utilities/crontab.html |title=The Open Group Base Specifications Issue 7  & mdash; IEEE Std 1003.1, 2013 Edition |chapter=crontab |publisher=The Open Group |date=2013 |access-date=May 18, 2015}} < /ref > 
+ 
+ == References == 
+ {{Reflist|30em}} 
+ 
+ [[Category:Operating systems]] 
+ [[Category:Unix]]

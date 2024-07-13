@@ -1,0 +1,222 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > | name                     = Leeds 
+ | official_name            = City of Leeds 
+ | other_name               = Loidis 
+ | native_name              =  < !--F for cities whose native name is not in English -- > 
+ | settlement_type          = City and Metropolitan Borough 
+ | motto                    =  " Marching On Together " 
+ | nickname                 = Dirty Leeds 
+ | image_skyline            = File:Leeds CBD at night.jpg < !-- NB  " Despite the name it can be any image that an editor wishes "  from template documentation - ie need not be a skyline. -- > 
+ | imagesize                =  
+ | image_alt                = An impressive free-standing stone-built civic building on a sloping site with steps up to a colonnade. Above the parapet is a square clock-tower, also colonnaded, with an elongated lead-covered dome with concave sides and a cupola on top.. 
+ | image_caption            = Leeds city centre at night 
+ | image_flag               = Yorkshire Flag.png 
+ | flag_size                =  
+ | image_seal               =  
+ | seal_size                =  
+ | image_shield             = Coat of Arms of Leeds City Council.svg 
+ | shield_link              =  
+ | shield_size              =  
+ | image_blank_emblem       =  
+ | blank_emblem_type        =  
+ | blank_emblem_size        =  
+ | blank_emblem_alt         = A shield, with three white stars on a black background at the top and, below, a suspended fleece on a light-blue background. Above the shield is a helmet with leaves above and behind and a small owl on top. To the left and right are two large owls wearing golden ducal coronets. They are perched on a scroll below the shield which reads  " PRO LEGE ET REGE " . 
+ | blank_emblem_link        = Coat of arms of Leeds 
+ | image_map                = EnglandLeeds.png 
+ | mapsize                  =  
+ | map_alt                  = A map of England coloured pink showing the administrative subdivisions of the country. The Leeds metropolitan borough area is coloured red. 
+ | map_caption              = Leeds shown within England 
+ | image_map1               =  
+ | mapsize1                 =  
+ | map_caption1             = [[The Headrow]] 
+ | image_dot_map            =  
+ | dot_mapsize              =  
+ | dot_map_caption          =  
+ | dot_x                    =  
+ | dot_y                    =  
+ | pushpin_map              =  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | pushpin_label_position   =  < !-- the position of the pushpin label: left, right, top, bottom, none -- > 
+ | pushpin_map_caption      =  
+ | pushpin_mapsize          =  < !-- Location ------------------ > 
+ | subdivision_type         = [[List of sovereign states|Sovereign state]] 
+ | subdivision_name         = [[United Kingdom]] 
+ | subdivision_type1        = [[Countries of the United Kingdom|Constituent country]] 
+ | subdivision_name1        = [[England]] 
+ | subdivision_type2        = [[Regions of England|Region]] 
+ | subdivision_name2        = [[Yorkshire and the Humber]] 
+ | subdivision_type3        = [[Ceremonial counties of England|Ceremonial county]] 
+ | subdivision_name3        = [[West Yorkshire]] 
+ | subdivision_type4        = Admin HQ 
+ | subdivision_name4        = [[Leeds city centre]] 
+ < !-- Politics ----------------- > | government_footnotes     =  
+ | government_type          = [[Metropolitan borough]], [[City status in the United Kingdom|City]] 
+ | leader_title             = Governing & nbsp;body 
+ | leader_name              = [[Leeds City Council]] 
+ | leader_title1            = [[Lord Mayor]] 
+ | leader_name1             = Cllr James McKenna ([[Labour Party (UK)|L]]) 
+ | leader_title2            = Leader of the Council 
+ | leader_name2             = Cllr Keith Wakefield ([[Labour Party (UK)|L]]) 
+ | leader_title3            = Chief Executive 
+ | leader_name3             = Tom Riordan 
+ | leader_title4            = [[MPs elected in the UK general election, 2010|MPs]]: 
+ | leader_name4             = [[Stuart Andrew]] ([[Conservative Party (UK)|C]]) < br / > 
+ [[Ed Balls]] (L) < br / > 
+ [[Hilary Benn]] (L) < br / > 
+ [[Fabian Hamilton]] (L) < br / > 
+ [[George Mudie]] (L) < br / > 
+ [[Greg Mulholland]] ([[Liberal Democrats|LD]]) < br / > 
+ [[Rachel Reeves]] (L) < br / > 
+ [[Alec Shelbrooke]] (C) 
+ | established_title        = Borough Charter 
+ | established_date         = 1207 
+ | established_title1       = Town Charter 
+ | established_date1        = 1626 
+ | established_title2       = City status 
+ | established_date2        = 1893 
+ | established_title3       = City of Leeds Met. District created 
+ | established_date3        = 1974 
+ < !-- Area --------------------- > | unit_pref                =  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_footnotes           =  
+ | area_total_km2           = 551.72 < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ | area_water_km2           =  
+ | area_total_sq_mi         = 213 
+ | area_land_sq_mi          =  
+ | area_water_sq_mi         =  
+ | area_water_percent       =  
+ | area_urban_km2           =  
+ | area_urban_sq_mi         =  
+ | area_metro_km2           =  
+ | area_metro_sq_mi         =  
+ | area_blank1_title        =  
+ | area_blank1_km2          =  
+ | area_blank1_sq_mi        =  < !-- Population ----------------------- > 
+ | population_as_of         = {{English statistics year}} 
+ | population_footnotes     =  
+ | population_note          =  
+ | population_total         = {{English district population|GSS = E08000035}} ([[List of English districts by population|Ranked {{English district rank|GSS = E08000035}}]]) 
+ | population_density_km2   = 1380 
+ | population_density_sq_mi = 3574 
+ | population_metro         =  
+ | population_density_metro_km2 =  
+ | population_density_metro_sq_mi =  
+ | population_urban         =  
+ | population_density_urban_km2 =  
+ | population_density_urban_sq_mi =  
+ | population_blank1_title  =  
+ | population_blank1        =  
+ | population_density_blank1_title =  
+ | population_density_blank1_km2 =  
+ | population_density_blank1_sq_mi =  
+ | population_blank2_title  = Ethnicity  < br / > < small > ([[United Kingdom Census 2011|2011 census]]) < /small > < ref > {{cite web| url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks202ew.xls |title=2011 Census: Ethnic group, local authorities in England and Wales |publisher=ONS |accessdate=12 December 2012}} < /ref > 
+ | population_blank2        = 85.0% White  < br / > 7.7% Asian or Asian British < br / > 3.5% Black or Black British < br / > 2.7% Mixed Race < br / > 0.5% Arab < br / > 0.6% Other 
+ | population_density_blank2_km2 =  
+ | population_density_blank2_sq_mi =  
+ | population_demonym       = [[Loiner]]/[http://en.wiktionary.org/wiki/Leodensian Leodensian] 
+ < !-- General information --------------- > | timezone                 = [[Greenwich Mean Time]] 
+ | utc_offset               = +0 
+ | timezone_DST             = [[British Summer Time]] 
+ | utc_offset_DST           = +1 
+ | coordinates              = {{coord|53|47|59|N|1|32|57|W|region:GB|display=title}} 
+ | elevation_footnotes      =  
+ | elevation_max_footnotes  =  < ref > Max at SE140445 Hawksworth Moor in extreme west of city < /ref > 
+ | elevation_min_footnotes  =  < ref > Min at points where city boundary crosses Rivers Aire and Wharfe in extreme east. < /ref > 
+ | elevation_ft             = 33–1115 
+ | elevation_m              = 10–340 
+ < !-- Area/postal codes  &  others -------- > | postal_code_type         = Postcode 
+ | postal_code              = [[LS postcode area|LS]],part of [[WF postcode area|WF]] and also part of [[BD postcode area|BD]]. 
+ | area_code                = 0113 (urban core) < br / > 
+ 01924 (Wakefield nos) < br / > 01937 (Wetherby/ Boston & nbsp;Spa) < br / > 01943 (Guiseley/ Otley) < br / > 01977 (Pontefract nos) 
+ | blank_name               = [[ISO 3166-2:GB|ISO 3166-2]] 
+ | blank_info               = GB-LDS 
+ | blank1_name              = [[ONS coding system|ONS code]] 
+ | blank1_info              = 00DA (ONS) < br / > E08000035 (GSS) 
+ | blank2_name              = [[Nomenclature of Territorial Units for Statistics|NUTS 3]] 
+ | blank2_info              = UKE42 
+ | blank3_name              = [[British national grid reference system|OS grid reference]] 
+ | blank3_info              = {{gbmappingsmall|SE296338}} 
+ | blank4_name              = [[European Parliament|Euro. Parlt. Const.]] 
+ | blank4_info              = [[Yorkshire and the Humber (European Parliament constituency)|Yorkshire  &  the Humber]] 
+ | website                  = [http://www.leeds.gov.uk/ www.leeds.gov.uk] 
+ | footnotes                =  
+ }} 
+ 
+ '''Leeds''' is a [[city]] in [[Yorkshire]] and just under 1 million people live here. Leeds has four [[universities]]: [[University of Leeds]], [[Leeds Metropolitan University]], Leeds Trinity University and the University of Law. Leeds is on the River Aire. The city's football team is [[Leeds United A.F.C.|Leeds United AFC]]. 
+ 
+ == History == 
+ In Roman times, Leeds was called 'Loidis' which means 'People of the flowing river'. 
+ 
+ Leeds grew into a large city, mainly during Victorian times, when many factories were built in the city, making cloth as well as other products. Most of these factories have now closed. 
+ 
+ With the building of many of the factories and mills in Leeds, many canals and railways were built in the city as well.   
+ 
+ Leeds used to have a tram system, but this was removed in 1959. There have been plans to bring it back. [[Trolleybus]]es have also been thought of. 
+ 
+ Marks and Spencers started with a market stall in Leeds Market, and they now have shops throughout the city, with their largest one being on Briggate. 
+ 
+ Much of Leeds was rebuilt in the 1960s and 1970s because the old Victorian buildings were mostly run down and unsuitable for modern use. Many new council houses and flats were built around the city. 
+ 
+ In the 1970s, the council used the motto 'Motorway City of the 1970s' to try to promote the city. This is because the Leeds Inner Ring Road is a motorway and the [[M1 motorway]], which starts in London, ended in central Leeds. 
+ 
+ == Today == 
+ [[File:Bridgewater place,Leeds.JPG|left|thumb|Bridgewater Place is a large skyscraper in Leeds.]] 
+ Today Leeds still has many factories and offices for large companies. The City Centre has attracted many shops, offices, pubs, restaurants and bars. Leeds now has some skyscrapers such as Bridgewater Place. Leeds and [[Manchester]] are the most important cities for business in the North of England. Many [[banks]] have their offices in Leeds. 
+ 
+ Many flats have also been built in the city centre. Leeds has some expensive areas to live like Chapel Allerton, Headingley, Kirkstall, Horsforth, Roundhay and Alwoodley, but it also has some cheap places to live where crime is high like Harehills, Chapeltown, Seacroft and [[Beeston]]. There have been riots in Harehills and Chapeltown before. 
+ 
+ Tetley's Bitter is made at a [[brewery]] in Leeds.  This is sold in many pubs and shops in Britain.  Tetley's also used to have many pubs in [[Yorkshire]] but have sold many, although Tetley's Bitter is still sold there. 
+ 
+ ASDA is Britain's second biggest supermarket. It started in Leeds, and it still has its headquarters in the city. 
+ 
+ == Transport == 
+ [[File:Leeds Bradford Airport bus interchange.jpg|left|thumb|[[Leeds Bradford International Airport]]]] 
+ [[File:Overview of Leeds City railway station 04.jpg|thumb|left|Inside [[Leeds railway station]].]] 
+ Leeds has a large [[Leeds railway station|railway station]] in the City Centre as well as many smaller ones in suburbs.  It also has an airport called [[Leeds Bradford International Airport]]. There are many motorways in and around the city as well.  Leeds has a bus station with 26 stands, and more stands for National Express services going to other cities. However, it is too small to cope with internal buses, so they stop at bus stops along the streets.  Leeds has an outer ring road and an inner ring road. The inner ring road is a motorway. 
+ 
+ == Sport == 
+ Leeds is famous for its [[Sport|sports]], too. It has a [[Rugby league]] team called [[Leeds Rhinos]] and a [[Rugby union]] team called Yorkshire Carnegie. It also has a [[Football (soccer)|football]] team called [[Leeds United]].  Yorkshire [[Cricket]] play in Leeds too.  The fourth test of the [[2009 Ashes]] was hosted at the [[Headingley Stadium]] in Leeds. 
+ 
+ == Council == 
+ Leeds City Council are the council for Leeds as well as other nearby towns that are part of the City of Leeds borough such as [[Wetherby]], [[Otley, West Yorkshire|Otley]], [[Yeadon]], [[Garforth]] and [[Rothwell]]. This is in addition to the City's 32 Parish  &  Town Councils alongside a significant unparished area. 
+ 
+ == Media == 
+ The [[Yorkshire Evening Post]] is the local newspaper for Leeds and is published every evening.  [[BBC Yorkshire]], [[ITV Yorkshire]] and [[Leeds Television]] all have their studios in Leeds.  The Yorkshire Television studios are currently in the process of being downsized as ITV looks to reduce costs. 
+ 
+ == Areas of Leeds == 
+ '''See Also''' 
+ * [[Burley, Leeds|Burley]] 
+ * [[Headingley]] 
+ * [[Roundhay]] 
+ * [[Seacroft]] 
+ * [[Wetherby]] 
+ * [[Yeadon]] 
+ 
+ == Pictures == 
+ 
+ < gallery > 
+ Image:Canal Gardens Aug 2007.JPG|Canal Gardens in Roundhay Park 
+ Image:Leeds Victoria Quarter.jpg|Victoria Quarter 
+ Image:KirkstallAbbey.JPG|The ruins of [[Kirkstall Abbey]] 
+ Image:Ellandrd.jpg|Elland Road football ground 
+ Image:IL millennium.square corrected.jpg|Millennium Square 
+ Image:Leeds panorama.jpg|Leeds City Centre 
+ Image:Leeds Kirkgate Market.jpg|Kirkgate Markets 
+ Image:Leeds City Square.jpg|City Square 
+ < /gallery > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{Commonscat}} 
+ * [http://en.wikivoyage.org/wiki/Leeds Leeds travel information at Wikivoyage] 
+ * [http://www.leeds.gov.uk Leeds City Council] Leeds City (Metropolitan) Council 
+ * [http://www.leeds-city-guide.com Leeds City Guide] A Leeds City Guide 
+ * [http://www.leedsliveitloveit.com 'Leeds, Live it, Love it'] Official city website, for visitors, business, students and residents 
+ * [http://www.leedstelevision.co.uk 'Leeds Television, A vision for the community'] {{Webarchive|url=https://web.archive.org/web/20110202100125/http://www.leedstelevision.co.uk/ |date=2011-02-02 }} Leeds city TV, for visitors, business, students and residents 
+ 
+ {{English Cities|nocat=1}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Leeds| ]]

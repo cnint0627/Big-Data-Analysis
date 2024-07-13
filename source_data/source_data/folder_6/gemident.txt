@@ -1,0 +1,11 @@
+'''GemIdent''' is an software that helps to recgonize images and identify regions of interest in images and photographs. It is specifically designed for images with not so many colors it them. For example, to identify oranges on an orange tree. 
+ 
+ GemIdent was developed at Stanford University by Adam Kapelner in 2006-2007. In 2008, it was improved and gained possibility to support multispectral images. < ref > {{Cite journal|date=2009-06-25|title=An Interactive Java Statistical Image Segmentation System: GemIdent by Susan Holmes, Adam Kapelner, Peter P. Lee|url=https://www.jstatsoft.org/article/view/v030i10|language=en-US}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Software]] 
+ 
+ 
+ {{tech-stub}}

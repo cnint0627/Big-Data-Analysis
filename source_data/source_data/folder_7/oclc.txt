@@ -1,0 +1,36 @@
+{{Infobox cooperative 
+ | name             = OCLC, Inc. 
+ | logo             =  < !-- Deleted image removed: [[Image:oclclogo.jpg]] -- > 
+ | type             = [[Cooperative|Nonprofit membership cooperative]] 
+ | foundation       = {{Start date|1967}} 
+ | location_city    = [[Dublin, Ohio]] 
+ | location_country = {{flagcountry|United States|size=15px}} 
+ | key_people       = [[:en:Skip Prichard|Skip Prichard]], [[President]] and [[CEO]] < ref > {{cite web |url=https://www.oclc.org/en/about/leadership.html |title=OCLC leadership |website=www.oclc.org |publisher=OCLC |access-date=2022-03-10}} < /ref > 
+ | area_served      = Worldwide 
+ | industry         = Library services 
+ | products         = {{hlist|[[WorldCat]]|Amlib|BIBLIOTHECAplus|Capira|CatExpress|CONTENTdm|[[Dewey Decimal Classification]]|EZproxy|FirstSearch|LBS|OLIB|PiCarta|Relais ILL  &  D2D|SISIS-SunRise|Syndeo|Tipasa|TouchPoint|UnityUK|VDX|WebJunction|Wise|WorldShare}} < ref > {{cite web |url=https://www.oclc.org/content/dam/oclc/membership/membership-qualifying-subscriptions.pdf |title=OCLC Qualifying Subscriptions for Membership |website=www.oclc.org |publisher=OCLC |date=February 15, 2022 |access-date=March 11, 2022}} < /ref > 
+ | revenue          = $217.8 & nbsp;million < ref name= " 2020-21annualreport " > {{Cite web |url=https://www.oclc.org/en/annual-report/2021/home.html |title=OCLC Annual Report 2020–2021 |date=December 20, 2021 |publisher=OCLC |location=Dublin, Ohio |language=en |access-date=March 11, 2022}} < /ref > 
+ | revenue_year = 2020–21 
+ | operating_income = 
+ | net_income       = 
+ | members          = 30,000+ libraries in 100+ countries < ref name= " oclc_about " > {{Cite web|url=https://www.oclc.org/en/about.html|title=About OCLC|date=16 February 2022 |publisher=OCLC|language=en-US|archive-url=https://web.archive.org/web/20220311152413/https://www.oclc.org/en/about.html|archive-date=2022-03-11|url-status=live|access-date=2022-03-11}} < /ref > 
+ | num_employees    = 
+ | parent           = 
+ | subsid           = 
+ | homepage         = [http://www.oclc.org oclc.org] 
+ | footnotes        = 
+ }} 
+ 
+ '''OCLC''', Inc. is a [[library]] service and [[wikt:research|research]] [[organization]]. It helps people find more [[information]] and helps libraries work. < ref name= " oclc_about "  / >  It was started on July 6, 1967 as the not-for-profit Ohio College Library Center. < ref name=Kilgour > {{cite book |last=Kilgour |first=Frederick G. |date=1968 |chapter=Initial system design for the Ohio College Library Center: A case history |editor-last=Carroll |editor-first=Dewey E. |title=1968 Proceedings of the Clinic on Library Applications of Data Processing |location=Urbana, IL |publisher=Graduate School of Library Science, [[University of Illinois at Urbana-Champaign]] |pages=79–88 |isbn=9780851570808 |oclc=3269364 |chapter-url=https://www.ideals.illinois.edu/handle/2142/827}} < /ref >  Later its name changed to '''Online Computer Library Center''' as it grew. In 2017, its name changed to OCLC, Inc. < ref name= " cert " > {{Cite web|url=https://bizimage.ohiosos.gov/api/image/pdf/201717701088|title=Certificate of Amendment of the Amended Articles of Incorporation of OCLC Online Computer Library Center, Inc.|date=June 26, 2017|publisher=Ohio Secretary of State|access-date=August 18, 2019|archive-date=March 21, 2020|archive-url=https://web.archive.org/web/20200321070613/https://bizimage.ohiosos.gov/api/image/pdf/201717701088|url-status=dead}} See also: {{cite web |url=https://www.oclc.org/content/dam/oclc/membership/articles-of-incorporation.pdf |title=Amended Articles of Incorporation of OCLC, Inc. |date=June 23, 2017 |website=www.oclc.org |publisher=OCLC }} < /ref >  30,000+ libraries in 100+ countries are members of OCLC. < ref name= " oclc_about "  / >  The organization was started by Fred Kilgour. < ref name=Kilgour/ >  Its head office is in Dublin, [[Ohio]], U.S.A. It makes [[WorldCat]], a very big [[online]] catalog (a list of books and things like books). 
+ 
+ == OCLC control numbers == 
+ OCLC gives a special number (called  " OCN "  for  " OCLC Control Number " ) to every new record in WorldCat. A record is [[metadata]] about books and things like books. Every record has a different number. There are more than a billion numbers, and there are more every day. Old numbers are small and new numbers are big. 
+ 
+ OCNs help find books and things like books that do not have [[ISBN]]s. Many books from before 1970 do not have ISBNs. OCNs are often used for books in Wikipedia and [[Wikidata]]. 
+ 
+ == References == 
+ < references/ > 
+ 
+ [[Category:Research organizations in the United States]] 
+ [[Category:1967 establishments in the United States]] 
+ [[Category:1960s establishments in Ohio]]

@@ -1,0 +1,57 @@
+A '''cousin''' is a term in [[genealogy]]. A cousin is not a direct [[ancestor]] or [[descendant]], but is a relative who ''shares a common ancestor''. The word 'cousin' is often used to mean a person's first cousin {{ndash}} the [[child]] of someone's [[aunt]] or [[uncle]]. 
+ 
+ [[Image:CousinTree.svg|thumb|600px|center|A family tree showing how each person is related to the orange person.]] 
+ 
+ Cousin relationships can have degree and removal (e.g. a second cousin once removed is a cousin with a degree of two and a removal of one). 
+ * The family line of the cousin with smallest number of generations to the most recent common ancestor is used to determine the degree (if they are the same use either one). The number of generations from the parents to the common ancestor (number of generations minus one) is the degree. 
+ * When the cousins are separated by a different number of generations from the most recent common ancestor, the cousin relationship is  " removed " . The difference between the number of generations for each cousin is the removal. 
+ 
+ {{-}} 
+ {| class= " wikitable " 
+ |+The number in the column and row headings is the number of generations to the most recent common ancestor for this row or column 
+ | colspan= " 2 "  style='text-align:right;'    | If the relative's & nbsp;→ 
+ | rowspan= " 2 "  style='background: #fff8dc;' | '''[[Grandparent]]''' (2) 
+ | rowspan= " 2 "  style='background: #fff8dc;' | '''Great-grandparent''' (3) 
+ | rowspan= " 2 "  style='background: #fff8dc;' | '''Great-great-grandparent''' (4) 
+ | rowspan= " 2 "  style='background: #fff8dc;' | '''R''' generations to common ancestor 
+ |- 
+ | Is the subject's < br > ↓ 
+ | style='background: #ffebcd; text-align: right;' | Then the relative is the subject's ↘ 
+ |- 
+ | colspan= " 2 "  style='background: #fff8dc;' | '''Grandparent''' (2) 
+ | style='background: #ffebcd;' | '''1st cousin''' 
+ | 1st cousin once removed 
+ | 1st cousin twice removed 
+ |''formating''| 1st cousin |R-2| times removed 
+ |- 
+ | colspan= " 2 "  style='background: #fff8dc;' | '''Great-grandparent''' (3) 
+ | 1st cousin once removed 
+ | style='background: #ffebcd;' | '''2nd cousin''' 
+ | 2nd cousin once removed 
+ |''formating''| 2nd cousin |R-3| times removed 
+ |- 
+ | colspan= " 2 "  style='background: #fff8dc;' | '''Great-great-grandparent''' (4) 
+ | 1st cousin twice removed 
+ | 2nd cousin once removed 
+ | style='background: #ffebcd;' | '''3rd cousin''' 
+ |''formating''| 3rd cousin |R-4| times removed 
+ |- 
+ | colspan= " 2 "  style='background: #fff8dc;' | '''S''' generations to common ancestor 
+ |''formating''| 1st cousin |S-2| times removed 
+ |''formating''| 2nd cousin |S-3| times removed 
+ |''formating''| 3rd cousin |S-4| times removed 
+ | style='background: #ffebcd;' | (min{R,S} - 1) th cousin |R-S| times removed 
+ |} 
+ 
+ ==Related pages== 
+ *[[Cousin marriage]] 
+ *[[Consanguinity]] 
+ 
+ ==Other websites== 
+ *[http://www.ancestry.com/learn/library/article.aspx?article=2856 Ancestry.com - cousin removal] 
+ *[http://wiki.geni.com/index.php/Defining_the_Genealogical_Term,_'Removed' Geni.com - Defining the Genealogical Term, 'Removed'] {{Webarchive|url=https://web.archive.org/web/20210126112644/https://wiki.geni.com/index.php/Defining_the_Genealogical_Term%2C_%27Removed%27 |date=2021-01-26 }} 
+ *[http://www.searchforancestors.com/utility/cousincalculator.html SearchforAncestors.com - Cousin Relationship Calculator] 
+ *[http://blog.eogn.com/eastmans_online_genealogy/2009/07/what-is-second-cousin-once-removed.html Eastman's Online Genealogy Newsletter - What Is  " Second Cousin Once Removed? " ] {{Webarchive|url=https://web.archive.org/web/20110105022207/http://blog.eogn.com/eastmans_online_genealogy/2009/07/what-is-second-cousin-once-removed.html |date=2011-01-05 }} 
+ 
+ 
+ [[Category:Family]]

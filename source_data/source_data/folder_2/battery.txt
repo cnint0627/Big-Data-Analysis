@@ -1,0 +1,68 @@
+[[File:A Cell and a Battery symbol.svg|thumb|205x205px|Schematic symbol of a battery]] 
+ {{about|electrical batteries|the crime of battery|battery (tort)}} 
+ [[File:Batteries comparison 4,5 D C AA AAA AAAA A23 9V CR2032 LR44 matchstick-1.jpeg|350px|thumb]] 
+ A '''battery''' converts [[chemical energy]] into [[electrical energy]] by a [[chemical reaction]].  Usually the chemicals are kept inside the battery.  It is used in a [[circuit]] to power other [[component]]s.   A battery produces [[direct current]] (DC) electricity (electricity that flows in one direction, and does not switch back and forth). 
+ 
+ Using the [[electricity]] from an outlet in a building is cheaper and [[energy efficiency|more efficient]], but a battery can provide electricity in areas that do not have [[electric power distribution]].  It is also useful for things that move, such as [[electric vehicle]]s and [[mobile phone]]s. 
+ 
+ Batteries may be [[Primary cell|primary]] or [[Secondary cell|secondary]]. The primary is thrown away when it can no longer provide electricity. The secondary can be recharged and reused. 
+ 
+ == The chemistry inside a battery == 
+ A Battery can be one ''cell'' or many ''cells''.  Each cell has an [[anode]], [[cathode]] and [[electrolyte]].  The electrolyte is the main material inside the battery.  It is often a type of acid, and can be dangerous to touch.  The anode reacts with the electrolyte to produce [[electrons]] (this is the ''negative'' or ''-'' end).  The cathode reacts with the electrolyte and takes electrons (this is the ''positive'' or ''+'' end). < ref > {{cite web|title=Battery Reactions and Chemistry|date=April 2000 |url=http://electronics.howstuffworks.com/everyday-tech/battery3.htm|publisher=How Stuff Works|accessdate=13 April 2013}} < /ref >  An [[electric current]] happens when a wire connects the anode to the cathode, and the electrons move from one end to the other. (But a battery can be damaged by just a wire connecting the two ends, so a ''load'' is also needed between the two ends.  The load is something that slows the electrons down, and usually does something useful, like a [[lightbulb]] in a [[flashlight]], or the [[electronics]] in a [[calculator]]). < ref > {{cite web|title=How a battery works|url=http://skol.ca/wp-content/uploads/2012/09/battery.pdf|publisher=Skol|accessdate=13 April 2013}} < /ref >   
+ 
+ [[File:Generadores en paralelo--batteries parallel.png|thumb|Batteries connected in parallel - shown in a schematic and a drawing]] 
+ The electrolyte can be [[liquid]] or [[solid]].  A battery is called a [[wet cell]] or [[dry cell]] battery, depending on the type of electrolyte. 
+ 
+ The [[chemical reaction|chemical reactions]] that occur in a battery are [[exothermic]] reactions.  This type of reaction makes heat.  For example, if you leave your laptop on for a long time, and then touch the battery, it will be warm or hot.  
+ 
+ A [[rechargeable battery]] is recharged by reversing the chemical reaction that occurs within the battery.  But a rechargeable battery can only be recharged a given number of times (recharge life).  Even built-in batteries, cannot be recharged forever.  Moreover, each time a battery is recharged, its ability to hold a charge goes down a bit.  Non-rechargeable batteries should not be charged as various harmful substances can leak out, such as [[potassium hydroxide]]. 
+ 
+ The cells can be connected to make a bigger battery.  Connecting the positive of one cell to the negative of the next cell is called connecting them ''in series''.  The voltage of each battery are added together.  Two six volt batteries connected in series will make 12 volts. < ref > {{cite web|title=Connecting batteries in series and parallel|url=http://www.ehow.com/how_8002568_hook-up-batteries-series.html|publisher=ehow.com|accessdate=13 April 2013}} < /ref >   
+ 
+ Connecting the positive of one cell to the positive of the other, and the negative to the negative is called connecting them ''in parallel''.  The voltage stays the same, but the current is added together.  Voltage is the pressure pushing the electrons through the wires, it is measured in [[volt]]s. Current is how many electrons can go at once, it is measured in [[ampere|amps]].  The combination of current and voltage is the power (watts = volts x amps) of the battery. 
+ 
+ == Battery sizes == 
+ Batteries come in many different shapes, sizes and [[voltage]]s.  
+ 
+ AA, AAA, C, and D cells, including [[Alkaline battery|alkaline batteries]], are of standard sizes and shapes, and have about 1.5 volts. The voltage of a cell depends on the chemicals used.  The [[electric charge]] it can supply depends on how large the cell is, as well as what chemicals.  The charge a battery delivers is usually measured in [[:en:Ampere_hour|ampere-hours]].  Since the voltage stays the same, more charge means a bigger cell can supply more amps, or run for a longer time. 
+ 
+ ==History== 
+ 
+ The first battery was invented in [[1800]] by [[Alessandro Volta]]. Nowadays, his battery is called the [[voltaic pile]].  < ref > {{cite web|url=https://www.thoughtco.com/alessandro-volta-1992584|title=Meet the Inventor of the First Battery|first1=some as|last1=CalmX|first2=Was an Experimental|last2=Artist|first3=Film|last3=Director|last4=producer|first5=Video Game Content|last5=Creator|first6=freelance writer for some 18 years She specialized in writing about|last6=inventors|last7=inventions|first8=in particular Bellis died in|last8=March 2015|website=ThoughtCo}} < /ref > 
+ 
+ In small, modern batteries, the fluid is immobilized in a kind of paste and everything is put in a sealed case. Because of this case, nothing can spill out of the battery. Larger batteries, such as car batteries, still have liquid inside and are not sealed. A kind of battery that uses molten salts as the electrolyte was invented during World War II. 
+ 
+ ==Types of batteries== 
+ [[File:Photo-CarBattery-top.jpg|thumb|Top view of car battery]] 
+ *[[Dry cell|Dry cells]], cells that do not contain a liquid (or contain an immobilized liquid such as a paste or gel) as the [[electrolyte]] 
+ **[[Primary cell]], cells that cannot be recharged 
+ ***[[Alkaline battery]],  " alkaline " , not rechargeable 
+ ***[[Mercury battery]], not rechargeable 
+ ***[[Leclanche battery]],  " super heavy duty " , not rechargeable 
+ ***[[Lithium battery]], not rechargeable,  " coin cell " 
+ ***[[Silver oxide battery]], not rechargeable, watch battery 
+ ***[[Voltaic pile]], Allesandro Voltas first battery 
+ **[[Secondary cell]], cells that can be recharged 
+ ***[[Sealed lead acid battery]] 
+ ***[[Lithium-ion battery]], rechargeable, used in [[cell phone]]s and [[laptop]]s 
+ ***[[Nickel cadmium battery]],  " NiCd " , rechargeable 
+ ***[[Nickel metal-hydride battery]],  " NiMH " , rechargeable 
+ ***[[Nickel–zinc battery]] 
+ 
+ *[[Wet cell]]s, cells that contain liquid as the electrolyte 
+ **[[Lead acid battery]], rechargeable, car battery 
+ **[[Nickel-iron battery]], rechargeable, [[Thomas Edison|Edison]] battery 
+ **Wet cell nickel cadmium battery, rechargeable, used for starting aircraft engines 
+ * [[Fuel cell]], recharged by adding fuel 
+ 
+ ==Alternatives to batteries== 
+ [[Fuel cell]]s and [[solar cell]]s are not batteries because they do not store the energy inside them.   
+ 
+ A [[capacitor]] is not a battery because it does not store the energy in a chemical reaction.  A capacitor can store electricity and create electricity much faster than a battery, but it usually costs too much to make it as big as a battery can be.  Scientists and [[chemical engineering|chemical engineers]] are working to make better capacitors and batteries for [[electric vehicle|electric cars]]. 
+ 
+ Small [[electrical generator]] < nowiki/ > s operated by hand and foot can supply power in small electrical devices. [[Clockwork radio]]s, [[clockwork torch]]es and similar devices also have a wind-up spring to store [[mechanical energy]]. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Batteries| ]]

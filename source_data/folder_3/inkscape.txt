@@ -1,0 +1,49 @@
+{{Infobox software 
+ | name = Inkscape 
+ | logo = Inkscape Logo.svg 
+ | logo size = 120px 
+ | logo caption =  
+ | screenshot = Inkscape 1.3 screenshot.png 
+ | caption =  
+ | collapsible =  
+ | author =  
+ | developer =  
+ | released = {{start date and age|2003|11|2}} 
+ | latest release version = {{wikidata|property|edit|reference|P348}} 
+ | latest release date    = {{start date and age|{{wikidata|qualifier|P348|P577}}}} 
+ | discontinued =  
+ | programming language = [[C++]] with [[gtkmm]], [[Python (programming language)|Python]] (extensions) 
+ | operating system = [[FreeBSD]] < br / > [[Linux]] < br / > [[macOS]] < br / > [[Microsoft Windows|Windows]] 
+ | platform = [[IA-32]] and [[x64]] 
+ | size = 81.6 MB < !-- Windows MSI 64bit for 0.92.3 -- > 
+ | language count = 90 
+ | language footnote =  < ref > {{cite web 
+  | url        = https://gitlab.com/inkscape/inkscape/tree/INKSCAPE_0_92_3/po 
+  | title      = List of language files at time of release of version 0.92.3 - gitlab.com repository 
+  | publisher  = Inkscape 
+  | date       = 2018-03-08 
+  | access-date = 2018-03-28}} < /ref > 
+ | genre = [[Vector graphics editor]] 
+ | license = [[GNU General Public License|GPL-3.0-or-later]] < ref > {{cite web 
+  | url        = https://gitlab.com/inkscape/inkscape/raw/master/COPYING 
+  | title      = COPYING in Inkscape source 
+  | access-date = 15 October 2018}} < /ref > 
+ | website = {{URL|https://inkscape.org}} 
+ }} 
+ '''Inkscape''' is a [[vector graphics]] (pictures made from lines instead of dots) drawing program published under the [[GNU General Public License]]. Its stated goal is to become a really good drawing tool while being able to fit in with standards for SVG graphics. 
+ Inkscape was first made for [[Linux]], but now it is [[cross-platform]] and runs on [[Microsoft Windows]], [[Mac OS X]], and other [[Unix]]-like operating systems. As of 2007, Inkscape is actively being made better, and new features are added all the time. 
+ 
+ == History == 
+ Inkscape began in 2003 as a fork (break-off) of the [[Sodipodi]] project. Sodipodi, developed since 1999, was itself based on [[Raph Levien]]'s Gill (Gnome Illustration Application). 
+ 
+ == Bibliography == 
+ * {{citation | first1 = Donna | last1 = Benjamin | date = February 22, 2010 | title = Beginning Inkscape | edition = 1st | publisher = [[Apress]] | page = 400 | isbn = 978-1-4302-2513-3 | url = http://www.apress.com/book/view/9781430225133 | accessdate = February 26, 2013 | archive-date = September 17, 2010 | archive-url = https://web.archive.org/web/20100917180935/http://apress.com/book/view/9781430225133 | url-status = dead }} 
+ * {{citation| first1 = Dmitry | last1 = Kirsanov | date = September 29, 2009 | title = The Book of Inkscape: The Definitive Guide to the Free Graphics Editor | edition = 1st | publisher = [[No Starch Press]] | page = 476 | isbn = 978-1-59327-181-7 | url = http://nostarch.com/inkscape.htm }} 
+ * {{citation | first1 = Tavmjong | last1 = Bah | date = May 6, 2011 | title = Inkscape: Guide to a Vector Drawing Program | edition = 4th | publisher = [[Prentice Hall]] | page = 504 | isbn = 978-0-13-705173-1 | url = http://www.informit.com/store/product.aspx?isbn=0132764148 }} 
+ 
+ == Sources == 
+ {{reflist}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Graphics software]] 
+ [[Category:Cross-platform software]]

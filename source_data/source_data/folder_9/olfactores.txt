@@ -1,0 +1,50 @@
+{{Automatic taxobox 
+ | name = Olfactores 
+ | display parents = 6 
+ | taxon = Olfactores 
+ | fossil_range =  < br > [[Fortunian]] – [[Holocene]], {{fossil range|535|0|earliest=558}} 
+ | image = Chordata diversity.png 
+ | image_caption = Example of Olfactores. 
+ | subdivision_ranks = Subgroups 
+ | subdivision = 
+ * †[[Vetulicolia]] 
+ * [[Tunicate|Tunicata]] 
+ * [[Vertebrate|Vertebrata]] 
+ * †''[[Palaeospondylus]]'' 
+ * †''[[Zhongxiniscus]]'' 
+ }} 
+ 
+ '''Olfactores''' is a group, called a [[clade]], in [[taxonomy]].  Taxonomy is the way scientists put living things in groups to show how they are related to each other.  Olfactores is part of the [[phylum]] [[Chordata]], animals with notochords. These are rods of tissue that form inside the developing [[embryo]].  In many organisms, the notochord helps the spine or nervous system grow, but some animals have only a notochord and no spinal bones.  Olfactores contains [[Vetulicolia]], [[Tunicata]] ([[Urochordata]]) and [[Vertebrata]] (also named [[Craniata]]). Most animals in Chordata are also in Olfactores. Only the animals in [[Cephalochordata]] are in Chordata but not Olfactores. 
+ 
+ Scientists started to think taxonomy needed a special name for this group of living things in 2006.  They studied large numbers of data and saw a pattern that said the organisms in Olfactores had a relationship with each other that they did not have with cephalochordates. < ref > {{cite journal |last1=Delsuc |first1=F |title=Tunicates and not cephalochordates are the closest living relatives of vertebrates. |journal=Nature |date=2006 |volume=439|issue=7079 |pages=965–968 |bibcode=2006Natur.439..965D |doi=10.1038/nature04336 |pmid=16495997 |s2cid=4382758 |url=https://hal.archives-ouvertes.fr/halsde-00315436/file/Delsuc-Nature06_HAL.pdf }} < /ref > < ref > {{cite journal |last1=Dunn |first1=C.W. |title=Broad phylogenetic sampling improves resolution of the animal tree of life. |journal=Nature |volume=452}} < /ref >  The name ''olfactores'' comes from [[Latin language|Latin]] word ''olfactus'' for  " sense of smell. "   Scientists named this clade  " Olfactores "  because the animals in it grow a [[pharynx]] as part of their [[respiratory system]] and use it to breathe.  Cephalochordates, for example the [[lancelet]], do not have respiratory systems and they do not have any organs whose job is only to smell things. < ref > {{cite book |last1=Benton |first1=M.J. |title=Vertebrate Palaeontology: Biology and Evolution |publisher=Blackwell Publishing |date=14 April 2000}} < /ref > 
+ 
+ ==Phylogeny== 
+ 
+ 
+ {{Clade 
+ |style= font-size:100%; line-height:100% 
+ |label1=[[Deuterostomia]] 
+ |1={{clade 
+ |label1=[[Xenambulacraria]] 
+ |1={{clade 
+   |1=[[Xenacoelomorpha]] 
+   |label2=[[Ambulacraria]] 
+   |2={{clade 
+      |1=[[Echinodermata]] 
+      |2=[[Hemichordata]] }} }} 
+       |label2=[[Chordata]] 
+       |2={{Clade     
+        |1=[[Cephalochordata]]  
+        |label2='''Olfactores'''    
+        |2={{Clade 
+          |1=[[Urochordata]]/[[Tunicata]] 
+          |2=[[Vertebrata]]/[[Craniata]]}}}}}}}} 
+ 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{Taxonbar|from=Q3280581}} 
+ 
+ [[Category:Chordates]] 
+ [[Category:Taxonomy]]

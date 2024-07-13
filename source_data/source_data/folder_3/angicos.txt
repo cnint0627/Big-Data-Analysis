@@ -1,0 +1,79 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |official_name          =Angicos 
+ |other_name             = 
+ |native_name            =   < !-- for cities whose native name is not in English -- > 
+ |nickname               =  
+ |settlement_type        =Municipality 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = Pico-do-Cabugi.jpg 
+ |imagesize              = 250px 
+ |image_caption          = [[Pico do Cabugi]]. 
+ |image_flag             =Bandeira de Angicos (RN).PNG  
+ |flag_size              = 
+ |image_seal             = Brasão de Angicos (RN).png 
+ |seal_size              = 
+ |image_map              =  
+ |mapsize                =  
+ |map_caption            =  
+ |pushpin_map            =Brazil 
+ |pushpin_label_position =bottom 
+ |pushpin_map_caption    =Location in Brazil 
+ |subdivision_type       = Country 
+ |subdivision_name       ={{flag|Brazil}} 
+ |subdivision_type1      = [[Regions of Brazil|Region]]  
+ |subdivision_name1      =[[Northeast Region, Brazil|Nordeste]] 
+ |subdivision_type2      = [[States of Brazil|State]] 
+ |subdivision_name2      =[[Rio Grande do Norte]] 
+ |subdivision_type3      =Mesoregion 
+ |subdivision_name3      =Central Potiguar 
+ |subdivision_type4      = 
+ |subdivision_name4      =  
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       =  
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref                =Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = 
+ |area_total_km2           = 741.654 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ < !-- Population   ----------------------- > 
+ |population_as_of               = 2020  < ref > [https://cidades.ibge.gov.br/brasil/rn/angicos/panorama IBGE 2020] < /ref > 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               = 11,705 
+ |population_density_km2         = 16 
+ < !-- General information  --------------- > 
+ |timezone               = UTC -3 
+ |utc_offset             =  
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ |coordinates            = {{coord|5.66583|S|36.6008|W|source:kolossus-ptwiki|display=inline,title}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >  tags-- > 
+ |elevation_m            =  
+ |elevation_ft           =  < !-- accord. to Google Earth-- > 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             = 
+ |blank_info             = 
+ |website                =  
+ |footnotes              =  
+ }} 
+ 
+ '''Angicos''' is a city in the [[states of Brazil|state]] of [[Rio Grande do Norte]]. It in the [[Northeast Region, Brazil|Northeast region]] of [[Brazil]]. < ref name= " IBGE_DTB_2008 " > {{cite web |url=https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2008/dtb_2008.zip |title=Divisão Territorial do Brasil |date=July 1, 2008 |publisher=Divisão Territorial do Brasil e Limites Territoriais, Instituto Brasileiro de Geografia e Estatística (IBGE) |accessdate=December 17, 2009|language=Portuguese}} < /ref > < ref name= " IBGE_Pop_2009 " > {{cite web | url = http://www.ibge.gov.br/home/estatistica/populacao/estimativa2009/POP2009_DOU.pdf | title = Estimativas da população para 1º de julho de 2009| publisher = Estimativas de População, Instituto Brasileiro de Geografia e Estatística (IBGE) | date = August 14, 2009 | accessdate=December 17, 2009 | format = [[PDF]]|language=Portuguese }} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:Municipalities in Rio Grande do Norte]]

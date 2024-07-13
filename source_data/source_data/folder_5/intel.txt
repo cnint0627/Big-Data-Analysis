@@ -1,0 +1,86 @@
+{{Infobox company 
+ | name = Intel Corporation 
+ | logo = Intel-Logo.svg 
+ | logo_size = 165px 
+ | logo_caption = Logo since September 2, 2020 
+ | caption =  
+ | image = 2200 Mission College Boulevard.jpg 
+ | image_caption = Headquarters in Santa Clara, California, in 2023 
+ | type = [[Public company|Public]] 
+ | traded_as = {{NASDAQ|INTC}} < br / > [[Dow Jones Industrial Average|Dow Jones Industrial Average Component]] < br / > [[NASDAQ-100|NASDAQ-100 Component]] < br / > [[S & P 500|S & P 500 Component]] 
+ | industry = [[Semiconductor]]s 
+ | foundation = {{start date and age|1968|7|18}} 
+ | founder = [[Gordon Moore]], [[Robert Noyce]], [[Andrew Grove]] 
+ | location_city = [[Santa Clara, California|Santa Clara]], [[California]] 
+ | location_country = [[United States of America|U.S.]] < ref > [http://www.hoovers.com/company/Intel_Corporation/rykxki-1.html?CM_ITE=intel_headquarters & CM_VEN=PAID & CM_PLA=CHQ & CM_CAT=GGL Intel Corporation Company Profile]. Retrieved July 26, 2010. < /ref > 
+ | key_people = [[Andy Bryant]] < br / > ({{small|Chairman}}) < br / > [[Brian Krzanich]] < br / > ({{small|CEO}}) < br / > [[Renée James]] < br / > ({{small|President}}) 
+ | area_served = Worldwide 
+ | products = [[Bluetooth]] [[chipset]]s, [[flash memory]], [[microprocessor]]s, [[motherboard]] [[chipset]]s, [[Network interface controller|network interface cards]], [[mobile phones]], [[solid state drive]]s, [[central processing unit]]s 
+ | revenue = {{nowrap|{{decrease}} US$55.4 & nbsp;billion (2015) < ref name='xbrlus_1' > {{cite web |url=http://www.intc.com/releasedetail.cfm?ReleaseID=950391 |title=INTEL CORP Earnings Release |publisher=Intel |format=XBRL |date=February 14, 2014 |access-date=February 7, 2016 |archive-date=May 8, 2016 |archive-url=https://web.archive.org/web/20160508080433/http://www.intc.com/releasedetail.cfm?ReleaseID=950391 |url-status=dead }} < /ref > }} 
+ | operating_income = {{nowrap|{{decrease}} US$14.0 & nbsp;billion (2015) < ref name='xbrlus_1' / > }} 
+ | net_income = {{nowrap|{{decrease}} US$11.4 & nbsp;billion (2015) < ref name='xbrlus_1' / > }} 
+ | assets = {{nowrap|{{decrease}} US$103.065 & nbsp;billion (2015) < ref name='xbrlus_1' / > }} 
+ | equity = {{nowrap|{{decrease}} US$61.085 & nbsp;billion (2015) < ref name='xbrlus_1' / > }} 
+ | num_employees = 106,700 (2014) < ref > {{cite web|url=http://www.intc.com/intel-annual-report/2014/files/Intel_2014_Annual_Report.pdf|title=Employees|work=2014 Annual Report|publisher=Intel|accessdate=22 November 2015|archive-date=14 September 2015|archive-url=https://web.archive.org/web/20150914214402/http://www.intc.com/intel-annual-report/2014/files/Intel_2014_Annual_Report.pdf|url-status=dead}} < /ref > 
+ | homepage = {{URL|www.intel.com}} 
+ }} 
+ 
+ '''Intel Corporation''' ('''Int'''egrated '''El'''ectronics '''Corporation''') is a [[microprocessor]] [[company]] that was set up in the 1960s. Different types of processors made by Intel are used in many [[computer]]s. Their most famous older products are the 4004, i386, i486, and [[Pentium]] chips. Intel makes many different products, with their first dedicated consumer [[GPU]] line released in early 2022. < ref > {{Cite web|last=Hachman|first=Mark|date=2023-03-14|title=Intel will launch its Arc GPUs on March 30|url=https://www.pcworld.com/article/623068/intel-will-launch-its-arc-gpus-on-march-30.html|access-date=2023-12-25|website=www.pcworld.com|language=en-US}} < /ref >  The first Pentium chips were released on March 22, 1993. < ref name=Stokes2004 > {{Citation 
+  | title = The Pentium: An Architectural History of the World's Most Famous Desktop Processor 
+  | url = https://arstechnica.com/old/content/2004/07/pentium-1.ars 
+  | year = 2004 
+  | author = Stokes, Jon 
+  | journal = Ars Technica 
+  | accessdate = 2010-03-19 
+ }} < /ref > 
+ 
+ Intel Corporation is traded on the NASDAQ under the ticker [http://www.nasdaq.com/symbol/intc INTC] and has been a component of the [[Dow Jones Industrial Average]] since 1999. 
+ 
+ ==Processors== 
+ === The [[4-bit]] processors === 
+ * [[Intel 4004]] 
+ * [[Intel 4040]] 
+ 
+ === The [[8-bit]] processors === 
+ * [[Intel 8080]] 
+ * [[Intel 8085]] 
+ 
+ === The [[16-bit]] processors === 
+ * [[Intel 8086]] 
+ * [[Intel 8088]] 
+ * [[Intel 80286]] 
+ 
+ === The [[16-bit]] processors: the 80386 range === 
+ * [[Intel 80386]] 
+ 
+ === From 1993 to today === 
+ * [[Pentium]] 
+ * [[Intel Atom|Atom]] 
+ * [[Celeron]] 
+ * [[Intel Core]] 
+ * [[Intel Core 2]] 
+ * [[Intel Core i3]] 
+ * [[Intel Core i5]] 
+ * [[Intel Core i7]] 
+ * [[Intel Core i9]] 
+ 
+ == Graphics cards == 
+ * [[Intel Arc A310]] 
+ * [[Intel Arc A380]] 
+ * [[Intel Arc A580]] 
+ * [[Intel Arc A750]] 
+ * [[Intel Arc A770]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.intel.com Official homepage] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:American technology companies]] 
+ [[Category:1968 establishments in the United States]] 
+ [[Category:1960s establishments in California]] 
+ [[Category:Intel| ]]

@@ -1,0 +1,112 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Gauteng 
+ | native_name                     =  
+ | settlement_type                 = [[Provinces of South Africa|Province of South Africa]] 
+ < !-- images, nickname, motto --- > 
+ | image_flag                      = Flag of the Gauteng Province.png 
+ | image_shield                    =  
+ | motto                           = [[Unity in Diversity]] 
+ < !-- maps and coordinates ------ > 
+ | image_map                       = Gauteng in South Africa.svg 
+ | mapsize                         =  
+ | map_alt                         = Map showing the location of Gauteng in the north-central part of South Africa 
+ | map_caption                     = Location of Gauteng in South Africa 
+ < !-- location ------------------ > | subdivision_type                = [[List of sovereign states|Country]] 
+ | subdivision_name                = {{RSA}} 
+ < !-- established --------------- > | established_title               = Established 
+ | established_date                = 28 April 1994 
+ < !-- seat, smaller parts ------- > | seat_type                       = [[Capital city|Capital]] 
+ | seat                            = [[Johannesburg]] 
+ | parts_type                      = [[Districts of South Africa|Districts]] 
+ | government_footnotes            =  < !-- for references: use < ref >  tags -- > 
+ | government_type                 = [[Parliamentary system]] 
+ | leader_party                    = [[African National Congress|ANC]] 
+ | leader_title                    = [[Premier of Gauteng|Premier]] 
+ | leader_name                     = [[David Makhura]] 
+ | leader_title1                   = Legislature 
+ | leader_name1                    = [[Gauteng Provincial Legislature]] 
+ < !-- area ---------------------- > | area_footnotes                  =  < ref name= " cib2011 " > {{cite book |title=Census 2011: Census in brief |url=http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |publisher=Statistics South Africa |location=Pretoria |year=2012 |isbn=9780621413885 |archive-url=https://web.archive.org/web/20150513171240/http://www.statssa.gov.za/census/census_2011/census_products/Census_2011_Census_in_brief.pdf |archive-date=13 May 2015 |url-status=live}} < /ref > 
+ | area_total_km2                  = 18176 
+ | area_rank                       = [[List of South African provinces by area|9th in South Africa]] 
+ < !-- elevation ----------------- > | elevation_min_m                 =  < !-- population ---------------- > 
+ | elevation_max_footnotes         =  < !-- for references: use < ref >  tags -- > 
+ | elevation_min_footnotes         =  < !-- for references: use < ref >  tags -- > 
+ | population_total                = 12272263 
+ | population_as_of                = 2011 
+ | population_footnotes            =  < ref name= " cib2011 "  / > < ref > {{cite report |title=Mid-year population estimates, 2019 |publisher=Statistics South Africa |date=31 July 2019 |page=3 |url=http://www.statssa.gov.za/publications/P0302/P03022019.pdf |access-date=31 December 2019}} < /ref > 
+ | population_density_km2          = auto 
+ | population_est                  = 15176115 
+ | pop_est_as_of                   = 2019 
+ | population_rank                 = [[List of South African provinces by population|1st in South Africa]] 
+ | population_density_rank         = [[List of South African provinces by population density|1st in South Africa]] 
+ | population_demonym              =  < !-- demonym, ie. Liverpudlian for someone from Liverpool -- > 
+ 
+ | timezone1                       = [[South African Standard Time|SAST]] 
+ | utc_offset1                     = +2 
+ < !-- postal codes, area code --- > | iso_code                        = ZA-GT 
+ < !-- website, footnotes -------- > | website                         = {{URL|1=https://www.gautengonline.gov.za/|2=gautengonline.gov.za}} 
+ | footnotes                       =  
+ | p2                              = [[City of Tshwane Metropolitan Municipality|City of Tshwane]] 
+ | p3                              = [[Ekurhuleni Metropolitan Municipality|Ekurhuleni]] 
+ | p4                              = [[Sedibeng District Municipality|Sedibeng]] 
+ | p5                              = [[West Rand District Municipality|West Rand]] 
+ < !-- government type, leaders -- > | elevation_max_m                 = 1913 
+ | population_note                 = 
+ < !-- demographics (section 1) -- > 
+ | demographics_type1              = Population groups 
+ | demographics1_footnotes         =  < ref name= " cib2011 "  / > 
+ | demographics1_title1            = [[African people|African]] 
+ | demographics1_info1             = 77.4% 
+ | demographics1_title2            = [[White South African|White]] 
+ | demographics1_info2             = 15.6% 
+ | demographics1_title3            = [[Coloured]] 
+ | demographics1_info3             = 3.5% 
+ | demographics1_title4            = [[Indian South African|Indian]] or [[Asian South African|Asian]] 
+ | demographics1_info4             = 2.9% 
+ < !-- demographics (section 2) -- > 
+ | demographics_type2      = Languages 
+ | demographics2_footnotes =  < ref name= " cib2011 "  / > 
+ | demographics2_title1    = [[Zulu language|Zulu]] 
+ | demographics2_info1     = 14.8% 
+ | demographics2_title2    = [[South African English|English]] 
+ | demographics2_info2     = 13.3% 
+ | demographics2_title3    = [[Afrikaans language|Afrikaans]] 
+ | demographics2_info3     = 12.4% 
+ | demographics2_title4    = [[Sotho language|Southern & nbsp;Sotho]] 
+ | demographics2_info4     = 12.1% 
+ | demographics2_title5    = [[Northern Sotho language|Northern & nbsp;Sotho]] 
+ | demographics2_info5     = 11.6% 
+ | demographics2_title6    = [[Tswana language|Tswana]] 
+ | demographics2_info6     = 11.1% 
+ | demographics2_title7    = [[Xhosa language|Xhosa]] 
+ | demographics2_info7     = 10.6% 
+ | demographics2_title8    = [[Tsonga language|Tsonga]] 
+ | demographics2_info8     = 6.6% 
+ | demographics2_title9    = [[Southern Ndebele language|Southern & nbsp;Ndebele]] 
+ | demographics2_info9     = 3.2% 
+ | demographics2_title10   = [[Venda language|Venda]] 
+ | demographics2_info10    = 2.3% 
+ | blank_name_sec2                 = [[Human Development Index|HDI]] (2017) 
+ | blank_info_sec2                 = 0.735 < ref name= " GlobalDataLab " > {{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org|language=en|access-date=2018-09-13}} < /ref > < br/ > {{color|#090|high}} · [[List of South African provinces by Human Development Index|2nd]] 
+ < !-- time zone(s) -------------- > | official_name                   =  
+ }} 
+ '''Gauteng''' ({{IPAc-en|x|aʊ|ˈ|t|ɛ|ŋ}} {{respell|khow|TENG}}; < ref > [https://en.oxforddictionaries.com/definition/gauteng Gauteng] {{Webarchive|url=https://web.archive.org/web/20181116113301/https://en.oxforddictionaries.com/definition/gauteng |date=2018-11-16 }}, Oxford Dictionaries. Retrieved 09-10-2018 < /ref >  {{lang-tn|Gauteng}}; [[Sotho language|Sotho]]: ''Gauteng'' ; {{lang-zu|eGoli}}; Tsonga: ''Gauteng/eXilungwini;'' [[Southern Ndebele language|Ndebele]], {{lang-xh|iRhawuti}}; {{lang-nr|I-Gauteng}}; {{lang-ve|Gauteng}}) is a [[Provinces of South Africa|province]] of [[South Africa]]. It is the smallest province by area, though it also has the greatest number of people. Its [[capital city|capital]] is [[Johannesburg]], the largest city in South Africa. It also hosts South Africa's [[Executive (government)|executive]] capital, [[Pretoria]]. 
+ 
+ == Geography == 
+ The province borders the provinces of [[North West (South African province)|North West]] (west), the [[Free State]] (south), [[Limpopo]] (north), and [[Mpumalanga]] (east). 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{commons category|Gauteng}} 
+ *{{wikivoyage-inline|Gauteng}} 
+ *[https://web.archive.org/web/20100315073408/http://www.gautengonline.gov.za/ Gauteng Provincial Government] 
+ *[http://www.gauteng.net/ Gauteng Tourism Authority] 
+ *[http://www.mg.co.za/article/2008-10-07-mashatile-elected-to-lead-gauteng Mashatile elected to lead Gauteng] 
+ 
+ {{Coord|26|S|28|E|type:adm1st_region:ZA_dim:230km|display=title}} 
+ {{authority control}} 
+ [[Category:Gauteng| ]] 
+ [[Category:1994 establishments in South Africa]]

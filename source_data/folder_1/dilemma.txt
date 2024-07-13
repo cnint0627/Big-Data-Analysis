@@ -1,0 +1,39 @@
+{{otheruses}} 
+ 
+ A '''dilemma''' (Greek δί-λημμα  " double [[proposition]] " ) is when two solutions or possibilities are present. If both solutions are undesirable or impossible, this may put a person '''on the horns of a dilemma''', neither outcome is comfortable. 
+ 
+ The dilemma is sometimes put as a choice  " you must accept either A, or B " . Here A and B are each leading to some undesirable conclusion.  
+ 
+ In formal [[logic]], the definition of a dilemma differs from everyday usage.  Two options are still present, but choosing between them is immaterial because they both imply the same conclusion.  Symbolically expressed thus: 
+ 
+ < math > A \vee B, A \Rightarrow C, B \Rightarrow C \vdash C < /math > 
+ 
+ This can be translated informally as  " one (or both) of A or B is known to be true, but they both imply C, so regardless of the truth values of A and B we can conclude C. " 
+ 
+ Horned dilemmas can present more than two choices.  The number of choices of horned dilemmas can be used in their alternative names, such as two-pronged (two-horned) or dilemma proper, or three-pronged (three-horned) or [[trilemma]], and so on. 
+ 
+ Constructive dilemmas 
+ 
+ :1. (If X, then Y) and (If W, then Z). 
+ :2. X or W. 
+ :3. Therefore, Y or Z. 
+ 
+ Destructive dilemmas 
+ 
+ :1. (If X, then Y) and (If W, then Z). 
+ :2. Not Y or not Z. 
+ :3. Therefore, not X or not W. 
+ 
+ == Responses to a dilemma == 
+ 
+ In ''[[Zen and the Art of Motorcycle Maintenance]],'' [[Robert Pirsig]] outlines possible responses to a dilemma. The classical responses are to either choose one of the two horns and refute the other or alternatively to refute both horns by showing that there are additional choices. Pirsig then mentions three illogical or rhetorical responses. One can  " throw sand in the bull's eyes "  by, for example, questioning the competence of the questioner. One can  " sing the bull to sleep "  by, for example, stating that the answer to the question is beyond one's own humble powers and asking the questioner for help. Finally one can  " refuse to enter the arena "  by, for example, stating that the question is unanswerable. 
+ 
+ == Related pages == 
+ * [[Prisoner's dilemma]] 
+ * [[False dilemma]] 
+ * [[Contradiction]] 
+ * [[Paradox]] 
+ * [[Trilemma]] 
+ 
+ 
+ [[Category:Logic]]

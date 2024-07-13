@@ -1,0 +1,83 @@
+{{chembox 
+ | Verifiedfields = changed 
+ | verifiedrevid = 470609447 
+ | Name = Threonine 
+ | ImageFile = L-Threonin - L-Threonine.svg 
+ | ImageSize = 180px 
+ | ImageName = Skeletal formula 
+ | ImageCaption = [[Skeletal formula]] of  < small > L < /small > -threonine 
+ | ImageFileL1 = Threonine-from-xtal-3D-bs-17.png 
+ | ImageSizeL1 =  
+ | ImageNameL1 = Ball-and-stick model 
+ | ImageCaptionL1 = [[Ball-and-stick model]] 
+ | ImageFileR1 = Threonine-from-xtal-3D-sf.png 
+ | ImageSizeR1 =  
+ | ImageNameR1 = Space-filling model 
+ | ImageCaptionR1 = [[Space-filling model]] 
+ | IUPACName = Threonine 
+ | OtherNames = 2-Amino-3-hydroxybutanoic acid 
+ |Section1={{Chembox Identifiers 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = TFM6DU5S6A 
+ | UNII1_Ref = {{fdacite|correct|FDA}} 
+ | UNII1 = 2ZD004190S 
+ | UNII1_Comment = ( < small > L < /small > -isomer) 
+ | IUPHAR_ligand = 4785 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C4H9NO3/c1-2(6)3(5)4(7)8/h2-3,6H,5H2,1H3,(H,7,8)/t2-,3+/m1/s1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = AYFVYJQAPQTCCC-GBXIJSLDSA-N 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB00156 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 57926 
+ | SMILES = C[C@H]([C@@H](C(=O)O)N)O 
+ | SMILES1 = C[C@H]([C@@H](C(=O)[O-])[NH3+])O 
+ | SMILES1_Comment = [[Zwitterion]] 
+ | InChI = 1S/C4H9NO3/c1-2(6)3(5)4(7)8/h2-3,6H,5H2,1H3,(H,7,8)/t2-,3+/m1/s1 
+ | InChIKey1 = AYFVYJQAPQTCCC-GBXIJSLDSA-N 
+ | CASNo = 80-68-2 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo1_Ref = {{cascite|correct|CAS}} 
+ | CASNo1= 72-19-5 
+ | CASNo1_Comment = ( < small > L < /small > -isomer)  < !-- also verified at CAS Common Chemistry -- > 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 6051 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 291747 
+ | PubChem = 6288 
+ | EINECS = 201-300-6  < !-- 200-774-1 for L-isomer -- > 
+   }} 
+ |Section2={{Chembox Properties 
+ | C=4 | H=9 | N=1 | O=3 
+ | Appearance =  
+ | Density =  
+ | MeltingPt =  
+ | BoilingPt =  
+ | pKa=2.63 (carboxyl), 10.43 (amino) < ref > Dawson, R.M.C., et al., ''Data for Biochemical Research'', Oxford, Clarendon Press, 1959. < /ref > 
+ | Solubility = (H2O, g/dl) 10.6(30°),14.1(52°),19.0(61°) 
+   }} 
+ |Section3={{Chembox Hazards 
+ | FlashPt =  
+ | AutoignitionPt =  
+   }} 
+ }} 
+ 
+ '''Threonine''' (symbol '''Thr''' or '''T''') < ref > {{cite web| url = http://www.chem.qmul.ac.uk/iupac/AminoAcid/AA1n2.html | title = Nomenclature and Symbolism for Amino Acids and Peptides | publisher = IUPAC-IUB Joint Commission on Biochemical Nomenclature | year = 1983 | access-date = 5 March 2018| archive-url= https://web.archive.org/web/20081009023202/http://www.chem.qmul.ac.uk/iupac/AminoAcid/AA1n2.html| archive-date= 9 October 2008 | url-status= live}} < /ref >  is an [[amino acid]] that is used in the [[biosynthesis]] of [[protein]]s. 
+ 
+ ==History== 
+ Threonine was discovered in 1936 by [[William Cumming Rose]] and Curtis Meyer. < ref > {{Cite book|url=https://books.google.com/books?id=AtngooiwXikC & pg=PA459|title=A Dictionary of scientists.|date=1999|publisher=Oxford University Press|others=Daintith, John., Gjertsen, Derek.|isbn=9780192800862|location=Oxford|pages=459|oclc=44963215}} < /ref >   
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *[http://www.chem.qmul.ac.uk/iubmb/enzyme/reaction/AminoAcid/Thr.html Threonine biosynthesis] 
+ *[https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=205 CID 205] 
+ *[https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6288 CID 6288] 
+ 
+ [[Category:amino acids]] 
+ 
+ {{chem-stub}} 
+ {{Proteinogenic amino acids}} 
+ {{Amino acid metabolism intermediates}}

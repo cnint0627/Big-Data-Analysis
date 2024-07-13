@@ -1,0 +1,76 @@
+{{Taxobox 
+ | name = Discoglossidae 
+ | image = AlytesObstet.jpg 
+ | image_width = 200px 
+ | image_caption = ''Alytes obstetricans'' 
+ | fossil_range = {{Fossil range|155|0|[[Late Jurassic]] to Recent < ref name= " foster-enneabatrachus " > Foster, J. (2007).  " ''Enneabatrachus hechti'' "  ''Jurassic West: The Dinosaurs of the Morrison Formation and Their World''. Indiana University Press. p. 137. < /ref > }} 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | subphylum = [[Vertebrate|Vertebrata]] 
+ | classis = [[Amphibia]] 
+ | subclassis = [[Lissamphibia]] 
+ | superordo = [[Batrachia]] 
+ | ordo = [[Anura]] 
+ | subordo = [[Archaeobatrachia]] 
+ | familia = '''Discoglossidae''' 
+ | familia_authority = Günther, 1859 
+ | subdivision_ranks = Genera 
+ | subdivision =  
+ Genus '''''[[Alytes]]''''' < br > 
+ Genus '''''[[Discoglossus]]''''' < br > 
+ & nbsp; & nbsp; & nbsp;  
+ | range_map = Discoglossidae distrib.PNG 
+ | range_map_width = 200px 
+ | range_map_caption = Distribution of Discoglossidae (in black) 
+ }} 
+ '''Discoglossidae''' is a [[family (biology)|family]] of [[frog]]s. They are [[common name|commonly known]] as the '''Disc-Tongued Frogs'''. < ref > ''Amphibian Species of the World'' uses the name ''Alytidae'' for this family in its fifth edition. < /ref >  They live in [[Europe]] but some species have been found in Northeastern [[Africa]]. An extinct species of the Discoglossidae family used to live in [[Israel]]. 
+ 
+ The family has two [[genus]]. They include the ''[[Alytes]]'' and ''[[Discoglossus]]''. The ''Discoglossus'' frogs looks very alike to [[toad]]s and can be found on land. The ''Alytes'' are more smoother and look more like frogs. They are seen in the water. < ref name= " EoR " > {{Cite book|url=https://www.worldcat.org/oclc/39559811|title=Encyclopedia of Reptiles  &  Amphibians|date=1998|isbn=0-12-178560-2|edition=2nd|location=San Diego, CA|oclc=39559811|last1=Zweifel |first1=Richard George }} < /ref >  All of the species of the Discoglossidae will lay their eggs in [[pond]]s and will turn into [[tadpole]]s. 
+ 
+ == Species == 
+ The genus ''[[Bombina]]'' and ''[[Barbourula]]'' also used to be under this family but have now been moved to the [[Bombinatoridae]] family, 
+ 
+ Family '''Discoglossidae''' 
+ * Genus ''[[Alytes]]'' 
+ ** ''[[Alytes cisternasii]]'' - Iberian Midwife Toad 
+ ** ''[[Alytes dickhilleni]]'' - Southern Midwife Toad 
+ ** ''[[Alytes maurus]]'' - Moroccan Midwife Toad 
+ ** ''[[Alytes muletensis]]'' - Majorcan Midwife Toad 
+ ** ''[[Alytes obstetricans]]'' - Common Midwife Toad 
+ * Genus ''[[Discoglossus]]'' 
+ ** ''[[Discoglossus galganoi]]'' - West Iberian Painted Frog 
+ ** ''[[Discoglossus jeanneae]]'' - Spanish Painted Frog 
+ ** ''[[Corsican Painted Frog|Discoglossus montalenti]]'' - Corsican Painted Frog 
+ ** ''[[Discoglossus nigriventer]]'' - Israel Painted Frog 
+ ** ''[[Discoglossus pictus]]'' - Common Painted Frog 
+ ** ''[[Discoglossus sardus]]'' - Tyrrhenian Painted Frog 
+ * Genus †''[[Enneabatrachus]]'' ([[prehistoric]]) 
+ ** †''Enneabatrachus hechti'' 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Books == 
+ *{{cite journal 
+  | title = Phylogenetic relationships of discoglossid frogs (Amphibia:Anura:Discoglossidae) based on complete mitochondrial genomes and nuclear genes 
+  | doi = 10.1016/j.gene.2004.10.001 
+  | journal = Gene  
+  | volume = 343 
+  | pages = 357–366 
+  |date=December 2004 
+   
+  | pmid = 15588590 
+  | issue = 2 
+ | last1 = San Mauro 
+  | first1 = Diego 
+  | last2 = García-París 
+  | first2 = Mario 
+  | last3 = Zardoya 
+  | first3 = Rafael 
+  }} 
+ *{{cite journal|title=Initial diversification of living amphibians predated the breakup of Pangaea|url=http://www.journals.uchicago.edu/AN/journal/issues/v165n5/40546/40546.html|journal=American Naturalist|volume=165|pages=590–599|date=May 2005|doi=10.1086/429523|pmid=15795855|issue=5|s2cid=17021360|last1=San Mauro|first1=Diego|last2=Vences|first2=Miguel|last3=Alcobendas|first3=Marina|last4=Zardoya|first4=Rafael|last5=Meyer|first5=Axel|access-date=2012-07-26|archive-date=2012-12-05|archive-url=https://archive.today/20121205035723/http://www.journals.uchicago.edu/AN/journal/issues/v165n5/40546/40546.html|url-status=dead}} 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Frogs of Europe]] 
+ [[Category:Frogs of Africa]]

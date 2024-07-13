@@ -1,0 +1,34 @@
+{{italictitle}} 
+ {{Taxobox  
+ | name = ''Toxoplasma gondii'' 
+ | image = Toxoplasma gondii tachy.jpg 
+ | image_width = 200px 
+ | image_caption = ''T. gondii'' [[tachyzoite]]s 
+ | regnum = [[Protista]] 
+ | phylum = [[Apicomplexa]] 
+ | classis = [[Conoidasida]] 
+ | subclassis = [[Coccidia]]sina 
+ | ordo = [[Eucoccidiorida]] 
+ | familia = [[Sarcocystidae]] 
+ | genus = '''''Toxoplasma''''' 
+ | binomial = ''Toxoplasma gondii''}} 
+ 
+ '''''Toxoplasma gondii''''' is a [[protozoa]]n [[parasite]] that can infect almost all [[warm-blooded]] [[animal]]s, including [[human]]s. < ref > Weiss, Louis M.  &  Kami Kim, eds. 2011. ''Toxoplasma gondii: the model Apicomplexan: perspectives and methods''. Academic Press/Elsevier, London, p49. < /ref > < ref name=Dubey > Dubey J.P. 2010. ''Toxoplasmosis of animals and humans. 2nd ed, CRC Press. {{ISBN|978-1-4200-9237-0}} < /ref > 
+ 
+ In humans, it is one of the most common parasites. < ref > {{cite web|title=CDC – About Parasites|url=https://www.cdc.gov/parasites/about.html|accessdate=12 March 2013}} < /ref >  Blood test show that up to a third of the world population has been or is infected with ''T. gondii''. Infection rates differ greatly from country to country. < ref name=Pappas2009 > {{cite journal|title=Toxoplasmosis snapshots: global status of Toxoplasma gondii seroprevalence and implications for pregnancy and congenital toxoplasmosis.|journal=International Journal for Parasitology|date=2009|volume=39|issue=12|pages=1385–94|pmid=19433092|doi=10.1016/j.ijpara.2009.04.003|last1=Pappas|first1=Georgios|last2=Roussos|first2=Nikos|last3=Falagas|first3=Matthew E.}} < /ref > 
+ 
+ Although mild, flu-like symptoms occasionally occur during the first few weeks, infection with ''T. gondii'' generally produces no symptoms in healthy human adults. < ref name=CDCdisease > {{cite web|title=CDC Parasites – Toxoplasmosis (Toxoplasma infection) – Disease|url=https://www.cdc.gov/parasites/toxoplasmosis/disease.html|accessdate=12 March 2013}} < /ref >  But in infants, [[HIV/AIDS]] patients, and others with [[Immune system|weakened immunity]], infection can cause serious and occasionally fatal illness ('''toxoplasmosis'''). < ref name=Dubey/ > < ref name=CDCdisease / > < sup > p77 < /sup > 
+ 
+ Infection in humans and other warm-blooded animals can occur 
+ # by eating raw or undercooked meat containing ''T. gondii'' tissue cysts. < ref > Tissue cyst = group of cells with a hard shell around them < /ref > < ref name=Tenter2000 > {{cite journal|title=Toxoplasma gondii: from animals to humans|journal=International Journal for Parasitology |date=2000 |volume=30|issue=12–13|pages=1217–58|pmid=11113252|doi=10.1016/S0020-7519(00)00124-7|pmc=3109627|last1=Tenter|first1=Astrid M.|last2=Heckeroth|first2=Anja R.|last3=Weiss|first3=Louis M.}} < /ref >   
+ # by drinking water or eating anything contaminated with oocysts. < ref > Oocyst: a hardy, thick-walled spore able to survive for long periods outside a host. The [[zygote]] develops within the spore, which acts to protect it during transfer to new hosts. This method is found in some [[Apicomplexa]]. < /ref >  in the [[faeces]] of an infected animal. < ref name=Tenter2000 / > 
+ # from a [[blood transfusion]] or [[organ transplant]] 
+ # or by transmission from mother to [[foetus]] across the [[placenta]]. < ref name=Tenter2000 / > 
+ 
+ The parasite can only [[Sexual reproduction|sexually reproduce]] in the [[intestine]]s of members of the [[Felidae|cat family (felids)]]. < ref name=Dubey2009History > {{cite journal|last=Dubey|first=JP|title=History of the discovery of the life cycle of Toxoplasma gondii|journal=International Journal for Parasitology |date=2009|volume=39|issue=8|pages=877–882|pmid=19630138|doi=10.1016/j.ijpara.2009.01.005}} < /ref >  Felids are therefore the [[Host (biology)|definitive hosts]] of ''T. gondii'', with all other hosts defined as 'intermediate hosts'. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Apicomplexa]] 
+ [[Category:Parasites]]

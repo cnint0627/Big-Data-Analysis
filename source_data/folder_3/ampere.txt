@@ -1,0 +1,25 @@
+{{Infobox Unit 
+ | name = Ampere 
+ | standard = [[SI base unit]] 
+ | quantity = [[Electric current]] 
+ | symbol = A 
+ | dimension = I 
+ | namedafter = [[André-Marie Ampère]] 
+ }} 
+ The '''ampere''' or '''amp''' ([[Symbol]]: A) is the [[SI base unit|standard unit]] of [[electric current]]. An electric current of one amp is one [[coulomb]] per second. The amp is named after [[André-Marie Ampère]] who studied [[electromagnetism]]'''. AMP is a unit magnetic pull, meaning that isn't a unit of power.''' 
+ 
+ The ampere is defined so the [[elementary charge]] ''e'' is 1.602 176 634 × 10 < sup > −19 < /sup >  C or A•s. < ref > {{cite web |title=ampere (A) |url=https://www.npl.co.uk/si-units/ampere |website=www.npl.co.uk |access-date=21 May 2019}} < /ref > 
+ 
+ == References == 
+ < references / > 
+ 
+ == Other websites == 
+ * [http://physics.nist.gov/cuu/ The NIST Reference on Constants, Units, and Uncertainty] 
+ * [http://alpha.montclair.edu/~kowalskiL/SI/SI_PAGE.HTML A short history of the SI units in electricity] {{Webarchive|url=https://web.archive.org/web/20020214114359/http://alpha.montclair.edu/~kowalskiL/SI/SI_page.html |date=2002-02-14 }} 
+ 
+ {{SI units}} 
+ 
+ [[Category:SI units]] 
+ 
+ 
+ {{science-stub}}

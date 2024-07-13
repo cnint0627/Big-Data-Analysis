@@ -1,0 +1,155 @@
+{{Infobox Italian comune 
+ | name                = Lierna Lake Como 
+ | official_name       = Lierna 
+ | native_name         = Lier 
+ | image_skyline       = Borgo Castle Lierna Lake Como, Riva Bianca, 1910.png 
+ | image_caption       = Lierna Lake Como, 1910 
+ | image_shield        =  
+ | shield_alt          =  
+ | image_map           =  
+ | map_alt             =  
+ | map_caption         =  
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates         = {{coord|45|57|30|N|9|18|15|E|type:city(2088)_region:IT|display=inline,title}} 
+ | coordinates_footnotes =  
+ | region              = [[Lombardy]] 
+ | province            = [[Province of Lecco]] (LC) 
+ | frazioni            = {{unbulleted list|Bancola|Casate|Castello|Cisarino|Genico|Giussana|Grumo|La Foppa|Mugiasco|Olcianico|Sornico|Villa}} 
+ | mayor_party         =  
+ | mayor               =  
+ | area_footnotes      =  
+ | area_total_km2      = 11.3 
+ | population_footnotes =  
+ | population_total    = 2176 
+ | population_as_of    = 2014 
+ | pop_density_footnotes =  
+ | population_demonym  = liernesi 
+ | elevation_footnotes =  
+ | elevation_m         =  
+ | twin1               =  
+ | twin1_country       =  
+ | saint               =  
+ | day                 =  
+ | postal_code         = 22050 
+ | area_code           = 0341 
+ | website             =  
+ | footnotes           =  
+ }} 
+ '''Lierna''' is a ''[[comune]]'' in the [[provinces of Italy|province]] of [[province of Lecco|Lecco]] in [[Lombardy]], in north-west Italy. It lies on the eastern shore of [[Lake Como]] in the area '''Centro Lago'''. It is about {{convert|60|km|mi|0}} north of [[Milan]] and about {{convert|15|km|mi|0}} north-west of [[Lecco]]. It has an area of 11.3 & nbsp;km² < ref name= " istat " > All demographics and other statistics: Italian statistical institute [[National Institute of Statistics (Italy)|Istat]]. < /ref >  and has twelve ''[[frazioni]]'': Bancola, Casate, Castello, Cisarino, Genico, Giussana, Grumo, La Foppa, Mugiasco, Olcianico, Sornico and Villa.{{r|proloco}} At the end of 2014 the population was 2176 people, in 983 families.{{r|istat2}} Lierna is the most represented village on Lake Como over the centuries in works of art. 
+ 
+ Lierna borders the [[comune]]s of [[Esino Lario]], [[Mandello del Lario]], [[Oliveto Lario]] and [[Varenna]]. 
+ 
+ == History == 
+ The first mention of Lierna dates to 854 AD, but [[Ancient Rome|Roman]] remains, including a [[mosaic]] floor now in the Palazzo Belgioioso of [[Lecco]], attest to much earlier settlement. The name of the village may be of Roman or of [[Celts|Celtic]] origin.{{r|proloco}} Between 1035 and 1202 it was a [[fief|feud]] of the [[Monastery of San Dionigi]] in Milan. Lierna was contested between [[Milan]] and [[Como]], and between the [[Della Torre]] and [[House of Visconti|Visconti]] families. It passed into the hands of the [[Marchesino Stanga]] in 1499, and in 1533 to the Sfondrati family of [[Cremona]], who held it until 1788. Lierna became a ''comune'' in 1743, when it was separated from that of [[Mandello del Lario|Mandello]].{{r|proloco}} 
+ 
+ In 1927 the Milanese sculptor [[Giannino Castiglioni]] opened a studio at his house in Lierna. He died in Lierna on 27 August 1971.{{r|trecc}} He left some preparatory [[plaster cast]]s to the comune; a museum to house them is under construction.{{r|como}} 
+ 
+ In 1933 an incomplete [[fossil]] of  ''[[Lariosaurus balsami]]'', a [[nothosaurid]] from the [[Middle Triassic]] (circa 240 million years ago) of which the first example was discovered at [[Perledo]], some 10 & nbsp;km north of Lierna, was found in a quarry in the ''frazione'' of Grumo. It is now in the Museo di Storia Naturale in the Palazzo Belgioioso of Lecco.{{r|proloco2}} 
+ 
+ ==Places of interest== 
+ *Punta di Grumo Beach 
+ *Castello di Lierna, a [[castle]] built in the [[10th century]] 
+ *Chiesa di Sant'Ambrogio, very old church dedicated to [[Ambrose|Saint Ambrose]] 
+ 
+ == Demographics == 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.8) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize  = width:455 height:303 
+ PlotArea   = left:50 bottom:50 top:30 right:30 
+ DateFormat = x.y 
+ Period     = from:0 till:3000 
+ TimeAxis   = orientation:vertical 
+ AlignBars  = justify 
+ ScaleMajor = gridcolor:darkgrey increment:1000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:200 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+   bar:1861 text:1861 
+   bar:1871 text:1871 
+   bar:1881 text:1881 
+   bar:1901 text:1901 
+   bar:1911 text:1911 
+   bar:1921 text:1921 
+   bar:1931 text:1931 
+   bar:1936 text:1936 
+   bar:1951 text:1951 
+   bar:1961 text:1961 
+   bar:1971 text:1971 
+   bar:1981 text:1981 
+   bar:1991 text:1991 
+   bar:2001 text:2001 
+ 
+ PlotData= 
+   color:barra width:20 align:left 
+ 
+   bar:1861 from: 0 till:1132 
+   bar:1871 from: 0 till:1149 
+   bar:1881 from: 0 till:1126 
+   bar:1901 from: 0 till:829 
+   bar:1911 from: 0 till:924 
+   bar:1921 from: 0 till:935 
+   bar:1931 from: 0 till:917 
+   bar:1936 from: 0 till:915 
+   bar:1951 from: 0 till:1169 
+   bar:1961 from: 0 till:1289 
+   bar:1971 from: 0 till:1418 
+   bar:1981 from: 0 till:1549 
+   bar:1991 from: 0 till:1668 
+   bar:2001 from: 0 till:2025 
+ 
+ PlotData= 
+ 
+   bar:1861 at:1132 fontsize:XS text: 1132 shift:(-8,5) 
+   bar:1871 at:1149 fontsize:XS text: 1149 shift:(-8,5) 
+   bar:1881 at:1126 fontsize:XS text: 1126 shift:(-8,5) 
+   bar:1901 at:829 fontsize:XS text: 829 shift:(-8,5) 
+   bar:1911 at:924 fontsize:XS text: 924 shift:(-8,5) 
+   bar:1921 at:935 fontsize:XS text: 935 shift:(-8,5) 
+   bar:1931 at:917 fontsize:XS text: 917 shift:(-8,5) 
+   bar:1936 at:915 fontsize:XS text: 915 shift:(-8,5) 
+   bar:1951 at:1169 fontsize:XS text: 1169 shift:(-8,5) 
+   bar:1961 at:1289 fontsize:XS text: 1289 shift:(-8,5) 
+   bar:1971 at:1418 fontsize:XS text: 1418 shift:(-8,5) 
+   bar:1981 at:1549 fontsize:XS text: 1549 shift:(-8,5) 
+   bar:1991 at:1668 fontsize:XS text: 1668 shift:(-8,5) 
+   bar:2001 at:2025 fontsize:XS text: 2025 shift:(-8,5) 
+ 
+ TextData= 
+   fontsize:S pos:(20,20) 
+   text:Data from ISTAT 
+ 
+ < /timeline > 
+ 
+ == Related pages == 
+ * [[Villa Commedia]] 
+ * [[The Ancient Roman Mosaic of Lierna on Lake Como]] 
+ * [[Leonardo da Vinci]] 
+ * [[European Green Capital Award]] 
+ * [[Healthy city]] 
+ * [[Urban vitality]] 
+ 
+ == References == 
+ {{reflist|refs= 
+ 
+ < ref name=como > [http://www.lakecomo.it/territorio/luoghi_interesse/museo_giannino_castiglioni Museo Giannino Castiglioni] (in Italian). Provincia di Como e Provincia di Lecco: www.lakecomo.com. Accessed October 2015. < /ref > 
+ 
+ < ref name=istat2 > [http://demo.istat.it/bil2014/query.php?lingua=ita & Rip=S1 & Reg=R03 & Pro=P097 & Com=43 & submit=Tavola Bilancio demografico anno 2014 e popolazione residente al 31 dicembre: Comune: Lierna]. Rome: ISTAT. Accessed October 2015. < /ref > 
+ 
+ < ref name=proloco > Franca Panizza (2011). [http://prolocolario.it/?p=265 Lierna – storia e geografia] (in Italian). Proloco Lario Orientale. Accessed October 2015. < /ref > 
+ 
+ < ref name=proloco2 > [s.n.] (2011). [http://prolocolario.it/?p=1869 Lierna – Il Lariusauro di Grumo e altri ritrovamenti fossili] (in Italian). Proloco Lario Orientale. Accessed October 2015. < /ref > 
+ 
+ < ref name=trecc > Giovanna Rosso Del Brenna (1979). [http://www.treccani.it/enciclopedia/giannino-castiglioni_%28Dizionario-Biografico%29/ Castiglioni, Giannino] (in Italian).  ''Dizionario Biografico degli Italiani'', Volume 22. Rome: Istituto dell'Enciclopedia Italiana. Accessed October 2015. < /ref > 
+ 
+ }} 
+ 
+ {{DEFAULTSORT:World's Most Liveable Cities}} 
+ {{Province of Lecco}} 
+ [[Category:Lierna| ]]

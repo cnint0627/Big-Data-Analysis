@@ -1,0 +1,58 @@
+{{Chembox 
+ | ImageFile1 = Ammonium-2D.svg 
+ | ImageSize1 =170px 
+ | ImageAlt1 = 2-D skeletal version of the ammonium ion 
+ | ImageFileL1 = Ammonium-3D-balls.png 
+ | ImageAltL1 = [[Ball-and-stick model]] of the ammonium cation 
+ | ImageFileR1 = Ammonium-3D-vdW.png 
+ | ImageAltR1 = Space-filling model of the ammonium cation 
+ | SystematicName = Azanium < ref > {{RedBookRef|pages=71,105,314}} < /ref > 
+ | IUPACName = Ammonium ion 
+ | OtherNames = 
+ |Section1={{Chembox Identifiers 
+ | CASNo = 14798-03-9 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 54S68520I4 
+ | PubChem = 16741146 
+ | ChemSpiderID = 218 
+ | SMILES = [NH4+] 
+ | InChI = 1/H3N/h1H3/p+1 
+ | InChIKey = QGZKDVFQNNGYKY-IKLDFBCSAZ 
+ | StdInChI = 1S/H3N/h1H3/p+1 
+ | StdInChIKey = QGZKDVFQNNGYKY-UHFFFAOYSA-O 
+ | RTECS =  
+ | MeSHName = D000644 
+ | ChEBI = 28938}} 
+ |Section2={{Chembox Properties 
+ | Formula = {{chem|N|H|4|+}} 
+ | N=1 | H=4 
+ | Appearance = 
+ | Solubility =  
+ | pKa = 9.25 
+ | ConjugateBase = [[Ammonia]] 
+ }} 
+ |Section3={{Chembox Hazards 
+ | MainHazards = 
+ | FlashPt = 
+ | AutoignitionPt = }} 
+ |Section4={{Chembox Structure 
+ | MolShape = Tetrahedral 
+ }} 
+ }} 
+ '''Ammonium''' is an [[ion]]. It is an [[ammonia]] [[molecule]], NH < sub > 3 < /sub > , [[protonation|protonated]]  (with a hydrogen ion added) to make NH < sub > 4 < /sub > < sup > + < /sup > . It bonds with negative ions such as [[chloride]] to make salts such as [[ammonium chloride]]. Ammonium is slightly [[reducing agent|reducing]] so it can react with strong [[oxidizing agent]]s. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Related pages== 
+ *[[Ammonium chloride]] 
+ *[[Ammonia]] 
+ *[[Protonation]] 
+ *[[Hydrogen]] 
+ 
+ [[Category:Nitrogen compounds]] 
+ [[Category:Ions]] 
+ 
+ 
+ {{chem-stub}}

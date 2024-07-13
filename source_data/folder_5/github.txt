@@ -1,0 +1,63 @@
+{{Infobox website 
+ | name = GitHub, Inc. 
+ | logo = [[File:Font Awesome 5 brands github.svg|x64px]] [[File:GitHub logo 2013.svg|x64px]] 
+ | screenshot = 
+ | caption = 
+ | company_type = [[Subsidiary]] 
+ | founded = {{start date and age|2008|2|8}} (as Logical Awesome LLC) 
+ | location = [[San Francisco]], [[California]], [[United States]] 
+ | area_served = Worldwide 
+ | founder = {{plainlist| 
+ * Tom Preston-Werner 
+ * Chris Wanstrath 
+ * P. J. Hyett 
+ * Scott Chacon}} 
+ | CEO = Nat Friedman 
+ | key_people = {{plainlist| 
+ * Erica Brescia (COO) 
+ * Carrie Olesen (CHRO) 
+ * Mike Taylor (CFO) 
+ }} 
+ | industry = Software 
+ | international = Yes 
+ | programming_language = [[Ruby (programming language)|Ruby]] 
+ | website_type = Collaborative version control 
+ | registration = Optional  < small > (required for creating and joining projects) < /small > 
+ | users = 40 million (Aug 2019) 
+ | language = English 
+ | launched = {{start date and age|2008|4|10}} 
+ | current_status = Active 
+ | parent = [[Microsoft]] 
+ | logo_caption = 
+ }} 
+ '''GitHub''' is an online software development assistance and version control service. < ref > Dabbish, L., Stuart, C., Tsay, J.,  &  Herbsleb, J. (2012, February). Social coding in GitHub: transparency and collaboration in an open software repository. In Proceedings of the ACM 2012 conference on computer supported cooperative work (pp. 1277-1286). < /ref > < ref > Pipinellis, A. (2018). GitHub Essentials: Unleash the power of collaborative development workflows using GitHub. Packt Publishing Ltd. < /ref > < ref > Mergel, I. (2015). Open collaboration in the public sector: The case of social coding on GitHub. Government Information Quarterly, 32(4), 464-472. < /ref > < ref > Beer, B. (2018). Introducing GitHub: A non-technical guide.  "  O'Reilly Media, Inc. " . < /ref > < ref > Dawson, C.,  &  Straub, B. (2016). Building Tools with GitHub: Customize Your Workflow.  "  O'Reilly Media, Inc. " . < /ref >  This platform uses [[Git (software)|Git]]. < ref > Blischak, J. D., Davenport, E. R.,  &  Wilson, G. (2016). A quick introduction to version control with Git and GitHub. PLoS computational biology, 12(1), e1004668. < /ref >  It is operated by '''GitHub, Inc.''' based in the United States. 
+ 
+ In January 2020, GitHub reported that they have more than 40 & nbsp;million users < ref > {{cite web|url=https://github.com/search?q=type:user & type=Users|title=User search|website=GitHub|language=en|access-date=Jan 29, 2019|quote=Showing 40,206,691 available users}} < /ref >   < !--NOTE: Refresh the page a few times before updating usercount statistic. The number seems to vary between 35 million and 39 million. -- >  and more than 100 & nbsp;million [[Repository (data)|repositories]] < ref > {{Cite web|url=https://venturebeat.com/2018/11/08/github-passes-100-million-repositories/|title=GitHub passes 100 million repositories|date=2018-11-08|website=VentureBeat|language=en-US|access-date=2019-06-13}} < /ref >  (including at least 28 & nbsp;million public repositories). < ref > {{cite web|url=https://github.com/search?q=is:public|title=Repository search for public repositories|website=GitHub|language=en|access-date=June 5, 2018|quote=Showing 28,177,992 available repository results}} < /ref >  Therefore, it is recognized as the largest host of [[source code]] in the world. < ref > {{cite journal |first1 = Georgios |last1 = Gousios |first2 = Bogdan |last2 = Vasilescu |first3 = Alexander |last3 = Serebrenik |first4 = Andy |last4 = Zaidman |title = Lean GHTorrent: GitHub Data on Demand |page = 1 |url = https://www.win.tue.nl/~aserebre/msr14georgios.pdf |access-date = July 9, 2014 |publisher = Delft University of Technology  &  †Eindhoven University of Technology |location = The Netherlands |quote = During recent years, GITHUB (2008) has become the largest code host in the world. }} < /ref > 
+ ==Organizational users== 
+ Currently, there are many individual GitHub users. On the other hand, there are also organizational users such as educational institutions < ref > Griffin, T.,  &  Seals, S. (2013). Github in the classroom: Not just for group projects. Journal of Computing Sciences in Colleges, 28(4), 74-74. < /ref > < ref > Fiksel, J., Jager, L. R., Hardin, J. S.,  &  Taub, M. A. (2019). Using GitHub Classroom To Teach [[Statistics]]. Journal of Statistics Education, 27(2), 110-119. < /ref > < ref > Angulo, M. A.,  &  Aktunc, O. (2019). Using GitHub as a teaching tool for programming courses. In ASEE Gulf-Southwest Section Annual Meeting 2018 Papers. American Society for Engineering Education. < /ref >  and companies. The following companies are using GitHub to distribute [[open source]] projects: 
+ * [[Facebook]] < ref > {{URL|https://github.com/facebook}} < /ref > 
+ * Google Research (research facility of [[Google]]) < ref > {{URL|https://github.com/google-research}} < /ref > 
+ * [[IBM]] < ref > {{URL|https://github.com/IBM}} < /ref > 
+ * [[Microsoft]] < ref > {{URL|https://github.com/microsoft}} < /ref > < ref > {{URL|https://github.com/microsoftopensource}} < /ref > < ref > {{URL|https://github.com/Microsoft-OpenSource-Labs}} < /ref > 
+ * TeX Users Group (A community for [[LaTeX]] users) < ref > {{URL|https://github.com/TeXUsersGroup}} < /ref > 
+ * [[Wolfram Research]] (developer of [[Wolfram Mathematica]]) < ref > {{URL|https://github.com/WolframResearch}} < /ref > 
+ 
+ ==Desktop version== 
+ GitHub was made for users who want to save their programs on their [[web browser]]s. But there is also a desktop version known as GitHub Desktop. < ref > Van Strien, D. (2016). An Introduction to Version Control Using GitHub Desktop. The Programming Historian. < /ref > 
+ ==GitHub Pages== 
+ All GitHub users can create [[website]]s with the '''github.io''' domain. This service is known as '''GitHub Pages'''. < ref > Owen, D. (2017). Using GitHub pages for a computer science course website: conference tutorial. Journal of Computing Sciences in Colleges, 32(3), 36-36. < /ref >  The development history of the [[HTML]] code will be recorded with Git. 
+ ==Similar services== 
+ Today, there are several GitHub like services for developers. Some of them use Git but have different interface with unique web-design. One of the most famous GitHub rival is '''GitLab'''. < ref > Van Baarsen, J. (2014). GitLab Cookbook. Packt Publishing Ltd. < /ref > < ref > O'grady, A. (2018). GitLab Quick Start Guide: Migrate to GitLab for all your repository management solutions. Packt Publishing Ltd. < /ref >  This is also based on Git. Users can export their programs on GitHub to GitLab. 
+ 
+ ==References== 
+ {{Wikidata property|1=P2037}} 
+ {{Commons category}} 
+ {{reflist|2}} 
+ 
+ [[category:Computing]] 
+ [[category:Computer science]] 
+ [[category:Web software]] 
+ [[category:Free software]] 
+ [[Category:Websites established in the 2000s]] 
+ [[category:2008 establishments in the United States]] 
+ [[category:Multinational technology companies]]

@@ -1,0 +1,26 @@
+[[File:plasmid (english).svg|300px|thumb|right|'''Figure 1''': Illustration of a bacterium with plasmid enclosed showing [[Chromosome|chromosomal]] DNA and plasmids.]] 
+ 
+ A '''plasmid''' is a [[DNA]] molecule that is separate from the [[chromosome|chromosomal]] DNA and that can replicate (copy itself) independently. < ref name= " Lipps " > {{cite book|title=Plasmids: current research and future trends|author=|publisher=Caister Academic Press|year=2008|isbn=978-1-904455-35-6|editor-last=Lipps G}} < /ref > 
+ 
+ The term ''plasmid'' was first introduced by the [[United States|American]] [[molecular biology|molecular biologist]] [[Joshua Lederberg]] in 1952. < ref > {{cite journal |author=Lederberg J |title=Cell genetics and hereditary symbiosis |url=https://archive.org/details/sim_physiological-reviews_1952-10_32_4/page/403 |journal=Physiol. Rev. |volume=32 |issue=4 |pages=403–430 |year=1952 |pmid=13003535 |doi=10.1152/physrev.1952.32.4.403}} < /ref > 
+ 
+ Plasmids are double stranded and, in many cases, circular. Plasmids usually occur naturally in [[bacterium|bacteria]], but are sometimes found in [[eukaryote|eukaryotic organisms]] (e.g., the ''2-micrometre-ring'' in ''[[Saccharomyces]] cerevisiae''). 
+ 
+ Plasmid size varies from 1 to over 1,000 [[Base pair|kilobase pairs]] (kbp). < ref name= " Molecular cloning " > {{cite book|title=Molecular cloning: a laboratory manual|author=Russell, David W.|last2=Sambrook, Joseph|publisher=Cold Spring Harbor Laboratory|year=2001|isbn=|location=Cold Spring Harbor, N.Y|pages=|doi=|oclc=}} < /ref > < ref > {{Cite journal| title = Nucleotide sequence and predicted functions of the entire Sinorhizobium meliloti pSymA megaplasmid| year = 200 | journal = PNAS| volume = 98| issue = 17| author=Barnett M.J. | pages = 9883–9888| display-authors = etal| doi = 10.1073/pnas.161294798| pmid = 11481432| pmc = 55547| doi-access = free}} < /ref > < ref > {{Cite journal| title = The complete sequence of the 1,683-kb pSymB megaplasmid from the N2-fixing endosymbiont| journal = Proceedings of the National Academy of Sciences| volume = 98| issue = 17| author=Finan T.M. | display-authors = etal| doi = 10.1073/pnas.161294698| year = 2001|pages = 9889–9894| pmid = 11481431| pmc = 55548|doi-access = free}} < /ref >  The number of identical plasmids within a single [[cell (biology)|cell]] can range from one to thousands. Plasmids are often associated with [[bacterial conjugation|conjugation]], a mechanism of [[horizontal gene transfer]]. 
+ 
+ Plasmids are transferable genetic elements, or  " [[replicon (genetics)|replicons]] " , capable of independent self copying in a suitable host. Plasmids can be found in all three major [[domain (biology)|domains]], [[Archaea]], [[Bacteria]] and [[Eukarya]]. < ref name= " Lipps " / >  Similar to viruses, plasmids are not considered a form of  " life "  as it is currently defined. < ref > {{cite journal|last=Sinkovics|first=J|author2=Harvath J |author3=Horak A. |year=1998|title=The origin and evolution of viruses (a review)|journal=Acta Microbiologica et Immunologica Hungarica|publisher=Akademiai Kiado|volume=45 | issue = 3–4|pages=349–90|issn=1217-8950|pmid=9873943}} < /ref >  Unlike viruses, plasmids are  " naked "  DNA and do not encode genes necessary to encase the genetic material for transfer to a new host. 
+ 
+ Plasmid host-to-host transfer requires direct, mechanical transfer by [[bacterial conjugation|conjugation]] or changes in host gene expression allowing the intentional uptake of the genetic element by [[transformation (genetics)|transformation]]. < ref name= " Lipps " / > 
+ 
+ Microbial transformation with plasmid DNA is neither parasitic nor symbiotic in nature, since each implies the presence of an independent species living in a commensal or detrimental state with the host organism. Rather, plasmids provide a mechanism for horizontal gene transfer within a population of microbes and may provide a selective advantage under a given environmental state. 
+ 
+ Plasmids may carry genes that provide resistance to naturally occurring antibiotics in a competitive environmental niche, or alternatively the proteins produced may act as toxins under similar circumstances. Plasmids also can provide bacteria with an ability to fix elemental nitrogen or to degrade difficult organic compounds. This may provide an advantage under conditions of nutrient deprivation. < ref name= " Lipps " / > 
+ 
+ The construction of first '''recombinant DNA''' emerged from linking of a gene encoding antibiotic resistance with a native plasmid. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Cell biology]] 
+ [[Category:Bacteria]] 
+ [[Category:DNA]]

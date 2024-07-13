@@ -1,0 +1,11 @@
+{{nosources|date=December 2010}} 
+ In [[telecommunications]], '''Baud''' is the unit to measure the [[symbol rate]]. If one [[symbol]] can be transmitted per second, this is equal to one Baud. The unit is named after [[Jean-Maurice-Émile Baudot]] a French telecommunications engineer who invented the [[Baudot code]]. The Baud rate is different from the [[gross bit rate]], measured in ''bits/second''.  
+ 
+ Various [[Signal (electrical engineering)|electric signal]] schemes invented in the 20th century such as [[Phase-shift keying]] can make bit rates much higher than signal rates. In another example, [[gigabit ethernet]] has a symbol rate of 125MBd. Gigabit ethernet uses [[pulse-amplitude modulation]] and can transmit two bits of payload data per symbol. Gigabit ethernet uses four balanced pairs for transmission. 
+ 
+ It can transmit  < math > \rm 125 \;MBd \cdot 2 \;\tfrac{bit}{symbol} \cdot 4 = 1000 \;\tfrac{Mbit}{s} < /math > . 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Telecommunications]]

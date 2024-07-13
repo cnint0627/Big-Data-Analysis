@@ -1,0 +1,24 @@
+{{Infobox particle 
+ | name = Axion 
+ | composition = 
+ | status = Hypothetical 
+ | interaction = [[Gravity]], [[Electromagnetic force|electromagnetic]] 
+ | theorized = 1977, [[Roberto Peccei|Peccei]] and [[Helen Quinn|Quinn]] 
+ | symbol = A < sup > 0 < /sup > 
+ | mass = 10 < sup > −5 < /sup >  to 10 < sup > −3 < /sup > & nbsp;[[electronvolt|eV]]/[[Speed of light|''c'']] < sup > 2 < /sup > {{spaces|1}} < ref > {{Cite book|author=Peccei, R. D. |year=2008 |chapter=The Strong CP Problem and Axions |title=Axions: Theory, Cosmology, and Experimental Searches |journal= < !-- -- > |editor1-last=Kuster |editor1-first=Markus |editor2-last=Raffelt |editor2-first=Georg |editor3-last=Beltrán |editor3-first=Berta |series=Lecture Notes in Physics |volume=741 |pages=3–17 |arxiv=hep-ph/0607268 |doi=10.1007/978-3-540-73518-2_1 |isbn=978-3-540-73517-5|s2cid=119482294 }} < /ref > 
+ | width=10 < sup > 9 < /sup >  to 10 < sup > 12 < /sup >  [[GeV]]/c < sup > 2 < /sup >   < ref > {{cite journal |author=Duffy, Leanne D. |author2=van Bibber, Karl |year=2009 |title=Axions as dark matter particles |journal=New Journal of Physics |volume=11 |issue=10 |page=105008 |doi=10.1088/1367-2630/11/10/105008 |arxiv=0904.3346 |bibcode=2009NJPh...11j5008D|s2cid=17212949 }} < /ref > < ref name=Duffy2010/ > 
+ | electric_charge = 0 
+ | spin = 0 
+ | Grouping = [[Goldstone Boson]] 
+ }} 
+ An '''axion''' is a [[elementary particle]] theorized in 1977 by the [[Peccei–Quinn theory]]. It was used to solve the [[strong CP problem]] in [[quantum chromodynamics]] (QCD). If these axions do exist in a specific mass range, they could be a possible part of [[cold dark matter]]. There is also evidence of solar axions (axions from the [[Sun]]). Also if these axions exist there is evidence that they can go faster than the speed of light. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ {{physics-stub}} 
+ 
+ [[Category:Astrophysics]] 
+ [[Category:Elementary particles]] 
+ [[Category:Quantum mechanics]]

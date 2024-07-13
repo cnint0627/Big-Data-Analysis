@@ -1,0 +1,16 @@
+An '''arc''' is a part of a [[circle]]. An arc is a curved line. The curve of an arc is constant and does not change (that is, an arc has constant [[curvature]]). It sometimes is portrayed as a dotted line. 
+ 
+ In a circle, the arc from point A to point B is written as  < math > \overset{\frown}{AB} < /math > . < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-24|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=Arc - Math word definition - Math Open Reference|url=https://www.mathopenref.com/arc.html#:~:text=An%20arc%20is%20a%20portion,sometimes%20called%20a%20circular%20arc.|access-date=2020-09-24|website=www.mathopenref.com}} < /ref >  We call the length of an arc an [[arc length]]. For an arc on a circle with radius '' < math > r < /math > '' subtended by an angle  < math > \theta < /math > , its arc length is precisely  < math > r\theta < /math > . < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Arc|url=https://mathworld.wolfram.com/Arc.html|access-date=2020-09-24|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[Arcsecond]] 
+ * [[Meridian arc]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[category:Geometry]]

@@ -1,0 +1,85 @@
+[[File:Meiosis crossover.png|right|thumb|250px|[[Crossing over]] takes place between the [[chromatid]]s of [[homologous chromosomes]]]] 
+ 
+ '''Meiosis''' is a special type of [[cell division]]. Unlike [[mitosis]], the way normal body cells divide, meiosis results in cells that only have half the usual number of [[chromosome]]s, one from each pair. For that reason, meiosis is often called ''reduction division''. In the long run, meiosis increases [[genetics|genetic]] [[Variation (biology)|variation]], in a way which will be explained later. < ref > Alberts B, Johnson A, Lewis J, Raff M, Roberts K, Walter P. 2002.  " Meiosis " . ''Molecular Biology of the Cell'' (4th ed). Garland Science. < /ref >   
+ 
+ [[Sexual reproduction]] takes place when a [[sperm]] fertilizes an [[Ovum|egg]]. The eggs and sperm are special cells called [[gamete]]s, or sex cells. Gametes are [[haploid]]; they have only half the number of [[chromosome]]s as a normal body cell (called a [[somatic cell]]). [[Fertilization]] restores the chromosomes in sex cells to the diploid number. 
+ 
+ The basic number of chromosomes in the body cells of a species is called the ''somatic number'' and is labelled ''2n''. In humans 2n = 46: we have 46 chromosomes. In the sex cells the chromosome number is ''n'' (humans: n = 23). < ref name= " White M.J.D 1973. p28 " > White M.J.D. 1973. ''The chromosomes''. 6th ed, Chapman  &  Hall, London. p28 < /ref >  So, in normal [[diploid]] organisms, chromosomes are present in two copies, one from each parent (23x2=46). The only exception are the sex chromosomes. In [[mammals]], the female has two X chromosomes, and the male one X and one Y chromosome. 
+ 
+ All [[eukaryote]]s that reproduce sexually use meiosis. This also includes many single-celled organisms. Meiosis does not occur in [[archaea]] or [[bacteria]], which reproduce by simple cell division. 
+ 
+ == Meiosis as part of sexual reproduction == 
+ === The significance of fertilization === 
+ The offspring gets a set of chromosomes from each parent so that, overall, half of its heredity comes from each parent. But the two sets of chromosomes are not identical with the parental chromosomes. This is because they are changed during the reduction division by a process called ''[[crossing-over]]''. 
+ 
+ === The significance of meiosis === 
+ This is two-fold: 
+ 
+ 1. First, to reduce the chromosomes in each egg or sperm to one set only. 
+ ::The two chromosomes in a pair are not identical because at any particular [[allele|locus]] < ref > position of [[gene]] on chromosome < /ref >  on the chromosomes there may be different [[allele]]s (forms of the gene) on the two chromosomes. Think about each pair of chromosomes, one set from each parent. From each pair, only one goes into each gamete. So, in the first place, gametes differ because of each pair the gamete may have the father's chromosome or the mother's. This is called 'independent assortment'. 
+ 2. To allow crossing-over to take place between each pair of parental chromosomes. Crossing-over changes which alleles sit on a particular chromosome. < ref > Whitehouse H.L.K. 1965. ''Towards an understanding of the mechanism of heredity''. Arnold, London. < /ref > 
+ ::So, though described as 'mother's' and 'father's' chromosomes, in practice the gamete chromosomes are not all the same as the parents' chromosomes. This is because bits of chromosomes have been exchanged in the process of meiosis. 
+ 
+ Although the gametes have only one set of chromosomes, that set is a shuffled mixture of genetic material from both parents. Every single egg or sperm may have a different selection of alleles from the parental chromosomes. 
+ 
+ As with shuffling a deck of cards, many different combinations of genes can be produced without a change ([[mutation]]) in any individual gene. However, mutations do occur, and they may add alleles which were not in the population before. At any rate, the shuffling increases the variety of the offspring, and the variety gives at least some of the offspring a better chance of surviving in difficult times. The shuffling of alleles which takes place in meiosis may be the reason why sexual reproduction exists at all. < ref > Mayr, Ernst 1982. ''The growth of biological thought: diversity, evolution  &  inheritance''. Harvard. Meiosis, p761–769. < /ref > 
+ : " It is not difficult to think of reasons why sexual populations should have long-term advantages over asexual ones. They can evolve more rapidly to meet changing circumstances... "   < ref > Maynard Smith J. 1999. ''Evolutionary genetics''. Oxford. Discussion: p234–240; quote: p241 < /ref > 
+ 
+ === Special cases === 
+ ==== Cyclical parthenogenesis ==== 
+ Several quite large [[taxon|taxa]] (groups of organisms) use cyclical [[parthenogenesis]]. This is when several generations are born by virgin birth, and then a generation occurs with normal sexual reproduction. Examples include [[aphid]]s, and [[cladocera]]ns (small [[crustacea]] called ''water fleas''). Aphids usually operate as follows: when the weather is good, and their plant hosts are at their best, they use parthenogenesis. At the end of the season, when the weather gets worse, they use sexual reproduction. This system of reproduction is called ''apogamy''. 
+ 
+ In parthenogenesis, the eggs contain only the mother's genetic material, and they are not fertilized. The egg cells may be produced either by meiosis or mitosis. When meiosis occurs, crossing-over produces a genetic fingerprint which differs somewhat from the mother's. So, the parthenogenetic greenfly offspring are not identical, and do show some genetic variation: some chromosome segments differ because of meiosis. Mitosis would produce identical offspring. < ref > The evolution of these variations has been widely discussed: Maynard Smith, John. 1978. ''The Evolution of Sex''. Cambridge: Cambridge University Press. {{ISBN|0-521-29302-2}}. Schlupp, I. 2005. The evolutionary ecology of gynogenesis. ''Annu. Rev. Ecol. Evol. Syst''. '''36''': 399-417. Simon, Jean-Christophe; Rispe, Claude  &  Sunnucks, Paul. 2002. Ecology and evolution of sex in aphids. ''Trends in Ecology  &  Evolution'', '''17''', 34-39. < /ref > 
+ 
+ Amongst these parthenogenetic taxa are a number of species which have entirely abandoned sex. 
+ 
+ ==== Loss of sexuality ==== 
+ A few eukaryote organisms have completely lost the ability for sexual reproduction, and so do not have meiosis. These include the [[Rotifer#Bdelloid rotifers|Bdelloid rotifers]], which only reproduce by parthenogenesis. 
+ 
+ == Details of meiosis == 
+ Meiosis can be divided into meiosis I and meiosis II. 
+ 
+ === Meiosis I === 
+ The function of the first division is to permit [[crossing over]]. Just like [[mitosis]], meiosis includes prophase, metaphase, anaphase and telophase. 
+ 
+ ;Prophase I 
+ :The chromosomes become visible, the nuclear envelope disappears and the [[centriole]]s (at the top and bottom of the nucleus) begin forming spindle fibres that envelop the chromosomes. 
+ :At this stage each chromosome is split into two sister [[chromatid]]s, held together by the [[centromere]]s. The paired chromosomes now have four chromatids (2 sets of 'sisters') pressed together. [[Crossing over]] takes place between two of the non-sister chromatids; the other two remain uncrossed. The crossover results in the exchange of segments of each of the participating chromatids, DNA and associated [[chromatin]] [[protein]]. Genetically, the process is called [[recombination]].  
+ [[File:Meiosis Overview new.svg|center|thumb|300px|Events involving meiosis, showing chromosomal crossover]] 
+ ;Metaphase I 
+ :The chromosomes line up along the equatorial (the central line) of the spindle fibres in homologous pairs. 
+ ;Anaphase I 
+ :The chromosomes are divided so that there are equal amounts on either side of the cell. As there are 46 chromosomes in a human cell, 23 end up on either side. 
+ :''([[Cytokinesis]], the division of cells into two, takes place. The cell divides.)'' 
+ ;Telophase I 
+ :The two daughter cells are completely divided, a nucleic envelope forms and the chromosomes become less visible. There are 23 chromosomes in each of these cells. 
+ 
+ === Meiosis II === 
+ The two cells prepare to divide again in a stage known as interkinesis or interphase II. Both of these cells will go through meiosis II. 
+ 
+ ;Prophase II 
+ :The chromosomes become visible, the nuclear envelope disappears and the centrioles form the spindle fibres. 
+ ;Metaphase II 
+ :The chromosomes line up along the middle line on the spindle fibres. 
+ ;Anaphase II 
+ :The chromosomes get split into its two chromatids. Chromatids are the two strands of [[DNA]] (deoxyribo-nucleic acid) that make up the chromosome. They are joined by a mid-way connection called a centromere. 
+ :''([[Cytokinesis]] takes place. The cell divides.)'' 
+ ;Telophase II 
+ :The cells are completely divided. The nucleic envelope reforms and four new cells with different [[DNA]] are created. 
+ 
+ In [[males]], all four cells become [[sperm]]. In [[females]], only one becomes a mature egg, while the remaining three become re-absorbed into the body. 
+ 
+ == Problems == 
+ In humans, there are certain conditions that are caused by meiosis gone wrong. Examples are: 
+ * [[Down syndrome]] - [[trisomy]] of chromosome 21 
+ * [[Patau syndrome]] - trisomy of chromosome 13 
+ * [[Edwards syndrome]] - trisomy of chromosome 18 
+ * [[Klinefelter syndrome]] - extra X chromosomes in males - i.e. XXY, XXXY, XXXXY 
+ * [[Turner syndrome]] - lacking of one X chromosome in females - i.e. XO 
+ * [[Triple X syndrome]] - an extra X chromosome in females 
+ * [[XYY syndrome]] - an extra Y chromosome in males 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Chromosomes]]

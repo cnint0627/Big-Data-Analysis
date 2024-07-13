@@ -1,0 +1,67 @@
+'''Hotlinking''' is an [[internet]] term. It means displaying an [[image]] on a [[website]] by [[link|linking]] to the website hosting the image. The link gets the source data of the picture each time it is needed. 
+   
+ This avoids having the image on every website which uses it. So, a website owner uses a link to the picture such as '' < nowiki > http://example.com/picture.jpg < /nowiki > ''. When the hotlinking website is loaded, the image is loaded from the original website, which uses its [[Bandwidth_(computing)|bandwidth]], so it costs the hotlinked website money. For this reason many website owners use [[.htaccess]] files to prevent hotlinking. In some cases website owners use the .htaccess file to replace any hotlinked images with an offensive image to deter any other website owners from hotlinking. Hotlinked images are usually hosted on sites like imgur. 
+ 
+ The original image may be owned by the original website. It might be wrong to make a copy of the original image file for use on a different [[Webpage|web page]], without being careful to get proper permission. 
+ 
+ Hotlinking can also be used for file types other than images, including documents and videos. 
+ 
+ == Example == 
+ Hotlinking is known as the act of using another website's bandwidth by linking directly to their website's assets, such as images or videos. For example, say the owner of website A is hosting a particular image on their server. The owner of website B sees that image and decides they want it on their website as well. However, instead of downloading the image and hosting it on their own server, the owner of website B links directly to website A's domain. Therefore, instead of linking to the image via their own domain such as: 
+ 
+ *  < code > < nowiki > https://websiteB.com/path/to/image.jpg < /nowiki > < /code > 
+ 
+ They would be instead using website A's domain: 
+ 
+ *  < code > < nowiki > https://websiteA.com/path/to/image.jpg < /nowiki > < /code > 
+ 
+ Hotlinking someone's website assets can vastly increase their hosting costs. 
+ 
+ == How to avoid hotlinking == 
+ As a website user you should always try to avoid hotlinking assets from other websites. Doing so helps ensure that the original owner of the [[asset]] won't incur unnecessary charges and that the asset that you link to won't be inaccessible given that the owner implements hotlink protection or removes the asset. The following are a couple of solutions for avoiding hotlinking. 
+ 
+ * [[Web hosting service|Host]] the assets on your own server. If you have found an image from another website and you would like to use it on your own website, you can upload the image directly to your server and deliver it from there. Doing this will also increase the delivery speed of the asset as the browser does not need to perform an additional [[Domain Name System|DNS]] lookup. 
+ * Use a third party host. Using images as an example again, if you find an image that you want to link to but don't have a server to upload it to, you can use a third party host. An image hosting service for example will allow you to upload your image and link to it directly within your website or any other location. 
+ 
+ In both cases, ensure that you have the proper authority to use someone else's assets (e.g. the owner has given you permission or the asset is part of a [[Creative Commons|creative commons]] license) 
+ 
+ There are some steps that you can take to prevent hotlinking. 
+ 
+ === 1. Enable Hotlinking Protection in CDN === 
+ Some CDN providers provide in-built hotlinking protection.  < ref > {{Cite web|date=2023-08-02|title=Understanding Cloudflare Hotlink Protection · Cloudflare Support docs|url=https://developers.cloudflare.com/support/more-dashboard-apps/cloudflare-scrape-shield/understanding-cloudflare-hotlink-protection/|access-date=2023-10-04|website=developers.cloudflare.com|language=en}} < /ref > 
+ 
+ === 2. Directly Block Specific Domains === 
+ An alternative way to prevent hotlinking on your website is to directly block specific websites that try to use your content. All you have to do is create a detailed list of websites you don't want using your content, and then block them one by one. 
+ 
+ === 3. Change/Rename Your Files === 
+ This is one of the easiest and most effective ways to prevent hotlinking. If you notice a spike in traffic or find that numerous sites are hotlinking to a particular piece of content, simply renaming or changing the URL of that content can do wonders. 
+ 
+ === 4. Use Plugins === 
+ Platforms such as [[WordPress]] have plugins available that prevent hotlinking. 
+ 
+ === 5. Use Server Level Blocking === 
+ This is a slightly advanced but 100% effective way to prevent hotlinking as it disallows hotlinking from the source server. Use [[.htaccess]] (For [[Apache HTTP Server|Apache Servers]]) OR edit  " ngx_http_referer_module "  (For [[:en:Nginx|Nginx]] Servers)  < ref > {{Cite web|date=2023-08-29|title=How To Setup Hot Link Protection On Your Server|url=https://www.keralpatel.com/how-to-setup-hot-link-protection-on-your-server/|access-date=2023-10-04|website=Webmaster Blog by Keral Patel|language=en-US}} < /ref > 
+ 
+ '''For Apache Server''' < syntaxhighlight lang= " bash " > 
+ RewriteEngine on 
+ RewriteCond %{HTTP_REFERER} !^$ 
+ RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?yourdomain.com [NC] 
+ RewriteRule \.(jpg|jpeg|png|gif)$ - [NC,F,L] 
+ < /syntaxhighlight > '''For Nginx Server''' < syntaxhighlight lang= " bash " > 
+ location ~ \.(jpg|jpeg|png|gif)$ { 
+     valid_referers none blocked yourdomain.com; 
+     if ($invalid_referer) { 
+         return 403; 
+     } 
+ } 
+ < /syntaxhighlight > 
+ 
+ === 6. File a DMCA Takedown === 
+ The last thing you can do is file a DMCA Takedown request against the website that is stealing your content without your permission. This can be very effective if the website owner refuses to remove the hotlinks to your content. 
+ 
+ == References == 
+ < references / > 
+ 
+ [[Category:Internet slang]] 
+ 
+ {{tech-stub}}

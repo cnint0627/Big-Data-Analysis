@@ -1,0 +1,153 @@
+{{Drugbox 
+ | verifiedrevid = 464196835 
+ | drug_name = 
+ | IUPAC_name = (5''R'',9''R'',13''S'',14''S'')-4,5α-Epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one 
+ | image = Oxycodone.svg 
+ | width = 225px 
+ | image2 = Oxycodone structure.png 
+ | width2 = 225px 
+ 
+ < !--Clinical data-- > 
+ | pronounce = ɒksɪˈkəʊdəʊn 
+ | tradename = OxyContin, others 
+ | Drugs.com = {{drugs.com|monograph|oxycodone}} 
+ | MedlinePlus = a682132 
+ | pregnancy_AU = C 
+ | pregnancy_US = B 
+ | legal_AU = Schedule 8 
+ | legal_CA = Schedule I 
+ | legal_DE = Anlage III 
+ | legal_UK = Class A 
+ | legal_US = Schedule II 
+ | legal_status =  
+ | dependency_liability = High 
+ | routes_of_administration = [[Oral administration|By mouth]], [[sublingual administration|sublingual]], [[intramuscular injection|intramuscular]], [[intravenous injection|intravenous]], [[intranasal administration|intranasal]], [[subcutaneous injection|subcutaneous]], [[transdermal administration|transdermal]], [[rectal administration|rectal]], [[epidural administration|epidural]] 
+ 
+ < !--Pharmacokinetic data-- > 
+ | bioavailability = By mouth: 60–87% < ref name = MSR > {{cite web |title=Roxicodone, OxyContin (oxycodone) dosing, indications, interactions, adverse effects, and more |work=Medscape Reference |publisher=WebMD |accessdate=8 April 2014 |url=http://reference.medscape.com/drug/roxicodone-oxycontin-oxycodone-343321#showall}} < /ref > 
+ | protein_bound = 45% < ref name = MSR/ > 
+ | metabolism = [[Liver]]: mainly [[CYP3A]], and, to a much lesser extent, [[CYP2D6]] (~5%); < ref name = MSR/ >  95% metabolized (i.e., 5% excreted unchanged) 
+ | metabolites = • [[Noroxycodone]] (25%)  < ref name=Medscape > {{cite web |title=Roxicodone, OxyContin (oxycodone) dosing, indications, interactions, adverse effects, and more |work=Medscape Reference |publisher=WebMD |accessdate=4 January 2019 |url=http://reference.medscape.com/drug/roxicodone-oxycontin-oxycodone-343321#showall}} < /ref > < br / > • [[Noroxymorphone]] (15%, free and [[Conjugation (biochemistry)|conjugated]]) < ref name=Medscape / > < br / > • [[Oxymorphone]] (11%, conjugated) < ref name=Medscape / > < br / > • Others (e.g., minor metabolites) 
+ | onset = {{abbrlink|IR|Instant release}}: 10–30 minutes < br / > {{abbrlink|CR|controlled release}}: 1 hour < ref name= " YarbroWujcik2010 " > {{cite book |author1=Connie Henke Yarbro |author2=Debra Wujcik|author3=Barbara Holmes Gobel |title=Cancer Nursing: Principles and Practice |url=https://books.google.com/books?id=Ub6FWXVU7pQC & pg=PA695 |date=15 November 2010 |publisher=Jones  &  Bartlett Publishers |isbn=978-1-4496-1829-2 |pages=695–}} < /ref > 
+ | elimination_half-life = By mouth (IR): 2–3 hrs (same {{abbrlink|t < sub > 1/2 < /sub > |biological half-life}} for all {{abbrlink|ROAs|routes of administration}}) < br / > By mouth (CR): 4.5 hrs 
+ | duration_of_action = By mouth (IR): 3–6 hrs < br / > By mouth (CR): 10–12 hrs 
+ | excretion = [[Urine]] (83%) < ref name = MSR/ > 
+ 
+ < !--Identifiers-- > 
+ | IUPHAR_ligand = 7093 
+ | CAS_number_Ref = {{cascite|correct|CAS}} 
+ | CAS_number = 76-42-6 
+ | ATC_prefix = N02 
+ | ATC_suffix = AA05 
+ | ATC_supplemental =  < br / > {{ATC|N02|AA55}} (in combinations) 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 7852 
+ | PubChem = 5284603 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB00497 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 4447649 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = CD35PMG570 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = D05312 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 656 
+ | synonyms = Eukodal, eucodal; dihydrohydroxycodeinone, 7,8-dihydro-14-hydroxycodeinone, 6-deoxy-7,8-dihydro-14-hydroxy-3-O-methyl-6-oxomorphine 
+ 
+ < !--Chemical data-- > 
+ | C=18 |H=21 |N=1 |O=4 
+ | molecular_weight = 315.364 g/mol 
+ | melting_point = 219 
+ | SMILES = O=C4[C@@H]5Oc1c2c(ccc1OC)C[C@H]3N(CC[C@]25[C@@]3(O)CC4)C 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C18H21NO4/c1-19-8-7-17-14-10-3-4-12(22-2)15(14)23-16(17)11(20)5-6-18(17,21)13(19)9-10/h3-4,13,16,21H,5-9H2,1-2H3/t13-,16+,17+,18-/m1/s1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = BRUQQQPBMZOVGD-XFKAJCMBSA-N 
+ 
+ < !--Physical data-- > 
+ | solubility = HCl: 166 
+ |alt=|caption=|type=|licence_EU=|pregnancy_category=|licence_US= 
+ }} 
+ '''Oxycodone''' is a [[Medication|medicine]] that is used to treat [[pain]].  This kind of pain medicine is called an ''[[analgesic]]''. 
+ 
+ Oxycodone is a man-made [[opioid]].  This means that in the body, it acts like [[morphine]], a powerful, natural painkiller.  The [[chemical element]]s in oxycodone are very similar to [[codeine]], another natural painkiller. < ref name= " Medline " > {{cite web |url=https://www.nlm.nih.gov/medlineplus/druginfo/meds/a682132.html |title=Oxycodone |author= < !--Staff writer(s); no by-line.-- >  |date=June 15, 2015 |website=nlm.nih.gov/medlineplus |publisher=U.S. National Library of Medicine |accessdate=December 23, 2015 |quote=}} < /ref > 
+ 
+ == Forms of Oxycodone == 
+ Oxycodone is a [[generic drug]].  It has many different brand names. 
+ 
+ Some forms of oxycodone get released into the body right away.  These are short-acting forms of oxycodone - they start working quickly, but do not last very long.  The most common brand names for short-acting oxycodone are '''OxyIR''' and '''Roxicodone'''. < ref name= " Mayo " > {{cite web |url=http://www.mayoclinic.org/drugs-supplements/oxycodone-oral-route/description/drg-20074193 |title=Oxycodone (Oral Route) |author= < !--Staff writer(s); no by-line.-- >  |date=December 1, 2015 |website=MayoClinic.org |publisher=The Mayo Clinic |accessdate=December 23, 2015 |quote=}} < /ref > 
+ 
+ Other forms of oxycodone have a special coating that makes just a little bit of the medicine get released into the body at a time.  A small amount of oxycodone is released, non-stop, into the body for up to 12 hours.  The goal is to have the same amount of painkiller in the body all the time.  These are called long-acting, extended-release, or controlled-release forms of oxycodone.  They do not start working quickly, but they last a long time.  The most common brand name for controlled-release oxycodone is '''OxyContin'''. < ref name= " FDA " > {{cite web |url=http://www.fda.gov/downloads/Drugs/DrugSafety/UCM208530.pdf |title=OxyContin |author= < !--Staff writer(s); no by-line.-- >  |date=August 2015 |website=FDA.gov |publisher=United States Food and Drug Administration |accessdate=December 23, 2015 |quote=}} < /ref > 
+ 
+ ===Mixtures of oxycodone=== 
+ 
+ Oxycodone is often mixed together with other pain medicines.  For example: < ref name= " Mayo "  / > 
+ * Oxycodone mixed with [[Paracetamol|acetaminophen]] is often called Percocet, Endocet, or Roxicet. 
+ * Oxycodone mixed with [[aspirin]] is called Percodan. 
+ * Oxycodone mixed with [[ibuprofen]] is called Combunox. 
+ 
+ Since 2014, a new mixture has been created.  It is a mixture of oxycodone and [[naloxone]].  Its goal is to stop people from [[substance abuse|abusing]] long-acting oxycodone.  (See the  " Addiction "  section lower on this page).  People sometimes abuse long-acting oxycodone (OxyContin) by chewing, crushing, snorting, or injecting the pills. < ref name= " DrugAbuse.gov " > {{cite web |url=http://www.drugabuse.gov/drugs-abuse/opioids |title=Drugs of Abuse: Opioids |author= < !--Staff writer(s); no by-line.-- >  |date=November 2015 |website=DrugAbuse.gov |publisher=United States National Institute on Drug Abuse |accessdate=December 23, 2015 |quote=}} < /ref >   When oxycodone is mixed with naloxone, if the medicine is swallowed by mouth, like it is supposed to be, the oxycodone works like normal.  But if the medicine is chewed, crushed, or dissolved, the naloxone inside is released.  The naloxone keeps the oxycodone from working in the brain.  This makes it impossible for the person to get the good feelings they wanted to get from abusing the oxycodone. < ref name= " FDA2 " > {{cite web |url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm406407.htm |title=FDA approves new extended-release oxycodone with abuse-deterrent properties |author= < !--Staff writer(s); no by-line.-- >  |date=July 23, 2014 |website=FDA.gov |publisher=United States Federal Drug Administration |accessdate=December 23, 2015 |quote=}} < /ref > 
+ 
+ == How can Oxycodone be Given? == 
+ Oxycodone can be given in many different ways.  These are called ''routes of administration'' (which means  " ways of giving a medicine " ). 
+ 
+ Oxycodone starts working the quickest if it is given by one of these routes: < ref name= " Routes " > {{cite web |url=http://www.uni.edu/walsh/Pharmacokinetics.pdf |title=Pharmacokinetics: Routes of Administration |author= < !--Staff writer(s); no by-line.-- >  |date=August 26, 2014 |website=www.uni.edu |publisher=University of Northern Iowa |accessdate=December 23, 2015 |quote=}} < /ref > 
+ * By a needle put into a [[vein]] ([[Intravenous therapy|intravenously]]) 
+ * Sprayed up the [[Nasal cavity|nose]] (intranasally) 
+ * By a needle put into a special space in the [[spinal cord]] ([[epidural]]) 
+ Oxycodone starts working a little more slowly if it is given by one of these routes: < ref name= " Routes "  / > 
+ * By a [[needle]] put into a [[Muscular system|muscle]] (intramuscularly) 
+ * By a needle put right under the [[skin]] (subcutaneously) 
+ * Into the [[rectum]] (rectally) 
+ Oxycodone starts working the slowest, but lasts the longest, if it is given: < ref name= " Routes "  / > 
+ * By mouth (orally), as a pill to be [[Swallowing|swallowed]] 
+ * On a patch that sticks to the skin and releases small amounts of medicine at a time (transdermally) 
+ 
+ ==Addiction and Overdose== 
+ Most people who take oxycodone exactly as their doctor [[prescription|prescribes]] it do not get [[addiction|addicted]] to oxycodone. < ref name= " FDA "  / > 
+ 
+ But people can get addicted to oxycodone if they misuse it - for example, by taking it without a doctor's prescription, or taking more than the doctor prescribed. Some people like the [[Euphoria#Drugs|good feeling]] they get when they take oxycodone.  They may keep taking more and more oxycodone to keep getting that good feeling. This can lead to addiction. < ref name= " DrugAbuse.gov "  / > < ref > {{Cite web|last=Staff|first=Editorial|title=How Do People Become Addicted to Oxycodone?|url=https://addiction-treatment.com/addiction/opioid/oxycodone/|access-date=2021-05-19|website=Addiction Treatment}} < /ref > 
+ 
+ Oxycodone abuse, addition, and [[overdose]]s have become much more common recently. < ref name= " DrugAbuse.gov "  / > 
+ 
+ == Long Term Side Effects of Oxycodone == 
+ 
+ * Chronic [[constipation]]. 
+ * [[Depression]]. 
+ * Anxiety. 
+ * Negative effects on the reproductive system for women. 
+ * Increased danger to the fetus during pregnancy. 
+ * Sleep disturbances. 
+ * Increased risk of falls and fractures, especially in women, and in older people. 
+ * Physical dependence on oxycodone. 
+ * Oxycodone addiction. 
+ * Overdose. 
+ 
+ ===Overdoses and treatment=== 
+ People can die from overdosing on oxycodone (taking too much).  Too much oxycodone shuts down the part of the [[brain]] that tells us to [[breathing|breathe]].  This can cause [[respiratory failure]] - where the body is [[ischaemia|not getting enough oxygen]] to survive.  Every part of the body needs [[oxygen]] to live, and without enough oxygen, parts of the body - like the [[brain]] - will start to die.  Eventually, a person's breathing can stop.  If they do not get help right away, their [[cardiac arrest|heart will stop]] and they will die. 
+ 
+ There is a medicine called naloxone ([[Narcan]]) that can reverse some oxycodone overdoses.  Once it is given, the naloxone throws the oxycodone off of the spots on the brain they are attached to.  Naloxone attaches there instead.  This stops the effects of the oxycodone and helps the brain's breathing center start working more normally again. < ref name= " FDA3 " > {{cite web |url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm473505.htm |title=FDA moves quickly to approve easy-to-use nasal spray to treat opioid overdose |author= < !--Staff writer(s); no by-line.-- >  |date=November 18, 2015 |website=FDA.gov |publisher=United States Federal Drug Administration |accessdate=December 23, 2015 |quote=}} < /ref > 
+ 
+ On November 18, 2015, the FDA approved an  " easy-to-use nasal spray "  version of naloxone.  The goal was to make it easier for everyday people to use naloxone without having to have medical training.  Before this, naloxone could only be given through a needle into a vein or muscle. < ref name=FDA3 / > 
+ 
+ == Oxycodone Withdrawal  &  Detox == 
+ Oxycodone withdrawal symptoms can include: 
+ 
+ * Sweating. 
+ * Fever. 
+ * Gooseflesh. 
+ * Excessively runny nose. 
+ * Compulsive yawning. 
+ * Sleep disturbances. 
+ * Nausea. 
+ * [[Diarrhea|Diarrhoea]]. 
+ * Severe aches and pain, in bones and/or teeth. 
+ 
+ ==References== 
+ < references/ > 
+ {{Opioid receptor modulators}} 
+ 
+ [[Category:Opioids]] 
+ [[Category:Analgesics]] 
+ [[Category:Organonitrogen compounds]]

@@ -1,0 +1,46 @@
+{{Infobox person 
+ | name               = Eratosthenes 
+ | image              = Eratosthene.01.png 
+ | alt                = An etching of a man's head and neck in profile, looking to the right. The man has a beard and is balding. 
+ | birth_date         = 276 BC 
+ | birth_place        = [[Cyrene, Libya|Cyrene]] 
+ | death_date         = 194 BC (Around 82) 
+ | death_place        = [[Alexandria]] 
+ | occupation         = {{unbulleted list|Scholar|Librarian |Poet |Inventor}} 
+ | known_for          = [[Sieve of Eratosthenes]] < br / > Foundation of Geography 
+ }} 
+ '''Eratosthenes of Cyrene''' (276 – 194 BC) was a 3rd century BC [[Ancient Greece|Greek]] [[mathematician]], [[geographer]] and [[astronomer]]. He was head of the [[Library of Alexandria]] from 240 {{sc|BC}} until his death: this was the most important library of the ancient world. 
+ 
+ According to the [[Suda]], < ref > The massive 10th century [[Byzantine]] [[encyclopedia]] of the ancient [[Mediterranean]] world < /ref >  his contemporaries nicknamed him ''Beta'', (the second letter of the Greek alphabet), because he was the second best in the world in almost any field. < ref > Asimov, Isaac. 1975. ''Asimov's Biographical Encyclopedia of science and technology'', Entry #42,  " Eratosthenes " , p. 29. Pan Books, London. {{ISBN|0-330-24323-3}}. < /ref >  Eratosthenes was a friend of [[Archimedes]], who also lived and worked in Alexandria. Archimedes was the greatest [[mathematician]] and [[inventor]] of the age, so perhaps the Beta [[nickname]] was not unjust. 
+ 
+ The works Eratosthenes wrote are known to us only indirectly: the great Library was destroyed, and no copies survived. Strabo (~63 < small > BC < /small > –24 < small > AD < /small > ) wrote about geography in antiquity. He tells us that the works of Eratosthenes were ''On the measurement of the Earth'' and ''Geographica''. 
+ 
+ Eratosthenes made several remarkable discoveries and inventions. He was the first person to calculate the [[circumference]] of the [[Earth]] (with remarkable accuracy), and he invented a system of [[latitude]] and [[longitude]]. He calculated the tilt of the earth's axis (again with remarkable accuracy); he may also have accurately calculated the distance from the earth to the sun and invented the [[leap day]]. < ref name= " Wired " > [https://www.wired.com/science/discoveries/news/2008/06/dayintech_0619 'Wired' 2008] < /ref >  He created a [[map]] of the world based on the available geographical knowledge of the era. Eratosthenes was also the founder of scientific chronology; he wanted to fix the dates of the chief literary and political events from the conquest of [[Troy]]. 
+ 
+ == Measuring the Earth's circumference == 
+ [[File:Eratosthenes measure of Earth circumference.svg|thumb|Measurements taken at Alexandria and Syene]] 
+ 
+ Eratosthenes measured the [[circumference]] of the Earth without leaving Egypt. He knew that on the [[summer solstice]] at local noon at the [[Syene]] on the [[Tropic of Cancer]], the sun would appear at the directly overhead. He also knew, from measurement, that in [[Alexandria]], the angle of [[elevation]] of the sun would be 1/50 of a full circle (7[[Degree (angle)|°]]12[[Minute|']]) south of the [[zenith]] at the same time. 
+ 
+ Assuming that Alexandria was due north of Syene he concluded that the distance from Alexandria to Syene must be 1/50 of the total circumference of the Earth (360 degrees). < ref > 50 x 7°12' = 360° < /ref >  His estimated distance between the cities was 5000 stadia ({{convert|925|km|abbr=off|disp=or}}) by estimating the time that he had taken to travel from Syene to Alexandria by [[camel]]. He rounded the result to a final value of 700 stadia per degree, which implies a circumference of 250,000 stadia. The exact size of the stadion he used is frequently argued. The common [[Attic]] stadium was about {{convert|185|m|abbr=off}}, which would imply a circumference of {{convert|46250|km|abbr=off|disp=or}}, which is {{convert|6250|km|abbr=off}} different from the currently accepted circumference of the Earth ({{convert|40000|km|abbr=off|disp=or}}). < ref > {{cite web |url=http://traianus.rediris.es/topo01/surveying.pdf |archiveurl=https://web.archive.org/web/20070205033538/http://traianus.rediris.es/topo01/surveying.pdf |archivedate=2007-02-05 |title=Roman Surveying |author=Isaac Moreno Gallo |others=translated by Brian R. Bishop |date=2004}} < /ref > < ref > {{cite web|url=https://anthonybloggeneral.wordpress.com/2012/07/03/eratosthenes-earth-circumference/|title=How did Eratosthenes measure the circumference of the earth?|date=3 July 2012|publisher=}} < /ref >  The method is an early application of [[trigonometry]] in the measurement science of [[geodesy]]. 
+ 
+ == Other discoveries and inventions == 
+ === The sieve of Eratosthenes === 
+ In [[mathematics]], the [[sieve of Eratosthenes]] (Greek: κόσκινον Ἐρατοσθένους) is a simple, ancient [[algorithm]] for finding all [[prime number]]s up to a specified integer. < ref > Horsley, Rev. Samuel F.R.S. 1772. ''Κόσκινον Ερατοσθένους''  or, the Sieve of Eratosthenes, being an account of his method of finding all the prime numbers. ''Philosophical Transactions''. '''62''', 327-347. < /ref >  It works efficiently for the smaller primes (below 10 million). < ref > The Prime Glossary:  " The Sieve of Eratosthenes " , 
+ http://primes.utm.edu/glossary/page.php?sort=SieveOfEratosthenes, references 16. November 2008. < /ref > 
+ The sieve was described and attributed to Eratosthenes in the ''Introduction to Arithmetic'' by [[Nicomachus of Gerasa|Nicomachus]]. < ref > [https://archive.org/stream/nicomachigerasen00nicouoft#page/29/mode/1up Nicomachus ''Introduction to arithmetic'', I, 13] < /ref > 
+ [[File:New Animation Sieve of Eratosthenes.gif|center|thumb|400px|Sieve of Eratosthenes: algorithm steps for primes below 120 (including optimisation of starting at squares)]] 
+ 
+ === Other === 
+ Eratosthenes went further and computed the tilt of the Earth's axis to within a degree. This is the tilt which is the main cause of the annual climate cycle of spring, summer, autumn, winter. He also deduced the length of the year as 365¼ days. He suggested that calendars should have a leap day every fourth year, an idea taken up two centuries later by [[Julius Caesar]]. < ref name= " Wired "  / > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ {{Authority control}} 
+ {{DEFAULTSORT:Eratosthenes of Cyrene}} 
+ [[Category:276 BC births]] 
+ [[Category:194 BC deaths]] 
+ [[Category:Greek geographers]] 
+ [[Category:Ancient mathematicians]] 
+ [[Category:Ancient Greek astronomers]]

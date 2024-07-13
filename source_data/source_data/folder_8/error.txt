@@ -1,0 +1,33 @@
+{{complex|date=April 2012}} 
+ [[File:No.svg|thumb|200px|Red Wrong]] 
+ [[File:General relativity - FACT!.jpg|thumb|One of the two clocks shows the wrong time. This is an error. From the image, it cannot be determined if it is simply switched off, or if it is malfunctioning.]] 
+ An '''''error''''' is a [[wikt:mistake|mistake]]: that is its basic meaning. < ref > Concise OED < /ref > < ref > In [[Latin]], ''error'' means  " wandering "  or  " going away " < /ref >  However, there are some differences in how the word is used in different subjects. 
+ 
+ == In arithmetic == 
+ Elementary errors in [[arithmetic]] show a wrong pattern of thought. For example, if a child misplaces the [[decimal]] point in some decimal arithmetic, that shows he or she has not understood the idea. By explaining how decimal points should be placed, a teacher can correct all future calculations of this kind. The error is a sign of a general misunderstanding, which, when cured, may never happen again. In this way, errors can help learning. 
+ 
+ This idea can be developed in many other subjects. Errors can help learning if corrected, and that is used by many [[textbook]]s with end-of-chapter questions. The idea of the questions (which often have end of book answers) is to help the reader find out what needs correcting. The principle of learning is called [[knowledge of results]]. '''Random''' '''error is the uncertainty of having inherent instrumental present.''' 
+ 
+ == In statistics == 
+ A statistical error is ''the amount by which a sample differs from its expected value''. The expected value is based on the whole [[Population (statistics)|population]] from which the individual was chosen. 
+ 
+ A tricky point is this: 
+ *The difference between a value in the ''sample'' and the (unobservable) population [[mean]] is a ''statistical error'', whereas 
+ *The difference between a value in the sample and the observable sample mean is a ''residual''. 
+ 
+ == Computer programming == 
+ The word 'error' can be used to describe a computer program that was not written in the right way. A ''[[syntax error]]'' is a bit of [[source code]] that does not make sense to the computer. A ''[[logic]] error'' is a mistake in the [[algorithm]] used, which might result in problems with the [[output]].  
+ 
+ An error may also be an ''exception'', which is something that happens unexpectedly. For example, it is an error to try to write more files onto a disk that is full. Careful programmers write code that can deal with errors that may happen; they can do this by labeling each error with an [[error code]] and using [[exception handling]]. Continuing to run a program when an error has not been dealt with can cause [[error avalanche]], which means errors pile up and behavior becomes more difficult to predict. 
+ 
+ [[File:Error.jpg|thumb|right|A command panel with errors|300px]] 
+ 
+ == Catastrophes == 
+ In a [[Catastrophism|catastrophe]] like a [[nuclear accident]], even small errors in [[accuracy and precision]] can lead to very harmful consequences. 
+ 
+ == References == 
+ {{wiktionary}} 
+ {{reflist}} 
+ 
+ 
+ [[Category:Basic English 850 words]]

@@ -1,0 +1,119 @@
+{{Chembox 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 464371375 
+ | Name =  
+ | ImageFile = Methane-2D-dimensions.svg 
+ | ImageFile_Ref = {{chemboximage|correct|??}} 
+ | ImageSize = 170 
+ | ImageName = Stereo, skeletal formula of methane with some measurements added 
+ | ImageFileL1 = Methane.Structural_formula.V1.svg 
+ | ImageFileL1_Ref = {{chemboximage|correct|??}} 
+ | ImageNameL1 = Ball and stick model of methane 
+ | ImageFileR1 = Methane-3D-space-filling.svg 
+ | ImageFileR1_Ref = {{chemboximage|correct|??}} 
+ | ImageNameR1 = Spacefill model of methane 
+ | PIN = Methane < ref name=iupac2013 > {{cite book | title =  Nomenclature of Organic Chemistry : IUPAC Recommendations and Preferred Names 2013 (Blue Book) | publisher = [[Royal Society of Chemistry|The Royal Society of Chemistry]] | date = 2014 | location = Cambridge | pages = 3–4 | doi = 10.1039/9781849733069-FP001 | isbn = 978-0-85404-182-4 | quote = Methane is a retained name (see P-12.3) that is preferred to the systematic name ‘carbane’, a name never recommended to replace methane, but used to derive the names ‘carbene’ and ‘carbyne’ for the radicals H < sub > 2 < /sub > C < sup > 2• < /sup >  and HC < sup > 3• < /sup > , respectively.| chapter = Front Matter }} < /ref > 
+ | SystematicName = Carbane (never recommended < ref name=iupac2013 / > ) 
+ | OtherNames = {{Unbulleted list|Marsh gas|Natural gas|Carbon tetrahydride|Hydrogen carbide}} 
+ | IUPACName =  
+ | Section1 = {{Chembox Identifiers 
+ | CASNo = 74-82-8 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 297 
+ | ChemSpiderID = 291 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | EINECS = 200-812-7 
+ | UNNumber = 1971 
+ | KEGG = C01438 
+ | KEGG_Ref = {{keggcite|confirmed|kegg}} 
+ | MeSHName = Methane 
+ | ChEBI = 16183 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 17564 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS = PA1490000 
+ | Beilstein = 1718732 
+ | Gmelin = 59 
+ | 3DMet = B01453 
+ | SMILES = C 
+ | StdInChI = 1S/CH4/h1H4 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = VNWKTOKETHGBQD-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+  }} 
+ | Section2 = {{Chembox Properties 
+ | C=1 | H=4 
+ | Appearance = Colorless gas 
+ | Odor = Odorless 
+ | Density = {{ubl 
+  | 0.657{{nbsp}}g·L < sup > −1 < /sup >  (gas, 25{{nbsp}}°C, 1{{nbsp}}atm) 
+  | 0.717{{nbsp}}g·L < sup > −1 < /sup >  (gas, 0{{nbsp}}°C, 1{{nbsp}}atm) 
+  | 422.62{{nbsp}}g·L < sup > −1 < /sup >  (liquid, −162{{nbsp}}°C) < ref name=airliquide > {{cite web 
+   | title=Gas Encyclopedia 
+   | url=http://encyclopedia.airliquide.com/Encyclopedia.asp?GasID=41 
+   | accessdate=November 7, 2013 
+   | archive-date=December 26, 2018 
+   | archive-url=https://web.archive.org/web/20181226083050/https://encyclopedia.airliquide.com/methane?GasID=41 
+   | url-status=dead 
+   }} < /ref > 
+  }} 
+ | MeltingPtK = 90.7 
+ | BoilingPtK = 111.65 
+ | BoilingPt_ref =  < ref > {{cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/methane#section=Chemical-and-Physical-Properties|title=Methane|last=Pubchem|website=pubchem.ncbi.nlm.nih.gov}} < /ref > 
+ | Solubility = 22.7{{nbsp}}mg·L < sup > −1 < /sup > 
+ | SolubleOther = Soluble in [[ethanol]], [[diethyl ether]], [[benzene]], [[toluene]], [[methanol]], [[acetone]] and insoluble in water 
+ | ConjugateAcid = [[Methanium]] 
+ | ConjugateBase = [[Methyl anion]] 
+ | LogP = 1.09 
+ | HenryConstant = 14{{nbsp}}nmol·Pa < sup > −1 < /sup > ·kg < sup > −1 < /sup > 
+ | MagSus = −12.2{{e|−6}}{{nbsp}}cm < sup > 3 < /sup > ·mol < sup > −1 < /sup > 
+  }} 
+ | Section3 = {{Chembox Structure 
+ | MolShape = Tetrahedron 
+ | Dipole = 0{{nbsp}}D 
+ | PointGroup = T < sub > d < /sub > 
+  }} 
+ | Section4 = {{Chembox Thermochemistry 
+ | DeltaHf = −74.87{{nbsp}}kJ·mol < sup > −1 < /sup > 
+ | DeltaHc = −891.1 to −890.3{{nbsp}}kJ·mol < sup > −1 < /sup > 
+ | Entropy = 186.25{{nbsp}}J·(K·mol) < sup > −1 < /sup > 
+ | HeatCapacity = 35.69{{nbsp}}J·(K·mol) < sup > −1 < /sup > 
+  }} 
+ | Section5 = {{Chembox Hazards 
+ | Hazards_ref =  < ref > {{cite web|title=Safety Datasheet, Material Name: Methane|url=http://www.chemadvisor.com/Matheson/database/msds/00244226000800003.PDF|publisher=Metheson Tri-Gas Incorporated|accessdate=December 4, 2011|location=USA|date=December 4, 2009|url-status=dead|archiveurl=https://web.archive.org/web/20120604162221/http://www.chemadvisor.com/Matheson/database/msds/00244226000800003.PDF|archivedate=June 4, 2012|df=mdy-all}} < /ref > 
+ | GHSPictograms = {{GHS flame}} 
+ | GHSSignalWord = '''DANGER''' 
+ | HPhrases = {{H-phrases|220}} 
+ | PPhrases = {{P-phrases|210}} 
+ | NFPA-H = 2 
+ | NFPA-F = 4 
+ | NFPA-R = 0 
+ | NFPA-S = SA 
+ | FlashPtC = −188 
+ | AutoignitionPtC = 537 
+ | ExploLimits = 4.4–17% 
+  }} < ref > {{cite web|url=http://cameochemicals.noaa.gov/chemical/8823|title=METHANE|author=NOAA Office of Response and Restoration, US GOV|website=noaa.gov}} < /ref > 
+ | Section6 = {{Chembox Related 
+ | OtherFunction_label = alkanes 
+ | OtherFunction = {{Unbulleted list|[[Methyl iodide]]|[[Difluoromethane]]|[[Iodoform]]|[[Carbon tetrachloride]]}} 
+  }} 
+ }} 
+ '''Methane''' is an [[organic compound]] with the [[chemical formula]] {{chem|[[Carbon|C]]|[[Hydrogen|H]]|4}}. It is an [[alkane]] with one carbon [[atom]]. It is often found as the main part of [[natural gas]]. Methane is a [[greenhouse gas]] < ref > [https://www.nytimes.com/2014/03/29/us/politics/white-house-unveils-plans-to-to-cut-methane-emissions.html ''White House Unveils Plans to Cut Methane Emissions''] March 28, 2014 [[New York Times]] < /ref > < ref > {{cite web |url=https://www.vox.com/energy-and-environment/2016/12/12/13915950/methane-atmosphere-rise-agriculture |title=Methane levels in the atmosphere are now rising at their fastest pace in decades; It's a big problem for climate change. |author=Brad Plumer |date=December 12, 2016 |publisher=Vox.com |accessdate=18 December 2016}} < /ref >  23 times more effective than [[carbon dioxide]]. It is also less stable and slowly oxidates by [[oxygen]] to carbon dioxide and [[water]]. 
+ 
+ == Uses == 
+ Methane is used in [[gas taps]] in places such as [[kitchen]]s, chemistry classrooms, laboratories, etc. as it burns very easily because of its simple [[molecular structure]]. 
+ 
+ == Molecular structure == 
+ Methane's molecular structure is very simple. It is a single [[carbon]] [[atom]] surrounded by four [[hydrogen]] [[atom]]s. 
+ 
+ == Production == 
+ Methane can be made by many chemical ways, but usually is found in natural gas and is obtained by [[fractional distillation]], after it has become liquid. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{commons category|Methane}} 
+ 
+ [[Category:Alkanes|1]] 
+ [[Category:Greenhouse gases]]

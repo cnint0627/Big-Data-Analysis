@@ -1,0 +1,30 @@
+{{lowercase}} 
+ {{Infobox Software 
+ | name                   = phpBB 
+ | logo                   = Phpbb3-ccw-logo.png 
+ | screenshot             = Phpbb 3.0 prosilver.png 
+ | caption                =  
+ | developer              = The phpBB Group 
+ | released               = [[17 June]] [[2008]] 
+ | programming language   = [[PHP]] 
+ | operating system       =  
+ | platform               =  
+ | language               = multilingual < ref name= " i18n " > [https://www.phpbb.com/languages/?type=20x phpBB2 translation pack downloads] < /ref > 
+ | genre                  = [[Internet forum]] 
+ | license                = [[GNU General Public License]] 
+ | website                = https://www.phpbb.com/ 
+ }} 
+ '''phpBB''' is a [[wikt:common|commonly]] used, [[Free software|free]] [[computer]] [[software]] for [[forum]]s. As the name suggests, phpBB is written in [[PHP]], with the use of one of [[SQL]] compatible [[database]]s. 
+ 
+ == References == 
+ 
+ < references / > 
+ 
+ == Other websites == 
+ * [https://www.phpbb.com Official website] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Software]] 
+ [[Category:Free software]]

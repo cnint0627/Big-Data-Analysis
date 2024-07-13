@@ -1,0 +1,38 @@
+{{Infobox Software 
+ | name                   = remastersys 
+ | logo                   = remastersys.png 
+ | screenshot             = Remastersys-zorinos.png 
+ | caption                =  
+ | collapsible            =  
+ | author                 = Tony Brijeski (aka Fragadelic) 
+ | developer              = Tony Brijeski 
+ | released               =  
+ | latest release version = 2.0.23-1 (Debian); 3.0.4-2 (Ubuntu) 
+ | latest release date    = {{release date|2012|01|17}} 
+ | latest preview version =  
+ | latest preview date    =  
+ | frequently updated     =  
+ | programming language   = [[GNU bash|Bash]] 
+ | operating system       = [[Debian]] / [[Ubuntu (operating system)|Ubuntu]]  
+ | platform               = [[Linux kernel|Linux]] 
+ | size                   =  
+ | language               = English 
+ | status                 = active < ref name=official > http://www.remastersys.com/ < /ref > 
+ | genre                  =  
+ | license                = [[GNU General Public License|GNU GPL Version 2]] 
+ | website                = [http://www.remastersys.com/ remastersys.com] 
+ }} 
+ [[Image:Super OS.png|right|thumb|250px|[[Super OS]] is made with remastersys]] 
+ '''Remastersys''' is a [[free software]]/[[open source]] ([[GNU General Public License|GPL]]) script for [[Linux]] [[Linux distribution|distributions]]. Users can: 
+ * '''Create a customized Live CD/DVD''' of [[Ubuntu (operating system)|Ubuntu]]. 
+ * Backup all the system, including user data to an installable [[Live CD|Live CD/DVD]]. 
+ 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [http://loscompanion.com/forums/index.php?board=58.0/ Remastersys forums] {{Webarchive|url=https://web.archive.org/web/20101204164830/http://loscompanion.com/forums/index.php?board=58.0%2F |date=2010-12-04 }} 
+ * [http://klikit.pbwiki.com/Remastersys/ Wiki of Remastersys project] 
+ * [http://hacktolive.org/wiki/Create_a_custom_Live_CD_of_ubuntu How to make a customized Ubuntu Live CD/DVD with remastersys] {{Webarchive|url=https://web.archive.org/web/20080803203207/http://hacktolive.org/wiki/Create_a_custom_Live_CD_of_ubuntu |date=2008-08-03 }} 
+ 
+ [[Category:Live CD]] 
+ [[Category:Linux software]]

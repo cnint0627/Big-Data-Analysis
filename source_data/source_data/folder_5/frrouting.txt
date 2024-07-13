@@ -1,0 +1,23 @@
+{{Infobox software 
+ | title = FRRouting 
+ | name = FRRouting 
+ | logo =  
+ | logo size = 120 px 
+ | released = {{Start date and age|2017|04|03}} 
+ | latest release version = 8.0 < ref > {{Cite web|url=https://github.com/FRRouting/frr/releases/tag/frr-8.0|title=FRR Release 8.0|date=2021-07-29|website=FFRouting Github Page|language=en-US|access-date=2021-07-30}} < /ref > 
+ | latest release date = {{Start date and age|2021|07|29}} 
+ | repo = https://github.com/FRRouting/frr 
+ | programming language = [[C (programming language)|C]] 
+ | operating system = [[Linux]], [[OpenBSD]], [[FreeBSD]], [[NetBSD]] 
+ | license = [[GNU GPLv2]] 
+ | website = https://frrouting.org/ 
+ }} 
+ 
+ '''FRRouting''' also known as '''Free Range Routing''' is a routing application. It works on operating systems like Linux, Solaris, OpenBSD, FreeBSD and NetBSD. It was created as a fork of Quagga and is licensed [[GNU General Public License v2]] (GPL2). 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux software]]

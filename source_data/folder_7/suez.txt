@@ -1,0 +1,92 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |name          =Suez 
+ |other_name             = 
+ |native_name            =   < !-- for cities whose native name is not in English -- > 
+ |nickname               = 
+ |settlement_type        = 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = 
+ |imagesize              = 300px 
+ |image_caption          = 
+ |image_flag             = Flag of Suez Governorate.svg 
+ |flag_size              = 100px 
+ |image_seal             = 
+ |seal_size              = 
+ |image_shield           = 
+ |shield_size            = 
+ |image_map              = Iss016e019375.jpg 
+ |mapsize                =200px 
+ |map_caption            = Satellite view of the port and city that are the southern terminus of the Suez Canal that transits through Egypt and [[debouches]] into the Mediterranean Sea near Port Said 
+ |pushpin_map            = Egypt < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =bottom 
+ |pushpin_mapsize        =200 
+ |pushpin_map_caption    =Location in Egypt 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = {{flag|Egypt}} 
+ |subdivision_type1      = [[Governorates of Egypt|Governorate]] 
+ |subdivision_name1      = [[Suez Governorate|Suez]] 
+ |subdivision_type2      = 
+ |subdivision_name2      = 
+ |subdivision_type3      = 
+ |subdivision_name3      = 
+ | < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = Governor 
+ |leader_name            = Saif Al-Din Galal 
+ |leader_title1          =   < !-- for places with, say, both a mayor and a city manager -- > 
+ |leader_name1           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       = 
+ < !-- Area    --------------------- > 
+ |area_magnitude         = 
+ |unit_pref                =Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = 
+ |area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ < !-- Population   ----------------------- > 
+ |population_as_of = 2018 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               = 744.189 
+ |population_density_km2         = 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_blank1_title        = Ethnicities 
+ |population_blank1              = 
+ |population_density_blank1_km2 = 
+ |population_density_blank1_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               =[[Egypt Standard Time|EST]] 
+ |utc_offset             = +2 
+ |timezone_DST           = +3 
+ |utc_offset_DST         = 
+ |coordinates = {{coord|29|58||N|32|33||E|region:EG|display=title}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            = 5 
+ |elevation_ft           = 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             = 
+ |blank_info             = 
+ |blank1_name            = 
+ |blank1_info            = 
+ |website                = 
+ |footnotes              = 
+ }} 
+ '''Suez''' ({{lang-ar|السويس As Suwais}},  Egyptian pronunciation ''Es Suwais'') is a [[town]] in Northern Egypt, on the coast of the [[Gulf of Suez]].  Almost 750.000 people live in the city. The city is the southern terminus of the [[Suez Canal]]. It has two harbours, and a large [[seaport]].  An [[oil refinery]] is in Suez. [[Highway]]s and [[railroad]] tracks connect Suez to the cities of [[Cairo]], [[Port Said]] and [[Ismailia]]. 
+ 
+ {{Commonscat}} 
+ 
+ 
+ {{geo-stub}} 
+ {{authority control}} 
+ [[Category:Cities in Egypt]]

@@ -1,0 +1,15 @@
+[[Image:Regular digon in spherical geometry.png|thumb|Regular digon on a [[sphere]]]] 
+ [[File:Waldseemüller-Globus.jpg|thumb|Digons can be used to make a [[globe]]. This one is a map by Martin Waldseemüller (15th century). This is the first map that shows the [[New World]], and uses the name  " Amerika "  for it.]] 
+ 
+ In [[geometry]], a '''digon'''  is a [[polygon]] with two sides ([[edge (geometry)|edge]]s) and two [[Vertex (geometry)|vertices]]. Its construction is [[Degeneracy (mathematics)|degenerate]] in a [[Euclidean plane]] because either the two sides would coincide or one or both would have to be curved; however, it can be [[#In elementary polyhedra|easily visualised]] in elliptic space. 
+ 
+ A regular digon has both angles equal and both sides equal and is represented by [[Schläfli symbol]] {2}. It may be constructed on a [[spherical geometry|sphere]] as a pair of 180 degree arcs connecting [[antipodal point]]s, when it forms a [[spherical lune|lune]]. 
+ 
+ The digon is the simplest [[abstract polytope]] of rank 2. 
+ 
+ A [[truncation (geometry)|truncated]] ''digon'', t{2} is a [[square]], {4}. An [[Alternation (geometry)|alternated]] digon, h{2} is a [[monogon]], {1}. 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ [[Category:Shapes]] 
+ [[Category:Polygons|2]]

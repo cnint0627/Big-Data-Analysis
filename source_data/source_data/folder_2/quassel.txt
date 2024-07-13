@@ -1,0 +1,25 @@
+{{Infobox software 
+ | name = Quassel IRC 
+ | logo = QuasselIrc.svg 
+ | screenshot = Quassel IRC 0.14.0 screenshot.png 
+ | caption = Screenshot of Quassel IRC on Arch Linux 
+ | collapsible = 
+ | author = 
+ | developer = Quassel IRC Team 
+ | released = 0.3.0 {{Start date|2008|08|27}} 
+ | frequently_updated = yes < !-- Release version update? Don't edit this page, just click on the version number! -- > 
+ | programming language = [[C++]] 
+ | operating system = [[OS X]], [[Unix-like]], [[Microsoft Windows|Windows]] 
+ | platform = [[Cross-platform]] 
+ | size = 
+ | language = 
+ | status = Active 
+ | genre = [[IRC client]] 
+ | license  = [[GNU General Public License]] (version 2 or later) 
+ | website = {{URL|quassel-irc.org}} 
+ }} 
+ '''Quassel IRC''', or '''Quassel''', is an [[IRC client]], introduced in 2008. < ref name= " Changelog " > [http://quassel-irc.org/pub/ChangeLog  " Changelog " ] {{Webarchive|url=https://web.archive.org/web/20130928094433/http://quassel-irc.org/pub/ChangeLog |date=2013-09-28 }}. Quassel-IRC.org. < /ref >  It is released under the [[GNU General Public License]] for [[GNU]] and [[Unix-like]] operating systems, [[OS X]], and [[Microsoft Windows]]. Since the release of [[Kubuntu]] 9.04 (Jaunty Jackalope) Quassel is Kubuntu's default IRC client. < ref > [http://www.kubuntu.org/news/9.04-release  " Kubuntu 9.04 Out in the Wild " ]. Kubuntu.org. 23 April 2009, retrieved 27 November 2009. < /ref > < ref name= " Toms " > Overa, Adam (October 19, 2009). [http://www.tomshardware.com/reviews/ubuntu-linux-communications,2431-8.html  " Large IRC Clients " ]. [[Tom's Hardware]]. < /ref >  Quassel uses the [[Qt (framework)|Qt]] application framework. 
+ ==References== 
+ {{Reflist}}{{Tech-stub}}{{IRC footer}} 
+ 
+ [[Category:IRC clients]]

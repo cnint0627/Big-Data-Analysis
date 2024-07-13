@@ -1,0 +1,165 @@
+{{Chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 477239274 
+ | Name =  
+ | Reference =  < ref > ''[[The Merck Index]]'', '''15th Ed.''' (2013), p. 13, [http://www.rsc.org/Merck-Index/monograph/mono1500000065 Acetone Monograph] '''65''', O'Neil: [[The Royal Society of Chemistry]].{{subscription needed}} < /ref > 
+ | ImageFile =  
+ | ImageFileL1 = Acetone-CRC-MW-ED-dimensions-2D.png 
+ | ImageFileL1_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeL1 = 136 
+ | ImageNameL1 = Full structural formula of acetone with dimensions 
+ | ImageFileR1 = Acetone-2D-skeletal.svg 
+ | ImageFileR1_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeR1 = 101 
+ | ImageNameR1 = Skeletal formula of acetone 
+ | ImageFileL2 = Acetone-3D-balls.png 
+ | ImageFileL2_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeL2 = 131 
+ | ImageNameL2 = Ball-and-stick model of acetone 
+ | ImageFileR2 = Acetone-3D-vdW.png 
+ | ImageFileR2_Ref = {{chemboximage|correct|??}} 
+ | ImageSizeR2 = 106 
+ | ImageNameR2 = Space-filling model of acetone 
+ | ImageFile3 = Sample of Acetone.jpg 
+ | ImageName3 = Sample of acetone 
+ | PIN = Propan-2-one < ref name=iupac2013 > {{cite book | title =  Nomenclature of Organic Chemistry : IUPAC Recommendations and Preferred Names 2013 (Blue Book) | publisher = [[Royal Society of Chemistry|The Royal Society of Chemistry]] | date = 2014 | location = Cambridge | page = 723 | doi = 10.1039/9781849733069-FP001 | isbn = 978-0-85404-182-4}} < /ref > 
+ | SystematicName =  
+ | OtherNames = {{plainlist| 
+ * Acetone 
+ * Dimethyl ketone < ref name=nist > {{nist|name=Acetone|id=C67641|accessdate=2014-05-11|mask=FFFF|units=SI}} < /ref > 
+ * Dimethyl [[carbonyl]] 
+ * β-Ketopropane < ref name=nist/ > 
+ * Propanone < ref > {{Cite book 
+  | isbn = 978-0-444-51994-8 
+  | pages = 92–94 
+  | last = Klamt 
+  | first = Andreas 
+  | title = COSMO-RS: From Quantum Chemistry to Fluid Phase Thermodynamics and Drug Design 
+  | year = 2005 
+  | publisher = Elsevier 
+ }} < /ref > 
+ * 2-Propanone < ref name=nist/ > 
+ * Dimethyl formaldehyde < ref > {{Cite book 
+ | title = Handbook of preservatives 
+ | last1 = Ash 
+ | first1 = Michael 
+ | last2 = Ash 
+ | first2 = Irene 
+ | page = 369 
+ | year = 2004 
+ | publisher = Synapse Information Resources, Inc. 
+ | isbn = 1-890595-66-7 
+ }} < /ref > 
+ * Pyroacetic spirit (archaic) < ref > {{cite book |title = The 100 Most Important Chemical Compounds: A Reference Guide |url = https://archive.org/details/100mostimportant0000myer |last = Myers |first = Richard L. |year = 2007 |publisher = Greenwood |isbn = 978-0-313-08057-9 |pages = [https://archive.org/details/100mostimportant0000myer/page/4 4]–6}} < /ref > 
+ * Ketone propane < ref name=NIOSH/ > 
+ }} 
+ | IUPACName =  
+ | Section1 = {{Chembox Identifiers 
+ | CASNo = 67-64-1 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 180 
+ | ChemSpiderID = 175 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = 1364PS73AF 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | EINECS = 200-662-2 
+ | UNNumber = 1090 
+ | KEGG = D02311 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | MeSHName = Acetone 
+ | ChEBI = 15347 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 14253 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | RTECS = AL3150000 
+ | Beilstein = 635680 
+ | Gmelin = 1466 
+ | 3DMet = B00058 
+ | SMILES = CC(=O)C 
+ | StdInChI = 1S/C3H6O/c1-3(2)4/h1-2H3 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | InChI = 1/C3H6O/c1-3(2)4/h1-2H3 
+ | StdInChIKey = CSCPPACGZOOCGX-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | InChIKey = CSCPPACGZOOCGX-UHFFFAOYAF 
+ }} 
+ | Section2 = {{Chembox Properties 
+ | C=3 | H=6 | O=1 
+ | Appearance = Colorless liquid 
+ | Odor = Pungent, irritating, floral, cucumber like 
+ | Density = 0.7845 g/cm < sup > 3 < /sup >  (25 °C) 
+ | MeltingPtC = −94.7 
+ | MagSus = −33.78·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol| MeltingPt_ref= < ref name=CRC > Lide, David R. (ed) (2003). ''CRC Handbook of Chemistry and Physics, 84th Edition''. CRC Press. Boca Raton, Florida; Section 3, Physical Constants of Organic Compounds. < /ref > 
+ | BoilingPtC = 56.05 
+ | BoilingPt_ref= < ref name=CRC/ > 
+ | LogP = -0.16 < ref name= " chemsrc " > {{Cite web |url=https://www.chemsrc.com/en/cas/67-64-1_329617.html |title=acetone |website=ChemSrc |access-date=2018-04-13}} < /ref > 
+ | VaporPressure = {{ubl 
+  | 9.39{{nbsp}}kPa (0 & nbsp;°C) 
+  | 30.6{{nbsp}}kPa (25 & nbsp;°C) 
+  | 374{{nbsp}}kPa (100 & nbsp;°C) 
+  | 2.8{{nbsp}}MPa (200 & nbsp;°C) < ref name=nist/ > 
+  }} 
+ | pKa = {{ubl 
+  |19.16 (H < sub > 2 < /sub > O) < ref > {{cite journal |last1=Chiang |first1=Yvonne |last2=Kresge |first2=A. Jerry |last3=Tang |first3=Yui S. |last4=Wirz |first4=Jakob |title=The pKa and keto-enol equilibrium constant of acetone in aqueous solution |journal=Journal of the American Chemical Society |date=1984 |volume=106 |issue=2 |pages=460–462 |doi=10.1021/ja00314a055}} < /ref > 
+  |26.5 (DMSO) < ref name=Bordwell > {{cite journal |last1=Bordwell |first1=Frederick G. |title=Equilibrium acidities in dimethyl sulfoxide solution |journal=Accounts of Chemical Research |date=1988 |volume=21 |issue=12 |pages=456–463 |doi=10.1021/ar00156a004}} < /ref > 
+ }} 
+ 
+ | Solubility = Miscible 
+ | SolubleOther = Miscible in [[benzene]], [[diethyl ether]], [[methanol]], [[chloroform]], [[ethanol]] < ref name=chemister / > 
+ | RefractIndex = 1.3588 (''V'' < sub > D < /sub >  = 54.46) 
+ | Viscosity = 0.295{{nbsp}}mPa·s (25 & nbsp;°C) < ref name=chemister > [http://chemister.ru/Database/properties-en.php?dbid=1 & id=27 Properties of substance: acetone]. chemister.ru. < /ref > 
+ }} 
+ | Section3 = {{Chembox Structure 
+ | Coordination = Trigonal planar at C2 
+ | MolShape = Dihedral at C2 
+ | Dipole = 2.91 D 
+ }} 
+ | Section4 = {{Chembox Thermochemistry 
+ | DeltaHf = (−250.03){{nbsp}}–{{nbsp}}(−248.77){{nbsp}}kJ/mol 
+ | DeltaHc = −1.772{{nbsp}}MJ/mol 
+ | Entropy = 200.4{{nbsp}}J/(mol·K) 
+ | HeatCapacity = 125.45{{nbsp}}J/(mol·K) 
+ }} 
+ | Section5 = {{Chembox Hazards 
+ | GHSPictograms = {{GHS02}} {{GHS07}}  
+ | GHSSignalWord = '''DANGER''' 
+ | HPhrases = {{H-phrases|225|319|336|373}} 
+ | PPhrases = {{P-phrases|210|235|260|305+351+338}} 
+ | NFPA-F = 3 
+ | NFPA-H = 1 
+ | NFPA-R = 0 
+ | FlashPtC = −20 
+ | AutoignitionPtC = 465 
+ | ExploLimits = 2.6–12.8% < ref > {{cite web |url=http://www.americanchemistry.com/s_acc/sec_solvents.asp?CID=1488 & DID=5735 |title=Working with modern hydrocarbon and oxygenated solvents: a guide to flammability |url-status=dead |archive-url=https://web.archive.org/web/20090601224141/http://www.americanchemistry.com/s_acc/sec_solvents.asp?CID=1488 & DID=5735 |archive-date=2009-06-01 |publisher=[[American Chemistry Council]] Solvents Industry Group |page=7 |date=January 2008}} < /ref > 
+ | PEL = 1000{{nbsp}}ppm (2400{{nbsp}}mg/m < sup > 3 < /sup > ) < ref name=NIOSH > {{PGCH|0260}} < /ref > 
+ | REL = TWA 250{{nbsp}}ppm (590{{nbsp}}mg/m < sup > 3 < /sup > ) < ref name=NIOSH/ > 
+ | IDLH = 2500{{nbsp}}ppm < ref name=NIOSH/ > 
+ | TLV-TWA = 1185{{nbsp}}mg/m < sup > 3 < /sup > 
+ | TLV-STEL = 2375{{nbsp}}mg/m < sup > 3 < /sup > 
+ | LD50 = {{ubl 
+  | 5800{{nbsp}}mg/kg (rat, oral) 
+  | 3000{{nbsp}}mg/kg (mouse, oral) 
+  | 5340{{nbsp}}mg/kg (rabbit, oral) < ref name=IDLH > {{IDLH|67641|Acetone}} < /ref > 
+  }} 
+ | LC50 = 20,702{{nbsp}}ppm (rat, 8 & nbsp;h) < ref name=IDLH/ > 
+ | LCLo = 45,455{{nbsp}}ppm (mouse, 1 & nbsp;h) < ref name=IDLH/ > 
+ }} 
+ | Section6 = {{Chembox Related 
+ | OtherCompounds = {{ubl 
+  | [[Butanone]] 
+  | [[Isopropyl alcohol]] 
+  | [[Urea]] 
+  | [[Carbonic acid]] 
+  | [[Carbonyl fluoride]] 
+  }} 
+ }} 
+ }} 
+ '''Acetone''', or '''propanone''', is an [[organic compound]] with the [[chemical formula]] (CH3)2CO. This clear, mobile, easy-to-burn [[liquid]] is the simplest example of the [[ketone]]s. Acetone can be mixed with [[water]]. It is an important [[solvent]], often to clean things in the [[laboratory]]. Common uses of acetone in the home are as the active ingredient in nail polish remover and as paint thinner. It is a common building block in [[organic chemistry]]. 
+ 
+ ==Sources== 
+ {{reflist}} 
+ 
+ 
+ {{chem-stub}} 
+ 
+ [[Category:Ketones|3]]

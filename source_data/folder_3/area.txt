@@ -1,0 +1,26 @@
+'''Area''' is the amount of [[Space (physics)|space]] a [[two dimensional]] (flat) surface takes up. It is useful because it is how much of a [[material]] is needed to make a hollow container.  Area is the amount of surface covered by a close object or shape.  
+ 
+ Some units used to measure area are [[square foot]], [[square mile]], [[square metre]] and [[square kilometre]]. The area of a planar figure is often written as  < math > A < /math > . < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-24|website=Math Vault|language=en-US}} < /ref >  Areas of regular shapes such as [[square]], [[rectangle]], [[triangle]] and [[circle]] can be calculated through [[Scientific method|formulas]]. < ref name= " :0 " > {{Cite web|title=Area - Math Open Reference|url=https://www.mathopenref.com/area.html|access-date=2020-09-24|website=www.mathopenref.com}} < /ref >  The area of an irregular shape can be approximated through grid or graph paper. < ref > {{Cite web|title=What is Area?|url=https://www.mathsisfun.com/geometry/area.html|access-date=2020-09-24|website=www.mathsisfun.com}} < /ref > 
+ 
+ One can use different [[formula]]s to find the area of different [[shape]]s. For example: < ref name= " :0 "  / > 
+ [[File:Polygon area formula.jpg|thumb|Formula to calculate the area of a [[Polygon]]]] 
+ 
+ * Area of a [[rectangle]] is the [[length]] of any two touching sides [[multiply|multiplied]] together. In other words, length times width. 
+ * Area of a [[triangle]] is half of the base multiplied by the [[perpendicular]] height. In other words,  < math > A = \tfrac{1}{2} bh < /math > . 
+ * Area of a [[circle]]:  < math > A = \pi r^2 < /math > 
+ 
+ The area of a flat object is related to the [[surface area]] and [[volume]] of a three-dimensional object. 
+ 
+ The area under a [[curve]] can be found using [[integral|integration]], a concept from [[calculus]]. 
+ 
+ == Related pages == 
+ 
+ * [[Mu (unit of area)]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Geometry]]

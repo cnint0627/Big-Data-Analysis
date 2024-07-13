@@ -1,0 +1,14 @@
+'''Astrometry''' is a part of [[astronomy]] that has to do with measuring the motion of objects in space such as [[stars]]. Two main ways to measure these objects are [[proper motion]] and [[parallax]]. 
+ 
+ [[Proper motion]] is an object’s change in position over time when seen from the [[Earth]]. Just like anything else that moves, a [[Star|star's]] [[proper motion]] is measured by looking towards the same place at different times and seeing how far the star has moved. The difference with [[stars]] is that, from [[Earth]], they seem to move very slowly so we have to measure in [[arcsecond]]s per year.  When a [[star]] has a large [[proper motion]], it usually means that it is nearby. Barnard’s Star, the [[star]] with the largest [[proper motion]], only moves 1 degree across the sky (3600 arcseconds) in 348 years. 
+ 
+ [[Parallax]] is the apparent difference in position of an object when seen from two or more different places.  When an object is seen from a new place, there is a new line of sight going from the viewer to the object showing a different background in the distance.  [[Parallax]] is measured using the angle between two lines of sight. 
+ 
+ [[Parallax]] can also be used to measure distances to the nearest few thousand [[stars]].  These distances are measured in parsecs which are equal to about 3.26 [[light years]]. 
+ 
+ == References == 
+ {{reflist}} 
+ *http://www.answers.com/topic/proper-motion. Retrieved on 3 September 2009. 
+ *Rowan-Robinson, Michael. Cosmology: Third Edition. Clarendon Press, Oxford: 1996. 
+ 
+ [[Category:Astronomy]]

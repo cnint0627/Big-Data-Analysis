@@ -1,0 +1,13 @@
+[[File:Copyleft.svg|thumb|right|The symbol for copyleft. It is the [[mirror image]] of the copyright symbol.]] 
+ '''Copyleft''' is a name for a type of a license for [[free content]] or [[free software]]. < ref name=gnu > {{cite web|url=https://www.gnu.org/licenses/copyleft.html |title=What is Copyleft? |website=GNU Operating System |access-date=31 May 2019}} < /ref >  It is not the opposite of [[copyright]], but its purpose is the opposite of the purpose of the frequently seen [[copyright]] type of license (which uses [[copyright]] to ''forbid'' changing, giving, or [[wikt:selling|selling]] something). A copyleft license uses copyright to ''forbid forbidding'' changing, giving, or selling something. < ref name=opensource > {{cite web|url=https://opensource.com/resources/what-is-copyleft |title=What is copyleft? |last=Cotton |first=Ben |website=Opensource.com |date=12 August 2016 |access-date=31 May 2019}} < /ref > 
+ 
+ Both copyleft and non-copyleft ( " permissive " ) licenses for [[free content]] or [[free software]] can be used for things like [[wikt:document|document]]s (for example [[book]]s, [[art]], [[music]] and [[software]]); they always allow people to change the works, and to give or sell them to other people. It should be noted that, although people might think that copyleft content is not copyrighted, that's a myth. Copyleft is a form of licensing: it is not just another name for [[public domain]]. 
+ 
+ However, in a copyleft license, when a person gives or sells a work (changed or not changed) to a friend, the person must allow the friend to do the things which the author of the original work has allowed in the license to the person. This often means, for example, that if another person licensed a book under a copyleft license, and you changed it into a new book, you would have to license your new book under the same license. 
+ 
+ Some copyleft licenses that are used a lot are the [[GNU General Public License]] and the [[Creative Commons]] Attribution-ShareAlike license. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Copyright]]

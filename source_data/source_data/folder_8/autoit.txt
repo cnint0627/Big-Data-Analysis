@@ -1,0 +1,190 @@
+{{Infobox programming language 
+ | name = AutoIt 
+ | screenshot = AutoIT example script.png 
+ | caption = An AutoIt script loaded into [[SciTE]] 
+ | designer = Jonathan Bennett 
+ | developer = AutoIt Consulting Ltd. 
+ | paradigm = [[object-oriented programming|Object-oriented]], [[imperative programming|imperative]], [[functional programming|functional]], [[procedural programming|procedural]], [[reflective programming|reflective]] 
+ | released = {{Release date and age|1999|01}} 
+ | latest_release_version = 3.3.14.5 
+ | latest_release_date = {{Release date and age|2018|03|16}} < ref > {{cite web|url=http://www.autoitscript.com/site/autoit/downloads/|title=AutoIt Downloads}} < /ref > 
+ | influenced by = [[BASIC]] 
+ | programming language =  < !--Citation needed-- > 
+ | platform = [[IA-32]] and [[x64]] 
+ | operating_system = [[Windows XP SP3]] and later < br/ > [[Windows Server 2003]] and later 
+ | license = [[Freeware]] 
+ | File extensions = .au3 
+ | website = {{URL | https://autoitscript.com }} 
+ }} 
+ 
+ '''AutoIt''' {{IPAc-en|ɔː|t|oʊ|_|ɪ|t}} < ref > [http://www.autoitscript.com/forum/index.php?s= & showtopic=22349 & view=findpost & p=155491 Reply by Jon (AutoIt creator) to a forum topic discussing correct pronunciation]{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  is a [[freeware]] [[programming language]] for [[Microsoft Windows]]. In versions 1 and 2, it was used to create [[automation]] scripts for Microsoft Windows programs. These are sometimes called [[Macro (computer science)|macros]]. < ref name= " Kaplan000 " > {{cite book | last = Kaplan | first = Steve | title = Citrix Metaframe Access Suite for Windows Server 2003 | publisher = McGraw-Hill | location = New York | year = 2003 | isbn = 0-07-219566-5 }} < /ref >  In version 3, the programming language was extended to allow it to do more things. 
+ 
+ The [[scripting language]] in AutoIt 1 and 2 was statement-driven. It was designed to simulate a user's input to the computer. From version 3 onward, the AutoIt syntax changed. It is now similar to the [[BASIC]] programming language. AutoIt version 3 is a general-purpose  [[programming language]]. It can have types of data, such as [[Array data structure|arrays]]. 
+ 
+ An AutoIt script can be converted into a stand-alone [[executable]]. This can be run on computers that do not have the AutoIt interpreter installed. A wide range of function libraries are available. They are known as UDFs, or  " User Defined Functions " . < ref > {{cite web | url=https://www.autoitscript.com/wiki/User_Defined_Functions | title=User Defined Functions - AutoIt Wiki }} < /ref >  Some are included as standard. Others are available from the website. They add extra abilities to the language. AutoIt has a special editor, an [[Integrated development environment]] or IDE. It is based on the free [[SciTE]] editor. The [[compiler]] and help text are included in this special editor and provide a standard environment for developers. 
+ 
+ ==Features== 
+ * Scripting language with BASIC-like structure for Windows 
+ * Compiling into standalone executables 
+ * Add-on libraries and modules for specific applications or apps 
+ * Supports [[Transmission Control Protocol|TCP]] and [[User Datagram Protocol|UDP]] protocols 
+ * Supports [[component object model]] (COM) 
+ * Call functions in [[Dynamic-link library|DLL files]] 
+ * Run console apps and access the [[standard streams]] 
+ * Include data files in the compiled file to be extracted when running 
+ * Create [[graphical user interface]]s, including message and input boxes 
+ * Play sounds, pause, resume, stop, seek, get the current position of the sound and get the length of the sound 
+ * Simulate [[Mouse (computing)|mouse]] movements 
+ * Manipulate windows and processes 
+ * Automate sending user input and keystrokes to apps, as well as to individual controls within an app 
+ * [[Unicode]] support from version 3.2.4.0 
+ * 64-bit code support from version 3.2.10.0 
+ * Supports [[regular expressions]] 
+ * Compatible with [[User Account Control]] 
+ * [[Object-oriented]] design through a library < ref > {{cite web |url=http://autoitobject.origo.ethz.ch/ |title= AutoItObject, a library to use object-oriented design in autoit |access-date=7 November 2019 |archive-url=https://web.archive.org/web/20100226105014/http://autoitobject.origo.ethz.ch/ |archive-date=26 February 2010}} < /ref > 
+ 
+ ==Usage== 
+ AutoIt is often used to produce [[utility software]] for [[Microsoft Windows]]. These programs can automate routine tasks. Example use includes: systems management, monitoring, maintenance, and software installation. It is also used to simulate user interaction. In this use an application is  " driven "  to do things by an AutoIt script which behaves like a human user. An AutoIT script can issue [[Keyboard (computer)|keypresses]], [[Computer mouse|mouse]] clicks, type text and so on. In this way it simulates a human user of an application. 
+ 
+ AutoIt has been used in [[Laboratory automation#Low-cost laboratory automation|low-cost laboratory automation]]. Applications include instrument synchronisation, alarm monitoring and results gathering. Devices such as [[3D printing|3D-printer]]s can also be controlled. < ref name= " CheapLab " > {{cite book|title=Practical Laboratory Automation: Made Easy with AutoIt|last=Carvalho|first=Matheus C.|publisher=Wiley V|date=March 2016|isbn=978-3-527-34158-0|pages=5–7|id=Topics Covered in this Book}} < /ref > 
+ 
+ ==Examples== 
+ ===Hello world=== 
+ < syntaxhighlight lang= " autoit " > 
+ ; Make available a library of constant values. 
+ #include  < MsgBoxConstants.au3 > 
+ 
+ ; Displays  " Hello, world! "  in a messagebox. 
+ MsgBox($MB_SYSTEMMODAL,  " Title " ,  " Hello, world! " ) 
+ < /syntaxhighlight > 
+ 
+ ===Automating the Windows Calculator=== 
+ < syntaxhighlight lang= " autoit " > 
+ ; Make available a library of constant values. 
+ #include  < MsgBoxConstants.au3 > 
+ 
+ ; Display a message box with a timeout of 6 seconds. 
+ MsgBox($MB_OK,  " Attention " ,  " Avoid touching the keyboard or mouse during automation. " , 6) 
+ 
+ ; Run the Windows Calculator. 
+ Run( " calc.exe " ) 
+ 
+ ; Wait for the calculator to become active with a timeout of 10 seconds. 
+ WinWaitActive( " [CLASS:CalcFrame] " ,  " " , 10) 
+ 
+ ; If the calculator did not appear after 10 seconds then exit the script. 
+ If WinExists( " [CLASS:CalcFrame] " ) = 0 Then Exit 
+ 
+ ; Automatically type the current year into the calculator. 
+ Send(@YEAR) 
+ 
+ ; Let's slow the script down a bit so we can see what's going on. 
+ Sleep(600) 
+ 
+ ; Automatically type in 'divide by 4', and then sleep 600 ms. 
+ Send( " /4 " ) 
+ Sleep(600) 
+ 
+ ; Hit the return key to display the result, and sleep 600 ms. 
+ Send( " {ENTER} " ) 
+ Sleep(600) 
+ 
+ ; Copy the result to the clipboard using the Windows shortcut Ctrl+C. 
+ Send( " ^c " ) 
+ 
+ ; Declare, and assign the contents of the clipboard to, a variable. 
+ Local $fResult = ClipGet() 
+ 
+ ; Check to see if the variable contains a decimal point or not. 
+ If StringInStr($fResult,  " . " ) Then 
+     ; Display a message box with a timeout of 5 seconds. 
+     MsgBox($MB_OK,  " Leap Year " , @YEAR  &   "  is not a leap year. " , 5) 
+ Else 
+     ; This message will only display if the current year is a leap year. 
+     MsgBox($MB_OK,  " Leap Year " , @YEAR  &   "  is a leap year. " , 5) 
+ EndIf 
+ 
+ ; Close the Windows calculator - always tidy up afterwards. 
+ WinClose( " [CLASS:CalcFrame] " ) 
+ < /syntaxhighlight > 
+ 
+ ===Find average=== 
+ < syntaxhighlight lang= " autoit " > 
+ ; Find Average by JohnOne, modified by czardas 
+ #include  < MsgBoxConstants.au3 > 
+ 
+ _Example() ; Run the example. 
+ 
+ Func _Example() 
+     ; Display an input box and ask the user to enter some numbers separated by commas. 
+     Local $sInput = InputBox( " Find Average " ,  " Enter some numbers separated by commas: 1,2,42,100,3 " ) 
+ 
+ 	; If an error occurred then exit the script. 
+ 	If @error Then Exit 
+ 
+     ; Populate an array with the user's input. 
+     Local $aSplit = StringSplit($sInput,  " , " ) 
+ 
+     ; Pass the array to the function _Find_Average() and then check for errors. 
+     Local $fAverage = _Find_Average($aSplit) 
+     If @error Then Exit 
+ 
+     ; Display the result in a message box. 
+     MsgBox($MB_OK,  " Find Average " ,  " Result:  "   &  $fAverage) 
+ EndFunc   ;== > _Example 
+ 
+ Func _Find_Average($aArray) 
+     ; If the input is not of the correct type (an array), then return an error along with the details. 
+     If Not IsArray($aArray) Then Return SetError(1, 0, VarGetType($aArray)) 
+ 	; More detailed checks are possible, but for brevity just one is performed here. 
+ 
+     ; Declare a variable to store the sum of the numbers. 
+     Local $iArraySum = 0 
+ 
+     ; Loop through the array. 
+     For $i = 1 To $aArray[0] 
+         ; Increment the sum by the number in each array element. 
+         $iArraySum += Number($aArray[$i]) 
+     Next 
+ 
+     ; Return the average rounded to 2 decimal places. 
+     Return Round($iArraySum / $aArray[0], 2) 
+ EndFunc   ;== > _Find_Average 
+ < /syntaxhighlight > 
+ 
+ ==History== 
+ * January 1999 - First AutoIt Version (1.0) 
+ * August 1999 - AutoIt v2 and AutoItX 
+ * September 1999 - First AutoIt version with Compiler 
+ * December 2002 - AutoIt v3 (Public Beta) 
+ * February 2004 - AutoIt v3 (Stable) 
+ * September 2006 - Auto3Lib started 
+ * November 2007 - AutoIt v3.2.10.0 released, Auto3Lib incorporated into AutoIt v3 
+ * May 2008 - AutoIt v3.2.12.0 released, incorporating added GUI functionality 
+ * December 2008 - AutoIt (and AutoItX) v3.3.0.0 released 
+ * December 2009 - AutoIt v3.3.2.0 released 
+ * January 2010 - AutoIt v3.3.4.0 released 
+ * March 2010 - AutoIt v3.3.6.0 released 
+ * April 2010 - AutoIt v3.3.6.1 released 
+ * December 2011 - AutoIt v3.3.8.0 released 
+ * January 2012 - AutoIt v3.3.8.1 released 
+ * December 2013 - AutoIt v3.3.10.0 released 
+ * June 2014 - AutoIt v3.3.12.0 released 
+ * July 2015 - AutoIt v3.3.14.0 and v3.3.14.1 released 
+ * September 2015 - AutoIt v3.3.14.2 released < ref > {{Cite web|url=http://www.autoitscript.com/autoit3/docs/history.htm|title=AutoIt History|website=www.autoitscript.com|access-date=2016-04-19}} < /ref > 
+ * February 2018 - AutoIt v3.3.14.3 released  < ref > [https://www.autoitscript.com/site/autoit-news/autoit-v3-3-14-3-released/ AutoIt v3.3.14.3 Released Feb 2, 2018] < /ref > 
+ 
+ ==License== 
+ The developers of AutoIt originally released the [[source code]] under the [[GPL|GNU General Public License (GPL)]]. < ref > {{cite web | url=https://www.autoitscript.com/forum/topic/7204-licensing-opinions/ | title=Licensing Opinions | date=2005-05-02 | website=AutoIt | quote=The GPL license was chosen as it is generally accepted as the most restrictive | access-date=2018-10-05}} < /ref > < ref > {{cite web | archive-url=https://web.archive.org/web/20050104172743/https://www.autoitscript.com/autoit3/docs/license.htm | archive-date=2005-01-04 | date=2014-03-25 | url=https://www.autoitscript.com/autoit3/docs/license.htm | title=License | quote=AutoIt is copyrighted software distributed under the terms of the GNU General Public License (hereinafter the  " GPL " ) | access-date=2018-10-05 }} < /ref >   
+ 
+ In 2006, the license was changed for version 3.2.0 and later versions to their own [[closed source]] license. < ref > {{cite web |url=https://www.autoitscript.com/autoit3/docs/license.htm |title=Software License |last=Bennett |first=Jonathan |website=autoitscript.com |publisher=AutoIt Team |access-date=5 December 2019}} < /ref > 
+ 
+ Some of the code from version 3.1 was used to create a [[Fork (software development)|fork]] by the [[AutoHotkey]] project. This was allowed under the GPL licence terms. < ref > [http://www.autohotkey.com/forum/viewtopic.php?p=19710#19710 Chris Mallet (author of AutoHotkey)'s post] < /ref >  The AutoHotkey community is continuing to develop and release the code under the GPL. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ * [https://www.autoitscript.com/site/ Official AutoIt website] 
+ 
+ [[Category:Programming languages]]

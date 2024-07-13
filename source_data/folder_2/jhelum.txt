@@ -1,0 +1,240 @@
+{{Infobox settlement 
+ |name=Jhelum 
+ |official_name= 
+ |native_name={{Nastaliq|جہلم}} < !--if different from the English name-- > 
+ |native_name_lang=ur  < !--e.g.  " fr "  for French. If more than one, use{{lang}} instead-- > 
+ |other_name= 
+ |settlement_type=City 
+ |translit_lang1= 
+ |translit_lang1_type= 
+ |translit_lang1_info= 
+ |translit_lang1_type1= 
+ |translit_lang1_info1= 
+ |translit_lang1_type2= 
+ |translit_lang1_info2= < !--etc., up to translit_lang1_type6 / translit_lang1_info6-- > 
+ |translit_lang2= 
+ |translit_lang2_type= 
+ |translit_lang2_info= 
+ |translit_lang2_type1= 
+ |translit_lang2_info1= 
+ |translit_lang2_type2= 
+ |translit_lang2_info2= < !--etc., up to translit_lang2_type6 / translit_lang2_info6-- > 
+ |image_skyline= 
+ |imagesize=250px 
+ |image_alt= 
+ |image_caption=Clockwise from top: [[Major Akram Shaheed Memorial]], [[Tareekh-e-Jhelum book cover]], [[Cantonment Square]], [[CMH Mosque]] and [[Zamir Jaffri Cricket Stadium]] 
+ |image_flag= 
+ |flag_size= 
+ |flag_alt= 
+ |flag_link= 
+ |image_seal= 
+ |seal_size= 
+ |seal_alt= 
+ |seal_link= 
+ |image_shield= 
+ |shield_size= 
+ |shield_alt= 
+ |shield_link= 
+ |image_blank_emblem= 
+ |blank_emblem_type= < !--defaults to Logo-- > 
+ |blank_emblem_size= 
+ |blank_emblem_alt= 
+ |blank_emblem_link= 
+ |nickname=City of Soldiers < br/ > Land of [[Martyrs]] and [[Warrior]]s 
+ |motto= 
+ < !--maps and coordinates-- > 
+ |image_map= 
+ |mapsize=250px 
+ |map_alt= 
+ |map_caption=Map of Jhelum City 
+ |image_map1= 
+ |mapsize1= 
+ |map_alt1= 
+ |map_caption1= 
+ |image_dot_map= 
+ |dot_mapsize= 
+ |dot_map_base_alt= 
+ |dot_map_alt= 
+ |dot_map_caption= 
+ |dot_x=|dot_y= 
+ |pushpin_map=Punjab Pakistan#Pakistan 
+ |pushpin_label_position=left < !--position of the pushpin label: left, right, top, bottom, none-- > 
+ |pushpin_map_alt= 
+ |pushpin_mapsize=250 
+ |pushpin_map_caption=Location within Pakistan 
+ |pushpin_map1= 
+ |pushpin_label_position1= 
+ |pushpin_map_alt1= 
+ |pushpin_mapsize1= 
+ |pushpin_map_caption1= 
+ |coordinates ={{Coord|32|56|33|N|73|43|32|E|type:city_region:PK|display=inline,title}} 
+ |coor_pinpoint= < !--to specify exact location of coordinates (was coor_type)-- > 
+ |coordinates_footnotes= < ref > {{cite web|url=http://www.fallingrain.com/world/PK/4/Jhelum.html |title=Location of Jhelum & nbsp;– Falling Rain Genomics |publisher=Fallingrain.com |accessdate=2013-01-25}} < /ref > 
+ < !--location-- > 
+ |subdivision_type=Country  < !--Country-- > 
+ |subdivision_name=[[Pakistan]]  < !--the name of the country-- > 
+ |subdivision_type1=[[Provinces of Pakistan|Province]] 
+ |subdivision_name1=[[Punjab, Pakistan|Punjab]] 
+ |subdivision_type2= [[Districts of Pakistan|District]] 
+ |subdivision_name2= [[Jhelum District|Jhelum]] 
+ < !--established-- > 
+ |established_title= < !--Settled-- > 
+ |established_date= 
+ |established_title1= < !--Incorporated (town)-- > 
+ |established_date1= 
+ |established_title2= < !--Incorporated (city)-- > 
+ |established_date2= 
+ |established_title3= 
+ |established_date3= 
+ |extinct_title= 
+ |extinct_date= 
+ |founder= 
+ |named_for= 
+ < !--seat, smaller parts-- > 
+ |seat_type= < !--defaults to: Seat-- > 
+ |seat= 
+ |parts_type=[[Union councils of Pakistan|Union Councils]] 
+ |parts_style= < !--list, coll (collapsed list), para (paragraph format)-- > 
+ |parts=7 
+ |p1= 
+ |p2= < !--etc., up to p50: for separate parts to be listed-- > 
+ < !--government type, leaders-- > 
+ |government_footnotes= 
+ |government_type= 
+ |leader_party= [[Pakistan Muslim League (N)|PMLN]] 
+ |leader_title= Chairman MC 
+ |leader_name= Khan Sher Bahadur Kaira 
+ |leader_title1= 
+ |leader_name1= < !--etc., up to leader_title4 / leader_name4-- > 
+ < !--display settings-- > 
+ |total_type= < !--to set a non-standard label for total area and population rows-- > 
+ |unit_pref= < !--enter: Imperial, to display imperial before metric-- > 
+ < !--area-- > 
+ |area_footnotes= 
+ |area_magnitude= < !--use only to set a special wikilink-- > 
+ |area_total_km2=22.5  < !--ALL fields with measurements have automatic unit conversion-- > 
+ |area_total_sq_mi= 
+ |area_total_dunam= < !--used in Middle East articles only-- > 
+ |area_land_km2= 
+ |area_land_sq_mi= 
+ |area_water_km2= 
+ |area_water_sq_mi= 
+ |area_water_percent= 
+ |area_urban_km2= 
+ |area_urban_sq_mi= 
+ |area_metro_km2= 
+ |area_metro_sq_mi= 
+ |area_blank1_title= 
+ |area_blank1_km2= 
+ |area_blank1_sq_mi= 
+ |area_blank2_title= 
+ |area_blank2_km2= 
+ |area_blank2_sq_mi= 
+ < !--elevation-- > 
+ |elevation_m=233 
+ |elevation_ft=768 
+ |elevation_footnotes= < ref name=Weatherbase > {{cite web 
+ |url =http://www.weatherbase.com/weather/weather.php3?s=415980 & refer= & units=metric |title =Weatherbase: Historical Weather for Jhelum, Pakistan | publisher=Weatherbase | year=2008| accessdate= }} < /ref > |elevation_max_footnotes= 
+ |elevation_max_m= 
+ |elevation_max_ft= 
+ |elevation_min_footnotes= 
+ |elevation_min_m= 
+ |elevation_min_ft= 
+ < !--population-- > 
+ |population_footnotes= 
+ |population_total=145,847 
+ |population_as_of=1998 
+ |population_density_km2=auto < !--for automatic calculation of any density field, use: auto-- > 
+ |population_density_sq_mi=auto 
+ |population_est= 
+ |pop_est_as_of= 
+ |population_urban= 
+ |population_density_urban_km2= 
+ |population_density_urban_sq_mi= 
+ |population_metro= 
+ |population_density_metro_km2= 
+ |population_density_metro_sq_mi= 
+ |population_blank1_title= 
+ |population_blank1= 
+ |population_density_blank1_km2= 
+ |population_density_blank1_sq_mi= 
+ |population_blank2_title= 
+ |population_blank2= 
+ |population_density_blank2_km2= 
+ |population_density_blank2_sq_mi= 
+ |population_note= 
+ < !--demographics (section 1)-- > 
+ |demographics_type1= 
+ |demographics1_footnotes= 
+ |demographics1_title1= 
+ |demographics1_info1= < !--etc., up to demographics1_title5 / demographics1_info5-- > 
+ < !--demographics (section 2)-- > 
+ |demographics_type2= 
+ |demographics2_footnotes= 
+ |demographics2_title1= 
+ |demographics2_info1= < !--etc., up to demographics2_title5 / demographics2_info5-- > 
+ < !--HDI(s)-- > 
+ |blank_name = [[Human Development Index|HDI]] 
+ |blank_info = 2005 {{increase}} 0.770 < ref name= " UN " > {{cite web|url=http://www.spdc.org.pk/pubs/rr/rr73.pdf |title=TRENDS IN REGIONAL HUMAN DEVELOPMENT INDICES: Table 2 |publisher=The United Nations |accessdate=21 November 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20090521023211/http://www.spdc.org.pk/pubs/rr/rr73.pdf |archivedate=21 May 2009 }} < /ref > 
+ |blank1_name = Rank 
+ |blank1_info = 2nd 
+ |blank2_name = Category 
+ |blank2_info = [[List of Pakistani Districts by Human Development Index]] 
+ < !--time zone(s)-- > 
+ |timezone1=[[Pakistan Standard Time|PKT]] 
+ |utc_offset1=+5 
+ |timezone1_DST= 
+ |utc_offset1_DST= 
+ |timezone2= 
+ |utc_offset2= 
+ |timezone2_DST= 
+ |utc_offset2_DST= 
+ < !--postal codes, area code-- > 
+ |postal_code_type=[[Postal codes in Pakistan|Postal code]] < !--enter ZIP code, Postcode, Post code, Postal code...-- > 
+ |postal_code=49600 
+ |postal2_code_type= < !--enter ZIP code, Postcode, Post code, Postal code...-- > 
+ |postal2_code= 
+ |area_code_type=[[Dialling codes in Pakistan|Dialling code]] < !--defaults to: Area code(s)-- > 
+ |area_code=0544 
+ < !--twin cities-- > 
+ |twin1_country= 
+ |twin2= 
+ |twin2_country= < !--etc., up to twin9 / twin9_country-- > 
+ < !--blank fields (section 1)-- > 
+ |blank_name_sec1= 
+ |blank_info_sec1= 
+ |blank1_name_sec1= 
+ |blank1_info_sec1= 
+ |blank2_name_sec1= 
+ |blank2_info_sec1= < !--etc., blank6_name_sec1 / blank6_info_sec1-- > 
+ < !--blank fields (section 2)-- > 
+ |blank_name_sec2= 
+ |blank_info_sec2= 
+ |blank1_name_sec2= 
+ |blank1_info_sec2= 
+ |blank2_name_sec2= 
+ |blank2_info_sec2= < !--etc., blank6_name_sec2 / blank6_info_sec2-- > 
+ |website= 
+ |footnotes= 
+ }} 
+ '''Jhelum''' {{IPAc-en|ˈ|dʒ|eɪ|l|ə|m|}} ([[Urdu]] and {{Lang-pa|جہلم}}) is a city on the right bank of the [[Jhelum River]], in the district of [[Jhelum District|the same name]] in the north of [[Punjab (Pakistan)|Punjab]] province, Pakistan. Jhelum is known for providing a large number of soldiers to the [[British people|British]] < ref > [http://www.globalsecurity.org/military/world/pakistan/army.htm Globalsecurity - Dominated Recruitment] < /ref >  and later to the [[Pakistan Army|Pakistan armed forces]] due to which it is also known as '''city of soldiers''' or '''land of martyrs'''. 
+ 
+ ==North Panjab, Greater Pothwar or Panjistan region== 
+ This area is sometimes called North Panjab, Upper Panjab, Greater Pothohar/Extended Pothwar (or occasionally Hazara region), and nowadays more specifically and correctly known as '''Panjistan Country''' and when it is combined with Mirpuri, Poonchi (in Kashmir) and (Southern) Hindko localities (mostly Hazara) is also known as ''Panjistani belt''. 
+ 
+ ===Modern Panjistani=== 
+ The '''Panjistani''' language (as originally formulated by Mohammad Afzal UK (1987) and some others) was formerly called '''North Panjabi''', '''Mirpuri''', ''Poonchi'', '''Pothwari''', ''Chakwali'', '''Hindko''', '''Pahari''', ''Upper Panjabi'', '''Northern Lahnda''', etc. In Jhelum it is spoken with the local accent or dialect known as Jhelumi. 
+ 
+ === Demand for Panjistan province recently === 
+ These political parties namely the ''Panjistan Freedom Party'' (PFP) Panjistan National Party (PNP) Panjistan Communist Party (PCP) ''Panjistan Republican Party'' (PRP) ''Panjistan Democratic Front'' (PDF) Panjistan Popular Front (PPF) Panjistan Socialist Party (PSP) Panjistan Unionist party (PUP) Panjistan National Unity Party (PNUP) ''Panjistan Democratic party'' (PDP) Panjistan workers party (PWP) Panjistan Social Democratic Party (PSDP) and these major socio-cultural groupings called '''Panjistani language movement''' (PLM) '''Panjistani language board''' (PLB) '''Panjistani Literary Forum''' (PLF) '''Panjistani language Society''' (PLS) and '''Just for Panjistani Commission''' (JPC) want the creation of North Panjab or Panjistan province and recently formed the '''Charter of Panjistani council''' (or CPC). 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{authority control}} 
+ 
+ [[Category:Cities in Punjab (Pakistan)]] 
+ [[Category:Jhelum District]] 
+ 
+ 
+ {{Asia-stub}}

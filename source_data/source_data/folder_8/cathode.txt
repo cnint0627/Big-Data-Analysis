@@ -1,0 +1,19 @@
+A '''cathode''' is a type of [[electrode]] through which [[electron]]s move. Electrodes are an [[electrical conductor]] (usually a metal) that is connected to something that is not a metal. [[Electric current]] is a flow of charges through a conductor. There are two theories; one theory is  conventional current flow and the other is actual current flow. < ref > {{Cite web|url=https://www.electricalclassroom.com/direction-of-electric-current-flow/|title=The direction of electric current|quote=When Benjamin Franklin was studying charges, the structure of an atom and atomic particles were unknown. Hence he assumed the point of charge accumulation as positive and the point which is deficient of charges as negative. Therefore, the charge is said to flow from positive to negative. This is called conventional current.}} < /ref >  The anode delivers conventional (or customary) current (which travels in the opposite direction as electrons) and the cathode receives that current. This means that electrons come out of the anode and electrons go into the cathode.  < ref > {{cite web|title=Anodes and Cathodes|url=http://www.av8n.com/physics/anode-cathode.htm|publisher=AV8n|access-date=13 October 2013}} < /ref >   
+ 
+ This lets an electric current go into an electrical device such as a [[battery]] or other [[electrical cell]]. It can also end in a vacuum, like in a [[cathode ray tube]]. In this case, the electrons may go into open space. 
+ 
+ In other words, a cathode is a positive electrode on a battery and a negative electrode on an [[electrolytic cell]]. Electric current is perceived as flowing in the opposite direction that the electrons are flowing. So electrons go into the + (positive) terminal of a battery, but electric current goes out. Electrons go into the + (positive) terminal of an electrolytic cell, but electric current goes out. < ref > {{cite web|title=Anodes and Cathodes|url=http://chemistry.about.com/od/electrochemistry/a/How-To-Define-Anode-And-Cathode.htm|publisher=about.com|access-date=13 October 2013|archive-date=5 November 2013|archive-url=https://web.archive.org/web/20131105151610/http://chemistry.about.com/od/electrochemistry/a/How-To-Define-Anode-And-Cathode.htm|url-status=dead}} < /ref > 
+ 
+ An electrode through which electrons flows out of the device is termed a '''cathode''' because it is negatively charged. A cathode is a negative electrode on a battery and a negative electrode on an electrolytic cell. < ref > {{Cite web|url=https://www.electricalclassroom.com/direction-of-electric-current-flow/|title=In which direction does electric current flow?|quote=Electrons are negatively charged particles and are attracted towards the positive charge.}} < /ref > 
+ 
+ ==Related pages== 
+ *[[Photocathode]] 
+ *[[Cold cathode]] 
+ 
+ ==References== 
+ *[http://www.av8n.com/physics/anode-cathode.htm How to Define Anode and Cathode] 
+ {{reflist}} 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Electronic components]]

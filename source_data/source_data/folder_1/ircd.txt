@@ -1,0 +1,25 @@
+An '''IRCd''', meaning '''[[Internet Relay Chat]] [[Daemon (computer software)|server program]]''', is a program, [[server (computing)|server software]] that uses the IRC [[protocol (computing)|protocol]].  This allows people to talk to each other on the [[Internet]].  They exchange [[text-based (computing)|textual]] messages in [[real time]]. < ref > {{Cite web |url=http://www.irchelp.org/irchelp/ircd/server-request.html |title=IRC Server Request FAQ |access-date=2009-05-10 |archive-date=2009-04-22 |archive-url=https://web.archive.org/web/20090422113612/http://www.irchelp.org/irchelp/ircd/server-request.html |url-status=dead }} < /ref > 
+ 
+ The server accepts connections from [[IRC client]]s on a group of [[TCP and UDP port|TCP ports]]. When the server is part of an IRC [[network]], it also keeps one or more connections with other servers/[[daemon (computer software)|daemons]]. < ref > [http://www.irc.org/tech_docs/ircnet/faq.html#ircd IRCD FAQ on irc.org] < /ref > 
+ 
+ The word ''ircd'' once referred to only one piece of software. 
+ 
+ ==Related pages== 
+ * [[Comparison of Internet Relay Chat daemons]] 
+ 
+ ==References== 
+ < references/ > 
+ 
+ ==Other websites== 
+ * [http://www.irc.org irc.org - IRC resources] 
+ * [http://www.irc.org/tech_docs/TS-Delay.html Technical comparison of TS and nickname delay mechanisms] 
+ * [http://www.darkfire.net/irc/docs/opermanual.shtml DarkFire IRC Manual (network specific)] {{Webarchive|url=https://web.archive.org/web/20080404160036/http://www.darkfire.net/irc/docs/opermanual.shtml |date=2008-04-04 }} 
+ * [http://www.ircdnetworks.com IRCd network provider] {{Webarchive|url=https://web.archive.org/web/20160304174107/http://ircdnetworks.com/ |date=2016-03-04 }} 
+ *[http://www.user-com.undernet.org/documents/k-gline.txt Undernet K-Line and G-Line FAQ] {{Webarchive|url=https://web.archive.org/web/20080401093403/http://www.user-com.undernet.org/documents/k-gline.txt |date=2008-04-01 }} with reasons for them, amongst other things 
+ *[http://www.efnet.info/faq.html EFnet FAQ] {{Webarchive|url=https://web.archive.org/web/20080827185523/http://www.efnet.info/faq.html |date=2008-08-27 }} with several -line terms explained 
+ *[http://www.quakenet.org/faq/faq.php?f=11#11 Quakenet General FAQ] G/K-Line 
+ *[http://www.inspircd.org/wiki/Commands#.2FKLINE_.5Buser.40host.5D_.7B.5Bduration.5D_:.5Breason.5D.7D GLine, KLine, QLine and ELine syntax] {{Webarchive|url=https://web.archive.org/web/20080323045540/http://www.inspircd.org/wiki/Commands#.2FKLINE_.5Buser.40host.5D_.7B.5Bduration.5D_:.5Breason.5D.7D |date=2008-03-23 }} 
+ 
+ {{IRC footer}} 
+ 
+ [[Category:Internet Relay Chat daemons|*]]

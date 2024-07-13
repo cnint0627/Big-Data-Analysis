@@ -1,0 +1,22 @@
+[[File:ORCID logo with tagline.svg|thumb|The ORCID logo]] 
+ {{Listen| filename = ORCID pronunciation - 2019-11-17 - Andy Mabbett.ogg |title = Pronunciation |type = speech |description = recorded by a native speaker of British English }}  
+ 
+ An '''ORCID''' is a code to identify someone who writes [[academic]] articles. ORCID stands for '''Open Researcher and Contributor ID'''. < ref name= " Nature09 "  / >  Each person can have their own ORCID. < ref name= " Nature09 " > Editorial (2009).  " Credit where credit is due " . ''Nature''. 462: 825. {{doi|10.1038/462825a}} < /ref > < ref name= " Nature12 " > News (30 May 2012)  " Scientists: your number is up: ORCID scheme will give researchers unique identifiers to improve tracking of publications. " , Declan Butler,  " Nature " . 485: 564 {{doi|10.1038/485564a}} < /ref >  ORCIDs make it easy to know which articles someone has written, even if they change their name. < ref name= " Nature09 "  / >  They also helps tell who has [[written]] which articles, if there is more than one [[writer]] with the same name. < ref name= " Nature09 "  / >  ORCID was started on 16 October 2012. < ref > {{cite web|title=ORCID vs ISNI; ORCID lanceert vandaag hun Author Register - Artikel - SURFspace|url=https://www.surfspace.nl/artikel/936-orcid-vs-isni-orcid-lanceert-vandaag-hun-author-register/|accessdate=24 October 2012}} < /ref > 
+ 
+ [[File:2014-05-13 Nick Jennings ORCID Wikidata screenshot.png|thumb|Nick Jennings' ORCID in his [[Wikidata]] entry]] 
+ 
+ ORCIDs usually have four groups of four numbers. An example of a person with an ORCID is [[John Wilbanks]]. His ORCID is  < nowiki > https://orcid.org/0000-0002-4510-0385 < /nowiki > . < ref > {{Cite web |url=http://support.orcid.org/knowledgebase/articles/116780-structure-of-the-orcid-identifier |title=Structure of the ORCID Identifier |publisher=ORCID |access-date=2014-05-30 |archive-date=2018-01-22 |archive-url=https://web.archive.org/web/20180122190739/https://support.orcid.org/knowledgebase/articles/116780-structure-of-the-orcid-identifier |url-status=dead }} < /ref >  That is also the web address of the page about him, on the ORCID website. His ORCID can also be written as  " ORCID: 0000-0002-4510-0385 " . < ref name= " Asakura " > {{cite web|url=http://www.hindawi.com/80647648/|title=Hiroshi Asakura|publisher=[[Hindawi Publishing Corporation]]|accessdate=20 April 2014|archive-date=1 November 2014|archive-url=https://web.archive.org/web/20141101214652/http://www.hindawi.com/80647648/|url-status=dead}} < /ref >  Sometimes an ORCID has an  " X "  instead of a number at the end. An example of this is [[Nick Jennings (computer scientist)|Nick Jennings]]'s ORCID. His is  < nowiki > https://orcid.org/0000-0003-0166-248X < /nowiki > . The final number (or  " X " ) is a [[check digit]]. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ 
+ {{Wikidata property |1=P496 |2=ORCID }} 
+ 
+ * [https://orcid.org ORCID website] 
+ 
+ [[Category:Academia]] 
+ [[Category:Identifiers]] 
+ 
+ {{tech-stub}}

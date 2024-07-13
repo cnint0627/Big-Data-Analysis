@@ -1,0 +1,34 @@
+[[File:Octagon_2.svg|thumb|An octagon]] 
+ An '''octagon''' or '''8-gon''' is a [[Polygon|shape]] with 8 sides and 8 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular octagon == 
+ All sides of a '''regular octagon''' are the same length. Each corner is 135°. All corners added together equal 1080°. 
+ 
+ === Area === 
+ The amount of space a regular octagon takes up is 
+ 
+ : < math > \text{Area} = 2(1+\sqrt{2})a^2. < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ Another way to write it is 
+ 
+ : < math > \text{Area} = 2 a^2 (\sqrt{2} + 1). < /math > 
+ 
+ == Gallery == 
+ < gallery > 
+ Image:Star_polygon_8-3.svg|This shape is called an ''octagram''. It has one regular octagon in the middle. 
+ Image:Octagonal prism.png|The octagonal prism has 2 octagons in it: one on the top, and the other on the bottom. 
+ Image:Irregular_octagon.svg|A non-regular octagon 
+ Image:8-folding.svg|Making an octagon by folding paper 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Polygon|Different types of polygons]] 
+ * [[Hexagon]] 
+ * [[Pentagon]] 
+ * [[square (geometry)|Square]] or [[quadrilateral]] 
+ * [[Triangle]] 
+ 
+ {{Polygons}} 
+ [[Category:Polygons|8]]

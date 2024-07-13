@@ -1,0 +1,11 @@
+'''Forth''' (sometimes written '''FORTH''') is a stack-based [[programming language]] best known for its use of [[Reverse Polish notation]] which greatly simplified the compiler as it required no [[Order of operations|precedence]] analysis component. 
+ 
+ It was developed by [[Charles H. Moore]] in [[1969]].  Forth uses a two component system, an [[operating system]] to run the programs, and an editor to write them. Like most other high-level languages, FORTH can produce highly-efficient code. 
+ 
+ ==Other websites== 
+ *[http://www.forth.org/ Forth Interest Group] 
+ 
+ 
+ {{tech-stub}} 
+ {{authority control}} 
+ [[Category:Programming languages]]

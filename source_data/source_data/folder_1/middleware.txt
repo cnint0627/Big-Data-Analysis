@@ -1,0 +1,19 @@
+{{Article issues| 
+ {{cleanup|reason=|date=November 2023}} 
+ {{wikify|date=November 2023}} 
+ {{no sources|date=April 2023}} 
+ }} 
+ '''Middleware''' is a computing component that sits between other components and can usually be described as 'software glue', mediating between pieces of software. < ref > {{Cite web|last=Bakken|first=David|date=January 4, 2003|title=Workshops & Meetings|url=https://webhost.laas.fr/TSF/IFIPWG/Workshops & Meetings/43/01-Bakken.pdf|access-date=November 6, 2023}} < /ref >   
+ 
+ There is a lot of ambiguity around the specifics of what middleware is. The term is used differently in different sub fields of computing and even ambiguously within some of those sub fields. It's one of those terms which should probably be agreed upon by actors involved, before it is used in any consequential situation.  
+ 
+ == An example usage of the term: Messaging Middleware == 
+ One of the latter uses of the term might be qualified as Messaging Middleware - message brokers and queues - and can be part of: 
+ 
+ * distributed data processing such as found in cloud data pipeline services or Apache Spark clusters, or;  
+ * to allow for the communication between services within a microservices architecture, event-driven architecture or Service-Oriented Architecture (SOA). 
+ 
+ == References == 
+ {{Reflist}}{{tech-stub}} 
+ 
+ [[Category:Software]]

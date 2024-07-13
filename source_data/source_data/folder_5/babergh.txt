@@ -1,0 +1,67 @@
+{{Infobox settlement 
+ < !-- See {{Infobox settlement}} for the full list of available fields -- > 
+ < !-- Elements common to United Kingdom -- > 
+ |timezone                = [[Greenwich Mean Time|GMT]] 
+ |utc_offset              = 0 
+ |timezone_DST            = [[British Summer Time|BST]] 
+ |utc_offset_DST          = +1 
+ < !-- Elements common to administrative division of this type (English two-tier district) -- > 
+ |settlement_type         = [[Non-metropolitan district]] 
+ |subdivision_type        = [[List of sovereign states|Sovereign state]] 
+ |subdivision_type1       = [[Countries of the United Kingdom|Constituent country]] 
+ |subdivision_type2       = [[Regions of England|Region]] 
+ |subdivision_type3       = [[Non-metropolitan county]] 
+ |subdivision_type4       = Status 
+ |subdivision_type5       = Admin HQ 
+ |subdivision_name        = [[United Kingdom]] 
+ |subdivision_name1       = [[England]] 
+ |subdivision_name4       = [[Non-metropolitan district]] 
+ |government_type         = Non-metropolitan district council 
+ |leader_title            = Leadership 
+ |leader_title1           = [[List of MPs elected in the United Kingdom general election, 2015|MPs]] 
+ |established_title1      = Incorporated 
+ |population_density_km2  = auto 
+ |population_blank1_title = Ethnicity 
+ |blank1_name             = [[ONS coding system|ONS code]] 
+ |blank2_name             = [[Ordnance Survey National Grid|OS grid reference]] 
+ < !-- Elements unique to this article -- > 
+ |official_name           = Babergh District 
+ |image_skyline           =  
+ |imagesize               =  
+ |image_alt               =  
+ |image_caption           =  
+ |image_shield            = 
+ |shield_size             =  
+ |shield_alt              =  
+ |shield_link             =  
+ |image_map               = Babergh UK locator map.svg 
+ |map_alt                 =  
+ |map_caption             = Babergh shown within Suffolk 
+ |subdivision_name2       = [[East of England]] 
+ |subdivision_name3       = [[Suffolk]] 
+ |subdivision_name5       = [[Ipswich]] 
+ |established_date1       = 1 April 1974 
+ |governing_body          = Babergh District Council 
+ |leader_party            = {{English district control|GSS=E07000200}} 
+ |leader_name             = [[Local Government Act 2000|Alternative - Sec.31]] 
+ |leader_name1            = [[James Cartlidge]] 
+ |area_total_km2          = 595.2 
+ |area_rank               = {{English district area rank|GSS=E07000200}} [[List of English districts by area|(of {{English district total}})]] 
+ |population_total        = {{English district population|GSS=E07000200}} 
+ |population_as_of        = {{English statistics year}} 
+ |population_rank         = {{English district rank|GSS=E07000200}} [[List of English districts by population|(of {{English district total}})]] 
+ |population_blank1       = 98.7% White 
+ |blank1_info             = 42UB (ONS) < br / > E07000200 (GSS) 
+ |blank2_info             = {{gbmappingsmall|TM021429}}  
+ |website                 = {{URL|http://www.babergh.gov.uk/}} 
+ }} 
+ '''Babergh''' is a district in [[Suffolk]], [[England]]. 
+ 
+ ==Other websites== 
+ * https://www.midsuffolk.gov.uk/ 
+ 
+ [[Category:Babergh| ]] 
+ 
+ 
+ {{uk-stub}} 
+ {{Suffolk}}

@@ -1,0 +1,33 @@
+[[File:Bosons-Hadrons-Fermions-RGB-png2.png|thumb|461x461px|How hadrons fit with the two other classes of [[Subatomic particle|sub atomic particles]], [[Boson|bosons]] and [[Fermion|fermions]].]] 
+ A '''hadron''', in particle physics, is any subatomic (smaller than the [[atom]]) particle or [[antiparticle]] which is made of [[quarks]].  
+ 
+ Quarks are fundamental particles which among other properties have an [[electrical charge]] and a name (e.g. 'up', 'down', 'strange'). The electrical charge of a single quark is always a fraction (e.g. 2/3). < ref name= " :0 " > {{cite web|url=http://hyperphysics.phy-astr.gsu.edu/hbase/Particles/quark.html|title=Quarks|website=hyperphysics.phy-astr.gsu.edu}} < /ref >  Quarks combine to make a hadron of [[integer]] charge, for example, the charges of two 'down' quarks and one 'up' quark combine like this -1/3 -1/3 +2/3 = 0 to make a ''neutrally'' charged ''neutron''. Quarks do not appear alone, < ref > {{cite web|url=http://www.particleadventure.org/hadrons.html|title=The Particle Adventure - What is the world made of? - Hadrons, Baryons, and Mesons|website=www.particleadventure.org}} < /ref >  they exist in groups and are held together by the [[strong force|strong nuclear force]]. The word to describe the different types of quarks is ''flavours.'' According to the current [[Standard Model|standard model]] there are 6 flavours of quarks. < ref name= " :0 "  / >  There are two known ways quarks can combine, to give the two categories of hadrons: 
+ * [[baryon]]s, which are made of three quarks. 
+ * [[meson]]s, which are made of one quark and one anti-quark. 
+ Hadrons are also characterized by being affected by the [[Strong interaction|strong nuclear force]], which holds them tightly together over a short distance. At the center of an atom is a [[Nucleus (physics)|nucleus]] (a cluster of protons and neutrons).  
+ 
+ == List of hadrons == 
+ === Known to exist === 
+ ==== Baryons ==== 
+ * [[Proton]], with quark structure ''uud ('up up down', referring to the three quarks making up the proton.)'' 
+ * [[Neutron]], with quark structure ''udd ('up down down')'' 
+ 
+ ==== Mesons ==== 
+ * [[Pion]] 
+ * [[Kaon]] 
+ These are the most commonly discussed hadrons. There are many more: [[:en:List_of_baryons|complete list of baryons]], [[:en:List_of_mesons|complete list of mesons]]. 
+ 
+ === Not yet known to exist === 
+ * Tetraquark 
+ * Pentaquark 
+ These are predictions for different ways quarks may be put together. There is not any solid evidence for them existing yet. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Elementary}} 
+ 
+ 
+ {{physics-stub}} 
+ 
+ [[Category:Subatomic particles]]

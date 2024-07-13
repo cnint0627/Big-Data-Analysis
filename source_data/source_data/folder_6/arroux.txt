@@ -1,0 +1,135 @@
+{{Infobox river 
+   | name              = Arroux  
+   | image             = Porte-Arroux-Autun.jpg  
+   | image_caption     = The Arroux in Autun 
+   | map               = Arroux.png 
+   | source1_location  = [[Burgundy (French region)|Burgundy]]  
+   | mouth_location    = [[Loire]]  
+   | mouth_coordinates = {{coord|46|29|24|N|3|57|33|E|format=dms|display=inline,title}} 
+   | progression       = {{RLoire}} 
+   | subdivision_type1 = Country 
+   | subdivision_name1 = [[France]]  
+   | length            = {{convert|128.1|km|abbr=on}}  
+   | source1_elevation =  
+   | discharge1_avg    = {{convert|32|m3/s|abbr=on}}  
+   | basin_size        = {{convert|3,174|km2|abbr=on}} 
+ }} 
+ The '''Arroux''' is a [[river]] in central [[France]]. It is a right [[tributary]] of the [[Loire River|Loire]] river. 
+ 
+ ==Geography== 
+ The Arroux river has a length of {{Convert|129.4|km|mi|1|abbr=on}}, < ref name= " sandre " > {{cite web |url=http://sandre.eaufrance.fr/app/chainage/courdo/htm/K1--018-.php?cg=K1--018 |title=L'Arroux (K1--0180)) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=11 December 2017 }} < /ref >  and a [[drainage basin]] with an area of {{Convert|3166|km2|sqmi|0|abbr=on }}. 
+ 
+ ===Course=== 
+ The Arroux river starts in [[Culètre]] [[Communes in France|''commune'']] in the south of the [[Côte-d'Or]]) department, at an [[altitude]] of about {{Convert|430|m|ft|0|abbr=on }}. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=4.556111,47.148333 & z=12 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Source de l'Arroux |publisher=Géoportail |language=fr |access-date=11 December 2017 }} < /ref >  From here, the Arroux flows first to the west and then to the southwest. 
+ 
+ The Arroux river flows through 2 regions and 3 departments. It flows through the following ''communes'', among others: < ref name=sandre / > 
+ * [[Bourgogne-Franche-Comté]] region 
+ ** [[Côte-d'Or]]: [[Arnay-le-Duc]] 
+ ** [[Saône-et-Loire]]: [[Autun]], [[Étang-sur-Arroux]], [[Toulon-sur-Arroux]], [[Gueugnon]], [[Digoin]] 
+ * [[Auvergne-Rhône-Alpes]] region 
+ ** [[Allier]]: (only a short distance) 
+ 
+ Finally, it flows into the [[Loire River|Loire]] river near the town of [[Digoin]]. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=3.959167,46.49 & z=12 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Confluence de l'Arroux |publisher=Géoportail |language=fr |access-date=11 December 2017 }} < /ref > 
+ 
+ ==Main tributaries== 
+ The main [[Tributary|tributaries]] of the Arroux river are: < ref name= " sandre "  / > 
+ {{col-begin|width=60%}} 
+ {{col-break|width=33%}} 
+ '''Left tributaries''': 
+ * Drée - 39.4 km 
+ * Mesvrin - 36.4 km 
+ * Bourbince - 82.4 km 
+ {{col-break}} 
+ {{col-break|width=66%}} 
+ '''Right tributaries''': 
+ * Ternin - 48 km 
+ * Méchet - 23.9 km 
+ {{col-end}} 
+ 
+ == Hydrology == 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|34.20|m3/s|cuft/s|abbr=on }} at [[Digoin]] in the [[Saône-et-Loire]] department. < ref name= " hydro " > {{cite web |url=http://www.hydro.eaufrance.fr/stations/K1391810 & procedure=synthese |title=L'Arroux à Digoin |publisher=Banque Hydro |language=fr |access-date=11 December 2017 }}{{Dead link|date=February 2022 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ < center > 
+ ''' < small > Average monthly discharge (m < sup > 3 < /sup > /s) at Digoin (1958 - 2017) < /small > ''' < ref name= " hydro "  / > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:80 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5 start:0 
+ BackgroundColors = canvas:sfondo  
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 67.40 
+  bar:Feb from:0 till: 71.20 
+  bar:Mar from:0 till: 49.80 
+  bar:Apr from:0 till: 39.80 
+  bar:May from:0 till: 31.70 
+  bar:Jun from:0 till: 17.20 
+  bar:Jul from:0 till: 8.540 
+  bar:Aug from:0 till: 7.160 
+  bar:Sep from:0 till: 8.620 
+  bar:Oct from:0 till: 17.10 
+  bar:Nov from:0 till: 35.60 
+  bar:Dec from:0 till: 58.40 
+ 
+ PlotData= 
+  bar:Jan at: 67.40 fontsize:S text: 67.40 shift:(-9,8) 
+  bar:Feb at: 71.20 fontsize:S text: 71.20 shift:(-12,5) 
+  bar:Mar at: 49.80 fontsize:S text: 49.80 shift:(-12,5) 
+  bar:Apr at: 39.80 fontsize:S text: 39.80 shift:(-12,5) 
+  bar:May at: 31.70 fontsize:S text: 31.70 shift:(-12,5) 
+  bar:Jun at: 17.20 fontsize:S text: 17.20 shift:(-12,5) 
+  bar:Jul at: 8.540 fontsize:S text: 8.540 shift:(-12,5) 
+  bar:Aug at: 7.160 fontsize:S text: 7.160 shift:(-12,5) 
+  bar:Sep at: 8.620 fontsize:S text: 8.620 shift:(-12,5) 
+  bar:Oct at: 17.10 fontsize:S text: 17.10 shift:(-12,5) 
+  bar:Nov at: 35.60 fontsize:S text: 35.60 shift:(-12,5) 
+  bar:Dec at: 58.40 fontsize:S text: 58.40 shift:(-12,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Gallery== 
+ 
+ < gallery mode= " packed " > 
+ File:Arroux.jpg|The Arroux. 
+ File:Vendenesse-sur-Arroux, l'Arroux et l'église.JPG|The Arroux in [[Vendenesse-sur-Arroux]]. 
+ File:Vendenesse-sur-Arroux, pont sur l'Arroux.JPG|[[Vendenesse-sur-Arroux]], bridger over the Arroux. 
+ File:L'Arroux à Gueugnon.JPG|The Arroux in [[Gueugnon]]. 
+ File:Loire-muendung-arroux.JPG|[[Confluence]] of the Arroux in the Loire. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ ==References== 
+ {{Commonscat|Arroux}} 
+ {{Reflist}} 
+ 
+ [[Category:Rivers of Bourgogne-Franche-Comté]] 
+ [[Category:Rivers of Auvergne-Rhône-Alpes]]

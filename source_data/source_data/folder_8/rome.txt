@@ -1,0 +1,150 @@
+{{use dmy dates}} 
+ {{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > | name                            = Rome 
+ | official_name                   = ''Roma Capitale'' 
+ | native_name                     = ''Roma'' 
+ | settlement_type                 = [[Capital city]] and ''[[comune]]'' 
+ | image_skyline                   = Rome Montage 2017.png 
+ | image_caption                   = Clockwise from top: the [[Colosseum]], [[St. Peter's Basilica]], [[Castel Sant'Angelo]], [[Ponte Sant'Angelo]], [[Trevi Fountain]] and the [[Pantheon, Rome|Pantheon]] 
+ | image_flag                      = [[File:Flag of Rome.svg|100px]] 
+ | image_shield                    = [[File:Insigne Romanum coronatum.svg|70px]] 
+ | nickname                        = {{native name|la|Urbs Aeterna|italics=off}} < br / > {{small|The Eternal City}}  
+ {{native name|la|Caput Mundi|italics=off}} < br / > {{small|The Capital of the world}} 
+  Throne of St. Peter 
+ | etymology                       = Possibly {{lang-ett|Rumon||river}} 
+ | established_title               = Founded 
+ | established_date                = {{circa|753 BC}} 
+ | founder                         = King [[Romulus]] 
+ < !-- maps and coordinates ------ > | image_map                       = Map of comune of Rome (metropolitan city of Capital Rome, region Lazio, Italy).svg 
+ | map_caption                     = The territory of the ''comune'' (''Roma Capitale'', in red) inside the Metropolitan City of Rome (''Città Metropolitana di Roma'', in yellow). The white area in the centre is Vatican City. 
+ | pushpin_map                     = Italy#Europe 
+ | pushpin_map_caption             = Location within Italy##Location within Europe 
+ | pushpin_relief                  = yes 
+ | coordinates                     = {{coord|41|53|N|12|30|E|region:IT-62_type:city(3000000)|display=inline,title}} 
+ | coor_pinpoint                   =  < !-- to specify exact location of coordinates (was coor_type) -- > 
+ < !-- re- location ------------------ > | subdivision_type                = Country 
+ | subdivision_name                = {{nowrap|[[Italy]]{{efn|Excluding [[Vatican City]]}}}} 
+ | subdivision_type2               = [[Regions of Italy|Region]] 
+ | subdivision_name2               = [[Lazio]] 
+ < !-- government type, leaders -- > | government_footnotes            =  
+ | government_type                 = Special ''[[Comune]]'' ( " Roma Capitale " ) 
+ | governing_body                  = [[City Council of Rome|Capitoline Assembly]] 
+ | leader_title                    = [[Mayor of Rome|Mayor]] 
+ | leader_name                     = [[Roberto Gualtieri]] ([[Democratic Party (Italy)|PD]]) 
+ | total_type                      = Total 
+ | unit_pref                       = IT 
+ < !-- area ---------------------- > | area_footnotes                  =  
+ | area_total_sq_mi                = 496.3 
+ | elevation_footnote              =  
+ | elevation_m                     = 21 
+ | elevation_ft                    =  < !-- population ---------------- > 
+ | population_total                =  
+ | population_as_of                = 30 April 2018 
+ | population_footnotes            =  
+ | population_density_km2          = 2236 
+ | population_rank                 = [[List of cities in Italy|1st, Italy]] ([[List of largest cities in the European Union by population within city limits|3rd in EU]]) 
+ | population_blank1_title         = ''Comune'' 
+ | population_blank1               = 2,879,728  < ref name= " Istat " > {{cite web |title=Statistiche demografiche ISTAT |url=http://demo.istat.it/bilmens2017gen/index.html |accessdate=14 February 2018 |url-status=dead |archiveurl=https://web.archive.org/web/20180716065929/http://demo.istat.it/bilmens2017gen/index.html |archivedate=16 July 2018 |df=dmy-all }} < /ref > 
+ | population_blank2_title         = [[Metropolitan cities of Italy|Metropolitan City]] 
+ | population_blank2               = 4,355,725 < ref name= " PR " > {{Cite web|url=http://demo.istat.it/pop2014/popol.php?m1= & m2= & m3= & m4= & m5=y & f1= & f2= & f3= & f4= & f5=y & daanno=0 & adanno=100 & lingua=eng & Rip=S3 & Reg=R12 & Pro=P058 & Com=000 & submit=Save|title=Bilancio demografico Anno 2014 (dati provvisori). Provincia: Roma|website=Demo.istat.it|archive-url=https://web.archive.org/web/20150205172000/http://demo.istat.it/pop2014/popol.php?m1= & m2= & m3= & m4= & m5=y & f1= & f2= & f3= & f4= & f5=y & daanno=0 & adanno=100 & lingua=eng & Rip=S3 & Reg=R12 & Pro=P058 & Com=000 & submit=Save|archive-date=2015-02-05|url-status=dead|access-date=2019-07-13}} < /ref > 
+ | population_demonym              = {{lang-it|romano (masculine), romana (feminine)}} < br / > {{lang-en|Roman}} 
+ < !-- time zone(s) -------------- > | timezone1                       = [[Central European Time|CET]] 
+ | utc_offset1                     = +1 
+ < !-- postal codes, area code --- > | postal_code_type                = [[Postal code|CAP code(s)]] 
+ | postal_code                     = 00100; 00118 to 00199 
+ | area_code                       = 06 
+ | website                         = {{Cite web|url=https://www.comune.roma.it/web/it/home.page|title=Roma Capitale - Sito Istituzionale|website=Comune di Roma|access-date=2019-08-22}} 
+ | pushpin_label                   = Rome 
+ | un_locode                       =  < !-- website, footnotes -------- > 
+ | footnotes                       = {{Infobox UNESCO World Heritage Site 
+ | child         = yes 
+ | official_name = ''Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura'' 
+ | criteria      = {{UNESCO WHS type|i, ii, iii, iv, vi}} 
+ | ID            = 91 
+ | year          = 1980 
+ | area          = {{convert|1431|ha|acre|abbr=on}} 
+ | buffer_zone   =  
+ }} 
+ }} 
+ [[File:Via del Corso.jpg|thumb|Via del Corso, the main street of the city]] 
+ '''Rome''' ([[Latin]]: ''Roma'') is the [[capital city]] of [[Italy]]. It is also the capital and largest city in the ''[[Regions of Italy|region]]'' of [[Lazio]], and the geographical region of [[Latium]]. It is on the [[Tiber]] [[River]] and has 2.8 million people. An estimate by the [[OECD]] put the number of people of the city area of Rome at 3.47 million. < ref > {{cite web|url=http://213.253.134.43/oecd/pdfs/browseit/0406041E.PDF|title=Competitive Cities in the Global Economy|author=[[OECD]]|accessdate=2009-04-30|archive-date=2007-06-14|archive-url=https://web.archive.org/web/20070614043229/http://213.253.134.43/oecd/pdfs/browseit/0406041E.PDF|url-status=dead}} < /ref >  When the [[Roman Empire]] was new, Rome was called the ''Eternal City'' because it was already very old. 
+ 
+ Rome is well known for being the home of the [[Catholic Church]], including its leader, the [[Pope]]. He lives in the [[Vatican City]], which is an [[enclave]] in the north-west part of Rome. 
+ 
+ == History == 
+ Nothing is known for sure about the founding of [[ancient Rome]]; it is [[prehistoric]]. The [[myth]] of [[Romulus]] and [[Remus]] is often told. They were supposedly raised by a she-[[wolf]]. Romulus killed Remus, and became the first king of Rome, for some time Romulus ruled alongside a Sabine King a neighboring tribe. There is no historical [[evidence]] of this, but the story is popular. [[Numa Pompilius]] was the next king. 
+ 
+ With the overthrow of the [[Roman Kingdom]] began the Republican era. The new [[Roman Republic]] fought and conquered the people around it. In [[390 BC]], the town was invaded by [[Gauls]]. Between the third and second century BC, Rome fought against the rival [[Carthage]]. The Roman army captured and destroyed Carthage. 
+ 
+ Only with [[Julius Caesar]] in the first century BC, did the city began to grow significantly, especially toward the Campo Marzio, at the north of [[Capitoline Hill]], and its domain was extended to [[Britannia]]. Caesar was never crowned emperor, a title which, however, fell to his adopted son Octavian who took the throne under the name of Augustus. 
+ 
+ [[Augustus]]  " found a city of bricks and left it [[marble]] " . With him, Rome reached one million inhabitants and this was the first time in history that has happened in the world. Later emperors also added new monuments, temples, and triumphal arches to [[ancient Rome]]. 
+ 
+ With the decline of the [[Roman Empire]], the city declined in importance and fell into ruin. [[Pope Gregory I]] created major reforms for the people. The city was ruled by the [[pope]], and soon also became the capital of a state, the [[Papal States]], which remained active until the [[19th century|nineteenth century]]. Popes, like the emperors, became richer over the centuries and the same happened with the counties ruled by them. 
+ 
+ Rome experienced a second  " rebirth "  in importance during the Italian [[Renaissance]]. The city of monuments and churches was called the  " capital of [[Christendom]] " , as the home of the [[Basilica]] di San Giovanni Laterano, the most important church of the world. The masterpieces of the Renaissance geniuses, like [[Leonardo da Vinci]] and [[Michelangelo]], embellished the city. 
+ 
+ The power of the Pope lessened along with its state. 
+ 
+ But with the Italian [[Risorgimento]] Rome experienced a third  " rebirth " . On September 20 1870, [[Garibaldi]]'s army, which had the task of uniting all of Italy under the [[House of Savoy|crown of Savoy]], entered the city through a breach opened in the walls at Porta Pia and, the same year, Rome became the capital of the new Italian state. In a few decades Rome grew to be one of the most important capitals of [[Europe]] and of the world: in 1936 it was the capital of the ''Italian Empire'', even if for a few years because of the second world war. 
+ 
+ Today, Rome is a major European political and cultural center, containing the [[headquarters]] of the [[Food and Agriculture Organization]] of the [[United Nations]]. There are also numerous [[museum]]s, [[basilica]]s and [[palace]]s, such as the [[Colosseum]], and, in the Vatican City, [[St. Peter's Basilica]], a brilliant example of the architecture of the [[Renaissance]] which can be found all over Rome. 
+ 
+ ==Geography== 
+ Rome stands on seven hills, with an area of {{cvt|1285.31|km2}}. The city is crossed by two rivers: the [[Tiber]], which runs from east to west, and l'[[Aniene]], which runs from north-east to north – within the city, it flows into the Tiber. Rome was built on Sun Hill, later named ''Palatine''. It grew and covered seven principal hills, which are now the inner city of Rome: 
+ * [[Palatine]] 
+ * [[Aventine]] 
+ * [[Capitoline]] 
+ * [[Quirinal]] 
+ * [[Viminal]] 
+ * [[Esquiline]] 
+ * [[Caelian]] 
+ 
+ ===Climate=== 
+ Rome has a [[Mediterranean climate]] ([[Köppen climate classification]]: Csa), with cool, humid winters and warm, dry summers. Its average annual temperature is above 20°C (68°F) during the day and 10°C (50°F) at night. 
+ 
+ ==Education== 
+ The children in Rome have to go to school from the age of six until 16. < ref > {{cite web|url=http://www.camera.it/parlam/leggi/06296l.htm|title=Law 27 December 2007, n.296|publisher=Italian Parliament|language=Italian|accessdate=30 September 2012|archive-date=6 December 2012|archive-url=https://web.archive.org/web/20121206012402/http://www.camera.it/parlam/leggi/06296l.htm|url-status=dead}} < /ref >  This takes them to the middle of [[high school]] (''Scuola secondaria di secondo grado''). Rome has the biggest university in Italy and it is named University of Rome. It was created in [[1303]]. About 200,000 students go to study at this university. 
+ 
+ ==Transport== 
+ Rome has an [[airport]], which is named [[Leonardo da Vinci International Airport]] ([[IATA]]: FCO). There is a fast train that goes between the airport and the city center, the ''Leonardo Express'', and many [[Commuting|commuter]] [[rail transport|railway lines]] to the nearby [[suburb]]s, along with long-distance [[train]]s to other cities in Italy. In the city itself, [[public transport]] consists of three [[Rapid transit|metro]] lines (A, B, and C), six [[tram]] lines, and many [[bus]] routes. 
+ 
+ ==Buildings== 
+ Rome has many old, famous buildings. In recent centuries, the city has become an important [[tourist attraction]]. 
+ * [[The Vatican]] 
+ * [[Cinecittà Studios]] 
+ * [[Roman Forum]] 
+ * [[Colosseum]] 
+ * [[The Temple of Antoninus and Faustina|The Temple of Antonius and Faustina]] (141 {{AD}}) 
+ * [[The Temple of Julius Caesar]] (29 {{BC}}) 
+ * [[The Temple of Vesta]] (7th century {{BC}}) 
+ * [[The Temple of Castor and Pollux]] (484 {{BC}}) 
+ * [[The Arch of Augustus]] (29-19 {{BC}}) 
+ * [[The Forum of Caesar]] (54 {{BC}}) 
+ * [[The Forum of Augustus]] (2 {{BC}}) 
+ * [[The Temple of Venus and Rome]] (135 {{AD}}) 
+ * [[Circus Maximus]] 
+ * [[The Baths of Caracalla]] (212–216 {{AD}}) 
+ * [[Pantheon]] 
+ 
+ ==Related pages== 
+ * [[Ancient Rome]] 
+ 
+ ==Notes== 
+ {{notelist}} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{commonscat}} 
+ {{Wikivoyage}} 
+ * [http://en.citizendium.org/wiki/Rome Rome] -Citizendium 
+ * [http://winarticles.net/rome-wasnt-build-in-a-day/ Ancient Rome first days] {{Webarchive|url=https://web.archive.org/web/20130121035709/http://winarticles.net/rome-wasnt-build-in-a-day/ |date=2013-01-21 }} 
+ < div style= " float:right;clear:both; " > [[File:Rome panorama sb1.jpg|left|1100px|thumb|A [[panoramic]] view of Rome from an [[airplane|aeroplane]]]] < /div > 
+ 
+ {{Metropolitan City of Rome Capital}} 
+ {{European capitals}} 
+ {{authority control}} 
+ [[Category:Rome| ]] 
+ [[Category:Olympic cities]]

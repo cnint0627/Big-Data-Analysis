@@ -1,0 +1,16 @@
+'''OpenVMS''' is an [[operating system]], which [[Digital Equipment Corporation]] (DEC) originally developed for their [[VAX]] [[server]]s. Later, it was ported, and now also runs on [[DEC Alpha]] and  [[Itanium]]-based systems. It is a 32 bit operating system. When it was published in 1977, it was one of the first of its kind. OpenVMS is capable of supporting many users at a time; each user is able to run several programs at the same time. It was also one of the first operating systems with a [[Graphical user interface]], the [[VAXstation]] was a very popular [[workstation]] at the time. OpenVMS uses [[virtual memory]], and was originally developed as a [[Time-sharing (computing)|time sharing]], [[batch process]]ing system. It was made for [[transaction processing]]. The jobs users submit can have a higher priority than those of the operating system. The operating system offers high [[availability]] through [[Computer cluster|clustering]]: The system load can be distributed over multiple computers. That way, the system is  " disaster-tolerant " : One machine that fails will not shut the operation down. 
+ 
+ OpenVMS introduced many features that became standard in later operating systems: 
+ *It supported  [[computer network]]s, first using [[DECNet]], later using [[TCP/IP]] 
+ *[[Symmetrical multiprocessing|Symmetrical]], [[Asymmetrical multiprocessing|asymmetrical]], and [[NUMA multiprocessing]], including clustering 
+ *A [[distributed computing|distributed]] [[file system]] 
+ *An integrated [[database]]: first [[Record Management Services|RMS]], later [[Oracle Rdb|Rdb]] 
+ *Support for different [[programming language]]s, including a standardized mechanism of calls between those programming languages 
+ *An extensible [[Shell (computing)|Shell]] 
+ *A high-level of [[security]] 
+ Today, OpenVMS is used in many projects where availability and uptime are critical: These include [[bank]]s and [[insurance company|insurance companies]].  Systems staying active for over a decade have been reported. < ref > {{cite web|url=http://www.uptimes-project.org/hosts/view/150|title= " The Uptimes-Project.org - Host Information: WVNETcluster " |accessdate=2009-04-10|archive-date=2009-01-24|archive-url=https://web.archive.org/web/20090124124353/http://uptimes-project.org/hosts/view/150|url-status=dead}} < /ref >  A feature called  " rolling upgrade "  allows to upgrade [[software]] or hardware without the need to shut the system down. A data center that is destroyed will not lead to downtime either, if the system is configured properly. Customers using OpenVMS include banks and financial services, hospitals and healthcare, [[network information services]], and large-scale industrial manufacturers of various products. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Operating systems]]

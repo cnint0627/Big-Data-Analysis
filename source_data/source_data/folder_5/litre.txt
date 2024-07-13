@@ -1,0 +1,90 @@
+{{Infobox unit 
+ | name       = Litre 
+ | image      = CubeLitre.svg 
+ | caption    = '''One litre''' is the volume of a cube with 10 cm sides 
+ | standard   = [[International System of Units#Non-SI units accepted for use with SI|Non-SI unit accepted for use with SI]] 
+ | quantity   = [[Volume]] 
+ | symbol     = l < ref name=SIborchure/ >  or L < ref name=SIborchure > {{SIbrochure8th|page=124}} < /ref > 
+ | dimension  = L < sup > 3 < /sup > : < ref name= " NB_Dimension " > The SI standard recommends a sans-serif uppercase letter  " L "  for the dimension symbol of the length. An uppercase  " L "  is also one of the official symbols for the litre itself (the other being a lowercase letter  " l " ). Since unit symbols and dimension symbols are used in different contexts, this does not normally cause confusion. < /ref > ) 
+ | namedafter = 
+ | extralabel = In [[SI base unit]]s: 
+ | extradata  = 1 l = 10 < sup > −3 < /sup >  [[metre|m]] < sup > 3 < /sup > }} 
+ 
+ A '''litre''' ([[International System of Units|international spelling]]) or '''liter''' ([[American and British English spelling differences#-re, -er|American spelling]]) is one of the [[metric system|metric units]] of [[volume]]. It is not a basic [[International System of Units|SI unit]], but it is a supplementary unit. 
+ 
+ One litre is the volume of 1000 cubic [[centimetre]]s, that is a [[cube]] of 10 × 10 × 10 [[centimetre]]s (1000 & nbsp;cm < sup > 3 < /sup > ). One litre of [[water]] at {{cvt|4|C|K F}} has the [[mass]] of exactly one [[kilogram]]. This results from the definition given in 1795, where the [[gram]] was defined as the weight of one cubic centimetre of melting ice. < ref name= " decree " > 
+ {{cite web 
+ | url = http://smdsi.quartier-rural.org/histoire/18germ_3.htm 
+ | title = Decree on weights and measures 
+ | date = 7 April 1795 
+ | quote = ''Gramme'', le poids absolu d'un volume d'eau pure égal au cube de la centième partie du mètre, et à la température de la glace fondante.}} English translation:  " ''Gramme'': the absolute weight of a volume of pure water equal to the cube of the hundredth part of the meter, at the temperature of melting ice. " 
+ < /ref > 
+ 
+ Liters are usually utilized to measure the volume of liquids, this is because the density of liquids can vary a lot. However it can be applied to solids as well, for example 1 liter of [[Iron]] is around 7.7 & nbsp;kg. The [[symbol]] for litre is '''l''' or '''L'''. < ref name= SIborchure/ >  The script letter '''ℓ''' is also sometimes used. 
+ 
+ For smaller volumes, the decilitre is used: 10 dl = one litre. 
+ 
+ For smaller volumes, the centilitre is used: 100 cl = one litre. 
+ 
+ For smaller volumes, the millilitre is used: 1000 ml = one litre. 
+ 
+ The capital letter  " L "  is preferred by some people as the small  " l "  can look like the number one  " 1 " . 
+ * 1 litre = 0.2200 [[Imperial unit|imperial]] [[gallon]]s 
+ * 1 litre = 0.2642 [[U.S. customary units|US]] gallons 
+ * 1 imperial gallon = 4.5461 litres 
+ * 1 US gallon = 3.7854 litres 
+ * 1 litre = 1 dm < sup > 3 < /sup > 
+ 
+ ==History== 
+ The metric system was first introduced in France in 1791. < ref > {{cite book| last1 = Uvarov| first1 = E.B.| last2 = Isaacs| first2 = Alan| title = The Penguin Dictionary of Science| url = https://archive.org/details/penguindictiona000uvar| year = 1986| publisher = Penguin Books| isbn = 978-0-14-051156-7 }} < /ref > < ref name= " DoWMU " > {{cite book| last1 = Fenna| first1 = Donald| title = Oxford Dictionary of Weights, Measures and Units| url = https://books.google.com/books?id=RZfGWl-RCQcC & pg=PA153| year = 2002| publisher = Oxford University Press| isbn = 978-0-19-860522-5| at = litre,liter }} < /ref >  That system did not have its own unit of capacity or volume because volume can be measured in cubic metres. < ref name=DoWMU/ >  In 1793 work to make the metric system compulsory in France was started by the Temporary Commission of Republican Weights and Measures. Due to public demand, < ref name=DoWMU/ >  the commission said that the [[cubic metre]] was too big for everyday use. They said that a new unit based on the old cadil should be used instead. One cadil was to be 0.001 cubic metres. This was equivalent to a [[cube]] with sides 10 & nbsp;cm. < ref > {{cite book|url=http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/mpiwg/online/permanent/library/XT5A1FDA|title=Instruction sur les mesures déduites de la grandeur de la terre, uniformes pour toute la république, et sur les calculs relatifs a leur division décimale|date=April 1793|publisher=Commission temporaire des Poids et Mesures républicaines|location=Paris|pages=44–49|language=French|trans-title=Use of measures that are uniform throughout the republic and that are derived from the size of the earth and calculations relating to their decimal division}} < /ref >  The ''cadil'' was also known as the ''pinte'' or the ''litron''. The ''pinte'' had been an old French unit of measure of [[capacity]]. < ref name= " DoWMU " / >  In 1795 the definition was revised. The ''cadil'' was given the name ''litre''. < ref > {{cite journal 
+ |url = https://www.jstor.org/stable/301613 
+ |journal = Orsis 
+ |title = Legendre and the French Reform of Weights and Measures 
+ |first1 = C. Doris 
+ |last1 = Hellman 
+ |pages = 314–340 
+ |volume = 1 
+ |date = Jan 1936 
+ |publisher = University of Chicago|jstor = 301613 
+ }} < /ref > 
+ 
+ In 1795 the kilogram was defined to be exactly one litre of water at 4 & nbsp;°C. In 1799 the kilogram was redefined. The new definition said that the kilogram was the mass of the ''[[kilogram|kilogram des archives]]''. In 1901 scientists measured the volume of one litre of water at 4 & nbsp;°C very carefully. < ref group = Note > Water has its maximum density at 4 & nbsp;°C. < /ref >  They found that it occupied about {{gaps|1.000|028}} & nbsp;dm < sup > 3 < /sup > . < ref > {{cite web 
+ |url = http://physics.nist.gov/cuu/pdf/sp811.pdf 
+ |title = Guide for the Use of the International System of Units (SI) 
+ |id = SP 911 
+ |page = 51 
+ |first1 = Ambler 
+ |last1 = Thompson 
+ |first2 = Barry N. 
+ |last2 = Taylor 
+ |publisher = National Institute of Standards and Technology 
+ |location = Gaithersburg 
+ |year = 2008}} < /ref >  The BIPM redefined the litre as being ''exactly'' the volume of one kilogram of water at 4 & nbsp;°C. < ref > {{cite web 
+ |title = Resolution of the 3rd meeting of the CGPM (1901) 
+ |publisher = BIPM 
+ |url = http://www.bipm.org/en/CGPM/db/3/1/ 
+ |accessdate = 5 March 2014}} < /ref > 
+ 
+ In 1960 the [[International System of Units|SI]] was introduced. The BIPM changed the definition of the litre back to  " one dm < sup > 3 < /sup > " . The litre is not part of SI. The BIPM defined the litre < ref group = Note > The [[hectare|are]] and the [[tonne]] were also defined as   " Non-SI units accepted for use with the SI " . < /ref >  as a  " Non-SI unit accepted for use with the SI " . This was because it is used in many countries. The BIPM said that the litre should not be used for very accurate work. < ref > {{cite web 
+ |title = Resolution 6 of the 12th meeting of the CGPM (1964) 
+ |publisher = BIPM 
+ |url = http://www.bipm.org/en/CGPM/db/12/6/ 
+ |accessdate = 5 March 2014}} < /ref > < ref name= " SIdoc " > {{SIbrochure8th|page = 124}} < /ref > 
+ 
+ According to SI rules, the symbol for the litre should be  " l " . This is because the litre was not named after somebody whose name was  " Litre " . < ref group = Note > For example, the symbol for watts is  " W "  because watts were named after [[James Watt]]. < /ref >  However the symbol  " l "  and the number  " 1 "  are easily confused. In 1979 the BIPM made an exception for the symbol for the litre. They said that people could use either  " L "  or  " l "  as its symbol. < ref > {{cite web 
+ |title = Resolution 6 of the 16th meeting of the CGPM (1979) 
+ |publisher = BIPM 
+ |url = http://www.bipm.org/en/CGPM/db/16/6/ 
+ |accessdate = 5 March 2014}} < /ref > 
+ 
+ In Europe, [[milk]] is sold in one litre cartons. One litre bottle is also a popular package for [[soft drinks]]. Most alcoholic drinks are sold as 1/3 litre (0.33 l), {{frac|1|2}} litre (0.5 l) or 3/4 litre (0.75 l) bottles. 
+ 
+ ==Notes== 
+ {{Reflist|group=Note}} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{SI units}} 
+ 
+ [[Category:Units of volume]]

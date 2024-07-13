@@ -1,0 +1,81 @@
+{{Chembox 
+ < !-- Images -- > | Name =  
+ | ImageFile =  
+ | ImageFile1 = Progesterone.svg 
+ | ImageSize1 = 225px 
+ | ImageAlt1 = The chemical structure of progesterone. 
+ | ImageFile2 = Progesterone-3D-balls.png 
+ | ImageSize2 = 225px 
+ | ImageAlt2 = A ball-and-stick model of progesterone. 
+ < !-- Names -- > | IUPACName = (8''S'',9''S'',10''R'',13''S'',14''S'',17''S'')-17-acetyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ | OtherNames = P4; Pregn-4-ene-3,20-dione < ref > {{cite book | first1 = Norman | last1 = Adler | first2 = Donald | last2 = Pfaff | first3 = Robert W. | last3 = Goy | name-list-style = vanc | title = Handbook of Behavioral Neurobiology Volume 7 Reproduction | date = 6 Dec 2012 | publisher=Plenum Press | location = New York | isbn = 978-1-4684-4834-4 | page = 189 | edition = 1st | url = https://books.google.com/books?id=MoDrBwAAQBAJ & dq=pregn-4-ene-3%2C20-dione%3B+abbreviated+as+P4 & pg=PA189 | accessdate = 4 July 2015 }} < /ref > < ref > {{cite web|title=progesterone (CHEBI:17026)|url=http://www.ebi.ac.uk/chebi/searchId.do;jsessionid=309FCC7D184C0AD58410071F3F163155?chebiId=17026 & structureView=applet & viewTermLineage=|website=ChEBI|publisher=European Molecular Biology Laboratory-EBI|accessdate=4 July 2015}} < /ref > 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 444066687 
+ < !-- Sections -- > | SystematicName =  
+ | Section1 = {{Chembox Identifiers 
+ | CASNo_Ref = {{cascite|correct|??}} 
+ | CASNo = 57-83-0 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 17026 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 103 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 5773 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank = DB00396 
+ | KEGG_Ref = {{keggcite|changed|kegg}} 
+ | KEGG = C00410 
+ | PubChem = 5994 
+ | SMILES = CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C 
+ | StdInChI_Ref = {{stdinchicite|changed|chemspider}} 
+ | StdInChI = InChI=1S/C21H30O2/c1-13(22)17-6-7-18-16-5-4-14-12-15(23)8-10-20(14,2)19(16)9-11-21(17,18)3/h12,16-19H,4-11H2,1-3H3/t16-,17+,18-,19-,20-,21+/m0/s1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = RJKFOVLPORLFTN-LEKSSAKUSA-N 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 4G7DS2Q64Y 
+   }} 
+ | Section2 = {{Chembox Properties 
+ | C=21 | H=30 | O=2 
+ | MolarMass = 314.469 g/mol 
+ | Appearance =  
+ | Density =  
+ | MeltingPt = 126 
+ | BoilingPt =  
+ | Solubility =  
+ | LogP = 4.04 < ref name= " chemsrc " > {{Cite web|url=https://www.chemsrc.com/en/cas/57-83-0_1068061.html|title=Progesterone_msds}} < /ref > 
+   }} 
+ | Section3 = {{Chembox Hazards 
+ | MainHazards = 
+ | FlashPt = 
+ | AutoignitionPt = 
+   }} 
+ | Section4 =  
+ | Section5 =  
+ | Section6 = {{Chembox Pharmacology 
+ | ATCvet =  
+ | ATCCode_prefix = G03 
+ | ATCCode_suffix = DA04 
+ | ATC_Supplemental =  
+ | AdminRoutes = [[Oral administration|By mouth]], [[topical medication|topical]]/[[transdermal]], [[intravaginal administration|vaginal]], [[intramuscular injection]], [[subcutaneous injection]], [[implant (medicine)|subcutaneous implant]] 
+ | Bioavail = {{abbr|OMP|oral micronized progesterone}}:  < 10% < ref name= " Stanczyk2002 " > {{cite journal | vauthors = Stanczyk FZ | title = Pharmacokinetics and potency of progestins used for hormone replacement therapy and contraception | journal = Reviews in Endocrine  &  Metabolic Disorders | volume = 3 | issue = 3 | pages = 211–24 | date = September 2002 | pmid = 12215716 | doi = 10.1023/A:1020072325818 | s2cid = 27018468 }} < /ref > < ref name= " SimonRobinson1993 " > {{cite journal | vauthors = Simon JA, Robinson DE, Andrews MC, Hildebrand JR, Rocci ML, Blake RE, Hodgen GD | title = The absorption of oral micronized progesterone: the effect of food, dose proportionality, and comparison with intramuscular progesterone | journal = Fertility and Sterility | volume = 60 | issue = 1 | pages = 26–33 | date = July 1993 | pmid = 8513955 | doi = 10.1016/S0015-0282(16)56031-2 }} < /ref > 
+ | Excretion = [[Renal]] 
+ | HalfLife = {{abbr|OMP|oral micronized progesterone}}: 16–18 hours < ref name= " Stanczyk2002 "  / > < ref name= " SimonRobinson1993 "  / > < ref name= " Zutshi2005 " > {{cite book | author = Zutshi | title = Hormones in Obstetrics and Gynaecology | url = https://books.google.com/books?id=IBxBbaDjXw0C & pg=PA74 | date = 1 January 2005 | publisher = Jaypee Brothers Publishers | isbn = 978-81-8061-427-9 | page = 74 | access-date = 5 March 2019 | archive-date = 6 May 2016 | archive-url = https://web.archive.org/web/20160506062217/https://books.google.com/books?id=IBxBbaDjXw0C & pg=PA74 | url-status = dead }} < /ref > < br / > {{abbr|IM|Intramuscular}}: 22–26 hours < ref name= " SimonRobinson1993 "  / > < ref name= " Cometti2015 " > {{cite journal | vauthors = Cometti B | title = Pharmaceutical and clinical development of a novel progesterone formulation | journal = Acta Obstetricia et Gynecologica Scandinavica | volume = 94 Suppl 161 | pages = 28–37 | date = November 2015 | pmid = 26342177 | doi = 10.1111/aogs.12765 | s2cid = 31974637 }} < /ref > < br / > {{abbr|SC|Subcutaneous}}: 13–18 hours < ref name= " Cometti2015 "  / > 
+ | Metabolism = [[Hepatic]] ([[CYP2C19]], [[CYP3A4]], [[CYP2C9]], [[5α-reductase]], {{abbrlink|3α-HSD|3α-hydroxysteroid dehydrogenase}}, [[17α-hydroxylase]], [[21-hydroxylase]], {{abbrlink|20α-HSD|20α-hydroxysteroid dehydrogenase}}) < ref name= " pmid9328296 " > {{cite journal | vauthors = Yamazaki H, Shimada T | title = Progesterone and testosterone hydroxylation by cytochromes P450 2C19, 2C9, and 3A4 in human liver microsomes | journal = Archives of Biochemistry and Biophysics | volume = 346 | issue = 1 | pages = 161–9 | date = October 1997 | pmid = 9328296 | doi = 10.1006/abbi.1997.0302 }} < /ref > < ref name= " McKayWalters2013 " > {{cite book | first1 = Gerard A. | last1 = McKay | first2 = Matthew R. | last2 = Walters | name-list-style = vanc | title = Lecture Notes: Clinical Pharmacology and Therapeutics | url = https://books.google.com/books?id=OGOqcfN_Cc8C & pg=PT33 | date = 6 February 2013 | publisher = John Wiley  &  Sons | isbn = 978-1-118-34489-7 | page = 33}} < /ref > 
+ | ProteinBound = • [[Human serum albumin|Albumin]]: 80% < br / > • [[Corticosteroid-binding globulin|CBG]]: 18% < br / > • [[Sex hormone-binding globulin|SHBG]]:  < 1% < br / > • Free: 1–2% < ref name= " FritzSperoff2012 " > {{cite book | first1 = Marc A. | last1 = Fritz | first2 = Leon | last2 = Speroff | name-list-style = vanc | title = Clinical Gynecologic Endocrinology and Infertility | url = https://books.google.com/books?id=KZLubBxJEwEC & pg=PA44 | date = 28 March 2012 | publisher = Lippincott Williams  &  Wilkins | isbn = 978-1-4511-4847-3 | pages = 44– }} < /ref > < ref name= " MarshallD.)2008 " > {{cite book | first1 = William J. | last1 = Marshall | first2 = William J. | last2 = Marshall | first3 = S. K. | last3 = Bangert | name-list-style = vanc | title = Clinical Chemistry | url = https://books.google.com/books?id=Gjc704GR5YEC & pg=PA192 | year = 2008 | publisher = Elsevier Health Sciences|isbn=978-0-7234-3455-9|pages=192–}} < /ref > 
+   }} 
+ }} 
+ '''Progesterone''' is a [[steroid]] [[hormone]]. In animals, it is made from [[cholesterol]]. It is the base for making certain [[estrogen]]s and [[androgen]]s. In animals, it is produced by their body mainly during the second half of the [[menstruation|menstrual cycle]]. During [[pregnancy]] it is produced in higher quantities. 
+ Willard Myron Allen co-discovered progesterone with his [[anatomy]] [[professor]] George Washington Corner at the University of Rochester Medical School in 1933 year. Allen discovered temperature needed to melt it and its weight. He also gave it the name Progesterone based on Progestational Steroidal [[ketone]]. < ref > http://pt.wkhealth.com/pt/re/lwwgateway/landingpage.htm;jsessionid=R2dc47m048bxLF2j9vg9nZGkV4LPQ9X4PTkhCqCVdsC7dJrhTPPm!1612949135!181195629!8091!-1?sid=WKPTLP:landingpage & an=00007611-197010000-00012 < /ref > 
+ In one plant, Juglans regia, progesterone has been found. < ref > {{Cite journal|url=http://pubs.acs.org/doi/abs/10.1021/np9007415|doi=10.1021/np9007415|title=Occurrence of Progesterone and Related Animal Steroids in Two Higher Plants|year=2010|last1=Pauli|first1=Guido F.|last2=Friesen|first2=J. Brent|last3=Gödecke|first3=Tanja|last4=Farnsworth|first4=Norman R.|last5=Glodny|first5=Bernhard|journal=Journal of Natural Products|volume=73|issue=3|pages=338–345|pmid=20108949}} < /ref >  Also progesterone-like steroids are found in Dioscorea mexicana. < ref > http://buynaturalprogesterone.co.uk/ < /ref > 
+ Progesterone level is low in children and [[Menopause|postmenopausal]] women. < ref > {{Cite web |url=http://cclnprod.cc.nih.gov/dlm/testguide.nsf/Index/CB26894E1EB28DEF85256BA5005B000E?OpenDocument |title=Historical Reference Ranges |access-date=2013-03-11 |archive-date=2009-01-09 |archive-url=https://web.archive.org/web/20090109072721/http://cclnprod.cc.nih.gov/dlm/testguide.nsf/Index/CB26894E1EB28DEF85256BA5005B000E?OpenDocument |url-status=dead }} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{science-stub}} 
+ {{Hormones}} 
+ {{Hypnotics and sedatives}} 
+ 
+ [[Category:Steroid hormones]]

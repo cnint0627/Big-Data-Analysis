@@ -1,0 +1,32 @@
+{{Taxobox 
+ | color = lightgrey 
+ | name = Nitrosomonadales 
+ | image = Spirillen.jpg 
+ | image_caption = ''Spirillum'' 
+ | regnum = [[Bacterium|Bacteria]] 
+ | phylum = [[Proteobacteria]] 
+ | classis = [[Betaproteobacteria]] 
+ | ordo = '''Nitrosomonadales''' 
+ | subdivision_ranks = Families 
+ | subdivision =  
+ ''Nitrosomonadaceae'' < br > 
+ ''Methylophilacae'' < br > 
+ ''Spirillaceae'' < br > 
+ ''Thiobacillaceae'' < br > 
+ ''Gallionellaceae'' < br > 
+ ''Sterolibacteraceae'' 
+ }} 
+ The '''Nitrosomonadaceae''' are a [[family (taxonomy)|family]] of [[bacteria]]. They [[wikt:oxidize|oxidize]] [[ammonia]] (NH < sub > 3 < /sub > ) to [[nitrate]] (NO < sub > 3 < /sub > < sup > − < /sup > ). < ref name= " Bergey " > George M. Garrity, Don J. Brenner, Noel R. Krieg, James T. Staley: ''Bergey's manual of systematic bacteriology''. Vol. 2: ''The Proteobacteria Part C: The Alpha-, Beta-, Delta-, and Epsilonproteabacteria''. Springer, New York 2005, {{ISBN|978-0-387-24145-6}} < /ref >  They are [[Autotroph|lithoautotrophic]] meaning they do not need [[Organic compound|organic substance]] to live. < ref name= " Bergey "  / > 
+ 
+ == Systematics == 
+ There are two genera: < ref > J.P. Euzéby: ''List of Prokaryotic Names with Standing in Nomenclature'' - [http://www.bacterio.net/-classifgenerafamilies.html#Nitrosomonadaceae Family Nitrosomonadaceae''] < /ref > 
+ * ''[[Nitrosomonas]]'' 
+ * ''[[Nitrosospira]]'' 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Gram-negative bacteria]]

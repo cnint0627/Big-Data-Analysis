@@ -1,0 +1,18 @@
+A '''tensor''' is a [[Mathematics|mathematical]] object. Tensors provide a mathematical framework for solving [[physics]] problems in areas such as [[Elasticity (physics)|elasticity]], [[fluid mechanics]] and [[general relativity]]. < ref > {{cite web|url=http://mathworld.wolfram.com/Tensor.html|title=Tensor|publisher=Wolfram Research|access-date=2016-02-19|last1=Rowland|first1=Todd|last2=Weisstein|first2=Eric W.}} < /ref >  The word ''tensor'' comes from the [[Latin]] word ''tendere'' meaning  " to stretch " . 
+ 
+ A tensor of order zero (zeroth-order tensor) is a [[scalar]] (simple number). < ref name=danielson > {{cite book | last=Danielson | first=D. A. | title=Vectors and Tensors in Engineering and Physics | publisher=Addison-Wesley | location=Reading, Massachusetts | year=1997 | edition = Second | isbn=0-201-44210-8 | page=17}} < /ref >  A tensor of order one (first-order tensor) is a [[Linear mapping|linear map]] that maps every [[vector]] into a scalar. < ref name=danielson / >  A vector is a tensor of order one. < ref name=danielson / >  A tensor of order two (second-order tensor) is a linear map that maps every vector into a vector (e.g. a [[matrix]]). < ref name=danielson / > 
+ 
+ In [[linear algebra]], the tensor product of two vector spaces  < math > V_1 < /math >  and  < math > V_2 < /math > ,  < math > V_1 \otimes V_2 < /math > , < ref > {{Cite web|date=2020-03-25|title=Comprehensive List of Algebra Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/|access-date=2020-09-07|website=Math Vault|language=en-US}} < /ref >   is itself a vector space. It is a way of creating a new vector space analogous of multiplication of integers. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Vector Space Tensor Product|url=https://mathworld.wolfram.com/VectorSpaceTensorProduct.html|access-date=2020-09-07|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[Einstein field equations]], where tensor is used 
+ 
+ == References == 
+ < references / > 
+ 
+ {{math-stub}} 
+ 
+ [[Category:Linear algebra]] 
+ [[Category:Geometry]] 
+ [[Category:Basic physics ideas]]

@@ -1,0 +1,44 @@
+[[File:Unix timeline.en.svg|thumb|right|The history of UNIX and its variants]] 
+ 
+ '''UNIX''' is a computer [[operating system]]. It was first developed in [[1969]] at [[Bell Labs]]. Ken Thompson, Dennis Ritchie, Douglas McIlroy, and others created it. They used [[assembly language]] to write it. In 1972, the Unix code was rewritten with the new [[C programming language]]. The Unix operating system is a [[multiuser]] and [[multiprocessing]] system.  This means it can run several [[Computer program|application]] programs at the same time, for more than one user at the same time.  It also is able to operate well in a [[network]] of computers.  [[Computer security]] is also important in Unix, because many people can have access to it, both by using a computer directly or over a network. 
+ 
+ Many ideas in Unix were new. Other operating systems copied them. Today, there are many operating systems that have some of the ideas of Unix in them. For this reason, some people talk about a  " Unix [[philosophy]] "  of doing things. Linux is one of these systems with many of the Unix ideas in it. Linux does not use [[Source code|code]] from UNIX. Linux only shares some of the ideas and the names of commands. So, Linux is not a UNIX operating system. Instead it is called  " Unix-like " . 
+ 
+ There can be many different users in a Unix and Unix-like operating system. Most of them have a personal area where they can put things. This is called a user [[account]]. 
+ 
+ One way of using a Unix system is with the [[command line interface]]. Users run commands and programs by typing text characters. This takes time to learn, but it is a very powerful and flexible way of working. It is still used by most Unix administrators. These commands are run in a [[Unix shell|shell]], which can change slightly between one system and another. 
+ 
+ A [[graphical user interfaces and consoles|graphical user interface]] (GUI) is the other method. The [[X Window System]] is a very common GUI for Unix systems. The X Window System is only a shell of a graphical interface. It has many [[protocol]]s. The X Window System itself does not let the user to move and resize windows. Users need a window manager or desktop manager to do that. 
+ 
+ Some of the popular desktop and window managers are: 
+ 
+ * [[GNOME|Gnome]] 
+ * [[KDE]] 
+ * Windowmaker 
+ * [[Xfce]] 
+ 
+ Like most other graphical user interfaces, they use windows, dialog boxes, support the use of a [[computer mouse]], and are designed to be easy to use. 
+ 
+ There are many thousands of programs available for the X Window System. Programs like word processors and spreadsheets are available including free and [[Open source|open-source software]]. 
+ 
+ == Two types of Unix== 
+ Today, there are two kinds of operating systems that are like UNIX. 
+ 
+ The first group is all those that share some kernel code with the original from Bell Labs at AT & T. This includes the commercial UNIX types: [[Solaris]] or [[AIX]].  
+ 
+ The second group includes free operating systems that usually have [[Berkeley Software Distribution|BSD]] in their name, like [[FreeBSD]], [[OpenBSD]], and [[NetBSD]]. These are based on free BSD. [[Mac OS X]] is also based on BSD. < ref > {{cite web|title=what are the flavors of Unix|url=http://www.unix.org/what_is_unix/flavors_of_unix.html|publisher=Unix.org|accessdate=1 May 2016}} < /ref > < ref > {{cite web|title=Unix flavors (dated)|url=http://unixgeeks.org/security/newbie/unix/flavors.html|publisher=UnixGeeks.org|accessdate=1 May 2016}} < /ref > 
+ 
+ There are also free systems based on the [[Linux]] [[Kernel (computer science)|kernel]]. These do not share any code with the original UNIX. BSD systems share very little code with the original Unix because much of the code has been rewritten over many years. Many people use the terms ''Unix and Unix-like systems'' to be clear. 
+ 
+ Most applications can run on any modern Unix or Unix-like system. < ref > {{cite web|title=Differentiating UNIX and Linux (see application availability section)|url=http://www.ibm.com/developerworks/aix/library/au-unix-difflinux.html|publisher=IBM|accessdate=1 May 2016}} < /ref >  KDE and GNOME were developed for Linux and later changed to run on commercial types of Unix. 
+ 
+ == Other websites == 
+ * [http://www.freebsd.org/cgi/man.cgi Manual Pages for FreeBSD] - pages saying exactly what each command does 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Operating systems}} 
+ 
+ [[Category:Operating systems]] 
+ [[Category:Unix| ]]

@@ -1,0 +1,51 @@
+{{complex|date=January 2021}} 
+ A '''Qubit''' (or '''QBit''') is a unit of measure used in [[Quantum computer|quantum computing]].  
+ 
+ Like a [[bit]] in normal (non-quantum) computing, a Qubit has two distinct states, 0 state and the 1 state. However, unlike the normal bit, a qubit can have a state that is somewhere in-between, called a  " superposition. " 
+ 
+ You cannot measure the superposition without the superposition going away (changing). If you try to measure a qubit that is in a superposition, the qubit will change, and become one of two states. The resulting state the qubit changes to depends on how it is measured. For simplicity, let's assume we are measuring in a way that will make the qubit change to either a 0 state or a 1 state. 
+ 
+ A qubit can be represented as a 2-element column vector. 
+ 
+ A qubit in the 0 state looks like  < math > \begin{bmatrix} 1 \\ 0 \end{bmatrix} < /math > .  
+ 
+ A qubit in the 1 state looks like  < math > \begin{bmatrix} 0 \\ 1 \end{bmatrix} < /math > . 
+ 
+ In general, a qubit state will look like  < math > \begin{bmatrix} \alpha \\ \beta \end{bmatrix} < /math >  , where  < math > |\alpha |^{2}+|\beta |^{2}=1 < /math > . 
+ 
+ < var > α < /var >  and  < var > β < /var >  are called amplitudes. They can be complex numbers. Each state has an amplitude. 
+ 
+ By squaring a state's amplitude, you can get the probability of measuring that state. 
+ 
+ 
+ Each state can also have a phase. The phase is part of the amplitude and is what can make the amplitude a complex number. 
+ 
+ A state's phase is like how much that state has rotated. The angle of phase is usually represented as either Φ or φ. Let's use φ. 
+ 
+ φ can go from 0 to  < math >  2\pi < /math >  radians. The angle sort of goes into an Euler identity, where instead of  < math > e^{ i \pi } < /math > , the  < math > \pi < /math >  gets substituted with the angle φ. The state's phase becomes  < math > e^{i \varphi} < /math > . 
+ 
+ This expression  < math > e^{i \varphi} < /math > is a phase factor that becomes part of a state's amplitude. It gets multiplied with the amplitude. 
+ 
+ A phase angle of 0 makes the amplitudes positive real numbers, since  < math > e^{i0} = 1 < /math > . 
+ 
+ A phase angle of  < math >  \pi < /math >  makes the amplitudes negative real numbers, since  < math > e^{i\pi} = -1 < /math > . (This is Euler's identity) 
+ 
+ A phase angle of  < math >  \frac{\pi}{2} < /math >  makes the amplitudes positive imaginary numbers, since  < math > e^{i\pi/2} = i < /math > . 
+ 
+ A phase angle of  < math >  \frac{3\pi}{2} < /math >  makes the amplitudes negative imaginary numbers, since  < math > e^{i3\pi/2} = -i < /math > . 
+ 
+ Beyond 0 and  < math >  2\pi < /math > , the phase angle just wraps back around again, since it is just a rotation. 
+ 
+ An example qubit may look like  < math > \frac{1}{\sqrt{2} } \begin{bmatrix} 1 \\ -1 \end{bmatrix} < /math > . There is a 50% chance of measuring a 0 or a 1. There is a phase of 1 on the 0 state's amplitude. There is a phase of -1 on the 1 state's amplitude. 
+ 
+ 
+ 
+ Qubits are generally written as kets, which look like  < math > |\psi\rangle < /math > . Kets are part of Bra-Ket notation, also known as Dirac notation. Kets are a way of saying column vector. 
+ 
+ The 0 and 1 state are written as  < math > |0\rangle < /math >  and  < math > |1\rangle < /math >  respectively.  
+ 
+ A general qubit in ket notation will be written as  < math > |\psi \rangle =\alpha |0\rangle +\beta |1\rangle < /math > . 
+ 
+ This equation is exactly the same as  < math > |\psi \rangle = \begin{bmatrix} \alpha \\ \beta \end{bmatrix}  < /math > , since  < math > \alpha |0\rangle +\beta |1\rangle = \alpha \begin{bmatrix} 1 \\ 0 \end{bmatrix} +\beta \begin{bmatrix} 0 \\ 1 \end{bmatrix} = \begin{bmatrix} \alpha \\ 0 \end{bmatrix} + \begin{bmatrix} 0 \\ \beta \end{bmatrix} = \begin{bmatrix} \alpha \\ \beta \end{bmatrix} < /math > 
+ 
+ [[Category:Computer science]]

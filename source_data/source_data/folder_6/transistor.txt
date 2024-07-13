@@ -1,0 +1,48 @@
+[[File:Transistors.agr.jpg|thumb|A few types of individually packaged transistors]] 
+ A '''transistor''' is an [[electronic component]] that can be used as part of an [[amplifier]], or as a [[switch]]. < ref > {{cite web |url=http://hyperphysics.phy-astr.gsu.edu/hbase/solids/trans.html |title= The Junction Transistor |date=1999 |access-date= 2012-05-07}} < /ref >  It is made of a [[semiconductor]] material. Transistors are found in most  [[electronics|electronic devices]]. The transistor was a major advancement after the [[triode]] tube, with using much less electricity, and lasting many years longer, to switch or amplify another electronic current. 
+ 
+ The transistor can be used for a variety of different things including amplifiers and digital switches for computer [[microprocessor]]s. Digital work mostly uses [[MOSFET]]s. Some transistors are individually packaged, mainly in order to handle high power. Most transistors are inside [[integrated circuit]]s. 
+ 
+ == How they work == 
+ [[File:Transistor basic flow.svg|thumb|When the center pin is powered, the power can flow.]] 
+ Transistors have three terminals: the gate, the drain, and the source  < ref > {{cite web |url=http://mysite.du.edu/~etuttle/electron/elect2.htm |title=transisting |author= Calavert, J.B. |date=4 May 2002 |access-date=7 May 2012}} < /ref >  (on a bipolar transistor, the wires can be called the emitter, the collector, and the base). When the source (or emitter) is connected to the negative terminal of the battery, and the drain (or collector) to the positive terminal, no electricity will flow in the circuit (if you have only a lamp in [[series circuit|series]] with the transistor). But when power flows through the gate (or base), the transistor will allow electricity through. This is because when the gate is positively charged, the positive electrons will push other positive electrons in the transistor letting the [[electron flow|negative]] electrons flow through. The transistor can also work when the gate is just positively charged, so it doesn't need to be touching the drain. 
+ 
+ === Visualization === 
+ An easy way to think of how a transistor works is as a hose with a sharp bend that stops the water from going through. The water is the electrons, and when you positively charge the gate, it unbends the hose, letting water flow. 
+ [[File:Darlington.svg|thumb|The circuit symbol of a Darlington transistor. The  " B "  stands for base, the  " C "  stands for collector, and the  " E "  stands for emitter.]] 
+ The basic [[Darlington transistor]] circuit is formed from two bipolar transistors wired emitter to base so they act as one transistor. One of the transistors is connected so that it controls the current to the base of the other transistor. This means that you can control the same amount of current with a very small amount of current going into the base. 
+ 
+ == Uses == 
+ When the gate of a P-channel [[MOSFET]] is positively charged, electricity will flow through, this is useful for electronics that require a switch to be turned on, making it an electronic switch. This rivals the mechanical switch, which requires a constant force pressing on it. < ref name= " Bipolar Transistors " > {{cite web |url=http://www.sccs.swarthmore.edu/users/06/adem/engin/e72/lab3/ |title=Bipolar Transistors |date=23 October 2010 |access-date=8 May 2012 |archive-date=21 May 2012 |archive-url=https://web.archive.org/web/20120521180354/http://www.sccs.swarthmore.edu/users/06/adem/engin/e72/lab3/ |url-status=dead }} < /ref > 
+ 
+ In a [[MOSFET]] used as an amplifier, transistors take the flow of the drain and source, and since the source current is so much larger than the drain's current, it is common for the drain's current to rise to the value of the sources, amplifying it. < ref name= " Bipolar Transistors " / > 
+ 
+ ==Materials== 
+ Transistors are made of [[semiconductor]] chemical elements, usually [[silicon]], which belongs to the modern Group 14 (formerly Group IV) in the [[periodic table]] < ref > {{cite web|url=http://thalia.spec.gmu.edu/~pparis/classes/notes_101/node99.html|title=What are transistors made of?|date=1998-12-14|access-date=2012-06-04|archive-date=2012-05-02|archive-url=https://web.archive.org/web/20120502042957/http://thalia.spec.gmu.edu/~pparis/classes/notes_101/node99.html|url-status=dead}} < /ref >  of elements. [[Germanium]], another group-14 element, is used together with silicon in specialized transistors. Researchers are also studying transistors made from special forms of [[carbon]]. < ref > {{cite thesis |url=http://dspace.mit.edu/handle/1721.1/62651 |title=Fabrication and electrical characterization of transistors made from carbon nanotubes and graphene|author= Nezich, Daniel Andrew |date=2010 |publisher=Massachusetts Institute of Technology |hdl=1721.1/62651 |access-date=20 May 2012|type=Thesis }} < /ref >  Transistors can be also made from compounds like [[gallium arsenide]]. 
+ 
+ ==History== 
+ The transistor was not the first three terminal device. The [[triode]] served the same purpose of the transistor 50 years earlier. [[Vacuum tube]]s were important in household technology before transistors. Unfortunately, tubes were big and fragile, used a lot of power, and didn't last very long. The transistor solved these problems. < ref > {{cite web |url= http://www.nobelprize.org/educational/physics/transistor/history |title=The Transistor-History |author= Proffessor David B. Haviland |date= 19 December 2002 |access-date=2012-07-05}} < /ref > 
+ 
+ Three physicists were credited with the invention of the transistor in 1947: [[Walter H. Brattain]], [[John Bardeen]], and [[William Shockley]] who contributed the most. < ref > {{cite web |url= http://www.sjsu.edu/faculty/watkins/transist.htm |title= History of the Transistor |access-date= 2012-08-05 |archive-date= 2012-08-18 |archive-url= https://web.archive.org/web/20120818073837/http://www.sjsu.edu/faculty/watkins/transist.htm |url-status= dead }} < /ref > 
+ 
+ ==Importance==  
+ The transistor is a very important component today. < ref > {{cite web |url=http://www.cs.bu.edu/~best/courses/modules/Transistors2Gates/ |title= From transistor to gates! |author=Bestavros, Azer |date=1995 |access-date=8 May 2012}} < /ref >  If not for the transistor, devices such as [[phone|cell phones]] and [[computers]] would be very different, or they might have not been invented at all. Transistors have been made very small (dozens of atoms wide) so that billions of them can be put into a small computer chip. 
+ ==Gallery== 
+ < gallery > 
+ File:Periodic table.svg|Periodic Table of Elements 
+ File:Replica-of-first-transistor.jpg|A replica of the first transistor 
+ File:Bardeen Shockley Brattain 1948.JPG|The inventors of the transistor 
+ < /gallery > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.audiouk.com/info/transistor.htm ''AudioUK's Milestones] {{Webarchive|url=https://web.archive.org/web/20070107062413/http://www.audiouk.com/info/transistor.htm |date=2007-01-07 }}''. Photograph of first working transistor 
+ * [http://www.sciencefriday.com/pages/1997/Dec/hour1_121297.html ''50 Years of the Transistor] {{Webarchive|url=https://web.archive.org/web/20070714010051/http://www.sciencefriday.com/pages/1997/Dec/hour1_121297.html |date=2007-07-14 }}''. From [[Science Friday]], December 12, 1997 
+ * [http://users.arczip.com/rmcgarra2/index.html ''Bob's Virtual Transistor Museum  &  History] {{Webarchive|url=https://web.archive.org/web/20080121085317/http://users.arczip.com/rmcgarra2/index.html |date=2008-01-21 }}''. Treasure trove of transistor history 
+ * [http://amasci.com/amateur/transis.html How transistors work] 
+ * [http://en.citizendium.org/wiki/Transistor Transistor] - [[Citizendium]] 
+ {{authority control}} 
+ 
+ [[Category:Electronic components]]

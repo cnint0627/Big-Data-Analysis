@@ -1,0 +1,74 @@
+{{Infobox river 
+ | name               = Drava  < small > or < /small >  Drave 
+ | name_native        =  
+ | name_native_lang   =  
+ | name_other         = Drau, Dráva 
+ | name_etymology     =  
+ < !---------------------- IMAGE  &  MAP -- > 
+ | image              = Maribor Lent.jpg 
+ | image_size         =  
+ | image_caption      = The Drava in [[Maribor]], Slovenia 
+ | map                = Drave.png 
+ | map_size           =  
+ | map_caption        = Map of Drava River [http://u.osmfr.org/m/391144/] 
+ | pushpin_map        =  
+ | pushpin_map_size   =  
+ | pushpin_map_caption=  
+ < !---------------------- LOCATION -- > 
+ | subdivision_type1  = Countries 
+ | subdivision_name1  = {{hlist|[[Italy]]|[[Austria]]|[[Slovenia]]|[[Croatia]]|[[Hungary]]}} 
+ | subdivision_type2  =  
+ | subdivision_name2  =  
+ | subdivision_type3  =  
+ | subdivision_name3  =  
+ | subdivision_type4  =  
+ | subdivision_name4  =  
+ | subdivision_type5  = Cities 
+ | subdivision_name5  = {{hlist|[[Lienz]]|[[Spittal an der Drau]]|[[Villach]]|[[Ferlach]]|[[Dravograd]]|[[Vuzenica]]|[[Muta, Muta|Muta]]|[[Ruše]]|[[Maribor]]|[[Ptuj]]|[[Ormož]]|[[Varaždin]]|[[Barcs]]|[[Belišće]]|[[Osijek]]}} 
+ < !---------------------- PHYSICAL CHARACTERISTICS -- > 
+ | length             = {{convert|709.8|km|mi|abbr=on}} < ref name=jdrcar/ >   
+ | width_min          =  
+ | width_avg          =  
+ | width_max          =  
+ | depth_min          =  
+ | depth_avg          =  
+ | depth_max          =  
+ | discharge1_location=[[Osijek]], [[Croatia]] (19.8 km upstream of mouth)  
+ | discharge1_min     ={{convert|125|m3/s|cuft/s|abbr=on}}  
+ | discharge1_avg     = {{convert|552|m3/s|cuft/s|abbr=on}} 
+ | discharge1_max     =  
+ {{convert|3,000|m3/s|cuft/s|abbr=on}} 
+ | source1            = North of the Neunerkofel/Cima Nove over the Toblacher Feld/Sella di Dobbiaco 
+ | source1_location   = [[Toblach]]/[[Dobbiaco]], [[South Tyrol]]/[[Alto Adige]], [[Italy]] 
+ | source1_coordinates= {{coord|46|43|9|N|12|15|16|E|display=inline}} 
+ | source1_elevation  = {{convert|1,450|m|abbr=on}} 
+ | mouth              = [[Danube]] near [[Osijek]] 
+ | mouth_location     = [[Croatia]] 
+ | mouth_coordinates  = {{coord|45|32|38|N|18|55|31|E|type:_river}} 
+ | mouth_elevation    =  
+ | progression        = {{RDanube}} 
+ | river_system       =  
+ | basin_size         = {{convert|40,154|km2|mi2|abbr=on}} < ref name=jdrcar/ > 
+ | tributaries_left   =  
+ | tributaries_right  =  
+ | extra              =  
+ |discharge4_location=[[Ormož]], [[Slovenia]] (312.8 km upstream of mouth - Basin size: {{convert|15,379|km2|abbr=on}} < ref name=jdrcar/ > |discharge5_avg={{convert|280|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > |discharge5_min={{convert|95|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > |discharge5_location=[[Lavamünd]], [[Austria]] (413.3 km upstream of mouth - Basin size: {{convert|11,052|km2|abbr=on}} < ref name=jdrcar/ > |discharge4_max={{convert|1,994|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > |discharge4_avg={{convert|292|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > |discharge4_min={{convert|28|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > |discharge2_location=[[Belišće]], [[Croatia]] (53.8 km upstream of mouth - Basin size: {{convert|38,500|km2|abbr=on}} < ref name=jdrcar/ > |discharge3_max={{convert|3,040|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > 
+ (Period of data: 1896-2014){{convert|3,070|m3/s|cuft/s|abbr=on}}|discharge3_avg={{convert|486|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > 
+ (Period of data: 1896-2014){{convert|595|m3/s|cuft/s|abbr=on}}|discharge3_min={{convert|114|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > 
+ (Period of data: 1896-2014){{convert|170|m3/s|cuft/s|abbr=on}}|discharge3_location=[[Barcs]], [[Hungary]] (154.1 km upstream of mouth - Basin size: {{convert|33,977|km2|abbr=on}} < ref name=jdrcar/ > |discharge2_max={{convert|2,232|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > |discharge2_avg={{convert|544|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > |discharge2_min={{convert|160|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > |discharge5_max={{convert|2,400|m3/s|cuft/s|abbr=on}} < ref name=jdrcar/ > }} 
+ The '''Drava''' or '''Drave''' ({{lang-de|Drau}}; {{lang-sl|Drava}}; {{lang-hr|Drava}}; {{lang-hu|Dráva}}; {{lang-it|Drava}}) is a river in southern [[Central Europe]]. The length is {{convert|710|km|mi}}. < ref name=jdrcar > [http://www.see-river.net/modules/uploader/uploads/system_menu/files_glavni/1_joint-drava-river-corridor-analysis-report.pdf Joint Drava River Corridor Analysis Report], 27 November 2014 < /ref >  It is a tributary of the [[Danube]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{authority control}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Rivers of Austria]] 
+ [[Category:Rivers of Croatia]] 
+ [[Category:Rivers of Hungary]] 
+ [[Category:Rivers of Italy]] 
+ [[Category:Trentino-Alto Adige/Südtirol]] 
+ [[Category:Tyrol (state)]] 
+ [[Category:Carinthia (state)]]

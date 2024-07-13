@@ -1,0 +1,16 @@
+'''QNX''' is an Unix-like, [[real-time operating system]] that is [[Embedded system|embedded]] in cars, medical devices, machinery, and other devices. The QNX operating system contains a [[microkernel]] that handles basic core tasks and a group of servers / daemons outside of the kernel that handle most other tasks. This design gives end-users and developers greater control (i.e. freedom) over the operating system. < ref > {{cite web |url=http://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf |title=An Architectural Overview of QNX & reg; |author=Dan Hildebrand |date=1992 |work= |publisher=Quantum Software Systems Ltd. |page=10 |accessdate=2013-01-31}} < /ref >  BlackBerry (formerly  < abbr title= " Research In Motion " > RIM < /abbr > ) devices such as the BlackBerry PlayBook tablet and the [[BlackBerry|BlackBerry smartphone]] use modified versions of the QNX operating system. 
+ 
+ ==Other articles== 
+ *[[GNU Hurd]], a multiserver, microkernel-based system 
+ *[[HelenOS]], a multiserver, microkernel-based operating system 
+ *[[MINIX]], a multiserver, microkernel-based operating system 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ *[http://www.qnx.com/ QNX.com] 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Operating systems]]

@@ -1,0 +1,12 @@
+[[File:Hexagonal antiprism.png|thumb|Antiprism with a [[hexagon]]]] 
+ [[File:Kristall med.jpg|thumb|[[Octahedron]]]] 
+ In [[geometry]], an '''antiprism''' is a [[polyhedron]] (a [[3D]] [[shape]]). It is made of two copies of a regular [[polygon]]. These polygons are connected using an alternating band of [[triangle]]s. To connect a pair of n-sided polygons, 2n triangles are needed. Antiprisms are like [[Prism (geometry)|prisms]], but prisms use [[parallelogram]]s for the bands at the side. 
+ 
+ A '''right antiprism''' uses a [[right angle]] to connect the base polygons to the band of triangles. A '''uniform antiprism''' uses [[equilateral triangle|equilateral triangles]] as base surfaces.  
+ 
+ The regular octahedron is a special kind of antiprism, since all of its faces are equilateral triangles. There are triangles on opposite sides of the octahedron. These triangles are connected by the rest of the triangles, which form an alternating band.  
+ 
+ [[Category:Polyhedra]] 
+ 
+ {{math-stub}} 
+ {{shapes}}

@@ -1,0 +1,30 @@
+'''ActionScript''' is a [[scripting language]] similar to [[JavaScript]]. It is used for [[Adobe Flash]] and [[Adobe Flex]]. 
+ 
+ ==Example== 
+ An example [[Hello World]] program in ActionScript 3.0: 
+ < syntaxhighlight lang= " actionscript " > 
+ package com.example 
+ { 
+     import flash.text.TextField; 
+     import flash.display.Sprite; 
+ 
+     public class Greeter extends Sprite 
+     { 
+         public function Greeter() 
+         { 
+             var txtHello:TextField = new TextField(); 
+             txtHello.text =  " Hello World " ; 
+             addChild(txtHello); 
+         } 
+     } 
+ } 
+ < /syntaxhighlight > 
+ 
+ == Other websites == 
+ *[http://www.adobe.com/devnet/actionscript/ ActionScript Technology Center] 
+ *[http://www.adobe.com/devnet/flash/ Adobe - Flash Developer Center] 
+ 
+ {{Adobe Inc.}} 
+ 
+ {{tech-stub}} 
+ [[Category:Programming languages]]

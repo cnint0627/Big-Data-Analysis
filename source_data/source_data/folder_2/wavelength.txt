@@ -1,0 +1,25 @@
+[[Image:Wavelength.svg|thumb|A sine wave, with its wavelength]] 
+ [[File:Periodic waves in shallow water.png|thumb|Periodic [[waves at shallow water]], wavelength is denoted λ]] 
+ A '''wavelength''' is the length of the shortest repeating part of a  " [[sine wave]] " . All [[wave]]s can be formed by adding up sine waves. That is, every [[wave]] is a total of sine waves, which may be identified by [[Fourier analysis]]. It is also known as the distance between a crest and another crest of a wave (highest point above equilibrium) or the distance between a trough and another trough of a wave (lowest point below the equilibrium of a wave). 
+ 
+ == Examples of waves == 
+ Waves are everywhere.  Examples of waves include: 
+ * [[sound]] 
+ * [[electromagnetic spectrum]] including 
+ ** [[radio wave]] 
+ ** [[light]] 
+ * water waves such as [[ocean surface wave]]s 
+ * [[earthquake]] waves 
+ 
+ == " Length "  of a sine wave== 
+ The sine wave has a pattern that repeats. The length of this repeating piece of the sine wave is called the wavelength. The wavelength can be found by [[measure|measuring]] the length or [[distance]] between one [[peak]] of a sine wave and the next peak. The wavelength can be found in many other ways too.  As the frequency of a wave increases, the wavelength decreases Thus, the frequency and wavelength are in inverse [[proportionality]].    
+ 
+ There are other properties of waves and sine waves, such as their [[frequency]], [[amplitude]], [[phase]], and [[speed]]. 
+ 
+ A symbol used for wavelength most often is the [[Greek language|Greek]] [[letter]] ''[[lambda]]'' (λ). 
+ 
+ 
+ {{physics-stub}} 
+ 
+ [[Category:Wave physics]] 
+ [[Category:Mechanical vibrations]]

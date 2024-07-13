@@ -1,0 +1,113 @@
+{{Automatic Taxobox 
+ | name = Chordates 
+ | fossil_range = Late [[Ediacaran]] – Present 
+ | image = Pristella maxillaris.jpg 
+ | image_caption = A [[X-ray tetra]] is one of the few chordates with a visible backbone 
+ | taxon = Chordata 
+ | authority = [[William Bateson|Bateson]], 1885 
+ | subdivision_ranks = Typical Classes 
+ | subdivision = See below 
+ }} 
+ '''Chordates''', phylum '''Chordata''', are a [[phylum]] of [[animal]]s which have a [[notochord]]. The group includes [[vertebrate]]s, with some closely related [[invertebrate]]s. 
+ 
+ == Classification == 
+ === Taxonomy === 
+ *'''Phylum Chordata''' 
+ ** '''[[Tunicata]]''' – (tunicates, formerly Urochordata; 3,000 species) 
+ ** †'''[[Vetulicolia]]''' (8 Cambrian species of fossil) 
+ ** '''[[Cephalochordata]]''' – (lancelets, 30 species) 
+ ** '''[[Vertebrata]]''' (vertebrates – animals with backbones; 57,739 species) 
+ ***  '''[[Agnatha]]''' (jawless vertebrates; 100+ species) 
+ **** '''[[Myxini]]''' or Hyperotreti (hagfish; 65 species) 
+ **** '''[[Conodonta]]''' (Conodonts) 
+ **** '''[[Hyperoartia]]''' (Lampreys) 
+ **** †'''[[Cephalaspidomorphi]]''' (Paleozoic jawless fish) 
+ **** †'''[[Pteraspidomorphi]]''' (Paleozoic jawless fish) 
+ *** '''[[Gnathostomata]]''' ([[jaw]]ed vertebrates) 
+ **** †'''[[Placodermi]]''' (Paleozoic armoured forms) 
+ **** '''[[Chondrichthyes]]''' (cartilaginous fish; 300+ species) 
+ **** †'''[[Acanthodii]]''' (Paleozoic  " spiny sharks " ) 
+ **** '''[[Osteichthyes]]''' (bony fishes; 30,000+ species) 
+ ***** '''[[Actinopterygii]]''' (ray-finned fish; about 30,000 species) 
+ ***** '''[[Sarcopterygii]]''' (lobe-finned fish) 
+ **** '''[[Tetrapoda]]''' (four-legged vertebrates; 18,000+ species) 
+ 
+ === Phylogeny === 
+ {{clade| style=font-size:85%;line-height:85% 
+ |label1='''Chordata''' 
+ |1={{clade 
+    |label1= & nbsp;[[Tunicata]] & nbsp; 
+    |1={{clade 
+       |1= & nbsp;[[Appendicularia]] & nbsp;(formerly & nbsp;[[Larvacea]]) 
+       |2= & nbsp;[[Thaliacea]] & nbsp; 
+       |3= & nbsp;[[Ascidiacea]] & nbsp; 
+       }} 
+    |2= & nbsp;[[Cephalochordata]] 
+    |label3= & nbsp;[[Craniata]] & nbsp; 
+    |3={{clade 
+       |1=[[Myxini]] 
+       |label2= & nbsp;[[Vertebrata]] & nbsp; 
+       |2={{clade 
+          |1= & nbsp;[[Conodonta]]† 
+          |2= & nbsp;[[Cephalaspidomorphi]]† 
+          |3= & nbsp;[[Hyperoartia]] 
+          |4= & nbsp;[[Pteraspidomorphi]]† 
+          |label5= & nbsp;[[Gnathostomata]] & nbsp; 
+          |5={{clade 
+             |1= & nbsp;[[Placodermi]]† 
+             |2= & nbsp;[[Chondrichthyes]] 
+             |label3= & nbsp;[[Teleost]]omi & nbsp; 
+             |3={{clade 
+                |1= & nbsp;[[Acanthodii]]† 
+                |label2= & nbsp;[[Osteichthyes]] & nbsp; 
+                |2={{clade 
+                   |1= & nbsp;[[Actinopterygii]] 
+                   |label2= & nbsp;[[Sarcopterygii]] & nbsp; 
+                   |2={{clade 
+                      |label1= < span style=color:white > void < /span > 
+                      |1={{clade 
+                         |label1= & nbsp;[[Tetrapoda]] & nbsp; 
+                         |1={{clade 
+                            |1= & nbsp;[[Amphibia]] 
+                            |label2= & nbsp;[[Amniota]] & nbsp; 
+                            |2={{clade 
+                               |label1= & nbsp;[[Synapsida]] & nbsp; 
+                               |1={{clade 
+                                  |label1= < span style=color:white > void < /span > 
+                                  |1={{clade 
+                                     |1= & nbsp;[[Mammalia]] 
+                                     }} 
+                                  }} 
+                               |label2= & nbsp;[[Sauropsida]] & nbsp; 
+                               |2={{clade 
+                                  |label1= < span style=color:white > void < /span > 
+                                  |1={{clade 
+                                     |1= & nbsp;[[Aves]] 
+                                     }} 
+                                  }} 
+                               }} 
+                            }} 
+                         }} 
+                      }} 
+                   }} 
+                }} 
+             }} 
+          }} 
+       }} 
+    }} 
+ }} 
+ 
+ '''Note:''' Lines show likely [[evolution]]ary relationships.  [[extinction|Extinct]] groups are marked with a  " † " . Extinct animals are ones that have completely died out. 
+ 
+ === Origin of chordates === 
+ According to a long-standing theory, the origin of chordates may be found in transformed larvae of sea-squirts ([[tunicate]]s). Adult tunicates are [[Sessility (zoology)|sessile]], but their larvae are [[motile]], and have some features found in early vertebrates.  The process of [[paedomorphosis]], where [[juvenile]] features are retained in the adult, is the proposed mechanism. < ref > Garstang, Walter 1894. Preliminary notes on a new theory of the phylogeny of the chordates. ''Zoologischer Anzeiger'' '''17''', p122. < /ref > < ref > Garstang, Walter 1928. The morphology of the tunicata, and its bearing on the phylogeny of the Chordata. ''Quarterly Journal of Microscopical Science'' '''72''', p51. < /ref > < ref > de Beer, Gavin 1951. ''Embryos and ancestors''. 3rd ed, Oxfor, The evolution of chordates, p76. < /ref >  [[Genome]] analysis shows that tunicates are the closest living relatives of vertebrates. < ref > Delsuc, Frédéric ''et al.'' 2006. Tunicates and not cephalochordates are the closest living relatives of vertebrates. ''Nature'' '''439''', 965-968 < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ {{Wikispecies|Chordata}} 
+ *[http://tolweb.org/Chordata/2499 Chordate node at Tree Of Life] {{Webarchive|url=https://web.archive.org/web/20070224172716/http://tolweb.org/Chordata/2499 |date=2007-02-24 }} 
+ *[https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7711 Chordate node at NCBI Taxonomy] 
+ 
+ [[Category:Chordates| ]]

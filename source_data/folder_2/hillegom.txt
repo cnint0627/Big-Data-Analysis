@@ -1,0 +1,94 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Hillegom 
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Gemeentehuis Hillegom.JPG 
+ | image_alt               =  
+ | image_caption           = Hillegom town hall 
+ | image_flag              = Flag of Hillegom.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Coat of arms of Hillegom.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 0534 (2009).svg 
+ | map_alt                 = Highlighted position of Hillegom in a municipal map of South Holland 
+ | map_caption             = Location in South Holland 
+ | coordinates             = {{coord|52|17|N|4|35|E|region:NL|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|South Holland}} 
+ | government_footnotes    =  < ref name= " mayor_now " > {{cite web 
+  |url         = https://www.hillegom.nl/secure/gemeentebestuur/collegevanbenw/ledencollevanbenw/id_114029 
+  |title       = Leden college van B & W 
+  |trans-title = Members of the board of mayor and aldermen 
+  |language    = nl 
+  |publisher   = Gemeente Hillegom 
+  |access-date  = 30 July 2013 
+  |url-status     = dead 
+  |archive-url  = https://archive.today/20130730154504/https://www.hillegom.nl/secure/gemeentebestuur/collegevanbenw/ledencollevanbenw/id_114029 
+  |archive-date = 30 July 2013 
+ }} < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = 
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[Arie van Erk]] 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Hillegom}} 
+ | area_land_km2           = {{Dutch municipality land area|Hillegom}} 
+ | area_water_km2          = {{Dutch municipality water area|Hillegom}} 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web 
+  |url=http://www.ahn.nl/postcodetool  
+  |title=Postcodetool for 2181EC  
+  |language=nl  
+  |work=Actueel Hoogtebestand Nederland  
+  |publisher=Het Waterschapshuis  
+  |access-date=30 July 2013  
+  |url-status=dead  
+  |archive-url=https://web.archive.org/web/20130921053543/http://www.ahn.nl/postcodetool  
+  |archive-date=21 September 2013  
+ }} < /ref > 
+ | elevation_m             = 1 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Hillegom}} 
+ | population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|Hillegom}}  < !-- For automatic calculation: auto-- > 
+ | population_demonym      = Hillegommer 
+ < !-- Other information -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 2180–2182 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 0252 
+ | website                 = {{URL|1=www.hillegom.nl}} 
+ | footnotes               = 
+ }} 
+ '''Hillegom''' is a [[List of municipalities of the Netherlands|municipality]] in the [[Netherlands|Dutch]] [[Provinces of the Netherlands|province]] of [[South Holland]]. In 2019, 21,966 people lived there. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{South Holland Province}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Settlements in South Holland]] 
+ [[Category:Municipalities of South Holland]]

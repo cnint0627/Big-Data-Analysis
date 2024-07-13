@@ -1,0 +1,20 @@
+'''Transfection''' is the process of deliberately introducing [[DNA]] or [[RNA]] into [[cells]]. The word is formed from 
+ [[transformation (genetics)|transformation]] and [[infection]].  
+ The term is used for: < ref name=King > King R.C; Stansfield W.D.  &  Mulligan P.K. 2006. ''A dictionary of genetics''. 7th ed, Oxford University Press. {{ISBN|0-19-530761-5}} < /ref > 
+ #[[transformation (genetics)|Transformation]] of [[bacterial]] cells with [[viral]] [[nucleic acids]] 
+ #Transformation of animals cells in [[tissue culture]] with purified DNA. The DNA is added to the cells' [[genome]]. 
+ #Transformation of cells or [[embryo]]s with single or double-stranded RNA. This causes the building of particular [[proteins]], or the silencing of particular [[genes]].  
+ #[[Gene therapy]] using a modified [[virus]] as a [[Vector (biology)|vector]]. 
+ 
+ Transfection can result in unexpected morphologies and abnormalities in target cells. Transfection with RNA molecules produces changes which cannot be permanently transmitted down a line of cells. < ref name=King/ > 
+ 
+ == DNA constructs == 
+ A [[DNA construct]] is an artificially constructed bit of nucleic acid which is going to be 'transplanted' into a target tissue or cell. It may include a '''DNA insert''', which contains the gene sequence coding for a protein of interest. 
+ 
+ The DNA insert is the heart of the [[molecular biology vector]]. This is a general term for a vehicle used to transfer foreign genetic material into another cell. Transfection of animal cells usually involves opening temporary pores (holes) in the [[plasma membrane|cell membrane]], to allow the cells to take up the vector. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Cell biology]] 
+ [[Category:DNA]]

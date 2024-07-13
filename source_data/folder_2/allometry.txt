@@ -1,0 +1,26 @@
+'''Allometry''' is the study of the relationship of body size to [[shape]]. < ref > {{Cite book|url=https://www.worldcat.org/oclc/34472491|title=The statistical theory of shape|last=Small|first=Christopher G.|date=1996|publisher=Springer|isbn=0-387-94729-9|location=New York|page=4|oclc=34472491}} < /ref >  In particular, it refers to the rate of [[growth]] of one part of the body compared to other parts. < ref > {{Cite book|url=https://www.worldcat.org/oclc/79595687|title=A dictionary of genetics|last=King|first=Robert C.|date=2006|publisher=Oxford University Press|isbn=978-1-4294-4025-7|edition=7th|location=Oxford|pages=16|oclc=79595687}} < /ref > < ref > {{cite journal |author=Damuth J |title=Scaling of growth: plants and animals are not so different |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=98 |issue=5 |pages=2113–4 |year=2001 |pmid=11226197 |pmc=33381 |doi=10.1073/pnas.051011198 |bibcode=2001PNAS...98.2113D |doi-access=free }} < /ref >   
+ 
+ In most cases, the relative size of body parts changes as the body grows. Most allometric relationships are [[adaptive]]. For example, organs which depend on their surface area (such as the [[intestine]]) grow faster as the body weight increases. 
+ 
+ Also, there are changes in allometry as a [[clade]] evolves. < ref name= " Fut " > {{Cite book|url=https://www.worldcat.org/oclc/57311264|title=Evolution|last=Futuyma|first=Douglas J.|date=2005|publisher=Sinauer Associates|isbn=0-87893-187-2|location=Sunderland, Mass.|oclc=57311264}} < /ref >  Allometry is an important way to describe changes in gross [[morphology]] (body shape) during [[evolution]]. < ref > {{Cite book|url=https://www.worldcat.org/oclc/34677171|title=Evolution|last=Ridley|first=Mark|date=1996|publisher=Blackwell Science|isbn=0-86542-495-0|edition=2nd|location=Cambridge, Mass., USA|oclc=34677171}} < /ref >  Changes in time of development in an evolutionary series or clade are very common. The trend is known as [[heterochrony]]. 
+ 
+ Allometry was first outlined by [[Otto Snell]] in 1892, < ref > {{cite journal |author=Otto Snell |title=Die Abhängigkeit des Hirngewichts von dem Körpergewicht und den geistigen Fähigkeiten |journal=Arch. Psychiatr. |volume=23  |issue= 2|pages=436–446 |year=1892 |doi=10.1007/BF01843462|s2cid=30692188 |url=https://zenodo.org/record/2048297 }} < /ref >  [[D'Arcy Thompson]] in 1917, < ref > {{cite book| first=D'Arcy W |last=Thompson |title=On growth and form |edition=Canto |year=1992 |publisher=Cambridge University Press |location=Cambridge |isbn=978-0-521-43776-9  
+ }} < /ref >  and [[Julian Huxley]] in 1932. < ref > {{cite book |first=Julian S. |last=Huxley |title=Problems of relative growth |url=https://archive.org/details/problemsofrelati0000huxl |edition=2nd |year=1972 |publisher=Dover |location=New York |isbn=0-486-61114-0}} < /ref >   The relationship between two measured quantities is often expressed as a [[power law]]: 
+ :  < math > y = kx^{a} \,\! < /math >    
+ or in a logarithmic form:  
+ :  < math > \log y = a \log x + \log k\,\! < /math > 
+ where  < math > a < /math >  is the '''scaling exponent''' of the law. 
+ 
+ == On being the right size == 
+ [[J.B.S. Haldane]]'s 1926 essay ''On being the right size'' gives an overview of the way size interacts with body structure. < ref > 
+ {{Cite book|url=https://www.worldcat.org/oclc/44594030|title=Possible worlds|last=Haldane|first=J.B.S.|date=2000|publisher=Transaction |isbn=0-7658-0715-7|location=New Brunswick, N.J.|oclc=44594030}} 
+ < /ref >  Haldane's thesis is that sheer size very often defines what bodily equipment an animal must have: 
+ :'' " Insects, being so small, do not have oxygen-carrying bloodstreams. What little oxygen their cells require can be absorbed by simple diffusion of air through their bodies. But being larger means an animal must take on complicated oxygen pumping and distributing systems to reach all the cells " .'' 
+ 
+ Many of his examples are based on the square-cube law. If an animal's length is doubled, its surface area will be squared and its weight cubed. This alone causes allometric changes in any evolutionary lineage where successive species get larger or smaller. There are many such lineages. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Anatomy]] 
+ [[Category:Physiology]]

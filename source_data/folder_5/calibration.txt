@@ -1,0 +1,18 @@
+[[File:Balance Roberval.tif|thumb|Measuring tools, such as this [[Weighing scale|balance]], need to be calibrated, to give exact results.]] 
+ When doing [[Measurement|measurements]] using a device or tool, it is important to know that this measurement has as little error as possible. There is a process, known as '''calibration'''. It consists of doing some measurements, where the outcomes are known, and comparing the mesurements of the device under test with the known values. In many cases, the device under test can then be adjusted to correct these [[Errors and residuals in statistics|errors]]. To be able to do accurate measurements, a decice needs to be calibrated regularly.  
+ 
+ The reasons to do a calibration include the following: 
+ 
+ * The device is new, and has not been used before 
+ * The device has been repaired, or modified 
+ * The device is used at a different location.  
+ * After a specified time period has elapsed. Devices need to be calibrated periodically, to stay accurate 
+ * After the device has been in use for a long time. 
+ * Before or after an important or critical measurement 
+ * When the measurements look counterintuitive, or odd; or when they don't match those of other similar devices close by 
+ 
+ In general, calibration includes  the process of ''adjusting'' the output or indication on a measurement instrument to agree with value of the applied standard, within a specified accuracy. That way, a balance or [[thermometer]] can be corrected to show the exact value. 
+ 
+ {{Stub}} 
+ 
+ [[Category:Measurement]]

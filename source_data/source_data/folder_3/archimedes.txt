@@ -1,0 +1,71 @@
+{{Infobox scientist 
+ | name = Archimedes of Syracuse 
+ | native_name       =  Ἀρχιμήδης 
+ | native_name_lang  = Greek 
+ | image = Archimedes (Idealportrait).jpg 
+ | caption = Archimedes, as an artist thinks he was 
+ | birth_date = {{circa|287{{nbsp}}BC}} 
+ | birth_place = [[Syracuse, Sicily]] < br / > [[Magna Graecia]] 
+ | death_date = {{circa|212{{nbsp}}BC|lk=no}} (aged {{circa|{{age|-286|-211}}|lk=no}}) 
+ | death_place = [[Syracuse, Sicily]] < br / > [[Magna Graecia]] 
+ | field = {{hlist|[[Mathematics]]|[[Physics]]|[[Engineering]]|[[Astronomy]]|[[Invention]]}} 
+ | known_for = {{hlist|[[Archimedes' principle]]|[[Archimedes' screw]]|[[Fluid statics|hydrostatics]]|[[lever]]s|[[Archimedes' use of infinitesimals|infinitesimals]]|[[Neusis construction|Neuseis constructions]] < ref > {{cite journal| last= Knorr| first=Wilbur R. | title=Archimedes and the spirals: The heuristic background| journal=[[Historia Mathematica]] | year=1978| volume=5| issue=1|pages=43–75|quote= " To be sure, Pappus does twice mention the theorem on the tangent to the spiral [IV, 36, 54]. But in both instances the issue is Archimedes' inappropriate use of a  " solid neusis, "  that is, of a construction involving the sections of solids, in the solution of a plane problem. Yet Pappus' own resolution of the difficulty [IV, 54] is by his own classification a  " solid "  method, as it makes use of conic sections. "  (p. 48)| doi=10.1016/0315-0860(78)90134-9 }} < /ref > }}}} 
+ 
+ '''Archimedes of Syracuse''' ({{circa|287|212{{nbsp}}BC}}) < ref > {{cite book|author=Evans I.O.|title=Inventors of the world|page=11|publisher=Warne|date=1962}} < /ref >  was a [[Ancient Greece|Greek]] [[scientist]]. He was an [[inventor]], an [[astronomer]], and a [[mathematician]]. He was born in the town of [[Syracuse, Italy|Syracuse]] in [[Sicily]]. 
+ 
+ His father was [[Phidias]], an [[astronomer]], and he may have been in the family of a king of Syracuse. Syracuse was a rich Greek city, on the seashore in Sicily. When Archimedes was about ten years old, he left Syracuse to study in [[Alexandria]], [[Egypt]]. He was in the school of [[Euclid]], a famous [[mathematician]]. Not much is known about the [[biography|personal life]] of Archimedes, for example, whether he was married or if he had children. 
+ 
+ When the Romans invaded Syracuse, they captured Archimedes so they could learn all of the things he knew. About two years after he was drawing a mathematical diagram in the sand and enraged a soldier by refusing to go to meet the Roman general until he had finished working on the problem. The Roman killed him. His last words are supposed to have been  " Do not disturb my circles! " 
+ 
+ == Spherical geometry == 
+ ''On the Sphere and Cylinder'' is a work that was published by Archimedes in two volumes in about 225 BC. < ref > Dunham, William 1990. ''Journey through genius''. NY: Wiley, p99. {{ISBN|0-471-50030-5}} < /ref >  On the sphere, he showed that the surface area is four times the area of its [[great circle]]. In modern terms, this means that the surface area is equal to: 
+ : < math > A_{S} = 4\pi r^2.\, < /math > < ref > {{mathworld|urlname=Sphere|title=Sphere}} Retrieved on 2008-06-22 < /ref > 
+ The surface area of a cylinder is equal to: 
+ : < math > A_{C} = 2 \pi r^2 + 2 \pi r h = 2 \pi r ( r + h ).\, < /math > 
+ The volume of the cylinder is: 
+ : < math > V_{C} = \pi r^2 h. \, < /math > < ref > Dunham, William 1994. The mathematical niverse. NY: Wiley, p226. {{ISBN|0-471-53656-3}} < /ref > 
+ The volume of the contained ball is two-thirds the volume of a  " circumscribed "  [[Cylinder (geometry)|cylinder]]. < ref > 'contained' and 'circumscribed': ball fits exactly into the cylinder, touching the edges of the cylinder < /ref >  meaning that the volume is 
+ : < math > V_{S} = \frac{4}{3}\pi r^3, < /math > 
+ 
+ A sculpted sphere and cylinder were placed on the tomb of Archimedes at his request. 
+ 
+ == Archimedes the scientist == 
+ Archimedes is also well known for being the first person to understand [[statics]], which is a part o f [[applied mathematics]]. It has to do with loads that do not move, for example in [[building]]s or [[bridge]]s. He also understood and wrote about what happens when things [[wikt:flotation|float]] in [[liquid]]s, which is called [[buoyancy]]. 
+ [[File:Archimedes water balance.gif|thumb|right|180px|Archimedes may have used his principle of buoyancy to determine whether the golden crown was less [[density|dense]] than solid gold.]] 
+ 
+ === Archimedes' principle === 
+ {{Main|Archimedes' principle}} 
+ [[File:Six-Pulleys.png|75px|thumb|right|A compound [[pulley]], which a person can use to lift heavy loads]] 
+ [[File:IMG 1729 Gemaal met schroef van Archimedes bij Kinderdijk.JPG|180px|thumb|right|A modern Archimedes' screw in a pumping station in [[Kinderdijk]], The [[Netherlands]]. ]] 
+ [[File:Archimedes Heat Ray conceptual diagram.svg|200px|thumb|right|Archimedes' heat ray: conceptual diagram]] 
+ 
+ [[Archimedes' principle]]: the weight of water displaced by an object equals the amount of [[buoyancy]] it gets. It has practical uses. It can be used to measure the [[density]] of an object, and hence whether or not it is made of [[gold]]. 
+ 
+ The story of the golden crown does not appear in the surviving works of Archimedes. Archimedes may have got a solution known in [[fluid statics|hydrostatics]] as [[Archimedes' principle]], which he describes in his treatise ''On Floating Bodies''. This principle states that a body immersed in a fluid experiences a [[buoyancy|buoyant force]] equal to the weight of the fluid it displaces. < ref > Carroll, Bradley W. 2007. ''Archimedes' Principle''. Weber State University  [https://web.archive.org/web/20070808132323/http://physics.weber.edu/carroll/Archimedes/principle.htm] < /ref >  Using this principle, it would have been possible to compare the density of the golden crown to that of solid gold by balancing the crown on a scale with a gold reference sample, then immersing the apparatus in water. The difference in density between the two samples would cause the scale to tip accordingly. [[Galileo Galilei|Galileo]] considered it  " probable that this method is the same that Archimedes followed, since, besides being very accurate, it is based on demonstrations found by Archimedes himself " . < ref name= " galileo " > Rorres, Chris 2009. ''The golden crown: Galileo's balance''. Drexel University. [http://www.math.nyu.edu/~crorres/Archimedes/Crown/bilancetta.html] < /ref > 
+ 
+ == Archimedes, the inventor and engineer == 
+ Archimedes is also famous as an [[inventor]] because he made new [[tool]]s and [[machine]]s. For example, he made a [[machine]] to lift [[water]] that could be used by [[farm]]ers to bring [[water]] to their [[crop]]s. This is called [[Archimedes' screw]]. 
+ 
+ Archimedes probably also invented a machine to [[measure]] [[distance]], an [[odometer]]. A [[cart]] was built with [[wheel]]s that turned four hundred times in one [[mile]]. A [[pin]] on the wheel would hit a 400-[[tooth]] [[gear]], so it turned once for every mile. This gear would then make a small [[stone]] fall into a [[Container|cup]]. At the end of a [[journey]] one could count the number of stones in the cup to find the [[distance]]. 
+ 
+ Archimedes also made a system which one person could pull a large [[ship]] with just one [[rope]]. This was called the [[compound pulley]]. This is an important machine which is even today helps people in everyday [[life]], although the [[version]]s we now use are much more complicated. They still work by the same [[principle]], through. 
+ 
+ == Archimedes at war == 
+ Archimedes also [[inventor|invented]] or made many machines used in war, for example he made better [[catapult]]s. This was during the [[Punic Wars]], which were between [[Rome]] in what is now [[Italy]] and the city of [[Carthage]] in what is now [[North Africa]]. For many years he helped stop the [[Roman army]] from attacking Syracuse, his city. One war machine was called the  " claw of Archimedes " , or the  " iron hand " . It was used to defend the city from attacks by ships. Ancient writers said that it was a kind of [[crane (machine)|crane]] with a [[hook]] that lifted [[ship]]s out of the water and caused their [[wikt:destruction|destruction]]. 
+ 
+ Another story about Archimedes is that he burned Roman ships from far away using many [[mirror]]s and the [[light]] from the [[sun]]. This is perhaps possible, but it is perhaps more likely that this was done with [[flame|flaming]] [[missile]]s from a [[catapult]]. 
+ 
+ == Tributes to Archimedes == 
+ Archimedes is thought to be so important as a [[mathematician]] that [[scientist]]s have [[honor|honoured]] him: 
+ * A large hole or [[crater]] on the [[moon]] is named after Archimedes. 
+ * Some [[mountain]]s on the moon are called the Montes Archimedes. 
+ 
+ == References == 
+ {{Wikiquote|Archimedes}} 
+ {{reflist}} 
+ 
+ {{Authority control}} 
+ [[Category:280s BC births]] 
+ [[Category:210s BC deaths]] 
+ [[Category:Archimedes| ]] 
+ [[Category:Ancient Greeks]]

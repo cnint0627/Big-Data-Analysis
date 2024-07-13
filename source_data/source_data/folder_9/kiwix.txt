@@ -1,0 +1,63 @@
+{{Infobox software 
+ | name = Kiwix 
+ | logo = Kiwix logo v3.svg 
+ | screenshot = Kiwix.jpg 
+ | caption = Kiwix on a [[Microsoft Windows]] powered [[desktop computer]] 
+ | developer = [[Emmanuel Engelhart]] < br > [[Renaud Gaudin]] 
+ | released =  < !--{{start date|YYYY|MM|DD}}-- > 
+ | discontinued =  
+ | ver layout = stacked 
+ | latest release version = {{Multiple releases 
+   |branch1 = Desktop 
+   |version1 = 2.0.5 
+   |date1 = {{start date and age|2020|11|18|df=yes}} < ref > {{cite web|url=https://github.com/kiwix/kiwix-desktop/releases|title=kiwix-desktop: Releases}} < /ref > 
+   |branch2 = Android 
+   |version2 = 3.4.1 
+   |date2 = {{start date and age|2020|10|15|df=yes}} < ref > {{cite web|url=https://github.com/kiwix/kiwix-android/releases|title=kiwix-android: Releases}} < /ref > 
+   |branch3 = iOS 
+   |version3 = 1.13.6 
+   |date3 = {{start date and age|2020|10|21|df=yes}} < ref name=IOS > {{Cite web |url=https://itunes.apple.com/us/app/kiwix/id997079563?mt=8|title=Kiwix on the App Store|website=[[App Store (iOS)|App Store]]|df=dmy-all}} < /ref > 
+   |branch4 = [[Universal Windows Platform|UWP]] 
+   |version4 = 1.0.0 
+   |date4 = {{start date and age|2020|09|21|df=yes}} < ref name=KIWIXJS > {{Cite web|url=https://www.microsoft.com/store/apps/9P8SLZ4J979J|title=Kiwix JS|work=[[Windows Store]]|publisher=[[Microsoft]]|df=dmy-all}} < /ref > 
+   }} 
+ | operating system = [[Android (operating system)|Android]], [[iOS]], [[macOS]], [[Windows]], [[Linux]], [[Windows 10 Mobile]] 
+ | size = {{Plainlist| 
+ * Desktop: {{nowrap|30.6 [[Megabyte|MB]] – 106 MB}} < ref name=sourceforge/ > 
+ * Android: {{nowrap|6.2 MB}} 
+ * iOS: {{nowrap|48.3 MB}} 
+ * UWP: {{nowrap|4.2 MB}} 
+   }} 
+ | language =  < !--List them all here-- > 
+ | language count = 100 
+ | language footnote =  < ref name=sourceforge/ > 
+ | genre =  
+ | license = [[GNU General Public License|GPLv3]] 
+ }}'''Kiwix''' is a [[Free and open-source software|free and open-source]] offline [[web browser]] created by Emmanuel Engelhart and Renaud Gaudin in 2007. < ref name= " sutherland2014 "  / >  It was first launched to allow [[offline]] access to [[Wikipedia]]. But it has expanded to include other projects from the [[Wikimedia Foundation]] as well as [[public domain]] texts from [[Project Gutenberg]]. It is available in more than 100 languages. Kiwix has been included in several high-profile projects, from smuggling operations in [[North Korea]] < ref > {{cite news|title=The plot to free North Korea with smuggled episodes of  " Friends " |work=[[Wired (magazine)|Wired]]|url=https://www.wired.com/2015/03/north-korea/|access-date=27 April 2016|df=dmy-all}} < /ref >  and encyclopedic access in [[Cuba]] < ref > {{cite news|title=¿Cómo utilizar Kiwix como servidor local?|language=es|url=http://ecured.cubava.cu/2017/06/12/como-utilizar-kiwix-como-servidor-local/|access-date=3 July 2017|df=dmy-all|archive-date=4 July 2017|archive-url=https://web.archive.org/web/20170704034754/http://ecured.cubava.cu/2017/06/12/como-utilizar-kiwix-como-servidor-local/|url-status=dead}} < /ref >  to Google Impact Challenge's recipient [[Bibliothèques Sans Frontières]]. < ref > {{cite web|title=Les Lauréats du Google Impact Challenge|url=http://www.tntv.pf/Les-laureats-du-Google-Impact-Challenge_a8169.html|access-date=27 April 2016|df=dmy-all|archive-date=2 June 2016|archive-url=https://web.archive.org/web/20160602184827/http://www.tntv.pf/Les-laureats-du-Google-Impact-Challenge_a8169.html|url-status=dead}} < /ref > 
+ 
+ == History == 
+ ===Background=== 
+ Founder Emmanuel Engelhart sees [[Wikipedia]] as a [[common good]], saying  " The contents of Wikipedia should be available for everyone! Even without [[Internet access]]. This is why I have launched the Kiwix project. " < ref name= " sutherland2014 " > Sutherland, Joe. ''[https://blog.wikimedia.org/2014/09/12/emmanuel-engelhart-inventor-of-kiwix/ Emmanuel Engelhart, Inventor of Kiwix: the Offline Wikipedia Browser]''. In: [[Wikimedia Blog]]. 12 September 2014. Accessed on 26 November 2014. < /ref > 
+ 
+ After becoming a Wikipedia editor in 2004, Engelhart became interested in developing [[offline]] versions of Wikipedia. A [[wikipedia:Version_1.0_Editorial_Team|project to make a Wikipedia CD]], initiated in 2003, was a trigger for the project. < ref name= " sutherland2014 "  / > 
+ ===Awards=== 
+ In 2012 Kiwix won a grant from [[Wikimedia France]] to build kiwix-plug, which was deployed to [[University|universities]] in eleven countries known as the [[Afripedia Project]]. < ref > [http://www.citazine.fr/article/afripedia-wikipedia-pour-afrique-francophone Citazine article on Afripedia (in French)] < /ref > < ref > {{Cite web|last=Traoré|first=Kardiatou|title=Afripédia : un projet de promotion de Wikipédia en Afrique|url=https://www.afrik.com/afripedia-un-projet-de-promotion-de-wikipedia-en-afrique|access-date=2016-03-08|website=www.afrik.com|df=dmy-all}} < /ref >  In February 2013 Kiwix won [[SourceForge]]'s Project of the Month award < ref name= " Slashdot.org " > {{cite web|date=2013-02-04|title=Kiwix Aims to spread Wikipedia's Reach|url=https://insights.dice.com/2013/02/04/kiwix-aims-to-spread-wikipedias-reach/|access-date=2013-07-10|publisher=dice.com}} < /ref >  and an [[Open Source]] Award in 2015. < ref > {{cite web|title=OSS Awards küren Schweizer Open-Source-Projekte|url=http://www.netzwoche.ch/News/2015/10/29/OSS-Awards-kueren-die-innovativsten-Schweizer-Open-Source-Projekte.aspx|access-date=2015-12-08|publisher=Netzwoche|df=dmy-all}} < /ref > 
+ 
+ == Description == 
+ The software is designed as an [[offline reader]] for a web content. It can be used on computers without an [[internet connection]], computers with a slow or expensive connection, or to avoid [[censorship]]. It can also be used while [[Travel|travelling]] (e.g. on a [[Airliner|passenger plane]] or a [[Passenger train|train]]). 
+ ===Download=== 
+ Users first download Kiwix. Then they download content for offline viewing with Kiwix. [[Data compression|Compression]] saves [[disk space]] and [[Bandwidth (computing)|bandwidth]]. All of English-language Wikipedia, with pictures, fits on a large [[USB stick]] or external media  (82 & nbsp;GB as of march 2021, or 43 GB with no pictures). < ref name= " Slashdot.org "  / > < ref name= " Content in all languages - Kiwix " > {{Cite web|title=Content in all languages - Kiwix|url=https://wiki.kiwix.org/Content_in_all_languages|access-date=2016-08-08|website=wiki.kiwix.org|df=dmy-all}} < /ref > 
+ ===Files=== 
+ All content files are compressed in [[ZIM (file format)|ZIM format]]. It makes them smaller, but leaves them easy to index, search, and selectively decompress. 
+ 
+ The ZIM files are then opened with Kiwix, which looks and behaves like a [[web browser]]. Kiwix offers full [[text search]], [[Tab (GUI)|tabbed navigation]], and the option to export articles to [[PDF]] and [[HTML]]. < ref name= " sourceforge " > {{cite web|title=Kiwix|url=http://sourceforge.net/projects/kiwix/|access-date=22 March 2012|publisher=[[SourceForge]]|df=dmy-all}} < /ref > 
+ 
+ == Related pages == 
+ * [[XOWA]] 
+ * [[Wikipedia:Database download]] 
+ * [[Internet-in-a-Box]] 
+ * [[metawiki:Offline_Projects|Wikimedia offline projects]] 
+ ==References== 
+ {{reflist}} 
+ [[Category:Free software]] 
+ [[Category:Web browsers]]

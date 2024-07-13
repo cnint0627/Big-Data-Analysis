@@ -1,0 +1,18 @@
+{{otheruses}} 
+ 
+ [[File:Gradient2.svg|thumb|300px|The values of the function are shown in black and white. The darker areas have higher values. The blue arrows show the gradient.]] 
+ 
+ In [[vector calculus]], the '''gradient''' of a multivariate function measures how steep a curve is. On a graph of the [[Function (mathematics)|function]], it is the slope of the tangent of that curve. More generally, it is a [[vector]] that points in the direction in which the function grows the fastest. Its [[coordinate]]s are [[partial derivative]]s of that function. The gradient of a function ''f'' is often written as  < math > \nabla f < /math >  or  < math > \operatorname{grad} f < /math > . < ref > {{Cite web|date=2020-05-11|title=List of Calculus and Analysis Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/|access-date=2020-09-16|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|title=The gradient vector {{!}} Multivariable calculus (article)|url=https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/the-gradient|access-date=2020-09-16|website=Khan Academy|language=en}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Gradient|url=https://mathworld.wolfram.com/Gradient.html|access-date=2020-09-16|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ == Related pages == 
+ 
+ * [[Laplace operator]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Mathematical analysis]] 
+ [[Category:Calculus]]

@@ -1,0 +1,14 @@
+[[File:Synth_rack_@_Choking_Sun_Studio.jpg|link=//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Synth_rack_%40_Choking_Sun_Studio.jpg/220px-Synth_rack_%40_Choking_Sun_Studio.jpg|alt=Several rack-mounted synthesizers that share a single controller|thumb|Using MIDI, a single controller (often a musical keyboard, as pictured here) can play multiple electronic instruments, which increases the portability and flexibility of stage setups. |248x248px]] 
+ '''MIDI''' ({{IPAc-en|ˈ|m|ɪ|d|i}}; '''Musical Instrument Digital Interface''') is a [[Standard|technical standard]]. It describes a [[Communication protocol|communications protocol]], [[Digital electronics|digital interface]], and [[Connector|electrical connectors]]. It connect a large variety of electronic musical instruments, digital devices for playing, editing, and recording music. < ref > {{Citation|last=Swift|first=Andrew.|title=A brief Introduction to MIDI|date=May 1997|url=http://www.doc.ic.ac.uk/~nd/surprise_97/journal/vol1/aps2/|work=SURPRISE|archive-url=https://web.archive.org/web/20120830211425/http://www.doc.ic.ac.uk/~nd/surprise_97/journal/vol1/aps2/|publisher=Imperial College of Science Technology and Medicine|access-date=22 August 2012|archive-date=30 August 2012}} < /ref >    
+ 
+ A MIDI recording is not an [[Signal (electrical engineering)|audio signal]]. It is more like a piano roll, identifying the pitch, start and stop time and other properties of each individual note. < ref name= " russ2012 " > {{cite book |last=Russ |first=Martin |year=2012 |title=Sound Synthesis and Sampling |url=https://books.google.com/books?id=X9h5AgAAQBAJ & pg=PA192 |publisher=[[CRC Press]] |isbn= 978-1136122149 |page=192 |access-date=26 April 2017 }} < /ref > 
+ 
+ The [[:en:Personal_computer|personal computer]] market stabilized at the same time, < ref name= " casabona " > {{cite book|url=https://books.google.com/books?id=6K5Tpl_zBoEC & pg=PA15|title=Advanced MIDI Applications|author1=Helen Casabona|author2=David Frederick|publisher=[[Alfred Music]]|isbn=9781457438936|page=15}} < /ref > < ref name= " emusician-mpu " > [http://www.textfiles.com/music/midi-em.txt MIDI INTERFACES FOR THE IBM PC] {{webarchive|url=https://web.archive.org/web/20151021050032/http://textfiles.com/music/midi-em.txt|date=21 October 2015}}, ''[[Electronic Musician]]'', September 1990 < /ref >  popularizing the MIDI format, and helped computers become a viable option for music production. < ref name= " Manning3 " > Manning, Peter. ''Electronic and Computer Music''. 1985. Oxford: Oxford University Press, 1994. Print. < /ref > [[File:MIDI_LOGO.svg|link=//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MIDI_LOGO.svg/220px-MIDI_LOGO.svg.png|thumb|Logo of MIDI (from the MIDI Manufacturers Association)|156x156px]] 
+ == Sources == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ 
+ * [https://www.midi.org/ The MIDI Association] 
+ {{Authority control}} 
+ [[Category:Electronic music]]

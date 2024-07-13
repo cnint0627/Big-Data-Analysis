@@ -1,0 +1,119 @@
+{{Use dmy dates|date=February 2020}} 
+ {{Use American English|date=December 2017}} 
+ {{infobox cryptocurrency 
+ | currency_name = Bitcoin 
+ | image_1 = Bitcoin logo.svg 
+ | image_2 =  
+ | image_title_1 =  
+ | alt1 = Prevailing bitcoin logo 
+ | precision = 10 < sup > −8 < /sup > 
+ | subunit_ratio_1 = {{frac|1000}} 
+ | subunit_name_1 = millibitcoin 
+ | subunit_ratio_2 = {{frac|{{val|1000000}}}} 
+ | subunit_name_2 = microbitcoin 
+ | subunit_ratio_3 = {{frac|{{val|100000000}}}} 
+ | subunit_name_3 = {{lang|ja-Latn|satoshi|italic=no}} < ref name= " satoshi unit " > {{Cite web |last=Mick |first=Jason |date=12 June 2011 |title=Cracking the Bitcoin: Digging Into a $131M USD Virtual Currency |url=http://www.dailytech.com/Cracking+the+Bitcoin+Digging+Into+a+131M+USD+Virtual+Currency/article21878.htm |url-status=dead |archive-url=https://archive.today/20130120051306/http://www.dailytech.com/Cracking+the+Bitcoin+Digging+Into+a+131M+USD+Virtual+Currency/article21878.htm |archive-date=20 January 2013 |access-date=30 September 2012 |publisher=Daily Tech}} < /ref > 
+ | plural = bitcoins 
+ | symbol = ₿ (Unicode: {{unichar|20BF|BITCOIN SIGN|html=}}){{efn|group=infobox|The symbol was encoded in [[Unicode]] version 10.0 at position {{unichar|20BF|BITCOIN SIGN}} in the [[Currency Symbols (Unicode block)|Currency Symbols block]] in June 2017. < ref name= " unicode-10 " > {{Cite web |date=20 June 2017 |title=Unicode 10.0.0 |url=https://www.unicode.org/versions/Unicode10.0.0/ |url-status=live |archive-url=https://web.archive.org/web/20170620130342/http://www.unicode.org/versions/Unicode10.0.0/ |archive-date=20 June 2017 |access-date=20 June 2017 |publisher=Unicode Consortium}} < /ref > }} 
+ | code = BTC,{{efn|group=infobox|Very early software versions used the code  " BC " .}} XBT{{efn|group=infobox|Compatible with ISO 4217.}} 
+ | implementations = Bitcoin Core 
+ | initial_release_version = 0.1.0 
+ | initial_release_date = {{Start date and age|df=yes|2009|1|9|p=y}} 
+ | code_repository = {{URL|https://github.com/bitcoin/bitcoin}} 
+ | status = Active 
+ | latest_release_version = 22.0 
+ | latest_release_date = {{Start date and age|df=yes|2021|9|13|p=y}} < ref > {{Cite web |title=Bitcoin Core 22.0 |url=https://bitcoincore.org/en/releases/22.0/ |access-date=14 September 2021}} < /ref > 
+ | forked_from =  
+ | programming_languages =  
+ | operating_system =  
+ | author = [[Satoshi Nakamoto]] 
+ | developer =  
+ | white_paper = [https://bitcoin.org/bitcoin.pdf  " Bitcoin: A Peer-to-Peer Electronic Cash System " ] < ref name= " paper "  / > 
+ | source_model =  
+ | license =  
+ | website = {{URL|https://bitcoin.org}} 
+ | ledger_start = {{Start date and age|df=yes|2009|1|3|p=y}} 
+ | hash_function = [[SHA-256]] (two rounds) 
+ | circulating_supply = ₿18,830,000{{efn|Approximate supply as of 2021-09-30}} < ref > {{cite web |date=2021-09-30 |title=Bitcoin |url=https://coinmarketcap.com/currencies/bitcoin/}} < /ref > 
+ | supply_limit = ₿21,000,000 < ref > {{cite web |last=Nakamoto |display-authors=et al |date=1 April 2016 |title=Bitcoin source code - amount constraints |website=[[GitHub]] |url=https://github.com/bitcoin/bitcoin/blob/08a7316c144f9f2516db8fa62400893f4358c5ae/src/amount.h |url-status=live |archive-url=https://web.archive.org/web/20180701112835/https://github.com/bitcoin/bitcoin/blob/08a7316c144f9f2516db8fa62400893f4358c5ae/src/amount.h |archive-date=1 July 2018}} < /ref > {{efn|The supply will approach, but never reach, ₿21 million. Issuance will permanently halt {{circa}} 2140 at ₿20,999,999.9769. < ref name= " Antonopoulos2014 " > {{Cite book |last=Antonopoulos, Andreas M. |title=Mastering Bitcoin: Unlocking Digital Crypto-Currencies |date=April 2014 |publisher=O'Reilly Media |isbn=978-1-4493-7404-4 |author-link=Andreas Antonopoulos}} < /ref > {{rp|ch. 8}}}} 
+ | timestamping = [[Proof-of-work system|Proof-of-work]] (partial hash inversion) 
+ | issuance_schedule = Decentralized (block reward) < br / > Initially ₿50 per block, halved every 210,000 blocks < ref name= " JSC " > {{Cite web |date=19 November 2013 |title=Statement of Jennifer Shasky Calvery, Director Financial Crimes Enforcement Network United States Department of the Treasury Before the United States Senate Committee on Banking, Housing, and Urban Affairs Subcommittee on National Security and International Trade and Finance Subcommittee on Economic Policy |url=https://www.fincen.gov/sites/default/files/2016-08/20131118.pdf |url-status=live |archive-url=https://web.archive.org/web/20161009183700/https://www.fincen.gov/sites/default/files/2016-08/20131118.pdf |archive-date=9 October 2016 |access-date=1 June 2014 |website=fincen.gov |publisher=Financial Crimes Enforcement Network}} < /ref > 
+ | block_time = 10 minutes 
+ | block_reward = ₿6.25{{efn|group=infobox|May 2020 to approximately 2024, halved approximately every four years}} 
+ | market_cap = US$1.149 trillion{{efn|group=infobox|As of October 22, 2021}} 
+ | footnotes = {{notelist|group=infobox}} 
+ | using_countries = {{Flag|El Salvador}} < ref name= " BTCSVSept7FT " / > 
+ }} 
+ {{Special characters}} 
+ 
+ 
+ 
+ '''Bitcoin''' {{efn|The word ''bitcoin'' first occurred and was defined in the [[white paper]] < ref name= " paper " / >  published 31 October 2008; < ref name= " ageofcr " > {{Cite book |last1=Vigna |first1=Paul |title=The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order |last2=Casey |first2=Michael J. |url=https://archive.org/details/ageofcryptocurre0000vign |date=January 2015 |publisher=St. Martin's Press |isbn=978-1-250-06563-6 |edition=1 |location=New York}} < /ref >  it is a [[Compound (linguistics)|compound]] of the words ''[[bit]]'' and ''[[coin]]''. < ref name= " btox " > {{Cite web |title=bitcoin |url=http://www.oxforddictionaries.com/definition/english/bitcoin |url-status=live |archive-url=https://web.archive.org/web/20150102041748/http://www.oxforddictionaries.com/definition/english/bitcoin |archive-date=2 January 2015 |access-date=28 December 2014 |publisher=[[OxfordDictionaries.com]]}} < /ref >  No uniform convention for ''bitcoin'' capitalization exists; some sources use ''Bitcoin'', capitalized, to refer to the technology and [[computer network|network]] and ''bitcoin'', lowercase, to refer to the unit of account. < ref name= " capitalization " > {{Cite magazine |last=Bustillos, Maria |date=2 April 2013 |title=The Bitcoin Boom |url=https://www.newyorker.com/tech/elements/the-bitcoin-boom |url-status=live |archive-url=https://web.archive.org/web/20140727185121/http://www.newyorker.com/tech/elements/the-bitcoin-boom |archive-date=27 July 2014 |access-date=22 December 2013 |magazine=The New Yorker |publisher=Condé Nast |quote=Standards vary, but there seems to be a consensus forming around Bitcoin, capitalized, for the system, the software, and the network it runs on, and bitcoin, lowercase, for the currency itself.}} < /ref >  ''[[The Wall Street Journal]]'', < ref > {{Cite news |last=Vigna |first=Paul |date=3 March 2014 |title=BitBeat: Is It Bitcoin, or bitcoin? The Orthography of the Cryptography |work=[[Wall Street Journal|WSJ]] |url=https://blogs.wsj.com/moneybeat/2014/03/14/bitbeat-is-it-bitcoin-or-bitcoin-the-orthography-of-the-cryptography |url-status=live |access-date=21 April 2014 |archive-url=https://web.archive.org/web/20140419024119/http://blogs.wsj.com/moneybeat/2014/03/14/bitbeat-is-it-bitcoin-or-bitcoin-the-orthography-of-the-cryptography/ |archive-date=19 April 2014}} < /ref >  ''[[The Chronicle of Higher Education]]'', < ref > {{Cite web |last=Metcalf |first=Allan |date=14 April 2014 |title=The latest style |url=http://chronicle.com/blogs/linguafranca/2014/04/11/the-latest-style/ |url-status=live |archive-url=https://web.archive.org/web/20140416083920/http://chronicle.com/blogs/linguafranca/2014/04/11/the-latest-style/ |archive-date=16 April 2014 |access-date=19 April 2014 |series=Lingua Franca blog |publisher=The Chronicle of Higher Education (chronicle.com)}} < /ref >  and the ''[[Oxford English Dictionary]]''{{r|btox}} advocate use of lowercase ''bitcoin'' in all cases, a convention followed throughout this article.}} ('''₿''') is a [[digital]] and global [[Currency|money system]] [[cryptocurrency]]. It allows people to send or receive cryptocurrency units across the [[internet]], even to someone they don't know or don't trust. It is the first of its kind technology that allows the [[Transfer case|transfer]] of digital [[scarcity]] across the internet without needing a third party. Cryptocurrency units can be exchanged without being linked to a real identity. The [[Mathematics|mathematical]] field of [[cryptography]] is the basis for Bitcoin's [[security]]. 
+ 
+ Bitcoin was invented by someone using the name {{lang|ja-Latn|[[Satoshi Nakamoto]]|italic=no}}. < ref name= " whoissn " > {{Cite news |last=S. |first=L. |date=2 November 2015 |title=Who is Satoshi Nakamoto? |newspaper=The Economist |publisher=The Economist Newspaper Limited |url=https://www.economist.com/blogs/economist-explains/2015/11/economist-explains-1 |url-status=live |access-date=23 September 2016 |archive-url=https://web.archive.org/web/20160821154511/http://www.economist.com/blogs/economist-explains/2015/11/economist-explains-1 |archive-date=21 August 2016}} < /ref >  A Bitcoin address, or simply address, is an identifier of 26-35 letters and numbers, beginning with the number 1, 3, or bc1, that represents a possible destination for a bitcoin payment. Addresses can be generated at no cost by any user of Bitcoin. For example, using Bitcoin [[Core]], one can click  " New Address "  and be assigned an address. It is also possible to get a Bitcoin address using an account at an exchange or online wallet service. 
+ 
+ ==History== 
+ 
+ ===Creation=== 
+ The domain name  " bitcoin.org "  was registered on 18 August 2008. < ref > {{Cite news |last=Bernard |first=Zoë |date=2 December 2017 |title=Everything you need to know about Bitcoin, its mysterious origins, and the many alleged identities of its creator |work=Business Insider |url=http://www.businessinsider.com/bitcoin-history-cryptocurrency-satoshi-nakamoto-2017-12 |url-status=live |access-date=15 June 2018 |archive-url=https://web.archive.org/web/20180615010015/http://www.businessinsider.com/bitcoin-history-cryptocurrency-satoshi-nakamoto-2017-12 |archive-date=15 June 2018}} < /ref >  On 31 October 2008, a link to a paper authored by [[Satoshi Nakamoto]] titled ''Bitcoin: A [[Peer-to-peer|Peer-to-Peer]] Electronic Cash System'' < ref name= " paper " > {{Cite web |last=Nakamoto |first=Satoshi |date=31 October 2008 |title=Bitcoin: A Peer-to-Peer Electronic Cash System |url=https://bitcoin.org/bitcoin.pdf |url-status=live |archive-url=https://web.archive.org/web/20140320135003/https://bitcoin.org/bitcoin.pdf |archive-date=20 March 2014 |access-date=28 April 2014 |publisher=bitcoin.org}} < /ref >  was posted to a cryptography mailing list. < ref > {{Cite magazine |last=Finley |first=Klint |date=31 October 2018 |title=After 10 Years, Bitcoin Has Changed Everything—And Nothing |magazine=Wired |url=https://www.wired.com/story/after-10-years-bitcoin-changed-everything-nothing/ |url-status=live |access-date=9 November 2018 |archive-url=https://web.archive.org/web/20181105070656/https://www.wired.com/story/after-10-years-bitcoin-changed-everything-nothing/ |archive-date=5 November 2018}} < /ref > 
+ 
+ In June 2021, [[El Salvador]] became the first country in the world to make Bitcoin a [[legal tender]]. < ref > {{cite web |url=https://www.forbes.com/sites/roberthart/2021/06/09/el-salvador-makes-history-as-worlds-first-country-to-make-bitcoin-legal-tender/?sh=65b79b70eaa3 |title=El Salvador Makes History As World's First Country To Make Bitcoin Legal Tender |last=Hart |first=Robert |date=9 June 2021 |website=Forbes |publisher= |access-date=9 June 2021 |quote=}} < /ref >  In April 2022, the [[Central African Republic]] made bitcoin a legal tender. < ref > {{Cite web|url=https://www.bbc.com/news/world-africa-61248809|title=Bitcoin becomes official currency in Central African Republic |date=27 April 2022|accessdate=27 April 2022|work=BBC News}} < /ref > 
+ 
+ == Pseudonymous == 
+ One of the [[Difference|differences]] between using bitcoin and using regular money online is that bitcoin can be used without having an internet connection to link any sort of real-world identity to it. Unless someone chooses to link their name to a bitcoin address, it is hard to tell who owns the address. Bitcoin does not keep track of users; it keeps track of addresses where the money is. Each address has two important pieces of [[cryptographic]] information, or keys: a public one and a private one.  
+ 
+ The public key, which is what the  " bitcoin address "  is created from, is similar to an email address; anyone can look it up and send bitcoins to it. The private address, or private key, is similar to an email [[password]]; only with it can the owner send bitcoins from it. Because of this, it is very important that this private key is kept [[Secrecy|secret]]. To send bitcoins from an address, you prove to the network that you own the private key that belongs to the address, without revealing the private [[key]]. This is done with a branch of mathematics known as [[public-key cryptography]]. 
+ 
+ === Public key === 
+ A public key is what determines the ownership of bitcoins, and is very similar to an [[ID number]]. If someone wanted to send you bitcoins, all you would need to do is supply them your bitcoin address, which is a version of your public key that is easier to read and type. For example, if Bob has 1 bitcoin at the bitcoin address  " ABC123, "  and Alice has no bitcoins at the bitcoin address  " DEF456, "  Bob can send 0.5 bitcoins to  " DEF456. "  As soon as the transaction is processed, Alice and Bob both have 0.5 bitcoins. Anyone using the system can see how much money  " ABC123 "  has and how much money  " DEF456 "  has, but they cannot tell anything about who owns the address. 
+ 
+ === Private key === 
+ A Bitcoin private key has 52 characters consisting of letters and numbers. It is, simply, a random number. The set of numbers that can make up a private key is extremely large. The Bitcoin private key can be any number from a maximum of 2 to the power of 256. < ref name= " econbc " / > 
+ 
+ In the example above,  " ABC123 "  and  " DEF456 "  are the bitcoin addresses of Bob and Alice. But Bob and Alice each have a second key which only they individually know. This is the private key, and it is the  " other half "  of a Bitcoin address. The private key is never shared, and allows the owner of the bitcoins to control them. However, if the private key is not kept secret, then anyone who sees it can also control and take the bitcoins there. This happened on live TV when [[Bloomberg's]] Matt Miller accidentally showed a private key to viewers. < ref > {{Cite web|url=https://www.businessinsider.com/bloomberg-matt-miller-bitcoin-gift-stolen-2013-12|title=A Bloomberg TV Host Gifted Bitcoin On Air And It Immediately Got Stolen|last=Ro|first=Sam|website=Business Insider|access-date=2020-06-30}} < /ref >  The money was taken immediately. The person who took it, told others about it later, saying  " I'll send it back once Matt gives me a new address, since someone else can sweep [empty] out the old one. " 
+ 
+ == Technical Details == 
+ === Blockchain === 
+ Sites or users using the Bitcoin system are required to use a global [[database]] called [[blockchain]]. Blockchain is a record of all transactions that have taken place in the Bitcoin network. It also keeps track of new bitcoins as they are generated.  With these two facts, the blockchain can keep track of who has how much money at all times.{{cn}} 
+ 
+ === Mining === 
+ The process of generating the bitcoins is called mining. < ref name= " econbc " > {{Cite news |date=31 October 2015 |title=The great chain of being sure about things |newspaper=The Economist |publisher=The Economist Newspaper Limited |url=https://www.economist.com/news/briefing/21677228-technology-behind-bitcoin-lets-people-who-do-not-know-or-trust-each-other-build-dependable |url-status=live |access-date=20 October 2022 |archive-url=https://web.archive.org/web/20160703000844/http://www.economist.com/news/briefing/21677228-technology-behind-bitcoin-lets-people-who-do-not-know-or-trust-each-other-build-dependable |archive-date=3 July 2016}} < /ref >  To generate a bitcoin, a miner must solve a math problem. However, the difficulty of the math problem depends on how many people are mining for bitcoin at the moment. Because of how complicated the math problems usually are, they must be calculated with very powerful [[processor|processors.]] These processors can be found in CPUs, graphics cards, or specialized machines called ASICs. People who use these machines to mine bitcoins are called miners. Miners either compete with one another or work together in groups to solve a mathematical puzzle. The first miner or group of miners to solve the particular puzzle are rewarded with new bitcoins. 
+ 
+ The puzzle is determined by the transactions being sent at the time and the previous puzzle solution. This means the solution to one puzzle is always different from the puzzles before. Attempting to change an earlier transaction, maybe to fake bitcoins being sent or change the number of someone's bitcoins, requires solving that puzzle again, which takes a lot of work, and also requires solving each of the following puzzles, which takes even more work. This means a bitcoin cheater needs to outpace all the other bitcoin miners to change the bitcoin history. This makes the bitcoin blockchain very safe to use. 
+ 
+ When miners mine a block of bitcoin, they receive a reward. This reward gets cut in half every 210,000 blocks, which occurs roughly once every 4 years. < ref > {{cite web|last1=Frankenfield|first1=James|title=What is a block reward?|url=https://www.investopedia.com/terms/b/block-reward.asp|access-date=17 September 2021|website=Investopedia.com|publisher=Dotdash}} < /ref >  During Bitcoin's inception, the block reward was 50 BTC. It was halved to 25 BTC on November 28th, 2012, and to 12.5 BTC on July 9th, 2016. As of May 11th, 2020, the block reward has been 6.25 BTC. < ref > {{cite web|title=Bitcoin Block Reward Halving Countdown|url=https://www.bitcoinblockhalf.com/|access-date=17 September 2021|website=bitcoinblockhalf.com}} < /ref > 
+ 
+ === QR codes === 
+ [[File:A paper printable Bitcoin wallet consisting of one bitcoin address for receiving and the corresponding private key for spending.png|thumb|A paper printable bitcoin wallet consisting of one bitcoin address for receiving and the corresponding private key for spending.]] 
+ A popular image associated with Bitcoin is a [[QR code]]. QR codes are a group of black and white boxes that are similar to barcodes.  Barcodes are a row of lines, and QR codes are a grid of squares. Bitcoin uses QR codes because they can store more information in a small space, and a camera such as a [[smartphone]] can read them. The two QR codes on the Bitcoin note are the public and private addresses, and can be scanned with a number of online tools. 
+ 
+ === Exchanges === 
+ [[File:An actual Bitcoin transaction from the Kraken cryptocurrency exchange to a hardware LedgerWallet.jpg|thumb|An actual bitcoin transaction from a web based cryptocurrency exchange to a hardware wallet.]] 
+ Everyone in the Bitcoin network is considered a peer, and all addresses are created equal. All transactions can take place solely from peer to peer, but a number of sites exist to make these transactions simpler. These sites are called exchanges. Exchanges provide tools for dealing in Bitcoin. Some allow the purchase of Bitcoin from external accounts, and others allow trading with other cryptography-based currencies like Bitcoin. Most exchanges also provide a basic  " wallet "  service. 
+ 
+ === Wallets === 
+ Wallets provide a handy way to keep track of all of a user's public and private addresses. Because addresses are [[Pseudonym|pseudo]] a [[anonymous]], anyone can have as many addresses as they want.{{cn}} This is useful for dealing with multiple people, but it can get complicated to manage multiple accounts. A wallet holds all of this information in a convenient place, just like a real wallet would. A backup of a wallet prevents 'losing' the bitcoins. 
+ 
+ == Popularity == 
+ During the [[2010s]], Bitcoin has gained the attention of the mainstream media. < ref > {{cite web|url=http://www.google.com/trends/explore#q=bitcoin|title=Google Trends|website=Google Trends}} < /ref >  Adoption growth has not only happened for consumers, < ref > {{cite web|url=https://www.100forexbrokers.com/news/bitcoins-adoption-increases-at-unprecedented-levels/|title=Bitcoin's Adoption Increases at Unprecedented Levels|first=Ruby|last=Sarah|website=ForexBrokers|date=16 February 2021 }} < /ref >  but also for many companies, who are looking to make use of all of the advantages of Bitcoin. 
+ 
+ As of 2018, Bitcoin was most popular cryptocurrency, followed by [[Ethereum]] and [[Litecoin]]. < ref > {{cite web|url=https://www.forbes.com/sites/panosmourdoukoutas/2018/03/25/bitcoin-ethereum-and-litecoin-are-the-most-popular-cryptocurrency-investments-among-millennials/|title=Bitcoin, Ethereum And Litecoin Are The Most Popular Cryptocurrency Investments Among Millennials|first=Panos|last=Mourdoukoutas|website=Forbes}} < /ref > 
+ 
+ As of [[2021]], [[El Salvador]] is the first country in the world to adopt the Bitcoin as a [[legal tender]]. < ref > {{cite news|url=https://www.bloomberg.com/news/articles/2021-06-09/el-salvador-president-says-nation-adopts-bitcoin-as-legal-tender|title=El Salvador President Says Nation Adopts Bitcoin as Legal Tender|first=Jagtiani|last=Sunil|newspaper=Bloomberg.com|date=9 June 2021 }} < /ref > 
+ 
+ == Criticism == 
+ Bitcoin has often been criticized for its unstable price, its network's high electricity consumption, and for its high transaction fees. Additionally, it has been criticized for having characteristics in common with [[Ponzi scheme|Ponzi]] and [[pyramid scheme]]s. 
+ 
+ ==Notes== 
+ {{Notelist|30em}} 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commons category|Bitcoin}} 
+ * [https://www.bitcoin.org/ Bitcoin.org website] 
+ * {{Curlie|Science/Social_Sciences/Economics/Financial_Economics/Currency_and_Money/Alternative_Monetary_Systems/Cryptocurrencies/Bitcoin}} 
+ 
+ [[Category:2009 establishments]] 
+ [[Category:Cryptocurrency]]

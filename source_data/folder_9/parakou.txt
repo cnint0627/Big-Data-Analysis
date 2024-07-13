@@ -1,0 +1,96 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |name          = Parakou 
+ |other_name          jekejej   = 
+ |native_name            =   < !-- for cities whose native name is not in English -- > 
+ |nickname               =  
+ |settlement_type        =[[List of cities in Benin|City]] and [[Communes of Benin|commune]] 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = Place de la municipalité 10.jpg 
+ |image_caption          = Central Parakou, 2019 
+ |image_flag             =  
+ |flag_size              = 
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           =  
+ |shield_size            = 
+ |image_map              =  
+ |mapsize                = 
+ |map_caption            =  
+ |pushpin_map            = Benin < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =bottom 
+ |pushpin_mapsize        =240 
+ |pushpin_map_caption    =Location in Benin 
+ < !-- Location ------------------ > 
+ |subdivision_type       = [[List of sovereign states|Country]] 
+ |subdivision_name       = {{BEN}} 
+ |subdivision_type1      = [[Departments of Benin|Department]] 
+ |subdivision_name1      = [[Borgou Department]] 
+ |subdivision_type2      = 
+ |subdivision_name2      =  
+ |subdivision_type3      = 
+ |subdivision_name3      =  
+ | < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            = 
+ |leader_title1          =   < !-- for places with, say, both a mayor and a city manager -- > 
+ |leader_name1           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       =  
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref                =Metric  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = 
+ |area_total_km2           = 441 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ < !-- Population   ----------------------- > 
+ |population_as_of               =2012 
+ |population_footnotes           = < ref > {{cite web|url=http://www.world-gazetteer.com/wg.php?x= & men=gcis & lng=en & des=wg & geo=-35 & srt=npan & col=abcdefghinoq & msz=1500 & pt=c & va= & srt=pnan |title=World Gazetteer |publisher=World Gazetteer |access-date=2013-07-27 |archive-url=https://archive.today/20130111114716/http://www.world-gazetteer.com/wg.php?x= & men=gcis & lng=en & des=wg & geo=-35 & srt=npan & col=abcdefghinoq & msz=1500 & pt=c & va= & srt=pnan |archive-date=January 11, 2013 |url-status=dead }} < /ref > 
+ |population_note                = 
+ |population_total               =206667 
+ |population_density_km2         =auto 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_blank1_title        =Ethnicities 
+ |population_blank1              = 
+ |population_density_blank1_km2 =    
+ |population_density_blank1_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               =[[West Africa Time|WAT]]  
+ |utc_offset             = +1 
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ |coordinates            = {{coord|9|21|N|2|37|E|region:BJ|display=inline}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            = 324 
+ |elevation_ft           = 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             = 
+ |blank_info             = 
+ |blank1_name            = 
+ |blank1_info            = 
+ |website                =  
+ |footnotes              =  
+ }}  
+ '''Parakou''' is the largest city in northern [[Benin]]. It is the capital of the [[Borgou Department]]. In 2012, 206,667 people lived there. 
+ 
+ Since 2015, the mayor is Souradjou Adamou Karimou. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{authority control}} 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:Cities in Africa]] 
+ [[Category:Settlements in Benin]]

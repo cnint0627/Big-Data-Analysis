@@ -1,0 +1,21 @@
+A '''colorimeter''' is a device used for measuring colours, or [[colorimetry]]. It measures the [[absorbance]] of different [[wavelength]]s of light in a [[solution]]. It can be used to measure the [[concentration]] of a known [[solute]]. 
+ 
+ Different chemical substances absorb different wavelengths of light. When the concentration of the solute is higher, it absorbs more light in a specific wavelength. This is known as the [[Beer-Lambert law]]. 
+ 
+ == Different parts == 
+ The most important parts of a colorimeter are: 
+ * a light source, which is usually an ordinary [[Light bulb|filament lamp]] 
+ * an aperture, which can be adjusted 
+ * a set of filters in different colors 
+ * a detector that measures the light which has passed through the solution 
+ 
+ === Filters === 
+ Different [[Optical filter|filters]] are used to select the wavelength of light which the solution absorbs the most. This makes the colorimeter more accurate. Solutions are usually placed in glass or plastic [[cuvette]]s. The usual wavelengths used are between 400 and 700 [[nanometer]]s. If it is necessary to use [[ultraviolet]] light (below 400 nanometers) then the lamp and filters must be changed. 
+ 
+ == Output == 
+ The output of the colorimeter may be shown in graphs or tables, by an [[analog signal|analogue]] or [[digital]] meter. The data may be printed on paper, or stored in a [[computer]]. The output may be shown as [[transmittance]] (a [[linear]] scale from 0-100%) or as [[absorbance]] (a [[logarithmic scale]] from zero to infinity). The useful range of the absorbance scale is from 0-2 but it is desirable to keep within the range 0-1 because, above 1, the results become unreliable due to scattering of light. A Transmittance-Absorbance conversion table may be seen here.[http://www.finarchemicals.com/pdf/transmittance-absorbance-conversion.pdf] 
+ 
+ 
+ {{LaboratoryEquipment}} 
+ 
+ [[Category:Laboratory equipment]]

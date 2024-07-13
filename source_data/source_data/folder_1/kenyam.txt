@@ -1,0 +1,91 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Basic info  ---------------- > 
+ |name          = Kenyam 
+ |other_name             = 
+ |native_name            =   < !-- for cities whose native name is not in English -- > 
+ |nickname               =  
+ |settlement_type        = 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = 
+ |imagesize              =  
+ |image_caption          =  
+ |image_flag             =  
+ |flag_size              = 
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           =  
+ |shield_size            = 
+ |image_map              =  
+ |mapsize                = 
+ |map_caption            =  
+ |pushpin_map            = Indonesia_Papua#Indonesia 
+ |pushpin_label_position =bottom 
+ |pushpin_mapsize        =310 
+ |pushpin_map_caption    = Location in [[Papua (province)|Papua]] and [[Indonesia]] 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = {{flag|Indonesia}} 
+ |subdivision_type1      = [[Provinces of Indonesia|Province]] 
+ |subdivision_name1      = [[Papua (province)|Papua]] 
+ |subdivision_type2      = [[Regencies of Indonesia|Regency]] 
+ |subdivision_name2      = [[Nduga Regency]] 
+ |subdivision_type3      = [[Districts of Indonesia|District]] 
+ |subdivision_name3      = Kenyam District 
+ | < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           =  
+ |leader_name            =  
+ |established_title      =   < !-- Settled -- > 
+ |established_date       =  
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref                =Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = 
+ |area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ < !-- Population   ----------------------- > 
+ |population_as_of =2010 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               = 8148 < ref name=census2010 > {{Cite web |url=http://bps.go.id/eng/download_file/Population_of_Indonesia_by_Village_2010.pdf |title=Population of Indonesia by Village: Result of 2010 Population Census|publisher=Statistics Indonesia |access-date=2020-07-24 |archive-url=https://web.archive.org/web/20130406122047/http://bps.go.id/eng/download_file/Population_of_Indonesia_by_Village_2010.pdf |archive-date=6 April 2013 |url-status=dead }} < /ref > 
+ |population_density_km2 =auto 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_blank1_title        =Ethnicities 
+ |population_blank1              = 
+ |population_density_blank1_km2 =    
+ |population_density_blank1_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               = [[Time in Indonesia|Indonesia Eastern Standard Time]] 
+ |utc_offset             = +9 
+ |timezone_DST           = 
+ |utc_offset_DST         =  
+ |coordinates            = {{coord|4|36|5.3172|S|138|23|1.0644|E|region:ID|display=inline,title}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            = 513 
+ |elevation_ft           =  
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              = 
+ |blank_name             = 
+ |blank_info             = 
+ |blank1_name            = 
+ |blank1_info            = 
+ |website                =  
+ |footnotes              =  
+ }} 
+ 
+ '''Kenyam''' is a town and district in [[Nduga Regency]], [[Papua (province)|Papua]], [[Indonesia]]. It is the capital of the regency. Its population is 8,148. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Towns in Indonesia]] 
+ 
+ {{geo-stub}}

@@ -1,0 +1,31 @@
+{{italic title}} 
+ {{Taxobox 
+ | name = ''Histiobranchus'' 
+ | image = Histiobranchus bathybius1.jpg 
+ | image_width = 240px 
+ | image_caption =  
+ | regnum = [[Animalia]] 
+ | phylum = [[Chordata]] 
+ | classis = [[Actinopterygii]] 
+ | ordo = [[Anguilliformes]] 
+ | familia = [[Cutthroat eel|Synaphobranchidae]] 
+ | genus = '''''Histiobranchus''''' 
+ | genus_authority = [[Theodore Nicholas Gill|T. N. Gill]], 1883 
+ | subdivision_ranks = Species 
+ | subdivision = See text 
+ }}  
+ [[File:Histiobranchus bathybius.jpg|thumb|250px|''[[Histiobranchus bathybius]]'']] 
+ '''''Histiobranchus''''' is a genus of [[eel]]s in the family [[Synaphobranchidae]].  It currently contains the following species: 
+ * [[Histiobranchus australis|''Histiobranchus australis'']] < small >  Regan, 1913 < /small > < ref name= " Fishbase, 2012 " > Fishbase: Scientific Names where Genus Equals ''Histiobranchus'' [http://www.fishbase.org/NomenClature/ScientificNameSearchList.php?crit1_fieldname=SYNONYMS.SynGenus & crit1_fieldtype=CHAR & crit1_operator=EQUAL & crit2_fieldname=SYNONYMS.SynSpecies & crit2_fieldtype=CHAR & crit2_operator=contains & group=summary & backstep=-2 & crit1_value=Histiobranchus] < /ref > < ref name= " WoRMS, 2012 " > World Register of Marine Species (WoRMS): ''Histiobranchus'' Gill, 1884 AphiaID: 125653 [http://www.marinespecies.org/aphia.php?p=taxdetails & id=125653125654] < /ref > < ref name= " NCBI, 2012 " > National Center for Biotechnology Information (NCBI): ''Histiobranchus'' Taxonomy ID: 125653 [http://www.marinespecies.org/aphia.php?p=taxdetails & id=125653] < /ref > < ref name= " ITIS, 2012 " > Integrated Taxonomic Information System (ITIS): Ilyophis  ''Histiobranchus''  Gill, 1883 Taxonomic Serial No.: 161588 [https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN & search_value=161588] < /ref > 
+ * [[Histiobranchus bathybius|''Histiobranchus bathybius'']] (Deepwater arrowtooth eel)  < small > [[Albert Günther|Günther]], 1877 < /small > < ref name= "  Fishbase, 2012 " / > < ref name= " WoRMS, 2012 " / > < ref name= " NCBI, 2012 " / > < ref name= " ITIS, 2012 " / > 
+ * [[Histiobranchus bruuni|''Histiobranchus bruuni'']] (Bruun's cutthroat eel)  < small > Castle, 1964 < /small > < ref name= "  Fishbase, 2012 " / > < ref name= " WoRMS, 2012 " / > < ref name= " NCBI, 2012 " / > < ref name= " ITIS, 2012 " / > 
+   
+ 
+ == References == 
+ {{reflist}} 
+ * {{FishBase genus | genus = Histiobranchus| month = June | year = 2011}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Eels]]

@@ -1,0 +1,74 @@
+{{Infobox website 
+ |name             = Nupedia 
+ |logo             = File:Nupedia logo and wordmark.png 
+ |screenshot       = Nupedia, the open content encyclopedia 2000-08-15.png 
+ |screenshot_size  = 250px 
+ |caption          = Screenshot from the [[Wayback Machine]] 
+ |type             = [[Online encyclopedia]] 
+ |language         = English, French, Spanish, Italian, German 
+ |registration     =  
+ |owner            = [[Bomis]] 
+ |author           = [[Jimmy Wales]], [[Larry Sanger]] 
+ |current_status   = Defunct since 26 September 2003; succeeded by [[Wikipedia]] 
+ |launch_date      = {{Start date and age|2000|03|09|df=y}} 
+ |url              = {{webarchive |url=https://web.archive.org/web/20030215042428/http://www.nupedia.com/|date=February 15, 2003|title=www.nupedia.com }} < br / > {{webarchive |url=https://web.archive.org/web/20000407072702/http://www.nupedia.com/ |date=7 April 2000 |title=www.nupedia.com }} 
+ }} 
+ [[Image:Nupedia oldlogo.PNG|300px|thumb|right|The first [[logo]] that Nupedia used. It was coded in [[HTML]].]] 
+ '''Nupedia''' was an [[English language|English-language]]  [[online encyclopedia]]. Its articles were written by volunteers and checked by [[expert]]s. They were [[license]]d as [[open content]]. It was founded by [[Jimmy Wales]] and [[Larry Sanger]]. Nupedia was online from March 2000 < ref name= " hive " > {{cite web |url= https://www.theatlantic.com/doc/200609/wikipedia/ |title=The Hive |last=Poe |first=Marshall |publisher=[[The Atlantic]] |date= September 2006 |access-date=January 1, 2007}} < /ref >  until September 2003. It is mostly known as the website which came before [[Wikipedia]]. 
+ 
+ Unlike Wikipedia, Nupedia was not a [[wiki]]. It also had a long [[peer review|peer-review]] process for all of its articles. This was supposed to make its articles as good as professional encyclopedias. Nupedia wanted [[scholar]]s to help build it. Before it shut down, Nupedia had 25 articles < ref > {{cite web|url=http://www.albanylawjournal.org/Documents/Articles/20.2.421-Chen.pdf|title=Self-governing online communities in Web 2.0: privacy, anonymity and accountability in Wikipedia|publisher=Albany Law Journal|last=Shun-Ling|first=Chen|date=May 5, 2010|access-date=March 1, 2013|archive-date=August 30, 2017|archive-url=https://web.archive.org/web/20170830000626/http://www.albanylawjournal.org/Documents/Articles/20.2.421-Chen.pdf|url-status=dead}} < /ref >  that completed its own review routine. 
+ 
+ In June 2008, [[CNET]] said that Nupedia was one of the greatest closed websites in [[Internet]] history. < ref > {{cite web|url=http://crave.cnet.co.uk/gadgets/the-greatest-defunct-web-sites-and-dotcom-disasters-49296926/|title=The greatest defunct Web sites and dotcom disasters|publisher=CNET|first=Nate|last=Lanxon|date=June 5, 2008|access-date=June 5, 2008|archive-date=July 28, 2013|archive-url=https://web.archive.org/web/20130728153741/http://crave.cnet.co.uk/gadgets/the-greatest-defunct-web-sites-and-dotcom-disasters-49296926/|url-status=dead}} < /ref > 
+ 
+ == History == 
+ In late 1999, [[Jimmy Wales]] began thinking about an online encyclopedia built by volunteers. In January 2000, he hired [[Larry Sanger]] to manage it. < ref name= " hive " / >  The project went online on March 9, 2000. < ref name= " Liane Gouthro " > {{cite news 
+ |first=Liane 
+ |last=Gouthro 
+ |title=Building the world's biggest encyclopedia 
+ |url=http://www.pcworld.com/article/id,15676-c,techindustrytrends/article.html 
+ |work=[[PC World (magazine)|PC World]] 
+ |date=March 10, 2000 
+ |access-date=January 19, 2008 
+ |archive-date=April 27, 2020 
+ |archive-url=https://web.archive.org/web/20200427130753/https://www.pcworld.com/article/id,15676-c,techindustrytrends/article.html 
+ |url-status=dead 
+ }} < /ref > 
+ By November 2000, only two full articles had been [[publish]]ed. < ref name= " idg " > {{cite news |url=http://archives.cnn.com/2000/TECH/computing/11/21/net.gen.encyclopedias.idg/index.html |title=The next generation of online encyclopedias |publisher=[[The Industry Standard]]/[[CNN]] |first=Mark |last=Frauenfelder |author-link=Mark Frauenfelder |date=November 21, 2000 |access-date=April 3, 2012 |archive-date=February 16, 2009 |archive-url=https://web.archive.org/web/20090216090659/http://archives.cnn.com/2000/TECH/computing/11/21/net.gen.encyclopedias.idg/index.html |url-status=dead }} < /ref > 
+ 
+ From when it started, Nupedia was a [[free content]] encyclopedia. < ref name= " Liane Gouthro " / >  [[Bomis]], Jimmy Wales' company, was going to get money from [[advert]]s on the Nupedia website. < ref name= " idg " / >  At first, the project used a [[license]] that was made up by Wales and Sanger. Later, it began using the Nupedia Open Content License. In January 2001, it switched to the [[GNU Free Documentation License]]. This was because [[Richard Stallman]] and the [[Free Software Foundation]] said they should. < ref > {{cite web |url=http://slashdot.org/comments.pl?sid=9990 & threshold=1 & commentsort=0 & mode=thread & cid=502603 |title=Re:GNUPedia == Nupedia? |author=jwales |work=GNUPedia Project Starting |publisher=Slashdot |date=January 17, 2001}} < /ref > 
+ 
+ Also in January 2001, Nupedia started Wikipedia. At first, it was not meant to be an encyclopedia. Instead, it was meant as a side-project to allow people to work on articles for Nupedia before they were peer reviewed. < ref > {{cite news |author=[[Larry Sanger]] |title=Let's make a wiki |date=January 10, 2001 |work=Nupedia-l mailing list| publisher=Internet Archive |url=http://www.nupedia.com/pipermail/nupedia-l/2001-January/000676.html |archive-url = https://web.archive.org/web/20030414014355/http://www.nupedia.com/pipermail/nupedia-l/2001-January/000676.html |archive-date = April 14, 2003}} < /ref >  As Wikipedia got bigger and attracted new users, it began to run without Nupedia. However, Larry Sanger first led activity on Wikipedia. This was because he was the chief editor on Nupedia. 
+ 
+ Wikipedia led to the [[wikt:gradual|gradual]] shutdown of Nupedia. Jimmy Wales decided to stop paying Sanger in December 2001. < ref name= " hive "  / >  Sanger then left both Nupedia and Wikipedia. After Sanger left, Nupedia became even less noticed than Wikipedia. As Nupedia was used less and less, the idea of changing its articles into Wikipedia articles was sometimes proposed. However, it was never done. After it closed down, Nupedia's articles were moved in to Wikipedia. < ref > [[:en:Wikipedia:Nupedia and Wikipedia#Articles copied to Wikipedia|Wikipedia:Nupedia and Wikipedia: Articles copied to Wikipedia]] < /ref > 
+ 
+ ==Peer review== 
+ Nupedia's articles were all [[peer review]]ed. These were the steps they had to follow: 
+ #Assignment 
+ #Finding a lead reviewer 
+ #Lead review 
+ #Open review 
+ #Lead copyediting (when articles had their grammar, punctuation and layout changed to look better) 
+ #Open copyediting 
+ #Final approval and markup 
+ 
+ People who wrote for Nupedia were supposed to be experts in what they wrote about. However, some articles could be written by a good writer, rather than an expert. < ref > {{cite web | title = Nupedia.com Editorial Policy Guidelines (Version 3.31) | date = November 16, 2000 | work = Nupedia | url = http://www.nupedia.com/policy.shtml | archive-url = https://web.archive.org/web/20010331211742/http://www.nupedia.com/policy.shtml | archive-date = March 31, 2001 | access-date = June 3, 2010 | quote = The rule of thumb an editor should bear in mind is: would an article on this topic be of significantly greater quality if it were written by an expert on the subject? If yes, we will require that the writer be an expert on the subject. If no, nonspecialists (who are good writers) are more than welcome. | url-status = dead }} < /ref >  People who ''changed'' content on Nupedia were expected to be  " true experts in their fields and (with few exceptions) possess PhDs " , < ref name= " NupediaEditor " > {{cite web | title = How to be an editor or peer reviewer for Nupedia | work = Nupedia | url = http://www.nupedia.com/steering.shtml | archive-url = https://web.archive.org/web/20010410035607/http://www.nupedia.com/steering.shtml | archive-date = April 10, 2001 | access-date = June 3, 2010 | url-status = dead }} < /ref >  which means that they should be experts in what they are changing and (generally) have [[PhD]]s. 
+ 
+ ==Related pages== 
+ * [[Wikipedia]] 
+ * [[Bomis]] 
+ 
+ ==References== 
+ {{reflist|2}} 
+ 
+ ==Other websites== 
+ {{commons category|Nupedia}} 
+ {{wikisource|Nupedia Open Content License}} 
+ * [https://web.archive.org/web/*/www.nupedia.com/ Earlier versions of Nupedia] (from the [[Internet Archive]]) 
+ * Larry Sanger: [http://features.slashdot.org/article.pl?sid=05/04/18/164213 & tid=95 & tid=149 & tid=9 The Early History of Nupedia and Wikipedia: A Memoir Part 1] and [http://features.slashdot.org/article.pl?sid=05/04/19/1746205 & tid=95 Part 2]. [[Slashdot]], April 2005 
+ * http://nunupedia.sourceforge.net 
+ 
+ [[Category:2000 establishments in the United States]] 
+ [[Category:2003 disestablishments]] 
+ [[Category:2000s disestablishments in the United States]] 
+ [[Category:Websites established in the 2000s]] 
+ [[Category:Encyclopedia websites]]

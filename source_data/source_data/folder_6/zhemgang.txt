@@ -1,0 +1,123 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > | official_name                   = Zhemgang 
+ | area_urban_km2                  =  
+ | population_density_km2          =  
+ | population_total                = 2,332 
+ | population_note                 =  
+ | population_footnotes            =  
+ | population_as_of                = 2005 
+ | area_blank1_sq_mi               =  < !-- Population   ----------------------- > 
+ | area_blank1_km2                 =  
+ | area_blank1_title               =  
+ | area_metro_sq_mi                =  
+ | area_metro_km2                  =  
+ | area_urban_sq_mi                =  
+ | area_water_percent              =  
+ | population_metro                =  
+ | area_water_sq_mi                =  
+ | area_land_sq_mi                 =  
+ | area_total_sq_mi                =  
+ | area_water_km2                  =  
+ | area_land_km2                   =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ | area_total_km2                  =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_footnotes                  =  
+ | unit_pref                       = Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_magnitude                  =  
+ | established_date3               =  < !-- Area    --------------------- > 
+ | established_title3              =  < !-- Incorporated (city) -- > 
+ | population_density_sq_mi        =  
+ | population_density_metro_km2    =  
+ | established_title2              =  < !-- Incorporated (town) -- > 
+ | coordinates                     = {{coord|27|12|48.2|N|90|39|18|E|region:BT|display=inline,title}} 
+ | website                         = http://www.zhemgang.gov.bt 
+ | blank1_info                     =  
+ | blank1_name                     =  
+ | blank_info                      =  
+ | blank_name                      =  
+ | area_code                       =  
+ | postal_code                     =  
+ | postal_code_type                =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | elevation_ft                    =  < !-- Area/postal codes  &  others -------- > 
+ | elevation_m                     =  
+ | elevation_footnotes             =  < !--for references: use  < ref >   < /ref >  tags-- > 
+ | utc_offset_DST                  =  
+ | population_density_metro_sq_mi  =  
+ | timezone_DST                    =  
+ | utc_offset                      = +6 
+ | timezone                        = [[Bhutan Time|BTT]] 
+ | population_density_blank1_sq_mi =  < !-- General information  --------------- > 
+ | population_density_blank1_km2   =  
+ | population_blank2               =  
+ | population_blank2_title         = Religions 
+ | population_blank1               =  
+ | population_blank1_title         = Ethnicities 
+ | population_density_urban_sq_mi  =  
+ | population_density_urban_km2    =  
+ | population_urban                =  
+ | established_date2               =  
+ | established_date                =  
+ | other_name                      =  
+ | shield_size                     =  
+ | dot_mapsize                     =  
+ | image_dot_map                   =  
+ | map_caption1                    =  
+ | mapsize1                        =  
+ | image_map1                      =  
+ | map_caption                     =  
+ | mapsize                         =  
+ | image_map                       =  
+ | blank_emblem_size               =  
+ | blank_emblem_type               =  
+ | image_blank_emblem              =  
+ | image_shield                    =  
+ | dot_x                           =  
+ | seal_size                       =  
+ | image_seal                      =  
+ | flag_size                       =  
+ | image_flag                      =  
+ | image_caption                   =  
+ | imagesize                       =  
+ | image_skyline                   =  
+ | motto                           =  < !-- images and maps  ----------- > 
+ | settlement_type                 =  
+ | nickname                        =  
+ | native_name                     = ཞལམ་སྒང་། 
+ | dot_map_caption                 =  
+ | dot_y                           =  
+ | established_title               =  < !-- Settled -- > 
+ | government_footnotes            =  
+ | leader_name4                    =  
+ | leader_title4                   =  
+ | leader_name3                    =  
+ | leader_title3                   =  
+ | leader_name2                    =  
+ | leader_title2                   =  
+ | leader_name1                    =  
+ | leader_title1                   =  
+ | leader_name                     =  
+ | leader_title                    = Dzongdag 
+ | government_type                 =  
+ | subdivision_name4               =  < !-- Politics ----------------- > 
+ | pushpin_map                     = Bhutan  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | subdivision_type4               =  
+ | subdivision_name3               =  
+ | subdivision_type3               =  
+ | subdivision_name2               =  
+ | subdivision_type2               =  
+ | subdivision_name1               = [[Zhemgang District]] 
+ | subdivision_type1               = [[Districts of Bhutan|District]] 
+ | subdivision_name                = [[File:Flag of Bhutan.svg|25px]] [[Bhutan]] 
+ | subdivision_type                = Country 
+ | pushpin_map_caption             = Location in Bhutan 
+ < !-- Location ------------------ > | pushpin_mapsize                 = 300 
+ | pushpin_label_position          = bottom 
+ | footnotes                       =  
+ }} 
+ '''Zhemgang''' is a town in [[Zhemgang District]], [[Bhutan]]. In 2005, 2,332 people lived there. 
+ 
+ 
+ {{asia-stub}} 
+ 
+ [[Category:Towns in Asia]] 
+ [[Category:Settlements in Bhutan]]

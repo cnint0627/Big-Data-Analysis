@@ -1,0 +1,10 @@
+MIMO (Multiple Input, Multiple Output) is a technology which allows an antenna or multiple antennas to communicate with multiple devices, which minimizes errors and maximize efficiency. The most commonly used MIMO variant is MU-MIMO, which stands for Multiple User-Multiple Input, Multiple Output. In layman's terms, imagine a classroom with one teacher and many students who need help. Since there is only one teacher, it will take the teacher a while to fully help all the students. But if there are multiple teachers, students will get help much faster and better. The same way, a router with MU-MIMO technology will be able to communicate with multiple devices with increased speed and minimal errors. < ref > {{Cite web|title=What is MIMO: Multiple Input Multiple Output Technology » Electronics Notes|url=https://www.electronics-notes.com/articles/antennas-propagation/mimo/what-is-mimo-multiple-input-multiple-output-wireless-technology.php|access-date=2021-11-19|website=www.electronics-notes.com}} < /ref > 
+ 
+ MIMO technologies are most commonly found in [[Router|routers]], [[Smartphone|smartphones]], laptops, TVs, etc. [[Wi-Fi]], LTE; Long Term Evolution, and many other radio, wireless and RF technologies are using the new MIMO wireless technology to provide increased link capacity and spectral efficiency combined with improved link reliability using what were previously seen as interference paths. 
+ 
+ Two researchers: Arogyaswami Paulraj and Thomas Kailath were first to propose the use of spatial multiplexing using MIMO in 1993 and in the following year their US patent was granted. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Computer networking]]

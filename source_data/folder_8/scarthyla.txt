@@ -1,0 +1,34 @@
+
+ {{Italic title}} 
+ {{automatic taxobox 
+ | image = Scarthyla vigilans male.jpg 
+ | image_caption = Male ''[[Scarthyla vigilans]]'' 
+ | taxon = Scarthyla 
+ | authority = {{interlanguage link multi|William Edward Duellman|fr|lt=Duellman}} and de Sá, 1988 
+ | type_species = ''[[Scarthyla goinorum|Scarthyla ostinodactyla ]]'' 
+ | type_species_authority =Duellman and de Sá, 1988 
+ | subdivision_ranks = Species 
+ | subdivision = 2 species (see [[#Species|text]]) 
+ | synonyms_ref =  < ref name=Frost/ > 
+ }} 
+ 
+ '''''Scarthyla''''' is a [[genus]] of tree frogs in the family [[Hylidae]]. < ref name=Frost/ > < ref name=AmphibiaWeb/ > < ref name= " Duellman et al. 2016 " / >  They live in the [[Amazon basin|Amazon Basin]] in [[Bolivia]], [[Peru]], and [[Brazil]]. They also live in [[Colombia]] and [[Venezuela]] and in some [[Caribbean]] countries. These frogs are called '''Madre de Dios treefrogs''' and '''South American aquatic treefrogs'''. < ref name=Frost/ >  They spend time in the water but not all their time. < ref name= " Duellman et al. 2016 " / > 
+ 
+ ==Species== 
+ The genus contains two species: < ref name=Frost/ > < ref name=AmphibiaWeb/ > 
+ * ''[[Scarthyla goinorum]]'' — Tarauaca snouted treefrog, Madre de Dios treefrog 
+ * ''[[Scarthyla vigilans]]'' — Maracaibo Basin treefrog 
+ 
+ ==References== 
+ {{Reflist|30em|refs= 
+ < ref name=AmphibiaWeb > {{cite web |url=https://amphibiaweb.org/lists/Hylidae.shtml |title=Hylidae |year=2020 |work=AmphibiaWeb |publisher=University of California, Berkeley |access-date=17 December 2020}} < /ref > 
+ 
+ < ref name= " Duellman et al. 2016 " > {{cite journal|last1=Duellman |first1=William E. |last2=Marion |first2=Angela B. |last3=Hedges |first3=S. Blair |name-list-style=amp |title=Phylogenetics, classification, and biogeography of the treefrogs (Amphibia: Anura: Arboranae) |journal=Zootaxa |date=2016 |volume=4104 |issue=1 |pages=1–109 |doi=10.11646/zootaxa.4104.1.1|pmid=27394762 }} < /ref > 
+ 
+ < ref name=Frost > {{cite web |url=https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Pseudinae/Scarthyla |title=''Scarthyla'' Duellman and de Sá, 1988 |author=Frost, Darrel R. |year=2020 |work=Amphibian Species of the World: an Online Reference. Version 6.1 |publisher=American Museum of Natural History |doi=10.5531/db.vz.0001 |access-date=17 December 2020}} < /ref > 
+ }} 
+ 
+ {{Taxonbar|from=Q1654292}} 
+ 
+ [[Category:Frogs of South America]] 
+ {{biology-stub}}

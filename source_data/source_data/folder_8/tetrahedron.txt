@@ -1,0 +1,35 @@
+[[File:Tetrahedron.gif|thumb|right|A rotating tetrahedron]] 
+ A '''tetrahedron''' or '''triangular pyramid''' is a [[polyhedron]] (a [[three-dimensional]] [[shape]]). It has four [[Vertex|corners]] and six edges. All four of its faces are [[Equilateral triangle|equilateral triangles]]. Every two edges meet on one of those corners forming a sixty-degree [[angle]]. 
+ 
+ == Formulas for a regular tetrahedron == 
+ 
+ A '''regular tetrahedron''' is a tetrahedron whose edges are the same length. If the length of an edge is ''a'': 
+ 
+ {| class= " wikitable " 
+ |+ 
+ |[[Surface area]] < ref name= " Cox " > [[Harold Scott MacDonald Coxeter|Coxeter, Harold Scott MacDonald]]; ''[[Regular Polytopes (book)|Regular Polytopes]]'', Methuen and Co., 1948, Table I(i) < /ref > 
+ | < math > {\sqrt{3}}a^2\, < /math > 
+ |- 
+ |Face area 
+ | < math > \frac{\sqrt{3}}{4}a^2\, < /math > 
+ |- 
+ |Height < ref > Köller, Jürgen, [http://www.mathematische-basteleien.de/tetrahedron.htm  " Tetrahedron " ], Mathematische Basteleien, 2001 < /ref > 
+ | < math > \sqrt{\frac23}\,a\, < /math >  and  < math > \frac{\sqrt{6}}{3}a < /math > 
+ |- 
+ |[[Volume]] < ref name= " Cox "  / > 
+ | < math > \frac{a^3}{6\sqrt{2}}\, < /math >  and  < math > \frac{\sqrt{2}}{12}a^3 < /math > 
+ |} 
+ 
+ == Other properties == 
+ A regular tetrahedron's faces are all the same, and so are all its edges, as well as its corners. This makes it a [[regular polyhedron]]. It is also convex (its faces do not go through one another), which makes it a [[Platonic solid]]. 
+ 
+ The dual of regular tetrahedron is another regular tetrahedron. This is called being self-dual. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{Math-stub}} 
+ {{shapes}} 
+ {{polygons}} 
+ [[Category:Platonic solids]]

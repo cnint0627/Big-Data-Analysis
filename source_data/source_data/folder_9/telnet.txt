@@ -1,0 +1,13 @@
+{{IPstack}} 
+ '''Telnet''' is a common [[network]] [[protocol]] used on the [[Internet]] and also inside a [[LAN]] (local network). It was developed in 1969 beginning with [[RFC :15|RFC 15]] and is now defined as IETF STD 8, which is one of the first Internet standards. However, due to its lack of security, < ref > {{cite web|last=Vandepoele|first=Dana|title=Are You Still Using Insecure Network Protocols?|url=https://www.auvik.com/media/blog/insecure-network-protocols/|publisher=Auvik|accessdate=12 February 2016}}{{Dead link|date=September 2023 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  Telnet has been replaced with [[Secure Shell]] (SSH) on most servers. 
+ 
+ Telnet is one of the simplest ways to exchange data between two computers. It allows two computers anywhere on a [[computer network]], including the worldwide [[Internet]], to exchange text and other data in real time. It is still widely used for testing computer programs, and is simple enough that it is included on most computers today. But it allows many people to eavesdrop on the data exchange, which is why it has mostly been replaced by SSH. 
+ 
+ ==References== 
+ 
+ {{reflist}} 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Internet]] 
+ [[Category:Computer protocols]]

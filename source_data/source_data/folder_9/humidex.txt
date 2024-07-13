@@ -1,0 +1,42 @@
+The '''humidex''' ( " Hyu-mah-deks " ) is a [[temperature]] index used by [[Canada|Canadian]] [[meteorologist]]s to describe how hot the [[weather]] feels to a person, by adding the effect of heat and [[humidity]]. < ref name= " MSN " > " humidex definition - Dictionary - MSN Encarta " , 
+    Encarta.msn.com, 2011, webpage: 
+    [http://encarta.msn.com/dictionary_1861619181/humidex.html EN81] {{Webarchive|url=https://web.archive.org/web/20110411191402/http://encarta.msn.com/dictionary_1861619181/humidex.html |date=2011-04-11 }}. < /ref >  For [[example]], if the temperature is {{convert|30|°C|F}} and the calculated humidex is 40, then that means the humid heat feels like a dry temperature of {{convert|40|°C|F}}. The index is widely used in Canadian weather reports during [[summer]] to give the discomfort level. < ref name=MSN/ > 
+ 
+ According to the Meteorological Service of Canada, a humidex of at least 30 causes  " some discomfort " , at least 40 causes  " great discomfort "  and above 45 is  " dangerous " . When the humidex hits 54, then [[heat stroke]] is very near. 
+ 
+ The current [[formula]] for getting the humidex (see below: [[#Humidex formula|Humidex formula]]) was developed by J.M. Masterton and F.A. Richardson of Canada's Atmospheric Environment Service in 1979. The humidex differs from the [[heat index]] used in the [[United States]], in being derived from the [[dew point]] rather than the [[relative humidity]]. 
+ 
+ The record highest humidex in Canada occurred on July 25, 2007, when [[Carman, Manitoba|Carman]], [[Manitoba]] hit 53.0. < ref > 
+     " Storm sewage " , CBC.ca, July 2007, webpage: 
+    [http://www.cbc.ca/canada/manitoba/story/2007/07/26/ < !-- 
+    -- > storm-sewage.html  CBC26]. 
+ < /ref >  That [[number]] broke the previous record of 52.1 set during 1953 in [[Windsor, Ontario]] (The [[resident]]s of Windsor would not have known it at the time, since the humidex had yet to be [[invention|invent]]ed). 
+ 
+ == Humidex formula == 
+ When the [[temperature]] is 30 °C (86 °F) and the [[dew point]] is 15 °C (59 °F), the humidex is 34. Note how humidex is a [[dimension]]less [[number]], but it indicates an approximate temperature in [[Celsius|°C]]. If the temperature remains {{nowrap|30 °C}} and the dew point rises to {{nowrap|25 °C}} {{nowrap|(77 °F)}}, the humidex rises to 42.  The humidex tends to be higher than the U.S. [[heat index]] at equal temperature and relative humidity. 
+ 
+ The humidex formula is as follows: 
+ 
+ :humidex = (air temperature in Celsius) + ''h''  
+ :''h'' = (0.5555)*(''e'' - 10.0) 
+ 
+ :''e'' = 6.11 * exp  < nowiki > [ < /nowiki > 5417.7530 * ((1/273.16) - (1/dewpoint in [[kelvins]]))] 
+ 
+ Complete: 
+ : < math > \text{Humidex} = \text{Air temperature}\ +\ 0.5555 \times (6.11 \times e^{5417.7530 \times \left(\frac{1}{273.16} - \frac{1}{\text{dewpoint in kelvins}}\right)} - 10) < /math > 
+ 
+ ==Related pages== 
+ *[[Heat index]] 
+ *[[Wind chill]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ *[http://www.weatheroffice.ec.gc.ca/mainmenu/faq_e.html#weather4b  " Frequently Asked Questions " ] {{Webarchive|url=https://web.archive.org/web/20070404044513/http://www.weatheroffice.ec.gc.ca/mainmenu/faq_e.html#weather4b |date=2007-04-04 }}, MSC, 2004. 
+ *[http://ptaff.ca/humidex/?lang=en_CA Wind Chill and Humidex] Criticism about the use of wind chill and humidex 
+ *[http://everything2.com/?node_id=87523 More Humidex info] 
+ 
+ [[Category:Weather measurements]] 
+ [[Category:Meteorology]] 
+ [[Category:1979 establishments in Canada]]

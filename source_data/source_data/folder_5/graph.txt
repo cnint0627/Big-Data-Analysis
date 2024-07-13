@@ -1,0 +1,66 @@
+[[Image:Us unemployment rates 1950 2005.png|thumb|right|This graph shows the [[unemployment rate]] by year in the [[United States]].]] 
+ A '''graph''' is a picture designed to express words, particularly the [[connection]] between two or more quantities. You can see a graph on the right. 
+ 
+ 
+ A simple graph usually shows the relationship between two numbers or measurements in the form of a [[grid]]. If this is a ''rectangular graph'' using [[Cartesian coordinate system]], the two measurements will be arranged into two different lines at [[right angle]] to one another. One of these lines will be going up (the ''vertical'' [[Axis (mathematicsr)|axis]]). The other one will be going right (the ''horizontal'' axis). These lines (or ''axes'', the [[plural]] of axis) meet at their ends in the lower left corner of the graph. 
+ 
+ Both of these axes have ''tick marks'' along their lengths. You can think of each axis as a [[ruler]] drawn on paper. So each measurement is indicated by the length of the associated tick mark along the particular axis. 
+ 
+ A graph is a kind of [[chart]] or [[diagram]]. However, a chart or a diagram may not relate one quantity to other quantities. ''[[Flowchart]]s'' and ''tree diagrams'' are charts or diagrams that are not graphs. 
+ 
+ __TOC__ 
+ 
+ == How to draw a simple graph == 
+ 
+ Let's say you wanted to make a graph showing your height as you were growing up. You might show your height in [[centimeters]] on the vertical axis and your age in years on the horizontal axis. 
+ 
+ For example, say you were 60 centimeters tall at age 1, 85 centimeters tall at age 2 and 95 centimeters tall at age 3. You would draw an imaginary straight line passing through the 50 centimeters height mark on the vertical axis. Then you would draw a second imaginary line passing through the age of 1 year on the horizontal axis. At the place where the two imaginary lines meet (called their ''[[intersection]]''), you would then draw a dot. Really, the imaginary lines are usually replaced by ''graph paper'' (see below). The drawing of this intersection is called  " ''plotting'' the point 50 centimeters for year 1 " . 
+ 
+ You would then plot 85 centimeters for year 2 and 95 centimeters for year 3. If you had more heights for more years, you would plot years 4, 5 and so forth. When you had enough points on your graph, you could draw a line through each of the plotted points, making your graph a ''line graph''. For example, the line graph at the upper right shows the [[unemployment rate]] (as a [[percent]]) on the vertical axis and the year (from 1950 to 2005) on the horizontal axis. 
+ 
+ Let's say you wanted a single graph showing both your height and your brother's height. This could be expressed as two sets of plotted points: one for you and one for your brother. You could use different colors to tell your plot from your brother's. Or you might plot the [[Gross Domestic Product]] (in billions of dollars) as a second line against the same years on the unemployment graph above. This would show you the relationship between GDP and unemployment. 
+ 
+ == Uses of graphs == 
+ {{see also|Table (information)}} 
+ Graphs make information easier to see. This is especially true when two or more sets of numbers are related in some way. 
+ 
+ For example, the unemployment rates graph at the beginning of this article could be expressed in the form of a ''table''. Like this: 
+ 
+ {| class= " wikitable " 
+ |- 
+ ! width= " 50 "  | Year 
+ ! width= " 100 "  | Unemployment rate 
+ |- 
+ | 1950 
+ | 4.5% 
+ |- 
+ | 1951 
+ | 3.1% 
+ |- 
+ | 1952 
+ | 3.4% 
+ |- 
+ | etc. 
+ |  
+ |} 
+ 
+ But a long string of numbers makes it difficult to see the underlying meaning. It is much simpler to understand when the table is expressed in the form of a graph. In particular, it is easier to see the relationships between the two sets of [[Information|data]]. For example, by looking at the graph you can see at a glance that unemployment was relatively low in the late sixties but relatively high in the early eighties. 
+ 
+ [[Scientist]]s and [[engineer]]s use graphs so that they can get a better understanding of the broad meaning and importance of their data. Salesmen and businessmen often use graphs to add importance to their points in a sales or business presentation. Graphs with many plotted points may be created on a [[computer]] rather than being drawn by hand. 
+ 
+ [[Mathematician]]s use graphs that  " plot themselves " , without taking measurements. For example, the [[formula]] ''x = y'' says that the value of x will always be equal to the value of y. If you plot this formula as a graph, with x as the horizontal axis and y as the vertical axis, you will get a graph that looks like a straight line angled at precisely 45 [[Degree (angle)|degrees]]. The use of these graphs forms a branch of [[mathematics]] called [[analytic geometry]]. 
+ 
+ == Graph paper == 
+ 
+ [[Image:graph-paper.svg|thumb|right|[[Cartesian coordinate system|Cartesian]] graph paper]] 
+ Usually, graphs are created on specially designed paper called ''graph paper''. This paper has evenly drawn horizontal and vertical lines on it. On the right is an example of a sheet of graph paper. 
+ 
+ Different types of graphs require different forms of graph paper. What we have been talking about in the article above is the commonest form of graphs and graph paper. It is known as rectangular or [[Cartesian coordinate system|Cartesian]] graphs. However the evenly drawn vertical and horizontal lines on the paper are ''not'' the graph itself but are part of the ''graph paper''. The ''graph'' is the set of plotted points, along with its axes. 
+ 
+ There are various types of graphs (and graph paper) other than Cartesian. These include: bar graphs, pie graphs, [[Polar coordinate system|polar]] graphs, scatter graphs, [[3-D|three-dimensional]] graphs, [[Logarithmic scale|logarithmic]] graphs and many others. 
+ 
+ [[Category:Mathematics]] 
+ [[Category:Statistics]] 
+ [[Category:Graphics]] 
+ 
+ [[pt:Função#Gráficos de função]]

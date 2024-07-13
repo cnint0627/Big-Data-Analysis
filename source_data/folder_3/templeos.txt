@@ -1,0 +1,55 @@
+{{short description|Biblical operating system created by Terry Davis}}{{Use mdy dates|date=September 2021}} 
+ {{Infobox OS 
+ | name = TempleOS 
+ | logo = File:TempleOS logo.png 
+ | screenshot = File:VirtualBox TempleOS x64 27 02 2021 20 43 48.png 
+ | caption = TempleOS 5.03 
+ | developer = [[Terry A. Davis]] 
+ | programmed in = HolyC and [[X86 assembly language|x86 Assembly]] 
+ | family =  
+ | released = {{Start date and age|2005}} (as J Operating System)  < br / >  {{Start date and age|2013}} (as TempleOS) 
+ | ui = 640x480 16 Color Graphics, specifically created for TempleOS 
+ | license = [[Public domain]] 
+ | source_model = [[Open-source software|Open source]] 
+ | latest_release_version = 5.03 
+ | latest_release_date = {{Start date and age|2017|11|20}} 
+ | kernel_type = Monolithic 
+ | working_state = Finished 
+ | supported_platforms = [[x64]] 
+ }} 
+ 
+ '''TempleOS''' is a [[Bible|biblical]] [[operating system]] (OS). It was designed to be the [[Third Temple]] prophesied in the Bible. It was created by American programmer [[Terry A. Davis]]. TempleOS was written during Terry Davis's [[Mania#Signs and symptoms|manic episode]]s. He described his inspiration as a [[revelation]] from God. The features of TempleOS include a 640x480 resolution, 16-color display, and single-voice audio. Terry Davis said that these features were designed according to instructions from God. < ref name= " Vice " > {{Cite web|url=https://www.vice.com/en_us/article/wnj43x/gods-lonely-programmer|title=God's Lonely Programmer|last=Hicks|first=Jesse|date=November 25, 2014|work=[[Vice (magazine)|VICE Motherboard]]|access-date=April 21, 2015|archive-date=May 3, 2015|archive-url=https://web.archive.org/web/20150503193635/http://motherboard.vice.com/read/gods-lonely-programmer|url-status=live}} < /ref >  It uses a [[programming language]] called HolyC. It includes a [[flight simulation video game|flight simulator]], [[compiler]], and [[Kernel (operating system)|kernel]]. 
+ 
+ TempleOS was released for the first time in 2005. It was last updated in 2018. 
+ 
+ ==Background== 
+ [[File:Terry A. Davis (cropped).jpg|thumb|upright|left|[[Terry A. Davis]]]] 
+ 
+ Terry A. Davis (1969–2018) was [[Schizophrenia|schizophrenic]]. < ref name= " Vice "  / >  He suffered from delusions. These caused him to be hospitalized for a short period of time. < ref name= " Vice "  / > < ref name= " oQdQ5 " > {{Cite web| title = Temple OS, un système d'exploitation pour parler à Dieu codé par un fou génial| first = Quentin| last = Bruet-Ferréol| work = [[Slate (magazine)|Slate.fr]]| date = May 13, 2014| access-date = April 21, 2015| url = http://www.slate.fr/story/86549/temple-os-systeme-exploitation-parler-dieu| language = fr| archive-date = December 21, 2014| archive-url = https://web.archive.org/web/20141221123755/http://www.slate.fr/story/86549/temple-os-systeme-exploitation-parler-dieu| url-status = live}} < /ref >  He said that he was communicating with God. < ref name= " Vice "  / > 
+ 
+ Davis began developing TempleOS in 2003. < ref name= " New Stack " > {{cite web|url=https://thenewstack.io/the-troubled-legacy-of-terry-davis-gods-lonely-programmer/|title=The Troubled Legacy of Terry Davis, 'God's Lonely Programmer'|website=The New Stack|date=September 23, 2018|last=Cassel|first=David|access-date=September 28, 2018|archive-date=September 28, 2018|archive-url=https://web.archive.org/web/20180928201148/https://thenewstack.io/the-troubled-legacy-of-terry-davis-gods-lonely-programmer/|url-status=live}} < /ref >   < ref name= " Vice "  / >  Originally, it had no internet support. < ref name= " aHVW0 " > {{cite web |last1=Davis |first1=Terry A. |title=The LoseThos IBM PC Operating System |url=http://www.losethos.com |website=LoseThos |archive-url=https://web.archive.org/web/20081216012330/http://www.losethos.com/ |archive-date=December 16, 2008 |date=2008 |access-date=July 18, 2021 |url-status=dead }} < /ref >   < ref name= " Tech Republic " > {{Cite web|last=Sanders|first=James|date=January 21, 2014|title=TempleOS: an educational tool for programming experiments|url=http://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/|url-status=live|archive-url=https://web.archive.org/web/20150416045403/http://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/|archive-date=April 16, 2015|access-date=April 21, 2015|work=[[TechRepublic]]}} < /ref >  Davis died after being hit by a train on August 11, 2018. < ref name= " Dalles Chronicle " > {{cite news|last=Cecil|first=Neita|date=September 7, 2018|title=Man killed by train had tech following|work=The Dalles Chronicle|url=https://www.columbiagorgenews.com/thedalleschronicle/news/man-killed-by-train-had-tech-following/article_1f03fc0d-c223-5f20-a915-460fce4299f1.html|url-status=live|access-date=November 24, 2020|archive-url=https://web.archive.org/web/20201108002150/https://www.columbiagorgenews.com/thedalleschronicle/news/man-killed-by-train-had-tech-following/article_1f03fc0d-c223-5f20-a915-460fce4299f1.html|archive-date=November 8, 2020}} {{subscription}} < /ref > 
+ 
+ ==System overview== 
+ TempleOS is 64-bit. < ref name= " NwxlE " > {{cite web |last=Davis|first=Terry A.|date=n.d.|title=Scheduler |url=http://www.templeos.org/Wb/Kernel/Sched.html |website=The TempleOS Source Code |access-date=June 16, 2018 |archive-url=https://web.archive.org/web/20160601003411/http://www.templeos.org/Wb/Kernel/Sched.html |archive-date=June 1, 2016}} < /ref >  It is in the [[public domain]] and is [[open source]], which means anyone can use and modify the code. It gives users direct access to the lower-levels of the operating system, which means that users can easily change core components of the computer. < ref name= " GVu10 " > {{Cite web| title = TempleOS : le système d'exploitation qui parle à Dieu| trans-title = TempleOs: The operating system that talks to God| first = Bruno| last = Mathieu| work = [[Tom's Guide]]| date = November 28, 2014| access-date = April 21, 2015| url = http://www.tomsguide.fr/actualite/templeos-systeme-exploitation-parler-dieu,45703.html| language = fr| archive-date = July 2, 2015| archive-url = https://web.archive.org/web/20150702190251/http://www.tomsguide.fr/actualite/templeos-systeme-exploitation-parler-dieu,45703.html| url-status = live}} < /ref >  TempleOS has a graphics library with 16 colors. < ref name= " Tech Republic "  / >  It can be used with a keyboard and mouse. It has its own system for files. < ref name= " 00yK1 " > {{Cite web|last=Davis|first=Terry A.|date=n.d.|url=http://www.templeos.org/Wb/Doc/Features.html#l1|title=The Temple Operating System|website=www.templeos.org|access-date=March 30, 2017|url-status=dead|archive-url=https://web.archive.org/web/20170331120502/http://www.templeos.org/Wb/Doc/Features.html#l1|archive-date=March 31, 2017}} < /ref >  Terry Davis said the limited [[Display resolution|resolution]] was to make it easier for children to draw illustrations for God. < ref name= " Vice "  / > 
+ 
+ == Legacy == 
+ After Terry Davis died, Thom Holwerda wrote:  " Davis was clearly a gifted programmer – writing an entire operating system is no small feat – and it was sad to see him affected by his mental illness " . < ref name= " Ap145 " > {{cite web|last1=Holwerda|first1=Thom|date=September 8, 2018|title=Creator of TempleOS, Terry Davis, has passed away|url=https://www.osnews.com/story/30710/creator-of-templeos-terry-davis-has-passed-away/|access-date=January 6, 2019|website=[[OSNews]]|archive-date=January 17, 2019|archive-url=https://web.archive.org/web/20190117025950/https://www.osnews.com/story/30710/creator-of-templeos-terry-davis-has-passed-away/|url-status=live}} < /ref >  One fan described Davis as a  " programming legend " , while another, a computer engineer, compared the development of TempleOS to a one-man-built [[skyscraper]]. < ref name= " Dalles Chronicle "  / >  He added that it  " actually boggles my mind that one man wrote all that "  and that it was  " hard for a layperson to understand what a phenomenal achievement "  it is to write an entire operating system alone. < ref name= " Dalles Chronicle "  / > 
+ 
+ TempleOS is in the public domain. Davis's family has wished for fans to donate to the [[National Alliance on Mental Illness|National Alliance for Mental Illness]] and other organizations  " working to ease the pain and suffering caused by mental illness " . < ref name= " pQw0Uy " > {{cite web|last1=Davis|first1=Terry A.|date=2013|title=The Temple Operating System|url=http://www.templeos.org|url-status=live|archive-url=https://web.archive.org/web/20130703141455/http://www.templeos.org/|archive-date=July 3, 2013|access-date=April 22, 2015|website=TempleOS}} < /ref > 
+ 
+ == Related pages == 
+ * [[Operating system]] 
+ * [[Holy See]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://templeos.org/ TempleOS Website] 
+ * [[iarchive:TerryADavis TempleOS Archive|Comprehensive archive of TempleOS and Terry A. Davis material]] 
+ * [https://archive.org/details/TempleOS_Website_Archive  Archive of the TempleOS website and operating system] 
+ * [https://archive.org/details/TempleOS_ISO_Archive  Archive of the TempleOS bootable ISO images] 
+ * [https://github.com/cia-foundation/TempleOS TempleOS source code] 
+ {{Operating systems}} 
+ [[Category:Software]] 
+ [[Category:Operating systems]]

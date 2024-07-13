@@ -1,0 +1,29 @@
+An '''intron''' is a non-coding sequence in a [[gene]]. 
+ 
+ It is any [[nucleotide]] sequence within a [[gene]] that is removed by [[RNA splicing]] to get the final RNA product of a gene. < ref name= " Alberts " > {{cite book |author=Alberts, Bruce |title=Molecular biology of the cell |publisher=Garland Science |location=New York |year=2008 |pages= |isbn=978-0-8153-4105-5 |oclc= |doi= |accessdate=}} < /ref > < ref name= " Stryer " > {{cite book |author=Stryer, Lubert; Berg, Jeremy Mark; Tymoczko, John L. |title=Biochemistry |publisher=W.H. Freeman |location=San Francisco |year=2007 |pages= |isbn=978-0-7167-6766-4 |oclc= |doi= |accessdate=}} < /ref >  The term ''intron'' refers to both the DNA sequence within a gene, and the corresponding sequence in RNA transcripts. < ref > {{cite journal|last=Kinniburgh, Alan; Mertz J. and Ross J.|title=the precursor of mouse β-globin messenger RNA contains two intervening RNA sequences|journal=Cell |date=1978|volume= 14|issue=3|pages=681–693|doi=10.1016/0092-8674(78)90251-9|pmid=688388|s2cid=21897383|url=http://www.cell.com/abstract/0092-8674(78)90251-9#}} < /ref >    
+ 
+ [[File:Pre-mRNA to mRNA.svg|center|thumb|420px|A [[spliceosome]] removes introns from a [[Transcription (genetics)|transcribed]] pre-[[mRNA]] segment (top). This is called 'splicing'. After the introns have been removed (bottom), the mature mRNA sequence is ready for [[Translation (genetics)|translation]].]] 
+ 
+ Sequences of coding DNA which are joined together in the final RNA after RNA splicing are '''exon'''s. They code for [[amino acid]]s in the final [[polypeptide]]. 
+ 
+ Introns are in the genes of most organisms and many viruses. They can be in a wide range of genes, including those that generate [[protein]]s, [[Ribosome|ribosomal]] RNA (rRNA), and [[transfer RNA]] (tRNA). RNA splicing takes place after [[Transcription (genetics)|transcription]] and before [[Translation (genetics)|translation]]. 
+ 
+ *Introns: parts of a gene which are discarded: non-working bits. 
+ *Exons: parts of a gene which are expressed: bits of a gene which code for [[amino-acid]] sequences in a [[protein]]. 
+ 
+ The discovery of introns led to the [[Nobel Prize in Physiology or Medicine]] in 1993 for [[Phillip Sharp]] and  [[Richard Roberts]]. The term ''intron'' was introduced by American [[biochemist]] [[Walter Gilbert]]. < ref > {{cite journal 
+ |author=Gilbert, Walter |authorlink=|year=1978 |title=Why genes in pieces |journal=Nature |volume=271 |issue=5645 |pages=501 |doi=10.1038/271501a0 |pmid=622185|bibcode=1978Natur.271..501G|s2cid=4216649}} < /ref > 
+ 
+ == Biological meaning == 
+ There are many unanswered questions about introns. It is unclear whether introns serve some specific function, or whether they are [[selfish DNA]] which reproduces itself as a [[parasite]]. < ref > Orgel L.E.  &  Crick, F.H.C. 1980. Selfish DNA: the ultimate parasite. ''Nature'', '''284''', 604-607. < /ref > 
+ 
+ Recent studies of entire [[eukaryote|eukaryotic]] [[genome]]s have now shown that the lengths and density (introns/gene) of introns varies considerably between related [[species]]. There are four or five different kinds of intron. Some introns represent [[mobile genetic element]]s ([[transposon]]s). 
+ 
+ [[Alternative splicing]] of introns within a gene allows a variety of protein [[isoform]]s from a single gene. Thus multiple related proteins can be generated from a single gene and a single precursor mRNA transcript. The control of alternative RNA splicing is performed by complex network of signalling molecules. In humans, ~95% of genes with more than one exon are alternatively spliced. < ref > Pan, Q; Shai O, Lee LJ, Frey BJ, Blencowe BJ 2008. Deep surveying of alternative splicing complexity in the human transcriptome by high-throughput sequencing. ''Nature Genetics'' '''40''' (12): 1413–1415. doi:10.1038/ng.259. PMID 18978789. < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Genetics]] 
+ [[Category:Molecular biology]] 
+ [[Category:Cell biology]]

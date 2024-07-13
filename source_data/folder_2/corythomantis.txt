@@ -1,0 +1,29 @@
+{{automatic taxobox 
+ | image = Corythomantis greeningi Boulenger, 1896.jpg 
+ | image_caption = ''[[Corythomantis greeningi]]'' 
+ | taxon = Corythomantis 
+ | authority = [[George Albert Boulenger|Boulenger]], 1896 
+ | type_species = ''[[Corythomantis greeningi]]'' 
+ | type_species_authority = Boulenger, 1896 
+ | diversity = 2 species (see [[#Species|text]]) 
+ }} 
+ 
+ '''''Corythomantis''''' is a group of frogs in the family [[Hylidae]].  They live in northeastern [[Brazil]]. There was only one species in the group until 2012. Then scientists wrote about another species, ''[[Corythomantis galeata]]''. Later, that frog was moved to the genus ''[[Nyctimantis]]''. < ref name=Des > {{cite journal|author1=Marques, R|author2= C.F.B. Haddad|author3=A.A. Garda|year= 2021|title= There and back again from monotypy: A new species of the Casque-Headed Corythomantis Boulenger 1896 (Anura, Hylidae) from the Espinhaço Mountain Range, Brazil. |journal=Herpetologica |volume=77 |pages=56-71|url=https://bioone.org/journals/herpetologica/volume-77/issue-1/0018-0831-77.1.56/There-and-Back-Again-from-Monotypy--A-New-Species/10.1655/0018-0831-77.1.56.short|accessdate=October 2, 2023|doi=10.1655/0018-0831-77.1.56|issue=1|type=Abstract}} < /ref >  These frogs are also called  " Greening's frogs. " < ref name=frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Hylidae/Hylinae/Corythomantis |title=''Corythomantis'' Boulenger, 1896 |author=Frost, Darrel R. |year=2014 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=4 August 2014}} < /ref > 
+ 
+ ==Species== 
+ There are two species in this genus: < ref name=frost/ > < ref name=AmphibiaWeb > {{cite web |url=http://www.amphibiaweb.org/lists/Hylidae.shtml |title=Hylidae |year=2014 |work=AmphibiaWeb: Information on amphibian biology and conservation. [web application] |publisher=Berkeley, California: AmphibiaWeb |accessdate=4 August 2014}} < /ref > 
+ 
+ * ''[[Corythomantis greeningi]]''  < small > (Boulenger, 1896) < /small > 
+ * ''[[Corythomantis botoque]]''  < small >  Marques, Haddad  &  Garda, 2021 < /small > 
+ ''Corythomantis galeata'' is now ''[[Nyctimantis galeata]]''. 
+ 
+ ==References== 
+ {{Reflist|2}} 
+ 
+ {{Taxonbar|from=Q2998208}} 
+ 
+ [[Category:Frogs of South America]] 
+ [[Category:Taxonomy]] 
+ 
+ 
+ {{biology-stub}}

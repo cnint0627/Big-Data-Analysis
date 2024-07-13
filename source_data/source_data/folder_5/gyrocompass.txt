@@ -1,0 +1,20 @@
+{{About|devices used on ships|gyroscope used in aircraft|Heading indicator}} 
+ [[File:Kreiselkompass Schnitt Anschütz.jpg|thumb|Cutaway of an Anschütz gyrocompass]] 
+ [[File:Algonquin gyro compass2.jpg|thumb|A gyrocompass repeater]] 
+ 
+ A '''gyrocompass''' is a type of [[compass]] that does not use [[magnetism]] to point [[north]]. Normal compasses do not work around magnets, or big pieces of [[Iron|ferrous metal]]. Gyrocompasses do. This makes them very useful. 
+ 
+ A gyrocompass is a non-magnetic [[compass]] based on a fast-spinning disc and the rotation of the [[Earth]]  < ref > or another planetary body if used elsewhere in the universe < /ref >  It automatically finds geographical direction.  
+ 
+ Although one part of a gyrocompass is a [[gyroscope]], these are not the same devices. A crucial ingredient is needed to turn a gyroscope into a gyrocompass, so it would automatically position to true north. This is some mechanism that applies [[torque]] whenever the compass's axis is not pointing north. Successful methods have two significant advantages over magnetic compasses: 
+ * they find ''true'' north as determined by Earth's rotation, which is different from, and more useful than,  [[magnetic north pole|''magnetic'' north]], and 
+ * they are unaffected by [[ferromagnetic]] materials, such as ship's [[steel]] [[hull (watercraft)|hull]], which change the [[magnetic field]] 
+ 
+ == Note == 
+ {{reflist}} 
+ 
+ {{-}} 
+ {{tech-stub}} 
+ 
+ [[Category:Navigation]] 
+ [[Category:Tools]]

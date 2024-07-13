@@ -1,0 +1,113 @@
+[[Image:Turbocharger.jpg|right|thumb|Cut-away view of an air foil bearing-supported turbocharger]] 
+ 
+ A '''turbocharger''', or '''turbo''', is a [[gas compressor]]. It is used to force air into an [[internal combustion engine]]. A turbocharger is a form of forced induction. It increases the amount of air entering the engine to create more power. A turbocharger has the compressor powered by a [[turbine]]. The turbine is driven by the exhaust gas from the engine. It does not use a direct mechanical drive. This helps to improve  the performance of the turbocharger. 
+ 
+ == Names == 
+ Early builders of turbochargers called them as  " turbosuperchargers " . A supercharger is an air compressor used for forcing air into an engine. They thought that by adding a turbine to turn the supercharger, it would yield a  " turbosupercharger " . The term was soon shortened to  " turbocharger " . This can now create some confusion. The term  " turbosupercharged "  is sometimes used to refer to an engine that uses both a crankshaft-driven supercharger and an exhaust-driven turbocharger. This is also called twincharging. 
+ 
+ Some companies such as Teledyne Continental Motors still use the term ''turbosupercharger'' to refer to their turbochargers. 
+ 
+ == Operation == 
+ An [[engine]] creates power by burning a mixture of air and [[fuel]]. The air and fuel are put into the [[cylinder]]s to burn. When they burn, they push the [[piston]] down. The piston turns the [[crankshaft]] and creates [[Power (physics)|power]]. For [[car]] engines, this is measured ''horsepower''. 
+ 
+ === Naturally Aspirated (Normally Aspirated) engines === 
+ An engine that does not use a turbocharger or a supercharger is called a ''naturally aspirated'' or ''normally aspirated'' engine. Normally, when engine specifications are listed, a note is only made if the engine uses a turbocharger or supercharger. Most [[car]] engines are naturally aspirated. The power they can create is limited by the amount of air the pistons can pull into the cylinders. 
+ 
+ === Turbocharged engines === 
+ A turbocharger is a small fan [[pump]] that spins around a shaft. The pump is driven by the pressure of the exhaust gas. A turbocharger consists of a [[turbine]] and a [[gas compressor|compressor]]. They are both mounted on the same shaft. The turbine is a [[heat engine]]. It converts exhaust heat and pressure to rotation. This rotation is used to turn the [[Gas compressor|compressor]]. The compressor takes in the draws in the outside air. It squeezes or compresses the air. It then sends the air to the engine. Because the air pressure has been increased, more air and fuel may be put into the cylinders. This is sometimes called ''boost pressure''.With more fuel to burn, the engine can create more power. This increases the ''horsepower'' of the engine. 
+ 
+ === Engine damage === 
+ The engine can be damaged if the air pressure in the cylinders gets too high. If there is too much exhaust gas sent to the turbine, the compressor can create too much pressure. To stop this from happening, a ''wastegate'' is used. The wastegate will limit amount of exhaust gas sent to the turbine. 
+ 
+ == History == 
+ The turbocharger was invented by [[Switzerland|Swiss]] engineer Alfred Büchi. His patent was applied for use in 1905. < ref > {{cite web |url=http://www.gizmag.com/go/4848/ |title= " The turbocharger turns 100 years old this week "  |publisher=Gizmag.com |date=2005-10-17 |accessdate=2010-08-02}} < /ref >  [[Diesel engine|Diesel]] [[ship]]s and [[locomotive]]s with turbochargers began appearing in the 1920s. 
+ 
+ === Aviation === 
+ During the First World War French engineer Auguste Rateau fitted turbochargers to Renault engines powering various French fighters with some success. < ref name=AirSpace > {{cite web |url=http://www.airspacemag.com/history-of-flight/climb.html?c=y & page=1 |title=Air  &  Space Magazine: Hill Climb |publisher=Airspacemag.com |date=2001-05-01 |accessdate=2010-08-02}} < /ref > 
+ 
+ In 1918, [[General Electric]] engineer Sanford Moss attached a turbocharger to a ''Liberty'' aircraft engine. The engine was tested at [[Pikes Peak]] in [[Colorado]] at {{convert|14000|ft|m}}. The test was to show that the turbo could add the power [[airplanes]] lose at high altitude.  Internal combustion engines lose power because at high altitude, the outside air pressure is low. Less air and fuel can be drawn into the engine. < ref name=AirSpace / > 
+ 
+ Turbochargers were first used in production aircraft engines in the 1930s.  
+ 
+ === Production automobiles === 
+ [[Image:Corvair turbo engine.jpg|right|thumb|The Chevrolet Corvair's turbocharged engine. The turbo, located at top right, feeds pressurized air into the engine through the chrome T-pipe spanning the engine.]] 
+ 
+ The first turbocharged diesel truck was built by the  " Swiss Machine Works Saurer "  in 1938. < ref > {{cite web |url=http://www.turbodriven.com/en/turbofacts/default.aspx |title=BorgWarner turbo history |publisher=Turbodriven.com |accessdate=2010-08-02 |archive-date=2010-07-26 |archive-url=https://web.archive.org/web/20100726074209/http://www.turbodriven.com/en/turbofacts/default.aspx |url-status=dead }} < /ref >  The first production turbocharged automobile engines came from [[General Motors]] in 1962. The [[Oldsmobile Cutlass]] Jetfire was fitted with a [[:en:Garrett_AiResearch|Garrett AiResearch]] turbocharger and the [[Chevrolet Corvair]] Monza Spyder with a TRW turbocharger. < ref > {{cite web |url=http://www.dwperformance.com/about-us.aspx |title=Garrett history |publisher=Dwperformance.com |accessdate=2010-08-02 |archive-date=2010-05-03 |archive-url=https://web.archive.org/web/20100503040057/http://www.dwperformance.com/about-us.aspx |url-status=dead }} < /ref > < ref > {{cite web |url=http://honeywellbooster.com/turbotalk/honeywell-heritage-a-hallmark-throughout-turbo-history/ |title=Honeywell Heritage: A Hallmark Throughout Turbo History « Booster Online |publisher=Honeywellbooster.com |date=2009-11-09 |accessdate=2010-02-14 |archive-date=2010-02-07 |archive-url=https://web.archive.org/web/20100207083524/http://honeywellbooster.com/turbotalk/honeywell-heritage-a-hallmark-throughout-turbo-history/ |url-status=dead }} < /ref > < ref > {{cite web | url =http://autouniversum.wordpress.com/2009/04/27/a-look-back-genesis-of-the-automotive-turbocharger/ | first = J |last=Kraus | title=A Look Back: Genesis of the Automotive Turbocharger|publisher=Auto Universum |date=2009-04-27 |accessdate=2010-08-02}} < /ref >   
+ 
+ In 1974, at Paris Auto Show, Porsche displayed the 911Turbo. This was during the height of the oil crisis. The 911Turbo was the first production [[sports car]] with exhaust turbocharger and pressure regulator. The pressure regulator was the wastegate. < ref > {{cite web |url=http://www.saab.fi/fi/fi/start#/world/heritage/history/ |title=Saab - Saab |publisher=Saab.fi |accessdate=2009-09-23}} < /ref > 
+ The first production turbo diesel automobiles were the [[Mercedes-Benz|Mercedes]] 300SD with a Garrett turbocharger, and the [[Peugeot]] 604. Both were introduced in 1978. Today, most automotive diesels are turbocharged. 
+ 
+ === Racing cars === 
+ The first successful turbocharged racing engine appears to have been in 1952. Fred Agabashian in a diesel-powered [[Cummins]] Special qualified for the pole position at the [[Indianapolis 500]]. He led for {{convert|175|mi|km}}. Then the turbo was damaged by tire debris. [[Offenhauser]]'s turbocharged engines first came to Indianapolis in 1966. Their first victory came in 1968 using a Garrett AiResearch turbocharger. Turbocharged cars dominated the [[24 Hours of Le Mans]] between 1976 and 1988, and then from 2000-2007. 
+ 
+ {| align=right width=220px 
+ |- 
+ | {{Listen|filename=Ferrari 126C4 M2 (1984).ogg|title=Ferrari Turbo F1 car|description=1984 Ferrari 126C4/M2 at Goodwood Festival of Speed 2009. 1.5 litre turbocharged V6, 850bhp}} 
+ |} 
+ [[Formula One]] had a  " Turbo Era "  from {{F1|1977}} until {{F1|1989}}. Engines with a capacity of 1500 & nbsp;cc could produce as much as 1500 & nbsp;hp (1119 & nbsp;kW). In 1977, [[Renault F1|Renault]] was the first to use turbocharged engines F1. The performance made up for the high cost. Other engine manufacturers started building turbos. The turbocharged engines took over the F1 field. They ended the Ford [[Cosworth]] DFV era in the mid 1980s. the [[Fédération Internationale de l'Automobile|FIA]] decided that turbochargers were making the sport too dangerous and expensive. In 1987, the FIA decided to limit the maximum boost of the turbos. In 1989, turbochargers were banned completely. 
+ 
+ World Rally Car racers have long preferred turbocharged engines. They offer a very high power-to-weight ratios. Turbo power started to rise to the levels of F1 cars. The FIA did not ban turbos. They restrict the turbo power by limiting the inlet diameter. 
+ 
+ == Multiple turbochargers == 
+ === Parallel === 
+ Some engines use two turbochargers. They will both be the same size. They are normally smaller than used on single-turbos engines. They are often used on V-type engines, such as [[V6 engine|V6s]] and [[V8 engine|V8s]]. Each turbo is powered by a separate exhaust pipe from the engine. Because they are smaller, they reach their optimal boost more quickly. This setup of turbos is normally called a parallel twin-turbo system. The first production car with parallel twin turbochargers was the [[Maserati]] Biturbo of the early 1980s.  
+ 
+ === Sequential === 
+ Some car builders avoid [[Turbocharger#Turbo lag|turbo lag]] (below) by using two small turbos. The normal setup is to have one turbo working all the time. The seconds turbo will only start working at higher RPM. Because the turbos are smaller, they do not have as much turbo lag. The second turbo will be able get to full speed before it is required. This setup is normally called a sequential twin-turbo. Porsche first used this technology in 1985 in the [[Porsche]] 959. 
+ 
+ == Applications == 
+ === Diesel === 
+ Turbocharging is very common on [[diesel engine]]s in automobiles, [[truck]]s, [[locomotive]]s, [[ship]]s, and heavy machinery. Diesels are particularly suitable for turbochargers for several reasons: 
+ * Turbocharging can dramatically improve an engine's power and power-to-weight ratio. 
+ * Truck and industrial Diesel engines normally run at their maximum speed. This reduces problems with turbo lag. 
+ * Diesel engines have no engine knock. The diesel fuel is injected at the end of the compression stroke, and ignited by compression heat. Diesel engines can use much higher boost pressures than gasoline powered engines. 
+ 
+ === Motorcycle === 
+ Using turbochargers to increase performance was very appealing to the Japanese builders in the 1980s. The first example of a turbocharged [[motorcycle]] is the 1978 [[Kawasaki Heavy Industries|Kawasaki]] Z1R TC. It used a Rayjay ATP turbo kit to build 0.35 & nbsp;bar (5 & nbsp;lb) of boost. This raised the power up from {{convert|90|hp|abbr=on}} to {{convert|105|hp|abbr=on}}. It was only slightly faster than the standard model. Several other motorcycles were built with turbos. Turbo applications for motorcycles increased their price. The small gains in performance were not worth the extra cost. Since the mid 1980s, no manufacturers have produced turbocharged motorcycles. 
+ 
+ === Aircraft === 
+ A natural use of the turbocharger is with [[aircraft]] engines. As an aircraft climbs to higher altitudes, the pressure of the surrounding air quickly decreases. A turbocharger fixes this problem by compressing the air to higher pressures. 
+ 
+ == Temperature considerations == 
+ Compressing the air increases its temperature. This causes several problems. Increased temperatures can lead to engine knock because of increased cylinder head temperatures. Hot air cannot burn as much fuel as cold air. This will decrease the power produced.  
+ 
+ The common method of dealing with the hotter air is to cool it. The most common way is to use an inter-cooler or after-cooler. These coolers reduce the temperature of the air before it enters the engine.  
+ 
+ Modern turbocharged aircraft usually do not need to cool the incoming air. Their turbochargers are generally small and the pressures created are not very high. Thus, the air temperature is not increased very much. 
+ 
+ == Comparison to supercharging == 
+ To run a supercharger, it needs to take away some power from the engine. The power it adds is more than the power it uses. A turbocharger uses the exhaust gases. This is heat energy that would be wasted.  
+ 
+ == Properties == 
+ === Reliability === 
+ Turbochargers can be damaged by dirty or poor oil. Most manufacturers recommend more frequent oil changes for turbocharged engines. The turbocharger will heat when running. Many recommend letting the engine idle for several minutes before shutting the engine off. This gives the turbo time to cool down. This will increase the life of the turbo. 
+ 
+ === Turbo lag ===  < !-- This section is linked from [[Porsche 911]] -- > 
+ The time required for the turbo to build up the needed pressure is called ''turbo lag''. This is noticed as a hesitation in engine response. This is caused by the time taken for the exhaust system to speed up the turbine. The directly-driven compressor in a [[supercharger]] does not have this problem.  
+ 
+ Lag can be reduced by using lighter parts. This allows the turbine to start faster. Other mechanical changes can reduce turbo lag, but at an increase in cost. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * {{cite journal 
+  |url          = http://www.automobilemag.com/features/news/0602_turbocharger_history/index.html 
+  |title        = Happy 100th Birthday to the Turbocharger 
+  |author       = Don Sherman 
+  |journal      = Automobile Magazine 
+  |date         = February 2006 
+  |access-date  = 2010-09-01 
+  |archive-date = 2012-02-22 
+  |archive-url  = https://web.archive.org/web/20120222033727/http://www.automobilemag.com/features/news/0602_turbocharger_history/index.html 
+  |url-status   = dead 
+ }} 
+ * {{cite journal 
+  | url=http://www.pistonheads.com/doc.asp?c=52 & i=10065 |title=Audi Quattro |author=Andrew Noakes 
+  | journal=Pistonheads 
+  |date= 18 March 2005}} 
+ *[http://www.miti.cc/new_products.html#OilFreeTurbocharger Mohawk Innovative Technology, Inc.'s Oil Free Turbocharger] 
+ * [http://www.grc.nasa.gov/WWW/Oilfree/turbocharger.htm NASA Oil Free Turbocharger] {{Webarchive|url=https://web.archive.org/web/20090505205653/http://www.grc.nasa.gov/WWW/Oilfree/turbocharger.htm |date=2009-05-05 }} 
+ 
+ [[Category:Motors]] 
+ [[Category:Aircraft engines]]

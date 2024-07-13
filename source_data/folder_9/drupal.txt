@@ -1,0 +1,35 @@
+{{Infobox software 
+ | name         = Drupal 
+ | logo         = Druplicon.large.png 
+ | screenshot   = Drupal 8 quickedit.png 
+ | caption      = Drupal 8 in action. Showing in-context editing and previews ([[WYSIWYG]]). 
+ | collapsible  = yes 
+ | author       = [[Dries Buytaert]] 
+ | developer    =  
+ | released     = {{Start-date|January 2001}} 
+ | discontinued =  
+ | latest release version = 8.1.9  < ref name= " Drupal-8-Releases " > [https://www.drupal.org/node/3060/release?api_version%5B%5D=7234 & =Apply Drupal 8 release history; drupal.org] < /ref >   < !-- If you update this, remember to change: 1) table in history section and 2) [[List of content management systems]] -- >   
+ | latest release date = {{Start date and age|2016|08|03|df=yes}} 
+ | operating system = [[Cross-platform]] 
+ | platform     =  
+ | size         = 64.9 & nbsp;MB (uncompressed Drupal 8 core)  < ref name= " Drupal-8-Releases " / > 
+ | language     = Multilingual 
+ | programming language = [[PHP]] 
+ | genre        = [[List of content management frameworks|Content management framework]], [[Content management system]], [[Community]] and [[Blog software]] 
+ | license      = [[GNU General Public License|GPLv2]] or later. < ref name=licensingfaq > {{Cite web | url=http://drupal.org/licensing/faq | title=Licensing FAQ | work=drupal.org | access-date=2009-04-08}} < /ref > 
+ | alexa                  = 
+ | website      = {{URL|https://www.drupal.org|drupal.org}} 
+ }} 
+ '''Drupal''' {{IPAc-en|ˈ|d|r|uː|p|əl}} < ref > {{cite web|title=How does one pronounce  " Drupal " ?|url=https://www.drupal.org/node/394746|work=drupal.org|access-date=2 March 2016}} < /ref >  is a [[free and open source software]] application that is installed on [[server]]s. < ref > {{cite web|title=Install Drupal for Windows|url=https://www.microsoft.com/web/drupal/|work=microsoft.com|publisher=Microsoft|access-date=2 March 2016}} < /ref >    When installed and configured, Drupal helps people make websites that are secure, safe, and stable.   Drupal also allows users to share modules with each other.  Modules are like building blocks that when installed make new features available. 
+ 
+ As of February 2016, more than 1.3 million websites use Drupal. < ref > {{cite web|title=Usage statistics for Drupal core|url=https://www.drupal.org/project/usage/drupal|work=drupal.org|access-date=2 March 2016}} < /ref > 
+ Drupal is well supported, and many high level websites are built with it including whitehouse.gov. < ref > {{cite web|last=Wilson|first=Chris|title=Message Error: Why running the White House Web site on Drupal is a political disaster waiting to happen.|url=http://www.slate.com/articles/news_and_politics/politics/2009/10/message_error.html|work=slate.com|access-date=2 March 2016}} < /ref > < ref > {{cite web|title=Developers|url=https://www.whitehouse.gov/developers|work=whitehouse.gov|publisher=United States Government|access-date=2 March 2016|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303133138/https://www.whitehouse.gov/developers|url-status=dead}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Web design]]

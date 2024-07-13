@@ -1,0 +1,18 @@
+[[File:6sided dice (cropped).jpg|thumb|Dices are usually used to generate random phrases in diceware.]] 
+ '''Diceware''' is a method of creating [[password]]s and [[Cryptography|cryptographic letters]] using ordinary [[dice]] as a [[random]] number generator. < ref > {{Cite web|last=Brodkin|first=Jon|date=2014-03-27|title=Diceware passwords now need six random words to thwart hackers|url=https://arstechnica.com/information-technology/2014/03/diceware-passwords-now-need-six-random-words-to-thwart-hackers/|access-date=2021-04-28|website=Ars Technica|language=en-us}} < /ref > 
+ 
+ ==Examples== 
+ Here are some examples created from diceware: 
+ * dobbs bella bump flash begin ansi 
+ * easel venom aver flung jon call 
+ * conjoined sterling securely chitchat spinout pelvis 
+ * rice immorally worrisome shopping traverse recharger 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ [[Category:Cryptography]] 
+ [[Category:Computer security]] 
+ 
+ 
+ {{Tech-stub}}

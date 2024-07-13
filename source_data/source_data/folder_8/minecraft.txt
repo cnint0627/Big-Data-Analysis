@@ -1,0 +1,355 @@
+{{Infobox video game 
+ | title = Minecraft 
+ | image = [[File:Minecraft Logo.svg|Minecraft Logo]] 
+ | caption = Logo 
+ | alt =  
+ | developer = [[Mojang]]{{Efn|Ports to consoles developed by [[4J Studios]]; < ref > {{Cite web|url=https://www.polygon.com/2014/11/6/7167349/microsoft-owns-minecraft-mojang-acquisition-closes|title=Microsoft officially owns Minecraft and developer Mojang now|last=Sarkar|first=Samit|date=6 November 2014|website=Polygon|language=en|access-date=19 March 2020}} < /ref >  New Nintendo 3DS port developed by [[Other Ocean Interactive]] < ref > {{Cite web |url=https://www.nintendo.com/games/detail/minecraft-new-nintendo-3ds-edition |title=Minecraft: New Nintendo 3DS Edition |website=www.nintendo.com|access-date=3 February 2019}} < /ref > }} 
+ | publisher = {{Unbulleted list 
+   | Mojang Studios{{Efn|PC/Java, Android, iOS, Wii U, Nintendo 3DS, Nintendo Switch}} 
+   | [[Xbox Game Studios]]{{Efn|Xbox 360, Xbox One, Windows Phone, Windows 10 Edition}} 
+   | {{Nowrap|[[Sony Interactive Entertainment]]}}{{Efn|PlayStation 3, PlayStation 4, PlayStation Vita}} 
+   }} 
+ | series = ''Minecraft'' 
+ | designer = {{Unbulleted list 
+   | [[Markus Persson]]{{Efn|2009–2011}} 
+   | [[Jens Bergensten]]{{Efn|2011–present}} 
+   }} 
+ | programmer =  < !-- Leave blank for Wikidata suppression. -- > 
+ | engine =  < !-- Leave blank for Wikidata suppression. -- > 
+ | artist = {{Unbulleted list 
+   | Markus Toivonen 
+   | Jasper Boerstra 
+   }} 
+ | composer = [[C418]]{{Efn|Samuel Åberg, [[Gareth Coker]], [[Lena Raine]], and [[Kumi Tanioka]] have also contributed since release.}} 
+ | released = {{Collapsible list 
+ | title = {{nobold|18 November 2011}}{{Efn|''Minecraft'' was first publicly available on 17 May 2009, < ref > {{cite web |url=http://notch.tumblr.com/post/109000107/minecraft-0-0-11a-for-public-consumption |title=Minecraft 0.0.11a for public consumption : The Word of Notch |last=Persson |first=Markus |date=17 May 2009 |website=[[Tumblr]] |access-date=1 April 2018 |archive-date=16 July 2015 |archive-url=https://web.archive.org/web/20150716115516/http://notch.tumblr.com/post/109000107/minecraft-0-0-11a-for-public-consumption |url-status=dead }} < /ref >  and was fully released on 17 May 2009.}} 
+   | '''Windows''', '''macOS''', '''Linux''' 
+   | {{Video game release|WW| < !-- Don't change this to 2009, this is the full release date; read the Development section -- > 17 May 2009 < ref name= " PC release date " > {{cite web |title=Minecraft |url=http://www.gamespot.com/minecraft/ |website=[[GameSpot]] |publisher=[[CBS Interactive]] |access-date=21 October 2012 |url-status=live |archive-url=https://web.archive.org/web/20121015224527/http://www.gamespot.com/minecraft/ |archive-date=15 October 2012}} < /ref > }} 
+   | '''Android''' 
+   | {{Video game release|WW|7 October 2011 < ref name= " Android release date " > {{cite web |title=Minecraft – Pocket Edition – Android |url=https://www.ign.com/games/minecraft/android-101490 |website=[[IGN]] |access-date=21 October 2012 |url-status=live |archive-url=https://web.archive.org/web/20121116020619/http://www.ign.com/games/minecraft/android-101490 |archive-date=16 November 2012}} < /ref > }} 
+   | '''iOS''' 
+   | {{Video game release|WW|17 November 2011 < ref name= " iOS release date " > {{cite web |title=Minecraft: Pocket Edition |url=http://www.gamespot.com/minecraft-pocket-edition/ |website=[[GameSpot]] |publisher=[[CBS Interactive]] |access-date=21 October 2012 |url-status=live |archive-url=https://web.archive.org/web/20121023031722/http://www.gamespot.com/minecraft-pocket-edition/ |archive-date=23 October 2012}} < /ref > }} 
+   | '''Xbox 360''' 
+   | {{Video game release|WW|9 May 2012 < ref name= " Xbox 360 release date " > {{cite web |url=https://www.wired.co.uk/news/archive/2012-03/22/minecraft-xbox-360-dated |title=Minecraft for Xbox 360 release date announced, amongst others |magazine=[[Wired UK]] |date=22 March 2012 |access-date=22 October 2012 |last=Brown |first=Mark |url-status=dead |archive-url=https://web.archive.org/web/20121218065518/http://www.wired.co.uk/news/archive/2012-03/22/minecraft-xbox-360-dated |archive-date=18 December 2012}} < /ref > }} 
+   | '''Raspberry Pi''' 
+   | {{Video game release|WW|11 February 2013 < ref name= " Raspberry Pi Release Date " > {{cite web |title=Minecraft Raspberry Pi |url=http://www.mojang.com/2013/02/minecraft-pi-edition-is-available-for-download |publisher=[[Mojang]] |access-date=27 March 2013 |url-status=live |archive-url=https://web.archive.org/web/20130327003305/http://mojang.com/2013/02/minecraft-pi-edition-is-available-for-download/ |archive-date=27 March 2013}} < /ref > }} 
+   | '''PlayStation 3''' 
+   | {{Video game release|NA|17 December 2013|EU|18 December 2013}} 
+   | '''Fire OS''' 
+   | {{Video game release|WW|2 April 2014 < ref > {{Cite news |url=https://www.engadget.com/2014/04/02/amazons-fire-tv-game-lineup/ |title=Amazon's first Fire TV games include in-house titles and Minecraft (update: video) |work=Engadget|access-date=25 September 2018}} < /ref > }} 
+   | '''PlayStation 4''' 
+   | {{Video game release|WW|4 September 2014 < ref name= " PS4 " > {{cite web |last1=Pitcher |first1=Jenna |title=Minecraft PS4 Edition Release Date Confirmed |url=https://www.ign.com/articles/2014/09/04/minecraft-ps4-edition-release-date-confirmed |website=IGN |publisher=IGN Entertainment, Inc. |access-date=3 October 2014 |url-status=live |archive-url=https://web.archive.org/web/20141001124534/http://www.ign.com/articles/2014/09/04/minecraft-ps4-edition-release-date-confirmed |archive-date=1 October 2014 |date=3 September 2014}} < /ref > }} 
+   | '''Xbox One''' 
+   | {{Video game release|WW|5 September 2014 < ref > {{cite web |url=https://www.cnet.com/news/minecraft-for-xbox-one-to-launch-on-friday/ |title=Minecraft for Xbox One to launch on Friday |website=CNET |access-date=13 October 2014 |url-status=live |archive-url=https://web.archive.org/web/20141007081727/http://www.cnet.com/news/minecraft-for-xbox-one-to-launch-on-friday/ |archive-date=7 October 2014}} < /ref > }} 
+   | '''PlayStation Vita''' 
+   | {{Video game release|NA|14 October 2014 < ref > {{cite web |url=https://www.ign.com/articles/2014/10/10/minecraft-ps-vita-edition-release-date-revealed-for-north-america |title=Minecraft: PS Vita Edition Release Date Revealed for North America |website=IGN |access-date=13 October 2014 |url-status=live |archive-url=https://web.archive.org/web/20141012184258/http://www.ign.com/articles/2014/10/10/minecraft-ps-vita-edition-release-date-revealed-for-north-america |archive-date=12 October 2014 |date=10 October 2014}} < /ref > |EU|15 October 2014}} 
+   | '''Windows Phone''' 
+   | {{Video game release|WW|10 December 2014 < ref > {{cite web |url=https://www.mojang.com/2014/12/pocket-edition-comes-to-windows-phones |title=Minecraft Comes to Windows Phones |website=Mojang |url-status=live |archive-url=https://web.archive.org/web/20141230104436/https://mojang.com/2014/12/pocket-edition-comes-to-windows-phones/ |archive-date=30 December 2014 |date=17 July 2019}} < /ref > }} 
+   | '''Windows 10''' 
+   | {{Video game release|WW|29 July 2015 < ref > {{cite web |url=https://www.cnet.com/news/minecraft-for-xbox-one-to-launch-on-friday/ |title=Announcing Minecraft Windows 10 Edition Beta |url-status=live |archive-url=https://web.archive.org/web/20150709070948/http://www.cnet.com/news/minecraft-for-xbox-one-to-launch-on-friday/ |archive-date=9 July 2015}} < /ref > }} 
+   | '''Wii U''' 
+   | {{Video game release|WW|17 December 2015 < ref name= " WiiU " > {{cite web |url=http://www.gamespot.com/articles/minecraft-wii-u-confirmed-coming-very-soon/1100-6432876/ |title=Minecraft Wii U Confirmed, Coming Very Soon |last=Makuch |first=Eddie |website=[[GameSpot]] |publisher=[[CBS Interactive]] |date=7 December 2015 |access-date=8 December 2015 |url-status=live |archive-url=https://web.archive.org/web/20151207140300/http://www.gamespot.com/articles/minecraft-wii-u-confirmed-coming-very-soon/1100-6432876/ |archive-date=7 December 2015}} < /ref > }} 
+   | '''tvOS''' 
+   | {{Video game release|WW|19 December 2016 < ref name= " AppleTV " > {{cite web |first=Owen|last=Jones|url=https://minecraft.net/en/article/apple-tv-edition-released |title=minecraft.net – Apple TV Edition released! |access-date=30 December 2016 |url-status=dead |archive-url=https://web.archive.org/web/20161227200120/https://minecraft.net/en/article/apple-tv-edition-released |archive-date=27 December 2016 |date=19 December 2016}} < /ref > }} 
+   | '''Nintendo Switch''' 
+   | {{Video game release|NA|11 May 2017|PAL|12 May 2017}} 
+   | '''New Nintendo 3DS''' 
+   | {{Video game release|WW|13 September 2017 < ref name= " New3DS " > {{cite web |url=https://www.gamespot.com/articles/new-3ds-version-of-minecraft-announced-release-dat/1100-6453329/ |title=New 3DS Version Of Minecraft Announced, Release Date Set For Today |last=Pereira |first=Chris |date=13 September 2017 |website=GameSpot |access-date=13 September 2017}} < /ref > |EU|20 September 2018}} 
+   | '''ChromeOS''' 
+   | {{Video game release|WW|8 
+ June 2023}} 
+   }} 
+ | genre = [[Sandbox game|Sandbox]], [[Survival game|survival]] 
+ | modes = [[Single-player]], [[multiplayer]] 
+ | platforms = {{Collapsible list 
+   | title = {{Nobold|[[Microsoft Windows|Windows]], [[macOS]], [[Linux]]}} 
+   | [[Android (operating system)|Android]] 
+   | [[ChromeOS]] 
+   | [[iOS]] 
+   | [[iPadOS]] 
+   | [[Xbox 360]] 
+   | [[Raspberry Pi]] 
+   | [[Windows Phone]] 
+   | [[PlayStation 3]] 
+   | [[Fire OS]] 
+   | [[PlayStation 4]] 
+   | [[Xbox One]] 
+   | [[Xbox One X]] 
+   | [[Xbox One S]] 
+   | [[PlayStation Vita]] 
+   | [[Wii U]] 
+   | [[Apple TV]] 
+   | [[tvOS]] 
+   | [[Nintendo Switch]] 
+   | [[New Nintendo 3DS]] 
+   | [[Xbox Series S]] 
+   | [[Xbox Series X]] 
+   | [[PlayStation 5]] 
+   }} 
+ }} 
+ '''''Minecraft''''' is a [[sandbox video game]] first made by [[Markus Persson|Markus  " Notch "  Persson]]. It was sold to [[Microsoft]] in 2014 for 2.5 billion [[United States dollar|American dollars]]. < ref > {{cite news | url=https://www.wsj.com/articles/microsoft-near-deal-to-buy-minecraft-1410300213 | title=Microsoft Near Deal to Buy Minecraft | newspaper=Wall Street Journal | date=9 September 2014 }} < /ref >  Over 238 million copies of the game have been sold. < ref > {{Cite web|date=April 2021|title=Minecraft Franchise Fact Sheet|url=https://news.xbox.com/en-us/wp-content/uploads/sites/2/2021/04/Minecraft-Franchise-Fact-Sheet_April-2021.pdf|access-date=October 27, 2021|website=news.xbox.com}} < /ref >  This makes it the best-selling [[video game]] of all time. 
+ 
+ In Minecraft, players explore a [[Open world|free walkable]] world filled with many 3D items. Many of these items are cubes, called  " blocks " . These include basic [[terrain]] and resources such as [[dirt]], [[stone]], [[wood]], and [[sand]]. There are also items the player can use, such as crafting tables, furnaces, blast furnaces, looms, and stonecutters among others. Players can use these to make new items such as [[tool]]s and [[armor]], as well as different kinds of blocks. < ref > {{cite web | url=http://www.ign.com/articles/2010/11/11/this-is-minecraft | title=This is Minecraft | work=[[IGN]] | date=11 November 2010 | access-date=22 April 2016 | last=Ashdown|first=Jeremy}} < /ref >  Players can then build structures using these blocks, such as [[building]]s, [[statue]]s, pixel [[art]], and more. 
+ 
+ Minecraft has a large [[community]]. It has a lot of user-generated content (things made by players) like [[Mod (video games)|mods]], servers, skins, texture packs, and custom maps, which add new gameplay features and game modes to the base game. 
+ 
+ Minecraft has three main versions: Java Edition, Bedrock Edition, and Education. Java Edition is the first version of Minecraft made, but Bedrock Edition is now used more due to it being [[cross-platform|multi-platform]]. Bedrock Edition and Education are written in [[C++]], and Java Edition is written in [[Java (programming language)|Java]]. In the past, special versions of Minecraft were made just for [[video game consoles]]. 
+ 
+ ==History== 
+ ''Minecraft'' was originally created as an [[experiment]] to test [[random]] generation for [[cave]]s. ''Minecraft'' was inspired by ''Infiniminer'', a game created by Zachary Barth. The first version of Minecraft was released for [[Personal computer|PC]] players on May 17, 2009 and it was called Cave Game. After going through alpha and beta versions, the full version was released on November 18, 2011. A version for [[Android (operating system)|Android]] was released on October 7, 2011, and an [[iOS]] version was released on November 17, 2011. < ref > {{cite web | url=https://www.pocket-lint.com/games/news/microsoft/148120-minecraft-earth-mobile-release-date-formats-maps-price | title=Minecraft Earth: Improved challenges and play from home | date=12 November 2019 }} < /ref > 
+ 
+ At first, ''Minecraft'' was created only by Markus Persson. Other people started to work on it when Persson started an independent video game [[company]] called Mojang Specifications. The company was later renamed simply to [[Mojang AB|Mojang]]. Later in 2011, a version named [[Minecraft: Pocket Edition|''Minecraft: Pocket Edition'']] was released for iOS and Android devices. This version was later renamed  " Bedrock Edition " . In 2012, Persson gave [[Jens Bergensten|Jens  " Jeb "  Bergensten]] the job of being the main [[video game developer|developer]] of ''Minecraft''. 
+ 
+ Minecraft has also released on many [[video game console]]s. On May 9, 2012, ''Minecraft'' came out on the [[Xbox 360]] as a download through the [[Xbox Live Arcade]]. It was available for 1600 Microsoft Points ($19.99). In 2013, ''Minecraft'' came out as a [[DVD|disc]] for the Xbox 360 and [[PlayStation 3]]. On December 10, 2013, a [[Windows Phone]] version was released. < ref > {{cite web|title=Pocket Edition comes to Windows phones|url=https://mojang.com/2014/12/pocket-edition-comes-to-windows-phones/|url-status=dead|archive-url=https://web.archive.org/web/20141211013555/https://mojang.com/2014/12/pocket-edition-comes-to-windows-phones/|archive-date=11 December 2014|access-date=11 June 2015|work=mojang.com}} < /ref >  Versions for the [[Xbox One]] and [[PlayStation 4]] were released in September 2014. < ref > {{cite web|date=September 3, 2014|title=Minecraft PS4 Edition Release Date Confirmed|url=https://www.ign.com/articles/2014/09/04/minecraft-ps4-edition-release-date-confirmed|work=IGN}} < /ref >  A version for the [[PlayStation Vita]] was released on October 14, 2014. The [[Wii U]] edition was released on December 17, 2015. In 2017, versions for the [[Nintendo Switch]] and the [[New Nintendo 3DS]] were released. The Xbox One, PlayStation 4, and Nintendo Switch were later given the Bedrock Edition, which allowed players of these systems to play together. 
+ 
+ ==Gameplay== 
+ [[File:Minetest Game Version 5.1.0.jpg|thumb|Gameplay of [[Minetest]], a game similar to Minecraft]] 
+ At the start of the game, players are put in a random location in the game world. They can begin breaking blocks to collect resources, such as wood and dirt, which can be used later in the game. Players can use resources to make new tools, such as [[pickaxe]]s, which let the player gather stone in the caves that they find. Different resources require different tools to collect them. For example, [[diamond]]s can only be collected with an [[iron]] pickaxe, or one of a better quality. 
+ 
+ The game world is mostly endless. As players explore it, the game makes new sections of the world using [[procedural generation]]. The game generates different kinds of terrain in [[biome]]s. Different biomes have different blocks in them. For example, a [[taiga]] biome will have lots of [[spruce]] trees and snow, whereas a [[plains]] biome will have lots of grass. The player can also find different structures in the world, like [[mountain]]s and [[village]]s.  
+ 
+ The game has [[non-player character]]s called  " [[Mob (video games)|mobs]] "  (short for mobile entity). There are many mobs in Minecraft. Some are real-life animals, like [[cow]]s, [[pig]]s, and [[sheep]]. Some are based on monsters, such as [[zombie]]s or [[skeleton]]s. There are also some which do not exist in the real world in any way, and are unique to Minecraft, such as Creepers, Piglins, and Endermen. Each mob has different things it can do. For example, players can kill cows to get leather, which can make items, and beef, which can be cooked to make food. The Creeper, a hostile mob (meaning it tries to attack the player), will move close to the player and then explode, which usually causes so much damage that will kill the player.  
+ 
+ Minecraft has very few goals. Players can choose how they want to play. They can choose to fight [[Boss (video games)|bosses]], such as the Wither and the Ender Dragon, or choose to explore the world and build. If the player defeats the Ender Dragon, they can see the credits of the game. < ref > {{Cite web|url=https://boingboing.net/2012/01/09/ending-an-endless-game-an-int.html|title= " Ending an endless game: an interview with Julian Gough, author of Minecraft's epic finale " |last=Chatfield|first=Tom|date=9 January 2012|website=Boing Boing|archive-url=https://web.archive.org/web/20120112024241/http://boingboing.net/2012/01/09/ending-an-endless-game-an-int.html|archive-date=12 January 2012|access-date=19 August 2018}} < /ref >  Minecraft also has lots of Achievements called  " advancements " . These can range from simple things like sleeping in a bed for the first time, to complex things like discovering every biome in the game. Both boss fights and advancements are optional. 
+ 
+ In addition to the default dimension the player starts in (called the  " Overworld " ), there are also two other dimensions in Minecraft - the Nether and the End. Both of these can be accessed with special portals. The player can make Nether portals using [[obsidian]] and [[flint]] and [[steel]], but End portals have to be found in strongholds. While it is not necessary to go to these dimensions, they have lots of different items and enemies which can not be found in the Overworld. The Ender Dragon can only be fought in the End. After that, the player has a choice of going back to the overworld or to go to the end islands to find an end city and get an Elytra And Diamond Enchanted Armor 
+ ===Game modes=== 
+ ==== Survival mode ==== 
+ In survival mode, players can gather resources found in the world to make lots of different items. Some of the items players can make include new blocks, tools, and armor. For example, players can turn wood into planks at the start of the game, which lets them make lots of things, like crafting tables and tools. Players can also place down these planks to build things, like houses. 
+ 
+ Players have a health bar and a hunger bar in this mode. The health bar is shown as 10 hearts and the hunger bar is shown as 10 steaks. Each heart and steak is worth two health points and two hunger points, respectively. The health bar depletes when players get attacked by monsters, lose all of their air underwater, walk into lava or cacti, fall from a high place, fall into the void, or if their hunger bar is depleted completely. Players can heal by staying still, drinking healing potions, and/or if they have a full hunger bar. Players will lose hunger by walking, sprinting and jumping too much. If they are low on hunger, they will not be able to sprint. They can fill their hunger bar by eating food. 
+ 
+ During the night, monsters come out to fight the player, but players can build a house to protect themselves from these monsters. If a player sleeps in a bed, they can skip the night, and go directly to the next day. However, they are unable to sleep if there are monsters near the bed. 
+ 
+ Players can only carry a certain number of items at any time, by holding them in their inventory. If the player dies, they drop their items, unless they have turned on Keep Inventory. Players can get their items back if they can find them before they disappear. They can then respawn, which sends them back to their spawn point, or the place they started the game at. Players can change their spawn point using items like beds. For example, a player can put a bed in their house to respawn there, and in the Nether players can use a unique block called a respawn anchor to respawn there. 
+ 
+ Players can play Survival Mode in four levels of difficulty: Peaceful, Easy, Normal and Hard. As the difficulty increases, the more damage monsters deal. In addition, certain mobs will gain certain abilities at higher difficulty levels. When a player creates a new world, the difficulty is set to normal by default. On peaceful difficulty, no monsters spawn, and the only way players can die is by deaths that aren't from mobs, such as falling from a high place, being in fire or lava, drowning, suffocating inside a block, or falling into the void. 
+ 
+ ==== Hardcore mode ==== 
+ Hardcore mode is like survival mode, but the game is set to the hardest difficulty, which cannot be changed. The player also cannot enable cheats when they create the world and can only do so if they use the  " Open to LAN "  option in the game menu while they are playing. If a player dies in hardcore mode, they can not respawn, and can only play the world in Spectator Mode. If cheats are enabled, it is possible for the player to play in survival mode again by using commands to change the game mode. This game mode is only available in Java Edition. 
+ 
+ Players can also play a special version of hardcore mode known as Ultra Hardcore Mode, which is basically the same as hardcore mode except players do not naturally regenerate health. This mode can be accessed by creating a world in Hardcore mode, enabling cheats using the  " Open to LAN "  option in the game menu, and using commands to turn off natural health regeneration. The only way the player can regenerate health in this game mode is by using potions, golden apples, suspicious stews, and beacons. 
+ 
+ ==== Creative mode ==== 
+ In creative mode, players have infinite items. This is so they can build whatever they want, instead of having to look for resources. They cannot die and do not have a health bar or hunger bar. However, you can kill a person in creative mode (if you have cheats on) with the /kill command in the Java edition of Minecraft. Players in creative mode can also die if they manage to fall into the void. Players can also optionally fly to reach places they normally couldn't. 
+ 
+ ==== Spectator mode ==== 
+ In spectator mode, players become a  " spectator " . Spectators can look at the world, but not interact with it, meaning they can't place blocks or use items. They are invisible to other players. 
+ 
+ Spectators can fly around the world freely, or they can look at it from the [[perspective]] of other players and mobs, meaning they can see what the player or mob sees, as if they were looking through their eyes. 
+ 
+ ==== Adventure mode ==== 
+ Adventure mode is designed for community maps. The player can not place or break blocks or do anything by default. 
+ 
+ ===Multiplayer=== 
+ Players can play on the same Minecraft world together by using the multiplayer mode. They can connect to an online server by typing in the server's address (usually an [[IP address]]), or by making a game on the [[local area network]] (LAN). If the player makes a LAN game, only players on the same network can play. Much like the rest of Minecraft, players can choose what they want to do. For example, they can choose to fight each other, or work together and survive. All game modes can be played in multiplayer. 
+ 
+ ===''Minecraft Realms''=== 
+ ''Minecraft Realms'' are multiplayer servers hosted by [[Mojang Studios|Mojang]] that can be rented by players for a small fee. In ''Minecraft Realms'', there are several  " mini-games " , which are maps/games created by popular ''Minecraft'' users. 
+ 
+ == Editions == 
+ 
+ === ''Minecraft: Java Edition'' === 
+ ''Minecraft: Java edition'' was the first version of Minecraft, first released in 2009. It can be played on [[Microsoft Windows|Windows]], [[macOS]], and [[Linux]]. 
+ 
+ === ''Minecraft: Bedrock Edition'' === 
+ ''Minecraft: Bedrock Edition'' is a version of Minecraft focused on playing with other people. < ref > {{Cite web|last=Davies|first=Marsh|date=September 20, 2017|title=THE BETTER TOGETHER UPDATE IS HERE!|url=https://www.minecraft.net/en-us/article/better-together-update-here}} < /ref >  It can be played on [[Microsoft Windows|Windows]] (10 or higher), [[Chromebook]], [[Xbox One|Xbox]], [[PS4]], [[Nintendo Switch]], [[Android (operating system)|Android]], [[iOS]] and [[iPadOS]]. This version is based off the Pocket Edition codebase which uses [[C++]] as it's programming language.  
+ 
+ === ''Minecraft Education'' === 
+ ''Minecraft Education'' is a edition of the game mostly used for schools. Some features of this edition are in Bedrock Edition, but they need to be turned on before making a world. Minecraft Education is a game-based platform that inspires creative, inclusive learning through play. Explore blocky worlds that unlock new ways to take on any subject or challenge. 
+ 
+ === ''Minecraft: Pocket Edition'' === 
+ ''Minecraft: Pocket Edition'' is a mobile version of Minecraft for phones and tablets. In 2011, Minecraft: Pocket Edition was released for the [[Android (operating system)|Android]] market as an early version. It was then released for other devices in October 2011. An [[iOS]] version was released on November 2011, and a port was made for [[Windows Phone|Windows Phones]] after [[Microsoft]] bought [[Mojang]]. The port focuses on the basic building and the survival parts of the game, and does not have all the features of the PC version. On his [[Twitter]] account, [[Jens Bergensten]] said that the Pocket Edition of Minecraft is in [[C++]] and not [[Java]] code, because of iOS not being able to support Java code. < ref > {{cite web|date=8 October 2011|title=jeb_: PE is in C++|url=https://twitter.com/jeb_/statuses/122618933604925440|url-status=live|archive-url=https://web.archive.org/web/20131024133240/https://twitter.com/jeb_/statuses/122618933604925440|archive-date=24 October 2013|access-date=25 September 2012|publisher=Twitter}} < /ref >  However, there now exists a way to play the Java Edition on both Android and iOS devices. < ref > {{Cite web|title=PojavLauncher {{!}} PojavLauncher|url=https://pojavlauncherteam.github.io/|access-date=2022-06-21|website=pojavlauncherteam.github.io}} < /ref > < ref > {{Cite web|date=2021-12-27|title=How to play Minecraft Java Edition on Android  &  iOS with Pojav Launcher|url=https://www.xda-developers.com/how-to-play-minecraft-java-edition-smartphone/|access-date=2022-06-21|website=XDA|language=en-US}} < /ref > 
+ 
+ ''Minecraft: Pocket Edition'' was replaced by the Bedrock Edition on December 19, 2016. 
+ 
+ == Mob Votes == 
+ '''Minecraft's''' [[Mob Vote]] is a vote where people will vote to have one of three mobs. The vote has been around since 2017. < ref > {{Cite web|last=Currier|first=Sarah|title=“United we bargain, divided we beg”: The 2023 Minecraft mob vote boycott explained|url=https://iowastatedaily.com/282443/limelight-visual-media-videogames/united-we-bargain-divided-we-beg-the-2023-minecraft-mob-vote-boycott-explained-sarah-currier-iowa-state-university/|access-date=2023-11-02|website=Iowa State Daily}} < /ref >   Some people don't like the voting system and have banded together to try to make [[Mojang Studios|Mojang]] add all three. The Mob Vote is the reason many mobs are in the game today. The vote is an annual event, and there will be no going back. The people mostly going against the Mob Vote can be called part of the [[Mob Vote Revolution]] or sometimes they may be called other things. You can vote either by using the live event server, the Minecraft launcher, or Minecraft.net/live! < ref > {{Cite web|title=Counting down Minecraft Live|url=https://www.minecraft.net/en-us/article/counting-down-minecraft-live#:~:text=There%20are%20three%20different%20ways,via%20Minecraft.net%2Flive!}} < /ref > 
+ 
+ == Other games == 
+ 
+ === ''Minecraft Dungeons'' === 
+ {{Main|Minecraft Dungeons}} 
+ ''Minecraft Dungeons'' is a Dungeon Crawler made by [[Mojang Studios]] in 2020. Unlike Minecraft, you cannot jump, mine or build. Instead, you attack enemies to progress. 
+ 
+ === ''Minecraft Earth'' === 
+ {{Main|Minecraft Earth}} 
+ ''Minecraft Earth'' is a phone game made by [[Mojang Studios]] in 2019. It used [[augmented reality]] to let players build in real life. You got blocks and mobs from walking around in real life and finding  " tappables " . The game was shut on the 30th June 2021. < ref > https://www.minecraft.net/en-us/article/minecraft-earth-coming-end Staff - MINECRAFT EARTH COMING TO AN END < /ref > 
+ 
+ === ''Minecraft Legends'' === 
+ {{Main|Minecraft Legends}} 
+ ''[[Minecraft Legends]]'' is a strategy role-playing game made by [[Mojang Studios]] in 2023. Mobs from the Nether dimension would fight people in the Overworld dimension. The player's role is to attack enemies and defeat the Great Hog. It is the newest Minecraft game. 
+ == Reception == 
+ Minecraft received very positive reviews. 
+ 
+ Jaz McDougall of ''[[PC Gamer]]'' said that Minecraft is  " intuitively interesting and contagiously fun, with an unparalleled scope for creativity and memorable experiences " . < ref > {{Cite web|author1=Jaz McDougall|date=2011-12-25|title=Minecraft review|url=https://www.pcgamer.com/minecraft-review/|access-date=2022-08-21|website=pcgamer|language=en}} < /ref > 
+ 
+ ''[[IGN]]'' called the blocky graphics  " instantly memorable " . < ref > {{Cite web|last=Gallegos|first=Anthony|date=2011-11-24|title=Minecraft Review|url=https://www.ign.com/articles/2011/11/24/minecraft-review|access-date=2022-08-21|website=IGN|language=en}} < /ref > 
+ 
+ ==Community== 
+ [[File:Otakon_2012_077.JPG|150px|thumb|A [[cosplay]] of a [[creeper (Minecraft)|creeper]]. Creepers are one of the most well-known [[Mob (video games)|mobs]] in Minecraft.]] 
+ ''Minecraft'' has a very large community, with many fan forums and multiplayer servers such as Hypixel. The ''Minecraft'' community is also one of the largest on [[YouTube]]. < ref > {{Cite web|last=Sherr|first=Ian|title=Minecraft crosses 1 trillion views on YouTube, most popular game ever on platform|url=https://www.cnet.com/tech/gaming/minecraft-crosses-1-trillion-views-on-youtube-most-popular-game-ever-on-platform/|access-date=2022-08-17|website=CNET|language=en}} < /ref >  Many people upload various types of Minecraft content to YouTube, such as [[parody]] songs, animations, gameplay, and more. Content made by other players can also be uploaded to platforms such as Forge. [[Minecraft Live]] is another [[YouTube]] community event that occurs yearly. 
+ 
+ == Updates == 
+ Minecraft has had many new updates since it first released. These updates are usually announced before they are released. They add lots of new features into the game, such as new blocks, mobs, and items. 
+ 
+ Mojang releases smaller development versions called  " snapshots "  which players can choose to play on Minecraft Launcher. These snapshots have a few new features in them, and are released as the developers are working on the new version. This is so players can try out new features before the full version is released.  
+ {| class= " wikitable " 
+ |+Update history for ''Minecraft: Java Edition'' 
+ !Version number 
+ !Official name 
+ !Date 
+ |- 
+ |Preclassic 
+ |Cave Game 
+ |13 May 2009 
+ |- 
+ |Classic 
+ |Early Creative Classic 
+ |17 May 2009 
+ |- 
+ |Survival Test 
+ |Hostile Update 
+ |1 September 2009 
+ |- 
+ |Indev 
+ |Inventory Update 
+ |23 December 2009 
+ |- 
+ |Indfev 
+ |Infinite Update 
+ |27 February 2010 
+ |- 
+ |Alpha 
+ |Portal Update 
+ |30 June 2010 
+ |- 
+ |Beta 
+ |Random Update 
+ |20 December 2010 
+ |- 
+ |1.0 
+ |Adventure Update (Part 2)  
+ |18 November 2011 
+ |- 
+ |1.1 
+ |Mob Update 
+ |12 January 2012 
+ |- 
+ |1.2.1 
+ |Biomes Update 
+ |1 March 2012 
+ |- 
+ |1.3.1 
+ |Jungle Update 
+ |1 August 2012 
+ |- 
+ |1.4.2 
+ |Pretty Scary Update 
+ |25 October 2012 
+ |- 
+ |1.5 
+ |Redstone Update 
+ |13 March 2013 
+ |- 
+ |1.6.1 
+ |Horse Update 
+ |1 July 2013 
+ |- 
+ |1.7.2 
+ |The Update That Changed The World 
+ |25 October 2013 
+ |- 
+ |1.8 
+ |Bountiful Update 
+ |2 September 2014 
+ |- 
+ |TBA 
+ |TBA 
+ |15 June 2015 
+ |- 
+ |1.9 
+ |Combat Update 
+ |29 February 2016 
+ |- 
+ |1.10 
+ |Frostburn Update 
+ |8 June 2016 
+ |- 
+ |1.11 
+ |Exploration Update 
+ |14 November 2016 
+ |- 
+ |1.12  
+ |World of Color Update < ref > {{Cite web|last=Bergensten|first=Jens|date=6 July 2017|title=WORLD OF COLOR IS RELEASED!|url=https://www.minecraft.net/en-us/article/world-color-released}} < /ref > 
+ |7 June 2017 
+ |- 
+ |1.13  
+ |Aquatic Update < ref > https://www.minecraft.net/en-us/updates/aquatic Promotional Page for the Update Aquatic < /ref > 
+ |18 July 2018 
+ |- 
+ |1.14  
+ |Village and Pillage Update < ref > https://www.minecraft.net/en-us/updates/village-pillage Promotional Page for the Village and Pillage update < /ref > 
+ |23 April 2019 
+ |- 
+ |1.15 
+ |Buzzy Bees < ref > https://www.minecraft.net/en-us/updates/buzzy-bees Promotional website for the Buzzy Bees update < /ref > 
+ |10 December 2019 
+ |- 
+ |1.16  
+ |Nether Update < ref > {{Cite web|last=Stone|first=Tom|title=EVERYTHING WE ANNOUNCED AT MINECON LIVE 2019|url=https://www.minecraft.net/en-us/article/everything-we-announced-minecon-live-2019|access-date=18 January 2023|website=}} < /ref > 
+ |23 June 2020 
+ |- 
+ |1.17  
+ |Caves and Cliffs Part 1 < ref name= " :0 " > https://www.minecraft.net/en-us/updates/caves-and-cliffs Promotional Page for the Caves and Cliffs update < /ref > 
+ |8 June 2021 
+ |- 
+ |1.18  
+ |Caves and Cliffs Part 2 < ref name= " :0 "  / > 
+ |30 November 2021 
+ |- 
+ |1.19 
+ |The Wild Update < ref > https://www.minecraft.net/en-us/updates/the-wild-update Promotional Website for The Wild Update < /ref > 
+ |7 June 2022 
+ |- 
+ |1.20 
+ |The Trails  &  Tales Update < ref > {{Cite web|title=The Trails  &  Tales Update {{!}} Minecraft|url=https://www.minecraft.net/en-us/article/the-trails---tales-update}} < /ref > 
+ |7 June 2023 
+ |} 
+ 
+ ==References== 
+ {{Reflist}} 
+ ==Notes== 
+ < references group= " lower-alpha "  responsive= " "  / > 
+ 
+ ==Other websites== 
+ {{Commons category}} 
+ *[https://www.minecraft.net Official website] 
+ *[https://minecraft.wiki Minecraft wiki] 
+ 
+ {{Minecraft}} 
+ {{Mojang}} 
+ 
+ [[Category:2011 video games]] 
+ [[Category:Windows games]] 
+ [[Category:Xbox 360 Live Arcade games]] 
+ [[Category:2009 video games]] 
+ [[Category:Minecraft| ]] 
+ [[Category:Adventure games]] 
+ [[Category:Android (operating system) games]] 
+ [[Category:IOS games]] 
+ [[Category:Indie video games]] 
+ [[Category:Microsoft video games]] 
+ [[Category:Nintendo 3DS games]] 
+ [[Category:MacOS games]] 
+ [[Category:Online games]] 
+ [[Category:PlayStation 3 games]] 
+ [[Category:PlayStation 4 games]] 
+ [[Category:Wii U games]] 
+ [[Category:Xbox 360 games]] 
+ [[Category:Xbox One games]] 
+ [[Category:Xbox games]] 
+ [[Category:Video games developed in Sweden]] 
+ [[Category:Nintendo Switch games]] 
+ [[Category:Xbox Series X and Series S games]] 
+ [[Category:PlayStation 5 games]]

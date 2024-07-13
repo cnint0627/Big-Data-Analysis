@@ -1,0 +1,51 @@
+[[File:Pneumeter - 2022.jpg|thumb|With a Pneumeter you measure air pressure, in the picture a hand-held pneumeter for measuring the air pressure in bicycle tires.]] 
+ '''Pneumatics''' is the use of [[compressed air]] for mechanical motion.  It has many uses. < ref > In [[dentistry]] applications, pneumatic drills are lighter, faster, and simpler than an electric [[drill]] of the same power rating (because the [[compressor]], is separate from the drill and pumped air is capable of rotating the drill bit at extremely high rpm). < /ref >   
+ 
+ Pneumatic transfer systems are employed in many industries to move powders and devices. Pneumatic devices are also used where [[electric motor]]s cannot be used for [[safety]] reasons, such as deep in a mine where explosive dust or [[gas]]es may be present. 
+ 
+ == Examples of pneumatic tools == 
+ 
+ * [[Pneumatic drill]] (jackhammer) used by road workers 
+ * [[Nailgun|Pneumatic nailgun]] 
+ * [[Switch|Pneumatic switches]] 
+ * [[Pneumatic actuator]]s 
+ * [[Gas compressor|Air compressors]] 
+ * [[Vacuum pump]]s 
+ * [[Barostat]] systems used in [[Neurogastroenterology]] and for researching 
+ electricity 
+ * [[Cable Jetting]] - a way to install cables in ducts 
+ * [[Pneumatic_tube#Pneumatic_Post|Pneumatic mail systems]] 
+ * [[Air brake]]s on buses, trains, and trucks 
+ 
+ ==Comparison to Hydraulics== 
+ 
+ Both pneumatics and [[hydraulics]] are applications of [[fluid power]]. Pneumatics uses air, which is [[Physical compression|compressible]], while [[hydraulics]] uses relatively incompressible [[liquid]] media such as oil or water.   
+ 
+ === Advantages of pneumatics === 
+ 
+ * The working fluid is very light in weight so supply hoses are not heavy. 
+ 
+ * Because the working fluid is (mostly) just air, there is usually no need for a return line for the working fluid and leaks of the working fluid tend not to be messy. 
+ 
+ * Because air is compressible, the equipment is less likely to be damaged by shock.  The air in pneumatics absorbs excessive force, whereas the fluid of hydraulics directly transfers force. 
+ 
+ === Advantages of hydraulics === 
+ 
+ * Higher [[energy density]] owing to the much higher working pressures usually employed. 
+ 
+ * The hydraulic working fluid is basically incompressible, leading to a minimum of [[Spring (device)|spring]] action. When hydraulic fluid flow is stopped, the slightest motion of the load releases the [[pressure]] on the load; there is no need to  " bleed off "  pressurised air to release the pressure on the load... 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{enWiktionary}} 
+ * [http://www.pneumatics.be www.pneumatics.be] - didactic website - for students - how pneumatics works 
+ * [http://eereweb.ee.doe.gov/industry/bestpractices/pdfs/compressed_air_sourcebook.pdf U.S. Department of Energy] {{Webarchive|url=https://web.archive.org/web/20060625111223/http://eereweb.ee.doe.gov/industry/bestpractices/pdfs/compressed_air_sourcebook.pdf |date=2006-06-25 }} - Improving Compressed Air System Performance 
+ * [http://fpef.org Fluid Power Educational Foundation] {{Webarchive|url=https://web.archive.org/web/20200708002034/http://www.fpef.org/ |date=2020-07-08 }} - Advancing and Supporting Hydraulic  &  Pneumatic Education 
+ * [http://pneumatic-source.com/resources/glossary/ Pneumatics Glossary] {{Webarchive|url=https://web.archive.org/web/20130315073324/http://www.pneumatic-source.com/resources/glossary/ |date=2013-03-15 }} - Glossary of Pneumatic Terms 
+ 
+ 
+ [[Category:Fluid mechanics]] 
+ [[Category:Engineering]] 
+ [[Category:Technology]]

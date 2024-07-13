@@ -1,0 +1,21 @@
+{{complex|date=August 2017}} 
+ {{more sources|date=March 2018}} 
+ [[File:Credit card samp.jpg|thumb|A picture of two credit cards. The shiny, square area on the left side is the EMV chip.]] 
+ '''EMV''' is a standard [[protocol]] for [[credit card]]s and [[debit card]]s. Beforehand, such cards used a [[Magnetic stripe card|magnetic stripe]] to store information. This approach has two main problems: first, [[Data storage device|the amount of data]] that can be stored is relatively small. Such a card can store about 1024 [[Bit]]s, or 128 bytes. The second problem is bigger: the data stored is not [[encryption|encrypted]]. Using a card with EMV technology, also called a  " chip card "  for the shiny, metallic  " chip "  on the front, can solve both problems: it can store much more data, and the data can be encrypted. 
+ 
+ Payment cards that use chips have been in use since the early 1990s. Beforehand, each card issuer had their own protocol. With EMV, the protocol has been standardised. The first version of EMV was published in 1995, and there have been different versions since then. It was adopted in [[Europe]] before the [[United States]], which required all new cards from 2015 on to have EMV chips. < ref > {{Cite news|url=https://www.usatoday.com/story/tech/2015/01/06/chip-and-pin-credit-cards-computer-security/21008389/|title=Chip and PIN cards and what you need to know|work=USA TODAY|accessdate=2018-03-18|language=en}} < /ref > 
+ 
+ [[File:Ingenico iPP350 payment terminal.jpg|thumb|A payment terminal. The EMV card is inserted in the [[wikt:slot|slot]] at the bottom.|left]] 
+ ==How do EMV cards work?== 
+ [[Payment]]s using EMV technology is often called  " chip and PIN " . This is because to use such a card to make a payment at a [[cash register]] or point-of-sale terminal, the card first needs to be inserted into a small [[machine]] called a  " [[payment terminal]] "  or  " PIN pad " , with the side where the chip is on facing up and towards the machine. Once the card is inserted, it is left there so that the terminal can read the data stored in the chip. The terminal will often ask the user to [[wikt:confirm|confirm]] the amount of the [[purchase]] or [[refund]], choose the [[wikt:account|account]] in the case of a debit card, and will then require the user to enter a [[personal identification number]] (PIN). This number makes sure nobody other than the owner of the card can use it - if the wrong PIN is entered a certain number of times, the card is locked and cannot be used. Once the correct PIN is entered, the terminal will contact the [[bank]] to [[wikt:authorize|authorize]] the [[transaction]]. The bank will either  " [[wikt:approve|approve]] "  (accept) the transaction, or  " [[wikt:decline|decline]] "  (reject) it. Once this happens, the person removes his or her card from the terminal. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *[http://www.chipandpin.co.uk A website about Chip and PIN payments in the UK] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Computer protocols]]

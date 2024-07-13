@@ -1,0 +1,16 @@
+The '''steradian''' (symbol: '''sr''') or '''square radian''' is an [[International System of Units|SI unit]]. It is like a [[radian]], but for smooth [[3D]] objects, for example, a [[sphere]]. A steradian is about one twelfth the surface area of a sphere, regardless of how big the sphere is. < ref > {{Cite web|url=https://mathworld.wolfram.com/Steradian.html|title=Steradian|last=Weisstein|first=Eric W.|website=mathworld.wolfram.com|language=en|access-date=2020-03-27}} < /ref > 
+ [[File:Solid Angle, 1 Steradian.svg|thumb|A steradian on a sphere]] 
+ 
+ == Sphere vs Steradian == 
+ 
+ * The surface area of a sphere is  < math > 4\pi r^2 < /math > 
+ * The surface area of a steradian is just  < math > r^2 < /math > 
+ 
+ So a sphere measures 4π steradians, or about 12.57 steradians. Likewise a steradian is 1/12.57, or about 8% of a sphere. And because we measure an angle, it doesn't matter what size the sphere is, it will always measure 4π steradians. < ref > {{Cite web|url=https://www.mathsisfun.com/geometry/steradian.html|title=Steradian|website=www.mathsisfun.com|access-date=2020-03-27}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{SI units}} 
+ 
+ [[Category:SI derived units]]

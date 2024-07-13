@@ -1,0 +1,54 @@
+{{Taxobox 
+ | name = Pea family 
+ | image = Sophoracassioides14.jpg 
+ | image_width = 240px 
+ | image_caption = ''Sophora cassioides'' 
+ | regnum = [[Plant]]ae 
+ | divisio = [[Flowering plant|Magnoliophyta]] 
+ | classis = [[Magnoliopsida]] 
+ | ordo = [[Fabales]] 
+ | familia = '''Fabaceae''' 
+ | familia_authority = Lindl. (1836) 
+ | subdivision_ranks = subfamilia 
+ | subdivision = 
+ Caesalpinioideae < br > 
+ Mimosoideae < br > 
+ Faboideae  
+ }} 
+ '''Fabaceae''' is the systematic name of the plant family that is commonly known as the [[Pea]] family. It consists of three subgroups: Caesalpinioideae, Mimosoideae and Papilionoideae (or better Faboideae). In modern systems like [[APG II]] this family Fabaceae is closely related to [[Quillajaceae]], Polygalaceae or milkworts (including the families Diclidantheraceae, Moutabeaceae, and Xanthophyllaceae), and Surianaceae. 
+ 
+ == Description == 
+ The [[Leaf|leaves]] are usually alternate and compound, in the Mimosoideae and the Caesalpinioideae commonly bipinnate (e.g. ''[[Acacia]]'', ''[[Mimosa]]''). In many species the leaves have structures evolved to attract [[ant]]s, that, being [[predator]]y, protect the plant from [[herbivore]] insects. Extrafloral nectaries -a gland secreting [[nectar]] -are common among the Mimosoideae and the Caesalpinioideae and are also found in some Faboideae (e.g. vetches ''Vicia sativa''). Fabaceae are typically entomophilous plants (i.e. they are [[Pollination|pollinated]] by [[insect]]s) and the flower are usually showy to attract the [[pollinator]]s. 
+ 
+ In the [[Mimosoideae]] the flowers are radial symmetric or actinomorphic. In the [[Caesalpinioideae]] and Faboideae (see diagram) are most often zygomorphic or bilateral in simmetry. 
+ 
+ {{Clade | style=font-size:100%;line-height:100% 
+ 
+      | 1=[[Fabales]] 
+      | 2={{Clade 
+         | 1=[[Caesalpinioideae]]  
+         | 2={{Clade 
+            | 1= [[Mimosoideae]] 
+            | 2= [[Faboideae]]}} }} }} 
+ < gallery > 
+ Lupinus polyphyllus3.JPG|lupin ''Lupinus'' 
+ Senna61.jpg|Senna 
+ Acacia dealbata.jpg|''Acacia dealbata''  " wattle " 
+ Wisteria sinensis nobackground labels.jpg|diagram of the flower 
+ < /gallery > 
+ 
+ == Related pages == 
+ * [[Senna (herb)]] 
+ * [[Broom (shrub)]] 
+ *[[Lupin]] 
+ *[[Sophora]] 
+ 
+ == Other websites == 
+ {{commonscat|Fabaceae}} 
+ *[http://pgrc3.agr.ca/cgi-bin/npgs/html/family.pl?440 List of genera] {{Webarchive|url=https://web.archive.org/web/20070926234726/http://pgrc3.agr.ca/cgi-bin/npgs/html/family.pl?440 |date=2007-09-26 }} 
+ 
+ == References == 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Fabaceae| ]]

@@ -1,0 +1,62 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Troisvierges 
+ | native_name             = Ëlwen 
+ | native_name_lang        = lb < !-- ISO 639-2 code e.g.  " lb "  for Luxembourgish -- > 
+ | settlement_type         = [[List of communes of Luxembourg|Commune]] 
+ | image_skyline           = Troisvierges 101021 V1.JPG 
+ | image_alt               =  
+ | image_caption           = Binsfeld street 
+ | image_shield            = Coat of arms troisvierges luxbrg.png 
+ | shield_alt              =  
+ | shield_size             = 100x80px 
+ | image_map               = Map Troisvierges.PNG 
+ | map_alt                 =  
+ | mapsize                 = 200px 
+ | map_caption             = Map of Luxembourg with Troisvierges highlighted in orange, and the canton in dark red 
+ | coordinates             = {{coord|3=region:LU_type:adm3rd|display=inline,title}} 
+ | coor_pinpoint           =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Luxembourg}} 
+ | subdivision_type1       = [[Cantons of Luxembourg|Canton]] 
+ | subdivision_name1       = [[Clervaux (canton)|Clervaux]] 
+ | established_title       =  
+ | established_date        =  
+ | leader_party            =  
+ | leader_title            = Mayor 
+ | leader_name             = {{Luxembourg commune mayor|LAU2=0504}} 
+ | unit_pref               = Metric < !-- or US or UK -- > 
+ | area_footnotes          =  
+ | area_total_km2          = {{Luxembourg commune area|LAU2=0504}} 
+ | area_rank               = {{Luxembourg commune area rank|LAU2=0504}} of 102 
+ | elevation_footnotes     =  
+ | elevation_max_m         = {{Luxembourg commune high|LAU2=0504}} 
+ | elevation_max_rank      = {{Luxembourg commune high rank|LAU2=0504}} of 102 
+ | elevation_min_m         = {{Luxembourg commune low|LAU2=0504}} 
+ | elevation_min_rank      = {{Luxembourg commune low rank|LAU2=0504}} of 102 
+ | population_footnotes    =  
+ | population_total        = {{Luxembourg commune population|LAU2=0504}} 
+ | population_as_of        = {{Luxembourg communes statistics year}} 
+ | population_rank         = {{Luxembourg commune population rank|LAU2=0504}} of 102 
+ | population_density_km2  = auto 
+ | population_density_rank = {{Luxembourg commune density rank|LAU2=0504}} of 102 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | blank_name_sec1         = [[Local administrative unit|LAU 2]] 
+ | blank_info_sec1         = LU0000504 
+ | website                 = [http://www.troisvierges.lu troisvierges.lu] 
+ | footnotes               =  
+ }} 
+ '''Troisvierges''' ({{lang-lb|Ëlwen}}, {{lang-de|Ulflingen}}) is a [[Communes of Luxembourg|commune]] in [[Luxembourg]]. It is part of the [[Clervaux (canton)|canton of Clervaux]]. The two highest hills in Luxembourg, the [[Kneiff]] (560 m) and [[Buurgplaatz]] (559 m), are in the commune. 
+ 
+ As of 2019, 3,201 people live here. 
+ 
+ == Other websites == 
+ * {{Commonscat-inline}} 
+ 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Communes of Clervaux]]

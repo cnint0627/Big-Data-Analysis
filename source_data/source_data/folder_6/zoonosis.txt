@@ -1,0 +1,94 @@
+[[File:Burying Plague Victims of Tournai.jpg|thumb|250px|The [[bubonic plague]], a zoonotic disease, killed one-third of Europe's population in the 1300s.  This painting from ''The Chronicles of Gilles Li Muisis'' show people burying plague victims]] 
+ 
+ '''Zoonosis''' or a '''zoonotic disease''' is an [[infectious disease]] which an animal can give to a human.  These diseases may be caused by [[bacteria]], [[virus]]es, [[fungi]], or [[parasite]]s. < ref name=cdc > {{cite web |url=https://www.cdc.gov/onehealth/zoonotic-diseases.html|title=Toxoplasmosis |author= < !--Staff writer(s); no by-line.-- >  |date=October 18, 2013 |website=One Health |publisher=United States Centers for Disease Control and Prevention |accessdate=February 11, 2016 |quote=}} < /ref > 
+ 
+ Zoonotic [[disease]]s are very common.  About 60% of all infectious diseases in humans are spread by animals. < ref > Taylor L.H; Latham S.M.  &  Woolhouse M.E.J. 2001. Risk factors for human disease emergence. ''Philosophical Transactions of the Royal Society B: Biological Sciences'' '''356''' (1411): 983–989. [http://rstb.royalsocietypublishing.org/content/356/1411/983] < /ref > 
+ 
+ Zoonotic diseases can be spread in different ways.  They may be spread from a sick animal directly to a human {{ndash}} for example, through bites and infected [[saliva]] (like with [[rabies]]), or through the air.  This is called ''direct zoonosis''. 
+ 
+ Zoonotic diseases can also be spread through a [[vector (biology)|vector]].  This is an animal that carries the [[pathogen]] that causes the disease without getting infected.  Diseases like this are called ''vector-borne diseases''. 
+ 
+ Sometimes the vector picks up the disease from another animal.  For example, [[rat]]s who have the [[bubonic plague]] do not directly infect humans.  Instead, [[flea]]s bite the rats and pick up the bacteria that causes plague without getting sick.  Then, if the flea bites a human, they can pass the bacteria on to the human, and the human can get the plague. < ref name=plague > {{cite web |url=http://www.who.int/mediacentre/factsheets/fs267/en/ |title=Plague |author= < !--Staff writer(s); no by-line.-- >  |date=November 2014 |website=WHO.int |publisher=World Health Organization |accessdate=February 11, 2016 |quote=}} < /ref >   The rat is the [[host (biology)|host]] of the disease, and the flea is the vector. 
+ 
+ ==Types of zoonotic diseases== 
+ ===Foodborne illnesses=== 
+ Many foodborne illnesses are zoonotic diseases.  In these cases, a human gets infected by eating food that came from a sick animal, or one which had picked up a parasite. 
+ 
+ The most common [[pathogen]]s that cause foodborne illnesses are ''[[Salmonella]]'', ''[[Campylobacter]]'', and ''[[Escherichia coli]]'' (''E. coli'') bacteria.  [[Egg (food)|Eggs]], [[seafood]], meat, [[poultry]], and [[dairy product]]s can all carry these bacteria and cause foodborne illnesses, like [[food poisoning]], in humans. < ref name=czpf > {{cite journal | author = Humphrey T|author2= O'Brien S | display-authors = etal|date= 2007 | title = Campylobacters as zoonotic pathogens: A food production perspective | journal = International Journal of Food Microbiology | volume = 117 | issue = 3 | pages = 237–257 | pmid = 17368847 | doi = 10.1016/j.ijfoodmicro.2007.01.006 }} < /ref > < ref name=iear > {{cite journal | author = Cloeckaert A 2006 | title = Introduction: emerging antimicrobial resistance mechanisms in the zoonotic foodborne pathogens Salmonella and Campylobacter | journal = Microbes and Infection | year = 2006 | volume = 8 | issue = 7 | pages = 1889–1890 | pmid = 16714136 | doi = 10.1016/j.micinf.2005.12.024 | url =  | author-link =  }} < /ref > 
+ 
+ Other zoonotic illnesses that humans can get from eating or drinking include: 
+ 
+ {| class= " wikitable sortable "  style= " margin: 1em auto 1em auto; " 
+ ! scope= " col "  | Disease 
+ ! scope= " col "  | Pathogen 
+ ! scope= " col "  | Host 
+ ! scope= " col "  | Spread by... 
+ |- 
+ | [[Brucellosis]] || ''[[Brucella]]'' bacteria || Cattle, [[Domestic goat|goats]], [[sheep]], [[camel]]s || Having [[pasteurization|unpasteurized]] milk or cheese; Eating under-cooked meat. < ref name=brucellosis > {{cite web |url=https://www.cdc.gov/brucellosis/transmission/index.html |title=Brucellosis: Transmission |author= < !--Staff writer(s); no by-line.-- >  |date=November 12, 2012 |website=CDC.gov |publisher=United States Centers for Disease Control and Prevention |accessdate=February 11, 2016 |quote=}} < /ref > 
+ |- 
+ | [[Cholera]] || ''[[Vibrio cholerae]]'' bacteria || [[Shellfish]] || Eating under-cooked shellfish. < ref name=Lancet2004 > {{cite journal | author = Sack DA|author2= Sack RB | display-authors = etal|date= 2004 | title = Cholera | journal = Lancet | volume = 363 | issue = 9404 | pages = 223–33 | pmid = 14738797 | doi = 10.1016/S0140-6736(03)15328-7 |s2cid= 208793200 | url =  }} < /ref > 
+ |- 
+ | [[Creutzfeldt-Jakob disease]] || [[Prion]]s || Cattle || Eating meat from cattle who had [[mad cow disease]]. < ref > {{cite journal|author=Ironside JW|author2=Sutherland K | display-authors = etal|date= 1996 |title=A new variant of Creutzfeldt–Jakob disease: neuropathological and clinical features.|journal=Cold Spring Harbor Symposia on Quantitative Biology|volume=61|pages=523–30|pmid=9246478|doi=10.1101/SQB.1996.061.01.052}} < /ref > 
+ |- 
+ | [[Listeriosis]] || ''[[Listeria]]'' bacteria || Cattle, fish || Having [[pasteurization|unpasteurized]] milk or cheese; Eating under-cooked meat or seafood. < ref name= " Sherris " > {{cite book | editor=Ryan, K.J.|editor2= Ray, C.G.| title = Sherris Medical Microbiology | edition = 4th | publisher = McGraw Hill |date = 2003 | isbn = 0-8385-8529-9 }} < /ref > 
+ |- 
+ | [[Toxoplasmosis]] || ''[[Toxoplasma gondii]]'' parasite || Pigs, lambs, deer, cattle || Eating under-cooked meat. < ref name=toxo > {{cite web |url=https://www.cdc.gov/dpdx/toxoplasmosis/index.html |title=Toxoplasmosis |author= < !--Staff writer(s); no by-line.-- >  |date=July 6, 2015 |website=DPDx – Laboratory Identification of Parasitic Diseases of Public Health Concern |publisher=United States Centers for Disease Control and Prevention |accessdate=February 11, 2016 |quote=}} < /ref > 
+ |} 
+ 
+ Often, people can avoid foodborne illnesses by cooking meat, seafood, and eggs well enough to kill the bacteria or parasites in them. < ref name=cdc/ > 
+ 
+ ===Direct zoonoses=== 
+ Below are some examples of zoonotic diseases that humans can get directly from sick, live animals. 
+ 
+ {| class= " wikitable sortable "  style= " margin: 1em auto 1em auto; " 
+ ! scope= " col "  | Disease 
+ ! scope= " col "  | Pathogen 
+ ! scope= " col "  | Host 
+ ! scope= " col "  | Spread by... 
+ |- 
+ | [[Anthrax]] || ''[[Bacillus anthracis]]'' bacteria || Cattle, sheep, goats, camels, horses, pigs || Breathing in anthrax [[spore]]s or getting them on the skin. < ref name=anthrax > {{cite web | url=http://www.who.int/csr/disease/Anthrax/en/ |title=Anthrax |author= < !--Staff writer(s); no by-line.-- >  |date=2016 |website=WHO.int |publisher=World Health Organization |accessdate=February 11, 2016 |quote=}} < /ref > 
+ |- 
+ | [[Influenza]] || Influenza A virus || Horses, pigs, [[bird]]s, [[Pinniped|seals]], [[whale]]s, and more || Exhaled air from infected animals. < ref name=flu > {{cite web |url=http://www.who.int/zoonoses/diseases/animal_influenza/en/ |title=Zoonoses – Animal influenza: Human and animal influenza |author= < !--Staff writer(s); no by-line.-- >  |date=2016 |website=WHO.int |publisher=World Health Organization |accessdate=February 11, 2016 |quote= |archive-date=April 13, 2016 |archive-url=https://web.archive.org/web/20160413144455/http://www.who.int/zoonoses/diseases/animal_influenza/en/ |url-status=dead }} < /ref > 
+ |- 
+ | [[Lassa fever]] || Lassa virus || [[Rodent]]s || Contact with rodent [[feces]]. < ref name=MCC502 > {{cite book |author=Fraser, Victoria J. | display-authors = etal |date=2007 |title=Diseases and disorders |url= |location= |publisher=Marshall Cavendish Corp. |page=502 |isbn=978-0761477709}} < /ref > 
+ |- 
+ | [[Rabies]] || Rabies virus || Dogs, [[bat]]s, cattle, [[monkey]]s, [[wolf|wolves]], and more || Infected [[saliva]] from being bitten, or by being scratched. < ref name=rabies > {{cite web |url=http://www.who.int/mediacentre/factsheets/fs099/en/ |title=Rabies |author= < !--Staff writer(s); no by-line.-- >  |date=2016 |website=WHO.int |publisher=World Health Organization |accessdate=February 11, 2016 |quote=}} < /ref > 
+ |- 
+ | Toxoplasmosis || ''Toxoplasma gondii'' parasite || Cats || Cat feces (in cat [[litter box]]es or dirt). < ref name=toxo/ > 
+ |- 
+ | [[Tuberculosis]] || ''[[Mycobacterium]] bovis'' bacteria || Cattle, deer, [[llama]]s, pigs, cats, and more || Exhaled air, [[sputum]], [[urine]], feces, or [[pus]] from infected animals. < ref > {{cite journal |author=Abalos P|author2= Retamal P|date= 2004 |title=Tuberculosis: a re-emerging zoonosis? |url= |journal=Revue Scientifique et Technique |volume=23 |issue=2 |pages=583–94 |doi= 10.20506/rst.23.2.1502|pmid=15702721 }} < /ref > 
+ |} 
+ 
+ ===Vector-borne zoonotic diseases=== 
+ {| class= " wikitable sortable "  style= " margin: 1em auto 1em auto; " 
+ ! scope= " col "  | Disease 
+ ! scope= " col "  | Pathogen 
+ ! scope= " col "  | Host 
+ ! scope= " col "  | Vector 
+ |- 
+ | [[African trypanosomiasis|African sleeping sickness]] || ''Trypanosoma brucei rhodesiense'' parasite || Many wild and farm animals || [[Tsetse fly]]. < ref > {{cite web |url=http://www.who.int/mediacentre/factsheets/fs259/en/ |title=Trypanosomiasis, human African (sleeping sickness) |author= < !--Staff writer(s); no by-line.-- >  |date=2015 |website=WHO.int |publisher=World Health Organization |accessdate=February 11, 2016 |quote=}} < /ref > 
+ |- 
+ | Bubonic plague || ''Yersinia pestis'' bacteria || Rodents || Fleas. < ref name=plague/ > 
+ |- 
+ | [[Dengue fever]] || ''[[Flavivirus]]es'' || Humans and [[primate]]s || ''[[Aedes]]'' [[mosquito]]es. < ref > {{cite web|title=Vector-borne viral infections |url=http://www.who.int/vaccine_research/diseases/vector/en/index1.html| date=2016 |publisher=World Health Organization|accessdate=February 11, 2016}} < /ref > 
+ |- 
+ | [[Lyme disease]] || ''Borrellia'' bacteria || Rodents || [[Tick]]s. < ref name=pmid18452798 > {{cite journal |author=Tilly K|author2= Rosa PA. | display-authors = etal |title=Biology of infection with ''Borrelia burgdorferi'' |url=https://archive.org/details/sim_infectious-disease-clinics-of-north-america_2008-06_22_2/page/217 |journal=Infectious Disease Clinics of North America |volume=22 |issue=2 |pages=217–34, v |date=June 2008 |pmid=18452798 |pmc=2440571 |doi=10.1016/j.idc.2007.12.013}} < /ref > 
+ |- 
+ | [[Malaria]] || ''Plasmodium'' parasites || Humans || Mosquitoes. < ref > {{cite web |url=http://www.who.int/mediacentre/factsheets/fs094/en/|title=Malaria |author= < !--Staff writer(s); no by-line.-- >  |date=2016 |website=WHO.int |publisher=World Health Organization |accessdate=February 11, 2016 |quote=}} < /ref > 
+ |- 
+ | West Nile fever || [[West Nile virus]] || Mostly birds || Mosquitoes. < ref > {{cite web |url=http://www.who.int/mediacentre/factsheets/fs354/en/ |title=West Nile virus |author= < !--Staff writer(s); no by-line.-- >  |date=July 2011 |website=WHO.int |publisher=World Health Organization |accessdate=February 11, 2016 |quote=}} < /ref > 
+ |} 
+ 
+ ==Related pages== 
+ * [[Infectious disease]] 
+ * [[Vector (biology)]] 
+ * [[2019 novel coronavirus]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Zoonoses| ]] 
+ [[Category:Diseases caused by bacteria]] 
+ [[Category:Diseases caused by protozoa]] 
+ [[Category:Diseases caused by viruses]] 
+ [[Category:Diseases spread by insects]]

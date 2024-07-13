@@ -1,0 +1,15 @@
+'''CTAN (Comprehensive TeX Archive Network)''' is an online collection of [[open source]] [[LaTeX]]-related files and [[software]] (including [[Beamer]]). < ref > Greenwade, G. D. (1993). The comprehensive TEX archive network (CTAN). TUGboat, 14(3), 342-351. < /ref >  In other words, this network is a LaTeX-only [[GitHub]]. < ref > CTAN is a [[repository (data)|repository]] but it does not depend on [[Git (software)|Git]]. < /ref > 
+ ==Location== 
+ CTAN is based in the [[United States]], < ref > {{URL|https://ctan.org/}} < /ref >  [[United Kingdom]] < ref > {{URL|http://www.tex.ac.uk/}} < /ref >  and [[Germany]]. < ref > {{URL|http://www.dante.de/}} < /ref >  They also have several mirror sites (certified clones). < ref > {{URL|http://mirror.ctan.org/}} < /ref >  Mirror sites are needed in order to avoid access concentration. This effort helps the users to [[download]] files without fatal delay. 
+ ==Similar projects== 
+ CPAN (Comprehensive Perl Archive Network) is the [[Perl]] version of CTAN. < ref > Tregar, S. (2002). Writing Perl Modules for CPAN. Apress. < /ref >  In the field of [[statistics]], CRAN (Comprehensive R Archive Network) is frequently used. < ref > Verzani, J. (2018). Using R for introductory statistics. CRC Press. < /ref > < ref > This is an archive network for [[R (programming language)|R]]. < /ref > 
+ 
+ ==References and remarks== 
+ {{reflist|2}} 
+ ==Other websites== 
+ *[https://ctan.org/ CTAN Comprehensive TEX Archive Network] 
+ *[http://www.mail-archive.com/ctan-ann@dante.de/ CTAN announcements list] 
+ *[https://archive.today/20121209004851/http://dante.ctan.org/tex-archive/help/Catalogue/index.html The TeX Catalogue Online] 
+ 
+ [[Category:Archives]] 
+ [[Category:Free software]]

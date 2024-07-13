@@ -1,0 +1,57 @@
+[[File:Alphago_logo_Reversed.svg|AlphaGo logo|thumb|right|alt=AlphaGo logo]] 
+ AlphaGo is a [[computer program]] that plays the [[board game]] [[Go]]. < ref > Wang, F. Y., Zhang, J. J., Zheng, X., Wang, X., Yuan, Y., Dai, X., ...  &  Yang, L. (2016). Where does AlphaGo go: From church-turing thesis to AlphaGo thesis and beyond. IEEE/CAA Journal of Automatica Sinica, 3(2), 113-120. < /ref > < ref > Chen, J. X. (2016). The evolution of computing: AlphaGo. Computing in Science  &  Engineering, 18(4), 4-7. < /ref >  It was made by DeepMind Technologies ([[Google]] affiliate). < ref > Chang, H. S., Fu, M. C., Hu, J.,  &  Marcus, S. I. (2016). Google Deep Mind's AlphaGo. OR/MS Today, 43(5), 24-29. < /ref >  This program became famous due to the victories against professional players. < ref > Chao, X., Kou, G., Li, T.,  &  Peng, Y. (2018). Jie Ke versus AlphaGo: A ranking approach using decision making method for large-scale data with incomplete information. European Journal of Operational Research, 265(1), 239-247. < /ref > < ref > Borowiec, S. (2016). AlphaGo seals 4-1 victory over Go grandmaster Lee Sedol. The Guardian. < /ref > 
+ 
+ Many new technologies were used to create AlphaGo, including [[deep learning]], < ref > Granter, S. R., Beck, A. H.,  &  Papke Jr, D. J. (2017). AlphaGo, deep learning, and the future of the human microscopist. Archives of pathology  &  laboratory medicine, 141(5), 619-621. < /ref >  [[optimization]], < ref > Chen, Y., Huang, A., Wang, Z., Antonoglou, I., Schrittwieser, J., Silver, D.,  &  de Freitas, N. (2018). Bayesian optimization in alphago. arXiv preprint arXiv:1812.06855. < /ref >  and the [[Monte Carlo algorithm]]. < ref > Fu, M. C. (2016, December). AlphaGo and Monte Carlo tree search: the simulation optimization perspective. In 2016 Winter Simulation Conference (WSC) (pp. 659-670). [[IEEE]]. < /ref > 
+ 
+ ==Powered versions== 
+ After the release of AlphaGo, DeepMind Technologies has made powered versions such as the AlphaGo Zero < ref > Holcomb, S. D., Porter, W. K., Ault, S. V., Mao, G.,  &  Wang, J. (2018, March). Overview on deepmind and its AlphaGo Zero AI. In Proceedings of the 2018 international conference on big data and education (pp. 67-71) < /ref > < ref > Lapan, M. (2018). Deep Reinforcement Learning Hands-On: Apply modern RL methods, with deep Q-networks, value iteration, policy gradients, TRPO, AlphaGo Zero and more. Packt Publishing Ltd. < /ref >  and the AlphaZero: < ref > Marcus, G. (2018). Innateness, alphazero, and artificial intelligence. arXiv preprint arXiv:1801.05667. < /ref > < ref > Tian, Y., Ma, J., Gong, Q., Sengupta, S., Chen, Z., Pinkerton, J.,  &  Zitnick, C. L. (2019). Elf opengo: An analysis and open reimplementation of alphazero. arXiv preprint arXiv:1902.04522. < /ref > < ref > Bratko, I. (2018). AlphaZero–what’s missing?. Informatica, 42(1). < /ref > < ref > Dalgaard, M., Motzoi, F., Sorensen, J. J.,  &  Sherson, J. (2020). Global optimization of quantum dynamics with AlphaZero deep exploration. npj Quantum Information, 6(1) < /ref > < ref > Xu, L. (2018, December). Deep bidirectional intelligence: AlphaZero, deep IA-search, deep IA-infer, and TPC causal learning. In Applied Informatics (Vol. 5, No. 1, p. 5). Springer Berlin Heidelberg. < /ref >  AlphaZero is a self-taught program. < ref > The New Yorker, How the Artificial-Intelligence Program AlphaZero Mastered Its Games, By James Somers, December 28, 2018. < /ref >  This means that it became powerful without human guidance. 
+ 
+ ==Details== 
+ The following table is the summary of AlphaGo achievements (including its variants). 
+ {| class= " wikitable sortable "  style= " text-align:center " 
+ |+ Strength of AlphaGo and its variants < ref name= " sohu0524 " > {{cite web|url=http://www.sohu.com/a/143092581_473283|title=【柯洁战败解密】AlphaGo Master最新架构和算法，谷歌云与TPU拆解|publisher=[[Sohu]]|date=24 May 2017|access-date=1 June 2017|language=zh}} < /ref > 
+ |- style= " background:#ececec; vertical-align:top; "   
+ !Versions!!Hardware!!Elo rating!!Date!!Results 
+ |- 
+ | align=left|AlphaGo versus Fan Hui||176 [[Graphics processing unit|GPUs]], < ref name= " Deepmind20171018 " > {{cite web|url=https://deepmind.com/blog/alphago-zero-learning-scratch/|title=AlphaGo Zero: Learning from scratch|publisher=DeepMind official website|date=18 October 2017|access-date=19 October 2017|archive-date=19 October 2017|archive-url=https://web.archive.org/web/20171019220157/https://deepmind.com/blog/alphago-zero-learning-scratch/|url-status=dead}} < /ref > distributed||3,144 < ref name= " Nature2017 " >  Silver, David; Schrittwieser, Julian; Simonyan, Karen; Antonoglou, Ioannis; Huang, Aja; Guez, Arthur; Hubert, Thomas; Baker, Lucas; Lai, Matthew; Bolton, Adrian; Chen, Yutian; Lillicrap, Timothy; Fan, Hui; Sifre, Laurent; Driessche, George van den; Graepel, Thore; Hassabis, Demis (19 October 2017).  " Mastering the game of Go without human knowledge " . Nature. 550 (7676): 354–359. < /ref >  ||Oct 2015||5:0 against Fan Hui (professional player) 
+ |- 
+ | align=left|AlphaGo versus Lee Sedol|| 48 Tensor processing units (TPUs), < ref name= " Deepmind20171018 " / >  distributed||3,739 < ref name= " Nature2017 " / > ||Mar 2016||4:1 against Lee Sedol (former Korean  &  world champion) 
+ |- 
+ | align=left|AlphaGo Master||4 TPUs, < ref name= " Deepmind20171018 " / >  single machine||4,858 < ref name= " Nature2017 " / > ||May 2017|| 60:0 against professional players 
+ |- 
+ | align=left|AlphaGo Zero (40 block)||4 TPUs, < ref name= " Deepmind20171018 " / >  single machine||5,185 < ref name= " Nature2017 " / > ||Oct 2017|| 100:0 against AlphaGo version that defeated Lee Sedol 
+ 89:11 against AlphaGo Master 
+ |- 
+ | align=left|AlphaZero (20 block)||4 TPUs, single machine||5,018 
+ < ref > {{cite web|url=https://science.sciencemag.org/content/362/6419/1140.full?ijkey=XGd77kI6W4rSc & keytype=ref & siteid=sci|title=AlphaZero Science paper supplementary material, Data S1, figure1_elos.json, max elo attained}} < /ref > 
+ ||Dec 2017||60:40 against AlphaGo Zero (20 block) 
+ |} 
+ 
+ ==Rivals== 
+ After the appearance of AlphaGo, several research groups have created computer Go programs with similar technical viewpoints. 
+ 
+ ===Darkforest=== 
+ This was made by [[Facebook]]. < ref name= " facebook-paper2 " > {{Cite arXiv|eprint=1511.06410v1|last1=Tian|first1=Yuandong|title=Better Computer Go Player with Neural Network and Long-term Prediction|last2=Zhu|first2=Yan|class=cs.LG|year=2015}} < /ref >  The [[source code]]s are available on [[GitHub]]. < ref > {{cite web |title=facebookresearch/darkforestGo |url=https://github.com/facebookresearch/darkforestGo |publisher=Facebook Research |date=16 March 2021}} < /ref > 
+ 
+ ===DeepZenGo=== 
+ This was made in [[Japan]]. < ref > Lee, C. S., Wang, M. H., Ko, L. W., Kubota, N., Lin, L. A., Kitaoka, S., ...  &  Su, S. F. (2018) Human and smart machine co-learning: brain-computer interaction at the 2017 IEEE International Conference on Systems, Man, and Cybernetics. IEEE Systems, Man, and Cybernetics Magazine, 4(2), 6-13. < /ref > < ref > Wu, T. R., Wu, I. C., Chen, G. W., Wei, T. H., Wu, H. C., Lai, T. Y.,  &  Lan, L. C. (2018). Multi-labeled value networks for computer Go. IEEE Transactions on Games, 10(4), 378-389. < /ref >  [[Nihon Ki-in]] was also involved in its [[research and development]]. 
+ 
+ == Related pages == 
+ *[[Demis Hassabis]] 
+ 
+ ==References== 
+ {{reflist|2}} 
+ 
+ ==Other websites== 
+ {{Wikiquote}} 
+ * {{Official website|https://deepmind.com/research/alphago/}} 
+ * [http://senseis.xmp.net/?AlphaGo AlphaGo wiki] at Sensei's Library, including links to AlphaGo games 
+ * [http://homepages.cwi.nl/~aeb/go/games/games/AlphaGo/ AlphaGo page], with archive and games 
+ * [https://web.archive.org/web/20170104201657/https://www.goratings.org/ Estimated 2017 rating of Alpha Go] 
+ 
+ {{DEFAULTSORT:AlphaGo}} 
+ [[Category:Software]] 
+ [[Category:Artificial intelligence]] 
+ [[Category:Computer science]] 
+ [[Category:Google]] 
+ [[Category:Go (game)]]

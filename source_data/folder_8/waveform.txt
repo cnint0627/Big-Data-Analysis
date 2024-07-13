@@ -1,0 +1,30 @@
+The '''waveform''' is the [[shape]] of a [[wave]] as it travels. There are many different waveforms. They are usually a shape which is repeated over and over (a  " periodic waveform " ). A common waveform is the [[sine wave]]. It is normally not possible to see a waveform without some [[device]]. 
+ 
+ == Root mean square == 
+ 
+ The [[amplitude]] of a waveform may change a lot. Even though it changes, the waveform has a '''root mean square''' (rms) value. For example: in the [[United Kingdom|UK]], the [[Alternating current|AC]] mains supply is a sine wave and has a [[voltage]] of 240 V. This is an rms voltage. The actual voltage varies: 
+ 
+ : < math > V_{\text{peak}} = \sqrt 2 \times V_{\text{rms}} = \sqrt 2 \times 240 = \pm 339.411255\dots V < /math > 
+ 
+ The amplitude of the sine wave keeps changing from -339.4 V to +339.4 V. 
+ 
+ Root mean square is important. It lets us work out many useful things, like [[Electricity#Examples|power]] and [[heat]]ing in a [[wire]]. 
+ 
+ This table has information about working out the rms for some waveforms. 
+ 
+ {| class= " wikitable " 
+ |- 
+ ! Wave type 
+ ! rms amplitude 
+ |- 
+ | Sine wave 
+ |  < math > A_{\text{rms}} = \frac{A_{\text{peak}}}{\sqrt 2} < /math > 
+ |- 
+ | Square wave 
+ |  < math > A_{\text{rms}} = A_{\text{peak}} < /math > 
+ |- 
+ | Triangular wave 
+ |  < math > A_{\text{rms}} = \frac{A_{\text{peak}}}{\sqrt 3} < /math > 
+ |} 
+ 
+ [[Category:Wave physics]]

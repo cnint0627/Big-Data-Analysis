@@ -1,0 +1,63 @@
+Multiplication is the inverse of division, and has many uses, one of them being checking your division work.[[File:Simple multiplication.png|right|300px]] 
+ '''Multiplication''' is an [[arithmetic]] operation for finding the ''[[Product (mathematics)|product]]'' of two [[number|numbers]] in [[mathematics]]. It is often represented by symbols such as  < math > \times < /math >  and  < math > \cdot < /math > . < ref > {{Cite web|date=2020-03-01|title=Compendium of Mathematical Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/|access-date=2020-08-26|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Multiplication|url=https://mathworld.wolfram.com/Multiplication.html|access-date=2020-08-26|website=mathworld.wolfram.com|language=en}} < /ref >  Multiplication is the third operation in math, after addition which is the first, and subtraction which is the second. It can also be defined on number mathematical objects as well. < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Product|url=https://mathworld.wolfram.com/Product.html|access-date=2020-08-26|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ With [[natural number]]s, multiplication gives the number of tiles in a [[rectangle]], where one of the two numbers equals the number of tiles on one side, and the other number equals the number of tiles on the other side. 
+ 
+ With [[real number]]s, multiplication gives the [[area]] of a [[rectangle]] where the first number is the same as the size of one side, and the second number is the same as the size of the other side. 
+ 
+ For example, three multiplied by five is the [[wikt:total|total]] of five threes [[addition|added]] together, or the total of three fives. This can be written as 3 × 5 = 15, or spoken as  " three times five equals fifteen. "  [[Mathematics|Mathematicians]] refer to the two numbers to be multiplied as  " coefficients " , or '' " multiplicand " '' and '' " multiplicator " '' separately (where Multiplicand × multiplicator = product). 
+ 
+ Multiplication between numbers is said to be commutative—when the order of the numbers does not influence the value of the product. This is true for the [[integer]]s (whole numbers), e.g. 4 × 6 is the same as 6 × 4, and also for the [[rational number]]s (fractions), and for all the other [[Real number|real numbers]] (representable as a field in the continuous line), and also for [[complex number]]s (numbers representable as a field in the plane). However, it is not true for [[quaternion]]s (numbers representable as a ring in the four-dimensional space), [[vector]]s or [[Matrix (mathematics)|matrices]]. 
+ [[File:Multiplication as scaling integers.gif|thumb|245x245px]] 
+ The definition of multiplication as repeated addition provides a way to arrive at a set-theoretic interpretation of multiplication of [[cardinal numbers]]. A more accurate representation is to think of it as scaling quantities. This animation illustrates 3 being multiplied by 2, giving 6 as a result. Notice that the blue dot in the blue segment of length 3 is placed at position 1, and the blue segment is scaled so that this dot is placed at the end of the red segment (of length 2). For multiplication by any X, the blue dot will always start at 1 and end at X. This works even if X is smaller than 1, or negative. 
+ 
+ The opposite of multiplication is [[Division (mathematics)|division]]. 
+ 
+ ==Multiplication table== 
+ {| class= " wikitable "  style= " text-align: center; " 
+ !  < math > \times < /math > 
+ ! scope= " column "  | 1 || 2 || 3 || 4 || 5 || 6 || 7 || 8 || 9 || 10 
+ |- 
+ ! scope= " row "  | 1 
+ |'''1'''|| 2 || 3 || 4 || 5 || 6 || 7 || 8 || 9 || 10 
+ |- 
+ ! scope= " row "  | 2 
+ | 2 ||'''4'''||6 || 8 || 10 || 12 || 14 || 16 || 18 || 20 
+ |- 
+ ! scope= " row "  | 3 
+ | 3 || 6 ||'''9'''|| 12 || 15 || 18 || 21 || 24 || 27 || 30 
+ |- 
+ ! scope= " row "  | 4 
+ | 4 || 8 || 12 ||'''16'''|| 20 || 24 || 28 || 32 || 36 || 40 
+ |- 
+ ! scope= " row "  | 5 
+ | 5 || 10 || 15 || 20 ||'''25'''|| 30 || 35 || 40 || 45 || 50 
+ |- 
+ ! scope= " row "  | 6 
+ | 6 || 12 || 18 || 24 || 30 ||'''36'''|| 42 || 48 || 54 || 60 
+ |- 
+ ! scope= " row "  | 7 
+ | 7 || 14 || 21 || 28 || 35 || 42 ||'''49'''|| 56 || 63 || 70 
+ |- 
+ ! scope= " row "  | 8 
+ | 8 || 16 || 24 || 32 || 40 || 48 || 56 ||'''64'''|| 72 || 80 
+ |- 
+ ! scope= " row "  | 9 
+ | 9 || 18 || 27 || 36 || 45 || 54 || 63 || 72 ||'''81'''|| 90 
+ |- 
+ ! scope= " row "  | 10 
+ | 10 || 20 || 30 || 40 || 50 || 60 || 70 || 80 || 90 ||'''100''' 
+ |} 
+ 
+ Teachers usually require their pupils to memorize the table of the first 9 numbers when teaching multiplication, so that more complex multiplication tasks can be performed. 
+ 
+ ==Related pages== 
+ * [[Addition]] 
+ * [[Division (mathematics)]] 
+ * [[Square number]] 
+ * [[Subtraction]] 
+ 
+ == References == 
+ < references / > 
+ [[Category:Arithmetics]] 
+ [[Category:Hyperoperations]]

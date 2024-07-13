@@ -1,0 +1,17 @@
+[[File:Lidar P1270901.jpg|thumb|Lidar]] 
+ '''Lidar''' is a method for measuring distances by using a [[laser]] on a target and measuring its reflection with a [[sensor]]. 
+ 
+ == History == 
+ After the invention of laser, first tool similar to a lidar was made in 1961 at [[Hughes Aircraft Company]]. < ref > {{cite news|date=28 Feb 1961|title=New Radar System|work=Odessa American}} < /ref >  It was first intended to track [[Satellite (artificial)|satellites]]. < ref > {{Cite journal|date=2009-03-18|title=COLIDAR|url=https://onlinelibrary.wiley.com/doi/10.1111/j.1559-3584.1961.tb03324.x|journal=Journal of the American Society for Naval Engineers|language=en|volume=73|issue=4|pages=681–684|doi=10.1111/j.1559-3584.1961.tb03324.x}} < /ref >  It was originally called  " Colidar " , [[acronym]] for  " Coherent Light Detecting And Ranging " . < ref name= " stitch " > {{Cite web|title=COLIDAR - Coherent Light Detection and Ranging in Undefined by AcronymsAndSlang.com|url=http://acronymsandslang.com/definition/5409090/COLIDAR-meaning.html|access-date=2022-05-01|website=acronymsandslang.com}} < /ref > 
+ 
+ One of first usages of lidar were in [[meteorology]]. [[National Center for Atmospheric Research]] used it to measure clouds and [[pollution]]. < ref name= " Goyer " > {{cite journal|last=Goyer|first=G. G.|author2=R. Watson|date=September 1963|title=The Laser and its Application to Meteorology|journal=Bulletin of the American Meteorological Society|volume=44|issue=9|pages=564–575 [568]|bibcode=1963BAMS...44..564G|doi=10.1175/1520-0477-44.9.564|doi-access=free}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ {{sci-stub}} 
+ 
+ [[Category:Measuring tools]] 
+ [[Category:Meteorology]] 
+ [[Category:Sensory system]]

@@ -1,0 +1,29 @@
+{{Infobox disease 
+ |Name           = Melanoma  
+ |Image          = Melanoma.jpg 
+ |Caption        = a melanoma 
+ |Width          = 250 
+ |DiseasesDB     = 7947 
+ |ICD10          = {{ICD10|C|43||c|43}} 
+ |ICD9           = {{ICD9|172.9}} 
+ |ICDO           = {{ICDO|8720|3}} 
+ |OMIM           = 155600 
+ |MedlinePlus    = 000850 
+ |eMedicineSubj  = derm 
+ |eMedicineTopic = 257 
+ |eMedicine_mult = {{eMedicine2|med|1386}} {{eMedicine2|ent|27}} {{eMedicine2|plastic|456}} 
+ |MeshID         = D008545 
+ |BioVex 
+ }} 
+ '''Melanoma''' ({{pron-en|ˌmɛləˈnoʊmə}}) is a [[malignant]] [[tumor]] of [[melanocyte]]s which are found predominantly in skin but also in the [[bowel]] and the [[eye]] (see [[uveal melanoma]]). It is one of the rarer types of [[skin cancer]] but causes the majority of skin cancer related deaths. Malignant melanoma is a serious type of skin cancer. It is due to uncontrolled growth of pigment cells, called melanocytes. < ref > [https://www.nlm.nih.gov/medlineplus/news/fullstory_34983.html Melanoma Death Rate Still Climbing] < /ref > < ref > [http://seer.cancer.gov/statfacts/html/melan.html Cancer Stat Fact Sheets] < /ref >  According to a report by the [[WHO]], about 48,000 people die of melanoma every year. < ref name= " who1 " > {{cite book |author=Lucas, Robyn; McMichael, Tony; Smith, Wayne; Armstrong, Bruce |title=Solar Ultraviolet Radiation: Global burden of disease from solar ultraviolet radiation |publisher=World Health Organization |year=2006 |isbn=92-4-159440-3 |series=Environmental Burden of Disease Series |volume=13 |url=http://www.who.int/uv/health/solaruvradfull_180706.pdf }} < /ref >  Melanoma is prominent in New Zealand and Australia due to the [[Ozone depletion|hole]] in the [[ozone layer]] and the many beaches. 
+ 
+ Melanoma that has [[Metastasis|metastasised]] (spread beyond the initial primary tumor) is treated with [[Dacarbizine]] or [[Interleukin-2]], also known as Proleukin, in many cases. Interleukin-2 has a response rate of up to sixteen-percent. < ref > {{cite web|url=http://www.proleukin.com/health-care-professional/indications/metastatic-melanoma.jsp |title=(aldesleukin) - Metastatic Melanoma Clinical Data |publisher=Proleukin |accessdate=2011-02-06}} < /ref >  Recent studies support the use of a new drug called [[Ipilimumab]], which appears to prolong survival in metastatic melanoma patients. < ref > {{cite web|url=http://www.webmd.com/melanoma-skin-cancer/news/20100607/new-drug-extends-lives-of-melanoma-patients |title=New Drug Extends Lives of Melanoma Patients |publisher=Webmd.com |date=2010-06-07 |accessdate=2011-02-06}} < /ref >  Percutaneous liver perfusion with a chemotherapeutic agent known as [[melphalan]] can prolong progression free survival in patients with melanoma metastatic to the [[liver]], although the majority of patients in this study had melanoma starting in the [[eye]] rather than the [[skin]]. < ref > {{cite web|author=June 5, 2010 |url=http://www.hemonctoday.com/article.aspx?rid=65252 |title=Percutaneous hepatic perfusion with melphalan improved hepatic PFS in ocular, cutaneous melanoma |publisher=HemOncToday |date=2010-06-05 |accessdate=2011-02-06}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Tumours}} 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Cancer]]

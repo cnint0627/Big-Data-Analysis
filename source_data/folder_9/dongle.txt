@@ -1,0 +1,27 @@
+{{complex|date=August 2022}} 
+ [[File:Chromecast_plugged_into_TV.jpg|link=//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Chromecast_plugged_into_TV.jpg/220px-Chromecast_plugged_into_TV.jpg|thumb|A [[Chromecast]] stick plugged into the HDMI port of a TV.  The wire attached to the other end is the USB power supply.|181x181px]]A '''dongle''' is a small piece of computer hardware. when you plug the dongle to your device, it will provide additional functionality, or enable a pass-through to such a device that adds functionality. < ref > {{Cite book|url=https://books.google.com/books?id=P0Hwx4F8Q7cC & q=A+dongle+is+a+small+piece+of+hardware+that+connects+to+another+device+to+provide+it+with+additional+functionality & pg=PA335|title=Digital Forensics Processing and Procedures: Meeting the Requirements of ISO 17020, ISO 17025, ISO 27001 and Best Practice Requirements|last=Watson|first=David Lilburn|last2=Jones|first2=Andrew|date=2013-08-30|publisher=Newnes|isbn=9781597497459|language=en}} < /ref > 
+ 
+ The term has since been added to other types of devices with a similar form factor, such as: 
+ 
+ * adapters that convert ports to handle different types of connectors (such as [[Digital Visual Interface|DVI]] to VGA for displays, [[USB]] to [[Serial port|serial connection]], and in modern computing, [[USB-C]] to other types of ports, and Mobile High-Definition Link), < ref > {{Cite news|last=Lee|first=Dave|date=2016-11-07|title=Discussing the dongles|language=en-GB|work=BBC News|url=https://www.bbc.com/news/technology-37903587|access-date=2019-04-21}} < /ref > 
+ * USB wireless adapters for standards such as [[Bluetooth]] and [[Wi-Fi]] 
+ * [[USB flash drive|USB flash drives]] (more commonly described as  " USB stick "  or  " USB key " ) 
+ * small form-factor digital media players that plug into [[High-Definition Multimedia Interface|HDMI]] ports (most commonly described as a  " media player dongle "  or  " media player stick " ) 
+ 
+ == Examples == 
+ Security dongles are typically used to help prevent [[Copyright infringement|unauthorized use]] and copying of certain forms of software. Initially using ports such as the [[serial port]] or [[parallel port]], most are now in [[USB]] format. 
+ 
+ Very short cables that connect relatively large jacks to smaller plugs/. It allow cables to be easily installed and removed from equipment with limited space available for connectors.  The Chromecast devit negates the need for a short adapter cable. 
+ 
+ == Examples == 
+ Security dongles are typically used to help prevent [[Copyright infringement|unauthorized use]] and copying of certain forms of software. Initially using ports such as the [[serial port]] or [[parallel port]], most are now in [[USB]] format. 
+ 
+ Very short cables that connect relatively large jacks to smaller plugs/. It allow cables to be easily installed and removed from equipment with limited space available for connectors.  The Chromecast devit negates the need for a short adapter cable. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ 
+ * [http://languagelog.ldc.upenn.edu/nll/?p=1475 Language Log  &  Dongle] 
+ [[Category:Computer hardware]]

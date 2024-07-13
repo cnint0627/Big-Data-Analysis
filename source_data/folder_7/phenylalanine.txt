@@ -1,0 +1,94 @@
+{{chembox 
+ | pronounce  = {{IPAc-en|US|ˌ|f|ɛ|n|əl|ˈ|æ|l|ə|n|iː|n}}, {{IPAc-en|UK|ˌ|f|iː|n|aɪ|l|-}} 
+ | ImageFile = L-Phenylalanin - L-Phenylalanine.svg 
+ | ImageSize =  
+ | ImageName = Skeletal formula 
+ | ImageCaption = [[Skeletal formula]] of  < small > L < /small > -phenylalanine 
+ | ImageFile1 = 1PhenylalanineAtPhysiologicalpH.svg 
+ | ImageSize1 = 180px 
+ | ImageCaption1 =  < small > L < /small > -Phenylalanine at physiological pH 
+ | ImageFileL2 = Phenylalanine-from-xtal-3D-bs-17.png 
+ | ImageSizeL2 = 120px 
+ | ImageCaptionL2 = [[ball-and-stick model]] < ref name= " Ihlefeldt " > {{ cite journal | title = The Polymorphs of L‐Phenylalanine | first1 = Franziska Stefanie | last1 = Ihlefeldt | first2 = Fredrik Bjarte | last2 = Pettersen | first3 = Aidan | last3 = von Bonin | first4 = Malgorzata | last4 = Zawadzka | first5 = Prof. Carl Henrik | last5 = Görbitz | journal = Angewandte Chemie International Edition | volume = 53 | issue = 49 | pages = 13600–13604 | year = 2014 | doi = 10.1002/anie.201406886 | pmid = 25336255 }} < /ref > 
+ | ImageFileR2 = Phenylalanine-from-xtal-3D-sf.png 
+ | ImageSizeR2 = 120px 
+ | ImageCaptionR2 = [[space-filling model]] < ref name= " Ihlefeldt "  / > 
+ | SystematicName = (''S'')-2-Amino-3-phenylpropanoic acid 
+ | IUPACName = Phenylalanine 
+ |Section1={{Chembox Identifiers 
+ | index1_label = D/L 
+ | index2_label = D 
+ | index_label = L  < !-- needs to be L (natural isomer) so drugbank etc. take correct index_label -- > 
+ | IUPHAR_ligand = 3313 
+ | UNII1_Ref = {{fdacite|correct|FDA}} 
+ | UNII1 = 8P946UF12S 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 47E5O17Y3R 
+ | UNII2_Ref = {{fdacite|correct|FDA}} 
+ | UNII2 = 032K16VRCU 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 301523 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = D00021 
+ | InChIKey = COLNVLDHVKWLRT-QMMMGPOBBC 
+ | SMILES = c1ccc(cc1)C[C@@H](C(=O)O)N 
+ | SMILES3 = [NH3+][C@@H](CC1=CC=CC=C1)C([O-])=O 
+ | SMILES3_Comment = L [[Zwitterion]] 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C9H11NO2/c10-8(9(11)12)6-7-4-2-1-3-5-7/h1-5,8H,6,10H2,(H,11,12)/t8-/m0/s1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = COLNVLDHVKWLRT-QMMMGPOBSA-N 
+ | InChIKey1 = COLNVLDHVKWLRT-UHFFFAOYSA-N 
+ | InChIKey2 = COLNVLDHVKWLRT-MRVPVSSYSA-N 
+ | CASNo1 = 150-30-1 
+ | CASNo1_Ref = {{cascite|correct|CAS}} 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo = 63-91-2 
+ | CASNo2_Ref = {{cascite|correct|CAS}} 
+ | CASNo2 = 673-06-3 
+ | PubChem = 6140 
+ | PubChem1 = 994 
+ | PubChem2 = 71567 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 5910 
+ | ChemSpiderID1_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID1 = 969 
+ | ChemSpiderID2_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID2 = 64639 
+ | DrugBank_Ref = {{drugbankcite|correct|drugbank}} 
+ | DrugBank=DB00120 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 17295 
+ | ChEBI2_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI2 = 16998 
+ }} 
+ |Section2={{Chembox Properties 
+ | C=9 | H=11 | N=1 | O=2 
+ | Appearance = 
+ | Density = 
+ | MeltingPt = 
+ | BoilingPt = 
+ | pKa=1.83 (carboxyl), 9.13 (amino) < ref > {{ cite book | vauthors = Dawson RM | title = Data for Biochemical Research | year = 1959 | location = Oxford | publisher = Clarendon Press |display-authors=etal}} < /ref > 
+ | Solubility = }} 
+ |Section3={{Chembox Hazards 
+ | NFPA-H = 2 
+ | NFPA-F = 1 
+ | NFPA-R = 0 
+ | MainHazards = 
+ | FlashPt = 
+ | AutoignitionPt = }} 
+ }} 
+ '''Phenylalanine''' (symbol Phe or F) is an [[Essential amino acid|essential α-amino acid]].  
+ 
+ This essential amino acid is neutral and nonpolar. This is  because of the inert and hydrophobic nature of the benzyl side chain.  
+ 
+ The L-[[Isomer|isomer]] is used to biochemically form proteins coded for by DNA.  
+ 
+ Phenylalanine is a precursor for [[tyrosine]], the monoamine neurotransmitters [[dopamine]], norepinephrine ([[noradrenaline]]), [[epinephrine]] (adrenaline), and the skin pigment [[melanin]]. It is encoded by the codons UUU and UUC. 
+ 
+ == References == 
+ {{reflist}} 
+ {{Proteinogenic amino acids}} 
+ {{Opioid receptor modulators}} 
+ 
+ [[Category:Amino acids]]

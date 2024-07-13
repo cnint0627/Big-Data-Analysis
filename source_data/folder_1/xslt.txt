@@ -1,0 +1,8 @@
+'''XSLT''', which stands for ''Extensible Stylesheet Language Transformations'' is a [[programming language]]. XSLT is based on [[XML]]. It is part of [[XSL]], and is used for transforming XML documents, most of the time. The language is [[Turing completeness|Turing complete]]. This means that anything that can be computed by a [[Turing machine]] can also be done in XSLT.  
+ 
+ Uses for XSLT include: 
+ *''Presentation-oriented publishing'' (POP): A transformation is done for presentation purposes. Examples of such transformations include the generation of [[XHTML]], [[SVG]] and [[Docbook]]. 
+ *''Message-oriented Middleware'' (MOM): A transformation is done to make communication between two different systems possible. This allows to exchange data between both systems. 
+ 
+ {{tech-stub}} 
+ [[Category:Programming languages]]

@@ -1,0 +1,79 @@
+{{Infobox settlement 
+ < !--See the table at Infobox settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  -- > 
+ | official_name           = Sandhikharka 
+ | native_name             = सन्धिखर्क 
+ | other_name              =  
+ | settlement_type         = [[City]] 
+ < !-- images and maps  -- > 
+ | image_skyline           =  
+ | imagesize               =  
+ | image_caption           =  
+ | image_flag              =  
+ | image_seal              =  
+ | nickname                =  
+ | motto                   =  
+ | image_map               =  
+ | map_caption             =  
+ | pushpin_map             =  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | pushpin_label_position  = bottom 
+ | pushpin_mapsize         = 300 
+ | pushpin_map_caption     = Location in Nepal 
+ |coordinates={{coord|28|0|3|N|83|14|48|E|region:NP|display=inline,title}} 
+ < !-- Location -- > 
+ | subdivision_type        = Country 
+ | subdivision_name        = [[Nepal]] 
+ | subdivision_type1       = [[Zones of Nepal|Zone]] 
+ | subdivision_name1       = [[Lumbini Zone]] 
+ | subdivision_type2       = [[Districts of Nepal|District]] 
+ | subdivision_name2       = [[Arghakhanchi District]] 
+ | subdivision_type3       =  
+ | established_title       =  < !-- Settled -- > 
+ | established_date        =  
+ | government_type         = 
+ < !-- Politics -- > 
+ | government_footnotes    =  
+ | leader_title            =  
+ | leader_name             = 
+ < !-- Area    -- > 
+ | unit_pref               =  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | area_footnotes          =  
+ | area_total_km2          =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_total_sq_mi        =  
+ | elevation_footnotes     =  < !--for references: use < ref >   < /ref >   tags-- > 
+ | elevation_m             = 
+ < !-- Population   -- > 
+ | population_footnotes    =  
+ | population_total        = 40422 
+ | population_as_of        = 2011 
+ | population_density_km2  = auto 
+ | population_blank1_title = Ethnicities 
+ | population_blank2_title = Religions 
+ | population_blank2       = [[Hindu]] 
+ | population_note         = 
+ < !-- General information  -- > 
+ | timezone                = [[Nepal Time]] 
+ | utc_offset              = +5:45 
+ | timezone_DST            =  
+ | utc_offset_DST          = 
+ < !-- Area/postal codes  &  others -- > 
+ | postal_code_type        = [[Postal code]] 
+ | postal_code             = 32700 
+ | area_code               = 077 
+ | website                 = {{URL|http://www.argakhanchi.com}} 
+ | footnotes               =  
+ }} 
+ '''Sandhikharka''' ({{lang-ne|सन्धिखर्क नगरपालिका}}) is a municipality in Nepal. It is the headquarters of [[Arghakhanchi District]], in the [[Lumbini Zone]] of [[Nepal]]. On 18 May 2014, it was converted into a municipality by merging Sandhikharka, [[Bangla, Nepal|Bangla]], [[Narapani]], [[Khanchikot]], [[Keemadada|Kimadada]], [[Argha]] and [[Dibharna]] VDCs. < ref > {{cite web|url=http://www.myrepublica.com/portal/index.php?action=news_details & news_id=74336|title=72 new municipalities announced|publisher=My Republica.com|access-date=2014-06-10}} < /ref > < ref > {{cite web|url=http://www.ekantipur.com/the-kathmandu-post/2014/05/08/news/govt-announces-72-new-municipalities/262559.html|title=Government announces 72 new municipalities|publisher=The Kathmandu Post|access-date=2014-06-10|archive-date=2014-10-06|archive-url=https://web.archive.org/web/20141006084717/http://www.ekantipur.com/the-kathmandu-post/2014/05/08/news/govt-announces-72-new-municipalities/262559.html|url-status=dead}} < /ref > 
+ 
+ ==Related pages== 
+ *[[Development Regions of Nepal]] 
+ *[[Zones of Nepal]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Cities in Nepal]] 
+ [[Category:Municipalities of Nepal]] 
+ 
+ 
+ {{asia-stub}}

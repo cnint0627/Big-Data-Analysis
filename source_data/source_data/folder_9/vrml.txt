@@ -1,0 +1,148 @@
+{{Infobox file format 
+ |name=VRML 
+ |icon = 
+ |logo = 
+ |screenshot = Apartment.png 
+ |caption = Apartment ground plan in VRML. 
+ |extension = {{plainlist| 
+ * < code > .wrl < /code > & nbsp;(plain) 
+ * < code > .wrz < /code > & nbsp;(compression) 
+ }} 
+ |_noextcode = yes 
+ |mime = {{plainlist| 
+ * < code > model/vrml < /code > 
+ * < code > x-world/x-vrml < /code > 
+ * < code > application/x-cc3d < /code > 
+ }} 
+ |_nomimecode = yes 
+ |type code = 
+ |uniform type = 
+ |magic = 
+ |owner = 
+ |released = 
+ |latest release version = 2.0 
+ |latest release date = 
+ |genre = [[3D computer graphics]] 
+ |container for = 
+ |contained by = 
+ |extended from = Labyrinth 
+ |extended to = 
+ |standard = [[International Organization for Standardization|ISO]]/[[International Electrotechnical Commission|IEC]] 14772-1:1997 
+ |url = {{URL|www.web3d.org}} 
+ }} 
+ 
+ '''VRML''' ('''Virtual Reality Modeling Language''', pronounced ''vermal'', or by its initials, known before 1995 as Virtual Reality Markup Language) is a standard [[3D|3-dimensional]] (3D) interactive [[vector graphics]] [[file format]] designed for the [[World Wide Web]]. It has been succeeded by [[X3D]]. < ref > {{cite news |title=Is a 3D web more than just empty promises? |author=Paul Festa and John Borland |work=CNET News.com |date=May 19, 2005 |url=http://news.zdnet.co.uk/internet/0,1000000097,39199121,00.htm |access-date=May 7, 2020 |archive-date=November 12, 2009 |archive-url=https://web.archive.org/web/20091112200449/http://news.zdnet.co.uk/internet/0,1000000097,39199121,00.htm |url-status=dead }} < /ref > 
+ 
+ ==VRML files== 
+ VRML uses [[text file]]s. The [[vertex (geometry)|vertices]], edges, surface colors, [[UV mapping|UV-mapped]] [[texture mapping|textures]], [[specularity|shininess]], [[transparency (optics)|transparency]] and more of a 3D [[polygon]] can be specified. < ref > {{cite web|url=http://www.web3d.org/x3d/specifications/vrml/VRML1.0/index.html |title=Version 1.0 Specification |publisher=Web3d.org |access-date=2010-02-23}} < /ref > < ref > {{cite web|url=http://www.martinreddy.net/gfx/3d/VRML.spec |title=VRML Version 1.0 Specification |access-date=2018-11-27}} < /ref >  [[Graphic]]al components can be made to fetch web pages or other VRML files from the [[Internet]] from [[Uniform Resource Locator|URLs]] when the [[user (computing)|user]] clicks on the graphical component. [[Animation]]s, [[sound]]s, [[lighting]], and other things about the [[virtual world]] can interact with the user or can happen when external [[Event-driven programming|events]] say so, such as [[timer]]s. A special Script Node allows [[Source code|program code]] (such as program code in [[Java (programming language)|Java]] or [[ECMAScript]]) to be added to a VRML file. 
+ 
+ VRML files are commonly called  " worlds "  and have the .wrl [[filename extension|extension]] (for example, a VRML file can be called island.wrl). VRML files are in [[plain text]] and usually compress well using [[gzip]], which is useful to transfer them over the Internet faster (some files compressed using gzip use the .wrz [[filename extension|extension]]). Many [[3D computer graphics software|3D modeling programs]] can save [[object (image processing)|objects]] and [[scenery|scenes]] in VRML format. 
+ 
+ ==Standardization== 
+ The [[Web3D Consortium]] was started to develop the format further. The [[International Organization for Standardization]] (ISO) have made VRML and its successor, [[X3D]],  international standards. 
+ 
+ The first version of VRML was specified in November 1994. It was specified from, and looked a lot like, the [[Application Programming Interface|API]] and [[file format]] of the [[Open Inventor]] [[software component]], originally developed by [[Silicon Graphics|SGI]]. The development of version 2.0 was guided by the ad-hoc VRML Architecture Group (VAG). < ref name= " Ando " > {{cite journal |last1=Ando |first1=Hideyuki |last2=Kubota |first2=Akihiro |last3=Kiriyama |first3=Takashi |title=Study on the collaborative design process over the Internet: a case study on VRML 2.0 specification design |journal=Design Studies |date=July 1998 |volume=19 |issue=3 |pages=289–308 |doi=10.1016/S0142-694X(98)00007-6 |url=https://www.sciencedirect.com/science/article/abs/pii/S0142694X98000076 |access-date=24 March 2020}} < /ref >  A working draft was published in August 1996. < ref > {{cite web|url=http://www.graphics.stanford.edu/courses/cs248-98-fall/Assignments/Assignment3/VRML2_Specification/ |title=VRML Version 2.0 Specification |date=1996-08-04 |access-date=2018-11-27}} < /ref >  Formal collaboration between the VAG and SC24 of ISO began in 1996, < ref name= " Carson " > {{cite journal |last1=Carson |first1=George |last2=Puk |first2=Richard |last3=Carey |first3=Rikk |title=Developing the VRML 97 international standard |journal=IEEE Computer Graphics and Applications |date=March–April 1999 |volume=19 |issue=2 |pages=52–58 |doi=10.1109/38.749123 }} < /ref >  and VRML 2.0 was submitted to ISO to be used as an international standard. The current and functionally complete version is VRML97 (ISO/IEC 14772-1:1997). [[X3D]] (ISO/IEC 19775-1) has succeeded VRML. 
+ 
+ ==Emergence, popularity, and rival technical upgrade== 
+ 
+ [[Dave Raggett]] created the term VRML in a paper he wrote called “Extending WWW to support Platform Independent Virtual Reality”, < ref > {{cite web |url=http://www.w3.org/People/Raggett/vrml/vrml.html |title=Extending WWW to support Platform Independent Virtual Reality |author=Dave Raggett |date=1994 |access-date=April 2, 2012}} < /ref >  which was submitted to the [[World Wide Web Conference 1|First World Wide Web Conference]] < ref > {{cite web |url=http://www94.web.cern.ch/WWW94/ |title=First World Wide Web Conference |publisher=4.web.cern.ch |access-date=2010-02-23 |archive-date=2015-08-14 |archive-url=https://web.archive.org/web/20150814034832/http://www94.web.cern.ch/WWW94/ |url-status=dead }} < /ref >  in 1994, and first discussed at the WWW94 VRML BOF, which [[Tim Berners-Lee]] started. There, [[Mark Pesce]] showed the Labyrinth demo he developed with [[Tony Parisi (software developer)|Tony Parisi]] < ref > [https://web.archive.org/web/20080302070914/http://mediamachines.com/management.php Media Machines Management] < /ref >  and [[Peter Kennard]]. < ref > {{cite web|url=http://www.livingwork.com/peterk/ |title=Peter Kennard's page |publisher=Livingwork.com |access-date=2010-02-23}} < /ref >  VRML was introduced to a wider audience in the [[SIGGRAPH]] Course, VRML: Using 3D to Surf the Web < ref > {{cite book |last1=Hardenbergh |first1=Jan |last2=Bell |first2=Gavin |last3=Pesce |first3=Mark |title=Course 12 - VRML: Using 3D to Surf the Web |date=August 1995 |publisher=[[ACM SIGGRAPH]]}} < /ref >  in August 1995. In October 1995, at Internet World, Template Graphics Software (TGS) demonstrated a 3D/VRML plug-in for the beta release of Netscape 2.0 by Netscape Communications. < ref > [http://www.allbusiness.com/technology/software-services-applications/7163706-1.html First 3D/VRML Plug-in for Netscape 2.0 shown by TGS; TGS extends leadership in Internet 3D products and technology]{{Dead link|date=September 2021 |bot=InternetArchiveBot |fix-attempted=yes }}. [[AllBusiness.com]]. 30 Oct 1995. Last accessed 26 Dec 2011. < /ref > 
+ 
+ In 1997, a new version of VRML, VRML97 (also known as VRML2 or VRML 2.0), was finalized, and became an [[International Organization for Standardization|ISO]] standard. VRML97 was used on the Internet on some personal homepages and sites, such as  " CyberTown " , which used Blaxxun Software to allow 3D chat to be possible. SGI's Cosmo Software supported the format. When SGI restructured in 1998, the division was sold to the [[VREAM|VREAM Division]] of [[Platinum Technology]], which was then taken over by [[Computer Associates]], which did not develop or distribute the software. Because of that, various proprietary Web 3D formats came out over the next few years, including [[Microsoft Chrome]] and [[Adobe Atmosphere]], neither of which is supported today. VRML's capabilities were mostly the same while realtime 3D graphics kept improving. The VRML Consortium changed its name to the Web3D Consortium, and began work on the successor to VRML, which is [[X3D]]. < ref > {{Cite web |url=http://www.siggraph.org/~rhyne/carto/3D/3D-geovrml.html |title=A Commentary on GeoVRML |access-date=2020-05-07 |archive-date=2021-02-04 |archive-url=https://web.archive.org/web/20210204054119/http://www.siggraph.org/~rhyne/carto/3D/3D-geovrml.html |url-status=dead }} < /ref > 
+ 
+ SGI ran a web site at vrml.sgi.com that hosted a string of regular short performances of a character called  " Floops " , who was a VRML character in a VRML world. A company called  " Protozoa "  created Floops. < ref > {{cite web |url=http://www.biota.org/book/chbi/chbi2.htm |title=Floops general narrative |publisher=Biota.org |access-date=2010-02-23 |archive-date=2009-12-02 |archive-url=https://web.archive.org/web/20091202095938/http://www.biota.org/book/chbi/chbi2.htm |url-status=dead }} < /ref > < ref > {{cite web|url=http://www.digitalspace.com/avatars/book/authorp/floplate.jpg |title=Floops in his first episode |access-date=2010-02-23}} < /ref > 
+ 
+ H-Anim is a standard for animated Humanoids, which is based around VRML, and later X3D. The first version of the H-Anim standard, 1.0, was supposed to be submitted at the end of March 1998. < ref > [https://web.archive.org/web/20170106235009/http://h-anim.org/charter.html VRML Consortium Charter for Humanoid Animation Working Group] < /ref > 
+ 
+ VRML never saw much serious widespread use, < ref > {{cite web |author=David Sabine |url=https://tumblr.davesabine.com/post/3690293814/what-is-was-vrml |title=What is (was) VRML? |author-link=David Sabine |access-date=2020-05-07 |archive-date=2021-02-03 |archive-url=https://web.archive.org/web/20210203234938/https://tumblr.davesabine.com/post/3690293814/what-is-was-vrml |url-status=dead }} < /ref >  possibly because most users, such as business users and personal users, had low [[bandwidth (computing)|bandwidth]] and slow [[dial-up Internet access]]. < ref > [http://www.agocg.ac.uk/brief/vrml.htm Introduction to VRML] < /ref > 
+ 
+ VRML was mostly experimented with in education and research, where an open specification is most valued. < ref > [https://books.google.com/books?id=IBxnTBFJxIUC Web-Based Control and Robotics Education, page 30] < /ref >  It has now been developed into [[X3D]]. The [[MPEG-4]] Interactive Profile (ISO/IEC 14496) was based on VRML < ref > {{Cite web |url=http://www.extremetech.com/computing/77260-3d-online-browser-plugins-and-more/6?print |title=3D Online: Browser Plugins and More |access-date=2020-05-07 |archive-date=2020-09-29 |archive-url=https://web.archive.org/web/20200929111252/http://www.extremetech.com/computing/77260-3d-online-browser-plugins-and-more/6?print |url-status=dead }} < /ref >  (now on X3D), and X3D is largely backwards-compatible with it. VRML is also widely used as a file format to distribute 3D models, mostly from [[Computer-aided design|CAD]] systems. < ref > {{cite web |url=http://www.ibm.com/developerworks/xml/library/x-matters43/index.html |title=XML Matters |publisher=Ibm.com |access-date=2010-02-23}} < /ref > 
+ 
+ A free version of VRML for multiple platforms called [[OpenVRML]] is available. Its libraries can be used to add both VRML and X3D support to applications, and a GTK+ plugin that allows VRML/X3D worlds to be rendered in web browsers is available. 
+ 
+ In the 2000s, many companies, such as Bitmanagement, improved the quality level of virtual effects in VRML to the quality level of [[DirectX]] 9.0c using proprietary solutions. All main features like game modeling are already complete. They include multi-pass render with low level setting for Z-buffer, BlendOp, AlphaOp, Stencil, < ref > [http://www.bitmanagement.com/developer/contact/examples/multitexture/drawgroup.html DrawGroup  &  DrawOp] < /ref >  Multi-texture, < ref > {{Cite web |url=http://www.web3d.org/x3d/specifications/ISO-IEC-19775-1.2-X3D-AbstractSpecification/Part01/components/texturing.html#Multitexturing |title=Multitexturing |access-date=2020-05-07 |archive-date=2012-01-03 |archive-url=https://web.archive.org/web/20120103070843/http://www.web3d.org/x3d/specifications/ISO-IEC-19775-1.2-X3D-AbstractSpecification/Part01/components/texturing.html#Multitexturing |url-status=dead }} < /ref >  Shader with HLSL and GLSL support, < ref > {{Cite web |url=http://www.web3d.org/x3d/specifications/ISO-IEC-19775-1.2-X3D-AbstractSpecification/Part01/components/shaders.html |title=Programmable shaders component |access-date=2020-05-07 |archive-date=2011-11-28 |archive-url=https://web.archive.org/web/20111128195550/http://www.web3d.org/x3d/specifications/ISO-IEC-19775-1.2-X3D-AbstractSpecification/Part01/components/shaders.html |url-status=dead }} < /ref >  realtime Render To Texture, Multi Render Target (MRT) and PostProcessing. < ref > [http://www.bitmanagement.com/developer/contact/relnotes72.html#postprocessing Scene postprocessing support] < /ref >  Many demos show VRML supports lightmap, normalmap, SSAO, CSM and Realtime Environment Reflection and other virtual effects. < ref > [https://www.youtube.com/user/m17design VRML X3D and Realtime Web3D] < /ref > 
+ 
+ ==Alternatives== 
+ 
+ *[[3DMLW]]: 3D Markup Language for Web 
+ *[[COLLADA]]: managed by the Khronos Group 
+ *[[O3D]]: developed by Google 
+ *[[Universal 3D|U3D]]: Ecma International standard ECMA-363 
+ *[[X3D]]: successor of VRML 
+ 
+ ==Related pages== 
+ 
+ {{Div col}} 
+ *[[Active Worlds]] [[virtual reality]] – multi-user 3D chat platform 
+ *[[Additive Manufacturing File Format]] 
+ *[[Blaxxun]] [[virtual reality]] – multi-user 3D chat platform 
+ *[[Flux (software)|Flux]] – freely downloadable VRML/X3D editor/browser, now discontinued 
+ *[[List of vector graphics markup languages]] 
+ *[[MeshLab]] – open source mesh processing system that can export VRML/X3D 
+ *[[OZ Virtual]] 
+ *[[Seamless3d]] – free Open Source 3D modeling software for Microsoft Windows 
+ *[[STL (file format)|STL]] – STereoLithography or Standard Tessellation Language, common to CAD software and 3D printing.  
+ *[[Virtual Environment Software]] 
+ *[[Virtual tour]] 
+ *[[Web3D]] 
+ *[[WebGL]] 
+ *[[WebVR]] 
+ {{Div col end}} 
+ 
+ ==References== 
+ {{reflist|30em}} 
+ 
+ ==Other websites== 
+ {{Commons category|VRML}} 
+ < !-- {{No more links}} 
+ 
+ Please be cautious adding more external links. 
+ 
+ Wikipedia is not a collection of links and should not be used for advertising. 
+ 
+ Excessive or inappropriate links will be removed. 
+ 
+ See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details. 
+ 
+ If there are already suitable links, propose additions or replacements on 
+ the article's talk page, or submit your link to the relevant category at  
+ the Open Directory Project (dmoz.org) and link there using {{Dmoz}}. 
+ 
+ -- > 
+ < !-- Please be cautious adding more external links. 
+ 
+ Wikipedia is not a collection of links and should not be used for advertising. 
+ 
+ Excessive or inappropriate links will be removed. 
+ 
+ See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details. 
+ 
+ If there are already suitable links, propose additions or replacements on 
+ the article's talk page, or submit your link to the relevant category at  
+ the Open Directory Project (dmoz.org) and link there using {{Dmoz}}. 
+ 
+ -- > 
+ {{External links|date=May 2020}} 
+ 
+ *{{DMOZ|Computers/Software/Internet/Authoring/VRML/|VRML authoring}} 
+ *{{DMOZ|Arts/Visual_Arts/Computer_Graphics/3D/VRML/|VRML art}} 
+ *[http://groups.google.com/group/comp.lang.vrml?gvc=2 & hl=en comp.lang.vrml] newsgroup 
+ 
+ ;Code samples 
+ *[http://www.wiley.com/legacy/compbooks/vrml2sbk/toc/toc.htm VRML examples from the VRML Sourcebook] (to get the example VRML code, click on a chapter, then on a figure) 
+ 
+ ;Documentation 
+ *{{webarchive |url=https://web.archive.org/web/20140304011557/http://www.web3d.org/x3d/vrml/ |date=March 4, 2014 |title=VRML Archives }} 
+ *[http://accad.osu.edu/~pgerstma/class/vnv/resources/info/AnnotatedVrmlRef/Book.html VRML Annotated Reference] {{Webarchive|url=https://web.archive.org/web/20070109151115/http://accad.osu.edu/%7Epgerstma/class/vnv/resources/info/AnnotatedVrmlRef/Book.html |date=2007-01-09 }} 
+ *[http://www.web3d.org/x3d/specifications/vrml/ VRML ISO/IEC 14772 standard document] 
+ *[http://xml.coverpages.org/vrml-X3D.html VRML and X3D description] 
+ *[http://www.xml.com/pub/a/2003/08/06/x3d.html Extensible 3D: XML Meets VRML] 
+ *[http://www.web3d.org/ Web3D Consortium] 
+ *[http://www.h-anim.org/ H-Anim working group] {{Webarchive|url=https://web.archive.org/web/20120626235359/http://www.h-anim.org/ |date=2012-06-26 }} 
+ *[http://www.sandyressler.com/about/library/weekly/allabout.htm Articles by Sandy Ressler formerly on About.com] 
+ 
+ {{DEFAULTSORT:Vrml}} 
+ 
+ [[Category:Internet]] 
+ [[Category:Computer file formats]] 
+ [[Category:ISO standards]] 
+ [[Category:Virtual reality]]

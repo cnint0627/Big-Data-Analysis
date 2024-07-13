@@ -1,0 +1,68 @@
+{{Infobox river 
+ | name               = Sava 
+ | name_native        = {{ubl|{{native name|de|Save}}|{{native name|sl|Sava}}|{{native name|sh|{{lang|sh-Latn|Sava}} {{lang|sh-Cyrl|/ Сава}}}}|{{native name|hu|Száva}}}} 
+ | name_native_lang   =  
+ | name_other         =  
+ | name_etymology     =  
+ < !---------------------- IMAGE  &  MAP -- > 
+ | image              = Sava river in Belgrade, view from Kalemegdan fortress.jpg 
+ | image_size         =  
+ | image_caption      = Sava River in [[Belgrade]], [[Serbia]] 
+ | map                = Savarivermap.png 
+ | map_size           =  
+ | map_caption        = Map of the Sava watershed 
+ | pushpin_map        =  
+ | pushpin_map_size   =  
+ | pushpin_map_caption=  
+ < !---------------------- LOCATION -- > 
+ | subdivision_type1  = Countries 
+ | subdivision_name1  = {{hlist|[[Slovenia]]|[[Croatia]]|[[Bosnia-Herzegovina]]|[[Serbia]]}} 
+ | subdivision_type2  =  
+ | subdivision_name2  =  
+ | subdivision_type3  =  
+ | subdivision_name3  =  
+ | subdivision_type4  =  
+ | subdivision_name4  =  
+ | subdivision_type5  = Cities 
+ | subdivision_name5  = {{hlist|[[Kranj]]|[[Ljubljana]]|[[Zagreb]]|[[Sisak]]|[[Slavonski Brod]]|[[Brčko]]|[[Sremska Mitrovica]]|[[Šabac]]|[[Obrenovac]]|[[Belgrade]]}} 
+ < !---------------------- PHYSICAL CHARACTERISTICS -- > 
+ | length             = {{convert|992|km|mi|abbr=on}}{{GeoQuelle|Sava||13}}  < sup > a < /sup >   
+ | width_min          =  
+ | width_avg          =  
+ | width_max          =  
+ | depth_min          =  
+ | depth_avg          =  
+ | depth_max          =  
+ | discharge1_location= the [[river mouth]] 
+ | discharge1_min     =  
+ | discharge1_avg     = {{convert|1609|m3/s|cuft/s|abbr=on}} 
+ | discharge1_max     =  
+ < !---------------------- BASIN FEATURES -- > 
+ | source1            = [[Zelenci]] 
+ | source1_location   = [[Kranjska Gora]], Slovenia 
+ | source1_coordinates= {{coord|46|29|31|N|13|44|16|E|display=inline}} 
+ | source1_elevation  = {{convert|833|m|abbr=on}} 
+ | mouth              = [[Danube]] 
+ | mouth_location     = [[Belgrade]], Serbia 
+ | mouth_coordinates  = {{coord|44|49|27|N|20|26|38|E|display=inline,title}} 
+ | mouth_elevation    = {{convert|68|m|abbr=on}} 
+ | progression        = {{RDanube}} 
+ | river_system       =  
+ | basin_size         = {{convert|97713.2|km2|abbr=on}}{{GeoQuelle|Sava||13}} 
+ | tributaries_left   = [[Savinja]], [[Sutla]], [[Krapina (river)|Krapina]], [[Lonja]], [[Ilova River (Croatia)|Ilova-Trebež]], [[Orljava]], [[Bosut (river)|Bosut]], Jarcina 
+ | tributaries_right  = Sora, [[Ljubljanica]], [[Krka (Sava)|Krka]], [[Kupa]], [[Una (Sava)|Una]], [[Vrbas (river)|Vrbas]], [[Ukrina]], [[Bosna (river)|Bosna]], [[Tolisa (river)|Tolisa]], [[Tinja (river)|Tinja]], [[Drina]], [[Kolubara]] 
+ | extra              =  < sup > a < /sup >  Including {{convert|45|km|abbr=on}} [[Sava Dolinka]] [[headwater]] 
+ }} 
+ The '''Sava''' ({{lang-de|Save}}; {{lang-sr-cyr|Сава}}; {{lang-hu|Száva}}) is a river in [[Central Europe|Central]] and [[Southeast Europe]], a right tributary of [[Danube]] at [[Belgrade]]. It flows through [[Slovenia]], [[Croatia]], [[Bosnia and Herzegovina]] and [[Serbia]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{authority control}} 
+ 
+ {{multistub|geo|Europe}} 
+ 
+ [[Category:Rivers of Slovenia]] 
+ [[Category:Rivers of Croatia]] 
+ [[Category:Rivers of Bosnia and Herzegovina]] 
+ [[Category:Rivers of Serbia]]

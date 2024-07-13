@@ -1,0 +1,23 @@
+{{no sources|date=March 2015}} 
+ 
+ '''OpenNIC''' uses an alternative [[Domain Name System]], so users can access more websites than they can on the  " normal "  internet. Users can still access the  " normal "  internet. 
+ 
+ Users can register [[domain name|website names]] for free on OpenNIC, whereas doing so on the  " normal "  internet is usually not free. 
+ 
+ == Top level domains == 
+ The  " normal "  internet has websites that end in things like  " .com " ,  " .org "  or  " .net "  - these endings are called [[Top Level Domain|Top Level Domains or TLDs]]. OpenNIC allows its users to access other website names in addition to those on the  " normal "  internet. 
+ 
+ == Related pages == 
+ * [[Proxy server]] 
+ * [[DNS]] 
+ * [[Server]] 
+ 
+ == Other websites == 
+ * [http://www.opennic.org OpenNIC Official Website] 
+ * [http://reg.for.free OpenNIC Domain Name Registration Site] {{Webarchive|url=https://web.archive.org/web/20161202002545/http://reg.for.free/ |date=2016-12-02 }} - only accessible once above configuration is complete 
+ * [https://servers.opennicproject.org/ OpenNIC server list] 
+ * [https://wiki.opennic.org/setup Setup Instructions] 
+ * [http://proxy.opennicproject.org/ OpenNIC Proxy] 
+ 
+ [[Category:Internet]] 
+ [[Category:Websites]]

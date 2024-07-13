@@ -1,0 +1,94 @@
+{{Infobox Swiss town 
+  | subject_name		= Oberdiessbach 
+  | image_photo          = Oberdiessbach Neues Schloss-05.jpg 
+  | municipality_name	= Oberdiessbach 
+  | municipality_type	= municipality 
+  | imagepath_coa	= Wappen farbig.jpg|pixel_coa= 
+  | map			= Karte Gemeinde Oberdiessbach.png 
+  | languages		= German 
+  | canton		= Bern 
+  | iso-code-region 	= CH-BE 
+  | district		= [[Bern-Mittelland (administrative district)|Bern-Mittelland]] 
+  |coordinates  = {{coord|46|50|N|7|37|E|display=inline,title}} 
+  | postal_code		= 3672 
+  | municipality_code	= 0619 
+  | area			= 8.2 
+  | elevation		= 605|elevation_description=  
+  | population           = 3101 | populationof = Dec 2011 |  popofyear = 2011 
+  | website		= www.oberdiessbach.ch 
+  | mayor                = Hans-Rudolf Vogt |mayor_asof=|mayor_party= 
+  | mayor_title	= |list_of_mayors	=  
+  | places		=  
+  | demonym		=  
+  | neighboring_municipalities= [[Bleiken bei Oberdiessbach]], [[Freimettigen]], [[Häutligen]], [[Herbligen]], [[Linden, Switzerland|Linden]], [[Wichtrach]] 
+  | twintowns		= [[Féchy]] (Switzerland), [[Kardašova Řečice|Kardasova Recice]] (Czech Republic) 
+ }} 
+ '''Oberdiessbach''' is a [[municipality]] in the [[administrative district]] of [[Bern-Mittelland (administrative district)|Bern-Mittelland]] in the [[Cantons of Switzerland|canton]] of [[Bern (canton)|Bern]] in [[Switzerland]]. 
+ 
+ On 1 January 2010, the former municipality of [[Aeschlen bei Oberdiessbach|Aeschlen]] and on 1 January 2014, [[Bleiken bei Oberdiessbach]] merged into the municipality of Oberdiessbach. 
+ 
+ ==Demographics== 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.8) 
+ ImageSize  = width: auto height:500 barincrement:45 
+ PlotArea   = top:20 left:35 bottom:90 right:35 
+ Legend     = columns:3 left:20 top:70 columnwidth:160 
+ AlignBars  = justify 
+ DateFormat = x.y 
+ Period     = from:0 till:3300 
+ TimeAxis   = orientation:vertical 
+ AlignBars  = justify 
+ ScaleMajor = gridcolor:darkgrey increment:700 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:140 start:0 
+ Colors= 
+  id:BL     value:yellowgreen      legend:Bleiken_bei_Oberdiessbach 
+  id:OB     value:powderblue      legend:Oberdiessbach 
+ PlotData= 
+   color:yellowgreen width:30   mark:(line,white) align:center 
+   bar:1850 from: 0 till:320 text: " 320 "  color:BL 
+   bar:1860 from: 0 till:308 text: " 308 "  color:BL 
+   bar:1870 from: 0 till:362 text: " 362 "  color:BL 
+   bar:1880 from: 0 till:365 text: " 365 "  color:BL 
+   bar:1890 from: 0 till:328 text: " 328 "  color:BL 
+   bar:1900 from: 0 till:338 text: " 338 "  color:BL 
+   bar:1910 from: 0 till:374 text: " 374 "  color:BL 
+   bar:1920 from: 0 till:343 text: " 343 "  color:BL 
+   bar:1930 from: 0 till:300 text: " 300 "  color:BL 
+   bar:1940 from: 0 till:309 text: " 309 "  color:BL 
+   bar:1950 from: 0 till:307 text: " 307 "  color:BL 
+   bar:1960 from: 0 till:275 text: " 275 "  color:BL 
+   bar:1970 from: 0 till:270 text: " 270 "  color:BL 
+   bar:1980 from: 0 till:277 text: " 277 "  color:BL 
+   bar:1990 from: 0 till:272 text: " 272 "  color:BL 
+   bar:2000 from: 0 till:378 text: " 378 "  color:BL 
+   bar:1850 from: 320 till:1495 text: " 1,175 "  color:OB 
+   bar:1860 from: 308 till:1332 text: " 1,024 "  color:OB 
+   bar:1870 from: 362 till:1446 text: " 1,084 "  color:OB 
+   bar:1880 from: 365 till:1538 text: " 1,173 "  color:OB 
+   bar:1890 from: 328 till:1512 text: " 1,184 "  color:OB 
+   bar:1900 from: 338 till:1619 text: " 1,281 "  color:OB 
+   bar:1910 from: 374 till:1784 text: " 1,410 "  color:OB 
+   bar:1920 from: 343 till:1940 text: " 1,597 "  color:OB 
+   bar:1930 from: 300 till:1904 text: " 1,604 "  color:OB 
+   bar:1940 from: 309 till:2012 text: " 1,703 "  color:OB 
+   bar:1950 from: 307 till:2180 text: " 1,873 "  color:OB 
+   bar:1960 from: 275 till:2202 text: " 1,927 "  color:OB 
+   bar:1970 from: 270 till:2415 text: " 2,145 "  color:OB 
+   bar:1980 from: 277 till:2596 text: " 2,319 "  color:OB 
+   bar:1990 from: 272 till:2758 text: " 2,486 "  color:OB 
+   bar:2000 from: 378 till:3294 text: " 2,916 "  color:OB 
+ < /timeline > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat-inline|Oberdiessbach}} 
+ * [http://www.oberdiessbach.ch Official website] {{in lang|de}} 
+ 
+ 
+ {{Switzerland-stub}} 
+ 
+ [[Category:Municipalities in Bern-Mittelland]]

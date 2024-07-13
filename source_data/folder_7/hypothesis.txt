@@ -1,0 +1,41 @@
+A '''hypothesis''' is a proposed [[explanation]] for some [[phenomenon|event]] or problem. For a scientific hypothesis, the [[scientific method]] requires that one can test it. < ref > The [[term]] comes from the  [[Greek language|Greek]], ''hypotithenai'' meaning  " to put under "  or  " to suppose " . < /ref > < ref name=Bunge > Bunge, Mario 1967. ''Scientific research I: the search for system''. Berlin: Springer Verlag, Chapter 5, p222. < /ref > 
+ ==History== 
+ In the early 17th century, [[Robert Bellarmine|Cardinal Bellarmine]] gave a well known example of the older sense of the word in his warning to [[Galileo Galilei|Galileo]]: that he must not treat the motion of the [[Earth]] as a reality, but merely as a hypothesis. 
+ 
+ Today, a hypothesis refers to an idea that needs to be [[test]]ed. A hypothesis needs more work by the researcher in order to check it. A tested hypothesis that works may become part of a [[theory]]—or become a theory itself. The testing should be an attempt to prove that the hypothesis is wrong. That is, there should be a way to [[Falsifiability|falsify]] the hypothesis, at least in principle if not in practice. 
+ 
+ People often call a hypothesis an  " educated guess " . 
+ : " When it is not clear under which law of nature an effect or class of effect belongs, we try to fill this gap by means of a guess. Such guesses have been given the name ''conjectures'' or ''[[hypotheses]]'' " . [[Hans Christian Ørsted]] (1811)  < ref > ''First introduction to general physics'' ¶18. ''Selected Scientific Works of Hans Christian Ørsted'', p297. {{ISBN|0-691-04334-5}} < /ref > 
+ : " In general we look for a new law by the following process. First we guess it. ... "   < ref > [[Richard Feynman]] (1965) ''The character of physical law''. p156 < /ref > 
+ 
+ Experimenters may test and reject several hypotheses, before solving the problem or reaching a satisfactory theory. 
+ 
+ A 'working hypothesis' is just a rough kind of hypothesis that is provisionally accepted as a basis for further research. < ref > ''Oxford Dictionary of Sports Science  &  Medicine'' [http://www.answers.com/topic/working-hypothesis Eprint] via Answers.com < /ref >  The hope is that a theory will be produced, even if the hypothesis ultimately fails. < ref name=Century > See in  " hypothesis " , ''Century Dictionary Supplement'', v. 1, 1909, New York: Century Company. Reprinted, [https://archive.org/stream/centurydictionar11whituoft#page/616/mode/1up v. 11, p. 616] (via ''Internet Archive'') of the ''Century Dictionary and Cyclopedia'', 1911. < /ref > < ref > {{cite book |author1=Schick, Theodore |author2=Vaughn, Lewis |title=How to think about weird things: critical thinking for a New Age |url=https://archive.org/details/howtothinkaboutw0000schi_c5o8 |publisher=McGraw-Hill Higher Education |location=Boston |year=2002 |isbn=0-7674-2048-9}} < /ref > 
+ 
+ Hypotheses are especially important in science. Several philosophers have said that without hypotheses, there could be no science. < ref > Medawar P.B.  &  J.S. 1983. ''Aristotle to zoos: a philosophical dictionary of biology''. Harvard University Press, p148. {{ISBN|0-674-04537-8}} < /ref >  In recent years, philosophers of science have tried to integrate the various approaches to testing hypotheses (and the [[scientific method]] in general), to form a more complete system. The point is that hypotheses are suggested [[idea]]s, which are then tested by [[experiments]] or [[observation]]s. 
+ 
+ == Statistics == 
+ In [[statistics]], people talk about [[correlation]]: correlation is how closely related two events or phenomena are. A [[proposition]] (or hypothesis) that two events are related cannot be tested in the same way as a law of nature can be tested. An example would be to see if some [[drug]] is effective to treat a given medical condition. Even if there is a strong correlation that indicates that this is the case, some [[sample]]s would still not fit the hypothesis. 
+ 
+ There are two hypotheses in statistical tests, called the [[null hypothesis]], often written as  < math > H_0 < /math > , and the [[alternative hypothesis]], often written as  < math > H_a < /math > . < ref > {{Cite web|date=2020-04-26|title=List of Probability and Statistics Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/probability-statistics-symbols/|access-date=2020-09-22|website=Math Vault|language=en-US}} < /ref >  The null hypothesis states that there is no link between the phenomena, < ref > or that the link does not have the form given by the alternative hypothesis < /ref >  and is usually assumed to be true until it can be proven wrong beyond a reasonable doubt. < ref name= " :0 " > {{Cite web|title=Null and Alternative Hypotheses {{!}} Introduction to Statistics|url=https://courses.lumenlearning.com/introstats1/chapter/null-and-alternative-hypotheses/|access-date=2020-09-22|website=courses.lumenlearning.com}} < /ref >  The alternative hypothesis states that there ''is'' some kind of link. It is usually the opposite of the null hypothesis, and is what one would conclude if null hypothesis is rejected. < ref > {{Cite web|last=|first=|date=|title=Introductory Statistics: Null and Alternative Hypotheses|url=https://opentextbc.ca/introstatopenstax/chapter/null-and-alternative-hypotheses/|url-status=dead|archive-url=https://web.archive.org/web/20210611232730/https://opentextbc.ca/introstatopenstax/chapter/null-and-alternative-hypotheses/|archive-date=June 11, 2021|access-date=September 22, 2020|website=opentextbc.ca}} < /ref >  The alternative hypothesis may take several forms. It can be two-sided (for example: there is ''some'' effect, in a yet unknown direction) or one-sided (the direction of the supposed relation, positive or negative, is fixed in advance). < ref name= " :0 "  / > 
+ 
+ == Related pages == 
+ * [[Falsifiability]] 
+ * [[Gaia hypothesis]] 
+ * [[Logic]] 
+ * [[Null hypothesis]] 
+ * [[Occam's razor]] 
+ * [[Statistical hypothesis test]] 
+ * [[Thought experiment]] 
+ 
+ == References == 
+ < references / > 
+ 
+ == Other websites == 
+ {{wikiversity}} 
+ {{Wiktionary}} 
+ * [http://www.nuevoweb.com/tutorial/glossary.html Research and evaluation glossary] 
+ * [http://www.swemorph.com/pdf/anaeng-r.pdf  Analysis and synthesis - on scientific method, based on a study by Bernhard Riemann] from the [http://www.swemorph.com Swedish Morphological Society] 
+ 
+ [[Category:Research methods]] 
+ [[Category:Philosophy of science]]

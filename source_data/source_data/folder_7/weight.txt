@@ -1,0 +1,32 @@
+{{wiktionary}} 
+ The '''weight''' of an object (or the weight of an amount of [[matter]]) is the measure of the intensity of the [[Force (physics)|force]] imposed on this object by the local [[Gravitation| gravitational field]]. Weight should not be confused with the related but quite different concept of [[mass]]. For small objects on Earth, the weight force is directed towards the center of the planet. For larger objects, such as the [[Moon]] orbiting around the Earth, the force is directed towards the [[center of mass]] of the combined system. 
+ 
+ In common language, the weight of something is typically understood to be the value measured at or near the [[Earth]]'s surface. Unfortunately the common terms used to describe the weight of an object are units of mass such as [[kilogram]]s or [[Pound (mass)|pounds]]. For almost all of human history, weight has been measured on the surface of the Earth. Here, the weight is proportional to the mass. Objects which have the same mass have the same weight. An object with the twice the mass of another will also have twice the weight. As a consequence it is common practice to use the two words, mass and weight, as if they mean the same thing and to use kilograms and pounds as the units for both mass and weight. Using the same terms to describe and measure the two different properties has led to confusion between these two properties, mass and weight. Mass and weight are not the same thing. 
+ 
+ == Units of weight == 
+ The unit of weight in the [[International System of Units]] is the [[Newton (unit)|newton]], which is represented by the symbol 'N'. 
+ 
+ Other units have been in use in the past but have been abandoned, such as the dyne (the unit of force in the old CGS system) or the kilogram-force, which is the force exerted on a  
+ kilogram of matter by a 'standard' Earth: a body with a mass of 1 & nbsp;kg has a weight of about 9.81 N at sea level. 
+ 
+ == Measuring weight == 
+ The weight of an object, or of an amount of matter, is typically measured with an instrument such as a [[spring scale]]. The scale includes a spring which provides a force to oppose the gravitational force on the object which is being weighed. The gravitational force pulls down, the spring pushes or pulls upwards. Typically, the scale has a readout which gives not the weight (which is a force) but rather the mass of the object. Spring scales are made with the assumption that they are being used on the surface of the Earth. If a spring scale was taken to the Moon it would give a misleading reading. 
+ 
+ A balance style [[weighing scale]] is a device that compares the weights of two object in the same gravitational field: it determines whether one object is heavier or lighter than the other. 
+ 
+ == Weight is variable == 
+ Weight is not an intrinsic property of matter because the local gravitational field that generates the force called weight is variable in space and time: 
+ * Since the Earth's attraction decreases as the square of the distance to its center, the weight of an object is slightly smaller at high altitude (e.g., at the top of a mountain) than at sea level, or at the [[equator]] than at the [[Geographical pole|poles]] (because the Earth is slightly [[Earth#Shape|bulging]]). 
+ * An arbitrary object on Earth is also attracted by all other celestial bodies, such as the Moon, for instance. Hence, its weight will be less with the Moon overhead than with the Moon on the other side of the Earth. 
+ * Weight is not defined exclusively to Earth: An astronaut weighs 6 times less on the surface of the Moon than on the surface of the Earth. 
+ * Weightlessness is an apparent condition experienced by astronauts or satellites in orbit around a planet. In reality their weight (gravitational pull) is the force that keeps them in orbit. Objects in orbit travel with very high speed. For satellites orbiting 300 - 500 kilometres above the Earth this speed is about 27,000 kph. Without the gravitational pull of the Earth they would fly off in a straight line. The gravitational pull keeps them falling towards the planet. The combination of high sideways velocity and constant pull toward the centre of the Earth bends their path so they stay in orbit. 
+ 
+ == Related pages== 
+ * [[Difference between Weight and Mass]] 
+ * [[Center of mass]] 
+ * [[Gravity]] 
+ * [[Density]] 
+ 
+ [[Category:Physical quantity]] 
+ [[Category:Basic English 850 words]] 
+ [[Category:Basic physics ideas]]

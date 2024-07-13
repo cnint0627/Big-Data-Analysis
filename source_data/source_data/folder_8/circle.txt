@@ -1,0 +1,93 @@
+[[File:Circle - black simple.svg|thumb|A Circle]] 
+ 
+ A '''circle''', also known as a '''nought''', is a round, [[2D|two-dimensional]] shape. All [[Point (geometry)|point]]s on the edge of the circle are at the same [[distance]] from the center. 
+ 
+ The [[radius]] of a circle is a line from the center of the circle to a point on the side. Mathematicians use the letter  < math > r < /math >  for the length of a circle's radius. The [[wikt:center|center]] of a circle is the point in the very middle. It is often written as  < math > O < /math > . 
+ 
+ The [[diameter]] (meaning  " all the way across " ) of a circle is a straight line that goes from one side to the opposite and right through the center of the circle. Mathematicians use the letter  < math > d < /math >  for the length of this line. The diameter of a circle is equal to twice its radius ( < math > d < /math >  equals  < math > 2 < /math >  times  < math > r < /math > ): < ref name= " :1 " > {{Cite web|last=Weisstein|first=Eric W.|title=Circle|url=https://mathworld.wolfram.com/Circle.html|access-date=2020-09-24|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ : < math > d=2r < /math > 
+ 
+ The [[circumference]] (meaning  " all the way around " ) of a circle is the line that goes around the center of the circle. Mathematicians use the letter  < math > c < /math >  for the length of this line. < ref > {{Cite web|title=Basic information about circles (Geometry, Circles)|url=https://www.mathplanet.com/education/geometry/circles/basic-information-about-circles|access-date=2020-09-24|website=Mathplanet|language=en}} < /ref > 
+ 
+ The number [[Pi| < math > \pi < /math > ]] (written as the [[Greek language|Greek]] [[letter]] ''[[Pi (letter)|pi]]'') is a very useful number. It is the length of the circumference divided by the length of the diameter ( < math > \pi < /math >  equals  < math > c < /math >  divided by  < math > d < /math > ). As a [[Fraction (mathematics)|fraction]] the number  < math > \pi < /math >  is equal to about  < math > \frac{22}{7} < /math >  or  < math > \frac{355}{113} < /math >  (which is closer) and as a number it is about  < math > 3.1415926536 < /math > . 
+ 
+ {| 
+ |- 
+ ||| < math > \pi=\frac cd < /math > 
+ |- 
+ | < math > \therefore\textrm{(therefore)} < /math > || < math > c=2\pi r < /math > 
+ |- 
+ | 
+ | < math > c=\pi d < /math > 
+ |} 
+ 
+ [[File:Circle_Area.svg|thumb|The area of the circle is equal to  < math > \pi < /math >  times the area of the gray square.]] 
+ 
+ The [[area]],  < math > A < /math > , inside a circle is equal to the radius multiplied by itself, then multiplied by  < math > \pi < /math >  ( < math > A < /math >  equals  < math > \pi < /math >  times  < math > r < /math >  times  < math > r < /math > ). 
+ 
+ : < math > A=\pi r^2 < /math > 
+ 
+ ==Calculating π== 
+ < math > \pi < /math >  can be measured by drawing a circle, then measuring its diameter ( < math > d < /math > ) and circumference ( < math > c < /math > ). This is because the circumference of a circle is always equal to  < math > \pi < /math >  times its diameter. < ref name= " :1 " / > 
+ 
+ : < math > \pi=\frac cd < /math > 
+ 
+ < math > \pi < /math >  can also be calculated by only using mathematical methods. Most methods used for calculating the value of  < math > \pi < /math >  have desirable mathematical properties. However, they are hard to understand without knowing [[trigonometry]] and [[calculus]]. However, some methods are quite simple, such as this form of the [[Gottfried Leibniz|Gregory-Leibniz]] [[series]]: 
+ 
+ : < math > \pi=\frac41-\frac43+\frac45-\frac47+\frac49-\frac{4}{11}+\cdots < /math > 
+ 
+ While that series is easy to write and calculate, it is not easy to see why it equals  < math > \pi < /math > . A much easier way to approach is to draw an imaginary circle of radius  < math > r < /math >  centered at the origin. Then any point  < math > (x,y) < /math >  whose distance  < math > d < /math >  from the origin is less than  < math > r < /math > , calculated by the [[Pythagorean theorem]], will be inside the circle: 
+ 
+ : < math > d=\sqrt{x^2+y^2} < /math > 
+ 
+ Finding a set of points inside the circle allows the circle's area  < math > A < /math >  to be estimated, for example, by using integer coordinates for a big  < math > r < /math > . Since the area  < math > A < /math >  of a circle is  < math > \pi < /math >  times the radius squared,  < math > \pi < /math >  can be approximated by using the following formula: 
+ 
+ : < math > \pi=\frac{A}{r^2} < /math > 
+ 
+ ==Calculating measures of a circle== 
+ 
+ ===Area=== 
+ Using the radius:  < math > A=\pi r^2=\frac{\tau r^2}{2} < /math > 
+ 
+ Using the diameter:  < math > A=\frac{\pi d^2}{4}=\frac{\tau d^2}{8} < /math > 
+ 
+ Using the circumference:  < math > A=\frac{c^2}{2\tau}=\frac{c^2}{4\pi} < /math > 
+ 
+ ===Circumference=== 
+ Using the radius:  < math > c=\tau r=2\pi r < /math > 
+ 
+ Using the diameter:  < math > c=\pi d=\frac{\tau d}{2} < /math > 
+ 
+ Using the area:  < math > c=\sqrt{2\tau A}=2\sqrt{\pi A} < /math > 
+ 
+ ===Diameter=== 
+ Using the radius:  < math > d=2r < /math > 
+ 
+ Using the circumference:  < math > d=\frac c\pi=\frac{2c}{\tau} < /math > 
+ 
+ Using the area:  < math > d=2\sqrt\frac A\pi=2\sqrt\frac{2A}{\tau} < /math > 
+ 
+ ===Radius=== 
+ Using the diameter:  < math > r=\frac d2 < /math > 
+ 
+ Using the circumference:  < math > r=\frac c\tau=\frac{c}{2\pi} < /math > 
+ 
+ Using the area:  < math > r=\sqrt\frac A\pi=\sqrt\frac{2A}{\tau} < /math > 
+ 
+ ==Related pages== 
+ * [[Semicircle]] 
+ * [[Sphere]] 
+ * [[Squaring the circle]] 
+ * [[Pi]] 
+ * [[Tau (mathematical constant)|Tau]] 
+ 
+ ==References== 
+ < references/ > 
+ 
+ ==Other websites== 
+ {{commons|Circle}} 
+ * [https://www.mathepower.com/en/circle.php Calculate the measures of a circle online] 
+ {{shapes}} 
+ [[Category:Shapes]] 
+ [[Category:Conic sections]]

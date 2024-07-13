@@ -1,0 +1,44 @@
+[[File:Sudoku-by-L2G-20050714.svg|thumb|right|200px|A 9x9 sudoku puzzle...]] 
+ [[File:Sudoku-by-L2G-20050714 solution.svg|right|thumb|200px|...and the solution (the numbers in red have been added to the grid)]] 
+ 
+ {{nihongo|'''''Sudoku'''''|数独|sūdoku}} (sometimes spelled as '''Su Doku''', but also called '''''Number Place''''' or '''''Nanpure''''') is a [[puzzle]] that is very popular in [[Japan]]. It was created in [[Indianapolis]] in [[1979]] by Howard Garns and it appeared in [[Dell Magazines]] afterwards. < ref > {{cite web|url=http://onlinesudoku.hu/math-games/|title=Sudoku Variations}} < /ref > 
+ 
+ Sudoku puzzles are solved by [[logic]] and no [[math]] is required. As seen on the right, it consists of a grid which is usually made up of nine [[row]]s, nine [[column]]s, and nine [[box]]es that are separated by thicker, darker lines. Some of these boxes will contain [[numeral]]s from 1 to 9. To solve the puzzle, a person must fill in all the empty squares without using the same numeral twice in each column, row, or box, and without changing the numerals that are already in the grid. 
+ 
+ These puzzles were created to be done using [[pencil]] and [[paper]], and there are many books that contain [[wikt:collection|collections]] of these puzzles with tips and [[Strategy|strategies]] for completing them. They also appear in [[newspaper]]s and [[magazine]]s: typically, a different puzzle appears every day and the solution is printed somewhere else or in the next issue. Later, small [[Handheld game console|handheld machines]] were created that [[wikt:generate|generate]] Sudoku puzzles for the user to solve. More recently, though, the game can be played on the [[Internet]] or on [[mobile app]]s. 
+ 
+ == Variations == 
+ There are many Sudoku variations that have been created since the original Sudoku's release.  The grid is most often 9 by 9, but can be different sizes, though, and separated into smaller grids in different ways. For example, there is a 6 by 6 grid with dark lines between the third and fourth columns and between two pairs of rows: the second and third rows, and the fourth and fifth rows. The numerals that must be filled in here are from 1 to 6. 
+ 
+ Because no [[arithmetic]] is needed to solve Sudoku puzzles, the numerals can be replaced with [[letter]]s or [[symbol]]s. It is only their [[position]] that changes the solution to the puzzle, not their [[wikt:value|value]]. 
+ 
+ On educational websites, such as Math Playground there are Sudoku games, such as 3-d Sudoku. 
+ 
+ === Jigsaw Sudoku === 
+ Jigsaw Sudoku (also called Squiggly Sudoku, Odd Sudoku or JigSaw Doku) is just like a regular Sudoku puzzle, except that instead of the lines being perfect, they are different. Like regular Sudoku puzzles, you have to complete the grid. 
+ 
+ === Samurai Sudoku === 
+ Samurai Sudoku is a Sudoku variation that has 5 overlapping Sudoku grids formed like a big X.  These puzzles are big and take a long time to complete.  Like regular Sudoku puzzles, you have to complete all 5 grids in order to complete the puzzle. 
+ 
+ === Mini Sudoku === 
+ Mini Sudoku is played on a 6x6 grid with 3x2 regions. The object is the same as in Sudoku, but the puzzle only uses the numbers 1 through 6. 
+ 
+ === Logic 5 === 
+ Logic 5 is another Sudoku variation that uses 5x5 grids instead of 3x3 grids, and are in use at the [[Sudoku World Championships]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * {{dmoz|Games/Puzzles/Brain_Teasers/Sudoku/|''Sudoku''}} – An active listing of ''Sudoku'' links. 
+ * [http://news.bbc.co.uk/2/hi/asia-pacific/6745433.stm Father of Sudoku puzzles next move] [[BBC]] 
+ * [http://www.opensky.ca/~jdhildeb/software/sudokugen/ Internet Sudoku Generator] 
+ * [http://bravo-games.com/sudoku.html Sudoku] {{Webarchive|url=https://web.archive.org/web/20090728205536/http://bravo-games.com/sudoku.html |date=2009-07-28 }} - flash game 
+ * [http://a-kat.com/programming/cpp/sudoku/sudoku.html Computer Program to solve and generate Sudoku puzzles] {{Webarchive|url=https://web.archive.org/web/20080521001722/http://www.a-kat.com/programming/cpp/sudoku/sudoku.html |date=2008-05-21 }} 
+ * [http://www.veryfreesudoku.com/ Free Sudoku Generator] {{Webarchive|url=https://web.archive.org/web/20081021085418/http://www.veryfreesudoku.com/ |date=2008-10-21 }} 
+ * [http://www.sudoku-coach.com Sudoku-Coach] {{Webarchive|url=https://web.archive.org/web/20160305021914/http://www.sudoku-coach.com/ |date=2016-03-05 }} Step-by-step help and training (Flash-player is required) 
+ * [http://the-sudoku.com Sudoku] - Simple Online sudoku Web Site 
+ * [http://www.eurosudoku.com ''Eurosudoku''] {{Webarchive|url=https://web.archive.org/web/20150108150713/http://www.eurosudoku.com/ |date=2015-01-08 }} - Free Sudoku Project 
+ * [https://dailysudokupuzzles.com/ Online Sudoku] 
+ 
+ [[Category:Puzzles]]

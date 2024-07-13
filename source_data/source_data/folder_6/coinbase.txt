@@ -1,0 +1,30 @@
+
+ {{Infobox company 
+ | name = Coinbase Global, Inc. 
+ | logo = Coinbase.svg 
+ | type = [[Public company]] 
+ | traded_as = {{ubl|{{NASDAQ|COIN}}|[[Russell 1000]] component}} 
+ | industry = [[Cryptocurrency]] 
+ | founded = {{Start date and age|2012|06}} in [[San Francisco]], California, U.S. < ref name= " jtimes " > {{cite web |url=https://www.japantimes.co.jp/news/2021/03/01/business/tech/coinbase-bitcoin-control/ |title=Coinbase mafia shows how tight a circle holds sway over Bitcoin |publisher=[[The Japan Times]] |date=March 1, 2021 |author=Matthew Leising |access-date=May 7, 2022 |archive-date=May 7, 2022 |archive-url=https://web.archive.org/web/20220507082552/https://www.japantimes.co.jp/news/2021/03/01/business/tech/coinbase-bitcoin-control/ |url-status=live}} < /ref > 
+ | founders = {{ubl|[[Brian Armstrong (businessman)|Brian Armstrong]]|[[Fred Ehrsam]]}} 
+ | location = [[Remote work|No physical offices]]{{efn|Legal address at [[Corporation Trust Center]]}} 
+ | area_served = 100+ countries 
+ | key_people = {{ubl|Brian Armstrong|([[Chairman]]  &  [[Chief Executive Officer|CEO]])|Emilie Choi|(President  &  [[Chief operating officer|COO]])|Alesia Haas|([[Chief financial officer|CFO]])}} 
+ | products = {{hlist|[[Bitcoin]]|[[Bitcoin Cash]]|[[Ethereum]]|[[Litecoin]]|[[Digital currency exchanger|exchange of digital assets]]}} 
+ | revenue = {{Decrease}} {{US$|3.19|link=yes}}{{nbsp}}billion (2022) 
+ | operating_income = {{Decrease}} {{US$|-2.7}} billion (2022) 
+ | net_income = {{Decrease}} {{US$|-2.6}} billion (2022) 
+ | assets = {{Increase}} {{US$|89.7}} billion (2022) 
+ | equity = {{Decrease}} {{US$|5.45}} billion (2022) 
+ | owner = Brian Armstrong (19%) 
+ | num_employees = 4,510 (2022) 
+ | website = https://www.coinbase.com/ 
+ | footnotes = {{notelist}} < ref name= " 10K " > {{cite web |url=https://www.sec.gov/ix?doc=/Archives/edgar/data/1679788/000167978823000031/coin-20221231.htm |title=Coinbase Global, Inc. 2022 Form 10-K Annual Report |publisher=[[U.S. Securities and Exchange Commission]] |date=February 21, 2022 }} < /ref > < ref name= " DEF14A " > {{cite web |url=https://www.sec.gov/Archives/edgar/data/1679788/000114036122015201/edge20001234x1_def14a.htm |title=Coinbase Global, Inc. 2022 Proxy Statement (Schedule 14A) |date=April 20, 2022 |publisher=[[U.S. Securities and Exchange Commission]] |access-date=August 12, 2022 |archive-date=August 12, 2022 |archive-url=https://web.archive.org/web/20220812053717/https://www.sec.gov/Archives/edgar/data/1679788/000114036122015201/edge20001234x1_def14a.htm |url-status=live}} < /ref > 
+ }} 
+ '''Coinbase''' is a company that lets people buy and sell cryptocurrency such as [[Bitcoin]]. It's a big company in the US and was started by two people in 2012. The company doesn't have a physical headquarters and all the employees work from home. In 2020, Coinbase decided to close its San Francisco office and operate entirely remotely due to the COVID-19 pandemic, which was a trend seen in many other tech companies at the time. < ref > {{Cite web|last=Leising|first=Matthew|date=2021-03-01|title=Coinbase mafia shows how tight a circle holds sway over Bitcoin|url=https://www.japantimes.co.jp/news/2021/03/01/business/tech/coinbase-bitcoin-control/|access-date=2023-03-27|website=The Japan Times|language=en-US}} < /ref > < ref > {{Cite news|date=2020-05-27|title=Coinbase Expands Institutional Services With Tagomi Purchase|language=en|work=Bloomberg.com|url=https://www.bloomberg.com/news/articles/2020-05-27/coinbase-expands-institutional-services-with-tagomi-purchase|access-date=2023-03-27}} < /ref > < ref > {{Cite web|title=Coinbase aims to support inclusion with a remote-first workforce|url=https://www.hrdive.com/news/coinbase-aims-to-support-inclusion-with-a-remote-first-workforce/596884/|access-date=2023-03-27|website=HR Dive|language=en-US}} < /ref > < ref > {{Cite web|last=Kost|first=Ryan|date=2022-05-23|title=TaskRabbit to close all office locations, including S.F. headquarters, as it moves to remote work model|url=https://www.sfchronicle.com/tech/article/taskrabbit-sf-remote-17188335.php|access-date=2023-03-27|website=San Francisco Chronicle|language=en-US}} < /ref > 
+ 
+ == References == 
+ < references / > 
+ 
+ [[Category:Cryptocurrency]] 
+ [[Category:American financial companies]]

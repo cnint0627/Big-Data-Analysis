@@ -1,0 +1,114 @@
+'''Algebra''' (from [[Arabic Language|Arabic]]: الجبر‎, transliterated  " al-jabr " , meaning  " reunion of broken parts " ) is a part of [[mathematics]]. It uses [[variable]]s to represent a value that is not yet known or can be replaced with any value. When an [[equals sign]] (=) is used, this is called an [[equation]]. A very simple equation using a variable is:  < math > 2+3=x < /math > . In this example,  < math > x=5 < /math > , or it could also be said that  " < math > x < /math >  equals five " . This is called ''solving for''  < math > x < /math > . < ref > {{cite web|title=Algebra Introduction|url=http://www.mathisfun.com/algebra/introduction|publisher=Math is Fun|accessdate=11 April 2013}} < /ref > 
+ 
+ Besides equations, there are [[Inequality|inequalities]] (''less than'' and ''greater than''). A special type of equation is called the function. This is often used in making [[graph]]s because it always turns one input into one output. 
+ 
+ Algebra can be used to solve real [[problem]]s because the rules of algebra work in real life and numbers can be used to represent the values of real things. [[Physics]], [[engineering]] and [[computer programming]] are areas that use algebra all the time. It is also useful to know in [[surveying]], [[construction]] and [[business]], especially [[accounting]]. 
+ 
+ People who do algebra use the rules of [[number]]s and mathematical [[Operation (mathematics)|operations]] used on numbers. The simplest are [[Operation (mathematics)#Addition|adding]], [[Operation (mathematics)#Subtraction|subtracting]], [[Operation (mathematics)#Multiplication|multiplying]], and [[Operation (mathematics)#Division|dividing]]. More advanced operations involve [[Operation (mathematics)#Exponentiation|exponent]]s, starting with [[Square (algebra)|squares]] and square [[Operation (mathematics)#Roots|root]]s. 
+ 
+ Algebra was first used to solve [[Algebraic equation|equations]] and [[Inequality|inequalities]]. Two examples are [[linear equation]]s (the equation of a straight line,  < math > y=mx+b < /math >  or  < math > y=mx+c < /math > ) and [[quadratic equation]]s, which has [[variable]]s that are [[Square (algebra)|squared]] (multiplied by itself, for example:  < math > 2\cdot2 < /math > ,  < math > 3\cdot3 < /math > , or  < math > x\cdot x < /math > ). 
+ 
+ == History == 
+ Early forms of algebra were developed by the [[Babylon]]ians and [[Ancient Greece|Greek]] [[Geometry|geometers]] such as [[Hero of Alexandria]]. However the word  " algebra "  is a [[Latin]] form of the [[Arabic language|Arabic]] word ''Al-Jabr'' ( " casting " ) and comes from a mathematics book ''Al-Maqala fi Hisab-al Jabr wa-al-Muqabilah'', ( " Essay on the Computation of Casting and Equation " ) written in the [[9th century]] by a [[Persian language|Persian]] mathematician, [[Al-Khwarizmi|Muhammad ibn Mūsā al-Khwārizmī]], who was a [[Muslims|Muslim]] born in [[Khwarizm]] in [[Uzbekistan]]. He flourished under Al-Ma'moun in [[Baghdad]], [[Iraq]] through 813-833 CE, and died around 840 CE. The book was brought into [[Europe]] and [[translation|translated]] into [[Latin]] in the [[12th century]]. The book was then given the name  " ''Algebra'' " . (The ending of the mathematician's name, al-Khwarizmi, was changed into a word easier to say in Latin, and became the [[English language|English]] word ''[[algorithm]]''). < ref > {{cite web|title=History of Algebra|url=http://www.ucs.louisiana.edu/~sxw8045/history.htm|publisher=UCS Louisiana|accessdate=11 April 2013|archive-date=9 October 2014|archive-url=https://web.archive.org/web/20141009100628/http://www.ucs.louisiana.edu/~sxw8045/history.htm|url-status=dead}} < /ref > 
+ 
+ ==Examples== 
+ 
+ Here is a simple example of an algebra problem: 
+ 
+ :Sue has 12 candies, and Ann has 24 candies. They decide to share so that they have the same number of candies. How many candies will each have? 
+ 
+ These are the steps you can use to solve the problem: 
+ 
+ # To have the same number of candies, Ann has to give some to Sue. Let  < math > x < /math >  represent the number of candies Ann gives to Sue. 
+ # Sue's candies plus  < math > x < /math >  must be the same as Ann's candies minus '' < math > x < /math > ''. This is written as:  < math > 12+x=24-x < /math > 
+ # Subtract 12 from both sides of the equation. This gives:  < math > x=12-x < /math > . (What happens on one side of the equal sign must happen on the other side too, for the equation to still be true. So in this case when 12 was subtracted from both sides, there was a middle step of  < math > 12+x-12=24-x-12 < /math > . After a person is comfortable with this, the middle step is not written down.) 
+ # Add  < math > x < /math >  to both sides of the equation. This gives:  < math > 2x=12 < /math > 
+ # Divide both sides of the equation by 2. This gives  < math > x=6 < /math > . The answer is six. This means that if Ann gives Sue 6 candies, they will have the same number of candies. 
+ # To check this, put 6 back into the original equation wherever  < math > x < /math >  was:  < math > 12+6=24-6 < /math > 
+ # This gives  < math > 18=18 < /math > , which is true. They each now have 18 candies. 
+ 
+ With practice, algebra can be used when faced with a problem that is too hard to solve any other way. Problems such as building a freeway, designing a cell phone, or finding the cure for a disease all require algebra. 
+ 
+ == Writing algebra == 
+ As in most parts of [[mathematics]], [[Operation (mathematics)#Addition|adding]]  < math > y < /math >  to  < math > z < /math >  (or  < math > y < /math >  plus  < math > z < /math > ) is written as  < math > y+z < /math > ; 
+ 
+ [[Operation (mathematics)#Subtraction|subtracting]]  < math > z < /math >  from  < math > y < /math >  (or  < math > y < /math >  minus  < math > z < /math > ) is written as  < math > y-z < /math > ; 
+ 
+ and [[Operation (mathematics)#Division|dividing]]  < math > y < /math >  by  < math > z < /math >  (or  < math > y < /math >  over  < math > z < /math > ) is written as  < math > y/z < /math >  or  < math > \frac yz < /math > . 
+ 
+ In algebra, multiplying  < math > y < /math >  by  < math > z < /math >  (or  < math > y < /math >  times  < math > z < /math > ) can be written in 3 different ways:  < math > y\cdot z < /math > ,  < math > y(z) < /math >  or just  < math > yz < /math > . All of these notations mean the same thing:  < math > y < /math >  times  < math > z < /math > . The symbol  " < math > \times < /math > "  used in arithmetic is not used in algebra, because it looks too much like the letter  < math > x < /math > , which is often used as a variable. 
+ 
+ When we multiply a [[number]] and a [[variable]] in algebra, we can simply write the number in front of the letter:  < math > 5\cdot y\iff5y < /math > . When the number is 1, then it is not written because 1 times any number is that number ( < math > 1\cdot y=y < /math > ) and so it is not needed. And when it is 0, we can completely remove the terms, because 0 times any number is zero ( < math > 0\cdot y=0 < /math > ). 
+ 
+ As a side note, you do not have to use the letters  < math > x < /math >  or  < math > y < /math >  in algebra. Variables are just symbols that mean some unknown number or value, so you can use any letter for a variable (except  < math > e < /math >  ([[e (mathematical constant)|Euler's number]]) and  < math > i < /math >  ([[Imaginary unit]]), because these are [[mathematical constant]]s).  < math > x < /math >  and  < math > y < /math >  are the most common, though. 
+ 
+ == Functions and Graphs == 
+ [[File:Linear equation for y=3x+1.png|thumb|Linear equation for  < math > y=3x+1 < /math > ]] 
+ An important part of algebra is the study of [[Function (mathematics)|functions]], since they often appear in equations that we are trying to solve. A function is like a machine you can put a [[number]] (or numbers) into and get a certain number (or numbers) out. When using functions, [[graph]]s can be powerful tools in helping us to study the solutions to equations. 
+ 
+ A graph is a picture that shows all the values of the variables that make the equation or inequality true. Usually this is easy to make when there are only one or two variables. The graph is often a [[line]], and if the line does not bend or go straight up-and-down it can be described by the basic formula  < math > y=mx+b < /math > . The variable  < math > b < /math >  is the [[y-intercept]] of the graph (where the line crosses the vertical axis) and  < math > m < /math >  is the slope or steepness of the line. This formula applies to the [[Cartesian coordinate system|coordinates]] of a graph, where each [[Point (geometry)|point]] on the line is written  < math > (x,y) < /math > . 
+ 
+ In some math problems like the equation for a line, there can be more than one variable ( < math > x < /math >  and  < math > y < /math >  in this case). To find points on the line, one variable is changed. The variable that is changed is called the  " independent "  variable. Then the math is done to make a number. The number that is made is called the  " dependent "  variable. Most of the time the independent variable is written as  < math > x < /math >  and the dependent variable is written as  < math > y < /math > , for example, in  < math > y=3x+1 < /math > . This is often put on a graph, using an  < math > x < /math >  axis (going left and right) and a  < math > y < /math >  axis (going up and down). It can also be written in function form:  < math > f(x)=3x+1 < /math > . So in this example, we could put in 5 for  < math > x < /math >  and get  < math > y=16 < /math > . Put in 2 for  < math > x < /math >  would get  < math > y=7 < /math > . And 0 for  < math > x < /math >  would get  < math > y=1 < /math > . So there would be a line going through the points  < math > (5,16) < /math > ,  < math > (2,7) < /math > , and  < math > (0,1) < /math >  as seen in the graph to the right. 
+ 
+ If  < math > x < /math >  has a power of 1, it is a straight line. If it is squared or some other power, it will be curved. If it uses an inequality ( < math > < < /math >  or  < math > > < /math > ), then usually part of the graph is shaded, either above or below the line. 
+ 
+ == Rules == 
+ In algebra, there are a few rules that can be used for further understanding of equations. These are called the rules of algebra. While these rules may seem senseless or obvious, it is wise to understand that these properties do not hold throughout all branches of mathematics. Therefore, it will be useful to know how these axiomatic rules are declared, before taking them for granted. Before going on to the rules, reflect on two definitions that will be given. 
+ # Opposite: the [[Operation (mathematics)#Additive inverses (opposites)|opposite]] of  < math > a < /math >  is  < math > -a < /math > . 
+ # Reciprocal: the [[Operation (mathematics)#Multiplicative inverses (reciprocals)|reciprocal]] of  < math > a < /math >  is  < math > \bar a < /math > . 
+ 
+ === Commutative property of addition === 
+ ''[[Commutative property|Commutative]]'' means that a function has the same result if the numbers are swapped around. In other words, the order of the terms in an equation does not matter. When two terms (addends) are being added, the ''commutative property of addition'' is applicable. In algebraic terms, this gives  < math > a+b=b+a < /math > . 
+ 
+ Note that this does not apply for subtraction (i.e.  < math > a-b\ne b-a < /math >  except if  < math > a=b < /math > ). 
+ 
+ === Commutative property of multiplication === 
+ When two terms (factors) are being multiplied, the ''commutative property of multiplication'' is applicable. In algebraic terms, this gives  < math > a\cdot b=b\cdot a < /math > . 
+ 
+ Note that this does not apply for division (i.e.  < math > \frac ab\ne\frac ba < /math > , when  < math > a\neq0 < /math >  and  < math > b\neq0 < /math > , except if  < math > a=b < /math > ). 
+ 
+ === Associative property of addition === 
+ ''[[Associativity|Associative]]'' refers to the grouping of numbers. The associative property of addition implies that, when adding three or more terms, it doesn't matter how these terms are grouped. Algebraically, this gives  < math > a+(b+c)=(a+b)+c < /math > . Note that this does not hold for subtraction, e.g.  < math > 1-(2-3)\neq(1-2)-3 < /math >  (see [[distributive property]]). 
+ 
+ === Associative property of multiplication === 
+ The associative property of multiplication implies that, when multiplying three or more terms, it doesn't matter how these terms are grouped. Algebraically, this gives  < math > a(bc)=(ab)c < /math > . Note that this does not hold for division, e.g.  < math > 1/(2/4)\neq(1/2)/4 < /math > . 
+ 
+ === Distributive property === 
+ The distributive property states that the multiplication of a term by another term can be distributed. For instance:  < math > a(b+c)=ab+ac < /math > . (Do not confuse this with the associative properties! For instance:  < math > a(b+c)\ne(ab)+c < /math > .) 
+ 
+ === Additive identity === 
+ ''[[Identity Property|Identity]]'' refers to the property of a number that it is equal to itself. In other words, there exists an operation of two numbers so that it equals the variable of the sum. The additive identity property states that any number plus 0 is that number:  < math > a+0=a < /math > . This also holds for subtraction:  < math > a-0=a < /math > . 
+ 
+ === Multiplicative identity === 
+ The multiplicative identity property states that any number times 1 is that number:  < math > a\cdot1=a < /math > . This also holds for division:  < math > \frac a1=a < /math > . 
+ 
+ === Additive inverse property === 
+ The additive inverse property is somewhat like the inverse of the additive identity. When we add a number and its opposite, the result is 0. Algebraically, it states the following:  < math > a+-a=0 < /math > , which is the same as  < math > a-a=0 < /math > . For example, the additive inverse (or opposite) of 1 is -1. 
+ 
+ === Multiplicative inverse property === 
+ The multiplicative inverse property means that when we multiply a number and its reciprocal, the result is 1. Algebraically, it states the following:  < math > a\cdot\bar a=1 < /math > , which is the same as  < math > \frac aa=1 < /math > . For example, the multiplicative inverse (or reciprocal) of 2 is 1/2. To get the reciprocal of a fraction, switch the numerator and the denominator: the reciprocal of  < math > \frac23 < /math >  is  < math > \frac32 < /math > . 
+ 
+ ==Advanced Algebra== 
+ In addition to  " [[elementary algebra]] " , or basic algebra, there are advanced forms of algebra, taught in colleges and universities, such as [[abstract algebra]], [[linear algebra]], and universal algebra. This includes how to use a [[matrix (mathematics)|matrix]] to solve many [[linear equation]]s at once. [[Abstract algebra]] is the study of things that are found in equations, going beyond numbers to the more abstract with groups of numbers. 
+ 
+ Many math problems are about [[physics]] and [[engineering]]. In many of these physics problems [[time]] is a variable. The letter used for time is  < math > t < /math > . Using the basic ideas in algebra can help reduce a math problem to its simplest form making it easier to solve difficult problems. Energy is  < math > e < /math > , force is  < math > f < /math > , mass is  < math > m < /math > , acceleration is  < math > a < /math >  and [[speed of light]] is sometimes  < math > c < /math > . This is used in some famous equations, like  < math > f=ma < /math >  and  < math > e=mc^2 < /math >  (although more complex math beyond algebra was needed to come up with that last equation). 
+ 
+ ==Related pages== 
+ * [[List of mathematics topics]] 
+ * [[Order of operations]] 
+ * [[Parabola]] 
+ * [[Computer Algebra System]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{Wiktionary}} 
+ {{Wikibooks}} 
+ * [https://khanacademy.org/math/algebra Khan Academy: Algebra theory and practice] 
+ * [https://algebrarules.com algebrarules.com: A free place to learn the basics of Algebra] 
+ * [https://khanacademy.org/math/algebra/introduction-to-algebra/overview_hist_alg/v/origins-of-algebra Khan Academy: Origins of Algebra, free online micro lectures]{{Webarchive|url=https://web.archive.org/web/20130509005401/https://www.khanacademy.org/math/algebra/introduction-to-algebra/overview_hist_alg/v/origins-of-algebra |date=2013-05-09 }} 
+ 
+ {{Areas of mathematics}} 
+ 
+ [[Category:Algebra]]

@@ -1,0 +1,18 @@
+[[Image:OblateSpheroid.PNG|200px|right|thumb|Flattened sphere (exaggerated)]] 
+ 
+ The '''geoid''' is a shape like the surface of the [[Earth]]. It is a [[3-D]] [[geometry|geometrical]] shape like an [[Orange (fruit)|orange]]. Shapes of this kind are called [[oblate spheroid]]s, which is a kind of [[ellipsoid]].  
+ 
+ The geoid, however, is a very special kind of oblate spheroid. It is [[definition|defined]] as follows: 
+ 
+ :The geoid is the shape that the surface of the [[oceans]] would take under the influence of Earth's [[gravitation]] and [[rotation]] alone, in the absence of other influences such as winds and [[tides]]. 
+ 
+ It was defined by [[Carl Friedrich Gauss|Gauss]], in 1828. < ref > {{Cite web|url=https://www.ngs.noaa.gov/GEOID/geoid_def.html|title=What is the geoid?|website=www.ngs.noaa.gov|access-date=2017-10-08}} < /ref >  It is often described as the true physical shape of the Earth. < ref name= " conrad " > Conrad C. (no date)  Lecture 3: Earth's figure, gravity, and geoid. [http://www.soest.hawaii.edu/GG/FACULTY/conrad/classes/GG612_S11/Lecture_03.pdf] < /ref >  The study of Earth's measurements and shapes is called [[geodesy]]. 
+ 
+ For many practical purposes, a simpler shape is used because that makes calculations easier. That shape is called a [[ellipsoid|reference ellipsoid]]. In basic education, the shape of the Earth is described as being like an orange, a sphere but wider round the equator. This shape is produced by all [[celestial]] spinning spheres, such as [[stars]] and [[planets]]. The details differ somewhat in each individual case. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Earth sciences]] 
+ [[Category:Three-dimensional shapes]] 
+ [[Category:Geodesy]]

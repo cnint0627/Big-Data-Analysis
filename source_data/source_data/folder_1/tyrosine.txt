@@ -1,0 +1,68 @@
+{{chembox 
+ | Verifiedimages = changed 
+ | Verifiedfields = changed 
+ | Watchedfields = changed 
+ | verifiedrevid = 418296962 
+ | ImageFile = L-Tyrosin - L-Tyrosine.svg 
+ | ImageSize = 
+ | ImageCaption =  < small > L < /small > -Tyrosine 
+ | ImageFile_Ref = {{chemboximage|correct|??}} 
+ | ImageName = Skeletal formula of the L-isomer 
+ | ImageFile1 = L-Tyrosin phys.svg 
+ | ImageCaption1 =  < small > L < /small > -Tyrosine at physiological pH 
+ | IUPACName = (''S'')-Tyrosine 
+ | OtherNames =  < small > L < /small > -2-Amino-3-(4-hydroxyphenyl)propanoic acid 
+ |Section1={{Chembox Identifiers 
+ | UNII_Ref = {{fdacite|changed|FDA}} 
+ | UNII = 42HK56048U 
+ | IUPHAR_ligand = 4791 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C9H11NO3/c10-8(9(12)13)5-6-1-3-7(11)4-2-6/h1-4,8,11H,5,10H2,(H,12,13)/t8-/m0/s1 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = OUYCCCASQSFEME-QMMMGPOBSA-N 
+ | CASNo = 60-18-4 
+ | CASNo_Comment = ( < small > L < /small > ) 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 5833 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 925 
+ | PubChem = 1153 
+ | DrugBank_Ref = {{drugbankcite|changed|drugbank}} 
+ | DrugBank = DB03839 
+ | ChEBI_Ref = {{ebicite|changed|EBI}} 
+ | ChEBI = 58315 
+ | SMILES = N[C@@H](Cc1ccc(O)cc1)C(O)=O 
+ | SMILES1 = [NH3+][C@@H](Cc1ccc(O)cc1)C([O-])=O 
+ | SMILES1_Comment = [[Zwitterion]] 
+ }} 
+ |Section2={{Chembox Properties 
+ | C=9 | H=11 | N=1 | O=3  
+ | Appearance =  
+ | Density =  
+ | MeltingPt =  
+ | BoilingPt =  
+ | Solubility = .0453 g/100 mL 
+ | MagSus = -105.3·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol }} 
+ |Section3={{Chembox Hazards 
+ | NFPA-H = 1 
+ | NFPA-F = 1 
+ | NFPA-R = 0 
+ | MainHazards =  
+ | FlashPt =  
+ | AutoignitionPt = }} 
+ }} 
+ '''Tyrosine''' ('''Tyr''' or '''Y''' < ref > {{cite web | url = http://www.chem.qmul.ac.uk/iupac/AminoAcid/AA1n2.html | title = Nomenclature and Symbolism for Amino Acids and Peptides | publisher = IUPAC-IUB Joint Commission on Biochemical Nomenclature | year = 1983 | access-date = 5 March 2018 | archive-url = https://web.archive.org/web/20081009023202/http://www.chem.qmul.ac.uk/iupac/AminoAcid/AA1n2.html | archive-date = 9 October 2008 | url-status = dead }} < /ref > ) or '''4-hydroxyphenylalanine''' is an [[amino acid]]. 
+ 
+ Tyrosine is one of the 20 standard amino acids used by [[cell (biology)|cells]] to [[protein biosynthesis|make proteins]]. It is a [[non-essential amino acid]], meaning the body can make it. Its [[codon]]s are UAC and UAU. 
+ 
+ Tyrosine can be synthesized in the body from [[phenylalanine]]. It is also found in many high-[[protein]] food products such as [[Chicken (food)|chicken]], [[Turkey (bird)|turkey]], [[fish]], [[milk]], [[yogurt]], [[cottage cheese]], [[cheese]], [[peanut]]s, [[almond]]s, [[pumpkin]] seeds, [[sesame]] seeds, [[soy]] products, [[lima bean]]s, [[avocado]]s, [[bananas]] and eggs. < ref > {{cite web|title=Tyrosine|url=http://www.umm.edu/altmed/articles/tyrosine-000329.htm|work=University of Maryland Medical Center|access-date=2011-03-17|archive-date=2020-04-06|archive-url=https://web.archive.org/web/20200406140728/http://www.umm.edu/altmed/articles/tyrosine-000329.htm|url-status=dead}} < /ref > 
+ 
+ It is called '''tyrosyl''' when referred to as a [[functional group]] or side chain. < ref > {{Cite web|url=http://www.biology.arizona.edu/biochemistry/problem_sets/aa/Tyrosine.html|title=Amino Acids - Tyrosine|website=www.biology.arizona.edu|access-date=2018-01-31}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ {{Proteinogenic amino acids}} 
+ {{Amino acid metabolism intermediates}} 
+ 
+ [[Category:Amino acids]]

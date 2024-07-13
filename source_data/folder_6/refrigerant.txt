@@ -1,0 +1,62 @@
+[[File:Cycle Optimizer.png|thumb|Refrigeration cycle]] 
+ [[File:R407C container.png|thumb|A can of [[R407c]] refrigerant.]] 
+ [[File:HVAC system diagram.jpg|thumb|A basic diagram of a HVAC system]] 
+ A '''refrigerant''' is a [[chemical substance]] that is found in an [[air conditioner]], a [[refrigerator]], and in other refrigeration equipment. Refrigerants are chosen for the ease of converting them from [[liquid]] to [[vapor]] or vice versa, depending on their temperature and pressure. Most refrigerants in their liquid state will [[evaporate]] very fast if at [[atmospheric pressure]]. They can be classed as [[Chlorofluorocarbon|CFC]], [[hydrochlorofluorocarbon|HCFC]], [[hydrofluorocarbon|HFC]], [[Hydrocarbon|HC]], or [[Hydrofluoroolefin|HFO]] along with less common types. 
+ 
+ In refrigeration equipment, a refrigerant vapor is compressed by a [[compressor]]. Compression makes it hot. It enters a [[condenser]], where it condenses into a liquid.  The refrigerant then passes through a part called a metering device, or an expansion device (there are several types of this part) where the pressure is reduced to a point where the liquid begins to boil. At this point, the refrigerant is very cold and it enters an [[evaporator]], where it absorbs heat from the air passing over it. By the time the refrigerant leaves the evaporator, it is all a vapor again, and it goes back to the compressor where the cycle begins again. This is called the refrigeration cycle. This is one example of the use of a refrigerant, in a residential air conditioning system. 
+ 
+ ==Phase out of chlorine-based refrigerants== 
+ Older [[chlorine]] based refrigerants such as [[R22]] have been phased out due to [[ozone depletion]]. The chlorine molecule in them was found to be depleting the [[ozone]] molecules in the atmosphere.  < ref > {{cite web 
+ | url = http://www.atm.ch.cam.ac.uk/tour/part3.html 
+ | title = Part III. The Science of the Ozone Hole 
+ | accessdate = 2007-03-05}} 
+ < /ref >   < ref > {{cite web |author=Andino, Jean M. 
+ | url = http://www.sciam.com/article.cfm?id=chlorofluorocarbons-cfcs 
+ | title = Chlorofluorocarbons (CFCs) are heavier than air, so how do scientists suppose that these chemicals reach the altitude of the ozone layer to adversely affect it? 
+ | date=21 October 1999  |publisher=Sci. Am.}} 
+ < /ref >  As a result, the [[Montreal Protocol]]  has been adopted. The [[treaty]] bans the production of CFCs, halons as and other ozone-depleting chemicals such as [[carbon tetrachloride]] and [[1,1,1-Trichloroethane|trichloroethane]]. 
+ 
+ {| class=wikitable 
+ |+ Types of Refrigerants  < ref > {{Cite web|url=https://www.coolingpost.com/world-news/refrigerant-blends-to-challenge-hydrocarbon-efficiencies/|title=Refrigerant blends to challenge hydrocarbon efficiencies|date=22 December 2019}} < /ref > 
+ !Type!!Meaning!!Atoms in the Molecule 
+ |- 
+ |CFC||[[Chlorofluorocarbon]]||rowspan=2|Cl, F, C 
+ |- 
+ |CFO||[[Chlorofluorocarbon|Chlorofluoroolefin]] 
+ |- 
+ |HCFC||[[Chlorofluorocarbon|Hydrochlorofluorocarbon]]||rowspan=2|H, Cl, F, C 
+ |- 
+ |HCFO||[[Chlorofluorocarbon|Hydrochlorofluoroolefin]] 
+ |- 
+ |HFC||[[Organofluorine chemistry#Hydrofluorocarbons|Hydrofluorocarbon]]||rowspan=2|H, F, C 
+ |- 
+ |HFO||[[Hydrofluoroolefin]] 
+ |- 
+ |HCC||[[Organochloride|Hydrochlorocarbon]]||rowspan=2|H, Cl, C 
+ |- 
+ |HCO||[[Organochloride|Hydrochloroolefin]] 
+ |- 
+ |HC||[[Hydrocarbon]]||rowspan=2|H, C 
+ |- 
+ |HO||[[Alkene|Hydroolefin (Alkene)]] 
+ |- 
+ |PFC||[[Fluorocarbon|Perfluorocarbon]]||rowspan=2|F, C 
+ |- 
+ |PFO||[[Fluorocarbon|Perfluoroolefin]] 
+ |- 
+ |PCC||[[Organochloride|Perchlorocarbon]]||rowspan=2|Cl, C 
+ |- 
+ |PCO||[[Organochloride|Perchloroolefin]] 
+ |- 
+ |H||[[Halomethane|Halon]]/[[Haloalkane]]||Br, Cl (in some but not all), F, H (in some but not all), C 
+ |} 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Related pages== 
+ *[[Freon]], an old class of refrigerants 
+ 
+ {{HVAC}} 
+ [[Category:Chemicals]] 
+ [[Category:HVAC]]

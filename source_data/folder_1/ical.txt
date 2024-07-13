@@ -1,0 +1,60 @@
+{{lowercase}} 
+ {{Infobox Software 
+ | name                   = iCal 
+ | developer              = [[Apple Inc.]] 
+ | released               = [[September 10]] [[2002]] 
+ | latest release version = 4.0.1 (1374) 
+ | latest release date    = [[November 9]], [[2009]] 
+ | operating system       = [[macOS]] 
+ | genre                  = Electronic calendar 
+ | license                = [[Proprietary software|Proprietary]] 
+ | website                = [https://www.apple.com/macosx/what-is-macosx/mail-ical-address-book.html iCal: A powerful desktop calendar] 
+ }} 
+ '''iCal''' is a personal [[calendar]] [[Application software|application]] made by [[Apple Inc.]] that runs on the [[macOS]] [[operating system]]. iCal was the first calendar application for macOS to offer support for multiple [[calendar]]s and the ability to publish/subscribe calendars to [[WebDAV]] server. 
+ 
+ Originally released as a free download for [[Mac OS]] X v10.2 on [[September 10]] [[2002]], with the release of Mac OS X v10.3 it was bundled with the operating system as iCal 1.5.  Version 2 of iCal was released as part of Mac OS X v10.4, Version 3 with Mac OS X v10.5 and Version 4 as part of Mac OS X v10.6. 
+ 
+ Apple [http://www.brownbearsw.com/ical/icalfaq.html#thename licensed]  the iCal name from [http://www.brownbearsw.com/ Brown Bear Software], who  used it for their [http://www.brownbearsw.com/ical/ iCal application] since 1997. 
+ 
+ iCal development is quite different from other Apple software because it was designed independently by a small French team working  " secretly "  in [[Paris]], led by Jean-Marie Hullot, a friend of [[Steve Jobs]]. iCal's development has been transferred to Apple US headquarters in [[Cupertino, California|Cupertino]]. < ref > {{cite web | last = McLean | first = Prince | title = Road to Mac OS X Leopard: iCal 3.0 | work = AppleInsider | date = 17 October 2007 | url = http://www.appleinsider.com/articles/07/10/17/road_to_mac_os_x_leopard_ical_3_0.html & page=2 | accessdate = 2007-11-02 | archive-date = 2007-10-19 | archive-url = https://web.archive.org/web/20071019015944/http://www.appleinsider.com/articles/07/10/17/road_to_mac_os_x_leopard_ical_3_0.html%26page%3D2 | url-status = dead }} < /ref > 
+ 
+ ==Features== 
+ *It tracks events and [[appointment]]s, allows multiple calendar views (such as calendars for  " home " ,  " work " ) to quickly identify conflicts and free time. 
+ *It is integrated with [[MobileMe]], so calendars can be shared and synced with other devices, such as [[Personal computer|PCs]], [[IPhone|iPhones]], and [[iPod]] touch, over the [[Internet]].  
+ *Users can [[subscribe]] to other calendars so they can keep up with friends and colleagues, and other things such as athletic schedules and television programs. 
+ *iCal allows notification of upcoming events either on screen, by [[e-mail]], [[Short message service|SMS]], or Pager. There is also a third-party [[Dashboard (software)|Dashboard]] widget called [http://www.benkazez.com/icalevents/ iCal Events] that allows notification of upcoming events using Dashboard. 
+ * iCal integrates Apple Sync Services to sync its data with MobileMe, devices such as [[Personal digital assistant|PDA]], [[iPod]], [[iPhone]] or other mobile phones via [[iSync]] and third party software. 
+ * iCal supports the use of the iCalendar format.  It does not support the older vCalendar 1.0 format. 
+ ===New in Version 3=== 
+ * Setting to let iCal set auto-alarms for each event created. 
+ * Redesigned user interface 
+ * Inline event editing 
+ * Ability to turn off alarms for all events 
+ * Use a CalDAV(WebDAV) account to store and keep calendars in sync on a CalDAV server. 
+ * The date on the [[icon (computing)|icon]] in the [[Dock (computing)|Dock]] displays the current date all the time. (Until version 3, iCal's icon displayed [[July 17]]—the date iCal premiered in 2002 at the Macworld Expo—by default until the program was run. < ref > {{cite web|url=https://gizmodo.com/fun-fact-time-icals-birthday-is-today-279393|title=Fun Fact Time: iCal's Birthday is Today|first=Jason|last=Chen|website=Gizmodo}} < /ref > ) 
+ ===New in Version 4=== 
+ * Microsoft Exchange Server 2007 support  < ref > {{cite web|url=https://www.apple.com/macos/what-is/|title=macOS - What is macOS|website=Apple}} < /ref > 
+ * Refined [[user interface]] (particularly for multiple events management) 
+ ===Bugs=== 
+ It has been reported that some users of iCal who have their calendar on a CalDAV server can not view or add events to their calendar. This issue is specific to [[Google Calendar]] users. < ref > {{cite web|url=https://support.google.com/calendar/answer/99358?visit_id=636857341194425881-3060961537 & rd=2|title=See Google Calendar events on Apple Calendar - Computer - Calendar Help|website=support.google.com}} < /ref > 
+ 
+ The release of Snow Leopard introduced several bugs into Snow Leopard, with regard to iCal alarms. < ref > {{Cite web |url=http://discussions.apple.com/forum.jspa?forumID=903 |title=Apple - Support - Discussions - iCal |access-date=2009-12-21 |archive-date=2010-01-14 |archive-url=https://web.archive.org/web/20100114010423/http://discussions.apple.com/forum.jspa?forumID=903 |url-status=dead }} < /ref >  These problems include alarms not firing; < ref > http://discussions.apple.com/thread.jspa?messageID=10310088{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  all alarms being set to one fixed date and time in the past, < ref > http://discussions.apple.com/message.jspa?messageID=10533200#10533200{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  preventing them from firing; alarms from repeat events being fired for all historic occurrences of that repeated event, resulting in dozens of alarms for one event. < ref > http://discussions.apple.com/thread.jspa?threadID=2140555 & start=0 & tstart=0{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref >  Updates to Snow Leopard 10.6.1 and 10.6.2 have not addressed these problems. 
+ 
+ iCal supports times zones, i.e.: if the function is enabled, and the computer's time zone changes, all the events in iCal are shifted to compensate for the time zone difference. The bug is that this function also occurs when it is turned off, therefore, whenever the computer's time zone changes, all the events in iCal shift as well.  < ref > {{cite web|url=https://www.macintouch.com/readerreports/ical/topic4854.html|title=iCal: Timezones|website=www.macintouch.com|access-date=2019-02-14|archive-date=2012-12-01|archive-url=https://web.archive.org/web/20121201011915/http://www.macintouch.com/readerreports/ical/topic4854.html|url-status=dead}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [https://www.apple.com/pr/library/2002/jul/17ical.html New Software Lets Users Manage Multiple Calendars  &  Share Calendars Over The Internet] - Apple's July 2002 press release introducing iCal 
+ * [https://www.apple.com/pr/library/2002/sep/10ical.html New Application to Manage  &  Share Multiple Calendars Now Available for Free Download] - Apple's September 2002 press release announcing availability of iCal 
+ * [http://www.calconnect.org Calendar and Scheduling Consortium] part of next version of iCal Server (Leopard) 
+ * [http://www.robertblum.com/articles/2007/04/11/news-from-icalfix-061-out iCalFix] {{Webarchive|url=https://web.archive.org/web/20100322205355/http://www.robertblum.com/articles/2007/04/11/news-from-icalfix-061-out |date=2010-03-22 }} - iCal extension that automatically adds alarms to newly created events. 
+ * [http://wiki.modularity.net.au/ical4j/index.php?title=Main_Page ICal4j] {{Webarchive|url=https://web.archive.org/web/20090117151655/http://wiki.modularity.net.au/ical4j/index.php?title=Main_Page |date=2009-01-17 }} - ICal Java library (with usage examples) 
+ * [http://www.kerio.com/kms_mac.html Delegate calendars with Outlook, Entourage, and web mail users] {{Webarchive|url=https://web.archive.org/web/20090518072750/http://www.kerio.com/kms_mac.html |date=2009-05-18 }} -  through Kerio MailServer. 
+ * [http://opensolaris.free.fr/icalds/ Perl script] {{Webarchive|url=https://web.archive.org/web/20100727125136/http://opensolaris.free.fr/icalds/ |date=2010-07-27 }} and [http://blogs.sun.com/openomics/entry/releasing_icalds_2_1 instructions] to subscribe from iCal to a Sun Calendar Server and subsequently sync it to mobile devices through iSync 
+ * [https://www.apple.com/downloads/macosx/calendars/ Apple iCal calendars] 
+ * [http://www.geody.com/calendars_dload.php Geody iCal and csv calendars] - Free (CC-by-sa) calendars 
+ 
+ [[Category:Apple software]] 
+ [[Category:MacOS]]

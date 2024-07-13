@@ -1,0 +1,12 @@
+[[File:AlmaLinux Icon Logo.svg|thumb|AlmaLinux logo]] 
+ '''AlmaLinux''' is a distribution of [[Linux]] that was originally created to be a 1:1 binary compatible release of [[Red Hat]] Enterprise, but shifted to ABI compatibility in June of 2023. < ref > {{Cite web|last=Vasquez|first=benny|date=2023-07-13|title=The Future of AlmaLinux is Bright|url=https://almalinux.org/blog/future-of-almalinux/}} < /ref >  It was created due to Red Hat shifting the focus of CentOS to the new CentOS Stream development branch, and then shifted to ABI compatibility after RedHat stopped shipping RHEL sources to git.centos.org. The creation of AlmaLinux and the AlmaLinux OS Foundation is based on the [[Open Source]] principal to provide a community owned and governed, forever-free enterprise Linux distribution.  
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://www.almalinux.org Official AlmaLinux website] 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux distributions]]

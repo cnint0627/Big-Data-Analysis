@@ -1,0 +1,15 @@
+[[File:Dodecahedron light blue.svg|thumb|A dodecahedron]] 
+ A '''dodecahedron''' is a [[polyhedron]] (a three-dimensional [[shape]]) that has 12 faces. Each face is a [[pentagon]] (a [[polygon]] with five edges). It has 20 corners (also called [[vertex|vertices]]) and 30 edges altogether. 
+ 
+ A '''regular dodecahedron''', which looks exactly the same from all faces, is a [[Platonic solid]]. The [[Dual polyhedron|dual]] of a dodecahedron is an [[icosahedron]]. 
+ 
+ ==Surface area and volume== 
+ 
+ If ''a'' is the length of one of its edges, the [[surface area]] and [[volume]] of a regular dodecahedron are: 
+ 
+ : < math > A = 3\sqrt{25+10\sqrt{5}} a^2 < /math > 
+ : < math > V = \frac{15+7\sqrt{5}}{4} a^3 < /math > 
+ 
+ {{math-stub}} 
+ {{shapes}} 
+ [[Category:Platonic solids]]

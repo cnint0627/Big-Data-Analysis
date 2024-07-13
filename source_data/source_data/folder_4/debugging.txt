@@ -1,0 +1,8 @@
+In [[computer science]], '''debugging''' is the process of finding (and correcting) errors in a computer program.  When programmers think that the program may have an error, they '''debug''' the program.  They look for an error, and when they find it, they try to correct it so the program will work correctly.  This improves the quality of the product. 
+ 
+ 
+ [[Category:Software]] 
+ [[Category:Computer science]] 
+ 
+ 
+ {{Tech-stub}}

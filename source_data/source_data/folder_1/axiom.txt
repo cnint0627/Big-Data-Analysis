@@ -1,0 +1,28 @@
+An '''axiom''' is a [[concept]] in [[logic]]. It is a [[statement]] which is assumed to be true without question, and which does not require [[proof]]. It is also known as a [[postulate]] (as in the [[parallel postulate]]). < ref > {{Cite web|date=2019-08-01|title=The Definitive Glossary of Higher Mathematical Jargon|url=https://mathvault.ca/math-glossary/|access-date=2020-10-08|website=Math Vault|language=en-US}} < /ref >  The axiom is to be used as the [[premise]] or starting point for further reasoning or arguments, < ref > " A proposition that commends itself to general acceptance; a well-established or universally conceded principle; a maxim, rule, law "  axiom, n., definition 1a. Oxford English Dictionary Online, accessed 2012-04-28. Cf. Aristotle, Posterior Analytics I.2.72a18-b4. < /ref >  usually in logic or in [[mathematics]]. < ref > In logic and philosophy, axioms are propositions rather than statements. See the page  " [[proposition]] " . < /ref > < ref > {{Cite web|title=Definition of AXIOM|url=https://www.merriam-webster.com/dictionary/axiom|access-date=2020-10-08|website=www.merriam-webster.com|language=en}} < /ref > 
+ 
+ This means it cannot be proved within the discussion of a problem. So inside some discussion, it is thought to be true. There are many reasons why it has no proof. For example, 
+ # The statement might be obvious. This means most people think it is clearly true. An example of an obvious axiom is the [[principle of contradiction]]. It says that a statement and its opposite cannot both be true at the same time and place. 
+ # The statement is based on [[physical law]]s and can easily be observed. An example is [[Newton's laws of motion]]. They are easily observed in the physical world. 
+ # The statement is a [[proposition]]. Here, an axiom is any mathematical statement that serves as a starting point from which other statements are logically derived. This means the emphasis is on what ''happens'' if the axiom is true. Whether the proposition is [[empiricism|empirically]] true is not the goal of logic. This is a more modern definition of an axiom. 
+ 
+ Logic can be used to find [[theorem]]s from the axioms. Then those theorems can be used to make more theorems. This is often how math works. Axioms are important because logical arguments start with them. 
+ 
+ == Euclid's axioms == 
+ [[Euclid|Euclid of Alexandria]] was a Greek mathematician. Around the year 300 BC, he made the earliest list of axioms which we know of. The following are just a few of them: 
+ # Two numbers that are both the same as a third number are the same number. 
+ # If A and B are two numbers that are the same, and C and D are also the same, A+C is the same as B+D. 
+ # If A and B are two numbers that are the same, and C and D are also the same, A-C is the same as B-D. 
+ # Two shapes that fill exactly the same space are the same shape. 
+ # If you divide a number by anything more than 1, the quotient (result) will be less than the original number. 
+ 
+ == Related pages == 
+ * [[Axiom of choice]], an axiom in [[set theory]] 
+ 
+ == Notes == 
+ {{reflist}} 
+ {{Mathematical logic}} 
+ 
+ [[Category:Mathematics]] 
+ 
+ 
+ {{math-stub}}

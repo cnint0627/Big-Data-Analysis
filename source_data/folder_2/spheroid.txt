@@ -1,0 +1,28 @@
+{|style= " float: right; margin: 10px; border: 1px #8080ff solid " 
+ |- 
+ ||{{center|1=[[Image:OblateSpheroid.PNG|200px|Oblate spheroid]]}} 
+ ||{{center|1=[[Image:ProlateSpheroid.png|140px|Prolate spheroid]]}} 
+ |- 
+ |style= " text-align: center " |''oblate spheroid'' 
+ |style= " text-align: center " |''prolate spheroid'' 
+ |} 
+ 
+ A '''spheroid''' is a kind of [[ellipsoid]]. < ref > In mathematics, ellipsoids are quadrics or quadric surfaces. < /ref >  It is got by rotating an [[ellipse]] about one of its principal axes. This means it is an [[ellipsoid]] with two equal semi-[[diameter]]s. 
+ 
+ [[Sphere]] < nowiki/ > s are spheroids. Spheroids that are not spheres are either oblate or prolate. 
+ 
+ Most [[celestial object]]s are [[oblate spheroid]]s. They usually spin, and as they spin, [[centrifugal force]] pulls them into that shape. Few natural objects are prolate spheroids. 
+ 
+ == Related pages == 
+ * [[Oblate spheroid]] 
+ * [[Ellipsoid]] 
+ 
+ == Notes == 
+ {{reflist}} 
+ 
+ 
+ {{-}} 
+ {{Math-stub}} 
+ 
+ [[Category:Three-dimensional shapes]] 
+ [[Category:Geodesy]]

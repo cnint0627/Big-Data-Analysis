@@ -1,0 +1,7 @@
+'''FLAC''' (which stands for '''Free Lossless Audio Codec''') is a way to [[code]] audio files. It makes those audio files smaller, without affecting the sound quality. It is unlike [[MP3]], because when encoding audio using an MP3 encoder, information is lost and cannot be recovered. When a FLAC file is decoded, it will be identical to the original raw audio. FLAC is the most common lossless audio codec. 
+ 
+ Lossy encoders, such as MP3 encoders will generate smaller files than lossless encoders such as FLAC, although with a lossy codec the decoder's output will not be exactly identical to the encoder's input, although with a decent encoder at sufficient bitrate, it will be extremely close. 
+ 
+ {{music-stub}} 
+ 
+ [[Category:Computer file formats for audio]]

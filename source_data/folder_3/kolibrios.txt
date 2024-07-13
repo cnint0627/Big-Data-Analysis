@@ -1,0 +1,17 @@
+{{Orphan|date=May 2009}} 
+ 
+ {{Infobox OS 
+ | name = KolibriOS 
+ | screenshot = KolibriOS.png 
+ | caption = KolibriOS desktop 
+ | developer = [http://www.kolibrios.org/?p=ContactUs KolibriOS Project Team] 
+ | working_state = Active 
+ | latest_release_version = 0.7.7.0 
+ | latest_release_date = December 13, 2009 
+ | kernel_type = [[Monolithic kernel|Monolithic]] 
+ | license = [[Free software]] licenses < br > (mainly [[GPL]]) 
+ | website = [http://www.kolibrios.org www.kolibrios.org] 
+ }} 
+ '''KolibriOS''' is a [[free software|free]] and [[open source]] [[operating system]] written all in [[assembly]]. This makes it very fast and small. KolibriOS can fit on a [[floppy disk]] and run on a [[Pentium]] (and possibly on late [[Intel 80486|486]]) with 8 MB of [[RAM]]. 
+ 
+ [[Category:Operating systems]]

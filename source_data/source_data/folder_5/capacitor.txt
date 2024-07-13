@@ -1,0 +1,41 @@
+{{refimprove|date=December 2011}} 
+ [[Image:Photo-SMDcapacitors.jpg|thumb|250px|Modern capacitors, by a cm ruler]] 
+ [[File:Condensator symbol.svg|thumb|right|Capacitor symbol]] 
+ A '''capacitor''' (also called '''condenser''', which is the older term) is an [[Electronics|electronic]] device that stores electric energy. It is similar to a [[battery]], but can be smaller, lightweight and a capacitor charges or discharges much quicker.  Capacitors are used in many electronic devices today, and can be made out of many different types of material. The [[Leyden jar]] was one of the first capacitors invented. 
+ 
+ Capacitors are usually made with two metal plates that are on top of each other and near each other, but that do not actually touch.  When powered, they allow energy to be stored inside an electrical field.  Because the plates need a lot of area to store even a small amount of charge, the plates are usually rolled up into some other shape, such as a [[cylinder]].  Sometimes, other shapes of capacitors are used for special purposes. A capacitor-like effect can also result just from two [[Electrical conductor|conductors]] being close to each other, whether you want it to exist or not. < ref > {{cite book|last=Ulaby|first=Fawwaz T.|title=Fundamentals of Applied Electromagnetics|url=https://archive.org/details/fundamentalsofap0000ulab_o5j2|edition=1999|publisher=Prentice-Hall|location=Upper Saddle River, New Jersey|year=1999|isbn=0-13-011554-1|page=[https://archive.org/details/fundamentalsofap0000ulab_o5j2/page/168 168]}} < /ref > 
+ 
+ The type of capacitor used depends on the application. Capacitors come in many sizes. They can be as small as an [[ant]] or as large as a [[dustbin]]. A few capacitors are adjustable.  
+ 
+ All capacitors have two connections, or leads. Most kinds of capacitors can be replaced easily by someone who has basic skills in electronics. However, one of the more powerful types - the electrolytic capacitor - must be used the correct way, or they can explode violently. 
+ 
+ While capacitors can store energy, as batteries do, capacitors can release all their stored energy very quickly, even faster than a second. A [[defibrillator]] or a [[photoflash capacitor]] uses this ability. It gradually charges, until it cannot be filled any more, and then quickly discharges its stored power to a device that needs to have it quickly. 
+ 
+ [[File:Capacitors dipped.jpg|thumb|alt=|Capacitors dipped in plastic]] 
+ [[File:Capacitors box.jpg|thumb|alt=|Capacitors as a box]] 
+ 
+ == Supercapacitor == 
+ Supercapacitors hold a bigger charge than regular capacitors. They are used to store electricity for motors and other purposes when batteries won't discharge quickly enough.  < ref > {{cite web|url=http://newsroom.ucla.edu/portal/ucla/ucla-researchers-develop-new-graphene-230478.aspx|title=Researchers develop graphene supercapacitor holding promise for portable electronics|author=Jennifer Marcus|date=March 15, 2012|accessdate=29 May 2012|archive-date=16 June 2013|archive-url=https://www.webcitation.org/6HPJaTQQj?url=http://newsroom.ucla.edu/portal/ucla/ucla-researchers-develop-new-graphene-230478.aspx|url-status=dead}} < /ref > 
+ 
+ == Polystyrene film capacitors == 
+ This type of capacitor is not for use in high frequency circuits, being made with a coil inside. They can charge and discharge even more quickly than other capacitors. They are used in [[Filter (electronics)|filter circuits]] or timing circuits which run at several hundred KHz or less. 
+ 
+ == Electrolytic capacitors == 
+ Electrolytic capacitors use a conducting surface inside a liquid [[electrolyte]]. They do not charge and discharge as rapidly as film capacitors do. They have [[polarity]] and so they have to be attached correctly. There are two leads; one will have a + and the other a -. This means one lead is ''positive'' and one is ''negative''. There are two different styles: axial, where the leads are connected to each end, and radial, where the leads are connected to one end. Electrolytic capacitors are printed with [[capacitance]] and [[voltage]] rating. 
+ 
+ Since the voltage rating can be low, it is important to check that the electrolytic capacitor is not overcharged. Capacitors can be separated from a battery, then connected in series. Because the capacitor is [[polarization|polarized]], the positive terminal must be connected to a negative terminal. This creates ''correct polarity'' through the [[electrical circuit]] and prevents breakdown. 
+ < ref > {{cite web|url=http://teacher.nsrl.rochester.edu:8080/phy122/lecture_notes/chapter27/Chapter27.html|title=CAPACITORS AND DIELECTRICS|accessdate=31 May 2012}}{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ 
+ Some electrolytic capacitors are unpolarized, meaning that either side can be positive or negative. These are mostly used in [[loudspeaker]]s to block low-frequency signals (bass) from reaching high-frequency (tweeter) drivers. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ ==Further reading== 
+ * YAN Kun(2011). [http://www.nature.ac.cn/papers/paper-pdf/ConnectionEquation-pdf.pdf Nonlinstor-An electronic circuit element of the nonlinear type with the deepening charge-controlled capacitor properties based on the form of the nonlinear differential equation] (Brief annotation of the connection equation(R)), Xi'an: Xi'an Modern Nonlinear Science Applying Institute. 
+ 
+ == Other websites == 
+ {{Commonscat|Capacitors|capacitors}} 
+ * [http://iequalscdvdt.com Introduction To Capacitors] Capsite 2016 
+ 
+ [[Category:Electronic components]]

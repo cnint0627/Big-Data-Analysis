@@ -1,0 +1,41 @@
+{{For|the personal assistant|Amazon Alexa}} 
+ {{Infobox dot-com company 
+ | company_name   = Alexa Internet, Inc. 
+ | company_logo   = Alexa Internet logo.svg 
+ | screenshot     = Screenshots of Alexa internet.PNG 
+ | caption        = Screenshot of Alexa.com home page post-closure 
+ | url            = {{url|http://www.alexa.com}} 
+ | company_type   = [[Subsidiary]] 
+ | foundation        = 1996 < ref name=about > {{cite web|title=About Alexa Internet|url=http://www.alexa.com/company|access-date=9 October 2009| archive-url= https://web.archive.org/web/20091007102542/http://www.alexa.com/company| archive-date= 7 October 2009 | url-status= live}} < /ref > 
+ | location       = [[San Francisco, California]], [[U.S]] 
+ | industry       = [[Internet|Internet information providers]] 
+ | parent         = [[Amazon.com]] (acquired 1999) 
+ | products       = Alexa [[Web search engine|Web Search]] (discontinued 2008) < br > [[Alexa toolbar]] 
+ | alexa          = {{IncreaseNegative}} 2,066 ({{as of|2016|7|17|alt=July 2016}}) < ref name= " alexa " > {{cite web |url= http://www.alexa.com/siteinfo/alexa.com |title= Alexa.com Site Info |publisher= Alexa Internet |access-date= 2016-07-17 |archive-date= 2018-12-24 |archive-url= https://web.archive.org/web/20181224222651/https://www.alexa.com/siteinfo/alexa.com |url-status= dead }} < /ref > < !--Updated monthly by OKBot.-- > 
+ | website_type   = [[Web traffic]] and ranking 
+ | language       = English 
+ | registration   = Optional 
+ | current_status = Discontinued May 1, 2022 
+ }} 
+ '''Alexa''' was an [[Internet]] service that measures how many Internet users visit a website. At Alexa.com, people entered a [[website]] address and Alexa showed them how well-visited the website is. It can also tell them how its popularity has changed over [[time]]. 
+ Alexa had 6 million unique visits monthly. 
+ 
+ Alexa was created in 1996 by American businessman Brewster Kahle and Bruce Gilliat. 
+ In 1999, Alexa was bought by Amazon.com for about US$250 million in Amazon stock. 
+ Alexa provided a free [[API]] that is used by services and toolbars all around the world to easily display Alexa Rating. 
+ 
+ Some virus companies mark Alexa [[toolbar]] as [[adware]] (McAfee), trackware ([[Symantec]]) and potentially unwanted Program. 
+ 
+ At December 2021 [[Amazon.com|Amazon]] announced that they will turn Alexa off. Service was discontinued May 1 of 2022. 
+ 
+ ==Sources== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ * [http://www.alexa.com Alexa] {{Webarchive|url=https://web.archive.org/web/20090809084408/http://www.alexa.com/ |date=2009-08-09 }} 
+ 
+ [[Category:Websites]] 
+ [[Category:Amazon (company)]] 
+ 
+ 
+ {{tech-stub}}

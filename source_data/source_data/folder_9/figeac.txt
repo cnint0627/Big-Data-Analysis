@@ -1,0 +1,176 @@
+{{Infobox French commune 
+ |name                    = Figeac 
+ |image flag              =  
+ |image flag size         =  
+ |image coat of arms      = Blason Figeac.svg 
+ |image coat of arms size = 
+ 
+ |city motto              =  
+ |image                   = Figeac.jpg 
+ |caption                 = View of the old city of Figeac 
+ |map                     =  
+ |adjustable map          =  
+ |time zone               =  
+ |coordinates = {{coord|44.6086|2.0317|format=dms|display=inline,title}} 
+ |arrondissement          = Figeac 
+ |canton                  = [[Capital city|capital]] of 2 Cantons 
+ |subdivisions entry      =  
+ |subdivisions            =  
+ |intercommunality        = Le Grand Figeac 
+ |mayor                   = André Mellinger < ref > {{cite web |url=http://www.ville-figeac.fr/La%20commune/Commune_c_municipal.htm |title=Conseil Municipal |publisher=Ville de Figeac |language= |accessdate=27 February 2017 |date= |archive-date=2 February 2017 |archive-url=https://web.archive.org/web/20170202110648/http://www.ville-figeac.fr/La%20commune/Commune_c_municipal.htm |url-status=dead }} < /ref > 
+ |party                   =  
+ |term                    = 2014-2020 
+ |elevation m             = 311 
+ |elevation min m         = 170 
+ |elevation max m         = 451 
+ |area km2                = 35.16 
+ | population demonym = Figeacois 
+ |population              = 9820 
+ |population ranking      =  
+ |population date         = 2010 
+ |urban area km2          =  
+ |urban area date         =  
+ |urban pop               =  
+ |urban pop date          =  
+ |metro area km2          =  
+ |metro area date         =  
+ |metro area pop          =  
+ |metro area pop date     =  
+ |INSEE                   = 46102 
+ |postal code             = 46100 
+ |website                 = [http://www.ville-figeac.fr/ www.ville-figeac.fr/] 
+ }} 
+ '''Figeac''' ({{lang-oc|Fijac}}) is a [[Communes of France|commune]] in southern [[France]] in the [[Regions of France|region]] of [[Occitanie]]. It is the [[Prefectures in France|''sous-prefecture'']] ([[Capital city|capital]]) of the ''[[Arrondissements of France|arrondissement]]'' of the same name in the [[Lot (department)|Lot]] [[Departments of France|department]]. 
+ 
+ ==History== 
+ In the late ninth century, the King [[Pepin I of Aquitaine]] founded a [[monastery]] in Figeac; the town developed around the monastery as an important city on the [[pilgrimage]] routes. In the 14th century, the walls of Figeac were built. 
+ 
+ Figeac is on the [[via Podiensis]], a major [[Middle Ages|medieval]] pilgrimage [[trail]] which is part of the [[Way of St. James]]. 
+ 
+ ==Geography== 
+ Figeac is on the southwestern edge of the central [[plateau]] (''[[Massif Central]]''), north of the valley of the [[Lot (river)|Lot]] [[river]], on the right bank of the [[Célé]] river, a left tributary of the Lot. 
+ 
+ The ''commune'' has an area of {{Convert|35.16|km2|sqmi|abbr=on }} and its average [[altitude]] is {{Convert|311|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|200|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Figeac-46100/ |title=Figeac |publisher=Map-France.com |language= |accessdate=28 June 2014 |date= }} < /ref > 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Figeac and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 46102.png|350px|Map of the ''commune'' of Figeac]] 
+ |} 
+ < /center > 
+ 
+ Figeac is surrounded by the ''communes''[[Camburat]], [[Planioles]], [[Viazac]], [[Lunan, Lot|Lunan]], [[Capdenac]], [[Faycelles]], [[Béduer]], [[Camboulit]], [[Lissac-et-Mouret]]. 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Condom 
+ |North     = [[Planioles]] 
+ |Northeast = [[Viazac]] 
+ |East      = [[Lunan, Lot|Lunan]] 
+ |Southeast = [[Capdenac]] 
+ |South     = [[Faycelles]] 
+ |Southwest = [[Béduer]] 
+ |West      = [[Camboulit]] and [[Lissac-et-Mouret]] 
+ |Northwest = [[Camburat]] 
+ }} 
+ 
+ ===Climate=== 
+ The climate of Figeac, in the [[Köppen climate classification]], is '''Cfb''' - Oceanic climate with template summers. < ref > {{cite web |work=Annuaire-Mairie.fr |publisher= |title=Ville de Figeac |url=http://www.annuaire-mairie.fr/ville-figeac.html |language=French  |accessdate=27 June 2013}} < /ref > 
+ 
+ ==Population== 
+ The inhabitants of Figeac are known, in [[French language|French]], as ''Figeacois'' (women: ''Figeacoises''). < ref > {{cite web|url=http://www.habitants.fr/habitants_figeac_46102.html |title=Figeac (46100) |publisher=habitants.fr |language=French |accessdate=27 June 2014 |date= }} < /ref > 
+ 
+ With a population of 9,820, < ref name=insee > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep46.pdf |title=Régions, départements, arrondissements, cantons et communes |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=French |accessdate=27 February 2017|date= }} < /ref >  Figeac has a [[population density]] of {{Pop density|9820|35.16|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Figeac''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:11000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:2000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:1000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2006 text:2006 
+  bar:2011 text:2011 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 9593 
+  bar:1975 from:0 till: 10077 
+  bar:1982 from:0 till: 9667 
+  bar:1990 from:0 till: 9549 
+  bar:1999 from:0 till: 9606 
+  bar:2006 from:0 till: 9943 
+  bar:2011 from:0 till: 9773 
+  bar:2014 from:0 till: 9820 
+ 
+ PlotData= 
+  bar:1968 at: 9593 fontsize:S text: 9,593 shift:(-12,5) 
+  bar:1975 at: 10077 fontsize:S text: 10,077 shift:(-15,5) 
+  bar:1982 at: 9667 fontsize:S text: 9,667 shift:(-15,5) 
+  bar:1990 at: 9549 fontsize:S text: 9,549 shift:(-15,5) 
+  bar:1999 at: 9606 fontsize:S text: 9,606 shift:(-15,5) 
+  bar:2006 at: 9943 fontsize:S text: 9,943 shift:(-15,5) 
+  bar:2011 at: 9773 fontsize:S text: 9,773 shift:(-15,5) 
+  bar:2014 at: 9820 fontsize:S text: 9,820 shift:(-15,5) 
+ < /timeline > 
+ < /center > 
+ 
+ Figeac forms with other 4 ''communes'' the [[urban area]] of Figeac, with a population of 16,468 inhabitants (2013) and an area of {{Convert|78.3|km2|sqmi|abbr=on }}; one of the ''communes'' is [[Capdenac-Gare]] that belongs to the [[Aveyron]] department. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=UU2010-00364 |title=Unité urbaine de Figeac (00364) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=27 February 2017|date= }} < /ref >  This urban area is the centre of the [[metropolitan area]] of Figeac, formed by 33 ''communes'' with a population of 25,593 inhabitants and an area of {{Convert|388|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=AU2010-223 |title=Aire urbaine de Figeac (223) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |format= |language=French |accessdate=27 February 2017|date= }} < /ref > 
+ 
+ == Administration == 
+ Figeac is a [[Prefectures in France|subprefecture]] of the Lot department, the capital of the ''arrondissement'' of [[Arrondissement of Figeac|Figeac]] and the [[administrative centre]] ({{lang-fr|chef-lieu}}) of the [[Canton of Figeac-1|Figeac-1]] and [[Canton of Figeac-2|Figeac-2]] cantons. 
+ 
+ It is part of the [[Communes of France|intercommunality]] ''Le Grand Figeac'' ({{lang-fr|Communauté de communes du Grand Figeac}}). 
+ 
+ ==People from or related to Figeac== 
+ * [[Jean-François Champollion]], the first translator of [[Egyptian hieroglyphs]], was born in Figeac, where there is a [[Champollion Museum]]. On the '' " Place des écritures " '' ( " Square of the Writings " ), there is a giant copy of the [[Rosetta Stone]], by [[Joseph Kosuth]]. 
+ * The [[actor]] [[Charles Boyer]] was also born in Figeac. 
+ 
+ ==Sister cities== 
+ Figeac is twinned with: 
+ * {{Flagicon|FRA}} [[Roubaix]], [[France]] 
+ * {{Flagicon|ITA}} [[Carrara]], [[Italy]] 
+ * {{Flagicon|ESP}} [[Huesca]], [[Spain]] 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Place des ecritures Figeac.jpg|''Place des écritures'', Figeac 
+ File:Figeac Nt Dame Puy.jpg|''Notre-Dame-du-Puy'' church 
+ File:Vue sur Figeac depuis le Cingle-Haut.jpg|View of Figeac from ''Cingle-Haut'' 
+ File:Église Saint-Thomas, Figeac.JPG|Saint-Thomas' Church 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Figeac]] 
+ * [[Communes of the Lot department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat}} 
+ * [http://www.ville-figeac.fr/ City Council website] {{Webarchive|url=https://web.archive.org/web/20110228093617/http://www.ville-figeac.fr/ |date=2011-02-28 }} {{in lang|fr}} 
+ * [http://www.tourisme-figeac.com/ Pays de Figeac tourist office] {{in lang|fr}} 
+ 
+ [[Category:Subprefectures in France]] 
+ [[Category:Communes in Lot]]

@@ -1,0 +1,63 @@
+{{complex|date=May 2013}} 
+ 
+ '''Positivism''' is the [[philosophy|belief]] that human knowledge is produced by the scientific interpretation of observational data. 
+ 
+ The belief has been known since the time period [[Ancient Greece]]. (The approach has been an ongoing  " theme in the history of western thought from the [[Ancient Greece|Ancient Greeks]] to the present day " .) < ref name=Cohen > {{Citation |last=Cohen |first=Louis |year=2007 |title=Research methods in education |pages=9 |publisher=Routledge |doi=10.1111/j.1467-8527.2007.00388_4.x |s2cid=143761151 }} < /ref >  The term was used in the early 19th century by the philosopher and founding [[Sociology|sociologist]], [[Auguste Comte]]. < ref > {{cite encyclopedia |url=http://www.sociologyguide.com/thinkers/Auguste-Comte.php |title=Auguste Comte | encyclopedia = Sociology Guide |author=Sociology Guide}} < /ref > 
+ 
+ Comte, a sociologist, believed in a three part model of human knowledge. He claimed that it had gone through phases. There was a [[Religion|religious]] worldview, and a [[Metaphysics|metaphysical]] worldview before the scientific interpretation was considered. The positivistic method should, said Comte, no longer aim at a revealing ultimate causes. It should rather focus on how data are linked together. Scientists would simply interpret these correlations. All human knowledge could only be relatively true, so Comte with a look at these interpretations. Late 19th-century philosophers of the sciences from [[Heinrich Hertz]] to [[Ernst Mach]] eventually discussed specific requirements of operable scientific theories and physical laws such as the predictability of results in experiments and the functionality of laws in computations. < ref > See Bruce Caldwell's article on positivism in ''The New Palgrave Dictionary of Economics'', Second Edition, 2008. [http://public.econ.duke.edu/~bjc18/docs/Revised%20Positivism%20article.pdf pdf] < /ref > 
+ 
+ ==Origin of the word (or etymology)== 
+ The English noun ''positivism'' was re-imported in the 19th century from the French word {{lang|fr|positivisme}}, (which came from, or) derived from {{lang|fr|positif}} < !-- in its philosophical sense of-- > . ''Positif'' can mean 'imposed on the mind by experience' < !--The corresponding adjective ({{lang-la|positīvus}}) has been used in a similar sense to discuss law ([[positive law]] compared to [[natural law]]) since the time of [[Geoffrey Chaucer|Chaucer]]-- > . < ref > ''Le petit Robert'' s. v. 'positivisme'; ''OED'' s. v. ''positive'' < /ref > '' 
+ 
+ ==Principles== 
+ In its strongest original formulation, < ref > Hacking I. ed 1981. ''Scientific revolutions''. Oxford Univ. Press, New York. < /ref >  positivism could be thought of as a set of six principles: 
+ # The unity of the [[scientific method]] – i.e., the logic of inquiry is the same across all sciences (social and natural). 
+ # The aim of science is to explain and predict. 
+ # Scientific [[knowledge]] is testable. Research can be proved only by [[Empiricism|empirical]] means, not arguments alone. Research should be mostly [[deductive reasoning|deductive]], i.e. deductive logic is used to develop statements that can be tested ([[theory]] leads to [[hypothesis]] which in turn leads to discovery and/or study of evidence). Research should be observable with the human senses. Arguments are not enough, sheer belief is out of the question. 
+ # Science does not equal [[common sense]]. Researchers must be careful not to let common sense bias their research. 
+ # Science should be as value-neutral as possible. The ultimate goal of science is to produce knowledge, regardless of any politics, morals, or values held by those involved in the research. Science should be judged by [[logic]], and ideally produce universal conditionals. 
+ # Experiments must be able to verify a statement anytime and anywhere. < ref > This rules out that scientists claim something to be true, because they conducted an experiment with that result at one time and though they realise that new experiments conducted elsewhere do not show the same result again. < /ref > 
+ 
+ Unlike [[materialism|materialists]] positivists do not make any claims about a primary substance such as matter. They assume that we have [[data]] and that we interpret the data. The idea of a material world with three dimensions is, for positivists, just a good model to handle the experiences of everyday life. If astronomy has to deal with more complex data that cannot be handled consistently in such a model, they will have to think of a different model. Early 20th-century positivists like [[Ernst Mach]] said that the best model is the most  " economical "  model, that is the model we can use best in calculations and predictions. 
+ 
+ The idea that all [[physical law]]s could be useful dates back to Auguste Comte. Comte said that all theories were merely  " relatively "  true, and that even [[Newton's law of universal gravitation|Isaac Newton's law of universal gravitation]] was strictly speaking nothing but a social convention {{ndash}} true until new data force us to find a better theory. 
+ 
+ == Logical positivism == 
+ [[Image:Schlick sitting.jpg|thumb|200px|right|Moritz Schlick, the founding father of logical positivism and the Vienna Circle.]] 
+ 
+ This was an important development in early 20th century [[Vienna]], led by [[Moritz Schlick]] and widened by [[Ludwig Wittgenstein]]. The logical positivists held that statements that cannot be proven true or false have no meaning. 
+ 
+ It held not only that [[proposition]]s were [[true]] or [[false]], but that [[statement]]s which could not be shown to be either true or false were meaningless. Thus statements like  " There is a God "  or  " There is no God "  are not true or false, but meaningless because they cannot be proven or disproven. < ref > Ayer A.J. 1936 [2nd ed 1946]. ''Language, truth and logic''. Gollancz, London. < /ref > 
+ 
+ == Operationalism == 
+ This was the idea of [[P.W. Bridgman]], [[Nobel Prize in Physics]] for 1946. < ref > Bridgman P.W. 1927. ''The logic of modern physics''. New York: Macmillan. < /ref > < ref > Bridgman P.W. 1955. ''Reflections of a physicist''. New York:Philosophical Library. < /ref >  It was that a [[concept]] in science was defined by the way one measured it. If one thinks of [[electron]] spin, or the curvature of [[space]], these are not everyday ideas. In everyday life, electrons are not seen, and neither is space seen to be curved. They rest on the results of [[experiment]]s which measured fundamental properties like [[time]], [[light]], [[mass]], [[electrical charge]], and so on. What Bridgman meant is that their meaning is in the way the measurements were done. 
+ 
+ === Examples === 
+ *The [[theory of relativity|special theory of relativity]] depended on operational definitions for [[wikt:simultaneous|simultaneous]] events and [[distance]], that is, providing the operations needed to define these terms. < ref name=Woodhouse > {{cite book |title=Special relativity |author=NMJ Woodhouse |page=58 |url=https://books.google.com/books?id=ggPXQAeeRLgC & pg=PA50 |isbn=1-85233-426-6 |publisher=Springer |location=London |year=2003}} < /ref > 
+ *In [[quantum mechanics]] the notion of operational definitions is closely related to the idea of  " observables " , that is, definitions based upon what can be measured. < ref name=Isham > {{cite book |title=Lectures on Quantum Theory |author= C. J. Isham |page=95 |url=https://books.google.com/books?id=xR3sS2hEFzcC & dq=observable+operational+definition+quantum & pg=PA95|isbn=1-86094-001-3 |publisher=Imperial College Press |year=1995 }} < /ref > < ref name=Blank > {{cite book |title=Hilbert Space Operators in Quantum Physics |author=Jiří Blank, Pavel Exner, Miloslav Havlíček |isbn=1-56396-142-3 |publisher=Springer |year=1994 |url=https://books.google.com/books?id=V0BSIoGXHLQC & dq=observable+operational+definition+quantum & pg=PA252|page=252 }} < /ref > 
+ *Operationalism is found in other sciences. In [[psychology]], [[intelligence]] has often been defined as the result of measurement by a standard IQ test. Obviously that is [[controversial]], because our everyday understanding of the word  " intelligence "  is much more complex and varied. 
+ 
+ == Comtean positivism == 
+ 19th-century positivism – or  " Comtean positivism "  – included the outline of a proposed development. This would lead from primitive explanations, through religious thought and [[monotheism]], to positivism as the universal theory and scientific practice. The theory was very influential among cultural historians. It led Comte to the creation a  " religion of humanity "  as a [[secular]] substitute for all religions. This caused an outcry among scientists, who were ready to adopt the scientific premises but not interested in creating a substitute religion. 
+ 
+ One can today still visit temples in [[Rio de Janeiro]], [[Porto Alegre]], and  [[Curitiba]] in [[Brazil]], and [[Paris]] built by 19th-century Comtean positivists. London had a society of positivists. The Turkish leader [[Mustafa Kemal Atatürk]] was strongly interested in positivism as the basis of a secularisation of the nation, he was trying to build. 
+ 
+ The term positivism is today no longer connected to the construct of a secular religion, but more to describe a scientific method. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Further reading on positivism == 
+ * Giddens, Anthony. ''Positivism and sociology''. Heinemann. London. 1974. 
+ * Mill, John Stuart. ''August Comte and positivism''.  [http://www.web-books.com/Classics/Nonfiction/Philosophy/Mill_Comte/Home.htm|web-books.com]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} 
+ * Mises, Richard von. 1951. ''Positivism: a study in human understanding''. Harvard University Press. Cambridge, Mass. 
+ * Pickering, Mary. 1993. ''Auguste Comte: an intellectual biography''. Cambridge University Press, Cambridge. 
+ * Richard Rorty 1982. ''[http://www.marxists.org/reference/subject/philosophy/works/us/rorty.htm Consequences of pragmatism]'' 
+ 
+ == Other websites == 
+ * [http://positivists.org/ Positivists Worldwide] 
+ 
+ {{Philosophy topics}} 
+ 
+ [[Category:Philosophical movements and positions]] 
+ [[Category:Ethics]]

@@ -1,0 +1,221 @@
+{{About|the city in Spain|the football club|FC Barcelona|other uses|Barcelona (disambiguation)}} 
+ {{EngvarB|date=November 2016}} 
+ {{Use dmy dates|date=June 2020}} 
+ {{Infobox settlement 
+ | official_name           =Barcelona 
+ | native_name             =  < !-- if different from the English name -- > 
+ | other_name              = 
+ | settlement_type         = [[Municipalities of Catalonia|City and municipality]] 
+ < !-- images, nicknames, motto --- > 
+ | image_skyline           = Barcelona collage.JPG 
+ | imagesize               = 280px 
+ | image_alt               = 
+ | image_caption           = 
+ | image_flag              = Flag of Barcelona.svg 
+ | flag_alt                = 
+ | image_shield            = Escudo de Barcelona.svg 
+ | shield_alt              = 
+ | nicknames               = {{native name|ca|Ciutat Comtal}} < br/ > {{native name|es|Ciudad Condal}} < br/ >   " Comital City "  or  " City of Counts "   < br/ > < br/ >  {{native name|ca|Cap i Casal de Catalunya}} < br/ > 'Head and Hearth of Catalonia' 
+ < br/ > < br/ >  Abbreviation(s):  < br/ >  ''Barna'', ''BCN'' 
+ | motto                   = 
+ < !-- maps and coordinates ------ > 
+ | pushpin_map_caption     = Location in the Province of Barcelona##Location in Catalonia##Location in Spain 
+ | pushpin_label_position  = 
+ | pushpin_map_alt         = 
+ | pushpin_map             = Spain Province of Barcelona#Spain Catalonia#Spain 
+ | pushpin_relief          = 1 
+ | coordinates             = {{coord|41|23|N|2|11|E|type:city(1,582,738)_region:ES|display=inline,title}} 
+ | coordinates_footnotes   = 
+ | subdivision_type        = Country 
+ | subdivision_name        = {{flag|Spain}} 
+ | subdivision_type1       = [[Autonomous communities of Spain|Autonomous community]] 
+ | subdivision_type2       = [[Provinces of Spain|Province]] 
+ | subdivision_type3       = [[Comarques of Catalonia|Comarca]] 
+ | subdivision_name1       = {{flag|Catalonia}}  
+ | subdivision_name2       = [[Province of Barcelona|Barcelona]] 
+ | subdivision_name3       = [[Barcelonès]] 
+ < !-- established --------------- > 
+ | established_title       = 
+ | established_date        = 
+ < !-- seat, smaller parts ------- > 
+ | parts_type              = [[Districts of Barcelona|Districts]] 
+ | parts_style             = coll 
+ | parts                   = {{nobold|10}} 
+ | p1                      = [[Ciutat Vella]] 
+ | government_type         = [[Ayuntamiento (Spain)|Ayuntamiento]] 
+ | governing_body          = [[Ajuntament de Barcelona]] 
+ | leader_party            = [[Socialists' Party of Catalonia]] 
+ | leader_title            = [[List of mayors of Barcelona|Mayor]] 
+ | leader_name             = [[Jaume Collboni]] 
+ < !-- display settings  --------- > 
+ | total_type              = City 
+ | unit_pref               =  < !-- enter: Imperial, to display imperial before metric -- > 
+ < !-- area ---------------------- > 
+ | area_footnotes =  < ref name=idescat > {{cite web|url=http://www.idescat.cat/emex/?lang=en & id=080193|title=El municipi en xifres: Barcelona|publisher=[[Institut d'Estadística de Catalunya|Statistical Institute of Catalonia]]|access-date=23 November 2015|archive-url=https://web.archive.org/web/20151124080227/http://www.idescat.cat/emex/?lang=en & id=080193|archive-date=24 November 2015|url-status=live}} < /ref > 
+ | area_total_km2          = 101.4 
+ | area_urban_km2          = 
+ < !-- elevation ----------------- > 
+ | elevation_footnotes     =  & nbsp;([[Above mean sea level|AMSL]]) 
+ | elevation_m             = 12 
+ < !-- population ---------------- > 
+ | population_as_of        = {{Spain metadata Wikidata|population_as_of}} 
+ | population_footnotes    = {{Spain metadata Wikidata|population_footnotes}} 
+ | population_total        = {{Spain metadata Wikidata|population_total}} 
+ | population_density_km2  = auto 
+ | population_urban        = 4840000 < ref name= " demographia " > [http://www.demographia.com/db-worldua.pdf Demographia: World Urban Areas] {{Webarchive|url=https://web.archive.org/web/20180503021711/http://www.demographia.com/db-worldua.pdf |date=3 May 2018 }} – Demographia, April 2018 < /ref > 
+ | population_metro        = 5474482  
+ | population_rank         = [[List of Spanish municipalities by population|2nd]] 
+ | population_demonyms      = Barcelonan, Barcelonian  < br/ >  {{native name|ca|barceloní, -ina}} < br/ > {{native name|es|barcelonés, -esa}} 
+ < !-- postal codes, area code --- > 
+ | postal_code_type        = [[List of postal codes in Spain|Postal code]] 
+ | postal_code             = 080xx  < !-- 08001–08080 -- > 
+ | area_code               = [[+34]] ([[Spain|E]]) 93 ([[province of Barcelona|B]]) 
+ < !-- INE code, city budget ----------- > 
+ | area_code_type          = [[Telephone numbers in Spain|Area code]] 
+ | blank_name_sec1         = [[Instituto Nacional de Estadística (Spain)|INE code]] 
+ | blank_info_sec1         = 08 0193 
+ | blank1_name_sec1        = [[City budget]] {{nobold|(2014)}} 
+ | blank1_info_sec1        = €2.6 billion < ref > [http://www.lavanguardia.com/local/barcelona/20131231/54397686276/trias-aprueba-presupuesto-barcelona.html Trias aprueba definitivamente el presupuesto de Barcelona para 2014] {{Webarchive|url=https://web.archive.org/web/20141214113902/http://www.lavanguardia.com/local/barcelona/20131231/54397686276/trias-aprueba-presupuesto-barcelona.html |date=14 December 2014 }}, ''[[La Vanguardia]]''. < /ref > 
+ < !-- language(s), patron saint(s), main festivity --------------- > 
+ | blank_name_sec2         = {{nowrap|[[Languages of Spain|Official language]]}} 
+ | blank_info_sec2         = [[Catalan language|Catalan]] and [[Spanish language|Spanish]]  
+ | blank1_name_sec2        = [[Fiesta patronal|Main festivity]] 
+ | blank1_info_sec2        = [[La Mercè]] 
+ | website                 = {{url|www.barcelona.cat}} 
+ | footnotes               = 
+ | p2                      = [[Eixample]] 
+ | p3                      = [[Gràcia]] 
+ | p4                      = [[Horta-Guinardó]] 
+ | p5                      = [[Les Corts (district)|Les Corts]] 
+ | p6                      = [[Nou Barris]] 
+ | p7                      = [[Sant Andreu]] 
+ | p8                      = [[Sants-Montjuïc|Sants–Montjuïc]] 
+ | p9                      = [[Sarrià-Sant Gervasi]] 
+ | p10                     = [[Sant Martí (district)|Sant Martí]] 
+ < !-- government type, leaders -- > 
+ | blank2_name_sec2        = [[Patron saint]] 
+ | blank2_info_sec2        = [[Eulalia of Barcelona]] 
+ < !-- website, footnotes -------- > 
+ }} 
+ '''Barcelona''' is the capital city of [[Catalonia]], which is a region of [[Spain]]. Barcelona is the largest city on the [[Mediterranean Sea|Mediterranean]] coast. The city is between the [[river]]s of ''Llobregat'' and ''Besòs'', and south of the [[Pyrenees]] mountains. It has a [[humid subtropical climate]] (''Cfa'' in the [[Köppen climate classification]]). Most [[rain]] falls in [[autumn]] and [[spring]], and the least rain falls in [[winter]] and [[summer]]. The average [[rainfall]] is relatively low, due to the [[rain shadow]] from the mountains. 
+ 
+ In 1992, Barcelona hosted the [[Summer Olympic Games]]. Many new parks were opened and other significant changes to the city were made. One example is opening the new beaches in the [[Poble Nou]] area. 
+ 
+ In 2007, about 1.6 million people lived in Barcelona. Around 3.1 million people live in the Metropolitan Area and 4.9 million people live in the Urban Region. Barcelona is the second most populated city in Spain, and the tenth in the [[European Union]]. 
+ 
+ Barcelona is home to football team [[F.C. Barcelona]]. 
+ 
+ == History == 
+ The origin of Barcelona is unclear. The ruins of an early settlement have been found dating to earlier than 5000 BC. < ref > Servei d'Arqueologia of Institut de Cultura de Barcelona.  " [https://web.archive.org/web/20160303224118/http://cartaarqueologica.bcn.cat/989 Caserna de Sant Pau del Camp] " . ''CartaArqueologica'' (in Spanish). Ajuntament de Barcelona. p. Description and Historical Notes.  < /ref > 
+ [[File:Ciutat de Barcino .jpg|thumb|328x328px|City Barcino]] 
+ During the [[Roman Empire]], Barcelona was  a [[colony]] of the  [[Western Roman Empire]] called  ''Barcino'' (full name was ''Colonia Faventia Julia Augusta Pia Barcino).'' A clear example of the Roman heritage in Barcelona is the preserved ''Barri Gòtic'' (Gothic Quarter) in the center of city. 
+ 
+ In the [[Middle Ages|Middle Age]] (5th century), Barcelona was conquered by the [[Visigoths]]. King [[Athaulf]] moved his capital here for a short time. In 511, a battle between the [[Ostrogoths]] and Visigoths took place near the city in which the Ostrogoths won. 
+ 
+ In 8 century, Barcelona was conquered by the [[Moors]]. 
+ 
+ Until the 15th century, Barcelona was the leading [[slave trade]] centre.  < ref > {{Cite journal|last=Arévalo|first=Raúl González|date=2019|title=La esclavitud en la España Medieval. (siglos XIV-XV). Generalidades y rasgos diferenciales|url=http://www.e-revistes.uji.es/index.php/millars/article/view/4038|journal=Millars. Espai i Història|issue=47|language=es|pages=11–37|doi=10.6035/Millars.2019.47.2|s2cid=213459824|issn=1132-9823}} < /ref >  Barcelona was a centre of Catalan [[separatism]] for a long time.  
+ 
+ During the [[Spanish Civil War]], Barcelona was [[Republican]] city.  
+ 
+ == Culture == 
+ Barcelona's culture roots go back 2000 years.  
+ 
+ The city is very religious, so there are many [[Cathedral|cathedrals]] in it. The most famous of them is [[Sagrada Família|Sagrada Familia]]. [[Barcelona Cathedral]] is also popular among the tourists.  
+ 
+ Barcelona  has a large number of theaters such as  ''[[Palau de la Música Catalana]], [[Liceu]] etc.'' Barcelona has an symphony orchestra.  
+ 
+ There are also many museums. For example, [[Museu Nacional d'Art]],   [[Museu Picasso]], [[Museu Marítim]], [[Museu d Història de la Ciutat Barcelona]], [[Museu d’Art Contemporani de Barcelona]] and [[Museu de la Xocolata]].  
+ 
+ The street called [[La Rambla]] is a place for street performances such as [[mime]] performances.  The [[Sonar Festival]] and  [[Primavera Sound Festival]] are two major [[pop music]] festivals that take place yearly there.  
+ 
+ Barcelona has one of Europe's largest [[Aquarium|aquariums]] – [[Aquarium Barcelona]].  
+ 
+ ''El Periódico de Catalunya, La Vanguardia'' and ''Ara'' are three major [[Newspaper|newspapers]] of Barcelona. 
+ 
+ Many popular films were also shot in Barcelona. The examples are ''[[Todo sobre mi madre]] (1999) by'' [[Pedro Almodóvar]]'', [[REC]] (2007),  [[Salvador (movie)|Salvador]] (2006), [[Vicky Cristina Barcelona|Vicky Christina Barcelona]] (2008), [[Biutiful]] (2010), [[Tres metros sobre el cielo. Tengo ganas de ti]] (2012).'' 
+ 
+ == Economics ==   
+ 
+ Barcelona was for a long time an [[Industry|industrial]] city. Currently, factories have been moved to the periphery, a fact that has allowed us to transform the former industrial neighbourhoods in the residential areas, from research to products with high added value and services. The most representative industrial sectors of Barcelona are the [[textile]] industry, chemical, [[Pharmacology|pharmaceutical]], automotive, electronics, medical Industry and printing. Services Barcelona stands out for its logistics activities, publishing and computer. 
+ == Transport == 
+ Barcelona has a [[Port of Barcelona|port]], [[Barcelona Metro|metro]], [[Barcelona–El Prat Airport|airport]], modern passengers trains by [[Renfe]] company and tram systems called [[Trambaix]] and [[Trambesos]].  
+ 
+ Barcelona is one of the main railway hubs in Spain. The main railway station is ''Sants Estació.''  
+ 
+ Barcelona has also a metered taxi fleet.  
+ 
+ == Sport == 
+ Barcelona is a very sports city. It hosted the highly successful [[1992 Summer Olympics]].  
+ 
+ [[F.C. Barcelona|FC Barcelona]] is a sport club, one of the largest and the second richest in the world. 
+ 
+ == Tourism == 
+ Barcelona is one of the most important tourist destinations in Europe, with millions of people visiting every year. The city is famous for its 19th century modernist architecture. The best known of those buildings was designed by [[Antoni Gaudí|Antoni Gaudi]]. It is the unfinished church [[Sagrada Familia]], < ref > {{Cite web|last=|first=|date=2019-11-10|title=Places to Visit in Barcelona|url=https://arrestedworld.com/best-places-in-barcelona/|url-status=dead|archive-url=https://web.archive.org/web/20210521132030/https://arrestedworld.com/best-places-in-barcelona/|archive-date=2021-05-21|access-date=2020-10-31|website=ArrestedWorld|language=en-US}} < /ref >  which is the symbol of Barcelona. 
+ 
+ It is known for its tapas food, a [[meze]]. Among the dishes, the also popular are [[paella]], [[gazpacho]], [[jamon]], [[Crema Catalana|crema catalana]]  and [[sangria]].  
+ 
+ The popular stores  for [[shopping]] are [[Zara]], Massimo Dutti, Bimba y Lola, Adolfo Dominguez.   
+ 
+ == Events == 
+ * 1987 - [[Hipercor bombing]] 
+ * 1992 - [[1992 Summer Olympics]] 
+ * 2004 - [[Universal Forum of Cultures]] 
+ * 2017 - [[2017 Barcelona attack]] 
+ {{Commons}} 
+ {{Wikivoyage}} 
+ 
+ == Education == 
+ Barcelona has a very good higher education. The most prominent university is the [[University of Barcelona]] which has a long history.  
+ * [[Toulouse Business School]] 
+ 
+ == Language == 
+ The main language of Barcelona is considered [[Catalan language|Catalan]]. [[Spanish language|Spanish]] is the second popular language.    
+ 
+ '''(write about the problems  of language)'''    
+ 
+ == Sister cities == 
+ Barcelona has [[Town twinning|sister relationships]] with many places worldwide: 
+ *[[Glasgow]], [[Scotland]]  
+ *[[Antwerp]], [[Belgium]] 
+ *[[Boston, Massachusetts]], [[United States|USA]] 
+ *[[Busan]], [[South Korea]] 
+ *[[Monzón]], [[Spain]] 
+ *[[Cologne]], [[Germany]] 
+ *[[Dublin]], [[Republic of Ireland|Ireland]] 
+ *[[Gaza]], [[Palestinian territories]] 
+ *[[Gdańsk]], [[Poland]] 
+ *[[Istanbul]], [[Turkey]] 
+ *[[Kobe]], [[Japan]] 
+ *[[Montevideo]], [[Uruguay]] 
+ *[[Montpellier]], [[France]] 
+ *[[Perpignan]], [[France]] 
+ *[[Rio de Janeiro]], [[Brazil]] 
+ *[[São Paulo]], [[Brazil]] 
+ *[[Sarajevo]], [[Bosnia-Herzegovina]] 
+ *[[Tel Aviv]], [[Israel]] 
+ 
+ == Gallery == 
+ < center > < gallery > 
+ File:Catedral de la Santa Cruz y Santa Eulalia -- 2019 -- Barcelona, España.jpg|Barcelona Cathedral 
+ File:Badalona - La Rambla.jpg|La Rambla 
+ File:Sagrada Familia 01.jpg|Sagrada Familia 
+ File:Casa Milà - Barcelona, Spain - Jan 2007.jpg|Casa Milà 
+ < /gallery > < /center > 
+ 
+ ==Related pages== 
+ * [[Barcelona Metro]] 
+ * [[Catalonia]] 
+ 
+ == References == 
+ < references / > 
+ 
+ == Other websites == 
+ * [http://www.barcelona.cat/en/ Official website of Barcelona] 
+ * [http://www.barcelona.com Barcelona.com The Guide to Barcelona] 
+ * [https://yourguidebarcelona.com Tourist guide to Barcelona] 
+ *[https://arrestedworld.com/best-hotels-in-world-for-honeymoon/ Hotel Arts, Barcelona best honeymoon hotel in the world] {{Webarchive|url=https://web.archive.org/web/20201105035007/https://arrestedworld.com/best-hotels-in-world-for-honeymoon/ |date=2020-11-05 }} 
+ 
+ [[Category:Barcelona| ]] 
+ [[Category:Olympic cities]] 
+ [[Category:Capital cities in Spain]]

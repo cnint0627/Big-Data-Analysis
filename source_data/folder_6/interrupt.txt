@@ -1,0 +1,33 @@
+[[File:Interrupt Process.PNG|thumb|This chart shows what happens when an interrupt is called]] 
+ An '''interrupt''' is when something happens to a [[microprocessor]] that causes it to ''interrupt'' the currently running code to allow it to respond to the thing that happened. Interrupts usually occur because the processor gets a special [[Signal processing|signal]] from [[Computer hardware|hardware]], but they can also be caused by [[software]]. Many things can cause interrupts, including pressing keys on a [[Keyboard (computer)|keyboard]], moving the [[Computer mouse|mouse]], the [[Clock rate|built-in timer]] going off, a [[data]] transfer taking place, or an [[Event-driven programming|event]] that was triggered which needs attention from the processor right away. Interrupts can happen at any time, no matter what program is running or where in the program's [[source code]] it is.  
+ 
+ == How interrupts work == 
+ The purpose of an interrupt is to temporarily pause normal code execution to allow the processor to respond very quickly to the thing causing the interrupt. Once that thing has been dealt with, the processor can resume the work it was doing. 
+ 
+ An interrupt is triggered by a hardware or software call known as an ''interrupt request'' (IRQ). When an IRQ happens, the processor immediately stores the details of what it is doing on a [[Stack (data structure)|stack]] for safe keeping, and then beings to follow special [[Instruction (computer science)|instructions]] to respond to the interrupt. These instructions form a very short program called an ''interrupt handler'' or ''interrupt service routine'' (ISR). The ISR must be short so the processor can get back to its original work as fast as possible. As soon as the ISR is completed, the processor goes back to the stack where it stored the ''context'' of its original work on a stack, and resumes running code exactly where it left off. 
+ 
+ Many interrupt controllers in today's processors use an ''interrupt vector'' as a way to sort interrupts based on where they came from or how important they are. The vector contains the special programs (ISRs) that will run when each different interrupt happens. ISRs are generally responsible for dealing with, or  " servicing " , the interrupt, along with keeping itself in good working order.  < ref > {{Cite web|url=http://www.embedded.com/electronics-blogs/beginner-s-corner/4023338/Introduction-to-Interrupts|title=Introduction to interrupts|first=Russell|last=Massey|date=June 1, 2001|website=Embedded}} < /ref > 
+ 
+ == Uses of interrupts == 
+ {| class= " wikitable " 
+ |+ 
+ !Use case 
+ !Practical example 
+ |- 
+ |Triggering tasks at [[Periodic function|regular intervals]] 
+ |Blinking a light every time a 5-second timer expires 
+ |- 
+ |Servicing an [[Hardware components|external device]] 
+ |Collecting a measurement from a sensor every time the sensor says a new measurement is ready 
+ |- 
+ |Triggering the [[operating system]] to take action 
+ |Reacting to a USB [[USB flash drive|flash drive]] getting plugged into the computer 
+ |- 
+ |Increasing power efficiency 
+ |Instead of software constantly checking whether something has happened (which wastes electricity), the code can be designed differently to just wait for an interrupt to occur. 
+ |} 
+ 
+ == References == 
+ < references / > 
+ 
+ [[Category:Computing]]

@@ -1,0 +1,28 @@
+[[File:LibreOffice Writer 5.1 Breeze.png|thumb|300px|[[LibreOffice]] Writer, an example of software.]] 
+ 
+ '''Computer software,''' also called software, is a set of instructions and documentation that tells a computer what to do or how to perform a task. Software includes all different programs on a computer, such as [[Computer program|applications]] and the [[operating system]]. Applications are programs that are designed to perform a specific operation, such as a game or a [[word processor]]. The operating system (e.g. [[Mac OS]], [[Microsoft Windows]], [[Android (operating system)|Android]] and various [[Linux]] distributions) is a type of software that is used as a platform for running the applications, and controls all user interface tools including display and the keyboard. 
+ 
+ The word software was first used in the late 1960s to emphasize on its difference from [[computer hardware]], which can be physically observed by the user. Software is a set of instructions that the computer follows. Before [[compact disc]]s (CDs) or development of the [[Internet]] age, software was used on various [[computer data storage]] media tools like paper [[Punched card|punch cards]], magnetic [[Floppy disk|discs]] or [[magnetic tape]]s. 
+ 
+ The word [[firmware]] is sometimes used to describe a style of software that is made specifically for a particular type of computer or an electronic device and is usually stored on a [[Flash memory]] or [[ROM]] chip in the computer. Firmware usually refers to a piece of software that directly controls a piece of hardware. The firmware for a CD drive or the firmware for a [[modem]] are examples of firmware implementation. 
+ 
+ Today, software has become an important part of our lives. software is used everywhere. software engineers are responsible for producing fault-free software which has literally become an essential part of our daily lives. Changeability and conformity are two of the main properties of software design. There are also different processing models for designing software including Build and Fix, Waterfall and Agile software processing design methods. 
+ 
+ == Types of Software == 
+ The  different types of software can be put into categories based on common function, type, or field of use. There are three broad classifications: 
+ # ''[[Application software]]'' are the computer programs for performing user tasks such as [[word processing]] and [[web browsers]]. 
+ # ''[[System software]]'' is used to start and run computer systems and networks. This includes [[operating system]]s. 
+ # ''[[Computer programming]] tools'' (also known as ''development software'') are used to create application and system software. This is done by translating and combining [[Source code|computer program source code]] and [[Library (computing)|libraries]] into [[Random-access memory|executable RAMs]]. These include [[compiler]] and [[linker (computing)|linker]]. 
+ 
+ ==Related pages== 
+ {{commonscat|Software}} 
+ * [[Computer program]] 
+ * [[Free software]] 
+ * [[software engineering]] 
+ * [https://studyforlearning.com/concepts-of-programming-languages/ Concepts of Programming Languages] {{Webarchive|url=https://web.archive.org/web/20230416190338/https://studyforlearning.com/concepts-of-programming-languages/ |date=2023-04-16 }}  
+ * [https://advansappz.com/top-cloud-computing-companies-in-the-usa/ Cloud Computing Companies in USA]  
+ {{Webarchive|url=https://web.archive.org/web/20230416190338/https://studyforlearning.com/concepts-of-programming-languages/ |date=2023-04-16 }} 
+ * [https://studyforlearning.com/agile-operating-model/ Software Models] {{Webarchive|url=https://web.archive.org/web/20230416181729/https://studyforlearning.com/agile-operating-model/ |date=2023-04-16 }} 
+ 
+ [[Category:Software| ]] 
+ [[Category:Computer science]]

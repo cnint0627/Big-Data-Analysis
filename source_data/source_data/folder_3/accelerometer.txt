@@ -1,0 +1,12 @@
+An '''accelerometer''' is a [[Machine|device]] used to measure [[proper acceleration]], which is the acceleration it experiences in relation to freefall, and is the acceleration felt by people and objects. Accelerometers are commonly made up of [https://aduk.de/blog/ultrasonic-motors-where-use-them-and-how-create-them-aduk-gmbh/ piezoelectric], piezoresistive or capacitive components. Here are some examples of what accelerometers are used for: 
+ * As a component of [[Inertial navigation system|inertial navigation systems]] for aircraft and missiles. 
+ * Detecting and monitoring vibration in rotating machinery. 
+ * Making sure images on the screens of phones, tablets and digital cameras are always displayed upright. 
+ * Making the flight of drones more stable. 
+ * Coordinated accelerometers can be used to measure differences in proper acceleration, especially gravity, over their separation in space, such as the [[gradient]] of the [[gravitational field]]. This [[gravity gradiometry]] is useful because absolute gravity is a weak effect and depends on the local density of the Earth, which can constantly change.  
+ 
+ 
+ {{Physics-stub}} 
+ 
+ [[Category:Machines]] 
+ [[Category:Measuring tools]]

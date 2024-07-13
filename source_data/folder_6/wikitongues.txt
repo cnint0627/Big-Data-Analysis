@@ -1,0 +1,111 @@
+{{Infobox organization 
+ | image               = 
+ | alt                 = 
+ | caption             = 
+ | logo                = File:Wikitongues logo.png 
+ | logo_alt            = 
+ | logo_caption        = Wikitongues Logo 
+ | map                 = 
+ | map_size            = 
+ | map_alt             = 
+ | map2_size           = 
+ | map2_alt            = 
+ | motto               = 
+ | predecessor         = 
+ | merged              = 
+ | successor           = 
+ | formation           =  < !-- use {{start date and age|YYYY|MM|DD}} -- > 
+ | extinction          =  < !-- use {{end date and age|YYYY|MM|DD}} -- > 
+ | type                = Non-profit 
+ | status              = 
+ | purpose             = 
+ | headquarters        = 
+ | coords              =  < !-- {{coord|LAT|LON|display=inline, title}} -- > 
+ | services            = 
+ | language            = 
+ | leader_title        = 
+ | leader_name         = 
+ | leader_title2       = 
+ | leader_name2        = 
+ | leader_name3        = 
+ | leader_title3       = 
+ | leader_title4       = 
+ | leader_name4        = 
+ | board_of_directors  = 
+ | key_people          = 
+ | main_organ          = 
+ | parent_organization = 
+ | subsidiaries        = 
+ | affiliations        = 
+ | budget              = 
+ | volunteers          = 1500 
+ | slogan              = 
+ | remarks             = 
+ | formerly            = 
+ | footnotes           = 
+ | name                = Wikitongues 
+ | native_name         = 
+ | native_name_lang    = 
+ | named_after         = 
+ | image_size          = 
+ | logo_size           = 220px 
+ | map_caption         = 
+ | map2                = 
+ | map2_caption        = 
+ | abbreviation        = 
+ | founder             = Frederico Andrade, Daniel Bogre Udell, Lindie Botes < ref name= " qz " / > 
+ | founding_location   = 
+ | merger              = 
+ | tax_id              =  < !-- or | vat_id = (for European organizations) -- > 
+ | registration_id     =  < !-- for non-profit org -- > 
+ | location            = 
+ | region              = 
+ | products            = 
+ | methods             = 
+ | fields              = 
+ | membership          = 
+ | membership_year     = 
+ | owner               =  < !-- or | owners = -- > 
+ | sec_gen             = 
+ | secessions          = 
+ | budget_year         = 
+ | revenue             = 
+ | revenue_year        = 
+ | disbursements       = 
+ | expenses            = 
+ | expenses_year       = 
+ | endowment           = 
+ | staff               = 
+ | staff_year          = 
+ | volunteers_year     = 
+ | mission             = 
+ | website             = {{URL|wikitongues.org}} 
+ }} 
+ '''Wikitongues''' is an American [[non-profit organization]] registered in [[New York (state)|New York]]. Its goal is to document all the languages in the world. < ref name= " HS " >  {{cite web | url= http://www.heraldscotland.com/news/13167666.Dinnae_haud_yer_wheesht_____team_collating_all_languages_on_planet_lands_in_Scotland/ | title= Dinnae haud yer wheesht ... team collating all languages on planet lands in Scotland |author= Judith Duffy | date= 28 June 2014 | publisher = Herald Scotland| access-date=9 May 2020}} < /ref >   It was founded by Frederico Andrade, Daniel Bogre Udell and Lindie Botes in 2014. < ref > {{cite web | url=http://wikitongues.org/press/ | title=Wikitongues Press Release | access-date=9 May 2020 | archive-date=30 April 2016 | archive-url=https://web.archive.org/web/20160430105326/http://wikitongues.org/press/ | url-status=dead }} < /ref > < ref > {{cite web | url=https://www.kickstarter.com/profile/wikitongues | title=Wikitongues: Biography | publisher=Kickstarter | access-date=9 May 2020}} < /ref > 
+ 
+ ==Oral histories== 
+ [[File:Odia_Wikimedia_Usergroup_Kiosk_01.jpg|thumb|Wikitongues contributors in Montreal during Wikimania 2017.]] 
+ By May 2016, 329 videos in over 200 languages were recorded for Wikitongues. < ref > {{Cite web|url=https://medium.com/wikitongues/hello-from-wikitongues-e7ad62fa3bcb|title=Hello from Wikitongues|last=Wikitongues|date=2016-11-04|website=Wikitongues|access-date=9 May 2020}} < /ref >  As of 2018, the amount of languages increased to 350 languages, or 5% of the languages in the world, with plans to increase the amount of languages to 1000 in the coming years. < ref > {{Cite web|url=https://news.nationalgeographic.com/2018/04/saving-dying-disappearing-languages-wikitongues-culture/|title=The Race to Save the World's Disappearing Languages|publisher=National Geographic|author=Nina Strochlic|date=2018-04-16|access-date=9 May 2020}} < /ref > 
+ 
+ ==Poly== 
+ Poly is an open-source software program designed to be used to share and learn languages. < ref name= " PRI " > {{cite web | url=http://www.pri.org/stories/2016-02-23/nonprofit-wants-build-tool-share-and-document-all-world-s-languages | title=This nonprofit wants to build a tool to share and document all the world’s languages | publisher=PRI | date=February 23, 2016 | access-date=9 May 2020 | author=Jared Goyette}} < /ref >  Wikitongues earned $52,716 USD combined from 429 backers on [[Kickstarter]], < ref name= " qz " > {{cite web | url=http://qz.com/615467/anyone-can-contribute-to-this-dictionary-of-the-worlds-dying-languages/ | title=Anyone can contribute to this dictionary of the world’s dying languages |author= Kate Groetzinger| date=February 12, 2016| publisher=Quartz | access-date=9 May 2020}} < /ref >  which helped Poly be developed. Poly is currently under development. < ref name= " Kickstarter " > {{cite web | url=https://www.kickstarter.com/projects/wikitongues/poly-share-and-learn-every-language-in-the-world | title=Share and learn every language in the world | publisher=Kickstarter | access-date=9 May 2020 | author=Wikitongues}} < /ref > 
+ 
+ ==Licenses== 
+ All videos recorded for Wikitongues are released under a [[Creative Commons license#Non-commercial licenses|CC-by-NC]] 4.0 license. It was recently made possible to use a [[Creative Commons license#Attribution|CC-by-SA]] 4.0 license instead. < ref name= " Wikitongues: Licensing " > {{cite web | url=https://wikitongues.org/licensing | title=Wikitongues Licensing | publisher=Wikitongues | access-date=9 May 2020 | author=Wikitongues | archive-date=21 August 2017 | archive-url=https://web.archive.org/web/20170821172004/https://wikitongues.org/licensing/ | url-status=dead }} < /ref > 
+ 
+ ==References== 
+ {{reflist|2}} 
+ 
+ ==Other websites== 
+ * [http://wikitongues.org/ Official website] 
+ * [https://www.youtube.com/c/wikitongues Youtube channel] 
+ * [http://www.facebook.com/wikitongues Facebook page] 
+ * [https://www.instagram.com/wikitongues Instagram page] 
+ * [https://twitter.com/wikitongues Twitter page] 
+ * {{cite web |title=Saving Languages From Extinction |url=https://www.youtube.com/watch?v=WcMkmEzUE18 |website=[[Great Big Story]] |publisher=YouTube |date=17 April 2019}} 
+ * {{cite web |last1=Elmasry |first1=Faiza |title=Wikitongues Seeks to Save World’s Dying Languages |url=https://learningenglish.voanews.com/a/wikitongues-seeks-to-save-world-s-dying-languages/4783745.html |website=[[Voice of America]] |language=en |date=12 February 2019}} 
+ 
+ 
+ [[Category:2014 establishments in New York (state)]] 
+ [[Category:Non-profit organizations of New York (state)]] 
+ [[Category:Linguistics organizations]]

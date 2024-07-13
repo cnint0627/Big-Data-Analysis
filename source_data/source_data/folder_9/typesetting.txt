@@ -1,0 +1,70 @@
+[[Image:metal movable type.jpg|thumb|right|200px|[[Movable type]] on a [[composing stick]] on a type drawer.]] 
+ [[Image:A Specimen by William Caslon.jpg|thumb|bottom|200px|A specimen sheet issued by William Caslon, letter founder, from the 1728 edition of ''[[Cyclopaedia]]''.]] 
+ [[Image:Metal type.svg|thumb|right|200px|Diagram of a cast metal [[Sort (typesetting)|sort]].]] 
+ 
+ '''Typesetting''' is the making of block-printed writing which is formed by using [[wikt:type|types]] grouped from [[Sort (typesetting)|sorts]]. < ref name= " typesetting random house dictionary definition " > Dictionary.com Unabridged. Random House, Inc. 23 December 2009. [http://dictionary.reference.com/browse/typeset Dictionary.reference.com] < /ref > 
+ 
+ Typesetting uses the earlier steps of designing a font and storing it in some manner. Typesetting is the taking of the stored letters (called  " sorts "  in mechanical systems and  " glyphs "  in digital systems) and the ordering of them in the manner of a language's [[orthography]] for showing them on a page. 
+ 
+ ==Letterpress era== 
+ During the letterpress era, [[move]]able type was composed by hand for each [[page]]. Cast [[metal]] ''[[Sort (typesetting)|sorts]]'' were grouped into words and lines of text and tightly bound together to make up a page image called a ''forme''. All letter faces were set to the same height, to form an even surface of type. The forme was mounted in a machine press, inked, and an impression made on paper. 
+ 
+ The diagram at right shows a cast metal sort: '''a''' face, '''b''' body or shank, '''c''' point size, '''1''' shoulder, '''2''' nick, '''3''' groove, '''4''' foot. Wooden printing sorts were in use for centuries in combination with metal type.  
+ 
+ Copies of formes were cast when expecting later printings of a text, freeing the costly type for other work. In this process, called [[Stereotype (printing)|stereotyping]], the entire forme is pressed into a fine [[matrix]] such as [[plaster of Paris]] or [[papier mâché]] called Flong to create a positive, from which the stereotype forme was cast of type metal.  
+ 
+ Hand composing was rendered commercially obsolete by continuous casting or [[Hot metal typesetting|''hot-metal'' typesetting]] machines, such as the [[Linotype machine]] and [[Monotype]] at the end of the 19th century. The Linotype, invented by [[Ottmar Mergenthaler]], enabled one machine operator to do the work of ten hand compositors by automating the selection, use and replacement of sorts, with a keyboard as input. Later advances, such as the [[typewriter]] or [[computer]], pushed the state of the art even farther ahead. Still, hand composition and [[letterpress]] printing did not fall completely out of use. Since the introduction of digital typesetting, it has seen a renewal as an [[artisan]]al pursuit. However, it is a very small [[niche]] within the larger typesetting market. 
+ 
+ ==Phototypesetting== 
+ [[Image:Linotype CRTronic 360.jpg|thumb|right|200px|Linotype CRTronic 360 phototypesetting terminal.]] 
+ [[Phototypesetting|Phototypesetting or  " cold type " ]] systems first appeared in the early 1960s and rapidly displaced continuous casting machines. These devices consisted of glass [[disk]]s (one per font) that spun in front of a light source which selectively exposed characters onto light-sensitive paper. Originally they were driven by pre-punched paper tapes. Later they were hooked up to computer front ends. 
+ 
+ One of the earliest electronic photocomposition systems was introduced by Fairchild Semiconductor. The typesetter typed a line of text on a Fairchild keyboard that had no display. To verify correct content of the line it was typed a second time. If the two lines were identical a bell rang and the machine produced a [[punched tape|punched paper tape]] corresponding to the text. With the completion of a block of lines the typesetter fed the corresponding paper tapes into a phototypesetting device which mechanically set type outlines printed on glass sheets into place for exposure onto a negative [[photographic film|film]]. Photosensitive paper was exposed to light through the negative film, resulting in a column of black type on white paper, or a [[Galley proof|galley]].  The galley was then cut up and used to create a mechanical drawing or [[paste up]] of a whole page.  A large film negative of the page is shot and used to make a [[Printing plate|plate]]s for [[offset printing]]. 
+ 
+ ==Digital era== 
+ Before the 1980s, almost all typesetting for publishers and advertisers was done by specialist typesetting companies. These companies performed keyboarding, editing and production of paper or film output, and formed a large component of the graphic arts industry. In the United States, these companies were in rural Pennsylvania, New England or the Midwest where labor was cheap, and paper produced nearby, but still within a few hours' travel time of the major publishing centers. 
+ 
+ In 1985, [[desktop publishing]] became available, starting with the [[Apple Macintosh]], [[Adobe PageMaker|Aldus PageMaker]] (and later [[QuarkXPress]]) and [[PostScript]]. Improvements in software and hardware, and rapidly-lowering costs, popularized desktop publishing and enabled very fine control of typeset results at much lower cost than the minicomputer-based systems. At the same time, word processing systems such as [[Wang Laboratories|Wang]] and [[WordPerfect]] revolutionized office documents. They did not, however, have the typographic ability or flexibility required for complex book layout, graphics, mathematics, or advanced hyphenation and [[justification]] rules (''H and J''). 
+ 
+ By the year 2000, this industry segment had shrunk because publishers were now capable of integrating typesetting and graphic design on their own in-house computers. Many found that the cost of maintaining high standards of typographic design and technical skill made it more economical to out-source to freelancers and graphic design specialists. 
+ 
+ The availability of cheap, or free, [[font]]s made the conversion to do-it-yourself easier but also opened up a gap between skilled designers and amateurs. The advent of [[PostScript]], supplemented by the [[Portable Document Format|PDF]] file format, provided a universal method of proofing designs and layouts, readable on major computer and operating systems. 
+ 
+ ===SCRIPT variants=== 
+ IBM created and inspired a family of typesetting languages with names that were derivatives of the word  " SCRIPT " . Latter versions of SCRIPT included advanced features such as automatic generation of a table of contents and index, multi-column page layout, footnotes, boxes, automatic hyphenation and spelling verification. < ref > [http://web.utk.edu/~mnewman/ibmguide07.html U01-0547,  " Introduction to SCRIPT, " ] {{Webarchive|url=https://web.archive.org/web/20090606133838/http://web.utk.edu/~mnewman/ibmguide07.html |date=2009-06-06 }} is available through PRTDOC. < /ref > 
+ 
+ ===SGML and XML systems=== 
+ [[SGML]] (Standard Generalized Markup Language) was based upon [[GML]] (IBM Generalized Markup Language). GML was a set of macros on top of IBM SCRIPT. 
+ 
+ The arrival of [[SGML]]/[[XML]] as the document model made other typesetting engines popular. Such engines include Datalogics Pager, Penta, Miles 33's OASYS, Xyvision's [[XML Professional Publisher (XPP)]], [[FrameMaker]], [[Arbortext]], YesLogic's [[Prince XML|Prince]], [[QuarkXPress]] and Adobe [[InDesign]]. These products allow users to program their typesetting process around the SGML/XML with the help of scripting languages. Some of them, such as [[Arbortext]] Editor and [[XMetaL]] Author, provide attractive [[WYSIWYG]]-ish interfaces with support for XML standards and [[Unicode]] to attract a wider spectrum of users. 
+ 
+ ===Troff and successors=== 
+ During the mid-1970s Joseph Ossanna, working at [[Bell Laboratories]], wrote the troff (said as  " tee-roff " ) typesetting program to drive a Wang C/A/T [[phototypesetter]] owned by the Labs; it was later enhanced by [[Brian Kernighan]] to support output to different equipment such as [[laser printer]]s and the like. While its use has fallen off, it is still included with a number of [[Unix]] and [[Unix-like]] systems and has been used to typeset a number of high-profile technical and computer books. Some versions, as well as a [[GNU]] work-alike called [[groff (software)|groff]], are now [[open source]]. 
+ 
+ ===TeX and LaTeX=== 
+ [[Image:AMS Euler sample.png|right|200px|thumb|Mathematical text typeset using TeX and the AMS [[Euler font]].]] 
+ The [[TeX]] system, developed by [[Donald E. Knuth]] at the end of the 1970s, is another widespread and powerful automated typesetting system which has set high standards, especially for typesetting mathematics.  
+ 
+ ==Related pages== 
+ * [[Hot metal typesetting]] 
+ * [[Justification (typesetting)]] 
+ * [[Printing]] 
+ * [[Printing press]] 
+ * [[Sort (typesetting)]] 
+ * [[Technical writing]] 
+ * [[Typeface]] 
+ * [[Typography]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ {{enWiktionary|typesetting}} 
+ 
+ ==Other websites== 
+ *[http://www.metaltype.co.uk Metal Type - For Those who Remember Hot Metal Typesetting] 
+ *[http://www.tug.org/ TeX Users Group] 
+ *[http://sourceforge.net/apps/mediawiki/lout/index.php?title=Main_Page The Lout Document Formatting System] 
+ *[http://www.w3.org/XML/ XML page at www.W3C.org] 
+ *[http://xml.coverpages.org/sgml.html SGML page at www.xml.org] 
+ 
+ [[Category:Typography]] 
+ [[Category:Typesetting]]

@@ -1,0 +1,51 @@
+{{Infobox website 
+ | name = MusicBrainz 
+ | logo = MusicBrainz Logo (2016).svg 
+ | screenshot =  
+ | caption =  
+ | url = {{url|https://musicbrainz.org}} 
+ | commercial = No 
+ | type = Online music encyclopedia < ref > {{cite web|title=About|url=https://musicbrainz.org/doc/About|website=MusicBrainz|publisher=MetaBrainz|access-date=4 May 2015|archive-url=https://web.archive.org/web/20150508173335/http://musicbrainz.org/doc/About|archive-date=2015-05-08|url-status=live}} < /ref > 
+ | registration = Optional (required for editing data) 
+ | language = English 
+ | num_users = ~250,000 active ever 
+ | content_license = Part [[Creative Commons Zero]] ([[open data]]) and part [[CC-BY-NC-SA]] (not open); commercial licensing available 
+ | programming_language = [[Perl]] with [[PostgreSQL]] database 
+ | owner = [[MetaBrainz Foundation]] 
+ | author = Robert Kaye 
+ | launch_date = {{start date and age|2000|7|17}} < ref > {{cite web|title=WHOIS Lookup|url=http://whois.icann.org/en/lookup?name=musicbrainz.org|publisher=[[ICANN]]|access-date=23 March 2015|archive-url=https://web.archive.org/web/20150402135738/http://whois.icann.org/en/lookup?name=musicbrainz.org|archive-date=2015-04-02|url-status=live}} < /ref > 
+ | current_status = Online 
+ |logo_caption=Logo 2016.}} 
+ '''MusicBrainz''' is an music database. It is similar to the [[Breed|freedb]] project that aims to create an open data music database. The database captures information about artists, their recorded works, and create the relationships between them. 
+ 
+ == Client software == 
+ * [[Amarok (software)|Amarok]] — [[KDE]] audio player 
+ * [[Banshee (music player)|Banshee]] — multi-platform audio player 
+ * Beets — automatic [[Command-line interface|CLI]] music tagger/organiser for Unix-like systems 
+ * [[Clementine (software)|Clementine]] — multi-platform audio player 
+ * [[CDex]] — [[Microsoft Windows]] [[CD ripper]] 
+ * Demlo — a dynamic and extensible music manager using a [[command-line interface|CLI]] 
+ * iEatBrainz — [[macOS|Mac OS X]], deprecated 
+ * foo_musicbrainz component for [[Foobar 2000|foobar2000]] — music library/pudio Player 
+ * [[Jaikoz]] — [[Java (programming language)|Java]] mass tag editor 
+ * Max — Mac OS X CD ripper and audio [[transcode]]r 
+ * [[Mp3tag]] — Windows metadata editor and music organizer 
+ * [[MusicBrainz Picard]] — cross-platform album-oriented tag editor 
+ * MusicBrainz Tagger — deprecated Microsoft Windows tag editor 
+ * [[puddletag]] — a [[tag editor]] for [[PyQt]] under the [[GPLv3]] 
+ * [[Rhythmbox]] music player — an audio player for Unix-like systems 
+ * [[Sound Juicer]] — GNOME CD ripper 
+ * Zortam Mp3 Media Studio — [[Windows]] music organizer and ID3 tag editor 
+ 
+ [[Freedb]] clients could also access MusicBrainz data through the freedb protocol by using the MusicBrainz to FreeDB gateway service, mb2freedb. The gateway was shut down on March 18, 2019. < ref > {{cite web | url=https://blog.metabrainz.org/2018/09/18/freedb-gateway-end-of-life-notice-march-18-2019/ | title=Freedb gateway: End of life notice, March 18, 2019  | date=2018-09-18  | website=MetaBrainz Blog | access-date=2020-02-12}} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{commons category}} 
+ * {{Official website|http://musicbrainz.org|MusicBrainz}} – official site 
+ * [https://www.bbc.co.uk/music/brainz MusicBrainz] info at the [[BBC Online|BBC Music]] site 
+ 
+ [[Category:Music media]] 
+ [[Category:Entertainment websites]]

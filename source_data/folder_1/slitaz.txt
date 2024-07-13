@@ -1,0 +1,99 @@
+{{Orphan|date=May 2009}} 
+ 
+ {{infobox OS 
+ | name                   = SliTaz GNU/Linux 
+ | logo                   = Slitaz-logo.svg 
+ | screenshot             = Image:Slitaz-4.0.png 
+ | developer              = Christophe Lincoln 
+ | family                 = [[Linux]] 
+ | source_model           = [[Open source]] 
+ | latest_release_version = 5.0 (Rolling Release) 
+ | latest_release_date    = {{release date|2017|11|05}} 
+ | license                = [[Free software]] licenses < br > (mainly [[GNU GPL]]) 
+ | latest_test_version    =  
+ | latest_test_date       =  
+ | marketing_target = Live CD  
+ | language = 
+ | kernel_type = Monolithic kernel 
+ | working_state = Current 
+ | supported_platforms    = 
+ | updatemodel =  
+ | package_manager = Tazpkg 
+ }} 
+ 
+ '''SliTaz GNU/Linux''' is a software project started by Christophe Lincoln in 2006. It is one of the smallest desktop  [[Linux distribution]]s available  < ref > {{cite news  
+ |last=Bodnar  
+ |first=Ladislav  
+ |url=http://distrowatch.com/weekly.php?issue=20080331#feature 
+ |title=First look at SliTaz GNU/Linux 1.0, the smallest desktop distro on earth 
+ |publisher=Distrowatch 
+ |date=2008-03-31  
+ |accessdate=2008-03-31}} 
+ < /ref >  It can be loaded entirely into [[Random access memory|RAM]] or be installed to a hard drive. < ref > {{cite news 
+ |last=Auza 
+ |first=Jun 
+ |url=http://www.junauza.com/2008/03/slitaz-gnulinux-smallest-desktop-distro.html 
+ |title=SliTaz GNU/Linux, the Smallest  " Desktop "  Distro Ever Created 
+ |publisher=Tech Source From Bohol 
+ |date=2008-03-28 
+ |accessdate=2008-03-28}} < /ref > 
+ 
+ == History == 
+ 
+ SliTaz 1.0 was released on March 22, 2008. SliTaz shares many common goals with [[Damn Small Linux]], but is smaller and based on the more recent Linux 2.6 kernel. 
+ 
+ == Issues == 
+ {| class= " wikitable " 
+ !Version 
+ !Stability 
+ !Release date 
+ |- 
+ |1.0 
+ |stable version 
+ |March 22, 2008 
+ |- 
+ |2.0 
+ |stable version 
+ |March 2009 
+ |- 
+ |3.0 
+ |stable version 
+ |March 2010 
+ |- 
+ |4.0 
+ |stable version 
+ |April 10, 2012 
+ 
+ |- 
+ |Raspberry Pi 
+ |ARM platform 
+ |March 29, 2014 
+ |- 
+ |5.0RC-1 
+ |Release Candidate 1 
+ |May 2, 2014 
+ |- 
+ |5.0RC-2 
+ |Release Candidate 2 
+ |May 19, 2014 
+ |- 
+ |5.0 Cooking 
+ |Unstable / Rolling Release 
+ |November 5, 2017 
+ |} 
+ == Gallery == 
+ < gallery > 
+ Image:SliTaz-GNU-Linux 1.png|Stable 1.0 
+ Image:SliTaz-Ver2.0-screenshot.png|Stable 2.0 
+ Image:SliTaz-Ver3.0-screenshot.png|Stable 3.0 
+ Image:Slitaz-4.0.png|Stable 4.0 
+ Image:Slitaz-cooking-20101104.png|Cooking 5.0 
+ < /gallery > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.slitaz.org/en/ SliTaz GNU/Linux official website] 
+ 
+ [[Category:Linux distributions]]

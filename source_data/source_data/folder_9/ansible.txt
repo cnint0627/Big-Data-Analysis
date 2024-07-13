@@ -1,0 +1,40 @@
+An '''ansible''' is a kind of fictional device or technology. Ansibles can communicate faster than light. It can send and receive messages to and from a corresponding device over any distance or obstacle whatsoever with no delay, even between star systems. As a name for such a device, the word  " ansible "  first appeared in a 1966 novel ''[[Rocannon's World]]'' by [[Ursula K. Le Guin]] < ref name=Sheidlower/ > < ref name=Bernardo/ >  The word shortened from  " answerable. "  It allowed users to receive answers to their messages quickly, even over [[interstellar communication|interstellar]] distances. < ref name=Quinion/ >   
+ 
+ == In Le Guin's works == 
+ * ''[[The Dispossessed]]'', Le Guin's 1974 novel in the [[Hainish Cycle]], tells about the invention of the ansible. < ref name=LeGuin1974/ > 
+ * In ''[[The Word for World Is Forest]]'', Le Guin explains for two ansibles to communicate, at least one  " must be on a large-mass body "  but the other can be anywhere. 
+ * In ''[[The Left Hand of Darkness]]'', Le Guin wrote that the ansible does not use radio but is similar to gravity. 
+ 
+ Any ansible may be used to communicate through any other, by setting its coordinates to those of the receiving ansible. They have a limited [[bandwidth (computing)|bandwidth]] which only allows for at most a few hundred characters of text to be communicated in any transaction of a dialog session, and are attached to a keyboard and small display to perform text messaging. 
+ 
+ === Other writers === 
+ Many other writers have ansibles in their fiction. Examples include: 
+ * [[Neal Asher]], in his Polity series of novels including ''[[Gridlinked]]'' (2001), in which the [[runcible]], named in homage to the ansible, is an interstellar wormhole generator/teleporter 
+ * [[Becky Chambers (author)|Becky Chambers]], in the 2014 novel ''[[The Long Way to a Small, Angry Planet]]'' 
+ * [[L.A. Graf]], in the 1996 ''[[Star Trek: Deep Space Nine]]'' novel ''Time's Enemy'' < ref name=Graf1996/ > 
+ * [[Jason Jones (programmer)|Jason Jones]], in the 1995 computer game ''[[Marathon 2: Durandal]]'' < ref name=Jones/ > 
+ * [[J._M._McDermott|Joe M. McDermott]], in the 2017 novel ''The Fortress at the End of Time'' < ref name=McDermott2017/ > 
+ * [[Elizabeth Moon]], in the 1995 novel ''[[Winning Colors (novel)|Winning Colors]]'' < ref name=Moon1995/ > 
+ * [[Remigiusz Mróz]], in the 2014 space-opera ''[[The Chorus of Forgotten Voices]]'' ''(Chór zapomnianych głosów)'' 
+ * [[Philip Pullman]], in the 2000 novel ''[[The Amber Spyglass]]'', part of the ''[[His Dark Materials]]'' trilogy. 
+ * [[Kim Stanley Robinson]], in the 2012 novel ''[[2312 (novel)|2312]]'' < ref name=Robinson2012/ > 
+ * [[Dan Simmons]], in the 2003 novel ''[[Ilium (novel)|Ilium]]'' < ref name= " Simmons " / > 
+ * [[Vernor Vinge]], in the 1988 short story  " The Blabber " < ref name= " Vinge " / > 
+ 
+ == References == 
+ {{Reflist|30em|refs= 
+ < ref name=Bernardo > {{cite book |title=Ursula K. Le Guin: A Critical Companion |url=https://archive.org/details/ursulakleguincri00bern |last1=Bernardo |first1=Susan M. |last2=Murphy |first2=Graham J. |publisher=[[Greenwood Press]] |location=Westport, CT |edition=1st |year=2006 |isbn=0-313-33225-8 |page=[https://archive.org/details/ursulakleguincri00bern/page/18 18] }} < /ref > 
+ < ref name=Graf1996 > {{cite book |last=Graf |first=L.A. [Cercone, Karen Rose; Ecklar, Julia] |title=Time's Enemy |url=https://books.google.com/books?id=LCKooiecpz0C & pg=PT161 |series=Star Trek: Deep Space Nine |volume=''Invasion'', Book 3 |year=1996 |publisher=Simon and Schuster |isbn=978-0-6715-4150-7 |page=203 |quote=The two Dax symbionts can communicate with each other across space, instantaneously, because they're composed of identical quantum particles. I've become a living ansible, Benjamin. }} < /ref > 
+ < ref name=Jones > {{cite video game |developer=[[Jason Jones (programmer)|Jones, Jason]] |developer2=Kirkpatrick, Greg |date=November 24, 1995 |title=[[Marathon 2: Durandal]] |location=Chicago, Illinois |publisher=[[Bungie]] |quote=A connection [?ansible] was left; awaiting the next quiet [?peace]; and though destroyed by the threes, it will scream over the void one time. }} < /ref > 
+ < ref name=LeGuin1974 > {{cite book |last=Le Guin |first=Ursula K. |author-link=Ursula K. Le Guin |title=The Dispossessed |url=https://archive.org/details/dispossessedambi00guin |orig-year=June 1974 |edition=mass ppb. |year=2001 |publisher=Eos/[[HarperCollins]] |location=New York |isbn=0-06-105488-7 |page=[https://archive.org/details/dispossessedambi00guin/page/n282 276] |quote=They print Reumere's plans for the ansible. 'What is the ansible?' 'It's what he's calling an instantaneous communication device.' }} < /ref > 
+ < ref name=McDermott2017 > {{cite book |last=McDermott |first=Joe M. |title=The Fortress at the End of Time |url=https://books.google.com/books?id=gYvUDAAAQBAJ & pg=PT5 |year=2017 |publisher=[[Tor Books|Tom Doherty Associates]] |isbn=978-0-7653-9280-0 |page=1 |quote=We are born as memories and meat. The meat was spontaneously created in the ansible's quantum re-creation mechanism, built up from water vapor, hydrogen, carbon dioxide, and various other gases out of storage. The memory is what we carry across from one side of the ansible to the other, into the new flesh. }} < /ref > 
+ < ref name=Moon1995 > {{cite book |last=Moon |first=Elizabeth |author-link=Elizabeth Moon |title=Winning Colors |edition=mass ppb. |year=1995 |publisher=Baen |location=Riverdale, NY |isbn=0-671-87677-5 |page=[https://archive.org/details/winningcolors00eliz/page/89 89] |quote=...when I was commissioned, we didn't have FTL communications except from planetary platforms. I was on ''Boarhound'' when they mounted the first shipboard ansible, and at first it was only one-way, from the planet to us. |url=https://archive.org/details/winningcolors00eliz/page/89 }} < /ref > 
+ < ref name=Quinion > {{cite web |url=http://www.worldwidewords.org/weirdwords/ww-ans1.htm |work=World Wide Words |title=Ansible |last=Quinion |first=Michael }} < /ref > 
+ < ref name=Robinson2012 > {{cite book |last=Robinson |first=Kim Stanley |author-link=Kim Stanley Robinson |title=2312 |url=https://books.google.com/books?id=Lll8yGgQjV8C & pg=PT227 |year=2012 |publisher=Orbit |isbn=978-0-316-19280-4 |page=227 }} < /ref > 
+ < ref name=Sheidlower > {{cite web |title=ansible n. |url=http://www.jessesword.com/sf/view/16 |work=Science Fiction Citations for the [[OED]] |access-date=2014-03-15 |editor-last=Sheidlower |editor-first=Jesse |editor-link=Jesse Sheidlower |date=July 6, 2008 }} < /ref > 
+ < ref name=Simmons > {{cite book |last=Simmons |first=Dan |author-link=Dan Simmons |title=Ilium |edition=hbk. |year=2003 |publisher=Eos/[[HarperCollins]] |location=New York |isbn=0-380-97893-8 |page=[https://archive.org/details/ilium00simm/page/98 98] |quote=I can see Nightenhelser madly taking notes on his recorder ansible. |url=https://archive.org/details/ilium00simm/page/98 }} < /ref > 
+ < ref name=Vinge > {{cite book |last=Vinge |first=Vernor |author-link=Vernor Vinge |title=Threats  &  Other Promises |url=https://archive.org/details/threatsotherprom0000ving |year=1988 |publisher=Baen |location=Riverdale, NY |isbn=0-671-69790-0 |page=[https://archive.org/details/threatsotherprom0000ving/page/254 254] |chapter=[[The Blabber]] |quote='It's an ansible.' 'Surely they don't call it that!' 'No. But that's what it is.' }} < /ref > 
+ }} 
+ 
+ [[Category:Communication]] 
+ [[Category:Fiction]]

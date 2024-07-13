@@ -1,0 +1,23 @@
+{| align=right class=wikitable 
+ |[[Image:Complete graph K5.svg|80px]] < BR > [[4-simplex]] < BR > (5-cell) 
+ |[[Image:Cross graph 4.svg|80px]] < BR > [[4-orthoplex]] < BR > (16-cell) 
+ |[[Image:Hypercubestar.svg|80px]] < BR > [[4-cube]] < BR > (Tesseract) 
+ |- 
+ |valign=top|[[Image:24-cell graph ortho.png|80px]] < BR > [[24-cell]] 
+ |valign=top|[[Image:120-cell petrie polygon.svg|80px]] < BR > [[120-cell]] 
+ |valign=top|[[Image:600-cell petrie polygon.svg|80px]] < BR > [[600-cell]] 
+ |- 
+ !colspan=3|Graphs of six [[convex regular 4-polytope]]. 
+ |} 
+ [[Image:Hypercube.svg|250px|thumb|The [[tesseract]] is the best known polychoron, containing eight [[cube|cubic]] [[Cell (geometry)|cells]], three around each edge.It is viewed here as a [[Schlegel diagram]] projection into 3-space, distorting the regularity, but keeping its topological continuity. The eighth cell projects into the volume of space exterior to the boundary.]] 
+ 
+ In [[geometry]], a '''polychoron''' (plural: '''polychora''') is a figure in four dimensions. The word comes from [[Greek language|Greek]] ''poly'', which means ''many'' and ''choros'' which means ''room'', or ''space''. Sometimes the figure is called '''4-[[polytope]]''' or '''polyhedroid'''. The analogue figure in two dimensions is a [[polygon]], and the one in three dimensions is a [[polyhedron]].  
+ 
+ 
+ ==Other websites== 
+ *{{Mathworld | urlname=Polychoron | title=Polychoron }} 
+ *[http://members.aol.com/Polycell/uniform.html Four dimensional figures page] 
+ *[http://www.polytope.net/hedrondude/polychora.html Jonathan Bowers: Uniform polychora] 
+ 
+ 
+ [[Category:Shapes]]

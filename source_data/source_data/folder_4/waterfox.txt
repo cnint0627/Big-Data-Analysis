@@ -1,0 +1,49 @@
+{{Infobox software 
+ | name = Waterfox 
+ | logo = Waterfox logo 2020.png 
+ | screenshot = Waterfox in Wikipedia.png 
+ | caption = Screenshot of Waterfox G5.1.9 running on Windows 10, showing the English Wikipedia. 
+ | developer = Waterfox Limited 
+ | released = March 27, 2011 
+ | latest release version = G5.1.10 
+ | latest release date = August 01, 2023 
+ | latest preview version = G6.0 Beta 3 
+ | latest preview date = August 23, 2023 
+ | programming language = [[C (programming language)|C]], [[C++]], CSS, [[JavaScript]], [[XUL]] 
+ | operating system = [[Windows 7]] or later, [[macOS|Mac]], [[Linux]] 
+ | engine = Gecko, SpiderMonkey 
+ | platform = x64, ARM64, PPC64LE 
+ | license = [[Mozilla Public License|MPL-2.0]] 
+ }} 
+ 
+ Waterfox is a [[Free and open-source software|free and open-source]] [[Web browser|browser]] based on [[Mozilla Firefox|Firefox]]. It was first made for [[64-bit computing|64-bit]] systems, back when Firefox was only for [[32-bit computing|32-bit]]. Now, it is focused on speed and privacy. < ref > {{cite web |title=What is Waterfox and Is It Safe? |url=https://www.makeuseof.com/is-waterfox-safe/ |website=MUO |accessdate=24 August 2023 |ref=1}} < /ref > < ref > {{cite web |last1=Proven |first1=Liam |title=Waterfox: A Firefox fork that could teach Mozilla a lesson |url=https://www.theregister.com/2021/11/04/waterfox_firefox_fork/ |website=The Register |accessdate=24 August 2023 |ref=2}} < /ref > 
+ 
+ == Waterfox Current == 
+ < small > ''Also called Waterfox G.'' < /small > 
+ 
+ Waterfox Current is almost the same as Firefox. They both use Gecko and SpiderMonkey to show [[Website|websites]]. It also works with Firefox, [[Google Chrome|Chrome]], and [[Opera (web browser)|Opera]] extensions. It turns off [[telemetry]] (data collection) and Pocket (web service). But, it collects details about the user's device to send the right updates (new changes) to the user's browser. < ref > {{cite web |last1=Proven |first1=Liam |title=Waterfox: A Firefox fork that could teach Mozilla a lesson |url=https://www.theregister.com/2021/11/04/waterfox_firefox_fork/ |website=The Register |accessdate=24 August 2023 |ref=2}} < /ref > < ref > {{cite web |title=FAQ |url=https://www.waterfox.net/en-US/docs/faq/ |website=Waterfox |accessdate=24 August 2023 |ref=3}} < /ref > 
+ 
+ == Waterfox Classic == 
+ [[File:Waterfox Classic in Wikipedia.png|left|Screenshot of Waterfox Classic running on Windows 10, showing the English Wikipedia.|thumb|220x220px]] 
+ 
+ Waterfox Classic is a copy of the browser that uses the older copy of Gecko that still works with XUL and XPCOM add-ons. These add-ons do not work anymore on copies after Firefox 57. < ref > {{cite web |last1=Needham |first1=Kev |title=The Future of Developing Firefox Add-ons |url=https://blog.mozilla.org/addons/2015/08/21/the-future-of-developing-firefox-add-ons/ |website=blog.mozilla.org |accessdate=24 August 2023 |ref=4}} < /ref >  The browser can also be easily seen as similar to Firefox 57, showing the default Australis theme. 
+ 
+ It is still being kept up with the security changes from Waterfox Current and Firefox ESR. But, it has some security problems that are not fixed yet. This is because some new changes would not work on it.  < ref > {{cite web |title=Waterfox Classic development will continue, but as a separate project from G4 |url=https://www.ghacks.net/2021/11/04/waterfox-classic-development-will-continue-but-as-a-separate-project-from-g4/ |website=ghacks.net |accessdate=24 August 2023 |ref=5}} < /ref > 
+ 
+ == History == 
+ On March 27, 2011, Waterfox was first posted and distributed (given) by Alex Kontos for 64-bit Windows. < ref > {{cite web |last1=Kontos |first1=Alex |title=About Waterfox |url=https://www.waterfox.net/en-US/docs/about-waterfox/ |website=Waterfox |accessdate=24 August 2023 |ref=6}} < /ref >  The copy for Mac was posted on May 14, 2015, after version 38.0 was posted. The copy for [[Linux]] was posted on December 20, 2016, after version 50.0 was posted.  
+ 
+ From July 22, 2015, to November 12, 2015, Waterfox had its search engine called  " Storm "  based on [[Yahoo! Search]]. It was made with investor funding and it raised money for Waterfox and charity (giving money to the needy). < ref > {{cite web |title=New search engine from Waterfox founder aims to take a punch at Google |url=https://www.telegraph.co.uk/finance/businessclub/technology/11598207/New-search-engine-from-Waterfox-founder-aims-to-take-a-punch-at-Google.html |website=The Telegraph |accessdate=24 August 2023 |ref=7}} < /ref > 
+ 
+ In December 2019, System1, an advertising (paid notice) company that claims to be focused on privacy, bought Waterfox. < ref > {{cite web |last1=Brinkmann |first1=Martin |title=Waterfox web browser sold to System1 |url=https://www.ghacks.net/2020/02/14/waterfox-web-browser-sold-to-system1/ |website=ghacks.net |accessdate=24 August 2023 |ref=8}} < /ref >  In July 2023, Alex Kontos said that Waterfox is an independent and separate project again. < ref > {{cite web |last1=Kontos |first1=Alex |title=A New Chapter for Waterfox |url=https://www.waterfox.net/en-US/blog/a-new-chapter-for-waterfox/ |website=Waterfox |accessdate=24 August 2023 |ref=9}} < /ref > 
+ 
+ == References == 
+ < references / > 
+ 
+ == Related pages == 
+ * [[Web browsers based on Firefox]] 
+ * [[:en:Waterfox|Waterfox in English Wikipedia]] 
+ * [https://www.waterfox.net/en-US/ Official Waterfox Website] 
+ 
+ [[Category:Web browsers]] 
+ [[Category:Free software]]

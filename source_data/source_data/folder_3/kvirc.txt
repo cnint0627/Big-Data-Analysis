@@ -1,0 +1,42 @@
+#REDIRECT [[KVIrc]]
+ | name                   = KVIrc 
+ | caption                = A screenshot of KVIrc 
+ | developer              = [[Szymon Stefanek]] 
+ | programming language   = [[C++]] 
+ | operating system       = [[Cross-platform]] 
+ | genre                  = [[IRC client]] 
+ | license                = Modified [[GNU General Public License|GPL]] 
+ | website                = [http://www.kvirc.de/ www.kvirc.de] 
+ | latest release version = 3.4.2 stable - 3.4.3/4.0rc2 in SVN 
+ }} 
+ '''KVIrc''' is a multilanguage, graphical [[IRC client]] for [[Microsoft Windows|Windows]], [[Linux]], [[Unix]] and [[Mac OS]]. The ''K'' in ''K Visual IRC'' was for a dependancy to [[K Desktop Environment|KDE]], which became optional from version 2.0.0. 
+ 
+ == Features == 
+ KVIrc is able to connect to several servers at the same time (optional with [[Transport Layer Security|SSL]] and/or [[IPv6]]). [[Unicode]], [[ISO 8859|ISO-8859-*]]-Codes, Asian and windows-native char sets are supported. A special feature is the smart encoding, which allows you to use 2 encodings at the same time; you can send unicode and read unicode and cp-1252 for example. 
+ 
+ Additional to the [[mIRC]]-Codes for bold, underlined and colored fonts, KVIrc owns a graphical emoticon and avatar system. This feature can be turned off. 
+ 
+ KVIrc has its own script language named ''KVS'' for extensions, addons and scripts. 
+ Every channel, term and DCC Chat is encryptable with Blowfish or AES/Rijndael. 
+ 
+ With ''split window mode'', ''users'' can divide their channel window into 2, one for chat messages and one for  " commands "  like joins/parts/mode changes. The size of the windows is variable, so they can hide the command window. 
+ 
+ The ''Socket spy'' feature helps developers and users to watch the raw communication between client and server to debug. 
+ 
+ == Development == 
+ Official stable releases are not often made, but in SVN is mostly a stable version to use. 
+ 
+ KVIrc 4.2.0 was released on July, 3rd 2012. 
+ 
+ ==Related pages== 
+ *[[List of IRC clients]] 
+ 
+ ==Other websites== 
+ *[http://www.kvirc.de Official site] {{Webarchive|url=https://web.archive.org/web/20210506175333/https://www.kvirc.de/ |date=2021-05-06 }} 
+ *[http://forum.kvirc.ru Official forum] {{Webarchive|url=https://web.archive.org/web/20101121134859/http://forum.kvirc.ru/ |date=2010-11-21 }} 
+ *[http://www.kvirc.ru Official Russian site] {{Webarchive|url=https://web.archive.org/web/20210225164603/http://www.kvirc.ru/ |date=2021-02-25 }} 
+ *[ftp://ftp.kvirc.de Official Download FTP]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} 
+ 
+ {{IRC footer}} 
+ 
+ [[Category:IRC clients]]

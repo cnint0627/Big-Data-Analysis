@@ -1,0 +1,24 @@
+'''Spintronics''' is a kind of [[electronics]] that uses the tiny [[magnetic field]]s that come from [[electron]]s as well as their [[electric charge]]. The word ''spintronics'' is made up of the words ''spin'' and ''electronics'' 
+ 
+ In [[atom]]s, electrons can be said to go around the [[nucleus]] of an atom and possess some [[wikt:spin|spinning]] energy. They also have  their own spin, like a spinning top, which  is separate from the atom and they keep even when they are moving  freely. There are two ways for  something  to spin, clockwise and anti-clockwise. In the tiny [[Quantum mechanics|quantum]] world the terms  'up' or 'down' are used instead.  
+ 
+ The electron spin of large numbers of electrons plays a role as a source of the [[magnetism]] in permanent magnets. In most materials these spins are random in direction and so no magnetic field results. In normal electronics  the flow of current in a wire  can also be used to produce a magnetic field which is known as [[electromagnetism]]. Neither of these form a part of spintonics. 
+ 
+ In spintronics the property of the spin of the electrons themselves is used directly.  It  makes use of the electrons in a solid [[metal]] or [[semiconductor]]. 
+ 
+ In spintronics the electron spin of just a few electrons in a material are made to align in one direction by briefly applying a very large magnetic field. Even when the magnetic field is removed the electrons will remain aligned in  their spins. This alignment will slowly fade away over time but will persist for a while. 
+ 
+ Since these aligned spins produce a resultant  magnet field they can be detected and even used to move  the electrons.   
+ 
+ The deliberate moving of only those electrons with a certain spin  can be used to store information and this technology has been called spintronics to distinguish it from conventional use of electrons in electronics which uses their electric charge only. 
+ 
+ Spintronics is an area of research in which scientists are trying to make useful devices and are making progress. Some devices write the electron spin codes into the surface of a moving disk and others make them in sold transistor junctions as [[Random-access memory|RAM]]. They promise a technology that could create faster and  smaller electronic devices that  use less energy. 
+ 
+ == Other websites == 
+ * [http://www.ijsrp.org/research-paper-0613/ijsrp-p18104.pdf Utilization of Spintronics], Jitendra S. Pingale, Mukesh D. Patil, Umar I. Masumdar. ''International Journal of Scientific and Research Publications'', Volume 3, Issue 6, June 2013. ISSN 2250-3153 . 
+ 
+ [[Category:Electronics]] 
+ 
+ 
+ {{stub}} 
+ {{Emerging technologies}}

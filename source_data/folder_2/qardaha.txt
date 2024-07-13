@@ -1,0 +1,222 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > 
+ |official_name          = Qardaha 
+ |other_name             = 
+ |native_name            = قرداحة 
+ < !-- for cities whose native name is not in English -- > 
+ |nickname               =  
+ |settlement_type        =  < !--For Town or Village (Leave blank for the default City)-- > 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          =  
+ |imagesize              =  
+ |image_caption          =  
+ |image_flag             =  
+ |flag_size              = 
+ |image_seal             =  
+ |seal_size              = 
+ |image_shield           =  
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              =  
+ |mapsize                =  
+ |map_caption            =  
+ |image_map1             =  
+ |mapsize1               =  
+ |map_caption1           =  
+ |image_dot_map          = 
+ |dot_mapsize            = 
+ |dot_map_caption        = 
+ |dot_x =  |dot_y = 
+ |pushpin_map            = Syria  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ |pushpin_label_position =bottom 
+ |pushpin_mapsize        =250 
+ |pushpin_map_caption    =Location in Syria 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = [[Syria]] 
+ |subdivision_type1      = [[Governorates of Syria|Governorate]] 
+ |subdivision_name1      = [[Latakia Governorate]] 
+ |subdivision_type2      = [[Districts of Syria|District]] 
+ |subdivision_name2      = [[Qardaha District]] 
+ |subdivision_type3      =  
+ |subdivision_name3      =  
+ |subdivision_type4      =  
+ |subdivision_name4      = 
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            = 
+ |leader_title1          =   < !-- for places with, say, both a mayor and a city manager -- > 
+ |leader_name1           = 
+ |leader_title2          = 
+ |leader_name2           = 
+ |leader_title3          = 
+ |leader_name3           = 
+ |leader_title4          = 
+ |leader_name4           = 
+ |established_title      =   < !-- Settled -- > 
+ |established_date       =  
+ |established_title2     =   < !-- Incorporated (town) -- > 
+ |established_date2      =  
+ |established_title3     =   < !-- Incorporated (city) -- > 
+ |established_date3      = 
+ < !-- Area    --------------------- > 
+ |unit_pref                =Metric  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ |area_footnotes           = 
+ |area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ |area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ |area_water_km2           = 
+ |area_total_sq_mi         = 
+ |area_land_sq_mi          = 
+ |area_water_sq_mi         = 
+ |area_water_percent       = 
+ |area_urban_km2           = 
+ |area_urban_sq_mi         = 
+ |area_metro_km2           = 
+ |area_metro_sq_mi         = 
+ |area_blank1_title        = 
+ |area_blank1_km2          = 
+ |area_blank1_sq_mi        = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               = 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               = 
+ |population_density_km2         = 
+ |population_density_sq_mi       = 
+ |population_metro               = 
+ |population_density_metro_km2   = 
+ |population_density_metro_sq_mi = 
+ |population_urban               = 
+ |population_density_urban_km2   = 
+ |population_density_urban_sq_mi = 
+ |population_blank1_title        =Ethnicities 
+ |population_blank1              = 
+ |population_blank2_title        =Religions 
+ |population_blank2              = 
+ |population_density_blank1_km2 =    
+ |population_density_blank1_sq_mi = 
+ < !-- General information  --------------- > 
+ |timezone               =   
+ |utc_offset             =  
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ |coordinates={{coord|35|27||N|36|0||E|region:SY|display=inline,title}} 
+ |elevation_footnotes    =   < !--for references: use  < ref >   < /ref >  tags-- > 
+ |elevation_m            = 330 
+ |elevation_ft           = 
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ |postal_code            = 
+ |area_code              =  
+ |blank_name             = 
+ |blank_info             = 
+ |blank1_name            = 
+ |blank1_info            = 
+ |website                =  
+ |footnotes              =  
+ }} 
+ 
+ '''Qardaha''' ({{lang-ar|قرداحة}}) is a small town in northwestern [[Syria]]. It is the capital of the [[Qardaha District]]. It is the home town of Syrian President [[Bashar al-Assad]]. < ref > {{cite web |url=http://www.dailystar.com.lb/News/Middle-East/2012/Oct-04/190093-tension-spreads-to-assads-hometown.ashx#axzz2ATgKmm5a |title=Tension spreads to Assad’s hometown |first=Martin |last=Dick |work=dailystar.com.lb |year=4 October 2012 |accessdate=27 October 2012 |archive-date=11 October 2017 |archive-url=https://web.archive.org/web/20171011083324/http://www.dailystar.com.lb//News/Middle-East/2012/Oct-04/190093-tension-spreads-to-assads-hometown.ashx#axzz2ATgKmm5a |url-status=dead }} < /ref > 
+ 
+ ==Weather== 
+ < div style= " width: 85%; " > 
+ {{Weather box 
+ | location = Qardaha 
+ | metric first = yes 
+ | single line = yes 
+ | temperature colour= pastel 
+ | Jan high C = 7 
+ | Feb high C = 11 
+ | Mar high C = 15 
+ | Apr high C = 19 
+ | May high C = 24 
+ | Jun high C = 28 
+ | Jul high C = 29 
+ | Aug high C = 28 
+ | Sep high C = 26 
+ | Oct high C = 23 
+ | Nov high C = 17 
+ | Dec high C = 10 
+ | Jan mean C =  
+ | Feb mean C =  
+ | Mar mean C =  
+ | Apr mean C =  
+ | May mean C =  
+ | Jun mean C =  
+ | Jul mean C =  
+ | Aug mean C =  
+ | Sep mean C =  
+ | Oct mean C =  
+ | Nov mean C =  
+ | Dec mean C =  
+ | Jan low C = 3 
+ | Feb low C = 6 
+ | Mar low C = 6 
+ | Apr low C = 8 
+ | May low C = 13 
+ | Jun low C = 17 
+ | Jul low C = 20 
+ | Aug low C = 20 
+ | Sep low C = 17 
+ | Oct low C = 15 
+ | Nov low C = 9 
+ | Dec low C = 5 
+ | Jan precipitation mm = 182 
+ | Feb precipitation mm = 119 
+ | Mar precipitation mm = 63 
+ | Apr precipitation mm = 40 
+ | May precipitation mm = 29 
+ | Jun precipitation mm = 6 
+ | Jul precipitation mm = 4 
+ | Aug precipitation mm = 1 
+ | Sep precipitation mm = 37 
+ | Oct precipitation mm = 79 
+ | Nov precipitation mm = 90 
+ | Dec precipitation mm = 178 
+ | unit rain days = 1 & nbsp;mm 
+ | Jan rain days = 16 
+ | Feb rain days = 14 
+ | Mar rain days = 11 
+ | Apr rain days = 8 
+ | May rain days = 4 
+ | Jun rain days = 1 
+ | Jul rain days = 1 
+ | Aug rain days = 1 
+ | Sep rain days = 4 
+ | Oct rain days = 7 
+ | Nov rain days = 11 
+ | Dec rain days = 14 
+ | year rain days = 
+ | unit snow days = 1 & nbsp;cm 
+ | Jan snow days = 3 
+ | Feb snow days = 1 
+ | Mar snow days = 0 
+ | Apr snow days = 0 
+ | May snow days = 0 
+ | Jun snow days = 0 
+ | Jul snow days = 0 
+ | Aug snow days = 0 
+ | Sep snow days = 0 
+ | Oct snow days = 0 
+ | Nov snow days = 0 
+ | Dec snow days = 1 
+ | year snow days = 5 
+ | source 1 = |source = {{citationneeded|date=June 2017}} 
+ }} 
+ 
+ ''Source #3'' '''Climate Zone''' (Rainy and snowy days) & nbsp; < ref name= " rain " > {{cite web |url= http://www.climate-zone.com/climate/algeria/fahrenheit/constantine.htm |title= Climate |publisher= Climate Zone |accessdate= 25 February 2013}} < /ref > 
+ < /div > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{asia-stub}} 
+ 
+ [[Category:Cities in Syria]]

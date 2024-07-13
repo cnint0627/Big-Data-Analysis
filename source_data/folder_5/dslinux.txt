@@ -1,0 +1,21 @@
+[[File:Ds_lite_with_slot-2_device_running_dslinux.jpg|thumb|290px|DSLinux running]] 
+ '''DSLinux''' is a port of the [[Linux]] operating system to the [[Nintendo DS]] platform. It requires only a device capable of writing to a [[DS Game Cart]]. 
+ 
+ DSLinux is not the same as DSL ([[Damn Small Linux]].) 
+ 
+ == Criticism == 
+ DSLinux has been criticized, some of these thing are for: 
+ * Hard to use 
+ * Hard to install (few devices capable of writing to a [[DS Game Cart]]), not really true if you're using a 2DS or 3DS. 
+ 
+ ==Related pages== 
+ * [[Linux]] 
+ * [[Embedded Linux]] 
+ 
+ == Other websites == 
+ * [http://www.dslinux.org/ Official Website] 
+ *[https://dslinux.org/wiki/MainPage.html DSLinux Wiki] 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Linux distributions]]

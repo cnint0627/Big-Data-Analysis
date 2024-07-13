@@ -1,0 +1,115 @@
+{{Infobox programming language 
+ | name                   = Lua 
+ | logo                   = Lua-Logo.svg 
+ |paradigm=Multi-paradigm: [[scripting language|scripting]], [[imperative programming|imperative]] (procedural, prototype-based, [[object-oriented programming|object-oriented]]), [[functional programming|functional]] 
+ | year                   = 1993 < ref name= " luaabout "  / > 
+ | designer               = Roberto Ierusalimschy < ref name= " hopl2007 "  / > < br / >  Waldemar Celes < ref name= " hopl2007 "  / > < br / >  Luiz Henrique de Figueiredo < ref name= " hopl2007 "  / > 
+ | developer              = 
+ | latest release version = {{wikidata|property|reference|edit|P348}} 
+ | latest release date = {{Start date and age|{{wikidata|qualifier|P348|P577}}}} 
+ | latest_preview_version = 
+ | latest preview date    = 
+ | typing                 = dynamic, strong, [[Duck typing|duck]] 
+ | implementations='''Lua''', [http://luajit.org/ LuaJIT], [http://code.google.com/p/llvm-lua/ LLVM-Lua], [http://code.google.com/p/lua-alchemy/ Lua Alchemy] [http://luvit.io/ Luvit] 
+ | dialects               = [http://metalua.luaforge.net/ Metalua], [http://idle.thomaslauer.com/ Idle], [http://www.nongnu.org/gsl-shell/ GSL Shell] 
+ [https://roblox.github.io/luau/ Luau] 
+ | programming_language = [[C (programming language)|ANSI C]] 
+ | influenced_by          = [[C++]], CLU, Modula, [[Scheme (programming language)|Scheme]], SNOBOL 
+ | influenced=Io, GameMonkey, Squirrel, Falcon, MiniD 
+ | operating_system       = [[Cross-platform]] 
+ | license                = [[MIT License]] < ref name= " license " > {{Cite web 
+                            |url=http://www.lua.org/license.html 
+                            |title=Lua: license 
+                            |author= 
+                            |work=Lua.org 
+                            |publisher= 
+                            |accessdate=6 April 2011}} < /ref > 
+ | website                = {{URL|http://www.lua.org/}} 
+ | wikibooks              = 
+ }} 
+ '''Lua''' is an [[open source]] [[programming language]]. < ref name= " luaabout " > {{Cite web 
+ |url=http://www.lua.org/about.html 
+ |title=Lua: About 
+ |author= 
+ |work=Lua.org 
+ |publisher= 
+ |accessdate=28 February 2011}} < /ref >  It was created in [[1993]] by Roberto Ierusalimschy, Luiz Henrique de Figueiredo, and Waldemar Celes. < ref name= " hopl2007 " > {{Cite book| last1 = Ierusalimschy | first1 = R.| last2 = Figueiredo| first2 = L. H. | last3 = Celes| first3 = W.| contribution = The evolution of Lua| contribution-url = http://www.lua.org/doc/hopl.pdf| doi = 10.1145/1238844.1238846| title = Proc. of ACM HOPL III| url = http://www.acm.org/sigs/sigplan/hopl| year = 2007| pages = 2–1–2–26| isbn = 978-1-59593-766-7| s2cid = 475143}} < /ref >  Lua is used for many different things, especially in [[video game]]s such as [[World of Warcraft]], [[SimCity 4]] and [[Transformice]]. < ref > {{Cite web 
+ |url=http://lua-users.org/wiki/LuaUses 
+ |title=Lua Uses 
+ |author= 
+ |work=lua-users wiki 
+ |publisher= 
+ |accessdate=16 February 2011}} < /ref >  It is also used in the popular virtual world sharing website [[Roblox]] under a dialect called Luau. < ref > {{Cite web|title=Luau|url=https://roblox.github.io/luau/|access-date=2021-04-07|website=Luau|language=en|archive-date=2021-04-08|archive-url=https://web.archive.org/web/20210408032334/https://roblox.github.io/luau/|url-status=dead}} < /ref >  In June 2010, [[Apple Inc.]] changed the terms of use for the [[software development kit]] of its [[iOS]] [[operating system]] to allow the use of Lua. < ref name= " AppleInsider " > {{Cite web 
+ |url=http://www.appleinsider.com/articles/10/06/11/apple_relaxes_ios_sdk_to_allow_lua_but_block_flash.html 
+ |title=Apple relaxes iOS SDK terms to allow Lua but block Flash 
+ |publisher=[[Appleinsider.com]] 
+ |date=11 June 2010 
+ |accessdate=11 June 2011}} < /ref >  This led to Lua being used to make [[iPhone]] [[Application software|applications]] such as [[Angry Birds]]. In June 2011, Lua was ranked the tenth most [[Popularity|popular]] programming language by the TIOBE Index. < ref > {{Cite web 
+ |url=http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html 
+ |title=TIOBE Programming Community Index for June 2011 
+ |date=June 2011 
+ |publisher=TIOBE Software 
+ |accessdate=11 June 2011 
+ |archive-date=2 July 2013 
+ |archive-url=https://web.archive.org/web/20130702204820/http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html 
+ |url-status=dead 
+ }} < /ref > 
+ 
+ == History == 
+ Lua was created in 1993 by Roberto Ierusalimschy, Luiz Henrique de Figueiredo, and Waldemar Celes. They are members of the Computers Graphics Technology Group (Tecgraf) at the Pontifical Catholic University of Rio de Janerio. 
+ 
+ From 1977 until 1992, Brazil had strong trade barriers, called a market reserve, for computer hardware and software. At the time, clients of Tecgraf could not afford software from abroad. They would have to go through a complicated process to prove their needs could not be met by Brazilian companies. This caused Tecgraf to implement its needed tools from scratch. < ref > {{cite web|url=https://www.lua.org/history.html|title=The evolution of an extension language: a history of Lua|year=2001|access-date=2008-12-18}} < /ref > < ref > {{cite book| last1 = Ierusalimschy | first1 = R.| author1-link = Roberto Ierusalimschy| last2 = Figueiredo| first2 = L. H. | last3 = Celes| first3 = W.| title = Proceedings of the third ACM SIGPLAN conference on History of programming languages| contribution = The evolution of Lua| contribution-url = https://www.lua.org/doc/hopl.pdf| doi = 10.1145/1238844.1238846| url = https://www.acm.org/sigs/sigplan/hopl| year = 2007| pages = 2–1–2–26| isbn = 978-1-59593-766-7| s2cid = 475143}}{{dead link |date=July 2018}} < /ref > 
+ 
+ Lua followed SOL (Simple Object Language) and DEL (data-entry language). They are computer languages that described and managed data. They had been independently developed at Tecgraf for two different projects. These projects were for engineering applications for the Petrobras company. Petrobras later wanted more power in SOL and DEL. They lacked functions to control flow. 
+ 
+ Lua’s syntax for control flow was mostly borrowed from Modula. It also taken influence from other programming languages: CLU for multiple inputs and outputs from calling functions, [[C++]] for local variables, and SNOBAL and AWK for associative arrays. [[Lisp (programming language)|LISP]] and [[Scheme (programming language)|Scheme]] also influenced the focus on tables. These two languages used a single structure mechanism. < ref > {{cite news| last1 = Figueiredo | first1 = L. H. | last2 = Ierusalimschy | first2 = R. | last3 = Celes| first3 = W. | title = Lua: an Extensible Embedded Language. A few metamechanisms replace a host of features| magazine = Dr. Dobb's Journal| volume = 21| issue = 12| pages = 26–33| date = December 1996| url = https://www.lua.org/ddj.html}} < /ref > 
+ 
+ == Examples == 
+ An example [[Hello World]] program in Lua: 
+ 
+ < syntaxhighlight lang= " lua " > 
+ -- !/usr/bin/lua 
+ print( " Hello World! " ) 
+ < /syntaxhighlight > 
+ 
+ An example of setting a value, then printing it: 
+ < syntaxhighlight lang= " lua " > 
+ --!/usr/bin/lua 
+ a =  " Hello World! " 
+ print(a) 
+ < /syntaxhighlight > 
+ 
+ An example of a function, then using it: 
+ < syntaxhighlight lang= " lua " > 
+ --!/usr/bin/lua 
+ local function TestFunction() 
+    print( " Hello World! " ) 
+ end 
+ 
+ TestFunction() 
+ < /syntaxhighlight > 
+ 
+ An example of a loop that prints each entry in the list in order: 
+ < syntaxhighlight lang= " lua " > 
+ --!/usr/bin/lua 
+ local list = { " Hey " , " my " , " name " , " is " , " Dan " } 
+ 
+ for i, v in pairs(list) do 
+    print(v)  
+ end 
+ 
+ < /syntaxhighlight > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://www.lua.org Lua.org] 
+ * [http://lua-users.org/ lua-users.org] 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Multi-paradigm programming languages|Lua]] 
+ [[Category:Functional languages]] 
+ [[Category:Object-oriented programming languages]]

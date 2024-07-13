@@ -1,0 +1,28 @@
+[[File:Damped oscillation graph.svg|thumb|220px|Graph of a damped vibratory deflection '''''y'''''.]][[File:Damped spring.gif|thumb|left|95px|Damped [[spring]].]]In [[physics]], '''damping''' is any effect that tends to reduce the [[amplitude]] of [[vibration]]s. < ref > Tongue, Benson, ''Principles of Vibration'', Oxford University Pres, 2001, {{ISBN|0-195-142462}} < /ref > 
+ 
+ In [[mechanics]], the internal [[friction]] may be one of the causes of such damping effect. For many purposes the damping force '''''F''''' < sub > f < /sub >  can be modeled as being proportional to the [[velocity]] '''''v''''' of the object: 
+ 
+ ::::::::: < math > F_{\mathrm f} = -c v \, , < /math > 
+ 
+ where '''''c''''' is the ''damping coefficient'', given in units of [[Newton]]-[[second]]s per [[meter]]. 
+ 
+ ==Related pages== 
+ < div style= " -moz-column-count:3; column-count:3; " >    
+ * [[RLC circuit]] 
+ * [[Oscillator]] 
+ * [[Resonance]] 
+ * [[Seismic damper]] 
+ * [[Vibration]] 
+ * [[Vibration isolation]] 
+ * [[Vibration control]] 
+ < /div > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{physics-stub}} 
+ 
+ [[Category:Mechanics]] 
+ [[Category:Mechanical vibrations]] 
+ [[Category:Earthquake engineering]]

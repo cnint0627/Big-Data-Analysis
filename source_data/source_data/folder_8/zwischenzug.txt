@@ -1,0 +1,100 @@
+In [[chess]], '''zwischenzug''' (German for  " intermediate move " ) is a common tactic that occurs in almost every game: instead of countering a direct threat, which the opponent expects, a move is played which poses an even more devastating threat, often an attack against the queen or the king. The opponent has to counter that threat first, and this will ideally change the situation to his disadvantage. 
+ 
+ < table cellspacing= " 0 "  cellpadding= " 0 "  style= " border:1px solid #8888aa; width:320px; height:320px; float:left; margin-right: 1em; " > 
+ 
+ < tr > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < /tr > 
+ 
+ < tr > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < /tr > 
+ 
+ < tr > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < /tr > 
+ 
+ < tr > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < /tr > 
+ 
+ < tr > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_kdd40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < /tr > 
+ 
+ < tr > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_pdl40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_pdl40.png]] < /td > 
+ < td > [[Image:chess_rld40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < /tr > 
+ 
+ < tr > 
+ < td > [[Image:chess_bdl40.png]] < /td > 
+ < td > [[Image:chess_kld40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_pld40.png]] < /td > 
+ < /tr > 
+ 
+ < tr > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < td > [[Image:chess_d40.png]] < /td > 
+ < td > [[Image:chess_l40.png]] < /td > 
+ < /tr > 
+ 
+ < /table > 
+ Borisenkov-Mezenev (diagram, Black to play), went 1... f2, threatening to queen, which White countered with 2. Rg8, intending 3. Rf8+. But White resigned after the zwischenzug 2... Bb1! which allows Black to queen (3. Kb1 f1Q+ or 3. Rf8+ Bf5). 
+ 
+ {{Chess}} 
+ 
+ {{stub}} 
+ 
+ [[Category:Chess]]

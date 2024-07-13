@@ -1,0 +1,25 @@
+{{Infobox Software 
+ | name = GParted 
+ | screenshot = GParted 0.3.5 -- 2008, 06.png 
+ | caption = Screenshot of GParted on [[ubuntu]] 
+ | developer = GParted developers 
+ | latest_release_version = 1.0 < ref > {{cite web|url=https://sourceforge.net/projects/gparted/files/gparted/gparted-1.0.0/|website=gparted.org|title=GParted Files}} < /ref >   < !-- Latest version of GParted, not the Live CD 0.3.6-5 dtd 1 Apr 08-- > 
+ | latest_release_date = {{release date|2019|05|29}} 
+ | operating_system = [[Cross-platform]] 
+ | genre = [[Partition editor]] 
+ | license = [[GNU General Public License|GPL]] 
+ | website = [http://gparted.sourceforge.net/ gparted.sourceforge.net] 
+ }} 
+ [[File:GParted Live CD.png|thumb|250px|GParted Live CD (version 0.3.7 beta) [http://sourceforge.net/project/showfiles.php?group_id=115843 & package_id=269898 & release_id=600490]]] 
+ 
+ '''GParted''' is a [[computer program]] used for working on  [[Partition (computing)|partitions]]. It can create, delete, move, copy, check and change the size of paretitions. It is also used with the [[file systems]] on the partitions. Thi program is useful for creating space for new [[Operating system|operating systems]]. It works with [[Vista System  &  Data]] partitions. It can also be used to reorganizing disk usage, copy data on hard disks and [[mirroring]] one partition with another ([[Disk image|disk imaging]]). 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Software]] 
+ 
+ [[de:GNU Parted#GParted]]

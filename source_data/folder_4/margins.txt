@@ -1,0 +1,20 @@
+In [[typesetting]], the page '''margins''' (with '''header''' and '''footer''') are the [[border]]s of the page outside of the regular [[text]] to be shown. 
+ 
+ There are 4 main margins: 
+ :* top margin (or: header) - the top (upper) border of the page 
+ :* bottom margin (or: footer) - the lower border of the page 
+ :* left margin - the lefthand-side border of the page 
+ :* right margin - the righthand-side border of the page 
+ Other special margins can be used, beyond the typical 4, to provide additional margin settings on a page. 
+ 
+ == In computer CSS styles == 
+ For [[webpage]]s (such as on the [[Internet]]), the margins can be set by using [[Cascading Style Sheets|CSS]] style sheet directives, such as: 
+ :* style= " margins: 0.6em 0.7em 0.4em 0.7em "  for margins: top, right, bottom  &  left. 
+ :* style= " margin-top: 0.6em "  to set just the top margin. 
+ :* style= " margin-left: 0.7em "  to set the left margin. 
+ :* style= " margin-right: 0.7em "  to set the right margin. 
+ :* style= " margin-bottom: 0.4em "  for the bottom margin. 
+ Each page, and each image or formatted table on a page, can have the 4 margins set, separately. 
+ 
+ [[Category:Typesetting]] 
+ [[Category:Writing]]

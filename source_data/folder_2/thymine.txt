@@ -1,0 +1,25 @@
+{{Chembox new 
+ | ImageFile = Thymine_skeletal.svg 
+ | ImageSize = 120px 
+ | IUPACName =  5-Methylpyrimidine-2,4(1''H'',3''H'')-dione 
+ | OtherNames =  
+ | Section1 = {{Chembox Identifiers 
+ |   CASNo = 65-71-4 
+ |   PubChem =  
+ |   SMILES = CC1=CNC(=O)NC1=O 
+ |   MeSHName = Thymine 
+ }}}} 
+ 
+ '''Thymine''', or 5-methyluracil, is a [[pyrimidine]] [[Base (chemistry)|base]] found in the [[nucleic acid]] [[DNA]]. 
+ 
+ In [[RNA]] thymine is swapped for [[uracil]] to represent the same genetic information.  In DNA, thymine (T) connects to [[adenine]] (A) by two [[hydrogen]] [[Chemical bond|bonds]]. These pair bonds hold the two strands of the DNA double helix structure together. 
+ 
+ == Other websites == 
+ * [http://www.compchemwiki.org/index.php?title=Thymine Computational Chemistry Wiki] {{Webarchive|url=https://web.archive.org/web/20060629143905/http://www.compchemwiki.org/index.php?title=Thymine |date=2006-06-29 }} 
+ 
+ 
+ {{multistub|chemistry|biology}} 
+ 
+ 
+ [[Category:Organonitrogen compounds]] 
+ [[Category:DNA]]

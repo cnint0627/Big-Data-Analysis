@@ -1,0 +1,35 @@
+A '''series''' is a group of similar things that are all related to the same topic. 
+ 
+ In [[mathematics]], a '''series''' is the adding of a [[sequence]], a list of (usually never-ending) mathematical objects (such as numbers). It is sometimes written as  < math > \textstyle \sum_{n=i}^k a_n < /math > , < ref > {{Cite web|date=2020-05-11|title=List of Calculus and Analysis Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/|access-date=2020-08-30|website=Math Vault|language=en-US}} < /ref >  which is another way of writing  < math > a_i + \cdots + a_k < /math > . 
+ 
+ For example, the series  < math > \textstyle \sum_{n=0}^{\infty} \frac{1}{2^n} < /math > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Series|url=https://mathworld.wolfram.com/Series.html|access-date=2020-08-30|website=mathworld.wolfram.com|language=en}} < /ref >  corresponds to the following sum: 
+ 
+ : < math > 1 + \frac12 + \frac14 + \frac18 + \frac1{16} + \frac1{32} + \frac1{64} + \frac1{128} + \ldots  < /math > 
+ 
+ Here, the dots mean that the adding does not have a last term, but goes on to infinity.  
+ 
+ If the result of the addition gets closer and closer to a certain [[limit]] value, then this is the sum of the series. For example, the first few terms of the above series are:  
+ : < math > 1 + \frac12 = 1 \frac12 < /math >   < br > < br > 
+ : < math > 1 + \frac12 + \frac14 = 1 \frac34 < /math > < br > < br > 
+ : < math > 1 + \frac12 + \frac14 + \frac18 = 1 \frac78 < /math > < br > < br > 
+ : < math > 1 + \frac12 + \frac14 + \frac18 + \frac1{16} = 1 \frac{15}{16} < /math > < br > < br > 
+ : < math > 1 + \frac12 + \frac14 + \frac18 + \frac1{16} + \frac1{32} = 1 \frac{31}{32} < /math > < br > < br > 
+ : < math > 1 + \frac12 + \frac14 + \frac18 + \frac1{16} + \frac1{32} + \frac1{64} = 1 \frac{63}{64} < /math > < br > < br > 
+ : < math > 1 + \frac12 + \frac14 + \frac18 + \frac1{16} + \frac1{32} + \frac1{64} + \frac1{128} = 1 \frac{127}{128} < /math > 
+ 
+ From these, we can see that this series will have 2 as its sum.   
+ 
+ However, not all series have a sum. For example. a series can go to positive or negative [[infinity]], or just go up and down without settling on any particular value. In which case, the series is said to diverge. < ref > {{Cite web|title=Infinite Series|url=https://www.mathsisfun.com/algebra/infinite-series.html|access-date=2020-08-30|website=www.mathsisfun.com}} < /ref >  The [[Harmonic series (mathematics)|harmonic series]] is an example of a series which diverges. 
+ 
+ == Related page == 
+ * [[List of series]] 
+ * [[Sequence]] 
+ * [[Series acceleration]] 
+ * [[Taylor series]] 
+ 
+ == References == 
+ < references / > 
+ [[Category:Sequences and series]] 
+ 
+ {{math-stub}} 
+ {{authority control}}

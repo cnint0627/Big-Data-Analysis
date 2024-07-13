@@ -1,0 +1,16 @@
+[[File:USSR photodiodes.JPG|thumb|300px|{{center|Photodiodes}}]] 
+ A '''photodiode''' is a light sensitive [[semiconductor]].  It is a type of [[photodetector]] capable of changing (or converting) light into either [[electric current|current]] or [[voltage]], depending upon its connections. < ref > {{GoldBookRef|title=Photodiode|file=P04598}} < /ref >   It is a [[diode]] and wired with reverse [[biasing]] so that when in the dark, only a small amount of current, known as dark current, will flow.  When in the light, a current known as photocurrent flows through the diode.  
+ 
+ Photodiodes may contain [[Optics|optical]] [[filter]]s, built-in [[Lens (optics)|lenses]], and may have large or small [[surface area]]s. Photodiodes usually have a slower [[:en:wikt:response time|response time]] as its surface area increases. The common, traditional [[solar cell]] used to generate electric [[solar power]] is a large area photodiode. Photodiodes and [[:en:wikt:phototransistor|phototransistors]] look the same physically but have different functions. < ref > Cathleen Shamieh; Gordon McComb, ''Electronics For Dummies'' (Hoboken, NJ: Wiley Pub., 2009), p. 337 < /ref > 
+ 
+ It is based on a reversed bias circuit.  
+ 
+ ==References== 
+ {{Commonscat|Photodiodes}} 
+ {{Reflist}} 
+ 
+ [[Category:Electronics]] 
+ [[Category:Physics]] 
+ 
+ 
+ {{physics-stub}}

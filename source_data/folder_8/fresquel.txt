@@ -1,0 +1,137 @@
+{{Infobox river 
+   | name              = Fresquel 
+   | image             = Source-Fresquel.jpg 
+   | image_caption     = [[Source (river or stream)|Source]] of the Fresquel river 
+   | map               =  
+   | progression       =  
+   | subdivision_type1 = Country 
+   | subdivision_name1 = [[France]] 
+   | subdivision_type2 = [[Regions of France|Region]] 
+   | subdivision_name2 = [[Occitanie]] 
+   | subdivision_type3 = [[Departments of France|Department]] 
+   | subdivision_name3 = [[Aude]], [[Haute-Garonne]] 
+   | subdivision_type4 = [[Communes of France|Communes]] 
+   | subdivision_name4 = [[#Communes|See list]] 
+   | tributaries_left  = Lampy, Rougeanne 
+   | tributaries_right = Tréboul 
+   | source1           =  
+   | source1_location  = [[Baraigne]], [[Aude]] 
+   | source1_elevation = {{convert|265|km|abbr=on}} 
+   | source1_coordinates = {{coord|43|19|26|N|1|50|08|E}} 
+   | mouth             = [[Rhône]] 
+   | mouth_location    = [[Carcassonne]], [[Aude]], [[Occitanie]], [[France]] 
+   | mouth_elevation   = {{convert|45|km|abbr=on}} 
+   | mouth_coordinates = {{coord|43|14|12|N|2|23|05|E}} 
+   | length            = {{convert|63|km|abbr=on}} 
+   | discharge1_avg    = {{Convert|5.18|m3/s|ft3/s|abbr=on}} 
+   | discharge1_location = Carcassonne 
+   | basin_size        = {{convert|932|km2|abbr=on}} 
+ }} 
+ 
+ The '''Fresquel''' is a [[river]] in southern [[France]], a left [[tributary]] of the [[Aude (river)|Aude]] river. The river flows mainly through the French [[Departments of France|department]] of [[Aude]]. 
+ 
+ ==Geography== 
+ The Fresquel river has a length of {{Convert|63|km|mi|0|abbr=on}} and a [[drainage basin]] with an area of approximately {{Convert|932|km2|sqmi|0|abbr=on }}. < ref name= " sandre " > {{cite web |url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=Y13-0400 |title=Le Fresquel (Y13-0400) |publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau |language=fr |access-date=22 March 2017 }} < /ref > 
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|5.18|m3/s|cuft/s|abbr=on }} at [[Carcassonne]] in the [[Aude]] department. < ref > {{cite web |url=http://www.hydro.eaufrance.fr/stations/Y1364010 & procedure=synthese |title=Le Fresquel à Carcassonne [Pont Rouge] |publisher=Banque Hydro |language=fr |access-date=22 March 2017 |archive-date=10 April 2021 |archive-url=https://web.archive.org/web/20210410121629/http://www.hydro.eaufrance.fr/stations/Y1364010%26procedure%3Dsynthese |url-status=dead }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:12 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:2 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:1 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 9.560 
+  bar:Feb from:0 till: 10.300 
+  bar:Mar from:0 till: 8.700 
+  bar:Apr from:0 till: 8.650 
+  bar:May from:0 till: 7.050 
+  bar:Jun from:0 till: 4.080 
+  bar:Jul from:0 till: 1.400 
+  bar:Aug from:0 till: 0.789 
+  bar:Sep from:0 till: 0.775 
+  bar:Oct from:0 till: 1.500 
+  bar:Nov from:0 till: 3.390 
+  bar:Dec from:0 till: 6.280 
+ 
+ PlotData= 
+  bar:Jan at: 9.560 fontsize:S text: 9.560 shift:(-8,5) 
+  bar:Feb at: 10.300 fontsize:S text: 10.300 shift:(-14,5) 
+  bar:Mar at: 8.700 fontsize:S text: 8.700 shift:(-13,5) 
+  bar:Apr at: 8.650 fontsize:S text: 8.650 shift:(-13,5) 
+  bar:May at: 7.050 fontsize:S text: 7.050 shift:(-13,5) 
+  bar:Jun at: 4.080 fontsize:S text: 4.080 shift:(-13,5) 
+  bar:Jul at: 1.400 fontsize:S text: 1.400 shift:(-13,5) 
+  bar:Aug at: 0.789 fontsize:S text: 0.789 shift:(-13,5) 
+  bar:Sep at: 0.775 fontsize:S text: 0.775 shift:(-13,5) 
+  bar:Oct at: 1.500 fontsize:S text: 1.500 shift:(-13,5) 
+  bar:Nov at: 3.390 fontsize:S text: 3.390 shift:(-13,5) 
+  bar:Dec at: 6.280 fontsize:S text: 6.280 shift:(-13,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Carcassonne''' 
+ < /center > 
+ 
+ ===Course=== 
+ The Fresquel river starts at the northwest of the Aude department, in the ''commune'' of [[Baraigne]], at an [[elevation]] of about {{Convert|265|m|ft|0|abbr=on}}. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=1.835556,43.323889 & z=12 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Source du Fresquel |publisher=Géoportail |language=fr |access-date=22 March 2017 }} < /ref > 
+ 
+ It flows, first, to the west to the [[Haute-Garonne]] department and then to the north where it gets again into the Aude department near [[Seuil de Naurouze]] and then to the east. Finally, it joins the [[Aude (river)|Aude]] river as a left [[tributary]], at an elevation of about {{Convert|90|m|ft|0|abbr=on}} at [[Carcassonne]]. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=2.384722,43.236667 & z=12 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Confluence du Fresquel |publisher=Géoportail |language=fr |access-date=22 March 2017 }} < /ref > 
+ 
+ ===Communes=== 
+ The Fresquel passes through 1 region ([[Occitanie]]), 2 departments and 24 ''communes''; some of the ''communes'' are: < ref name= " sandre "  / > 
+ 
+ * '''Aude''' : [[Baraigne]], [[Labastide-d'Anjou]], [[Ricaud, Aude|Ricaud]], [[Souilhanels]], [[Castelnaudary]], [[Saint-Martin-Lalande]], [[Lasbordes, Aude|Lasbordes]], [[Villepinte, Aude|Villepinte]], [[Bram]], [[Alzonne]], [[Pezens]], [[Ventenac-Cabardès]], [[Pennautier]], [[Carcassonne]] 
+ * '''Haute-Garonne''' : [[Avignonet-Lauragais]] 
+ 
+ ==Main tributaries == 
+ The main [[Tributary|tributaries]] of the Fresquel river are: < ref name= " sandre "  / > 
+ {{col-begin|width=60%}} 
+ {{col-break|width=33%}} 
+ '''Left tributaries''': 
+ * Lampy - 29.3 & nbsp;km 
+ * Rougeanne - 33.6 & nbsp;km 
+ {{col-break}} 
+ {{col-break|width=66%}} 
+ '''Right tributaries''': 
+ * Tréboul - 22.6 & nbsp;km 
+ {{col-end}} 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commons category|Fresquel}} 
+ *[http://www.hydro.eaufrance.fr/selection.php Banque Hydro - Station Y1364010 - The Fresquel in Carcassonne (Pont Rouge) - (option Synthèse)] {{Webarchive|url=https://web.archive.org/web/20150219053605/http://www.hydro.eaufrance.fr/selection.php |date=2015-02-19 }} {{in lang|fr}} 
+ 
+ [[Category:Rivers of Occitanie]]

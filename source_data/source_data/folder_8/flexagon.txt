@@ -1,0 +1,28 @@
+[[File:Hexahexaflexagon - two sides - 01.jpg|thumb|right|250px|alt=A hexaflexagon, shown two different ways with the same face visible.|A hexaflexagon, shown two different ways with the same face visible.]] 
+ In [[geometry]], a '''flexagon''' is a flat [[model]], usually made by folding a piece of [[paper]], so that when 'flexed' ([[wikt:fold|folded]]), one or more hidden faces will be revealed (shown) from within the model. 
+ 
+ Flexagons are usually [[square]] or [[rectangle|rectangular]] ('''tetraflexagons''') or [[hexagon]]al ('''hexaflexagons''').  A [[prefix]] can be added to the name to show the number of faces that the model can display, including the two faces (back and front) that are visible before flexing.  For example, a hexaflexagon with a total of six faces is called a hexahexaflexagon. 
+ 
+ == History == 
+ 
+ === Discovery and introduction === 
+ 
+ [[Arthur Harold Stone|Arthur H. Stone]], a British man, is said to have first discovered the flexagon in 1939. At the time, he was a student at [[Princeton University]] in the United States. His new American paper would not fit in his English binder so he cut off the ends of the paper and began folding them into different shapes. < ref name= " Gardner1956 " > {{cite magazine |title=Flexagons |url=https://archive.org/details/sim_scientific-american_1956-12_195_6/page/162 |magazine=Scientific American |first=Martin |last=Gardner |volume=195 |issue=6 |pages=162–168 |date=December 1956 |doi=10.1038/scientificamerican1256-162 |oclc=4657622161}} < /ref >  One of these formed a trihexaflexagon.  
+ 
+ Other students became interested in these shapes. They included [[Bryant Tuckerman]], [[Richard Feynman]], and [[John Tukey]]. Together, they formed the Princeton Flexagon Committee. Tuckerman worked out a [[topology|topological]] method, called the  " Tuckerman traverse " , for revealing all the faces of a flexagon. < ref name= " Gardner1988 " > {{cite book |title=Hexaflexagons and Other Mathematical Diversions: The First Scientific American Book of Puzzles and Games |publisher=University of Chicago Press |first=Martin |last=Gardner |year=1988 |isbn=0-226-28254-6}} < /ref > 
+ 
+ Flexagons were introduced to the general public by the [[recreational mathematics|recreational mathematician]] [[Martin Gardner]] in 1956. He wrote about in the first ''[[Mathematical Games (column)|Mathematical Games]]'' column that he wrote for ''[[Scientific American]]'' magazine. < ref name= " Gardner1956 "  / > 
+ 
+ === Attempted commercial development === 
+ 
+ In 1955, Russell Rogers and Leonard D'Andrea of [[Homestead, Pennsylvania|Homestead Park, Pennsylvania]] applied for a [[patent]]. In 1959 they were granted U.S. Patent number 2,883,195 for the hexahexaflexagon, under the title  " Changeable Amusement Devices and the Like. "   
+ 
+ Their patent imagined possible ways that the device could be used as a toy, an device for advertising, or as a device for learning about geometry. " < ref > {{cite web |url=http://www.freepatentsonline.com/2883195.pdf |title=Changeable amusement devices and the like |work=Freepatentsonline.com |first1=Russell E. |last1=Rogers |first2=Leonard D. L. |last2=Andrea |id=U.S. Patent 2883195 |date=April 21, 1959 |access-date=January 13, 2011}} < /ref >   A few such novelties were produced by the [[Herbick  &  Held Printing Company]] in [[Pittsburgh]]. The device, marketed as the  " Hexmo " , were not very successful. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Geometry]] 
+ [[Category:Origami]]

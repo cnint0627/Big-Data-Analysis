@@ -1,0 +1,65 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                   = Mosgiel 
+ | native_name            = Te Konika o te Matamata ([[Māori language|Māori]]) 
+ | native_name_lang       =  < !-- ISO 639-2 code e.g.  " fr "  for French. If more than one, use {{lang}} instead -- > 
+ | settlement_type        = Town 
+ | image_skyline          = Mosgiel.jpg 
+ | image_alt              =  
+ | image_caption          = 
+ | pushpin_map            =  
+ | pushpin_label_position = 
+ | pushpin_map_alt        = 
+ | pushpin_map_caption    = 
+ | image_map              = {{infobox mapframe|coord={{coord|45|52|30|S|170|20|55|E}}|zoom=10}} 
+ | coordinates            = {{coord|45|52|30|S|170|20|55|E|region:NZ-OTA|display=inline,title}} 
+ | subdivision_type       = Country 
+ | subdivision_name       = New Zealand 
+ | subdivision_type1      = [[Regions of New Zealand|Region]] 
+ | subdivision_name1      = [[Otago]] 
+ | subdivision_type2      = [[Territorial authorities of New Zealand|Territorial authority]] 
+ | subdivision_name2      = [[Dunedin City Council]] 
+ | leader_title           = [[Regions of New Zealand|Regional council]] 
+ | leader_name            = [[Otago Regional Council]] 
+ | leader_title1          = [[Territorial authorities of New Zealand|Territorial authority]] 
+ | leader_name1           = [[Dunedin City Council]] 
+ | leader_title2          = [[Community boards in New Zealand|Community board]] 
+ | leader_name2           = Mosgiel-Taieri Community Board < ref > {{cite web |title=2016 Mosgiel-Taieri Community Board Boundary |url=https://www.dunedin.govt.nz/__data/assets/pdf_file/0007/543508/Mosgiel-Taieri-Community-2016.pdf |website=dunedin.govt.nz |publisher=[[Dunedin City Council]] |access-date=2 June 2022}} < /ref > 
+ | established_title      = 
+ | established_date       = 
+ | area_magnitude         = 
+ | area_footnotes         =  < ref name= " Area " > {{Cite web|title=ArcGIS Web Application|url=https://statsnz.maps.arcgis.com/apps/webappviewer/index.html?id=6f49867abe464f86ac7526552fe19787| access-date=30 December 2021|website=statsnz.maps.arcgis.com}} < /ref > 
+ | area_total_km2         = 16.97 
+ | area_water_percent     = 
+ | area_note              = 
+ | elevation_footnotes    = 
+ | elevation_m            = 
+ | population_footnotes =  < ref name= " Census 2018 " > {{NZ census 2018|Bush Road (349700), Mosgiel East (349800), Mosgiel Central (349900), Seddon Park (350000), Wingatui (350100) and East Taieri (350300)}} < /ref > 
+ | population_total       = {{NZ population data 2018|Mosgiel|y}} 
+ | population_as_of       = {{NZ population data 2018|||y}} 
+ | population_density_km2 = auto 
+ | population_est         = 
+ | pop_est_as_of          =  
+ | population_demonym     =  
+ | population_note        = 
+ | timezone1              = NZST 
+ | utc_offset1            = +12 
+ | timezone1_DST          = NZDT 
+ | utc_offset1_DST        = +13 
+ | postal_code_type       = Post code 
+ | postal_code            = 9024 
+ | area_code_type         = Area code 
+ | area_code              = 03 
+ | website                = 
+ | footnotes              = 
+ }} 
+ '''Mosgiel''' {{IPAc-en|ˈ|m|ɒ|z|ɡ|iː|l}} ([[Māori language|Māori]]: ''Te Konika o te Matamata'') is a urban satellite town and is fifteen kilometers west of [[Dunedin]], [[Otago]], [[New Zealand]]. It has 5 primary schools and one high school in the town. It is the home of All Black coach [[Steve Hansen]] and rugby union and rugby league player [[Brad Thorn]]. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ {{Dunedin navbox}} 
+ {{geo-stub}} 
+ 
+ [[Category:Towns in Otago]] 
+ [[Category:Dunedin]]

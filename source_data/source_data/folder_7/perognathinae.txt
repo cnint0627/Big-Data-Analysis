@@ -1,0 +1,29 @@
+{{distinguish|text=rodents of the heteromyid subfamily [[Heteromyinae]], which are commonly referred to as 'spiny pocket mice' (in addition to ''[[Chaetodipus spinatus]]'' of Perognathinae)}} 
+ {{Automatic taxobox 
+ | name = Pocket mice 
+ | fossil_range = {{Fossil range|Early Miocene|Recent}} < ref > {{cite web 
+  | title = Perognathinae in the Paleobiology Database 
+  | work = [[Fossilworks]] 
+  | url = http://fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo & taxon_name=Perognathinae 
+  | accessdate = 2016-08-10 
+  }}{{Dead link|date=January 2022 |bot=InternetArchiveBot |fix-attempted=yes }} < /ref > 
+ | image = Perognathus flavus.jpg 
+ | image_caption = [[Silky pocket mouse]] (''Perognathus flavus'') 
+ | taxon = Perognathinae 
+ | authority = [[Elliott Coues|Coues]], 1875 
+ | subdivision_ranks = Genera 
+ | subdivision =  
+ ''[[Chaetodipus]]'' < br/ > 
+ ''[[Perognathus]]'' 
+ }} 
+ '''Perognathinae''' is a [[subfamiliy]] of [[rodent]]s. It contains the [[silky pocket mouse]] and the [[pocket mouse]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ {{Taxonbar|from=Q1232952}} 
+ 
+ [[Category:Rodents]]

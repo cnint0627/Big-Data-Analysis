@@ -1,0 +1,50 @@
+{{Automatic taxobox 
+ | taxon = Tepuihyla 
+ |image=Tepuihyla talbergae.jpg 
+ |image_caption=''[[Tepuihyla talbergae]]'' 
+ | authority = [[Jose Ayarzagüena|Ayarzagüena]], [[Señaris]]  &  [[Stefan J. Gorzula|Gorzula]], 1993 < ref > {{aut|Ayarzagüena, J., J.C. Señaris y S. Gorzula}} (1992) Un nuevo genero para las especies del  " grupo ''Osteocephalus rodriguezi'' "  (Anura: ylidae). ''Memorias de la Sociedad de Ciencias Naturales La Salle''. '''52'''(138): 213-221 < /ref > 
+ | diversity = See [[#Species|text]]}} 
+ '''''Tepuihyla''''' is a genus of [[frog]]s in the family [[Hylidae]].  People call them '''Amazon tree frogs''' or '''Tepui tree frogs''' in English. They live in [[mountain]]s in eastern and south-eastern [[Venezuela]] and [[Guyana]]. Scientists also think they may live in [[Brazil]]. < ref name=frost > {{cite web |url=http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Hylidae/Hylinae/Tepuihyla |title=''Tepuihyla'' Ayarzagüena, Señaris, and Gorzula, 1993 |author=Frost, Darrel R. |year=2014 |work=Amphibian Species of the World: an Online Reference. Version 6.0 |publisher=American Museum of Natural History |accessdate=27 June 2014}} < /ref >   A [[tepui]] is a table-shaped mountain. There are tepuis in the [[Guiana]] Highlands. 
+ 
+ ==Species== 
+ These species are in this genus: < ref name=frost/ > 
+ {|style= " text-align:left; border:1px solid #999999;  " 
+ |-style= " background:#CCCC99; text-align: center;  " 
+ !Binomial name and author!! Common name 
+ |- 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Tepuihyla aecii|T. aecii]]'' {{small|(Ayarzagüena, Señaris, and Gorzula, 1993)}} || Monte Duida tree frog  
+ |-style= " background:#FFFDFF; " 
+ | ''[[Tepuihyla edelcae|T. edelcae]]'' {{small|(Ayarzagüena, Señaris, and Gorzula, 1993)}} || Ayarzaguena's tree frog 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Tepuihyla exophthalma|T. exophthalma]]'' {{small|(Smith and Noonan, 2001)}} ||  
+ |-style= " background:#FFFDFF; " 
+ | ''[[Tepuihyla luteolabris|T. luteolabris]]'' {{small|(Ayarzagüena, Señaris, and Gorzula, 1993)}} ||  
+ |-style= " background:#EEEEEE; " 
+ | ''[[Tepuihyla obscura|T. obscura]]'' {{small|(Kok, Ratz, Tegelaar, Aubret, and Means, 2015)}} || 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Tepuihyla rodriguezi|T. rodriguezi]]'' {{small|(Rivero, 1968)}} || Rodriguez's Amazon tree frog 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Tepuihyla shushupe|T. shushupe]]'' {{small|(Ron, Venegas, Ortega-Andrade, Gagliardi-Urrutia, and Salerno, 2016)}} || 
+ |-style= " background:#FFFDFF; " 
+ | ''[[Tepuihyla tuberculosa|T. tuberculosa]]'' {{small|(Boulenger, 1882)}} || Canelos treefrog 
+ |-style= " background:#EEEEEE; " 
+ | ''[[Tepuihyla warreni|T. warreni]]'' {{small|(Duellman and Hoogmoed, 1992)}} || 
+ |- 
+ |} 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ * {{aut|AmphibiaWeb: Information on amphibian biology and conservation.}} [web application]. 2008. Berkeley, California: [http://amphibiaweb.org/cgi-bin/amphib_query?query_src=aw_lists_genera_ & table=amphib & where-genus=Tepuihyla & where-species= ''Tepuihyla'']. AmphibiaWeb, available at http://amphibiaweb.org/. (Accessed: Apr 25, 2008).  
+ * {{aut|eol - Encyclopedia of Life}} taxon [https://web.archive.org/web/20081005164228/http://www.eol.org/taxa/16141830 ''Tepuihyla''] at http://www.eol.org. 
+ * {{aut|ITIS - Integrated Taxonomic Information System on-line database}} Taxon [https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN & search_value=661468 ''Tepuihyla''] at https://www.itis.gov/index.html. (Accessed: Apr 25, 2008). 
+ * {{aut|GBIF - Global Biodiversity Information Facility}} Taxon [http://data.gbif.org/species/13184391/ ''Tepuihyla''] at http://data.gbif.org/welcome.htm 
+ 
+ {{Taxonbar|from=Q2669308}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Frogs of South America]]

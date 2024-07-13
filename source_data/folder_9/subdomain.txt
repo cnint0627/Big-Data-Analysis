@@ -1,0 +1,22 @@
+A '''subdomain''' is the portion shown before a [[domain name]], separated by a [[full stop|dot (.)]] 
+ 
+ For example, a [[domain]] might look like this 
+ :''example.com'' 
+ 
+ Whereas the subdomain of this domain might look like this, shown here in bold 
+ :'''''subdomain.'''''example.com'' 
+ 
+ == Examples == 
+ [[File:Subdomain-en.svg|thumb|300px]] 
+ Many sites use sub domains for applications such as [[email]], [[calendars]] or different [[languages]], including these examples. Subdomains again shown in bold 
+ * '''''mail.'''[[yahoo]].com 
+ * '''''calendar.'''[[google]].com'' 
+ * '''''en.'''[[wikipedia]].org'' 
+ *[https://eastnaija.com eastnaija.com] 
+ *[https://east9ja.com east9ja.com] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Internet]] 
+ [[Category:Websites]]

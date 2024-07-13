@@ -1,0 +1,14 @@
+{{complex|date=June 2012}} 
+ '''SkyOS''' is a privately owned [[operating system]] currently in production. SkyOS is mostly [[POSIX]]-compliant. It comes with the core of the open source [[GNU]] tools, including [[GCC]]. 
+ 
+ Due to its level of POSIX-compliance and port of the GTK+ widget toolkit, many [[Linux]] or other [[UNIX]] applications have been ported, including [[AbiWord]] and Gaim, as well as a few games, such as ''[[Quake (video game)|Quake]]''. 
+ 
+ It was made by Robert Szeleney. 
+ 
+ == Other websites == 
+ * [https://www.skyos.org/ SkyOs official website] {{Webarchive|url=https://web.archive.org/web/20200512002758/https://www.skyos.org/ |date=2020-05-12 }} 
+ 
+ [[Category:Operating systems]] 
+ 
+ 
+ {{tech-stub}}

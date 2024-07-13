@@ -1,0 +1,64 @@
+[[File:Chloroform displayed.svg|thumb|Structure of a [[molecule]] of chloroform]] 
+ [[File:Shop rounds for chloroform Wellcome L0018269.jpg|thumb|Chloroform used to be sold in bottles like these]] 
+ '''Chloroform''' (also called '''trichloromethane''') is a [[chemical substance]]. It is an [[organic chemistry|organic]] [[Chemical compound|compound]]. Chloroform is one of the [[wikt:intermediate|intermediate]] substances that occur in the production of [[Polytetrafluoroethylene]], better known as ''Teflon''. Chloroform is used as a [[solvent]]. It is a colourless liquid. In the [[19th century]], it was a widely used [[anaesthetic]]. < ref > {{cite web |url= http://www.discoveriesinmedicine.com/Bar-Cod/Chloroform.html |title=Chloroform - used, first, anesthetic, blood, body, Anesthetic Chloroform, Simpson Discovers Chloroforms Potency |first= |last= |work=discoveriesinmedicine.com |date=2012 |accessdate=17 July 2012}} < /ref > 
+ 
+ == History == 
+ The first who reported to have produced Chloroform was the French [[chemist]] [[Eugène Soubeiran]], in 1831. Soubeiran took [[acetone]] and [[ethanol]], and used [[bleach]] powder for the reaction. < ref > {{cite journal|author=Eugène Soubeiran|year=1831|title=Annales de Chimie et de Physique|url=https://books.google.com/books?id=kbE7zQEACAAJ|journal=Ann. Chim.|volume=48|issue=|pages=131|doi=|isbn=9781012968083 }} < /ref >   The American physician [[Samuel Guthrie (U.S. physician)|Samuel Guthrie]] prepared [[gallon]]s of the material and described its  " deliciousness of flavor. " < ref > {{cite journal 
+ | author = Samuel Guthrie 
+ | title = New mode of preparing a spirituous solution of Chloric Ether 
+ | journal = Am. J. Sci. And Arts 
+ | volume =  21  
+ | issue =   
+ | pages = 64 
+ | year =  1832 
+ | doi =  }} < /ref >   Independently, [[Justus von Liebig]] also described it. < ref > {{cite journal 
+ | author =  Justus Liebig 
+ | title =  Ueber die Verbindungen, welche durch die Einwirkung des Chlors auf Alkohol, Aether, ölbildendes Gas und Essiggeist entstehen  
+ | journal =  [[Annalen der Pharmacie]] 
+ | volume =  1  
+ | issue = 2 
+ | pages = 182–230 
+ | year =  1832 
+ | doi = 10.1002/jlac.18320010203 | url = https://zenodo.org/record/1423554  
+ }} < /ref >  Chloroform was named and chemically characterised in 1834 by [[Jean-Baptiste Dumas]]. < ref > {{cite journal 
+ | author =  Jean-Baptiste Dumas 
+ | title =  Untersuchung über die Wirkung des Chlors auf den Alkohol 
+ | journal =  [[Annalen der Pharmacie]] 
+ | volume =  107  
+ | issue = 41 
+ | pages = 650–656 
+ | year =  1834 
+ | doi = 10.1002/andp.18341074103 | bibcode = 1834AnP...107..650D 
+ | url = https://zenodo.org/record/1423572 
+ }} < /ref >  Starting in the [[1850s]] factories made large amounts. Its use as an [[anesthetic]] declined in the early 20th century as safer chemicals were more used. 
+ 
+ == Production == 
+ Chloroform is produced by mixing [[methane]] and [[chlorine]] at a temperature of 400 to 500[[Degree Celsius|°C]]. In this reaction, the result is a mix of [[chloromethane]], [[methylene chloride]], chloroform and [[carbon tetrachloride]]. 
+ 
+ : < math > \mathrm{CH_4 + Cl_2 \longrightarrow CH_3Cl + HCl} < /math > 
+ 
+ : < math > \mathrm{CH_3Cl + Cl_2 \longrightarrow CH_2Cl_2 + HCl} < /math > 
+ 
+ : < math > \mathrm{CH_2Cl_2 + Cl_2 \longrightarrow CHCl_3 + HCl} < /math > 
+ 
+ : < math > \mathrm{CHCl_3 + Cl_2 \longrightarrow CCl_4 + HCl} < /math > 
+ 
+ The four [[chemical compounds|compounds]] get then separated with a [[distillation]]. 
+ 
+ In [[laboratory|laboratories]], chloroform can be produced by mixing [[sodium hypochlorite]] and [[acetone]] together. This is an [[exothermic reaction]], meaning it makes a lot of heat. 
+ 
+ == Uses == 
+ The main uses of Chloroform are: 
+ * as a [[solvent]] 
+ * as an [[anaesthetic]] (though no longer used, as there are side-effects) 
+ * as a [[catalyst]] to help other reactions 
+ 
+ == Problems == 
+ [[File:Effects of chloroform (historical)-2.png|250px|thumb|An illustration showing the effects of Chloroform,from the 1840s]] 
+ Chloroform was used as an anaesthetic during childbirth and surgery, from about 1847. It replaced [[diethyl ether|ether]] which was used before. Chloroform is very [[poison]]ous, and can cause breathing problems, and problems with the heart. Death from chloroform can come from [[cardiac arrest]]. When Chloroform is stored for a longer time period, it can decay into [[Phosgene]]. Phosgene was a [[chemical weapon]] (poison gas) used during the [[First World War]]. Chloroform can cause [[birth defect]]s and lead to [[miscarriage]]s. It may cause [[cancer]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Organochlorides]] 
+ [[Category:Carcinogens]]

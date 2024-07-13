@@ -1,0 +1,8 @@
+{{nosources|date=August 2018}} 
+ 
+ '''OpenWrt''' is an [[operating system]] for [[Computer network|network]] devices, such as wired and wireless [[router]]s, [[Firewall (networking)|firewalls]], and [[Ethernet switch|switches]]. OpenWrt can be used to run many routers from different manufacturers. It replaces the original factory firmware. OpenWrt can add enterprise features, such as [[VPN]] support, to inexpensive home routers. 
+ 
+ [[Category:Computer networking]] 
+ [[Category:Operating systems]] 
+ 
+ {{tech-stub}}

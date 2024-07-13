@@ -1,0 +1,50 @@
+{{otheruses}} 
+ [[File:Black triangle2.svg|thumb|A black triangle]] 
+ A '''triangle''' is a [[shape]], or a part of [[2D|two dimensional]] [[Space (physics)|space]]. It has [[3 (number)|three]] straight [[side]]s and three [[Vertex (geometry)|vertices]]. The three [[angle]]s of a triangle always add up to 180° (180 [[Degree (angle)|degrees]]). It is the [[polygon]] with the least possible number of sides. A triangle with vertices ''A'', ''B'', ''C'' is written as  < math > \triangle ABC < /math > . < ref > {{Cite web|last=|first=|date=2020-04-17|title=List of Geometry and Trigonometry Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/geometry-trigonometry-symbols/|archive-url=|archive-date=|access-date=2020-09-01|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Triangle|url=https://mathworld.wolfram.com/Triangle.html|access-date=2020-09-01|website=mathworld.wolfram.com|language=en}} < /ref >  The study of geometry related to triangles is called [[trigonometry]]. Modern [[computer]]s usually use triangles to make more complex [[graphic]] images or shapes. 
+ 
+ == Types of triangles == 
+ [[File:Isosceles-right-triangle.jpg|thumb|This is an ''isosceles right triangle'', because it has a right angle and two of its sides have the same length.]] 
+ Triangles can be grouped according to how many of their sides are equal: < ref name= " :0 " > {{Cite web|title=Triangles - Equilateral, Isosceles and Scalene|url=https://www.mathsisfun.com/triangle.html|access-date=2020-09-01|website=www.mathsisfun.com}} < /ref > 
+ * if all the three sides of a triangle have the same length, then it is an '''[[equilateral triangle]]'''. 
+ * if a triangle has two sides with the same length, then it is an '''[[isosceles triangle]]'''. 
+ * if all the three sides of a triangle have different lengths, then we have a '''scalene triangle'''. 
+ Triangles can also be grouped by their angles: < ref name= " :0 "  / > 
+ 
+ * if a triangle has a [[right angle]], that is, if one of the angles of that triangle measures 90° (90 degrees), then it is a '''[[right triangle]]'''. The opposite side to the right angle is the [[hypotenuse]]. 
+ * if a triangle has an [[obtuse angle]], that is, if one of the angles of that triangle is larger than 90°, then it is an '''obtuse triangle'''. 
+ * if a triangle has only [[Acute angle|acute angles]], that is, if all the angles of that triangle are less than 90°, then it is an '''acute triangle'''. 
+ 
+ {| width=50% 
+ |- 
+ | 
+ < gallery >   
+ file:Triangle.Equilateral.svg|Equilateral triangle 
+ file:Triangle.Isosceles.svg|Isosceles triangle 
+ file:Triangle.Scalene.svg|Scalene triangle 
+ file:Triangle.Right.svg|Right triangle 
+ file:Triangle.Obtuse.svg|Obtuse triangle 
+ file:Triangle.Acute.svg|Acute triangle 
+ < /gallery > 
+ |} 
+ 
+ == Area == 
+ [[File:Triangle (acute) bh.PNG|thumb|''b'' is base and ''h'' is height]] 
+ The [[area]] of a triangle is equal to base times height times one half. 
+ 
+ < math > area= \frac{base \times height}{2} < /math > 
+ 
+ ==Related pages== 
+ * [[Law of sines]] 
+ * [[Pythagorean theorem]] 
+ * [[Sierpinski triangle]] 
+ * [[Reuleaux triangle]] 
+ 
+ == References == 
+ < references / > 
+ 
+ 
+ {{-}} 
+ {{Math-stub}} 
+ {{Polygons}} 
+ {{shapes}} 
+ [[Category:Polygons]]

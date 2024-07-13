@@ -1,0 +1,72 @@
+{{Automatic taxobox 
+ | name = Filozoa 
+ | fossil_range = Late [[Tonian]] - [[Holocene|Present]], {{long fossil range|782.2|0}} 
+ | image = Elephant-ear-sponge.jpg 
+ | image_caption = Orange elephant ear sponge, ''[[Agelas clathrodes]]'', in foreground. Two corals in the background: a [[sea fan]], ''[[Iciligorgia schrammi]]'', and a sea rod, ''[[Plexaurella nutans]]''. 
+ | display_parents = 4 
+ | taxon = Filozoa 
+ | authority = Shalchian-Tabrizi ''et al.'', 2008 
+ | subdivision_ranks = Subgroups 
+ | subdivision = * [[Filasterea]] 
+ * [[Choanozoa]] 
+ ** [[Choanoflagellate]]a 
+ ** [[Animal]]ia 
+ }} 
+ '''Filozoa''' is a [[Cladistics|clade]] (a group of plants or animals with a common ancestor) that is in the [[Opisthokont|Opisthokonta]] clade. It includes animals, and their close [[Microorganism|single-celled]] relatives. These relatives are more closely related to animals than they are to [[Fungus|fungi]], < ref name= " pmid18461162 " > {{cite journal|author=Shalchian-Tabrizi K.|author2=Minge M.A.|author3=Espelund M.|date=7 May 2008|editor1-last=Aramayo|editor1-first=Rodolfo|title=Multigene phylogeny of choanozoa and the origin of animals|journal=PLOS ONE|volume=3|issue=5|pages=e2098|doi=10.1371/journal.pone.0002098|pmc=2346548|pmid=18461162|bibcode=2008PLoSO...3.2098S|doi-access=free}} {{open access}} < /ref >  and other Opisthokonts. 
+ 
+ Three groups are in Filozoa: [[Filasterea]], [[Choanoflagellate|Choanoflagellatea]], and Kingdom [[Animal|Animalia]]. Animalia is the most important one, which has all proper animals in it. 
+ 
+ == Evolution == 
+ The [[Phylogeny|phylogenic tree]] ([[evolution]] tree) below shows how clades broke into newer clades. This includes Filozoa.{{Clade|{{clade 
+     |label1=[[Holomycota]]  
+    |1={{clade 
+    |label1 = [[Cristidiscoidea]] 
+    |1={{Clade 
+       |1=[[Fonticulida]]  
+       |2=[[Nucleariid]]a [[File:Nuclearia sp Nikko.jpg|60 px]] 
+       }} 
+    |label2=[[Fungi]]/Zoosporia 
+          |sublabel2=[[Opisthosporidia]] 
+ |2={{clade 
+       |1=[[BCG2]] 
+       |2={{clade 
+    |1={{clade 
+       |2=[[Aphelida]] 
+          |1=[[Eumycota|True Fungi]] [[File:Asco1013.jpg|60 px]]}} 
+       |2={{clade 
+       |1=[[BCG1]] 
+ |label2=[[Rozellomyceta]]/ 
+ |sublabel2=[[Cryptomycota]] 
+       |2={{clade 
+         |1=[[Rozella]] [[File:Rozella allomycis2.jpg|80 px]] 
+         |2={{clade 
+         |1=[[Namako-37]] 
+ |2=[[Microsporidia]][[File:Fibrillanosema spore.jpg|60 px]] 
+          }} 
+        }} 
+       }}}}}} 
+ 
+     }} 
+     |label2=[[Holozoa]] |sublabel2=1100 mya 
+     |2={{clade 
+     |1=[[Ichthyosporea]] [[File:Abeoforma whisleri-2.jpg|60 px]] 
+     |2={{clade 
+       |label1=[[Pluriformea]] 
+       |1={{clade 
+         |Syssomonas 
+         |[[Corallochytrium]] [[File:Corallochytrium limacisporum.png|60 px]] 
+       }} 
+       |label2='''Filozoa''' 
+       |2={{clade 
+         |1=[[Filasterea]] [[File:Ministeria vibrans.jpeg|60 px]]  
+         |label2=[[Choanozoa]] |sublabel2=950 mya 
+         |2={{clade  
+           |1=[[Choanoflagellate]]  [[File:Desmarella moniliformis.jpg|60 px]] 
+           |2=[[Animal]]ia [[File:Mola_mola.jpg|60 px]] 
+         }} 
+   }}}}}}}}|label1=[[Opisthokonta]]|sublabel1=1300 mya|style=font-size:80%; line-height:80%}} 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Eukaryotes]]

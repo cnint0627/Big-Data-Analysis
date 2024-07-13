@@ -1,0 +1,165 @@
+{{For|the Egyptian god|Seth}} 
+ [[File:Georg Cantor 1894.jpg|thumb|[[Georg Cantor]], in 1894. Cantor was the first mathematician to talk about sets]] 
+ [[File:Passage with the set definition of Georg Cantor.png|thumb|Cantor's original definition of a set]] 
+ A '''set''' is an idea from [[mathematics]]. A set has ''members'' (also called ''elements''). A set is defined by its members, so any two sets with the same members are the same (e.g., if set  < math > \mathit{X} < /math >  and set  < math > \mathit{Y} < /math >  have the same members, then '' < math > \mathit{X} = \mathit{Y} < /math > ''). 
+ 
+ [[File:Example of a set.svg|thumb|Example of a set of polygons]] 
+ 
+ A set cannot have the same member more than once. Membership is the only thing that matters. For example, there is no order or other difference among the members. ''Anything'' can be a member of a set, including sets themselves (though if a set is a member of itself, [[paradox]]es such as [[Russell's paradox]] can happen). 
+ 
+ == What to do with sets == 
+ 
+ Imagine the set is a bag. 
+ 
+ === Element of === 
+ Various things can be put into a bag. Later on, a good question would be if a certain thing is in the bag. [[Mathematician]]s call this ''element of''. Something is an element of a set, if that thing can be found in the respective bag. The symbol used for this is  < math > \in < /math > : 
+ 
+ < math > a \in \mathit{A} < /math > , 
+ 
+ which means that  < math > a < /math >  is in the bag  < math > \mathit{A} < /math >  or  < math > a < /math >  is an element of  < math > \mathit{A} < /math > . 
+ 
+ Unlike a bag, a set can contain at most one item of a given type. So for a set of fruits, it would make no difference if there is one orange, or if there are 10 oranges. 
+ 
+ === Empty set === 
+ Like a bag, a set can also be ''empty''. The empty set is like an empty bag: it has nothing in it. The  " empty set "  is also called the ''null set'' and is represented by the symbol  < math > \varnothing < /math > . < ref name= " :0 " > {{Cite web|date=2020-04-11|title=Comprehensive List of Set Theory Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/set-theory-symbols/|access-date=2020-08-19|website=Math Vault|language=en-US}} < /ref > 
+ 
+ === Universe === 
+ If we consider, say, some sets of American cars, e.g. a set of all [[Ford Motor Company|Fords]] and a set of all [[Dodge]]s, we may also wish to consider the whole set of American cars. In this case, the set of all American cars would be called a universe. 
+ 
+ In other words, a universe is a collection of all the elements one wishes to consider in a given problem. The universe is usually named  < math > U < /math > . 
+ 
+ === Comparing sets === 
+ Two sets can be compared. This is like looking into two different bags. If they contain the same things, they are equal. No matter, in which order these things are. 
+ 
+ ''For example'', if  < math > \mathit{A}=\{ Stanford, Stanley \} < /math >  and  < math > \mathit{B}=\{ Stanley, Stanford \} < /math > , the sets are the same. 
+ 
+ === Cardinality of a set === 
+ When mathematicians talk about a set, they sometimes want to know how big a set is (or what is the [[cardinality]] of the set). They do this by counting how many elements are in the set (how many items are in the bag). For [[finite]] sets the cardinality is a simple [[number]]. The empty set has a cardinality of 0. The set  < math > \{ apple, orange \} < /math >  has a cardinality of 2. 
+ 
+ Two sets have the same cardinality if we can pair up their elements—if we can join two elements, one from each set. The set  < math > \{ apple, orange \} < /math >  and the set  < math > \{ sun, moon \} < /math >  have the same cardinality. E.g., we could pair ''apple'' with ''sun'', and ''orange'' with ''moon''. The order does not matter. It is possible to pair all the elements, and none is left out. But the set  < math > \{ dog, cat, bird \} < /math >  and the set  < math > \{ 5, 6 \} < /math >  have different cardinality. 
+ If we try to pair them up, we always leave out one animal. 
+ 
+ ==== Infinite cardinality ==== 
+ At times cardinality is not a number. Sometimes a set has [[infinity|infinite]] cardinality. The set of all [[integer]]s is a set with infinite cardinality. Some sets with infinite cardinality are bigger (have a bigger cardinality) than others. There are more [[real number]]s than there are natural numbers, for example, which means we cannot pair up the set of integers and the set of real numbers, even if we worked forever. 
+ 
+ ==== Countability ==== 
+ If you can count the elements of a set, it is called a [[countable set]]. Countable sets include all sets with a finite number of members. Countable sets also include some infinite sets, such as the natural numbers. You can count the natural numbers with  < math > {1,2,3...} < /math > . The natural numbers are nicknamed  " the counting numbers " , since they are what we usually use to count things with. 
+ 
+ An [[uncountable set]] is an infinite set that is impossible to count. If we try to count the elements, we will always skip some. It does not matter what step we take. The set of real numbers is an uncountable set. There are many other uncountable sets, even such a small interval like  < math > [0, 1] < /math > .[3] 
+ 
+ === Subsets === 
+ [[File:PolygonsSet EN.svg|thumb|A subset of regular polygons]] 
+ If you look at the set  < math > A=\{ a, b \} < /math >  and the set  < math > B=\{ a, b, c, d \} < /math > , you can see that all elements in the first set are also in the second set. < br >  We say:  < math > \{ a, b \} < /math >  is a [[subset]] of  < math > \{ a, b, c, d \} < /math > < br > 
+ As a formula it looks like this: < br > 
+ < math > \{a,b\} \subseteq \{a,b,c,d\} < /math > 
+ 
+ In general, when all elements of set  < math > A < /math >  are also elements of set  < math > B < /math > , we call   < math > A < /math >  a subset of  < math > B < /math > : < br > 
+ < math > A \subseteq B < /math > . < ref name= " :0 "  / > < br > 
+ It is usually read  " < math > A < /math >  is contained in  < math > B < /math > . " 
+ 
+ ''Example:'' Every [[Chevrolet]] is an American car. So the set of all Chevrolets is contained in the set of all American cars. 
+ 
+ === Set operations === 
+ [[File:PolygonsSetIntersection.svg|thumb|Intersection of two sets of polygons]] 
+ 
+ There are different ways to combine sets. 
+ 
+ ==== Intersections ==== 
+ The intersection  < math > A \cap B < /math >  of two sets  < math > A < /math >  and  < math > B < /math >  is a set that contains all the elements that are both in set  < math > A < /math >  '''[[Logical conjunction|and]]''' in set  < math > B < /math >  at the same time. 
+ 
+ ''Example:'' When  < math > A < /math >  is the set of all cheap cars, and  < math > B < /math >  is the set of all American cars, then  < math > A \cap B < /math >  is the set of all cheap American cars. 
+ 
+ ==== Unions ==== 
+ [[File:PolygonsSetUnion.svg|thumb|Union of two sets of polygons]] 
+ 
+ The union  < math > A \cup B < /math >  of two sets  < math > A < /math >  and  < math > B < /math >  is a set that contains all the elements that are in set  < math > A < /math >  '''[[Inclusive disjunction|or]]''' in set  < math > B < /math > . 
+ This  " or "  is the [[Inclusive disjunction|''inclusive'' disjunction]], so the union also contains the elements, that are in set  < math > A < /math >  ''and'' in set  < math > B < /math > . 
+ By the way, this means, that the intersection is a subset of the union: 
+ < math > (A \cap B) \subseteq (A \cup B) < /math > . 
+ 
+ ''Example:'' When  < math > A < /math >  is the set of all cheap cars, and  < math > B < /math >  is the set of all American cars, then  < math > A \cup B < /math >  is the set of all cars, without all expensive cars that are not from America. 
+ 
+ ==== Complements ==== 
+ Complement can mean two different things: 
+ 
+ * The '''complement of  < math > A < /math > ''' is the universe  < math > U < /math >  without all the elements of  < math > A < /math > : 
+ < math > A^{\rm C} = U \setminus A < /math >   < br > 
+ The universe  < math > U < /math >  is the set of all things you speak about. < br > 
+ ''Example:'' When  < math > U < /math >  is the set of all cars, and  < math > A < /math >  is the set of all cheap cars, < br >  then  < math > A < /math > < sup > C < /sup >  is the set of all expensive cars. 
+ 
+ [[File:PolygonsSetDifference.svg|thumb|Differences of two sets of polygons]] 
+ 
+ * The ''set difference'' of  < math > A < /math >  and  < math > B < /math >  is the set  < math > B < /math >  without all the elements of  < math > A < /math > : 
+ < math > B \setminus A < /math > < br > 
+ It is also called the '''relative complement of  < math > A < /math >  in  < math > B < /math > ''' . < br > 
+ ''Example:'' When  < math > A < /math >  is the set of all cheap cars, and  < math > B < /math >  is the set of all American cars, then  < math > B \setminus A < /math >  is the set of all expensive American cars. 
+ 
+ If you [[Commutativity|exchange]] the sets in the set difference, the result is different: < br > In the ''example'' with the cars, the difference  < math > A \setminus B < /math >  is the set of all cheap cars, that are not made in America. 
+ 
+ == Notation == 
+ Most mathematicians use uppercase ''ITALIC'' (usually [[Roman alphabet|Roman]]) letters to write about sets (such as  < math > A < /math > ,  < math > B < /math > ,  < math > C < /math > ). The things that are seen as elements of sets are usually written with lowercase Roman letters. < ref name= " :0 "  / > < ref > {{Cite web|title=Introduction to Sets|url=https://www.mathsisfun.com/sets/sets-introduction.html|access-date=2020-08-19|website=www.mathsisfun.com}} < /ref > 
+ 
+ One way of showing a set is by a list of its members, separated by commas, included in [[braces (punctuation)|braces]]. 
+ ''For example'', 
+ *  < math > X=\{1, 2, 3\} < /math >  is set which has members 1, 2, and 3. 
+ 
+ Another way, called the set-builder notation, < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Set|url=https://mathworld.wolfram.com/Set.html|access-date=2020-08-19|website=mathworld.wolfram.com|language=en}} < /ref >  is by a statement of what is true of the members of the set, like this: 
+ * {''x'' | ''x'' is a natural number  &  ''x''  <  4}. 
+ In spoken English, this reads:  " the set of all ''x'' such that ''x'' is a natural number and ''x'' is less than four " . The symbol [ipe  " | "  means  " such that "  or  " so that " . 
+ 
+ The empty set is written in a special way:  < math >  \empty  < /math > ,  < math >  \varnothing  < /math >  or  < math >  \{\}  < /math > . 
+ 
+ When object ''a'' is the member of set  < math > A < /math >  it is written as: 
+ *  < math > a\in A < /math > . 
+ In spoken English, this reads:  " ''a'' is a member of  < math > A < /math > " . < ref name= " :0 "  / > 
+ 
+ == Venn diagrams == 
+ [[File:Venn0001.svg|thumb|150px|Intersection  < math > A \cap B < /math > ]] 
+ To illustrate operations on sets mathematicians use [[Venn_diagram|Venn diagrams]]. Venn diagrams use circles to show individual sets. The universe is depicted with a rectangle. Results of operations are shown as colored areas. In the illustration of the intersection operation the left circle shows set  < math > A < /math >  and the right circle shows set  < math > B < /math > . 
+ 
+ == Special sets == 
+ Some sets are very important to mathematics. They are used very often. One of these is the ''empty set''. 
+ Many of these special sets are written using blackboard bold typeface, and these include: < ref name= " :0 "  / > < ref > {{Cite web|title=Set Symbols|url=https://www.mathsisfun.com/sets/symbols.html|access-date=2020-08-19|website=www.mathsisfun.com}} < /ref > 
+ *  < math > \mathbb{P} < /math > , denoting the set of all [[prime number|primes]]. 
+ *  < math > \mathbb{N} < /math > , denoting the set of all [[natural number]]s. That is to say,  < math > \mathbb{N} < /math >  = {1, 2, 3, ...}, or sometimes  < math > \mathbb{N} < /math >  = {0, 1, 2, 3, ...}. 
+ *  < math > \mathbb{Z} < /math > , denoting the set of all [[integer]]s (whether positive, negative or zero). So  < math > \mathbb{Z} < /math >  = {..., -2, -1, 0, 1, 2, ...}. 
+ *  < math > \mathbb{Q} < /math > , denoting the set of all [[rational number]]s (that is, the set of all [[Numerator|proper]] and [[Numerator|improper fraction]]s). So,  < math > \mathbb{Q} = \left\{ \begin{matrix}\frac{a}{b} \end{matrix}| a,b \in \mathbb{Z}, b \neq 0\right\} < /math > , meaning all fractions  < math > \begin{matrix} \frac{a}{b} \end{matrix} < /math >  where ''a'' and ''b'' are in the set of all [[integer]]s and ''b'' is not equal to 0. For example,  < math > \begin{matrix} \frac{1}{4} \end{matrix} \in \mathbb{Q} < /math >  and  < math > \begin{matrix}\frac{11}{6} \end{matrix} \in \mathbb{Q} < /math > . All integers are in this set since every integer ''a'' can be expressed as the fraction  < math > \begin{matrix} \frac{a}{1} \end{matrix} < /math > . 
+ *  < math > \mathbb{R} < /math > , denoting the set of all [[real number]]s. This set includes all rational numbers, together with all [[irrational number|irrational]] numbers (that is, numbers which cannot be rewritten as fractions, such as  < math > \pi, < /math >   < math > e, < /math >  and √2). 
+ *  < math > \mathbb{C} < /math > , denoting the set of all [[complex number]]s. 
+ 
+ Each of these sets of numbers has an infinite number of elements, and  < math > \mathbb{P} \subset \mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C} < /math > . 
+ 
+ == Paradoxes about sets == 
+ The mathematician [[Bertrand Russell]] found that there are problems with the informal definition of sets. He stated this in a paradox called ''Russell's paradox''. An easier to understand version, closer to real life, is called the ''Barber paradox''. 
+ 
+ === The barber paradox === 
+ There is a small town somewhere. In that town, there is a [[barber]]. All the [[men]] in the town do not like [[beard]]s, so they either shave themselves, or they go to the barber shop to be shaved by the barber. 
+ 
+ We can therefore make a statement about the barber himself: ''The barber shaves all men that do not shave themselves. He only shaves those men (since the others shave themselves and do not need a barber to give them a shave).'' 
+ 
+ This of course raises the question: What does the barber do each morning to look clean-shaven? This is the paradox. 
+ 
+ If the barber shaves himself, he cannot be a barber, since a barber does not shave himself. 
+ If he does not shave himself, he falls in the category of those who do not shave themselves, and so, cannot be a barber. 
+ 
+ == Related pages == 
+ 
+ * [[Cantor set]] 
+ * [[Group theory]] 
+ * [[Open set]] 
+ * [[Relation (mathematics)|Relation]] 
+ * [[Set theory]] 
+ 
+ == References == 
+ < references / > 
+ 
+ == Further reading == 
+ The following books explore sets in more detail: 
+ 
+ * Halmos, Paul R., ''Naive Set Theory'', Princeton, N.J.: Van Nostrand (1960) {{ISBN|0-387-90092-6}} 
+ * Stoll, Robert R., ''Set Theory and Logic'', Mineola, N.Y.: Dover Publications (1979) {{ISBN|0-486-63829-4}} 
+ * Allenby, R.B.J.T, ''Rings, Fields and Groups'', Leeds, England: Butterworth Heinemann (1991) {{ISBN|0-340-54440-6}} 
+ 
+ {{Mathematical logic}} 
+ 
+ [[Category:Set theory]]

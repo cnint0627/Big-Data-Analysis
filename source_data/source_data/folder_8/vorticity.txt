@@ -1,0 +1,41 @@
+{{complex|date=January 2012}} 
+ 
+ '''Vorticity''' is a [[Mathematics|mathematical]] concept used in [[fluid dynamics]]. It can be related to the amount of  " [[Circulation (fluid dynamics)|circulation]] "  or  " rotation "  (or more strictly, the local angular rate of rotation) in a fluid. 
+ 
+ The average vorticity in a small region of fluid flow is equal to the [[Circulation (fluid dynamics)|circulation]]  < math > \Gamma < /math >  around the boundary of the small region, divided by the area A of the small region. 
+ 
+ : < math > \omega_{av} = \frac {\Gamma}{A} < /math > 
+ 
+ Notionally, the vorticity at a point in a fluid is the [[Limit of a function|limit]] as the area of the small region of fluid approaches zero at the point: 
+ : < math >  \omega = \frac {d \Gamma}{dA} < /math > 
+ 
+ Mathematically, the vorticity at a point is a vector and is defined as the [[curl]] of the velocity: 
+ : < math > 
+ \vec \omega = \vec \nabla \times \vec v . 
+ < /math > 
+ 
+ One of the base assumptions of the [[potential flow]] assumption is that the vorticity  < math > \omega < /math >  is zero almost everywhere, except in a [[boundary layer]] or a [[stream-surface]] immediately bounding a [[boundary layer]]. 
+ 
+ Because a [[vortex]] is a region of concentrated vorticity, the non-zero vorticity in these specific regions can be modelled with vortices. 
+ 
+ ==Further reading== 
+ * Batchelor, G. K., ([[1967]], reprinted [[2000]]) ''An Introduction to Fluid Dynamics'', Cambridge Univ. Press 
+ * Ohkitani, K.,  " ''Elementary Account Of Vorticity And Related Equations'' " . Cambridge University Press. [[January 30]], [[2005]]. {{ISBN|0-521-81984-9}} 
+ * Chorin,  Alexandre J.,  " ''Vorticity and Turbulence'' " . Applied Mathematical Sciences, Vol 103, Springer-Verlag. [[March 1]], [[1994]]. {{ISBN|0-387-94197-5}}  
+ * Majda, Andrew J., Andrea L. Bertozzi,  " ''Vorticity and Incompressible Flow'' " . Cambridge University Press; 2002. {{ISBN|0-521-63948-4}} 
+ * Tritton, D. J.,  " ''Physical Fluid Dynamics'' " . Van Nostrand Reinhold, New York. [[1977]]. {{ISBN|0-19-854493-6}} 
+ * Arfken, G.,  " ''Mathematical Methods for Physicists'' " , 3rd ed. Academic Press, Orlando, FL. [[1985]]. {{ISBN|0-12-059820-5}} 
+ 
+ ==Other websites== 
+ * Weisstein, Eric W.,  " ''[http://scienceworld.wolfram.com/physics/Vorticity.html Vorticity]'' " . Scienceworld.wolfram.com. 
+ * Doswell III, Charles A.,   " ''[http://www.cimms.ou.edu/~doswell/vorticity/vorticity_primer.html A Primer on Vorticity for Application in Supercells and Tornadoes]'' " . Cooperative Institute for Mesoscale Meteorological Studies, Norman, Oklahoma.  
+ * Cramer, M. S.,  " ''Navier-Stokes Equations -- [http://www.navier-stokes.net/nsvint.htm Vorticity Transport Theorems]: Introduction'' " . Foundations of Fluid Mechanics. 
+ * Parker, Douglas,  " ''ENVI 2210 - Atmosphere and Ocean Dynamics, [http://www.env.leeds.ac.uk/envi2210/lectures/lect9.html 9: Vorticity] {{Webarchive|url=https://web.archive.org/web/20040504110849/http://www.env.leeds.ac.uk/envi2210/lectures/lect9.html |date=2004-05-04 }}'' " . School of the Environment, University of Leeds. [[September]] [[2001]].  
+ * Graham, James R.,   " ''Astronomy 202: Astrophysical Gas Dynamics'' " . Astronomy Department, UC, Berkeley.  
+ **  " ''[http://astron.berkeley.edu/~jrg/ay202/node92.html The vorticity equation: incompressible and barotropic fluids] {{Webarchive|url=https://web.archive.org/web/20040702114551/http://astron.berkeley.edu/~jrg/ay202/node92.html |date=2004-07-02 }}'' " .  
+ **  " ''[http://astron.berkeley.edu/~jrg/ay202/node93.html Interpretation of the vorticity equation] {{Webarchive|url=https://web.archive.org/web/20040702055351/http://astron.berkeley.edu/~jrg/ay202/node93.html |date=2004-07-02 }}'' " .  
+ **  " ''[http://astron.berkeley.edu/~jrg/ay202/node94.html Kelvin's vorticity theorem for incompressible or barotropic flow] {{Webarchive|url=https://web.archive.org/web/20040702130555/http://astron.berkeley.edu/~jrg/ay202/node94.html |date=2004-07-02 }}'' " .  
+ *  " ''[http://www.scd.ucar.edu/css/software/spherepack/ Spherepack 3.1]'' " . (includes a collection of FORTRAN vorticity program)  
+ *  " ''[http://132.206.43.151:5080/realtime/main_page.html Mesoscale Compressible Community (MC2)]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} Real-Time Model Predictions'' " . (Potential vorticity analysis) 
+ 
+ [[Category:Fluid mechanics]]

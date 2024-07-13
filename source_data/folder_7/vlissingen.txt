@@ -1,0 +1,109 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Vlissingen 
+ | other_name              = Flushing 
+ | settlement_type         = [[List of municipalities of the Netherlands|Municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Vlissingen Town.png 
+ | image_alt               =  
+ | image_caption           = Clockwise from top left: Coastline skyscraper, harbour, museum, residential tower and boulevard with beach 
+ | image_flag              = Vlissingen vlag.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Vlissingen wapen.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 0718 (2009).svg 
+ | map_alt                 = Highlighted position of Vlissingen in a municipal map of Zeeland 
+ | map_caption             = Location in Zeeland 
+ | coordinates             = {{coord|51|27|N|3|34|E|region:NL|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = Country 
+ | subdivision_name        = [[Netherlands]] 
+ | subdivision_type1       = Province 
+ | subdivision_name1       = [[Zeeland]] 
+ | parts_type              =  < !-- defaults to: Boroughs -- > 
+ | parts_style             = coll 
+ | parts                   = 8 Districts 
+ |p1=Binnenstad  
+ |p2=Middengebied  
+ |p3=Paauwenburg-Westduin 
+ |p4=Lammerenburg  
+ |p5=[[Oost-Souburg]] 
+ |p6=[[Ritthem]] 
+ |p7=Binnen- en Buitenhavens 
+ |p8=Sloegebied 
+ | government_footnotes    =  < ref name= " mayor_now " > {{cite web 
+  |url = http://www.vlissingen.nl/inwoner/bestuur-organisatie/burgemeester/burgemeester-letty-demmers-van-der-geest.html 
+  |title = Burgemeester Letty Demmers-van der Geest 
+  |trans-title = Mayor Letty Demmers-van der Geest 
+  |language = nl 
+  |publisher = Gemeente Vlissingen 
+  |access-date = 22 December 2013 
+  |archive-date = 24 December 2013 
+  |archive-url = https://web.archive.org/web/20131224121249/http://www.vlissingen.nl/inwoner/bestuur-organisatie/burgemeester/burgemeester-letty-demmers-van-der-geest.html 
+  |url-status = dead 
+  }} < /ref > 
+ | governing_body          = [[Municipal council (Netherlands)|Municipal council]] 
+ | leader_party            = [[Democrats 66|D66]] 
+ | leader_title            = [[Burgemeester|Mayor]] 
+ | leader_name             = [[Letty Demmers-van der Geest]] 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{Dutch municipality total area|dataref}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = {{Dutch municipality total area|Vlissingen}} 
+ | area_land_km2           = {{Dutch municipality land area|Vlissingen}} 
+ | area_water_km2          = {{Dutch municipality water area|Vlissingen}} 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web  
+  |url = http://www.ahn.nl/postcodetool 
+  |title = Postcodetool for 4382MA 
+  |language = nl 
+  |author =  < !--Staff writer(s); no by-line.-- >   
+  |work = Actueel Hoogtebestand Nederland 
+  |publisher = Het Waterschapshuis 
+  |access-date = 22 December 2013}} < /ref > 
+ | elevation_m             = 1 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{Dutch municipality population|dataref}} < /ref > 
+ | population_total        = {{Dutch municipality population|Vlissingen}} 
+ | population_as_of        = {{MONTHNAME|{{Dutch municipality population|popbasemonth}}}} {{Dutch municipality population|popbaseyear}} 
+ | population_density_km2  = {{Dutch municipality population density|Vlissingen}}  < !-- For automatic calculation: auto-- > 
+ | population_demonym      = Vlissinger 
+ < !-- Other information -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 4380–4389 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 0118 
+ | website                 = {{URL|1=http://www.vlissingen.nl}} 
+ | footnotes               = 
+ }} 
+ '''Vlissingen''', [[Zeelandic dialect|Zeelandic]]: ''Vlissienge'', English: ''Flushing'', is a city, [[municipality]] and [[seaport]] in the province of [[Zeeland]], the [[Netherlands]]. 
+ 
+ The city has about 33,000 people. The municipality has about 44,000 (2016). It has been an important harbor for centuries. Most of the [[Royal Netherlands Navy]] ships are built in Vlissingen. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *{{Commons-inline|Vlissingen}} 
+ *{{wikivoyage-inline}} 
+ 
+ {{Zeeland Province}} 
+ {{multistub|geo|Europe}} 
+ {{authority control}} 
+ [[Category:Port cities and towns of the North Sea]] 
+ [[Category:Cities in Zeeland]] 
+ [[Category:Municipalities of Zeeland]]

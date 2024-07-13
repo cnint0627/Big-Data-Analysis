@@ -1,0 +1,32 @@
+[[File:CygneVaires.jpg|thumb|A swan, as it is commonly found in Europe|alt=]] 
+ [[File:Black_Swans.jpg|alt=Pair of black swans swimming|thumb| " All [[Swan|swans]] are white "  can be proven false. It is falsifiable statement, since evidence of [[Black swan|black swans]] proves it to be false, and such evidence can be provided.]] 
+ 
+ '''Falsifiability''' is a concept from [[philosophy of science]]. It refers to whether a particular [[theory]] can be proved wrong.  
+ 
+ There are different ways in which it can be done. The easiest way to do it is to find an example where the theory should apply, but fails. As an example: [[Swan|Swans]] are [[Bird|birds]] related to [[Duck|ducks]] and [[Goose|geese]]. Today, several [[species]] of swans are known. For most people in [[Europe]], a swan is a large white bird: The only species of swan that occurs in Europe is white. Several hundred years back, people in Europe therefore thought that all swans were white.  In 1697, the Dutch explorer [[Willem de Vlamingh]] found black birds that looked like swans, during an expedition on the shores of [[Swan River]], in [[Australia]].  Later, it turned out these birds were indeed swans. With his discovery, de Vlamingh had falsified the theory that all swans were white. 
+ 
+ That was a trivial example. A very important example is the idea that the [[Earth]] goes round the [[Sun]], which was a step in understanding how the [[Solar System]] works. < ref > See our article on [[Galileo Galilei|Galileo#Trial for heresy]] for more information. < /ref >   
+ 
+ == Falsification == 
+ '''Falsification''' is to prove that a theory is wrong. This is done in the following way: There is a set of statements (which are logically sound, and do not contradict each other) called theory. If a single logical statement can be found, which is also logically sound, and which contradicts one of the statements in the theory, then the theory is proven wrong. This can be done with observation, as in the example with the Swans above. It can also be done using [[mathematical logic]], using  [[Inductive reasoning|induction]]. 
+ 
+ [[Karl Popper]] had the opinion that only theories that are falsifiable are scientific. < ref > Thornton, Stephen, [http://plato.stanford.edu/entries/popper/   " Karl Popper, " ] ''Stanford Encyclopedia of PhilosophyWinter 2011); [http://karws.gso.uri.edu/jfk/critical_thinking/science_pseudo_falsifiability.html   " Science, Pseudo-Science, and Falsifiability, " ] {{Webarchive|url=https://web.archive.org/web/20061109085816/http://karws.gso.uri.edu/JFK/critical_thinking/Science_pseudo_falsifiability.html |date=2006-11-09 }} 1962; retrieved 2012-5-8. < /ref >  Falsifiability is then a line between science and other kinds of knowledge: if it can be refuted, it is science; it if cannot, then it is not science. Many working scientists think Popper was right. 
+ 
+ Not everyone agreed with this: [[Pierre Duhem]] and [[Paul Feyerabend]] had different ideas. Feyerabend's ''Against method'' (1975) argued that there was no one scientific method. Instead, ''whatever works, works'' and ''anything goes''. This is called ''epistemological anarchy''.  
+ 
+ Duhem's idea was more subtle. He thought that for any given set of observations there is a huge and uncountable number of explanations. According to Duhem, an experiment in physics is not just an observation, but an [[interpretation]] of observations by means of a theoretical framework. Furthermore, no matter how well one constructs one's experiment, it is impossible to subject an isolated single hypothesis to an experimental test. Instead, it is a whole interlocking group of hypotheses, background assumptions, and theories that is tested. This thesis has come to be known as [[holism]]. According to Duhem, it makes crucial experiments impossible. 
+ 
+ There are some special cases, where a statement or theory cannot be falsified:  
+ *[[Kurt Gödel]] showed that certain [[proposition]]s inside a system of [[logic]] cannot be proved inside that system. 
+ *Closely related to this is the fact that some statements are [[undecidable]] (''This statement is false'', see [[paradox]]). Undecidable statements cannot be falsified.  
+ 
+ == Related pages == 
+ *[[Hypothesis]] 
+ *[[Philosophy of science]] 
+ *[[Raven paradox]] 
+ 
+ ==References== 
+ {{reflist}} 
+ {{Philosophy topics}} 
+ 
+ [[Category:Philosophy of science]]

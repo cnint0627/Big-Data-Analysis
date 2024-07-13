@@ -1,0 +1,83 @@
+A '''decibel''' (or '''dB''') measures ratios of [[Power (physics)|power]] or intensity. It expresses them as an [[exponential function]]. One '''bel''' is a power ratio of 10:1, and is divided into ten decibels. An increase of three decibels is approximately a doubling of power. Decibels are often used in measuring [[telecommunication]] signals. With electric audio signals, there are several decibel units, relative to several bases. For example, dBm is relative to one milli[[watt]]. 
+ 
+ It's been said that the smallest difference humans can hear is 0 dB and is related to the [[Absolute threshold of hearing]], although this is very subjective at best. 
+ 
+ ==History== 
+ The bel unit was named after [[Alexander Graham Bell]]. This unit was so rough that it is more typical to use the decibel, which is one bel divided by ten. Before bels, there was the Transmission Unit (TU). 
+ 
+ ==Examples and Protection== 
+ 
+ Often, decibels are used to say how loud a [[sound]] is relative to the threshold of hearing. The decibel is not an [[SI unit]]. The table here uses dB < sub > SPL < /sub >  as units of sound to indicate consensus on hearing protection. Some examples of sounds are: 
+ 
+ {| class= " wikitable " 
+ |- 
+ ! Sound Level !! Examples 
+ |- 
+ |171 dB 
+ |Next to a loud rifle being shot 
+ |- 
+ | 150 dB || Right next to a jet engine 
+ |- 
+ | 110-140 dB || Jet engine at 100 meters 
+ |- 
+ |130-140 dB 
+ |Where most people begin to feel pain 
+ |- 
+ |130 dB 
+ |Trumpet (a half meter in front of) 
+ |- 
+ | 120 dB || Vuvuzela horn (1 meter in front of), risk of immediate hearing loss 
+ |- 
+ |110 dB 
+ |Gas chainsaw 
+ |- 
+ | 100 dB || Jack hammer 
+ |- 
+ | 80-90 dB || Traffic on a busy roadway 
+ |- 
+ | 60-80 dB || Passenger car 
+ |- 
+ | 40-60 dB || Normal conversation 
+ |- 
+ | 20-30 dB || Very calm room 
+ |- 
+ | 10 dB || Light leaf rustling, calm breathing 
+ |- 
+ | 0 dB || Hearing threshold right next to ear 
+ |} 
+ 
+ Hearing protection can also be used to shield from ear damage. This table gives some safe limits for the level of sound so that the ears are not damaged. 
+ 
+ {| class= " wikitable " 
+ |- 
+ ! Decibels !! Maximum Exposure Time 
+ |- 
+ | 90 || 8 hours 
+ |- 
+ | 92 || 6 hours 
+ |- 
+ | 95 || 4 hours 
+ |- 
+ | 97 || 3 hours 
+ |- 
+ | 100 || 2 hours 
+ |- 
+ | 102 || 90 minutes 
+ |- 
+ | 105 || 60 minutes 
+ |- 
+ | 110 || 30 minutes 
+ |- 
+ | 115 || 10–15 minutes 
+ |- 
+ | 120 || 3–5 minutes 
+ |} < ref name= " Pocket Ref. " > Pocket Ref, General Sciences, pages 322-323. < /ref > 
+ 
+ ==References== 
+ 
+ {{reflist}} 
+ 
+ {{SI units}} 
+ {{tech-stub}} 
+ 
+ [[Category:Sound]]

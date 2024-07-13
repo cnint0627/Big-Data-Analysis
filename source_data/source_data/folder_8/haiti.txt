@@ -1,0 +1,210 @@
+{{Infobox country 
+ | conventional_long_name = Republic of Haiti 
+ | common_name            = Haiti 
+ | native_name            = {{Unbulleted list|{{native name|ht|Repiblik Ayiti}}|{{native name|fr|République d'Haïti}}}} 
+ | image_flag             = Flag of Haiti.svg 
+ | image_coat             = Coat of arms of Haiti.svg 
+ | national_motto         =  < div style= " padding-bottom:0.3em; " > {{Native name|fr| " [[Liberté, égalité, fraternité]] " |italics=off|nolink=on}} < ref > {{cite web|url=http://www.haiti-reference.com/histoire/constitutions/const_1987.htm |title=Article 4 of the Constitution |publisher=Haiti-reference.com |accessdate=24 July 2013}} < /ref > < br / > {{small|{{Native name|ht| " Libète, Egalite, Fratènite " |nolink=on}}}} < br / > {{small| " Liberty, Equality, Fraternity " }} < /div >  {{nowrap|'''Motto on traditional coat of arms:'''}} < br / > {{Native name|fr| " [[Unity makes strength|L'union fait la force]] " |italics=off|nolink=on}} < br / > {{small|{{Native name|ht| " Inite se fòs " |nolink=on}}}} < ref > {{cite web|url=http://www.haitiobserver.com/blog/tag/election/after-the-group-of-g8-now-come-g30-headed-by-louko-desir.html|title=After The Group Of G8, Now Come G30 Headed By Louko Desir|website=Haiti Observer|access-date=28 January 2018}} < /ref > < br / > {{small| " Union makes strength " }} 
+ | national_anthem        = {{native name|fr|[[La Dessalinienne]]|nolink=on}} < br / > {{small|{{native name|ht|Desalinyèn|nolink=on}}}} < br / > {{small| " The Dessalines Song " }} < div style= " padding-top:0.5em; " > [[File:Haiti National Anthem.ogg|center]] < /div > 
+ | image_map              = Haiti (orthographic projection).svg 
+ | image_map2             = Haiti - Location Map (2013) - HTI - UNOCHA.svg 
+ | capital                = [[Port-au-Prince]] 
+ | coordinates            = {{Coord|18|32|N|72|20|W|type:city}} 
+ | largest_city           = Port-au-Prince 
+ | official_languages     = {{unbulleted list | [[Haitian Creole]] | [[French language|French]] }} 
+ | languages              = * English 
+ * Spanish 
+ | ethnic_groups          = 95% [[Afro-Haitians|black]] < br / > 5%  < small > [[Mulatto Haitians|mixed]] and [[White Haitians|white]] < /small > < ref name= " CIA_20110303 " > {{cite web |publisher=[[Central Intelligence Agency]] |work=[[The World Factbook]] |title=Haiti |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html |access-date=2008-01-20 |archive-date=2016-01-31 |archive-url=https://web.archive.org/web/20160131115215/https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html |url-status=dead }} < /ref > 
+ | ethnic_groups_year     =  
+ | demonym                = [[Haitians|Haitian]] 
+ | government_type        = {{nowrap|[[Unitary state|Unitary]] [[Semi-presidential republic|semi-presidential]]}} [[republic]] under a [[totalitarianism|totalitarian]] [[dictatorship]] 
+ | leader_title1          = [[President of Haiti|President]] 
+ | leader_name1           = [[Ariel Henry]] (acting) 
+ | leader_title2          = [[Prime Minister of Haiti|Prime Minister]] 
+ | leader_name2           = [[Ariel Henry]] 
+ | legislature            = [[Haitian Parliament|Parliament]] 
+ | upper_house            = [[Senate (Haiti)|Senate]] 
+ | lower_house            = [[Chamber of Deputies (Haiti)|Chamber of Deputies]] 
+ | sovereignty_type       = [[Haitian Revolution|Independence]] 
+ | sovereignty_note       = from [[French First Republic|France]] 
+ | established_event1     = Declared 
+ | established_date1      = January 1, 1804 
+ | established_event2     = Recognized 
+ | established_date2      = April 17, 1825 
+ | established_event3     = [[First Empire of Haiti|First Empire]] 
+ | established_date3      = September 22, 1804 
+ | established_event4     = [[State of Haiti|Southern Republic]] 
+ | established_date4      = March 9, 1806 
+ | established_event5     = [[State of Haiti|Northern State]] 
+ | established_date5      = October 17, 1806 
+ | established_event6     = [[Kingdom of Haiti|Kingdom]] 
+ | established_date6      = March 28, 1811 
+ | established_event7     = [[Unification of Hispaniola]] 
+ | established_date7      = February 9, 1822 
+ | established_event8     = Dissolution 
+ | established_date8      = February 27, 1844 
+ | established_event9     = [[Second Empire of Haiti|Second Empire]] 
+ | established_date9      = August 26, 1849 
+ | established_event10    = Republic 
+ | established_date10     = January 15, 1859 
+ | established_event11    = [[Constitution of Haiti|Current constitution]] 
+ | established_date11     = March 29, 1987 
+ | area_km2               = 27,750 
+ | area_rank              = 143rd  < !-- Area rank should match [[List of countries and dependencies by area]] -- > 
+ | area_sq_mi             = 10,714  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | percent_water          = 0.7 
+ | population_estimate    = 8,812,245 
+ | population_estimate_year = Last 
+ | population_estimate_rank = 72nd 
+ | population_density_km2 = 382  < !--(population_estimate ÷ area_km2)-- > 
+ | population_density_sq_mi = 989.7  < !--(population_estimate ÷ area_sq_mi)-- > 
+ | population_density_rank = 32nd 
+ | GDP_PPP                = $19.979 billion < ref name= " imf2 " > {{cite web |url=http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?sy=2015 & ey=2022 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & pr1.x=64 & pr1.y=4 & c=263 & s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC & grp=0 & a=|title=Haiti |publisher=International Monetary Fund }} < /ref > 
+ | GDP_PPP_year           = 2017 
+ | GDP_PPP_rank           = 144th 
+ | GDP_PPP_per_capita     = $1,819 < ref name= " imf2 "  / > 
+ | GDP_PPP_per_capita_rank = 174th 
+ | GDP_nominal            = $7.897 billion < ref name= " imf2 "  / > 
+ | GDP_nominal_year       = 2017 
+ | GDP_nominal_rank       = 139th 
+ | GDP_nominal_per_capita = $719 < ref name= " imf2 "  / > 
+ | GDP_nominal_per_capita_rank = 172nd 
+ | Gini                   = 60.8  < !--number only-- > 
+ | Gini_year              = 2012 
+ | Gini_change            =  < !--increase/decrease/steady-- > 
+ | Gini_ref               =  < ref name= " wb-gini " > {{cite web |url=http://data.worldbank.org/indicator/SI.POV.GINI/ |title=Gini Index |publisher=The World Bank |accessdate=21 November 2015}} < /ref > 
+ | Gini_rank              =  
+ | HDI                    = 0.493  < !--number only-- > 
+ | HDI_year               = 2015 < !-- Please use the year to which the data refers, not the publication year-- > 
+ | HDI_change             = increase  < !--increase/decrease/steady-- > 
+ | HDI_ref                =  < ref name= " HDI " > {{cite web|url=http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf|title=2016 Human Development Report|year=2016|accessdate=21 March 2017|publisher=United Nations Development Programme}} < /ref > 
+ | HDI_rank               = 163rd 
+ | currency               = [[Haitian gourde]] (G) 
+ | currency_code          = HTG 
+ | time_zone              = [[Eastern Time Zone|EST]] 
+ | utc_offset             = −5 
+ | utc_offset_DST         = −4 
+ | time_zone_DST          = [[Eastern Daylight Time|EDT]] 
+ | drives_on              = right 
+ | calling_code           = [[+509]] 
+ | cctld                  = [[.ht]] 
+ | country_code           =  
+ }} 
+ 
+ '''Haiti''' ([[Haitian Creole language|Haitian Creole]]: ''Ayiti''; French: ''Haïti''), officially the '''Republic of Haiti''' ([[Haitian Creole]]: ''Repiblik d Ayiti''; [[French language|French]]: ''République d'Haïti'') is a [[country]] on the [[Caribbean]] [[island]] of [[Hispaniola]]. The other country on the island is the [[Dominican Republic]]. Haiti has two [[official]] [[languages]]: French and [[Haitian Creole language|Haitian Creole]], or  " ''Kreyol'' " , which is a simple version of French mixed with African languages. Its [[capital city]] is [[Port-au-Prince]]. 
+ 
+ Haiti has a [[tropical climate]]. In French, the country is called '' " La Perle des Antilles " '' (The pearl of the Antilles), because of its natural beauty. There are many [[mountain]]s in Haiti. The country used to be covered with [[forests]]. However, it no longer is, because of [[deforestation]]. It is the [[poverty|poorest]] country in the [[Western Hemisphere]]. 
+ 
+ Haiti is divided into ten ''departements''. The main religion is [[Roman Catholic]]ism. However, many Haitians also practice [[Voodoo]]. This is a religion which came from African folk beliefs in [[Benin]]. Haiti has many holidays; the largest and most important is the ''Mardi Gras''. 
+ 
+ == Geography == 
+ {{Main|Geography of Haiti}} 
+ Haiti has a total area of 27,750 [[Square kilometre|km²]]. Most of it is in the western third of the Hispaniola island. There are also smaller islands near the Haitian coast, like ''[[Gonaïves|Gonâve]]'', ''[[Tortuga (Haiti)|Île de la Tortue]]'', ''Les Cayemites'', ''Île-à-Vache'' and ''[[Navassa Island|La Navase]]''. 
+ 
+ Haiti has many mountains. There are only some coastal [[plain]]s and few [[valley]]s. The largest valley is the ''Cul-de-Sac''. Port-au-Prince is in the western end of this valley. The country's main river is the [[Artibonite River|Artibonite]], which is also the longest in Hispaniola. Haiti's biggest city is [[Port-au-Prince]], with more than 3 million people in its [[metropolitan area]]. The second largest city is [[Cap-Haïtien]]. 
+ 
+ Haiti has a [[tropical]] climate. The [[rain]]y [[season]] lasts from April to June, and from October to November. [[Tropical cyclones|Hurricanes]] are common during summer. In the past, hurricanes have caused a lot of damage and killed many people. 
+ 
+ == History == 
+ The [[Taino]] people were a tribe of [[Arawak]] Amerindians. They lived on the island of Hispaniola before [[Christopher Columbus]] found the island and started a European [[colony]] there. Columbus found the island of Hispaniola on his first trip to the Americas. < ref > {{cite web|last=|first=|date=|title=Hispaniola - Columbus|url=http://www.yale.edu/gsp/colonial/hispaniola/index.html|url-status=dead|archive-url=https://web.archive.org/web/20080827235201/http://www.yale.edu/gsp/colonial/hispaniola/index.html|archive-date=August 27, 2008|accessdate=16 March 2013|website=|publisher=Yale University}} < /ref >  Within twenty-five years after Columbus arrived, all of the Arawaks had been killed by Spanish [[conquistador]]s. 
+ 
+ In the early 17th century, the French set up a colony on Hispaniola. In 1697, Spain sold the western third of the island - Haiti - to the French. The French colony < ref > " [https://web.archive.org/web/20030308142635/http://entomology.montana.edu/historybug/napoleon/yellow_fever_haiti.htm The Haitian Debacle: Yellow Fever and the Fate of the French] "  Montana State University; Retrieved January 14, 2010 < /ref >  was based on [[forest]]ry and making [[sugar]]. It became one of the wealthiest in the Caribbean. However, to do this, the colony brought many [[slave]]s over from Africa and destroyed much of the environment. 
+ 
+ By the late 18th century, there were nearly half a million slaves in Haiti. They revolted, led by [[Toussaint L'ouverture|Toussaint L'Ouverture.]] After a hard and bloody struggle, they won their [[independence]]. In 1804, Haiti became the first independent black [[republic]] in the world. < ref > " [https://web.archive.org/web/20080725115213/http://ccet.louisiana.edu/tourism/cultural/The_People/haitian.html Haitians] " , University of Louisiana < /ref >  Today there are many monuments in Haiti remembering the Haitian Revolution. One of the largest is ''La Citadelle Laferriere''. 
+ 
+ On January 12, 2010, in the afternoon of a Tuesday, [[2010 Haiti Earthquake|Haiti was struck]] by a [[moment magnitude scale|magnitude]]-7.0 [[earthquake]]. This was the worst earthquake to hit the country in the past 200 years. < ref > {{cite web|last=|first=|date=|title=Magnitude 7.0 – Haiti Region|url=https://earthquake.usgs.gov/earthquakes/eqinthenews/2010/us2010rja6/|url-status=dead|archive-url=https://web.archive.org/web/20100115110510/https://earthquake.usgs.gov/earthquakes/eqinthenews/2010/us2010rja6/|archive-date=January 15, 2010|accessdate=January 12, 2010|website=}} < /ref >  The quake's [[epicenter]] was just outside the Haitian capital of [[Port-au-Prince]]. < ref > {{cite web |url=https://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/haiti/6977308/Major-earthquake-off-Haiti-causes-hospital-to-collapse.html |title=Major earthquake off Haiti causes hospital to collapse – Telegraph |publisher=telegraph.co.uk |accessdate=January 12, 2010 }} < /ref >  The quake caused major damage to Port-au-Prince and nearby areas. Over 200,000 people were thought to have been killed, but it was hard to be sure because many people were buried in mass graves before they could be identified. < ref > {{cite web |url=https://www.reuters.com/article/idUSTRE66B5IZ20100115 |title=Haiti says 200,000 may be dead, violence breaks out - Reuters |publisher=reuters.com |accessdate=January 14, 2010 |archive-date=November 29, 2014 |archive-url=https://web.archive.org/web/20141129095809/https://www.reuters.com/article/idUSTRE66B5IZ20100115 |url-status=dead }} < /ref > 
+ 
+ == Departments == 
+ {{main|Departments of Haiti}} 
+ Haiti is made of ten [[region]]s known as [[Province|departments]] ({{lang-fr|départments}}, singular ''départment''). These departments are further divided into 41 ''arrondissements'', and 133 ''communes''. These are the second and third level units of [[Local government|administration]]. 
+ 
+ The 10 departments, with their [[Capital city|capital cities]] in parentheses, are: 
+ 
+ [[File:Haiti departments numbered.png|right|thumb|300px|Departments of Haiti]]. 
+ # [[Artibonite Department|Artibonite]] ([[Gonaïves]]) 
+ # [[Centre Department|Centre]] ([[Hinche]]) 
+ # [[Grand'Anse Department|Grand'Anse]] ([[Jérémie]]) 
+ # [[Nippes Department|Nippes]] ([[Miragoâne]]) 
+ # [[Nord Department|Nord]] ([[Cap-Haïtien]]) 
+ # [[Nord-Est Department|Nord-Est]] ([[Fort-Liberté]]) 
+ # [[Nord-Ouest Department|Nord-Ouest]] ([[Port-de-Paix]]) 
+ # [[Ouest Department|Ouest]] ([[Port-au-Prince]]) *national capital* 
+ # [[Sud-Est Department|Sud-Est]] ([[Jacmel]]) 
+ # [[Sud Department|Sud]] ([[Les Cayes]]) 
+ 
+ == Politics == 
+ The Republic of Haiti is divided into 10 departments, but the central government has control over most political affairs. The president is head of state and is normally elected by popular vote for a five-year term. The president cannot serve consecutive terms. However, because of inconclusive election results in 2015, Haiti's current interim president was elected by the legislature. The prime minister is head of government and is appointed by the president and confirmed by the bicameral National Assembly. The National Assembly's upper house is the 30-seat Senate, and the lower house is the 118-seat Chamber of Deputies. Members of both houses are elected through a majoritarian system. Senators serve six-year terms and deputies serve four-year terms. There have been efforts toward constitutional reform to ensure that more women are represented in politics on the national level, but these reforms have not yet resulted in concrete changes. 
+ 
+ == Holidays == 
+ '''Official holidays''' (on the same day every year) 
+ * 1 January: Jour de l'Indépendance ( " Independence Day " ) 
+ * 2 January: Jour des Aïeux ( " Ancestors' Day " ) 
+ * 1 May: Fête de l'Agriculture et du Travail ( " Agriculture and Labor Day " ) 
+ * 18 May: Fête du Drapeau et de l'Université ( " Flag and University Day " ) 
+ * 17 October: Anniversary of the Death of Jean-Jacques Dessalines 
+ * 1 November: All Saint's Day 
+ * 2 November: All Soul's Day 
+ * 18 November: Battle of Vertières' Day and Armed Forces Day 
+ * 25 December: Christmas Day 
+ '''Traditional and religious holidays''' (dates vary according to the liturgical calendar of the Catholic Church) 
+ * Carnival (Only Mardi Gras is an official holiday) 
+ * Good Friday 
+ * Corpus Christi 
+ 
+ == Economy == 
+ [[File:Bas-Ravine.jpg|thumb|220px|left|Bas-Ravine, in the northern part of [[Cap-Haïtien]].]] 
+ Haiti is the least developed country in the [[Americas]]. It is also one of the least developed and poorest countries in the world. 
+ 
+ There are [[economic indicator|indicators]] that can be used to compare social and [[economy|economic]] situations between countries. Some indicators show that Haiti has fallen behind other poor [[developing country|developing countries]] since the 1980s. In 2006, Haiti ranked 146th of 177 countries in the United Nations [[Human Development Index]] (2006). About 90% of the Haitian people were living in poverty in 2003. < ref name= " CIA " > {{Cite web |title=CIA - The World Factbook -- Haiti |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html |access-date=2008-01-20 |archive-date=2016-01-31 |archive-url=https://web.archive.org/web/20160131115215/https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html |url-status=dead }} < /ref >  Haiti is the only country in the Americas on the [[United Nations]] list of [[Least Developed Countries]] and it is the poorest country in the Americas. The economy was staying even or falling behind even before their big earthquake. 
+ 
+ About 66% of all Haitians work in [[agriculture]]. Most of them do small-scale [[subsistence agriculture|subsistence farming]] < ref name =  " Haiti in CIA World Factbook " / >  (meaning that they are able to grow just enough to survive). This does not bring in much money. 
+ 
+ Very few jobs were created in the last ten years. However, the [[informal economy]] is growing. [[Mango]]es and [[coffee]] are two of Haiti's most important [[export]]s. < ref name= " Haiti in CIA World Factbook " > {{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html |title=CIA - The World Factbook – Haiti |date=2008-03-20 |publisher=United States |accessdate=2007-12-20 |archive-date=2016-01-31 |archive-url=https://web.archive.org/web/20160131115215/https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html |url-status=dead }} < /ref >  Haiti has consistently ranked among the most [[corruption|corrupt]] countries in the world on the [[Corruption Perceptions Index]]. 
+ 
+ About one third of the national government's budget is money given to them by other countries. The United States gives the most money. Canada gives the second largest amount of money. The [[European Union]], Venezuela and Cuba also give and help Haiti's economy in different ways. Haiti has renewed its [[alliance]]s with Venezuela and Cuba in 2006 and 2007. 
+ 
+ From 2001 to 2004, the United States stopped giving aid to Haiti completely. The aid was cut off after Haiti's 2000 election. The election's results were questioned, and President [[Aristide]] was accused of cheating to win the election. Aristide was overthrown in 2004. After that, the United States started giving aid to Haiti again. The United Nations led a peacekeeping operation called the [[United Nations Stabilization Mission in Haiti]]. (The Mission is called called MINUSTAH in Haiti; this is an [[acronym]] for the Mission's name in French). The Brazilian army led the peacekeeping operation. 
+ 
+ Even after President Aristide was overthrown, corruption continued to be very common in Haiti. < ref > {{cite web|last=|first=|date=November 6, 2006|title=2006 Corruption Perceptions Index reinforces link between poverty and corruption|url=http://www.transparency.org/news_room/latest_news/press_releases/2006/en_2006_11_06_cpi_2006|url-status=dead|archive-url=https://web.archive.org/web/20061107233642/http://www.transparency.org/news_room/latest_news/press_releases/2006/en_2006_11_06_cpi_2006|archive-date=November 7, 2006|accessdate=January 15, 2009|website=|publisher=Transparency International}} < /ref > < ref > {{cite web|url=http://www.redcross.int/EN/mag/magazine2006_2/10-11.html|title=Hoping for change in Haiti's Cité-Soleil|publisher=International Red Cross|accessdate=January 15, 2009|archive-date=September 30, 2007|archive-url=https://web.archive.org/web/20070930224814/http://www.redcross.int/EN/mag/magazine2006_2/10-11.html|url-status=dead}} < /ref > 
+ 
+ Haiti has a large amount of foreign debt (money owed to other countries and international institutions to repay loans). The [[Heavily Indebted Poor Countries]] (HIPC) program planned to forgive about $525 million of Haiti's debt by mid-2009. < ref > {{Cite web |title=CIA World Fact Book |url=https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html |access-date=2008-01-20 |archive-date=2016-01-31 |archive-url=https://web.archive.org/web/20160131115215/https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html |url-status=dead }} < /ref > 
+ 
+ == Demographics == 
+ In 2009, the [[population]] of Haiti (the number of people living in the country) was about 10,090,190. Figures from the DNA Nationwide Studies Institute say that the [[race|racial]] makeup of the population is: 
+ * 94.2%: Black (Descendants mainly from the Fon, Ewe, Yoruba, and Bantu tribes of West/Central Africa) 
+ * 5.4%: [[Mulatto]] (European and African descent). 
+ * 0.4%: White (mainly of French, Polish, and Arab origin) 
+ 
+ Some East Asians also live in the country.       
+ 
+ {{bar box 
+ |title=DNA estimates of Haiti 
+ |titlebar=#ddd 
+ |left1=Ethnicity 
+ |right1=% approx. 
+ |float=right 
+ |bars= 
+ {{bar percent|Black|Black|94}} 
+ {{bar percent|Mulatto|Brown|5}} 
+ {{bar percent|White|Tan|1}} 
+ }} 
+ 
+ ==Related pages== 
+ * [[Haiti at the Olympics]] 
+ * [[Haiti national football team]] 
+ * [[List of rivers of Haiti]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{commons}} 
+ 
+ {{North America}} 
+ {{Caribbean}} 
+ {{Caricom}} 
+ {{authority control}} 
+ 
+ [[Category:Haiti| ]] 
+ [[Category:French-speaking countries]] 
+ [[Category:Caribbean Community]] 
+ [[Category:Least developed countries]]

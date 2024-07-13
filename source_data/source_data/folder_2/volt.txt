@@ -1,0 +1,60 @@
+[[File:NISTvoltChip.jpg|thumb|Josephson junction array chip developed by [[NIST]] as a standard volt.]] 
+ :''For the electric plug-in hybrid concept car, see [[Chevrolet Volt]].'' 
+ :''For the record label, see [[Volt Records]]'' 
+ The '''volt''' (symbol: V) is the [[SI]] [[SI derived unit|derived unit]] of electric potential difference or electromotive force (also known as [[voltage]]). < ref > Rudolf F. Graf,  " Volt " , Dictionary of Electronics; Radio Shack, 1974-75. Fort Worth, Texas. ISBN B000AMFOZY < /ref >  It is named in honor of the [[Italy|Italian]] [[physicist]] [[Alessandro Volta]] (1745–1827), who invented the [[voltaic pile]], the first chemical [[battery (electricity)|battery]]. 
+ 
+ == Definition == 
+ The volt is defined as the [[Voltage|potential difference]] across a [[Electrical conductor|conductor]] when a [[Electric current|current]] of one [[ampere]] dissipates one [[watt]] of [[power (physics)|power]]. Hence, it is the base SI representation [[metre|m]] < sup > 2 < /sup >  · [[kilogram|kg]] · [[second|s]] < sup > −3 < /sup >  · [[ampere|A]] < sup > −1 < /sup > , which can be equally represented as one [[joule]] of [[energy]] per [[coulomb]] of charge, J/C. 
+ 
+ : < math > \mbox{V} = \dfrac{\mbox{W}}{\mbox{A}} = \dfrac{\mbox{J}}{\mbox{C}} = \dfrac{\mbox{m}^2 \cdot \mbox{kg}}{\mbox{s}^{3} \cdot \mbox{A}} < /math > 
+ 
+ == Hydraulic analogy == 
+ In the ''[[hydraulic analogy]]'' sometimes used to explain electric circuits by comparing them to water-filled pipes, [[voltage]] is like water pressure - it determines how fast the electrons will travel through the circuit. Current (in amperes), in the same analogy, is a measure of the volume of water that flows past a given point, the rate of which is determined by the voltage, and the total output measured in watts. The equation that brings all three components together is: volts × amperes = watts 
+ 
+ == Common voltages == 
+ [[File:Electronic multi meter.jpg|thumb|250px|A multimeter can be used to measure the voltage between two points]] 
+ 
+ [[File:BateriaR14.jpg|150px|thumb|1.5 V C-cell batteries]] 
+ 
+ Nominal voltages of familiar sources: 
+ * [[Nerve cell]] [[action potential]]: around 30 mV 
+ * Single-cell, rechargeable [[Nickel metal hydride battery|NiMH]] or [[Nickel-cadmium battery|NiCd]] battery: 1.2 V 
+ * [[Mercury battery]] 1.355 V 
+ * Single-cell, non-rechargeable [[alkaline battery]] (e.g. [[Battery (electricity)#Common battery sizes|AAA, AA, C and D cells]]): 1.5 V 
+ * [[Lithium polymer]] rechargeable battery: 3.75 V 
+ * [[Transistor-transistor logic]] (TTL) power supply: 5 V 
+ * [[PP3 battery]]: 9 V 
+ * [[Automobile]] electrical system: 12 V (nominal) 
+ * Household [[mains electricity]]: 230 V RMS in Europe, Australia, Asia and Africa, 120 V RMS in North America, 100 V RMS in Japan (see [[List of countries with mains power plugs, voltages and frequencies]]) 
+ * [[Rapid transit]] [[third rail]]: 600 to 700 V (see [[List of current systems for electric rail traction]]) 
+ * High speed train overhead power lines: 25 kV RMS at 50 & nbsp;Hz, but see [[List of current systems for electric rail traction]] for exceptions. 
+ * High voltage [[electric power transmission]] lines: 110 kV RMS and up (1150 kV RMS is the record as of 2005) 
+ * [[Lightning]]: Varies greatly, often around 100 MV. 
+ 
+ Note: Where 'RMS' ([[root mean square]]) is stated above, the peak voltage is  < math > \sqrt{2} < /math >  times greater than the RMS voltage for a [[sinusoidal]] signal. 
+ 
+ == History of the volt == 
+ In 1800, as the result of a professional disagreement over the galvanic response advocated by [[Luigi Galvani]], Alessandro Volta developed the so-called [[Voltaic pile]], a forerunner of the [[Battery (electricity)|battery]], which produced a steady electric [[current (electricity)|current]]. Volta had determined that the most effective pair of dissimilar metals to produce electricity was [[zinc]] and [[silver]]. In the 1880s, the [[International Electrical Congress]], now the [[International Electrotechnical Commission]] (IEC), approved the volt for electromotive force. The volt was defined as the potential difference across a conductor when a current of one [[ampere]] dissipates one [[watt]] of power. 
+ 
+ ==Related pages== 
+ * [[SI]] for unit prefixes 
+ * [[SI electromagnetism units]] 
+ * [[Voltmeter]] 
+ * [[Watt]] 
+ * [[Ampere]] 
+ 
+ == References == 
+ < !-- ---------------------------------------------------------- 
+   See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for a  
+   discussion of different citation methods and how to generate  
+   footnotes using the  < ref > ,  < /ref >  and   < reference / >  tags 
+ ----------------------------------------------------------- -- > 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ * [http://en.citizendium.org/wiki/Volt Volt] -Citizendium  
+ 
+ {{SI units}} 
+ 
+ [[Category:Electricity]] 
+ [[Category:SI derived units]]

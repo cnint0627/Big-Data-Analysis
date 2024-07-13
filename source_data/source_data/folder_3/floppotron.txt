@@ -1,0 +1,29 @@
+
+ The '''Floppotron''' is a musical instrument. It was made by Polish engineer Paweł Zadrożniak. It is made of a set of computer hardware that plays music together. The latest version, the Floppotron 2.0, has 64 floppy drives, eight hard drives, and two flatbed scanners. < ref name= " Ref_Mental " > {{cite web |title=Behold the Floppotron, a Computer Hardware Orchestra |url=http://mentalfloss.com/article/501938/behold-floppotron-computer-hardware-orchestra |website=Mentalfloss |date=18 June 2017 |publisher=Minute Media |access-date=12 May 2019 |ref=Ref_Mental}} < /ref > 
+ 
+ ==Development== 
+ 
+ ===First version=== 
+ The first version of the Floppotron was made in 2011. It is made of two [[Floppy disk|floppy drives]] and an [[AVR microcontrollers|ATMega microcontroller]]. The sound is made by the magnetic head being moved by its stepper motor. The floppy drive's heads have be moved at the correct speed to make the correct sound. < ref > {{cite web |title=Evil floppy drives |url=http://silent.org.pl/home/2011/09/29/evil-floppy-drives-english-translation/ |website=Silent's Homepage |access-date=12 May 2019}} < /ref > 
+ 
+ The instrument became well known thanks to a video of the instrument on [[YouTube]] playing the Imperial March, which has more than 6 million views. < ref > {{cite web |title=Floppy music DUO - Imperial march |url=https://www.youtube.com/watch?v=yHJOz_y9rZE |website=YouTube |access-date=12 May 2019}} < /ref > 
+ 
+ ===2.0 version=== 
+ In 2016, Paweł Zadrożniak made a better version of the Floppotron, which has 64 floppy drives, 8 hard drives, and two flatbed scanners. Every column of eight floppy drives is controlled by an ATMega16 microcontroller, and the hard drives are controlled by two SMD MOSFETs that push and pull. The flatbed scanner head are controlled by [[Arduino]] Uno boards. < ref name= " Ref_Silent " > {{cite web |title=Return of the Floppies |url=http://silent.org.pl/home/2016/07/06/return-of-the-floppies/ |website=Silent's Homepage |access-date=12 May 2019}} < /ref > 
+ 
+ ==How it works== 
+ Any device that has an electric motor can make sound. Scanners and floppy drives use stepper motors to move the head with sensors that scan an image, or read or write, onto a magnetic disk. The faster the motor, the higher the pitch of the sound the motor makes. Hard disks use a magnet and a coil to tilt the head. When voltage is supplied for long enough, the head speeds up and hits the bound, which makes the  " drum hit” sound. < ref name= " Ref_Silent "  / > 
+ 
+ The Floppotron makes MIDI music files into commands that tell each device when to buzz, click, or be silent. < ref name= " Ref_Mental "  / > 
+ 
+ ==Song covers== 
+ 
+ As of April 2019, Paweł Zadrożniak's YouTube page shows more than one hundred songs played with the Floppotron. < ref > {{cite web |title=Paweł Zadrożniak videos |url=https://www.youtube.com/user/sh4dowww90/videos |website=YouTube |access-date=12 May 2019}} < /ref >  Some of those songs are [[Queen (band)|Queen]]'s  " [[Bohemian Rapsody]] " , [[Nirvana (band)|Nirvana]]'s  " [[Smells Like Teen Spirit]] " , [[White Stripes]]'s  " [[Seven Nation Army]] " , [[Eurythmics]]'  " [[Sweet Dreams (Are Made of This)|Sweet Dreams]] "  and [[Michael Jackson]]'s  " [[Thriller (song)|Thriller]] " . < ref > {{cite web |title=Halloween's Extra Spooky With Michael Jackson's Thriller Played On Outdated Zombie Technology |url=https://gizmodo.com/halloweens-extra-spooky-with-michael-jacksons-thriller-1830069959 |website=Gizmodo |date=29 October 2018 |access-date=12 May 2019}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ * [http://silent.org.pl/home/ Inventor Paweł Zadrożniak home page] 
+ 
+ [[Category:Musical instruments]]

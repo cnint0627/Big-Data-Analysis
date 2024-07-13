@@ -1,0 +1,29 @@
+[[Image:Optical spectrometers.png|thumbnail|Comparison of different diffraction based spectrometers: Reflection optics, refraction optics, fiber optics]] 
+ A '''spectrometer''' is an [[Optics|optical]] instrument used to measure properties of [[light]] over a specific portion of the [[electromagnetic spectrum]]. 
+ 
+ The independent variable is usually the [[wavelength]] of the light.  
+ The variable measured is most often the light's [[intensity]] but could also, for instance, be the [[polarization]] state. A spectrometer is used in [[spectroscopy]] for producing [[spectral line]]s and measuring their [[wavelength]]s and intensities.  Spectrometer is a term that is applied to instruments that operate over a very wide range of wavelengths, from [[gamma ray]]s and [[X-ray]]s into the [[far infrared]]. 
+ 
+ In general, any particular instrument will operate over a small portion of this total range because of the different techniques used to measure different portions of the spectrum. Below optical frequencies (that is, at [[microwave]], [[radio]], and [[sound|audio]] frequencies), the [[spectrum analyzer]] is a closely related electronic device. 
+ 
+ ==Spectroscopes== 
+ Spectrometers are used in [[spectroscopic analysis]] to identify materials. Spectroscopes are used often in [[astronomy]] and some branches of [[chemistry]].  Early spectroscopes were simply a [[Triangular prism (optics)|prism]] with graduations marking wavelengths of light. Modern spectroscopes, such as [[monochromator]]s, generally use a [[diffraction grating]], a movable slit, and some kind of [[photodetector]], all automated and controlled by a [[computer]].  The spectroscope was invented by [[Gustav Robert Georg Kirchhoff]] and [[Robert Wilhelm Bunsen]]. 
+ 
+ == Reference works == 
+ * [https://archive.org/details/howtoworkwithspe00browrich How to work with the spectroscope : a manual of practical manipulation with spectroscopes of all kinds]  
+ :1882; Browning, John (1835-1925) NOT_IN_COPYRIGHT - online full-text download 
+ 
+ ==Related pages== 
+ * [[Spectroscopy]] 
+ 
+ == Other websites == 
+ * [http://astro.u-strasbg.fr/~koppen/spectro/designe.html How to design a spectroscope] {{Webarchive|url=https://web.archive.org/web/20120423174142/http://astro.u-strasbg.fr/~koppen/spectro/designe.html |date=2012-04-23 }}    
+ * [http://www.cs.cmu.edu/~zhuxj/astro/html/spectrometer.html A CD spectrometer] Build from CD and cereal box - Spectrographs of common light sources 
+ * [http://www-astronomy.mps.ohio-state.edu/~pogge/Ast161/Unit4/HandSpec/index.html Supplement: Build Yourself a Simple Hand-Held Spectrograph] {{Webarchive|url=https://web.archive.org/web/20071016052909/http://www-astronomy.mps.ohio-state.edu/~pogge/Ast161/Unit4/HandSpec/index.html |date=2007-10-16 }} Sample spectra 
+ * [http://skolor.nacka.se/samskolan/eaae/summerschools/Spectro05Eng.html SPECTROSCOPY FOR THE SCHOOL] {{Webarchive|url=https://web.archive.org/web/20120516091208/http://skolor.nacka.se/samskolan/eaae/summerschools/Spectro05Eng.html |date=2012-05-16 }} Build a simple spectroscope from a CD 
+ * [http://www.exo.net/~pauld/activities/CDspectrometer/cdspectrometer.html CD spectrometer] CD + cardboard tube or cereal box 
+ * [http://www.scitoys.com/scitoys/scitoys/light/cd_spectroscope/spectroscope.html] Construction photos, razor-blade slit 
+ * [http://mo-www.harvard.edu/Java/MiniSpectroscopy.html MiniSpectroscopy] displays a visual representation (a  " spectroscope view " ) of a sample spectrum simultaneously with a graphical (intensity vs. wavelength) representation. 
+ 
+ [[Category:Physics]] 
+ [[Category:Laboratory equipment]]

@@ -1,0 +1,87 @@
+{{for|the sap of certain trees|Latex}} 
+ {{Infobox Software 
+  | name                = LaTeX 
+  | logo                = LaTeX logo.svg 
+  | screenshot          = 
+  | collapsible         = 
+  | caption             = 
+  | author              = [[Leslie Lamport]] 
+  | developer           = 
+  | released            = 
+  | latest release version = 
+  | latest release date = 
+  | latest preview version = 
+  | latest preview date = 
+  | operating system    = 
+  | platform            = [[Cross-platform]] 
+  | language            = 
+ |genre                 = [[Typesetting]] 
+ |license               = [[LaTeX Project Public License]] (LPPL) 
+ |website               = [http://www.latex-project.org www.latex-project.org] 
+ }}'''LaTeX''' is a [[computer program]] used for making articles, books and math [[formula]]s look good. LaTeX is well-suited for expressing mathematical formulas on electronic devices in a more human readable format, by showing them in a way similar to how they would be written by hand.  
+ 
+ LaTeX is used for making mathematical formulas for some articles on [[Wikipedia]], in addition to being used within academic circles. 
+ 
+ The writer types their article into a plain text document. A plain text document cannot have [[formatted text|styled text]], like [[bold]] or [[italic]]. When the writer wants to write styled text, they use special LaTeX commands that start with a backslash ( < code > \ < /code > ). For example, the command for bold text is  < code > \textbf{This text is bold} < /code > . 
+ 
+ After the writer is finished writing the article, they tell LaTeX to [[Interpreter (computing)|read]] the document. After LaTeX is done, LaTeX makes a file that can be printed. The command  < code > \textbf{This text is bold} < /code >  would print as '''This text is bold'''. 
+   
+ LaTeX was first made in the early 1980s by [[Leslie Lamport]] at [[SRI International]], who published its first manual in 1986. < ref > {{cite web | url=http://research.microsoft.com/users/lamport/pubs/pubs.html#latex | title=The Writings of Leslie Lamport: LaTeX: A Document Preparation System | author=Leslie Lamport | date=April 23, 2007 | work=Leslie Lamport's Home Page | access-date=2011-08-17}} < /ref >  The current version is LaTeX2e (styled [[File:LaTeX2e logo.svg|middle|x20px|\LaTeXe]]), which has been active since 1994. < ref > {{Cite web|url=https://mathvault.ca/latex-guide/#Introducing_LaTeX_and_its_Strengths|title=The Definitive, Non-Technical Introduction to LaTeX, Professional Typesetting and Scientific Publishing|date=2019-07-01|website=Math Vault|language=en-US|access-date=2020-08-07}} < /ref > 
+ 
+ == Example == 
+ The example below shows the LaTeX input and its corresponding output: 
+ < !-- Don't change the source code unless you know what you are doing and have checked that the output is the same or has been updated. -- > 
+ {|border= " 0 "  cellpadding= " 0 "  cellspacing= " 1em " 
+ | < syntaxhighlight lang= " latex " > 
+ \documentclass[12pt]{article} 
+ \usepackage{amsmath} 
+ \title{\LaTeX} 
+ \date{} 
+ \begin{document} 
+   \maketitle 
+   \LaTeX{} is a document preparation system for the \TeX{} 
+   typesetting program. It offers programmable desktop publishing 
+   features and extensive facilities for automating most aspects of 
+   typesetting and desktop publishing, including numbering and 
+   cross-referencing, tables and figures, page layout, bibliographies, 
+   and much more. \LaTeX{} was originally written in 1984 by Leslie 
+   Lamport and has become the dominant method for using \TeX; few 
+   people write in plain \TeX{} anymore. The current version  is 
+   \LaTeXe. 
+ 
+   % This is a comment; it will not be shown in the final output. 
+   % The following shows a little of the typesetting power of LaTeX: 
+   \begin{align} 
+     E  & = mc^2                              \\ 
+     m  & = \frac{m_0}{\sqrt{1-\frac{v^2}{c^2}}} 
+   \end{align} 
+ \end{document} 
+ < /syntaxhighlight > 
+ |[[Image:LaTeX Output.svg|425px|LaTeX output]] 
+ |} 
+ ==Academic contributions to LaTeX== 
+ In order to support mathematical typesetting, the [[American Mathematical Society]] (AMS) has made the '''AMS-LaTeX''' package. < ref > Grätzer, G. (2013). Math into LATEX: An introduction to LATEX and AMS-LATEX. Springer Science  &  Business Media. < /ref >  AMS also founded '''MathJax''', a [[JavaScript|Javascript]] extension to display mathematical formulas on [[web browsers]], with the [[Society for Industrial and Applied Mathematics]]. < ref > {{Cite web|url=https://www.mathjax.org/#about|title=MathJax: About Us|date=2020-08-07|website=MathJax|language=en|access-date=2020-08-07}} < /ref > 
+ 
+ ==Related pages== 
+ * [[Acaric]] (Developer of Cloud LaTeX) 
+ * [[Beamer]] (LaTeX-based [[presentation software]]) 
+ * [[CTAN]] (One of the largest LaTeX-related [[website]]) 
+ * [[KaTeX]] (LaTeX for [[web browser]]s) 
+ * [[SATySFi]] (A computer program expected to be an alternative to LaTeX) 
+ 
+ ==References== 
+ < references/ > 
+ ==Further reading== 
+ * Van Dongen, M. R. (2012). LATEX and Friends. Springer Science  &  Business Media. 
+ * Grätzer, G. (2014). Practical LaTeX. Springer. 
+ * Datta, D. (2017). LaTeX in 24 Hours: A Practical Guide for Scientific Writing. Springer. 
+ {{commonscat}} 
+ 
+ {{authority control}} 
+ 
+ 
+ {{Tech-stub}} 
+ 
+ [[Category:Programming languages]] 
+ [[Category:Mathematical tools]] 
+ [[Category:Cross-platform software]]

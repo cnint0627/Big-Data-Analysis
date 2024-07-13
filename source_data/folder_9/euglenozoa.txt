@@ -1,0 +1,43 @@
+{{Complex|date=February 2022}} 
+ {{Automatic taxobox 
+ | fossil_range = {{long fossil range|1000|0|[[Stenian]] (over 1000 MYA) - present|PS= < ref > {{cite book|pmid=28429314|doi=10.1007/978-3-319-54910-1_1|volume=979|year=2017|pages=3–17|last1=Zakryś|first1=B|last2=Milanowski|first2=R|last3=Karnkowska|first3=Anna|title=Euglena: Biochemistry, Cell and Molecular Biology |chapter=Evolutionary Origin of Euglena |series=Advances in Experimental Medicine and Biology|isbn=978-3-319-54908-8}} < /ref > }} 
+ | image = Two Euglena.jpg 
+ | image_caption = Two ''[[Euglena]]'' 
+ | taxon = Euglenozoa 
+ | authority = [[Thomas Cavalier-Smith|Cavalier-Smith]], 1981 < ref name= " C-S1981 " > {{cite journal | vauthors = Cavalier-Smith T | title = Eukaryote kingdoms: seven or nine? | journal = Bio Systems | volume = 14 | issue = 3–4 | pages = 461–481 | year = 1981 | pmid = 7337818 | doi = 10.1016/0303-2647(81)90050-2 }} < /ref > 
+ | subdivision_ranks = Classes  
+ | subdivision = 
+ *[[Diplonemea]] 
+ *[[Euglenida]] 
+ *[[Kinetoplastea]] 
+ *[[Symbiontida]] ([[Postgaardia]]) 
+ }} 
+ 
+ The '''Euglenozoa''' are a large [[phylum]] of [[flagellate]] [[protists]].  
+ They are part of the [[wastebasket taxon]] known as the [[Protozoa]], which had many obviously different protists. 
+ 
+ Euglenozoa include a variety of common free-living species, and some important [[parasites]], of which a few infect humans. There are two main subgroups, the [[Euglenoidea]]  " euglenids "  and [[Kinetoplastea]]  " kinetoplastids " . < ref name=Tom > 
+ {{cite journal | author = Cavalier-Smith T. 1981. |title = Eukaryote kingdoms: seven or nine? | journal = BioSystems |year = 1981 | volume = 14 | pages = 461–481 | doi = 10.1016/0303-2647(81)90050-2 | pmid = 7337818 | issue = 3–4}} < /ref >  Euglenozoa are unicellular, mostly around 15{{ndash}}40 [[µm]] in size, although some euglenids get up to 500 & nbsp;µm long. 
+ 
+ Most Euglenozoa have two [[flagella]], [[parallel]] to one another in a pocket-like structure. In some there is a [[cytostome]] or mouth, used to eat [[bacteria]] or other small organisms. This is supported by a [[microtubule]] from the flagellar bases; two other tubules support the dorsal and ventral surfaces of the cell. < ref name=Pat1999 > {{cite journal| author = Patterson, David J. 1999. |title = The diversity of eukaryotes| journal = American Naturalist |year = 1999| volume = 154 | pages = S96–S124 | pmid=10527921 | doi=10.1086/303287 | issue = S4|s2cid = 4367158}} < /ref > 
+ 
+ Some other Euglenozoa feed through [[absorption]], and many euglenids have [[chloroplast]]s and so get energy by [[photosynthesis]]. These chloroplasts are surrounded by three membranes and contain [[chlorophyll]]s ''A'' and ''C'', and other pigments, < ref name=Tom/ >  so are probably [[evolved]] from those of a [[endosymbiosis|captured]] [[green alga]].  Reproduction occurs only by cell division.  During [[mitosis]], the nuclear membrane remains intact, and the spindle microtubules form inside it. < ref name=Pat1999/ > 
+ 
+ The group is characterized by the ultrastructure of the flagella. In addition to the normal supporting microtubules, each contains a rod (called ''paraxonemal''), which has a tubular structure in one flagellum and a latticed structure in the other. < ref name=Sim1997 > 
+ {{cite journal | author = Simpson A.G.B. 1997. |title = The identity and composition of Euglenozoa 
+ | journal = Archiv für Protistenkunde 
+ |year = 1997 
+ | volume = 148 |issue = 3 
+ | pages = 318–328|doi = 10.1016/S0003-9365(97)80012-7 
+ }} 
+ < /ref > 
+ 
+ ==Classification== 
+ The euglenozoa are generally accepted as monophyletic. They are related to [[Percolozoa]]; the two share mitochondria with disk-shaped compartments, which only occurs in a few other groups. < ref name=Bal2000 > Baldauf S.L; Roger A.J; Wenk-Siefert I.  &  Doolittle, W. Ford 2000. A Kingdom-level phylogeny of eukaryotes based on combined protein data. ''Science'' '''290''' (5493): 972–977. [http://www.sciencemag.org/content/290/5493/972] < /ref > 
+ Both probably belong to a larger group of eukaryotes called the [[Excavata]]. < ref name=Sim2003 > 
+ {{cite journal | author = Simpson, Alastair G. 2003. |title =  Cytoskeletal organization, phylogenetic affinities and systematics in the contentious taxon Excavata (Eukaryota)| journal = International Journal of Systematic and Evolutionary Microbiology|year = 2003| volume = 53 | pages = 1759–1777| doi = 10.1099/ijs.0.02578-0| pmid = 14657103 | issue = Pt 6}} < /ref >  This grouping has been challenged. < ref name=pmid20031978 > {{cite journal |author=Cavalier-Smith T 2009. Kingdoms Protozoa and Chromista and the eozoan root of the eukaryotic tree |title=Kingdoms Protozoa and Chromista and the eozoan root of the eukaryotic tree |journal=Biol Lett |year=2010 |volume=6 |issue=3 |pages=342–5 |pmid=20031978 |pmc=2880060 |doi=10.1098/rsbl.2009.0948 |url=http://rsbl.royalsocietypublishing.org/cgi/pmidlookup?view=long & pmid=20031978 |access-date=2013-01-22 |archive-date=2020-05-20 |archive-url=https://web.archive.org/web/20200520210248/https://rsbl.royalsocietypublishing.org/cgi/pmidlookup?view=long & pmid=20031978 |url-status=dead }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Protista]]

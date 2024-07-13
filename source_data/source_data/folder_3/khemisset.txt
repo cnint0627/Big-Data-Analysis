@@ -1,0 +1,92 @@
+{{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > | name                     = Khemisset 
+ | population_total         = 131,542 
+ | population_density_metro_sq_mi =  
+ | population_density_metro_km2 =  
+ | population_metro         =  
+ | population_density_sq_mi =  
+ | population_density_km2   =  
+ | population_rank          = [[List of cities in Morocco|24th in Morocco]] 
+ | population_note          =  
+ | population_blank1        =  
+ | population_footnotes     =  < ref name=census2014 > {{cite web |url=http://rgph2014.hcp.ma/file/166326/ |title=POPULATION LÉGALE DES RÉGIONS, PROVINCES, PRÉFECTURES, MUNICIPALITÉS, ARRONDISSEMENTS ET COMMUNES DU ROYAUME D’APRÈS LES RÉSULTATS DU RGPH 2014 |language=ar, fr |publisher=[[Haut Commissariat au Plan|High Commission for Planning, Morocco]] |date=8 April 2015 |access-date=29 September 2017}} < /ref > 
+ | population_as_of         = 2014 
+ | area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ < !-- Population   ----------------------- > | area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | area_footnotes           =  
+ | population_blank1_title  = Ethnicities 
+ | population_density_blank1_km2 =  
+ | established_title        =  < !-- Settled -- > 
+ | area_code                =  
+ | footnotes                =  
+ | website                  =  
+ | blank1_info              =  
+ | blank1_name              =  
+ | blank_info               =  
+ | blank_name               =  
+ | postal_code              =  
+ | population_density_blank1_sq_mi =  < !-- General information  --------------- > 
+ | postal_code_type         =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | elevation_ft             =  < !-- Area/postal codes  &  others -------- > 
+ | elevation_footnotes      =  < !--for references: use  < ref >   < /ref >  tags-- > 
+ | coordinates              = {{coord|33|49|N|6|04|W|region:MA|display=inline,title}} 
+ | utc_offset               = +1 
+ | timezone                 = [[Central European Time|CET]] 
+ | established_date         =  < !-- Area    --------------------- > 
+ | leader_name1             =  
+ | other_name               =  
+ | flag_size                =  
+ | mapsize                  =  
+ | image_map                =  
+ | shield_size              =  
+ | image_shield             =  
+ | seal_size                =  
+ | image_seal               =  
+ | image_flag               =  
+ | pushpin_map              = Morocco#Africa 
+ | image_caption            =  
+ | imagesize                =  
+ | image_skyline            = {{Photomontage 
+ | photo1a = Khemisset, Morocco - panoramio (3).jpg 
+ | photo2a = ضاية روي.jpg 
+ | photo2b = 
+ | photo3a = Nature khémisset.JPG 
+ | size = 275 
+ | spacing = 2 
+ | color = transparent 
+ | border = 0 
+ }} 
+ | motto                    =  < !-- images and maps  ----------- > 
+ | settlement_type          =  
+ | nickname                 =  
+ | native_name              = ⵍⵅⵎⵉⵙⴰⵜ / الخميسات 
+ | map_caption              =  
+ | pushpin_relief           = 1 
+ | leader_title1            =  < !-- for places with, say, both a mayor and a city manager -- > 
+ | subdivision_type3        =  
+ | leader_name              =  
+ | leader_title             =  
+ | government_type          =  
+ | government_footnotes     = | < !-- Politics ----------------- > 
+ | subdivision_name3        =  
+ | subdivision_name2        = [[Khémisset Province|Khemisset]] 
+ | pushpin_label_position   = bottom 
+ | subdivision_type2        = [[Provinces of Morocco|Province]] 
+ | subdivision_name1        = [[Rabat-Salé-Kénitra]] 
+ | subdivision_type1        = [[Regions of Morocco|Region]] 
+ | subdivision_name         = {{flag|Morocco}} 
+ | subdivision_type         = Country 
+ | pushpin_map_caption      = Location in Morocco 
+ < !-- Location ------------------ > | pushpin_mapsize          = 300 
+ | official_name            =  
+ }} 
+ 
+ '''Khemisset''' ({{Lang-ber|ⵍⵅⵎⵉⵙⴰⵜ}}, {{lang-ar|الخميسات}}) is an [[Berber people|Amazigh]] town in northern [[Morocco]]. 131,542 people lived there at the 2014 census. < ref name= " census2014 "  / > 
+ 
+ ==References== 
+ < references / > 
+ 
+ {{geo-stub}} 
+ 
+ [[Category:Cities in Morocco]]

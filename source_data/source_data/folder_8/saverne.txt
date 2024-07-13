@@ -1,0 +1,153 @@
+{{Infobox French commune 
+ |name                   = Saverne 
+ |commune status         = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image coat of arms     = Blason Saverne 67.svg 
+ |image                  = Chateau Rohan Saverne 01.jpg 
+ |caption                = ''Château des Rohan''. 
+ |arrondissement         = Saverne 
+ |canton                 = Saverne 
+ |INSEE                  = 67437 
+ |postal code            = 67700 
+ |population demonym     = Savernois 
+ |mayor                  = Stéphane Leyenberger 
+ |term                   = 2014-2020 
+ |intercommunality       = Saverne-Marmoutier-Sommerau 
+ |coordinates            = {{coord|48.74|7.36|format=dms|display=inline,title}} 
+ |elevation m            = 320 
+ |elevation min m        = 177 
+ |elevation max m        = 463 
+ |area km2               = 26.01 
+ |population             = 11433 
+ |population date        = 2014 
+ }} 
+ '''Saverne''' is a [[Communes of France|commune]] in north-eastern [[France]], in the [[Bas-Rhin]] [[Departments of France|department]], of which it is a [[Subprefectures in France|subprefecture]]. It is in the [[Grand Est]] [[Regions of France|region]]. 
+ 
+ The ''commmune'' is in the [[History|historical]] and [[Culture|cultural]] region of [[Alsace]]. 
+ 
+ ==Geography== 
+ Saverne is in the west of the Bas-Rhin department, {{Convert|50|km|mi|abbr=on }} to the west of [[Strasbourg]]. The Marne–Rhine Canal flows through the city of Saverne. The [[Zorn (river)|Zorn]] [[river]], a right [[tributary]] of the [[Moder (river)|Moder]] river, flows through the ''commune''. 
+ 
+ The ''commune'' has an area of {{Convert|26.0|km2|sqmi|abbr=on }}. < ref name= " insee-geo " > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=COM-67437 |title=Commune de Saverne (67437) |work=Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=27 December 2017 }} < /ref >  Its average [[altitude]] is {{Convert|320|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|190|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Saverne-67700/ |title=City of Saverne |publisher=Map-France.com |access-date=27 December 2017 }} < /ref > 
+ 
+ The distances from Saverne to other cities are: < ref name= " mairie " > {{cite web |work=Annuaire-Mairie.fr |title=Ville de Saverne |url=https://www.annuaire-mairie.fr/ville-saverne.html |language=fr |access-date=27 December 2017}} < /ref > 
+ * [[Paris]], the national capital - {{Convert|448|km|mi|abbr=on }}; 
+ * [[Strasbourg]], the regional capital - {{Convert|50|km|mi|abbr=on }}; 
+ * [[Marseille]] - {{Convert|810|km|mi|abbr=on }}; 
+ * [[Lyon]] - {{Convert|499|km|mi|abbr=on }}; 
+ * [[Reims]] - {{Convert|305|km|mi|abbr=on }}; 
+ * [[Bordeaux]] - {{Convert|994|km|mi|abbr=on }}; 
+ * [[Toulouse]] - {{Convert|1035|km|mi|abbr=on }}; 
+ * [[Montpellier]] - {{Convert|796|km|mi|abbr=on }}; 
+ * [[Nice]] - {{Convert|797|km|mi|abbr=on }}. 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Saverne and its neighboring ''communes'' 
+ |-  
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 67437.png|350px|Map of the ''commune'' of Saverne]] 
+ |} 
+ < /center > 
+ 
+ The ''commune'' of Saverne is surrounded by the following ''communes'': 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Saverne 
+ |North     = [[Haegen]] 
+ |Northeast = [[Monswiller]] 
+ |East      = [[Monswiller]] 
+ |Southeast = [[Otterswiller]] 
+ |South     = [[Otterswiller]] 
+ |Southwest = [[Gottenhouse]] 
+ |West      = [[Haegen]] 
+ |Northwest = [[Haegen]] 
+ }} 
+ 
+ ===Climate=== 
+ The climate of Saverne, in the [[Köppen climate classification]], is '''Cfb''' - [[Oceanic climate]] with template summers. < ref name= " mairie "  / > 
+ 
+ ==Population== 
+ The inhabitants of Saverne are known, in [[French language|French]], as ''Savernois'' (women: ''Savernoises''). < ref > {{cite web|url=https://www.habitants.fr/bas-rhin-67 |title=Habitants du départment: Bas-Rhin|publisher=habitants.fr |language=fr |access-date=27 December 2017 }} < /ref > 
+ 
+ With a population of 11,433, < ref name=insee2 > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep67.pdf |title=Régions, départements, arrondissements, cantons et communes |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=fr |access-date=27 December 2017}} < /ref >  Saverne has a [[population density]] of {{Pop density|11433|26.01|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Saverne''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:12000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:1000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:500 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:a text:1968 
+  bar:b text:1975 
+  bar:c text:1982 
+  bar:d text:1990 
+  bar:e text:1999 
+  bar:f text:2006 
+  bar:g text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:a from:0 till: 9682 
+  bar:b from:0 till: 10170 
+  bar:c from:0 till: 10327 
+  bar:d from:0 till: 10278 
+  bar:e from:0 till: 11201 
+  bar:f from:0 till: 11907 
+  bar:g from:0 till: 11433 
+ 
+ PlotData= 
+  bar:a at: 9682 fontsize:S text: 9,682 shift:(-12,12) 
+  bar:b at: 10170 fontsize:S text: 10,170 shift:(-15,5) 
+  bar:c at: 10327 fontsize:S text: 10,327 shift:(-15,5) 
+  bar:d at: 10278 fontsize:S text: 10,278 shift:(-15,5) 
+  bar:e at: 11201 fontsize:S text: 11,201 shift:(-15,5) 
+  bar:f at: 11907 fontsize:S text: 11,907 shift:(-15,5) 
+  bar:g at: 11433 fontsize:S text: 11,433 shift:(-15,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Administration== 
+ Saverne is a [[Subprefectures in France|subprefecture]] in the [[Bas-Rhin]] department since 1800. It is the capital of the [[Arrondissement of Saverne|Saverne]] ''arrondissement'' and is also the [[administrative centre]] ({{lang-fr|chef-lieu}}) of the ''canton'' of [[Canton of Saverne|Saverne]] formed by 49 ''communes'', with 49,469 inhabitants (2014). < ref name=insee1 > {{cite web|url=https://www.insee.fr/fr/metadonnees/cog/commune/COM67437-saverne |title=Commune de Saverne (67437) |work= Géographie administrative et d’étude |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=27 December 2017 }} < /ref > 
+ 
+ === Twin towns === 
+ Saverne is [[Twin town|twinned]] withː 
+ * {{Flagicon|GER}} [[Donaueschingen]], [[Germany]], since 1964 
+ * {{Flagicon|England}} [[Leominster]], [[England]], since 1992 
+ * {{Flagicon|RUS}} [[Pokrov, Vladimir Oblast|Pokrov]], [[Russia]], since 2003 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Saverne - hôtel de ville.JPG|[[City and town halls|Town hall]] of Saverne. 
+ File:Grand'rue de Saverne.JPG|Main [[street]] of Saverne. 
+ File:Saverne GrandRue 14.jpg|''Fontaine de la Licorne'' ([[Fountain]] of the [[Unicorn]]). 
+ File:Saverne NotreDameNativité.JPG|''Notre-Dame-de-la-Nativité'' [[church]]. 
+ File:Canal de la Marne-au-Rhin-Saverne.jpg|The Marne–Rhine Canal in Saverne. 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Saverne]] 
+ * [[Communes of the Bas-Rhin department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Saverne}} 
+ * [http://www.saverne.fr/ Ville de Saverne - Official site] {{in lang|fr}} 
+ 
+ [[Category:Communes in Bas-Rhin]] 
+ [[Category:Subprefectures in France]]

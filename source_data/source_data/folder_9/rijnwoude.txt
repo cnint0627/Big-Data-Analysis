@@ -1,0 +1,91 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Name and transliteration -- > 
+ | name                    = Rijnwoude 
+ | settlement_type         = Former [[List of municipalities of the Netherlands|municipality]] 
+ < !-- Images, nickname, motto -- > 
+ | image_skyline           = Rijnwoude 014.jpg 
+ | image_alt               =  
+ | image_caption           = Church in Hazerswoude-Dorp 
+ | image_flag              = Rijnwoude vlag.svg 
+ | flag_size               = 100x67px 
+ | flag_alt                =  
+ | image_shield            = Rijneveld-Rijnwoude wapen.svg 
+ | shield_size             = 100x80px 
+ | shield_alt              =  
+ < !-- Maps, coordinates -- > 
+ | image_map               = Map - NL - Municipality code 1672 (2009).svg 
+ | map_alt                 = Highlighted position of the former municipality of Rijnwoude in a municipal map of South Holland 
+ | map_caption             = Location in South Holland 
+ | coordinates             = {{coord|52|8|N|4|35|E|region:NL|display=inline,title}} 
+ | coordinates_footnotes   =  
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{flag|Netherlands}} 
+ | subdivision_type1       = [[Provinces of the Netherlands|Province]] 
+ | subdivision_name1       = {{flag|South Holland}} 
+ | subdivision_type2       = [[Municipalities of the Netherlands|Municipality]] 
+ | subdivision_name2       = [[Alphen aan den Rijn]] 
+ | established_title       = Established 
+ | established_date        = 1 January 1991 
+ | extinct_title           = Dissolved 
+ | extinct_date            = 1 January 2014 < ref > {{cite web  
+  |url = http://www.cbs.nl/nl-NL/menu/methoden/classificaties/overzicht/gemeentelijke-indeling/2014/default.htm 
+  |title = Gemeentelijke indeling op 1 januari 2014 
+  |trans-title=Municipal divisions on 1 January 2014 
+  |language = nl 
+  |website = cbs.nl 
+  |publisher = [[Statistics Netherlands|CBS]] 
+  |access-date = 10 January 2014}} < /ref > 
+ < !-- Geographic information -- > 
+ | unit_pref               = Metric 
+ < !-- ALL fields with measurements have automatic unit conversion -- > 
+ < !-- for references: use  < ref >  tags -- > 
+ | area_footnotes          =  < ref > {{cite web |url = http://statline.cbs.nl |title = Kerncijfers wijken en buurten |trans-title=Key figures for neighbourhoods |language = nl |author =  < !--Staff writer(s); no by-line.-- >  |date = 2 July 2013 |work = CBS Statline |publisher = [[Statistics Netherlands|CBS]] |access-date = 11 July 2013}} < /ref > 
+ < !-- square kilometers -- > 
+ | area_total_km2          = 57.89 
+ | area_land_km2           = 56.69 
+ | area_water_km2          = 1.20 
+ | elevation_footnotes     =  < ref name= " AHN " > {{cite web  
+  |url = http://www.ahn.nl/postcodetool 
+  |title = Postcodetool for 2394EB 
+  |language = nl 
+  |author =  < !--Staff writer(s); no by-line.-- >   
+  |work = Actueel Hoogtebestand Nederland 
+  |publisher = Het Waterschapshuis 
+  |access-date = 19 August 2013}} < /ref > 
+ | elevation_m             =  & minus;1 
+ | elevation_max_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_max_m         = 
+ | elevation_min_footnotes =  < !-- for references: use  < ref >  tags -- > 
+ | elevation_min_m         = 
+ < !-- Population, demographics -- > 
+ | population_footnotes    =  < ref > {{cite web |url = http://statline.cbs.nl/StatWeb/publication/?DM=SLNL & PA=37230NED & D1=17 & D2=165,240,348,471,504 & D3=l & LA=EN & HDR=T & STB=G1,G2 & VW=T |title = Bevolkingsontwikkeling; regio per maand |trans-title=Population growth; regions per month |language = nl |author =  < !--Staff writer(s); no by-line.-- >  |date = 23 December 2013 |work = CBS Statline |publisher = [[Statistics Netherlands|CBS]] |access-date = 20 January 2014}} < /ref > 
+ | population_total        = 18,523 
+ | population_as_of        = {{MONTHNAME|11}} 2013 
+ | population_density_km2  = 327 
+ | population_demonym      =  
+ < !-- Other information -- > 
+ | timezone1               = [[Central European Time|CET]] 
+ | utc_offset1             = +1 
+ | timezone1_DST           = [[Central European Summer Time|CEST]] 
+ | utc_offset1_DST         = +2 
+ | postal_code_type        = [[Postal codes in the Netherlands|Postcode]] 
+ | postal_code             = 2390–2396, 2730–2731 
+ | area_code_type          = [[Telephone numbers in the Netherlands|Area code]] 
+ | area_code               = 0172, 071, 079 
+ | footnotes               = 
+ }} 
+ '''Rijnwoude''' is a former [[List of municipalities of the Netherlands|municipality]] in the [[Netherlands|Dutch]] [[Provinces of the Netherlands|province]] of [[South Holland]]. 
+ 
+ == History == 
+ Rijnwoude was created on 1 January 1991 as Rijneveld from the former municipalities of Benthuizen, Hazerswoude and Koudekerk aan den Rijn. In 1993, the municipality was renamed to Rijnwoude. In 2014, it has been part of the municipality of [[Alphen aan den Rijn]]. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ {{Commonscat}} 
+ 
+ [[Category:1991 establishments in the Netherlands]] 
+ [[Category:21st-century disestablishments in the Netherlands]] 
+ [[Category:Former municipalities of South Holland]] 
+ [[Category:Alphen aan den Rijn]]

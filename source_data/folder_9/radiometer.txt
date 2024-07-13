@@ -1,0 +1,15 @@
+[[Image:Crookes radiometer.jpg|thumb|210px|An example of a [[Crookes radiometer]]. The vanes rotate when exposed to light]] 
+ A '''radiometer''' or '''roentgenometer''' is a device for measuring the [[radiometry|radiant flux]] (power) of [[electromagnetic radiation]]. Generally, a radiometer is an [[infrared radiation]] detector or [[ultraviolet]] detector. < ref > {{cite web |url=http://sensing.konicaminolta.us/2013/11/what-is-the-difference-between-radiometers-spectrometers-and-spectroradiometers/ |title=What is the difference between radiometers, spectrometers, and spectroradiometers? |publisher=Konica Minolta Sensing Americas, Inc |access-date=8 March 2016}} < /ref > 
+ 
+ == Types == 
+ * The name Radiometer is frequently used to refer to a [[Crookes radiometer]] ( " light-mill " ). This is an early device wherein a rotor  in a partial [[vacuum]] spins when exposed to light.  
+ * The [[Nichols radiometer]] is a newer and more sensitive radiometer than the Crookes type. < ref > {{cite web |url=http://planetfacts.org/radiometer/ |title=Radiometer |date=23 September 2011 |publisher=PlanetFacts.org |access-date=8 March 2016}} < /ref >  It measures radiation pressure. It has two small [[mirror]]s suspended on a [[quartz]] fiber. < ref > {{cite web |url=http://www.photonics.com/EDU/Term.aspx?TermID=5690 |title=Nichols radiometer |publisher= Photonics Media |access-date=8 March 2016}} < /ref >   
+ * A [[microwave radiometer]] operates in the [[microwave]] wavelengths. The radiometer contains argon gas to enable it to rotate. 
+ * The [[Microelectromechanical systems|MEMS]] radiometer can operate on the same principles of Nichols or Crooke radiometers.  It can operate over a wide spectrum of wavelength and particle energy levels. < ref > [http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2 & Sect2=HITOFF & p=1 & u=%2Fnetahtml%2FPTO%2Fsearch-bool.html & r=3 & f=G & l=50 & co1=AND & d=PTXT & s1=7,495,199 & OS=7,495,199 & RS=7,495,199] {{Webarchive|url=https://web.archive.org/web/20170118193742/http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2 |date=2017-01-18 }} MEMS Radiometer United States Patent 7,495,199 < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Electromagnetic radiation]] 
+ 
+ {{physics-stub}}

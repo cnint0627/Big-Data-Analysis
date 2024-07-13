@@ -1,0 +1,47 @@
+{{complex|date=March 2023}} 
+ {{no sources|date=March 2023}} 
+ {{Infobox file format 
+ | name = YAML 
+ | logo = File:YAML Logo.svg 
+ | logo caption = YAML logo 
+ | extension = .yml, .yaml 
+ | mime = text/yaml, text/x-yaml 
+ | type code = TEXT 
+ | uniform type = public.yaml 
+ | magic = %YAML 
+ | owner = YAML.org 
+ | latest release version = 1.2 
+ | latest release date = {{Start date and age|2009|10|21}} 
+ | genre = data serialization format 
+ | extended from = JSON 
+ }} 
+ 
+ '''YAML''' ('''YAML Ain't Markup Language''') is a human-readable data serialization format that is commonly used for configuration files and data exchange between programming languages. It is often used in conjunction with web development frameworks and other systems that need to share data. 
+ 
+ YAML was first released in 2001 by Ingy döt Net, Brian Ingerson, and Oren Ben-Kiki. It was designed to be a more user-friendly alternative to other markup languages like XML and JSON. YAML's syntax is designed to be easy to read and write, using whitespace and indentation to organize data. 
+ 
+ YAML is often used for configuration files, such as those used by web development frameworks like Ruby on Rails and Django. It is also commonly used for data exchange between programming languages, especially in systems that use different programming languages for different components. 
+ 
+ One of the key features of YAML is that it is designed to be easy for humans to read and write, while still being machine-readable. This makes it a popular choice for configuration files, as it allows developers to easily modify settings without needing to understand complex markup languages. 
+ 
+ YAML is a superset of JSON, meaning that any valid JSON document is also a valid YAML document. However, YAML adds additional features, such as support for comments, anchors and aliases, and complex data types like maps and lists. 
+ 
+ YAML has been implemented in many programming languages, including Python, Ruby, Java, and Perl. It is also supported by many text editors and IDEs, which can provide syntax highlighting and other features to make working with YAML easier. 
+ 
+ Overall, YAML is a flexible and user-friendly data serialization format that is widely used in web development, system configuration, and other areas where data needs to be exchanged between different components. 
+ 
+ == Syntax == 
+ YAML's syntax is designed to be simple and easy to read. It uses indentation and whitespace to organize data, rather than relying on explicit tags or markup. Here is an example of a YAML document: < syntaxhighlight lang= " yaml " > 
+ name: John Smith 
+ age: 35 
+ < /syntaxhighlight > In this example, the document contains three key-value pairs, where the keys are `name`, `age`, and `email`, and the values are `John Smith`, `35` , respectively. < syntaxhighlight lang= " yaml " > 
+ - name: John Smith 
+   age: 35 
+   email: john AT example.com 
+ - name: Jane Doe 
+   age: 28 
+   email: jane AT example.com 
+ 
+ < /syntaxhighlight > YAML also supports more complex data structures, like maps and lists. Here is an example of a YAML document that contains a map and a list: 
+ 
+ [[Category:Computer file formats]]

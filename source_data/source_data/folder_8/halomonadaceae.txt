@@ -1,0 +1,42 @@
+{{Automatic taxobox 
+ | taxon = Halomonadaceae 
+ | image = GFAJ-1 (grown on phosphorus).jpg 
+ | image_caption = GFAJ-1 grown on phosphorus. 
+ | subdivision_ranks = Genera 
+ | subdivision =  
+ ''[[Aidingimonas]]'' < br/ > 
+ ''[[Carnimonas]]'' < br/ > 
+ ''[[Chromohalobacter]]'' < br/ > 
+ ''[[Cobetia]]'' < br/ > 
+ ''[[Deleya]]'' < br/ > 
+ ''[[Halomonas]]'' < br/ > 
+ ''[[Halotalea]]'' < br/ > 
+ ''[[Halovibrio]]'' < br/ > 
+ ''[[Kushneria]]'' < br/ > 
+ ''[[Modicisalibacter]]'' < br/ > 
+ ''[[Salicola]]'' < ref > {{cite journal|title=Salicola|website=www.uniprot.org|url=https://www.uniprot.org/taxonomy/332339|language=en}} < /ref > < br/ >   
+ ''[[Salinicola]]'' < br/ > 
+ ''[[Volcaniella]]'' < br/ > 
+ ''[[Zymobacter]]'' < ref > {{cite web|url=http://www.bacterio.net/-classifgenerafamilies.html#Halomonadaceae |accessdate=25 June 2016 |title=List of genera included in families: Halomonadaceae |publisher=List of Prokaryotic Names with Standing in Nomenclature}} < /ref > 
+ }} 
+ [[File:GFAJ-1 (grown on arsenic).jpg|thumb|right|200px|Magnified cells of bacterium GFAJ-1 grown on a medium containing arsenic.]]  
+ 
+ The '''Halomonadaceae''' are a family of [[halophilic]] [[proteobacteria]]. The family was originally created in 1988 to contain the genera ''Halomonas'' and ''Deleya''. < ref > Franzmann P.D., Wehmeyer U. and Stackebrandte E. 1988. Halomonadaceae fam. nov., a new family of the class Proteobacteria to accommodate the genera Halomonas and Deleya. ''Syst. Appl. Microbiol.'' '''11''', 16-19. < /ref >  Many of its members were only recently discovered, and research is discovering new facts about them. 
+ 
+ == GFAG-1 == 
+ '''GFAJ-1''' is a [[wikt:strain|strain]] of [[rod]]-shaped [[extremophile]] [[bacteria]] in the '''Halomonadaceae'''. It was claimed that, when it did not have [[phosphorus]], it took the usually [[poison]]ous [[Chemical element|element]] [[arsenic]] as a substitute. < ref name='arsenic extremophile' > {{cite news | author = Jason Palmer | title = Arsenic-loving bacteria may help in hunt for alien life | date = 2010 | url = https://www.bbc.co.uk/news/science-environment-11886943 | work = BBC News | accessdate = 2010-12-02}} < /ref >   
+ 
+ Geomicrobiologist Felisa Wolfe-Simon collected lake-bottom [[sediment]]s in the shallow waters of [[Mono Lake]] in [[California]]. Wolfe-Simon cultured the organisms from this hyper[[Salinity|saline]] (very salty) and highly [[alkaline]] [[environment]]. They grew in an arsenic-containing medium. 
+ 
+ Unfortunately, the conclusions taken from this research have been disproved. A group of researchers analyzed the [[DNA]] of GFAJ-1, and could not detect any arsenic. < ref > {{cite journal| first=Erika Check| last=Hayden| title=Study challenges existence of arsenic-based life| date=2012| url=http://www.nature.com/news/study-challenges-existence-of-arsenic-based-life-1.9861| accessdate=20 January 2012| doi=10.1038/nature.2012.9861| journal=Nature| s2cid=211729481}} < /ref >  The phosphorus in its DNA cannot be, and is not, replaced with arsenic. < ref > {{cite web|url=https://retractionwatch.com/2012/07/09/despite-refutation-science-arsenic-life-paper-deserves-retraction-scientist-argues/|title=Despite refutation, Science arsenic life paper deserves retraction, scientist argues|first=Adam|last=Marcus|date=9 July 2012|publisher=}} < /ref > 
+ 
+ == Background == 
+ Life is mostly composed of the [[Chemical element|elements]] [[carbon]], [[hydrogen]], [[nitrogen]], [[oxygen]], [[sulfur]], and [[phosphorus]]. Although these six elements make up [[nucleic acid]]s, [[protein]]s, and [[lipid]]s and thus the bulk of living matter, it is possible in [[theory]] that some other elements in the [[periodic table]] might serve the same [[function]]s. 
+ 
+ It is believed that all life needs phosphorus as a basic piece of the ‘backbone’ that holds [[DNA]] together. Likewise [[ATP]] (adenosine triphosphate), a key molecule in the cells' [[Krebs cycle|energy cycle]]. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Gram-negative bacteria]] 
+ [[Category:Extremophiles]]

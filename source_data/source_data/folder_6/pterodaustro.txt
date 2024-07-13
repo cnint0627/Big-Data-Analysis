@@ -1,0 +1,37 @@
+{{Taxobox 
+ | color = lightblue 
+ | name = ''Pterodaustro'' 
+ | status = fossil 
+ | fossil_range = [[Lower Cretaceous]] 
+ | image = Pterodaustro_BW.jpg 
+ | image_width = 250px 
+ | image_caption = life restoration of ''Pterodaustro guinazui'' 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Sauropsid]]a 
+ | ordo = [[Pterosauria]] 
+ | subordo = [[Pterodactyloidea]] 
+ | familia = [[Ctenochasmatidae]] 
+ | genus = '''''Pterodaustro''''' 
+ | genus_authority = Bonaparte, 1969 
+ | subdivision_ranks = Species 
+ | subdivision = 
+ }} 
+ {{italictitle}} 
+ '''''Pterodaustro''''' was a [[pterosaur]]. It is found in the [[Lower Cretaceous]] of [[South America]]. ''Pterodaustro'' most likely fed on tiny invertebrates: [[zooplankton]] and [[krill]]. 
+ 
+ ''Pterodaustro'' was medium-sized, with an adult [[wing]]-span of about two meters. It has only been found in [[Brazil]]. 
+ 
+ ==Paleobiology== 
+ ''Pterodaustro'' probably waded in shallow water like [[flamingo]]s, straining food with its tooth comb, a method called  " filter feeding " . < ref name=EoDP > {{cite book |editor=Palmer, D.|year=1999 |title= The Marshall illustrated encyclopedia of dinosaurs and prehistoric animals|url=https://archive.org/details/illustratedencyc0000unse_y8e7|publisher= Marshall Editions|location=London|page= [https://archive.org/details/illustratedencyc0000unse_y8e7/page/n107 104]|isbn= 1-84028-152-9}} < /ref >  Once it caught its food, ''Pterodaustro'' probably mashed it with the small, globular teeth present in its upper jaw. 
+   
+ At least two specimens have been found with [[gastrolith|gizzard stones]] in the stomach cavity, the first ever reported for any pterosaur. These clusters of small stones with angled edges support the idea that ''Pterodaustro'' ate mainly small, hard-shelled aquatic [[crustacean]]s using filter-feeding. Such invertebrates are abundant in the sediment of the fossil site < ref name=codorniuetal2009 > Codorniú L. ''et al.'' 2009. First occurrence of gastroliths in Pterosauria (Early Cretaceous, Argentina). ''XXIV Jornadas Argentinas de Paleontología de Vertebrados''. < /ref > 
+ 
+ In 2004 a ''Pterodaustro'' [[embryo]] in an egg was reported. The egg was elongated, six centimetres long and 22 millimetres across and its mainly flexible shell was covered with a thin layer, 0.3 & nbsp;mm thick, of [[calcite]]. < ref > {{cite journal |author=Chiappe L. M. |display-authors = etal |year=2004 |title=Argentinian unhatched pterosaur fossil |journal=Nature |volume=432 |issue=7017 |pages=571–572 |pmid=15577899 |doi=10.1038/432571a |bibcode=2004Natur.432..571C|s2cid = 4396534 |url = http://doc.rero.ch/record/14928/files/PAL_E2071.pdf }} < /ref > 
+ 
+ Comparisons between the [[scleral ring]]s (bony ring round edge of eye) of ''Pterodaustro'' and modern birds and reptiles suggest that it may have been [[nocturnal]], and may have had similar activity patterns to those modern ducks which feed at night. < ref > {{cite journal|author=Schmitz L.  &  Motani R. |year=2011 |title=Nocturnality in dinosaurs inferred from scleral ring and orbit morphology |journal=Science |volume=332 |issue=6030 |pages=705–708 |doi=10.1126/science.1200043 |pmid=21493820 |bibcode=2011Sci...332..705S|s2cid=33253407 }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Pterosaurs]]

@@ -1,0 +1,40 @@
+{{Infobox Software 
+ | name                   = WinRAR 
+ | logo                   =  
+ | screenshot             =  
+ | caption                = WinRAR 3.71 under [[Windows Vista]] 
+ | collapsible            =  
+ | author                 =  
+ | developer              = [[Eugene Roshal]] / [[Alexander Roshal]] 
+ | released               =  
+ | latest release version = 6.11 
+ | latest release date    = {{release date and age|2022|03|04}} 
+ | latest preview version =  
+ | latest preview date    =   
+ | frequently updated     =  
+ | programming language   = [[C++]] 
+ | operating system       = [[Windows 7]], [[Windows 8.0]], [[Windows 8.1]], [[Windows 10]], [[Windows 11]], [[Windows Vista|Vista]], [[macOS x64]] [[macOS ARM]], [[FreeBSD]], [[Linux]] ([[Wine (software)|Wine]] required for [[Graphical user interface|GUI]]), [[Androïd]] 
+ | platform               =  
+ | size                   =  
+ | language               = Multilingual 
+ | status                 = Current 
+ | genre                  = [[File archiver]] 
+ | license                = [[Commercial software|Commercial]] [[proprietary software|proprietary]], [[Shareware]] 
+ | website                = Primary: [http://www.rarlab.com/ www.rarlab.com] < br > Secondary: [http://www.win-rar.com/ www.win-rar.com] 
+ }} 
+ 
+ '''WinRAR''' (a.k.a. RAR) is a [[shareware]] [[file archiver]] and [[data compression]] program created by [[Eugene Roshal]]. Many people think that it is one of the three most used [[archive programs|File Archiver]] for [[Microsoft Windows|Windows]], together with [[WinZip]] and [[7-Zip]]. It is one of the few [[computer program|programs]] that can create [[RAR]] archives, because the [[encoding method]] is [[proprietary]], meaning they own it and nobody else can use it. 
+ 
+ == Developer == 
+ The current developer is [[Eugene Roshal]], while his brother Alexander Roshal is helping with the business. 
+ 
+ == Other websites == 
+ * [http://www.win-rar.com/ RARlab WinRAR website] (win-rar.com) 
+ * [http://www.rarlab.com/ RARlab main website] (rarlab.com) 
+ * [http://www.oldversion.com/program.php?n=winrar WinRAR older versions] - All of the old versions from version 1.54 to the latest one. 
+ 
+ 
+ {{tech-stub}} 
+ 
+ 
+ [[Category:Microsoft Windows software]]

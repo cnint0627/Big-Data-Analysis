@@ -1,0 +1,71 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Aberdeenshire < br > ''{{lang|sco|Aiberdeenshire}}'' < br > ''{{lang|gd|Siorrachd Obar Dheathain}}'' 
+ | official_name           = 
+ | native_name             =  < !-- if different from the English name -- > 
+ | native_name_lang        =  < !-- ISO 639-2 code e.g.  " fr "  for French. If more than one, use {{lang}} instead -- > 
+ | other_name              = 
+ | image_skyline           =  
+ | image_flag              =  
+ | image_shield            =  
+ | image_blank_emblem      =  
+ | blank_emblem_type       =  
+ | subdivision_type        = Country 
+ | subdivision_name        = Scotland 
+ | image_map               = Aberdeenshire in Scotland.svg 
+ | map_caption             = Aberdeenshire within Scotland 
+ | coordinates = {{coord|57|9|3.6|N|2|7|22.8|W|type:adm2nd_region:GB|format=dms|display=inline,title}} 
+ | seat_type               = Admin HQ 
+ | seat                    = [[Aberdeen]] 
+ | government_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | governing_body          = Aberdeenshire Council 
+ | leader_title            = Control 
+ | leader_name             = [[Scottish Conservative Party|Con]] + [[Scottish Liberal Democrats|LD]] + [[Independent politician|Ind]] (council [[No overall control|NOC]])   < !-- Aberdeenshire -- > 
+ | leader_title1           = [[List of MPs for constituencies in Scotland 2017-|MPs]] 
+ | leader_name1            = * [[Andrew Bowie (politician)|Andrew Bowie]] (Con) 
+ * [[Colin Clark (politician)|Colin Clark]] (Con) 
+ * [[David Duguid (politician)|David Duguid]] (Con) 
+ | leader_title2           = [[Members of the 5th Scottish Parliament|MSPs]] 
+ | leader_name2            = * [[Alexander Burnett (politician)|Alexander Burnett]] (Con) 
+ * [[Mairi Evans]] (SNP) 
+ * [[Gillian Martin]] (SNP) 
+ * [[Stewart Stevenson]] (SNP) 
+ * [[Maureen Watt]] (SNP) 
+ | unit_pref               = Imperial 
+ | area_footnotes          =  < !-- for references: use  < ref >  tags -- > 
+ | area_total_km2          = 6313  
+ | area_total_sq_mi        =  
+ | area_rank               = [[List of Scottish council areas by area|Ranked 4th]] 
+ | population_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | population_total        = {{Scottish council populations|POP=S12000034 }} 
+ | population_as_of        = {{United Kingdom statistics year|Scotland}} 
+ | population_rank         = [[List of Scottish council areas by population|Ranked {{Scottish council populations|RNK=S12000034}}]] 
+ | population_density_km2  = {{Str number/trim|{{formatnum:{{Scottish council populations|DEN=S12000034 }}|R}} }} 
+ | population_density_sq_mi=  
+ | area_code_type          = [[ONS coding system|ONS code]] 
+ | area_code               = S12000034 
+ | iso_code                = GB-ABD 
+ | website                 = {{URL|http://www.aberdeenshire.gov.uk/}} 
+ | footnotes               =  
+ }} 
+ '''Aberdeenshire''' ({{lang-gd|Siorrachd Obar Dheathain}}) is the name of both a [[county]] and of one of the 32 [[unitary authority|unitary]] [[Council area (Scotland)|council areas]] in [[Scotland]].  The two are not the same area. 
+ 
+ == County == 
+ [[File:Aberdeenshire Brit Isles Sect 2.svg|right|thumb|180px|County of Aberdeenshire]] 
+ Aberdeenshire stretches from the east coast of Scotland up into the mountains.  It is between [[Kincardineshire]] and [[Angus]] (south) and [[Banffshire]] (west).  [[Aberdeen]] is the county town. 
+ 
+ Aberdeenshire is mainly countryside and mountain, except in Aberdeen.  Aberdeen is one of Britain's richest towns because it serves the North Sea oil rigs. 
+ 
+ [[Fraserburgh]] is a large fishing port. 
+ 
+ == Council area == 
+ [[File:View NE from summit of B976 - geograph.org.uk - 443153.jpg|thumb|left|Aberdeenshire]] 
+ The Aberdeenshire council area takes in the historic counties of Aberdeenshire and Kincardineshire and half of Banffshire.  It does not include [[Aberdeen City]] though, which is a Council Area in its own right. However, Aberdeenshire Council does have its headquarters at Woodhill House, in [[Aberdeen]]; the only Scottish council whose headquarters are based outside its area's border. 
+ 
+ Aberdeenshire borders [[Angus]] and [[Perth and Kinross]] to the south, and [[Highland (council area)|Highland]] and [[Moray]] to the west.  
+ 
+ {{UK-stub}} 
+ 
+ {{Shire in Scotland|Aberdeenshire|nocat=yes}} 
+ {{authority control}} 
+ [[Category:Aberdeenshire| ]]

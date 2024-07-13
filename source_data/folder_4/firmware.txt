@@ -1,0 +1,32 @@
+In [[computing]], '''firmware''' is a [[software|computer program]] that is  " embedded "  in a [[Computer hardware|hardware]] device and is an essential part of the hardware. < ref > {{cite web|title=What is firmware|url=http://pcsupport.about.com/od/termsf/g/firmware.htm|publisher=About.com|accessdate=27 March 2013|archive-date=6 March 2013|archive-url=https://web.archive.org/web/20130306003700/http://pcsupport.about.com/od/termsf/g/firmware.htm|url-status=dead}} < /ref >  It is sometimes called [[embedded system|embedded software]]. An example is a [[microcontroller]], a part of the [[microprocessor]] that tells the microprocessor what actions to take. It can also be a larger program stored on [[flash memory]], or [[upload]]ed onto existing hardware by a user. 
+ 
+ As its name suggests, firmware is somewhere between hardware and software, connecting the two worlds. It can mean slightly different things to different people, especially as stand-alone [[electronic]] devices become more like computers. Like software, it is a computer program which is run by a microprocessor. But it is also linked to a piece of hardware and has no meaning without it. 
+ 
+ == On a Computer == 
+ A computer can have both firmware and software. The firmware is permanently stored in the computer, such as the [[BIOS]], and cannot be easily changed or added to. Software, even the [[Operating system|OS]], can be replaced by reformatting the hard drive. Software includes the applications that a person operating a computer sees, like a web browser or a [[word processor]]. Sometimes a [[device driver]] is called firmware, since it is needed to run that piece of hardware, like a printer or a [[video card]]. The device driver is on the main part of the computer and can be easily updated (if an update exists). 
+ 
+ == On an Electronic Device == 
+ Other electronic devices may not look like a computer, but they still have an [[embedded system]] such as a [[microcontroller]] inside, with a program telling them what to do. This is also firmware. A TV cable box, an [[elevator]] controller and a [[smart card|card reader]] in a hotel door lock all run firmware. In this case, the firmware is the only software on the device and it runs everything, from handling button presses to turning motors on or off. 
+ 
+ In the past, firmware was stored in [[ROM]]s but now it is often stored in media that can be written to such as [[EEPROM]]s and [[Flash memory|Flash]]. Firmware in many machines such as [[router]]s can now be updated without any special hardware, other than a computer and a [[USB]] cable. This is done by downloading a new version from the [[World Wide Web]] to update the device, using instructions from the device manufacturer. 
+ 
+ An electronic device is said to be  " bricked "  if it cannot be started because of firmware issues. It is then as useful as a brick. Loading the wrong firmware into a device might cause this. Firmware is stored as a [[Binary|binary image file]]. 
+ 
+ == Examples == 
+ Examples of firmware include: 
+ * The [[BIOS]] found in IBM-compatible Personal Computers  
+ * Code inside a printer (in addition to the printer driver that is on the computer) 
+ * Software controlling a heart [[defibrillator]] 
+ * Software controlling the lights in an office building 
+ * Software controlling electronics in a car — the [[radio]], the ABS (anti-lock braking system), engine controls, etc.  
+ * Software controlling newer household appliances (microwave ovens, dishwashers, etc.) 
+ 
+ == Related pages == 
+ * [[BIOS]] 
+ * [[Real-time operating system]] 
+ * [[Microcode]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Computer science]]

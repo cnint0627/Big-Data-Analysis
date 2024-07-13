@@ -1,0 +1,48 @@
+[[File:Buffalo LinkStation Mini and a PP3 battery.jpg|thumb|right|A portable hard drive]] 
+ [[File:Backup Backup Backup - And Test Restores.jpg|thumb|right|This computer was used to store files, before a fire hit]] 
+ < span lang= " abs " > In < /span >  the context of [[computer]]s and computer systems, a '''backup''' is a copy of some [[Information|data]]. This copy can be used when the original data is changed, or lost. Losing data is common: A 2008 survey found that two thirds of respondents had lost files on their home PC. < ref > [http://www.kabooza.com/globalsurvey.html Global Backup Survey]. Retrieved on 15 February 2009 < /ref >  Another purpose of backing up data is to have a copy that represents an earlier state of the data, before it was changed. Organisations may have rules which state how long data should be kept, and what kinds of data these rules apply to. In many countries there are rules that specify that certain kinds of data need to be kept for a given time. An example of this is the data used for [[accounting]]. 
+ 
+ Backups are a simple form of [[disaster recovery]]. Even though they are commonly seen as disaster recovery, they should be part of a [[disaster recovery plan]]. A disaster recovery plan is a documented set of procedures and tasks to perform to protect the consistency and integrity of a corporate IT system.  
+ 
+ == Different backup media == 
+ There are different types of backup systems that use different kinds of media. Common backup media includes: 
+ *Different kinds of [[Magnetic tape|tapes]], for example [[Digital Audio Tape]], or [[Linear Tape-Open|LTO]] 
+ *[[Hard disk|Hard drive]]s and [[Solid-state drive|SSDs]] 
+ *[[Memory card]]s and [[USB flash drive]]s 
+ *Optical disks like [[Compact disc|CDs]] and [[DVD]]s 
+ *Magneto-Optical Discs 
+ 
+ Some of the backup media are portable, and can easily be stored in  a safe location. The problem with storing tapes in a bank safe, for example is that they are only available during the opening hours of the bank. 
+ 
+ Another issue has commonly been the speed of the backup. Media such as digital tapes can store a lot of data, but accessing them is relatively slow. Tapes can only be read or written in sequence, while media such as hard disks or optical drives are basically random access. When data is backed up, its encoding is often changed. This makes it possible to use codes such as [[Cyclic redundancy check]]s, which can detect, and sometimes repair an error. 
+ 
+ == Reasons for doing a backup == 
+ Backups are usually done for one of the following reasons: 
+ *Prevent data loss if there is a [[disaster]] (like a fire or hardware failure, or an intentional or unintentional deletion) 
+ *[[Computer virus]]es or other programs make data unusable 
+ *There is a logical error in the data 
+ *Sudden computer shutdown which can be caused by power shortage. 
+ 
+ ==Different types of backup== 
+ ===Full backup=== 
+ A '''full backup''' copies all of the data.  This means that if the main copy of the data is lost, we can bring it all back simply by copying the data back from the backup. < ref > {{Cite web|title=Types of backups|url=https://www.backupsolution.ru/backup-types/|access-date=|website=|language=}} < /ref > 
+ 
+ ===Differential backup=== 
+ A '''differential backup''' only copies the data that has changed since the last full backup.  The reason we do this is that sometimes only a small amount of data has changed since the last full backup; this means we can do a differential backup much more quickly. 
+ 
+ If someone loses their data, and needs to get it back from a differential backup, they need to use the last full backup, to bring back all of their data.  They then need to use the last differential backup to bring back everything that was changed between the full backup and the differential backup. 
+ 
+ ===Incremental backup=== 
+ An '''incremental backup''' only copies the data that has changed since the last incremental backup.  This makes each backup quicker, because we are only copying what has changed since the last backup.  To bring the data back, if the main copy of the data is lost, we need the last full backup, as well as all of the incremental backups that have been done since then.  This means that bringing data back from an incremental backup is slower and more risky than differential or full backups. 
+ 
+ ==How long to keep a backup== 
+ ===Grandfather-father-son=== 
+ The '''Grandfather-father-son''' system means that we keep different types of backup for different amounts of time.  For example, we might do a backup every day, and keep a week's worth of backups.  We might then keep one backup for each week for a month, and one backup from each month for a year.  This means that we have a backup of our data from a year ago, so that if we realise we need some data from a long time ago, we have that data available.  We also have several copies of our recent data, in case one of them doesn't work. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Computing]] 
+ 
+ 
+ {{tech-stub}}

@@ -1,0 +1,25 @@
+{{Infobox programming language 
+ |name = QBasic 
+ |year = 1991 - 2000 
+ |developer = [[Microsoft|Microsoft Corporation]] 
+ |influenced_by = [[QuickBASIC]], [[GW-BASIC]]  
+ |operating_system = [[MS-DOS]], [[Windows 95]], [[Windows 98]], [[Windows Me]], [[PC-DOS]] 
+ |license = [[Microsoft|MS]]-[[EULA]] 
+ |website = [http://www.microsoft.com/ www.microsoft.com] 
+ }} 
+ 
+ '''QBasic''' is a [[programming language]] made by [[Microsoft]] which was included with [[Windows 95]] and [[MS-DOS]]. < ref name= " name " > {{cite web|url=http://www.emsps.com/oldtools/msbasv.htm#qbasic|title=Microsoft BASIC version information|accessdate=2008-06-12}} < /ref >  QBasic is a more limited version of [[QuickBasic]], released in 1985. While today considered almost [[wikt:obsolete|obsolete]], it is still a popular language for beginners and especially for [[education]]al purposes. 
+ 
+ == Example == 
+ An example [[Hello World]] program in QBasic: 
+ 
+ < syntaxhighlight lang= " qbasic " > 
+ PRINT  " Hello, World! " 
+ < /syntaxhighlight > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Programming languages]]

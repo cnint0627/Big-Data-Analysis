@@ -1,0 +1,41 @@
+{{Infobox OS version|date=July 2013 
+ | name            = Edubuntu 
+ | family          = Ubuntu Linux 
+ | developer       = Canonical 
+ | screenshot      =  
+ | website         = [http://www.edubuntu.org/ http://www.edubuntu.org/] 
+ | first_release_date = [[October 25]] [[2001]] 
+ | release_version = 14.04.5 LTS (Trusty Tahr) 
+ | release_date    = 4 August 2016 
+ | release_url     = http://www.edubuntu.org/news/13.04-release 
+ | source_model    = [[Open source]] 
+ | license         = [[MS-EULA]] 
+ | kernel_type     = [[Hybrid kernel]] 
+ | support_status  = Supported 
+ }} 
+ [[Image:Edubuntu606 desktop.png|thumb|Edubuntu's default desktop]] 
+ '''Edubuntu''' is the [[version]] of [[Linux|Linux distribution]] [[Ubuntu]]. It is used for education. It uses [[GNOME]] and is designed for use in [[classroom]]s. 
+ 
+ Edubuntu has been created in collaboration with teachers and technologists in multiple nations. Edubuntu is built on top of the Ubuntu base, and incorporates education-specific applications, designed for the 6–18 years age group. 
+ 
+ == Characteristics == 
+ Included with Edubuntu is the [[Linux Terminal Server Project]], a large number of educational applications including [[GCompris]], [[KDE Edutainment Project|KDE Edutainment Suite]], The first Edubuntu release coincided with the release of Ubuntu 5.10, which was called ''Breezy Badger'' on [[2005]]. Edubuntu CDs can be ordered for free through the official website service. 
+ 
+ == Project goals == 
+ [[Image:Edubuntu 7.04.jpg|thumb|Edubuntu 7.04 (this version is no longer supported.)]] 
+ 
+ The principal design [[wikt:goal|goals]] of Edubuntu are easier configuration, users and processes, together with ways for working together in classrooms. Equally important is the gathering together of the best available free software and digital materials for education. 
+ 
+ == Related pages == 
+ * [[List of Linux distributions]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://edubuntu.org/ Official website] 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Ubuntu (operating system) derivatives]]

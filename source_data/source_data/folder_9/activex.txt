@@ -1,0 +1,7 @@
+{{Complex}} 
+ 
+ '''ActiveX''' is a system for managing computer. it controls the ''DLL'' ('''D'''ynamic-'''l'''ink '''l'''ibrary) that can be used as a shared data over the applications. '''ActiveX''' is a type of library in the file '''DLL'''.  
+ 
+ In any of operating systems, such as Linux, Mac or the [[Microsoft Windows]], data files have the same kind of file format as that of the Dynamic-link library. They can be called a resource DLL. Examples of such DLLs include icon libraries, sometimes having the extension ICL, and the font files, having the extensions FON and FOT. For example, ActiveX is well-known for use in web browsers. 
+ 
+ [[Category:Microsoft software]]

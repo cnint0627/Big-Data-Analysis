@@ -1,0 +1,66 @@
+{{Infobox particle 
+  | name = Neutrino/Antineutrino 
+  | image = [[File:FirstNeutrinoEventAnnotated.jpg|280px]] 
+  | caption = The first use of a hydrogen [[bubble chamber]] to detect neutrinos, on November 13, 1970. A neutrino hit a proton in a hydrogen atom. The collision occurred at the point where three tracks emanate on the right of the photograph. 
+  | num_types = 3 – electron neutrino, muon neutrino and tau neutrino 
+  | composition = [[Elementary particle]] 
+  | statistics = [[Fermion]] 
+  | group = [[Lepton]], antilepton 
+  | generation = First, second and third 
+  | interaction = [[Weak interaction]] and [[gravitation]] 
+  | particle = 
+  | antiparticle = Antineutrinos are possibly identical to the neutrino (see ''[[Majorana fermion]]''). 
+  | theorized = {{SubatomicParticle|Electron neutrino}} (Electron neutrino): [[Wolfgang Pauli]] (1930) < br / > {{SubatomicParticle|Muon neutrino}} (Muon neutrino): Late 1940s 
+ {{SubatomicParticle|Tau neutrino}} (Tau neutrino): Mid 1970s 
+  | discovered = {{SubatomicParticle|Electron neutrino}}: [[Clyde Cowan]], [[Frederick Reines]] (1956) < br / > {{SubatomicParticle|Muon neutrino}}: [[Leon Lederman]], [[Melvin Schwartz]] and [[Jack Steinberger]] (1962) < br / > {{SubatomicParticle|Tau neutrino}}: [[DONUT|DONUT collaboration]] (2000) 
+  | symbol = {{SubatomicParticle|Electron neutrino}}, {{SubatomicParticle|Muon neutrino}}, {{SubatomicParticle|Tau neutrino}} 
+  | mass = Small, but non-zero. 
+  | decay_time = 
+  | decay_particle = 
+  | electric_charge = 0 & nbsp;[[elementary charge|e]] 
+  | color_charge = 
+  | spin = {{frac|1|2}} 
+  | X_charge = −3 
+  | weak_hypercharge = −1 
+  | B-L = −1 
+ }} 
+ 
+ '''Neutrinos''' are a type of [[elementary particle]] that exist all across the universe. The word ''neutrino'' means a small neutral particle. [[Physicists]] study these particles, but they are hard to find because they have a very small chance of interacting with [[matter|regular matter]]. (For example, they usually pass through the whole [[earth]] without touching any other [[particle]]s). Neutrinos travel near the [[speed of light]]. < ref > Cho, Adrian 2012. Once Again, Physicists Debunk Faster-Than-Light Neutrinos. ''Science AAAS''. [http://news.sciencemag.org/scienceinsider/2012/06/once-again-physicists-debunk.html] {{Webarchive|url=https://web.archive.org/web/20121225230351/http://news.sciencemag.org/scienceinsider/2012/06/once-again-physicists-debunk.html |date=2012-12-25 }} < /ref > 
+ 
+ Neutrinos are very difficult to detect. They are very unlikely to collide (interact) with other particles as they travel through space or through matter. Electrons have an [[electric charge]], but neutrinos do not.  This means that neutrinos are unaffected by the electromagnetic force. The first detectors built to find neutrinos observed only 10 or 15 each year. Recent detectors use tanks that contain about a thousand tons of water or other liquid, which lets them detect about 10 to 100 neutrinos per day. < ref >  {{cite journal |last1=Wurm |first1=M. |last2=von Feilitzsch |first2=F. |display-authors=1 |title=Solar Neutrino Spectroscopy |journal=ArXiv |date=2010 |doi=10.1002/asna.200911361 |arxiv=1004.0831 |s2cid=54882508 }} < /ref > 
+ 
+ Neutrinos are generated in [[particle accelerator]]s, in the [[sun]], in other [[stars]], and in [[Radioactive decay|nuclear reactions]] such as in [[nuclear reactor]]s. They are generated whenever there is a [[Radioactive decay|nuclear reaction]] in the form of [[beta decay]]. This process starts off with one neutron, and ends with one electron, one proton, and one neutrino. 
+ 
+ We used to think that neutrinos have no [[mass]], but a few years ago physicists found that they have a very small mass, much lighter than [[electrons]]. By finding neutrinos, we can learn about the structure and the history of the [[universe]]. Since most of them pass easily through [[sun]], physicists have learned about the reactions in the center of the sun that make the sun's heat, by detecting the neutrinos that come out from the sun's center. 
+ 
+ The three types of neutrinos are named after the three [[lepton]]s that have electric charge. There is the [[electron]] [[Electron neutrino|neutrino]] ([[Electron neutrino|v < sub > e < /sub > ]]), the [[muon]] [[Muon neutrino|neutrino]] ([[Muon neutrino|v < sub > µ < /sub > ]]), and the [[tau]] [[Tau neutrino|neutrino]] ([[Tau neutrino|v < sub > τ < /sub > ]]). Each neutrino has an [[antiparticle]], called an antineutrino. Therefore, there is an electron antineutrino, a muon antineutrino, and tau antineutrino. 
+ 
+ The three types of neutrinos change into each other over time, so an electron neutrino could turn into a muon or tau neutrino and then back again. This is called [[neutrino oscillation]]. This oscillation was suggested when then number of electron neutrinos from the Sun was measured in the 1960s, and the amount was only about a third of what theories at the time said there should be. The result of neutrino oscillation is that most of the electron neutrinos made in the Sun change to another type of neutrino . 
+   
+ Most neutrinos passing through the planet Earth come from the Sun. About 65 & nbsp;billion ({{val|6.5|e=10}}) [[solar neutrino]]s per second pass through every square centimeter of area, including our own bodies.  < ref name= " J. Bahcall et al. 2005 L85–L88 " > {{cite journal 
+  | author = J. Bahcall 
+  | display-authors = etal 
+  | year = 2005 
+  | title = New solar opacities, abundances, helioseismology, and neutrino fluxes 
+  | journal = [[The Astrophysical Journal]] 
+  | volume = 621 | issue = 1| pages = L85–L88 
+  | arxiv = astro-ph/0412440 
+  | doi = 10.1086/428929 
+ | bibcode=2005ApJ...621L..85B 
+ | s2cid = 1374022 
+  }} < /ref >   
+ This is true even on the night side of Earth, because nearly all the neutrinos from the sun pass easily through the Earth. 
+ 
+ ==Related pages== 
+ * [[Antares Telescope]] - uses neutrinos to make images 
+ 
+ ==References== 
+ < references/ > 
+ 
+ {{Elementary}} 
+ 
+ 
+ {{physics-stub}} 
+ 
+ [[Category:Astrophysics]] 
+ [[Category:Elementary particles]]

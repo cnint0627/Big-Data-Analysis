@@ -1,0 +1,29 @@
+[[File:Antibody.svg|thumb|Each antigen binds to a specific antibody, much like a key that can open a specific lock]] 
+ 
+ An '''antigen''' is a molecule on the outside of a [[pathogen]] (a  " [[germ]] " ). It causes the production of [[Antibody|antibodies]] which stick to the invading [[virus]] or [[bacterium]]. This is an [[immune response]]. < ref name= " mlp " > {{cite web |title=Immune system and disorders |url=https://medlineplus.gov/immunesystemanddisorders.html |publisher=MedlinePlus, US National Institute of Medicine |access-date=13 October 2020 |date=28 September 2020}} < /ref > 
+ 
+ Antigens are usually a [[protein]] on the outside of a bacterium or [[virus]]. It gets recognized by the [[adaptive immune system]] as foreign, and this stimulates the production of [[Antibody|antibodies]]. The antibodies combine with the antigens and make the invading virus or bacterium ineffective. Antigens ''[[wikt:stimulate|stimulate]]'' the production of antibodies: they do not produce them directly. Vaccines for the seasonal flu virus is a common example. 
+ 
+ The body system is normally tolerant of its own molecules, which don't trigger an attack. [[Autoimmune disease]]s are caused when this safeguard fails. 
+ 
+ The first time that a new antigen comes into contact with the body the response of the immune system will be a complete [[immune response]]. During this first response, the antigen will cause antibodies to be made. < ref > Janeway C.A et al 2001. ''Immunobiology'', 5th ed, New York: Garland Science. ISBN 978-0-8153-4101-7 < /ref >   
+ 
+ The next time the same antigen contacts the body, a full-scale immune response is not needed as the body already has a specific antibody available instantly for that antigen.  
+ 
+ Vaccinations usually contain dead bacteria or antigen so the antibodies can recognise it later and make antibodies faster. 
+ 
+ == Terminology == 
+ * Epitope – the distinct surface features of an antigen.  
+ * [[Allergen]] – A substance capable of causing an allergic reaction. The (detrimental) reaction may result after exposure via ingestion, inhalation, injection, or contact with skin. 
+ * Superantigen – A class of antigens that cause non-specific activation of [[T-cell]]s, resulting in polyclonal T-cell activation and massive cytokine release. 
+ * Tolerogen – A substance that invokes a specific immune non-responsiveness due to its molecular form. If its molecular form is changed, a tolerogen can become an immunogen. 
+ * [[Immunoglobulin]]-binding protein – proteins that stick to antigens, for example the [[B-cell]] antigen receptor complex. 
+ * T-dependent antigen – Antigens that require the assistance of T cells to induce the formation of specific antibodies. 
+ * T-independent antigen – Antigens that stimulate [[B cell]]s directly. 
+ * Immunodominant antigens – Antigens that dominate (over all others from a pathogen) in their ability to produce an immune response. < ref name= " mlp " / > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ [[Category:Immunology]]

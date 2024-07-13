@@ -1,0 +1,30 @@
+A '''cypher''' is an [[algorithm]] for performing encryption (coding) or decryption (decoding). It is a series of well-defined steps that can be followed as a procedure. To encipher or encode is to convert information from [[plain text]] into cipher or [[code]].  
+ 
+ In non-technical usage, a 'cipher' often means the same thing as a 'code'; but in [[cryptography]], cyphers are distinguished from codes. < ref > Kahn, David 1967. ''The Codebreakers {{ndash}} the story of secret writing''. {{ISBN|0-684-83130-9}} < /ref >  One 20th century source gives this explanation: a cypher is  " a method in which the basic unit of concealment is the letter.  
+ 
+ In comparison, a code is a form of concealment in which the basic unit is the word " . < ref > Newton, David E. 1997. ''Encyclopedia of cryptology''. Instructional Horizons, Santa Barbara, p50. {{ISBN|1-85109-323-0}} < /ref >  Late in the century,  " codes "  in this cryptographic sense became rare. 21st century [[cryptography]] mostly encrypts [[bit]]streams.  
+ 
+ Codes operated by substituting according to a large codebook which linked a random string of characters or numbers to a word or phrase. For example,  " UQJHSE "  could be the code for  " Proceed to the following coordinates " . 
+ 
+ A cypher is used to turn the original information ( " [[plaintext]] " ) to the encrypted form  " [[ciphertext]] " . The ciphertext message contains all the information of the plaintext message, but cannot be read by human or computer without the proper mechanism to decrypt it. 
+ To encipher or decipher, you need the  " [[key (cryptography)|key]] " . In encryption, a key specifies the particular transformation of plaintext into ciphertext, or vice versa during decryption. 
+ 
+ By type of key used cyphers are divided into: 
+ * [[symmetric key algorithm]]s ([[private-key cryptography]]): the same key is used for encryption and decryption, and 
+ * asymmetric key algorithms ([[public-key cryptography]]): two different keys are used for encryption and decryption. 
+ 
+ The word cypher in French is ''cifre'' and in [[Medieval]] Latin ''cifra'', from the Arabic ''sifr'', meaning 'zero'. The first known English use of ''[[zero]]'' was in 1598. < ref > [http://www.merriam-webster.com/dictionary/zero Zero], Merriam Webster online Dictionary < /ref > 
+ 
+ == Related pages == 
+ *[[Code]] 
+ *[[Encryption]] 
+ *[[Key (cryptography)]] 
+ *[[Block cipher]] 
+ *[[Product cipher]] 
+ *[[Ciphertext]] 
+ *[[Ciphertext-only attack]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Cryptography]]

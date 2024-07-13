@@ -1,0 +1,30 @@
+'''Olfaction''' is the '''sense of smell'''. The [[sensory system|sense]] of smell is how a [[human]] or [[animal]] [[wikt:notice|notices]] a smell (or [[odour]] or odor) by using the [[nose]]. Many animals have better noses than people. Some animals can [[wikt:detect|detect]] small [[particle]]s in the [[air]] or sometimes [[water]] that people cannot.  
+ 
+ People have [[wikt:special|special]] [[cell]]s in the nose that can detect some [[chemical]]s. These are special [[neuron|nerve cells]] attached to the olfactory [[epithelium]]. All [[vertebrate]]s have these cells. The smell is first [[process]]ed by the [[olfactory system]]. The [[information]] is given to the [[olfactory bulb]] in the front of the [[forebrain]].   
+ 
+ In [[insect]]s, smells are sensed by [[sensillum]] on the [[antenna]]e and first processed by the [[antennal lobe]]. 
+ 
+ == Olfactory reception cells == 
+ [[File:Gray772.png|thumb|right|280px|Olfactory epithelium and neurons. The end cilia of the neurons stick out into the mucus (not shown here)]] 
+ 
+ The olfactory reception (OR) cells are [[neurons]] (nerve cells). Many tiny hair-like [[cilia]] stick out of these cells into the [[mucus]] covering the surface of the [[epithelium]]. < ref name= " pmid17603536 " > {{cite journal | authors = Rinaldi A | title = The scent of life. The exquisite complexity of the sense of smell in animals and humans | journal = EMBO Reports | volume = 8 | issue = 7 | pages = 629–33 | date = 2007 | pmid = 17603536 | pmc = 1905909 | doi = 10.1038/sj.embor.7401029 }} See especially figure 1 in this review. < /ref >  The surface of these cilia is covered with olfactory receptors, a kind of [[protein]]. < ref > {{cite journal |doi=10.1111/j.1749-6632.2009.03935.x |pmid=19686133 |title=Insect olfactory receptor complex functions as a ligand-gated ionotropic channel |journal=Annals of the New York Academy of Sciences |volume=1170 |pages=177–80 |year=2009 |last1=Touhara |first1=Kazushige |issue=1 |bibcode=2009NYASA1170..177T |s2cid=6336906 }} < /ref >    
+ 
+ There are about 1000 different [[genes]] which code for the ORs, though only about a third are functional. < ref >  Buck L.  &  Axel R. 1991. A novel multigene family may encode odorant receptors: a molecular basis for odor recognition. ''Cell'' '''65''' (1): 175–187. [http://www.cell.com/cell/abstract/0092-8674(91)90418-X?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2F009286749190418X%3Fshowall%3Dtrue] < /ref >  The rest are [[pseudogene]]s. The OR genes are the largest [[gene family]]. An odor molecule dissolves into the mucus of the olfactory epithelium and then binds to an OR. Various odor molecules bind to various ORs. The basis of the sense of smell is that different groups of scent molecules bind to different receptor cells and so fire different groups of neurons. < ref name= " pmid14507991 " > {{cite journal | authors = Niimura Y.  &  Nei M. 2003. | title = Evolution of olfactory receptor genes in the human genome | journal = Proceedings of the National Academy of Sciences of the United States of America | year = 2003 | volume = 100 | issue = 21 | pages = 12235–40  | pmid = 14507991 | pmc = 218742 | doi = 10.1073/pnas.1635157100 | bibcode = 2003PNAS..10012235N | doi-access = free }} < /ref >  Inside the olfactory region of the brain, the firing of neurons produces the perceived smell.  
+ 
+ When the OR is activated, changes start in the cells. Positive [[ions]] come in and  negative ions go out of the cells. This causes the [[neuron]] to fire an impulse (generate an [[action potential]]). < ref > {{cite journal |doi=10.1093/chemse/bjh050 |pmid=15269120 |title=Olfactory receptor neuron profiling using sandalwood odorants |journal=Chemical Senses |volume=29 |issue=6 |pages=483–7 |year=2004 |last1=Bieri |first1=S. |last2=Monastyrskaia |first2=K |last3=Schilling |first3=B }} < /ref > < ref > {{cite journal |doi=10.1006/dbio.2000.9972 |pmid=11133158 |title=Onset of odorant receptor gene expression during olfactory sensory neuron regeneration |journal=Developmental Biology |volume=229 |issue=1 |pages=119–27 |year=2001 |last1=Fan |first1=Jinhong |last2=Ngai |first2=John }} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ *[http://www.thenakedscientists.com/HTML/Columnists/peterbrennancolumn.htm Smells and Odours - How Smell Works] 
+ *[http://www.cf.ac.uk/biosi/staff/jacob/teaching/sensory/olfact1.html Olfaction] 
+ *[http://www.thenakedscientists.com/HTML/Columnists/peterbrennancolumn2.htm The importance of smell, and pheromones, to Humans and other Animals] 
+ *[http://www.flexitral.com/research/review_final.pdf Structure-odor relations: a modern perspective] (PDF) 
+ *[http://marvin.caltech.edu/PDF/Laurent2002.pdf Olfactory network dynamics and the coding of multidimensional signals] {{Webarchive|url=https://web.archive.org/web/20060326040038/http://marvin.caltech.edu/PDF/Laurent2002.pdf |date=2006-03-26 }} (PDF) 
+ 
+ {{-}} 
+ {{senses}} 
+ 
+ 
+ [[Category:Sensory system]]

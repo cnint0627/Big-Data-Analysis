@@ -1,0 +1,217 @@
+{{Infobox planet 
+ | name = Venus 
+ | symbol = [[File:Venus symbol (bold).svg|24px|alt=♀|Astronomical symbol of Venus]] 
+ | image = Venus_from_Mariner_10.jpg 
+ | image_alt=Venus in approximately true colour, a nearly uniform pale cream, although the image has been processed to bring out details. < ref name= " Lakdawalla2009 " > {{cite web |url=http://www.planetary.org/blog/article/00002105/ |title=Venus Looks More Boring Than You Think It Does |work=The Planetary Society |first=Emily |last=Lakdawalla |date=21 September 2009 |accessdate=4 December 2011 |archive-date=6 January 2012 |archive-url=https://web.archive.org/web/20120106182912/http://www.planetary.org/blog/article/00002105 |url-status=dead }} < /ref >  The planet's disc is about three-quarters illuminated; almost no variation or detail can be seen in the clouds 
+ | caption = A real-colour image taken by ''[[Mariner 10]]'' processed from two filters, the surface is obscured by thick [[sulfuric acid]] clouds 
+ | background = #f8f9fa 
+ | orbit_ref = 
+ | epoch = [[J2000]] 
+ | aphelion = 
+   {{plainlist | 
+ * {{val|0.728213|ul=AU}} 
+ * {{nowrap|{{val|fmt=commas|108939000|u=km}}}} 
+   }} 
+ | perihelion = 
+   {{plainlist | 
+ * {{val|0.718440|u=AU}} 
+ * {{nowrap|{{val|fmt=commas|107477000|u=km}}}} 
+   }} 
+ | semimajor = 
+   {{plainlist | 
+ * {{val|0.723332|u=AU}} 
+ * {{nowrap|{{val|fmt=commas|108208000|u=km}}}} 
+   }} 
+ | eccentricity = 0.006772 
+ | period = 
+   {{plainlist | 
+ * {{val|224.701|u=day}} 
+ * {{val|0.615198|u=[[julian year (astronomy)|yr]]}} 
+ * 1.92 Venus [[solar day]] 
+   }} 
+ | synodic_period = 583.92 days 
+ | avg_speed = 35.02 & nbsp;km/s 
+ | inclination = 
+   {{plainlist | 
+ * {{val|3.39458|u=°}} to [[ecliptic]] 
+ * 3.86° to [[Sun]]'s [[equator]] 
+ * 2.19° to [[invariable plane]] 
+   }} 
+ | asc_node = 76.680° 
+ | arg_peri = 54.884° 
+ | mean_anomaly = 50.115° 
+ | satellites = None 
+ | allsatellites=yes 
+ | mean_radius = 
+   {{plainlist | 
+ * {{nowrap|{{val|fmt=commas|6051.8|1.0|u=km}}}} 
+ * {{val|0.9499|u=Earths}} 
+   }} 
+ | flattening = 0 
+ | surface_area = 
+   {{plainlist | 
+ * {{val|4.6023|e=8|u=km2}} 
+ * 0.902 Earths 
+   }} 
+ | volume = 
+   {{plainlist | 
+ * {{val|9.2843|e=11|u=km3}} 
+ * 0.866 Earths 
+   }} 
+ | mass = 
+   {{plainlist | 
+ * {{val|4.8675|e=24|u=kg}} 
+ * 0.815 Earths 
+   }} 
+ | density = {{val|5.243|u=g/cm3}} 
+ | surface_grav = 
+   {{plainlist | 
+ * {{val|8.87|u=m/s2}} 
+ * {{nowrap|0.904 ''[[g-force|g]]''}} 
+   }} 
+ | escape_velocity = {{convert|10.36|km/s|abbr=on}} < ref > {{cite web |url=http://ssd.jpl.nasa.gov/?planet_phys_par |title=Planets and Pluto: Physical Characteristics |publisher=[[NASA]] |date=5 November 2008 |accessdate=26 August 2015 |archive-date=7 September 2006 |archive-url=https://web.archive.org/web/20060907215218/http://ssd.jpl.nasa.gov/?planet_phys_par |url-status=live }} < /ref > 
+ | sidereal_day = {{val|-243.025|u=day}}  < small > ([[Retrograde motion|retrograde]]) < /small > 
+ | rot_velocity = {{convert|6.52|km/h|m/s|abbr=on}} < !--Since rot. vel. = circumference/sidereal day, and circumference is 2πr, rot. vel. = 2π6051km/243.025*24h = 6.52 km/h-- > 
+ | axial_tilt = 2.64°  < small > (for [[Retrograde motion|retrograde]] rotation) < /small > < br / > 177.36° (to orbit) < ref group=note > Defining the rotation as retrograde, as done by NASA space missions and the USGS, puts [[Ishtar Terra]] in the northern hemisphere and makes the axial tilt 2.64°. Following the [[right-hand rule]] for prograde rotation puts Ishtar Terra in the southern hemisphere and makes the axial tilt 177.36°. < /ref > 
+ | right_asc_north_pole = 
+   {{plainlist | 
+ * {{RA|18|11|2}} 
+ * 272.76° 
+   }} 
+ | declination = 67.16° 
+ | albedo = 
+   {{plainlist | 
+ * 0.689 ([[Geometric albedo|geometric]]) 
+ * 0.76 ([[Bond albedo|Bond]]) 
+   }} 
+ | magnitude = −4.92 to −2.98 
+ | angular_size = {{nowrap|9.7″–66.0″}} 
+ | temp_name1 = [[Kelvin]] 
+ | mean_temp_1 = 737 & nbsp;K 
+ | temp_name2 = [[Celsius]] 
+ | mean_temp_2 = 462 & nbsp;°C 
+ | temp_name3 = [[Fahrenheit]] 
+ | mean_temp_3 = 864 & nbsp;°F 
+ | pronounced = {{IPAc-en|audio=en-us-Venus.ogg|ˈ|v|iː|n|ə|s}} 
+ | adjectives = [[Venusian (disambiguation)|Venusian]] or (rarely) [[Cytherean]], Venerean 
+ | atmosphere = yes 
+ | surface_pressure = 92 & nbsp;[[bar (unit)|bar]] (9.2 & nbsp;[[Pascal (unit)|MPa]]) 
+ | atmosphere_composition = 
+   {{plainlist | 
+ * 96.5% [[carbon dioxide]] 
+ * 3.5% [[nitrogen]] 
+ * 0.015% [[sulfur dioxide]] 
+ * 0.007% [[argon]] 
+ * 0.002% [[water vapour]] 
+ * 0.0017% [[carbon monoxide]] 
+ * 0.0012% [[helium]] 
+ * 0.0007% [[neon]] 
+ * trace [[carbonyl sulfide]] 
+ * trace [[hydrogen chloride]] 
+ * trace [[hydrogen fluoride]] 
+   }} 
+ }} 
+ {{about|the [[planet]]|other uses|Venus (disambiguation)}} 
+ 
+ '''Venus''' is the second [[planet]] from the [[Sun]]. < ref name= " :2 " > {{Cite web|title=Venus|url=https://solarsystem.nasa.gov/planets/venus/overview|access-date=2021-10-19|website=NASA Solar System Exploration|archive-date=2021-10-19|archive-url=https://web.archive.org/web/20211019035311/https://solarsystem.nasa.gov/planets/venus/overview/|url-status=live}} < /ref >  Venus is the only planet in the Solar System that has a day longer than a year. The year length of Venus is 225 Earth days. The day length of Venus is 243 Earth days. < ref name= " :2 "  / > 
+ 
+ Venus is a ''[[terrestrial planet]]'' because it has a solid, [[Rock (geology)|rocky]] surface like other planets in the inner [[Solar System]]. Astronomers have known Venus for thousands of years. The [[Ancient Rome|ancient Romans]] named it after their [[god]]dess [[Venus (mythology)|Venus]], goddess of love and beauty. < ref name= " :2 "  / > 
+ 
+ Venus is the brightest thing in the night sky except for the [[Moon]]. It is sometimes called the ''morning star'' or the ''evening star'' as at some [[elongation]]s it is easily seen just before the sun comes up in the morning. At other times, it can be seen just after the sun goes down in the evening. Venus comes closer to the [[Earth]] than any other planet does. 
+ 
+ Venus is sometimes called the [[sister]] planet of Earth as they are quite similar in size and [[gravity]]. In other ways the planets are very different. Venus' [[atmosphere]] (air) is mostly [[carbon dioxide]] with clouds of [[sulfuric acid|sulphuric acid]]. < ref > {{cite web|url=http://www.windows.ucar.edu/tour/link=/venus/atmosphere.html|title=The Atmosphere of Venus|access-date=2008-08-19|archive-date=2009-03-02|archive-url=https://web.archive.org/web/20090302062611/http://www.windows.ucar.edu/tour/link=/venus/atmosphere.html|url-status=dead}} < /ref >  Sulphuric acid is a [[chemical]] that is [[poison]]ous to life. For this it is sometimes known as the Earth's  " [[evil]] twin " . < ref > {{cite news |last1=Hall |first1=Shannon |title=Venus is Earth's evil twin — and space agencies can no longer resist its pull |url=https://www.nature.com/articles/d41586-019-01730-5 |accessdate=June 6, 2021 |work=Nature |date=June 5, 2019 |archive-date=June 5, 2021 |archive-url=https://web.archive.org/web/20210605192557/https://www.nature.com/articles/d41586-019-01730-5 |url-status=live }} < /ref > < ref > {{cite news |last1=Greenfieldboyce |first1=Nell |title=NASA Picks Twin Missions To Visit Venus, Earth's 'Evil Twin' |url=https://www.npr.org/2021/06/02/1002627399/nasa-picks-twin-missions-to-visit-venus-earths-evil-twin |accessdate=June 6, 2021 |work=NPR |date=June 2, 2021 |archive-date=June 5, 2021 |archive-url=https://web.archive.org/web/20210605231100/https://www.npr.org/2021/06/02/1002627399/nasa-picks-twin-missions-to-visit-venus-earths-evil-twin |url-status=live }} < /ref > 
+ 
+ The thick atmosphere makes it hard to see the surface. Until the late twentieth century many thought there might be life there. The [[pressure]] on Venus' surface is 92 times that of Earth. Venus is one of only 2 planets in the Solar System (the other being [[Mercury (planet)|Mercury]]) that has no [[Satellite (natural)|moons]].  Venus spins very slowly on its axis and it spins in the [[Retrograde and direct motion|opposite direction]] to the other planets. 
+ 
+ == Physical properties == 
+ [[File:Venus globe.jpg|thumb|[[Radar]] view of the surface of Venus ([[Magellan spacecraft]])]] 
+ 
+ Venus is a terrestrial planet so, like the Earth, its surface is made of rock. Venus is much hotter than Earth. All the [[carbon dioxide]] in the atmosphere acts like a [[blanket]], trapping heat from the Sun. This effect is called the [[greenhouse effect]] and it is very strong on Venus. This makes the surface of Venus the hottest of any planet's surface in the Solar System with an [[estimate]]d [[average]] [[temperature]] of {{convert|480|°C|°F|1}}. < ref > {{cite web|url=http://filer.case.edu/sjr16/advanced/venus.html|title=Venus - an overview|access-date=2008-08-20|archive-date=2009-09-11|archive-url=https://web.archive.org/web/20090911091043/http://filer.case.edu/sjr16/advanced/venus.html|url-status=dead}} < /ref > < ref > {{cite web|url=http://hypertextbook.com/facts/2000/GeorgeRyabov.shtml|title=Temperature on the Surface of Venus|access-date=2008-08-19|archive-date=2008-09-28|archive-url=https://web.archive.org/web/20080928112636/http://hypertextbook.com/facts/2000/GeorgeRyabov.shtml|url-status=live}} < /ref >  This is hot enough to [[melting|melt]] [[lead]] or [[zinc]]. 
+ 
+ === Geography === 
+ Venus has no oceans because it is much too hot for water. Venus' surface is a dry desert. Because of the clouds, only [[radar]] can map the surface. It is about 80% smooth, [[Rock (geology)|rocky]] [[plain]]s, made mostly of [[basalt]]. Two higher areas called [[continent]]s make up the north and south of the planet. The north is called ''Ishtar Terra'' and the south is called ''Aphrodite Terra''. They are named after the [[Babylon]]ian and [[Greek god]]desses of love. < ref > Batson R.M.  &  Russell J.F. 1991. ''Naming the newly found landforms on Venus''. ''Abstracts of the Lunar and Planetary Science Conference'', v. 22, p65. < /ref > 
+ 
+ The surface of Venus looks like it has been shaped by [[Volcanism|volcanic activity]]. Venus has a lots of [[volcano]]es. < ref name= " :0 " > {{Cite book|url=https://www.worldcat.org/oclc/32969544|title=Volcanoes of the solar system|last=Frankel, Charles.|date=1996|publisher=Cambridge University Press|isbn=0-521-47201-6|location=Cambridge|oclc=32969544|access-date=2020-09-14}} < /ref >  The surface of Venus is estimated to be 300–600 million years old. < ref name= " :0 "  / > < ref > {{Cite journal|last1=Nimmo|first1=F.|last2=Mckenzie|first2=D.|title=Volcanism and Tectonics on Venus|journal=Annual Review of Earth and Planetary Sciences|date=1998|volume=26|pages=23–51|doi=10.1146/ANNUREV.EARTH.26.1.23|bibcode=1998AREPS..26...23N|s2cid=862354}} < /ref > 
+ 
+ Unlike [[Earth]] or [[Mars]], Venus does not have defined highlands or lowlands, and it does not have [[tectonic plates]]. 
+ 
+ === Atmosphere === 
+ 
+ Venus' [[atmosphere]] is mostly [[carbon dioxide]] and [[nitrogen]] [[gas]] with [[cloud]]s of [[sulphuric acid]]. Because the atmosphere is so thick or dense the [[pressure]] is very high. The pressure is 92 times the pressure on Earth, enough to crush many things. 
+ 
+ It is impossible to see the planet's surface from [[Outer space|space]] as the thick [[cloud]] layer [[reflection|reflects]] 60% of the light that hits it. The only way scientists are able to see it is by using [[infrared]] and [[UV|ultraviolet]] [[camera]]s and [[radar]]. 
+ 
+ Scientists believe that billions of years ago, the atmosphere of Venus could have been like Earth's atmosphere. There may have been lots of water on the surface of Venus. But after 600 million to several billion years, the [[evaporation]] of the water put [[greenhouse gas]]es into its atmosphere. < ref > {{Cite journal|last=Kasting|first=James F.|date=1988|title=Runaway and moist greenhouse atmospheres and the evolution of Earth and Venus|url=https://linkinghub.elsevier.com/retrieve/pii/0019103588901169|journal=Icarus|language=en|volume=74|issue=3|pages=472–494|doi=10.1016/0019-1035(88)90116-9|pmid=11538226|bibcode=1988Icar...74..472K|via=|access-date=2020-09-14|archive-date=2020-05-31|archive-url=https://web.archive.org/web/20200531163723/https://www.sciencedirect.com/science/article/abs/pii/0019103588901169?via%3Dihub|url-status=live}} < /ref > 
+ 
+ ===Magnetic field=== 
+ In 1967, [[Venera 4]] found that the magnetic field of Venus was much weaker than that of Earth. This magnetic field is induced by an interaction between the [[ionosphere]] and the [[solar wind]]. Venus' magnetosphere is not strong enough to protect the atmosphere from [[cosmic ray]]s. < ref > {{Cite book|url=https://www.worldcat.org/oclc/30509600|title=Introduction to space physics|date=1995|publisher=Cambridge University Press|others=Kivelson, M. G. (Margaret Galland), 1928-, Russell, C. T. (Christopher T.)|isbn=0-521-45104-3|location=Cambridge|oclc=30509600|access-date=2020-09-14}} < /ref > 
+ 
+ ===Transit of Venus=== 
+ {{main|Transit of Venus}} 
+ Venus can sometimes be seen passing between the Sun and Earth. Venus looks like a black dot when seen through a special telescope. These passages are called  " transits " . These  " transits "  happen in pairs eight years apart. Then it is more than a hundred years to the next pair. 
+ 
+ ==Orbit and rotation== 
+ {{Main|Orbit of Venus}} 
+ [[File:Venusorbitsolarsystem.gif|thumb|right|Orbit of Venus compared to the orbit of the Earth]]Venus orbits the Sun at an average [[distance]] of about 108 million km (68~ million mi). It completes an orbit every 224.7 days. < ref > {{Cite web|date=2016-03-04|title=Venus Fact Sheet|url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html|access-date=2020-09-14|archive-url=https://web.archive.org/web/20160304130722/http://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html|archive-date=2016-03-04}} < /ref >  The rotation of Venus is slow. A Venusian [[sidereal day]] is longer than a Venusian year. 
+ 
+ ==List of satellites sent to Venus== 
+ Many man-made satellites have been sent to Venus to study it. They are: 
+ 
+ ===''Mariner 2''=== 
+ {{Main|Mariner 2}} 
+ [[File:Mariner_2.jpg|thumb|right|Mariner 2]] 
+ Mariner 2 was launched on August 27, 1962. It was made to study the [[atmosphere]] of Venus, its [[magnetic field]], and mass. The last [[radio]] signal from Mariner 2 was received on January 3, 1963. Mariner 2 is still orbiting around the Sun today. 
+ 
+ ===''Venera 4''=== 
+ {{Main|Venera 4}} 
+ [[File:Venera_4_(MMA_2011)_(1).JPG|thumb|right|Venera 4]] 
+ Venera 4 was a probe made by the Soviet Union to explore Venus. The probe had a two probes. One was designed to enter the atmosphere of Venus and use a [[parachute]] to land on the [[surface]]. Another received the [[information]] from the probe on Venus to mission controllers on Earth. Venera 4 was launched on June 12, 1967. The last [[radio]] signal from Venera 4 was received on October 18, 1967. 
+ 
+ ===''Mariner 5''=== 
+ {{Main|Mariner 5}} 
+ [[File:Mariner_5.jpg|thumb|right|Mariner 5]] 
+ Mariner 5 was a [[spacecraft]] of the Mariner program. Mariner 5 was launched on June 14, 1967. The last radio signal from Mariner 5 was on October 14, 1968. Mariner 5 was made to study the magnetic field of Venus and to measure the [[hard ultraviolet]] spectrum, of the Venusian atmosphere. 
+ 
+ ===''Venera 9''=== 
+ {{Main|Venera 9}} 
+ [[File:Venera9superficie.png|thumb|right|Venera 9]] 
+ Venera 9 was a [[spacecraft]] made by the [[Soviet Union]]. It consisted of a probe to orbit Venus which was called an orbiter and another probe that will land on Venus which was called a lander. It was launched on June 8, 1975. The last [[radio]] signal from the orbiter was on March 22, 1976. The last radio signal was on October 22, 1975. < ref name= " :1 " > {{Cite book|url=https://www.worldcat.org/oclc/1019855116|title=Beyond Earth : a chronicle of deep space exploration, 1958-2016|last=Siddiqi, Asif A., 1966-|others=United States. NASA History Division|year=2018 |isbn=978-1-62683-042-4|edition=Second|location=Washington, DC|oclc=1019855116|access-date=2020-09-14}} < /ref >  The orbiter was the first spacecraft to orbit Venus, while the lander was the first to return [[picture]]s from the surface of another [[planet]]. < ref > {{Cite web|date=2009-08-03|title=Solar System Exploration: Multimedia: Gallery|url=http://solarsystem.nasa.gov/multimedia/display.cfm?IM_ID=3563|access-date=2020-09-14|archive-url=https://web.archive.org/web/20090803180528/http://solarsystem.nasa.gov/multimedia/display.cfm?IM_ID=3563|archive-date=2009-08-03}} < /ref > < ref > {{Cite web|title=NASA - NSSDCA - Spacecraft - Details|url=https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-050A|access-date=2020-09-14|website=nssdc.gsfc.nasa.gov|archive-date=2020-09-05|archive-url=https://web.archive.org/web/20200905103111/https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-050A|url-status=live}} < /ref > 
+ 
+ ===''Venera 10''=== 
+ {{Main|Venera 10}} 
+ [[File:%22%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0-10%22.jpg|thumb|right|Venera 10]] 
+ Venera 10 was a spacecraft made by the Soviet Union. It consisted of an orbiter and a lander. It was launched on June 14, 1975. < ref > {{Cite web|title=NASA - NSSDCA - Spacecraft - Details|url=https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-054A|access-date=2020-09-14|website=nssdc.gsfc.nasa.gov|archive-date=2020-09-05|archive-url=https://web.archive.org/web/20200905103115/https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1975-054A|url-status=live}} < /ref > 
+ 
+ ===''Venera 13''=== 
+ {{Main|Venera 13}} 
+ [[File:1982_CPA_5278.jpg|thumb|right|Stamps of Venera 13 and Venera 14]] 
+ Venera 13 was a probe in the [[Soviet Venera program]]. It was made to explore Venus. It was launched on October 30, 1981. The last radio signal from the lander was on March 1, 1982. The last radio signal from the spacecraft that took the lander to Venus was on April 25, 1983. 
+ 
+ ===''Venera 14''=== 
+ {{Main|Venera 13}} 
+ Venera 14 was a probe in the Soviet Venera program. It was made to explore Venus. It was launched on November 4, 1981. The last radio signal from the lander was on March 5, 1982. The last radio signal from the spacecraft that took the lander to Venus was on April 9, 1983. 
+ 
+ ===''Venera 15''=== 
+ {{Main|Venera 15}} 
+ Venera 15 was a spacecraft sent to Venus by the Soviet Union. It was made to map the surface of Venus. It was launched on June 2, 1983. The last radio signal from Venera 15 was on January 5, 1985. < ref name= " :1 "  / > 
+ 
+ ===''Venera 16''=== 
+ {{Main|Venera 16}} 
+ Venera 16 was a      spacecraft sent to Venus by the Soviet Union. It was made to map the surface of Venus. It was launched on June 7, 1983. Its last radio signal from Venera 16 was on June 13, 1985. < ref name= " :1 "  / > 
+ 
+ == Related pages == 
+ * [[List of planets]] 
+ 
+ == References and Notes == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.nineplanets.org/venus.html Nine Planets: Venus] 
+ * [http://csep10.phys.utk.edu/astr161/lect/venus/venus.html The Planet Venus] 
+ * [http://www.mentallandscape.com/V_DigitalImages.htm Images of Venus] 
+ *[http://stevechallis.net/Venus.php Venus] {{Webarchive|url=https://web.archive.org/web/20110520070156/http://stevechallis.net/Venus.php |date=2011-05-20 }} 
+ {{Solar System}} 
+ {{authority control}} 
+ 
+ [[Category:Venus| ]] 
+ [[Category:Terrestrial planets]]

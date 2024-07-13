@@ -1,0 +1,36 @@
+{{Infobox Software 
+ | name                   = Audacity 
+ | logo                   = Audacity Logo With Name.png 
+ | screenshot             = Audacity (software).png 
+ | caption                = Audacity 1.3.4 beta on Ubuntu 
+ | developer              = [http://audacityteam.org/about/credits The Audacity Team] 
+ | released               = May 2000 < ref name= " irelease " > {{cite web|url=http://audacityteam.org/about/credits|title=Audacity: Credits|access-date=2008-08-15|archive-date=2015-06-29|archive-url=https://web.archive.org/web/20150629035306/http://audacityteam.org/about/credits|url-status=dead}} < /ref > 
+ | frequently_updated     = yes < !-- Release version update? Don't edit this page, just click on the version number! -- > 
+ | programming language   = [[C (programming language)|C]] and [[C++]] (using the [[wxWidgets]] [[Widget toolkit|toolkit]]) < ref name= " SourceForgeJul04 " > {{cite web|url = http://sourceforge.net/potm/potm-2004-07.php|title =Project of the Month July 2004 - Audacity |access-date = 2008-11-27|last = SourceForge|date= July 2004}} < /ref > < ref name= " UN2004 " > {{cite web|url = http://www.unctad.org/en/docs/ecdr2004ch3_en.pdf|title = E-Commerce and Development Report 2004|access-date = 2008-11-27|last = United Nations Conference on Trade and Development|year = 2004|archive-date = 2008-12-03|archive-url = https://web.archive.org/web/20081203142001/http://www.unctad.org/en/docs/ecdr2004ch3_en.pdf|url-status = dead}} < /ref > 
+ | operating system       = [[Cross-platform]] 
+ | language               = Over 20 languages 
+ | genre                  = [[Digital audio editor]] 
+ | license                = [[GNU General Public License]] 
+ | website                = [http://audacityteam.org/ audacityteam.org] 
+ }} 
+ 
+ '''Audacity''' is a [[digital audio editor]] (a computer program used to change sounds) and recording program. Audacity is [[cross-platform]] and can be used with [[Microsoft Windows|Windows]], [[OS X]], [[Linux]], and [[Berkeley Software Distribution|BSD]].  It is [[free software]]. Audacity was first released on May 28, 2000. 
+ 
+ == Features == 
+ # multi-track mixing 
+ # import and export of WAV, AIFF, MP3 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ == Other websites == 
+ {{commons|Audacity}} 
+ {{wikibooks}} 
+ * [http://audacityteam.org/ Audacity homepage] 
+ * [http://wiki.audacityteam.org/index.php?title=Main_Page Audacity Wiki] 
+ * [https://arstechnica.com/guides/tweaks/linux-audio.ars/3 Editing audio in Linux:Audacity] 
+ * Useful information, FAQ and articles about Audacity [http://audacity-download.org/ Audacity] {{Webarchive|url=https://web.archive.org/web/20111021231442/http://audacity-download.org/ |date=2011-10-21 }} 
+ 
+ [[Category:Audio technology]] 
+ [[Category:Music software]] 
+ [[Category:Free software]]

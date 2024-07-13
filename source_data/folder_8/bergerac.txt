@@ -1,0 +1,163 @@
+{{Infobox French commune 
+ |name                   = Bergerac 
+ |commune status         = [[Subprefectures in France|Subprefecture]] and [[Communes of France|commune]] 
+ |image coat of arms     = Blason ville fr Bergerac2 (Dordogne).svg 
+ |image                  = Bergerac overlooking Dordogne.JPG 
+ |caption                = Bergerac overlooking the [[Dordogne (river)|Dordogne river]] 
+ |arrondissement         = Bergerac 
+ |canton                 = [[Canton of Bergerac-1|Bergerac-1]] and [[Canton of Bergerac-2|2]] 
+ |INSEE                  = 24037 
+ |postal code            = 24100 
+ |mayor                  = Daniel Garrigue 
+ |term                   = 2014 & ndash;2020 
+ |intercommunality       = Bergerac Pourpre 
+ |coordinates            = {{coord|44.85|0.48|format=dms|display=inline,title}} 
+ |elevation m            = 79 
+ |elevation min m        = 12 
+ |elevation max m        = 146 
+ |area km2               = 56.10 
+ |population             = 27764 
+ |population date        = 2014 
+ |population demonym     = Bergeracois 
+ |website                 = [http://www.ville-bergerac.fr/ www.ville-bergerac.fr] 
+ }} 
+ '''Bergerac''' ({{Lang-oc|Brageirac}}) < ref > {{cite web |url=http://communes-oc.cg24.fr/cantons/bergerac/BERGERAC.htm |title=Bergerac |publisher=Le nom occitan des communes du Périgord |language=fr |access-date=1 April 2015 |archive-date=3 March 2016 |archive-url=https://web.archive.org/web/20160303183117/http://communes-oc.cg24.fr/cantons/bergerac/BERGERAC.htm |url-status=dead }} < /ref >  is a [[Communes of France|commune]] and a [[Prefectures in France|subprefecture]] of the [[Dordogne]] [[Departments of France|department]] in the [[Nouvelle-Aquitaine]] [[Regions of France|region]], southwestern [[France]]. 
+ 
+ It is the second biggest city of the department, after [[Périgueux]]. 
+ 
+ Despite the similarities in their names, there is no connection to [[Cyrano de Bergerac]], a French writer from [[Paris]]. 
+ 
+ ==Geography== 
+ Bergerac is in the south of the Dordogne department, in the region named as ''Périgord Pourpre''; the [[Dordogne (river)|Dordogne]] river flows through the city. 
+ 
+ The city is at about {{Convert|48|km|mi|0|abbr=on }} from [[Périgueux]], {{Convert|90|km|mi|0|abbr=on }} from [[Agen]], {{Convert|93|km|mi|0|abbr=on }} from [[Bordeaux]] and {{Convert|110|km|mi|0|abbr=on }} from [[Cahors]]. 
+ 
+ It has an area of {{Convert|56.10|km2|sqmi|abbr=on }} and its average [[altitude]] is {{Convert|79|m|ft|abbr=on}}; at the [[City and town halls|city hall]], the altitude is {{Convert|39|m|ft|abbr=on }}. < ref > {{cite web |url=http://www.map-france.com/Bergerac-24100/ |title=City of Bergerac |publisher=Map-France.com |access-date=1 April 2015 }} < /ref > 
+ 
+ < center > 
+ {| class= " wikitable "  style= " text-align:center " 
+ |+ Bergerac and its neighboring ''communes'' 
+ |- 
+ | style= " border:1px solid black; "  | [[File:Map commune FR insee code 24037.png|350px|Map of the ''commune'' of Bergerac]] 
+ |} 
+ < /center > 
+ 
+ Bergerac is surrounded by the ''communes'' [[Ginestet]], [[Maurens, Dordogne|Maurens]], [[Lembras]], [[Creysse, Dordogne|Creysse]], [[Cours-de-Pile]], [[Saint-Nexans]], [[Colombier, Dordogne|Colombier]], [[Monbazillac]], [[Saint-Laurent-des-Vignes]] and [[Prigonrieux]]. 
+ 
+ {{Geographic location|width=auto 
+ |Centre    = Bergerac 
+ |North     = [[Maurens, Dordogne|Maurens]] 
+ |Northeast = [[Lembras]] 
+ |East      = [[Creysse, Dordogne|Creysse]], [[Cours-de-Pile]] 
+ |Southeast = [[Saint-Nexans]], [[Colombier, Dordogne|Colombier]] 
+ |South     = [[Monbazillac]] 
+ |Southwest = [[Saint-Laurent-des-Vignes]] 
+ |West      = [[Prigonrieux]] 
+ |Northwest = [[Ginestet]] 
+ }} 
+ 
+ ===Climate=== 
+ The climate of Bergerac is a [[Mediterranean climate]] (Marine West Coast Climate), '''Cfb''' in the [[Köppen climate classification]], with mild winters and warm summers. < ref name= " annuaire " > {{cite web |work=Annuaire-Mairie.fr |title=Ville de Bergerac |url=http://www.annuaire-mairie.fr/ville-bergerac.html |language=fr |access-date=1 April 2015}} < /ref > 
+ 
+ ==Population== 
+ The inhabitants of Bergerac are known, in [[French language|French]], as ''Bergeracois'' (women: ''Bergeracoises''). < ref > {{cite web|url=http://www.habitants.fr/habitants_bergerac_24037.html |title=Bergerac (24100) |publisher=habitants.fr |language=fr |access-date=1 April 2015 }} < /ref > 
+ 
+ With a population of 27,764 (2014), < ref name=insee > {{cite web |url=http://www.insee.fr/fr/statistiques/fichier/2525755/dep24.pdf |title=Régions, départements, arrondissements, cantons et communes |work= Populations légales 2014 |publisher=Institut national de la statistique et des études économiques - INSEE |format=PDF |language=fr |access-date=11 March 2017}} < /ref >  Bergerac has a [[population density]] of {{Pop density|27764|56.1|km2|prec=0|disp=num}} inhabitants/km < sup > 2 < /sup > . 
+ 
+ < center > 
+ '''Evolution of the population in Bergerac''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:30000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:5000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:2500 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1968 text:1968 
+  bar:1975 text:1975 
+  bar:1982 text:1982 
+  bar:1990 text:1990 
+  bar:1999 text:1999 
+  bar:2006 text:2006 
+  bar:2014 text:2014 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+  bar:1968 from:0 till: 27165 
+  bar:1975 from:0 till: 27764 
+  bar:1982 from:0 till: 26832 
+  bar:1990 from:0 till: 26899 
+  bar:1999 from:0 till: 26053 
+  bar:2006 from:0 till: 27716 
+  bar:2014 from:0 till: 27764 
+ 
+ PlotData= 
+  bar:1968 at: 27165 fontsize:S text: 27,165 shift:(-12,5) 
+  bar:1975 at: 27764 fontsize:S text: 27,764 shift:(-18,5) 
+  bar:1982 at: 26832 fontsize:S text: 26,832 shift:(-18,5) 
+  bar:1990 at: 26899 fontsize:S text: 26,899 shift:(-18,5) 
+  bar:1999 at: 26053 fontsize:S text: 26,053 shift:(-18,5) 
+  bar:2006 at: 27716 fontsize:S text: 27,716 shift:(-18,5) 
+  bar:2014 at: 27764 fontsize:S text: 27,764 shift:(-18,5) 
+ < /timeline > 
+ < /center > 
+ 
+ Bergerac forms with 22 other ''communes'', including four ''communes'' that are part of the [[Gironde]] department, < ref > {{cite web |url=https://www.insee.fr/fr/metadonnees/cog/unite-urbaine/UU201000553-bergerac |title=Unité urbaine de Bergerac (00553) |work=  Géographie administrative et d’étude |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=11 March 2017}} < /ref >  the [[urban area]] of Bergerac with a population of 64,968 inhabitants (2013) and an area of {{Convert|188.4|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=UU2010-00553 |title=Unité urbaine de Bergerac (00553) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=11 March 2017}} < /ref >  This urban area is the centre of the [[metropolitan area]] of Bergerac, formed by 67 ''communes'' with a population of 81,574 inhabitants and an area of {{Convert|870|km2|sqmi|abbr=on }}. < ref > {{cite web |url=https://www.insee.fr/fr/statistiques/1405599?geo=AU2010-109|title=Aire urbaine de Bergerac (109) |work= Comparateur de territoire |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=11 March 2017}} < /ref > 
+ 
+ ==Administration== 
+ Bergerac is a [[Prefectures in France|subprefecture]] of the [[Dordogne]] department since 1790, and the capital of the ''arrondissement'' of [[Arrondissement of Bergerac|Bergerac]]. 
+ 
+ The ''commune'' is the [[administrative centre]] ({{lang-fr|chef-lieu}}) of two [[Cantons of France|cantons]]: 
+ # '''Bergerac-1''', formed with a part of Bergerac; < ref > {{cite web|url=https://www.insee.fr/fr/metadonnees/cog/canton/CANTON2401-bergerac-1 |title=Canton de Bergerac-1 (2401) |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=11 March 2017 }} < /ref >  and 
+ # '''Bergerac-2''', formed with the remaining part of Bergerac and 9 other ''communes''. < ref > {{cite web|url=https://www.insee.fr/fr/metadonnees/cog/canton/CANTON2402-bergerac-2 |title=Canton de Bergerac-2 (2402) |publisher=Institut national de la statistique et des études économiques - INSEE |language=fr |access-date=11 March 2017 }} < /ref > 
+ 
+ It is part of the [[Communes of France|intercommunality]] ''Bergeracoise'' ({{lang-fr|Communauté d'agglomération bergeracoise}}). 
+ 
+ === Twin towns === 
+ Bergerac is [[Twin town|twinned]] with: < ref name= " annuaire "  / > < ref > {{cite web |url=http://www.bergerac.fr/Culture/Jumelages-Relations-internationales |title=Jumelages  &  Relations internationales |publisher=Ville de Bergerac |language=fr |access-date=1 April 2015 |archive-date=4 April 2015 |archive-url=https://web.archive.org/web/20150404231618/http://www.bergerac.fr/Culture/Jumelages-Relations-internationales |url-status=dead }} < /ref > 
+ * {{flagicon|ITA}} [[Faenza]], [[Province of Ravenna]], [[Italy]] 
+ * {{flagicon|CAN}} [[Repentigny, Quebec|Repentigny]], [[Quebec]], [[Canada]] 
+ 
+ ==Economy== 
+ Bergerac is known for its [[wine]]s and its [[tobacco]]. It has 12 recognized wine kinds that are ''[[Appellation d'origine contrôlée]]'' (AOC). 
+ 
+ ==Gallery== 
+ < center > 
+ < gallery widths=180px > 
+ File:Bergerac mairie.JPG|Bergerac town hall. 
+ File:Vieux Bergerac-2.jpg|Houses in the Old Bergerac. 
+ File:Bergerac pont D709 (1).JPG|Bergerac and the Dordogne river. 
+ File:P1060874 Vieux pont Bergerac.JPG |The old [[bridge]] of Bergerac. 
+ < /gallery > 
+ < /center > 
+ 
+ ==Related pages== 
+ * [[Arrondissement of Bergerac]] 
+ * [[Communes of the Dordogne department]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat}} 
+ * [http://www.www.ville-bergerac.fr/ Ville de Bergerac - Official site]{{Dead link|date=January 2021 |bot=InternetArchiveBot |fix-attempted=yes }} {{in lang|fr}} 
+ * [http://www.bergerac-tourisme.com/ Office de Tourisme Bergerac] {{in lang|fr}} 
+ * [http://www.dordogne.fr/ Departamental Council of Dordogne] {{in lang|fr}} 
+ * [http://www.dordogne.pref.gouv.fr/ Prefecture official website] {{in lang|fr}} 
+ * [https://www.nouvelle-aquitaine.fr/ Région Nouvelle-Aquitaine] {{in lang|fr}} 
+ {{authority control}} 
+ [[Category:Subprefectures in France]] 
+ [[Category:Communes in Dordogne]] 
+ [[Category:Wine regions of France]]

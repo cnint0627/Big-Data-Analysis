@@ -1,0 +1,101 @@
+{{Use dmy dates|date=February 2021}} 
+ {{Infobox settlement 
+ < !--See the Table at Infobox Settlement for all fields and descriptions of usage-- > 
+ < !-- Basic info  ---------------- > | name                     = Oshakati 
+ | population_density_km2   =  
+ | population_density_urban_sq_mi =  
+ | population_density_urban_km2 =  
+ | population_urban         =  
+ | population_density_metro_sq_mi =  
+ | population_density_metro_km2 =  
+ | population_metro         =  
+ | population_density_sq_mi =  
+ | population_total         = 36541 
+ | population_blank1        =  
+ | population_note          =  
+ | population_footnotes     =  < ref name=nsa > {{cite web | title=Table 4.2.2 Urban population by Census years (2001 and 2011) | url=http://cms.my.na/assets/documents/p19dmn58guram30ttun89rdrp1.pdf | work=Namibia 2011 - Population and Housing Census Main Report | publisher=Namibia Statistics Agency | access-date=24 August 2016 | page=39}} < /ref > 
+ | population_as_of         = 2011 
+ | area_total_sq_mi         =  < !-- Population   ----------------------- > 
+ | area_water_km2           =  
+ | area_land_km2            =  < !--See table @ Template:Infobox Settlement for details on automatic unit conversion-- > 
+ | area_total_km2           =  < !-- ALL fields dealing with a measurements are subject to automatic unit conversion-- > 
+ | population_blank1_title  = Ethnicities 
+ | population_density_blank1_km2 =  
+ | unit_pref                = Imperial  < !--Enter: Imperial, if Imperial (metric) is desired-- > 
+ | postal_code              =  
+ | footnotes                =  
+ | website                  =  
+ | blank1_info              =  
+ | blank1_name              =  
+ | blank_info               = [[Semi-arid climate#Hot semi-arid climates|BSh]] 
+ | blank_name               = [[Köppen climate classification|Climate]] 
+ | area_code                =  
+ | postal_code_type         =  < !-- enter ZIP code, Postcode, Post code, Postal code... -- > 
+ | population_density_blank1_sq_mi =  < !-- General information  --------------- > 
+ | elevation_ft             =  < !-- Area/postal codes  &  others -------- > 
+ | elevation_m              =  
+ | elevation_footnotes      =  < !--for references: use  < ref >   < /ref >  tags-- > 
+ | coordinates              = {{coord|17|47|1|S|15|41|57.8|E|region:NA|display=inline,title}} 
+ | utc_offset_DST           =  
+ | timezone_DST             =  
+ | utc_offset               = +2 
+ | timezone                 = [[South African Standard Time|SAST]] 
+ | area_footnotes           =  
+ | area_magnitude           =  
+ | other_name               =  
+ | image_seal               = Wappen Oshakati - Namibia.jpg 
+ | image_map                =  
+ | blank_emblem_size        =  
+ | blank_emblem_type        =  
+ | image_blank_emblem       =  
+ | shield_size              =  
+ | image_shield             =  
+ | seal_size                =  
+ | flag_size                =  
+ | map_caption              =  
+ | image_flag               =  
+ | image_caption            = New City Council building 
+ | imagesize                = 300px 
+ | image_skyline            = Oshakati Town Council.jpg 
+ | motto                    = Unity, Justice, Development 
+ < !-- images and maps  ----------- > | settlement_type          = town 
+ | nickname                 = shanangobe kashiiwa  nambelela 
+ | native_name              =  < !-- for cities whose native name is not in English -- > 
+ | mapsize                  =  
+ | pushpin_map              = Namibia  < !-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -- > 
+ | established_date         =  < !-- Area    --------------------- > 
+ | subdivision_name3        =  < !-- Politics ----------------- > 
+ | established_title        =  < !-- Settled -- > 
+ | leader_name1             =  
+ | leader_title1            =  < !-- for places with, say, both a mayor and a city manager -- > 
+ | leader_name              = ANGELUS Iyambo 
+ | leader_title             = Mayor 
+ | government_type          =  
+ | government_footnotes     =  
+ | subdivision_type3        =  
+ | pushpin_label_position   = bottom 
+ | subdivision_name2        = [[Oshakati East]] < br/ > [[Oshakati West]] 
+ | subdivision_type2        = [[Constituencies of Namibia|Constituency]] 
+ | subdivision_name1        = [[Oshana Region]] 
+ | subdivision_type1        = [[Regions of Namibia|Region]] 
+ | subdivision_name         = {{flag|Namibia}} 
+ | subdivision_type         = Country 
+ | pushpin_map_caption      = Located at the north of Namibia 
+ < !-- Location ------------------ > | pushpin_mapsize          = 300 
+ | official_name            =  
+ }} 
+   
+ [[File:NBC_Broadcasting_Tower_in_Oshakati.jpg|thumb|Broadcasting tower (275 Meter high) in Oshakati]] 
+ [[File:Oshakati_Observation_Tower_at_New_market_2016-1.jpg|thumb|Observation Tower Oshungo ya Shakati at the new market (48 m high)]] 
+ [[File:Oshakati_New_market_2016-2.jpg|thumb|The new  " Dr. Frans Aupa Indongo Open Market "  in Oshakati, opened on 11 March 2016 by the President]] 
+ [[File:Oshakati_street_market.JPG|thumb|The old open market of Oshakati at C46 (demolished in 2016)]] 
+ '''Oshakati''' is a town < ref > [http://www.amicaall.org/countries/alan.htm Alliance of Mayors and Municipal Leaders on HIV/AIDS in Africa] {{webarchive|url=https://web.archive.org/web/20081121025306/http://www.amicaall.org/countries/alan.htm|date=2008-11-21}} < /ref >  of 37,000 inhabitants in the [[Oshana Region]] of [[Namibia]]. It is the regional capital and was officially founded in July 1966.  The city was used as a base of operations by the [[South African Defence Force]] (SADF) during the [[South African Border War]]. 
+ 
+ Oshakati is divided into the electoral constituencies of [[Oshakati East]] and [[Oshakati West]]. 
+ ==References== 
+ < references / > 
+ {{reflist}} 
+ 
+ [[Category:Oshana Region]] 
+ [[Category:Towns in Africa]] 
+ [[Category:Settlements in Namibia]]

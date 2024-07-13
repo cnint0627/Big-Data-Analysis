@@ -1,0 +1,104 @@
+{{chembox 
+ | Name           = Indole 
+ | ImageFile_Ref  = {{chemboximage|correct|??}} 
+ | ImageFile      = Indole 2D numbered.svg 
+ | ImageSize      = 160 
+ | ImageAlt       = Skeletal formula with numbering scheme 
+ | ImageFileL1     = Indole-3D-balls-2.png 
+ | ImageSize1     = 155 
+ | ImageAlt1      = Ball-and-stick model of indole 
+ | ImageFileR1     = Indole-3D-spacefill.png 
+ | ImageSizeR1     = 145 
+ | ImageAltR1      = Space-filling model of indole 
+ | PIN            = 1''H''-Indole < ref > {{cite book |author=[[International Union of Pure and Applied Chemistry]] |date=2014 |title=Nomenclature of Organic Chemistry: IUPAC Recommendations and Preferred Names 2013 |publisher=[[Royal Society of Chemistry|The Royal Society of Chemistry]] |pages=213 |doi=10.1039/9781849733069 |isbn=978-0-85404-182-4}} < /ref > 
+ | OtherNames     = 2,3-Benzopyrrole, ketole, < br / > 1-benzazole 
+ | Section1       = {{Chembox Identifiers 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 16881 
+ | SMILES = C12=C(C=CN2)C=CC=C1 
+ | PubChem = 798 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | UNII = 8724FJW4M5 
+ | KEGG_Ref = {{keggcite|correct|kegg}} 
+ | KEGG = C00463 
+ | InChI = 1/C8H7N/c1-2-4-8-7(3-1)5-6-9-8/h1-6,9H 
+ | InChIKey = SIKJAQJRHWYJAI-UHFFFAOYAI 
+ | ChEMBL_Ref = {{ebicite|correct|EBI}} 
+ | ChEMBL = 15844 
+ | 3DMet = B01251 
+ | EC_number = 204-420-7 
+ | Beilstein = 107693 
+ | Gmelin = 3477 
+ | DrugBank = DB04532 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChI = 1S/C8H7N/c1-2-4-8-7(3-1)5-6-9-8/h1-6,9H 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | StdInChIKey = SIKJAQJRHWYJAI-UHFFFAOYSA-N 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | CASNo = 120-72-9 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | ChemSpiderID = 776 
+ | RTECS = NL2450000 
+  }} 
+ | Section2       = {{Chembox Properties 
+ | C=8 | H=7 | N=1 
+ | Appearance = White solid 
+ | Odor = Feces or jasmine like 
+ | Density = 1.1747 & nbsp;g/cm < sup > 3 < /sup > , solid 
+ | Solubility = 0.19 & nbsp;g/100 & nbsp;ml (20 & nbsp;°C) < br / > Soluble in hot water 
+ | MeltingPtC = 52 to 54 
+ | MeltingPt_notes =  
+ | BoilingPtC = 253 to 254 
+ | BoilingPt_notes =  
+ | pKa = 16.2 < !-- Joule  &  Mills -- > < br / > (21.0 in [[dimethyl sulfoxide|DMSO]]) < !-- http://www.chem.wisc.edu/areas/reich/pkatable/ -- > 
+ | pKb = 17.6 
+ | MagSus = -85.0·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol }} 
+ | Section3       = {{Chembox Structure 
+ | MolShape = Planar 
+ | CrystalStruct = Pna2 < sub > 1 < /sub > 
+ | Dipole = 2.11 & nbsp;[[Debye|D]] in [[benzene]] 
+  }} 
+ | Section7       = {{Chembox Hazards 
+ | ExternalSDS = [http://msds.chem.ox.ac.uk/IN/indole.html] 
+ | MainHazards = Skin sensitising 
+ | FlashPtC = 121 
+ | GHSPictograms = {{GHS06}}{{GHS07}} 
+ | GHSSignalWord = Danger 
+ | HPhrases = {{H-phrases|302|311}} 
+ | PPhrases = {{P-phrases|264|270|280|301+312|302+352|312|322|330|361|363|405|501}} 
+  }} 
+ | Section8       = {{Chembox Related 
+ | OtherCations = [[Indolium]] 
+ | OtherFunction_label = [[aromatic compound|aromatic < br / > compounds]] 
+ | OtherFunction = [[benzene]], [[benzofuran]], < br / > [[carbazole]], [[carboline]], < br / > [[indene]], [[benzothiophene]], < br / > [[indoline]], < br / > [[isatin]], [[methylindole (disambiguation)|methylindole]], < br / > [[oxindole]], [[pyrrole]], < br / > [[skatole]], [[benzophosphole]]}} 
+ }} 
+ '''Indole''' (a blending of the terms ''[[indigo]]'' and ''[[oleum]]'') is an [[organic compound]]. The chemical can be found in many places in nature. It can be produced by [[bacteria]]. At [[room temperature]], indole is a [[solid]]. 
+ 
+ Indole is found in some [[vegetable]]s. They include [[broccoli]], [[cauliflower]] and [[cabbage]]. < ref > {{cite document|title=Indole as Defined|work=The National Cancer Institutes|url=https://www.cancer.gov/publications/dictionaries/cancer-terms/def/indole|access-date=December 26, 2021}} < /ref >  It is also in human [[feces]]. It has a strong fecal [[odor]]. In low concentration indole has a flowery smell. Indole is in [[perfume]]s. < ref > {{cite web|title=Olefactory Perception with Humans|publisher=The National Centers for Biotechnology Information|url=https://www.ncbi.nlm.nih.gov/books/NBK11032|access-date=December 26, 2021}} < /ref > 
+ 
+ ==Related pages== 
+ *[[Organic compound]] 
+ *[[Feces]] 
+ 
+ ==References== 
+ {{reflist}} 
+ ===General references=== 
+ * {{cite book|title=Indoles Part One|editor-first=W. J.|editor-last=Houlihan|publisher=Wiley Interscience|location=New York|date=1972}}{{ISBN missing}} 
+ * {{cite book|first=R. J.|last=Sundberg|year=1996|title=Indoles|publisher=Academic Press|location=San Diego|isbn=978-0-12-676945-6}} 
+ * {{cite book|first=J. A.|last=Joule|author2=Mills, K.|year=2000|title=Heterocyclic Chemistry|url=https://archive.org/details/heterocyclicchem0000joul_c5f0|publisher=Blackwell Science|location=Oxford, UK|isbn=978-0-632-05453-4}} 
+ * {{cite book|last=Joule|first=J.|title=Science of Synthesis|editor-first=Thomas|editor-last=E. J.|publisher=Thieme|location=Stuttgart|date=2000|volume=10|page=361|isbn=978-3-13-112241-4}} 
+ * {{Cite journal|last1=Schoenherr|first1=H.|last2=Leighton|first2=J. L.|title=Direct and Highly Enantioselective Iso-Pictet-Spengler Reactions with α-Ketoamides: Access to Underexplored Indole Core Structures|journal=Org. Lett.|date=2012|volume=14|issue=10|pages=2610–3|doi=10.1021/ol300922b|pmid=22540677}} 
+ 
+ ==Other websites== 
+ {{Commons category|1H-Indole}} 
+ * [https://www.organic-chemistry.org/synthesis/heterocycles/benzo-fused/indoles.shtm Synthesis of indoles (overview of recent methods)] 
+ * [http://www.chemsynthesis.com/ring-fused/indoles/page-1.html Synthesis and properties of indoles] at chemsynthesis.com 
+ 
+ {{Alkaloids}} 
+ {{Simple aromatic rings}} 
+ {{Authority control}} 
+ 
+ [[Category:Organonitrogen compounds]] 
+ 
+ 
+ {{chem-stub}}

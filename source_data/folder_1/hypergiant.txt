@@ -1,0 +1,66 @@
+[[File:V382 Carinae.jpg|thumb|Hypergiant [[V382 Carinae]]]] 
+ 
+ A '''hypergiant''' (luminosity class '''0''') is a [[star]] with an enormous [[mass]] and [[luminosity]], It shows  signs of a very high rate of [[mass]] loss.  The exact [[definition]] is not yet settled. 
+ 
+ Hypergiants are the largest [[star]]s in the [[universe]], usually larger and brighter than [[supergiants]]. < ref > However, note the definition is for huge luminosity and rapid mass loss, not simply size. < /ref >  The hypergiant with the largest known [[diameter]] is [[WOH G64]] < ref > {{cite journal | url=https://doi.org/10.1093%2Fmnras%2Fstx1101 | doi=10.1093/mnras/stx1101 | title=The SAGE-Spec Spitzer Legacy program: The life-cycle of dust and gas in the Large Magellanic Cloud. Point source classification – III | date=2017 | last1=Jones | first1=O. C. | last2=Woods | first2=P. M. | last3=Kemper | first3=F. | last4=Kraemer | first4=K. E. | last5=Sloan | first5=G. C. | last6=Srinivasan | first6=S. | last7=Oliveira | first7=J. M. | last8=Van Loon | first8=J. Th. | last9=Boyer | first9=M. L. | last10=Sargent | first10=B. A. | last11=McDonald | first11=I. | last12=Meixner | first12=M. | last13=Zijlstra | first13=A. A. | last14=Ruffle | first14=P. M. E. | last15=Lagadec | first15=E. | last16=Pauly | first16=T. | last17=Sewiło | first17=M. | last18=Clayton | first18=G. C. | last19=Volk | first19=K. | journal=Monthly Notices of the Royal Astronomical Society | volume=470 | issue=3 | pages=3250–3282 }} < /ref >  which is about 1,540 times wider than the [[Sun]].  
+ 
+ Another large hypergiant is [[VY Canis Majoris]], about 1,420 times wider than the [[Sun]]. It is one of the extreme luminous supergiant stars.  
+ 
+ Just as supergiants evolve from massive stars that were once [[main sequence]] stars (between 8 to 22 solar masses, one solar mass being the mass of the Sun), hypergiants were once main-sequence stars that were more massive. 
+ 
+ Hypergiants are very hard to find and they have a short lifespan because of their size. While the Sun has a lifespan of around 10 billion years, hypergiants will only exist for a few million years. 
+ 
+ == Spectrum == 
+ [[Image:Pistol star and nebula.jpg|thumb|The [[Pistol Star]]: false-color image of the LBV Pistol Star and the Pistol Nebula]] 
+ 
+ There are two special groups: [[luminous blue variable]]s (LBV), and [[yellow hypergiant]]s. Both of these types are very rare, with only a few examples in the [[Milky Way]] galaxy. Their rareness is probably because each type passes through this stage quite rapidly. 
+ 
+ == Stability == 
+ [[Image:New View of the Great Nebula in Carina.jpg|thumb|Great nebula in Carina, surrounding the LBV Eta Carinae]] 
+ 
+ As [[luminosity]] of stars increases greatly with mass, the luminosity of hypergiants often lies very close to the [[Eddington limit]]. This is the luminosity at which the force of the star's [[gravity]] equals the [[radiation pressure]] outward.  
+ 
+ This means that the radiative [[flux]] passing through the [[photosphere]] of a hypergiant may be nearly strong enough to lift away the photosphere. Above the Eddington limit, the star would generate so much radiation that parts of its outer layers would be thrown off in massive outbursts. This would effectively restrict the star from shining at higher luminosities for longer periods. 
+ 
+ A good candidate for hosting a continuum-driven wind is [[Eta Carinae]], one of the most massive stars ever observed. Its mass is about 130 [[solar mass]]es and its luminosity four million times that of the [[Sun]]. Eta Carinae may occasionally exceed the Eddington limit. < ref > 
+ {{cite journal|last1=Owocki |first1=S.P.  &  van Marle A.J. 2007 |title=Luminous Blue Variables  &  mass loss near the Eddington Limit|journal=Proceedings of the International Astronomical Union|year=2007 |volume=3 |pages=71–83|arxiv=0801.2519|bibcode=2008IAUS..250...71O|doi=10.1017/S1743921308020358|s2cid=15032961 }} < /ref >  The last time might have been outbursts observed in 1840–1860. These reached mass loss rates much higher than stellar winds would normally allow. < ref > 
+ {{cite journal 
+  |title=A porosity-length formalism for photon-tiring limited mass loss from stars above the Eddington limit|last=Owocki S.P; Gayley K.G.  &  Shaviv N.J. 2004|journal=The Astrophysical Journal|year=2004|volume=616|issue=1 |pages=525–541|arxiv=astro-ph/0409573|bibcode=2004ApJ...616..525O|doi=10.1086/424910|s2cid=2331658}} < /ref > 
+ 
+ Another theory to explain the massive outbursts of Eta Carinae is the idea of a deeply situated hydrodynamic explosion, blasting off parts of the star’s outer layers. The idea is that the star, even at luminosities below the Eddington limit, would have insufficient [[heat convection]] in the inner layers, resulting in a density inversion potentially leading to a massive explosion. The theory has, however, not been explored very much, and it is uncertain whether this really can happen. < ref > {{cite journal |last=Smith N.  &  Owocki S.P. 2006 |title=On the role of continuum driven eruptions in the evolution of very massive stars and population III stars|journal=The Astrophysical Journal|year=2006|volume=645 |issue=1 |pages=L45–L48|arxiv=astro-ph/0606174|bibcode=2006ApJ...645L..45S|doi=10.1086/506523 
+ |s2cid=15424181}} < /ref > 
+ 
+ == Examples == 
+ === Blue hypergiants === 
+ * [[Zeta1 Scorpii]] 
+ * [[BP Crucis]] 
+ * [[Pistol Star]] 
+ * [[Eta Carinae]] 
+ 
+ === Luminous blue variables (LBVs) === 
+ * [[P Cygni]] 
+ * [[S Doradus]] 
+ * [[LBV 1806-20]] 
+ * [[AG Carinae]] 
+ 
+ === Yellow hypergiants === 
+ * [[Rho Cassiopeiae]] 
+ * [[V509 Cassiopeiae]] 
+ * [[HR 5171]] 
+ * [[V382 Carinae]] 
+ 
+ === Red hypergiants === 
+ * [[Mu Cephei]] (the Garnet Star) 
+ * [[NML Cygni]] 
+ * [[VY Canis Majoris]] 
+ * [[WOH G64]] 
+ * [[RW Cephei]] 
+ * [[VX Sagittarii|VX Sagitarii]] 
+ 
+ == Related pages == 
+ *[[List of largest stars]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Hypergiants| ]]

@@ -1,0 +1,213 @@
+{{automatic taxobox 
+ | name                    = Ants 
+ | fossil_range            = 100 mya{{ndash}}present. < ref name= " phyl2006 " > {{cite journal | vauthors = Moreau CS, Bell CD, Vila R, Archibald SB, Pierce NE | title = Phylogeny of the ants: diversification in the age of angiosperms | journal = Science | volume = 312 | issue = 5770 | pages = 101–4 | date = April 2006 | pmid = 16601190 | doi = 10.1126/science.1124891 | bibcode = 2006Sci...312..101M | s2cid = 20729380 }} < /ref >  [[Lower Cretaceous]] & nbsp;– [[Holocene|Present]] 
+ | image                   = Fire ants 01.jpg 
+ | image_caption           = A group of [[fire ant]]s. 
+ | taxon                   = Formicidae 
+ | authority               = [[Pierre André Latreille|Latreille]], 1809 
+ | type_species            = ''[[Lasius niger]]'' 
+ | type_species_authority  = [[Carl Linnaeus|Linnaeus]], [[Systema Naturae|1758]] 
+ 
+ {{hidden|headerstyle=background:#D3D3A4; text-size:90%;|[[Cladogram]] of < br >  subfamilies| 
+ {{clade|style=font-size:75%;line-height:75% 
+ |1={{clade 
+ |1=[[Martialinae]] 
+ |2=[[Leptanillinae]] 
+ |3=[[Amblyoponinae]] 
+ |4=[[Paraponerinae]] 
+ |5=[[Agroecomyrmecinae]] 
+ |6=[[Ponerinae]] 
+ |7=[[Proceratiinae]] 
+ |8={{clade 
+ |1={{clade 
+ |1={{clade 
+ |1=Ecitoninae‡ 
+ |2=Aenictinae‡ 
+ |3={{clade 
+ |1=[[Dorylini]]‡ 
+ |2=Aenictogitoninae‡ 
+ }} 
+ }} 
+ |2=Cerapachyinae‡* 
+ |3=Leptanilloidinae‡ 
+ }} 
+ |2={{clade 
+ |1={{clade 
+ |1={{clade 
+ |1=[[Dolichoderinae]] 
+ |2=[[Aneuretinae]] 
+ }} 
+ |2={{clade 
+ |1=[[Pseudomyrmecinae]] 
+ |2=[[Myrmeciinae]] 
+ }} 
+ }} 
+ |2={{clade 
+ |1={{clade 
+ |1=[[Ectatomminae]] 
+ |2=[[Heteroponerinae]] 
+ }} 
+ |2=[[Myrmicinae]] 
+ |3=[[Formicinae]] 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ < small > A [[phylogeny]] of the living ant [[subfamily|subfamilies]]. < ref > {{cite journal |last=Ward | first = Philip S |title=Phylogeny, classification, and species-level taxonomy of ants (Hymenoptera: Formicidae) | journal = [[Zootaxa]] | volume = 1668 | year=2007 |pages=549–563| doi = 10.11646/zootaxa.1668.1.26 | url=http://www.mapress.com/zootaxa/2007f/zt01668p563.pdf }} < /ref > < ref name= " martialis " > {{cite journal|vauthors=Rabeling C, Brown JM, Verhaagh M |year=2008|title=Newly discovered sister lineage sheds light on early ant evolution|journal=PNAS |doi=10.1073/pnas.0806187105 |volume=105 |pmid=18794530 |issue=39|pmc=2567467 |bibcode=2008PNAS..10514913R|pages=14913–7 |doi-access=free}} < /ref > < br / > 
+ < nowiki > * < /nowiki > Cerapachyinae is [[paraphyletic]] < br > 
+ ‡ The previous dorylomorph subfamilies were synonymized under [[Dorylinae]] by Brady ''et al.'' in 2014 < ref name= " Brady_et_al_2014 " > {{cite journal | last1 = Brady | first1 = Seán G  | last2 =Fisher | first2 = Brian L | last3 =Schultz | first3 = Ted R | last4 =Ward | first4 = Philip S | year = 2014 | title = The rise of army ants and their relatives: diversification of specialized predatory doryline ants | journal = BMC Evolutionary Biology | volume = 14 | issue =  | pages = 2–14 | jstor =  | doi = 10.1186/1471-2148-14-93 | pmid = 24886136 | pmc = 4021219 | doi-access = free }} < /ref > < /small > 
+ }} 
+ }} 
+ [[File:Ant guards its Aphids.jpg|thumb|right|230px|An example of [[symbiosis]]: the ant protects the [[aphid]]s and [[harvest]]s their [[sugar]]y [[excretion]].]] 
+ 
+ '''Ants''' are a kind of [[insect]] that [[Society|lives together]] in large [[colony (biology)|colonies]]. They are the [[family (biology)|family]] '''Formicidae'''. < ref > {{pron-en|fɔrˈmɪsɨdiː}}). The word ''ant'' comes from ''{{lang|enm|ante}}'', a [[Middle English]] which comes from ''{{lang|ang|æmette}}'' of [[Old English]] and is related to the Old High German ''{{lang|goh|āmeiza}}''. All of these words come from West Germanic ''*{{lang|gmw|amaitjo}}''. It meant  " the biter "  (from ''*{{lang|gem|ai-}}'',  " off, away "  and ''*{{lang|gem|mait-}}''  " cut " ). {{cite web 
+ |url=http://www.merriam-webster.com/dictionary/ant|title= " ant " . Merriam-Webster Online Dictionary 
+ |accessdate=6 June 2008|publisher=Merriam-Webster}} < /ref > < ref > {{cite web|url=http://www.etymonline.com/index.php?term=ant|title=Ant. Online Etymology Dictionary|accessdate=30 May 2009}} The family name ''Formicidae'' is from the [[Latin]] word ''{{lang|la|formīca}}'' ( " ant " ). {{cite book 
+ | author = Simpson DP| title = Cassell's Latin Dictionary| publisher = Cassell Ltd| year = 1979 
+ | edition = 5| location = London| isbn=978-0-304-52257-6}} The word  " ant "  in other languages such as the Portuguese ''{{lang|pt|formiga}}'', Italian ''{{lang|it|formica}}'', Spanish ''{{lang|es|hormiga}}'', Romanian ''{{lang|ro|furnică}}'' and French ''{{lang|fr|fourmi}}'' come from the Latin word. < /ref > 
+ 
+ Ants are a lot like [[bee]]s and [[wasp]]s. They all came from the same kind of animal a long time ago, but now they are different. There are about 22,000 [[Species|different kinds]] of ants, but we have only documented 12,500. < ref > {{cite book| last = Bolton| first = Barry| title = A new General Catalogue of the Ants of the World| url = https://archive.org/details/newgeneralcatalo0000bolt| year = 1995| publisher = Harvard University Press| isbn = 978-0-674-61514-4 }} 
+ < /ref > < ref > {{cite web |url=http://atbi.biosci.ohio-state.edu:210/hymenoptera/tsa.sppcount?the_taxon=Formicidae |title=Hymenoptera name server. Formicidae species count. |publisher=Ohio State University |access-date=2010-12-06 |archive-date=2008-06-18 |archive-url=https://web.archive.org/web/20080618144615/http://atbi.biosci.ohio-state.edu:210/hymenoptera/tsa.sppcount?the_taxon=Formicidae |url-status=dead }} < /ref > < ref > {{cite book  |authors=Agosti D, Johnson N.F |title = La nueva taxonomía de hormigas. Pages 45-48 in Fernández, F. Introducción a las hormigas de la región neotropical.  |publisher = Instituto Humboldt, Bogotá  |year = 2003|url= http://antbase.org/ants/publications/20973/20973.pdf}} < /ref >  Every kind of ant has a thin middle, called a [[thorax]], and two long rods on their heads called [[Antenna (biology)|antennae]]. 
+ 
+ Ants live in [[Colony (biology)|groups]] that can be big or small. Some kinds of ants live in small groups and [[Predation|eat other animals]]. Some ants work together in very big groups. These groups can have millions of ants in them that travel outside every day in a big area. Ants are small, but they are very strong. Some ants are strong enough to carry things that are as heavy as 10 times their own weight. Some ants are called workers. Workers dig [[tunnel]]s and carry food back to the colony so that other ants and the queen ant can [[Eating|eat]]. < ref > {{cite news|url=https://www.nytimes.com/2008/07/15/science/15wils.html|accessdate=15 July 2008|title=Taking a cue from ants on evolution of humans|first=Nicholas|last=Wade|work=New York Times|date=15 July 2008}} < /ref >  The Queen ant is the mother of all the ants in the colony. She is the only non-worker ant. 
+ 
+ == Colonies == 
+ The groups that ants live in are called colonies. A colony has a [[female]] ant called a [[queen]] which lays [[egg (biology)|eggs]]. Those eggs will grow into more ants. Big colonies of ants have different kinds of ants that grow from the eggs. These are called different castes of ants. Some are ''workers'' which do jobs like carrying and digging, and ''soldiers'' which fight other animals. Worker and soldier ants are females. Another type of ant are ''drones'' which are male ants. < ref > {{cite book|title=Caste and ecology in the social insects|last1=Oster|first1=George F.|last2=Wilson|first2=Edward O.|journal=Monographs in Population Biology|publisher=Princeton University Press, Princeton|year=1978|volume=12|isbn=978-0-691-02361-8|pages=21–22|pmid=740003}} < /ref > 
+ 
+ Really big ant colonies are sometimes called ''superorganisms''. This means the ants work together so well that they are like little parts of one big animal. Ants cannot live by themselves for very long because they need to work with other ants. < ref > {{cite book| last1 = Oster| first1 = George F.| last2 = Wilson| first2 = Edward O.| title = Caste and ecology in the social insects| journal = Monographs in Population Biology| year = 1978| volume = 12| publisher = Princeton University Press, Princeton| isbn = 978-0-691-02361-8| pages = 21–22 | pmid = 740003}} < /ref > < ref name= " Flannery2011 " > {{cite book| last = Flannery| first = Tim| title = A Natural History of the Planet| year = 2011| publisher = [[Grove/Atlantic, Inc.]]| isbn = 978-0-8021-9560-9| page = 79 }} < /ref > 
+ 
+ Ants have colonies almost everywhere on [[Earth|planet Earth]].  [[Antarctica]] lacks ants because it's very cold and there's not much food. Small [[island]]s may not have ants. 
+ 
+ == Evolution == 
+ [[File:Ants in amber.jpg|thumb|right|Ants fossilised in [[Baltic amber]]]] 
+ 
+ The family Formicidae belongs to the order [[Hymenoptera]], which also includes [[bee]]s, [[sawflies]] and [[wasp]]s. Ants evolved from a lineage within the [[Vespoidea|vespoid]] wasps. 
+ 
+ [[Phylogenetic]] analysis suggests that ants arose in the [[Lower Cretaceous]] period about 110 to 130 & nbsp;million years ago, or even earlier. One estimate from DNA studies places the origin of ants at ≈140 million years ago (mya). < ref > Brady S.G. 2003. ''Evolution of the army ant syndrome: the origin and long-term evolutionary stasis of a complex of behavioral and reproductive adaptations''. Proc. Natl. Acad. Sci. USA. '''100''', 6575–6579.[http://www.pnas.org/content/100/11/6575.abstract?ijkey=8516764ca1ec14ae5b2ac72f8208878dbc70b05f & keytype2=tf_ipsecsha Evolution of the army ant syndrome: The origin and long-term evolutionary stasis of a complex of behavioral and reproductive adaptations  & #124; PNAS] < /ref >  Another study puts it in the [[Jurassic]] at 185 ± 36 mya (95% confidence limits). < ref > Crozier R.H, Jermiin L.S.  &  Chiotis M. 1997. Molecular evidence for a Jurassic origin of ants. ''Naturwissenschaften'' '''84''', 22–23. < /ref > 
+ 
+ After the rise of [[flowering plant]]s about 100 & nbsp;million years ago ants diversified. They became ecologically dominant about 60 & nbsp;million years ago. < ref name= " grimaldi2001 " > {{cite journal 
+ |author=Grimaldi D, Agosti D 
+ |year=2001 
+ |title=A formicine in New Jersey Cretaceous amber (Hymenoptera: Formicidae) and early evolution of the ants 
+ |journal=Proceedings of the National Academy of Sciences 
+ |volume=97 
+ |pages=13678–13683 
+ | doi = 10.1073/pnas.240452097 
+ |pmid=11078527 
+ |issue=25 
+ |pmc=17635|doi-access=free 
+ }} < /ref > < ref > {{cite journal 
+ |journal=Science 
+ |url=http://www.sciencemag.org/cgi/content/abstract/312/5770/101 
+ | doi = 10.1126/science.1124891 
+ |title=Phylogeny of the ants: diversification in the Age of Angiosperms 
+ |author=Moreau CS |display-authors = etal |volume=312 
+ |issue=5770 
+ |pages=101–104 
+ |year=2006 
+ |pmid=16601190|bibcode=2006Sci...312..101M 
+ |s2cid=20729380 
+ }} < /ref > < ref name= " riseofants " > {{cite journal 
+ | volume = 102 
+ | issue = 21 
+ | pages = 7411–7414 
+ | author= Wilson E.O, Hölldobler B 
+ | title = The rise of the ants: A phylogenetic and ecological explanation 
+ | journal = Proceedings of the National Academy of Sciences 
+ | doi = 10.1073/pnas.0502264102 
+ | year = 2005 
+ | pmid = 15899976 
+ | pmc = 1140440| bibcode = 2005PNAS..102.7411W 
+ | doi-access = free 
+ }} < /ref > 
+ 
+ In 1966 E.O. Wilson and his colleagues identified the [[fossil]] remains of an ant (''Sphecomyrma freyi'') from the Cretaceous period. The specimen, trapped in amber [[radioactive dating|dating]] back to more than 80 & nbsp;million years ago, has features of both ants and wasps. < ref > {{cite journal 
+ |author=Wilson E.O., Carpenter FM, Brown WL 
+ |title=The first Mesozoic ants 
+ |journal=Science 
+ |year=1967 
+ |volume=157 
+ |pages=1038–1040 
+ | doi = 10.1126/science.157.3792.1038 
+ |pmid=17770424 
+ |issue=3792|bibcode=1967Sci...157.1038W 
+ |s2cid=43155424 
+ }} < /ref >  ''Sphecomyrma'' was probably a ground forager but some suggest that primitive ants were likely to have been predators underneath the surface of the soil. 
+ 
+ During the Cretaceous period, a few species of primitive ants ranged widely on the [[Laurasia]]n super-continent (the northern hemisphere). They were scarce in comparison to other insects, representing about 1% of the insect population. 
+ 
+ Ants became dominant after [[adaptive radiation]] at the beginning of the [[Cainozoic]]. By the [[Oligocene]] and [[Miocene]] ants had come to represent 20-40% of all insects found in major fossil deposits. Of the species that lived in the [[Eocene]] epoch, approximately one in ten genera survive to the present. Genera surviving today comprise 56% of the genera in [[Baltic amber]] fossils (early Oligocene), and 92% of the genera in [[Dominican Republic|Dominican]] amber fossils (apparently early Miocene). < ref name= " grimaldi2001 " / > < ref name= " Ants " > {{cite book| last1 = Holldobler| first1 = Bert| last2 = Wilson| first2 = Edward O.| title = The Ants| year = 1998| publisher = Springer| isbn = 978-3-540-52092-4 }} < /ref > < sup > p23 < /sup > 
+ 
+ [[Termite]]s, though sometimes called ''white ants'', are not ants and belong to the order [[Isoptera]]. Termites are actually more closely related to [[cockroach]]es and [[Praying mantis|mantid]]s. Termites are [[eusociality|eusocial]] but differ greatly in the genetics of reproduction. The similar social structure is attributed to [[convergent evolution]]. < ref > {{cite journal|last=Thorne|first=Barbara L|year=1997|title=Evolution of eusociality in termites|journal=Annu. Rev. Ecol. Syst.|volume=28|issue=5 |pages=27–53|url=http://www.thornelab.umd.edu/Termite_PDFS/EvolutionEusocialityTermites.pdf|doi=10.1146/annurev.ecolsys.28.1.27|pmc=349550 |access-date=2010-12-07|archive-date=2010-05-30|archive-url=https://web.archive.org/web/20100530162505/http://www.thornelab.umd.edu/Termite_PDFS/EvolutionEusocialityTermites.pdf|url-status=dead}} < /ref >  [[Mutillidae|Velvet ant]]s look like large ants, but are wingless female [[wasp]]s. < ref > {{cite web 
+ |url=http://bugguide.net/node/view/69 
+ |title=Order Isoptera - Termites 
+ |accessdate=12 June 2008 
+ |publisher=Iowa State University Entomology 
+ |date=2004}} 
+ < /ref > < ref > {{cite web 
+ |url=http://bugguide.net/node/view/159/ 
+ |title=Family Mutillidae - Velvet ants 
+ |accessdate=12 June 2008 
+ |publisher=Iowa State University Entomology 
+ |date=2004}} < /ref > 
+ 
+ == Development and reproduction == 
+ [[File:Meat eater ant nest swarming02.jpg|thumb|Meat eater ant nest during swarming.]] 
+ 
+ The life of an ant starts from an [[egg (biology)|egg]]. If the egg is fertilised, the progeny will be female ([[diploid]]); if not, it will be male ([[haploid]]). Ants develop by [[complete metamorphosis]] with the [[larva]]l stages passing through a [[pupa]]l stage before emerging as an adult. The larva is fed and cared for by workers. 
+ 
+ Food is given to the larvae by [[trophallaxis]], a process in which an ant [[Regurgitation|regurgitates]] liquid food held in its [[Crop (anatomy)|crop]]. This is also how adults share food, stored in the 'social stomach', among themselves. 
+ 
+ Larvae may also be given solid food brought back by foraging workers, and may even be taken to captured prey in some species. The larvae grow through a series of [[moult]]s and enter the pupal stage. < ref > {{cite book| last = Gillott| first = Cedric| title = Entomology| year = 1995| publisher = Springer| isbn = 978-0-306-44967-3| page = 325 }} < /ref > 
+ 
+ The differentiation into queens and workers (which are both female), and different [[Polyphenism|caste]]s of workers, is influenced in some species by the food the larvae get. [[Genetics|Genetic]] influences, and the control of [[gene expression]] by the feeding are complex. The determination of caste is a major subject of research. < ref name=Ants/ > < sup > p351, 372 < /sup > < ref > {{cite journal|title=The causes and consequences of genetic caste determination in ants (Hymenoptera: Formicidae)|first1=Kirk E.|last1=Anderson|first2=Timothy A.|last2=Linksvayer|first3=Chris R.|last3=Smith|journal=Myrmecol. News|volume=11|pages=119–132|year=2008|url=http://myrmecologicalnews.org/cms/images/pdf/volume11/mn11_119-132_non-printable.pdf|access-date=2010-12-07|archive-date=2011-07-27|archive-url=https://web.archive.org/web/20110727104749/http://myrmecologicalnews.org/cms/images/pdf/volume11/mn11_119-132_non-printable.pdf|url-status=dead}} < /ref > 
+ 
+ A new worker spends the first few days of its adult life caring for the queen and young. It then does digging and other nest work, and later, defends the nest and forages. These changes are sometimes fairly sudden, and define what are called ''temporal castes''. An explanation for the sequence is suggested by the high casualties involved in foraging, making it an acceptable risk only for ants that are older and are likely to die soon of natural causes. < ref > {{cite journal|journal=Annual Review of Entomology|year=1989|volume=34|pages=191–210|title=Foraging strategies of ants|url=https://archive.org/details/sim_annual-review-of-entomology_1989_34/page/191|author=Traniello JFA|doi=10.1146/annurev.en.34.010189.001203}} < /ref > < ref > {{cite journal|author=Sorensen A, Busch TM, Vinson SB|title=Behavioral flexibility of temporal sub-castes in the fire ant, ''Solenopsis invicta'', in response to food|journal=Psyche|volume=91|pages=319–332|year=1984|issue=3–4|doi=10.1155/1984/39236|doi-access=free}} < /ref > 
+ 
+ === Mating === 
+ Most ant species have a system in which only the queen and breeding females can mate. Contrary to popular belief, some ant nests have multiple queens ([[polygyny]]). The life history of ''Harpegnathos saltator'' is 
+ exceptional among ants because both queens and some workers 
+ reproduce sexually. < ref > {{cite journal|author=Peeters C, Holldobler B|year=1995|journal=Proceedings of the National Academy of Sciences|volume=92|pages=10977–10979|url=http://www.pnas.org/cgi/reprint/92/24/10977.pdf|title=Reproductive cooperation between queens and their mated workers: The complex life history of an ant with a valuable nest|doi=10.1073/pnas.92.24.10977|pmid=11607589|issue=24|pmc=40553|bibcode=1995PNAS...9210977P|doi-access=free}} < /ref > 
+ 
+ The winged male ants, called ''drones'', emerge from pupae with the breeding females (although some species, like [[army ant]]s, have wingless queens), and do nothing in life except eat and mate. 
+ 
+ ==== The nuptial flight ==== 
+ Most ants produce a new generation each year. < ref name= " bloodywasp " > {{cite book|last=Taylor|first=Richard W.|year=2007 |chapter=Bloody funny wasps! Speculations on the evolution of eusociality in ants|pages=580–609|editor=Snelling R.R., B.L. Fisher,  &  P S. Ward|title=Advances in ant systematics (Hymenoptera: Formicidae): homage to E.O. Wilson – 50 years of contributions. Memoirs of the American Entomological Institute, 80|publisher=American Entomological Institute}} < /ref >  During the species specific breeding period, new reproductives, winged males and females leave the colony in what is called a ''nuptial flight''. Typically, the males take flight before the females. Males then use visual cues to find a common mating ground, for example, a landmark such as a pine tree to which other males in the area converge. Males secrete a mating [[pheromone]] that females follow. Females of some species mate with just one male, but in some others they may mate with anywhere from one to ten or more different males. < ref name=Ants/ >  Mated females then seek a suitable place to begin a colony. There, they break off their wings and begin to lay and care for eggs. The females store the [[Spermatozoon|sperm]] they obtain during their nuptial flight to selectively fertilise future eggs. 
+ 
+ The first workers to hatch are weak and smaller than later workers, but they begin to serve the colony immediately. They enlarge the nest, forage for food and care for the other eggs. This is how new colonies start in most species. Species that have multiple queens may have a queen leaving the nest along with some workers to found a colony at a new site, < ref name =Ants/ > < sup > p143 < /sup >  a process akin to [[swarm]]ing in [[honeybee]]s. 
+ 
+ [[File:FlyingAnts.jpg|thumb|Ants mating.]] 
+ A wide range of reproductive strategies have been noted in ant species. Females of many species are known to be capable of reproducing asexually through [[parthenogenesis]], < ref > {{cite journal|last1=Heinze|first1=Jurgen|year=1995|title=Ant reproductive strategies|journal=Res. Popul. Ecol.|volume=37|issue=2|pages=135–149|url=http://meme.biology.tohoku.ac.jp/POPECOL/RP%20PDF/37(2)/pp.135.pdf|doi=10.1007/BF02515814|last2=Tsuji|first2=Kazuki|s2cid=21948488|access-date=2010-12-07|archive-date=2011-05-27|archive-url=https://web.archive.org/web/20110527051529/http://meme.biology.tohoku.ac.jp/POPECOL/RP%20PDF/37(2)/pp.135.pdf|url-status=dead}} < /ref >  and one species, ''Mycocepurus smithii'' is known to be all-female. < ref > {{cite journal|last1=Himler|first1=Anna G.|title=No sex in fungus-farming ants or their crops|journal=Proc. R. Soc. B |year=2009|doi=10.1098/rspb.2009.0313|volume=276|pmid=19369264|last2=Caldera|first2=EJ|last3=Baer|first3=BC|last4=Fernández-Marín|first4=H|last5=Mueller|first5=UG|issue=1667|pages=2611–2616|pmc=2686657}} < /ref > 
+ 
+ Ant colonies can be long-lived. The queens can live for up to 30 & nbsp;years, and workers live from 1 to 3 & nbsp;years. Males, however, are more transitory, and survive only a few weeks. < ref > {{cite journal |author=Keller L|year=1998 |title=Queen lifespan and colony characteristics in ants and termites |journal=Insectes Sociaux |volume=45 |issue=3 |pages=235–246 |doi=10.1007/s000400050084|s2cid=24541087 }} < /ref >  Ant queens are estimated to live 100 times longer than solitary insects of a similar size. < ref name= " insencyc " > {{cite book| last1 = Resh| first1 = Vincent H.| last2 = Carde| first2 = Ring T.| title = Encyclopedia of Insects| url = https://archive.org/details/encyclopediainse00resh_171| year = 2003| publisher = Academic Press| location = San Diego| isbn = 978-0-12-586990-4| pages = [https://archive.org/details/encyclopediainse00resh_171/page/n57 29]–32}} < /ref > 
+ 
+ Ants are active all year long in the tropics but, in cooler regions, survive the winter in a state of dormancy or inactivity. The forms of inactivity are varied and some temperate species have larvae going into the inactive state ([[diapause]]), while in others, the adults alone pass the winter in a state of reduced activity. < ref > {{cite journal|author=Kipyatkov V.E|year=2001|title=Seasonal life cycles and the forms of dormancy in ants (Hymenoptera, Formicoidea)|journal=Acta Societatis Zoologicae Bohemicae|volume=65|issue=2|pages=198–217}} < /ref > 
+ 
+ == Uses == 
+ It may seem strange that ants have uses, but there are some. Some people use ants for food, medicine and rituals. Some species of ants are used for [[Pest (biology)|pest control]] (they eat pests that destroy food for humans). They can damage crops and enter buildings, though. Some species, like the [[fire ant|red imported fire ant]], live in places where they came to by complete accident. 
+ 
+ == Related pages == 
+ * [[Formic acid]] 
+ * [[Leaf-cutter ant]] 
+ 
+ == Notes == 
+ {{Reflist|2}} 
+ 
+ ==Further reading== 
+ * {{cite book| last1 = Borror| first1 = Donald Joyce| last2 = Johnson| first2 = Norman F.| last3 = Triplehorn| first3 = Charles A.| title = An introduction to the study of insects| year = 1989| publisher = Brooks/Cole Publishing Company }} 
+ * Hölldobler B. and Wilson E.O. 1998. ''Journey to the ants: a story of scientific exploration''. Harvard University Press. {{ISBN|978-0-674-48526-6}} 
+ * {{cite book| last1 = Holldobler| first1 = Bert| last2 = Wilson| first2 = Edward O.| title = The Ants| year = 1998| publisher = Springer| isbn = 978-3-540-52092-4 }} 
+ * {{cite book| last1 = Holldobler| first1 = Bert| last2 = Wilson| first2 = Edward O.| title = The superorganism: the beauty, elegance, and strangeness of insect societies| url = https://archive.org/details/superorganismbea0000holl| year = 2009| publisher = W.W. Norton| isbn = 978-0-393-06704-0 }} 
+ 
+ == Other websites == 
+ {{Wikispecies|Formicidae|ants}} 
+ * {{Commons category-inline|Formicidae}} 
+ * {{cite web |url= http://www.antweb.org/ |title=Antweb from The California Academy of Sciences 
+ |work=antweb.org |accessdate=6 December 2010}} 
+ * {{cite web |url=http://www.antblog.co.uk/ |title=AntBlog, a website for studying ant colonies |work=antblog.co.uk |accessdate=6 December 2010 |archive-date=19 November 2016 |archive-url=https://web.archive.org/web/20161119084919/http://www.antblog.co.uk/ |url-status=dead }} 
+ * [http://gap.entclub.org/ Global Ant Project] {{Webarchive|url=https://web.archive.org/web/20090212115241/http://gap.entclub.org/ |date=2009-02-12 }} 
+ * [http://www.botanical-dermatology-database.info/BotDermReviews/Myrmecophytes.html The super-nettles. A dermatologist's guide to ants-in-the-plants] 
+ * [http://en.citizendium.org/wiki/Ant Ant] Citizendium 
+ 
+ [[Category:Ants| ]]

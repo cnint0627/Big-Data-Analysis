@@ -1,0 +1,30 @@
+The '''watt''' (symbol: W) is the [[SI]] unit of [[power (physics)|power]]. It is named in honour of the physicist [[James Watt]] (1736–1819). 
+ 
+ == Definition == 
+ 
+ The watt is a method of measuring the rate of energy transfer of an appliance. A one watt lightbulb, for example, will change one joule of electrical energy into light energy (and some heat/sound) every second, thus  " consuming "  it. It is a measure of an appliance's power (appetite for joules). 
+ 
+ The '''watt''' is the rate a source of [[energy]] uses or produces one [[joule]] during one [[second]], so the same quantity may be referred to as a '''joule per second''', with the symbol '''J/s'''. It can also be written as '''[[kilogram|kg]]·[[metre|m]] < sup > 2 < /sup > ·[[second|s]] < sup > −3 < /sup > '''. The more watts, the more energy used per second. That is why a higher-watt electrical appliance works faster than a lower-watt appliance. 
+ 
+ It is equivalent to one [[volt]] [[ampere]] (1 V·A) or 1/746 of a [[horsepower]]. The power of a [[light bulb]] is measured in watts. [[Led|LED]]s have much smaller consumption of power. Example small led can be used by {{convert|0.015|W|abbr=off}} what can be also written 15 milliwatts. 
+ 
+ Watt is a unit of power, joule is a unit of work and energy, and time is a unit of time. An equation for solving Power, Work and Time is '''Power = Work ÷ Time,''' '''Work = Power '''× '''Time, '''or '''Time = Work '''÷''' Power'''. 
+ ===Kilowatt=== 
+ 1000 watts is called a kilowatt, written as kW. It is also known as (10 < sup > 3 < /sup > ) watts. In many countries, electric bills are based on how many kilowatt-hours are being used. 
+ 
+ ===Megawatt=== 
+ 1000000 watts is called a megawatt, written as MW. It is also known as (10 < sup > 6 < /sup > ) watts. This is used to describe how much electricity is needed by a large town. 
+ 
+ ===Gigawatt=== 
+ 1000000000 watts is called a gigawatt, written as GW. It is also known as (10 < sup > 9 < /sup > ) watts. This is used to describe how much electricity is needed for a [[power grid]]. 
+ 
+ == Example == 
+ If 1000kJ of energy was used to power one lightbulb of 100W, how long will the lightbulb last for using that energy? 
+ 
+ Because Time is unknown, but you know the other two, the correct equation would be  " '''Time = Work '''÷''' Power " ,''' then 1,000,000J ÷ 100W = 10000 seconds. Then convert it into proper time and you'll get 2 hours, 46 minutes and 40 seconds. 
+ 
+ 
+ {{science-stub}} 
+ 
+ [[Category:Units of power]] 
+ [[Category:SI derived units]]

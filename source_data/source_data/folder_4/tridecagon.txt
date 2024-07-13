@@ -1,0 +1,29 @@
+{{Regular polygon db|Regular polygon stat table|p13}} 
+ A '''tridecagon''' or '''triskaidecagon''' or '''trisdecagon''' or '''13-gon''' is a [[Polygon|shape]] with 13 sides and 13 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular tridecagon == 
+ All sides of a '''regular tridecagon''' are the same length. Each corner is 147. < span style= " text-decoration: overline " > 27 < /span > °. All corners added together equal 6840°. 
+ 
+ === Area === 
+ The amount of space a regular tridecagon takes up is 
+ 
+ : < math > A = \frac{13}{4}a^2 \cot \frac{\pi}{13} \simeq 13.1858\,a^2. < /math > 
+ 
+ ''a'' is the length of one of its sides. 
+ 
+ ==Numismatic use== 
+ The regular tridecagon is used as the shape of the [[Coins of the Czech koruna|Czech 20 korun coin]]. < ref > Colin R. Bruce, II, George Cuhaj, and Thomas Michael, ''2007 Standard Catalog of World Coins'', Krause Publications, 2006, {{isbn|0896894290}}, p. & nbsp;81. < /ref > 
+ :[[File:20 CZK.png]] 
+ 
+ ==Related pages== 
+ * [[Triskaidekaphobia]] 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ ==Other websites== 
+ *{{MathWorld|title=Tridecagon|urlname=Tridecagon}} 
+ 
+ {{Polygons}} 
+ {{Math-stub}} 
+ [[Category:Polygons|13]]

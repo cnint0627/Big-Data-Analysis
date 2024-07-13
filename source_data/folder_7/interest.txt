@@ -1,0 +1,20 @@
+'''Interest''' is the [[price|cost]] for borrowing [[money]] or the payment for lending money. Usually, this is fixed as a percentage of the amount of money borrowed (which is called ''interest rate''). 
+ 
+ ==Simple and Compound interest== 
+ If the interest charged on $100 is 1 percent per year then every year the borrower must pay $1. If the $1 is not added to the amount owed then the borrower is paying simple interest. If simple interest of 1 percent is paid each year at the end of 100 years the borrower would have paid $100 in interest, $1 each year, and would still owe $100. < ref > {{Cite book|title=All the Math You'll Ever Need|url=https://archive.org/details/allmathyoullever00slav|author=Slavin, Steve|publisher=John Wiley  &  Sons|year=1989|isbn=0471506362|page=[https://archive.org/details/allmathyoullever00slav/page/147 147]}} < /ref >  If the $1 is added to the $100 the amount owed will increase to $101. 1 percent interest on $101 will be more than $1. This is called compound interest. Compound interest will cause the amount to [[growth|grow]] each year. As the amount grows larger more is paid as interest each year and added to the total. If compound interest of 1 percent is paid on a loan of $100 each year the amount of interest paid will slightly increase and after 70 years the amount owed will have grown to $200 and the interest payment will have increased to $2. < ref > {{Cite book|title=All the Math You'll Ever Need|url=https://archive.org/details/allmathyoullever00slav|author=Slavin, Steve|publisher=John Wiley  &  Sons|year=1989|isbn=0471506362|page=[https://archive.org/details/allmathyoullever00slav/page/149 149] and 150}} < /ref >   
+ 
+ ===Rule of 72=== 
+ 1 percent compound interest on $100 will cause the amount to double to $200 in about 72 years. That is called the rule of 72 which can be used to figure out how fast something grows. The rule can be used to figure out how fast anything that always  [[exponential function|grows exponentially]] at the same rate will double in size. Suppose a [[kangaroo]] grows 12 percent a year; dividing 12 into 72 gives 6, so the kangaroo will double in size in 6 years. If the kangaroo grew 6 percent a year it would take 12 years for its size to double. If it only grew 2 percent it would take 36 years for its size to double. < ref > {{Cite book|title=All the Math You'll Ever Need|url=https://archive.org/details/allmathyoullever00slav|author=Slavin, Steve|publisher=John Wiley  &  Sons|year=1989|isbn=0471506362|page=[https://archive.org/details/allmathyoullever00slav/page/153 153]}} < /ref > 
+ 
+ ==Usury== 
+ At some times in the past, or in some places today, it has been [[illegal]] to make a person pay interest on a [[loan]]. It was, or is, against some [[religious]] [[rule]]s. If the interest that a person must pay is too high, this is called [[usury]]. This is often illegal today, even when lower interest is legal. 
+ 
+ ==Other meanings of interest== 
+ Interest can also be the care or [[concern]] that someone has for something or someone. If someone cares about something, they  " have an interest "  in that thing, or they  " find it interesting " . If something is beautiful, or funny, or new, that might make the thing interesting. However, a very important concern, for example [[love]] or [[hate]], is more than an interest. An interest can also be a [[task]] that someone likes to do or watch, like a [[game]] or a [[hobby]]. 
+ 
+ If someone has a [[legal]] [[Rights|right]] to something (usually [[money]] or [[property]]) they have an interest in that thing. This is also true for someone who shares a right with others, or a person who has a [[future]] right to something. For example, if some brothers and sisters will be given a house after their parents die, each of them  " has a [[financial]] interest "  in the house, even if the parents are still living. 
+ 
+ ==Notes== 
+ {{reflist}} 
+ 
+ [[Category:Economics]]

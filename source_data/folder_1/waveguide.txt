@@ -1,0 +1,19 @@
+[[File:WaveguideJ-Band.png|thumb|An example of a waveguide: A section of flexible waveguide used for [[RADAR]] that has a [[waveguide flange|flange]].]] 
+ 
+ A '''waveguide''' is a structure that makes waves move in only one direction. Common types of waveguides include [[acoustic waveguide]]s which direct the movement of [[sound]] and [[optical waveguide]]s which direct [[light]]. [[Radio-frequency waveguide]]s direct [[electromagnetic wave]]s other than light. An example of these waves are [[radio wave]]s that are used by [[RADAR]] systems. 
+ 
+ Without a waveguide, waves would move in three [[Dimension|dimensions]]. As they did this, they would get weaker according to the [[inverse square law]]. 
+ 
+ There are different types of waveguides for different types of waves. The most common meaning is a hollow [[metal]] pipe used to carry [[ frequency|high frequency]] [[radio wave]]s. These are usually [[microwave]]s. < ref name= " IEEEdict1997 " > {{cite book |title=The IEEE standard dictionary of electrical and electronics terms |year=1996 |url=https://archive.org/details/ieeestandarddict0000inst_z0g2 |publisher=IEEE |location=New York, NY |isbn=1-55937-833-6 |edition=6.}} < /ref >  [[Transparency|Transparent]] [[dielectric]] waveguides and [[optical fiber]]s are used as waveguides for light.   In [[acoustics]], air ducts and [[Horn (acoustic)|horn]]s are used as waveguides for sound. They are used in [[Musical instrument|musical instruments]] and [[loudspeaker]]s. Metal rods with special shapes are used to conduct [[Ultrasound|ultrasonic]] waves in [[ultrasonic machining]]. 
+ 
+ The [[frequency]] of the wave also affects the size of a waveguide. Each waveguide has a [[cutoff wavelength]] that is determined by its size. It can not be used for waves that have a greater wavelength than its cutoff value. For example, an [[optical fiber]] that guides [[light]] can not be used for [[microwaves]] because they have a much larger wavelength. Some naturally occurring structures can also act as waveguides. The [[SOFAR channel]] layer in the ocean can guide the sound of [[whale sound|whale song]] across very large distances. < ref > {{cite web |last1=Payne |first1=Roger |last2=Webb |first2=Douglas |title=ORIENTATION BY MEANS OF LONG RANGE ACOUSTIC SIGNALING IN BALEEN WHALES* |url=http://www3.interscience.wiley.com/journal/119693602/abstract |website=Annals of the New York Academy of Sciences |archiveurl=https://archive.today/20120826003933/http://www3.interscience.wiley.com/journal/119693602/abstract |archivedate=14 Dec 2013 |pages=110–141 |doi=10.1111/j.1749-6632.1971.tb13093.x |date=December 1971 |url-status=dead}} < /ref >   
+ Any shape of waveguide can be used with [[Electromagnetic spectrum|EM]] waves. Commonly used waveguides are [[Rectangle|rectangular]] and circular in shape. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ [[Category:Electromagnetic radiation]] 
+ [[Category:sound]] 
+ [[Category:Optics]] 
+ 
+ {{Sci-stub}}

@@ -1,0 +1,87 @@
+{{More citations needed|date=September 2020}} 
+ 
+ '''Calculus''' is a branch of [[mathematics]] that describes [[continuous function|continuous change]]. 
+ 
+ There are two different types of calculus. '''Differential calculus''' divides (''differentiates'') things into small (''different'') pieces, and tells us how they change from one moment to the next, while '''integral calculus''' joins (''integrates'') the small pieces together, and tells us how much of something is made, overall, by a series of changes. Calculus is used in many different sciences such as [[physics]], [[astronomy]], [[biology]], [[engineering]], [[economics]], [[medicine]] and [[sociology]]. 
+ 
+ ==History== 
+ In the 1670s and 1680s, Sir [[Isaac Newton]] in England and [[Gottfried Leibniz]] in Germany figured out calculus at the same time, working separately from each other. Newton wanted to have a new way to predict where to see [[planet|planets]] in the sky, because [[astronomy]] had always been a popular and useful form of science, and knowing more about the motions of the objects in the night sky was important for [[navigation]] of ships. Leibniz wanted to measure the space (area) under a [[curve]] (a line that is not straight). Many years later, the two men argued over who discovered it first. Scientists from England supported Newton, but scientists from the rest of Europe supported Leibniz. Most [[mathematician|mathematicians]] today agree that both men share the credit equally. Some parts of modern calculus come from Newton, such as its uses in [[physics]]. Other parts come from Leibniz, such as the symbols used to write it. 
+ 
+ They were not the first people to use mathematics to describe the physical world — [[Aristotle]] and [[Pythagoras]] came earlier, and so did [[Galileo Galilei]], who said that mathematics was the language of science. But both Newton and Leibniz were the first to design a system that describes how things change over time, and can predict how they will change in the future. 
+ 
+ The name  " calculus "  was the [[Latin language|Latin]] word for a small stone the ancient [[Roman Empire|Romans]] used in counting < ref > {{cite web |title=calculus |url=https://www.etymonline.com/word/calculus |website=etyuonline.com}} < /ref >  and [[gambling]]. The English word  " calculate "  comes from the same Latin word. 
+ 
+ ==Differential calculus== 
+ {{main|Differential calculus}} 
+ 
+ '''Differential calculus''' is used to find the rate of change of a [[variable]]—compared to another variable.  
+ 
+ Variables can change their value. This is different from numbers because numbers are always the same. For example, the number 1 is always equal to 1, and the number 200 is always equal to 200. One often writes variables as letters such as the letter x:  " x "  can be equal to 1 at one point and 200 at another.  
+ 
+ Some examples of variables are [[distance]] and [[time]], because they can change. The [[speed]] of an object is how far it travels in a particular time. So if a town is 80 kilometres (50 miles) away and a person in a car gets there in one hour, they have traveled at an average speed of 80 kilometres (50 miles) per hour. But this is only an [[average]]: they travelled faster at some times (say on a highway), and slower at other times (say at a traffic light or on a small street where people live). Certainly it is more difficult for a driver to figure out a car's speed using only its odometer (distance meter) and clock—without a speedometer. 
+ 
+ Until calculus was invented, the only way to work this out was to cut the time into smaller and smaller pieces, so the average speed over the smaller time would get closer and closer to the actual speed at a point in time. This was a very long and hard process, and had to be done each time people wanted to work something out. 
+ 
+ [[File:Simple curve showing tangents.svg|thumb|right|On a curve, two different points have different slopes. The red and blue lines are [[Trigonometric function|tangent]]s to the curve.]] 
+ 
+ Differential calculus is also useful for graphing. A very similar problem is to find the [[wikt:slope|slope]] (how steep it is) at any point on a [[curve]]. The slope of a ''[[straight]]'' line is easy to work out — it is simply how much it goes up or down (''y'' or [[wikt:vertical|vertical]]) divided by how much it goes across (''x'' or [[wikt:horizontal|horizontal]]). On a ''curve'', however, the slope is a variable (has different values at different points) because the line bends. But if the curve was to be cut into very, very small pieces, the curve at the point would look almost like a very short straight line. So to work out its slope, a straight line can be drawn through the point with the same slope as the curve at that point. If this is done exactly right, the straight line will have the same slope as the curve, and is called a [[Tangent (geometry)|tangent]]. But there is no way to know (without complex mathematics) whether the tangent is exactly right, and our eyes are not accurate enough to be certain whether it is exact or simply very close. 
+ 
+ What Newton and Leibniz found was a way to work out the slope (or the speed in the distance example) exactly, using simple and logical rules. They divided the curve into an [[infinity|infinite]] number of very small pieces. They then chose points on either side of the range they were interested in and worked out tangents at each. As the points moved closer together towards the point they were interested in, the slope ''approached'' a particular value as the tangents approached the real slope of the curve. The particular value it approached was the actual slope. 
+ 
+ [[File:First principles differentiation demo.svg|thumb|220px|A picture that shows what ''x'' and ''x + h'' mean on the curve.]] 
+ 
+ Given a function  < math > y=f(x) < /math > . ''f'' is short for [[function (mathematics)|function]], so this equation means  " y is a function of x " . This tells us that how high y is on the [[vertical]] axis depends on what x (the [[horizontal]] axis) is at that time. For example, with the equation  < math > y=x^2 < /math > , we know that if  < math > x < /math >  is 1, then  < math > y < /math >  will be 1; if  < math > x < /math >  is 3, then  < math > y < /math >  will be 9; if '' < math > x < /math > '' is 20, then '' < math > y < /math > '' will be 400. The slope of the tangent line produced [[Differential calculus#How it works|using this method]] here is  < math > 2x < /math > , or 2 multiplied by '' < math > x < /math > ''. So we know without having to draw any tangent line at any point on the curve  < math > f(x)=x^2 < /math >  that the '''[[Derivative (mathematics)|derivative]],''' often written as  < math > f'(x) < /math > < ref name= " :0 " > {{Cite web|date=2020-05-11|title=List of Calculus and Analysis Symbols|url=https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/|access-date=2020-09-17|website=Math Vault|language=en-US}} < /ref > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Derivative|url=https://mathworld.wolfram.com/Derivative.html|access-date=2020-09-17|website=mathworld.wolfram.com|language=en}} < /ref >  (marked with the [[Prime (symbol)|prime symbol]]), will be  < math > 2x < /math >  at any point. This process of working out a slope using limits is called '''differentiation''', or finding the derivative. 
+ 
+ The way to write the derivative in mathematics is 
+ < math > f^\prime(x) = \lim_{h\rightarrow0} \frac{f(x+h) - f(x)}{h}. < /math > < ref name= " :0 "  / > 
+ 
+ Leibniz came to the same result, but called h  " < math > dx < /math > " , which means  " with respect to x " . He called the resulting change in  < math > f(x) < /math >   " < math > dy < /math > " , which means  " a tiny amount of y " . Leibniz's notation is used by more books, because it is easy to understand when the equations become more complicated. In Leibniz notation: 
+ < math > \tfrac{dy}{dx} = f'(x) < /math > . 
+ 
+ Mathematicians have grown this basic theory to make simple [[algebra]] rules—which can be used to find the derivative of almost any function. 
+ 
+ In the real world, calculus can be used to find the speed of a moving object, or to understand how [[electricity]] and [[magnetism]] work. It is very important for understanding [[physics]]—and many other areas of science. 
+ 
+ ==Integral calculus== 
+ {{main|Integral}} 
+ 
+ [[File:Integral as region under curve.svg|thumb|''Integration'' is about finding the area''s'', given ''a'', ''b'' and ''y = f(x)''.]] 
+ 
+ '''Integral calculus''' is the process of calculating the [[area]] underneath a graph of a function. An example is calculating the distance a car travels: if one knows the speed of the car at different points in time and draw a graph of this speed, then the distance the car travels will be the area under the graph. 
+ 
+ [[File:Riemann sum (middlebox).gif|right|thumb|280px|We can approximate the area under a curve by adding up the areas of many rectangles underneath the curve. The more rectangles we use, the better our approximation.]] 
+ The way to do this is to divide the graph into many very small pieces, and then draw very thin rectangles under each piece. As the rectangles become thinner and thinner, the rectangles cover the area underneath the graph better and better. The area of a rectangle is easy to calculate, so we can calculate the total area of all the rectangles. For thinner rectangles, this total area value ''approaches'' the area underneath the graph. The final value of the area is called the ''integral'' of the function. 
+ 
+ In mathematics, the integral of the function ''f(x)'' from ''a'' & nbsp; to ''b'', is written as 
+ < math > \int\limits_{a}^{b} f(x)\,dx < /math > . < ref name= " :0 "  / > < ref > {{Cite web|last=Weisstein|first=Eric W.|title=Definite Integral|url=https://mathworld.wolfram.com/DefiniteIntegral.html|access-date=2020-09-17|website=mathworld.wolfram.com|language=en}} < /ref > 
+ 
+ ==Main idea of calculus== 
+ The main idea in calculus is called the [[fundamental theorem of calculus]]. This main idea says that the two calculus processes, differentiation and integration, are inverses of each other. < ref > {{Cite web|title=calculus {{!}} Definition  &  Facts|url=https://www.britannica.com/science/calculus-mathematics|access-date=2020-09-17|website=Encyclopedia Britannica|language=en}} < /ref >  That is, a person can use differentiation to undo an integration process. Also, a person can use integration to undo a differentiation. This is just like using division to  " undo "  multiplication, or addition to  " undo "  subtraction. 
+ 
+ In a single sentence, the fundamental theorem runs something like this:  " The derivative of the integral of a function ''f'' is the function itself " . 
+ 
+ ==Applications of calculus== 
+ Calculus is used to describe things that [[wikt:change|change]], like things in [[nature]]. It can be used for showing and learning all of these: 
+ 
+ *How [[wave (physics)|wave]]s move. Waves are very important in the [[natural]] world. For example, [[sound]] and [[light]] can be thought of as waves. 
+ *Where [[heat]] moves, like in a house. This is useful for [[architecture]] (building houses), so that the house can be as cheap to heat as possible. 
+ *How very small things like [[atoms]] act. 
+ *How fast something will [[falling|fall]], also known as [[gravity]]. 
+ *How [[machine]]s work, also known as [[mechanics]]. 
+ *The [[orbit|path]] of the [[moon]] as it moves around the [[earth]]. Also, the path of the earth as it moves around the [[sun]], and any [[planet]] or [[moon]] moving around anything in [[Outer space|space]]. 
+ 
+ == Related pages == 
+ 
+ * [[Calculus of variations]] 
+ * [[Derivative (mathematics)]] 
+ * [[Difference quotient]] 
+ * [[Mathematical analysis]] 
+ * [[Multivariable calculus]] 
+ * [[Vector calculus]] 
+ 
+ == References == 
+ < references / > 
+ {{Areas of mathematics}} 
+ {{Calculus topics}} 
+ 
+ [[Category:Calculus| ]]

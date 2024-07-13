@@ -1,0 +1,99 @@
+{{Infobox settlement  
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ < !-- Basic info  ---------------- > 
+ |name                   = Platamona < !-- at least one of the first two fields must be filled in -- > 
+ |official_name          =   
+ |other_name             = 
+ |native_name            =   
+ |nickname               = 
+ |settlement_type        = [[Frazione]] of [[Sassari]] < !-- e.g. Town, Village, City, etc.-- > 
+ |total_type             =  < !-- to set a non-standard label for total area and population rows -- > 
+ |motto                  = 
+ < !-- images and maps  ----------- > 
+ |image_skyline          = Beach of Platamona, Sardinia.jpg 
+ |imagesize              =  
+ |image_caption          = The beach of Platamona  
+ |image_flag             =  
+ |flag_size              = 
+ |image_sea             =  
+ |seal_size              = 
+ |image_shield           =  
+ |shield_size            = 
+ |image_blank_emblem     = 
+ |blank_emblem_type      = 
+ |blank_emblem_size      = 
+ |image_map              =  
+ |mapsize                =  
+ |map_caption            =  
+ |pushpin_map            = Italy 
+ |pushpin_label_position =  
+ |pushpin_map_caption    = 
+ |pushpin_mapsize        = 
+ |coordinates={{Coord|40|49|8.13|N|8|27|52.70|E|region:IT-RO_type:landmark|display=it}} 
+ < !-- Location ------------------ > 
+ |subdivision_type       = Country 
+ |subdivision_name       = Italy 
+ |subdivision_type1      = Region 
+ |subdivision_name1      = [[Sardinia]] 
+ |subdivision_type2      = County 
+ |subdivision_name2      = Municipality of Sassari 
+ |subdivision_type3      = City 
+ |subdivision_name3      = [[Sassari]] 
+ |seat_type              = 
+ |seat                   = 
+ |parts_type             = 
+ |parts_style            =  < !-- =list (for list), coll (for collapsed list), para (for paragraph format) 
+                                Default is list if up to 5 items, coll if more than 5-- > 
+ |parts                  =  < !-- parts text, or header for parts list -- > 
+ |p1                     = 
+ |p2                     =  < !-- etc. up to p50: for separate parts to be listed-- >   
+ < !-- Politics ----------------- > 
+ |government_footnotes   = 
+ |government_type        = 
+ |leader_title           = 
+ |leader_name            = 
+ |leader_title1          = 
+ |leader_name1           =  
+ |established_title      =   
+ |established_date       =   
+ < !-- Area    --------------------- > 
+ |area_magnitude         =  
+ |unit_pref                =  
+ |area_footnotes           = 
+ |area_total_sq_mi         =  
+ |area_land_sq_mi          =  
+ |area_water_sq_mi         =  
+ |area_water_percent       = 
+ < !-- Elevation -------------------------- > 
+ |elevation_footnotes    =   11 
+ |elevation_m            =  
+ |elevation_ft           = 
+ |elevation_max_m            =  
+ |elevation_max_ft           = 
+ |elevation_min_m            =  
+ |elevation_min_ft           = 
+ < !-- Population   ----------------------- > 
+ |population_as_of               = 
+ |population_footnotes           = 
+ |population_note                = 
+ |population_total               =21 
+ |population_density_sq_mi       = 
+ < !-- General information  --------------- > 
+ |timezone               =  
+ |utc_offset             =  
+ |timezone_DST           =  
+ |utc_offset_DST         =  
+ < !-- Area/postal codes  &  others -------- > 
+ |postal_code_type       =   
+ |postal_code            = 
+ |area_code              = 
+ |website                =  
+ |footnotes              =  
+ }} 
+ '''Platamona''' is a [[coast]]al area in northern [[Sardinia]], [[Italy]]. It is along the Gulf of [[Asinara]], in the municipality of [[Sassari]], between the ''[[comune|comuni]]'' of [[Sorso]] and [[Porto Torres]]. 
+ 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Settlements in Sardinia]] 
+ [[Category:Province of Sassari]]

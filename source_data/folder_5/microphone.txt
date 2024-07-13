@@ -1,0 +1,36 @@
+[[File:Neumann U87 microphone 20050905.jpg|100px|right|thumb|A [[Georg Neumann|Neumann]] U87 capacitor microphone.]] 
+ A '''microphone''', sometimes referred to as a '''mike''' or '''mic''' (both [[International Phonetic Alphabet|IPA pronunciation]]: {{IPA|[maɪk]}}), converts [[sound]] into an [[Signal (electrical engineering)|electrical signal]]. 
+ 
+ Microphones are used in many applications such as [[telephone]]s, [[tape recorder]]s, [[hearing aid]]s, [[motion picture]] production, live and recorded [[audio engineering]], in [[radio]] and [[television]] broadcasting and in [[computer]]s for [[recording]] voice. 
+ 
+ == Kinds of Microphones == 
+ [[Sound]] passes through the air in waves, and as was said above, the microphone turns the sound wave into an electrical wave.  Different kinds of microphones will turn the sound waves into [[electricity]] in different ways. < ref > {{Cite web|last=Olson|first=Harry|date=2020-04-24|title=All Types of Microphones Explained with their uses|url=https://bestshotgunmic.com/types-of-microphones-explained/|access-date=2020-09-13|website=Best Shotgun Mic|language=en-US|archive-date=2020-10-29|archive-url=https://web.archive.org/web/20201029231842/https://bestshotgunmic.com/types-of-microphones-explained/|url-status=dead}} < /ref > 
+ 
+ * [[File:BSPC 19 i Nyborg Danmark 2009 (4).jpg|thumb|100x100px|A Shure witness microphone  ]]'''Carbon button''' - This is the first kind to become commonplace, being used in most 20th century telephones. Sound waves, by compressing and decompressing a piece of [[carbon]], change the amount of [[electric current]] flowing in the wire, thus creating electrical waves. This kind became rarer late in the century, due in part to lack of [[high fidelity]].  
+ * '''Dynamic''' - This uses a round plastic or rubber disk connected to a wire coil in order to turn sound into electricity.  The sound wave hits the disk which vibrates as a result.  This vibration moves the coil back and forth near a magnet very quickly in order to create an electrical current.  The dynamic microphone is the exact opposite of a speaker which uses an electrical current to move the coil, which moves the disk.  Then the disk makes sound. 
+ ** [[File:USB-Microphone.jpg|thumb|A simple dynamic microphone ]]'''Ribbon''' - This is similar to a Dynamic microphone.  A thin, small sheet of metal (tin or aluminum usually) hangs between two magnets.  When sound hits the thin piece of metal, the metal vibrates.  That vibration creates an electrical signal in the metal. 
+ * '''Condenser''' - This uses two small metal plates to create an electrical current.  Basically two  small metal plates are placed very near to each other and electricity is run through the plates.  This creates an [[electric field]] between the two plates.  When sound hits these plates, the plates vibrate.  The vibration makes small changes in the electric field.  These changes create the electrical signal. 
+ * [[Crystal]] or [[ceramic]] microphones use [[piezoelectricity]]. 
+ 
+ == Equipment == 
+ A pop filter (or pop shield) is often used in [[recording studio]]s.  It is an [[electronic filter]] that reduces or eliminates 'popping' sounds caused by fast moving air (such as air from the mouth). 
+ 
+ ==History== 
+ The first microphones were invented as [[telephone]] transmitters. They included liquid and dynamic designs. Carbon transmitters were later used in this and other applications. 
+ < ref > {{cite web|url=https://www.thoughtco.com/history-of-microphones-1992144|title=The Evolution of the Microphone|first1=some as|last1=CalmX|first2=Was an Experimental|last2=Artist|first3=Film|last3=Director|first4=|last4=producer|first5=Video Game Content|last5=Creator|first6=freelance writer for some 18 years She specialized in writing about|last6=inventors|first7=|last7=inventions|first8=in particular Bellis died in|last8=March 2015|website=ThoughtCo}} < /ref > [[File:Microfono a condensatore1.jpg|thumb|Electret microphone capsule.]] 
+ ==Related pages== 
+ * [[Loudspeaker]] — The inverse of a dynamic microphone 
+ 
+ == Other websites == 
+ {{commonscat|Microphones}} 
+ * [http://www.coutant.org/contents.html Info, Pictures and Soundbytes from vintage microphones] 
+ * [http://arts.ucsc.edu/EMS/Music/tech_background/TE-20/teces_20.html Microphone construction and basic placement advice] {{Webarchive|url=https://web.archive.org/web/20091016023242/http://arts.ucsc.edu/ems/Music/tech_background/TE-20/teces_20.html |date=2009-10-16 }} 
+ * [http://users.belgacom.net/gc391665/microphone_history.htm History of the Microphone] {{Webarchive|url=https://web.archive.org/web/20100823084155/http://users.belgacom.net/gc391665/microphone_history.htm |date=2010-08-23 }} 
+ * [http://www.sengpielaudio.com/calculator-transferfactor.htm Microphone sensitivity conversion — dB re 1 V/Pa and transfer factor mV/Pa] 
+ * [http://www.dpamicrophones.com/Images/DM00670.pdf?PHPSESSID=64fba1f7cb05f1312a83d6a730951b78 Large vs. Small Diaphragms in Omnidirectional Microphones] {{Webarchive|url=https://web.archive.org/web/20080510115715/http://www.dpamicrophones.com/Images/DM00670.pdf |date=2008-05-10 }} 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ [[Category:Data input]] 
+ [[Category:Audio technology]]

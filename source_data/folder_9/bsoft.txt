@@ -1,0 +1,15 @@
+'''Bsoft''' is a collection of software for image and molecular processing in structural biology and medicine. It has a user-friendly interface. Several workflows such as for single particle analysis and tomography are also supported. 
+ 
+ Current Bsoft release supports such operating systems: Unix ([[MacOS|Mac OS X]], IRIX, Linux, AIX, Solaris, Tru64), OpenVMS 
+ 
+ == Publications == 
+ 
+ * Heymann JB (2001) Bsoft: Image and molecular processing in electron microscopy. Journal of Structural Biology 133(2/3), 156 - 169. 
+ * Heymann JB and Belnap DM (2007) Bsoft: [[Image processing]] and molecular modeling for electron microscopy. Journal of Structural Biology 157(1), 3 - 18. 
+ * Heymann JB, Cardone G, Winkler DC and Steven AC (2008) Computational resources for cryo-electron tomography in Bsoft. Journal of Structural Biology 161(3), 232 – 242. 
+ * Heymann JB (2018) Guidelines for using Bsoft for high resolution reconstruction and validation of biomolecular structures from electron micrographs. [[Protein]] Science 27(1), 159-171. 
+ * Heymann JB (2018) Single particle reconstruction and validation using Bsoft for the Map Challenge. Journal of Structural Biology 204(1), 90-95. 
+ 
+ [[Category:Software]] 
+ 
+ {{tech-stub}}

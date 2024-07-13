@@ -1,0 +1,128 @@
+[[File:biological cell.svg|thumb|right|250px|A typical animal cell. Within the [[cytoplasm]], the major organelles and cellular structures include: (1) [[nucleolus]] (2) [[cell nucleus|nucleus]] (3) [[ribosome]] (4) [[vesicle (biology)|vesicle]] (5) rough [[endoplasmic reticulum]] (6) [[Golgi apparatus]] (7) [[cytoskeleton]] (8) smooth [[endoplasmic reticulum]] (9) [[mitochondrion|mitochondria]] (10) [[vacuole]] (11) [[cytosol]] (12) [[lysosome]] (13) [[centriole]].]] 
+ 
+ In [[cell biology]], an '''organelle''' is a part of a cell that does a [[wikt:specific|specific]] job. 
+ 
+ Organelles usually have a [[plasma membrane]] around them. < ref > See 'Scope of the term' below. < /ref >  Most of the cell's organelles are in the [[cytoplasm]]. < ref > Alberts, Bruce et al. 2003. ''Essential cell biology'', 2nd ed. Garland Science. < /ref > < ref > {{cite book| last = National Research Council (U.S.). Committee on Research Opportunities in Biology| title = Opportunities in biology| url = https://books.google.com/books?id=iQk2iWQe4pgC| accessdate = 23 December 2010| year = 1989| publisher = National Academies| isbn = 978-0-309-03927-7| page = 104 }} < /ref > 
+ 
+ The name ''organelle'' comes from the idea that these structures are to cells what an [[Organ (anatomy)|organ]] is to the [[body]]. 
+ 
+ There are many types of organelles in [[eukaryote|eukaryotic]] cells. [[Prokaryote]]s were once thought not to have organelles, but some examples have now been found. < ref name= " pref " > {{cite journal |pmid=16081736 |doi=10.1126/science.1113397 |year=2005 |author=Kerfeld C. |display-authors = etal |title=Protein structures forming the shell of primitive bacterial organelles. |volume=309 |issue=5736 |pages=936–8 |journal=Science|bibcode=2005Sci...309..936K |s2cid=24561197 }} < /ref > 
+ They are not organised like eukaryote organelles, and are not bounded by plasma membranes. They are called [[bacterial microcompartment]]s. < ref name= " Bobik2007 " > {{cite journal | author = Bobik T.A. | title = Bacterial microcompartments | year = 2007 | journal = Microbe | volume = 2 | pages = 25–31 | url = http://www.asm.org/ASM/files/ccLibraryFiles/Filename/000000002765/znw00107000025.pdf | publisher = Am Soc Microbiol | access-date = 2011-01-06 | archive-date = 2008-08-02 | archive-url = https://web.archive.org/web/20080802025916/http://www.asm.org/ASM/files/ccLibraryFiles/Filename/000000002765/znw00107000025.pdf | url-status = dead }} < /ref > 
+ 
+ == Scope of the term == 
+ The term is now widely used to refer to cell structures surrounded by single or double [[plasma membrane]]s. < ref > Nultsch, ''Allgemeine Botanik'', '''11''' Aufl. 2001, Thieme Verlag < /ref > < ref > Wehner/Gehring: Zoologies. '''23'''. Aufl. 1995, Thieme Verlag < /ref > < ref > {{cite book| last = Alberts| first = Bruce| title = Molecular Biology of the Cell| year = 2004| isbn = 978-0-8153-3218-3 }} < /ref > < ref > Brock, [[Microbiology]], 2. korrigierter Nachdruck 2003. der 1. Aufl. von 2001 < /ref >  However, the older definition of a 'subcellular functional unit' still exists. So, the term is sometimes used for structures which are not membrane-bound. < ref > Strasburger's Lehrbuch der Botanik für Hochschulen, 35. Aufl. 2002. S. 42 < /ref > < ref name= " clam " > {{cite journal |author=Alliegro MC, Alliegro MA, Palazzo RE |year=2006 |title=Centrosome-associated RNA in surf clam oocytes |journal=Proc. Nat. Acad. Sci. USA |volume=103 |issue=24 |pages=9037–9038 |doi=10.1073/pnas.0602859103 |pmid=16754862 |pmc=1482561 |bibcode=2006PNAS..103.9034A |doi-access=free }} < /ref > 
+ 
+ The plasma membrane is a [[lipid bilayer]] with some proteins embedded in it. It keeps the [[ions]] and [[molecules]] of the organelle from merging with the surroundings. 
+ 
+ == Origin of organelles == 
+ [[Mitochondria]] and [[chloroplasts]] have double-membranes and their [[DNA]]. These are believed to come from incompletely digested or invading [[prokaryotes]], which were adopted as a part of the invaded cell. This idea is supported in the [[Endosymbiosis|endosymbiotic theory]]. 
+ 
+ == Eukaryotic organelles== 
+ === Major organelles === 
+ {| class= " wikitable "  style= " margin:auto; " 
+ |+'''''Major eukaryotic organelles''''' 
+ !Organelle 
+ !Main function 
+ !Structure 
+ !Organisms 
+ !Notes 
+ |- 
+ |[[chloroplast]] ([[plastid]])||[[photosynthesis]]||double-membrane compartment||plants, protists ||has some [[DNA]]; originally got by [[endosymbiosis]]. 
+ |- 
+ |[[endoplasmic reticulum]]||translation and folding of new [[protein]]s (rough endoplasmic reticulum), expression of [[lipid]]s (smooth endoplasmic reticulum)||single-membrane compartment||all eukaryotes||rough endoplasmic reticulum has many [[ribosome]]s, and folds that are flat sacs; smooth endoplasmic reticulum has folds that are tubular 
+ |- 
+ |[[flagellum]]||locomotion, sensory|||| some eukaryotes||| 
+ |- 
+ |[[Golgi apparatus]]||sorting and modification of proteins||single-membrane compartment||all eukaryotes|| 
+ |- 
+ |[[mitochondrion]]||energy production||double-membrane compartment||most eukaryotes||has some DNA; originally got by endosymbiosis 
+ |- 
+ |[[cell nucleus|nucleus]]||DNA maintenance, [[RNA]] [[Transcription (genetics)|transcription]]||double-membrane compartment||all eukaryotes ||has bulk of [[genome]] 
+ |- 
+ |[[vacuole]]||storage, [[homeostasis]]||single-membrane compartment|| eukaryotes || 
+ |} 
+ 
+ === Minor organelles === 
+ {| class= " wikitable "  style= " margin:auto; " 
+ |+'''''Minor eukaryotic organelles and cell components''''' 
+ !Organelle/Macromolecule 
+ !Main function 
+ !Structure 
+ !Organisms 
+ |- 
+ |[[acrosome]]||helps spermatoza fuse with ovum||single-membrane compartment||many animals 
+ |- 
+ |[[autophagy (cellular)|autophagosome]]||vesicle which collects cytoplasmic material and organelles for degradation||double-membrane compartment||all eukaryotic cells 
+ |- 
+ |[[centriole]]||anchor for [[cytoskeleton]]||[[microtubule]] protein||animals 
+ |- 
+ |[[cilium]]||movement in or of external medium.  ||microtubule protein||animals, protists, few plants 
+ |- 
+ |[[cnidocyst]]|| stinging ||coiled hollow tubule ||cnidarians 
+ |- 
+ |[[eyespot apparatus]]||detects light, allowing [[phototaxis]] to take place|| ||[[green algae]] and other unicellular [[photosynthesis|photosynthetic]] organisms such as ''Euglena'' 
+ |- 
+ |[[glycosome]]||carries out [[glycolysis]]||single-membrane compartment||Some [[protozoa]], such as Trypanosomes. 
+ |- 
+ |[[glyoxysome]]||conversion of fat into sugars||single-membrane compartment||plants 
+ |- 
+ |[[hydrogenosome]]||energy  &  hydrogen production||double-membrane compartment||a few unicellular eukaryotes 
+ |- 
+ |[[lysosome]]||breakdown of large molecules (e.g., proteins + polysaccharides)||single-membrane compartment||by convention, animal cells; but (wider definition) most eukaryotes 
+ |- 
+ |[[melanosome]]||pigment storage||single-membrane compartment||animals 
+ |- 
+ |[[mitosome]]||not known||double-membrane compartment||a few unicellular eukaryotes 
+ |- 
+ |[[myofibril]]||muscular contraction||bundled filaments||animals 
+ |- 
+ |[[nucleolus]]||ribosome production||protein-DNA-RNA||most eukaryotes 
+ |- 
+ |[[parenthesome]]||not known||not known||fungi 
+ |- 
+ |[[peroxisome]]||breakdown of metabolic hydrogen peroxide||single-membrane compartment||all eukaryotes 
+ |- 
+ |[[proteasome]]||degradation of unneeded or damaged proteins by proteolysis||very large protein complex||All eukaryotes, all archaea, some bacteria 
+ |- 
+ |[[ribosome]]||[[Translation (genetics)|translation]] of RNA into proteins||RNA-protein|| eukaryotes, prokaryotes 
+ |- 
+ ||[[stress granule]] || mRNA storage || membraneless (mRNP complexes)|| Most eukaryotes 
+ |- 
+ |[[Vesicle (biology)|vesicle]]||material transport||single-membrane compartment||all eukaryotes 
+ |} 
+ 
+ == Prokaryotic organelles == 
+ [[Prokaryote]]s are not so complex as eukaryotes. They were once thought to have no internal structures inside the [[Lipid bilayer|lipid membranes]]. < ref > {{cite journal |author=Ryter A |title=Contribution of new cryomethods to a better knowledge of bacterial anatomy |journal=Ann. Inst. Pasteur Microbiol. |volume=139 |issue=1 |pages=33–44 |year=1988 |pmid=3289587 |doi=10.1016/0769-2609(88)90095-6}} < /ref > 
+ 
+ However, recent research has shown that at least some prokaryotes have [[Bacterial microcompartment|microcompartment]]s such as [[carboxysome]]s. These subcellular compartments are 100–200 & nbsp;nm in diameter and are enclosed by a shell of proteins. < ref name= " structures " > {{cite journal |pmid=16081736 | doi = 10.1126/science.1113397 |year=2005 |author=Kerfeld CA |display-authors = etal|title=Protein structures forming the shell of primitive bacterial organelles |volume=309 |issue=5736 |pages=936–8 |journal=Science|bibcode = 2005Sci...309..936K | s2cid = 24561197 }} < /ref >   Even more striking is the description of membrane-bound magnetosomes in bacteria. < ref > {{cite journal |author=Komeili A. |display-authors = etal|title=Magnetosomes are cell membrane invaginations organized by the actin-like protein MamK |journal=Science |volume=311 |issue=5758 |pages=242–5 |year=2006 |pmid=16373532 |doi=10.1126/science.1123231|bibcode = 2006Sci...311..242K |s2cid = 36909813}} < /ref > < ref > {{cite journal |author=Scheffel A. |display-authors = etal |title=An acidic protein aligns magnetosomes along a filamentous structure in magnetotactic bacteria |journal=Nature |volume=440 |issue=7080 |pages=110–4 |year=2006 |pmid=16299495 |doi=10.1038/nature04382|bibcode = 2006Natur.440..110S |s2cid = 4372846 }} < /ref >  as well as the nucleus-like structures of the ''Planctomycetes'' that are surrounded by [[Lipid bilayer|lipid membranes]]. < ref > {{cite journal |author=Fuerst JA |title=Intracellular compartmentation in planctomycetes |url=https://archive.org/details/sim_annual-review-of-microbiology_2005_59/page/299 |journal=Annu. Rev. Microbiol. |volume=59 |issue= |pages=299–328 |year=2005 |pmid=15910279 |doi=10.1146/annurev.micro.59.030804.121258}} < /ref > 
+ 
+ {| class= " wikitable "  style= " margin:auto; " 
+ |+'''''Prokaryotic organelles and cell components''''' 
+ !Organelle/Macromolecule 
+ !Main function 
+ !Structure 
+ !Organisms 
+ |- 
+ |[[carboxysome]]||[[carbon fixation]]||protein-shell compartment||some bacteria 
+ |- 
+ |[[chlorosome]]||[[photosynthesis]]||light harvesting complex||[[green sulfur bacteria]] 
+ |- 
+ |[[flagellum]]||movement in external medium||protein filament||some prokaryotes and eukaryotes 
+ |- 
+ |[[magnetosome]]||magnetic orientation||inorganic crystal, lipid membrane||[[magnetotactic bacteria]] 
+ |- 
+ |[[nucleoid]]||DNA maintenance, [[Transcription (genetics)|transcription]] to RNA||DNA-protein||prokaryotes 
+ |- 
+ |[[plasmid]]||DNA exchange||circular DNA||some bacteria 
+ |- 
+ |[[ribosome]]||[[Translation (genetics)|translation]] of RNA into proteins||RNA-protein|| eukaryotes, prokaryotes 
+ |- 
+ |[[thylakoid]]||[[photosynthesis]]||photosystem proteins and pigments||mostly cyanobacteria 
+ |} 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ {{Commons category|Organelles}} 
+ [[Category:Organelles| ]]

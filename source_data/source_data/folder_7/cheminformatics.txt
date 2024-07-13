@@ -1,0 +1,60 @@
+'''Cheminformatics''' (also known as '''chemoinformatics''' and '''chemical informatics''') is the study of [[large]] amounts of chemical information. It is done mostly with the help of [[computer]]s. These tools are used by [[drug|pharmaceutical]] companies to discovery new [[drug]]s. 
+ 
+ Cheminformatics uses computer science and information [[technology]] to help solve [[chemistry]] problems. Cheminformatics deals with [[algorithm]]s, [[database]]s and [[information system]]s, [[World Wide Web|web technologies]], [[artificial intelligence]] and [[soft computing]], [[information theory|information]] and [[computation theory]], [[software engineering]], [[data mining]], [[image processing]], modeling and [[simulation]], [[signal processing]], [[discrete mathematics]], control and [[system theory]], [[circuit theory]], and [[statistics]], for generating new knowledge of chemistry. 
+ 
+ == History == 
+ The term chemoinformatics was defined by F.K. Brown  < ref name= " Brown_1998 " > {{cite journal | author = F.K. Brown | title = Chapter 35. Chemoinformatics: What is it and How does it Impact Drug Discovery | journal = Annual Reports in Med. Chem. | year = 1998 | volume = 33 | pages = 375 | doi = 10.1016/S0065-7743(08)61100-8}} < /ref > < ref > {{cite journal | author = Brown, Frank | title = Editorial Opinion: Chemoinformatics – a ten year update | journal = Current Opinion in Drug Discovery  &  Development| year = 2005 | volume = 8 | issue = 3 | pages = 296–302| pmid = 15892243 }} < /ref >  in 1998: 
+ 
+ == Basics == 
+ Cheminformatics combines the scientific working fields of [[chemistry]] and [[computer science]]. < ref name= " Gasteiger_2004 " > Gasteiger J.(Editor), Engel T.(Editor): ''Chemoinformatics : A Textbook''. John Wiley  &  Sons, 2004, {{ISBN|3-527-30681-1}} < /ref > < ref > A.R. Leach, V.J. Gillet: ''An Introduction to Chemoinformatics''.  Springer, 2003, {{ISBN|1-4020-1347-7}} < /ref > 
+ Cheminformatics can also be applied to data analysis for the [[paper]], [[pulp]] and [[dye]] industries. 
+ 
+ == Uses == 
+ ===Storage and retrieval=== 
+ {{main|Chemical database}} 
+ The primary application of cheminformatics is in the storage of information relating to [[Chemical compound|compound]]s. The [[efficiency|efficient]] search of such stored information includes topics that are dealt with in computer science as [[data mining]] and [[machine learning]]. 
+ 
+ ==== File formats ==== 
+ Computers represent chemical structures in specialized formats such as the [[XML]]-based [[Chemical Markup Language]] or [[Simplified molecular input line entry specification|SMILES]]. While some formats are suited for visual representations in 2 or 3 dimensions, others are more suited for studying physical interactions, modeling and [[Docking (molecular)|docking]] studies. 
+ 
+ === Virtual libraries === 
+ Chemical data can pertain to real or virtual molecules.  Virtual compounds may be used to explore [[chemical space]] and predict new  
+ compounds with desired properties. 
+ 
+ Virtual libraries of classes of compounds (drugs, natural products, diversity-oriented synthetic products) were recently generated using the FOG (fragment optimized growth) algorithm. 
+ < ref > {{cite journal|title=FOG: Fragment Optimized Growth Algorithm for the de Novo Generation of Molecules occupying Druglike Chemical |journal=Journal of Chemical Information and Modeling | year=2009 |volume=49 | pages=1630–1642|doi=10.1021/ci9000458|pmid=19527020|issue=7 | last1=Kutchukian | first1=P. S. | last2=Lou | first2=D. | last3=Shakhnovich | first3=E. I. }} < /ref > 
+ 
+ === Virtual screening === 
+ Instead of testing the actual chemicals, virtual screening involves screening compounds by computer, to identify members likely to possess desired properties such as biological activity against a given target. 
+ 
+ ===Quantitative structure-activity relationship (QSAR) === 
+ This is to predict the activity of compounds from their structures. These studies link cheminofrmatics to [[chemometrics]]. Chemical [[expert system]]s are also relevant. They represent parts of chemical knowledge in computers. 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ == Other websites == 
+ * [http://www.eyesopen.com/oechem-tk OEChem Cheminformatics Programming Toolkit] 
+ * The [http://www.blueobelisk.org/ Blue Obelisk] Movement 
+ * The [http://www.echeminfo.com/ eCheminfo] {{Webarchive|url=https://web.archive.org/web/20200103162627/http://www.echeminfo.com/ |date=2020-01-03 }} Network and Community of Practice 
+ * [http://cheminfo.informatics.indiana.edu Cheminformatics at Indiana University] {{Webarchive|url=https://web.archive.org/web/20120207044436/http://cheminfo.informatics.indiana.edu/ |date=2012-02-07 }} 
+ * [http://icep.wikispaces.com Indiana Cheminformatics Education Portal] {{Webarchive|url=https://web.archive.org/web/20101014221442/http://icep.wikispaces.com/ |date=2010-10-14 }} 
+ * [http://reccr.chem.rpi.edu Cheminformatics at Rensselaer Polytechnic Institute] {{Webarchive|url=https://web.archive.org/web/20220408195536/http://reccr.chem.rpi.edu/ |date=2022-04-08 }} 
+ * [http://www.csa-trust.org The Chemical Structure Association Trust] (see also [[CSA Trust]]). 
+ * [http://www.cheminformatics.org Comprehensive cheminformatics link list and data set repository] 
+ * [http://www.genomicglossaries.com/content/chemoinformatics_gloss.asp A cheminformatics glossary] 
+ * [http://moltable.ncl.res.in  Chemoinformatics initiatives at NCL Pune, India] {{Webarchive|url=https://web.archive.org/web/20090824063157/http://moltable.ncl.res.in/ |date=2009-08-24 }} 
+ * [http://moltable.ncl.res.in/icci  International Conference on Chemoinformatics at NCL,Pune] {{Webarchive|url=https://archive.today/20130108081236/http://moltable.ncl.res.in/icci |date=2013-01-08 }} 
+ * Chemical Informatics [http://www.informatics.indiana.edu/academics/chem.asp Education] {{Webarchive|url=https://web.archive.org/web/20071115235826/http://www.informatics.indiana.edu/academics/chem.asp |date=2007-11-15 }} and [http://www.informatics.indiana.edu/djwild Research] {{Webarchive|url=https://web.archive.org/web/20101022005454/http://www.informatics.indiana.edu/djwild/ |date=2010-10-22 }} at Indiana University 
+ * Famous [http://joelib.sourceforge.net/wiki/index.php/Cheminformatics_and_mining_quotation Cheminformatics quotations] {{Webarchive|url=https://web.archive.org/web/20060614102725/http://joelib.sourceforge.net/wiki/index.php/Cheminformatics_and_mining_quotation |date=2006-06-14 }} 
+ * [http://www.qsar.org The Cheminformatics and QSAR Society] 
+ * [http://www.ukqsar.org UK-QSAR and ChemoInformatics Group] 
+ * [http://www.zbh.uni-hamburg.de/study/what_is_CI/index.php?language=en Education and Research at the University of Hamburg] {{Webarchive|url=https://web.archive.org/web/20090430124318/http://www.zbh.uni-hamburg.de/study/what_is_CI/index.php?language=en |date=2009-04-30 }} 
+ * [http://www-ucc.ch.cam.ac.uk/ Cheminformatics research at the Unilever Centre for Molecular Informatics, Cambridge, UK] {{Webarchive|url=https://web.archive.org/web/20100221070637/http://www-ucc.ch.cam.ac.uk/ |date=2010-02-21 }} 
+ * [http://daniel.iut.univ-metz.fr/yachs YACHS Yet Another CHemistry Summarizer, Laboratoire Informatique d'Avignon LIA, France] {{Webarchive|url=https://web.archive.org/web/20110316230931/http://daniel.iut.univ-metz.fr/yachs/ |date=2011-03-16 }} 
+ * [http://www.novamechanics.com/ Cheminformatics research at NovaMechanics Cyprus] 
+ * [http://www.qspr.pe.kr/my/index.php?option=com_bookmarks & Itemid=28 Weblink-Cheminformatics SW and DB] 
+ * [http://chemoinformatician.co.uk Cheminformatics studies from Unilever Centre for Molecular Informatics to OpenEye] 
+ 
+ [[Category:Computational chemistry]] 
+ [[Category:Cheminformatics| ]]

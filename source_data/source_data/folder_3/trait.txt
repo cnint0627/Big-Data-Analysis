@@ -1,0 +1,53 @@
+{{about|traits in biology|other uses of the term|Trait (disambiguation)}} 
+ 
+ A '''trait''', or '''character,''' in [[biology]] is a feature of a living thing. It is part of an organism's [[phenotype]]. 
+ 
+ Every living thing, from tiny organisms like [[bacteria]], to [[plant]]s, [[animal]]s and [[human]]s, has some [[wikt:characteristic|characteristics]] which make it special. Thus an [[elephant]] has tusks, large size and weight, large ears and very large [[molar]] teeth ([[et cetera]]). These are typical characters of the African and Indian elephants. 
+ 
+ Biologists call those ''traits''. The living thing is built in a certain way; this is its ''[[anatomy]]'', its [[structure]] or body. The physical structure ''works'' in a certain way; this is its [[Function (biology)|function]], the way its body works. An animal also ''acts'' in a certain way; this is its [[behavior]]. 
+ 
+ The way that a living thing is structured, the way its body works and the way that it acts are all traits. The basic traits are shared by all the members of the group, ''that is why they are put in the same group''. Other traits are only shared by a small number of the group. 
+ 
+ For example:  
+ * It is an [[anatomy|anatomical]] trait of [[giraffe]]s to have long necks. All giraffes have this trait.  
+ * It is a [[physiology|physiological]] function of birds to lay eggs to produce their young. All birds have this trait.  
+ * It is part of the [[behaviour]] of [[wolves]] to live and hunt in packs; it is part of the behaviour of [[cats]] to live alone or in small family groups, and to hunt alone. These characteristic behaviours are also traits. 
+ 
+ Traits are [[heritable]]: they can be passed on from one generation to the next by [[genes]]. [[Gregor Mendel|Mendel's]] work involved the inheritance of traits on [[pea]] plants. The whole group of traits of an organism is its [[phenotype]]. 
+ 
+ == Trait versus character == 
+ Different sources use the term differently. 'Trait' competes with the term 'character'. 
+ 
+ === Synonyms === 
+ According to some authorities, '''trait''' and '''character''' are [[synonyms]]: 
+ :The ''Dictionary of Genetics'':  " For trait, see character "  and  " Character: any detectable phenotypic property of an organism; synonymous with phenotype, trait " . < ref name=King > King R.C. Stansfield W.D.  &  Mulligan P.K. 2006. ''A dictionary of genetics''. 7th ed, Oxford University Press, p448  &  p71 respectively. {{ISBN|0-19-530761-5}} < /ref > < ref > Ridley, Mark 1996. ''Evolution''. 2nd ed, Wiley-Blackwell, 17.4 and Glossary. {{ISBN|0-86542-495-0}} [3rd ed 2003 Wiley {{ISBN|978-1-4051-0345-9}}] < /ref > 
+ 
+ === 'Trait'  as a sub-character === 
+ Some sources use both terms: 
+ : " Any detectable variation of an [[heritable|inherited]] character. It is the expression of [[genes]] as part of the [[phenotype]] " . < ref > Klug, William S. et al 2012. ''Concepts of genetics''. 10th ed, Pearson, p45 and G-19. {{ISBN|0-321-79578-4|978-0-321-79578-6}} < /ref > 
+ 
+ This works well with [[Mendelian inheritance|Mendelian characters]]. In such cases, a '''character''' is a feature of a species which may present as various traits. Examples: 
+ #[[Eye]] color = character 
+ ##Blue eye color = trait < sub > 1 < /sub > 
+ ##Brown eye color = trait < sub > 2 < /sub > 
+ #Appearance of [[pea]] = character 
+ ##wrinkled = trait < sub > 1 < /sub > 
+ ##smooth = trait < sub > 2 < /sub > 
+ 
+ '''But''' not all characters are inherited in the simple manner of Mendel's pea characters. For example, an animal's [[weight]] is a character, but many genes contribute to it, and so does the animal's environment from birth. Weight is a) continuous rather than discrete (separate steps), b) polygenic (controlled by a number of genes), and c) because weight is influenced by both [[nature versus nurture|heredity and environment]]. 
+ 
+ === Only 'character' used === 
+ To avoid this issue, some sources use only the term '''character'''. Futuyma uses this system for Mendelian characters: 
+ #[[Eye]] color = character 
+ ##Blue eye color = character state < sub > 1 < /sub > 
+ ##Brown eye color = character state < sub > 2 < /sub > 
+ #Appearance of [[pea]] = character 
+ ##wrinkled = character state < sub > 1 < /sub > 
+ ##smooth = character state < sub > 2 < /sub > 
+ This use of 'character state' allows Futuyma to use terms such as 'ancestral state' and 'derived state' when talking about the evolution of characters. < ref > Futuyma D.J. 2005. ''Evolution''. Sinauer Associates, Sunderland, Massachusetts, p22. {{ISBN|0-87893-187-2}}; 2nd ed 2009 Sinauer. {{ISBN|978-0-87893-223-8}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ [[Category:Evolutionary biology]] 
+ [[Category:Classical genetics]]

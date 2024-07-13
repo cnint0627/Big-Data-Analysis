@@ -1,0 +1,135 @@
+{{more sources|date=July 2018}} 
+ [[File:Euclid.jpg|thumb|[[Ancient Greek]] mathematician Euclid (holding calipers), 3rd century BC, as imagined by Raphael in this detail from the School of Athens (1509–1511)]] 
+ '''Mathematics''' is the study of [[number]]s, [[shape]]s, and [[pattern]]s. The word comes from the [[Greek language|Greek]] ''μάθημα'' (máthema), meaning  " [[science]], [[knowledge]], or [[learning]] " , and is sometimes shortened to '''math''' or '''maths'''. 
+ 
+ It is the study of: 
+ * [[Numbers]]: including how things can be [[Counting|counted]]. 
+ * [[Structure]]: including how things are [[organization|organized]], but also how they can be or could have been. This subfield is usually called [[algebra]]. 
+ * Place: where things are, and spatial arrangement, including arrangements of spaces themselves. This subfield is usually called [[geometry]]. 
+ * Change: how things become different. This subfield is usually called [[Mathematical analysis|analysis]]. 
+ 
+ [[Applied math]] is useful for solving problems in the real world. People working in [[business]], [[science]], [[engineering]], and [[construction]] use mathematics. < ref > {{Cite web|url=https://www.siam.org/Students-Education/Programs-Initiatives/Thinking-of-a-Career-in-Applied-Mathematics|title=Thinking of a Career in Applied Mathematics? {{!}} SIAM|website=www.siam.org|language=en-US|access-date=2018-07-30}} < /ref > < ref > {{Cite journal|last=Wigner|first=Eugene|date=February 1960|title=The Unreasonable Effectiveness of Mathematics in the Natural Sciences|url=https://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html|journal=Communications in Pure and Applied Mathematics|volume=13|issue=1|pages=1–14|doi=10.1002/cpa.3160130102|bibcode=1960CPAM...13....1W|s2cid=6112252 |via=|access-date=2018-08-07|archive-date=2018-08-10|archive-url=https://web.archive.org/web/20180810073503/http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html|url-status=dead}} < /ref > 
+ 
+ == Problem-solving in mathematics == 
+ Mathematics solves problems by using [[logic]]. One of the main tools of logic used by mathematicians is [[Deductive reasoning|deduction]]. Deduction is a special way of thinking to discover and prove new truths using old truths. To a mathematician, the reason something is true (called a [[Proof (mathematics)|proof]]) is just as important as the fact that it is true, and this reason is often found using deduction. Using deduction is what makes mathematical thinking different from other kinds of scientific thinking, which might rely on [[experiment]]s or on [[interview]]s. < ref > {{Cite web|url=https://undsci.berkeley.edu/article/mathematics|title=The science checklist applied: Mathematics|website=undsci.berkeley.edu|access-date=2018-08-05}} < /ref > 
+ 
+ Logic and reasoning are used by mathematicians to create general [[rule]]s, which are an important part of mathematics. These rules leave out [[information]] that is not important so that a single rule can cover many situations. By finding general rules, mathematics solves many [[problem]]s at the same time as these rules can be used on other problems. < ref > {{Cite news|url=https://blogs.ams.org/mathgradblog/2016/08/21/role-generalization-advanced-mathematical-thinking/|title=The Role of Generalization in the Advanced Mathematical Thinking|date=2016-08-21|work=AMS Grad Blog|access-date=2018-08-07|language=en-US}} < /ref >  These rules can be called [[theorem]]s (if they have been proven) or [[conjecture]]s (if it is not known if they are true yet). < ref > {{Cite book|title=How to Think Like a Mathematician|url=https://archive.org/details/howtothinklikema00hous_005|last=Houston|first=Kevin|publisher=Cambridge University Press|year=2009|page=[https://archive.org/details/howtothinklikema00hous_005/page/n112 99]|isbn=978-0-521-71978-0}} < /ref >  Most mathematicians use non-logical and creative reasoning in order to find a logical proof. < ref > {{Cite journal|last=Thurston|first=William|date=April 1994|title=On proof and progress in mathematics|journal=Bulletin of the American Mathematical Society|volume=30|issue=2|pages=161–177|doi=10.1090/S0273-0979-1994-00502-6|arxiv=math/9404236|bibcode=1994math......4236T}} < /ref > 
+ 
+ Sometimes, mathematics finds and studies rules or ideas that we don't understand yet. Often in mathematics, ideas and rules are [[choice|chosen]] because they are considered simple or neat. On the other hand, sometimes these ideas and rules are found in the real world after they are studied in mathematics; this has happened many times in the past. In general, studying the rules and ideas of mathematics can help us [[knowledge|understand]] the world better. Some examples of math problems are addition, subtraction, multiplication, division, calculus, fractions and decimals. [[Algebra]] problems are solved by evaluating certain [[variable]]s. A [[calculator]] answers every math problem in the four basic [[arithmetic]] operations. 
+ 
+ == Areas of study in mathematics == 
+ 
+ === Number === 
+ :Mathematics includes the study of numbers and quantities. It is a branch of science that deals with the logic of shape, quantity, and arrangement. Most of the areas listed below are studied in many different fields of mathematics, including [[set theory]] and [[mathematical logic]]. The study of [[number theory]] usually focuses more on the structure and behavior of the integers rather than on the actual foundations of numbers themselves, and so is not listed in this given subsection. 
+ 
+ :{| style= " border:1px solid #999; text-align:center; "  cellspacing= " 20 " 
+ |  < math > 1,2,3,\ldots < /math >  ||  < math > \ldots,-1,0,1,\ldots < /math >  ||  < math > \frac12,\frac23,0.125,\ldots < /math >  ||  < math > \tau,\pi,e,\sqrt2,\ldots < /math >  ||  < math > 1+i,2e^{i\pi/3},\ldots < /math > 
+ |- 
+ | [[Natural number]]s || [[Integer]]s || [[Rational number]]s || [[Real number]]s || [[Complex number]]s 
+ |- 
+ ||  < math > 0,1,\ldots,\omega,\omega+1,\ldots,2\omega,\ldots < /math >  ||  < math > \aleph_0,\aleph_1,\ldots < /math >  ||  < math > +,-,\times,/ < /math >  ||  < math > < ,\le,=,\ge, > < /math >  ||  < math > f(x)=\sqrt x < /math > 
+ |- 
+ || [[Ordinal number]]s || [[Cardinal number]]s || [[Arithmetic|Arithmetic operations]] || [[Arithmetic|Arithmetic relations]] || [[Function (mathematics)|Functions]], see also [[special functions]] 
+ |} 
+ 
+ === Structure === 
+ : Structural mathematics studies objects' and constructions' shape and integrity. These are areas of [[algebra]] and [[calculus]]. 
+ 
+ :{| style= " border:3px solid #999; text-align:center; "  cellspacing= " 30 " 
+ | [[File:Elliptic curve simple.svg|96px]] || [[File:Free module.png|96px]] || [[File:Eigenvectoren.pdf|96px]] ||[[File:Lattice of the divisibility of 60.svg|96px]] || [[File:6n-graf.svg|128px]] 
+ |- 
+ | [[Number theory]] || [[Abstract algebra]] || [[Linear algebra]] || [[Order theory]] || [[Graph theory]] 
+ |} 
+ 
+ === Shape === 
+ :Some areas of mathematics study the shapes of things. Most of these areas are part of the study of [[geometry]]. 
+ 
+ :{| style= " border:1px solid #999; text-align:center; "  cellspacing= " 20 " 
+ | [[File:Torus.jpg|128px]] || [[File:Pythagorean.svg|128px]] || [[File:Sin.svg|160px]] || [[File:Osculating circle.svg|128px]] || [[File:Koch curve.svg|128px]] 
+ |- 
+ | [[Topology]] || [[Geometry]] || [[Trigonometry]] || [[Differential geometry]] || [[Fractal geometry]] 
+ |} 
+ 
+ === Change === 
+ :Some areas of mathematics study the way things change. Most of these areas are part of the study of [[Mathematical analysis|analysis]]. 
+ :{| style= " border:1px solid #999; text-align:center; "  cellspacing= " 40 " 
+ | [[File:Integral as region under curve.svg|128px]] || [[File:Vector field.svg|128px]] || [[File:LimSup.png|128px]] 
+ |- 
+ | [[Calculus]] || [[Vector calculus]] || [[Mathematical analysis|Analysis]] 
+ |- 
+ || [[File:Damping 1.svg|128px]] || [[File:Limitcycle.svg|128px]] || [[File:LorenzAttractor.png|128px]] 
+ |- 
+ || [[Differential equation]]s || [[Dynamical systems theory|Dynamical systems]] || [[Chaos theory]] 
+ |} 
+ 
+ === Applied mathematics === 
+ :[[Applied mathematics|Applied math]] uses symbolic logic to solve problems in areas like [[engineering]] and [[physics]]. 
+ 
+ :[[Numerical analysis]] – [[Optimization (mathematics)|Optimization]] – [[Probability theory]] – [[Statistics]] – [[Finance|Mathematical finance]] – [[Game theory]] – [[Mathematical physics]] – [[Fluid dynamics]] - [[Computational algorithms]] 
+ 
+ == Famous theorems == 
+ These [[theorem]]s and [[conjecture]]s have interested mathematicians and amateurs alike: 
+ 
+ :[[Pythagorean theorem]] – [[Fermat's last theorem|FLT]] – [[Goldbach's conjecture]] – [[Twin Prime Conjecture]] – [[Gödel's incompleteness theorems]] – [[Poincaré conjecture]] – [[Cantor's diagonal argument]] – [[Four color theorem]] – [[Zorn's lemma]] – [[Euler's Identity]] – [[Church-Turing thesis]] 
+ 
+ These theorems and [[hypothesis|hypotheses]] have greatly changed mathematics: 
+ 
+ :[[Central limit theorem]] [[classification theorems of surfaces]] – [[Continuum hypothesis]] – [[Fourier Theorem]] – [[Fundamental theorem of calculus]] – [[Fundamental theorem of algebra]] – [[Fundamental theorem of arithmetic]] – [[Fundamental theorem of projective geometry]] – [[Gauss-Bonnet theorem]] - [[Kantorovich theorem]] – [[P versus NP|P Versus NP]] – [[Pythagorean theorem]] – [[Riemann hypothesis]] 
+ 
+ These are a few conjectures that have been called  " revolutionary " : 
+ 
+ :[[Beal conjecture|Beal Conjecture]] (a generalization of FLT) – [[Birch and Swinnerton-Dyer conjecture|Birch and Swinnerton-Dyer Conjecture]] – [[Collatz conjecture|Collatz Conjecture]] – [[Goldbach's conjecture|Goldbach's Conjecture]] –[[Hodge Conjecture]] – [[Poincaré Conjecture]] 
+ 
+ == Foundations and methods == 
+ 
+ :[[Set theory]] – [[Symbolic logic]] – [[Model theory]] – [[Category theory]] – [[Logic]] – [[Table of mathematical symbols]] 
+ 
+ === History and the world of mathematicians === 
+ 
+ :[[History of mathematics]] – [[Timeline of mathematics]] – [[Mathematician]]s – [[Fields Medal]] – [[Abel Prize]] – [[Millennium Prize Problems|Millennium Prize Problems (Clay Math Prize)]] – [[International Mathematical Union]] – [[Mathematics competitions]] – [[Lateral thinking]] – [[Mathematics and gender]] 
+ 
+ == Awards in mathematics == 
+ There is no [[Nobel Prize]] in mathematics. Mathematicians can receive the [[Abel Prize]] and the [[Fields Medal]] for important works. < ref > {{Cite news|url=https://www.telegraph.co.uk/news/science/11029161/The-Fields-Medal-is-the-greatest-prize-in-maths.html|title=The Fields Medal is the greatest prize in maths [sic]|last=Ronan|first=Mark|journal=The Daily Telegraph|date=2014-08-13|access-date=2018-08-07|language=en-GB|issn=0307-1235}} < /ref > < ref > {{Cite web|url=https://www.theguardian.com/science/alexs-adventures-in-numberland/2018/mar/20/abel-prize-2018-robert-langlands-wins-for-unified-theory-of-maths|title=Abel Prize 2018: Robert Langlands wins for 'unified theory of maths' [sic]|last=Bellos|first=Alex|date=2018-03-20|website=the Guardian|language=en|access-date=2018-08-07}} < /ref > 
+ 
+ The [[Clay Mathematics Institute]] has said it will give one million dollars to anyone who solves one of the [[Millennium Prize Problems]]. 
+ 
+ == Mathematical tools == 
+ There are many tools used to do math or find answers to math problems. 
+ 
+ ;Older tools 
+ * [[Abacus]] 
+ * [[Napier's bones]], [[Slide rule]] 
+ * [[Ruler]] and [[Compass (drafting)|Compass]] 
+ * [[Mental calculation]] 
+ * [[Writing]] 
+ 
+ ;Newer tools 
+ * [[Graphing calculator]]s, [[scientific calculator]]s and more complex [[computer]] visual tools 
+ * [[Programming language]]s 
+ * [[Computer algebra system]]s (listing) and automated [[Matrix (mathematics)|matrix]] analysis 
+ * [[statistics]] [[software]] (for example [[SPSS]]) 
+ * [[SAS (programming language)]] 
+ * [[R (programming language)]] 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ ==Related pages== 
+ * [[Timeline of women in mathematics]] 
+ * [[American Mathematical Society]] 
+ * [[Society for Industrial and Applied Mathematics]] 
+ ** [[EASIAM]] 
+ * [[International Congress on Industrial and Applied Mathematics]] 
+ * [[International Congress of Mathematicians]] 
+ * [[International Mathematical Olympiad]] 
+ * [[Mathematics Genealogy Project]] 
+ * [[Mathematics Subject Classification]] 
+ 
+ == Other websites == 
+ {{Wiktionary|mathematics}} 
+ {{commonscat|Mathematics}} 
+ * [[citizendium:Mathematics|Mathematics]] Citizendium 
+ * {{DMOZ|/Science/Math/}} 
+ {{Areas of mathematics}} 
+ 
+ [[Category:Mathematics]]

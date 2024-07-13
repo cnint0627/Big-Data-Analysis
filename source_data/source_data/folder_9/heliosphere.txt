@@ -1,0 +1,36 @@
+The '''heliosphere''' is the [[magnetosphere]], [[stellar wind]] bubble and outermost atmospheric layer of the [[Sun]].  
+ 
+ [[Image:72408main ACD97-0036-1.jpg|thumb|right|400px|Diagram of features of the heliosphere.  Based on preliminary results from the [[Interstellar Boundary Explorer]].]] 
+ 
+ The '''heliosphere''' is the cavity made by the Sun in the [[interstellar medium]]. Almost all of the material in the heliosphere comes from the [[Sun]] itself.  
+ 
+ For the first ten billion kilometres of its radius, the solar wind travels at over a million kilometres per hour. < ref name=speed > {{cite web|author=Dr. David H. Hathaway|date=January 18, 2007|title=The Solar Wind|publisher=NASA|url=http://solarscience.msfc.nasa.gov/SolarWind.shtml|accessdate=2007-12-11|archive-date=2015-08-13|archive-url=https://web.archive.org/web/20150813081520/http://solarscience.msfc.nasa.gov/SolarWind.shtml|url-status=dead}} < /ref > < ref > {{cite news | first=Robert Roy | last=Britt | title=A Glowing Discovery at the Forefront of Our Plunge Through Space | publisher=SPACE.com | date=March 15, 2000 | url=http://www.space.com/scienceastronomy/solarsystem/heliosphere_shock_000315.html | accessdate=2006-05-24 | archive-date=2001-01-11 | archive-url=https://web.archive.org/web/20010111053400/http://www.space.com/scienceastronomy/solarsystem/heliosphere_shock_000315.html | url-status=dead }} < /ref >  It slows down before finally stopping altogether. The point where the solar wind slows down is the '''termination shock'''; the point where the interstellar medium and solar wind pressures balance is called the '''heliopause'''; the point where the interstellar medium, travelling in the opposite direction, slows down as it collides with the heliosphere is the '''bow shock'''.  
+ 
+ ==Solar wind== 
+ {{main|Solar wind}} 
+ 
+ The solar wind is made of particles. They are charged ([[ion]]ized) atoms from the solar [[corona]], and fields, in particular [[magnetic field]]s. As the Sun [[rotation|rotate]]s once in about 27 days, the magnetic field transported by the [[solar wind]] gets wrapped into a spiral. Differences in the Sun's magnetic field are carried outward by the solar wind and can produce [[Geomagnetic storm|magnetic storm]]s in the Earth's [[magnetosphere]]. 
+ 
+ In March 2005, measurements by the Solar Wind Anisotropies (SWAN) instrument onboard the [[Solar and Heliospheric Observatory]] (SOHO) showed that the heliosphere, the solar wind-filled volume which prevents the solar system from becoming embedded in the local (ambient) interstellar medium, is not [[Symmetry|axisymmetrical]], but is distorted, very likely under the effect of the local galactic magnetic field. < ref name= " esaDistortionHeliosphere " > {{cite journal 
+  | author=Lallement, R.; Quémerais, E.; Bertaux, J. L.; Ferron, S.; Koutroumpa, D.; Pellinen, R. 
+  | title=Deflection of the Interstellar Neutral Hydrogen Flow Across the Heliospheric Interface  
+  | url=http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=36805 
+  | journal=Science | year=2005 | volume=307 | issue=5714 
+  | pages=1447–1449 | accessdate=2007-05-25  | doi=10.1126/science.1107953 
+  | pmid=15746421 
+ | bibcode=2005Sci...307.1447L  
+  | s2cid=36260574  
+  }} < /ref > 
+ 
+ == References == 
+ {{reflist|colwidth=30em}} 
+ {{Magnetospherics}} 
+ 
+ * [http://helios.gsfc.nasa.gov/heliosph.html The Heliosphere (Cosmicopia)] {{Webarchive|url=https://web.archive.org/web/20190904160955/http://helios.gsfc.nasa.gov/heliosph.html |date=2019-09-04 }} 
+ * [http://web.mit.edu/space/www/helio.review/axford.suess.html The Heliosphere], MIT Space Plasma Group 
+ * [http://voyager.jpl.nasa.gov/mission/interstellar.html Voyager Interstellar Mission Objectives] 
+ * {{cite news | title=Space probes reveal Solar System's bullet shape | url=http://www.cosmosmagazine.com/node/1296 | publisher=COSMOS magazine | date=May 11, 2007 | accessdate=2007-05-12 | archive-date=2007-05-13 | archive-url=https://web.archive.org/web/20070513025659/http://www.cosmosmagazine.com/node/1296 | url-status=dead }} 
+ * [http://www.uiowa.edu/~ournews/2003/december/120803gurnett.html UI's Don Gurnett Says Voyager 1 Is Approaching Edge Of Solar System] {{Webarchive|url=https://web.archive.org/web/20060209174413/http://www.uiowa.edu/~ournews/2003/december/120803gurnett.html |date=2006-02-09 }} December 8, 2003 Univ. of Iowa Press release 
+ * {{cite news |url=http://www.universetoday.com/am/publish/size_of_heliopause.html |title=Heliopause Seems to Be 23 Billion Kilometres |publisher=Universe Today |date=December 9, 2003 |accessdate=2007-08-08}} 
+ 
+ [[Category:Sun]]

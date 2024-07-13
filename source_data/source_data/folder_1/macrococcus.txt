@@ -1,0 +1,30 @@
+{{italictitle}} 
+ {{Taxobox 
+ | domain = [[Bacteria]] 
+ | phylum = [[Firmicutes]] 
+ | classis = [[Bacilli]] 
+ | ordo = [[Bacillales]] 
+ | familia = [[Staphylococcaceae]] 
+ | genus = '''''Macrococcus''''' 
+ | genus_authority =  Kloos ''et al''. 1998 
+ | type_species = ''M. equipercicus'' 
+ | subdivision_ranks = Species 
+ | subdivision =  
+ ''[[Macrococcus bovicus]]'' < br / > 
+ ''[[Macrococcus brunensis]]'' < br / > 
+ ''[[Macrococcus canis]]'' < ref name=Macrococcus.canis > {{cite journal|last1=Gobeli Brawand|first1=S|last2=Cotting|first2=K|last3=Gómez-Sanz|first3=E|last4=Collaud|first4=A|last5=Thomann|first5=A|last6=Brodard|first6=I|last7=Rodriguez-Campos|first7=S|last8=Strauss|first8=C|last9=Perreten|first9=V|title=Macrococcus canis sp. nov., a skin bacterium associated with infections in dogs.|journal=International Journal of Systematic and Evolutionary Microbiology|date=March 2017|volume=67|issue=3|pages=621–626|doi=10.1099/ijsem.0.001673|pmid=27902286|doi-access=free}} < /ref > < br / > 
+ ''[[Macrococcus carouselicus]]'' < br / > 
+ ''[[Macrococcus caseolyticus]]'' < br / > 
+ ''[[Macrococcus equipercicus]]'' < br / > 
+ ''[[Macrococcus hajekii]]'' < br / > 
+ ''[[Macrococcus lamae]]'' 
+  }} 
+ '''''Macrococcus''''' is a [[genus]] of [[bacteria]]. The cells are [[Coccus|coccoid]] or [[spherical]]. ''Macrococcus'' is [[gram-positive]]. It is [[catalase]] and [[oxidase]]-positive. < ref > Paul Vos, George Garrity, Dorothy Jones, Noel R. Krieg, Wolfgang Ludwig, Fred A. Rainey, Karl-Heinz Schleifer, William B. Whitman: ''Bergey's Manual of Systematic Bacteriology.'' Volume 3. New York: Springer, 2001. page 354. {{ISBN|978-0387950419}} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ {{biology-stub}} 
+ 
+ [[Category:Gram-positive bacteria]]

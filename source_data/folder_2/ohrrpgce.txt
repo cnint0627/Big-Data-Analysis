@@ -1,0 +1,60 @@
+{{Infobox software 
+ | title = Official Hamster Republic Role Playing Game Construction Engine 
+ | screenshot = OHRRPGCEScreenShot.png 
+ | caption = Some images of the software 
+ | operating system = [[Microsoft Windows]] [[macOS]] (10.5 and above) [[Linux]] (since 2010) [[Android (operating system)]] (2.3 and above) 
+ | website = {{URL|hamsterrepublic.com/ohrrpgce}} 
+ }} 
+ 
+ The '''Official Hamster Republic Role Playing Game Construction Engine''', also known as OHRRPGCE, is a software made for creating [[Video game|video games]]. It was first shared with two different versions: a  " crippled "  version, which had the user be locked with only four maps to build with, and an  " uncrippled "  version, with sixteen maps to build with. < ref > {{Cite web|title=4-map version|url=https://rpg.hamsterrepublic.com/ohrrpgce/4-map_version|access-date=2023-01-18|website=rpg.hamsterrepublic.com}} < /ref > 
+ 
+ == Supported Platforms == 
+ {| class= " wikitable " 
+ |+Currently Supported Platforms for OHRRPGCE 
+ !Operating System 
+ !Versions 
+ !Notes 
+ |- 
+ |[[Microsoft Windows]] 
+ |Windows 95 and above 
+ | 
+ |- 
+ |[[MacOS]] 
+ |10.5 and above 
+ | 
+ |- 
+ |[[Linux]] 
+ |Distributions since 2010 
+ | 
+ |- 
+ |[[Android (operating system)|Android]] 
+ |2.3 and above 
+ |Before the update (called fufluns), Android versions between 1.6 and 2.2 were supported < ref name= " :0 " > {{Cite web|title=System Requirements|url=https://rpg.hamsterrepublic.com/ohrrpgce/System_Requirements|access-date=2023-01-18|website=rpg.hamsterrepublic.com}} < /ref > 
+ |- 
+ |[[FreeBSD]] 
+ | 
+ | 
+ |- 
+ |[[ReactOS]] 
+ | 
+ | 
+ |} 
+ {| class= " wikitable " 
+ |+Previously Supported Platforms for OHRRPGCE 
+ !Operating System 
+ !Versions 
+ !Notes 
+ |- 
+ |[[MS-DOS]] 
+ |All < ref > {{Cite web|title=OLD DOS System Requirements|url=https://rpg.hamsterrepublic.com/ohrrpgce/OLD_DOS_System_Requirements|access-date=2023-01-18|website=rpg.hamsterrepublic.com}} < /ref > 
+ | 
+ |- 
+ |[[Android (operating system)|Android]] (old) 
+ |Between 1.6 and 2.2 
+ |Newer version still supported < ref name= " :0 "  / > 
+ |} 
+ 
+ == References == 
+ {{Reflist}} 
+ [[Category:Video game engines]] 
+ [[Category:Software]]

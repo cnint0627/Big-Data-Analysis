@@ -1,0 +1,34 @@
+{{Infobox software 
+ | name                   = Moodle 
+ | logo                   = Moodle-logo.svg 
+ | screenshot             = 1 MyHomeExample.png 
+ | caption                = Screenshot of a Student's My home page from the Mount Orange demo site moodle.org/demo 
+ | author                 = [[Martin Dougiamas]] 
+ | developer              = [[Martin Dougiamas]] < br / > Moodle HQ < br / > Moodle Community 
+ | programming language   = [[PHP]] 
+ | genre                  = [[Course management system]] 
+ | license                = [[GPLv3]]+ < ref name=license > {{cite web |url=http://git.moodle.org/gw?p=moodle.git;a=blob;f=COPYING.txt;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=HEAD |title=Moodle License}} < /ref > 
+ | latest release version = {{wikidata|property|edit|reference|P348}} 
+ | latest release date    = {{start date and age|{{wikidata|qualifier|P348|P577}}}} 
+ }} 
+ '''Moodle''' is a [[free and open-source]] [[learning management system]] written in [[PHP]] and distributed under the [[GNU General Public License]]. < ref > {{cite web|title=TFD Encyclopedia - Moodle|url=http://encyclopedia2.thefreedictionary.com/Moodle}} < /ref > < ref > {{cite book|title=The Encyclopedia of Distance Learning, Vol1|isbn = 9781605661995|url=https://books.google.com/books?id=sC9Le3jIwzIC & dq=moodle+in+encyclopedia & pg=PA505|last1 = Rogers|first1 = Patricia L.|last2 = Berg|first2 = Gary A.|last3 = Boettcher|first3 = Judith V.|last4 = Howard|first4 = Caroline|last5 = Justice|first5 = Lorraine|last6 = Schenk|first6 = Karen D.|date = 31 January 2009}} < /ref >  It was designed for education as online learning space. 
+ 
+ The name ''moodle'' stands for  " Module Object Oriented Dynamic Learning Environment " . 
+ 
+ It was developed by [[Martin Dougiamas]]. 
+ 
+ == Development == 
+ Moodle has continued to evolve since 1999 (since 2001 with the current architecture). It has been translated into over 100 different languages and is accessible in many countries worldwide. < ref > {{cite web|url=https://docs.moodle.org/en/Language_packs|title=Language packs - MoodleDocs|publisher=}} < /ref >  Institutions can add as many Moodle servers as needed without having to pay license fees. The [[Open University]] of the UK currently uses a Moodle installation for their 200,000 users < ref > {{cite web|url=http://www.linuxpromagazine.com/Online/News/Simply-the-Best-Case-Study-for-Moodle-at-Open-University|title=Simply the Best: Case Study for Moodle at Open... » Linux Magazine|first=Anika|last=Kehrer|publisher=}} < /ref >  while the UK government uses a Moodle installation for their Civil Service Learning platform serving half a million employees. < ref > {{cite web|url=http://leolearning.com/client-story/civil-service-learning/|title=Civil Service Learning - LEO|publisher=}} < /ref > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Sister project links |wikt=no |commons=Moodle |b=no |n=no |q=no |s=no |v=Moodle |species=no |display=Moodle}} 
+ * {{Official website}} 
+ 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Free software]] 
+ [[Category:Learning]]

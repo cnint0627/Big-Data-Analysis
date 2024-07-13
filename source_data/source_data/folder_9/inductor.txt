@@ -1,0 +1,43 @@
+{{refimprove|date=October 2010}} 
+ [[File:Electronic component inductors.jpg|thumb|different inductors]] 
+ An '''inductor''' is an electrical device used in [[electrical circuit]]s because it acts like [[inertia]] in the electrical circuit. Just like inertia opposes the change in state of motion, inductor opposes the change in [[electric current]]. 
+ 
+ An inductor is usually made from a [[coil]] of [[Electrical conductor|conducting]] material, like copper wire, that is then wrapped around a [[magnetic core|core]] made from either air or a magnetic metal.  If you use a more magnetic material as the core, you can get the magnetic field around the inductor to be pushed in towards the inductor, giving it better inductance. < ref name = " Induct 101 " > {{cite web|url=http://www.newark.com/pdfs/techarticles/vishay/Inductors101.pdf |title=Inductors 101 |publisher=Vishay Intertechnology, Inc.|date=2008-08-12 |accessdate=2010-10-02}} < /ref >   Small inductors can also be put onto [[integrated circuit]]s using the same ways that are used to make [[transistor]]s.  Aluminum is usually used as the conducting material in this case. 
+ 
+ ==How inductors work== 
+ {{for|how inductors work in series and parallel circuits|Series and parallel circuits}} 
+ While a [[capacitor]] reacts against changes in voltage, an inductor reacts against changes in current. The inductor affects the current like [[inertia]]. 
+ 
+ In general, the relationship between the time-varying voltage ''v''(''t'') across an inductor with inductance ''L'' and the time-varying current ''i''(''t'') passing through it is described by the [[differential equation]]: 
+ 
+ < math > v(t) = L \frac{di}{dt}. < /math > < ref > " [http://www.allaboutcircuits.com/textbook/direct-current/chpt-15/inductors-and-calculus/ Inductors and Calculus] " , All About Circuits, Retrieved June 8, 2016 < /ref > 
+ 
+ ==How inductors are used== 
+ Inductors are used often in [[analog circuit]]s. < ref name=analog > " [http://www.engineersblogsite.com/inductor.html Inductor] {{Webarchive|url=https://web.archive.org/web/20191208132236/http://www.engineersblogsite.com/inductor.html |date=2019-12-08 }} " , Engineersblogsite.com, Retrieved June 8, 2016 < /ref >  Two or more inductors that have coupled [[magnetic flux]] make a [[transformer]]. Transformers are used in every power grid around the world. 
+ 
+ Inductors are also used in electrical transmission systems, where they are used to lower the amount of voltage an electrical device gives off or lower the [[fault current]]. 
+ Because inductors are heavier than other electrical components, people have been using them in electrical equipment less often. < ref name=analog / > 
+ 
+ Inductors with an iron core are used for audio equipment, power conditioning, inverter systems, rapid transit and industrial power supplies. < ref > " [http://www.agilemagco.com/power-inductors/iron-core Highly Efficient Iron Core Inductors] " , Agile Magnetics, Retrieved June 8, 2016 < /ref > 
+ 
+ 
+ Electrical engineers like to reduce diagrams of electrical circuits, no matter how complicated, to an ''equivalent circuit'' consisting of a network of just ''four'' different types of component.  These four basic components are ''emfs'', ''resistors'', ''capacitors'', and ''inductors''.  An inductor is usually represented by a little [[solenoid]] in circuit diagrams. In practice, inductors generally consist of short air-cored solenoids wound from enameled copper wire. 
+ 
+ ==Related pages== 
+ *[[Magnetic charge]] 
+ *[[Transformer]] 
+ *[[Coil]] 
+ *[[Resistor]] 
+ *[[Capacitor]] 
+ *[[Magnetic core]] 
+ *[[Induction coil]] 
+ *[[Induction loop]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Commonscat|Inductors}} 
+ * [http://electronics.howstuffworks.com/inductor1.htm How stuff works] How inductors work, made very simple. 
+ 
+ [[Category:Electronic components]]

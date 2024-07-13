@@ -1,0 +1,37 @@
+{{Infobox software 
+ | name = ChatGPT 
+ | logo = ChatGPT logo.svg 
+ | screenshot = ChatGPT Wales Tiananmen Square 2022-12-30 181035.png 
+ | screenshot size =  
+ | caption = A screenshot showing an example of a conversation 
+ | author =  
+ | developer = [[OpenAI]] 
+ | released = {{Start date and age|2022|11|30}} 
+ | latest release version =  
+ | latest release date =  
+ | repo =  
+ | programming language =  
+ | operating system =  
+ | genre = [[Artificial intelligence]] [[chatbot]] 
+ | license = [[Proprietary software|Proprietary]] 
+ | website = {{url|https://chat.openai.com}} 
+ }} 
+ '''ChatGPT''' (short for '''Chat Generative Pre-trained Transformer''') < ref > {{cite web |last=Roose |first=Kevin |date=5 December 2022 |title=The Brilliance and Weirdness of ChatGPT |url=https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html |access-date=26 December 2022 |website= |publisher=New York Times |language=en-US |format=HTML |quote=Like those tools, ChatGPT — which stands for “generative pre-trained transformer” — landed with a splash.}} < /ref >  is a [[chatbot]]. It was launched by [[OpenAI]] in November 2022. The program is built on OpenAI's GPT-3.5 family of large language models. It has both [[supervised learning|supervised]] and [[reinforcement learning]] techniques. 
+ 
+ ChatGPT was launched as a prototype on November 30, 2022. The website had more than one million users after five days. < ref name= " gizmodo-1mil " > {{cite web |title=ChatGPT Is Too Popular for Its Own Good |url=https://gizmodo.com/chatgpt-down-ai-chatbot-1-million-users-1849866029 |website=Gizmodo |accessdate=31 December 2022 |language=en |date=12 December 2022}} < /ref >  By January 2023, ChatGPT reached over 100 million users. < ref > {{Cite news|last=Milmo|first=Dan|date=2023-02-02|title=ChatGPT reaches 100 million users two months after launch|language=en-GB|work=The Guardian|url=https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app|access-date=2023-02-03|issn=0261-3077}} < /ref >  It got attention for its answers in many areas of [[knowledge]] but its incorrect accuracy was said to be a major drawback. < ref name= " TheVergeStackOverflow " > {{Cite web |last=Vincent |first=James |date=5 December 2022 |title=AI-generated answers temporarily banned on coding Q & A site Stack Overflow |url=https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers |access-date=5 December 2022 |work=[[The Verge]] |language=en-US |format=HTML}} < /ref > 
+ 
+ As of December 2022, the chatbot was a  " Research Preview "  according to its [[website]]. While the chatbot is free to use, some people have heard about a paid version called ChatGPT Professional. The website also warns users that the bot may give wrong information or have [[Bias|biased]] content. 
+ 
+ == Misuse == 
+ ChatGPT can be used to create computer programs called [[malware]]. Malware can harm other computers, steal information, or get in to networks without permission. ChatGPT can also make messages that look like they were written by real people which could trick people. 
+ 
+ ChatGPT can be used by students to cheat on homework or essays. ChatGPT can generate writing on many different topics, so students could use it to finish assignments without actually doing the work themselves. 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ == Other websites == 
+ {{commons}} 
+ 
+ [[Category:Software]] 
+ [[Category:Artificial intelligence]]

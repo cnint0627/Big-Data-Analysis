@@ -1,0 +1,16 @@
+[[File:Regular octadecagon.svg|thumb|A octadecagon]] 
+ A '''octadecagon''' or '''18-gon''' is a [[Polygon|shape]] with 18 sides and 18 [[Vertex (geometry)|corner]]s. 
+ 
+ == Regular octadecagon == 
+ All sides of a '''regular octadecagon''' are the same length. Each corner is 160°. All corners added together equal 2880°. 
+ 
+ === Area === 
+ The amount of space a regular octadecagon takes up is 
+ 
+ The [[area]] of a [[Regular polygon|regular]] octadecagon of side length ''a'' is given by 
+ : < math > A = \frac{18}{4}a^2\cot\frac{\pi}{18}\simeq 25,5208a^2 < /math > 
+ 
+ {{Math-stub}} 
+ {{Polygons}} 
+ 
+ [[Category:Polygons|18]]

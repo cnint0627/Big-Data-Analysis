@@ -1,0 +1,36 @@
+:''This article is about the computing protocol. For the substance used for cleaning, see [[soap]]'' 
+ {{IPstack}} 
+ 
+ '''SOAP''' is a [[protocol]] used in [[computing]]. [[Web service]]s use this protocol to communicate. SOAP uses [[XML]] to encode a message. It uses other application-layer protocols, for transport, and content negotiation, for example [[HTTP]] and [[Remote procedure call]]. The most common combination is to use SOAP with HTTP and [[TCP]]. There are different versions, 1.0, 1.1, and 1.2. Before version 1.2 SOAP stood for Simple Object Access Protocol. Since version 1.2 the protocol is simply called ''SOAP''. This is because the protocol is not ''simple'', and that it can be used for other purposes than accessing objects.  
+ 
+ == Introduction == 
+ 
+ SOAP is a lightweight protocol intended for exchanging structured information in a decentralized, distributed environment. SOAP uses XML technologies to define an extensible messaging framework, which provides a message construct that can be exchanged over a variety of underlying protocols. The framework has been designed to be independent of any particular programming model and other implementation specific semantics. 
+ 
+ == SOAP Versions == 
+ 
+ {| class= " wikitable " 
+ |- 
+ ! SOAP 1.1 !!  
+ |- 
+ | Namespace Name || http://schemas.xmlsoap.org/soap/envelope/ 
+ |- 
+ | Spec Location || http://www.w3.org/TR/SOAP/ 
+ |- 
+ ! SOAP 1.2 ||  
+ |- 
+ | Namespace Name||http://www.w3.org/2003/05/soap-envelope 
+ |- 
+ | Spec Location ||  http://www.w3.org/TR/soap12-part0/ (Primer)  < br / > 
+ http://www.w3.org/TR/soap12-part1/    < br / > 
+ http://www.w3.org/TR/soap12-part2/ 
+  |} 
+ 
+ == Messaging Framework == 
+ 
+ The core section of the SOAP specification is the messaging framework. The SOAP messaging framework defines a suite of XML elements for  " packaging "  arbitrary XML messages for transport between systems.  
+ 
+ The framework consists of the following core XML elements: Envelope, Header, Body, and Fault, all of which are from the http://schemas.xmlsoap.org/soap/envelope/ namespace in SOAP 1.1. I've provided the full XML Schema definition for SOAP 1.1 in the following code for your reference as you read through the remainder of this section. Personally, I find it helpful to inspect the schema whenever familiarizing myself with XML constructs.SOAP UI is a tool use to test whether SOAP is sending and receiving the messages properly as part of Unit testing in IT projects. 
+ 
+ {{tech-stub}} 
+ [[Category:Internet protocols]]

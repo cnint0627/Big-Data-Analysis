@@ -1,0 +1,48 @@
+{{Taxobox 
+ | name = Archonta 
+ | image = Archonta.png 
+ | image_width = 200px 
+ | image_caption = 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Chordate|Chordata]] 
+ | classis = [[Mammal]]ia 
+ | subclassis = [[Placentalia]] 
+ | superordo = '''Archonta''' 
+ | superordo_authority =  
+ | subdivision_ranks = Subgroups 
+ | subdivision = 
+ *[[Euarchonta]] 
+ *[[Bat|Chiroptera]] 
+ }} 
+ 
+ The '''Archonta''' is a deprecated [[superorder]] of [[placental mammal]]s, in which are included [[bats]], [[primates]], [[colugo]]s, and [[treeshrew]]s. It was only used in linnaean classification 
+ 
+ Archonta  consists of these orders: 
+ *[[Primate]]s 
+ *[[Treeshrew|Scandentia]] (treeshrews) 
+ *[[Colugo|Dermoptera]] (colugos) 
+ *[[Chiroptera]] (bats) 
+ 
+ {{Clade 
+ |label1='''Archonta''' 
+ |1={{Clade 
+ |1=[[Chiroptera]] (bats)[[File:California_leaf-nosed_bat.jpg|60 px]] 
+ |label2=[[Euarchonta]] 
+ |2={{Clade 
+ |1=[[Scandentia]][[File:Tupaia_belangeri_-Kaeng_Krachan.jpg|60 px]] 
+ |label2=[[Primatomorpha]] 
+ |2={{Clade 
+ |1=[[Dermoptera]][[File:Colugo_(Galeopterus_variegatus,_adult_female),_Central_Catchment_Area,_Singapore_-_20060618.jpg|60 px]] 
+ |2={{Clade 
+ |1=[[Plesiadapiformes]][[File:Plesiadapis_NT.jpg|60 px]] 
+ |2=[[Primate]]s[[File:Bonnet_macaque_-_Macaca_radiata.jpg|60 px]] 
+ }} 
+ }} 
+ }} 
+ }} 
+ }} 
+ 
+ {{-}} 
+ {{biology-stub}} 
+ 
+ [[Category:Mammals]]

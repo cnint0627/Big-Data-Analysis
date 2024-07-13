@@ -1,0 +1,24 @@
+'''Aminet''' is the world's largest archive of Amiga-related software and files. < ref > {{Cite web|url=https://www.definitions.net/definition/aminet|title=What does aminet mean?}} < /ref >   
+ 
+ Aminet was originally hosted by several universities' FTP sites, and is now available on CD-ROM and on the web. 
+ 
+ In 1 April 2013, Aminet has 80592 packages online. 
+ 
+ == History == 
+ In January 1992, [[Switzerland|Swiss]] student Urban Müller start to work with software archive. It had been started by other members of a computer science students' club. 
+ 
+ Soon the archive became famous worldwide. In 1995 Aminet has started to distribute on monthly CD-ROMs. < ref > {{Cite web|title=Redirecting to Google Groups|url=https://groups.google.com/forum/#!original/comp.sys.amiga.announce/j89TYGs6RhI/X7J3aDtJGJ8J|access-date=2021-09-29|website=groups.google.com}} < /ref > 
+ 
+ By using a single master site for creating ftp scripts for each slave site, Aminet reduced to a bare minimum for setting up new mirror sites. < ref > {{Cite journal|last=Grosse|first=Eric|date=1995-03-01|title=Repository mirroring|url=https://doi.org/10.1145/200979.201000|journal=ACM Transactions on Mathematical Software|volume=21|issue=1|pages=89–97|doi=10.1145/200979.201000|s2cid=6127610|issn=0098-3500}} < /ref > 
+ 
+ Aminet also shows practical use of metadata schema by software repositories. < ref > {{Cite web|title=Arquivo.pt|url=https://ipres.ischool.utoronto.ca/sites/ipres.ischool.utoronto.ca/files/iPres%202012%20Conference%20Proceedings%20Final.pdf|access-date=2021-09-29|website=arquivo.pt|archive-date=2016-01-10|archive-url=http://arquivo.pt/wayback/20160110002619/https://ipres.ischool.utoronto.ca/sites/ipres.ischool.utoronto.ca/files/iPres%202012%20Conference%20Proceedings%20Final.pdf|url-status=bot: unknown}} < /ref >  Reports of daily additions to this software archive were posted automatically to Usenet or could be requested as an email newsletter. 
+ 
+ Most of the programs on Aminet were public domain or shareware, but software companies made updates and demo versions of their programs available.  
+ 
+ Now Aminet becomes wider by platform specific sites archiving software for AmigaOS 4, AROS or MorphOS only. 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Technology companies of Europe]] 
+ [[Category:Archives]]

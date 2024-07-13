@@ -1,0 +1,11 @@
+The '''MICR''' is a [[computer hardware|device]] that can recognise human readable [[letter|character]]s printed on documents such as [[cheque]]s using a special [[magnetic ink]]. The reader reads these characters by examining their shapes. Characters are printed in a special [[font]]. Each character is formed by a 7 x 10 matrix. The MICR has a magnetic head which can detect the magnetic pattern for each character. 
+ 
+ The abbreviation MICR stands for Magnetic Ink Character Recognition. This is a type of data input often found in [[bank]]s. The bank account number and other details are printed onto bank [[:wikt:cheque|cheque]]s (USA - checks)in a special [[wikt:font|font]] with magnetic ink. 
+ 
+ The magnetic characters can be read very quickly and accurately by MICR readers. 
+ 
+ [[File:MICR char.svg|MICR digits]] 
+ 
+ Numbers in a special MICR font 
+ 
+ [[Category:Data input]]

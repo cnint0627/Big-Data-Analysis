@@ -1,0 +1,32 @@
+'''Enthalpy''' is a concept used in science and engineering when [[heat]] and [[Work (physics)|work]] need to be calculated. The name comes from the Greek word  " enthalpos "  (ενθαλπος), meaning  " to put heat into " . The idea and the word were made up by the Dutch scientist Heike Kamerlingh Onnes in 1909. 
+ 
+ When a substance changes at constant [[pressure]], enthalpy tells how much [[heat]] and [[Work (physics)|work]] were added or removed from the substance. 
+ 
+ Enthalpy is similar to [[energy]], but not the same. When a substance grows or shrinks, energy is used up or released. Enthalpy accounts for this energy. Because of this, scientists often calculate the change in enthalpy, rather than the change in energy. 
+ 
+ Consider a system containing a fixed amount of gas. Any heat energy entering the system will: 
+ 
+ 1) Increase the Internal Energy of the gas 
+ 
+ or 
+ 
+ 2) Lead to some work being done to expand the system. 
+ The work done is the product of pressure and volume. Enthalpy takes both these factors into account, therefore: 
+     Enthalpy (H)= Internal Energy (E) + (Pressure(P) x Volume (v)); H = E + (P x V) 
+ 
+ ==Enthalpy and chemical reactions== 
+ When a [[chemical reaction]] happens, a substance can become warmer or colder. As a result, heat will flow from the substance to things around it, or from things around it to the substance, until its temperature is the same again. If the pressure stays the same, this amount of heat tells how much the enthalpy changed. 
+ 
+ For example, if [[gasoline]] is burned in the open air, heat is released by the gasoline. If we suppose 100 kilojoules of heat were released, then the enthalpy of the gasoline was reduced by 100-kilo joules. Therefore the change in enthalpy for this reaction was ∆''H'' = –100 kJ. 
+ 
+ If a chemical reaction gives off heat (warming its surroundings), then the enthalpy of the reaction is said to have decreased. The value of ∆''H'' is negative. This kind of reaction, like the example above, is called exothermic. 
+ 
+ If a chemical reaction absorbs heat (cooling its surroundings), then the reaction's enthalpy has increased. The value of ∆''H'' is positive. This is called an [[endothermic]] reaction. 
+ 
+ ==Related pages== 
+ *[[Thermodynamic potential]] 
+ *[[Entropy]] 
+ *[[Gibbs free energy]] 
+ {{HVAC}} 
+ [[Category:Thermodynamics]] 
+ [[Category:HVAC]]

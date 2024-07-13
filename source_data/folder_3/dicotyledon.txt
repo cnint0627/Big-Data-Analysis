@@ -1,0 +1,74 @@
+{{taxobox 
+ | image = Lamium album (1).JPG 
+ | image_caption = ''[[Lamium album]]'' (white dead nettle) 
+ | regnum = [[Plant]]ae 
+ | unranked_divisio = [[Flowering plant|Angiosperms]]  < !-- This needs redoing correctly, as the underlying teعmplate cannot take a list like this.-- > 
+ *[[Eudicot]] 
+ *[[Magnoliid]] 
+ *''[[Amborella]]'' 
+ *[[Nymphaeales]] 
+ *[[Austrobaileyales]] 
+ *[[Chloranthales]] 
+ *''[[Ceratophyllum]]'' 
+ | excluded = [[Monocotyledon|Monocot]] 
+ | subdivision_ranks = [[Order (biology)|Orders]] 
+ | subdivision = 
+ | synonyms = Dicotyledoneae}} 
+ 
+ [[Image:Young castor bean plant showing prominent cotyledons.jpg|thumb|200px|Young [[castor oil plant]] showing its prominent two embryonic leaves ([[cotyledon]]s). They differ from the adult leaves.]] 
+ 
+ The '''dicotyledons''', also known as '''dicots''', are one of the two groups of [[flowering plant]]s (angiosperms). The name refers to their [[seed]]s having two embryonic leaves or [[cotyledon]]s. There are around 200,000 [[species]] in this group. < ref name=Hamilton2006 > {{Citation | last1 = Hamilton | first1 = Alan| last2 = Hamilton | first2 = Patrick| year = 2006| title = Plant conservation : an ecosystem approach| pages = 2| url = https://books.google.com/books?id=P6m0OTheY8sC| isbn = 978-1-84407-083-1| publisher = Earthscan| location = London }} < /ref >   
+ 
+ The other group of flowering plants were called [[monocotyledon]]s or monocots, with one cotyledon. Historically, these two groups formed the two divisions of the flowering plants. 
+ 
+ [[Sequence analysis]] showed what botanists already suspected: dicotyledons are not a [[monophyletic]] group. They are a number of lines, such as the [[magnoliids]], and groups now known as [[basal]] angiosperms. They diverged earlier than the monocots did. The traditional dicots are a [[Paraphyly|paraphyletic]] group.  
+ 
+ The largest clade of the dicotyledons are known as the [[eudicots]]. They are definitely [[monophyletic]]. They differ from all other flowering plants in the structure of their [[pollen]]. Other dicotyledons and monocotyledons have an older type of pollen, whereas eudicots have [[derived]] pollen. 
+ 
+ == Compared to monocotyledons == 
+ Apart from [[cotyledon]] number, there are other differences between [[monocots]] and dicots. These are differences mainly between monocots and [[eudicots]]. Many early-diverging dicot groups have  " monocot "  characteristics such as scattered [[vascular tissue|vascular bundles]], trimerous flowers, and old-type [[pollen]]. < ref name=UCB > {{cite web|title=Monocots versus Dicots|url=http://www.ucmp.berkeley.edu/glossary/gloss8/monocotdicot.html|publisher=University of California Museum of Paleontology|accessdate=25 January 2012}} < /ref >  Also, some monocots have dicot characteristics such as [[Leaf#Veins|reticulated leaf veins]]. < ref name=UCB/ > 
+ 
+ 
+ {| class= " wikitable " 
+ |- 
+ ! Feature 
+ ! In monocots 
+ ! In dicots 
+ |- 
+ | Number of parts of each flower 
+ | In threes (flowers  < br/ > are trimerous) 
+ | In fours or fives  
+ |- 
+ | Number of furrows or pores in pollen 
+ | One 
+ | Three 
+ |- 
+ | Number of [[cotyledon]]s  < br/ > (leaves in the seed) 
+ | One 
+ | Two 
+ |- 
+ | Arrangement of vascular  < br/ > bundles in the [[Plant stem|stem]] 
+ | Scattered 
+ | In concentric circles 
+ |- 
+ | Roots 
+ | Develop from  < br/ > various places 
+ | Develop from the  < br/ > bottom of seedling 
+ |- 
+ | Arrangement of major [[leaf#Veins|leaf veins]] 
+ | [[Parallel (geometry)|Parallel]] 
+ | [[wiktionary:reticulate|Reticulate]] 
+ |- 
+ | [[Secondary growth]]  < br/ > thickens stem 
+ | Absent 
+ | Often present 
+ |} 
+ 
+ == Related pages == 
+ *[[Magnoliopsida]] 
+ *[[Angiosperm Phylogeny Group]] 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ [[Category:Flowering plants]]

@@ -1,0 +1,155 @@
+{{distinguish2|the [[Loire]], a much bigger French river}} 
+ {{otheruses}} 
+ {{Infobox river 
+   | name              = Loir 
+   | image             =Lavardin.jpg 
+   | image_caption     = The Loir in [[Lavardin, Loir-et-Cher|Lavardin]] 
+   | map = Loir (rivière).png 
+   | nickname           = ''Loir sans E'' ( " Loir-without-E " ) < ref > {{Cite web|url=https://www.orthodidacte.com/videos-francais/noms-de-departements-et-de-regions/|title = Noms de départements et de Régions  & #124; Orthodidacte|date = 15 February 2018}} < /ref > < ref > {{Cite book|url=https://books.google.com/books?id=Xfm0AAAAIAAJ & q=%22Loir+sans+e%22|title=Comme une odeur de pétrole--: la recherche du pétrole en France des origines à 1945|first=Pierre L.|last=Maubeuge|date=December 6, 1996|publisher=Pierron|isbn=9782708501485|via=Google Books}} < /ref > 
+ | native_name       ={{native name|fr|Le Loir}} 
+ |name_etymology=From [[Gaulish language|Gaulish]] ''ledo'',  " flow " < ref > {{Cite book|url=https://books.google.com/books?id=rsNpi7IVulEC & dq=Gaulish+ledo+loir & pg=PA117|title=Toponymie générale de la France|isbn=9782600028837|last1=Nègre|first1=Ernest|year=1990}} < /ref > 
+   | source1_location  = [[Perche]]  
+   | mouth_location    = [[Sarthe (river)|Sarthe]] 
+   | mouth_coordinates = {{coord|47|33|27|N|0|31|35|W|format=dms|display=inline,title}} 
+ 
+   | subdivision_type1 = Country 
+   | subdivision_name1 = [[France]] 
+   | length            = {{convert|319|km|mi|abbr=on}} 
+   | source1_elevation = {{convert|150|m|ft|abbr=on}} 
+   | discharge1_avg    = {{convert|33|m3/s|cuft/s|abbr=on}} 
+   | basin_size        = {{convert|8270|km2|mi2|abbr=on}} 
+ }} 
+ The '''Loir''' is a river in central [[France]]. It is a left [[tributary]] of the [[Sarthe (river)|Sarthe]]. It flows through two [[regions of France]]: [[Centre-Val de Loire]] and [[Pays de la Loire]] 
+ 
+ The [[Eure-et-Loir]] and [[Loir-et-Cher]] [[Departments of France|departments]] are named after this river. 
+ 
+ ==Geography== 
+ The Loir is {{Convert|317.4|km|mi|1|abbr=off}} long. Its [[drainage basin]] covers {{Convert|8294|km2|sqmi|0|abbr=off}}. < ref name= " sandre " > {{cite web|url=http://services.sandre.eaufrance.fr/Courdo/Fiche/client/fiche_courdo.php?CdSandre=M1--0160|title=le Loir (M1--0160)|publisher=SANDRE - Portail national d'accès aux référentiels sur l'eau|language=fr|access-date=9 August 2017}} < /ref > 
+ 
+ Its average yearly [[Discharge (hydrology)|discharge]] ([[volume]] of [[water]] which passes through a section of the river per [[Unit of measurement|unit]] of [[time]]) is {{Convert|31.70|m3/s|cuft/s|abbr=on }} at [[Durtal]], [[Maine-et-Loire]] (1961 - 2017). < ref > {{cite web |url=http://www.hydro.eaufrance.fr/stations/M1531610 & procedure=synthese |title=Le Loir à Durtal |publisher=Banque Hydro |language=fr |access-date=9 August 2017 |archive-date=21 July 2021 |archive-url=https://web.archive.org/web/20210721102121/http://www.hydro.eaufrance.fr/stations/M1531610%26procedure%3Dsynthese |url-status=dead }} < /ref > 
+ 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:300 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:70 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:10 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:5 start:0 
+ BackgroundColors = canvas:sfondo  
+ 
+ BarData= 
+  bar:Jan text:Jan. 
+  bar:Feb text:Feb. 
+  bar:Mar text:Mar. 
+  bar:Apr text:Apr. 
+  bar:May text:May 
+  bar:Jun text:Jun. 
+  bar:Jul text:Jul. 
+  bar:Aug text:Aug. 
+  bar:Sep text:Sep. 
+  bar:Oct text:Oct. 
+  bar:Nov text:Nov. 
+  bar:Dec text:Dec. 
+ 
+ PlotData= 
+  color:barra width:20 align:left 
+ 
+  bar:Jan from:0 till: 60.10 
+  bar:Feb from:0 till: 59.90 
+  bar:Mar from:0 till: 50.70 
+  bar:Apr from:0 till: 37.10 
+  bar:May from:0 till: 26.90 
+  bar:Jun from:0 till: 19.30 
+  bar:Jul from:0 till: 13.90 
+  bar:Aug from:0 till: 12.00 
+  bar:Sep from:0 till: 13.60 
+  bar:Oct from:0 till: 18.90 
+  bar:Nov from:0 till: 27.50 
+  bar:Dec from:0 till: 42.10 
+ 
+ PlotData= 
+  bar:Jan at: 60.10 fontsize:S text: 60.10 shift:(-9,5) 
+  bar:Feb at: 59.90 fontsize:S text: 59.90 shift:(-12,5) 
+  bar:Mar at: 50.70 fontsize:S text: 50.70 shift:(-12,5) 
+  bar:Apr at: 37.10 fontsize:S text: 37.10 shift:(-12,5) 
+  bar:May at: 26.90 fontsize:S text: 26.90 shift:(-12,5) 
+  bar:Jun at: 19.30 fontsize:S text: 19.30 shift:(-12,5) 
+  bar:Jul at: 13.90 fontsize:S text: 13.90 shift:(-12,5) 
+  bar:Aug at: 12.00 fontsize:S text: 12.00 shift:(-12,5) 
+  bar:Sep at: 13.60 fontsize:S text: 13.60 shift:(-12,5) 
+  bar:Oct at: 18.90 fontsize:S text: 18.90 shift:(-12,5) 
+  bar:Nov at: 27.50 fontsize:S text: 27.50 shift:(-12,5) 
+  bar:Dec at: 42.10 fontsize:S text: 42.10 shift:(-12,5) 
+ < /timeline > 
+ '''Average monthly discharge (m < sup > 3 < /sup > /s) at Durtal''' 
+ < /center > 
+ 
+ ===Course=== 
+ The Loir starts in the former [[province]] of ''Perche'', in the ''commune'' of [[Champrond-en-Gâtine]], [[Eure-et-Loir]] department, [[Centre-Val de Loire]] [[Regions of France|region]]. It starts at an [[altitude]] of about {{Convert|265|m|ft|0|abbr=off}}. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=1.052222,48.378056 & z=16 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Source du Loir |publisher=Géoportail |language=fr |access-date=9 August 2017 }} < /ref > 
+ 
+ The Loir flows, in general, to the southwest. It goes through the following regions, departments and ''communes'': < ref name= " sandre "  / > 
+ 
+ * [[Centre-Val de Loire]] region 
+ ** [[Eure-et-Loir]]: [[Alluyes]], [[Illiers-Combray]], [[Bonneval, Eure-et-Loir|Bonneval]], [[La Chapelle-du-Noyer]], [[Châteaudun]], [[Cloyes-sur-le-Loir]], [[Donnemain-Saint-Mamès]], [[Douy]], [[Marboué]], [[Moléans]], [[Montboissier]], [[Montigny-le-Gannelon]], [[Romilly-sur-Aigre]], [[Saint-Avit-les-Guespières]], [[Saint-Christophe, Eure-et-Loir|Saint-Christophe]], [[Saint-Denis-les-Ponts]], [[Saint-Éman]] (sources), [[Saint-Hilaire-sur-Yerre]], [[Saint-Maur-sur-le-Loir]], [[Saumeray]], [[Le Thieulin]]. 
+ ** [[Loir-et-Cher]]: [[Areines]], [[Artins]], [[Brevainville]], [[Couture-sur-Loir]], [[Fréteval]], [[Lavardin, Loir-et-Cher|Lavardin]], [[Les Roches-l'Évêque]], [[Lignières, Loir-et-Cher|Lignières]], [[Lisle, Loir-et-Cher|Lisle]], [[Mazangé]], [[Meslay, Loir-et-Cher|Meslay]], [[Montoire-sur-le-Loir]], [[Morée, Loir-et-Cher|Morée]], [[Naveil]], [[Pezou]], [[Saint-Firmin-des-Prés]], [[Saint-Hilaire-la-Gravelle]], [[Saint-Jacques-des-Guérets]], [[Saint-Jean-Froidmentel]] ; [[Saint-Martin-des-Bois]], [[Saint-Ouen, Loir-et-Cher|Saint-Ouen]], [[Tréhet]], [[Villiers-sur-Loir]], [[Vendôme]], [[Thoré-la-Rochette]]. 
+ * [[Pays de la Loire]] region 
+ ** [[Sarthe]]: [[Poncé-sur-le-Loir]], [[Ruillé-sur-Loir]], [[La Chartre-sur-le-Loir]], [[Lhomme]], [[Chahaignes]], [[Marçon]], [[Dissay-sous-Courcillon]], [[Château-du-Loir]], [[Vaas, Sarthe|Vaas]], [[Le Lude]], [[La Flèche]]. 
+ ** [[Maine-et-Loire]] : [[Durtal]], [[Seiches-sur-le-Loir]], [[Villevêque]], [[Soucelles]], [[Briollay]]. 
+ 
+ At its end, the Loir flows into the [[Sarthe (river)|Sarthe]] river at the place called ''Bec du Loir'' ( " [[beak]] of the Cher " ) < ref group= " N " > The French word ''bec'' (beak or bill in English) means, in this and similar cases, the [[confluence]] of two rivers. < /ref >  in [[Briollay]], [[Maine-et-Loire]] department, at {{Convert|16|m|ft|0|abbr=off}} of altitude. < ref > {{cite web |url=https://www.geoportail.gouv.fr/carte?c=-0.526389,47.557778 & z=15 & l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(1) & permalink=yes |title=Confluence du Loir |publisher=Géoportail |language=fr |access-date=9 August 2017 }} < /ref > 
+ 
+ ==Main tributaries== 
+ The main [[Tributary|tributaries]] of the Loir are: 
+ {{col-begin|width=50%}} 
+ {{col-break|width=50%}} 
+ '''Left tributaries''': 
+ * Conie - 32.4 & nbsp;km 
+ * Aigre - 30.8 & nbsp;km 
+ * Houzée - 20.8 & nbsp;km 
+ * Dême - 32.5 & nbsp;km 
+ * Fare - 36.9 & nbsp;km 
+ * Maulne - 29.3 & nbsp;km 
+ * Marconne - 20.9 & nbsp;km 
+ {{col-break}} 
+ {{col-break|width=50%}} 
+ '''Right tributaries''': 
+ * Thironne - 26 & nbsp;km 
+ * Foussarde - 30.5 & nbsp;km 
+ * Ozanne - 44 & nbsp;km 
+ * Yerre - 48.7 & nbsp;km 
+ * Egvonne - 24.2 & nbsp;km 
+ * Braye - 75.1 & nbsp;km 
+ * Veuve - 26.2 & nbsp;km 
+ * Aune - 29.8 & nbsp;km 
+ * Argance - 19.7 & nbsp;km 
+ {{col-end}} 
+ 
+ ==Gallery== 
+ < gallery mode= " packed " > 
+ File:Le Loir à La Flèche.JPG|The Loir in [[La Flèche]]. 
+ File:VendomeLoir.jpg|The Loir in [[Vendôme]]. 
+ File:Durtal - Le Loir (2011).jpg|The Loir in [[Durtal]]. 
+ File:Villevêque (49).jpg|The Loir in [[Villevêque]] 
+ < /gallery > 
+ 
+ ==Related pages== 
+ * [[List of rivers of France]] 
+ 
+ ==Notes== 
+ < references group= " N "  / > 
+ 
+ == References == 
+ {{Commonscat}} 
+ {{Reflist}} 
+ 
+ [[Category:Rivers of Centre-Val de Loire]] 
+ [[Category:Rivers of Pays de la Loire]]

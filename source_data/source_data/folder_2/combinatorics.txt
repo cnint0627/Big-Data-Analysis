@@ -1,0 +1,21 @@
+'''Combinatorics''' is a branch of [[mathematics]]. It is concerned with finite or [[Countable set|countable]] infinite [[set]]s. Combinatorics is part of [[discrete mathematics]]. Combinatorics are about [[graph theory]], or [[Partition of a set|Partitions]] of sets. According to [[George Pólya]], combinatorics looks at counting the number of possibilities, and about the questions whether certain configurations exist, and how to get to them. 
+ 
+ == Permutation == 
+ 
+ Permutation is concerned with the following problems: 
+ * Determining how many different ways there are to arrange a number of objects. 
+ * Determining how many ways there are to select a number of objects from a larger set. 
+ 
+ There are variations in the problems as follows: 
+ * The objects may or may not be distinguishable. 
+ * The order in which the objects are selected may or may not matter. 
+ 
+ === Examples === 
+ [[File:Permutations RGB.svg|thumb|right|All the possibilities to arrange three differently colored balls]] 
+ * There are 6 different ways to arrange three distinguishable objects (as shown in the graphic). 
+ * There are three different ways to select one particular orange from a basket with three oranges. 
+ * There is only one possible way to select the apple from a basket that has one orange, one apple and one pear in it. 
+ 
+ {{Math-stub}} 
+ 
+ [[Category:Combinatorics| ]]

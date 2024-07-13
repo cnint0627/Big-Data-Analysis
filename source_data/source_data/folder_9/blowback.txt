@@ -1,0 +1,29 @@
+{{complex|date=July 2016}} 
+ {{no sources|date=July 2016}} 
+ '''Blowback''' is a system of operation for self-loading firearms that obtains energy from the motion of the cartridge case as it is pushed to the rear by expanding gases created by the ignition of the propellant charge. 
+ 
+ Several blowback systems exist within this broad principle of operation, each distinguished by the methods used to control bolt movement. In most actions that use blowback operation, the breech is not locked mechanically at the time of firing: the inertia of the bolt and recoil spring(s), relative to the weight of the bullet, delays opening of the breech until the bullet has left the barrel. A few locked breech designs use a form of blowback (example: primer actuation) to perform the unlocking function. 
+ 
+ Other operating principles for self-loading firearms include blow forward, gas operation, recoil operation, revolver, Gatling, and chain. The blowback principle may be considered a simplified form of gas operation, since the cartridge case behaves like a piston driven by the powder gases. 
+ 
+ ==Simple Blowback== 
+ Simple blowback operation is where the recoil of the cartridge moves the bolt rearwards to reload the next round. This operation is found in automatic pistols and submachine guns and firearms chambered in lower pressure rounds. The likes of rifle rounds which have higher pressures is usually deemed unsuitable for simple blowback operation. However, there is Delayed Blowback where the chamber is locked until the pressures drop to a safe level to reload. 
+ 
+ ==Delayed Blowback== 
+ Delayed blowback is similar to simple blowback but is capable of handling the pressures of rifle rounds. It uses an operation that delays the opening of the bolt when firing. 
+ 
+ ===Lever delayed blowback=== 
+ Lever delayed blowback is where the bolt has a lever that slows the opening of the bolt but accelerates the bolt carrier, the bolt then also accelerates with the bolt carrier. The AA52 machine gun and the FAMAS use this operation. 
+ 
+ ===Roller delayed blowback=== 
+ Roller delayed blowback is where the bolt has two rollers that pop out both sides of the bolt to lock the chamber. The Sturmgewehr 45 assault rifle, Heckler  &  Koch MP5 and Calico submachine gun uses this operation. 
+ 
+ ===Primer actuated blowback=== 
+ Primer actuated blowback is when the round is fired, the primer moves the firing pin rearwards to unlock the bolt. The Garand Model 1919 and Postnikov APT uses this operation. 
+ 
+ ==References== 
+ {{reflist}} 
+ * [https://www.google.com/patents/US7886470 Primer actuated M16 bolt] 
+ * [http://www.orions-hammer.com/blowback/] 
+ 
+ [[Category:Firearms]]

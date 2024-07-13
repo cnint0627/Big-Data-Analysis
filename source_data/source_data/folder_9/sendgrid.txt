@@ -1,0 +1,24 @@
+#REDIRECT [[SendGrid]]ftware companies]] 
+ {{Infobox organization 
+ | name = SendGrid 
+ | logo = SendGrid_2016_Logo.png 
+ | formation = 2009 
+ | founder = Isaac Saldana, Jose Lopez, Tim Jenkins 
+ | type = [[Subsidiary]] 
+ | location = [[Denver, Colorado]] 
+ | website = {{url|https://sendgrid.com}} 
+ }} 
+ 
+ '''SendGrid''' is a customer communication platform that helps businesses send transactional and marketing emails. SendGrid offers email delivery management, [[Internet service provider|ISP]] monitoring, and reporting features. < ref name= " Tcrunch09 " > {{cite web|author=|date=August 6, 2009|title=TechStars Incubator Hatches 10 New Companies|url=https://techcrunch.com/2009/08/06/techstars-incubator-hatches-10-new-companies/|publisher=TechCrunch|accessdate=August 13, 2013}} < /ref > < ref name= " REWT " > {{cite web|author=Dana Oshiro|date=September 30, 2009|title=TechStars Investor Day Hits a Home Run|url=http://readwrite.com/2009/09/30/techstars-investor-day-hits-a#awesm=~obNWKNcC2fuEQE|publisher=ReadWrite|accessdate=August 13, 2013}} < /ref > < ref name= " DENBIZ " > {{cite web|author=|date=January 17, 2012|title=SendGrid raises $21M in VC; Microsoft to partner|url=http://www.bizjournals.com/denver/news/2012/01/17/sendgrid-raises-21m-in-vc-microsoft.html|publisher=Denver Business Journal|accessdate=August 13, 2013}} < /ref >   
+ 
+ == History == 
+ It was founded in 2009 and acquired by Twilio in 2019. < ref name= " DAC " > {{cite web|author=Sarah Kuta|date=February 12, 2012|title=From unlimited burritos to on-site yoga, Boulder firms pile on perks|url=http://www.dailycamera.com/business/ci_19929854?IADID=Search-www.dailycamera.com-www.dailycamera.com|publisher=Boulder Daily Camera|accessdate=August 13, 2013}} < /ref > 
+ 
+ In December 2012, SendGrid partnered with Twilio to create SMS and push notification services to its platform. < ref name= " Vent2012 " > {{cite web|author=Sean Ludwig|date=July 25, 2012|title=SendGrid partners with Heroku, Engine Yard,  &  others on email management|url=https://venturebeat.com/2012/07/25/sendgrid-partners-heroku-engine-yard-cloudbees/|publisher=VentureBeat|accessdate=August 13, 2013}} < /ref > < ref name= " NEXT " > {{cite web|author=Harrison Weber|date=December 4, 2012|title=SendGrid and Twilio team up to offer email, SMS, voice and push notifications for the enterprise market|url=https://thenextweb.com/insider/2012/12/04/sendgrid-and-twilio-team-up-to-create-a-multi-messaging-platform-for-the-enterprise/?fromcat=all|publisher=The Next Web|accessdate=August 13, 2013}} < /ref >  The company works with Parse, Windows Azure, and StackMob from the same month. < ref name= " Gig20122 " > {{cite web|author=Barb Darrow|date=December 13, 2012|title=SendGrid adds Parse, Stackmob, Azure integrations|url=http://gigaom.com/2012/12/13/sendgrid-launches-parse-stackmob-azure-integrations-for-mobile-email-ubiquity/|publisher=Gigaom|accessdate=August 13, 2013|archive-date=August 7, 2013|archive-url=https://web.archive.org/web/20130807154239/http://gigaom.com/2012/12/13/sendgrid-launches-parse-stackmob-azure-integrations-for-mobile-email-ubiquity/|url-status=dead}} < /ref > 
+ 
+ In September 2014, Sameer Dholakia became CEO in SendGrid. < ref > {{Cite web|last1=Avery|first1=Greg|date=September 30, 2014|title=SendGrid replaces Franklin as CEO|url=http://www.bizjournals.com/denver/blog/boosters_bits/2014/09/sendgrid-replaces-franklin-as.html|website=Denver Business Journal}} < /ref > 
+ 
+ The company went public in the [[New York Stock Exchange]] on November 16, 2017. < ref > {{cite news|last=Chuang|first=Tamara|date=2017-11-12|title=As SendGrid preps for public debut, the IPO market appears receptive|work=[[The Denver Post]]|url=http://www.denverpost.com/2017/11/12/sendgrid-public-offer-debut-stock-exchange/|accessdate=2017-11-13}} < /ref > 
+ 
+ == References == 
+ < references / >

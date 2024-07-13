@@ -1,0 +1,145 @@
+{{Infobox Italian comune 
+ | name                = Belluno 
+ | official_name       = Città di Belluno 
+ | native_name         = {{native name|lld|Belum}} < br/ > {{native name|vec|Belùn}} 
+ | image_skyline       = Belluno-Schiara.jpg 
+ | imagesize           =  
+ | image_alt           =  
+ | image_caption       = Panorama of Belluno 
+ | image_flag          = Flag of Belluno.svg 
+ | flag_alt            =  
+ | image_shield        = Belluno-Stemma.svg 
+ | shield_alt          =  
+ | image_map           =  
+ | map_alt             =  
+ | map_caption         =  
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates         = {{coord|46|08|25|N|12|13|00|E|display=inline,title}} 
+ | coordinates_footnotes =  
+ | region              = [[Veneto]] 
+ | province            = [[province of Belluno|Belluno]] (BL) 
+ | frazioni            = see [[#Frazioni|list]] 
+ | mayor_party         =  
+ | mayor               = [[Jacopo Massaro]]  
+ | area_footnotes      =  
+ | area_total_km2      = 147.18 
+ | population_footnotes =  
+ | population_total    = 35876 
+ | population_as_of    = January 2017 
+ | pop_density_footnotes =  
+ | population_demonym  = Bellunesi 
+ | elevation_footnotes =  
+ | elevation_m         = 390 
+ | twin1               =  
+ | twin1_country       =  
+ | saint               = [[Martin of Tours|Saint Martin]] 
+ | day                 = 11 November 
+ | postal_code         = 32100 
+ | area_code           = 0437 
+ | website             = {{official website|http://www.comune.belluno.it/}} 
+ | footnotes           =  
+ }} 
+ '''Belluno''' ({{lang-it|Belluno}}, {{lang-lld|Belum}}, {{lang-vec|Belùn}}) is a ''[[comune]]'' and city in the [[Veneto]] [[Regions of Italy|region]], in [[Northeast Italy]]. Belluno is the [[Capital city|capital]] of the [[Province of Belluno|province of the same name]]. The city is about {{Convert|100|km|mi|abbr=on }} north of [[Venice]]. 
+ 
+ ==Geography== 
+ The town is near the [[confluence]] of the [[Piave]] [[river]] with the small river ''Ardo''. To the north of the town is the ''Schiara'', a group of [[mountain]]s. To the south, the foothills of the [[Alps]] separate Belluno from the [[plain]] of the [[Veneto]]. The most northern part of the ''comune'' is in the  " Dolomiti Bellunesi [[National Park]] "  ({{lang-it|Parco nazionale delle Dolomiti Bellunesi}}). 
+ 
+ The ''comune'' of Belluno has an area of {{Convert|147.22|km2|sqmi|abbr=on }} and its [[altitude]] is {{Convert|383|m|ft|abbr=on}}. 
+ 
+ Belluno borders with the following ''[[Comune|comuni]]''ː [[Alpago]], [[Limana]], [[Longarone]], [[Ponte nelle Alpi]], [[Sedico]], [[Sospirolo]], [[Vittorio Veneto]] (in the [[Province of Treviso|Treviso]] province). < ref > {{cite web|url=http://www.tuttitalia.it/veneto/31-belluno/49-comuni-limitrofi/ |title=Comuni limitrofi a Belluno |publisher=Tuttitalia.it |language=it |access-date=12 April 2017}} < /ref > 
+ 
+ ===''Frazioni''=== 
+ The following ''[[Frazione|frazioni]]'' ([[Hamlet (place)|hamlet]]s) are part of Belluno: Anconetta, Antole, Bes, Bolzano, Caleipo, Castion, Castoi, Cet, Cirvoi, Col di Salce, Faverga, Fiammoi, Giamosa, Giazzoi, Gioz, Levego, Madeago, Mares, Mier, Nevegàl, Nogarè, Orzes, Rivamaor, Safforze, Sagrogna, Sala, Salce, San Fermo, San Pietro in Campo, Sois, Sopracroda, Sossai, Tisoi, Veneggia, Vezzano, Vignole, Visome. 
+ 
+ ==Population== 
+ {{As of|2016|1|1}}, there are 35,870 persons living in the ''comune'', for a [[population density]] of {{Pop density|35870|147.22|km2|prec=1|disp=num}} inhabitants/km². 
+ 
+ < center > 
+ '''Evolution of the population in Belluno''' 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:488 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:40000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:5000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:2500 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1961 text:1961 
+  bar:1971 text:1971 
+  bar:1981 text:1981 
+  bar:1991 text:1991 
+  bar:2001 text:2001 
+  bar:2011 text:2011 
+  bar:2016 text:2016 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+   bar:1961 from:0 till: 31403 
+   bar:1971 from:0 till: 34484 
+   bar:1981 from:0 till: 36634 
+   bar:1991 from:0 till: 35572 
+   bar:2001 from:0 till: 35050 
+   bar:2011 from:0 till: 35591 
+   bar:2016 from:0 till: 35870 
+ 
+ PlotData= 
+   bar:1961 at: 31403 fontsize:S text: 31,403 shift:(-13,5) 
+   bar:1971 at: 34484 fontsize:S text: 34,484 shift:(-18,5) 
+   bar:1981 at: 36634 fontsize:S text: 36,634 shift:(-18,5) 
+   bar:1991 at: 35572 fontsize:S text: 35,572 shift:(-18,5) 
+   bar:2001 at: 35050 fontsize:S text: 35,050 shift:(-18,5) 
+   bar:2011 at: 35591 fontsize:S text: 35,591 shift:(-18,5) 
+   bar:2016 at: 35870 fontsize:S text: 35,870 shift:(-18,5) 
+ < /timeline > 
+ < /center > 
+ 
+ ==Twinned towns== 
+ Belluno is [[Twin town|twinned]] with: 
+ * {{flagicon|ITA}} [[Cervia]], [[Italy]] 
+ * {{flagicon|USA}} [[Bend, Oregon|Bend]], [[Oregon]], [[United States]] 
+ 
+ == People from or related to Belluno == 
+ * [[Sebastiano Ricci]] (1659–1734), [[painter]] 
+ * [[Andrea Brustolon]] (1662–1732), [[sculptor]] 
+ * [[Marco Ricci]] (1676–1730), painter 
+ * [[Pope Gregory XVI]] (1765–1846) 
+ * [[Ippolito Caffi]] (1809–1866), painter 
+ * [[Pope John Paul I]] (1912-1978) 
+ * Luigi Luca Cavalli Sforza (b. 1922), human [[geneticist]] 
+ 
+ ==Gallery== 
+ < center > 
+ < gallery widths=180px > 
+ File:Belluno+Piave 01.JPG|Belluno and the [[Piave]] river. 
+ File:Palazzo dei Rettori(Belluno).jpg|''Palazzo dei Rettori''. 
+ File:Basilica cattedrale di San Martino (Duomo), interno (Belluno).JPG|Belluno [[cathedral]]. 
+ File:Palazzo rosso.jpg|''Palazzo Rosso''. 
+ < /gallery > 
+ < /center > 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{Wikivoyage|Belluno}} 
+ {{Commons category|Belluno}} 
+ * [http://www.comune.belluno.it/ Belluno official website] {{in lang|it}} 
+ * [http://adorable.belluno.it/ Adorable Belluno] {{in lang|it}} 
+ 
+ {{Province of Belluno}} 
+ 
+ [[Category:Cities in Veneto]] 
+ [[Category:Capital cities in Italy]] 
+ [[Category:Settlements in Belluno]]

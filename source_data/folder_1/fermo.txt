@@ -1,0 +1,129 @@
+{{Infobox Italian comune 
+ | name                = Fermo 
+ | official_name       = Città di Fermo 
+ | native_name         =  
+ | image_skyline       = Fermo Panorama.JPG 
+ | imagesize           =  
+ | image_alt           =  
+ | image_caption       = Panorama of Fermo. 
+ | image_shield        =  
+ | shield_alt          =  
+ | image_map           = Map of comune of Fermo (province of Fermo, region Marche, Italy).svg 
+ | map_alt             =  
+ | map_caption         = Fermo within the Province of Fermo 
+ | pushpin_label_position =  
+ | pushpin_map_alt     =  
+ | coordinates         = {{coord|43|09|39|N|13|42|57|E|display=inline,title}} 
+ | coordinates_footnotes =  
+ | region              = [[Marche]] 
+ | province            = [[Province of Fermo|Fermo]] (FM) 
+ | frazioni            = see [[#Frazioni|list]] 
+ | mayor_party         = [[Lista civica|Civic List]] 
+ | mayor               = [[Paolo Calcinaro]] 
+ | area_footnotes      =  
+ | area_total_km2      = 124 
+ | population_footnotes =  
+ | population_total    = 37732 
+ | population_as_of    = 30 June 2015 
+ | pop_density_footnotes =  
+ | population_demonym  = Fermani 
+ | elevation_footnotes =  
+ | elevation_m         = 319 
+ | twin1               =  
+ | twin1_country       =  
+ | saint               = St. Maria Assunta 
+ | day                 = August 15 
+ | postal_code         = 63900 
+ | area_code           = 0734 
+ | website             = {{official website|http://www.fermo.net}} 
+ | footnotes           =  
+ }} 
+ '''Fermo''' ({{lang-it|Firmum Picenum}}) is a ''[[comune]]'' and city in the [[Marche]] region, in [[central Italy]]. Fermo is the [[Capital city|capital]] of the [[province of Fermo]]. 
+ 
+ Fermo is on a hill only a few miles from the coast of the [[Adriatic Sea]]. It is region with a high [[population density]] near [[seaport]]s like [[Porto San Giorgio]] and [[Porto Sant'Elpidio]]. 
+ 
+ ==Geography== 
+ Fermo is on a hill, the ''Sabulo'', {{Convert|319|m|ft|abbr=on }} high, at about {{Convert|6|km|mi|abbr=on }} from the [[Adriatic Sea]]. It has an area of {{Convert|124.53|km2|sqmi|abbr=on }} and its [[altitude]] is {{Convert|319|m|ft|abbr=on}}. 
+ 
+ The ''comune'' borders with the following ''comuni''ː [[Altidona]], [[Lapedona]] and [[Monterubbiano]] to the south; [[Ponzano di Fermo]] to the southwest; [[Grottazzolina]], [[Magliano di Tenna]] and [[Rapagnano]] to the west; [[Torre San Patrizio]] to the northwest; [[Monte Urano]], [[Sant'Elpidio a Mare]] and [[Porto Sant'Elpidio]] to the north. To the east is [[Porto San Giorgio]] and the Adriatic Sea. 
+ 
+ The ''comune'' has two small [[exclave]]sː the largest (''Gabbiano'') has an area of {{Convert|5|km2|sqmi|abbr=on }} and is surrounded by [[Mogliano]] ([[province of Macerata]]), [[Francavilla d'Ete]], [[Massa Fermana]] and [[Montegiorgio]]; and the smallest (''Boara'') has an area of {{Convert|0.3|km2|sqmi|abbr=on }} and is surrounded by [[Montegiorgio]], [[Magliano di Tenna]], [[Grottazzolina]] and [[Belmonte Piceno]]. 
+ 
+ ===''Frazioni''=== 
+ The following ''[[Frazione|frazioni]]'' ([[Hamlet (place)|hamlet]]s) are part of Fermoː Camera, Campiglione, Cantagallo, Casabianca, Capodarco, Cartiera di Tenna, Concerie, Contrada Boara, Ete Palazzina, Faleriense, Gabbiano, Girola, Lido di Fermo, Madonnetta d'Ete, Marina Palmense, Moie, Molini Tenna, Montesecco, Montone, Parete, Pompeiana, Ponte Ete Vivo, Sacri Cuori, Salette, Salvano, San Biagio, San Girolamo, San Lorenzo, San Marco, San Michele, Lido San Tommaso, Torre di Palme and Villa San Claudio. 
+ 
+ ==Population== 
+ There are 37,396 persons living in the ''comune'' in 2017, < ref name= " pop " > {{cite web |url=http://demo.istat.it/pop2017/index.html |title=Statistiche demografiche ISTAT |publisher=Demo.istat.it |language=Italian |accessdate=2 November 2017 |archive-date=3 January 2018 |archive-url=https://web.archive.org/web/20180103163404/http://demo.istat.it/pop2017/index.html |url-status=dead }} < /ref >  for a [[population density]] of {{Pop density|37396|124.53|km2|prec=1|disp=num}} inhabitants/km². 
+ 
+ '''Evolution of the population''' 
+ < center > 
+ < timeline > 
+ Colors= 
+   id:lightgrey value:gray(0.9) 
+   id:darkgrey  value:gray(0.7) 
+   id:sfondo value:rgb(1,1,1) 
+   id:barra value:rgb(0.6,0.7,0.8) 
+ 
+ ImageSize = width:500 height:373 
+ PlotArea = left:50 bottom:30 top:30 right:30 
+ DateFormat = x.y 
+ Period = from:0 till:40000 
+ TimeAxis = orientation:vertical 
+ AlignBars = justify 
+ ScaleMajor = gridcolor:darkgrey increment:4000 start:0 
+ ScaleMinor = gridcolor:lightgrey increment:2000 start:0 
+ BackgroundColors = canvas:sfondo 
+ 
+ BarData= 
+  bar:1961 text:1961 
+  bar:1971 text:1971 
+  bar:1981 text:1981 
+  bar:1991 text:1991 
+  bar:2001 text:2001 
+  bar:2011 text:2011 
+  bar:2017 text:2017 
+ 
+ PlotData= 
+  color:barra width:30 align:left 
+ 
+   bar:1961 from:0 till: 30545 
+   bar:1971 from:0 till: 34067 
+   bar:1981 from:0 till: 35119 
+   bar:1991 from:0 till: 35111 
+   bar:2001 from:0 till: 35502 
+   bar:2011 from:0 till: 37016 
+   bar:2017 from:0 till: 37396 
+ 
+ PlotData= 
+   bar:1961 at: 30545 fontsize:S text: 30,545 shift:(-13,3) 
+   bar:1971 at: 34067 fontsize:S text: 34,067 shift:(-16,5) 
+   bar:1981 at: 35119 fontsize:S text: 35,119 shift:(-16,5) 
+   bar:1991 at: 35111 fontsize:S text: 35,111 shift:(-16,5) 
+   bar:2001 at: 35502 fontsize:S text: 35,502 shift:(-16,8) 
+   bar:2011 at: 37016 fontsize:S text: 37,016 shift:(-16,5) 
+   bar:2017 at: 37396 fontsize:S text: 37,396 shift:(-16,5) 
+ < /timeline > 
+ < /center > 
+ 
+ The people from this ''comune'' are known, in [[Italian language|Italian]], as ''fermani''. 
+ 
+ ==Twinned towns== 
+ Fermo is [[Twin town|twinned]] with: 
+ * {{flagicon|Albania}} [[Berat]], [[Albania]] 
+ * {{flagicon|ARG}} [[Bahía Blanca]], [[Argentina]] 
+ * {{flagicon|GER}} [[Ansbach]], [[Germany]] 
+ * {{flagicon|MEX}} [[León, Guanajuato|León]], [[Mexico]] 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ {{commons category|Fermo}} 
+ * {{wikivoyage-inline|Fermo}} 
+ * [http://www.comune.fermo.it/ Fermo official website] {{in lang|it}} 
+ 
+ {{Province of Fermo}} 
+ 
+ [[Category:Cities in Marche]] 
+ [[Category:Capital cities in Italy]] 
+ [[Category:Settlements in Fermo]]

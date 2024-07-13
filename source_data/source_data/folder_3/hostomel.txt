@@ -1,0 +1,49 @@
+{{Infobox settlement 
+ < !-- See Template:Infobox settlement for additional fields and descriptions -- > 
+ | name                    = Hostomel 
+ | native_name             = Гостомель 
+ | native_name_lang        = uk 
+ | settlement_type         = Town 
+ < !-- images, nickname, motto --- > 
+ | image_flag              = Прапор Гостомеля.png 
+ | image_shield            = Герб Гостомельської ОТГ.png 
+ | image_skyline           = Bucha park12.JPG 
+ | image_alt               = View of Hostomel 
+ < !-- maps and coordinates ------ > 
+ | coordinates             = {{coord|50|34|09|N|30|15|55|E|region:UA_type:city(12450)_source:ruwiki|display=it}} 
+ < !-- location ------------------ > 
+ | subdivision_type        = [[List of sovereign states|Country]] 
+ | subdivision_name        = {{UKR}} 
+ | subdivision_type1       = [[Oblasts of Ukraine|Oblast]] 
+ | subdivision_name1       = [[Kyiv Oblast|Kyiv]] 
+ |subdivision_type2 = [[Raions of Ukraine|Raion]] 
+ |subdivision_name2 = [[Bucha Raion|Bucha]] 
+ < !-- established --------------- > 
+ | established_title       = First reference 
+ | established_date        =  
+ | established_title1      = 
+ | established_date1       =  
+ < !-- area ---------------------- > 
+ | area_land_km2           =  
+ < !-- population ---------------- > 
+ | population_footnotes    =  < !-- for references: use  < ref >  tags -- > 
+ | population_total        = 17534 
+ | population_as_of        = 2021 
+ < !-- postal codes, area code --- > 
+ | postal_code_type        = [[Postal code]]| 
+ | postal_code             =  
+ | area_code_type          =  < !-- defaults to: Area code(s) -- > 
+ | area_code               = 
+ | website                 =  
+ }} 
+ 
+ '''Hostomel''' ({{lang-uk|Гостомель}}) is a city in [[Kyiv Oblast]], northwest of the [[capital city|capital]] city of [[Kyiv]].  
+ 
+ Hostomel was badly damaged during the [[2022 Russian invasion of Ukraine]]. < ref >  [https://www.indiatoday.in/world/russia-ukraine-war/video/fire-reported-buildings-ukraine-hostomel-1921355-2022-03-06  " Fire reported in many buildings in Ukraine's Hostomel " ], India Today, 6 March 2022 < /ref >  Russian troops lost a battle at the Hostomel airport. The city was given the title [[Hero City of Ukraine]] on 13 March 2022. < ref > {{Cite web |last=Богданьок |first=Олена |date=6 March 2022 |title=Харків, Чернігів, Маріуполь, Херсон, Гостомель і Волноваха тепер міста-герої |url=https://suspilne.media/214620-harkiv-cernigiv-mariupol-herson-gostomel-i-volnovaha-otrimali-zvanna-misto-geroj-prezident/? |access-date=13 March 2022 |website=Суспільне {{!}} Новини |language=uk |archive-date=13 March 2022 |archive-url=https://web.archive.org/web/20220313224944/https://suspilne.media/214620-harkiv-cernigiv-mariupol-herson-gostomel-i-volnovaha-otrimali-zvanna-misto-geroj-prezident/ |url-status=dead }} < /ref > 
+ 
+ ==References== 
+ {{reflist}} 
+ 
+ {{europe-stub}} 
+ 
+ [[Category:Cities in Kyiv Oblast]]

@@ -1,0 +1,32 @@
+{{Italic title}} 
+ {{Taxobox 
+ | name = ''Marrella splendens'' 
+ | fossil_range = {{fossil range|Mid Cambrian|latest=Early Ordovician}} 
+ | image = Marella.png 
+ | image_caption = Fossil ''Marrella'' 
+ | regnum = [[Animal]]ia 
+ | phylum = [[Arthropod]]a 
+ | classis = [[Marrellomorpha]] 
+ | ordo = [[Marrellida]] 
+ | familia = '''Marrellidae''' 
+ | familia_authority = Walcott, 1912 
+ | genus = '''''Marrella''''' 
+ | genus_authority = Walcott, 1912 
+ | species = '''''M. splendens''''' 
+ | binomial = ''Marrella splendens'' 
+ | binomial_authority = [[Charles Doolittle Walcott|Walcott]], 1912 
+ }} 
+ '''''Marrella splendens''''' is an [[arthropod]] known from the middle [[Cambrian]] [[Burgess Shale]] of [[British Columbia]].  It is the most common animal in the Burgess Shale. 
+ 
+ ==History== 
+ ''Marrella'' was the first fossil collected by [[Charles Doolittle Walcott]] from the Burgess Shale, in 1909. < ref > {{cite book|last= Gould|first= Stephen Jay|authorlink= Stephen Jay Gould|title= Wonderful Life: Burgess Shale and the Nature of History|publisher= Vintage|year= 2000|page=108|isbn= 978-0-09-927345-5|oclc= 45316756|url=https://books.google.com/books?id=SjpSkzjIzfsC & pg=PA108}} Also {{OCLC|44058853}}. < /ref >  Walcott described ''Marrella'' informally as a  " lace crab "  and described it more formally as an odd [[Trilobita|trilobite]]. In 1971, [[Harry B. Whittington|Whittington]] did a thorough redescription of the animal. On the basis of its legs, [[gill]]s and head appendages, he decided that it was not a trilobite, nor a [[Chelicerata|chelicerate]], nor a [[crustacean]]. < ref name= " Whittington1971 " > {{cite journal|last= Whittington|first= H. B.|title= Redescription of Marrella splendens (Trilobitoidea) from the Burgess Shale, Middle Cambrian, British Columbia|year= 1971|journal= Bulletin – Geological Survey of Canada|volume= 209|pages= 1–24|publisher= Geological Survey of Canada}} < /ref > 
+ 
+ ''Marrella''-like organisms are found in other Cambrian deposits. They are known from sediments as late as the [[Devonian]]. < ref name=Siveter2007 > {{Cite journal |last=Siveter D.J. ''et al'' 2007. A Silurian 'marrellomorph' arthropod |title=A Silurian 'marrellomorph' arthropod |journal=Proc Biol Sci. |year=2007 |volume=274 |issue=1623 |pages=2223–2229 |url= |doi=10.1098/rspb.2007.0712 |pmid=17646139 |pmc=2287322}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ 
+ 
+ [[Category:Arthropods]] 
+ [[Category:Cambrian]] 
+ [[Category:Fossils]]

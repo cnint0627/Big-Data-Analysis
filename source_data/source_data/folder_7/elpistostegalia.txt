@@ -1,0 +1,61 @@
+{{Automatic taxobox 
+ | fossil_range =  < br > [[Late Devonian]] - [[Holocene|Present]], {{Fossil range|385|0}} 
+ | image = Panderichthys_BW.jpg 
+ | image_upright = 1.15 
+ | image_caption = ''[[Panderichthys]]'' 
+ | taxon = Elpistostegalia 
+ | authority = Camp  &  Allison, 1961 
+ | type_genus = ''[[Elpistostege]]'' 
+ | type_genus_authority = Westoll, 1938 
+ | subdivision_ranks = Subgroups < ref name=SB12/ > 
+ | subdivision =  
+ *{{extinct}}[[Panderichthyidae]] 
+ *[[Stegocephalia]] 
+ | synonyms = 
+ *Panderichthyida  < small > Vorobyeva, 1989 < /small > 
+ }} 
+ 
+ '''Elpistostegalia''', also known as '''Panderichthyida''', is a type of [[prehistoric]] [[fish]] which lived about 385 to 374 million years ago. < ref > [http://taxonomicon.taxonomy.nl/TaxonName.aspx?id=987575 & tree=0.1 Elpistostegidae on the Taxonomicon] < /ref >   
+ 
+ ==Why they evolved== 
+ A rise in the world's [[oxygen]] content caused [[predator]]y fish to [[evolve]], < ref name=Dahl > {{cite journal |vauthors=Dahl TW, Hammarlund EU, Anbar AD |title=Devonian rise in atmospheric oxygen correlated to the radiations of terrestrial plants and large predatory fish |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=107 |issue=42 |pages=17911–5 |date=October 2010 |pmid=20884852 |pmc=2964239 |doi=10.1073/pnas.1011287107 |bibcode = 2010PNAS..10717911D |display-authors=etal|doi-access=free }} < /ref >  and this fish was the most successful. < ref > {{cite journal|last=Lewis Jr. |first=William M. |title=Morphological Adaptations of Cyprinodontoids for Inhabiting Oxygen Deficient Waters |journal=Copeia |date=1 June 1970 |volume=2 |issue=2 |pages=319–326 |url=http://ciresweb.colorado.edu/limnology/pubs/pdfs/Pub001.pdf |jstor=1441653 |doi=10.2307/1441653 |url-status=dead |archive-url=https://web.archive.org/web/20110813153431/http://ciresweb.colorado.edu/limnology/pubs/pdfs/Pub001.pdf |archive-date=2011-08-13 }} < /ref > 
+ 
+ ==What they evolved from== 
+ 
+ Below is a description of their evolutionary family tree. < ref name=SB12 > {{cite journal | last = Swartz | first = B. | year = 2012 | title = A marine stem-tetrapod from the Devonian of Western North America | journal = PLOS ONE | pmid = 22448265 | volume = 7 | issue = 3 | pmc = 3308997 | pages = e33683 | doi = 10.1371/journal.pone.0033683 |bibcode = 2012PLoSO...733683S | doi-access = free }} < /ref > 
+ {{clade| style=font-size:85%;line-height:85% 
+             |label1=[[Eotetrapodiformes]] 
+             |1={{clade 
+                |1=[[Tristichopteridae]] [[File:Eusthenopteron BW.jpg|70 px]] 
+                |2={{clade 
+                   |1=''[[Tinirau (genus)|Tinirau]]'' 
+                   |2={{clade 
+                      |1=''[[Platycephalichthys]]'' 
+                      |label2='''Elpistostegalia''' 
+                      |2={{clade 
+                         |1=''[[Panderichthys]]'' [[File:Panderichthys BW.jpg|70 px]] 
+                         |2={{clade 
+                            |1={{clade 
+                               |1=''[[Tiktaalik]]'' [[File:Tiktaalik BW.jpg|70 px]] 
+                               |2=''[[Elpistostege]]''}} 
+                            |2={{clade 
+                               |1=''[[Elginerpeton]]'' [[File:Elginerpeton BW.jpg|70 px]] 
+                               |2={{clade 
+                                  |1=''[[Ventastega]]'' 
+                                  |2={{clade 
+                                     |1=''[[Acanthostega]]'' [[File:Acanthostega BW.jpg|70 px]] 
+                                     |2={{clade 
+                                        |1=''[[Ichthyostega]]'' [[File:Ichthyostega BW.jpg|70 px]] 
+                                        |2={{clade 
+                                           |1=[[Whatcheeriidae]] [[File:Pederpes22small.jpg|70 px]] 
+                                           |2={{clade 
+                                              |1=[[Colosteidae]] [[File:Greererpeton BW.jpg|70 px]] 
+                                              |2={{clade 
+                                                 |1=''[[Crassigyrinus]]'' [[File:Crassigyrinus BW.jpg|70 px]]   
+                                                 |2={{clade 
+                                                    |1=[[Baphetidae]] 
+                                                    |2=[[Tetrapoda]] [[File:Seymouria BW.jpg|70 px]] 
+ }} }} }} }} }} }} }} }} }} }} }} }} }} }} 
+ 
+ ==References== 
+ {{Reflist}}

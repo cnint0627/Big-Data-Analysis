@@ -1,0 +1,7 @@
+{{infobox programming language|logo=|latest preview date=|website=[https://developer.mozilla.org/en-US/docs/Archive/Mozilla/XUL Official documentation]|license=[[Mozilla Public License|MPL]]|operating system=[[Cross-platform]]|platform=[[Gecko (layout engine)|Gecko]]|programming language=[[C++]]|influenced=|influenced by=[[HTML]], [[XML]]|dialects=|implementations=[[Mozilla]]|typing=|latest preview version=|logo caption=|latest release date=|latest release version=|developer=[[Mozilla Foundation]]|designer=|released=|scope=|paradigm=Declarative ([[markup language]])|file ext= < code > .xul < /code > < br / > [[MIME type]]:  < code > application/vnd.mozilla.xul+xml < /code > |screenshot caption=|screenshot=|wikibooks=}} 
+ 
+ '''XUL''' ({{IPAc-en|ˈ|z|uː|l}} {{respell|ZOOL|'}}), which stands for '''XML User Interface Language''', is a [[user interface]] markup language made by [[Mozilla]]. XUL is an [[XML]] dialect for writing [[Graphical user interface|graphical user interfaces]], it lets developers write user interface elements in a way similar to [[Web page|web pages]]. 
+ 
+ {{tech-stub}} 
+ 
+ [[Category:Markup languages]]

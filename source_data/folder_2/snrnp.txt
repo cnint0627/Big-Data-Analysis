@@ -1,0 +1,17 @@
+{{lowercase|title=snRNP}} 
+ '''Small nuclear RNA''' ('''snRNP''', or ''''snurps''''), < ref > derived from  " small nuclear ribonucleoproteins " . < /ref >  joins with [[protein]]s to form [[spliceosome]]s. The spliceosomes govern [[alternative splicing]]. 
+ 
+ The background to this is that, in [[eukaryote]]s, most [[gene]]s code for a protein in separated strings of DNA. This is because, of a total gene, coding bits ([[exon]]s) are separated by non-coding bits ([[intron]]s). The [[process]] called [[alternative splicing]] can produce many possible proteins from the gene parts because the proteins are put together in different ways. Alternative splicing produces alternative [[messenger RNA]]s, and these produce different proteins. Spliceosomes control the details of the splicing. 
+ 
+ The two essential components of snRNPs are [[protein]] molecules and [[RNA]]. The RNA found within each snRNP particle is known as '''small nuclear RNA''', or '''snRNA''', and is usually about 150 [[nucleotide]]s in length. The snRNA component of the snurp is specific to individual introns because it 'recognises' < ref > 'recognition' in DNA and RNA is when a sequence on one molecule fits a complementary sequence on another molecule. < /ref >  the sequences of critical signals at the ends and branch sites of introns. The snRNA in snurps is similar to [[ribosomal RNA]]: it acts both as an [[enzyme]] ([[catalyst]]) and builds structure. 
+ 
+ SnRNPs were discovered by [[Michael Lerner]] and [[Joan Steitz]]. < ref > {{cite journal |author=Lerner MR, Steitz JA |title=Antibodies to small nuclear RNAs complexed with proteins are produced by patients with systemic lupus erythematosus |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=76 |issue=11 |pages=5495–9 |year=1979 |pmid=316537 |pmc=411675 |doi=10.1073/pnas.76.11.5495 |bibcode=1979PNAS...76.5495R |doi-access=free }} < /ref > < ref > {{cite journal |author=Lerner MR, Boyle JA, Mount SM, Wolin SL, Steitz JA |title=Are snRNPs involved in splicing? |journal=Nature |volume=283 |issue=5743 |pages=220–4 |year=1980 |pmid=7350545 |doi=10.1038/283220a0 |bibcode=1980Natur.283..220L |s2cid=4266714 }} < /ref > 
+ [[Thomas Cech]] and [[Sidney Altman]] also played a role in the discovery, winning the [[Nobel Prize for Chemistry]] in 1989 for their independent discoveries that RNA can act as a catalyst in cell development. < ref > Nobel Prize for Cech [http://www.colorado.edu/news/nobel/cech/] {{Webarchive|url=https://web.archive.org/web/20111022084244/http://www.colorado.edu/news/nobel/cech/ |date=2011-10-22 }} < /ref > 
+ 
+ == References == 
+ {{Reflist}} 
+ 
+ 
+ 
+ [[Category:RNA]] 
+ [[Category:Molecular biology]]

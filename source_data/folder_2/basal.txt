@@ -1,0 +1,31 @@
+''''Basal'''' is a term in [[biology]] for 'primitive' or 'ancestral'. Basal is preferred because it is neutral and non-judgmental. This terminology came into use with [[cladistics]]. The term is used in [[evolution]] and [[classification]] to mean the group which gave rise to later forms. It is a term which works at any level: a basal [[species]] gives rise to '''derived''' species, and a basal group gives rise to derived groups. 
+ 
+ ''''Derived'''' is the correct term in [[biology]] for ''specialised'' or ''advanced''. It is used for groups which have evolved from a more basal group. A '''derived trait''' is a [[Trait (biology)|trait]] that is present in an organism, but was not in the last [[common ancestor]] of the group being considered. Simplicity is often secondarily derived. < ref name=Clark1999 > {{Cite journal | last = Clark | first = C.G. | year = 1999 | title = The effect of secondary loss on our views of eukaryotic evolution | journal = The Biological Bulletin | volume = 196 | issue = 3 | pages = 385–388 | doi = 10.2307/1542976 | url = http://www.biolbull.org/cgi/reprint/196/3/385.pdf | publisher = Marine Biological Laboratory | jstor = 1542976| pmid = 28296494 }} < /ref >  For example, no [[mitochondria]] in the anaerobic [[protist]] ''[[Entamoeba histolytica]]'' is a result of their secondary loss. 
+ 
+ ;General view – 
+ *Basal group 
+ **Derived group 
+ **Derived group 
+ **Derived group 
+ 
+ ;Example – 
+ *Early [[primate]]s 
+ **[[Monkey]]s 
+ ***[[Ape]]s 
+ ****''[[Homo]]'' 
+ 
+ In the last example, note that apes are ''derived'' from monkeys but ''basal'' with respect to our own [[genus]]. The status of being basal or derived is relative, though living species can only be derived. In any basal-derived pair, the basal member must have evolved before the derived member, with evidence that some of its species gave rise to (evolved into) the derived member. < ref > {{cite web|url=http://tolweb.org/tree/home.pages/treeinterpret.html|title=Interpreting the tree diagram or list of subgroups on a Tree of Life page|publisher=Tree of Life web project}} < /ref > 
+ 
+ ==Other terms== 
+ See also Wiley ''et al.'' 1991. < ref > {{Citation |last=Wiley E.O. |display-authors=etal |year=1991 |contribution=Chapter 1 Introduction, terms and concepts |title=The Compleat Cladist: a primer of phylogenetic procedures |publisher=The University of Kansas Museum of Natural History |isbn=978-0-89338-035-9 |url=http://www.amnh.org/learn/pd/fish_2/pdf/compleat_cladist.pdf |access-date=2010-12-13  |archive-date=2010-12-03 |archive-url=https://web.archive.org/web/20101203030019/http://www.amnh.org/learn/pd/fish_2/pdf/compleat_cladist.pdf |url-status=dead }} < /ref > 
+ *Ancestral taxon = basal group 
+ *Characters or attributes: 
+ **[[Plesiomorphy]] = ancestral [[trait]] inherited from earlier forms. 
+ **[[Apomorphy]] =  trait or innovation derived from a plesiomorphic character. It may define a clade. 
+ **[[Synapomorphy]] = a trait or character of a whole clade. 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ [[Category:Evolutionary biology]] 
+ [[Category:Taxonomy]]

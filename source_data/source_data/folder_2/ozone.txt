@@ -1,0 +1,101 @@
+{{Chembox 
+ | Watchedfields = changed 
+ | verifiedrevid = 451527415 
+ | ImageFile1 = File:Ozone-1,3-dipole.png 
+ | ImageFile1_Ref = {{chemboximage|correct|??}} 
+ | ImageName1 = Skeletal formula of ozone with partial charges shown 
+ | ImageFileR2 = Ozone-CRC-MW-3D-vdW.png 
+ | ImageFileR2_Ref = {{chemboximage|correct|??}} 
+ | ImageNameR2 = Spacefill model of ozone 
+ | ImageFileL2 = Ozone-CRC-MW-3D-balls.png 
+ | ImageFileL2_Ref = {{chemboximage|correct|??}} 
+ | ImageNameL2 = Ball and stick model of ozone 
+ | IUPACName = Trioxygen 
+ | OtherNames = 2λ < sup > 4 < /sup > -trioxidiene; ''catena''-trioxygen 
+ |Section1={{Chembox Identifiers 
+ | IUPHAR_ligand = 6297 
+ | CASNo = 10028-15-6 
+ | CASNo_Ref = {{cascite|correct|CAS}} 
+ | PubChem = 24823 
+ | ChemSpiderID = 23208 
+ | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}} 
+ | UNII = 66H7ZZK23N 
+ | UNII_Ref = {{fdacite|correct|FDA}} 
+ | EINECS = 233–069–2 
+ | MeSHName = Ozone 
+ | RTECS = RS8225000 
+ | ChEBI_Ref = {{ebicite|correct|EBI}} 
+ | ChEBI = 25812 
+ | Gmelin = 1101 
+ | SMILES = [O-][O+]=O 
+ | StdInChI = 1S/O3/c1-3-2 
+ | StdInChI_Ref = {{stdinchicite|correct|chemspider}} 
+ | InChI = 1/O3/c1-3-2 
+ | StdInChIKey = CBENFWSGALASAD-UHFFFAOYSA-N 
+ | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}} 
+ | InChIKey = CBENFWSGALASAD-UHFFFAOYAY 
+ }} 
+ |Section2={{Chembox Properties 
+ | Solvent = other solvents 
+ | O=3 
+ | Appearance = Colourless to pale blue gas < 
+ | Odour = Pungent 
+ | Density = 2.144 mg cm < sup > −3 < /sup >  (at 0 & nbsp;°C) 
+ | Solubility = 1.05 g L < sup > −1 < /sup >  (at 0 & nbsp;°C) 
+ | SolubleOther = Very soluble in [[carbon tetrachloride|CCl < sub > 4 < /sub > ]], [[sulfuric acid]] 
+ | MeltingPtK = 81 
+ | BoilingPtK = 161 
+ | RefractIndex = 1.2226 (liquid), 1.00052 (gas, STP, 546 nm & nbsp;— note high dispersion) < ref > {{cite journal|last1=Cuthbertson|first1=Clive|last2=Cuthbertson|first2=Maude|title=On the Refraction and Dispersion of the Halogens, Halogen Acids, Ozone, Steam Oxides of Nitrogen, and Ammonia|journal=[[Philosophical Transactions of the Royal Society A]]|date=1914|volume=213|issue=497–508|pages=1–26|doi=10.1098/rsta.1914.0001|url=https://archive.org/stream/philtrans08506476/08506476#page/n17/mode/1up|access-date=4 February 2016|bibcode = 1914RSPTA.213....1C }} < /ref > 
+ | VaporPressure = 55.7 atm < ref > Gas Encyclopedia; [https://encyclopedia.airliquide.com/ozone Ozone] < /ref >  ({{convert|−12.15|C|F K|disp=or}}){{efn|This vapor pressure is for the [[critical temperature]], which is below [[room temperature]].}} 
+ | MagSus = +6.7·10 < sup > −6 < /sup >  cm < sup > 3 < /sup > /mol 
+ 
+ }} 
+ |Section3={{Chembox Structure 
+ | SpaceGroup = C < sub > 2v < /sub > 
+ | Coordination = Digonal 
+ | MolShape = Dihedral 
+ | OrbitalHybridisation = ''sp'' < sup > 2 < /sup >  for O1 
+ | Dipole = 0.53 D 
+ }} 
+ |Section4={{Chembox Thermochemistry 
+ | DeltaHf = 142.67 kJ mol < sup > −1 < /sup > 
+ | Entropy = 238.92 J K < sup > −1 < /sup >  mol < sup > −1 < /sup > 
+ }} 
+ |Section5={{Chembox Hazards 
+ | GHSPictograms = {{GHS09}}{{GHS03}}{{GHS08}}{{GHS05}}{{GHS06}}  
+ | GHSSignalWord = Danger 
+ | HPhrases = {{H-phrases|270|314|318}} 
+ | NFPA-H = 4 
+ | NFPA-F = 0 
+ | NFPA-R = 4 
+ | NFPA-S = Ox 
+ | IDLH = 5 ppm < ref name=PGCH > {{PGCH|0476}} < /ref > 
+ | REL = C 0.1 ppm (0.2 mg/m < sup > 3 < /sup > ) 
+ | PEL = TWA 0.1 ppm (0.2 mg/m < sup > 3 < /sup > ) 
+ | LCLo = 12.6 ppm (mouse, 3 hr) < br/ > 50 ppm (human, 30 min) < br/ > 36 ppm (rabbit, 3 hr) < br/ > 21 ppm (mouse, 3 hr) < br/ > 21.8 ppm (rat, 3 hr) < br/ > 24.8 ppm (guinea pig, 3 hr) < br/ > 4.8 ppm (rat, 4 hr) < ref > {{IDLH|10028156|Ozone}} < /ref > 
+ }} 
+ |Section8={{Chembox Related 
+ | OtherCompounds = [[Sulfur dioxide]] < br / > [[Trisulfur]] < br / > [[Disulfur monoxide]] < br / > [[Cyclic ozone]] 
+ }} 
+ }} 
+ [[File:Schönbein.jpg|thumb|[[Christian Friedrich Schönbein]]]] 
+ '''Ozone''', or '''trioxygen''', is a [[chemical]] with the symbol '''O < sub > 3 < /sub > '''. This means one [[molecule]] of ozone is made of three [[oxygen]] [[atom]]s. Ozone is rarely called ''trioxygen'', even though this is its [[IUPAC]] [[systematic name]]. < ref > {{Cite book|title=Nomenclature of Inorganic Chemistry IUPAC Recommendations 2005|publisher=RSC Publishing|year=2005|isbn=0-85404-438-8|url=http://old.iupac.org/publications/books/rbook/Red_Book_2005.pdf|at=IR-3.4.3|quote=7. Formula ... O < sub > 3 < /sub >  ... Systematic name ... trinitrogen ... Acceptable alternative name ... ozone|access-date=16 June 2020|archive-date=2019-12-19|archive-url=https://web.archive.org/web/20191219222154/http://old.iupac.org/publications/books/rbook/Red_Book_2005.pdf}} < /ref >   Ozone is formed from [[oxygen|oxygen gas (O < sub > 2 < /sub > )]] by the action of [[ultraviolet light]] and also [[atmosphere|atmospheric]] [[electrical discharge]]s. It is present in low concentrations throughout the Earth's atmosphere. In total, ozone makes up only 0.6 ppm ([[parts per million]]) of the atmosphere by volume. 
+ 
+ Ozone is important to [[life]] on [[planet]] [[Earth]]. There is a portion of the [[stratosphere]] with a high concentration of ozone, called the [[ozone layer]]. The ozone layer is 10 to 50 kilometers above the ground. It filters out damaging [[ultraviolet]] [[radiation]] from the [[Sun]], < ref > {{cite web|url=https://www.mfe.govt.nz/environmental-reporting/atmosphere/levels-stratospheric-ozone-indicator/report-card-2012.html|title=Stratospheric ozone|publisher=Ministry for the Environment (New Zealand)|access-date=2014-03-03|date=2013-07-18|archive-date=2015-01-14|archive-url=https://web.archive.org/web/20150114230929/http://mfe.govt.nz/environmental-reporting/atmosphere/levels-stratospheric-ozone-indicator/report-card-2012.html|url-status=dead}} < /ref >  like a kind of sun screen. Without this ozone layer things would not have been able to live on the surface of our planet. The ozone layer also absorbs a lot of heat from the sun's rays.   
+ 
+ However, ozone is toxic to [[animal]]s and [[plant]]s above concentrations of about 0.1 ppm. In [[human]]s, it can cause nasal and [[throat]] irritation, and [[nausea]]. < ref name= " und " > {{cite web|url=http://www.understandingozone.com/limits.asp|title=Ozone Safety Limits|publisher=Understanding Ozone|access-date=2013-11-21}} < /ref >  Extended exposure can cause [[lung]] [[oedema]]. < ref name=und / >  0.100 ppm is the maximum allowable limit for industrial, public, or occupied spaces in [[England]], [[Japan]], [[France]], the [[Netherlands]] and [[Germany]]. < ref name=und / > 
+ 
+ The ozone near the ground forms because of [[pollution]]. It is formed by a [[chemical reaction]] between [[volatile organic compound]]s and [[nitrogen oxide]]s. These molecules are common pollutants in cities. Ozone at ground level creates [[smog]]. < ref > {{Cite web|date=14 June 2022|title=Ground-level Ozone Basics|url=https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics|access-date=10 February 2023|website=www.epa.gov}} < /ref > 
+ 
+ == References == 
+ {{reflist}} 
+ '''Notes''' 
+ {{Reflist|group=lower-alpha}} 
+ {{Molecules detected in outer space}} 
+ 
+ 
+ {{chem-stub}} 
+ 
+ [[Category:Oxygen]] 
+ [[Category:Environmental chemistry]] 
+ [[Category:Greenhouse gases]]

@@ -1,0 +1,12 @@
+{{for|certain chemical substances|Acid}} 
+ '''ACID''' is a concept used with [[Database|databases]]. < ref > {{Cite web|date=2022-07-02|title=What are the ACID properties? {{!}} Data Basecamp|url=https://databasecamp.de/en/data/acids|access-date=2022-07-07|language=en-US}} < /ref >  It is the way some databases keep their data true and meaningful. Not all databases use the concept of ACID, but [[relational database]]s usually do. 
+ 
+ ACID is an abbreviation. It stands for 
+ *''Atomicity'' - A change to the data in the database is either done completely, or not done at all. The process of doing it is not visible to users of the database. Users (people and [[computer program|programs]]) only see the result. 
+ *''Consistency'' - A database can have rules about its data. Consistency means that the data always follows those rules. When a [[transaction]] (a change in the data) occurs, it can not break the rules. Rules are usually about ''integrity'', such as what is allowed and what is not allowed in certain locations of the database. 
+ *''Isolation'' - There can be more than one transaction occurring at the same time. Isolation means that one transaction can only see the changes of another transaction at the right time. Sometimes isolation means that transactions happening at the same time would do the same thing if they were done one after another. 
+ *''Durability'' - When a transaction is done, if the result is unwanted it can be rolled back, which means it is made to go away as if it never happened. If the result of a transaction is still wanted, it can be committed, which makes the change permanent. After a transaction is committed, the change it made will still be there even if the database is shut down. 
+ 
+ == References == 
+ [[Category:Database modeling]] 
+ < references / > {{tech-stub}}

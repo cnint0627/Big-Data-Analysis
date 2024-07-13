@@ -1,0 +1,68 @@
+{{for|the mathematician|Blaise Pascal}} 
+ {{for|the unit of pressure|Pascal (unit)}} 
+ 
+ '''Pascal''' is a [[programming language]]. 
+ It was created in [[1970]] by [[Niklaus Wirth]], to help people learn how to make computer programs. 
+ 
+ == Development == 
+ Now, there are many different dialects of the language, some of which support [[object-oriented programming]]. 
+ In 1990 the “Pascal” and “Extended Pascal” standards were registered with the [[International Organization for Standardization]]. 
+ 
+ == Description == 
+ Every [[Variable#Variables in computer science|variable]] has to be declared before it is used. 
+ Pascal is a strongly typed programming language: 
+ Every variable has a [[data type]]. 
+ You are only allowed to assign values to the variable that are valid for the data type. 
+ This ensures that the programmer does not make unintentional mistakes. 
+ 
+ Pascal is a [[imperative programming|imperative language]]. 
+ The language distinguishes between procedures and [[function]]s. 
+ A  < syntaxhighlight lang= " pascal "  inline > function < /syntaxhighlight >  returns a value, a  < syntaxhighlight lang= " pascal "  inline > procedure < /syntaxhighlight >  does not. 
+ As such, a  < syntaxhighlight lang= " pascal "  inline > function < /syntaxhighlight >  call appears in an expression, whereas a  < syntaxhighlight lang= " pascal "  inline > procedure < /syntaxhighlight >  invocation is a statement. 
+ 
+ == Code samples == 
+ This code prints [[Hello world program| < syntaxhighlight lang= " text "  inline > Hello world! < /syntaxhighlight > ]] at console window: 
+ < syntaxhighlight lang= " pascal "  line= " 1 " > 
+ program helloWorld(output); 
+ begin 
+ 	writeLn('Hello world!'); 
+ 	{ which is short for: writeLn(output, 'Hello world!); } 
+ end. 
+ < /syntaxhighlight > 
+ 
+ This code calculate [[factorial]] of a positive integer, using [[recursion]]. 
+ < syntaxhighlight lang= " pascal "  line= " 1 " > 
+ program factorialDemo(input, output); 
+ 
+ function factorial(n: integer): integer; 
+ begin 
+ 	if n  <  2 then 
+ 	begin 
+ 		{ the result of a function is stored in a variable } 
+ 		{ that has the same name as the function: } 
+ 		factorial := 1; 
+ 	end 
+ 	else 
+ 	begin 
+ 		factorial := n * factorial(n - 1); 
+ 	end 
+ end; 
+ 
+ var 
+ 	n: integer; 
+ begin 
+ 	write('Enter number: '); 
+ 	readLn(n); 
+ 	writeLn(factorial(n)); 
+ end. 
+ < /syntaxhighlight > 
+ 
+ == Pascal variants == 
+ * [https://www.gnu-pascal.de/ GNU Pascal] 
+ * [https://www.freepascal.org Free Pascal] 
+ * [[Delphi programming language|Delphi]] – Modern [[IDE]] for creating GUI programs for [[Microsoft Windows]]. There is an [[open source]] clone of it for [[Microsoft Windows|Windows]], [[Mac OS X]] and [[FreeBSD]], named [[Lazarus(IDE)|Lazarus]]. 
+ * [[Turbo Pascal]] 
+ 
+ {{Tech-stub}} 
+ {{authority control}} 
+ [[Category:Programming languages]]

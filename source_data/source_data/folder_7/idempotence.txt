@@ -1,0 +1,24 @@
+'''Idempotence''' is a property that an [[operation]] in [[mathematics]] or [[computer science]] may have. It roughly means that the operation can be carried out again and again without changing the result. 
+ 
+ The word idempotence was made by [[Benjamin Peirce]] because he saw the concept when studying algebra. 
+ 
+ The meaning is different if we are talking about different kinds of operations. It can also be used to describe [[elements]] than an operation can take: 
+ 
+ * For a [[unary operation]] (or [[Function (mathematics)|function]]), that we label ''f'', we say that ''f'' is idempotent if for any ''x'' in the [[domain]] of ''f'' it is true that: ''f(f(x)) = f(x)''. For example, the [[absolute value]]: ''abs(abs(x)) = abs(x)''. 
+ 
+ We say that an element ''c'' in the domain of ''f'' is an idempotent element if ''f(f(c)) = f(c)''. This means that ''f'' is idempotent if every element of its domain is an idempotent element. 
+ 
+ * For a [[binary operation]], that we label ''*'', we say that ''*'' is idempotent if for any ''x'' which the binary operation can take the following is true: ''x * x = x''. 
+ 
+ We say that an element ''c'' which ''*'' can take is an idempotent element for ''*'' if ''c * c = c''. For example, the number ''1'' is an idempotent element for [[multiplication]] because ''1'' times ''1'' is ''1''. 
+ 
+ == Examples in the real world == 
+ 
+ If a call button inside an [[elevator]] is pressed then the elevator will go to the floor that is on the button. If it is pressed again then it will do the same thing. This means that the operation of pressing a button to make the elevator change floors is an idempotent operation. 
+ 
+ If we mix two pots which have the same liquid in them into a new pot then we will have the same liquid in that pot. If we only care about ''what'' kind of liquid is in the pot (not how much) then mixing liquids is an idempotent binary operation. 
+ 
+ The face of a clock looks the same if 12 hours have passed. So for the operation of  " letting time pass on a clock "  we see that letting 12 hours pass is an idempotent element (this is also true for all [[multiples]] of 12 like 24, 36, 48, ...). 
+ 
+ [[Category:Mathematics]] 
+ [[Category:Computer science]]

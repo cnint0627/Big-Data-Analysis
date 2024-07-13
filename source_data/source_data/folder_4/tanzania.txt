@@ -1,0 +1,127 @@
+{{Infobox country 
+ | conventional_long_name   = United Republic of Tanzania 
+ | native_name              = {{native name|sw|Jamhuri ya Muungano wa Tanzania}} 
+ | image_flag               = Flag of Tanzania.svg 
+ | image_coat               = Coat of arms of Tanzania.svg 
+ | national_motto           = {{native phrase|sw| " Uhuru na Umoja " |italics=off|nolink=on}} < br/ > " [[Freedom and Unity]] " 
+ | national_anthem          = ''[[Mungu ibariki Afrika]]'' < br/ > {{small|'God Bless Africa'}} < br/ > < center > [[File:National Anthem of Tanzania by US Navy Band.ogg]] < /center > 
+ | image_map                = Location Tanzania AU Africa.svg 
+ | map_caption              = {{map caption|countryprefix=|location_color=dark blue|region=the [[African Union]]|region_color=light blue}} 
+ | image_map2               = Tanzania - Location Map (2013) - TZA - UNOCHA.svg 
+ | capital                  = [[Dodoma]] ([[de jure]]) 
+ [[Dar es Salaam]] ([[de facto]]) 
+ | largest_city             = [[Dar es Salaam]] 
+ | official_languages = {{hlist|[[Swahili language|Swahili]]|[[English language|English]]}} 
+ |regional_languages =[[Arabic language|Arabic]] {{small|(Zanzibar)}} 
+ | languages_type           = [[National language]] 
+ | languages = [[Swahili language|Swahili]] 
+ | languages2_type = Other languages 
+ | languages2 = {{hlist|Sukuma|Nyamwezi|Chaga|Ha|Bena|Gogo|Haya|Dholuo|Makonde|Nyaturu|Maasai|Jita|Pare}} 
+ | demonym                  = Tanzanian 
+ | government_type          = [[Unitary state|Unitary]] [[Presidential system|presidential]] [[republic]] < ref name= " Lawrence2009 " > {{cite book | author=David Lawrence | title=Tanzania: The Land, Its People and Contemporary Life|url=https://books.google.com/books?id=qVDYbCfaPuQC & pg=PA146 | date=2009|publisher=Intercontinental Books|isbn=978-9987-9308-3-8 | page=146}} < /ref > < ref > {{cite web | url=https://tanzania-un.org/index.asp?pgid=56 | title=About the United Republic of Tanzania | publisher=[[Permanent Representative of Tanzania to the United Nations]] | accessdate=31 January 2015 | url-status=dead | archiveurl=https://web.archive.org/web/20110219043350/http://tanzania-un.org/index.asp?pgid=56 | archivedate=19 February 2011}} < /ref > 
+ | leader_title1            = [[President of Tanzania|President]] 
+ | leader_name1             = [[Samia Hassan Suluhu]] 
+ | leader_title2            = [[Vice-President of Tanzania|Vice President]] 
+ | leader_name2             = [[Philip Mpango]] 
+ | leader_title3            = [[Prime Minister of Tanzania|Prime Minister]] 
+ | leader_name3             = [[Kassim Majaliwa]] 
+ | leader_title4            = [[Speaker of the National Assembly of Tanzania|Speaker]] 
+ | leader_name4             = [[Job Ndugai]] 
+ | leader_title5            = [[Chief Justice of Tanzania|Chief Justice]] 
+ | leader_name5             = [[Ibrahim Hamis Juma]] 
+ | legislature              = [[National Assembly (Tanzania)|National Assembly]] 
+ | sovereignty_type         = Independence {{nobold|from the [[United Kingdom]]}} 
+ | established_event1       = [[Tanganyika]] 
+ | established_date1        = 9 December 1961 
+ | established_event2       = {{nowrap|[[People's Republic of Zanzibar and Pemba|Zanzibar and Pemba]]}} 
+ | established_date2        = 10 December 1963 
+ | established_event3       = Merger 
+ | established_date3        = 26 April 1964 
+ | established_event4       = Current constitution 
+ | established_date4        = 25 April 1977 
+ | area_km2                 = 947,303 
+ | area_rank                = 31st 
+ | area_sq_mi               = 365,756 
+ | percent_water            = 6.4 
+ | population_estimate      = {{UN_Population|United Republic of Tanzania}}{{UN_Population|ref}} 
+ | population_census        = 44,928,923 
+ | population_estimate_year = {{UN_Population|Year}} 
+ | population_estimate_rank = 28th 
+ | population_census_year   = 2012 
+ | population_density_km2   = 47.5 
+ | population_density_sq_mi = 123.1  < !--Do not remove per [[WP:MOSNUM]]-- > 
+ | population_density_rank  = 
+ | GDP_PPP                  = $163.522 billion < ref name= " IMF " > [http://www.imf.org/external/pubs/ft/weo/2017/01/weodata/weorept.aspx?pr.x=56 & pr.y=3 & sy=2017 & ey=2021 & scsm=1 & ssd=1 & sort=country & ds=. & br=1 & c=738 & s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC & grp=0 & a= Tanzania]. IMF.org < /ref > 
+ | GDP_PPP_year             = 2017 
+ | GDP_PPP_rank             = 
+ | GDP_PPP_per_capita       = $3,296 < ref name= " IMF " / > 
+ | GDP_PPP_per_capita_rank  = 
+ | GDP_nominal              = $51.194 billion < ref name= " IMF " / > 
+ | GDP_nominal_year         = 2017 
+ | GDP_nominal_per_capita   = $1,032 < ref name= " IMF " / > 
+ | Gini                     = 37.8 
+ | Gini_year                = 2012 
+ | Gini_change              =  < !--increase/decrease/steady-- > 
+ | Gini_ref                 =  < ref > {{cite web | url=http://data.worldbank.org/indicator/SI.POV.GINI | title=GINI Index | publisher=The World Bank | accessdate=14 October 2014}} < /ref > 
+ | Gini_rank                = 
+ | HDI                      = 0.531 < !--number only, between 0 and 1-- > 
+ | HDI_year                 = 2015 < !-- Please use the year to which the data refers, not the publication year-- > 
+ | HDI_change               = increase  < !--increase/decrease/steady-- > 
+ |HDI_ref                   =  < ref name= " HDI " > {{cite web|url=http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf|title=2016 Human Development Report|year=2016|accessdate=21 March 2017|publisher=United Nations Development Programme}} < /ref > 
+ | HDI_rank                 = 151st 
+ | currency                 = [[Tanzanian shilling]] 
+ | currency_code            = TZS 
+ | time_zone                = [[East Africa Time|EAT]] 
+ | utc_offset               = +3 
+ | utc_offset_DST           = 
+ | time_zone_DST            = 
+ | drives_on                = [[Right- and left-hand traffic|left]] 
+ | iso3166code              = TZ 
+ | calling_code             = [[+255]] < ref name=c group=note > +007 from [[Kenya]] and [[Uganda]]. < /ref > 
+ | cctld                    = [[.tz]] 
+ | footnote_a               = Revised to $41.33 billion < ref > {{cite web |url=https://af.reuters.com/article/tanzaniaNews/idAFL6N0U312N20141219?sp=true |title=UPDATE 2-Tanzania's GDP expands by 32 pct after rebasing – officials |date=19 December 2014 |work=Reuters |accessdate=19 December 2014 |archive-date=8 February 2018 |archive-url=https://web.archive.org/web/20180208123403/https://af.reuters.com/article/tanzaniaNews/idAFL6N0U312N20141219?sp=true |url-status=dead }} < /ref > 
+ | religion                 = (2010 estimate) < ref > [https://www.cia.gov/library/publications/the-world-factbook/geos/tz.html   CIA World Factbook] {{Webarchive|url=https://web.archive.org/web/20190511141909/https://www.cia.gov/library/publications/the-world-factbook/geos/tz.html |date=2019-05-11 }} 2010. Retrieved 23 May 2017. < /ref > < br > [[Christianity in Tanzania|Christianity]] 61.4% < br > [[Islam in Tanzania|Islam]] 35.2% < br > Folk Religion 1.8%  < br > [[Irreligion in Africa|Irreligious]] 1.4% < br > Other 0.2% 
+ }} 
+ [[File:locationTanzania.png|right|]] 
+ '''Tanzania''' is a country in [[East Africa]]. The official languages are [[Kiswahili]] and [[English language|English]]. It is next to Africa's biggest lake, [[Lake Victoria]]. 
+ 
+ In 2017, there were about 54,000,000 people living in Tanzania. < ref > {{Cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/tz.html|title=The World Factbook — Central Intelligence Agency|website=www.cia.gov|language=en|access-date=2018-02-06|archive-date=2019-05-11|archive-url=https://web.archive.org/web/20190511141909/https://www.cia.gov/library/publications/the-world-factbook/geos/tz.html|url-status=dead}} < /ref >  They are divided into 120 [[tribe]]s; none have more than 10% of the population. Tanzania is a multicultural society. There are many languages and religions in Tanzania; the main religions being [[Christianity]] and [[Islam]]. 
+ 
+ The president of the United Republic of Tanzania is Samia Suluhu Hassan. Tanzania is a member of the [[United Nations]], UNIDO, the [[World Bank]], the [[International Monetary Fund]], the [[Commonwealth of Nations]], the [[Non-Aligned Movement]], SADC, PTA, and the ADB. It is also signatory to the Lome Convention. 
+ 
+ Mainland Tanzania (formerly [[Tanganyika]]) received [[independence]] in December 1961, while [[Zanzibar]] gained her independence in January 1964, through a [[revolution]]. The two countries joined to form the United Republic of Tanzania in April 1964. Until July 1992, Tanzania was a one-party state. Following a Presidential Commission, the country has started a multi-party political system. It has held successful general elections in 1995 and 2000. 
+ " 
+ 
+ Tanzania is home to the [[Serengeti]]. Many animals such as [[lion]]s and [[cheetah]]s live there. 
+ 
+ == Regions == 
+ [[File:Tanzania,_administrative_divisions_-_et_-_colored.svg|right|thumb|250px|Regions of Tanzania]] 
+ Tanzania is divided into 31 Regions. 26 are on the mainland and five in [[Zanzibar]]. 
+ 
+ Tanzania's regions are: [[Arusha Region|Arusha]]{{·}} [[Dar es Salaam Region|Dar & nbsp;es & nbsp;Salaam]]{{·}} [[Dodoma Region|Dodoma]]{{·}} [[Geita Region|Geita]]{{·}} [[Iringa Region|Iringa]]{{·}} [[Kagera Region|Kagera]]{{·}} [[Katavi Region|Katavi]]{{·}} [[Kigoma Region|Kigoma]]{{·}} [[Kilimanjaro Region|Kilimanjaro]]{{·}} [[Lindi Region|Lindi]]{{·}} [[Manyara Region|Manyara]]{{·}} [[Mara Region|Mara]]{{·}} [[Mbeya Region|Mbeya]]{{·}} [[Morogoro Region|Morogoro]]{{·}} [[Mtwara Region|Mtwara]]{{·}} [[Mwanza Region|Mwanza]]{{·}} [[Njombe Region|Njombe]]{{·}} [[Pemba North|Pemba & nbsp;North]]{{·}} [[Pemba South|Pemba & nbsp;South]]{{·}} [[Pwani Region|Pwani]]{{·}} [[Rukwa Region|Rukwa]]{{·}} [[Ruvuma Region|Ruvuma]]{{·}} [[Shinyanga Region|Shinyanga]]{{·}} [[Simiyu Region|Simiyu]]{{·}} [[Singida Region|Singida]]{{·}} [[Songwe Region|Songwe]]{{·}} [[Tabora Region|Tabora]]{{·}} [[Tanga Region|Tanga]]{{·}} [[Zanzibar Central/South Region|Zanzibar & nbsp;Central/South]]{{·}} [[Zanzibar North Region|Zanzibar & nbsp;North]]{{·}} [[Zanzibar Urban/West Region|Zanzibar & nbsp;Urban/West]] 
+ 
+ ==Related pages== 
+ * [[List of rivers of Tanzania]] 
+ * [[Tanzania at the Olympics]] 
+ * [[Tanzania national football team]] 
+ 
+ ==Notes== 
+ {{Reflist|group=note}} 
+ 
+ ==References== 
+ {{Reflist}} 
+ 
+ ==Other websites== 
+ * [http://annamap.com/tanzania/ New map of Tanzania] 
+ 
+ {{commonscat}} 
+ {{Africa}} 
+ 
+ {{Commonwealth nations}} 
+ {{Authority control}} 
+ 
+ [[Category:1964 establishments in Africa]] 
+ [[Category:Least developed countries]] 
+ [[Category:States and territories established in the 1960s]] 
+ [[Category:Tanzania| ]] 
+ [[Category:Commonwealth member states]]
